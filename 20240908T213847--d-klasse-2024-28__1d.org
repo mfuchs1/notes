@@ -28,7 +28,7 @@ http://www.veritas.at/code (rfu100)
 :END:
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
-** Alle Themen (Überblick) [4/13]
+** Alle Themen (Überblick) [6/13]
 :PROPERTIES:
 :CUSTOM_ID: h:800f3487-a29a-47cc-9715-de1c79aad815
 :END:
@@ -36,11 +36,11 @@ http://www.veritas.at/code (rfu100)
 - [X] Der Sonnengesang
 - [X] Heilige
 - [X] Heilige Orte
-- [ ] Die Adventszeit
+- [X] Die Adventszeit
 - [ ] Beten
 - [ ] Menschen zur Zeit Jesu
 - [ ] Neues Testament
-- [ ] Hl. Blasius / Hl. Rupert
+- [X] Hl. Blasius / Hl. Rupert
 - [ ] Die Schriften von Qumran
 - [ ] Liturgische Farben im Kirchenjahr
 - [ ] Kalenderzeiten und Lebenskreise

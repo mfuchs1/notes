@@ -17,14 +17,17 @@
 :CATEGORY: pause
 :END:
 
-** PA (1. OG) 11:20-11:30                                               :PA:
-<%%(org-class 2024 9 9 2025 6 30 1 01)>
+** PA (2. OG Altbau) 07:30-07:45                                        :PA:
+<%%(org-class 2024 9 9 2025 6 30 1)>
 
-** PA (1. OG)  07:30-07:45                                              :PA:
-<%%(org-class 2024 9 10 2025 7 1 2 01)>
+** PA (1. OG Cont.) 11:20-11:30                                         :PA:
+<%%(org-class 2024 9 9 2025 6 30 1)>
 
-** PA (1. OG) 09:25-09:40                                               :PA:
-<%%(org-class 2024 9 13 2025 7 4 5 01)>
+** PA (EG Cont.)  07:30-07:45                                           :PA:
+<%%(org-class 2024 9 10 2025 7 1 2)>
+
+** PA (Werktrakt) 09:25-09:40                                           :PA:
+<%%(org-class 2024 9 13 2025 7 4 5)>
 
 * Stundenplan                                                  
 :PROPERTIES:
@@ -34,60 +37,60 @@
 ** Montag
 
 *** 1d (RLS) 07:45-08:35                                               :1d:
-<%%(org-class 2024 9 9 2025 6 30 1 01)>
+<%%(org-class 2024 9 9 2025 6 30 1 02)>
 [[denote:20240908T213847][D Klasse 2024-28]]
 
 *** 1a (RLS) 08:35-09:25                                               :1a:
-<%%(org-class 2024 9 9 2025 6 30 1 01)>
+<%%(org-class 2024 9 9 2025 6 30 1 02)>
 [[denote:20240908T214000][A Klasse 2024-28]]
 
 *** 2a (RLS) 10:30-11:20                                               :2a:
 :PROPERTIES:
 :CUSTOM_ID: h:8608e26f-9bf9-4794-967d-c77e01ba5036
 :END:
-<%%(org-class 2024 9 9 2025 6 30 1 01)>
+<%%(org-class 2024 9 9 2025 6 30 1 03)>
 [[denote:20240908T214029][A Klasse 2023-27]]
 
 *** 4b 11:30-12:20                                                     :4b:
-<%%(org-class 2024 9 9 2025 6 30 1 01)>
+<%%(org-class 2024 9 9 2025 6 30 1 02)>
 [[denote:20240908T214223][B Klasse 2021-25]]
 
 *** 3a 12:20-13:10                                                     :3a:
 :PROPERTIES:
 :CUSTOM_ID: h:b622013e-36c8-4e84-901b-35f5d8e6dbb1
 :END:
-<%%(org-class 2024 9 9 2025 6 30 1 01)>
+<%%(org-class 2024 9 9 2025 6 30 1 02)>
 [[denote:20240908T214254][A Klasse 2022-26]]
 
 ** Dienstag
 
 *** 4b 07:45-08:35                                                     :4b:
-<%%(org-class 2024 9 10 2025 7 1 2 01)>
+<%%(org-class 2024 9 10 2025 7 1 2 02)>
 [[denote:20240908T214223][B Klasse 2021-25]]
 
 *** 3b 09:40-10:30                                                     :3b:
-<%%(org-class 2024 9 10 2025 7 1 2 01)>
+<%%(org-class 2024 9 10 2025 7 1 2 02)>
 [[denote:20240908T214359][B Klasse 2022-26]]
 
 Unterricht heute (10.09.) um 10:15 beenden.
 
 *** 1b (RLS) 10:30-11:20                                               :1b:
-<%%(org-class 2024 9 10 2025 7 1 2 01)>
+<%%(org-class 2024 9 10 2025 7 1 2 02)>
 [[denote:20240908T214427][B Klasse 2024-28]]
 
-*** 4c (Erste Hilfe Kurs) 11:30-12:20                                  :4c:
-<%%(org-class 2024 9 10 2025 7 1 2 01)>
+*** 4c 11:30-12:20                                                     :4c:
+<%%(org-class 2024 9 10 2025 7 1 2 02)>
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1c 12:20-13:10                                                     :1c:
-<%%(org-class 2024 9 10 2025 7 1 2 01)>
+<%%(org-class 2024 9 10 2025 7 1 2 02)>
 [[denote:20240908T214521][C Klasse 2024-28]]
 
 *** 1c Gitarre 13:10-14:00                                        :gitarre:
 :PROPERTIES:
 :CUSTOM_ID: h:0828bca0-3f7a-4415-8396-d2670488db35
 :END:
-<%%(org-class 2024 9 10 2025 7 1 2 01)>
+<%%(org-class 2024 9 10 2025 7 1 2 02)>
 [[denote:20240908T214521::#h:169d71d5-10a5-4f37-af06-dcf58b198a1c][C Klasse 2024-28::Instrumentalunterricht / Gitarre]]
 
 
@@ -95,7 +98,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :PROPERTIES:
 :CUSTOM_ID: h:b87c6e14-801c-4864-a238-0868eda34154
 :END:
-<%%(org-class 2024 9 10 2025 7 1 2 01)>
+<%%(org-class 2024 9 10 2025 7 1 2 02)>
 [[denote:20240908T214521::#h:169d71d5-10a5-4f37-af06-dcf58b198a1c][C Klasse 2024-28::Instrumentalunterricht / Gitarre]]
 
 ** Mittwoch
@@ -104,29 +107,32 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :END:
 
 *** 1b 11:30-12:20                                                     :1b:
-<%%(org-class 2024 9 11 2025 7 2 3 01)>
+<%%(org-class 2024 9 11 2025 7 2 3 02)>
 [[denote:20240908T214427][B Klasse 2024-28]]
 
 ** Donnerstag
 
 *** 3a 07:45-08:35                                                     :3a:
-<%%(org-class 2024 9 12 2025 7 3 4 01)>
+<%%(org-class 2024 9 12 2025 7 3 4 02)>
 [[denote:20240908T214254][A Klasse 2022-26]]
 
 *** 1c (RLS) 08:35-09:25                                               :1c:
-<%%(org-class 2024 9 12 2025 7 3 4 01)>
+<%%(org-class 2024 9 12 2025 7 3 4 02)>
 [[denote:20240908T214521][C Klasse 2024-28]]
 
 *** 3c 10:30-11:20                                                     :3c:
-<%%(org-class 2024 9 12 2025 7 3 4 01)>
+<%%(org-class 2024 9 12 2025 7 3 4 02)>
 [[denote:20240908T214718][C Klasse 2022-26]]
 
 *** 1d 11:30-12:20                                                     :1d:
-<%%(org-class 2024 9 12 2025 7 3 4 01)>
+<%%(org-class 2024 9 12 2025 7 3 4 02)>
 [[denote:20240908T213847][D Klasse 2024-28]]
 
 *** 2a 12:20-13:10                                                     :2a:
-<%%(org-class 2024 9 12 2025 7 3 4 01)>
+:PROPERTIES:
+:CUSTOM_ID: h:7a03aa5f-7989-4d5e-a629-1b9a64a25c14
+:END:
+<%%(org-class 2024 9 12 2025 7 3 4 03)>
 [[denote:20240908T214029][A Klasse 2023-27]]
 
 
@@ -139,7 +145,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 <%%(org-class 2024 9 13 2025 7 4 5 01)>
 [[denote:20240908T214718][C Klasse 2022-26]]
 
-*** 3b (KV ?) 09:40-10:30                                              :3b:
+*** 3b 09:40-10:30                                                     :3b:
 <%%(org-class 2024 9 13 2025 7 4 5 01)>
 [[denote:20240908T214359][B Klasse 2022-26]]
 
@@ -448,4 +454,10 @@ CLOSED: [2024-12-03 Di 09:31]
 :END:
 Auf PH Online suchen nach "Störungen im Unterricht"; und dann war noch eine zweite FB .... Hoffentlich finde ich beide Zettel daheim noch.
 
+** ~mu4e~ für Dienst-Email einrichten
+:PROPERTIES:
+:CAPTURED: [2025-01-08 Mi 08:07]
+:END:
+Maildir in =~/Maildir/schule=
+[[denote:20250107T082318::#h:abefd19a-8cdd-4aa3-ab69-1bd4fdcc7fef][Schule einrichten::BU Kammerl]]
 
