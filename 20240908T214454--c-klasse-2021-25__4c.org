@@ -18,6 +18,7 @@ http://www.veritas.at/code (rfu400) für Material und Übungen
 
 * Notizen, Tasks, Termine
 Eine kleine Änderung, um ~magit-pull~ zu testen.
+Noch eine Änderung.
 
 
 * Stundenplanung
