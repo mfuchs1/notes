@@ -11,6 +11,7 @@
 #+STARTUP: showall
 #+export_file_name: ~/RoamNotes/exports/4c.html
 
+
 * Jahresplanung
 [[denote:20240719T131544][Jahresplanung 04]]
 
@@ -24,7 +25,7 @@ Noch eine Änderung.
 * Stundenplanung
 
 ** Einführung / Ziele
-Persönliche Vorstellung;
+Persönliche Vorstellung; Ceram1991
 
 Bücher aus "Warteklasse" holen
 

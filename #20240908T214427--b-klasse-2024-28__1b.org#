@@ -1,10 +1,7 @@
-:PROPERTIES:
-:CUSTOM_ID: h:cfb014f7-26f1-4944-9f4e-b0bbb9280ed8
-:END:
-#+title:      D Klasse 2024-28
-#+date:       [2024-09-08 So 21:38]
-#+filetags:   :1d:
-#+identifier: 20240908T213847
+#+title:      B Klasse 2024-28
+#+date:       [2024-09-08 So 21:44]
+#+filetags:   :1b:
+#+identifier: 20240908T214427
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
 #+SETUPFILE: ~/RoamNotes/config/latex_setup.org
@@ -12,32 +9,23 @@
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/1d.html
+#+export_file_name: ~/RoamNotes/exports/1b.html
 
 * Jahresplanung
 [[denote:20240719T125948][Jahresplanung 01]]
 
-http://www.veritas.at/code (rfu100)
-
-
 * Notizen, Tasks, Termine
 
 * Lernschiene
-:PROPERTIES:
-:CUSTOM_ID: h:24e88c57-fb45-4d30-bab8-f3c9f3e3cb1a
-:END:
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
-** Alle Themen (Überblick) [6/13]
-:PROPERTIES:
-:CUSTOM_ID: h:800f3487-a29a-47cc-9715-de1c79aad815
-:END:
+** Alle Themen [7/13]
 - [X] Der Sturm auf dem See
 - [X] Der Sonnengesang
 - [X] Heilige
 - [X] Heilige Orte
 - [X] Die Adventszeit
-- [ ] Beten
+- [X] Beten
 - [ ] Menschen zur Zeit Jesu
 - [ ] Neues Testament
 - [X] Hl. Blasius / Hl. Rupert
@@ -46,20 +34,27 @@ http://www.veritas.at/code (rfu100)
 - [ ] Kalenderzeiten und Lebenskreise
 - [ ] Das Osterfest
 
+
 * Stundenplanung
 
 ** Einführung / Ziele
-Persönliche Vorstellung; Bücher austeilen!
-
 Gemeinsames Lied.
 
 ** Wiederholung
-
+:PROPERTIES:
+:CUSTOM_ID: h:8c0edd54-2dfd-466d-a47b-af63dd6f954e
+:END:
+Wie war RU?
 
 ** Lernschiene
+- Heilige (Diözesanpatrone)
 
+AB etc kopieren (ohne Tablet arbeiten)
 
 ** Themen
+:PROPERTIES:
+:CUSTOM_ID: h:3b3c9a4a-a80b-4224-8891-c4b2a6362f67
+:END:
 Gebet:
 - fest formulierte Gebete
 - freie Gebete
@@ -71,30 +66,54 @@ knien, stehen, mit den Füßen, sitzen, Hand auf die Brust, Hände nach oben, mi
 
 Fotos - Gebete dazu verfassen
 
-Eigenes Gebet schreiben...
+Was bete ich? Wie bete ich
+- nicht heucheln
+- nicht plappern
+- sich dabei nicht sehen lassen
+
+Gebet ist eine Herzensangelegenheit; wo ist dein Herz? Ist es bei Gott? 
 
 ** Hefteintrag
+Arbeitsweg
+
+http://www.veritas.at/code (rfu300)
+
+* Reflexionen
+:PROPERTIES:
+:CUSTOM_ID: h:b3d5b086-fae7-487b-9740-a513c74b1dbf
+:END:
+** WC Gang
+:PROPERTIES:
+:CAPTURED: [2024-10-23 Mi 12:09]
+:DESCRIPTION: [[denote:20240908T214427::#h:b3d5b086-fae7-487b-9740-a513c74b1dbf][B Klasse 2024-28::Reflexionen]]
+:END:
+Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 
 
 * Schülerliste
+:PROPERTIES:
+:CUSTOM_ID: h:6180620d-2204-40a1-96fd-859d658272d3
+:END:
 #+Name: 2021-students
-|-----------+--------------+----------------------+------+-----------+------+-----|
-| First     | Last         | Name                 | Note | Mitarbeit | Heft | LZK |
-|-----------+--------------+----------------------+------+-----------+------+-----|
-| Christian | Auer         | [[Christian Auer][Christian Auer]]       |      |           |      |     |
-| Julian    | Bayer        | [[Julian Bayer][Julian Bayer]]         |      |           |      |     |
-| Alexa     | Dobunda      | [[Alexa Dobunda][Alexa Dobunda]]        |      |           |      |     |
-| Philipp   | Epp          | [[Philipp Epp][Philipp Epp]]          |      |           |      |     |
-| Marlene   | Fuschlberger | [[Marlene Fuschlberger][Marlene Fuschlberger]] |      |           |      |     |
-| Lea       | Hirscher     | [[Lea Hirscher][Lea Hirscher]]         |      |           |      |     |
-| Johann    | Hornegger    | [[Johann Hornegger][Johann Hornegger]]     |      |           |      |     |
-| Kilian    | Klamm        | [[Kilian Klamm][Kilian Klamm]]         |      |           |      |     |
-| Felix     | Prühs        | [[Felix Prühs][Felix Prühs]]          |      |           |      |     |
-| Maxim     | Rettenbacher | [[Maxim Rettenbacher][Maxim Rettenbacher]]   |      |           |      |     |
-| Laura     | Schnitzhofer | [[Laura Schnitzhofer][Laura Schnitzhofer]]   |      |           |      |     |
-| Michael   | Schorn       | [[Michael Schorn][Michael Schorn]]       |      |           |      |     |
-| Katja     | Schwaighofer | [[Katja Schwaighofer][Katja Schwaighofer]]   |      |           |      |     |
-|-----------+--------------+----------------------+------+-----------+------+-----|
+|----------+---------------+------------------------+------+-----------+------+-----|
+| First    | Last          | Name                   | Note | Mitarbeit | Heft | LZK |
+|----------+---------------+------------------------+------+-----------+------+-----|
+| Luca     | Auer          | [[Luca Auer][Luca Auer]]              |      |           |      |     |
+| Noah     | Eckschlager   | [[Noah Eckschlager][Noah Eckschlager]]       |      |           |      |     |
+| Leonie   | Eder          | [[Leonie Eder][Leonie Eder]]            |      |           |      |     |
+| Noah     | Frey          | [[Noah Frey][Noah Frey]]              |      |           |      |     |
+| Angelina | Gschwandtner  | [[Angelina Gschwandtner][Angelina Gschwandtner]]  |      |           |      |     |
+| Daniel   | Hitzenbichler | [[Daniel Hitzenbichler][Daniel Hitzenbichler]]   |      |           |      |     |
+| Jonas    | Hornegger     | [[Jonas Hornegger][Jonas Hornegger]]        |      |           |      |     |
+| Miriam   | Kainhofer     | [[Miriam Kainhofer][Miriam Kainhofer]]       |      |           |      |     |
+| Sophia   | Nachbar       | [[Sophia Nachbar][Sophia Nachbar]]         |      |           |      |     |
+| Gabriel  | Promok        | [[Gabriel Promok][Gabriel Promok]]         |      |           |      |     |
+| Amelie   | Reiter        | [[Amelie Reiter][Amelie Reiter]]          |      |           |      |     |
+| Philipp  | Reiter        | [[Philipp Reiter][Philipp Reiter]]         |      |           |      |     |
+| Bastian  | Sandtner      | [[Bastian Sandtner][Bastian Sandtner]]       |      |           |      |     |
+| Luca     | Wallinger     | [[Luca Wallinger][Luca Wallinger]]         |      |           |      |     |
+| Benedict | Wintersteller | [[Benedict Wintersteller][Benedict Wintersteller]] |      |           |      |     |
+|----------+---------------+------------------------+------+-----------+------+-----|
 #+TBLFM: $4=vmean($5..$7);%.0f
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
@@ -106,6 +125,7 @@ Eigenes Gebet schreiben...
     (replace-regexp-in-string "&[lg]t;\\|[][]" "" s))
   (defun tmp-f-strike-through (s backend info) "")
 #+END_SRC
+
 
 #+BEGIN_SRC python :var table=2021-students :results output raw
   print('* Mitarbeit')
@@ -131,14 +151,34 @@ Eigenes Gebet schreiben...
 
 #+RESULTS:
 * Mitarbeit
-
-** Christian Auer
 :PROPERTIES:
-:EMAIL: [[mailto: Auer Christian <Auer.Christian@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Christian_Auer.html
-:ID: ChristianAuer
+:CUSTOM_ID: h:de9d129a-e320-46f4-9c7b-7cc0b820c3f5
+:END:
+
+** Luca Auer
+:PROPERTIES:
+:EMAIL: [[mailto: Auer Luca <Auer.Luca@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Luca_Auer.html
+:ID: LucaAuer
+:CUSTOM_ID: h:569f7b43-b72e-4ba8-b782-6eeaa3dc162b
 :END: 
-#+Name: Note_ChristianAuer
+#+Name: Note_LucaAuer
+|-----------------------+-------------+-------------------+---------+-----------+------------|
+| Datum                 | Lernjob Nr. | Topic             | LJ Note | Mitarbeit | Gesamtnote |
+|-----------------------+-------------+-------------------+---------+-----------+------------|
+| [2024-11-08 Fr 11:04] |           1 | Sturm auf dem See |       2 |         2 |          2 |
+| [2024-11-08 Fr 11:19] |           2 | Heilige           |       1 |         1 |          1 |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Noah Eckschlager
+:PROPERTIES:
+:EMAIL: [[mailto: Eckschlager Noah <Eckschlager.Noah@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Noah_Eckschlager.html
+:ID: NoahEckschlager
+:END: 
+#+Name: Note_NoahEckschlager
 |-------+-------------+-------+---------+-----------+------------|
 | Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
 |-------+-------------+-------+---------+-----------+------------|
@@ -147,13 +187,13 @@ Eigenes Gebet schreiben...
 #+TBLFM: $6=vmean($4..$5);%.0f
 
 
-** Julian Bayer
+** Leonie Eder
 :PROPERTIES:
-:EMAIL: [[mailto: Bayer Julian <Bayer.Julian@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Julian_Bayer.html
-:ID: JulianBayer
+:EMAIL: [[mailto: Eder Leonie <Eder.Leonie@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Leonie_Eder.html
+:ID: LeonieEder
 :END: 
-#+Name: Note_JulianBayer
+#+Name: Note_LeonieEder
 |-------+-------------+-------+---------+-----------+------------|
 | Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
 |-------+-------------+-------+---------+-----------+------------|
@@ -162,13 +202,13 @@ Eigenes Gebet schreiben...
 #+TBLFM: $6=vmean($4..$5);%.0f
 
 
-** Alexa Dobunda
+** Noah Frey
 :PROPERTIES:
-:EMAIL: [[mailto: Dobunda Alexa <Dobunda.Alexa@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Alexa_Dobunda.html
-:ID: AlexaDobunda
+:EMAIL: [[mailto: Frey Noah <Frey.Noah@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Noah_Frey.html
+:ID: NoahFrey
 :END: 
-#+Name: Note_AlexaDobunda
+#+Name: Note_NoahFrey
 |-------+-------------+-------+---------+-----------+------------|
 | Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
 |-------+-------------+-------+---------+-----------+------------|
@@ -177,13 +217,13 @@ Eigenes Gebet schreiben...
 #+TBLFM: $6=vmean($4..$5);%.0f
 
 
-** Philipp Epp
+** Angelina Gschwandtner
 :PROPERTIES:
-:EMAIL: [[mailto: Epp Philipp <Epp.Philipp@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Philipp_Epp.html
-:ID: PhilippEpp
+:EMAIL: [[mailto: Gschwandtner Angelina <Gschwandtner.Angelina@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Angelina_Gschwandtner.html
+:ID: AngelinaGschwandtner
 :END: 
-#+Name: Note_PhilippEpp
+#+Name: Note_AngelinaGschwandtner
 |-------+-------------+-------+---------+-----------+------------|
 | Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
 |-------+-------------+-------+---------+-----------+------------|
@@ -192,13 +232,13 @@ Eigenes Gebet schreiben...
 #+TBLFM: $6=vmean($4..$5);%.0f
 
 
-** Marlene Fuschlberger
+** Daniel Hitzenbichler
 :PROPERTIES:
-:EMAIL: [[mailto: Fuschlberger Marlene <Fuschlberger.Marlene@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Marlene_Fuschlberger.html
-:ID: MarleneFuschlberger
+:EMAIL: [[mailto: Hitzenbichler Daniel <Hitzenbichler.Daniel@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Daniel_Hitzenbichler.html
+:ID: DanielHitzenbichler
 :END: 
-#+Name: Note_MarleneFuschlberger
+#+Name: Note_DanielHitzenbichler
 |-------+-------------+-------+---------+-----------+------------|
 | Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
 |-------+-------------+-------+---------+-----------+------------|
@@ -207,13 +247,13 @@ Eigenes Gebet schreiben...
 #+TBLFM: $6=vmean($4..$5);%.0f
 
 
-** Lea Hirscher
+** Jonas Hornegger
 :PROPERTIES:
-:EMAIL: [[mailto: Hirscher Lea <Hirscher.Lea@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lea_Hirscher.html
-:ID: LeaHirscher
+:EMAIL: [[mailto: Hornegger Jonas <Hornegger.Jonas@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jonas_Hornegger.html
+:ID: JonasHornegger
 :END: 
-#+Name: Note_LeaHirscher
+#+Name: Note_JonasHornegger
 |-------+-------------+-------+---------+-----------+------------|
 | Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
 |-------+-------------+-------+---------+-----------+------------|
@@ -222,13 +262,13 @@ Eigenes Gebet schreiben...
 #+TBLFM: $6=vmean($4..$5);%.0f
 
 
-** Johann Hornegger
+** Miriam Kainhofer
 :PROPERTIES:
-:EMAIL: [[mailto: Hornegger Johann <Hornegger.Johann@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Johann_Hornegger.html
-:ID: JohannHornegger
+:EMAIL: [[mailto: Kainhofer Miriam <Kainhofer.Miriam@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Miriam_Kainhofer.html
+:ID: MiriamKainhofer
 :END: 
-#+Name: Note_JohannHornegger
+#+Name: Note_MiriamKainhofer
 |-------+-------------+-------+---------+-----------+------------|
 | Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
 |-------+-------------+-------+---------+-----------+------------|
@@ -237,13 +277,13 @@ Eigenes Gebet schreiben...
 #+TBLFM: $6=vmean($4..$5);%.0f
 
 
-** Kilian Klamm
+** Sophia Nachbar
 :PROPERTIES:
-:EMAIL: [[mailto: Klamm Kilian <Klamm.Kilian@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Kilian_Klamm.html
-:ID: KilianKlamm
+:EMAIL: [[mailto: Nachbar Sophia <Nachbar.Sophia@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sophia_Nachbar.html
+:ID: SophiaNachbar
 :END: 
-#+Name: Note_KilianKlamm
+#+Name: Note_SophiaNachbar
 |-------+-------------+-------+---------+-----------+------------|
 | Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
 |-------+-------------+-------+---------+-----------+------------|
@@ -252,13 +292,13 @@ Eigenes Gebet schreiben...
 #+TBLFM: $6=vmean($4..$5);%.0f
 
 
-** Felix Prühs
+** Gabriel Promok
 :PROPERTIES:
-:EMAIL: [[mailto: Prühs Felix <Prühs.Felix@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Felix_Prühs.html
-:ID: FelixPrühs
+:EMAIL: [[mailto: Promok Gabriel <Promok.Gabriel@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Gabriel_Promok.html
+:ID: GabrielPromok
 :END: 
-#+Name: Note_FelixPrühs
+#+Name: Note_GabrielPromok
 |-------+-------------+-------+---------+-----------+------------|
 | Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
 |-------+-------------+-------+---------+-----------+------------|
@@ -267,13 +307,13 @@ Eigenes Gebet schreiben...
 #+TBLFM: $6=vmean($4..$5);%.0f
 
 
-** Maxim Rettenbacher
+** Amelie Reiter
 :PROPERTIES:
-:EMAIL: [[mailto: Rettenbacher Maxim <Rettenbacher.Maxim@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Maxim_Rettenbacher.html
-:ID: MaximRettenbacher
+:EMAIL: [[mailto: Reiter Amelie <Reiter.Amelie@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Amelie_Reiter.html
+:ID: AmelieReiter
 :END: 
-#+Name: Note_MaximRettenbacher
+#+Name: Note_AmelieReiter
 |-------+-------------+-------+---------+-----------+------------|
 | Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
 |-------+-------------+-------+---------+-----------+------------|
@@ -282,13 +322,13 @@ Eigenes Gebet schreiben...
 #+TBLFM: $6=vmean($4..$5);%.0f
 
 
-** Laura Schnitzhofer
+** Philipp Reiter
 :PROPERTIES:
-:EMAIL: [[mailto: Schnitzhofer Laura <Schnitzhofer.Laura@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Laura_Schnitzhofer.html
-:ID: LauraSchnitzhofer
+:EMAIL: [[mailto: Reiter Philipp <Reiter.Philipp@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Philipp_Reiter.html
+:ID: PhilippReiter
 :END: 
-#+Name: Note_LauraSchnitzhofer
+#+Name: Note_PhilippReiter
 |-------+-------------+-------+---------+-----------+------------|
 | Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
 |-------+-------------+-------+---------+-----------+------------|
@@ -297,13 +337,13 @@ Eigenes Gebet schreiben...
 #+TBLFM: $6=vmean($4..$5);%.0f
 
 
-** Michael Schorn
+** Bastian Sandtner
 :PROPERTIES:
-:EMAIL: [[mailto: Schorn Michael <Schorn.Michael@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Michael_Schorn.html
-:ID: MichaelSchorn
+:EMAIL: [[mailto: Sandtner Bastian <Sandtner.Bastian@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Bastian_Sandtner.html
+:ID: BastianSandtner
 :END: 
-#+Name: Note_MichaelSchorn
+#+Name: Note_BastianSandtner
 |-------+-------------+-------+---------+-----------+------------|
 | Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
 |-------+-------------+-------+---------+-----------+------------|
@@ -312,13 +352,28 @@ Eigenes Gebet schreiben...
 #+TBLFM: $6=vmean($4..$5);%.0f
 
 
-** Katja Schwaighofer
+** Luca Wallinger
 :PROPERTIES:
-:EMAIL: [[mailto: Schwaighofer Katja <Schwaighofer.Katja@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Katja_Schwaighofer.html
-:ID: KatjaSchwaighofer
+:EMAIL: [[mailto: Wallinger Luca <Wallinger.Luca@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Luca_Wallinger.html
+:ID: LucaWallinger
 :END: 
-#+Name: Note_KatjaSchwaighofer
+#+Name: Note_LucaWallinger
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Benedict Wintersteller
+:PROPERTIES:
+:EMAIL: [[mailto: Wintersteller Benedict <Wintersteller.Benedict@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Benedict_Wintersteller.html
+:ID: BenedictWintersteller
+:END: 
+#+Name: Note_BenedictWintersteller
 |-------+-------------+-------+---------+-----------+------------|
 | Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
 |-------+-------------+-------+---------+-----------+------------|

@@ -1,0 +1,32 @@
+#+title:      Brief an Grewal
+#+date:       [2025-01-29 Mi 14:48]
+#+filetags:   :isabelle:
+#+identifier: 20250129T144832
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Brief an Grewal.html
+
+Lieber Grewal,
+
+Danke für Deine klare Antwort. Ich glaube, dass wir uns gut verstehen. Für mich ist es wichtig, dass alles klar definiert wird, bevor wir zusammen arbeiten. Deswegen wollte ich alles schriftlich festhalten.
+
+* Über die Erhöhung meines Lohns
+Stell Dir vor, ich arbeite seit 10 Jahren im Bistro. Ich habe viel Erfahrung in der Küche und der Gastronomie. Diese lange Zeit ist eine echte Ausbildung. Ich glaube, wenn Du ein französisches Bistro führen willst, dann bin ich sehr wichtig (ohne Übertreibung). Es wäre nicht gerecht, wenn ich gleich viel oder gar weniger Lohn erhalten würde als neue Mitarbeiter. Meine Bitte finde ich nicht übertrieben. Würde Michelle bleiben, hätte ich die gleiche Bitte um eine Lohnerhöhung gestellt.
+
+Im Moment erhalte ich 11 Euro (Netto) pro Stunde und ich bitte um eine Erhöhung um 2 Euro pro Stunde, das bedeutet 13 Euro pro Stunde (Netto). Michelle hat mir gesagt, dass Du damit einverstanden bist, aber erst nach drei Monaten. Das wäre für mich möglich. Für die ersten drei Monate arbeite ich wie bisher. Aber danach gibt es die erwünschte Lohnerhöhung. Dazu erbitte ich eine schriftliche Zusage von Dir vor meinem Arbeitsantritt, in einem Vertrag festgehalten.
+
+* Das Trinkgeld
+Hier liegt das größte Problem (nicht nur für mich, sondern für das ganze Team). Trinkgeld ist sehr wichtig für uns alle, weil wir davon leben. Es ist sehr wichtig für mich, dass ich mein Trinkgeld für meine Arbeit jeden Tag erhalte, nicht nur während meiner ersten drei Monate, sondern auch darüber hinaus. Ich brauche für diesen Punkt eine verbindliche, schriftliche Zusage von dir. Michelle hat uns immer das Trinkgeld gegeben, was uns sehr für unsere Arbeit motiviert hat. Ich bitte darum, dies nicht zu ändern. Wenn du uns gut behandelst, werden wir auch unser Bestes geben.
+
+* Geld für das Parken
+Du hast nein dazu gesagt. Kein Problem, dann werde ich mit dem Bus in die Arbeit kommen. Folglich möchte ich auch meine Arbeitszeiten ändern: von Dienstag bis Samstag, 15h00 bis 21h00 (= 30 Stunden). Mit 21h00 gehe ich nach Hause. Bist du damit einverstanden?
+
+Ich möchte dir noch sagen, dass es in der Küche an Lebensmittel fehlt für die nächste Woche. Wir haben keinen Wein mehr. Soll ich dir eine Einkaufsliste schreiben? Ich warte auf meinen Arbeitsvertrag, deshalb kann ich diesen Samstag (1.2.2025) nicht in die Arbeit kommen.
+
+Mit freundlichen Grüßen,
+Isabelle Fuchs

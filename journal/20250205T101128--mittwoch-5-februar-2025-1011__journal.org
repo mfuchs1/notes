@@ -1,0 +1,13 @@
+#+title:      Mittwoch  5 Februar 2025 10:11
+#+date:       [2025-02-05 Mi 10:11]
+#+filetags:   :journal:
+#+identifier: 20250205T101128
+
+* Schulskirennen Abtenau
+Gestern (4.2.2025) war das Schulskirennen; für die 5. Stunde hab ich mich zum Supplieren gemeldet (1d Werken). Ist alles okay verlaufen - die drei Burschen (Michael, Felix und Maxim) waren ziemlich überdreht.
+
+* 4c vergessen - leider!
+Florian hat mich heute darauf angesprochen, dass ich gestern auf die 4c vergessen hatte; ich hätte mit der Klasse (hin oder zurück gehen?). War nicht schlimm, die Kollegen haben sich anders organisiert.
+
+* Journaleintragungen in Zukunft
+In weiterer Folge soll ich *jeden Tag* meine Eintragungen mit ~denote-journal-extras-new-entry~ machen (plus ins Notizbuch).  

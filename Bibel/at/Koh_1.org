@@ -147,84 +147,64 @@ keine Erinnerung geben /\\
 * Die Bedingtheit des Menschen - die Undurchschaubarkeit Gottes: 1,12 - 3,15
    
 * Drei Überblicke: 1,12 - 2,2
-12 Ich, Kohelet, war in Jerusalem König über Israel. ^{[[#fn13][13]]}
+12 Ich, Kohelet, war in Jerusalem König über Israel. [fn:13]
 
 <<v13>>
 13 Ich hatte mir vorgenommen, das Wissen daraufhin zu untersuchen und zu
 erforschen, ob nicht alles, was unter dem Himmel getan wurde, ein
 schlechtes Geschäft war, für das die einzelnen Menschen durch Gottes
-Auftrag sich abgemüht haben. ^{[[#fn14][14]]}
+Auftrag sich abgemüht haben. [fn:14]
 
 <<v14>>
 14 Ich beobachtete alle Taten, die unter der Sonne getan wurden. Das
-Ergebnis: Das ist alles Windhauch und Luftgespinst.
-^{[[#fn15][15]][[#fn16][16]]}\\
+Ergebnis: Das ist alles Windhauch und Luftgespinst. [fn:15] [fn:16]\\
 \\
 
 <<v15>>
 15 Was krumm ist, kann man nicht gerade biegen; /\\
- was nicht da ist, kann man nicht zählen. ^{[[#fn17][17]]}\\
+ was nicht da ist, kann man nicht zählen. [fn:17]\\
 \\
 
 <<v16>>
 16 Ich überlegte mir Folgendes: Ich habe mein Wissen immerzu vergrößert,
 sodass ich jetzt darin jeden übertreffe, der vor mir über Jerusalem
-geherrscht hat. Oft konnte ich Wissen und Können beobachten.
-^{[[#fn18][18]]}
+geherrscht hat. Oft konnte ich Wissen und Können beobachten. [fn:18]
 
 <<v17>>
 17 So habe ich mir vorgenommen zu erkennen, was Wissen wirklich ist, und
 zu erkennen, was Verblendung und Unwissen wirklich sind. Ich erkannte,
-dass auch dies ein Luftgespinst ist. ^{[[#fn19][19]]}\\
+dass auch dies ein Luftgespinst ist. [fn:19]\\
 \\
 
 <<v18>>
 18 Denn: Viel Wissen, viel Ärger, /\\
- wer das Können mehrt, der mehrt die Sorge. ^{[[#fn20][20]]}\\
+ wer das Können mehrt, der mehrt die Sorge. [fn:20]\\
 \\
-
-^{[[#fnm13][13]]} 1,12 - 3,15: In diesem Teil des Buches spielt der
-Verfasser in literarischer Fiktion die Rolle eines Königs.
-
-^{[[#fnm14][14]]} ℘ 3,10; 8,9.16f; 5,13
-
-^{[[#fnm15][15]]} ℘ 2,11; 4,4
-
-^{[[#fnm16][16]]} Luftgespinst, andere Übersetzungsmöglichkeit: Haschen
-nach Luft. So auch später, wenn dieses Wort wiederkommt.
-
-^{[[#fnm17][17]]} ℘ 7,13; Spr 27,22
-
-^{[[#fnm18][18]]} ℘ 2,9; 1 Kön 5,9f
-
-^{[[#fnm19][19]]} ℘ 2,12; 7,25; 8,16f
-
-^{[[#fnm20][20]]} ℘ 2,23; 5,16; Spr 22,15
 
 * Footnotes
 
-[fn:1] 1,12; Spr 1,1; 1 Kön 8,1
+[fn:1] [[v12][1,12]]; [[file:Spr_1.org::v1][Spr 1,1]]; [[file:1.Kön_8.org::v1][1 Kön 8,1]]
 
-[fn:2] 12,8; Ijob 7,16; Ps 39,6; 62,10; Röm 8,20
+[fn:2] [[file:Koh_12.org::v8][12,8]]; [[file:Ijob_7.org::v16][Ijob 7,16]]; [[file:Ps_39.org::v6][Ps 39,6]]; [[file:Ps_62.org::v10][62,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_8.org::v20][Röm 8,20]]
 
-[fn:3] 2,11.18-22; 3,9; 5,15.17; 9,9
+[fn:3] [[file:Koh_2.org::v11][2,11]].[[file:Koh_2.org::v18][18-22]]; [[file:Koh_3.org::v9][3,9]]; [[file:Koh_5.org::v15][5,15]].[[file:Koh_5.org::v17][17]]; [[file:Koh_9.org::v9][9,9]]
 
 [fn:4] Besitz, für den er sich anstrengt: ein Leitmotiv des
 Buches; in H ein Wortspiel. Das Wort für «Besitz» meint sowohl die
 menschliche Arbeit, die den Besitz hervorbringt, als auch den durch die
 Arbeit und Mühe erworbenen Besitz selbst.
 
-[fn:5] Sir 14,18; (4-11) 3,11-15
+[fn:5] [[file:Sir_14.org::v18][Sir 14,18]]; (4-11) [[file:Koh_3.org::v11][3,11-15]]
 
 [fn:6] Nach dem antiken Weltbild muss die Sonne nachts
 unterhalb der Erdscheibe wieder zum östlichen Horizont zurückkehren.
 
-[fn:7] 5,9; 8,17; Spr 27,20
+[fn:7] [[file:Koh_5.org::v9][5,9]]; [[file:Koh_8.org::v17][8,17]]; [[file:Spr_27.org::v20][Spr 27,20]]
 
 [fn:8] Alle Dinge sind rastlos tätig, andere
 Übersetzungsmöglichkeit: Alle Worte sind überanstrengt.
 
-[fn:9] 3,15; 6,10; 4,13-16
+[fn:9] [[file:Koh_3.org::v10][3,15]]; [[file:Koh_6.org::v10][6,10]]; [[file:Koh_4.org::v13][4,13-16]]
 
 [fn:10] Dass es «nichts Neues unter der Sonne» gibt, ist
 entgegen unserer Empfindung eine positive Aussage.
@@ -232,4 +212,22 @@ entgegen unserer Empfindung eine positive Aussage.
 [fn:11] 10cd: Andere Übersetzungsmöglichkeit: aber schon seit
 Ewigkeiten hat es das gegeben, was sich vor unseren Augen ereignet hat.
 
-[fn:12] 2,16; 9,5
+[fn:12] [[file:Koh_2.org::v16][2,16]]; [[file:Koh_9.org::v5][9,5]]
+
+[fn:13] [[v12][1,12]] - [[file:Koh_3.org::v15][3,15]]: In diesem Teil des Buches spielt der
+Verfasser in literarischer Fiktion die Rolle eines Königs.
+
+[fn:14] [[file:Koh_3.org::v10][3,10]]; [[file:Koh_8.org::v9][8,9]].[[file:Koh_8.org::v16][16f]]; [[file:Koh_5.org::v13][5,13]]
+
+[fn:15] [[file:Koh_2.org::v11][2,11]]; [[file:Koh_4.org::v4][4,4]]
+
+[fn:16] Luftgespinst, andere Übersetzungsmöglichkeit: Haschen
+nach Luft. So auch später, wenn dieses Wort wiederkommt.
+
+[fn:17] [[file:Koh_7.org::v13][7,13]]; [[file:Spr_27.org::v22][Spr 27,22]]
+
+[fn:18] [[file:Koh_2.org::v9][2,9]]; [[file:1.Kön_5.org::v9][1 Kön 5,9f]]
+
+[fn:19] [[file:Koh_2.org::v12][2,12]]; [[file:Koh_7.org::v25][7,25]]; [[file:Koh_8.org::v16][8,16f]]
+
+[fn:20] [[file:Koh_2.org::v23][2,23]]; [[file:Koh_5.org::v16][5,16]]; [[file:Spr_22.org::v15][Spr 22,15]]

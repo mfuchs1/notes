@@ -88,6 +88,17 @@ Jakob, Simon, Luisa, Amelie, Philipp ... "wenig Zufriedenstellend"
 ** Aufträge nicht ernst nehmen
 Wie gehe ich damit um, wenn Schüler wie Jakob, Philipp, Julian, Luisa einen Arbeitsauftrag nicht ernst nehmen? Und sich über jene Schüler lustig machen, die den Auftrag sehr wohl ernst nehmen?
 
+** Nach dem Tipp von Charly
+:PROPERTIES:
+:CUSTOM_ID: h:9f09d2e0-fe50-45f5-9942-5c345d1c19c4
+:END:
+... lasse ich die 3a schreiben. Dass die Klasse nebenbei laut ist, lasse ich gelten. Den braven Schülern gegenüber ist es natürlich unfair. Nur was soll ich machen?
+
+** Keine Spiele, Filme
+[2025-02-03 Mo 12:56]
+Funktioniert nicht; einfach nur schreiben. Was anderes ist nicht möglich. Es werden keine Regeln respektiert; nur diskutiert; provoziert; laut sein; am laufenden Band. Jakob mauzt wie eine Katze; Philipp macht es ihm nach; ... Jakob macht Tierlaute, ich spreche ihn darauf an: "Ich hab dochgar nichts gemacht? was habe ich g'macht? Nix! Ich sag's den Herrn Schieferer, der glaubt Ihnen eh nicht!"
+
+Philipp muss scheinbar dringend aufs Klo; nur Theater! 
 
 * Schülerliste
 #+Name: 2021-students
