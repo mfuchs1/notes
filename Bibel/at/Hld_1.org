@@ -1,17 +1,17 @@
-:PROPERTIES:
-:ID:       1d22a5f8-3fe6-4bba-82a0-cabf2a76e2f5
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Hohelied* -- *1* [[file:Hld_2.html][2]]
-[[file:Hld_3.html][3]] ... [[file:Hld_8.html][8]]
-
---------------
+#+TITLE: Hld 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-02-13 Do 17:25]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Hld 1.html
 
 * Hld 1
-  :PROPERTIES:
-  :CUSTOM_ID: hld-1
-  :END:
 
 Das Hohelied, wörtlich übersetzt »Das Lied der Lieder«, d. h. »Das
 schönste Lied«, besingt in einer Folge von Gedichten die Liebe von Mann
@@ -62,7 +62,7 @@ Tradition.\\
 
 <<v2>>
 2 Mit Küssen seines Mundes bedecke er mich. /\\
- Süßer als Wein ist deine Liebe. ^{[[#fn1][1]]}\\
+ Süßer als Wein ist deine Liebe. [fn:1]\\
 \\
 
 <<v3>>
@@ -76,13 +76,13 @@ Tradition.\\
  Der König führt mich in seine Gemächer. Jauchzen lasst uns, deiner uns
 freuen, /\\
  deine Liebe höher rühmen als Wein. /\\
- Dich liebt man zu Recht. ^{[[#fn2][2]]}\\
+ Dich liebt man zu Recht. [fn:2]\\
 \\
 
 <<v5>>
 5 Braun bin ich, doch schön, /\\
  ihr Töchter Jerusalems, wie die Zelte von Kedar, /\\
- wie Salomos Decken. ^{[[#fn3][3]]}\\
+ wie Salomos Decken. [fn:3]\\
 \\
 
 <<v6>>
@@ -97,7 +97,7 @@ freuen, /\\
 7 Du, den meine Seele liebt, /\\
  sag mir: Wo weidest du die Herde? /\\
  Wo lagerst du am Mittag? Wozu soll ich erst umherirren /\\
- bei den Herden deiner Gefährten? ^{[[#fn4][4]]}\\
+ bei den Herden deiner Gefährten? [fn:4]\\
 \\
 
 <<v8>>
@@ -124,7 +124,7 @@ freuen, /\\
 
 <<v12>>
 12 Solange der König an der Tafel liegt, /\\
- gibt meine Narde ihren Duft. ^{[[#fn5][5]]}\\
+ gibt meine Narde ihren Duft. [fn:5]\\
 \\
 
 <<v13>>
@@ -153,13 +153,15 @@ freuen, /\\
  Zypressen die Wände.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 4,10
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 4,10
+[fn:1] [[file:Hld_4.org::v10][4,10]]
 
-^{[[#fnm3][3]]} 5d: wie Salomos Decken, andere Lesart: wie die Decken
+[fn:2] [[file:Hld_4.org::v10][4,10]]
+
+[fn:3] 5d: wie Salomos Decken, andere Lesart: wie die Decken
 von Schalma (nordarabischer Beduinenstamm).
 
-^{[[#fnm4][4]]} 7d: umherirren: Text korr.; H: wie eine verhüllte Frau.
+[fn:4] 7d: umherirren: Text korr.; H: wie eine verhüllte Frau.
 
-^{[[#fnm5][5]]} ℘ 1,3
+[fn:5] [[v3][1,3]]

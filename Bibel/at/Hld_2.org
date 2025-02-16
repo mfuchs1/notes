@@ -1,17 +1,17 @@
-:PROPERTIES:
-:ID:       488c39fe-44fe-4bb2-844d-3247f50e574d
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Hohelied* -- [[file:Hld_1.html][1]] *2*
-[[file:Hld_3.html][3]] [[file:Hld_4.html][4]] ... [[file:Hld_8.html][8]]
-
---------------
+#+TITLE: Hld 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-02-13 Do 17:34]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Hld 2.html
 
 * Hld 2
-  :PROPERTIES:
-  :CUSTOM_ID: hld-2
-  :END:
 
 <<verses>>
 
@@ -22,14 +22,14 @@
 
 <<v2>>
 2 Eine Lilie unter Disteln /\\
- ist meine Freundin unter den Mädchen. ^{[[#fn1][1]]}\\
+ ist meine Freundin unter den Mädchen. [fn:1]\\
 \\
 
 <<v3>>
 3 Ein Apfelbaum unter Waldbäumen /\\
  ist mein Geliebter unter den Burschen. In seinem Schatten begehre ich
 zu sitzen. /\\
- Wie süß schmeckt seine Frucht meinem Gaumen! ^{[[#fn2][2]]}\\
+ Wie süß schmeckt seine Frucht meinem Gaumen! [fn:2]\\
 \\
 
 <<v4>>
@@ -45,14 +45,14 @@ zu sitzen. /\\
 
 <<v6>>
 6 Seine Linke liegt unter meinem Kopf, /\\
- seine Rechte umfängt mich. ^{[[#fn3][3]]}\\
+ seine Rechte umfängt mich. [fn:3]\\
 \\
 
 <<v7>>
 7 Bei den Gazellen und Hirschen auf der Flur /\\
  beschwöre ich euch, Jerusalems Töchter: Stört die Liebe nicht auf, /\\
  weckt sie nicht, /\\
- bis es ihr selbst gefällt. ^{[[#fn4][4]]}\\
+ bis es ihr selbst gefällt. [fn:4]\\
 \\
 
 <<v8>>
@@ -76,7 +76,7 @@ zu sitzen. /\\
 
 <<v11>>
 11 Denn vorbei ist der Winter, /\\
- verrauscht der Regen. ^{[[#fn5][5]]}\\
+ verrauscht der Regen. [fn:5]\\
 \\
 
 <<v12>>
@@ -107,29 +107,30 @@ zu sitzen. /\\
 <<v16>>
 16 Der Geliebte ist mein /\\
  und ich bin sein; /\\
- er weidet in den Lilien. ^{[[#fn6][6]]}\\
+ er weidet in den Lilien. [fn:6]\\
 \\
 
 <<v17>>
 17 Wenn der Tag verweht /\\
  und die Schatten wachsen, komm du, mein Geliebter, /\\
  der Gazelle gleich, dem jungen Hirsch /\\
- auf den Balsambergen. ^{[[#fn7][7]][[#fn8][8]]}\\
+ auf den Balsambergen. [fn:7] [fn:8]\\
 \\
 
-^{[[#fnm1][1]]} 2a: Wörtlich: Wie eine Lilie.
+* Footnotes
 
-^{[[#fnm2][2]]} 3a: Wörtlich: Wie ein Apfelbaum.
+[fn:1] 2a: Wörtlich: Wie eine Lilie
 
-^{[[#fnm3][3]]} ℘ 8,3
+[fn:2] 3a: Wörtlich: Wie ein Apfelbaum.
 
-^{[[#fnm4][4]]} ℘ 3,5; 5,8; 8,4
+[fn:3] [[file:Hld_8.org::v3][8,3]]
 
-^{[[#fnm5][5]]} ℘ 7,13
+[fn:4] [[file:Hld_3.org::v5][3,5]]; [[file:Hld_5.org::v8][5,8]]; [[file:Hld_8.org::v4][8,4]]
 
-^{[[#fnm6][6]]} ℘ 6,3
+[fn:5] [[file:Hld_7.org::v13][7,13]]
 
-^{[[#fnm7][7]]} ℘ 8,14
+[fn:6] [[file:Hld_6.org::v3][6,3]]
 
-^{[[#fnm8][8]]} Balsambergen: Text korr.; H: Beter-Bergen (ein
-hebräischer Ortsname, vgl. 8,14).
+[fn:7] [[file:Hld_8.org::v14][8,14]]
+
+[fn:8] Balsambergen: Text korr.; H: Beter-Bergen (ein hebräischer Ortsname, vgl. 8,14).

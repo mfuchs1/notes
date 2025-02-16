@@ -3,110 +3,99 @@
 #+filetags:   :capture:
 #+identifier: 20231218T081552
 #+STARTUP: showall
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Webpages.html
 
-* „Die volle Macht der Regierung entfesseln“ -
+* Wenn das Volk gefährlich wird -
 :PROPERTIES:
-:CREATED: [2024-06-12 Mi 14:08]
-:SOURCE: https://multipolar-magazin.de/artikel/rki-protokolle-6
+:CREATED: [2025-02-15 Sa 20:52]
+:SOURCE: https://multipolar-magazin.de/artikel/wenn-das-volk-gefaehrlich-wird
 :END:
 
-* „Die volle Macht der Regierung entfesseln“ -
+When quoting a passage from another document, it is customary to format this as a paragraph that is indented on both the left and the right margin. You can include quotations in Org mode documents like this:
+
+#+BEGIN_QUOTE
+/Ein Journalist warnt in einem neuen Buch davor, „falsch“ zu wählen. Mark Schieritz, Vize-Ressortchef für Politik bei der Hamburger ZEIT, fragt ganz offen, ob viele Bürger nicht vielleicht „zu dumm für die Demokratie“ seien. Die „liberale Ordnung“ solle deshalb vor solch irregeleitetem Volkswillen „geschützt“ werden. Walter van Rossum hat das Buch für Multipolar gelesen./
+#+END_QUOTE
+
+* Aporetic fonts version 1.1.0 | Protesilaos Stavrou
 :PROPERTIES:
-:CREATED: [2024-06-26 Mi 13:14]
-:SOURCE: https://multipolar-magazin.de/artikel/rki-protokolle-6
+:CREATED: [2025-02-15 Sa 22:02]
+:SOURCE: https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/
 :END:
 
-* „De-Banking“: Der lautlose Angriff auf oppositionelle Medien -
+Diese Schriftart ist so ziemlich die schönste, die es für Emacs gibt. Entworfen von Protesilaos Stavrou, dem besten und eifrigsten Emacs Entwickler, den es gibt. Er ist nicht nur ein großartiger Lehrer für Emacs, sondern auch ein tiefsinniger Philosoph - in der Tradition seiner griechischen Vorfahren - er auf Zypern (im griechischen Teil) lebt.
+
+Aus urheberrechtlichen Gründen musste er seine Schriftart umbenennen. Es gab auch kleine Änderungen: t, m, und 0.
+
+#+BEGIN_QUOTE
+/Customised build of the Iosevka typeface, with a consistent rounded style and overrides for almost all individual glyphs in both upright (roman) and slanted (italic) variants. This is the successor to my now-discontinued “Iosevka Comfy” fonts./
+#+END_QUOTE
+
+* Aporetic fonts version 1.1.0 | Protesilaos Stavrou
 :PROPERTIES:
-:CREATED: [2024-06-26 Mi 13:15]
-:SOURCE: https://multipolar-magazin.de/artikel/de-banking
+:CREATED: [2025-02-15 Sa 22:17]
+:SOURCE: https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/
 :END:
 
-* „De-Banking“: Der lautlose Angriff auf oppositionelle Medien -
-:PROPERTIES:
-:CREATED: [2024-07-19 Fr 16:56]
-:SOURCE: https://multipolar-magazin.de/artikel/de-banking
-:END:
+This release includes two stylistic corrections that pertain to Aporetic Serif and Aporetic Serif Mono. Customised build of the Iosevka typeface, with a consistent rounded style and overrides for almost all individual glyphs in both upright (roman) and slanted (italic) variants. This is the successor to my now-discontinued “Iosevka Comfy” fonts.
 
-* „Wie ein Schweigekartell“: Covid-19-Impfschäden werden kaum gemeldet -
-:PROPERTIES:
-:CREATED: [2024-09-19 Do 15:45]
-:SOURCE: https://multipolar-magazin.de/artikel/schweigekartell-impfschaden
-:END:
+#+BEGIN_QUOTE
+/The second change is to the letter m in both upright and slanted forms. Before, the m would have a top left serif, as intended, but not a bottom right tail. The tail is a feature of other glyphs that need to have such a style, like a, h, n, u: it imposes a proper rhythm together with the rest of the serif details. Now the m has its missing bottom right tail, making everything consistent./
 
-* Emacs: commands in popup frames with ‘emacsclient’ | Protesilaos Stavrou
-:PROPERTIES:
-:CREATED: [2024-09-19 Do 15:49]
-:SOURCE: https://protesilaos.com/codelog/2024-09-19-emacs-command-popup-frame-emacsclient/
-:END:
+(Zitat von [[https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/][Aporetic fonts version 1.1.0 | Protesilaos Stavrou]], [2025-02-15 Sa 22:17])
+#+END_QUOTE
 
-* Emacs: use-package essentials | Protesilaos Stavrou
+* Aporetic fonts version 1.1.0 | Protesilaos Stavrou
 :PROPERTIES:
-:CREATED: [2024-09-19 Do 15:54]
-:SOURCE: https://protesilaos.com/codelog/2024-07-23-emacs-use-package-essentials/
+:CREATED: [2025-02-15 Sa 22:25]
+:SOURCE: https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/
 :END:
+- SOURCE: https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/
+- CREATED: [2025-02-15 Sa 22:25]
 
-* Kann man die Existenz Gottes beweisen?* (3MC 05) - YouTube
-:PROPERTIES:
-:CREATED: [2024-10-16 Mi 10:58]
-:SOURCE: https://www.youtube.com/watch?v=nBxbiEoTwwk
-:CUSTOM_ID: h:6a1a130e-0022-4117-ae9e-f430ebeb2436
-:END:
+The first change is to the slanted (italic) form of the letter t. Before, it was mistakenly set to have a curved, upward-facing bottom stroke, which would clash with the flat bottom of i and l. Now the slanted t has a flat bottom as intended. The upright (roman) variants are always flat in this regard.
 
-* Was bedeutet es, "an Gott zu glauben"? (3MC 04) - YouTube
-:PROPERTIES:
-:CREATED: [2024-10-16 Mi 10:59]
-:SOURCE: https://www.youtube.com/watch?v=k7PMpvOfXyQ
-:CUSTOM_ID: h:d468f205-b36e-4e20-9d16-e4b4c7499691
-:END:
+#+BEGIN_QUOTE
+/Customised build of the Iosevka typeface, with a consistent rounded style and overrides for almost all individual glyphs in both upright (roman) and slanted (italic) variants. This is the successor to my now-discontinued “Iosevka Comfy” fonts./
 
-* Was ist der Unterschied zwischen glauben und wissen? (3MC 03) - YouTube
-:PROPERTIES:
-:CREATED: [2024-10-16 Mi 10:59]
-:SOURCE: https://www.youtube.com/watch?v=-8TmMZHjMrQ
-:CUSTOM_ID: h:f956f5da-6818-47c9-96e9-98164e8ff28c
-:END:
+(Zitat von [[https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/][Aporetic fonts version 1.1.0 | Protesilaos Stavrou]], [2025-02-15 Sa 22:25])
+#+END_QUOTE
 
-* Thoughts on the Gateron Yellow mechanical key switches | Protesilaos Stavrou
+* Aporetic fonts version 1.1.0 | Protesilaos Stavrou
 :PROPERTIES:
-:CREATED: [2024-11-15 Fr 10:22]
-:SOURCE: https://protesilaos.com/keeb/2024-11-14-gateron-yellow-mechanical-key-switches/
+:CREATED: [2025-02-15 Sa 22:38]
+:SOURCE: https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/
 :END:
-In almost one year of using mechanical keyboards, I have spent about half my time with tactile switches and the remainder with linear ones. The switch I have used the most is the Keychron K Pro Silver (Thoughts on the Keychron Banana and Silver mechanical key switches).
+- SOURCE: https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/
+- CREATED: [2025-02-15 Sa 22:38]
 
-* Washingtons langer Kampf gegen russische Energie für Europa -
-:PROPERTIES:
-:CREATED: [2025-01-23 Do 09:43]
-:SOURCE: https://multipolar-magazin.de/artikel/washington-kampf-gegen-russische-energie
-:END:
+This release includes two stylistic corrections that pertain to Aporetic Serif and Aporetic Serif Mono.
 
-* Wenn nichts mehr geht -
-:PROPERTIES:
-:CREATED: [2025-01-23 Do 09:54]
-:SOURCE: https://multipolar-magazin.de/artikel/wenn-nichts-mehr-geht
-:END:
+#+BEGIN_QUOTE
+/Customised build of the Iosevka typeface, with a consistent rounded style and overrides for almost all individual glyphs in both upright (roman) and slanted (italic) variants. This is the successor to my now-discontinued “Iosevka Comfy” fonts./
 
-* Wenn nichts mehr geht -
-:PROPERTIES:
-:CREATED: [2025-01-23 Do 10:09]
-:SOURCE: https://multipolar-magazin.de/artikel/wenn-nichts-mehr-geht
-:END:
+(Zitat von [[https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/][Aporetic fonts version 1.1.0 | Protesilaos Stavrou]], [2025-02-15 Sa 22:38])
+#+END_QUOTE
 
-* Lachse – Wikipedia
+* Wenn das Volk gefährlich wird -
 :PROPERTIES:
-:CREATED: [2025-01-23 Do 10:20]
-:SOURCE: https://de.wikipedia.org/wiki/Lachse
+:CREATED: [2025-02-15 Sa 23:00]
+:SOURCE: https://multipolar-magazin.de/artikel/wenn-das-volk-gefaehrlich-wird
 :END:
+- SOURCE: https://multipolar-magazin.de/artikel/wenn-das-volk-gefaehrlich-wird
+- CREATED: [2025-02-15 Sa 23:00]
 
-* Lachse – Wikipedia
-:PROPERTIES:
-:CREATED: [2025-01-23 Do 10:20]
-:SOURCE: https://de.wikipedia.org/wiki/Lachse
-:END:
+Im US-Präsidentschaftswahlkampf 2016 hielt Hillary Clinton eine Rede vor Verfechtern von Homosexuellenrechten. Dabei nannte sie „die Hälfte der Anhänger von Trump (…) rassistisch, schwulenfeindlich, fremdenfeindlich, islamfeindlich“. Mark Schieritz zufolge hätten diese Worte für große Turbulenzen in der Öffentlichkeit gesorgt und „die Dynamik des Wahlkampfs verändert“. Die Rede sei in die Geschichte eingegangen. Ihretwegen habe Clinton die Wahlen verloren. Tatsächlich ist von dieser Rede kaum mehr eine Spur zu finden, mit Sicherheit spielte sie beim Ausgang der Wahlen so gut wie keine Rolle. Allein Donald Trump hoffte, dass diese Beleidigungen Hillary Stimmen kosten könnten. 
 
-* "verdorbener" Kernel - Other Languages / Deutsch - Manjaro Linux Forum
-:PROPERTIES:
-:CREATED: [2025-01-24 Fr 08:28]
-:SOURCE: https://forum.manjaro.org/t/verdorbener-kernel/173426
-:END:
+#+BEGIN_QUOTE
+/Ein Journalist warnt in einem neuen Buch davor, „falsch“ zu wählen. Mark Schieritz, Vize-Ressortchef für Politik bei der Hamburger ZEIT, fragt ganz offen, ob viele Bürger nicht vielleicht „zu dumm für die Demokratie“ seien. Die „liberale Ordnung“ solle deshalb vor solch irregeleitetem Volkswillen „geschützt“ werden. Walter van Rossum hat das Buch für Multipolar gelesen./
+
+(Zitat von [[https://multipolar-magazin.de/artikel/wenn-das-volk-gefaehrlich-wird][Wenn das Volk gefährlich wird -]], [2025-02-15 Sa 23:00])
+#+END_QUOTE
 
