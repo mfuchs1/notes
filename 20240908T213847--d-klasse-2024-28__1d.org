@@ -38,7 +38,7 @@ http://www.veritas.at/code (rfu100)
 - [X] Heilige Orte
 - [X] Die Adventszeit
 - [-] Beten
-- [ ] Menschen zur Zeit Jesu
+- [- ] Menschen zur Zeit Jesu
 - [ ] Neues Testament
 - [X] Hl. Blasius / Hl. Rupert
 - [ ] Die Schriften von Qumran

@@ -1,0 +1,11 @@
+#+title:      Heute Abend
+#+date:       [2025-02-20 Do 19:58]
+#+filetags:   :journal:
+#+identifier: 20250220T195804
+
+* %U %?
+:PROPERTIES:
+:CUSTOM_ID: h:8bf59a87-1b33-4827-98f5-fbe7debdde43
+:END:
+%i
+%a

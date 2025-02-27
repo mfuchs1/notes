@@ -1,0 +1,17 @@
+#+title:      Wenn das Volk gefährlich wird
+#+date:       [2025-02-20 Do 18:00]
+#+filetags:   :news:
+#+identifier: 20250220T180012
+
+Hier kommt mein Text.
+
+#+begin_quote
+Ein Journalist warnt in einem neuen Buch davor, „falsch“ zu wählen.
+Mark Schieritz, Vize-Ressortchef für Politik bei der Hamburger ZEIT,
+fragt ganz offen, ob viele Bürger nicht vielleicht „zu dumm für die
+Demokratie“ seien. Die „liberale Ordnung“ solle deshalb vor solch
+irregeleitetem Volkswillen „geschützt“ werden. Walter van Rossum hat
+das Buch für Multipolar gelesen.
+#+end_quote
+
+https://multipolar-magazin.de/artikel/wenn-das-volk-gefaehrlich-wird

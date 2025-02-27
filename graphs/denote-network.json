@@ -1,0 +1,461 @@
+{
+  "meta": {
+    "directed": null,
+    "type": "Keywords",
+    "parameters": 1
+  },
+  "nodes": [
+    {
+      "id": "bib",
+      "name": "bib",
+      "degree": 10
+    },
+    {
+      "id": "emacs",
+      "name": "emacs",
+      "degree": 1
+    },
+    {
+      "id": "bibel",
+      "name": "bibel",
+      "degree": 5
+    },
+    {
+      "id": "schule",
+      "name": "schule",
+      "degree": 3
+    },
+    {
+      "id": "01",
+      "name": "01",
+      "degree": 3
+    },
+    {
+      "id": "glaube",
+      "name": "glaube",
+      "degree": 3
+    },
+    {
+      "id": "03",
+      "name": "03",
+      "degree": 3
+    },
+    {
+      "id": "freiheit",
+      "name": "freiheit",
+      "degree": 1
+    },
+    {
+      "id": "study",
+      "name": "study",
+      "degree": 1
+    },
+    {
+      "id": "theology",
+      "name": "theology",
+      "degree": 1
+    },
+    {
+      "id": "ethik",
+      "name": "ethik",
+      "degree": 1
+    },
+    {
+      "id": "jesus",
+      "name": "jesus",
+      "degree": 4
+    },
+    {
+      "id": "4c",
+      "name": "4c",
+      "degree": 1
+    },
+    {
+      "id": "memo",
+      "name": "memo",
+      "degree": 1
+    },
+    {
+      "id": "meta",
+      "name": "meta",
+      "degree": 1
+    },
+    {
+      "id": "wissenschaft",
+      "name": "wissenschaft",
+      "degree": 1
+    },
+    {
+      "id": "gemeinschaft",
+      "name": "gemeinschaft",
+      "degree": 4
+    },
+    {
+      "id": "02",
+      "name": "02",
+      "degree": 6
+    },
+    {
+      "id": "04",
+      "name": "04",
+      "degree": 2
+    },
+    {
+      "id": "beziehungen",
+      "name": "beziehungen",
+      "degree": 1
+    },
+    {
+      "id": "project",
+      "name": "project",
+      "degree": 7
+    },
+    {
+      "id": "topic04",
+      "name": "topic04",
+      "degree": 1
+    },
+    {
+      "id": "topic01",
+      "name": "topic01",
+      "degree": 1
+    },
+    {
+      "id": "topic03",
+      "name": "topic03",
+      "degree": 1
+    },
+    {
+      "id": "at",
+      "name": "at",
+      "degree": 5
+    },
+    {
+      "id": "topic02",
+      "name": "topic02",
+      "degree": 1
+    },
+    {
+      "id": "reise",
+      "name": "reise",
+      "degree": 1
+    },
+    {
+      "id": "kt",
+      "name": "kt",
+      "degree": 7
+    },
+    {
+      "id": "fundament",
+      "name": "fundament",
+      "degree": 1
+    },
+    {
+      "id": "moral",
+      "name": "moral",
+      "degree": 1
+    },
+    {
+      "id": "augustinus",
+      "name": "augustinus",
+      "degree": 1
+    },
+    {
+      "id": "usa",
+      "name": "usa",
+      "degree": 1
+    },
+    {
+      "id": "archäologie",
+      "name": "archäologie",
+      "degree": 2
+    },
+    {
+      "id": "roman",
+      "name": "roman",
+      "degree": 2
+    },
+    {
+      "id": "journal",
+      "name": "journal",
+      "degree": 1
+    },
+    {
+      "id": "gabriel",
+      "name": "gabriel",
+      "degree": 5
+    },
+    {
+      "id": "lernen",
+      "name": "lernen",
+      "degree": 4
+    },
+    {
+      "id": "adhs",
+      "name": "adhs",
+      "degree": 3
+    },
+    {
+      "id": "gen2",
+      "name": "gen2",
+      "degree": 1
+    },
+    {
+      "id": "gen1",
+      "name": "gen1",
+      "degree": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": "bib",
+      "target": "emacs",
+      "weight": 5
+    },
+    {
+      "source": "bibel",
+      "target": "schule",
+      "weight": 1
+    },
+    {
+      "source": "01",
+      "target": "glaube",
+      "weight": 1
+    },
+    {
+      "source": "03",
+      "target": "freiheit",
+      "weight": 1
+    },
+    {
+      "source": "study",
+      "target": "theology",
+      "weight": 1
+    },
+    {
+      "source": "ethik",
+      "target": "jesus",
+      "weight": 1
+    },
+    {
+      "source": "4c",
+      "target": "memo",
+      "weight": 1
+    },
+    {
+      "source": "meta",
+      "target": "wissenschaft",
+      "weight": 1
+    },
+    {
+      "source": "03",
+      "target": "gemeinschaft",
+      "weight": 4
+    },
+    {
+      "source": "01",
+      "target": "gemeinschaft",
+      "weight": 4
+    },
+    {
+      "source": "02",
+      "target": "gemeinschaft",
+      "weight": 3
+    },
+    {
+      "source": "04",
+      "target": "gemeinschaft",
+      "weight": 4
+    },
+    {
+      "source": "02",
+      "target": "beziehungen",
+      "weight": 2
+    },
+    {
+      "source": "project",
+      "target": "topic04",
+      "weight": 1
+    },
+    {
+      "source": "project",
+      "target": "topic01",
+      "weight": 1
+    },
+    {
+      "source": "project",
+      "target": "topic03",
+      "weight": 1
+    },
+    {
+      "source": "02",
+      "target": "at",
+      "weight": 8
+    },
+    {
+      "source": "02",
+      "target": "bibel",
+      "weight": 2
+    },
+    {
+      "source": "at",
+      "target": "bibel",
+      "weight": 2
+    },
+    {
+      "source": "02",
+      "target": "glaube",
+      "weight": 7
+    },
+    {
+      "source": "at",
+      "target": "glaube",
+      "weight": 6
+    },
+    {
+      "source": "project",
+      "target": "topic02",
+      "weight": 1
+    },
+    {
+      "source": "project",
+      "target": "reise",
+      "weight": 1
+    },
+    {
+      "source": "04",
+      "target": "kt",
+      "weight": 1
+    },
+    {
+      "source": "03",
+      "target": "kt",
+      "weight": 1
+    },
+    {
+      "source": "02",
+      "target": "kt",
+      "weight": 1
+    },
+    {
+      "source": "01",
+      "target": "kt",
+      "weight": 1
+    },
+    {
+      "source": "jesus",
+      "target": "kt",
+      "weight": 2
+    },
+    {
+      "source": "fundament",
+      "target": "kt",
+      "weight": 1
+    },
+    {
+      "source": "kt",
+      "target": "moral",
+      "weight": 1
+    },
+    {
+      "source": "augustinus",
+      "target": "bib",
+      "weight": 1
+    },
+    {
+      "source": "bib",
+      "target": "bibel",
+      "weight": 1
+    },
+    {
+      "source": "bib",
+      "target": "jesus",
+      "weight": 2
+    },
+    {
+      "source": "bibel",
+      "target": "jesus",
+      "weight": 1
+    },
+    {
+      "source": "bib",
+      "target": "usa",
+      "weight": 1
+    },
+    {
+      "source": "archäologie",
+      "target": "bib",
+      "weight": 1
+    },
+    {
+      "source": "archäologie",
+      "target": "roman",
+      "weight": 1
+    },
+    {
+      "source": "bib",
+      "target": "roman",
+      "weight": 1
+    },
+    {
+      "source": "journal",
+      "target": "project",
+      "weight": 1
+    },
+    {
+      "source": "gabriel",
+      "target": "project",
+      "weight": 1
+    },
+    {
+      "source": "lernen",
+      "target": "schule",
+      "weight": 1
+    },
+    {
+      "source": "adhs",
+      "target": "bib",
+      "weight": 2
+    },
+    {
+      "source": "adhs",
+      "target": "gabriel",
+      "weight": 1
+    },
+    {
+      "source": "adhs",
+      "target": "lernen",
+      "weight": 2
+    },
+    {
+      "source": "bib",
+      "target": "gabriel",
+      "weight": 1
+    },
+    {
+      "source": "bib",
+      "target": "lernen",
+      "weight": 2
+    },
+    {
+      "source": "gabriel",
+      "target": "lernen",
+      "weight": 1
+    },
+    {
+      "source": "gabriel",
+      "target": "schule",
+      "weight": 1
+    },
+    {
+      "source": "at",
+      "target": "gen2",
+      "weight": 1
+    },
+    {
+      "source": "at",
+      "target": "gen1",
+      "weight": 1
+    }
+  ]
+}

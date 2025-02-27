@@ -1,0 +1,8 @@
+#+title:      Jeremias Abbas
+#+date:       [2025-02-20 Do 19:20]
+#+filetags:   :theology:
+#+identifier: 20250220T192008
+
+[[file:~/.emacs.d/emacs-config.org::*=org-capture= configuration]]
+
+

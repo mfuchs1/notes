@@ -55,6 +55,9 @@ Wie war RU?
 AB etc kopieren (ohne Tablet arbeiten)
 
 ** Themen
+:PROPERTIES:
+:CUSTOM_ID: h:c4dba2b0-315f-43e7-92c4-d9a84fe31bc8
+:END:
 Gebet:
 - fest formulierte Gebete
 - freie Gebete
@@ -65,6 +68,8 @@ Körperhaltung:
 knien, stehen, mit den Füßen, sitzen, Hand auf die Brust, Hände nach oben, mit Händen eine Schale machen, Hände falten, ...
 
 Fotos - Gebete dazu verfassen
+
+Wie sollen wir beten...? (RB...)
 
 Eigenes Gebet schreiben...
 
@@ -357,3 +362,26 @@ Arbeitsweg
 #+TBLFM: $6=vmean($4..$5);%.0f
 
 
+
+* Mitarbeittabelle
+# In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
+#+Name: Mitarbeit
+| Name                | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Sophie Auer][Sophie Auer]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Matthias Buchegger][Matthias Buchegger]]  |      |   |   |   |   |   |   |   |   |   |    |
+| [[Felix Eder][Felix Eder]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Samuel Hirscher][Samuel Hirscher]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Anna Kainhofer][Anna Kainhofer]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Ilvy Ramsauer][Ilvy Ramsauer]]       |      |   |   |   |   |   |   |   |   |   |    |
+| [[Nadine Ramsauer][Nadine Ramsauer]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Leonie Reschreiter][Leonie Reschreiter]]  |      |   |   |   |   |   |   |   |   |   |    |
+| [[Tobias Rettenbacher][Tobias Rettenbacher]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Jakob Rettenegger][Jakob Rettenegger]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Eva Schlager][Eva Schlager]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Tim Schledt][Tim Schledt]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Ella Sunkler][Ella Sunkler]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Finja Thomüller][Finja Thomüller]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Julia Windhofer][Julia Windhofer]]     |      |   |   |   |   |   |   |   |   |   |    |
+#+TBLFM: $2=vmean($3..$>)
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
