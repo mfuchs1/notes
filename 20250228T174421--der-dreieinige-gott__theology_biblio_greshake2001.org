@@ -1,0 +1,16 @@
+#+title:      Der dreieinige Gott
+#+date:       [2025-02-28 Fr 17:44]
+#+filetags:   :theology:biblio:greshake2001:
+#+identifier: 20250228T174421
+
+#+begin_src bibtex
+@book{Greshake2001,
+        abstract = "",
+        author = "\textsc{Greshake}, Gisbert",
+        location = "Freiburg im Breisgau",
+        publisher = "Herder Verlag GmbH",
+        subtitle = "{Eine trinitarische Theologie}",
+        title = "{Der dreieine Gott}",
+        year = "2001"
+}
+#+end_src

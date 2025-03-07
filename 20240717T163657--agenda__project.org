@@ -113,10 +113,16 @@ Unterricht heute (10.09.) um 10:15 beenden.
 ** Donnerstag
 
 *** 3a 07:45-08:35                                                     :3a:
+:PROPERTIES:
+:CUSTOM_ID: h:3af308f7-445a-4fa1-9b7d-256f09153015
+:END:
 <%%(org-class 2024 9 12 2025 7 3 4 08)>
 [[denote:20240908T214254][A Klasse 2022-26]]
 
 *** 1c (RLS) 08:35-09:25                                               :1c:
+:PROPERTIES:
+:CUSTOM_ID: h:c6389224-85a9-47ab-9da7-afdbdb59a472
+:END:
 <%%(org-class 2024 9 12 2025 7 3 4 02)>
 [[denote:20240908T214521][C Klasse 2024-28]]
 

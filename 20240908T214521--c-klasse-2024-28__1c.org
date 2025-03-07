@@ -122,6 +122,13 @@ Natürlich wird dann meine Maßnahme hinterfragt (Warum wir alle?); obwohl ja ei
 
 Oder: warum haben Sie den Gitarrenunterricht auf Teams angelegt? etc. Es wird gerotzt, ...
 
+** Lernschiene alleine?
+:PROPERTIES:
+:CAPTURED: [2025-03-06 Do 09:18]
+:DESCRIPTION: [[denote:20240717T163657::#h:c6389224-85a9-47ab-9da7-afdbdb59a472][Agenda::1c (RLS) 08:35-09:25]]
+:END:
+LS alleine ist ein Ding der Unmöglichkeit - während man sich um einen Schüler kümmert, machen andere Schüler am anderen Ende der Klasse einen Blödsinn, besonders Leo und Simon.
+
 
 * Schülerliste
 #+Name: 2021-students

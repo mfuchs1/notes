@@ -19,12 +19,12 @@ Bzgl LS Physik - viele der Versuche funktionieren kaum; oder bieten va Burschen 
 
 Wer nicht Religion geht - Lerninsel im 2. Stock und in Ruhe die HÜ machen (Bsp.). 
 
-Montag, 2.12.2024: gemeinsam lesen (?)
+Montag, 2.12.2024: gemeinsam lesen (?). 
 
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
-** Themen [2/4]
+** Themen [2/6]
 :PROPERTIES:
 :CUSTOM_ID: h:ffe5604c-653b-4d2b-a35b-6b176cb7a705
 :END:
@@ -32,6 +32,8 @@ Montag, 2.12.2024: gemeinsam lesen (?)
 - [X] Abraham
 - [ ] David
 - [ ] Begleiter im Advent
+- [ ] Kinder haben Rechte (Menschenrechte)
+
 
 * Stundenplanung
 
@@ -59,8 +61,9 @@ Wie war RU?
 :PROPERTIES:
 :CUSTOM_ID: h:8938bd1e-d921-4eba-a69b-9f903c3a2c67
 :END:
-Sakramente?
+Sakramente
 
+Fastenzeit
 
 ** Hefteintrag
 Arbeitsweg 1 - 4
@@ -342,6 +345,7 @@ http://www.veritas.at/code (rfu300)
 :EMAIL: [[mailto: Spannberger Daniel <Spannberger.Daniel@abtenau.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Daniel_Spannberger.html
 :ID: DanielSpannberger
+:CUSTOM_ID: h:ed71c1a3-373b-4122-8f1f-f8bcb86645dd
 :END: 
 #+Name: Note_DanielSpannberger
 |-------+-------------+-------+---------+-----------+------------|
@@ -350,6 +354,13 @@ http://www.veritas.at/code (rfu300)
 |       |             |       |         |           |            |
 #+tblfm: $2=@#-1
 #+TBLFM: $6=vmean($4..$5);%.0f
+
+*** Tablet vergessen
+:PROPERTIES:
+:CAPTURED: [2025-03-03 Mo 10:48]
+:DESCRIPTION: [[denote:20240908T214029::#h:ed71c1a3-373b-4122-8f1f-f8bcb86645dd][A Klasse 2023-27::Daniel Spannberger]]
+:END:
+Macht diese Stunde gar nichts.
 
 
 ** Jonas Spannberger
@@ -398,3 +409,20 @@ Daniel und Daniel arbeiten so gut wie gar nicht; (Wie lange haben Schüler Ziet 
 Was mache ich bei extrem langsames Arbeiten der Schüler?
 
 Tipp: Abgabetermin angeben - "bis zur nächsten Stunde" (in der Regel ist pro Lernjob vier Stunden Zeit)
+
+** Heute war kein Unterricht möglich...
+:PROPERTIES:
+:CAPTURED: [2025-03-06 Do 12:28]
+:DESCRIPTION: [[denote:20240717T163657::#h:7a03aa5f-7989-4d5e-a629-1b9a64a25c14][Agenda::2a 12:20-13:10]]
+:END:
+... und zwar in jeder Stunde (außer in der 3c).
+
+Ich wurde entweder von Kollegen "gestört", weil sie einen Schüler abgeholt haben. Und die Kinder waren in jeder Stunde laut, frech, provokant, haben pausenlos gestört.
+
+Also hab so gut wie in jeder Stunde schreiben lassen. Die Hefte in der 3a - werden wohl grauslich aussehen.
+
+Es macht einfach keine Freude mehr; aber ich muss weitermachen. Kann mich nur selbst ändern, die Kinder werden sich nie ändern - zumindest kann ich es nicht von ihnen erwarten.
+
+Man geht mit hoher Motivation in die Klasse und dann ... Kaum mache ich den Mund auf, um mit den Kindern zu reden, werde ich unterbrochen, es werden sinnlose Kommentare geschoben, provokante Fragen gestellt; ...
+
+

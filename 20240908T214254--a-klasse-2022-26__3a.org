@@ -27,12 +27,8 @@ Was will ich erreichen in dieser Stunde?
 Wie war RU?
 
 ** Themen
-Hl. Petrus - Steckbrief anhand der Bibelstellen
-
-Erste Christen - Verfolgung
-Verfolgung heute:
-Kirche in Not
-cf. RB
+Mein Glaube, meine Hoffnung, mein Anker.
+Gespräch - Christ sein, Christ sein leben, Sonntag..
 
 
 ** Hefteintrag
@@ -95,9 +91,23 @@ Wie gehe ich damit um, wenn Schüler wie Jakob, Philipp, Julian, Luisa einen Arb
 
 ** Keine Spiele, Filme
 [2025-02-03 Mo 12:56]
-Funktioniert nicht; einfach nur schreiben. Was anderes ist nicht möglich. Es werden keine Regeln respektiert; nur diskutiert; provoziert; laut sein; am laufenden Band. Jakob mauzt wie eine Katze; Philipp macht es ihm nach; ... Jakob macht Tierlaute, ich spreche ihn darauf an: "Ich hab dochgar nichts gemacht? was habe ich g'macht? Nix! Ich sag's den Herrn Schieferer, der glaubt Ihnen eh nicht!"
+Funktioniert nicht; einfach nur schreiben. Was anderes ist nicht möglich. Es werden keine Regeln respektiert; nur diskutiert; provoziert; laut sein; am laufenden Band. Jakob mauzt wie eine Katze; Philipp macht es ihm nach; ... Jakob macht Tierlaute, ich spreche ihn darauf an: "Ich hab doch gar nichts gemacht? was habe ich g'macht? Nix! Ich sag's den Herrn Schieferer, der glaubt Ihnen eh nicht!"
 
 Philipp muss scheinbar dringend aufs Klo; nur Theater! 
+
+** Kein Unterricht möglich
+:PROPERTIES:
+:CAPTURED: [2025-03-06 Do 08:00]
+:DESCRIPTION: [[denote:20240717T163657::#h:3af308f7-445a-4fa1-9b7d-256f09153015][Agenda::3a 07:45-08:35]]
+:END:
+Heute haben zu viele Schüler während dem Unterricht laut gestöhnt, laut aufgeschrien, etc .... Hab Unterricht bzw den Film unterbrochen. Jetzt schreibt die ganze Klasse.
+
+Philipp schreit laut "Penis!". Hefte sammle ich ein und benote sie; was nicht passt, wird verbessert. Laufend wird provoziert. "Sch..., gestern hab ich eine Leberkäse Semmel gegessen!" Jeder weiß, dass gestern Aschermittwoch war; ... egal. Es ist so schade, wenn Kinder sich so provokant benehmen, keine Konsequenzen wirken. Was ist zu tun? Gedichte auswendig lernen wirkt gar nicht. 
+
+Ob Gespräche mit Eltern wirken? Muss mal Markus fragen; er kennt doch ein paar Eltern.
+
+Also, für die Zukunft - was tun? Arbeitsblätter, Heftarbeit? Keine Filme, kein Kahoot, keine Stunden mit L/S-Gespräch.
+
 
 * Schülerliste
 #+Name: 2021-students
