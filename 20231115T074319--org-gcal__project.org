@@ -378,7 +378,20 @@
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 68rjacr460o3cb9mclh3cb9kckrj4b9p6oo38bb664q36d9j6grm2e9pc8/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
+:CUSTOM_ID: h:60b47cf5-14c3-455c-8795-8487155df8a3
 :END:
 :org-gcal:
 <2025-03-06 Do 17:00-19:00>
 :END:
+
+* Kinder im Coq abholen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3482686599175390"
+:entry-id: umjaelgmib6gl826nmcmlkm870/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-03-07 Fr 14:00-15:00>
+:END:
+
