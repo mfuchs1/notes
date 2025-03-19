@@ -1,0 +1,20 @@
+#+title:      Neue Schule
+#+date:       [2025-03-11 Di 09:20]
+#+filetags:   :hugo:
+#+identifier: 20250311T092046
+#+DESCRIPTION: This text was generated using the After Dark post archetype.
+#+HUGO_CATEGORIES: 
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_BASE_DIR: /home/matthias/flying-toasters/
+#+AUTHOR: Matthias Fuchs
+
+* MMS Abtenau
+Seit diesem Schuljahr bin ich in der MS Abtenau. Der Anfang war sehr mühsam und beschwerlich - neue Schule, neuer Schüler, neue Unterrichtsmethode; Schwierigkeiten mit der Schulleitung (entdeckte erst viel später, dass es anderen, allen Kollegen ebenso erging).
+
+* Wie geht es weiter?
+:PROPERTIES:
+:CUSTOM_ID: h:8032f492-f03b-48ea-9912-87f7ad26bd00
+:END:
+Dieser Blogeintrag ist eigentlich auch nur ein Test, ob der Blog immer noch funktioniert.
+
+

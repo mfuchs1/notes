@@ -27,7 +27,6 @@
 - [X] Die Adventszeit
 - [X] Beten
 - [ ] Menschen zur Zeit Jesu
-- [ ] Neues Testament
 - [X] Hl. Blasius / Hl. Rupert
 - [ ] Die Schriften von Qumran
 - [ ] Liturgische Farben im Kirchenjahr
@@ -55,18 +54,9 @@ AB etc kopieren (ohne Tablet arbeiten)
 :PROPERTIES:
 :CUSTOM_ID: h:3b3c9a4a-a80b-4224-8891-c4b2a6362f67
 :END:
-Gebet:
-- fest formulierte Gebete
-- freie Gebete
+Ablauf Hl. Messe / Übungsteil RB
 
-Danke, Bitte, Lobpreis, Anbetung, Klage
-
-Körperhaltung:
-knien, stehen, mit den Füßen, sitzen, Hand auf die Brust, Hände nach oben, mit Händen eine Schale machen, Hände falten, ...
-
-Fotos - Gebete dazu verfassen
-
-Eigenes Gebet schreiben...
+Neues Kapitel?
 
 ** Hefteintrag
 Arbeitsweg

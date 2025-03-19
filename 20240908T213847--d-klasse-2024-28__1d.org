@@ -37,8 +37,8 @@ http://www.veritas.at/code (rfu100)
 - [X] Heilige
 - [X] Heilige Orte
 - [X] Die Adventszeit
-- [-] Beten
-- [- ] Menschen zur Zeit Jesu
+- [X] Beten
+- [-] Menschen zur Zeit Jesu
 - [ ] Neues Testament
 - [X] Hl. Blasius / Hl. Rupert
 - [ ] Die Schriften von Qumran
@@ -64,6 +64,7 @@ Aufbau Hl. Eucharistie - Gottesdienst / Übungsteil
 
 Fastenzeit
 
+Gebet - Eucharistie?
 
 ** Hefteintrag
 

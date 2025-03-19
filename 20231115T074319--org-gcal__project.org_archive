@@ -1274,7 +1274,7 @@ Ph-Test: Felix, Stefan, Robin fehlt.
 
 * Geburtstag Gabriel (2012)
 :PROPERTIES:
-:ETag:     "3417927616376000"
+:ETag:     "3482930703955710"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: cksjee9gc4rjibb46gsm8b9k61i3abb174q3gbb174pj4e1p64o38dhi70_20240212/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -4913,5 +4913,120 @@ Dieser Termin wurde aus einer E-Mail erstellt, die Sie in Gmail erhalten haben. 
 :END:
 :org-gcal:
 <2025-02-03 Mo 14:00-15:00>
+:END:
+
+
+* Geburtstag Leopold (2017)
+:PROPERTIES:
+:ETag:     "3152352526060000"
+:TRANSPARENCY: transparent
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: clgjiopm70o32bb475h3eb9kc4sj6b9p64sjebb36ko66p9m6os6ad9n64_20250210/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:ARCHIVE_TIME: 2025-03-13 Do 00:00
+:ARCHIVE_FILE: ~/RoamNotes/notes/20231115T074319--org-gcal__project.org
+:ARCHIVE_CATEGORY: org-gcal
+:ARCHIVE_ITAGS: Project
+:END:
+:org-gcal:
+<2025-02-10 Mo>
+:END:
+
+
+* Schulskirennen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3477404558012000"
+:entry-id: m15j576r824n7ilqdupjue2cgc/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:963335cf-834a-4fa0-9659-c0f19f885175
+:ARCHIVE_TIME: 2025-03-13 Do 00:00
+:ARCHIVE_FILE: ~/RoamNotes/notes/20231115T074319--org-gcal__project.org
+:ARCHIVE_CATEGORY: org-gcal
+:ARCHIVE_ITAGS: Project
+:END:
+:org-gcal:
+<2025-02-04 Di 07:45-11:45>
+:END:
+
+
+* Mit 3b zum Skirennen gehen (1. Klasse zurück?)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3477404557362000"
+:entry-id: a0qlkikb073g3c2emsmcdfgkj0/matthiasfuchs01@gmail.com
+:ARCHIVE_TIME: 2025-03-13 Do 00:00
+:ARCHIVE_FILE: ~/RoamNotes/notes/20231115T074319--org-gcal__project.org
+:ARCHIVE_CATEGORY: org-gcal
+:ARCHIVE_ITAGS: Project
+:END:
+:org-gcal:
+<2025-02-04 Di 09:35-09:50>
+:END:
+
+
+
+* Lesen und Beten
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3477404558552000"
+:entry-id: 7c3n4p3gthftc6be13fd7qdkjs/matthiasfuchs01@gmail.com
+:ARCHIVE_TIME: 2025-03-13 Do 00:00
+:ARCHIVE_FILE: ~/RoamNotes/notes/20231115T074319--org-gcal__project.org
+:ARCHIVE_CATEGORY: org-gcal
+:ARCHIVE_ITAGS: Project
+:END:
+:org-gcal:
+<2025-02-04 Di 20:00-21:00>
+:END:
+
+
+* Gabriel - BU Mappe (Gesteine) und M
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3478748563806000"
+:entry-id: mk3ja7o9rrl1dj00f4lve5hpbc/matthiasfuchs01@gmail.com
+:ARCHIVE_TIME: 2025-03-13 Do 00:00
+:ARCHIVE_FILE: ~/RoamNotes/notes/20231115T074319--org-gcal__project.org
+:ARCHIVE_CATEGORY: org-gcal
+:ARCHIVE_ITAGS: Project
+:END:
+:org-gcal:
+<2025-02-05 Mi 14:00-16:00>
+:END:
+
+
+* Kinder im Coq abholen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3478748562990000"
+:entry-id: mh1udcokpafscjno8v86e8n0ns/matthiasfuchs01@gmail.com
+:ARCHIVE_TIME: 2025-03-13 Do 00:00
+:ARCHIVE_FILE: ~/RoamNotes/notes/20231115T074319--org-gcal__project.org
+:ARCHIVE_CATEGORY: org-gcal
+:ARCHIVE_ITAGS: Project
+:END:
+:org-gcal:
+<2025-02-06 Do 14:00-15:00>
+:END:
+
+
+* Treffen mit Gewerkschaft / PV
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3478748563376000"
+:entry-id: 7p4n122rls0a7hsbcbdv8vqsg8/matthiasfuchs01@gmail.com
+:ARCHIVE_TIME: 2025-03-13 Do 00:00
+:ARCHIVE_FILE: ~/RoamNotes/notes/20231115T074319--org-gcal__project.org
+:ARCHIVE_CATEGORY: org-gcal
+:ARCHIVE_ITAGS: Project
+:END:
+:org-gcal:
+<2025-02-07 Fr 13:15-14:15>
 :END:
 

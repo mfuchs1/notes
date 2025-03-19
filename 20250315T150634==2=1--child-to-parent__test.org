@@ -1,0 +1,8 @@
+:PROPERTIES:
+:CUSTOM_ID: h:5ef86975-4b82-4549-a3e1-f8e40d7b18db
+:END:
+#+title:      Child to Parent
+#+date:       [2025-03-15 Sa 15:06]
+#+filetags:   :test:
+#+identifier: 20250315T150634
+

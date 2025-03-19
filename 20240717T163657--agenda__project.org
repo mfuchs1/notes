@@ -52,6 +52,9 @@
 [[denote:20240908T214029][A Klasse 2023-27]]
 
 *** 4b 11:30-12:20                                                     :4b:
+:PROPERTIES:
+:CUSTOM_ID: h:050ab493-78d8-44f8-8ad2-55d080054b5e
+:END:
 <%%(org-class 2024 9 9 2025 6 30 1 02)>
 [[denote:20240908T214223][B Klasse 2021-25]]
 
@@ -65,6 +68,9 @@
 ** Dienstag
 
 *** 4b 07:45-08:35                                                     :4b:
+:PROPERTIES:
+:CUSTOM_ID: h:046fba0d-845d-48c6-a721-d0d6caf23d10
+:END:
 <%%(org-class 2024 9 10 2025 7 1 2 02)>
 [[denote:20240908T214223][B Klasse 2021-25]]
 
@@ -166,7 +172,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 
 * Tasks
 :PROPERTIES:
-:CATEGORY: tasks&date
+:CATEGORY: TODO
 :CUSTOM_ID: h:ace38b83-beb1-4db2-9872-936865a20b7c
 :END:
 
@@ -346,7 +352,23 @@ CLOSED: [2024-12-12 Do 10:06] DEADLINE: <2024-12-10 Di 20:00>
 - State "DONE"       from "TODO"       [2024-12-12 Do 10:06]
 :END:
 Ablauf an Thomas Daxinger (3c) mit Ablauf des Gottesdienstes / damit er seine Lieder platzieren kann.
+
 ** TODO etwas Neues
+
+** DONE [#A] Hugo Blog "After Dark"                                   :blog:
+CLOSED: [2025-03-17 Mo 11:51] DEADLINE: <2025-03-11 Di 22:00>
+:PROPERTIES:
+:CAPTURED: [2025-03-11 Di 09:32]
+:CUSTOM_ID: h:20250311T093258
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-03-17 Mo 11:51]
+:END:
+
+Wie kann das Bloggen auf "After Dark" automatisieren? Oder besser und einfacher mit =magit= erledigen?
+
+[[denote:20250311T092046::#h:8032f492-f03b-48ea-9912-87f7ad26bd00][Neue Schule::Wie geht es weiter?]]
+
 * Wishlist
 :PROPERTIES:
 :CATEGORY: wishlist
@@ -466,7 +488,8 @@ Auf PH Online suchen nach "Störungen im Unterricht"; und dann war noch eine zwe
 Maildir in =~/Maildir/schule=
 [[denote:20250107T082318::#h:abefd19a-8cdd-4aa3-ab69-1bd4fdcc7fef][Schule einrichten::BU Kammerl]]
 
-** TODO [#A] ~denote-extras-journal-new-entry~                      :privat:
+** TODO [#A] ~denote-journal-new-entry~                             :privat:
 :PROPERTIES:
 :CATEGORY: journal
 :END:
+So gut wie täglich einen Eintrag schreiben, ist ja auch ein =journal=.

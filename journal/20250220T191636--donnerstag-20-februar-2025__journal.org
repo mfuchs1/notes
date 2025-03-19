@@ -1,4 +1,4 @@
-#+title:      Donnerstag 20 Februar 2025 19:16
+#+title:      Donnerstag 20 Februar 2025
 #+date:       [2025-02-20 Do 19:16]
 #+filetags:   :journal:
 #+identifier: 20250220T191636

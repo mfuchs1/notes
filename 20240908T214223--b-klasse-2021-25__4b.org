@@ -32,10 +32,27 @@ etc...
 :PROPERTIES:
 :CUSTOM_ID: h:fa97f49d-8228-4a7d-aab5-440fbe1a9d49
 :END:
-Scheitern und Neubeginn
-Jedes Scheitern kann auch Beginn eines neuen Weges sein.
-Beispiel aus meinem Leben finden, austauschen, einzelne Gedanken aufschreiben.
+Lk 15 - der barmherzige Vater
 
+[[file:Bibel/nt/Lk_15.org::v11][Lk 15,11]]-[[file:Bibel/nt/Lk_15.org::v33][33]]
+
+[[file:~/MMS_Abtenau/Das Gleichnis vom verlorenen Sohn.pdf]]
+
+[[https://youcat.org/wp-content/uploads/2023/07/Conf-handbook-material-deu-11.pdf]]
+
+Comic dazu zeichnen
+
+Verbindung / Bezug zu Beichte herstellen:
+- Das Erbteil zu Lebzeiten des Vaters zu fordern (NoGo)!
+- Jüngerer Sohn verprasst das Erbteil - es bleibt nur mehr eine Hälfte, die der Ältere dann mit dem Jüngeren teilen muss.
+- Jüngerer Sohn drängt sich einem Schweinebauern auf - undenkbar für einen Juden! Wie schlimm muss es dem Jüngeren Sohn gehen, dass er dies tut!
+- Er sieht sich nicht mehr als Sohn des Vaters.
+- Kehrt um.
+- Vater sieht ihn schon vom Weiten: die Sehnsucht des Vaters!
+- Begrüßung ist überschwänglich, fast schon skandalös.
+- Vater setzt Jüngeren wieder als Sohn ein.
+- Älterer ist empört. Will nicht mit feiern.
+- Ende ist offen: wie wird es ausgehen?
 
 ** Hefteintrag
 Arbeitsweg 1 - 5
@@ -325,5 +342,29 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 |-----------------------+-------+-------------+-----+-----------+------------|
 |                       |       |             |     |           |            |
 #+TBLFM: $6=vmean($3..$5);%.0f
+
+
+* Reflexionen
+
+** Es macht keine Freude mehr
+:PROPERTIES:
+:CAPTURED: [2025-03-10 Mo 11:50]
+:DESCRIPTION: [[denote:20240717T163657::#h:050ab493-78d8-44f8-8ad2-55d080054b5e][Agenda::4b 11:30-12:20]]
+:END:
+Jede Stunde muss man ermahnen, es herrscht nur Wirbel; wie im Wirtshaus. Kein ruhiges Arbeiten mehr.
+
+Warum ist man als RL eigentlich alleine - und in M, D und E sind die Kollegen zu zweit?
+
+** Diese Stunde war wieder okay
+:PROPERTIES:
+:CAPTURED: [2025-03-11 Di 08:58]
+:DESCRIPTION: [[denote:20240717T163657::#h:046fba0d-845d-48c6-a721-d0d6caf23d10][Agenda::4b 07:45-08:35]]
+:CUSTOM_ID: h:d66fab21-8042-4328-b486-98145030a99b
+:END:
+Komisch - heute war es wieder okay. Ich war auch ausgeschlafen (mehr oder weniger) und guter Laune. Die Stunde begann normal, um Punkt 08:00 haben die Schüler eine Schlacht mit Papierkugeln begonnen. Ich nahm es lustig, machte mit und es dauerte ein paar Minuten, bis sich alles wieder beruhigte.
+
+Beim Kahoot zum Schluss machte jeder mit.
+
+Ich hab in meiner Freistunde kurz mit Marius gesprochen: (Link zu memo).
 
 
