@@ -271,6 +271,14 @@ LS alleine ist ein Ding der Unmöglichkeit - während man sich um einen Schüler
 #+tblfm: $2=@#-1
 #+TBLFM: $6=vmean($4..$5);%.0f
 
+*** Selbständigkeit
+:PROPERTIES:
+:CAPTURED: [2025-03-20 Do 08:47]
+:DESCRIPTION: [[denote:20240717T163657::#h:c6389224-85a9-47ab-9da7-afdbdb59a472][Agenda::1c (RLS) 08:35-09:25]]
+:END:
+Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht sie nicht und fragt nach. Oder fragt, noch ehe sie die Anweisungen gelesen hat.
+
+
 
 ** Lena Englbrecht
 :PROPERTIES:
