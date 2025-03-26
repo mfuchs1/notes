@@ -5,21 +5,9 @@
 #+CATEGORY: org-gcal
 
 
-* Supplierstunde 3c E
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3480264924186910"
-:entry-id: ar4rsq4aofbfna2t4eogeijrq0/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2025-02-21 Fr 10:30-11:20>
-:END:
-
-
 * Erstkommunion Kerze basteln Leopold
 :PROPERTIES:
-:ETag:     "3463222873950000"
+:ETag:     "3474402215320935"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 64rjgcpn60s30b9nc4s64b9k68pj0b9o6kqm4b9iccsj2e9p68pmadr6ck/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -318,3 +306,25 @@
 :END:
 
 
+
+* Erstkommunion Leopold Vorbereitung
+:PROPERTIES:
+:ETag:     "3485581738449054"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 68rm4eb16oqm6b9hccr36b9k6tijcb9pchhjgb9pcoqm8phk6gpm6eb4ck/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-04-07 Mo 13:30-16:30>
+:END:
+
+* Konferenz
+:PROPERTIES:
+:ETag:     "3485964803470014"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 69tea1l1cruc3db7n64sfrpstj/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-04-02 Mi 15:00-18:00>
+:END:
