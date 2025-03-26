@@ -45,13 +45,17 @@ Wie war RU?
 :CUSTOM_ID: h:816b01d1-d309-4de2-a45e-8a1463051e5d
 :END:
 
-The Chosen - 3. Staffel - Episode 8
+The Chosen - 4. Staffel - Episode 1
 
 Lk 15 - der verlorene Sohn / der barmherzige Vater
 Bildergeschichte zeichnen
 
 
+
 ** Hefteintrag
+:PROPERTIES:
+:CUSTOM_ID: h:f5040f65-8efe-4ae4-b99c-73aa429142b8
+:END:
 Arbeitsweg 1 - 4
 
 http://www.veritas.at/code (rfu300)

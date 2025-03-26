@@ -1,0 +1,40 @@
+#+title:      Drachenwein und Engelsbrot
+#+date:       [2025-03-24 Mo 09:37]
+#+filetags:   :theology:spirituality:biblio:bunge2018:
+#+identifier: 20250324T093740
+
+#+begin_src bibtex
+@book{bunge2018,
+  title={Drachenwein und Engelsbrot: die Lehre des Evagrios Pontikus von Zorn und Sanftmut},
+  author={Bunge, Gabriel},
+  year={2018},
+  publisher={Beuroner Kunstverlag}
+}
+#+end_src
+
+* Einleitung
+
+* Das Evagrianische Menschenbild
+
+* Das Laster der Dämonen
+
+* Der Zorn im Katalog der acht Lastergedanken
+
+* Wesensbestimmung des Lasters
+
+* Die Folgen
+
+* Zorn und Gebet
+
+* Die Blendung des Intellektes
+
+* Die Heilmittel
+
+* "Reines Gebet"
+
+* Zwiesprache mit Gott
+
+* Die Tugend der Engel
+
+* "... denn seine Liebe war sehr sanft"
+

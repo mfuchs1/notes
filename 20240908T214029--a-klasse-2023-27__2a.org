@@ -377,6 +377,16 @@ Macht diese Stunde gar nichts.
 #+tblfm: $2=@#-1
 #+TBLFM: $6=vmean($4..$5);%.0f
 
+*** Macht wenig bis nix
+:PROPERTIES:
+:CAPTURED: [2025-03-24 Mo 10:40]
+:DESCRIPTION: [[denote:20240717T163657::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][Agenda::2a (RLS) 10:30-11:20]]
+:END:
+Macht M HÜ in der LS;
+Arbeitet wenig bis nix.
+
+
+
 * Reflexionen
 :PROPERTIES:
 :CUSTOM_ID: h:6f5cf25d-9df6-4985-ab8d-d0d6171cf968
@@ -452,5 +462,26 @@ Ich müsste ohne Unterlass ermahnen, ermahnen, ermahnen, immer wieder steht wer 
 Es herrscht keine ruhige Arbeitsatmosphäre - ob das überhaupt möglich ist?
 
 Bin ich an einem Ende der Klasse (Hilfe), dann entsteht am anderen Ende Unruhe; ermahnen nutzt gar nichts. Egal ob laut, normal, etc ...
+
+** Und schon wieder - nix arbeiten!
+:PROPERTIES:
+:CAPTURED: [2025-03-24 Mo 10:48]
+:DESCRIPTION: [[denote:20240717T163657::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][Agenda::2a (RLS) 10:30-11:20]]
+:END:
+Siehe Titel!
+
+Valentin R., David arbeiten;
+Christian hab ich das Tablet für den Rest der Stunde abgenommen - hat Videospiele gespielt.
+Matteo, Jonas arbeiten nicht - zumindest sehr wenig.
+
+Thommy? spielt er auch?
+
+Auf jeden Fall muss ich mir überlegen, bis wann die Schüler mit einem LJ fertig werden müssen. Hab den Eindruck, dass da nicht viel geschieht.
+
+Emilia hat trotz Ermahnung mit ihrer Saftflasche herum gespielt: natürlich lief sie aus, Überschwemmung!
+
+Matteo macht nix, redet viel, es wird gegrunzt, etc.
+
+
 
 

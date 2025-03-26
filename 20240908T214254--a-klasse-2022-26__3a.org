@@ -125,7 +125,26 @@ Ich könnte ohne Unterlass, in jeder Stunde und jeder Klasse nur laut sein, erma
 
 Wie bringt man Kinder dazu, sich respektvoller zu benehmen? Warum soll ich als Lehrer das bewerkstelligen? Meine Aufgabe ist Unterricht, nicht Erziehung. Scheinbar schiebt ein Großteil der Eltern ihre Aufgabe an die Schule ab.
 
+** Chaos
+:PROPERTIES:
+:CAPTURED: [2025-03-24 Mo 12:36]
+:DESCRIPTION: [[denote:20240717T163657::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][Agenda::3a 12:20-13:10]]
+:END:
+Nur Chaos! Arbeit mit dem Buch: "Ich hab kein Buch!" (Amelie)
 
+Arbeit mit Tablet: "Mein Tablet hat keinen Akku!" (Simon S.)
+
+Alle 5 Sekunden "Herr Fuchs!"
+
+Alle 5 Minuten "Aufs Klo!" (Lina und Luisa)
+
+Frontalunterricht: geht nicht.
+
+Freiarbeit mit AB - geht nicht.
+
+Was soll ich dann tun?
+
+Jakob arbeitet nix, diskutiert über Busverbindungen.
 
 * Schülerliste
 #+Name: 2021-students

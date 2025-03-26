@@ -5,17 +5,6 @@
 #+CATEGORY: org-gcal
 
 
-* Geburtstag Gabriel (2012)
-:PROPERTIES:
-:ETag:     "3482930703955710"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: cksjee9gc4rjibb46gsm8b9k61i3abb174q3gbb174pj4e1p64o38dhi70_20250212/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-02-12 Mi>
-:END:
-
 * Supplierstunde 3c E
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
@@ -316,3 +305,16 @@
 :org-gcal:
 <2025-05-09 Fr 14:15-14:45>
 :END:
+
+* Testeintrag
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3485100677830718"
+:entry-id: ke78hs7q0qphei91k659fgpb5k/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-03-21 Fr 22:00-23:00>
+:END:
+
+
