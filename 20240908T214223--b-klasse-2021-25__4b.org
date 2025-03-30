@@ -32,7 +32,8 @@ etc...
 :PROPERTIES:
 :CUSTOM_ID: h:fa97f49d-8228-4a7d-aab5-440fbe1a9d49
 :END:
-Lk 15 - der barmherzige Vater
+
+*** Lk 15 - der barmherzige Vater
 
 [[file:Bibel/nt/Lk_15.org::v11][Lk 15,11]]-[[file:Bibel/nt/Lk_15.org::v33][33]]
 
@@ -54,11 +55,21 @@ Verbindung / Bezug zu Beichte herstellen:
 - Älterer ist empört. Will nicht mit feiern.
 - Ende ist offen: wie wird es ausgehen?
 
-Überleitung zur Beichte / 5 Schritte zu einem besseren Leben
+Überleitung zur Beichte / 5 Schritte zu einem besseren Leben:
+- Besinnen
+- Bereuen
+- Bessern
+- Bekennen
+- Buße
 
-Was wir über Gott wissen können...
 
+*** Karwoche
+Palmsonntag - Gründonnerstag - Karfreitag - Karsamstag - ...
 
+Bibelstellen
+Lukas-Evangelium; ergänzt durch Johannes (Fußwaschung Joh 13 - Liebesgebot)
+
+YouCat
 
 ** Hefteintrag
 Arbeitsweg 1 - 5
@@ -66,6 +77,13 @@ Arbeitsweg 1 - 5
 http://www.veritas.at/code (rfu426) für Material und Übungen
 
 Übungsteil S. 46
+
+** Was wir über Gott wissen können
+Die sehr theoretischen Fragen vorher sind für die 4b wohl zu arg. Also:
+
+Direkt zu Bibelstellen (Schöpfer, Moses Gottes Name, Gott liebt die Welt, wir sind Jesu Freunde)
+drei Zeichnungen (Paradies, Moses, Jesus)
+
 
 * Klassenliste
 #+Name: 2021-students

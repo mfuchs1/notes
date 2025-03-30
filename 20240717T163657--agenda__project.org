@@ -166,7 +166,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1a 12:20-13:10                                                     :1a:
-<%%(org-class 2024 9 13 2025 7 4 5 01)>
+<%%(org-class 2024 9 13 2025 7 4 5 13)>
 [[denote:20240908T214000][A Klasse 2024-28]]
 
 
