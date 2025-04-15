@@ -37,7 +37,10 @@
 ** Montag
 
 *** 1d (RLS) 07:45-08:35                                               :1d:
-<%%(org-class 2024 9 9 2025 6 30 1 02)>
+:PROPERTIES:
+:CUSTOM_ID: h:79e7082f-c4b2-47d0-9506-6bde40e15f69
+:END:
+<%%(org-class 2024 9 9 2025 6 30 1 15)>
 [[denote:20240908T213847][D Klasse 2024-28]]
 
 *** 1a (RLS) 08:35-09:25                                               :1a:
@@ -162,11 +165,11 @@ Unterricht heute (10.09.) um 10:15 beenden.
 [[denote:20240908T214359][B Klasse 2022-26]]
 
 *** 4c 11:30-12:20                                                     :4c:
-<%%(org-class 2024 9 13 2025 7 4 5 01)>
+<%%(org-class 2024 9 13 2025 7 4 5 15)>
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1a 12:20-13:10                                                     :1a:
-<%%(org-class 2024 9 13 2025 7 4 5 13)>
+<%%(org-class 2024 9 13 2025 7 4 5 15)>
 [[denote:20240908T214000][A Klasse 2024-28]]
 
 

@@ -43,17 +43,6 @@
 :PROPERTIES:
 :ETag:     "3482930703590686"
 :calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4dj0omplsabjekmsrfpaqtjf74_20250307T151500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-03-07 Fr 16:15-17:45>
-:END:
-
-* Kletterkurs Gabriel
-:PROPERTIES:
-:ETag:     "3482930703590686"
-:calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 4dj0omplsabjekmsrfpaqtjf74_20250314T151500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
@@ -138,41 +127,6 @@
 <2025-05-02 Fr 16:15-17:45>
 :END:
 
-* Supplierstunde 1d M (mit Annette)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3482930702749886"
-:entry-id: gtjku9tt488hoqafvq4tb9gg28/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2025-03-05 Mi 10:30-11:20>
-:END:
-
-
-* Konferenz
-:PROPERTIES:
-:ETag:     "3482930702490718"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 68rjacr460o3cb9mclh3cb9kckrj4b9p6oo38bb664q36d9j6grm2e9pc8/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:CUSTOM_ID: h:60b47cf5-14c3-455c-8795-8487155df8a3
-:END:
-:org-gcal:
-<2025-03-06 Do 17:00-19:00>
-:END:
-
-* Kinder im Coq abholen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3482930702982366"
-:entry-id: umjaelgmib6gl826nmcmlkm870/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2025-03-07 Fr 14:00-15:00>
-:END:
-
 * Kletterkurs Gabriel
 :PROPERTIES:
 :ETag:     "3482930703590686"
@@ -186,7 +140,7 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3486203208618270"
+:ETag:     "3487857598840990"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250314T131500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -197,7 +151,7 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3486203208618270"
+:ETag:     "3487857598840990"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250321T131500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -208,7 +162,7 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3486203208618270"
+:ETag:     "3487857598840990"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250404T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -219,7 +173,7 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3486203208618270"
+:ETag:     "3487857598840990"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250411T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -230,7 +184,7 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3486203208618270"
+:ETag:     "3487857598840990"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250418T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -241,7 +195,7 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3486203208618270"
+:ETag:     "3487857598840990"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250425T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -252,7 +206,7 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3486203208618270"
+:ETag:     "3487857598840990"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250502T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -263,7 +217,7 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3486203208618270"
+:ETag:     "3487857598840990"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250509T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -287,29 +241,20 @@
 
 * Erstkommunion Leopold Vorbereitung
 :PROPERTIES:
-:ETag:     "3485581738449054"
+:ETag:     "3488011244310494"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 68rm4eb16oqm6b9hccr36b9k6tijcb9pchhjgb9pcoqm8phk6gpm6eb4ck/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
 :org-gcal:
 <2025-04-07 Mo 13:30-16:30>
-:END:
 
-* Konferenz
-:PROPERTIES:
-:ETag:     "3485964803470014"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 69tea1l1cruc3db7n64sfrpstj/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-04-02 Mi 15:00-18:00>
+Adresse: Gangsteig 9 (Massage Fritz Eibl)
 :END:
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3486203208618270"
+:ETag:     "3487857598840990"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250516T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -320,11 +265,73 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3486203208618270"
+:ETag:     "3487857598840990"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250523T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
 :org-gcal:
 <2025-05-23 Fr 14:15-14:45>
+:END:
+
+* Konferenz
+:PROPERTIES:
+:ETag:     "3486906033567902"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 6orm2ophc4rjib9m74ojab9kckrj4bb26ti3gb9ickpjcd1hccr32cho68/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-04-09 Mi 15:50-18:00>
+:END:
+
+* Supplierstunde 3b D (statt Florian)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3488011010820510"
+:entry-id: l5s3g5gjepdob7k3hpa637247s/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:5b179cd6-af58-4a8b-b40b-b60868bf77a3
+:END:
+:org-gcal:
+<2025-04-07 Mo 07:45-08:35>
+
+Nachricht von Florian: diese Stunde kann ich ignorieren; er ist die ersten 25 Minuten noch da, den Rest macht Eva alleine.
+:END:
+
+* Supplierstunde 2a GPB (statt Lena)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3488011388559134"
+:entry-id: tatao40di2lfv9qfpanf2u7j6s/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:a90c07d4-565d-4200-ab10-0a824a00a587
+:END:
+:org-gcal:
+<2025-04-09 Mi 12:20-13:10>
+
+Lena wird mir Material auf meinen Platz legen; Kinder arbeiten selbständig.
+:END:
+
+* Ostergottesdienst
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3487859313843326"
+:entry-id: 2h9kkd6cos807vcrabm4kdm42k/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-04-11 Fr 08:00-09:00>
+:END:
+
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3487857598840990"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 03n18k89s70j3dtotnus5ijf9b_20250530T121500Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-05-30 Fr 14:15-14:45>
 :END:
