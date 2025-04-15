@@ -22,16 +22,16 @@ Lesen in der 2. Stunde.
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
-** Alle Themen (Überblick) [2/13]
+** Alle Themen (Überblick) [7/13]
 - [X] Der Sturm auf dem See
 - [ ] Der Sonnengesang
 - [X] Heilige
-- [ ] Heilige Orte
-- [ ] Die Adventzeit
-- [ ] Beten
-- [ ] Menschen zur Zeit Jesu
+- [X] Heilige Orte
+- [X] Die Adventzeit
+- [X] Beten
+- [X] Menschen zur Zeit Jesu
 - [ ] Neues Testament
-- [ ] Hl. Blasius / Hl. Rupert
+- [X] Hl. Blasius / Hl. Rupert
 - [ ] Die Schriften von Qumran
 - [ ] Liturgische Farben im Kirchenjahr
 - [ ] Kalenderzeiten und Lebenskreise
@@ -60,8 +60,11 @@ AB etc kopieren (ohne Tablet arbeiten)
 :END:
 Kirchenjahr - Osterfestkreis
 
-Karwoche
-
+Karwoche 
+- Bibelstellen
+- kleine Zeichnung
+- Worum geht's an diesem Fest? Was bedeutet das Fest für mich?
+- Eventuell: Bräuche
 
 
 ** Hefteintrag

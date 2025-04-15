@@ -44,54 +44,11 @@ etc...
 :END:
 [[denote:20241014T223303][Themenwünsche der 4c]]
 
-Wofür brenne ich selber? Machen, was mich selbst interessiert - nicht, weil es im Buch steht. So gut wie jedes Thema kann ich im Lehrplan unterbringen.
+*** Kreuzweg
+[[file:~/Dokumente/Der Kreuzweg Jesu.odt]]
 
-[[https://youcat.org/de/zusatzmaterial/youcat/]]
+[[file:~/Dokumente/LaTex_2/Modul 18_Gottes Nähe in Fest und Feiern/Kreuzweg.pdf]]
 
-Judentum / The Chosen - Staffel 3, Episode 8
-
-Lk 15 - der barmherzige Vater
-
-[[file:Bibel/nt/Lk_15.org::v11][Lk 15,11]]-[[file:Bibel/nt/Lk_15.org::v33][33]]
-
-[[file:~/MMS_Abtenau/Das Gleichnis vom verlorenen Sohn.pdf]]
-
-Comic dazu zeichnen
-
-Verbindung / Bezug zu Beichte herstellen:
-- Das Erbteil zu Lebzeiten des Vaters zu fordern (NoGo)!
-- Jüngerer Sohn verprasst das Erbteil - es bleibt nur mehr eine Hälfte, die der Ältere dann mit dem Jüngeren teilen muss.
-- Jüngerer Sohn drängt sich einem Schweinebauern auf - undenkbar für einen Juden! Wie schlimm muss es dem Jüngeren Sohn gehen, dass er dies tut!
-- Er sieht sich nicht mehr als Sohn des Vaters.
-- Kehrt um.
-- Vater sieht ihn schon vom Weiten: die Sehnsucht des Vaters!
-- Begrüßung ist überschwänglich, fast schon skandalös.
-- Vater setzt Jüngeren wieder als Sohn ein.
-- Älterer ist empört. Will nicht mit feiern.
-- Ende ist offen: wie wird es ausgehen?
-
-*** Sakramente
-:PROPERTIES:
-:CUSTOM_ID: h:fc516585-737f-4d61-9615-98d5d51e677b
-:END:
-Firmung / Kirche
-
-*** Kann man Gott beweisen?
-Ursache Wirkung
-1. Der unbewegte Beweger. Nichts bewegt sich, ohne dass es zuvor einen Beweger gibt. Das führt zu einer Regression (einem "Rückgriff"), und Gott ist der einzige Ausweg. Irgendetwas muss die erste Bewegung veranlasst haben, und dieses Etwas nennen wir Gott. 
-
-2. Die Ursache ohne Ursache. Nichts wird von sich selbst verursacht. Jede Wirkung hat eine vorausgehende Ursache, und wieder landen wir in der Regression. Diese muss durch eine erste Ursache beendet werden, die wir Gott nennen.
-
-3. Das kosmologische Argument. Es muss eine Zeit gegeben haben, in der keine physikalischen Objekte existierten. Da heute aber physikalische Gegenstände vorhanden sind, muss irgendetwas Nichtphysikalisches sie ins Dasein gebracht haben, und dieses Etwas nennen wir Gott.
-
-4. Das Argument der Stufungen. Wir beobachten, dass die Dinge in der Welt unterschiedlich sind. Es gibt beispielsweise Abstufungen von Tugend oder Vollkommenheit. Aber solche Abstufungen können wir nur durch den Vergleich mit einem Maximum beurteilen (kursiv von mir! - P.) Menschen können sowohl gut als auch schlecht sein, also kann das Maximum des Gutseins nicht in uns liegen. Es muss ein anderes Maximum geben, das den Maßstab der Vollkommenheit bildet, und dieses Maximum nennen wir Gott. (S. 110)
-
-5. Das teleologische Argument: Der fünfte Beweisgang wird genommen aus der Steuerung der Dinge. Wir sehen nämlich, dass gewisse Dinge, die der Erkenntnis ermangeln, etwa die Naturkörper, ins Werk gesetzt sind auf ein Ziel hin, was dadurch einleuchtet, dass sie immer oder häufiger auf gleiche Art ins Werk gesetzt werden, so dass das folgt, was das Beste ist.
-   Daher ist offensichtlich, dass sie nicht zufällig, sondern aus Absicht zum Ziel gelangen. Das aber, was keine Erkenntnis hat, strebt nicht nach einem Ziel, es sei denn, es ist gelenkt von irgendeinem Erkennenden oder Intelligentem, wie der Pfeil vom Schützen. Folglich IST ein Intelligentes, von dem alle Naturdinge auf ein Ziel zugeordnet werden, und das nennen wir "Gott".
-
-Thomas: "In Bezug auf die göttliche Wesenheit aber muss zuerst betrachtet werden, ob Gott IST;
-zweitens, wie er ist, oder vielmehr, wie er nicht IST;
-drittens werden diese Aspekte zu betrachten sein, die zu seinem Wirken gehören, nämlich Weisheit und Wille und Macht." (Summa Theologiae, qu. 2)
 
 ** Hefteintrag
 Arbeitsweg 1 - 5
