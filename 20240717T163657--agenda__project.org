@@ -37,7 +37,10 @@
 ** Montag
 
 *** 1d (RLS) 07:45-08:35                                               :1d:
-<%%(org-class 2024 9 9 2025 6 30 1 02)>
+:PROPERTIES:
+:CUSTOM_ID: h:79e7082f-c4b2-47d0-9506-6bde40e15f69
+:END:
+<%%(org-class 2024 9 9 2025 6 30 1 15)>
 [[denote:20240908T213847][D Klasse 2024-28]]
 
 *** 1a (RLS) 08:35-09:25                                               :1a:
@@ -48,10 +51,13 @@
 :PROPERTIES:
 :CUSTOM_ID: h:8608e26f-9bf9-4794-967d-c77e01ba5036
 :END:
-<%%(org-class 2024 9 9 2025 6 30 1 03)>
+<%%(org-class 2024 9 9 2025 6 30 1 06)>
 [[denote:20240908T214029][A Klasse 2023-27]]
 
 *** 4b 11:30-12:20                                                     :4b:
+:PROPERTIES:
+:CUSTOM_ID: h:050ab493-78d8-44f8-8ad2-55d080054b5e
+:END:
 <%%(org-class 2024 9 9 2025 6 30 1 02)>
 [[denote:20240908T214223][B Klasse 2021-25]]
 
@@ -65,6 +71,9 @@
 ** Dienstag
 
 *** 4b 07:45-08:35                                                     :4b:
+:PROPERTIES:
+:CUSTOM_ID: h:046fba0d-845d-48c6-a721-d0d6caf23d10
+:END:
 <%%(org-class 2024 9 10 2025 7 1 2 02)>
 [[denote:20240908T214223][B Klasse 2021-25]]
 
@@ -83,14 +92,14 @@ Unterricht heute (10.09.) um 10:15 beenden.
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1c 12:20-13:10                                                     :1c:
-<%%(org-class 2024 9 10 2025 7 1 2 02)>
+<%%(org-class 2024 9 10 2025 7 1 2 06)>
 [[denote:20240908T214521][C Klasse 2024-28]]
 
 *** 1c Gitarre 13:10-14:00                                        :gitarre:
 :PROPERTIES:
 :CUSTOM_ID: h:0828bca0-3f7a-4415-8396-d2670488db35
 :END:
-<%%(org-class 2024 9 10 2025 7 1 2 02)>
+<%%(org-class 2024 9 10 2025 7 1 2 06)>
 [[denote:20240908T214521::#h:169d71d5-10a5-4f37-af06-dcf58b198a1c][C Klasse 2024-28::Instrumentalunterricht / Gitarre]]
 
 
@@ -98,7 +107,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :PROPERTIES:
 :CUSTOM_ID: h:b87c6e14-801c-4864-a238-0868eda34154
 :END:
-<%%(org-class 2024 9 10 2025 7 1 2 02)>
+<%%(org-class 2024 9 10 2025 7 1 2 06)>
 [[denote:20240908T214521::#h:169d71d5-10a5-4f37-af06-dcf58b198a1c][C Klasse 2024-28::Instrumentalunterricht / Gitarre]]
 
 ** Mittwoch
@@ -113,10 +122,16 @@ Unterricht heute (10.09.) um 10:15 beenden.
 ** Donnerstag
 
 *** 3a 07:45-08:35                                                     :3a:
-<%%(org-class 2024 9 12 2025 7 3 4 02)>
+:PROPERTIES:
+:CUSTOM_ID: h:3af308f7-445a-4fa1-9b7d-256f09153015
+:END:
+<%%(org-class 2024 9 12 2025 7 3 4 08)>
 [[denote:20240908T214254][A Klasse 2022-26]]
 
 *** 1c (RLS) 08:35-09:25                                               :1c:
+:PROPERTIES:
+:CUSTOM_ID: h:c6389224-85a9-47ab-9da7-afdbdb59a472
+:END:
 <%%(org-class 2024 9 12 2025 7 3 4 02)>
 [[denote:20240908T214521][C Klasse 2024-28]]
 
@@ -150,17 +165,17 @@ Unterricht heute (10.09.) um 10:15 beenden.
 [[denote:20240908T214359][B Klasse 2022-26]]
 
 *** 4c 11:30-12:20                                                     :4c:
-<%%(org-class 2024 9 13 2025 7 4 5 01)>
+<%%(org-class 2024 9 13 2025 7 4 5 15)>
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1a 12:20-13:10                                                     :1a:
-<%%(org-class 2024 9 13 2025 7 4 5 01)>
+<%%(org-class 2024 9 13 2025 7 4 5 15)>
 [[denote:20240908T214000][A Klasse 2024-28]]
 
 
-* Tasks with a date
+* Tasks
 :PROPERTIES:
-:CATEGORY: tasks&date
+:CATEGORY: TODO
 :CUSTOM_ID: h:ace38b83-beb1-4db2-9872-936865a20b7c
 :END:
 
@@ -341,13 +356,28 @@ CLOSED: [2024-12-12 Do 10:06] DEADLINE: <2024-12-10 Di 20:00>
 :END:
 Ablauf an Thomas Daxinger (3c) mit Ablauf des Gottesdienstes / damit er seine Lieder platzieren kann.
 
+** TODO etwas Neues
+
+** DONE [#A] Hugo Blog "After Dark"                                   :blog:
+CLOSED: [2025-03-17 Mo 11:51] DEADLINE: <2025-03-11 Di 22:00>
+:PROPERTIES:
+:CAPTURED: [2025-03-11 Di 09:32]
+:CUSTOM_ID: h:20250311T093258
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-03-17 Mo 11:51]
+:END:
+
+Wie kann das Bloggen auf "After Dark" automatisieren? Oder besser und einfacher mit =magit= erledigen?
+
+[[denote:20250311T092046::#h:8032f492-f03b-48ea-9912-87f7ad26bd00][Neue Schule::Wie geht es weiter?]]
 
 * Wishlist
 :PROPERTIES:
 :CATEGORY: wishlist
 :END:
 
-* Unprocessed / Inbox / Tasks without date
+* Unprocessed
 :PROPERTIES:
 :CATEGORY: unprocessed
 :END:
@@ -461,3 +491,8 @@ Auf PH Online suchen nach "Störungen im Unterricht"; und dann war noch eine zwe
 Maildir in =~/Maildir/schule=
 [[denote:20250107T082318::#h:abefd19a-8cdd-4aa3-ab69-1bd4fdcc7fef][Schule einrichten::BU Kammerl]]
 
+** TODO [#A] ~denote-journal-new-entry~                             :privat:
+:PROPERTIES:
+:CATEGORY: journal
+:END:
+So gut wie täglich einen Eintrag schreiben, ist ja auch ein =journal=.

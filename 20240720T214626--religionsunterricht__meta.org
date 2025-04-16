@@ -147,6 +147,21 @@ Marie-Luise wird am Montag (sechste Stunde, 3a) nach Abtenau kommen.
 
 Isabelle: Du bist ein toller Lehrer, Papa und Ehemann. Du kannst mit "stolzer Brust und mit einem Lächeln" nach Abtenau fahren.
 
+** Notengebung in =Org-mode=
+:PROPERTIES:
+:CAPTURED: [2025-02-17 Mo 10:14]
+:END:
+Mit meinen Aufzeichnungen bin ich noch nicht ganz zufrieden - es ist nicht wirklich praxisnahe. Ohne PC, Emacs, etc würde ich es so machen: ein Lehrerheft, in dem ich in einer großen Tabelle pro Schüler Mitarbeit, Lernjobs, etc eintrage. Am Ende des Semesters ergibt sich daraus die Note.
+
+In =Emacs= arbeite ich mit =org-mode= - es gibt =org-table=. Im Moment habe ich pro Schüler eine kleine Tabelle, in die Mitarbeit, etc eintrage. Dann gibt es pro Klasse eine Gesamttabelle - hier würde ich die Gesamtnote eintragen.
+
+- Frage :: Wie kann ich Daten aus einer Schülertabelle in die betreffende Zeile / Spalte der Gesamttabelle übertragen?
+
+** Gesprächsnotizen mit Gabriele
+:PROPERTIES:
+:CAPTURED: [2025-02-17 Mo 11:06]
+:END:
+Ich muss alle meine Notizen durchforsten und alle Memos der Gespräche mit Gabriele zusammenfassen. Vielleicht erstelle ich überhaupt eine eigene Datei für memos, mit einem ~org-capture-template~.
 
 * Tasks
 Hier steht sehr viel Text.

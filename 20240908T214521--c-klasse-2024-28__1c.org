@@ -63,27 +63,18 @@ einige ABs sind zu kopieren!
 :PROPERTIES:
 :CUSTOM_ID: h:2f19ed33-db95-48ba-8bd2-02f932c70f11
 :END:
-Diesmal keine Lernschiene, sondern die Adventskranz Weihe vorbereiten.
+Gebet:
+- fest formulierte Gebete
+- freie Gebete
 
-[[denote:20241127T145419][Geschichte Adventskranz]]
+Danke, Bitte, Lobpreis, Anbetung, Klage
 
-Fürbitte bedeutet Einstehen für (die Anliegen) andere(r) Menschen vor Gott. Nur echt, wenn wir auch bereit sind, unseren Beitrag zur Verwirklichung zu leisten. Sind keine Moralappelle an die Anwesenden oder Anweisung an Gott, wie er zu handeln hat. Sollen einfach formuliert sein und dem Glauben entsprechen. Keine Banalitäten; keine Zumutungen an andere. 
+Körperhaltung:
+knien, stehen, mit den Füßen, sitzen, Hand auf die Brust, Hände nach oben, mit Händen eine Schale machen, Hände falten, ...
 
-Fürbitten - die Kinder die Fürbitten formulieren lassen. Die folgenden Fürbitten verwenden, wenn von Kindern gar nichts kommt:
-- Frieden :: Gott, unser Vater, befreie die Welt von Zwietracht und Krieg, damit die Menschen in Frieden miteinander leben können. Frieden dort wo Krieg ist / Frieden in unseren Herzen / in unseren Familien.
-  Gott, unser Vater, wir beten für jene, die miteinander streiten; lass sie Wege der Versöhnung finden.
+Fotos - Gebete dazu verfassen
 
-- Glaube :: Gott, unser Vater, du hast uns zum Glauben berufen. Festige unseren Glauben in Stunden
-des Zweifels und mache uns standhaft gegen alle Anfeindungen.
-
-Du bist der Lebendige; schenke allen, die an dich glauben, das ewige Leben.
-
-- Liebe :: Gott, unser Vater, wir beten für jene, die einsam und krank sind; lass sie deine Liebe spüren.
-  
-- Hoffnung :: Du Licht der Welt, auf das Simeon mit allen Gerechten gewartet hat, komm und tröste alle, die auf dich warten.
-
-  Gott, unser Vater, stärke in uns die Zuversicht, dass du die Kirche mit deinem Heiligen
-Geist führst und leitest. 
+Eigenes Gebet schreiben...
 
 
 ** Hefteintrag
@@ -130,6 +121,13 @@ Schüler waren respektlos mit mir, lasse sie den Lernstoff der Stunde ins Heft s
 Natürlich wird dann meine Maßnahme hinterfragt (Warum wir alle?); obwohl ja eigentlich so gut wie alle mitgemacht haben.
 
 Oder: warum haben Sie den Gitarrenunterricht auf Teams angelegt? etc. Es wird gerotzt, ...
+
+** Lernschiene alleine?
+:PROPERTIES:
+:CAPTURED: [2025-03-06 Do 09:18]
+:DESCRIPTION: [[denote:20240717T163657::#h:c6389224-85a9-47ab-9da7-afdbdb59a472][Agenda::1c (RLS) 08:35-09:25]]
+:END:
+LS alleine ist ein Ding der Unmöglichkeit - während man sich um einen Schüler kümmert, machen andere Schüler am anderen Ende der Klasse einen Blödsinn, besonders Leo und Simon.
 
 
 * Schülerliste
@@ -272,6 +270,14 @@ Oder: warum haben Sie den Gitarrenunterricht auf Teams angelegt? etc. Es wird ge
 |       |             |       |         |           |            |
 #+tblfm: $2=@#-1
 #+TBLFM: $6=vmean($4..$5);%.0f
+
+*** Selbständigkeit
+:PROPERTIES:
+:CAPTURED: [2025-03-20 Do 08:47]
+:DESCRIPTION: [[denote:20240717T163657::#h:c6389224-85a9-47ab-9da7-afdbdb59a472][Agenda::1c (RLS) 08:35-09:25]]
+:END:
+Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht sie nicht und fragt nach. Oder fragt, noch ehe sie die Anweisungen gelesen hat.
+
 
 
 ** Lena Englbrecht

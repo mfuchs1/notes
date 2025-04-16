@@ -1,17 +1,17 @@
-:PROPERTIES:
-:ID:       c2e9003e-59f9-4a8b-a260-5b14b06a74c5
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Kohelet* -- [[file:Koh_1.html][1]] ...
-[[file:Koh_10.html][10]] [[file:Koh_11.html][11]] *12*
-
---------------
+#+TITLE: Koh 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-02-13 Do 14:42]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Koh 12.html
 
 * Koh 12
-  :PROPERTIES:
-  :CUSTOM_ID: koh-12
-  :END:
 
 <<verses>>
 
@@ -30,15 +30,14 @@
 3 am Tag, da die Wächter des Hauses zittern, /\\
  die starken Männer sich krümmen, /\\
  die Müllerinnen ihre Arbeit einstellen, weil sie zu wenige sind, /\\
- es dunkel wird bei den Frauen, die aus den Fenstern blicken,
-^{[[#fn1][1]]}\\
+ es dunkel wird bei den Frauen, die aus den Fenstern blicken, [fn:1]\\
 \\
 
 <<v4>>
 4 und das Tor zur Straße verschlossen wird; /\\
  wenn das Geräusch der Mühle verstummt, /\\
  steht man auf beim Zwitschern der Vögel, /\\
- doch die Töne des Lieds verklingen; ^{[[#fn2][2]]}\\
+ doch die Töne des Lieds verklingen; [fn:2]\\
 \\
 
 <<v5>>
@@ -48,8 +47,7 @@
  die Heuschrecke schleppt sich dahin, /\\
  die Frucht der Kaper platzt, /\\
  doch ein Mensch geht zu seinem ewigen Haus /\\
- und die Klagenden ziehen durch die Straßen -
-^{[[#fn3][3]][[#fn4][4]]}\\
+ und die Klagenden ziehen durch die Straßen - [fn:3] [fn:4]\\
 \\
 
 <<v6>>
@@ -62,30 +60,23 @@
 <<v7>>
 7 der Staub auf die Erde zurückfällt als das, was er war, /\\
  und der Atem zu Gott zurückkehrt, /\\
- der ihn gegeben hat. ^{[[#fn5][5]]}\\
+ der ihn gegeben hat. [fn:5]\\
 \\
 
 <<v8>>
-**** Rahmenvers: 12,8
-     :PROPERTIES:
-     :CUSTOM_ID: rahmenvers-128
-     :END:
-8 Windhauch, Windhauch, sagte Kohelet, das ist alles Windhauch.
-^{[[#fn6][6]]}\\
+* Rahmenvers: 12,8
+
+8 Windhauch, Windhauch, sagte Kohelet, das ist alles Windhauch. [fn:6]\\
 \\
 
 <<v9>>
-** Zwei Nachworte von Herausgebern: 12,9-14
-   :PROPERTIES:
-   :CUSTOM_ID: zwei-nachworte-von-herausgebern-129-14
-   :END:
-**** Das erste Nachwort: 12,9-11
-     :PROPERTIES:
-     :CUSTOM_ID: das-erste-nachwort-129-11
-     :END:
+* Zwei Nachworte von Herausgebern: 12,9-14
+
+* Das erste Nachwort: 12,9-11
+
 9 Kohelet war ein Gelehrter. Außerdem hat er einfachen Leuten Kenntnisse
 beigebracht. Er hörte zu und prüfte, er hat viele Sprichwörter selbst in
-Form gebracht. ^{[[#fn7][7]]}
+Form gebracht. [fn:7]
 
 <<v10>>
 10 Kohelet hat sich bemüht, gut formulierte Worte zu entdecken, und hier
@@ -95,54 +86,54 @@ sind diese wahren Worte sorgfältig aufgeschrieben.\\
 <<v11>>
 11 Worte von Gelehrten sind wie Ochsenstecken, /\\
  Sprüche aus Sammlungen aber sitzen wie eingetriebene Nägel - /\\
- sie sind die Gabe eines einzigen Hirten. ^{[[#fn8][8]]}\\
+ sie sind die Gabe eines einzigen Hirten. [fn:8]\\
 \\
 
 <<v12>>
-**** Das zweite Nachwort: 12,12-14
-     :PROPERTIES:
-     :CUSTOM_ID: das-zweite-nachwort-1212-14
-     :END:
+* Das zweite Nachwort: 12,12-14
+
 12 Im Übrigen, mein Sohn, lass dich warnen! Es nimmt kein Ende mit dem
-vielen Bücherschreiben und viel Studieren ermüdet den Leib.
-^{[[#fn9][9]]}
+vielen Bücherschreiben und viel Studieren ermüdet den Leib. [fn:9]
 
 <<v13>>
 13 Hast du alles gehört, so lautet der Schluss: Fürchte Gott und achte
-auf seine Gebote! Das allein hat jeder Mensch nötig. ^{[[#fn10][10]]}
+auf seine Gebote! Das allein hat jeder Mensch nötig. [fn:10]
 
 <<v14>>
 14 Denn Gott wird jedes Tun vor das Gericht bringen, das über alles
-Verborgene urteilt, es sei gut oder böse. ^{[[#fn11][11]]}\\
+Verborgene urteilt, es sei gut oder böse. [fn:11]\\
 \\
 
-^{[[#fnm1][1]]} 3f: Allegorie; gemeint sind Arme, Beine, Zähne, Augen,
+
+* Footnotes
+
+[fn:1] 3f: Allegorie; gemeint sind Arme, Beine, Zähne, Augen,
 Mund und Ohren des alternden Menschen.
 
-^{[[#fnm2][2]]} 4d: Wörtlich: Alle Töchter des Liedes ducken sich. - Die
+[fn:2] 4d: Wörtlich: Alle Töchter des Liedes ducken sich. - Die
 «Töchter des Liedes» sind in der Übersetzung als Töne der Melodie
 verstanden. Es könnte sich aber auch um eine poetische Umschreibung für
 die Vögel handeln, die verstummen.
 
-^{[[#fnm3][3]]} ℘ Sir 25,20
+[fn:3] [[file:Sir_25.org::v20][Sir 25,20]]
 
-^{[[#fnm4][4]]} Das «ewige Haus» ist das Grab.
+[fn:4] Das «ewige Haus» ist das Grab.
 
-^{[[#fnm5][5]]} ℘ 3,20f
+[fn:5] [[file:Koh_3.org::v20][3,20f]]
 
-^{[[#fnm6][6]]} ℘ 1,2
+[fn:6] [[file:Koh_1.org::v2][1,2]]
 
-^{[[#fnm7][7]]} ℘ 1 Kön 5,12
+[fn:7] [[file:1.Kön_5.org::v12][1 Kön 5,12]]
 
-^{[[#fnm8][8]]} Hier ist vom Vorteil schriftlicher Aufzeichnungen
+[fn:8] Hier ist vom Vorteil schriftlicher Aufzeichnungen
 gegenüber mündlicher Lehre die Rede. Vielleicht hatte Kohelet selbst nur
 mündlich gelehrt und der Verfasser des ersten Nachwortes mag seine von
 den Schülern auswendig gelernten oder in privaten Aufzeichnungen
 festgehaltenen Lehren gesammelt und als Buch veröffentlicht haben.
 
-^{[[#fnm9][9]]} 12-14: Das zweite Nachwort bringt einige Absicherungen
+[fn:9] 12-14: Das zweite Nachwort bringt einige Absicherungen
 an dem Buch an, damit dieses Buch als rechtgläubig gelten kann.
 
-^{[[#fnm10][10]]} ℘ 3,14; 5,6; 7,18; Dtn 10,12; Spr 1,7; Sir 1,13
+[fn:10] [[file:Koh_3.org::v14][3,14]]; [[file:Koh_5.org::v6][5,6]]; [[file:Koh_7.org::v18][7,18]]; [[file:Dtn_10.org::v12][Dtn 10,12]]; [[file:Spr_1.org::v7][Spr 1,7]]; [[file:Sir_1.org::v13][Sir 1,13]]
 
-^{[[#fnm11][11]]} ℘ 11,9
+[fn:11] [[file:Koh_11.org::v9][11,9]]

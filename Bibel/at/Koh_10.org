@@ -1,35 +1,31 @@
-:PROPERTIES:
-:ID:       ff769d72-1f5f-48cc-a56c-491e1694f34b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Kohelet* -- [[file:Koh_1.html][1]] ...
-[[file:Koh_8.html][8]] [[file:Koh_9.html][9]] *10*
-[[file:Koh_11.html][11]] [[file:Koh_12.html][12]]
-
---------------
+#+TITLE: Koh 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-02-13 Do 14:21]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Koh 10.html
 
 * Koh 10
-  :PROPERTIES:
-  :CUSTOM_ID: koh-10
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Dummheit: 10,1-3
-     :PROPERTIES:
-     :CUSTOM_ID: dummheit-101-3
-     :END:
+* Dummheit: 10,1-3
+
 1 Sterbende Fliegen - da stinkt und gärt sogar das (duftende) Öl für die
 Schönheitspflege; /\\
- schwerer als Wissen und Geltung wiegt eine kleine Dummheit.
-^{[[#fn1][1]]}\\
+ schwerer als Wissen und Geltung wiegt eine kleine Dummheit. [fn:1]\\
 \\
 
 <<v2>>
 2 Der Verstand des Gebildeten wählt den rechten Weg, /\\
- der Verstand des Ungebildeten den linken; ^{[[#fn2][2]]}\\
+ der Verstand des Ungebildeten den linken; [fn:2]\\
 \\
 
 <<v3>>
@@ -39,28 +35,22 @@ Schönheitspflege; /\\
 \\
 
 <<v4>>
-**** Gelassenheit: 10,4
-     :PROPERTIES:
-     :CUSTOM_ID: gelassenheit-104
-     :END:
+* Gelassenheit: 10,4
+
 4 Wenn der Herrscher gegen dich in Zorn gerät, bewahre die Ruhe; /\\
- denn Gelassenheit bewahrt vor großen Fehlern.
-^{[[#fn3][3]][[#fn4][4]]}\\
+ denn Gelassenheit bewahrt vor großen Fehlern. [fn:3] [fn:4]\\
 \\
 
 <<v5>>
-**** Ungerechte Behandlung bei Hof: 10,5-7
-     :PROPERTIES:
-     :CUSTOM_ID: ungerechte-behandlung-bei-hof-105-7
-     :END:
+* Ungerechte Behandlung bei Hof: 10,5-7
+
 5 Es gibt etwas Schlimmes, das ich unter der Sonne beobachtet habe -
-solch ein Versehen, wie es vom Machthaber zu kommen pflegt:
-^{[[#fn5][5]]}\\
+solch ein Versehen, wie es vom Machthaber zu kommen pflegt: [fn:5]\\
 \\
 
 <<v6>>
 6 Die Dummheit wurde auf höchste Posten gestellt /\\
- und Reiche müssen unten sitzen. ^{[[#fn6][6]]}\\
+ und Reiche müssen unten sitzen. [fn:6]\\
 \\
 
 <<v7>>
@@ -69,12 +59,10 @@ solch ein Versehen, wie es vom Machthaber zu kommen pflegt:
 \\
 
 <<v8>>
-**** Lauernde Gefahren: 10,8-9
-     :PROPERTIES:
-     :CUSTOM_ID: lauernde-gefahren-108-9
-     :END:
+* Lauernde Gefahren: 10,8-9
+
 8 Wer eine Grube gräbt, kann hineinfallen, /\\
- wer eine Mauer einreißt, den kann die Schlange beißen, ^{[[#fn7][7]]}\\
+ wer eine Mauer einreißt, den kann die Schlange beißen, [fn:7]\\
 \\
 
 <<v9>>
@@ -83,30 +71,26 @@ solch ein Versehen, wie es vom Machthaber zu kommen pflegt:
 \\
 
 <<v10>>
-**** Anwendung des Wissens: 10,10-11
-     :PROPERTIES:
-     :CUSTOM_ID: anwendung-des-wissens-1010-11
-     :END:
+* Anwendung des Wissens: 10,10-11
+
 10 Wenn die Axt stumpf geworden ist /\\
  und ihr Benutzer hat sie nicht vorher geschliffen, /\\
  dann braucht er mehr Kraft - /\\
  Wissen hätte ihm den Vorteil gebracht, dass er sein Werkzeug
-vorbereitet hätte. ^{[[#fn8][8]]}\\
+vorbereitet hätte. [fn:8]\\
 \\
 
 <<v11>>
 11 Der Schlangenbeschwörer hat keinen Vorteil, /\\
- wenn die Schlange beißt, bevor er sie beschworen hat. ^{[[#fn9][9]]}\\
+ wenn die Schlange beißt, bevor er sie beschworen hat. [fn:9]\\
 \\
 
 <<v12>>
-**** Der Ungebildete: 10,12-15
-     :PROPERTIES:
-     :CUSTOM_ID: der-ungebildete-1012-15
-     :END:
+* Der Ungebildete: 10,12-15
+
 12 Worte aus dem Mund des Gebildeten finden Beifall, /\\
  jedes Wort von den Lippen des Ungebildeten bringt ihn selbst in
-Verwirrung. ^{[[#fn10][10]]}\\
+Verwirrung. [fn:10]\\
 \\
 
 <<v13>>
@@ -116,22 +100,19 @@ Verwirrung. ^{[[#fn10][10]]}\\
 <<v14>>
 14 Und der Dumme redet endlos. Dabei kann doch der Mensch nicht
 erkennen, was geschehen wird. Und was nach ihm geschieht - wer verkündet
-es ihm? ^{[[#fn11][11]]}
+es ihm? [fn:11]
 
 <<v15>>
 15 Die Arbeit erschöpft die Ungebildeten: Keiner hat es verstanden, in
-die Stadt zu ziehen. ^{[[#fn12][12]]}\\
+die Stadt zu ziehen. [fn:12]\\
 \\
 
 <<v16>>
-**** Königshof und Schicksal des Volks: 10,16-17
-     :PROPERTIES:
-     :CUSTOM_ID: königshof-und-schicksal-des-volks-1016-17
-     :END:
+* Königshof und Schicksal des Volks: 10,16-17
+
 16 Weh dir, Land, /\\
  dessen König ein Knabe ist /\\
- und dessen Fürsten schon früh am Morgen tafeln.
-^{[[#fn13][13]][[#fn14][14]]}\\
+ und dessen Fürsten schon früh am Morgen tafeln. [fn:13] [fn:14]\\
 \\
 
 <<v17>>
@@ -142,30 +123,23 @@ Zeit tafeln, /\\
 \\
 
 <<v18>>
-**** Faulheit: 10,18
-     :PROPERTIES:
-     :CUSTOM_ID: faulheit-1018
-     :END:
+* Faulheit: 10,18
+
 18 Ist einer träge, so senkt sich das Gebälk, /\\
- lässt er die Hände sinken, so dringt der Regen ins Haus.
-^{[[#fn15][15]]}\\
+ lässt er die Hände sinken, so dringt der Regen ins Haus. [fn:15]\\
 \\
 
 <<v19>>
-**** Geld: 10,19
-     :PROPERTIES:
-     :CUSTOM_ID: geld-1019
-     :END:
+* Geld: 10,19
+
 19 Man schlemmt und will dabei lachen, /\\
  der Wein erfreut die Lebenden, /\\
- das Geld macht alles möglich. ^{[[#fn16][16]]}\\
+ das Geld macht alles möglich. [fn:16]\\
 \\
 
 <<v20>>
-**** Vom Reden über Mächtige: 10,20
-     :PROPERTIES:
-     :CUSTOM_ID: vom-reden-über-mächtige-1020
-     :END:
+* Vom Reden über Mächtige: 10,20
+
 20 Nicht einmal in Gedanken /\\
  schimpf auf den König, /\\
  nicht einmal im Schlafzimmer schimpf auf einen Reichen; denn die Vögel
@@ -174,40 +148,42 @@ des Himmels können dein Wort verbreiten, /\\
  könnte die Nachricht weitermelden.\\
 \\
 
-^{[[#fnm1][1]]} Wörtlich: Sterbende Fliegen - da stinken und gären die
+
+* Footnotes
+
+[fn:1] Wörtlich: Sterbende Fliegen - da stinken und gären die
 Wässer des Parfümherstellers.
 
-^{[[#fnm2][2]]} ℘ 2,14
+[fn:2] [[file:Koh_2.org::v14][2,14]]
 
-^{[[#fnm3][3]]} ℘ 8,2-4
+[fn:3] [[file:Koh_8.org::v2][8,2-4]]
 
-^{[[#fnm4][4]]} 4b: Andere Übersetzungsmöglichkeit: Gib deine Stellung
-nicht auf!
+[fn:4] 4b: Andere Übersetzungsmöglichkeit: Gib deine Stellung nicht auf!
 
-^{[[#fnm5][5]]} Versehen: ironisch gemeint.
+[fn:5] Versehen: ironisch gemeint.
 
-^{[[#fnm6][6]]} ℘ Spr 30,22
+[fn:6] [[file:Spr_30.org::v22][Spr 30,22]]
 
-^{[[#fnm7][7]]} ℘ Ps 7,16; 9,16; 35,8; 57,7; Spr 26,27; Sir 27,26
+[fn:7] [[file:Ps_7.org::v16][Ps 7,16]]; [[file:Ps_9.org::v16][9,16]]; [[file:Ps_35.org::v8][35,8]]; [[file:Ps_57.org::v7][57,7]]; [[file:Spr_26.org::v27][Spr 26,27]]; [[file:Sir_27.org::v26][Sir 27,26]]
 
-^{[[#fnm8][8]]} 10d: Wörtlich: Der Vorteil, vorzubereiten, ist Wissen.
+[fn:8] 10d: Wörtlich: Der Vorteil, vorzubereiten, ist Wissen.
 
-^{[[#fnm9][9]]} ℘ Sir 12,13
+[fn:9] [[file:Sir_12.org::v13][Sir 12,13]]
 
-^{[[#fnm10][10]]} ℘ Spr 10,32; 15,2; Sir 21,16
+[fn:10] [[file:Spr_10.org::v32][Spr 10,32]]; [[file:Spr_15.org::v2][15,2]]; [[file:Sir_21.org::v16][Sir 21,16]]
 
-^{[[#fnm11][11]]} ℘ 5,2; 6,12
+[fn:11] [[file:Koh_5.org::v2][5,2]]; [[file:Koh_6.org::v12][6,12]]
 
-^{[[#fnm12][12]]} Andere Übersetzungsmöglichkeit: Wer es nicht versteht,
+[fn:12] Andere Übersetzungsmöglichkeit: Wer es nicht versteht,
 in die Stadt zu ziehen, der macht sich müde als ungelernter Arbeiter. -
 Es ist an die Lage des Landproletariats gedacht.
 
-^{[[#fnm13][13]]} ℘ Jes 3,4; 5,11; Spr 31,4-7
+[fn:13] [[file:Jes_3.org::v4][Jes 3,4]]; [[file:Jes_5.org::v11][5,11]]; [[file:Spr_31.org::v4][Spr 31,4-7]]
 
-^{[[#fnm14][14]]} Knabe: andere Übersetzungsmöglichkeit: Sklave. Für
+[fn:14] Knabe: andere Übersetzungsmöglichkeit: Sklave. Für
 diese Übersetzung spräche V. 17, der von einem König aus «edlem
 Geschlecht» handelt.
 
-^{[[#fnm15][15]]} ℘ Spr 20,4
+[fn:15] [[file:Spr_20.org::v4][Spr 20,4]]
 
-^{[[#fnm16][16]]} ℘ Ps 104,15
+[fn:16] [[file:Ps_104.org::v15][Ps 104,15]]

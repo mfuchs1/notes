@@ -1,0 +1,11 @@
+#+title:      Abba
+#+date:       [2025-02-02 So 15:21]
+#+filetags:   :bib:emacs:
+#+identifier: 20250202T152124
+#+reference:  Jeremias.1966
+
+* Abstract
+test
+
+* Review
+test [[denote:20250202T183349][Bekenntnisse]]

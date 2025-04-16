@@ -1,39 +1,36 @@
-:PROPERTIES:
-:ID:       79b568b5-4abb-4501-b11c-090b3e82a0ba
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Kohelet* -- [[file:Koh_1.html][1]]
-[[file:Koh_2.html][2]] [[file:Koh_3.html][3]] *4* [[file:Koh_5.html][5]]
-[[file:Koh_6.html][6]] ... [[file:Koh_12.html][12]]
-
---------------
+#+TITLE: Koh 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-02-13 Do 12:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Koh 4.html
 
 * Koh 4
-  :PROPERTIES:
-  :CUSTOM_ID: koh-4
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Ausbeutung und Konkurrenzkampf: 4,1-6
-     :PROPERTIES:
-     :CUSTOM_ID: ausbeutung-und-konkurrenzkampf-41-6
-     :END:
+* Ausbeutung und Konkurrenzkampf: 4,1-6
+
 1 Dann wieder habe ich alles beobachtet, was unter der Sonne getan wird,
 um Menschen auszubeuten. Sieh, die Ausgebeuteten weinen und niemand
 tröstet sie; von der Hand ihrer Ausbeuter geht Gewalt aus und niemand
-tröstet sie. ^{[[#fn1][1]]}
+tröstet sie. [fn:1]
 
 <<v2>>
 2 Da preise ich immer wieder die Toten, die schon gestorben sind, und
-nicht die Lebenden, die noch leben müssen. ^{[[#fn2][2]]}
+nicht die Lebenden, die noch leben müssen. [fn:2]
 
 <<v3>>
 3 Glücklicher aber als beide preise ich den, der noch nicht geworden
 ist, der noch nicht das schlimme Tun gesehen hat, das unter der Sonne
-getan wird. ^{[[#fn3][3]]}
+getan wird. [fn:3]
 
 <<v4>>
 4 Denn ich beobachtete: Jede Arbeit und jedes erfolgreiche Tun bedeutet
@@ -43,19 +40,17 @@ Luftgespinst.\\
 
 <<v5>>
 5 Der Ungebildete legt die Hände in den Schoß /\\
- und hat doch sein Fleisch zum Essen. ^{[[#fn4][4]]}\\
+ und hat doch sein Fleisch zum Essen. [fn:4]\\
 \\
 
 <<v6>>
 6 Besser eine Hand voll und Ruhe, /\\
- als beide Hände voll und Arbeit und Luftgespinst. ^{[[#fn5][5]]}\\
+ als beide Hände voll und Arbeit und Luftgespinst. [fn:5]\\
 \\
 
 <<v7>>
-**** Der allein stehende Mensch: 4,7-12
-     :PROPERTIES:
-     :CUSTOM_ID: der-allein-stehende-mensch-47-12
-     :END:
+* Der allein stehende Mensch: 4,7-12
+
 7 Und wieder habe ich etwas unter der Sonne beobachtet, das Windhauch
 ist.
 
@@ -64,8 +59,7 @@ ist.
 er besitzt nicht einmal einen Sohn oder Bruder. Aber sein Besitz ist
 ohne Grenzen und überdies kann sein Auge vom Reichtum nicht genug
 bekommen. Doch für wen strenge ich mich dann an und warum gönne ich mir
-kein Glück? Auch das ist Windhauch und ein schlechtes Geschäft.
-^{[[#fn6][6]]}
+kein Glück? Auch das ist Windhauch und ein schlechtes Geschäft. [fn:6]
 
 <<v9>>
 9 Zwei sind besser als einer allein, falls sie nur reichen Ertrag aus
@@ -79,7 +73,7 @@ ihn aufrichtet.\\
 
 <<v11>>
 11 Außerdem: Wenn zwei zusammen schlafen, wärmt einer den andern; /\\
- einer allein - wie soll er warm werden? ^{[[#fn7][7]]}\\
+ einer allein - wie soll er warm werden? [fn:7]\\
 \\
 
 <<v12>>
@@ -89,14 +83,12 @@ ihn aufrichtet.\\
 \\
 
 <<v13>>
-**** Wankelmütige Volksgunst: 4,13-16
-     :PROPERTIES:
-     :CUSTOM_ID: wankelmütige-volksgunst-413-16
-     :END:
+* Wankelmütige Volksgunst: 4,13-16
+
 13 Besser ein junger Mann, der niedriger Herkunft, aber gebildet ist,
 /\\
  als ein König, der alt, aber ungebildet ist - weil er es nicht mehr
-verstand, auf Ratschläge zu hören. ^{[[#fn8][8]][[#fn9][9]]}\\
+verstand, auf Ratschläge zu hören. [fn:8] [fn:9]\\
 \\
 
 <<v14>>
@@ -111,49 +103,47 @@ statt seiner hochkommt.
 <<v16>>
 16 Die Volksmenge nimmt kein Ende, gleichgültig, wer an ihre Spitze
 getreten ist. Im Übrigen werden die Späteren auch mit ihm nicht
-zufrieden sein. Denn auch das ist Windhauch und Luftgespinst.
-^{[[#fn10][10]]}\\
+zufrieden sein. Denn auch das ist Windhauch und Luftgespinst. [fn:10]\\
 \\
 
 <<v17>>
-** Ratschläge für das religiöse Verhalten: 4,17 - 5,6
-   :PROPERTIES:
-   :CUSTOM_ID: ratschläge-für-das-religiöse-verhalten-417---56
-   :END:
-**** Hören, Opfern und Sprechen im Gottesdienst: 4,17 - 5,2
-     :PROPERTIES:
-     :CUSTOM_ID: hören-opfern-und-sprechen-im-gottesdienst-417---52
-     :END:
+* Ratschläge für das religiöse Verhalten: 4,17 - 5,6
+
+* Hören, Opfern und Sprechen im Gottesdienst: 4,17 - 5,2
+
 17 Zügle deinen Schritt, wenn du zum Gotteshaus gehst. Tritt ein, um
 zuzuhören, /\\
  und nicht, wie die Ungebildeten, um Opfer abzugeben. Sie verstehen
-nicht einmal, Böses zu tun. ^{[[#fn11][11]][[#fn12][12]]}\\
+nicht einmal, Böses zu tun. [fn:11] [fn:12]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 5,7
 
-^{[[#fnm2][2]]} ℘ 7,2; Ijob 3,20-23
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ 6,3-5; Jer 20,18
+[fn:1] [[file:Koh_5.org::v7][5,7]]
 
-^{[[#fnm4][4]]} ℘ Spr 6,10; 24,33
+[fn:2] [[file:Koh_7.org::v2][7,2]]; [[file:Ijob_3.org::v20][Ijob 3,20-23]]
 
-^{[[#fnm5][5]]} ℘ 6,5; Spr 15,16; 16,8; 17,1
+[fn:3] [[file:Koh_6.org::v3][6,3-5]]; [[file:Jer_20.org::v18][Jer 20,18]]
 
-^{[[#fnm6][6]]} ℘ 1,8; 5,9; Spr 27,20; Koh 2,18-20
+[fn:4] [[file:Spr_6.org::v10][Spr 6,10]]; [[file:Spr_24.org::v33][24,33]]
 
-^{[[#fnm7][7]]} ℘ 1 Kön 1,1-4
+[fn:5] [[file:Koh_6.org::v5][6,5]]; [[file:Spr_15.org::v16][Spr 15,16]]; [[file:Spr_16.org::v8][16,8]]; [[file:Spr_17.org::v1][17,1]]
 
-^{[[#fnm8][8]]} ℘ Spr 17,2; (13-16) Sir 11,1-6
+[fn:6] [[file:Koh_1.org::v8][1,8]]; [[file:Koh_5.org::v9][5,9]]; [[file:Spr_27.org::v20][Spr 27,20]]; [[file:Koh_2.org::v18][Koh 2,18-20]]
 
-^{[[#fnm9][9]]} 13-16: Kohelet beginnt hier zwar mit einem damals
+[fn:7] [[file:1.Kön_1.org::v1][1 Kön 1,1-4]]
+
+[fn:8] [[file:Spr_17.org::v2][Spr 17,2]]; (13-16) [[file:Sir_11.org::v1][Sir 11,1-6]]
+
+[fn:9] 13-16: Kohelet beginnt hier zwar mit einem damals
 allgemein bekannten Sprichwort, meint aber von Anfang an einen
 bestimmten Fall. Das wird aus dem plötzlichen Umsprung in die Form des
 Berichts deutlich. Kohelet spricht dabei von drei verschiedenen Männern,
 die nacheinander herrschten.
 
-^{[[#fnm10][10]]} ℘ 1,9-11
+[fn:10] [[file:Koh_1.org::v9][1,9-11]]
 
-^{[[#fnm11][11]]} ℘ 1 Sam 15,22; Spr 15,7f; Hos 6,6; (17-5,2) Jak 1,19
+[fn:11] [[file:1.Sam_15.org::v22][1 Sam 15,22]]; [[file:Spr_15.org::v7][Spr 15,7f]]; [[file:Hos_6.org::v6][Hos 6,6]]; (17-5,2) [[file:~/RoamNotes/notes/Bibel/nt/Jak_1.org::v19][Jak 1,19]]
 
-^{[[#fnm12][12]]} Wortgottesdienst steht über Opfergottesdienst.
+[fn:12] Wortgottesdienst steht über Opfergottesdienst.

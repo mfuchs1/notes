@@ -92,18 +92,8 @@ Die Schüler*innen verfügen über erweiterte Grundkenntnisse zur Bibel und kön
 *** Kannst du dich noch erinnern?
 *** Die Bibel erzählt
 *** Die Entstehung der Bibel
-*** DONE Die Welt der Bibel
-CLOSED: [2024-11-24 So 15:36] SCHEDULED: <2024-11-18 Mo>
-:LOGBOOK:
-- State "DONE"       from              [2024-11-24 So 15:36]
-:END:
-
-*** DONE Palästina, das Land der Bibel
-CLOSED: [2024-12-08 So 14:39] SCHEDULED: <2024-11-25 Mo>
-:LOGBOOK:
-- State "DONE"       from              [2024-12-08 So 14:39]
-:END:
-
+*** Die Welt der Bibel
+*** Palästina, das Land der Bibel
 *** Das Leben zur Zeit Jesu
 *** Jesus ein Phänomen
 *** Jesus, der Mensch

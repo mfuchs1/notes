@@ -97,18 +97,8 @@ Kirchenjahr – Fastenzeit
 - Eine bleibende Erfahrung (Kap. 3.5, S. 60)
 
 ** Basisseiten und Empfehlungen
-*** DONE [[denote:20241115T082021][Grenzenlose Freiheit?]]
-CLOSED: [2024-11-16 Sa 10:46] DEADLINE: <2024-11-11 Mo>
-:LOGBOOK:
-- State "DONE"       from              [2024-11-16 Sa 10:46]
-:END:
-
-*** DONE Die Sehnsucht nach Freiheit
-CLOSED: [2024-11-24 So 15:36] SCHEDULED: <2024-11-18 Mo>
-:LOGBOOK:
-- State "DONE"       from              [2024-11-24 So 15:36]
-:END:
-
+*** [[denote:20241115T082021][Grenzenlose Freiheit?]]
+*** Die Sehnsucht nach Freiheit
 *** Impuls: Befreiender Glaube
 *** Übergang: Israel - ein unterdrücktes Volk
 *** Exodus - das Wunder der Befreiung

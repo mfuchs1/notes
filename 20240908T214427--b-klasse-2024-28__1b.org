@@ -28,7 +28,6 @@
 - [X] Die Adventszeit
 - [X] Beten
 - [ ] Menschen zur Zeit Jesu
-- [ ] Neues Testament
 - [X] Hl. Blasius / Hl. Rupert
 - [ ] Die Schriften von Qumran
 - [ ] Liturgische Farben im Kirchenjahr
@@ -56,12 +55,58 @@ AB etc kopieren (ohne Tablet arbeiten)
 :PROPERTIES:
 :CUSTOM_ID: h:3b3c9a4a-a80b-4224-8891-c4b2a6362f67
 :END:
-Übungsteil / Film "Schulweg"
+Ablauf Hl. Messe / Übungsteil RB
+
+*** Ist Jesus Gott?
+
+- Bibel ::
+  - "Ich und der Vater sind eins." (Joh 10,30)
+  - "Mein Herr und mein Gott." (Joh 20,28)
+  - Joh.-Ev Prolog (Joh 1)
+  - "Herr ist Jesus" (Röm 10,9)
+  - "Jesus Christus ist der Herr" (Phil 2,11)
+  - "Und keiner kann sagen: Jesus ist der Herr!, wenn er nicht aus dem Heiligen Geist redet." (1. Kor 12,3)
+  - "Ihr sagt zu mir Meister und Herr und ihr nennt mich mit Recht so: denn ich bin es." (Joh 13,13)
+
+    ... etc.
+    
+- YouCat :: einige Fragen zu diesem Thema
+
+- Videos ::
+  - [[https://www.youtube.com/watch?v=C2tuQD7M7CQ][Wer war Jesus?]]
+  - [[https://www.youtube.com/watch?v=NbGo_THkrfk][Warum ist Gott Mensch geworden?]]
+  - [[https://www.youtube.com/watch?v=0IByxJz3V00][Warum ist Gott gerade vor 2000 Jahren Mensch geworden?]]
+  - [[https://www.youtube.com/watch?v=6PKZ_Q3MtTU][Wie hat Jesus gelebt?]]
+
+
+*** Karwoche - die letzte Woche Jesu in Jerusalem
+:PROPERTIES:
+:CUSTOM_ID: h:248a7575-fd78-4c40-bfc5-5a4bfd200101
+:END:
+
+Evangelien zu Palmsonntag, Gründonnerstag, Karfreitag:
+[[file:~/MMS_Abtenau/Texte_Karwoche.odt]]
+
+Bilder zur Karwoche zum Ausmalen:
+[[file:~/MMS_Abtenau/Karwoche_Bilder/]]
+
+Ins Heft (sauber arbeiten!):
+- Texte und Bilder zuordnen
+- Texte lesen / vorlesen
+- ins Heft kleben
+- Bilder ausmalen
+
+Texte sind (so weit es möglich war), in den liturgischen Farben ausgedruckt.
+
+Ich werde Texte und Bilder Schritt für Schritt austeilen.
+  
 
 ** Hefteintrag
 Arbeitsweg
 
 http://www.veritas.at/code (rfu300)
+
+
 
 * Reflexionen
 :PROPERTIES:
@@ -73,6 +118,13 @@ http://www.veritas.at/code (rfu300)
 :DESCRIPTION: [[denote:20240908T214427::#h:b3d5b086-fae7-487b-9740-a513c74b1dbf][B Klasse 2024-28::Reflexionen]]
 :END:
 Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
+
+** Schade um diese Stunde
+:PROPERTIES:
+:CAPTURED: [2025-04-09 Mi 13:11]
+:DESCRIPTION: [[denote:20240908T214427::#h:248a7575-fd78-4c40-bfc5-5a4bfd200101][B Klasse 2024-28::Karwoche - die letzte Woche Jesu in Jerusalem]]
+:END:
+Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstrativ nicht ernst genommen, machten abfällige Bemerkungen über das Leiden Jesu (was ich nicht durchgehen ließ - was sie nicht davon abhielt, Widerstand zu leisten). Es kamen Fragen wie "Gott existiert wirklich?" "Jesus ist Gott?", aber dieses Mal eher als Provokation.
 
 
 * Schülerliste

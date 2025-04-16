@@ -1,0 +1,6 @@
+#+title:      Denote
+#+date:       [2025-03-07 Fr 16:47]
+#+filetags:   :emacs:
+#+identifier: 20250307T164721
+
+ein test ...

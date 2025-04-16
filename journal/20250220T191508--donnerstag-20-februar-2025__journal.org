@@ -1,0 +1,11 @@
+:PROPERTIES:
+:CUSTOM_ID: h:761674f2-cdf7-4534-a9e7-957b22aab483
+:END:
+#+title:      Donnerstag 20 Februar 2025 19:15
+#+date:       [2025-02-20 Do 19:15]
+#+filetags:   :journal:
+#+identifier: 20250220T191508
+
+
+Hier mein Text.
+
