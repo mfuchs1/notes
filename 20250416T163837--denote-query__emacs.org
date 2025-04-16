@@ -1,0 +1,10 @@
+#+title:      Denote query
+#+date:       [2025-04-16 Mi 16:38]
+#+filetags:   :emacs:
+#+identifier: 20250416T163837
+
+* =denote-query-content-link=
+[[denote:query-contents:Ostern][Ostern]]
+
+* =denote-query-filenames-link=
+[[denote:query-filenames:Ostern][Ostern]]
