@@ -1,0 +1,11 @@
+#+title:      Samstag 15 März 2025 11:50
+#+date:       [2025-03-15 Sa 11:50]
+#+filetags:   :journal:
+#+identifier: 20250315T115004
+
+* [2025-03-15 Sa 11:59] Ein zweiter Eintrag
+:PROPERTIES:
+:CUSTOM_ID: h:2554bf4b-2822-4bd2-9d87-645d5e0c4216
+:END:
+
+

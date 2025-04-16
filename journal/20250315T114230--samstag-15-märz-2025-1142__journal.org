@@ -1,0 +1,22 @@
+#+title:      Samstag 15 März 2025 11:42
+#+date:       [2025-03-15 Sa 11:42]
+#+filetags:   :journal:
+#+identifier: 20250315T114230
+
+* [2025-03-15 Sa 11:42] Ein neuer Eintrag
+:PROPERTIES:
+:CUSTOM_ID: h:76a08ac3-f031-4800-a29c-2e4725ed5b85
+:END:
+Lernen mit Gabriel
+Mittagessen: Salat und Pizza
+Abendessen: Polenta, Broccoli, Tomatensauce
+
+* [2025-03-15 Sa 11:59] Noch ein Eintrag
+
+[[denote:20250315T115004::#h:2554bf4b-2822-4bd2-9d87-645d5e0c4216][Samstag 15 März 2025 11:50::[2025-03-15 Sa 11:59] Ein zweiter Eintrag]]
+
+* [2025-03-15 Sa 12:08] Ein weiterer Eintrag
+
+Werde Emacs mit ~emacs daemon &~ starten und dann als ~client~
+
+
