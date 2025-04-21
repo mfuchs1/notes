@@ -4,15 +4,24 @@
 #+identifier: 20250415T095936
 
 * (1. Klasse) Osterevangelien
+:PROPERTIES:
+:CUSTOM_ID: h:5c0352da-5e1c-419e-bd3f-1ec2c44a1f7d
+:END:
 Ostern ist komischerweise etwas schwieriger im RU zu behandeln als die Leidensgeschichte Jesu, Wunder oder Weihnachten. Denn die Auferstehung Jesu passt nicht in unsere Erfahrungen, ist "etwas" komplett anderes. Und sie verändert unsere Sicht auf die Realität, mit ihr beginnt wirklich ein neues Leben.
 
 In diesen Monaten bis zu den Ferien gebe ich noch einmal Vollgas; 
 
 * (1. Klasse) Emmausjünger
+:PROPERTIES:
+:CUSTOM_ID: h:b53bb303-bbc2-49bf-a4f2-b0144d59b805
+:END:
 Text lesen / Zeichnungen / Bezug zu Hl. Messe herstellen
 
 
 * (2. Klasse + 3. Klasse) Apostel Paulus
+:PROPERTIES:
+:CUSTOM_ID: h:0d7c3fa0-073e-4a27-b1a5-40c7a2af88c1
+:END:
 Hab ich den Paulus-Film?
 
 ** Bekehrung
@@ -22,9 +31,15 @@ Hab ich den Paulus-Film?
 ** Bedeutung für die Kirche
 
 * (2. Klasse + 3. Klasse) Apostelgeschichte
+:PROPERTIES:
+:CUSTOM_ID: h:a37e3bc3-d77e-46db-b8e5-e7036bef3974
+:END:
 
 
 * (3. Klasse) Tatsache der Auferstehung Jesu (YouCat - Firmung)
+:PROPERTIES:
+:CUSTOM_ID: h:845f8c5a-895d-43ad-b35f-b2bdc42a46c0
+:END:
 Dazu gibt es eine komplett ausgearbeitete Stunde, es gibt ein Video mit Johannes Hartl (eigentlich zwei).
 
 Die wissenschaftlichen Details der Auferstehung; Soldaten als Zeugen; "Er sah und glaubte." Was sah er? Das Tuch, die Binden und das Schweißtuch, das auf dem Kopf Jesu gelegen hatte. Sah er ev. die Abdruck des Leibes Jesu auf dem Tuch? Wie lagen die Tücher?
@@ -106,7 +121,7 @@ Geld, Erfolg, Familie, ..?
 sehr gut, aber diese sollen ausgerichtet sein auf das letzte Ziel: Himmel.
 
 Was sagt der Katechismus?
-  
+
 Wie wachse ich in der Hoffnung?
 Lobpreis?
 

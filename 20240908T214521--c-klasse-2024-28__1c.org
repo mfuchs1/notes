@@ -64,7 +64,14 @@ einige ABs sind zu kopieren!
 :CUSTOM_ID: h:2f19ed33-db95-48ba-8bd2-02f932c70f11
 :END:
 
+[[denote:20250415T095936][Themen für Ostern]]
+
 *** Ostern - Auferstehung Jesu
+
+[[denote:20250415T095936::#h:5c0352da-5e1c-419e-bd3f-1ec2c44a1f7d][Themen für Ostern::(1. Klasse) Osterevangelien]]
+
+[[denote:20250415T095936::#h:b53bb303-bbc2-49bf-a4f2-b0144d59b805][Themen für Ostern::(1. Klasse) Emmausjünger]]
+
 - Emmausjünger
 - Osterevangelien lesen
 - Apostelgeschichte lesen
