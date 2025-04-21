@@ -33,50 +33,15 @@ etc...
 :CUSTOM_ID: h:fa97f49d-8228-4a7d-aab5-440fbe1a9d49
 :END:
 
-*** Lk 15 - der barmherzige Vater
+[[denote:20250415T095936][Themen für Ostern]]
 
-[[file:Bibel/nt/Lk_15.org::v11][Lk 15,11]]-[[file:Bibel/nt/Lk_15.org::v33][33]]
+[[denote:20250415T095936::#h:b49daa22-696e-422b-a556-30d13ee3e1c8][Themen für Ostern::(4. Klasse) Glaube - Hoffnung - Liebe]]
 
-[[file:~/MMS_Abtenau/Das Gleichnis vom verlorenen Sohn.pdf]]
-
-[[https://youcat.org/wp-content/uploads/2023/07/Conf-handbook-material-deu-11.pdf]]
-
-Comic dazu zeichnen
-
-Verbindung / Bezug zu Beichte herstellen:
-- Das Erbteil zu Lebzeiten des Vaters zu fordern (NoGo)!
-- Jüngerer Sohn verprasst das Erbteil - es bleibt nur mehr eine Hälfte, die der Ältere dann mit dem Jüngeren teilen muss.
-- Jüngerer Sohn drängt sich einem Schweinebauern auf - undenkbar für einen Juden! Wie schlimm muss es dem Jüngeren Sohn gehen, dass er dies tut!
-- Er sieht sich nicht mehr als Sohn des Vaters.
-- Kehrt um.
-- Vater sieht ihn schon vom Weiten: die Sehnsucht des Vaters!
-- Begrüßung ist überschwänglich, fast schon skandalös.
-- Vater setzt Jüngeren wieder als Sohn ein.
-- Älterer ist empört. Will nicht mit feiern.
-- Ende ist offen: wie wird es ausgehen?
-
-Überleitung zur Beichte / 5 Schritte zu einem besseren Leben:
-- Besinnen
-- Bereuen
-- Bessern
-- Bekennen
-- Buße
-
-
-*** Karwoche
-:PROPERTIES:
-:CUSTOM_ID: h:4fc3e8ab-7dcf-4ac2-856d-89e7500e9dae
-:END:
-Palmsonntag - Gründonnerstag - Karfreitag - Karsamstag - ...
-
-Bibelstellen
-Lukas-Evangelium; ergänzt durch Johannes (Fußwaschung Joh 13 - Liebesgebot)
-
-YouCat
-
-Kreuzweg - die folgenden 7 Stationen (oder überhaupt erst damit anfangen)
-
-(Hm, bei den Schülern könnte die Luft draußen sein ... und bei mir ebenfalls. Wie beuge ich vor?)
+*** Glaube - Hoffnung - Liebe
+- Was ist eine Tugend?
+- Glaube
+- Hoffnung
+- Liebe
 
 ** Hefteintrag
 Arbeitsweg 1 - 5

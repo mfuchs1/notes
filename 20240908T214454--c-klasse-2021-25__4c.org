@@ -44,11 +44,11 @@ etc...
 :END:
 [[denote:20241014T223303][Themenwünsche der 4c]]
 
-*** Kreuzweg
-[[file:~/Dokumente/Der Kreuzweg Jesu.odt]]
-
-[[file:~/Dokumente/LaTex_2/Modul 18_Gottes Nähe in Fest und Feiern/Kreuzweg.pdf]]
-
+*** Glaube - Hoffnung - Liebe
+- Was ist eine Tugend?
+- Glaube
+- Hoffnung
+- Liebe
 
 ** Hefteintrag
 Arbeitsweg 1 - 5

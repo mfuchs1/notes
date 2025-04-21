@@ -20,19 +20,19 @@
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
-** Alle Themen (Überblick) [3/13]
+** Alle Themen (Überblick) [9/13]
 :PROPERTIES:
 :CUSTOM_ID: h:bdab5f53-6dbd-4cba-a76c-50d348e5d655
 :END:
 - [X] Der Sturm auf dem See
 - [X] Der Sonnengesang
 - [X] Heilige
-- [ ] Heilige Orte
-- [ ] Die Adventszeit
-- [ ] Beten
-- [ ] Menschen zur Zeit Jesu
-- [ ] Neues Testament
-- [ ] Hl. Blasius / Hl. Rupert
+- [X] Heilige Orte
+- [X] Die Adventszeit
+- [X] Beten
+- [X] Menschen zur Zeit Jesu
+- [X] Neues Testament
+- [X] Hl. Blasius / Hl. Rupert
 - [ ] Die Schriften von Qumran
 - [ ] Liturgische Farben im Kirchenjahr
 - [ ] Kalenderzeiten und Lebenskreise
@@ -63,18 +63,12 @@ einige ABs sind zu kopieren!
 :PROPERTIES:
 :CUSTOM_ID: h:2f19ed33-db95-48ba-8bd2-02f932c70f11
 :END:
-Gebet:
-- fest formulierte Gebete
-- freie Gebete
 
-Danke, Bitte, Lobpreis, Anbetung, Klage
-
-Körperhaltung:
-knien, stehen, mit den Füßen, sitzen, Hand auf die Brust, Hände nach oben, mit Händen eine Schale machen, Hände falten, ...
-
-Fotos - Gebete dazu verfassen
-
-Eigenes Gebet schreiben...
+*** Ostern - Auferstehung Jesu
+- Emmausjünger
+- Osterevangelien lesen
+- Apostelgeschichte lesen
+- Missionare heute?!
 
 
 ** Hefteintrag

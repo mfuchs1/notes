@@ -313,6 +313,17 @@ Nachricht von Florian: diese Stunde kann ich ignorieren; er ist die ersten 25 Mi
 Lena wird mir Material auf meinen Platz legen; Kinder arbeiten selbständig.
 :END:
 
+* Elternsprechtag MS Abtenau
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3490439686444542"
+:entry-id: skn7284o4fnelt47ck3a9ta4bs/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-04-25 Fr 15:00-19:00>
+:END:
+
 * Ostergottesdienst
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
