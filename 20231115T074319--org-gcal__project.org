@@ -16,18 +16,6 @@
 <2025-04-30 Mi 14:30-16:00>
 :END:
 
-* Michi Fuchs hat Geburtstag
-:PROPERTIES:
-:ETag:     "3479063890238000"
-:TRANSPARENCY: transparent
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4e2fr7q7g714et1arcq985av90_20250311/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-03-11 Di>
-:END:
-
 * Fortbildung
 :PROPERTIES:
 :ETag:     "3480273090496638"
@@ -37,28 +25,6 @@
 :END:
 :org-gcal:
 <2025-03-28 Fr 14:00-17:30>
-:END:
-
-* Kletterkurs Gabriel
-:PROPERTIES:
-:ETag:     "3482930703590686"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4dj0omplsabjekmsrfpaqtjf74_20250314T151500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-03-14 Fr 16:15-17:45>
-:END:
-
-* Kletterkurs Gabriel
-:PROPERTIES:
-:ETag:     "3482930703590686"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4dj0omplsabjekmsrfpaqtjf74_20250321T151500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-03-21 Fr 16:15-17:45>
 :END:
 
 * Kletterkurs Gabriel
@@ -142,28 +108,6 @@
 :PROPERTIES:
 :ETag:     "3487857598840990"
 :calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 03n18k89s70j3dtotnus5ijf9b_20250314T131500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-03-14 Fr 14:15-14:45>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3487857598840990"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 03n18k89s70j3dtotnus5ijf9b_20250321T131500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-03-21 Fr 14:15-14:45>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3487857598840990"
-:calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250404T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
@@ -225,19 +169,6 @@
 :org-gcal:
 <2025-05-09 Fr 14:15-14:45>
 :END:
-
-* Testeintrag
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3485100677830718"
-:entry-id: ke78hs7q0qphei91k659fgpb5k/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2025-03-21 Fr 22:00-23:00>
-:END:
-
-
 
 * Erstkommunion Leopold Vorbereitung
 :PROPERTIES:
@@ -317,11 +248,11 @@ Lena wird mir Material auf meinen Platz legen; Kinder arbeiten selbständig.
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3490439686444542"
+:ETag:     "3490966067001438"
 :entry-id: skn7284o4fnelt47ck3a9ta4bs/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
-<2025-04-25 Fr 15:00-19:00>
+<2025-04-25 Fr 15:00-18:00>
 :END:
 
 * Ostergottesdienst
@@ -338,7 +269,7 @@ Lena wird mir Material auf meinen Platz legen; Kinder arbeiten selbständig.
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3487857598840990"
+:ETag:     "3491119375697694"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250530T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -346,3 +277,61 @@ Lena wird mir Material auf meinen Platz legen; Kinder arbeiten selbständig.
 :org-gcal:
 <2025-05-30 Fr 14:15-14:45>
 :END:
+
+* Elternsprechtag MS Grödig
+:PROPERTIES:
+:ETag:     "3490859952945886"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 74s62dpmckqjibb1c4ojib9kcgs38bb1chi68bb3ccp62dho61gjiphj6c/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-04-25 Fr 14:00-17:00>
+
+Online über MS Teams
+:END:
+
+* Supplierstunde 3b M (mit Sarah)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3491119437452798"
+:entry-id: k4lfpp6l9gsd7a5jufl1gfqktg/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-04-25 Fr 10:30-11:20>
+:END:
+
+* Supplierstunde 4b M (mit Thomas D.)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3491311707423102"
+:entry-id: i9ega89t3fsjlnotn40asacra8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-04-30 Mi 10:30-11:20>
+:END:
+
+* McDonald's mit Gabriel
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3491362242638974"
+:entry-id: 9g4p2dt8751s3jq07tb3bq1tcc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-04-26 Sa 12:30-13:30>
+:END:
+
+* Kino mit Gabriel
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3491362289848254"
+:entry-id: eck1bqbr11cf4fdckde8eohfuk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-04-26 Sa 14:00-16:00>
+:END:
+

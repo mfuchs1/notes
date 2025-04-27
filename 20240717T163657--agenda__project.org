@@ -27,7 +27,7 @@
 <%%(org-class 2024 9 10 2025 7 1 2 16)>
 
 ** PA (Werktrakt) 09:25-09:40                                           :PA:
-<%%(org-class 2024 9 13 2025 7 4 5 16)>
+<%%(org-class 2024 9 13 2025 7 4 5 18)>
 
 * Stundenplan                                                  
 :PROPERTIES:
@@ -125,29 +125,29 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :PROPERTIES:
 :CUSTOM_ID: h:3af308f7-445a-4fa1-9b7d-256f09153015
 :END:
-<%%(org-class 2024 9 12 2025 7 3 4 16)>
+<%%(org-class 2024 9 12 2025 7 3 4 18)>
 [[denote:20240908T214254][A Klasse 2022-26]]
 
 *** 1c (RLS) 08:35-09:25                                               :1c:
 :PROPERTIES:
 :CUSTOM_ID: h:c6389224-85a9-47ab-9da7-afdbdb59a472
 :END:
-<%%(org-class 2024 9 12 2025 7 3 4 16)>
+<%%(org-class 2024 9 12 2025 7 3 4 18)>
 [[denote:20240908T214521][C Klasse 2024-28]]
 
 *** 3c 10:30-11:20                                                     :3c:
-<%%(org-class 2024 9 12 2025 7 3 4 16)>
+<%%(org-class 2024 9 12 2025 7 3 4 18)>
 [[denote:20240908T214718][C Klasse 2022-26]]
 
 *** 1d 11:30-12:20                                                     :1d:
-<%%(org-class 2024 9 12 2025 7 3 4 16)>
+<%%(org-class 2024 9 12 2025 7 3 4 18)>
 [[denote:20240908T213847][D Klasse 2024-28]]
 
 *** 2a 12:20-13:10                                                     :2a:
 :PROPERTIES:
 :CUSTOM_ID: h:7a03aa5f-7989-4d5e-a629-1b9a64a25c14
 :END:
-<%%(org-class 2024 9 12 2025 7 3 4 16)>
+<%%(org-class 2024 9 12 2025 7 3 4 18)>
 [[denote:20240908T214029][A Klasse 2023-27]]
 
 
@@ -157,19 +157,19 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :PROPERTIES:
 :CUSTOM_ID: h:2d0208b5-cf1e-42e4-a15e-0ab5aabca380
 :END:
-<%%(org-class 2024 9 13 2025 7 4 5 16)>
+<%%(org-class 2024 9 13 2025 7 4 5 18)>
 [[denote:20240908T214718][C Klasse 2022-26]]
 
 *** 3b 09:40-10:30                                                     :3b:
-<%%(org-class 2024 9 13 2025 7 4 5 16)>
+<%%(org-class 2024 9 13 2025 7 4 5 18)>
 [[denote:20240908T214359][B Klasse 2022-26]]
 
 *** 4c 11:30-12:20                                                     :4c:
-<%%(org-class 2024 9 13 2025 7 4 5 16)>
+<%%(org-class 2024 9 13 2025 7 4 5 18)>
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1a 12:20-13:10                                                     :1a:
-<%%(org-class 2024 9 13 2025 7 4 5 16)>
+<%%(org-class 2024 9 13 2025 7 4 5 18)>
 [[denote:20240908T214000][A Klasse 2024-28]]
 
 

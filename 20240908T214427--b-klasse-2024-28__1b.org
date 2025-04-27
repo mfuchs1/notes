@@ -57,41 +57,32 @@ AB etc kopieren (ohne Tablet arbeiten)
 :END:
 Ablauf Hl. Messe / Übungsteil RB
 
-*** Ist Jesus Gott?
+*** Ostern - Emmausjünger
+[[file:~/MMS_Abtenau/Themen_Ostern/Emmausjünger 6. Schulstufe.docx]]
 
-- Bibel ::
-  - "Ich und der Vater sind eins." (Joh 10,30)
-  - "Mein Herr und mein Gott." (Joh 20,28)
-  - Joh.-Ev Prolog (Joh 1)
-  - "Herr ist Jesus" (Röm 10,9)
-  - "Jesus Christus ist der Herr" (Phil 2,11)
-  - "Und keiner kann sagen: Jesus ist der Herr!, wenn er nicht aus dem Heiligen Geist redet." (1. Kor 12,3)
-  - "Ihr sagt zu mir Meister und Herr und ihr nennt mich mit Recht so: denn ich bin es." (Joh 13,13)
+**** Einstieg
+Wann warst du einmal traurig, enttäuscht, verzweifelt, verloren?
+Was macht man, wenn man sich verloren fühlt?
+Die zwei Jünger Jesu, auf ihrem Weg nach Hause (Emmaus), erging es ähnlich. Hier ihre Geschichte (vorlesen).
 
-    ... etc.
-    
-- YouCat :: einige Fragen zu diesem Thema
+**** Emmausjünger
+Vorlesen
+Frage dazu:
+Wie haben sich die Jünger gefühlt? Was haben sie gefühlt?
+Sie begegnen Jesus: was hat das für sie bedeutet?
 
-- Videos ::
-  - [[https://www.youtube.com/watch?v=C2tuQD7M7CQ][Wer war Jesus?]]
-  - [[https://www.youtube.com/watch?v=NbGo_THkrfk][Warum ist Gott Mensch geworden?]]
-  - [[https://www.youtube.com/watch?v=0IByxJz3V00][Warum ist Gott gerade vor 2000 Jahren Mensch geworden?]]
-  - [[https://www.youtube.com/watch?v=6PKZ_Q3MtTU][Wie hat Jesus gelebt?]]
-
-
-*** Ostern - Auferstehung Jesu
-- Emmausjünger
-- Osterevangelien lesen
-- Apostelgeschichte lesen
-- Missionare heute?!
-  
+**** Gruppenarbeit
+Bsp. für eine moderne Situation
+Vergleich mit den Erfahrungen der beiden Jünger
 
 ** Hefteintrag
 Arbeitsweg
 
 http://www.veritas.at/code (rfu300)
 
-
+Eckpunkte der Geschichte
+Gefühle der Kinder und der Jünger
+Ergebnisse der Gruppenarbeit
 
 * Reflexionen
 :PROPERTIES:
