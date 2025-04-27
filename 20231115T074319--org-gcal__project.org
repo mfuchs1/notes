@@ -106,7 +106,7 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3487857598840990"
+:ETag:     "3491119375697694"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250404T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -117,7 +117,7 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3487857598840990"
+:ETag:     "3491119375697694"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250411T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -128,7 +128,7 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3487857598840990"
+:ETag:     "3491119375697694"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250418T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -139,7 +139,7 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3487857598840990"
+:ETag:     "3491119375697694"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250425T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -150,7 +150,7 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3487857598840990"
+:ETag:     "3491119375697694"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250502T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -161,7 +161,7 @@
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3487857598840990"
+:ETag:     "3491119375697694"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250509T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -185,7 +185,7 @@ Adresse: Gangsteig 9 (Massage Fritz Eibl)
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3487857598840990"
+:ETag:     "3491119375697694"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250516T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -196,7 +196,7 @@ Adresse: Gangsteig 9 (Massage Fritz Eibl)
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3487857598840990"
+:ETag:     "3491119375697694"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 03n18k89s70j3dtotnus5ijf9b_20250523T121500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -335,3 +335,59 @@ Online über MS Teams
 <2025-04-26 Sa 14:00-16:00>
 :END:
 
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3491119375697694"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 03n18k89s70j3dtotnus5ijf9b_20250606T121500Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-06-06 Fr 14:15-14:45>
+:END:
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3491119375697694"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 03n18k89s70j3dtotnus5ijf9b_20250613T121500Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-06-13 Fr 14:15-14:45>
+:END:
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3491119375697694"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 03n18k89s70j3dtotnus5ijf9b_20250620T121500Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-06-20 Fr 14:15-14:45>
+:END:
+
+* Besuch Eltern bei uns
+:PROPERTIES:
+:ETag:     "3491395461065918"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 6li32dj26spm4b9o68p36b9k6gsjab9p6so62bb368q36e9n6dj6ce1k70/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-04-27 So 12:00-14:00>
+:END:
+
+* Ski und Skischuhe von Gabriel zurück geben
+:PROPERTIES:
+:ETag:     "3491395843570398"
+:LOCATION: Designer Outlet Salzburg, Kasernenstraße 1, 5073 Himmelreich, Österreich
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 6coj8ob46ksjibb670p6ab9k65hj0b9pckq38b9hchgj2pho6grm2ohl68/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-04-28 Mo 15:00-16:00>
+:END:
