@@ -313,6 +313,17 @@ Online über MS Teams
 <2025-04-30 Mi 10:30-11:20>
 :END:
 
+* Supplierstunde 1b D
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3492525681486046"
+:entry-id: k8fhs6hipu2e8ojfp29nc0nrnk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-05-06 Di 07:45-08:35>
+:END:
+
 * McDonald's mit Gabriel
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
@@ -382,7 +393,7 @@ Online über MS Teams
 
 * Ski und Skischuhe von Gabriel zurück geben
 :PROPERTIES:
-:ETag:     "3491395843570398"
+:ETag:     "3491960776769694"
 :LOCATION: Designer Outlet Salzburg, Kasernenstraße 1, 5073 Himmelreich, Österreich
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 6coj8ob46ksjibb670p6ab9k65hj0b9pckq38b9hchgj2pho6grm2ohl68/matthiasfuchs01@gmail.com
@@ -391,3 +402,37 @@ Online über MS Teams
 :org-gcal:
 <2025-04-28 Mo 15:00-16:00>
 :END:
+
+* Supplierstunde 1a E
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3492525806568318"
+:entry-id: cvitudo64n83t8393opgvh5h0s/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-05-07 Mi 10:30-11:20>
+:END:
+
+* Supplierstunde 1a E
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3492525897360286"
+:entry-id: 52flv49rkdihepr4pdep2ob5uk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-05-09 Fr 07:45-08:35>
+:END:
+
+* Supplierstunde 3b M
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3492525973899550"
+:entry-id: u9fdcun9ufabisd5d33jpv2q9s/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-05-09 Fr 10:30-11:20>
+:END:
+

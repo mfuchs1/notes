@@ -58,7 +58,7 @@
 :PROPERTIES:
 :CUSTOM_ID: h:050ab493-78d8-44f8-8ad2-55d080054b5e
 :END:
-<%%(org-class 2024 9 9 2025 6 30 1 17)>
+<%%(org-class 2024 9 9 2025 6 30 1 19)>
 [[denote:20240908T214223][B Klasse 2021-25]]
 
 *** 3a 12:20-13:10                                                     :3a:
@@ -74,7 +74,7 @@
 :PROPERTIES:
 :CUSTOM_ID: h:046fba0d-845d-48c6-a721-d0d6caf23d10
 :END:
-<%%(org-class 2024 9 10 2025 7 1 2 16)>
+<%%(org-class 2024 9 10 2025 7 1 2 19)>
 [[denote:20240908T214223][B Klasse 2021-25]]
 
 *** 3b 09:40-10:30                                                     :3b:
@@ -88,7 +88,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 [[denote:20240908T214427][B Klasse 2024-28]]
 
 *** 4c 11:30-12:20                                                     :4c:
-<%%(org-class 2024 9 10 2025 7 1 2 16)>
+<%%(org-class 2024 9 10 2025 7 1 2 19)>
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1c 12:20-13:10                                                     :1c:
@@ -165,7 +165,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 [[denote:20240908T214359][B Klasse 2022-26]]
 
 *** 4c 11:30-12:20                                                     :4c:
-<%%(org-class 2024 9 13 2025 7 4 5 18)>
+<%%(org-class 2024 9 13 2025 7 4 5 19)>
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1a 12:20-13:10                                                     :1a:
@@ -371,6 +371,22 @@ CLOSED: [2025-03-17 Mo 11:51] DEADLINE: <2025-03-11 Di 22:00>
 Wie kann das Bloggen auf "After Dark" automatisieren? Oder besser und einfacher mit =magit= erledigen?
 
 [[denote:20250311T092046::#h:8032f492-f03b-48ea-9912-87f7ad26bd00][Neue Schule::Wie geht es weiter?]]
+
+** TODO Lernjob Mappen kopieren [2/3]                               :schule:
+DEADLINE: <2025-05-05 Mo 12:20>
+:PROPERTIES:
+:CAPTURED: [2025-05-05 Mo 09:12]
+:CUSTOM_ID: h:20250505T091240
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-05 Mo 10:25]
+:END:
+
+- [X] Die Heilige Schrift: 1b und 1c (komplette Mappe) - erledigt
+
+- [X] Bibelquiz: 1a (AB kopieren + ausdrucken) - erledigt
+
+- [ ] Heilige Schrift: 2a?
 
 * Wishlist
 :PROPERTIES:

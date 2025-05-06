@@ -24,7 +24,7 @@ Montag, 2.12.2024: gemeinsam lesen (?).
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
-** Themen [3/5]
+** Themen [3/6]
 :PROPERTIES:
 :CUSTOM_ID: h:ffe5604c-653b-4d2b-a35b-6b176cb7a705
 :END:
@@ -32,8 +32,10 @@ Montag, 2.12.2024: gemeinsam lesen (?).
 - [X] Abraham
 - [X] David
 - [ ] Begleiter im Advent
+- [ ] Heilige Schrift - Entstehung der Bibel
 - [ ] Kinder haben Rechte (Menschenrechte)
 
+5 Lernjobs sind bis zum 6.6. abzugeben.
 
 * Stundenplanung
 
@@ -500,5 +502,33 @@ Matteo macht nix, redet viel, es wird gegrunzt, etc.
 :END:
 Daniel, Daniel, Jonas, Emilia, Lea, ... machen ... nix; sind sehr langsam. Trödeln; ... egal was ich sage, nix passiert. Es ist okay, dass ich die Arbeit wechsle, diese Bedingungen sind für mich nicht mehr erträglich. Niklas und Bezim sind nicht besonders fleißig.
 
+** Kontrolle Lernjobs
+:PROPERTIES:
+:CAPTURED: [2025-04-28 Mo 10:44]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
+:END:
+Ich muss unbedingt kontrollieren, welcher Schüler welche LJ erledigt hat: Ringordner, Teams. LJ Mappe der Schüler;
+
+<2025-05-05 Mo> Ansage: bis zu diesem Datum müssen diese LJs erledigt sein; für diese Note.
+
+Trotz Ermahnungen haben die meisten Schüler höchstens zwei Lernjobs in diesem Schuljahr geschafft. 
+
+Wer ist heute laut und macht nix:
+daniel, Daniel, Jonas, Matteo, Niklas;
+
+** So wie immer
+:PROPERTIES:
+:CAPTURED: [2025-05-05 Mo 10:55]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
+:END:
+Die üblichen Schüler (Leon, Matteo, Jonas, Niklas)  arbeiten kaum was, ständig höre ich "Annika"! Tierische Laute, trampeln, .... Hr. Russegger war herinnen, hat geschinpft, ist ihnen egal!
+
+Notiere alles; es gibt dann eben WZ; "Gut" oder "3" in Religion.
+
+Jonas ist z.B. zu faul, die Arbeitsaufträge zu lesen und zu verstehen. Jonas jausnet und redet frech zurück, wenn ich ihn darauf anspreche.
+
+Leon spielt seit drei LS-Stunden mit dem gleichen Versuch herum.
+
+Matteo redet frech zurück; arbeitet nicht.
 
 

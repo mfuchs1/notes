@@ -98,3 +98,43 @@ Im US-Präsidentschaftswahlkampf 2016 hielt Hillary Clinton eine Rede vor Verfec
 
 (Zitat von [[https://multipolar-magazin.de/artikel/wenn-das-volk-gefaehrlich-wird][Wenn das Volk gefährlich wird -]], [2025-02-15 Sa 23:00])
 #+END_QUOTE
+
+* Kanada-Wahl: Trudeau-Nachfolger Carney siegt - news.ORF.at
+:PROPERTIES:
+:CREATED: [2025-04-29 Di 10:47]
+:SOURCE: https://orf.at/stories/3391965/
+:END:
+
+* Nach juristischer Schlappe: Prinz Harry will Versöhnung mit Familie - news.ORF.at
+:PROPERTIES:
+:CREATED: [2025-05-03 Sa 09:40]
+:SOURCE: https://orf.at/stories/3392332/
+:END:
+
+* Nach juristischer Schlappe: Prinz Harry will Versöhnung mit Familie - news.ORF.at
+:PROPERTIES:
+:CREATED: [2025-05-03 Sa 10:18]
+:SOURCE: https://orf.at/stories/3392332/
+:END:
+
+* Nach juristischer Schlappe: Prinz Harry will Versöhnung mit Familie - news.ORF.at
+:PROPERTIES:
+:CREATED: [2025-05-03 Sa 11:09]
+:SOURCE: https://orf.at/stories/3392332/
+:END:
+
+* Fußball: Last-Minute-Tor crasht Bayerns Meisterfeier - sport.ORF.at
+:PROPERTIES:
+:CREATED: [2025-05-03 Sa 20:01]
+:SOURCE: https://sport.orf.at/stories/3140905/
+:END:
+- SOURCE: https://sport.orf.at/stories/3140905/
+- CREATED: [2025-05-03 Sa 20:01]
+
+Juhuu, das klappt: ich habe diese Notiz vom =nyxt= browser, bookmarklets-mode ... gemacht. Das =org-capture-template= werde ich noch anpassen (z.B. habe ich "created" und "source" Angaben zweimal. Ist wohl übertrieben.)
+
+#+BEGIN_QUOTE
+/Bayern München hat seinen 34. Meistertitel praktisch sicher, muss die Feier nach einem Last-Minute-Schock aber noch etwas verschieben. Die Münchner drehten das Spiel bei RB Leipzig nach einem 0:2-Rückstand bis kurz vor Schluss in ein 3:2, ehe Yussuf Poulsen (94.) mit seinem Ausgleichstreffer in der Nachspielzeit zum großen Partycrasher avancierte. Für den ganz sicheren Titel hätte Bayern das Spiel gewinnen müssen./
+
+(Zitat von [[https://sport.orf.at/stories/3140905/][Fußball: Last-Minute-Tor crasht Bayerns Meisterfeier - sport.ORF.at]], [2025-05-03 Sa 20:01])
+#+END_QUOTE
