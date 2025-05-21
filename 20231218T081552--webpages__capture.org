@@ -138,3 +138,26 @@ Juhuu, das klappt: ich habe diese Notiz vom =nyxt= browser, bookmarklets-mode ..
 
 (Zitat von [[https://sport.orf.at/stories/3140905/][Fußball: Last-Minute-Tor crasht Bayerns Meisterfeier - sport.ORF.at]], [2025-05-03 Sa 20:01])
 #+END_QUOTE
+
+* Medienkritik: Mehr als „trotziger Idealismus“ -
+:PROPERTIES:
+:CREATED: [2025-05-06 Di 12:06]
+:SOURCE: https://multipolar-magazin.de/artikel/medienkritik-idealismus
+:END:
+
+* Medienkritik: Mehr als „trotziger Idealismus“ -
+:PROPERTIES:
+:CREATED: [2025-05-06 Di 12:06]
+:SOURCE: https://multipolar-magazin.de/artikel/medienkritik-idealismus
+:END:
+- SOURCE: https://multipolar-magazin.de/artikel/medienkritik-idealismus
+- CREATED: [2025-05-06 Di 12:06]
+
+
+
+#+BEGIN_QUOTE
+/Kritik an den etablierten Medien ist im Jahr 2025 fast schon Mainstream und längst in den Bestsellerlisten angekommen. Doch von welchem Standpunkt aus wird kritisiert? Eine Betrachtung anhand dreier aktueller Bücher./
+
+(Zitat von [[https://multipolar-magazin.de/artikel/medienkritik-idealismus][Medienkritik: Mehr als „trotziger Idealismus“ -]], [2025-05-06 Di 12:06])
+#+END_QUOTE
+

@@ -169,6 +169,21 @@ Jakob arbeitet nix, diskutiert über Busverbindungen.
 :END:
 Klasse wollte keinen Film; also gab ich ihnen eine Arbeit. Die meisten arbeiten;
 
+** Kein Unterricht möglich
+:PROPERTIES:
+:CAPTURED: [2025-05-19 Mo 12:36]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][3a 12:20-13:10]]
+:END:
+So wie in der 4b. Ab jetzt schreiben beide Klassen bis zum Ende des Jahres. Kein Film, kein normaler Unterricht mehr möglich. Ist traurig, aber anders geht es nicht mehr.
+
+** Note Religion
+:PROPERTIES:
+:CAPTURED: [2025-05-19 Mo 12:54]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][3a 12:20-13:10]]
+:END:
+Lina, Luisa, Philipp, Simon, Raphael - schreiben nix; oder sehr wenig, weil sie viel reden.
+
+Wo ist eigentlich Jakob aus der 3a? Schon seit Wochen nicht mehr im Religionsunterricht? Was habe ich da versäumt?
 
 * Schülerliste
 #+Name: 2021-students

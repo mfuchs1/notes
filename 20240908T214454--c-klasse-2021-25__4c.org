@@ -18,8 +18,7 @@
 http://www.veritas.at/code (rfu400) für Material und Übungen
 
 * Notizen, Tasks, Termine
-Eine kleine Änderung, um ~magit-pull~ zu testen.
-Noch eine Änderung.
+<2025-05-16 Fr 11:30> Teresa holt einige Schüler (9?) für eine Probe / Musical.
 
 
 * Stundenplanung
@@ -57,7 +56,8 @@ etc...
 
 Doppelseite gestalten; Symbole (Kreuz, Anker, Herz); wie kannst und willst du deinen Glauben , deine Hoffnung und Liebe stärken?
 
-*** Englisch Vortrag Turnsaal
+*** Film Augustinus
+
 
 
 ** Hefteintrag

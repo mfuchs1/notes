@@ -327,4 +327,17 @@ Gemeinsames Lied.
 #+tblfm: $2=@#-1
 #+TBLFM: $6=vmean($4..$5);%.0f
 
+* Reflexionen
+
+** Maxim Zettel
+:PROPERTIES:
+:CAPTURED: [2025-05-19 Mo 08:05]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:79e7082f-c4b2-47d0-9506-6bde40e15f69][1d (RLS) 07:45-08:35]]
+:END:
+Maxim hat einen Penis auf einen Zettel gezeichnet und wirft ihn in der Klasse herum; von ihm zu Philipp, der zu Felix.
+
+Generell sind Kilian, Felix, Philipp (und Maxim) sehr unruhig.
+
+Hab den Zettel abgefangen; ...
+
 

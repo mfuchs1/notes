@@ -65,7 +65,7 @@
 :PROPERTIES:
 :CUSTOM_ID: h:b622013e-36c8-4e84-901b-35f5d8e6dbb1
 :END:
-<%%(org-class 2024 9 9 2025 6 30 1 17)>
+<%%(org-class 2024 9 9 2025 6 30 1 20)>
 [[denote:20240908T214254][A Klasse 2022-26]]
 
 ** Dienstag
@@ -125,18 +125,18 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :PROPERTIES:
 :CUSTOM_ID: h:3af308f7-445a-4fa1-9b7d-256f09153015
 :END:
-<%%(org-class 2024 9 12 2025 7 3 4 18)>
+<%%(org-class 2024 9 12 2025 7 3 4 20)>
 [[denote:20240908T214254][A Klasse 2022-26]]
 
 *** 1c (RLS) 08:35-09:25                                               :1c:
 :PROPERTIES:
 :CUSTOM_ID: h:c6389224-85a9-47ab-9da7-afdbdb59a472
 :END:
-<%%(org-class 2024 9 12 2025 7 3 4 18)>
+<%%(org-class 2024 9 12 2025 7 3 4)>
 [[denote:20240908T214521][C Klasse 2024-28]]
 
 *** 3c 10:30-11:20                                                     :3c:
-<%%(org-class 2024 9 12 2025 7 3 4 18)>
+<%%(org-class 2024 9 12 2025 7 3 4 20)>
 [[denote:20240908T214718][C Klasse 2022-26]]
 
 *** 1d 11:30-12:20                                                     :1d:
@@ -157,7 +157,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :PROPERTIES:
 :CUSTOM_ID: h:2d0208b5-cf1e-42e4-a15e-0ab5aabca380
 :END:
-<%%(org-class 2024 9 13 2025 7 4 5 18)>
+<%%(org-class 2024 9 13 2025 7 4 5 20)>
 [[denote:20240908T214718][C Klasse 2022-26]]
 
 *** 3b 09:40-10:30                                                     :3b:
@@ -372,13 +372,14 @@ Wie kann das Bloggen auf "After Dark" automatisieren? Oder besser und einfacher 
 
 [[denote:20250311T092046::#h:8032f492-f03b-48ea-9912-87f7ad26bd00][Neue Schule::Wie geht es weiter?]]
 
-** TODO Lernjob Mappen kopieren [2/3]                               :schule:
-DEADLINE: <2025-05-05 Mo 12:20>
+** DONE [#A] Lernjob Mappen kopieren [3/3]                          :schule:
+CLOSED: [2025-05-19 Mo 08:20] DEADLINE: <2025-05-05 Mo 12:20>
 :PROPERTIES:
 :CAPTURED: [2025-05-05 Mo 09:12]
 :CUSTOM_ID: h:20250505T091240
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-19 Mo 08:20]
 - State "DONE"       from "TODO"       [2025-05-05 Mo 10:25]
 :END:
 
@@ -386,7 +387,49 @@ DEADLINE: <2025-05-05 Mo 12:20>
 
 - [X] Bibelquiz: 1a (AB kopieren + ausdrucken) - erledigt
 
-- [ ] Heilige Schrift: 2a?
+- [X] David (für die ersten Klassen?) 
+
+** DONE Mail an die PLUS                                            :schule:
+CLOSED: [2025-05-09 Fr 08:28] DEADLINE: <2025-05-07 Mi 17:00>
+:PROPERTIES:
+:CAPTURED: [2025-05-07 Mi 10:16]
+:CUSTOM_ID: h:20250507T101643
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-09 Fr 08:28]
+:END:
+Email an die PLUS (Uni Salzburg) bzgl. Weiterbildung zum Mathe Lehrer schicken.
+
+Angeben, was ich vorher studiert habe (KPH Religion), Lehrer an Mittelschulen (Pflichtschulen). Oder direkt dort anrufen?
+
+Kontakt:
+Universität Salzburg
+Kapitelgasse 4-6
+5020 Salzburg, Austria
+T +43 662 8044-0
+
+[[https://www.plus.ac.at/studium/studienangebot/lehramtsstudien/]]
+
+[[https://www.plus.ac.at/studium/studienangebot/lehramtsstudien/mathematik/]]
+
+Hab gerade telefoniert - im Juli 2025 soll ich mich per Mail wieder melden: lehramt@plus.ac.at
+Was gibt es Neues bzgl. PH Studenten, Weiterbildung Mathematik / Bachelor Studium, neuer Lehrplan?
+
+Termin per Mail ausmachen für den Sommer 2025 - welche LV vom Mathematik Bachelor Studium inskripieren, die mir für das neue Studium im Herbst 2026 angerechnet werden können?
+
+** DONE Einkaufen für Grillfest                                     :privat:
+CLOSED: [2025-05-19 Mo 08:19] DEADLINE: <2025-05-16 Fr 19:00>
+:PROPERTIES:
+:CAPTURED: [2025-05-16 Fr 08:28]
+:CUSTOM_ID: h:20250516T082803
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-19 Mo 08:19]
+:END:
+Fleisch, Oliven, etc, ... Maximarkt
+Cf. Liste
+
+2-3 Stück Fleisch pro Person
 
 * Wishlist
 :PROPERTIES:
@@ -512,3 +555,14 @@ Maildir in =~/Maildir/schule=
 :CATEGORY: journal
 :END:
 So gut wie täglich einen Eintrag schreiben, ist ja auch ein =journal=.
+
+** STUDY [#A] Learn =howm.el=
+:PROPERTIES:
+:CAPTURED: [2025-05-07 Mi 11:11]
+:CUSTOM_ID: h:20250507T111134
+:END:
+:LOGBOOK:
+- State "STUDY"      from              [2025-05-07 Mi 11:12]
+:END:
+[[file:~/Downloads/Howm_tutorial_eng.pdf]]
+

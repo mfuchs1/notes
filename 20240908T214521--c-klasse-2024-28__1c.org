@@ -66,6 +66,8 @@ einige ABs sind zu kopieren!
 
 [[denote:20250415T095936][Themen für Ostern]]
 
+[[denote:20250506T213451][Der Osterfestkreis]]
+
 *** Ostern - Auferstehung Jesu
 
 [[denote:20250415T095936::#h:5c0352da-5e1c-419e-bd3f-1ec2c44a1f7d][Themen für Ostern::(1. Klasse) Osterevangelien]]
@@ -89,10 +91,14 @@ http://www.veritas.at/code (rfu300)
 :END:
 
 ** Schüler
+
+*** Gruppe 1
 - Auer Simon
 - Bayer Sophia
 - Egger Lara
 - Faller Nina
+
+*** Gruppe 2
 - Gsenger Larissa
 - Huber Leonie
 - Matthes Mara
@@ -130,6 +136,18 @@ Oder: warum haben Sie den Gitarrenunterricht auf Teams angelegt? etc. Es wird ge
 :END:
 LS alleine ist ein Ding der Unmöglichkeit - während man sich um einen Schüler kümmert, machen andere Schüler am anderen Ende der Klasse einen Blödsinn, besonders Leo und Simon.
 
+** Traurig
+:PROPERTIES:
+:CAPTURED: [2025-05-15 Do 09:10]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:c6389224-85a9-47ab-9da7-afdbdb59a472][1c (RLS) 08:35-09:25]]
+:END:
+... das Verhalten so einiger Schüler in der 1c.
+
+Paul hört sich POP Musik an und meint, das gehöre zum Deutsch LS. Ich bin zu ihm gegangen und hab ihn aufgefordert, mir alle offenen Apps zu zeigen. Er hat das Tablet geöffnet / entsperrt und schnell den Chrome Browser geschlossen (hier war ein Thumpnail sichtbar - wahrscheinlich ein Musikvideo oder ähnliches).
+
+Nach der Stunde kamen Lana und ? zu mir; die beiden war sehr vernünftig. Lt ihrer Aussage gibt es seit der VS Probleme mit dem Verhalten so einiger Burschen, die meinen, durch Dummheiten cool zu sein. Was ihr Verhalten nicht entschuldigt.
+
+Nina weinte, weil sie meint, als Klassensprecherin sei sie für das Verhalten der Burschen verantwortlich. Hab sie beruhigt - die Burschen und nur sie allein sind dafür verantwortlich. Vll weint sie auch, weil sie über das Verhalten enttäuscht ist.
 
 * Schülerliste
 #+Name: 2021-students
