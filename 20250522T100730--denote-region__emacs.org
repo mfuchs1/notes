@@ -1,0 +1,14 @@
+#+title:      Denote Region
+#+date:       [2025-05-22 Do 10:07]
+#+filetags:   :emacs:
+#+identifier: 20250522T100730
+
+
+#+begin_quote
+(defun my-denote-region-org-structure-template (_beg _end)
+      (when (derived-mode-p 'org-mode)
+        (activate-mark)
+        (call-interactively 'org-insert-structure-template)))
+
+    (add-hook 'denote-region-after-new-note-functions #'my-denote-region-org-structure-template)
+#+end_quote

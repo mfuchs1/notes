@@ -347,7 +347,7 @@ mit Sarah Loidl
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3494749784162430"
+:ETag:     "3495798365443806"
 :entry-id: ucgvl2kbba6dg09t73pvsrltk0/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
@@ -625,5 +625,18 @@ mit Marius
 <2025-05-22 Do 09:40-10:30>
 
 mit Teresa und Steffi
+:END:
+
+* Elternsprechtag Leopold 2a
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3495798733427038"
+:entry-id: gta0qhi7hibaacbhimkhj5ggv4/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-05-22 Do 16:40-16:50>
+
+Roller: 4 Burschen (Niko, ...) haben Leopold die letzten Wochen gesagt, es sei ihm verboten, mit dem Roller in die Schule alleine zu fahren; er sei dafür zu jung. Ist falsch. Bitte mit den 4 Burschen reden; Leopold hat versprochen, sich zu "verteidigen". 
 :END:
 
