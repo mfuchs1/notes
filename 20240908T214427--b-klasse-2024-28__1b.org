@@ -15,24 +15,24 @@
 [[denote:20240719T125948][Jahresplanung 01]]
 
 * Notizen, Tasks, Termine
-
+<2025-06-02 Mo> - <2025-06-04 Mi>
+Erste Klassen Schwimmtage ab der dritten Stunde
 
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
-** Alle Themen [7/13]
+** Alle Themen [8/10]
 - [X] Der Sturm auf dem See
 - [X] Der Sonnengesang
 - [X] Heilige
 - [X] Heilige Orte
 - [X] Die Adventszeit
 - [X] Beten
-- [ ] Menschen zur Zeit Jesu
+- [X] Menschen zur Zeit Jesu
 - [X] Hl. Blasius / Hl. Rupert
-- [ ] Die Schriften von Qumran
-- [ ] Liturgische Farben im Kirchenjahr
-- [ ] Kalenderzeiten und Lebenskreise
-- [ ] Das Osterfest
+- [ ] Die Hl. Schrift / Die Bücher der Bibel / Die Entstehung der H. Schrift
+- [ ] König David
+
 
 
 * Stundenplanung
@@ -78,6 +78,8 @@ Siehe Link zu "Religionen entdecken":
   Was bedeutet das für unser Verhältnis gegenüber den Juden? Wir sollen demütig sein, uns nicht über sie erheben. Denn sie tragen uns, nicht wir sie.
   Anderes Bild: Juden und Christen sind wie die zwei Flügel einer Lunge. Oder: die Juden sind unsere älteren Brüder.
   Persönliche Erfahrung: großer gegenseitiger Respekt.
+
+Vergleich der christlichen Konfessionen:
 
 Vielfalt im Christentum (für nächste Wochen - sonst wird es verwirrend)
 - Katholisch

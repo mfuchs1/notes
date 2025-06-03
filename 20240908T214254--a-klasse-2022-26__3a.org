@@ -32,16 +32,28 @@ Wie war RU?
 
 [[denote:20250415T095936][Themen für Ostern]]
 
-*** Erste Christen / Petrus - Paulus (RB)
-Wie lebten die ersten Christen?
-Radikales Leben der ersten Christen
-Mission - und heute?
-Hl. Petrus - Hl. Paulus
+Am Montag in der 6. Stunde ist leider nichts mehr möglich, am ehesten noch am Donnerstag in der ersten Stunde.
 
-Bekehrung und Reisen des Hl. Paulus (Film / Doku)
+Heiliger Geist / Pfingsten
+- Symbole
+- Was bewirkt der Hl. Geist - in meinem Leben?
+- Die sieben Gaben des Hl. Geistes
+- Die Früchte des Hl. Geistes
+- Beispiele und Zeugnisse von jungen Menschen / bekannten Personen, die über ihren Glauben sprechen
 
-Christenverfolgung heute (Material?)
+Bibelstellen zum Hl. Geist:
+- Johannesevangelium
+- Verkündigung Jesu
+- Taufe Jesu
+- Apostelgeschichte: Pfingsten / Wunder / ...
+- Apostel Paulus: 1 Kor 12 - 13
 
+[[denote:20231218T081552::#h:c473c627-98a1-4444-9b2e-9c7db2805898][Webpages::Was sind die 7 Gaben des Heiligen Geistes? - YOUCAT]]
+
+[[denote:20250527T081402][Die 7 Gaben des Hl. Geistes]]
+
+Doku Vatikan / Hieroglyphen
+  
 ** Hefteintrag
 Arbeitsweg 1 - 4
 
@@ -174,6 +186,41 @@ So wie in der 4b. Ab jetzt schreiben beide Klassen bis zum Ende des Jahres. Kein
 Lina, Luisa, Philipp, Simon, Raphael - schreiben nix; oder sehr wenig, weil sie viel reden.
 
 Wo ist eigentlich Jakob aus der 3a? Schon seit Wochen nicht mehr im Religionsunterricht? Was habe ich da versäumt?
+
+** Komplett Irre
+:PROPERTIES:
+:CAPTURED: [2025-05-26 Mo 12:42]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][3a 12:20-13:10]]
+:END:
+Jakob, Philipp, Jenni, Amelie, ... machen nix; nur Chaos, ...
+
+Jenni hat sich mind. 5 Minuten geweigert, sich auf ihren Platz zu setzen. Fast die ganze Klasse saß nicht laut Sitzplan. Jakob und Philipp ...
+
+Jakob "Seids ihr Streber! Warum schreibts ihr überhaupt?"
+
+Jakob: "Gehen sie ins Buff?"
+
+Philipp: Haben Sie über Juden gesagt, dass diese Tiere misshandeln?
+
+** So wie immer
+:PROPERTIES:
+:CAPTURED: [2025-06-02 Mo 10:37]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
+:END:
+Wer arbeitet nicht?
+- Jonas
+- Daniel
+- Leon
+- ...
+
+** Wer arbeitet?
+:PROPERTIES:
+:CAPTURED: [2025-06-02 Mo 11:00]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
+:END:
+- Valentin S.
+- Valentin R.
+- Nachbarin von V.R.
 
 * Schülerliste
 #+Name: 2021-students

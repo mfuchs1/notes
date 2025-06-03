@@ -15,7 +15,9 @@
 [[denote:20240719T131544][Jahresplanung 04]]
 
 * Notizen, Tasks, Termine
+<2025-05-27 Di 07:45> Klasse schreibt E SA nach
 
+<2025-05-27 Di 08:35> Zeitzeugen in der Bibliothek
 
 * Stundenplanung
 
@@ -39,34 +41,27 @@ etc...
 
 [[denote:20250415T095936::#h:b49daa22-696e-422b-a556-30d13ee3e1c8][Themen für Ostern::(4. Klasse) Glaube - Hoffnung - Liebe]]
 
-- Was ist eine Tugend?
-- Glaube
-- Hoffnung
-- Liebe
+(Augustinus Film fertig?)
 
-Heftseite(n) gestalten zu Glaube - Hoffnung - Liebe
-Wie bringe ich diese Tugenden zum Wachsen?
+Heiliger Geist / Pfingsten
+- Symbole
+- Was bewirkt der Hl. Geist - in meinem Leben?
+- Die sieben Gaben des Hl. Geistes
+- Die Früchte des Hl. Geistes
+- Beispiele und Zeugnisse von jungen Menschen / bekannten Personen, die über ihren Glauben sprechen
 
-YouTube Videos über:
-Was bedeutet es an Gott zu Glauben?
-Glaube - Wissen
-Gott ist die Liebe - Joh 3,16
-Was machen wir im Himmel?
+Bibelstellen zum Hl. Geist:
+- Johannesevangelium
+- Verkündigung Jesu
+- Taufe Jesu
+- Apostelgeschichte: Pfingsten / Wunder / ...
+- Apostel Paulus: 1 Kor 12 - 13
 
-Liebe: [[https://www.katholisch.de/artikel/5440-doch-am-groessten-ist-die-liebe]]
-Hoffnung: [[https://www.katholisch.de/artikel/5443-was-uns-taeglich-antreibt]]
-Glaube: [[https://www.katholisch.de/artikel/5429-ein-anker-in-stuermischer-see]]
+[[denote:20231218T081552::#h:c473c627-98a1-4444-9b2e-9c7db2805898][Webpages::Was sind die 7 Gaben des Heiligen Geistes? - YOUCAT]]
 
-Und doch wieder zu anspruchsvoll?
+[[denote:20250527T081402][Die 7 Gaben des Hl. Geistes]]
 
-Oder ein biblisches Thema?
-[[denote:20250415T095936::#h:845f8c5a-895d-43ad-b35f-b2bdc42a46c0][Themen für Ostern::(3. Klasse) Tatsache der Auferstehung Jesu (YouCat - Firmung)]]
-- das leere Grab
-- Soldaten bewachen das Grab
-- die Leinentücher
-- Frauen als (erste) Zeugen
-- Glaube verbreitet sich (rasch) zur Zeit der Augenzeugen im Land der Augenzeugen
-- das Neue Testament ist das am besten überlieferte Dokument der Antike
+Doku Vatikan
 
 ** Hefteintrag
 Arbeitsweg 1 - 5
@@ -393,4 +388,15 @@ Also wird ab morgen bis zum Ende des Jahres geschrieben; ...
 
 Sehr Gut gibt es eben dann keine...
 
+** Dieses Verhalten!
+:PROPERTIES:
+:CAPTURED: [2025-05-26 Mo 11:43]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:050ab493-78d8-44f8-8ad2-55d080054b5e][4b 11:30-12:20]]
+:END:
+Ich lasse die Klasse schon wieder schreiben. Da ein normaler Unterricht mehr möglich ist. Ich betrete die Klasse, es ist irre laut; es wird herum gekräht (David), gekreischt, ...
+
+Und natürlich sind alle unschuldig und können nichts dafür.
+
+Schüler, die "krähen":
+David, Markus (?), ....
 

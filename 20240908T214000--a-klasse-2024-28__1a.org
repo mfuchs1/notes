@@ -19,24 +19,24 @@ http://www.veritas.at/code (rfu300)
 * Notizen, Tasks, Termine
 Lesen in der 2. Stunde.
 
+<2025-06-02 Mo> - <2025-06-04 Mi>
+Erste Klassen Schwimmtage ab der dritten Stunde
+
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
-** Alle Themen (Überblick) [7/14]
+** Alle Themen (Überblick) [9/10]
 - [X] Der Sturm auf dem See
-- [ ] Der Sonnengesang
 - [X] Heilige
 - [X] Heilige Orte
 - [X] Die Adventzeit
 - [X] Beten
-- [ ] Bibelquiz
-- [ ] Die Heilige Schrift
+- [X] Bibelquiz
+- [X] Die Heilige Schrift
 - [X] Menschen zur Zeit Jesu
 - [X] Hl. Blasius / Hl. Rupert
-- [ ] Die Schriften von Qumran
-- [ ] Liturgische Farben im Kirchenjahr
-- [ ] Kalenderzeiten und Lebenskreise
-- [ ] Das Osterfest
+- [ ] König David
+
 
 
 * Stundenplanung
@@ -393,3 +393,17 @@ Arbeitsweg
 | [[Julia Windhofer][Julia Windhofer]]     |      |   |   |   |   |   |   |   |   |   |    |
 #+TBLFM: $2=vmean($3..$12)
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
+
+* Reflexionen
+
+** Smartboard?
+:PROPERTIES:
+:CAPTURED: [2025-06-02 Mo 09:20]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::*1a (RLS) 08:35-09:25][1a (RLS) 08:35-09:25]]
+:END:
+Kann man wirklich die Empfindlichkeit so erhöhen, dass eine Fliege Apps verschieben kann?
+
+Und natürlich ist da jede Gelegenheit willkommen, um laut zu werden; wegen jeder Kleinigkeit und jeder Aufgabe mich zu fragen; ... selber nachdenken? viel zu anstrengend, da fragen wir lieber Herrn Fuchs.
+
+

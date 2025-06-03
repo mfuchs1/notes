@@ -27,7 +27,7 @@
 <%%(org-class 2024 9 10 2025 7 1 2 16)>
 
 ** PA (Werktrakt) 09:25-09:40                                           :PA:
-<%%(org-class 2024 9 13 2025 7 4 5 18)>
+<%%(org-class 2024 9 13 2025 7 4 5 22)>
 
 * Stundenplan                                                  
 :PROPERTIES:
@@ -40,11 +40,11 @@
 :PROPERTIES:
 :CUSTOM_ID: h:79e7082f-c4b2-47d0-9506-6bde40e15f69
 :END:
-<%%(org-class 2024 9 9 2025 6 30 1 17)>
+<%%(org-class 2024 9 9 2025 6 30 1)>
 [[denote:20240908T213847][D Klasse 2024-28]]
 
 *** 1a (RLS) 08:35-09:25                                               :1a:
-<%%(org-class 2024 9 9 2025 6 30 1 17)>
+<%%(org-class 2024 9 9 2025 6 30 1 22)>
 [[denote:20240908T214000][A Klasse 2024-28]]
 
 *** 2a (RLS) 10:30-11:20                                               :2a:
@@ -78,7 +78,7 @@
 [[denote:20240908T214223][B Klasse 2021-25]]
 
 *** 3b 09:40-10:30                                                     :3b:
-<%%(org-class 2024 9 10 2025 7 1 2 16)>
+<%%(org-class 2024 9 10 2025 7 1 2 23)>
 [[denote:20240908T214359][B Klasse 2022-26]]
 
 Unterricht heute (10.09.) um 10:15 beenden.
@@ -92,14 +92,14 @@ Unterricht heute (10.09.) um 10:15 beenden.
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1c 12:20-13:10                                                     :1c:
-<%%(org-class 2024 9 10 2025 7 1 2 16)>
+<%%(org-class 2024 9 10 2025 7 1 2)>
 [[denote:20240908T214521][C Klasse 2024-28]]
 
 *** 1c Gitarre 13:10-14:00                                        :gitarre:
 :PROPERTIES:
 :CUSTOM_ID: h:0828bca0-3f7a-4415-8396-d2670488db35
 :END:
-<%%(org-class 2024 9 10 2025 7 1 2 16)>
+<%%(org-class 2024 9 10 2025 7 1 2)>
 [[denote:20240908T214521::#h:169d71d5-10a5-4f37-af06-dcf58b198a1c][C Klasse 2024-28::Instrumentalunterricht / Gitarre]]
 
 
@@ -107,7 +107,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :PROPERTIES:
 :CUSTOM_ID: h:b87c6e14-801c-4864-a238-0868eda34154
 :END:
-<%%(org-class 2024 9 10 2025 7 1 2 16)>
+<%%(org-class 2024 9 10 2025 7 1 2)>
 [[denote:20240908T214521::#h:169d71d5-10a5-4f37-af06-dcf58b198a1c][C Klasse 2024-28::Instrumentalunterricht / Gitarre]]
 
 ** Mittwoch
@@ -125,29 +125,29 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :PROPERTIES:
 :CUSTOM_ID: h:3af308f7-445a-4fa1-9b7d-256f09153015
 :END:
-<%%(org-class 2024 9 12 2025 7 3 4 20)>
+<%%(org-class 2024 9 12 2025 7 3 4 22)>
 [[denote:20240908T214254][A Klasse 2022-26]]
 
 *** 1c (RLS) 08:35-09:25                                               :1c:
 :PROPERTIES:
 :CUSTOM_ID: h:c6389224-85a9-47ab-9da7-afdbdb59a472
 :END:
-<%%(org-class 2024 9 12 2025 7 3 4)>
+<%%(org-class 2024 9 12 2025 7 3 4 22)>
 [[denote:20240908T214521][C Klasse 2024-28]]
 
 *** 3c 10:30-11:20                                                     :3c:
-<%%(org-class 2024 9 12 2025 7 3 4 20)>
+<%%(org-class 2024 9 12 2025 7 3 4 22)>
 [[denote:20240908T214718][C Klasse 2022-26]]
 
 *** 1d 11:30-12:20                                                     :1d:
-<%%(org-class 2024 9 12 2025 7 3 4 18)>
+<%%(org-class 2024 9 12 2025 7 3 4 22)>
 [[denote:20240908T213847][D Klasse 2024-28]]
 
 *** 2a 12:20-13:10                                                     :2a:
 :PROPERTIES:
 :CUSTOM_ID: h:7a03aa5f-7989-4d5e-a629-1b9a64a25c14
 :END:
-<%%(org-class 2024 9 12 2025 7 3 4 18)>
+<%%(org-class 2024 9 12 2025 7 3 4 22)>
 [[denote:20240908T214029][A Klasse 2023-27]]
 
 
@@ -157,19 +157,19 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :PROPERTIES:
 :CUSTOM_ID: h:2d0208b5-cf1e-42e4-a15e-0ab5aabca380
 :END:
-<%%(org-class 2024 9 13 2025 7 4 5 20)>
+<%%(org-class 2024 9 13 2025 7 4 5 22)>
 [[denote:20240908T214718][C Klasse 2022-26]]
 
 *** 3b 09:40-10:30                                                     :3b:
-<%%(org-class 2024 9 13 2025 7 4 5 18)>
+<%%(org-class 2024 9 13 2025 7 4 5 23)>
 [[denote:20240908T214359][B Klasse 2022-26]]
 
 *** 4c 11:30-12:20                                                     :4c:
-<%%(org-class 2024 9 13 2025 7 4 5 19)>
+<%%(org-class 2024 9 13 2025 7 4 5 23)>
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1a 12:20-13:10                                                     :1a:
-<%%(org-class 2024 9 13 2025 7 4 5 18)>
+<%%(org-class 2024 9 13 2025 7 4 5 22)>
 [[denote:20240908T214000][A Klasse 2024-28]]
 
 
@@ -179,192 +179,15 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :CUSTOM_ID: h:ace38b83-beb1-4db2-9872-936865a20b7c
 :END:
 
-** DONE Neuer Eintrag                                                 :test:
-CLOSED: [2024-09-26 Do 21:04] DEADLINE: <2024-09-20 Fr 20:00>
-:PROPERTIES:
-:CAPTURED: [2024-09-20 Fr 18:43]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-09-26 Do 21:04]
-:END:
-
-Ein neuer Eintrag.
-
-** DONE Install bspwm on KDE                                           :kde:
-CLOSED: [2024-09-28 Sa 23:12] DEADLINE: <2024-09-28 Sa 20:00>
-:PROPERTIES:
-:CAPTURED: [2024-09-28 Sa 15:51]
-:CUSTOM_ID: h:d3393c24-fc68-4bf5-a449-1b00f229e6c1
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-09-28 Sa 23:12]
-:END:
-
-[[https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma/en]]
-
-Das klappt nicht, da bspwm nicht unter Wayland läuft.
-
-** DONE Noten kopieren                                             :gitarre:
-CLOSED: [2024-10-16 Mi 10:21] DEADLINE: <2024-10-15 Di 09:30>
-:PROPERTIES:
-:CAPTURED: [2024-10-14 Mo 22:28]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-10-16 Mi 10:21]
-:END:
-
-** DONE Dacia Duster abholen                                          :home:
-CLOSED: [2024-10-31 Do 23:04] DEADLINE: <2024-10-31 Do 15:00>
-:PROPERTIES:
-:CAPTURED: [2024-10-30 Mi 00:17]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-10-31 Do 23:04]
-:END:
-
-** DONE Klavierunterricht                                             :home:
-CLOSED: [2024-10-31 Do 23:05] SCHEDULED: <2024-10-30 Mi 14:45>
-:PROPERTIES:
-:CAPTURED: [2024-10-30 Mi 00:18]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-10-31 Do 23:05]
-:END:
-
-** DONE E-Piano kaufen (KeyWi)                                        :home:
-CLOSED: [2024-10-31 Do 23:04] DEADLINE: <2024-10-30 Mi 09:00>
-:PROPERTIES:
-:CAPTURED: [2024-10-30 Mi 00:20]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-10-31 Do 23:04]
-:END:
-
-** DONE Lohnnachweis an Hr. Skala (Dacia) mailen                      :home:
-CLOSED: [2024-11-03 So 09:23] DEADLINE: <2024-11-03 So 21:00>
-:PROPERTIES:
-:CAPTURED: [2024-11-01 Fr 09:41]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-11-03 So 09:23]
-:END:
-
-[[mailto:Wolfgang Skala <w.skala@outlook.com>]]
-
-** DONE Mittagessen mit Isabelle                                      :home:
-CLOSED: [2024-11-04 Mo 22:12] SCHEDULED: <2024-11-03 So 12:00>
-:PROPERTIES:
-:CAPTURED: [2024-11-01 Fr 09:46]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-11-04 Mo 22:12]
-:END:
-
-Tisch bei Abfalter in Golling reservieren.
-
-** DONE Tisch reservieren (Abfalter Golling)                          :home:
-CLOSED: [2024-11-03 So 09:23] DEADLINE: <2024-11-01 Fr 15:00>
-:PROPERTIES:
-:CAPTURED: [2024-11-01 Fr 09:48]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-11-03 So 09:23]
-:END:
-
-** DONE Kinder und Buch abholen                                       :home:
-CLOSED: [2024-11-06 Mi 10:09] DEADLINE: <2024-11-05 Di 15:30>
-:PROPERTIES:
-:CAPTURED: [2024-11-05 Di 09:02]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-11-06 Mi 10:09]
-:END:
-
-** DONE Installateur (Notdienst) anrufen                              :home:
-CLOSED: [2024-12-08 So 14:39] DEADLINE: <2024-11-05 Di 17:00>
-:PROPERTIES:
-:CAPTURED: [2024-11-05 Di 09:35]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-12-08 So 14:39]
-:END:
-
-** DONE SZ (Parken) zahlen                                            :home:
-CLOSED: [2024-11-16 Sa 10:18] DEADLINE: <2024-11-15 Fr 14:00>
-:PROPERTIES:
-:CAPTURED: [2024-11-15 Fr 10:18]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-11-16 Sa 10:18]
-:END:
-
-** DONE Sternsinger vorstellen                                      :schule:
-CLOSED: [2024-11-24 So 15:36] SCHEDULED: <2024-11-22 Fr 08:30>
-:PROPERTIES:
-:CAPTURED: [2024-11-22 Fr 07:54]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-11-24 So 15:36]
-:END:
-
-** DONE Sternsinger vorstellen (Mo)                                 :schule:
-CLOSED: [2024-11-26 Di 09:00] SCHEDULED: <2024-11-25 Mo 08:20>
-:PROPERTIES:
-:CAPTURED: [2024-11-22 Fr 07:55]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-11-26 Di 09:00]
-:END:
-
-** DONE [#A] LS Abraham Seite scannen                               :schule:
-CLOSED: [2024-11-26 Di 09:39] DEADLINE: <2024-11-25 Mo 18:00>
-:PROPERTIES:
-:CAPTURED: [2024-11-25 Mo 11:00]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-11-26 Di 09:39]
-:END:
-
-Seite aus RB einscannen
-
-** DONE [#A] Marie-Luise anrufen                                    :schule:
-CLOSED: [2024-11-27 Mi 14:46] SCHEDULED: <2024-11-27 Mi 13:00>
-:PROPERTIES:
-:CAPTURED: [2024-11-27 Mi 11:19]
-:CUSTOM_ID: h:a3545b0c-5047-4d93-997b-b9992157d5cd
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-11-27 Mi 14:46]
-:END:
-
-** DONE [#A] Fürbitten und Geschichte für Freitag                   :schule:
-CLOSED: [2024-11-27 Mi 22:10] SCHEDULED: <2024-11-27 Mi 18:00>
-:PROPERTIES:
-:CAPTURED: [2024-11-27 Mi 11:21]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-11-27 Mi 22:10]
-:END:
-
-** DONE Ablauf Gottesdienst an Thomas Daxinger                      :schule:
-CLOSED: [2024-12-12 Do 10:06] DEADLINE: <2024-12-10 Di 20:00>
-:PROPERTIES:
-:CAPTURED: [2024-12-10 Di 12:00]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-12-12 Do 10:06]
-:END:
-Ablauf an Thomas Daxinger (3c) mit Ablauf des Gottesdienstes / damit er seine Lieder platzieren kann.
-
-** TODO etwas Neues
-
 ** DONE [#A] Hugo Blog "After Dark"                                   :blog:
-CLOSED: [2025-03-17 Mo 11:51] DEADLINE: <2025-03-11 Di 22:00>
+CLOSED: [2025-05-23 Fr 17:18] DEADLINE: <2025-03-11 Di 22:00>
 :PROPERTIES:
 :CAPTURED: [2025-03-11 Di 09:32]
 :CUSTOM_ID: h:20250311T093258
 :END:
 :LOGBOOK:
+- State "DONE"       from "STUDY"      [2025-05-23 Fr 17:18]
+- State "STUDY"      from "TODO"       [2025-05-23 Fr 17:18]
 - State "DONE"       from "TODO"       [2025-03-17 Mo 11:51]
 :END:
 
@@ -372,22 +195,6 @@ Wie kann das Bloggen auf "After Dark" automatisieren? Oder besser und einfacher 
 
 [[denote:20250311T092046::#h:8032f492-f03b-48ea-9912-87f7ad26bd00][Neue Schule::Wie geht es weiter?]]
 
-** DONE [#A] Lernjob Mappen kopieren [3/3]                          :schule:
-CLOSED: [2025-05-19 Mo 08:20] DEADLINE: <2025-05-05 Mo 12:20>
-:PROPERTIES:
-:CAPTURED: [2025-05-05 Mo 09:12]
-:CUSTOM_ID: h:20250505T091240
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2025-05-19 Mo 08:20]
-- State "DONE"       from "TODO"       [2025-05-05 Mo 10:25]
-:END:
-
-- [X] Die Heilige Schrift: 1b und 1c (komplette Mappe) - erledigt
-
-- [X] Bibelquiz: 1a (AB kopieren + ausdrucken) - erledigt
-
-- [X] David (für die ersten Klassen?) 
 
 ** DONE Mail an die PLUS                                            :schule:
 CLOSED: [2025-05-09 Fr 08:28] DEADLINE: <2025-05-07 Mi 17:00>
@@ -417,19 +224,24 @@ Was gibt es Neues bzgl. PH Studenten, Weiterbildung Mathematik / Bachelor Studiu
 
 Termin per Mail ausmachen für den Sommer 2025 - welche LV vom Mathematik Bachelor Studium inskripieren, die mir für das neue Studium im Herbst 2026 angerechnet werden können?
 
-** DONE Einkaufen für Grillfest                                     :privat:
-CLOSED: [2025-05-19 Mo 08:19] DEADLINE: <2025-05-16 Fr 19:00>
-:PROPERTIES:
-:CAPTURED: [2025-05-16 Fr 08:28]
-:CUSTOM_ID: h:20250516T082803
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2025-05-19 Mo 08:19]
-:END:
-Fleisch, Oliven, etc, ... Maximarkt
-Cf. Liste
 
-2-3 Stück Fleisch pro Person
+** TODO [#A] Write bash script for blogging                           :blog:
+DEADLINE: <2025-05-23 Fr 22:00>
+:PROPERTIES:
+:CAPTURED: [2025-05-23 Fr 11:21]
+:CUSTOM_ID: h:20250523T112158
+:END:
+
+Ein bash script fürs Blogging schreiben; würde doch so klappen: die bash Befehle ins script schreiben.
+
+Commits?
+
+[[https://allwynfernandes.github.io/deploy-hugo-site-bash-script/]]
+
+Oder mit Emacs / hugo / magit / ...?
+
+[[https://www.google.com/search?hl=de&q=emacs%20post%20blog%20with%20hugo]]
+
 
 * Wishlist
 :PROPERTIES:
@@ -449,76 +261,6 @@ Cf. Liste
 
 [[denote:20240717T163657::#h:0828bca0-3f7a-4415-8396-d2670488db35][Agenda::1c Gitarre 13:10-14:00]]
 
-** DONE Emacs Spotify
-CLOSED: [2024-10-22 Di 10:57] SCHEDULED: <2024-10-18 Fr 20:00>
-:PROPERTIES:
-:CAPTURED: [2024-10-18 Fr 08:22]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-10-22 Di 10:57]
-:END:
-
-[[file:~/.emacs.d/init.el::;;; `consult-spotify']]
-
-Ich werde mir heute Abend noch einmal die config von ~consult-spotify~ auf dem Desktop-PC ansehen. Dort funktioniert dieses Programm, auf dem Laptop nicht. Woran liegt das? Fehlt z.B. der Token auf dem Laptop? Fehlt ein Emacs-Paket auf dem Laptop? 
-
-Interessanter weise läuft ~smudge~ auf dem Laptop. Kann ich damit Tracks, Alben, etc suchen? Ich denke nicht, oder?
-
-** Package =beframe.el=
-:PROPERTIES:
-:CAPTURED: [2024-10-23 Mi 13:03]
-:END:
-Ich werde mir in nächster Zeit das YouTube Video von Prot über sein package =beframe.el= ansehen. Vielleicht könnte mir dieses Paket helfen? Wozu dient es?
-
-[[https://www.youtube.com/watch?v=SYEBbHmOkFY]]
-
-Manual:
-[[https://protesilaos.com/emacs/beframe]]
-
-Neue Version:
-[[https://protesilaos.com/codelog/2024-10-23-emacs-beframe-1-2-0/]]
-
-** Nur ein Test
-:PROPERTIES:
-:CAPTURED: [2024-10-29 Di 23:59]
-:END:
-Ich möchte wissen, wo der Post eingefügt wird.
-
-[[file:~/.emacs.d/init.el::file+headline "~/RoamNotes/notes/20240717T163657--agenda__project.org" "Unprocessed"]]
-
-** Noch ein Test
-:PROPERTIES:
-:CAPTURED: [2024-10-30 Mi 00:01]
-:END:
-und wo steht dieser Post?
-
-[[file:~/.emacs.d/init.el::("a" "Appointement --> gcal" entry]]
-
-** Ein Versuch
-:PROPERTIES:
-:CAPTURED: [2024-11-12 Di 09:17]
-:END:
-
-[[denote:20240908T214359::#h:3e799bd5-ef66-401b-998f-01056c9c1af8][B Klasse 2022-26::Notizen, Tasks, Termine]]
-
-** Error Logs
-:PROPERTIES:
-:CAPTURED: [2024-11-12 Di 09:37]
-:END:
-#+begin_src emacs-lisp
-Error during redisplay: (eval (concat (prot-modeline-major-mode-indicator) " " (propertize (prot-modeline-string-truncate (prot-modeline-major-mode-name)) 'mouse-face 'mode-line-highlight 'help-echo (prot-modeline-major-mode-help-echo)))) signaled (wrong-type-argument number-or-marker-p nil) [2 times]
-#+end_src
-
-[[denote:20231115T074319::#h:cc85bc8e-1bbf-4430-90aa-8419a0a29ac2][org-gcal::Test Event]]
-
-
-** TODO [#A] Lernschiene Mappen am Ende der Stunde aufräumen        :schule:
-:PROPERTIES:
-:CAPTURED: [2024-11-21 Do 07:39]
-:CATEGORY: LS
-:CUSTOM_ID: h:3b5e1af2-9409-4123-823e-82a2d5bf471e
-:END:
-
 ** TODO [#A] TA eintragen                                           :schule:
 :PROPERTIES:
 :CAPTURED: [2024-11-21 Do 09:42]
@@ -528,27 +270,6 @@ Error during redisplay: (eval (concat (prot-modeline-major-mode-indicator) " " (
 
 Lernstoff  und gehaltene Stunden eintragen.
 
-** Ein neuer Eintrag
-:PROPERTIES:
-:CAPTURED: [2024-11-21 Do 10:25]
-:END:
-
-** DONE [#A] PH Fortbildung anmelden                                :schule:
-CLOSED: [2024-12-03 Di 09:31]
-:PROPERTIES:
-:CAPTURED: [2024-11-26 Di 09:37]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-12-03 Di 09:31]
-:END:
-Auf PH Online suchen nach "Störungen im Unterricht"; und dann war noch eine zweite FB .... Hoffentlich finde ich beide Zettel daheim noch.
-
-** ~mu4e~ für Dienst-Email einrichten
-:PROPERTIES:
-:CAPTURED: [2025-01-08 Mi 08:07]
-:END:
-Maildir in =~/Maildir/schule=
-[[denote:20250107T082318::#h:abefd19a-8cdd-4aa3-ab69-1bd4fdcc7fef][Schule einrichten::BU Kammerl]]
 
 ** TODO [#A] ~denote-journal-new-entry~                             :privat:
 :PROPERTIES:
