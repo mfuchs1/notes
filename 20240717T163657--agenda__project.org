@@ -116,7 +116,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :END:
 
 *** 1b 11:30-12:20                                                     :1b:
-<%%(org-class 2024 9 11 2025 7 2 3 16)>
+<%%(org-class 2024 9 11 2025 7 2 3 16 23)>
 [[denote:20240908T214427][B Klasse 2024-28]]
 
 ** Donnerstag
@@ -140,7 +140,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 [[denote:20240908T214718][C Klasse 2022-26]]
 
 *** 1d 11:30-12:20                                                     :1d:
-<%%(org-class 2024 9 12 2025 7 3 4 22)>
+<%%(org-class 2024 9 12 2025 7 3 4 23)>
 [[denote:20240908T213847][D Klasse 2024-28]]
 
 *** 2a 12:20-13:10                                                     :2a:

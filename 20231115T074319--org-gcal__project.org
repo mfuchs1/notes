@@ -622,3 +622,15 @@ Roller: 4 Burschen (Niko, ...) haben Leopold die letzten Wochen gesagt, es sei i
 :org-gcal:
 <2025-06-06 Fr 10:30-11:20>
 :END:
+
+* Supplierstunde 3a M (ohne ST)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3497871003338494"
+:entry-id: 9r5f9ff3li39ht04q16iubh7uk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-06-03 Di 08:35-09:25>
+:END:
+
