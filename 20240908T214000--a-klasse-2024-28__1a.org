@@ -22,6 +22,8 @@ Lesen in der 2. Stunde.
 <2025-06-02 Mo> - <2025-06-04 Mi>
 Erste Klassen Schwimmtage ab der dritten Stunde
 
+Ich schreibe hier einen Text hinein.
+
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 

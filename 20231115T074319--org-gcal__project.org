@@ -603,24 +603,28 @@ Roller: 4 Burschen (Niko, ...) haben Leopold die letzten Wochen gesagt, es sei i
 
 * Supplierstunde 1b M
 :PROPERTIES:
-:ETag:     "3497518507787262"
+:ETag:     "3498380905890718"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: c5im2pj168p3ebb268rm6b9kcdj3ab9o71im2b9i65i3cpj6c5j68c35c4/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
 :org-gcal:
 <2025-06-06 Fr 09:40-10:30>
+
+mit Martin und Lorena
 :END:
 
 * Supplierstunde 2a E
 :PROPERTIES:
-:ETag:     "3497518646667326"
+:ETag:     "3498380920253182"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 74s6aphh6oo3cbb2c9i36b9k6ti38b9p6sojcb9kchi68pj1chgjid1m64/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
 :org-gcal:
 <2025-06-06 Fr 10:30-11:20>
+
+mit Doris
 :END:
 
 * Supplierstunde 3a M (ohne ST)
