@@ -18,10 +18,10 @@
 :END:
 
 ** PA (2. OG Altbau) 07:30-07:45                                        :PA:
-<%%(org-class 2024 9 9 2025 6 30 1 17)>
+<%%(org-class 2024 9 9 2025 6 30 1 24)>
 
 ** PA (1. OG Cont.) 11:20-11:30                                         :PA:
-<%%(org-class 2024 9 9 2025 6 30 1 17)>
+<%%(org-class 2024 9 9 2025 6 30 1 24)>
 
 ** PA (EG Cont.)  07:30-07:45                                           :PA:
 <%%(org-class 2024 9 10 2025 7 1 2 16)>
@@ -40,32 +40,32 @@
 :PROPERTIES:
 :CUSTOM_ID: h:79e7082f-c4b2-47d0-9506-6bde40e15f69
 :END:
-<%%(org-class 2024 9 9 2025 6 30 1)>
+<%%(org-class 2024 9 9 2025 6 30 1 24)>
 [[denote:20240908T213847][D Klasse 2024-28]]
 
 *** 1a (RLS) 08:35-09:25                                               :1a:
-<%%(org-class 2024 9 9 2025 6 30 1 22)>
+<%%(org-class 2024 9 9 2025 6 30 1 24)>
 [[denote:20240908T214000][A Klasse 2024-28]]
 
 *** 2a (RLS) 10:30-11:20                                               :2a:
 :PROPERTIES:
 :CUSTOM_ID: h:8608e26f-9bf9-4794-967d-c77e01ba5036
 :END:
-<%%(org-class 2024 9 9 2025 6 30 1 17)>
+<%%(org-class 2024 9 9 2025 6 30 1 24)>
 [[denote:20240908T214029][A Klasse 2023-27]]
 
 *** 4b 11:30-12:20                                                     :4b:
 :PROPERTIES:
 :CUSTOM_ID: h:050ab493-78d8-44f8-8ad2-55d080054b5e
 :END:
-<%%(org-class 2024 9 9 2025 6 30 1 19)>
+<%%(org-class 2024 9 9 2025 6 30 1 24)>
 [[denote:20240908T214223][B Klasse 2021-25]]
 
 *** 3a 12:20-13:10                                                     :3a:
 :PROPERTIES:
 :CUSTOM_ID: h:b622013e-36c8-4e84-901b-35f5d8e6dbb1
 :END:
-<%%(org-class 2024 9 9 2025 6 30 1 20)>
+<%%(org-class 2024 9 9 2025 6 30 1 24)>
 [[denote:20240908T214254][A Klasse 2022-26]]
 
 ** Dienstag
@@ -116,7 +116,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :END:
 
 *** 1b 11:30-12:20                                                     :1b:
-<%%(org-class 2024 9 11 2025 7 2 3 16 23)>
+<%%(org-class 2024 9 11 2025 7 2 3 16 24)>
 [[denote:20240908T214427][B Klasse 2024-28]]
 
 ** Donnerstag

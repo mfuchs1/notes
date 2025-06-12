@@ -638,3 +638,14 @@ mit Doris
 <2025-06-03 Di 08:35-09:25>
 :END:
 
+* Supplierstunde 3b M
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3498971327841374"
+:entry-id: m9tljnfd68cjr1jh6eer0s3fqk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-06-13 Fr 10:30-11:20>
+:END:
+

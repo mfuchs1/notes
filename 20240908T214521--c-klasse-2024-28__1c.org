@@ -158,6 +158,14 @@ Nach der Stunde kamen Lana und ? zu mir; die beiden war sehr vernünftig. Lt ihr
 
 Nina weinte, weil sie meint, als Klassensprecherin sei sie für das Verhalten der Burschen verantwortlich. Hab sie beruhigt - die Burschen und nur sie allein sind dafür verantwortlich. Vll weint sie auch, weil sie über das Verhalten enttäuscht ist.
 
+** Störungen
+:PROPERTIES:
+:CAPTURED: [2025-06-10 Di 13:05]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240908T214359--b-klasse-2022-26__3b.org::#h:7d5a777c-8794-435d-9ad5-ae0d10d555b0][Themen]]
+:END:
+Florian hat ein paar Schüler zur Probe abgeholt. Die restliche Klasse hat es (wieder) massiv übertrieben. Also schreibt die Klasse die S. 108 ins Heft ab. Hat die Klasse nicht davon abgehalten, weiter zu stören. Also hab ich Flo geholt. Wir haben kurz Platz getauscht.
+
+
 * Schülerliste
 #+Name: 2021-students
 |-----------+----------------+------------------------+------+-----------+------+-----|
