@@ -125,6 +125,18 @@ http://www.veritas.at/code (rfu300)
 :CUSTOM_ID: h:a0e30793-ac1e-4ec8-ac34-9ffb13c39cc6
 :END:
 
+** Werke der Barmherzigkeit
+:PROPERTIES:
+:CAPTURED: [2025-06-13 Fr 10:43]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:2d0208b5-cf1e-42e4-a15e-0ab5aabca380][3c 08:35-09:25]]
+:END:
+Diese Stunde (am <2025-06-13 Fr>) war ordentlich und (sehr) gut. Marie-Luise meinte es war gut, dass ich bei den ersten Störungen (Darf ich aufs Klo?) nicht nach gegeben habe. Anna und (ihre Nachbarin) haben später wieder gestört - es war nicht viel, aber doch respektlos.
+
+Meine Aufgabe, v.a. in meiner neuen Schule: diese kleinen (und dann großen) Störungen sofort unterbinden. Respekt und Disziplin einfordern.
+
+In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass dieser Vormittag bis jetzt so gut gegangen ist.
+
+
 * Schülerliste
 #+Name: 2021-students
 |-----------+--------------+------------------------+------+-----------+------+-----|
