@@ -649,3 +649,14 @@ mit Doris
 <2025-06-13 Fr 10:30-11:20>
 :END:
 
+* Zahnarzt anrufen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3500377923097150"
+:entry-id: k4666lfposc9pqco5ups4t765s/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-06-18 Mi 08:30-09:00>
+:END:
+
