@@ -29,6 +29,17 @@ Hier schreibe ich einen Text.
 
 * Stundenplanung
 
+** PROJ Testeintrag
+:LOGBOOK:
+- State "PROJ"       from "WAITING"    [2025-06-27 Fr 08:18]
+- State "WAITING"    from "WAIT"       [2025-06-27 Fr 08:17] \\
+  raeson
+- State "WAIT"       from "WAITING"    [2025-06-27 Fr 08:17] \\
+  Grund
+- State "WAITING"    from              [2025-06-27 Fr 08:17] \\
+  Gründe
+:END:
+
 ** Einführung / Ziele
 Persönliche Vorstellung;
 

@@ -132,7 +132,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :PROPERTIES:
 :CUSTOM_ID: h:c6389224-85a9-47ab-9da7-afdbdb59a472
 :END:
-<%%(org-class 2024 9 12 2025 7 3 4 25)>
+<%%(org-class 2024 9 12 2025 7 3 4 26)>
 [[denote:20240908T214521][C Klasse 2024-28]]
 
 *** 3c 10:30-11:20                                                     :3c:
@@ -225,11 +225,14 @@ Was gibt es Neues bzgl. PH Studenten, Weiterbildung Mathematik / Bachelor Studiu
 Termin per Mail ausmachen für den Sommer 2025 - welche LV vom Mathematik Bachelor Studium inskripieren, die mir für das neue Studium im Herbst 2026 angerechnet werden können?
 
 
-** TODO [#A] Write bash script for blogging                           :blog:
-DEADLINE: <2025-05-23 Fr 22:00>
+** DONE [#A] Write bash script for blogging                           :blog:
+CLOSED: [2025-06-24 Di 12:18] DEADLINE: <2025-05-23 Fr 22:00>
 :PROPERTIES:
 :CAPTURED: [2025-05-23 Fr 11:21]
 :CUSTOM_ID: h:20250523T112158
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-24 Di 12:18]
 :END:
 
 Ein bash script fürs Blogging schreiben; würde doch so klappen: die bash Befehle ins script schreiben.

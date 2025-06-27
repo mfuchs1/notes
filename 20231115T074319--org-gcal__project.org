@@ -546,3 +546,15 @@ mit Doris
 :org-gcal:
 <2025-06-18 Mi 13:30-16:00>
 :END:
+
+* Notenkonferenz
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3501763189858590"
+:entry-id: 90423mtmia08r6mdtiieg6f0b0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-06-27 Fr 14:00-17:30>
+:END:
+
