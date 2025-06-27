@@ -245,6 +245,22 @@ Oder mit Emacs / hugo / magit / ...?
 
 [[https://www.google.com/search?hl=de&q=emacs%20post%20blog%20with%20hugo]]
 
+** TODO Tablet zurückgeben                                           :schule:
+DEADLINE: <2025-06-30 Mo 12:00>
+:PROPERTIES:
+:CAPTURED: [2025-06-27 Fr 16:49]
+:CUSTOM_ID: h:20250627T164914
+:END:
+
+** TODO =org-capture= überarbeiten                                   :schule:
+DEADLINE: <2025-06-27 Fr 20:00>
+:PROPERTIES:
+:CAPTURED: [2025-06-27 Fr 16:51]
+:CUSTOM_ID: h:20250627T165104
+:END:
+=org-capture= vereinfachen, v.a. =denote= capture-templates reduzieren. Welche templates sind (noch) sinnvoll? Werden sie wirklich verwendet? 
+
+[[file:~/.emacs.d/emacs-config.org::*=org-capture= configuration][=org-capture= configuration]]
 
 * Wishlist
 :PROPERTIES:
