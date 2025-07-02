@@ -2,6 +2,14 @@
 #+date:       [2025-06-27 Fr 15:03]
 #+filetags:   :schule:
 #+identifier: 20250627T150323
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Geschichte mit Schuhen.html
 
 * Unterwegs in alten Schuhen
 
@@ -27,3 +35,21 @@ Dann kamen die Wanderschuhe. Fester, robuster – gemacht für lange Wege, für 
 Heute weiß ich: Es geht nicht um die Schuhe, sondern um die Reise. Jeder Abschnitt braucht sein eigenes Paar, seinen eigenen Rhythmus. Und immer bleibt eine Wahrheit:
 
 Ich bin unterwegs mit Gott – und Gott ist unterwegs mit mir.
+
+* Mit welchen Schuhen werde ich weitergehen?
+
+Ich erinnere mich noch gut an meine ersten Schuhe – kleine bunte Turnschuhe. Mit ihnen lernte ich zu laufen, zu stolpern, wieder aufzustehen. Damals hielt ich Gottes Hand, auch wenn ich sie kaum verstand.
+
+Dann kamen die Stiefel meiner Jugend – manchmal zu groß, oft unbequem. Ich wollte schnell vorwärts, Grenzen testen. Aber auch auf holprigem Gelände spürte ich: Gott war da. Nicht immer laut, aber treu wie ein fester Tritt.
+
+In der Schulzeit trug ich Sneakers – ausgelatscht, voller Geschichten. Lachen auf dem Pausenhof, Zweifel in langen Nächten, Freundschaften, Prüfungen. Ich wuchs – innerlich, äußerlich. Und Gott ging mit, Schritt für Schritt, oft unbemerkt.
+
+Jetzt stehe ich in schicken Schuhen – Abschlussklasse. Poliert, bereit für den großen Auftritt. Applaus, Fotos, Abschiede. Ich blicke zurück – und sehe: Jeder Schuh war nötig. Jeder Schritt Teil meines Weges.
+
+Und morgen? Morgen packe ich meinen Rucksack, schlüpfe in neue, unbekannte Schuhe. Vielleicht Wanderschuhe für weite Wege. Vielleicht Sandalen für Leichtigkeit. Vielleicht barfuß, wenn ich den Boden wieder spüren muss.
+
+Mit welchen Schuhen ich weitergehe, weiß ich noch nicht.
+Aber ich weiß, mit wem ich weitergehe.
+
+Gott geht mit.
+Und das gibt mir festen Halt – ganz gleich, welche Schuhe ich trage.

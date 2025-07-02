@@ -18,16 +18,16 @@
 :END:
 
 ** PA (2. OG Altbau) 07:30-07:45                                        :PA:
-<%%(org-class 2024 9 9 2025 6 30 1 24)>
+<%%(org-class 2024 9 9 2025 6 30 1 27)>
 
 ** PA (1. OG Cont.) 11:20-11:30                                         :PA:
-<%%(org-class 2024 9 9 2025 6 30 1 24)>
+<%%(org-class 2024 9 9 2025 6 30 1 27)>
 
 ** PA (EG Cont.)  07:30-07:45                                           :PA:
-<%%(org-class 2024 9 10 2025 7 1 2 16)>
+<%%(org-class 2024 9 10 2025 7 1 2 27)>
 
 ** PA (Werktrakt) 09:25-09:40                                           :PA:
-<%%(org-class 2024 9 13 2025 7 4 5 22)>
+<%%(org-class 2024 9 13 2025 7 4 5 27)>
 
 * Stundenplan                                                  
 :PROPERTIES:
@@ -40,32 +40,32 @@
 :PROPERTIES:
 :CUSTOM_ID: h:79e7082f-c4b2-47d0-9506-6bde40e15f69
 :END:
-<%%(org-class 2024 9 9 2025 6 30 1 24)>
+<%%(org-class 2024 9 9 2025 6 30 1 27)>
 [[denote:20240908T213847][D Klasse 2024-28]]
 
 *** 1a (RLS) 08:35-09:25                                               :1a:
-<%%(org-class 2024 9 9 2025 6 30 1 24)>
+<%%(org-class 2024 9 9 2025 6 30 1 27)>
 [[denote:20240908T214000][A Klasse 2024-28]]
 
 *** 2a (RLS) 10:30-11:20                                               :2a:
 :PROPERTIES:
 :CUSTOM_ID: h:8608e26f-9bf9-4794-967d-c77e01ba5036
 :END:
-<%%(org-class 2024 9 9 2025 6 30 1 24)>
+<%%(org-class 2024 9 9 2025 6 30 1 27)>
 [[denote:20240908T214029][A Klasse 2023-27]]
 
 *** 4b 11:30-12:20                                                     :4b:
 :PROPERTIES:
 :CUSTOM_ID: h:050ab493-78d8-44f8-8ad2-55d080054b5e
 :END:
-<%%(org-class 2024 9 9 2025 6 30 1 24)>
+<%%(org-class 2024 9 9 2025 6 30 1 27)>
 [[denote:20240908T214223][B Klasse 2021-25]]
 
 *** 3a 12:20-13:10                                                     :3a:
 :PROPERTIES:
 :CUSTOM_ID: h:b622013e-36c8-4e84-901b-35f5d8e6dbb1
 :END:
-<%%(org-class 2024 9 9 2025 6 30 1 24)>
+<%%(org-class 2024 9 9 2025 6 30 1 27)>
 [[denote:20240908T214254][A Klasse 2022-26]]
 
 ** Dienstag
@@ -74,32 +74,32 @@
 :PROPERTIES:
 :CUSTOM_ID: h:046fba0d-845d-48c6-a721-d0d6caf23d10
 :END:
-<%%(org-class 2024 9 10 2025 7 1 2 19)>
+<%%(org-class 2024 9 10 2025 7 1 2 27)>
 [[denote:20240908T214223][B Klasse 2021-25]]
 
 *** 3b 09:40-10:30                                                     :3b:
-<%%(org-class 2024 9 10 2025 7 1 2 23)>
+<%%(org-class 2024 9 10 2025 7 1 2 27)>
 [[denote:20240908T214359][B Klasse 2022-26]]
 
 Unterricht heute (10.09.) um 10:15 beenden.
 
 *** 1b (RLS) 10:30-11:20                                               :1b:
-<%%(org-class 2024 9 10 2025 7 1 2 16)>
+<%%(org-class 2024 9 10 2025 7 1 2 27)>
 [[denote:20240908T214427][B Klasse 2024-28]]
 
 *** 4c 11:30-12:20                                                     :4c:
-<%%(org-class 2024 9 10 2025 7 1 2 26)>
+<%%(org-class 2024 9 10 2025 7 1 2 27)>
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1c 12:20-13:10                                                     :1c:
-<%%(org-class 2024 9 10 2025 7 1 2)>
+<%%(org-class 2024 9 10 2025 7 1 2 27)>
 [[denote:20240908T214521][C Klasse 2024-28]]
 
 *** 1c Gitarre 13:10-14:00                                        :gitarre:
 :PROPERTIES:
 :CUSTOM_ID: h:0828bca0-3f7a-4415-8396-d2670488db35
 :END:
-<%%(org-class 2024 9 10 2025 7 1 2)>
+<%%(org-class 2024 9 10 2025 7 1 2 27)>
 [[denote:20240908T214521::#h:169d71d5-10a5-4f37-af06-dcf58b198a1c][C Klasse 2024-28::Instrumentalunterricht / Gitarre]]
 
 
@@ -107,7 +107,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :PROPERTIES:
 :CUSTOM_ID: h:b87c6e14-801c-4864-a238-0868eda34154
 :END:
-<%%(org-class 2024 9 10 2025 7 1 2)>
+<%%(org-class 2024 9 10 2025 7 1 2 27)>
 [[denote:20240908T214521::#h:169d71d5-10a5-4f37-af06-dcf58b198a1c][C Klasse 2024-28::Instrumentalunterricht / Gitarre]]
 
 ** Mittwoch
@@ -116,7 +116,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :END:
 
 *** 1b 11:30-12:20                                                     :1b:
-<%%(org-class 2024 9 11 2025 7 2 3 16 24)>
+<%%(org-class 2024 9 11 2025 7 2 3 27)>
 [[denote:20240908T214427][B Klasse 2024-28]]
 
 ** Donnerstag
@@ -125,29 +125,29 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :PROPERTIES:
 :CUSTOM_ID: h:3af308f7-445a-4fa1-9b7d-256f09153015
 :END:
-<%%(org-class 2024 9 12 2025 7 3 4 25)>
+<%%(org-class 2024 9 12 2025 7 3 4 27)>
 [[denote:20240908T214254][A Klasse 2022-26]]
 
 *** 1c (RLS) 08:35-09:25                                               :1c:
 :PROPERTIES:
 :CUSTOM_ID: h:c6389224-85a9-47ab-9da7-afdbdb59a472
 :END:
-<%%(org-class 2024 9 12 2025 7 3 4 26)>
+<%%(org-class 2024 9 12 2025 7 3 4 27)>
 [[denote:20240908T214521][C Klasse 2024-28]]
 
 *** 3c 10:30-11:20                                                     :3c:
-<%%(org-class 2024 9 12 2025 7 3 4 25)>
+<%%(org-class 2024 9 12 2025 7 3 4 27)>
 [[denote:20240908T214718][C Klasse 2022-26]]
 
 *** 1d 11:30-12:20                                                     :1d:
-<%%(org-class 2024 9 12 2025 7 3 4 26)>
+<%%(org-class 2024 9 12 2025 7 3 4 27)>
 [[denote:20240908T213847][D Klasse 2024-28]]
 
 *** 2a 12:20-13:10                                                     :2a:
 :PROPERTIES:
 :CUSTOM_ID: h:7a03aa5f-7989-4d5e-a629-1b9a64a25c14
 :END:
-<%%(org-class 2024 9 12 2025 7 3 4 25)>
+<%%(org-class 2024 9 12 2025 7 3 4 27)>
 [[denote:20240908T214029][A Klasse 2023-27]]
 
 
@@ -157,19 +157,19 @@ Unterricht heute (10.09.) um 10:15 beenden.
 :PROPERTIES:
 :CUSTOM_ID: h:2d0208b5-cf1e-42e4-a15e-0ab5aabca380
 :END:
-<%%(org-class 2024 9 13 2025 7 4 5 22)>
+<%%(org-class 2024 9 13 2025 7 4 5 27)>
 [[denote:20240908T214718][C Klasse 2022-26]]
 
 *** 3b 09:40-10:30                                                     :3b:
-<%%(org-class 2024 9 13 2025 7 4 5 23)>
+<%%(org-class 2024 9 13 2025 7 4 5 27)>
 [[denote:20240908T214359][B Klasse 2022-26]]
 
 *** 4c 11:30-12:20                                                     :4c:
-<%%(org-class 2024 9 13 2025 7 4 5 26)>
+<%%(org-class 2024 9 13 2025 7 4 5 27)>
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1a 12:20-13:10                                                     :1a:
-<%%(org-class 2024 9 13 2025 7 4 5 26)>
+<%%(org-class 2024 9 13 2025 7 4 5 27)>
 [[denote:20240908T214000][A Klasse 2024-28]]
 
 
@@ -252,7 +252,7 @@ DEADLINE: <2025-06-30 Mo 12:00>
 :CUSTOM_ID: h:20250627T164914
 :END:
 
-** TODO =org-capture= überarbeiten                                   :schule:
+** TODO =org-capture= überarbeiten                                   :emacs:
 DEADLINE: <2025-06-27 Fr 20:00>
 :PROPERTIES:
 :CAPTURED: [2025-06-27 Fr 16:51]
