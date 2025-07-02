@@ -1,25 +1,24 @@
-:PROPERTIES:
-:ID:       c80659bd-2efe-4015-8694-96cb234fea86
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Hohelied* -- [[file:Hld_1.html][1]]
-[[file:Hld_2.html][2]] *3* [[file:Hld_4.html][4]] [[file:Hld_5.html][5]]
-... [[file:Hld_8.html][8]]
-
---------------
+#+TITLE: Hld 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-07-02 Mi 11:06]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Hld 3.html
 
 * Hld 3
-  :PROPERTIES:
-  :CUSTOM_ID: hld-3
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Des Nachts auf meinem Lager suchte ich ihn, /\\
  den meine Seele liebt. /\\
- Ich suchte ihn und fand ihn nicht. ^{[[#fn1][1]]}\\
+ Ich suchte ihn und fand ihn nicht. [fn:1]\\
 \\
 
 <<v2>>
@@ -31,7 +30,7 @@
 <<v3>>
 3 Mich fanden die Wächter /\\
  bei ihrer Runde durch die Stadt. Habt ihr ihn gesehen, /\\
- den meine Seele liebt? ^{[[#fn2][2]]}\\
+ den meine Seele liebt? [fn:2]\\
 \\
 
 <<v4>>
@@ -39,21 +38,21 @@
  fand ich ihn, den meine Seele liebt. Ich packte ihn, ließ ihn nicht
 mehr los, /\\
  bis ich ihn ins Haus meiner Mutter brachte, /\\
- in die Kammer derer, die mich geboren hat. ^{[[#fn3][3]]}\\
+ in die Kammer derer, die mich geboren hat. [fn:3]\\
 \\
 
 <<v5>>
 5 Bei den Gazellen und Hirschen der Flur /\\
  beschwöre ich euch, Jerusalems Töchter: Stört die Liebe nicht auf, /\\
  weckt sie nicht, /\\
- bis es ihr selbst gefällt. ^{[[#fn4][4]]}\\
+ bis es ihr selbst gefällt. [fn:4]\\
 \\
 
 <<v6>>
 6 Wer ist sie, /\\
  die da aus der Steppe heraufsteigt /\\
  in Säulen von Rauch, umwölkt von Myrrhe und Weihrauch, /\\
- von allen Wohlgerüchen der Händler? ^{[[#fn5][5]]}\\
+ von allen Wohlgerüchen der Händler? [fn:5]\\
 \\
 
 <<v7>>
@@ -75,7 +74,7 @@ mehr los, /\\
 <<v10>>
 10 die Pfosten in Silber, /\\
  die Lehne in Gold, der Sitz in Purpur, /\\
- das Innere mit Steinen belegt. ^{[[#fn6][6]]}\\
+ das Innere mit Steinen belegt. [fn:6]\\
 \\
 
 <<v11>>
@@ -86,14 +85,17 @@ mehr los, /\\
  an dem Tag seiner Herzensfreude.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 5,6
 
-^{[[#fnm2][2]]} ℘ 5,7
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ 8,2
+[fn:1] [[file:Hld_5.org::v6][5,6]]
 
-^{[[#fnm4][4]]} ℘ 2,7; 5,8; 8,4
+[fn:2] [[file:Hld_5.org::v7][5,7]]
 
-^{[[#fnm5][5]]} ℘ 6,10; 8,5
+[fn:3] [[file:Hld_8.org::v2][8,2]]
 
-^{[[#fnm6][6]]} 10d: mit Steinen: Text korr.; H: mit Holz der Liebe.
+[fn:4] [[file:Hld_2.org::v7][2,7]]; [[file:Hld_5.org::v8][5,8]]; [[file:Hld_8.org::v4][8,4]]
+
+[fn:5] [[file:Hld_6.org::v10][6,10]]; [[file:Hld_8.org::v5][8,5]]
+
+[fn:6] [[v10][10d]]: mit Steinen: Text korr.; H: mit Holz der Liebe.

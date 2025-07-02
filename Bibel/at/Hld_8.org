@@ -1,17 +1,17 @@
-:PROPERTIES:
-:ID:       74ef4551-ee5d-4453-9337-498009ea63d4
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Hohelied* -- [[file:Hld_1.html][1]] ...
-[[file:Hld_6.html][6]] [[file:Hld_7.html][7]] *8*
-
---------------
+#+TITLE: Hld 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-07-02 Mi 11:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Hld 8.html
 
 * Hld 8
-  :PROPERTIES:
-  :CUSTOM_ID: hld-8
-  :END:
 
 <<verses>>
 
@@ -31,14 +31,14 @@
 
 <<v3>>
 3 Seine Linke liegt unter meinem Kopf, /\\
- seine Rechte umfängt mich. ^{[[#fn1][1]]}\\
+ seine Rechte umfängt mich. [fn:1]\\
 \\
 
 <<v4>>
 4 Ich beschwöre euch, Jerusalems Töchter: /\\
  Was stört ihr die Liebe auf, /\\
  warum weckt ihr sie, /\\
- ehe ihr selbst es gefällt? ^{[[#fn2][2]]}\\
+ ehe ihr selbst es gefällt? [fn:2]\\
 \\
 
 <<v5>>
@@ -47,7 +47,7 @@
  auf ihren Geliebten gestützt? Unter dem Apfelbaum hab ich dich geweckt,
 /\\
  dort, wo deine Mutter dich empfing, /\\
- wo deine Gebärerin in Wehen lag. ^{[[#fn3][3]]}\\
+ wo deine Gebärerin in Wehen lag. [fn:3]\\
 \\
 
 <<v6>>
@@ -105,13 +105,16 @@ ganzen Reichtum seines Hauses, /\\
 <<v14>>
 14 Fort, fort, mein Geliebter, /\\
  der Gazelle gleich, dem jungen Hirsch /\\
- auf den Balsambergen. ^{[[#fn4][4]]}\\
+ auf den Balsambergen. [fn:4]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 2,6
 
-^{[[#fnm2][2]]} ℘ 2,7; 3,5; 5,8
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ 3,6
+[fn:1] [[file:Hld_2.org::v6][2,6]]
 
-^{[[#fnm4][4]]} ℘ 2,17
+[fn:2] [[file:Hld_2.org::v7][2,7]]; [[file:Hld_3.org::v5][3,5]]; [[file:Hld_5.org::v8][5,8]]
+
+[fn:3] [[file:Hld_3.org::v6][3,6]]
+
+[fn:4] [[file:Hld_2.org::v17][2,17]]
