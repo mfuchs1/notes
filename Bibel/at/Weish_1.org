@@ -1,18 +1,17 @@
-:PROPERTIES:
-:ID:       8af90d80-ef47-4275-a5e7-365309a49148
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Weisheit* -- *1*
-[[file:Weish_2.html][2]] [[file:Weish_3.html][3]] ...
-[[file:Weish_19.html][19]]
-
---------------
+#+TITLE: Weish 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-07-02 Mi 11:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Weish 1.html
 
 * Weish 1
-  :PROPERTIES:
-  :CUSTOM_ID: weish-1
-  :END:
 
 Den Titel »Buch der Weisheit« trägt dieses Buch in der lateinischen
 Bibel; in der griechischen Bibel heißt es »Weisheit Salomos«. Das Buch
@@ -95,22 +94,18 @@ dieses Buches an, vgl. besonders Röm 1,23-32; 11,33.\\
 <<verses>>
 
 <<v1>>
-** Aufforderung zu einem Leben nach der Weisheit: 1,1 - 6,21
-   :PROPERTIES:
-   :CUSTOM_ID: aufforderung-zu-einem-leben-nach-der-weisheit-11---621
-   :END:
-**** Die Mahnung zu gerechtem Leben: 1,1-15
-     :PROPERTIES:
-     :CUSTOM_ID: die-mahnung-zu-gerechtem-leben-11-15
-     :END:
+* Aufforderung zu einem Leben nach der Weisheit: 1,1 - 6,21
+
+* Die Mahnung zu gerechtem Leben: 1,1-15
+
 1 Liebt Gerechtigkeit, ihr Herrscher der Erde, /\\
  denkt in Frömmigkeit an den Herrn, /\\
- sucht ihn mit reinem Herzen! ^{[[#fn1][1]][[#fn2][2]]}\\
+ sucht ihn mit reinem Herzen! [fn:1] [fn:2]\\
 \\
 
 <<v2>>
 2 Denn er lässt sich finden von denen, die ihn nicht versuchen, /\\
- und zeigt sich denen, die ihm nicht misstrauen. ^{[[#fn3][3]]}\\
+ und zeigt sich denen, die ihm nicht misstrauen. [fn:3]\\
 \\
 
 <<v3>>
@@ -130,7 +125,7 @@ dieses Buches an, vgl. besonders Röm 1,23-32; 11,33.\\
 5 Denn der heilige Geist, der Lehrmeister, flieht vor der Falschheit,
 /\\
  er entfernt sich von unverständigen Gedanken /\\
- und wird verscheucht, wenn Unrecht naht. ^{[[#fn4][4]]}\\
+ und wird verscheucht, wenn Unrecht naht. [fn:4]\\
 \\
 
 <<v6>>
@@ -138,12 +133,12 @@ dieses Buches an, vgl. besonders Röm 1,23-32; 11,33.\\
  doch lässt sie die Reden des Lästerers nicht straflos; /\\
  denn Gott ist Zeuge seiner heimlichen Gedanken, /\\
  untrüglich durchschaut er sein Herz /\\
- und hört seine Worte. ^{[[#fn5][5]][[#fn6][6]]}\\
+ und hört seine Worte. [fn:5] [fn:6]\\
 \\
 
 <<v7>>
 7 Der Geist des Herrn erfüllt den Erdkreis /\\
- und er, der alles zusammenhält, kennt jeden Laut. ^{[[#fn7][7]]}\\
+ und er, der alles zusammenhält, kennt jeden Laut. [fn:7]\\
 \\
 
 <<v8>>
@@ -159,14 +154,14 @@ dieses Buches an, vgl. besonders Röm 1,23-32; 11,33.\\
 
 <<v10>>
 10 Denn das eifersüchtige Ohr hört alles, /\\
- kein leises Murren bleibt ihm verborgen. ^{[[#fn8][8]]}\\
+ kein leises Murren bleibt ihm verborgen. [fn:8]\\
 \\
 
 <<v11>>
 11 Hütet euch also vor unnützem Murren /\\
  und verwehrt eurer Zunge das Verleumden! /\\
  Denn euer heimliches Reden verhallt nicht ungehört /\\
- und ein Mund, der lügt, tötet die Seele. ^{[[#fn9][9]]}\\
+ und ein Mund, der lügt, tötet die Seele. [fn:9]\\
 \\
 
 <<v12>>
@@ -176,7 +171,7 @@ dieses Buches an, vgl. besonders Röm 1,23-32; 11,33.\\
 
 <<v13>>
 13 Denn Gott hat den Tod nicht gemacht /\\
- und hat keine Freude am Untergang der Lebenden. ^{[[#fn10][10]]}\\
+ und hat keine Freude am Untergang der Lebenden. [fn:10]\\
 \\
 
 <<v14>>
@@ -187,48 +182,48 @@ dieses Buches an, vgl. besonders Röm 1,23-32; 11,33.\\
 \\
 
 <<v15>>
-15 denn die Gerechtigkeit ist unsterblich. ^{[[#fn11][11]]}\\
+15 denn die Gerechtigkeit ist unsterblich. [fn:11]\\
 \\
 
 <<v16>>
-**** Vom Treiben der Frevler: 1,16 - 2,24
-     :PROPERTIES:
-     :CUSTOM_ID: vom-treiben-der-frevler-116---224
-     :END:
+* Vom Treiben der Frevler: 1,16 - 2,24
+
 16 Die Frevler aber holen winkend und rufend den Tod herbei /\\
  und sehnen sich nach ihm wie nach einem Freund; /\\
  sie schließen einen Bund mit ihm, /\\
- weil sie es verdienen, ihm zu gehören. ^{[[#fn12][12]]}\\
+ weil sie es verdienen, ihm zu gehören. [fn:12]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Chr 29,17
 
-^{[[#fnm2][2]]} Die Anrede ist an die Herrscher (wörtlich: Richter) der
+* Footnotes
+
+[fn:1] [[file:1.Chr_29.org::v17][1 Chr 29,17]]
+
+[fn:2] Die Anrede ist an die Herrscher (wörtlich: Richter) der
 Erde gerichtet, weil der Verfasser als König Salomo spricht. Angeredet
 sind aber auch die unter Verfolgung leidenden Juden.
 
-^{[[#fnm3][3]]} ℘ Jer 29,13f
+[fn:3] [[file:Jer_29.org::v13][Jer 29,13f]]
 
-^{[[#fnm4][4]]} Der heilige Geist ist im AT die von Gott ausgehende
+[fn:4] Der heilige Geist ist im AT die von Gott ausgehende
 Kraft, die den Menschen zu außerordentlichen Taten und zu prophetischem
 Reden befähigt.
 
-^{[[#fnm5][5]]} ℘ 7,23; 1 Sam 16,7; Jer 17,9f; Sir 42,18
+[fn:5] [[file:Weish_7.org::v23][7,23]]; [[file:1.Sam_16.org::v7][1 Sam 16,7]]; [[file:Jer_17.org::v9][Jer 17,9f]]; [[file:Sir_42.org::v18][Sir 42,18]]
 
-^{[[#fnm6][6]]} seiner heimlichen Gedanken, wörtlich: seiner Nieren. Die
+[fn:6] seiner heimlichen Gedanken, wörtlich: seiner Nieren. Die
 Nieren sind im semitischen Denken Sitz der innersten Empfindungen. Das
 Herz gilt als geistige Mitte, als Sitz der Gedanken und
 Willensentschlüsse.
 
-^{[[#fnm7][7]]} ℘ Jer 23,23-25; Weish 8,1
+[fn:7] [[file:Jer_23.org::v23][Jer 23,23-25]]; [[file:Weish_8.org::v1][Weish 8,1]]
 
-^{[[#fnm8][8]]} Gott ist eifersüchtig auf seine Ehre bedacht (vgl. Ex
-20,5; Jos 24,19; Jes 42,8; Ez 36,22f; 39,25).
+[fn:8] Gott ist eifersüchtig auf seine Ehre bedacht (vgl. [[file:Ex_20.org::v5][Ex 20,5]]; [[file:Jos_24.org::v19][Jos 24,19]]; [[file:Jes_42.org::v8][Jes 42,8]]; [[file:Ez_36.org::v22][Ez 36,22f]]; [[file:Ez_39.org::v25][39,25]]).
 
-^{[[#fnm9][9]]} ℘ Spr 19,5.9
+[fn:9] [[file:Spr_19.org::v5][Spr 19,5]].[[file:Spr_19.org::v9][9]]
 
-^{[[#fnm10][10]]} ℘ 2,23f; Ez 18,23.32
+[fn:10] [[file:Weish_2.org::v23][2,23f]]; [[file:Ez_18.org::v23][Ez 18,23]].[[file:Ez_18.org::v32][32]]
 
-^{[[#fnm11][11]]} ℘ 3,4; 6,18
+[fn:11] [[file:Weish_3.org::v4][3,4]]; [[file:Weish_6.org::v18][6,18]]
 
-^{[[#fnm12][12]]} ℘ Jes 28,15.18; Weish 2,24
+[fn:12] [[file:Jes_28.org::v15][Jes 28,15]].[[file:Jes_28.org::v18][18]]; [[file:Weish_2.org::v24][Weish 2,24]]
