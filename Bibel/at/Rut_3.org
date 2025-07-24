@@ -1,0 +1,120 @@
+#+TITLE: Rut 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 09:19]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Rut 3.html
+
+<<verses>>
+
+<<v1>>
+* Rut auf der Tenne des Boas: 3,1-15
+
+1 Ihre Schwiegermutter Noomi sagte zu ihr: Meine Tochter, ich möchte dir
+ein Heim verschaffen, in dem es dir gut geht.
+
+<<v2>>
+2 Nun ist ja Boas, bei dessen Mägden du warst, ein Verwandter von uns.
+Heute Abend worfelt er die Gerste auf der Tenne. [fn:1]
+
+<<v3>>
+3 Wasch dich, salbe dich und zieh dein Obergewand an, dann geh zur
+Tenne! Zeig dich aber dem Mann nicht, bis er fertig gegessen und
+getrunken hat.
+
+<<v4>>
+4 Wenn er sich niederlegt, so merk dir den Ort, wo er sich hinlegt. Geh
+dann hin, deck den Platz zu seinen Füßen auf und leg dich dorthin! Er
+wird dir dann sagen, was du tun sollst.
+
+<<v5>>
+5 Rut antwortete ihr: Alles, was du sagst, will ich tun.
+
+<<v6>>
+6 Sie ging zur Tenne und tat genauso, wie ihre Schwiegermutter ihr
+aufgetragen hatte.
+
+<<v7>>
+7 Als Boas gegessen und getrunken hatte und es ihm wohl zumute wurde,
+ging er hin, um sich neben dem Getreidehaufen schlafen zu legen. Nun
+trat sie leise heran, deckte den Platz zu seinen Füßen auf und legte
+sich nieder.
+
+<<v8>>
+8 Um Mitternacht schrak der Mann auf, beugte sich vor und fand eine Frau
+zu seinen Füßen liegen.
+
+<<v9>>
+9 Er fragte: Wer bist du? Sie antwortete: Ich bin Rut, deine Magd.
+Breite doch den Saum deines Gewandes über deine Magd, denn du bist
+Löser. [fn:2]
+
+<<v10>>
+10 Da sagte er: Gesegnet bist du vom Herrn, meine Tochter. So zeigst du
+deine Zuneigung noch schöner als zuvor; denn du bist nicht den jungen
+Männern, ob arm oder reich, nachgelaufen.
+
+<<v11>>
+11 Fürchte dich nicht, meine Tochter! Alles, was du sagst, will ich dir
+tun; denn jeder in diesen Mauern weiß, dass du eine tüchtige Frau bist.
+
+<<v12>>
+12 Gewiss, ich bin Löser, aber es gibt noch einen Löser, der näher
+verwandt ist als ich. [fn:3]
+
+<<v13>>
+13 Bleib über Nacht, und wenn er dich dann am Morgen lösen will, gut, so
+mag er lösen. Wenn er dich aber nicht lösen will, so werde ich dich
+lösen, so wahr der Herr lebt. Bleib liegen bis zum Morgen!
+
+<<v14>>
+14 Sie blieb zu seinen Füßen liegen bis zum Morgen. Doch noch ehe man
+einander erkennen konnte, stand sie auf. Denn Boas wollte nicht bekannt
+werden lassen, dass die Frau auf die Tenne gekommen war.
+
+<<v15>>
+15 Er sagte zu ihr: Reich mir das Tuch, das du umgelegt hast. Sie hielt
+es hin und er füllte sechs Maß Gerste hinein und lud es ihr auf. Dann
+ging er zur Stadt.\\
+\\
+
+<<v16>>
+* Der Rat der Schwiegermutter: 3,16-18
+
+16 Rut kam nun zu ihrer Schwiegermutter und diese fragte: Wie steht es,
+meine Tochter? Sie erzählte ihr, wie viel Gutes ihr der Mann erwiesen
+hatte,
+
+<<v17>>
+17 und sagte: Diese sechs Maß Gerste hat er mir gegeben; denn er meinte:
+Du sollst nicht mit leeren Händen zu deiner Schwiegermutter kommen.
+
+<<v18>>
+18 Noomi antwortete ihr: Warte ab, meine Tochter, bis du erfährst, wie
+die Sache ausgeht; denn der Mann wird nicht ruhen, ehe er noch heute die
+Sache erledigt hat.\\
+\\
+
+* Footnotes
+
+[fn:1] 2-4: Auf der Tenne, die sich im Freien vor der Stadt
+befindet, wird zunächst das Getreide gedroschen, indem man mit Ochsen
+ein schlittenartiges, unten mit spitzen Haken versehenes Gerät über das
+Getreide führt und so die Ähren zerkleinert, wobei die Körner
+herausfallen. Dann wirft man mit Gabeln oder Schaufeln das gedroschene
+Getreide hoch, sodass der Wind die Spreu fortträgt, während die
+schwereren Körner zu Boden fallen. Diesen Reinigungsvorgang nennt man
+Worfeln. Das durch Worfeln gereinigte Getreide wird in Haufen am Rand
+der Tenne gesammelt. Um Diebstahl zu verhindern, schläft man über Nacht
+beim Getreide.
+
+[fn:2] «Das Gewand über jemand breiten» bedeutet so viel wie
+«jemand beschützen». Hier ist an den Schutz der kinderlosen Witwe durch
+den Vollzug der Leviratsehe gedacht.
+
+[fn:3] [[file:Dtn_25.org::v5][Dtn 25,5f]]

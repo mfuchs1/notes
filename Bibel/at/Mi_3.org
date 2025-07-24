@@ -1,0 +1,135 @@
+:PROPERTIES:
+:ID:       a282c003-c4dd-4c94-8c50-e0a3c1026173
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Micha* -- [[file:Mi_1.html][1]]
+[[file:Mi_2.html][2]] *3* [[file:Mi_4.html][4]] [[file:Mi_5.html][5]]
+... [[file:Mi_7.html][7]]
+
+--------------
+
+* Mi 3
+  :PROPERTIES:
+  :CUSTOM_ID: mi-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Gegen die Rechtsbrecher: 3,1-4
+     :PROPERTIES:
+     :CUSTOM_ID: gegen-die-rechtsbrecher-31-4
+     :END:
+1 Ich habe gesagt: Hört doch, ihr Häupter Jakobs /\\
+ und ihr Richter aus dem Haus Israel! Ist es nicht eure Pflicht, das
+Recht zu kennen? / ^{[[#fn1][1]]}\\
+\\
+
+<<v2a>>
+2a Sie aber hassen das Gute und lieben das Böse.
+^{[[#fn2][2]][[#fn3][3]]}\\
+\\
+
+<<v3>>
+3 Sie fressen mein Volk auf, /\\
+ sie ziehen den Leuten die Haut ab /\\
+ und zerbrechen ihnen die Knochen; sie zerlegen sie wie Fleisch für den
+Kochtopf, /\\
+ wie Braten für die Pfanne. ^{[[#fn4][4]]}\\
+\\
+
+<<v2b>>
+2b Darum zieht man auch ihnen die Haut ab /\\
+ und reißt ihnen das Fleisch von den Knochen.\\
+\\
+
+<<v4>>
+4 Dann werden sie zum Herrn schreien; /\\
+ er aber wird ihnen nicht antworten. Er wird sein Angesicht vor ihnen
+verbergen; /\\
+ denn ihre Taten sind böse. ^{[[#fn5][5]]}\\
+\\
+
+<<v5>>
+**** Gegen die habgierigen Propheten: 3,5-8
+     :PROPERTIES:
+     :CUSTOM_ID: gegen-die-habgierigen-propheten-35-8
+     :END:
+5 So spricht der Herr gegen die Propheten: /\\
+ Sie verführen mein Volk. Haben sie etwas zu beißen, /\\
+ dann rufen sie: Friede! Wer ihnen aber nichts in den Mund steckt, /\\
+ dem sagen sie den Heiligen Krieg an.\\
+\\
+
+<<v6>>
+6 Darum kommt die Nacht über euch, /\\
+ in der ihr keine Visionen mehr habt, und die Finsternis, /\\
+ in der ihr nicht mehr wahrsagen könnt. Die Sonne geht unter für diese
+Propheten /\\
+ und der Tag wird schwarz über ihnen.\\
+\\
+
+<<v7>>
+7 Die Seher werden zuschanden, /\\
+ die Wahrsager müssen sich schämen. Sie müssen alle ihren Bart
+verhüllen; /\\
+ denn Gottes Antwort bleibt aus.\\
+\\
+
+<<v8>>
+8 Ich aber, ich bin voller Kraft, /\\
+ ich bin erfüllt vom Geist des Herrn, /\\
+ voll Eifer für das Recht und voll Mut, Jakob seine Vergehen vorzuhalten
+/\\
+ und Israel seine Sünden.\\
+\\
+
+<<v9>>
+**** Gegen die bestechlichen Führer Israels: 3,9-12
+     :PROPERTIES:
+     :CUSTOM_ID: gegen-die-bestechlichen-führer-israels-39-12
+     :END:
+9 Hört doch, ihr Häupter des Hauses Jakob /\\
+ und ihr Richter aus dem Haus Israel! Ihr verabscheut das Recht /\\
+ und macht alles krumm, was gerade ist. ^{[[#fn6][6]]}\\
+\\
+
+<<v10>>
+10 Ihr erbaut Zion mit Blut /\\
+ und Jerusalem mit lauter Unrecht. ^{[[#fn7][7]]}\\
+\\
+
+<<v11>>
+11 Die Häupter dieser Stadt sprechen Recht /\\
+ und nehmen dafür Geschenke an, /\\
+ ihre Priester lehren gegen Bezahlung. Ihre Propheten wahrsagen für Geld
+/\\
+ und doch berufen sie sich auf den Herrn und sagen: Ist nicht der Herr
+in unserer Mitte? /\\
+ Kein Unheil kann über uns kommen. ^{[[#fn8][8]]}\\
+\\
+
+<<v12>>
+12 Darum wird Zion euretwegen /\\
+ zum Acker, den man umpflügt, Jerusalem wird zu einem Trümmerhaufen, /\\
+ der Tempelberg zur überwucherten Höhe. ^{[[#fn9][9]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 3,9
+
+^{[[#fnm2][2]]} ℘ Jes 5,20
+
+^{[[#fnm3][3]]} 2a: Späterer Zusatz, der aber eher hinter V. 3 gehört.
+
+^{[[#fnm4][4]]} 3a: Wörtlich: Sie fressen das Fleisch meines Volkes.
+
+^{[[#fnm5][5]]} ℘ Jer 11,11; Dtn 31,17f
+
+^{[[#fnm6][6]]} ℘ 3,1; Am 5,7
+
+^{[[#fnm7][7]]} ℘ Hab 2,12
+
+^{[[#fnm8][8]]} ℘ Jes 1,23
+
+^{[[#fnm9][9]]} ℘ Jer 26,18; Mi 1,6

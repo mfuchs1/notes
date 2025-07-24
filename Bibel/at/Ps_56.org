@@ -1,0 +1,115 @@
+#+TITLE: Ps 56 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-03-20 Mi 09:26]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 56.html
+
+* Ps 56
+
+<<verses>>
+
+<<v1>>
+* Das Vertrauensbekenntnis eines Angefeindeten
+
+1 [Für den Chormeister. Nach der Weise «Stumme Taube der Ferne». Ein
+Lied Davids. Aus der Zeit, als die Philister ihn in Gat ergriffen.] [fn:1]\\
+\\
+
+<<v2>>
+2 Sei mir gnädig, Gott, denn Menschen stellen mir nach; /\\
+ meine Feinde bedrängen mich Tag für Tag.\\
+\\
+
+<<v3>>
+3 Täglich stellen meine Gegner mir nach; /\\
+ ja, es sind viele, die mich voll Hochmut bekämpfen. [fn:2]\\
+\\
+
+<<v4>>
+4 An dem Tag, da ich mich fürchten muss, /\\
+ setze ich auf dich mein Vertrauen.\\
+\\
+
+<<v5>>
+5 Ich preise Gottes Wort. /\\
+ Ich vertraue auf Gott und fürchte mich nicht. /\\
+ Was können Menschen mir antun? [fn:3]\\
+\\
+
+<<v6>>
+6 Sie verdrehen meine Worte den ganzen Tag; /\\
+ auf mein Verderben geht ihr ganzes Sinnen. [fn:4]\\
+\\
+
+<<v7>>
+7 Sie lauern und spähen und beobachten genau meine Schritte; /\\
+ denn sie trachten mir nach dem Leben.\\
+\\
+
+<<v8>>
+8 Sie haben gefrevelt; es gibt für sie kein Entrinnen. /\\
+ In deinem Zorn, o Gott, wirf die Völker zu Boden! [fn:5]\\
+\\
+
+<<v9>>
+9 Mein Elend ist aufgezeichnet bei dir. /\\
+ Sammle meine Tränen in einem Krug, /\\
+ zeichne sie auf in deinem Buch! [fn:6] [fn:7]\\
+\\
+
+<<v10>>
+10 Dann weichen die Feinde zurück an dem Tag, da ich rufe. /\\
+ Ich habe erkannt: Mir steht Gott zur Seite. [fn:8]\\
+\\
+
+<<v11>>
+11 Ich preise Gottes Wort, /\\
+ ich preise das Wort des Herrn.\\
+\\
+
+<<v12>>
+12 Ich vertraue auf Gott und fürchte mich nicht. /\\
+ Was können Menschen mir antun?\\
+\\
+
+<<v13>>
+13 Ich schulde dir die Erfüllung meiner Gelübde, o Gott; /\\
+ ich will dir Dankopfer weihen. [fn:9]\\
+\\
+
+<<v14>>
+14 Denn du hast mein Leben dem Tod entrissen, /\\
+ meine Füße bewahrt vor dem Fall. So gehe ich vor Gott meinen Weg /\\
+ im Licht der Lebenden. [fn:10]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_21.org::v11][1 Sam 21,11f]]
+
+[fn:2] Andere Übersetzungsmöglichkeit: ja, es sind viele, die
+mich bekämpfen, Allerhöchster.
+
+[fn:3] [[file:Ps_27.org::v1][27,1]]; [[file:Ps_118.org::v6][118,6]]; [[file:Jes_51.org::v12][Jes 51,12]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_10.org::v28][Mt 10,28]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_8.org::v31][Röm 8,31]]
+
+[fn:4] Wörtlich: Sie kränken meine Worte.
+
+[fn:5] es gibt für sie kein Entrinnen: Text korr.; H: würden
+sie trotz der Untat entkommen?
+
+[fn:6] [[file:2.Kön_20.org::v5][2 Kön 20,5]]
+
+[fn:7] Wörtlich: sind sie nicht in deinem Buch?
+
+[fn:8] [[file:Ps_124.org::v1][124,1f]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_8.org::v31][Röm 8,31]]
+
+[fn:9] [[file:Ps_66.org::v13][66,13]]
+
+[fn:10] [[file:Ps_9.org::v14][9,14]]; [[file:Ps_116.org::v8][116,8f]]; [[file:Ijob_33.org::v30][Ijob 33,30]]

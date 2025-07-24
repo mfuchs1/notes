@@ -1,0 +1,501 @@
+#+TITLE: Ps 78 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-02 Fr 18:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 78.html
+
+<<verses>>
+
+<<v1>>
+* Die Geschichte Israels als Mahnung und Warnung
+
+1 [Ein Weisheitslied Asafs.] Mein Volk, vernimm meine Weisung! /\\
+ Wendet euer Ohr zu den Worten meines Mundes!\\
+\\
+
+<<v2>>
+2 Ich öffne meinen Mund zu einem Spruch; /\\
+ ich will die Geheimnisse der Vorzeit verkünden. [fn:1]\\
+\\
+
+<<v3>>
+3 Was wir hörten und erfuhren, /\\
+ was uns die Väter erzählten, [fn:2]\\
+\\
+
+<<v4>>
+4 das wollen wir unseren Kindern nicht verbergen, /\\
+ sondern dem kommenden Geschlecht erzählen: die ruhmreichen Taten und
+die Stärke des Herrn, /\\
+ die Wunder, die er getan hat.\\
+\\
+
+<<v5>>
+5 Er stellte sein Gesetz auf in Jakob, /\\
+ gab in Israel Weisung /\\
+ und gebot unseren Vätern, ihre Kinder das alles zu lehren, [fn:3]\\
+\\
+
+<<v6>>
+6 damit das kommende Geschlecht davon erfahre, /\\
+ die Kinder späterer Zeiten; /\\
+ sie sollten aufstehen und es weitergeben an ihre Kinder,\\
+\\
+
+<<v7>>
+7 damit sie ihr Vertrauen auf Gott setzen, /\\
+ die Taten Gottes nicht vergessen /\\
+ und seine Gebote bewahren\\
+\\
+
+<<v8>>
+8 und nicht werden wie ihre Väter, /\\
+ jenes Geschlecht voll Trotz und Empörung, /\\
+ das wankelmütige Geschlecht, dessen Geist nicht treu zu Gott hielt. [fn:4]\\
+\\
+
+<<v9>>
+9 Die Söhne Efraims, Kämpfer mit Pfeil und Bogen, /\\
+ wandten den Rücken am Tag der Schlacht;\\
+\\
+
+<<v10>>
+10 Gottes Bund hielten sie nicht, /\\
+ sie weigerten sich, seiner Weisung zu folgen.\\
+\\
+
+<<v11>>
+11 Sie vergaßen die Taten des Herrn, /\\
+ die Wunder, die er sie sehen ließ.\\
+\\
+
+<<v12>>
+12 Vor den Augen ihrer Väter vollbrachte er Wunder /\\
+ im Land Ägypten, im Gefilde von Zoan. [fn:5]\\
+\\
+
+<<v13>>
+13 Er spaltete das Meer und führte sie hindurch, /\\
+ er ließ das Wasser fest stehen wie einen Damm. [fn:6]\\
+\\
+
+<<v14>>
+14 Er leitete sie bei Tag mit der Wolke /\\
+ und die ganze Nacht mit leuchtendem Feuer. [fn:7]\\
+\\
+
+<<v15>>
+15 Er spaltete Felsen in der Wüste /\\
+ und gab dem Volk reichlich zu trinken wie mit Wassern der Urflut. [fn:8]\\
+\\
+
+<<v16>>
+16 Er ließ Bäche aus dem Gestein entspringen, /\\
+ ließ Wasser fließen gleich Strömen.\\
+\\
+
+<<v17>>
+17 Doch sie sündigten weiter gegen ihn, /\\
+ sie trotzten in der Wüste dem Höchsten. [fn:9]\\
+\\
+
+<<v18>>
+18 In ihrem Herzen versuchten sie Gott, /\\
+ forderten Nahrung für den Hunger. [fn:10]\\
+\\
+
+<<v19>>
+19 Sie redeten gegen Gott; sie fragten: /\\
+ «Kann uns denn Gott den Tisch decken in der Wüste?\\
+\\
+
+<<v20>>
+20 Zwar hat er an den Felsen geschlagen, /\\
+ sodass Wasser floss und Bäche strömten. Kann er uns auch Brot
+verschaffen /\\
+ und sein Volk mit Fleisch versorgen?»\\
+\\
+
+<<v21>>
+21 Das hörte der Herr und war voll Grimm; /\\
+ Feuer flammte auf gegen Jakob, /\\
+ Zorn erhob sich gegen Israel, [fn:11]\\
+\\
+
+<<v22>>
+22 weil sie Gott nicht glaubten /\\
+ und nicht auf seine Hilfe vertrauten.\\
+\\
+
+<<v23>>
+23 Dennoch gebot er den Wolken droben /\\
+ und öffnete die Tore des Himmels. [fn:12]\\
+\\
+
+<<v24>>
+24 Er ließ Manna auf sie regnen als Speise, /\\
+ er gab ihnen Brot vom Himmel. [fn:13]\\
+\\
+
+<<v25>>
+25 Da aßen die Menschen Wunderbrot; /\\
+ Gott gab ihnen Nahrung in Fülle. [fn:14]\\
+\\
+
+<<v26>>
+26 Er ließ den Ostwind losbrechen droben am Himmel, /\\
+ führte in seiner Macht den Südwind herbei,\\
+\\
+
+<<v27>>
+27 ließ Fleisch auf sie regnen wie Staub, /\\
+ gefiederte Vögel wie Sand am Meer.\\
+\\
+
+<<v28>>
+28 Er ließ sie mitten ins Lager fallen, /\\
+ rings um Israels Zelte.\\
+\\
+
+<<v29>>
+29 Da aßen alle und wurden satt; /\\
+ er hatte ihnen gebracht, was sie begehrten.\\
+\\
+
+<<v30>>
+30 Noch aber hatten sie ihre Gier nicht gestillt, /\\
+ noch war die Speise in ihrem Mund, [fn:15]\\
+\\
+
+<<v31>>
+31 da erhob sich gegen sie Gottes Zorn; /\\
+ er erschlug ihre Führer /\\
+ und streckte die jungen Männer Israels nieder.\\
+\\
+
+<<v32>>
+32 Doch sie sündigten trotz allem weiter /\\
+ und vertrauten nicht seinen Wundern. [fn:16]\\
+\\
+
+<<v33>>
+33 Darum ließ er ihre Tage schwinden wie einen Hauch /\\
+ und ihre Jahre voll Schrecken vergehen. [fn:17]\\
+\\
+
+<<v34>>
+34 Wenn er dreinschlug, fragten sie nach Gott, /\\
+ kehrten um und suchten ihn. [fn:18]\\
+\\
+
+<<v35>>
+35 Sie dachten daran, dass Gott ihr Fels ist, /\\
+ Gott, der Höchste, ihr Erlöser. [fn:19]\\
+\\
+
+<<v36>>
+36 Doch sie täuschten ihn mit falschen Worten /\\
+ und ihre Zunge belog ihn. [fn:20] [fn:21]\\
+\\
+
+<<v37>>
+37 Ihr Herz hielt nicht fest zu ihm, /\\
+ sie hielten seinem Bund nicht die Treue. [fn:22]\\
+\\
+
+<<v38>>
+38 Er aber vergab ihnen voll Erbarmen die Schuld /\\
+ und tilgte sein Volk nicht aus. Oftmals ließ er ab von seinem Zorn /\\
+ und unterdrückte seinen Groll. [fn:23]\\
+\\
+
+<<v39>>
+39 Denn er dachte daran, dass sie nichts sind als Fleisch, /\\
+ nur ein Hauch, der vergeht und nicht wiederkehrt. [fn:24]\\
+\\
+
+<<v40>>
+40 Wie oft haben sie ihm in der Wüste getrotzt, /\\
+ ihn gekränkt in der Steppe! [fn:25]\\
+\\
+
+<<v41>>
+41 Immer wieder stellten sie ihn auf die Probe, /\\
+ sie reizten den heiligen Gott Israels. [fn:26]\\
+\\
+
+<<v42>>
+42 Sie dachten nicht mehr an seine mächtige Hand, /\\
+ an den Tag, als er sie vom Unterdrücker befreite, [fn:27]\\
+\\
+
+<<v43>>
+43 als er in Ägypten Zeichen tat /\\
+ und Wunder im Gefilde von Zoan: [fn:28]\\
+\\
+
+<<v44>>
+44 Er verwandelte ihre Flüsse und Bäche in Blut; /\\
+ sie konnten daraus nicht mehr trinken. [fn:29]\\
+\\
+
+<<v45>>
+45 Er schickte einen Schwarm von Fliegen, der fraß sie auf, /\\
+ ein Heer von Fröschen, das vertilgte sie. [fn:30]\\
+\\
+
+<<v46>>
+46 Ihre Ernte überließ er den Grillen /\\
+ und den Heuschrecken den Ertrag ihrer Mühen. [fn:31]\\
+\\
+
+<<v47>>
+47 Ihre Reben zerschlug er mit Hagel, /\\
+ ihre Maulbeerbäume mit Körnern aus Eis. [fn:32]\\
+\\
+
+<<v48>>
+48 Ihr Vieh überließ er der Pest /\\
+ und ihre Herden den Seuchen. [fn:33] [fn:34]\\
+\\
+
+<<v49>>
+49 Er ließ die Glut seines Zorns auf sie los: /\\
+ Grimm und Wut und Bedrängnis, /\\
+ Boten des Unheils in Scharen.\\
+\\
+
+<<v50>>
+50 Er ließ seinem Zorn freien Lauf; /\\
+ er bewahrte sie nicht vor dem Tod /\\
+ und lieferte ihr Leben der Pest aus. [fn:35]\\
+\\
+
+<<v51>>
+51 Er schlug in Ägypten alle Erstgeburt, /\\
+ in den Zelten Hams die Blüte der Jugend. [fn:36] [fn:37]\\
+\\
+
+<<v52>>
+52 Dann führte er sein Volk hinaus wie Schafe, /\\
+ leitete sie wie eine Herde durch die Wüste. [fn:38]\\
+\\
+
+<<v53>>
+53 Er führte sie sicher, sie mussten nichts fürchten, /\\
+ doch ihre Feinde bedeckte das Meer. [fn:39]\\
+\\
+
+<<v54>>
+54 Er brachte sie in sein heiliges Land, /\\
+ in die Berge, die er erwarb mit mächtiger Hand. [fn:40] [fn:41]\\
+\\
+
+<<v55>>
+55 Er vertrieb die Völker vor ihnen, /\\
+ ließ in ihren Zelten die Stämme Israels wohnen /\\
+ und teilte ihnen ihr Erbteil zu. [fn:42]\\
+\\
+
+<<v56>>
+56 Doch sie versuchten Gott und trotzten dem Höchsten; /\\
+ sie hielten seine Satzungen nicht.\\
+\\
+
+<<v57>>
+57 Wie ihre Väter fielen sie treulos von ihm ab, /\\
+ sie wandten sich ab wie ein Bogen, der versagt. [fn:43]\\
+\\
+
+<<v58>>
+58 Sie erbitterten ihn mit ihrem Kult auf den Höhen /\\
+ und reizten seine Eifersucht mit ihren Götzen. [fn:44]\\
+\\
+
+<<v59>>
+59 Als Gott es sah, war er voll Grimm /\\
+ und sagte sich los von Israel.\\
+\\
+
+<<v60>>
+60 Er verwarf seine Wohnung in Schilo, /\\
+ das Zelt, wo er unter den Menschen wohnte. [fn:45]\\
+\\
+
+<<v61>>
+61 Er gab seine Macht in Gefangenschaft, /\\
+ seine heilige Lade fiel in die Hand des Feindes. [fn:46] [fn:47]\\
+\\
+
+<<v62>>
+62 Er lieferte sein Volk dem Schwert aus; /\\
+ er war voll Grimm über sein Eigentum.\\
+\\
+
+<<v63>>
+63 Die jungen Männer fraß das Feuer; /\\
+ den jungen Mädchen sang man kein Brautlied. [fn:48]\\
+\\
+
+<<v64>>
+64 Die Priester wurden mit dem Schwert erschlagen; /\\
+ die Witwen konnten die Toten nicht beweinen. [fn:49]\\
+\\
+
+<<v65>>
+65 Da erwachte der Herr wie aus dem Schlaf, /\\
+ wie ein Held, der betäubt war vom Wein.\\
+\\
+
+<<v66>>
+66 Er schlug seine Feinde zurück /\\
+ und gab sie ewiger Schande preis. [fn:50]\\
+\\
+
+<<v67>>
+67 Das Zelt Josefs verwarf er, /\\
+ dem Stamm Efraim entzog er die Erwählung.\\
+\\
+
+<<v68>>
+68 Doch den Stamm Juda erwählte er, /\\
+ den Berg Zion, den er liebt. [fn:51]\\
+\\
+
+<<v69>>
+69 Dort baute er sein hoch aufragendes Heiligtum, /\\
+ so fest wie die Erde, /\\
+ die er für immer gegründet hat. [fn:52]\\
+\\
+
+<<v70>>
+70 Und er erwählte seinen Knecht David; /\\
+ er holte ihn weg von den Hürden der Schafe, / [fn:53]\\
+\\
+
+<<v71>>
+71 von den Muttertieren nahm er ihn fort, damit er sein Volk Jakob weide
+/\\
+ und sein Erbe Israel.\\
+\\
+
+<<v72>>
+72 Er sorgte als Hirt für sie mit lauterem Herzen /\\
+ und führte sie mit klugen Händen.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_49.org::v5][49,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_13.org::v35][Mt 13,35]]
+
+[fn:2] [[file:Ps_44.org::v2][44,2]]; (3-6) [[file:Ps_22.org::v31][22,31f]]
+
+[fn:3] [[file:Ps_147.org::v19][147,19]]
+
+[fn:4] [[file:Dtn_32.org::v5][Dtn 32,5f]].[[file:Dtn_32.org::v20][20]]
+
+[fn:5] [[file:Num_13.org::v22][Num 13,22]]
+
+[fn:6] [[file:Ex_14.org::v21][Ex 14,21f]]
+
+[fn:7] [[file:Ex_13.org::v21][Ex 13,21]]
+
+[fn:8] (15-16) [[file:Ex_17.org::v6][Ex 17,6]]; [[file:Num_20.org::v11][Num 20,11]]
+
+[fn:9] [[file:Ez_20.org::v13][Ez 20,13]]
+
+[fn:10] [[file:Ps_106.org::v14][106,14]]; [[file:Ex_16.org::v3][Ex 16,3]]
+
+[fn:11] [[file:Num_11.org::v1][Num 11,1]]
+
+[fn:12] [[file:Mal_3.org::v10][Mal 3,10]]
+
+[fn:13] [[file:Ex_16.org::v4][Ex 16,4]].[[file:Ex_16.org::v14][14f]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_6.org::v31][Joh 6,31]]
+
+[fn:14] [[file:Ps_105.org::v40][105,40]]
+
+[fn:15] [[file:Num_11.org::v33][Num 11,33]]
+
+[fn:16] [[file:Num_14.org::v11][Num 14,11]]
+
+[fn:17] [[file:Num_14.org::v22][Num 14,22f]]
+
+[fn:18] [[file:Num_21.org::v7][Num 21,7]]; [[file:Jes_26.org::v16][Jes 26,16]]
+
+[fn:19] [[file:Ps_92.org::v16][92,16]]
+
+[fn:20] (36f) [[file:Jes_29.org::v13][Jes 29,13]]
+
+[fn:21] Wörtlich: und mit ihrem Mund täuschten sie ihn.
+
+[fn:22] [[file:Ps_95.org::v10][95,10]]
+
+[fn:23] [[file:Ex_32.org::v14][Ex 32,14]]; [[file:Num_14.org::v20][Num 14,20]]; [[file:Jes_48.org::v9][Jes 48,9]]; [[file:Hos_11.org::v8][Hos 11,8f]]
+
+[fn:24] [[file:Ps_103.org::v14][103,14-16]]; [[file:Ijob_7.org::v7][Ijob 7,7]]
+
+[fn:25] [[file:Dtn_9.org::v22][Dtn 9,22]]
+
+[fn:26] [[file:Ps_71.org::v22][71,22]]
+
+[fn:27] [[file:Ps_106.org::v21][106,21]]
+
+[fn:28] [[file:Ps_135.org::v9][135,9]]; [[v12][78,12]]
+
+[fn:29] [[file:Ex_7.org::v17][Ex 7,17-21]]
+
+[fn:30] [[file:Ex_8.org::v17][Ex 8,17-20]]
+
+[fn:31] [[file:Ex_10.org::v4][Ex 10,4-15]]
+
+[fn:32] [[file:Ex_9.org::v18][Ex 9,18-25]]
+
+[fn:33] [[file:Ex_9.org::v3][Ex 9,3-7]]
+
+[fn:34] Text korr.; H: überließ er dem Hagel.
+
+[fn:35] [[file:Ex_9.org::v8][Ex 9,8-10]]
+
+[fn:36] [[file:Ps_105.org::v36][105,36]]; [[file:Ps_135.org::v8][135,8]]; [[file:Ps_136.org::v10][136,10]]; [[file:Ex_12.org::v29][Ex 12,29f]]
+
+[fn:37] alle Erstgeburt, wörtlich: den Erstling ihrer
+Zeugungskraft.
+
+[fn:38] [[file:Ps_77.org::v21][77,21]]
+
+[fn:39] [[file:Ex_14.org::v19][Ex 14,19-31]]
+
+[fn:40] [[file:Ps_114.org::v2][114,2]]; [[file:Ex_15.org::v17][Ex 15,17]]
+
+[fn:41] H: zu dem Berg, den ...
+
+[fn:42] [[file:Ps_44.org::v3][44,3]]; [[file:Jos_24.org::v8][Jos 24,8-13]]
+
+[fn:43] [[file:Hos_7.org::v16][Hos 7,16]]
+
+[fn:44] [[file:Dtn_32.org::v16][Dtn 32,16]].[[file:Dtn_32.org::v21][21]]
+
+[fn:45] [[file:1.Sam_1.org::v3][1 Sam 1,3]]; [[file:Jer_7.org::v12][Jer 7,12]]
+
+[fn:46] [[file:1.Sam_4.org::v11][1 Sam 4,11]].[[file:1.Sam_4.org::v22][22]]
+
+[fn:47] seine heilige Lade: H: seine Pracht (als Bezeichnung der Lade).
+
+[fn:48] [[file:Jer_7.org::v34][Jer 7,34]]
+
+[fn:49] [[file:1.Sam_4.org::v11][1 Sam 4,11]]; [[file:Ijob_27.org::v15][Ijob 27,15]]
+
+[fn:50] [[file:1.Sam_5.org::v6][1 Sam 5,6-12]]
+
+[fn:51] [[file:2.Chr_6.org::v6][2 Chr 6,6]]
+
+[fn:52] [[file:Ps_48.org::v3][48,3]]
+
+[fn:53] (70-71) [[file:Ps_89.org::v21][89,21]]; [[file:1.Sam_16.org::v11][1 Sam 16,11-13]]; [[file:2.Sam_7.org::v8][2 Sam 7,8]]

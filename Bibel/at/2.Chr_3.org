@@ -1,0 +1,129 @@
+#+TITLE: 2 Chr 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-21 Di 22:38]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 3.html
+
+<<verses>>
+
+<<v1>>
+* Der Tempelbau: 3,1-7
+
+1 Salomo begann, das Haus des Herrn in Jerusalem auf dem Berg Morija zu
+bauen, wo der Herr seinem Vater David erschienen war, an der Stätte, die
+David bestimmt hatte, auf der Tenne des Jebusiters Arauna. [fn:1] [fn:2]
+
+<<v2>>
+2 Er begann den Bau im zweiten Monat, im vierten Jahr seiner Regierung.
+
+<<v3>>
+3 Dies sind die Grundmaße, die Salomo für den Bau des Hauses Gottes
+festlegte: Die Länge betrug sechzig Ellen - die Elle nach dem früheren
+Maß gerechnet - und die Breite zwanzig Ellen.
+
+<<v4>>
+4 Die Halle vor dem Hauptraum war zwanzig Ellen breit, entsprechend der
+Breite des Hauses, und zwanzig Ellen hoch. Er überzog sie innen mit
+purem Gold. [fn:3]
+
+<<v5>>
+5 Den Hauptraum vertäfelte er mit Zypressenholz, überzog dieses mit
+echtem Gold und brachte Palmen und kettenförmige Bänder darauf an.
+
+<<v6>>
+6 Auch schmückte er das Haus mit kostbaren Steinen. Das Gold war
+Parwajimgold. [fn:4]
+
+<<v7>>
+7 So überzog er das Haus, die Balken, die Schwellen, seine Wände und
+Türen mit Gold und ließ in die Wände Kerubim einschnitzen.\\
+\\
+
+<<v8>>
+* Das Allerheiligste: 3,8-14
+
+8 Er schuf den Raum des Allerheiligsten. Seine Länge betrug zwanzig
+Ellen, der Breite des Hauses entsprechend, und seine Breite zwanzig
+Ellen. Er überzog es mit echtem Gold im Gewicht von sechshundert
+Talenten. [fn:5]
+
+<<v9>>
+9 Für die Nägel verwendete er Gold im Gewicht von fünfzig Schekeln. Auch
+die Obergemächer ließ er mit Gold verkleiden. [fn:6]
+
+<<v10>>
+10 Im Raum des Allerheiligsten ließ er zwei Kerubim anfertigen . . . und
+mit Gold überziehen. [fn:7] [fn:8]
+
+<<v11>>
+11 Die Flügel der Kerubim hatten zusammen eine Spannweite von zwanzig
+Ellen. Der Flügel des einen war fünf Ellen lang und berührte die Wand
+des Hauses Der zweite Flügel war fünf Ellen lang und berührte den Flügel
+des anderen Kerubs.
+
+<<v12>>
+12 Der Flügel des zweiten Kerubs war fünf Ellen lang und berührte die
+Wand des Hauses und auch der andere Flügel war fünf Ellen lang und stieß
+an den Flügel des ersten Kerubs.
+
+<<v13>>
+13 Die Flügel dieser Kerubim hatten eine Spannweite von zwanzig Ellen.
+Sie selbst standen auf ihren Füßen und ihre Gesichter waren dem
+Innenraum zugewandt.
+
+<<v14>>
+14 Er verfertigte auch den Vorhang aus blauem und rotem Purpur, aus
+Karmesin und Byssus und brachte darauf Kerubim an.\\
+\\
+
+<<v15>>
+* Die Ausstattung des Tempels: 3,15 - 5,1
+
+15 Für die Vorderseite des Hauses machte er zwei Säulen von achtzehn
+Ellen Höhe. Das Kapitell auf ihnen maß fünf Ellen. [fn:9] [fn:10]
+
+<<v16>>
+16 Dazu schuf er kettenförmige Bänder und brachte sie oben auf den
+Säulen an. Auch machte er hundert Granatäpfel und befestigte sie an den
+kettenförmigen Bändern.
+
+<<v17>>
+17 Die Säulen stellte er vor dem Tempel auf, die eine auf der rechten,
+die andere auf der linken Seite. Die rechte nannte er Jachin, die linke
+Boas. [fn:11]
+
+* Footnotes
+
+[fn:1] (1-7) [[file:1.Kön_6.org::v1][1 Kön 6,1]]-[[file:1.Kön_6.org::v22][22]].[[file:1.Kön_6.org::v29][29]]
+
+[fn:2] 1-4,22: H ist einige Male durch Schreibfehler entstellt;
+sie werden im folgenden nicht eigens vermerkt. Morija ist die Gegend, in
+der Abraham nach Gen 22,2 seinen Sohn opfern sollte. Der Ort des Tempels
+ist also durch die Opfer Abrahams und Davids ([[file:2.Sam_24.org::v25][2 Sam 24,25]]; [[file:1.Chr_21.org::v26][1 Chr 21,26]];
+[[file:1.Chr_22.org::v1][22,1]]) im Voraus bezeichnet worden.
+
+[fn:3] Nach H hätte die Höhe 120 Ellen betragen.
+
+[fn:4] Der Ausdruck «Parwajimgold» weist wahrscheinlich auf die
+Herkunft des Goldes hin.
+
+[fn:5] [[file:1.Kön_6.org::v19][1 Kön 6,19f]]
+
+[fn:6] Die Obergemächer befanden sich im Anbau, der um den
+Hauptbau und das Allerheiligste lief (vgl. [[file:1.Kön_6.org::v5][1 Kön 6,5f]]).
+
+[fn:7] (10-13) [[file:1.Kön_6.org::v23][1 Kön 6,23-28]]
+
+[fn:8] H teilweise unverständlich.
+
+[fn:9] (15-5,1) [[file:1.Kön_7.org::v15][1 Kön 7,15-21]]
+
+[fn:10] achtzehn: nach [[file:1.Kön_7.org::v15][1 Kön 7,15]]; H: fünfunddreißig.
+
+[fn:11] Zu den Namen der Säulen vgl. die Anmerkung zu [[file:1.Kön_7.org::v21][1 Kön 7,21]].

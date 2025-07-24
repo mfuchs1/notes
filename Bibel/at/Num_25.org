@@ -1,0 +1,99 @@
+#+TITLE: Num 25 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-24 Di 17:30]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 25.html
+
+<<verses>>
+
+<<v1>>
+* Der Priester Pinhas: 25,1-18
+
+1 Als sich Israel in Schittim aufhielt, begann das Volk mit den
+Moabiterinnen Unzucht zu treiben.
+
+<<v2>>
+2 Sie luden das Volk zu den Opferfesten ihrer Götter ein, das Volk aß
+mit ihnen und fiel vor ihren Göttern nieder.
+
+<<v3>>
+3 So ließ sich Israel mit Baal-Pegor ein. Da entbrannte der Zorn des
+Herrn gegen Israel
+
+<<v4>>
+4 und der Herr sprach zu Mose: Nimm alle Anführer des Volkes und spieße
+sie für den Herrn im Angesicht der Sonne auf Pfähle, damit sich der
+glühende Zorn des Herrn von Israel abwendet.
+
+<<v5>>
+5 Da sagte Mose zu den Richtern Israels: Jeder soll die von seinen
+Leuten töten, die sich mit Baal-Pegor eingelassen haben.
+
+<<v6>>
+6 Unter den Israeliten war einer, der zu seinen Brüdern kam und eine
+Midianiterin mitbrachte, und zwar vor den Augen des Mose und der ganzen
+Gemeinde der Israeliten, während sie am Eingang des Offenbarungszeltes
+weinten.
+
+<<v7>>
+7 Als das der Priester Pinhas, der Sohn Eleasars, des Sohnes Aarons,
+sah, stand er mitten in der Gemeinde auf, ergriff einen Speer,
+
+<<v8>>
+8 ging dem Israeliten in den Frauenraum nach und durchbohrte beide, den
+Israeliten und die Frau, auf ihrem Lager. Danach nahm die Plage, die die
+Israeliten getroffen hatte, ein Ende.
+
+<<v9>>
+9 Im Ganzen aber waren vierundzwanzigtausend Menschen an der Plage
+gestorben.
+
+<<v10>>
+10 Der Herr sprach zu Mose:
+
+<<v11>>
+11 Der Priester Pinhas, der Sohn Eleasars, des Sohnes Aarons, hat meinen
+Zorn von den Israeliten abgewendet dadurch, dass er sich bei ihnen für
+mich ereiferte. So musste ich die Israeliten nicht in meinem
+leidenschaftlichen Eifer umbringen.
+
+<<v12>>
+12 Darum sage ich: Hiermit gewähre ich ihm meinen Friedensbund.
+
+<<v13>>
+13 Ihm und seinen Nachkommen wird der Bund des ewigen Priestertums
+zuteil, weil er sich für seinen Gott ereifert und die Israeliten
+entsühnt hat.
+
+<<v14>>
+14 Der Israelit, der zusammen mit der Midianiterin erschlagen worden
+war, hieß Simri; er war ein Sohn Salus und ein führender Mann aus einer
+simeonitischen Großfamilie.
+
+<<v15>>
+15 Die erschlagene Midianiterin hieß Kosbi; sie war die Tochter Zurs,
+und dieser war das Haupt einer Großfamilie in Midian.
+
+<<v16>>
+16 Der Herr sprach zu Mose:
+
+<<v17>>
+17 Greift die Midianiter an und schlagt sie;
+
+<<v18>>
+18 denn auch sie haben euch arglistig angegriffen, als sie euch mit
+Pegor und mit ihrer Schwester Kosbi überlisteten, der Tochter eines
+führenden Midianiters, die erschlagen wurde, als die Plage wegen Pegor
+ausgebrochen war.\\
+\\
+
+<<v19>>
+* Die zweite Volkszählung: 25,19 - 26,65
+     
+19 Nach jener Plage

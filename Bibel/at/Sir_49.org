@@ -1,0 +1,162 @@
+:PROPERTIES:
+:ID:       70d94001-03da-41e8-a69e-9299c142ef1a
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_47.html][47]]
+[[file:Sir_48.html][48]] *49* [[file:Sir_50.html][50]]
+[[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 49
+  :PROPERTIES:
+  :CUSTOM_ID: sir-49
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Treue Joschijas: 49,1-3
+     :PROPERTIES:
+     :CUSTOM_ID: die-treue-joschijas-491-3
+     :END:
+1 Der Name Joschija gleicht duftendem Weihrauch, /\\
+ würzig und vom Salbenmischer zubereitet. Sein Andenken ist süß wie
+Honig im Mund /\\
+ und wie ein Lied beim Weingelage.\\
+\\
+
+<<v2>>
+2 Denn er litt wegen unserer Treulosigkeit /\\
+ und machte den abscheulichen Götzen ein Ende. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Er richtete sein Herz ganz auf Gott /\\
+ und bewies Treue in Zeiten des Unrechts.\\
+\\
+
+<<v4>>
+**** Die Verdienste späterer großer Männer Israels: 49,4-13
+     :PROPERTIES:
+     :CUSTOM_ID: die-verdienste-späterer-großer-männer-israels-494-13
+     :END:
+4 Außer David, Hiskija und Joschija /\\
+ haben alle Könige ruchlos gehandelt: Bis zu ihrem Untergang haben die
+Könige von Juda /\\
+ das Gesetz des Höchsten verlassen. ^{[[#fn2][2]]}\\
+\\
+
+<<v5>>
+5 Ihre Macht gaben sie an andere hin, /\\
+ ihre Ehre an ein fremdes Volk.\\
+\\
+
+<<v6>>
+6 Sie zündeten die Heilige Stadt an, /\\
+ sodass die Straßen verödeten, ^{[[#fn3][3]]}\\
+\\
+
+<<v7>>
+7 zur Strafe dafür, dass sie Jeremia misshandelt haben, /\\
+ obwohl er vom Mutterleib an zum Propheten geschaffen war, um
+auszureißen, niederzureißen und zu vernichten, /\\
+ aber auch um aufzubauen, einzupflanzen und zu stärken. ^{[[#fn4][4]]}\\
+\\
+
+<<v8>>
+8 Ezechiel sah eine Vision /\\
+ und beschrieb die Gestalten am Thronwagen. ^{[[#fn5][5]]}\\
+\\
+
+<<v9>>
+9 Er gedachte auch des Ijob, /\\
+ der die Wege der Gerechtigkeit einhielt. ^{[[#fn6][6]]}\\
+\\
+
+<<v10>>
+10 Ferner die Zwölf Propheten: /\\
+ Ihre Gebeine mögen von ihrer Stätte emporsprossen. Sie brachten Heilung
+für Jakobs Volk /\\
+ und halfen ihm durch zuverlässige Hoffnung. ^{[[#fn7][7]][[#fn8][8]]}\\
+\\
+
+<<v11>>
+11 Wie könnten wir Serubbabel gebührend preisen, /\\
+ war er doch wie ein Siegelring an der rechten Hand, ^{[[#fn9][9]]}\\
+\\
+
+<<v12>>
+12 ebenso Jeschua, den Sohn des Jozadak? /\\
+ Sie beide erbauten zu ihrer Zeit das Gotteshaus; sie errichteten den
+heiligen Tempel, /\\
+ der zu dauernder Herrlichkeit bestimmt ist. ^{[[#fn10][10]]}\\
+\\
+
+<<v13>>
+13 Nehemia, sein Andenken in Ehren! /\\
+ Er baute unsere Trümmer wieder auf und stellte das Zerstörte wieder
+her, /\\
+ Tore und Riegel setzte er ein. ^{[[#fn11][11]][[#fn12][12]]}\\
+\\
+
+<<v14>>
+**** Rückblick auf die Großen des Anfangs: 49,14-16
+     :PROPERTIES:
+     :CUSTOM_ID: rückblick-auf-die-großen-des-anfangs-4914-16
+     :END:
+14 Kaum einer auf Erden kommt Henoch gleich, /\\
+ darum wurde er auch lebend entrückt. ^{[[#fn13][13]]}\\
+\\
+
+<<v15>>
+15 Gab es je einen Mann wie Josef? /\\
+ Selbst sein Leichnam wurde sorgfältig erhalten.
+^{[[#fn14][14]][[#fn15][15]]}\\
+\\
+
+<<v16>>
+16 Sem, Set und Enosch sind hoch geehrt, /\\
+ aber Adam übertrifft alle Menschen an Ruhm. ^{[[#fn16][16]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 2 Kön 22f
+
+^{[[#fnm2][2]]} Sirach urteilt in seiner kurzen Aufzählung noch strenger
+als der Verfasser der Königsbücher und der Chronist.
+
+^{[[#fnm3][3]]} 6a: «Sie» können die Babylonier sein, das «fremde Volk»
+von V. 5b; aber gemeint sind wohl eher die Könige von Juda (vgl. V. 7),
+die indirekt den Untergang herbeigeführt haben.
+
+^{[[#fnm4][4]]} ℘ Jer 1,5.10
+
+^{[[#fnm5][5]]} ℘ Ez 1,4-28; 10
+
+^{[[#fnm6][6]]} ℘ Ez 14,14.20
+
+^{[[#fnm7][7]]} ℘ 46,12
+
+^{[[#fnm8][8]]} Die zwölf Kleinen Propheten werden hier zum ersten Mal
+als eine Einheit erwähnt. Wie bei Jesaja werden besonders ihre
+Heilsweissagungen betont.
+
+^{[[#fnm9][9]]} ℘ Hag 2,23
+
+^{[[#fnm10][10]]} ℘ Esra 3,8 - 6,18
+
+^{[[#fnm11][11]]} ℘ Neh 2,17 - 7,1
+
+^{[[#fnm12][12]]} G hat die Zeilen c und d vertauscht.
+
+^{[[#fnm13][13]]} ℘ 44,16
+
+^{[[#fnm14][14]]} ℘ Gen 50,25f; Ex 13,19
+
+^{[[#fnm15][15]]} G hat 50,1a hier eingesetzt und so mit Josef
+verknüpft.
+
+^{[[#fnm16][16]]} 16a: Nach G wäre zu übersetzen: Sem und Set sind unter
+den Menschen hoch geehrt (vgl. die Anmerkung zu Gen 4,26).

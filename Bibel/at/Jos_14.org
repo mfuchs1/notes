@@ -1,0 +1,116 @@
+#+TITLE: Jos 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-02 Do 22:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 14.html
+
+<<verses>>
+
+<<v1>>
+* Die Verteilung des Westjordanlandes: 14,1-15
+
+1 Das sind die Gebiete, die die Israeliten als Erbbesitz im Land Kanaan
+erhielten und die der Priester Eleasar sowie Josua, der Sohn Nuns, und
+die Anführer der Sippen der Israeliten zuteilten - [fn:1]
+
+<<v2>>
+2 durch das Los teilten sie es ihnen zu, wie es der Herr durch Mose
+befohlen hatte -, den neuneinhalb Stämmen. [fn:2] [fn:3]
+
+<<v3>>
+3 Denn Mose hatte zweieinhalb Stämmen ihren Erbbesitz schon jenseits des
+Jordan zugewiesen; den Leviten gab er keinen Erbbesitz in ihrer Mitte. [fn:4]
+
+<<v4>>
+4 Denn die Nachkommen Josefs bildeten zwei Stämme, Manasse und Efraim.
+Den Leviten gab man also keinen Landanteil, sondern nur Städte als
+Wohnsitz und die dazugehörenden Weideflächen für das Vieh, das sie
+besaßen. [fn:5]
+
+<<v5>>
+5 Wie es der Herr dem Mose befohlen hatte, so machten es die Israeliten
+und verteilten das Land.
+
+<<v6>>
+6 Damals traten die Judäer in Gilgal an Josua heran und Kaleb, der Sohn
+des Kenasiters Jefunne, sagte zu ihm: Du weißt, was der Herr zu Mose,
+dem Gottesmann, in Kadesch-Barnea über mich und dich gesagt hat. [fn:6] [fn:7]
+
+<<v7>>
+7 Ich war vierzig Jahre alt, als mich Mose, der Knecht des Herrn, in
+Kadesch-Barnea aussandte, damit ich das Land erkundete, und ich
+erstattete ihm Bericht, wie ich es mir vorgenommen hatte. [fn:8]
+
+<<v8>>
+8 Während meine Brüder, die mit mir hinaufgezogen waren, das Volk mutlos
+machten, hielt ich treu zum Herrn, meinem Gott. [fn:9]
+
+<<v9>>
+9 An jenem Tag schwor Mose: Das Land, das dein Fuß betreten hat, soll
+dir und deinen Söhnen für immer als Erbbesitz gehören, weil du treu zum
+Herrn, deinem Gott, gehalten hast.
+
+<<v10>>
+10 Nun sieh her: Der Herr hat mich, wie er es versprochen hat, am Leben
+gelassen. Fünfundvierzig Jahre ist es her, seit der Herr dieses Wort zu
+Mose gesprochen hat, als Israel durch die Wüste zog. Heute bin ich, wie
+du siehst, fünfundachtzig Jahre alt.
+
+<<v11>>
+11 Ich bin immer noch so stark wie damals, als Mose mich ausgesandt hat;
+wie meine Kraft damals war, so ist sie noch heute, wenn es gilt, zu
+kämpfen, auszuziehen und heimzukehren.
+
+<<v12>>
+12 Nun gib mir also dieses Bergland, von dem der Herr an jenem Tag
+geredet hat. Denn du hast selbst an jenem Tag gehört, dass Anakiter dort
+sind und große befestigte Städte. Vielleicht ist der Herr mit mir,
+sodass ich sie vertreiben kann, wie der Herr gesagt hat. [fn:10]
+
+<<v13>>
+13 Da segnete Josua Kaleb, den Sohn Jefunnes, und gab ihm Hebron als
+Erbbesitz. [fn:11]
+
+<<v14>>
+14 Deshalb gehört Hebron bis zum heutigen Tag dem Kenasiter Kaleb, dem
+Sohn Jefunnes, weil er treu zum Herrn, dem Gott Israels, gehalten hat. [fn:12]
+
+<<v15>>
+15 Hebron hieß früher Kirjat-Arba (Stadt des Arba); Arba war der größte
+Mann unter den Anakitern. Danach war der Krieg zu Ende und das Land
+hatte Ruhe.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Num_34.org::v17][Num 34,17]]
+
+[fn:2] [[file:Num_26.org::v55][Num 26,55]]
+
+[fn:3] durch das Los teilten sie es ihnen zu: Text korr. nach G.
+
+[fn:4] [[file:Jos_13.org::v14][13,14]].[[file:Jos_13.org::v33][33]]; [[file:Dtn_10.org::v9][Dtn 10,9]]
+
+[fn:5] [[file:Jos_21.org::v1][21,1-42]]
+
+[fn:6] [[file:Num_14.org::v24][Num 14,24]]; [[file:Dtn_1.org::v36][Dtn 1,36]]
+
+[fn:7] Die Verteilung des Westjordanlandes beginnt mit dem
+südlich von Juda wohnenden kleinen Stamm der Kalebiter und schreitet
+nach Norden voran.
+
+[fn:8] [[file:Num_13.org::v6][Num 13,6]].[[file:Num_13.org::v30][30]]
+
+[fn:9] [[file:Num_14.org::v24][Num 14,24]]; [[file:Num_32.org::v11][32,11f]]
+
+[fn:10] [[file:Jos_11.org::v21][11,21]]
+
+[fn:11] [[file:Jos_15.org::v13][15,13-17]]; [[file:Jos_21.org::v12][21,12]]; [[file:Ri_1.org::v20][Ri 1,20]]
+
+[fn:12] [[file:Num_32.org::v12][Num 32,12]]

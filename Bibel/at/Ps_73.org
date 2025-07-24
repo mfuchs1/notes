@@ -1,0 +1,200 @@
+#+TITLE: Ps 73 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-02 Fr 14:44]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 73.html
+
+* Ps 73
+
+<<verses>>
+
+<<v1>>
+* Das dritte Buch
+
+* Das scheinbare Glück der Frevler
+
+1 [Ein Psalm Asafs.] Lauter Güte ist Gott für Israel, /\\
+ für alle Menschen mit reinem Herzen.\\
+\\
+
+<<v2>>
+2 Ich aber - fast wären meine Füße gestrauchelt, /\\
+ beinahe wäre ich gefallen. [fn:1]\\
+\\
+
+<<v3>>
+3 Denn ich habe mich über die Prahler ereifert, /\\
+ als ich sah, dass es diesen Frevlern so gut ging. [fn:2]\\
+\\
+
+<<v4>>
+4 Sie leiden ja keine Qualen, /\\
+ ihr Leib ist gesund und wohlgenährt. [fn:3]\\
+\\
+
+<<v5>>
+5 Sie kennen nicht die Mühsal der Sterblichen, /\\
+ sind nicht geplagt wie andere Menschen.\\
+\\
+
+<<v6>>
+6 Darum ist Hochmut ihr Halsschmuck, /\\
+ wie ein Gewand umhüllt sie Gewalttat. [fn:4]\\
+\\
+
+<<v7>>
+7 Sie sehen kaum aus den Augen vor Fett, /\\
+ ihr Herz läuft über von bösen Plänen. [fn:5]\\
+\\
+
+<<v8>>
+8 Sie höhnen, und was sie sagen, ist schlecht; /\\
+ sie sind falsch und reden von oben herab.\\
+\\
+
+<<v9>>
+9 Sie reißen ihr Maul bis zum Himmel auf /\\
+ und lassen auf Erden ihrer Zunge freien Lauf.\\
+\\
+
+<<v10>>
+10 Darum wendet sich das Volk ihnen zu /\\
+ und schlürft ihre Worte in vollen Zügen. [fn:6]\\
+\\
+
+<<v11>>
+11 Sie sagen: «Wie sollte Gott das merken? /\\
+ Wie kann der Höchste das wissen?» [fn:7]\\
+\\
+
+<<v12>>
+12 Wahrhaftig, so sind die Frevler: /\\
+ Immer im Glück, häufen sie Reichtum auf Reichtum. [fn:8]\\
+\\
+
+<<v13>>
+13 Also hielt ich umsonst mein Herz rein /\\
+ und wusch meine Hände in Unschuld. [fn:9]\\
+\\
+
+<<v14>>
+14 Und doch war ich alle Tage geplagt /\\
+ und wurde jeden Morgen gezüchtigt. [fn:10]\\
+\\
+
+<<v21>>
+21 Mein Herz war verbittert, /\\
+ mir bohrte der Schmerz in den Nieren;\\
+\\
+
+<<v22>>
+22 ich war töricht und ohne Verstand, /\\
+ war wie ein Stück Vieh vor dir.\\
+\\
+
+<<v15>>
+15 Hätte ich gesagt: «Ich will reden wie sie», /\\
+ dann hätte ich an deinen Kindern Verrat geübt. [fn:11]\\
+\\
+
+<<v16>>
+16 Da sann ich nach, um das zu begreifen; /\\
+ es war eine Qual für mich,\\
+\\
+
+<<v17>>
+17 bis ich dann eintrat ins Heiligtum Gottes /\\
+ und begriff, wie sie enden.\\
+\\
+
+<<v18>>
+18 Ja, du stellst sie auf schlüpfrigen Grund, /\\
+ du stürzt sie in Täuschung und Trug.\\
+\\
+
+<<v19>>
+19 Sie werden plötzlich zunichte, /\\
+ werden dahingerafft und nehmen ein schreckliches Ende, [fn:12]\\
+\\
+
+<<v20>>
+20 wie ein Traum, der beim Erwachen verblasst, /\\
+ dessen Bild man vergisst, wenn man aufsteht. [fn:13] [fn:14]\\
+\\
+
+<<v23>>
+23 Ich aber bleibe immer bei dir, /\\
+ du hältst mich an meiner Rechten. [fn:15]\\
+\\
+
+<<v24>>
+24 Du leitest mich nach deinem Ratschluss /\\
+ und nimmst mich am Ende auf in Herrlichkeit. [fn:16]\\
+\\
+
+<<v25>>
+25 Was habe ich im Himmel außer dir? /\\
+ Neben dir erfreut mich nichts auf der Erde. [fn:17]\\
+\\
+
+<<v26>>
+26 Auch wenn mein Leib und mein Herz verschmachten, /\\
+ Gott ist der Fels meines Herzens /\\
+ und mein Anteil auf ewig. [fn:18]\\
+\\
+
+<<v27>>
+27 Ja, wer dir fern ist, geht zugrunde; /\\
+ du vernichtest alle, die dich treulos verlassen.\\
+\\
+
+<<v28>>
+28 Ich aber - Gott nahe zu sein ist mein Glück. /\\
+ Ich setze auf Gott, den Herrn, mein Vertrauen. /\\
+ Ich will all deine Taten verkünden.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_37.org::v1][37,1]]; [[file:Jer_12.org::v1][Jer 12,1]]
+
+[fn:2] (3-12) [[file:Ijob_21.org::v7][Ijob 21,7-13]]
+
+[fn:3] Text korr.
+
+[fn:4] [[file:Ps_17.org::v10][17,10]]
+
+[fn:5] [[file:Ijob_15.org::v27][Ijob 15,27]]; [[file:Jer_5.org::v28][Jer 5,28]]
+
+[fn:6] das Volk ihnen zu, wörtlich: sein Volk hierher. Text korr.; H: Wasser in Fülle schlürfen sie.
+
+[fn:7] [[file:Ps_10.org::v11][10,11]]
+
+[fn:8] [[file:Ps_17.org::v14][17,14]]
+
+[fn:9] [[file:Ps_26.org::v6][26,6]]; [[file:Mal_3.org::v14][Mal 3,14]]
+
+[fn:10] [[file:Ijob_7.org::v18][Ijob 7,18]]
+
+[fn:11] Text korr. nach S und der aramäischen Übersetzung.
+
+[fn:12] [[file:Ps_49.org::v15][49,15]]
+
+[fn:13] [[file:Ijob_20.org::v8][Ijob 20,8]]
+
+[fn:14] Wörtlich: Wie ein Traum nach dem Erwachen, Herr, in der Stadt vertreibst du ihr (Götzen)bild.
+
+[fn:15] [[file:Ps_121.org::v5][121,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_8.org::v35][Röm 8,35-39]]
+
+[fn:16] [[file:Ps_16.org::v10][16,10]]; [[file:Ps_49.org::v16][49,16]]
+
+[fn:17] außer dir: ergänzt.
+
+[fn:18] [[file:Ps_142.org::v6][142,6]]; [[file:Num_18.org::v20][Num 18,20]]; [[file:Dtn_10.org::v9][Dtn 10,9]]; [[file:Klgl_3.org::v24][Klgl 3,24]]

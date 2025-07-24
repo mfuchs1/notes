@@ -1,0 +1,108 @@
+#+TITLE: Ps 30 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-14 Do 15:06]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 30.html
+
+* Ps 30
+
+<<verses>>
+
+<<v1>>
+* Dank für die Rettung aus Todesnot
+
+1 [Ein Psalm. Ein Lied zur Tempelweihe. Von David.] [fn:1]\\
+\\
+
+<<v2>>
+2 Ich will dich rühmen, Herr, /\\
+ denn du hast mich aus der Tiefe gezogen /\\
+ und lässt meine Feinde nicht über mich triumphieren.\\
+\\
+
+<<v3>>
+3 Herr, mein Gott, ich habe zu dir geschrien /\\
+ und du hast mich geheilt. [fn:2]\\
+\\
+
+<<v4>>
+4 Herr, du hast mich herausgeholt aus dem Reich des Todes, /\\
+ aus der Schar der Todgeweihten mich zum Leben gerufen. [fn:3]\\
+\\
+
+<<v5>>
+5 Singt und spielt dem Herrn, ihr seine Frommen, /\\
+ preist seinen heiligen Namen! [fn:4] [fn:5]\\
+\\
+
+<<v6>>
+6 Denn sein Zorn dauert nur einen Augenblick, /\\
+ doch seine Güte ein Leben lang. Wenn man am Abend auch weint, /\\
+ am Morgen herrscht wieder Jubel. [fn:6]\\
+\\
+
+<<v7>>
+7 Im sicheren Glück dachte ich einst: /\\
+ Ich werde niemals wanken.\\
+\\
+
+<<v8>>
+8 Herr, in deiner Güte /\\
+ stelltest du mich auf den schützenden Berg. Doch dann hast du dein
+Gesicht verborgen. /\\
+ Da bin ich erschrocken. [fn:7]\\
+\\
+
+<<v9>>
+9 Zu dir, Herr, rief ich um Hilfe, /\\
+ ich flehte meinen Herrn um Gnade an.\\
+\\
+
+<<v10>>
+10 (Ich sagte:) /\\
+ Was nützt dir mein Blut, wenn ich begraben bin? /\\
+ Kann der Staub dich preisen, deine Treue verkünden? [fn:8]\\
+\\
+
+<<v11>>
+11 Höre mich, Herr, sei mir gnädig! /\\
+ Herr, sei du mein Helfer!\\
+\\
+
+<<v12>>
+12 Da hast du mein Klagen in Tanzen verwandelt, /\\
+ hast mir das Trauergewand ausgezogen und mich mit Freude umgürtet. [fn:9]\\
+\\
+
+<<v13>>
+13 Darum singt dir mein Herz und will nicht verstummen. /\\
+ Herr, mein Gott, ich will dir danken in Ewigkeit. [fn:10]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Esra_6.org::v16][Esra 6,16]]; [[file:1.Makk_4.org::v36][1 Makk 4,36]]-[[file:1.Makk_4.org::v54][54]]
+
+[fn:2] [[file:Ex_15.org::v26][Ex 15,26]]
+
+[fn:3] [[file:Ps_9.org::v14][9,14]]
+
+[fn:4] [[file:Ps_7.org::v18][7,18]]; [[file:Ps_97.org::v12][97,12]]
+
+[fn:5] Wörtlich: preist sein heiliges Gedenken.
+
+[fn:6] [[file:Jes_54.org::v7][Jes 54,7f]]
+
+[fn:7] auf den schützenden Berg, wörtlich: auf feste Berge.
+
+[fn:8] [[file:Ps_6.org::v6][6,6]]
+
+[fn:9] [[file:Ps_126.org][126]]; [[file:Jes_61.org::v3][Jes 61,3]]
+
+[fn:10] Text korr. nach G.

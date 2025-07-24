@@ -1,0 +1,125 @@
+#+TITLE: Gen 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:01]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 8.html
+
+* Gen 8
+<<verses>>
+
+<<v1>>
+1 Da dachte Gott an Noach und an alle Tiere und an alles Vieh, das bei
+ihm in der Arche war. Gott ließ einen Wind über die Erde wehen und das
+Wasser sank.
+
+<<v2>>
+2 Die Quellen der Urflut und die Schleusen des Himmels schlossen sich;
+der Regen vom Himmel ließ nach
+
+<<v3>>
+3 und das Wasser verlief sich allmählich von der Erde. So nahm das
+Wasser nach hundertfünfzig Tagen ab.
+
+<<v4>>
+4 Am siebzehnten Tag des siebten Monats setzte die Arche im Gebirge
+Ararat auf.
+
+<<v5>>
+5 Das Wasser nahm immer mehr ab, bis zum zehnten Monat. Am ersten Tag
+des zehnten Monats wurden die Berggipfel sichtbar.
+
+<<v6>>
+6 Nach vierzig Tagen öffnete Noach das Fenster der Arche, das er gemacht
+hatte,
+
+<<v7>>
+7 und ließ einen Raben hinaus. Der flog aus und ein, bis das Wasser auf
+der Erde vertrocknet war.
+
+<<v8>>
+8 Dann ließ er eine Taube hinaus, um zu sehen, ob das Wasser auf der
+Erde abgenommen habe.
+
+<<v9>>
+9 Die Taube fand keinen Halt für ihre Füße und kehrte zu ihm in die
+Arche zurück, weil über der ganzen Erde noch Wasser stand. Er streckte
+seine Hand aus und nahm die Taube wieder zu sich in die Arche.
+
+<<v10>>
+10 Dann wartete er noch weitere sieben Tage und ließ wieder die Taube
+aus der Arche.
+
+<<v11>>
+11 Gegen Abend kam die Taube zu ihm zurück, und siehe da: In ihrem
+Schnabel hatte sie einen frischen Olivenzweig. Jetzt wusste Noach, dass
+nur noch wenig Wasser auf der Erde stand.
+
+<<v12>>
+12 Er wartete weitere sieben Tage und ließ die Taube noch einmal hinaus.
+Nun kehrte sie nicht mehr zu ihm zurück.
+
+<<v13>>
+13 Im sechshundertersten Jahr Noachs, am ersten Tag des ersten Monats,
+hatte sich das Wasser verlaufen. Da entfernte Noach das Verdeck der
+Arche, blickte hinaus, und siehe: Die Erdoberfläche war trocken. [fn:1]
+
+<<v14>>
+14 Am siebenundzwanzigsten Tag des zweiten Monats war die Erde trocken.
+
+<<v15>>
+15 Da sprach Gott zu Noach:
+
+<<v16>>
+16 Komm heraus aus der Arche, du, deine Frau, deine Söhne und die Frauen
+deiner Söhne!
+
+<<v17>>
+17 Bring mit dir alle Tiere heraus, alle Wesen aus Fleisch, die Vögel,
+das Vieh und alle Kriechtiere, die sich auf der Erde regen. Auf der Erde
+soll es von ihnen wimmeln; sie sollen fruchtbar sein und sich auf der
+Erde vermehren. [fn:2]
+
+<<v18>>
+18 Da kam Noach heraus, er, seine Söhne, seine Frau und die Frauen
+seiner Söhne.
+
+<<v19>>
+19 Auch alle Tiere kamen, nach Gattungen geordnet, aus der Arche, die
+Kriechtiere, die Vögel, alles, was sich auf der Erde regt.
+
+<<v20>>
+20 Dann baute Noach dem Herrn einen Altar, nahm von allen reinen Tieren
+und von allen reinen Vögeln und brachte auf dem Altar Brandopfer dar.
+
+<<v21>>
+21 Der Herr roch den beruhigenden Duft und der Herr sprach bei sich: Ich
+will die Erde wegen des Menschen nicht noch einmal verfluchen; denn das
+Trachten des Menschen ist böse von Jugend an. Ich will künftig nicht
+mehr alles Lebendige vernichten, wie ich es getan habe. [fn:3] [fn:4]\\
+\\
+
+<<v22>>
+22 So lange die Erde besteht, /\\
+ sollen nicht aufhören /\\
+ Aussaat und Ernte, Kälte und Hitze, /\\
+ Sommer und Winter, Tag und Nacht.\\
+\\
+
+
+* Footnotes
+
+[fn:1] 7,11 [[file:Gen_7.org::v11][Gen 7,11]]
+
+[fn:2] 1,22.28 [[file:Gen_1.org::v22][Gen 1,22.28]]
+
+[fn:3] 6,5 [[file:Gen_6.org::v5][Gen 6,5]]
+
+[fn:4] Der "beruhigende Duft" ist der Duft der Opfer, der den
+Zorn Gottes besänftigt; der Ausdruck stammt aus der formelhaften Sprache
+der Opferritualien (vgl. Ex 29,18.25.41 [[file:Ex_29.org::v18][Ex 29,18.25.41]]; Lev 1,9.13.17 [[file:Lev_1.org::v9][Lev 1,9.13.17]]).

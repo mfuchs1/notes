@@ -1,0 +1,112 @@
+#+TITLE: Gen 40 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 40.html
+
+
+<<verses>>
+
+<<v1>>
+1 Einige Zeit später vergingen sich der königliche Mundschenk und der
+Hofbäcker gegen ihren Herrn, den König von Ägypten.
+
+<<v2>>
+2 Der Pharao war aufgebracht über seine beiden Hofbeamten, den
+Obermundschenk und den Oberbäcker.
+
+<<v3>>
+3 Er gab sie in Haft in das Haus des Obersten der Leibwache, in den
+Kerker, wo Josef gefangen gehalten wurde.
+
+<<v4>>
+4 Der Oberste der Leibwache betraute Josef mit ihrer Bedienung. Als sie
+einige Zeit in Haft waren,
+
+<<v5>>
+5 hatte jeder von ihnen einen Traum. Der Mundschenk und der Bäcker des
+Königs von Ägypten, die im Kerker gefangen gehalten wurden, hatten in
+derselben Nacht einen Traum, der für jeden von ihnen eine besondere
+Bedeutung haben sollte.
+
+<<v6>>
+6 Am Morgen kam Josef zu ihnen und sah ihnen an, dass sie missmutig
+waren.
+
+<<v7>>
+7 Da fragte er die Hofbeamten des Pharao, die mit ihm im Hause seines
+Herrn in Gewahrsam gehalten wurden: Warum seht ihr heute so böse drein?
+
+<<v8>>
+8 Sie antworteten ihm: Wir hatten einen Traum, aber es ist keiner da,
+der ihn auslegen kann. Josef sagte zu ihnen: Ist nicht das Träumedeuten
+Sache Gottes? Erzählt mir doch!
+
+<<v9>>
+9 Darauf erzählte der Obermundschenk Josef seinen Traum. Er sagte zu
+ihm: Im Traum sah ich vor mir einen Weinstock.
+
+<<v10>>
+10 Am Weinstock waren drei Ranken und es war mir, als triebe er Knospen.
+Seine Blüten wuchsen und schon reiften die Beeren an seinen Trauben.
+
+<<v11>>
+11 Ich hatte den Becher des Pharao in meiner Hand. Ich nahm die Beeren,
+drückte sie in den Becher des Pharao aus und gab dem Pharao den Becher
+in die Hand.
+
+<<v12>>
+12 Da sprach Josef zu ihm: Das ist die Deutung: Die drei Ranken sind
+drei Tage.
+
+<<v13>>
+13 Noch drei Tage, dann wird der Pharao dich vorladen und dich wieder in
+dein Amt einsetzen. Du wirst dem Pharao den Becher reichen, wie es
+früher deine Aufgabe war, als du noch sein Mundschenk warst.
+
+<<v14>>
+14 Doch denk an mich, wenn es dir gut geht. Tu mir dann einen Gefallen:
+Erzähl dem Pharao von mir und hol mich aus diesem Haus heraus!
+
+<<v15>>
+15 Denn entführt hat man mich aus dem Land der Hebräer und auch hier
+habe ich nichts getan, dass man mich hätte ins Gefängnis werfen müssen.
+
+<<v16>>
+16 Als der Oberbäcker merkte, dass Josef eine günstige Deutung gegeben
+hatte, sagte er zu ihm: Auch ich hatte einen Traum. Ich hatte drei Körbe
+Feingebäck auf meinem Kopf.
+
+<<v17>>
+17 Im obersten Korb war allerlei Backwerk für die Tafel des Pharao. Aber
+die Vögel fraßen es aus dem Korb auf meinem Kopf.
+
+<<v18>>
+18 Josef antwortete: Das ist die Deutung: Die drei Körbe sind drei Tage.
+
+<<v19>>
+19 Noch drei Tage, dann wird der Pharao dich vorladen und dich an einem
+Baum aufhängen; die Vögel werden von dir das Fleisch abfressen.
+
+<<v20>>
+20 Drei Tage darauf hatte der Pharao Geburtstag. Er veranstaltete für
+alle seine Hofleute ein Gastmahl. Da lud er vor versammeltem Hof den
+Obermundschenk und den Oberbäcker vor.
+
+<<v21>>
+21 Den Obermundschenk setzte er wieder in sein Amt ein; er durfte dem
+Pharao den Becher reichen.
+
+<<v22>>
+22 Den Oberbäcker ließ er aufhängen. Alles geschah, wie es Josef ihnen
+gedeutet hatte.
+
+<<v23>>
+23 Der Obermundschenk aber dachte nicht mehr an Josef und vergaß ihn.\\
+\\

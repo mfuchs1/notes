@@ -1,0 +1,247 @@
+:PROPERTIES:
+:ID:       25584f7c-b138-4af3-bf82-ba4ffb62a417
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Markus* --
+[[file:Mk_1.html][1]] *2* [[file:Mk_3.html][3]] [[file:Mk_4.html][4]]
+... [[file:Mk_16.html][16]]
+
+--------------
+
+* Mk 2
+  :PROPERTIES:
+  :CUSTOM_ID: mk-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Heilung eines Gelähmten: 2,1-12
+     :PROPERTIES:
+     :CUSTOM_ID: die-heilung-eines-gelähmten-21-12
+     :END:
+1 Als er einige Tage später nach Kafarnaum zurückkam, wurde bekannt,
+dass er (wieder) zu Hause war.
+^{[[#fn1][1]][[#fn2][2]][[#fn3][3]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 43\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Und es versammelten sich so viele Menschen, dass nicht einmal mehr vor
+der Tür Platz war; und er verkündete ihnen das Wort.
+
+<<v3>>
+3 Da brachte man einen Gelähmten zu ihm; er wurde von vier Männern
+getragen.
+
+<<v4>>
+4 Weil sie ihn aber wegen der vielen Leute nicht bis zu Jesus bringen
+konnten, deckten sie dort, wo Jesus war, das Dach ab, schlugen (die
+Decke) durch und ließen den Gelähmten auf seiner Tragbahre durch die
+Öffnung hinab. ^{[[#fn4][4]]}
+
+<<v5>>
+5 Als Jesus ihren Glauben sah, sagte er zu dem Gelähmten: Mein Sohn,
+deine Sünden sind dir vergeben!
+
+<<v6>>
+6 Einige Schriftgelehrte aber, die dort saßen, dachten im Stillen:
+
+<<v7>>
+7 Wie kann dieser Mensch so reden? Er lästert Gott. Wer kann Sünden
+vergeben außer dem einen Gott? ^{[[#fn5][5]]}
+
+<<v8>>
+8 Jesus erkannte sofort, was sie dachten, und sagte zu ihnen: Was für
+Gedanken habt ihr im Herzen? ^{[[#fn6][6]]}
+
+<<v9>>
+9 Ist es leichter, zu dem Gelähmten zu sagen: Deine Sünden sind dir
+vergeben!, oder zu sagen: Steh auf, nimm deine Tragbahre und geh umher?
+
+<<v10>>
+10 Ihr sollt aber erkennen, dass der Menschensohn die Vollmacht hat,
+hier auf der Erde Sünden zu vergeben. Und er sagte zu dem Gelähmten:
+
+<<v11>>
+11 Ich sage dir: Steh auf, nimm deine Tragbahre, und geh nach Hause!
+
+<<v12>>
+12 Der Mann stand sofort auf, nahm seine Tragbahre und ging vor aller
+Augen weg. Da gerieten alle außer sich; sie priesen Gott und sagten: So
+etwas haben wir noch nie gesehen.\\
+\\
+
+<<v13>>
+**** Die Berufung des Levi und das Mahl mit den Zöllnern: 2,13-17
+     :PROPERTIES:
+     :CUSTOM_ID: die-berufung-des-levi-und-das-mahl-mit-den-zöllnern-213-17
+     :END:
+13 Jesus ging wieder hinaus an den See. Da kamen Scharen von Menschen zu
+ihm und er lehrte sie. ^{[[#fn7][7]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 44\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v14>>
+14 Als er weiterging, sah er Levi, den Sohn des Alphäus, am Zoll sitzen
+und sagte zu ihm: Folge mir nach! Da stand Levi auf und folgte ihm.
+^{[[#fn8][8]]}
+
+<<v15>>
+15 Und als Jesus in seinem Haus beim Essen war, aßen viele Zöllner und
+Sünder zusammen mit ihm und seinen Jüngern; denn es folgten ihm schon
+viele. ^{[[#fn9][9]][[#fn10][10]]}
+
+<<v16>>
+16 Als die Schriftgelehrten, die zur Partei der Pharisäer gehörten,
+sahen, dass er mit Zöllnern und Sündern aß, sagten sie zu seinen
+Jüngern: Wie kann er zusammen mit Zöllnern und Sündern essen?
+^{[[#fn11][11]][[#fn12][12]]}
+
+<<v17>>
+17 Jesus hörte es und sagte zu ihnen: Nicht die Gesunden brauchen den
+Arzt, sondern die Kranken. Ich bin gekommen, um die Sünder zu rufen,
+nicht die Gerechten. ^{[[#fn13][13]]}\\
+\\
+
+<<v18>>
+**** Die Frage nach dem Fasten: 2,18-22
+     :PROPERTIES:
+     :CUSTOM_ID: die-frage-nach-dem-fasten-218-22
+     :END:
+18 Da die Jünger des Johannes und die Pharisäer zu fasten pflegten,
+kamen Leute zu Jesus und sagten: Warum fasten deine Jünger nicht,
+während die Jünger des Johannes und die Jünger der Pharisäer fasten?
+^{[[#fn14][14]][[#fn15][15]][[#fn16][16]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 45\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v19>>
+19 Jesus antwortete ihnen: Können denn die Hochzeitsgäste fasten,
+solange der Bräutigam bei ihnen ist? Solange der Bräutigam bei ihnen
+ist, können sie nicht fasten.
+
+<<v20>>
+20 Es werden aber Tage kommen, da wird ihnen der Bräutigam genommen
+sein; an jenem Tag werden sie fasten.
+
+<<v21>>
+21 Niemand näht ein Stück neuen Stoff auf ein altes Kleid; denn der neue
+Stoff reißt doch vom alten Kleid ab und es entsteht ein noch größerer
+Riss. ^{[[#fn17][17]]}
+
+<<v22>>
+22 Auch füllt niemand neuen Wein in alte Schläuche. Sonst zerreißt der
+Wein die Schläuche; der Wein ist verloren und die Schläuche sind
+unbrauchbar. Neuer Wein gehört in neue Schläuche.\\
+\\
+
+<<v23>>
+**** Das Abreißen der Ähren am Sabbat: 2,23-28
+     :PROPERTIES:
+     :CUSTOM_ID: das-abreißen-der-ähren-am-sabbat-223-28
+     :END:
+23 An einem Sabbat ging er durch die Kornfelder und unterwegs rissen
+seine Jünger Ähren ab. ^{[[#fn18][18]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 46\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v24>>
+24 Da sagten die Pharisäer zu ihm: Sieh dir an, was sie tun! Das ist
+doch am Sabbat verboten.
+
+<<v25>>
+25 Er antwortete: Habt ihr nie gelesen, was David getan hat, als er und
+seine Begleiter hungrig waren und nichts zu essen hatten -
+^{[[#fn19][19]]}
+
+<<v26>>
+26 wie er zur Zeit des Hohenpriesters Abjatar in das Haus Gottes ging
+und die heiligen Brote aß, die außer den Priestern niemand essen darf,
+und auch seinen Begleitern davon gab? ^{[[#fn20][20]][[#fn21][21]]}
+
+<<v27>>
+27 Und Jesus fügte hinzu: Der Sabbat ist für den Menschen da, nicht der
+Mensch für den Sabbat. ^{[[#fn22][22]]}
+
+<<v28>>
+28 Deshalb ist der Menschensohn Herr auch über den Sabbat.\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-12) Mt 9,1-8; Lk 5,17-26
+
+^{[[#fnm2][2]]} Jesus wohnte vermutlich im Haus des Simon (vgl.
+1,29-31).
+
+^{[[#fnm3][3]]} ℘ ⇨Esyn: Synopse Nr. 43
+
+^{[[#fnm4][4]]} Das Dach einer Wohnhütte bestand aus Holzbalken oder
+Knüppeln, über die Schilf oder Äste gelegt waren. Das Ganze war mit
+festgetretenem Lehm zugedeckt.
+
+^{[[#fnm5][5]]} außer dem einen Gott, andere Übersetzungsmöglichkeit:
+außer Gott allein. - Obige Übersetzung ist durch den Anklang an Dtn 6,4
+nahegelegt. - Vgl. Mk 10,18; Lk 18,19.
+
+^{[[#fnm6][6]]} Wörtlich: Jesus merkte in seinem Geist sofort, dass sie
+so dachten.
+
+^{[[#fnm7][7]]} ℘ (13-17) Mt 9,9-13; Lk 5,27-32 ⇨Esyn: Synopse Nr. 44
+
+^{[[#fnm8][8]]} ℘ Mt 8,22
+
+^{[[#fnm9][9]]} ℘ Lk 7,34; 19,7
+
+^{[[#fnm10][10]]} in seinem Haus: entweder im Haus des Levi (vgl. Lk
+5,29) oder im Haus Jesu (vgl. Mk 2,1).
+
+^{[[#fnm11][11]]} ℘ Mt 11,19; Lk 15,1f
+
+^{[[#fnm12][12]]} Die Pharisäer bildeten eine religiöse Gemeinschaft,
+die es sich zur Aufgabe gemacht hatte, das jüdische religiöse Gesetz zu
+studieren und genau zu beachten. Zu ihnen gehörten Priester und Laien,
+vor allem viele Schriftgelehrte. - Die Schriftgelehrten bildeten einen
+eigenen Stand von Gesetzesgelehrten und religiösen Juristen, die das
+Recht besaßen, öffentlich zu lehren und Schüler um sich zu sammeln. Sie
+hatten neben den Priestern entscheidenden Einfluss auf das jüdische
+Leben. Die Zölle wurden an die Meistbietenden verpachtet. Diese
+wirtschafteten meist auch in die eigene Tasche. Darum galten Zöllner als
+Diebe und Betrüger; die Begriffe »Zöllner« und »Sünder« waren
+austauschbar.
+
+^{[[#fnm13][13]]} ℘ Lk 19,10
+
+^{[[#fnm14][14]]} ℘ (18-22) Mt 9,14-17; Lk 5,33-38
+
+^{[[#fnm15][15]]} Die Juden waren lediglich verpflichtet, am
+Versöhnungstag (vgl. Lev 16) zu fasten. In Notzeiten wurden eigene
+Fasttage ausgerufen. Insbesondere Pharisäer fasteten darüber hinaus,
+stellvertretend für die Sünden anderer, zweimal in der Woche, montags
+und donnerstags. Das Fasten bestand in völliger Enthaltung von Speise
+und Trank zwischen Sonnenaufgang und Sonnenuntergang. Jesus fastete mit
+seinen Jüngern nicht und kritisierte die jüdische Fastenpraxis (vgl. Mt
+6,16-18).
+
+^{[[#fnm16][16]]} ℘ ⇨Esyn: Synopse Nr. 45
+
+^{[[#fnm17][17]]} 21f: Vgl. die Anmerkung zu Mt 9,16f.
+
+^{[[#fnm18][18]]} ℘ Dtn 23,26; (23-28) Mt 12,1-8; Lk 6,1-5 ⇨Esyn:
+Synopse Nr. 46
+
+^{[[#fnm19][19]]} ℘ 1 Sam 21,2-7
+
+^{[[#fnm20][20]]} ℘ Lev 24,5-9
+
+^{[[#fnm21][21]]} Der Hohepriester hieß nach 1 Sam 21,2 in Wirklichkeit
+Ahimelech; nach 1 Sam 22,20 hieß sein Sohn, nach 2 Sam 8,17 sein Vater
+Abjatar.
+
+^{[[#fnm22][22]]} 27f: Jesus greift damit auf den Ursinn des Sabbats
+zurück: Er sollte für Menschen und Tiere eine Wohltat sein (vgl. Ex
+20,9; Dtn 5, 12-14).

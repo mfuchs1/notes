@@ -1,0 +1,8 @@
+#+title:      Mittwoch 24 April 2024 11:15
+#+date:       [2024-04-24 Mi 11:15]
+#+filetags:   :journal:
+#+identifier: 20240424T111553
+
+* Ein kleiner Eintrag
+Darunter der Text.
+

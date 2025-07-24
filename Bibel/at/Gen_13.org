@@ -1,0 +1,104 @@
+#+TITLE: Gen 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 13.html
+
+
+<<verses>>
+
+<<v1>>
+* Abraham und Lot: 13,1-13
+
+1 Von Ägypten zog Abram in den Negeb hinauf, er und seine Frau mit
+allem, was ihm gehörte, und mit ihm auch Lot.
+
+<<v2>>
+2 Abram hatte einen sehr ansehnlichen Besitz an Vieh, Silber und Gold.
+
+<<v3>>
+3 Er wanderte von einem Lagerplatz zum andern weiter, vom Negeb bis nach
+Bet-El, bis zu dem Ort, an dem anfangs sein Zelt gestanden hatte,
+zwischen Bet-El und Ai, [fn:1]
+
+<<v4>>
+4 dem Ort, wo er früher den Altar erbaut hatte. Dort rief Abram den
+Namen des Herrn an.
+
+<<v5>>
+5 Auch Lot, der mit Abram gezogen war, besaß Schafe und Ziegen, Rinder
+und Zelte.
+
+<<v6>>
+6 Das Land war aber zu klein, als dass sich beide nebeneinander hätten
+ansiedeln können; denn ihr Besitz war zu groß und so konnten sie sich
+nicht miteinander niederlassen.
+
+<<v7>>
+7 Zwischen den Hirten Abrams und den Hirten Lots kam es zum Streit; auch
+siedelten damals noch die Kanaaniter und die Perisiter im Land.
+
+<<v8>>
+8 Da sagte Abram zu Lot: Zwischen mir und dir, zwischen meinen und
+deinen Hirten soll es keinen Streit geben; wir sind doch Brüder.
+
+<<v9>>
+9 Liegt nicht das ganze Land vor dir? Trenn dich also von mir! Wenn du
+nach links willst, gehe ich nach rechts; wenn du nach rechts willst,
+gehe ich nach links.
+
+<<v10>>
+10 Lot blickte auf und sah, dass die ganze Jordangegend bewässert war.
+Bevor der Herr Sodom und Gomorra vernichtete, war sie bis Zoar hin wie
+der Garten des Herrn, wie das Land Ägypten.
+
+<<v11>>
+11 Da wählte sich Lot die ganze Jordangegend aus. Lot brach nach Osten
+auf und sie trennten sich voneinander.
+
+<<v12>>
+12 Abram ließ sich in Kanaan nieder, während Lot sich in den Städten
+jener Gegend niederließ und seine Zelte bis Sodom hin aufschlug.
+
+<<v13>>
+13 Die Leute von Sodom aber waren sehr böse und sündigten schwer gegen
+den Herrn.\\
+\\
+
+<<v14>>
+* Gottes Verheißung an Abraham: 13,14-18
+
+14 Nachdem sich Lot von Abram getrennt hatte, sprach der Herr zu Abram:
+Blick auf und schau von der Stelle, an der du stehst, nach Norden und
+Süden, nach Osten und Westen.
+
+<<v15>>
+15 Das ganze Land nämlich, das du siehst, will ich dir und deinen
+Nachkommen für immer geben. [fn:2]
+
+<<v16>>
+16 Ich mache deine Nachkommen zahlreich wie den Staub auf der Erde. Nur
+wer den Staub auf der Erde zählen kann, wird auch deine Nachkommen
+zählen können.
+
+<<v17>>
+17 Mach dich auf, durchzieh das Land in seiner Länge und Breite; denn
+dir werde ich es geben.
+
+<<v18>>
+18 Da zog Abram mit seinen Zelten weiter und ließ sich bei den Eichen
+von Mamre in Hebron nieder. Dort baute er dem Herrn einen Altar.\\
+\\
+
+
+* Footnotes
+
+[fn:1] 12,8 [[file:Gen_12.org::v8][Gen 12,8]]
+
+[fn:2] (15f) 15,7.18-21 [[file:Gen_15.org::v7][Gen 15,7.18-21]]; 17,8 [[file:Gen_17.org::v8][Gen 17,8]]; 26,2-5 [[file:Gen_26.org::v2][Gen 26,2-5]]; 28,1-4.13f [[file:Gen_28.org::v1][Gen 28,1-4.13f]]; 35,12 [[file:Gen_35.org::v12][Gen 35,12]]

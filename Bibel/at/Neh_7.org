@@ -1,0 +1,301 @@
+#+TITLE: Neh 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 23:59]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Neh 7.html
+
+<<verses>>
+
+<<v1>>
+* Ordnungen und Reformen: 7,1 - 13,31
+
+* Die Fertigstellung der Mauer: 7,1-3
+
+1 Als die Mauer gebaut war und ich die Torflügel hatte einsetzen lassen,
+wurden die Torwächter bestellt. [fn:1]
+
+<<v2>>
+2 Zu Befehlshabern über Jerusalem ernannte ich meinen Bruder Hanani und
+den Burghauptmann Hananja; denn dieser war ein zuverlässiger und
+gottesfürchtiger Mann, wie es nicht viele gab.
+
+<<v3>>
+3 Ich sagte zu ihnen: Die Tore Jerusalems dürfen erst geöffnet werden,
+wenn die Sonne heiß scheint; und noch während sie am Himmel steht, soll
+man die Tore schließen und verriegeln. Auch soll man Wachen aus den
+Einwohnern Jerusalems bilden; jeder soll eine bestimmte Zeit des
+Wachdienstes haben, und zwar jeweils vor seinem Haus.\\
+\\
+
+<<v4>>
+* Das Verzeichnis der Laienbevölkerung: 7,4-38
+
+4 Nun war die Stadt weit ausgedehnt und groß; es war aber wenig Volk
+darin und es gab nicht viele Häuser, die wieder aufgebaut waren.
+
+<<v5>>
+5 Da gab mir mein Gott in den Sinn, die Vornehmen, die Beamten und das
+Volk zusammenzurufen, um sie nach Familien in Listen einzutragen. Ich
+fand das Familienverzeichnis derer, die zuerst heimgekehrt waren; darin
+fand ich geschrieben:
+
+<<v6>>
+6 Hier folgt eine Liste der Einwohner der Provinz Juda, der
+Verschleppten, die aus dem Exil heimgekehrt sind. Nebukadnezzar, der
+König von Babel, hatte sie verschleppt; nun kehrten sie nach Jerusalem
+und Juda zurück, jeder in seine Stadt. [fn:2]
+
+<<v7>>
+7 Sie kamen mit Serubbabel, Jeschua, Nehemja, Asarja, Raamja, Nahamani,
+Mordochai, Bilschan, Misperet, Bigwai, Rehum und Baana. Das ist die Zahl
+der Männer des Volkes Israel:
+
+<<v8>>
+8 Nachkommen des Parosch 2172.
+
+<<v9>>
+9 Nachkommen Schefatjas 372.
+
+<<v10>>
+10 Nachkommen Arachs 652.
+
+<<v11>>
+11 Nachkommen Pahat-Moabs, und zwar Nachkommen Jeschuas und Joabs, 2818.
+
+<<v12>>
+12 Nachkommen Elams 1254.
+
+<<v13>>
+13 Nachkommen Sattus 845.
+
+<<v14>>
+14 Nachkommen Sakkais 760.
+
+<<v15>>
+15 Nachkommen Binnuis 648.
+
+<<v16>>
+16 Nachkommen Bebais 628.
+
+<<v17>>
+17 Nachkommen Asgads 2322.
+
+<<v18>>
+18 Nachkommen Adonikams 667.
+
+<<v19>>
+19 Nachkommen Bigwais 2067.
+
+<<v20>>
+20 Nachkommen Adins 655.
+
+<<v21>>
+21 Nachkommen Aters der Linie Hiskija 98.
+
+<<v22>>
+22 Nachkommen Haschums 328.
+
+<<v23>>
+23 Nachkommen Bezais 324.
+
+<<v24>>
+24 Nachkommen Harifs 112.
+
+<<v25>>
+25 Nachkommen Gibeons 95.
+
+<<v26>>
+26 Männer von Betlehem und Netofa 188.
+
+<<v27>>
+27 Männer von Anatot 128.
+
+<<v28>>
+28 Männer von Bet-Asmawet 42.
+
+<<v29>>
+29 Männer von Kirjat-Jearim, Kefira und Beerot 743.
+
+<<v30>>
+30 Männer von Rama und Geba 621.
+
+<<v31>>
+31 Männer von Michmas 122.
+
+<<v32>>
+32 Männer von Bet-El und Ai 123.
+
+<<v33>>
+33 Männer von dem andern Nebo 52.
+
+<<v34>>
+34 Nachkommen des andern Elam 1254.
+
+<<v35>>
+35 Nachkommen Harims 320.
+
+<<v36>>
+36 Männer von Jericho 345.
+
+<<v37>>
+37 Männer von Lod, Hadid und Ono 721.
+
+<<v38>>
+38 Nachkommen Senaas 3930.\\
+\\
+
+<<v39>>
+* Das Verzeichnis der Priester und Leviten: 7,39-65
+
+39 Von den Priestern: Nachkommen Jedajas vom Haus Jeschua 973. [fn:3]
+
+<<v40>>
+40 Nachkommen Immers 1052.
+
+<<v41>>
+41 Nachkommen Paschhurs 1247.
+
+<<v42>>
+42 Nachkommen Harims 1017.
+
+<<v43>>
+43 Von den Leviten: Nachkommen Jeschuas, nämlich Kadmiël, Binnui und
+Hodawja, 74.
+
+<<v44>>
+44 Von den Sängern: Nachkommen Asafs 148.
+
+<<v45>>
+45 Von den Torwächtern: Nachkommen Schallums, Nachkommen Aters,
+Nachkommen Talmons, Nachkommen Akkubs, Nachkommen Hatitas, Nachkommen
+Schobais, zusammen 138.
+
+<<v46>>
+46 Von den Tempeldienern: Nachkommen Zihas, Nachkommen Hasufas,
+Nachkommen Tabbaots,
+
+<<v47>>
+47 Nachkommen Keros', Nachkommen Sias, Nachkommen Padons,
+
+<<v48>>
+48 Nachkommen Lebanas, Nachkommen Hagabas, Nachkommen Salmais,
+
+<<v49>>
+49 Nachkommen Hanans, Nachkommen Giddels, Nachkommen Gahars,
+
+<<v50>>
+50 Nachkommen Reajas, Nachkommen Rezins, Nachkommen Nekodas,
+
+<<v51>>
+51 Nachkommen Gasams, Nachkommen Usas, Nachkommen Paseachs,
+
+<<v52>>
+52 Nachkommen Besais, Nachkommen der Mëuniter, Nachkommen der Nefusiter,
+
+<<v53>>
+53 Nachkommen Bakbuks, Nachkommen Hakufas, Nachkommen Harhurs,
+
+<<v54>>
+54 Nachkommen Bazluts, Nachkommen Mehidas, Nachkommen Harschas,
+
+<<v55>>
+55 Nachkommen Barkos', Nachkommen Siseras, Nachkommen Temachs,
+
+<<v56>>
+56 Nachkommen Neziachs und Nachkommen Hatifas.
+
+<<v57>>
+57 Von den Nachkommen der Knechte Salomos: Nachkommen Sotais, Nachkommen
+Soferets, Nachkommen Perudas,
+
+<<v58>>
+58 Nachkommen Jaalas, Nachkommen Darkons, Nachkommen Giddels,
+
+<<v59>>
+59 Nachkommen Schefatjas, Nachkommen Hattils, Nachkommen
+Pocheret-Zebajims und Nachkommen Amons.
+
+<<v60>>
+60 Zusammen waren es 392 Tempeldiener und Nachkommen der Knechte
+Salomos.
+
+<<v61>>
+61 Die Folgenden sind aus Tel-Melach, Tel-Harscha, Kerub-Addon und Immer
+gekommen, konnten aber nicht angeben, ob sie nach Großfamilie und
+Abkunft überhaupt aus Israel stammten:
+
+<<v62>>
+62 Nachkommen Delajas, Nachkommen Tobijas und Nachkommen Nekodas,
+insgesamt 642;
+
+<<v63>>
+63 dazu bei den Priestern die Nachkommen Habajas, die Nachkommen des Koz
+und die Nachkommen Barsillais; dieser hatte eine von den Töchtern
+Barsillais aus Gilead geheiratet und dessen Namen angenommen.
+
+<<v64>>
+64 Die Genannten suchten ihre Eintragung im Geschlechterverzeichnis;
+aber man fand sie nicht; deshalb wurden sie aus dem Priesterstand
+ausgeschlossen;
+
+<<v65>>
+65 der Statthalter untersagte ihnen, vom Hochheiligen zu essen, bis der
+Priester mit den Urim und Tummim auftrete. [fn:4]\\
+\\
+
+<<v66>>
+* Die Volkszählung: 7,66-72
+
+66 Die ganze Volksgemeinde zählte insgesamt 42360 Personen. [fn:5]
+
+<<v67>>
+67 Dabei waren ihre Knechte und Mägde nicht mitgerechnet; es waren 7337
+Personen. Dazu kamen 245 Sänger und Sängerinnen; und sie hatten 736
+Pferde und 245 Maultiere [fn:6]
+
+<<v68>>
+68 sowie 435 Kamele und 6720 Esel.
+
+<<v69>>
+69 Einige von den Familienoberhäuptern brachten Spenden für das Werk.
+Der Statthalter spendete für den Bauschatz 1000 Golddariken, 50 Schalen,
+30 Priesterkleider und 500 (Minen Silber).
+
+<<v70>>
+70 Von den Familienoberhäuptern spendeten einige für den Bauschatz 20000
+Golddariken und 2200 Minen Silber.
+
+<<v71>>
+71 Was das übrige Volk spendete, betrug 20000 Golddariken, 2000 Minen
+Silber und 67 Priesterkleider.
+
+<<v72>>
+72 Die Priester, Leviten, Torwächter und Sänger, auch ein Teil des
+Volkes und die Tempeldiener, ließen sich in ihren Städten nieder, und
+ebenso alle übrigen Israeliten in ihren Städten. Als der siebte Monat
+herankam, waren die Israeliten bereits in ihren Städten. [fn:7]\\
+\\
+
+* Footnotes
+
+[fn:1] H fügt nach den Torwächtern noch «und die Sänger und
+Leviten» an, ein unpassender späterer Zusatz.
+
+[fn:2] (6-38) [[file:Esra_2.org::v1][Esra 2,1]]-[[file:Esra_2.org::v35][35]]
+
+[fn:3] (39-65) [[file:Esra_2.org::v36][Esra 2,36]]-[[file:Esra_2.org::v63][63]]
+
+[fn:4] [[file:Lev_6.org::v9][Lev 6,9]]-[[file:Lev_6.org::v11][11]]; [[file:Ex_28.org::v30][Ex 28,30]]
+
+[fn:5] (66-72) [[file:Esra_2.org::v64][Esra 2,64]]-[[file:Esra_2.org::v70][70]]
+
+[fn:6] Die Angaben über Pferde und Maultiere sind nach Esra
+2,66 ergänzt.
+
+[fn:7] in ihren Städten: ergänzt aus [[file:Esra_2.org::v70][Esra 2,70]].

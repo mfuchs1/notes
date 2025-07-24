@@ -1,0 +1,50 @@
+#+TITLE: Ijob 26 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 18:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 26.html
+
+<<verses>>
+
+<<v1>>
+* Die dritte Rede Bildads 25,1-6
+
+* Die Sündhaftigkeit aller Menschen: 25,1-6
+
+1 Da antwortete Bildad von Schuach und sprach:\\
+\\
+
+<<v2>>
+2 Herrschaft und Schrecken sind bei ihm, /\\
+ der Frieden schafft in seinen Höhen.\\
+\\
+
+<<v3>>
+3 Kann man seine Scharen zählen /\\
+ und über wem erhebt sich nicht sein Licht?\\
+\\
+
+<<v4>>
+4 Wie wäre ein Mensch gerecht vor Gott, /\\
+ wie wäre rein der vom Weib Geborene? [fn:1]\\
+\\
+
+<<v5>>
+5 Siehe, selbst der Mond glänzt nicht hell, /\\
+ die Sterne sind nicht rein in seinen Augen,\\
+\\
+
+<<v6>>
+6 geschweige denn der Mensch, die Made, /\\
+ der Menschensohn, der Wurm.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ijob_4.org::v17][4,17]]; [[file:Ijob_15.org::v14][15,14]]

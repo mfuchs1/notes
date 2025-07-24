@@ -1,0 +1,169 @@
+:PROPERTIES:
+:ID:       a2712bbd-51d1-490d-b557-dbbd1afbe10d
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_30.html][30]]
+[[file:Sir_31.html][31]] *32* [[file:Sir_33.html][33]]
+[[file:Sir_34.html][34]] ... [[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 32
+  :PROPERTIES:
+  :CUSTOM_ID: sir-32
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Wenn du das Gastmahl leitest, überheb dich nicht, /\\
+ sei unter den Gästen wie einer von ihnen! Sorg erst für sie, dann setz
+dich selbst, /\\
+ trag erst auf, was sie brauchen, dann lass dich nieder,
+^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 damit du dich über sie freuen kannst /\\
+ und für dein gutes Benehmen Beifall findest.
+^{[[#fn2][2]][[#fn3][3]]}\\
+\\
+
+<<v3>>
+3 Ergreife das Wort, alter Mann, denn dir steht es an. /\\
+ Doch schränke die Belehrung ein /\\
+ und halte den Gesang nicht auf! ^{[[#fn4][4]]}\\
+\\
+
+<<v4>>
+4 Wo man singt, schenk nicht kluge Reden aus! /\\
+ Was willst du zur Unzeit den Weisen spielen?\\
+\\
+
+<<v5>>
+5 Ein Rubin an goldenem Geschmeide, /\\
+ das ist ein schönes Lied beim Weingelage. ^{[[#fn5][5]]}\\
+\\
+
+<<v6>>
+6 Ein Smaragdsiegel in goldener Fassung, /\\
+ das ist ein Gesang bei köstlichem Wein.\\
+\\
+
+<<v7>>
+7 Als Jüngerer ergreife das Wort nur, wenn du musst, /\\
+ wenn man dich nachdrücklich zwei- oder dreimal auffordert.\\
+\\
+
+<<v8>>
+8 Dräng die Worte zusammen, fasse dich kurz, /\\
+ sei wie einer, der etwas weiß, aber auch schweigen kann.\\
+\\
+
+<<v9>>
+9 Im Kreis der Vornehmen überheb dich nicht, /\\
+ behellige Ältere nicht durch viele Fragen!\\
+\\
+
+<<v10>>
+10 Vor dem Hagel leuchtet der Blitz, /\\
+ vor dem Bescheidenen leuchtet die Gunst.\\
+\\
+
+<<v11>>
+11 Wenn es Zeit ist, bleib nicht länger, /\\
+ geh nach Haus und sei nicht ausgelassen;\\
+\\
+
+<<v12>>
+12 dort sei lustig und überlass dich deiner Stimmung, /\\
+ in Gottesfurcht, nicht in Unverstand. ^{[[#fn6][6]]}\\
+\\
+
+<<v13>>
+13 Und für all das preise deinen Schöpfer, /\\
+ der dich mit seinen Gaben erfreut hat.\\
+\\
+
+<<v14>>
+**** Der Weise und das Gesetz Gottes: 32,14 - 33,6
+     :PROPERTIES:
+     :CUSTOM_ID: der-weise-und-das-gesetz-gottes-3214---336
+     :END:
+14 Wer Gott sucht, nimmt Belehrung an, /\\
+ wer sich ihm zuwendet, erhält Antwort.\\
+\\
+
+<<v15>>
+15 Wer im Gesetz forscht, entdeckt seinen Wert, /\\
+ wer aber heuchelt, verfängt sich darin.\\
+\\
+
+<<v16>>
+16 Wer den Herrn fürchtet, weiß, was recht ist, /\\
+ aus dem Dunkel lässt er sicheren Rat aufleuchten. ^{[[#fn7][7]]}\\
+\\
+
+<<v17>>
+17 Der Ruchlose lehnt Zurechtweisung ab, /\\
+ er verdreht das Gesetz, wie er es braucht.\\
+\\
+
+<<v18>>
+18 Der Weise verbirgt die Einsicht nicht, /\\
+ der Überhebliche und der Zuchtlose lehnen Belehrung ab.\\
+\\
+
+<<v19>>
+19 Tu nichts ohne Rat und Überlegung, /\\
+ dann hast du dir nach der Tat nichts vorzuwerfen.\\
+\\
+
+<<v20>>
+20 Geh nicht auf einem Weg voller Fallstricke, /\\
+ dann werden deine Füße nicht anstoßen und straucheln.\\
+\\
+
+<<v21>>
+21 Fühle dich unterwegs nie sicher vor Räubern /\\
+\\
+
+<<v22>>
+22 und sei vorsichtig auf deinen Pfaden!\\
+\\
+
+<<v23>>
+23 Bei all deinem Tun achte auf dich selbst; /\\
+ denn wer dies tut, beachtet das Gebot. ^{[[#fn8][8]]}\\
+\\
+
+<<v24>>
+24 Wer das Gesetz hält, achtet auf sich selbst; /\\
+ wer auf den Herrn vertraut, wird nicht zuschanden.
+^{[[#fn9][9]][[#fn10][10]]}\\
+\\
+
+^{[[#fnm1][1]]} Kap. 32 In G als Kap. 35 gezählt.
+
+^{[[#fnm2][2]]} ℘ Spr 3,4
+
+^{[[#fnm3][3]]} Vorwiegend nach G; H verderbt.
+
+^{[[#fnm4][4]]} 3-9: Offenbar pflegte man bei Gastmählern Tischreden zu
+halten. Sie sollen kurz sein und die Geselligkeit nicht stören.
+
+^{[[#fnm5][5]]} ℘ 49,1
+
+^{[[#fnm6][6]]} 12b: G: und sündige nicht durch übermütige Rede! Die VV.
+11 und 12 sind unsicher überliefert.
+
+^{[[#fnm7][7]]} ℘ Spr 28,5
+
+^{[[#fnm8][8]]} ℘ Spr 16,17
+
+^{[[#fnm9][9]]} ℘ Spr 19,16; Ps 22,6
+
+^{[[#fnm10][10]]} 24a: Andere Übersetzungsmöglichkeit: Wer das Gesetz
+hält, behütet sein Leben.

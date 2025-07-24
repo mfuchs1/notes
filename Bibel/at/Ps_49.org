@@ -1,0 +1,157 @@
+#+TITLE: Ps 49 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-04 Do 20:57]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 49.html
+
+* Ps 49
+
+<<verses>>
+
+<<v1>>
+* Die Vergänglichkeit des Menschen
+
+1 [Für den Chormeister. Ein Psalm der Korachiter.]\\
+\\
+
+<<v2>>
+2 Hört dies an, ihr Völker alle, /\\
+ vernehmt es, alle Bewohner der Erde, [fn:1]\\
+\\
+
+<<v3>>
+3 ihr Leute aus dem Volk und vom Adel, /\\
+ Reiche und Arme zusammen!\\
+\\
+
+<<v4>>
+4 Mein Mund spreche weise Worte; /\\
+ was mein Herz ersinnt, sei voller Einsicht.\\
+\\
+
+<<v5>>
+5 Ich wende mein Ohr einem Weisheitsspruch zu, /\\
+ ich enthülle mein Geheimnis beim Harfenspiel. [fn:2]\\
+\\
+
+<<v6>>
+6 Warum soll ich mich in bösen Tagen fürchten, /\\
+ wenn mich der Frevel tückischer Feinde umgibt?\\
+\\
+
+<<v7>>
+7 Sie verlassen sich ganz auf ihren Besitz /\\
+ und rühmen sich ihres großen Reichtums. [fn:3]\\
+\\
+
+<<v8>>
+8 Loskaufen kann doch keiner den andern /\\
+ noch an Gott für ihn ein Sühnegeld zahlen [fn:4]\\
+\\
+
+<<v9>>
+9 - für das Leben ist jeder Kaufpreis zu hoch, /\\
+ für immer muss man davon abstehn -,\\
+\\
+
+<<v10>>
+10 damit er auf ewig weiterlebt /\\
+ und niemals das Grab schaut.\\
+\\
+
+<<v11>>
+11 Denn man sieht: Weise sterben; /\\
+ genauso gehen Tor und Narr zugrunde, /\\
+ sie müssen andern ihren Reichtum lassen. [fn:5]\\
+\\
+
+<<v12>>
+12 Das Grab ist ihr Haus auf ewig, /\\
+ ist ihre Wohnung für immer, /\\
+ ob sie auch Länder nach ihren Namen benannten. [fn:6] [fn:7]\\
+\\
+
+<<v13>>
+13 Der Mensch bleibt nicht in seiner Pracht; /\\
+ er gleicht dem Vieh, das verstummt. [fn:8]\\
+\\
+
+<<v14>>
+14 So geht es denen, die auf sich selbst vertrauen, /\\
+ und so ist das Ende derer, die sich in großen Worten gefallen. [Sela]\\
+\\
+
+<<v15>>
+15 Der Tod führt sie auf seine Weide wie Schafe, /\\
+ sie stürzen hinab zur Unterwelt. Geradewegs sinken sie hinab in das
+Grab; /\\
+ ihre Gestalt zerfällt, die Unterwelt wird ihre Wohnstatt. [fn:9] [fn:10]\\
+\\
+
+<<v16>>
+16 Doch Gott wird mich loskaufen aus dem Reich des Todes, /\\
+ ja, er nimmt mich auf. [Sela] [fn:11]\\
+\\
+
+<<v17>>
+17 Lass dich nicht beirren, wenn einer reich wird /\\
+ und die Pracht seines Hauses sich mehrt; [fn:12]\\
+\\
+
+<<v18>>
+18 denn im Tod nimmt er das alles nicht mit, /\\
+ seine Pracht steigt nicht mit ihm hinab. [fn:13]\\
+\\
+
+<<v19>>
+19 Preist er sich im Leben auch glücklich /\\
+ und sagt zu sich: /\\
+ «Man lobt dich, weil du dir's wohl sein lässt»,\\
+\\
+
+<<v20>>
+20 so muss er doch zur Schar seiner Väter hinab, /\\
+ die das Licht nie mehr erblicken. [fn:14]\\
+\\
+
+<<v21>>
+21 Der Mensch in Pracht, doch ohne Einsicht, /\\
+ er gleicht dem Vieh, das verstummt.\\
+\\
+
+* Footnotes
+
+[fn:1] (2-3) [[file:Spr_8.org::v4][Spr 8,4]]
+
+[fn:2] [[file:Ps_78.org::v2][78,2]]
+
+[fn:3] [[file:Ps_52.org::v9][52,9]]; [[file:Ijob_31.org::v24][Ijob 31,24f]]; [[file:Jer_9.org::v22][Jer 9,22]]
+
+[fn:4] (8-9) [[file:Spr_11.org::v4][Spr 11,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_16.org::v26][Mt 16,26]]
+
+[fn:5] [[file:Koh_2.org::v16][Koh 2,16]]; [[v18][Ps 49,18]]
+
+[fn:6] [[file:Koh_12.org::v5][Koh 12,5]]
+
+[fn:7] Das Grab: Text korr. nach G, S und der aramäischen
+Übersetzung; H: Ihr Inneres.
+
+[fn:8] [[file:Koh_3.org::v19][Koh 3,19]]
+
+[fn:9] [[file:Ps_55.org::v16][55,16]]
+
+[fn:10] H ist stark verderbt.
+
+[fn:11] [[file:Ps_9.org::v14][9,14]]; [[file:Ps_16.org::v10][16,10]]; [[file:Ps_73.org::v24][73,24]]; [[file:Hos_13.org::v14][Hos 13,14]]; [[file:Gen_5.org::v24][Gen 5,24]]
+
+[fn:12] (17-18) [[file:Sir_11.org::v18][Sir 11,18f]]
+
+[fn:13] [[v11][49,11]]; [[file:Ps_39.org::v7][39,7]]; [[file:Koh_2.org::v18][Koh 2,18]].[[file:Koh_2.org::v21][21f]]; [[file:Koh_5.org::v14][5,14]]; [[file:Koh_6.org::v2][6,2]]; [[file:Sir_11.org::v18][Sir 11,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_12.org::v20][Lk 12,20]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Tim_6.org::v7][1 Tim 6,7]]
+
+[fn:14] [[file:Ijob_10.org::v21][Ijob 10,21f]]

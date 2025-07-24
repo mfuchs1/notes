@@ -1,0 +1,187 @@
+#+TITLE: Num 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-15 So 14:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 10.html
+
+<<verses>>
+
+<<v1>>
+* Die Trompetensignale für die Gemeinde: 10,1-10
+
+1 Der Herr sprach zu Mose:
+
+<<v2>>
+2 Mach dir zwei silberne Trompeten! Aus getriebenem Metall sollst du sie
+machen. Sie sollen dir dazu dienen, die Gemeinde einzuberufen und den
+einzelnen Lagern das Zeichen zum Aufbruch zu geben.
+
+<<v3>>
+3 Wenn man mit den Trompeten bläst, soll sich die ganze Gemeinde am
+Eingang des Offenbarungszeltes bei dir versammeln.
+
+<<v4>>
+4 Wenn man nur einmal bläst, sollen sich die Befehlshaber, die
+Hauptleute der Tausendschaften Israels, bei dir versammeln.
+
+<<v5>>
+5 Wenn ihr aber mit großem Lärm blast, dann sollen die Lager auf der
+Ostseite aufbrechen.
+
+<<v6>>
+6 Wenn ihr zum zweiten Mal mit großem Lärm blast, dann sollen die Lager
+auf der Südseite aufbrechen. Je nachdem, wie sie aufzubrechen haben,
+soll man mit großem Lärm blasen.
+
+<<v7>>
+7 Wenn die Versammlung einberufen werden soll, dann blast, aber nicht
+mit großem Lärm!
+
+<<v8>>
+8 Die Söhne Aarons, die Priester, sollen die Trompeten blasen. Das soll
+als feste Regel bei euch gelten, von Generation zu Generation.
+
+<<v9>>
+9 Wenn ihr in eurem Land in einen Krieg mit einem Gegner verwickelt
+werdet, der euch bedrängt, dann blast mit euren Trompeten Alarm! So
+werdet ihr euch beim Herrn, eurem Gott, in Erinnerung bringen und vor
+euren Feinden gerettet werden.
+
+<<v10>>
+10 Auch an euren Freudentagen, an den Festen und Monatsanfängen, blast
+zu euren Brand- und Heilsopfern mit den Trompeten! Das wird euch bei
+eurem Gott in Erinnerung bringen. Ich bin der Herr, euer Gott.\\
+\\
+
+<<v11>>
+* Vom Sinai zum Jordan: 10,11 - 36,13
+
+* Der Aufbruch vom Sinai: 10,11-36
+
+11 Am zwanzigsten Tag des zweiten Monats im zweiten Jahr erhob sich die
+Wolke über der Wohnstätte der Bundesurkunde.
+
+<<v12>>
+12 Da brachen die Israeliten von der Wüste Sinai auf, wie es die Ordnung
+für den Aufbruch vorsah, und die Wolke ließ sich in der Wüste Paran
+nieder.
+
+<<v13>>
+13 So brachen sie zum ersten Mal auf, wie ihnen der Herr durch Mose
+befohlen hatte. [fn:1]
+
+<<v14>>
+14 Als Erstes brach das Feldzeichen des Lagers Juda auf, nach
+Abteilungen geordnet. Judas Heer befehligte Nachschon, der Sohn
+Amminadabs.
+
+<<v15>>
+15 Das Heer des Stammes der Issachariter befehligte Netanel, der Sohn
+Zuars.
+
+<<v16>>
+16 Das Heer des Stammes der Sebuloniter befehligte Eliab, der Sohn
+Helons.
+
+<<v17>>
+17 Nach dem Abbau der Wohnstätte brachen die Gerschoniter und die
+Merariter auf, die die Wohnstätte trugen.
+
+<<v18>>
+18 Dann brach das Feldzeichen des Lagers der Rubeniter auf, nach
+Abteilungen geordnet. Rubens Heer befehligte Elizur, der Sohn Schedëurs.
+
+<<v19>>
+19 Das Heer des Stammes der Simeoniter befehligte Schelumiël, der Sohn
+Zurischaddais.
+
+<<v20>>
+20 Das Heer des Stammes der Gaditer befehligte Eljasaf, der Sohn
+Reguëls.
+
+<<v21>>
+21 Dann brachen die Kehatiter auf, die das Heiligtum trugen. Die
+Wohnstätte stellte man auf, bevor sie ankamen.
+
+<<v22>>
+22 Dann brach das Feldzeichen des Lagers der Efraimiter auf, nach
+Abteilungen geordnet. Efraims Heer befehligte Elischama, der Sohn
+Ammihuds.
+
+<<v23>>
+23 Das Heer des Stammes der Manassiter befehligte Gamliël, der Sohn
+Pedazurs.
+
+<<v24>>
+24 Das Heer des Stammes der Benjaminiter befehligte Abidan, der Sohn
+Gidonis.
+
+<<v25>>
+25 Dann brach das Feldzeichen des Lagers der Daniter auf; sie bildeten
+die Nachhut aller nach Abteilungen geordneten Lager. Das Heer Dans
+befehligte Ahiëser, der Sohn Ammischaddais.
+
+<<v26>>
+26 Das Heer des Stammes der Ascheriter befehligte Pagiël, der Sohn
+Ochrans.
+
+<<v27>>
+27 Das Heer des Stammes der Naftaliter befehligte Ahira, der Sohn Enans.
+
+<<v28>>
+28 Das war die Ordnung für den Aufbruch der Israeliten, geordnet nach
+Abteilungen. So brachen sie auf.
+
+<<v29>>
+29 Mose sagte zu Hobab, dem Sohn des Midianiters Reguël, seines
+Schwiegervaters: Wir brechen auf zu dem Ort, von dem der Herr gesagt
+hat: Ihn gebe ich euch. Geh mit uns! Wir werden dir Gutes tun; denn der
+Herr hat zugesagt, Israel Gutes zu tun.
+
+<<v30>>
+30 Hobab erwiderte ihm: Ich gehe nicht mit, sondern ich gehe in mein
+Land und zu meiner Verwandtschaft zurück.
+
+<<v31>>
+31 Da sagte Mose: Verlass uns doch nicht! Denn du kennst die Orte in der
+Wüste, an denen wir unser Lager aufschlagen können; du kannst unser Auge
+sein.
+
+<<v32>>
+32 Wenn du also mitgehst, dann werden wir all das Gute, das der Herr uns
+schenkt, mit dir teilen.
+
+<<v33>>
+33 Sie brachen vom Berg des Herrn auf und zogen drei Tagesmärsche weit.
+Die Bundeslade des Herrn zog drei Tage lang vor ihnen her, um einen
+Rastplatz für sie zu erkunden.
+
+<<v34>>
+34 Die Wolke des Herrn war bei Tag über ihnen, wenn sie vom Lager
+aufbrachen.\\
+\\
+
+<<v35>>
+35 Wenn die Lade aufbrach, sagte Mose: Steh auf, Herr, dann zerstreuen
+sich deine Feinde, /\\
+ dann fliehen deine Gegner vor dir. [fn:2]\\
+\\
+
+<<v36>>
+36 Und wenn man Halt machte, sagte er: Lass dich nieder, Herr, /\\
+ bei den zehntausendmal Tausenden Israels! [fn:3]\\
+\\
+
+* Footnotes
+
+[fn:1] (13-28) 2,1-32 [[file:Num_2.org::v1][Num 2,1-32]]
+
+[fn:2] Ps 68,2 [[file:Ps_68.org::v2][Ps 68,2]]
+
+[fn:3] Der Sinn von H ist unklar.

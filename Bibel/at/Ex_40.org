@@ -1,0 +1,165 @@
+#+TITLE: Ex 40 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 08:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 40.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Weihe des Heiligtums: 40,1-38
+1 Der Herr sprach zu Mose:
+
+<<v2>>
+2 Am ersten Tag des ersten Monats sollst du die Wohnstätte des
+Offenbarungszeltes aufstellen.
+
+<<v3>>
+3 Stell die Lade der Bundesurkunde hinein und verdeck die Lade durch den
+Vorhang!
+
+<<v4>>
+4 Bring den Tisch hinein und leg seine Ausrüstung zurecht; stell den
+Leuchter auf und setz seine Lampen auf!
+
+<<v5>>
+5 Stell den goldenen Räucheraltar vor die Lade der Bundesurkunde und
+häng den Vorhang vor den Eingang der Wohnstätte!
+
+<<v6>>
+6 Errichte den Brandopferaltar vor dem Eingang der Wohnstätte, des
+Offenbarungszeltes!
+
+<<v7>>
+7 Das Becken stell zwischen das Offenbarungszelt und den Altar und gieß
+Wasser hinein!
+
+<<v8>>
+8 Errichte den Vorhof ringsum und häng den Vorhang an das Tor des
+Vorhofs!
+
+<<v9>>
+9 Nimm das Salböl und salbe die Wohnstätte und alles, was in ihr ist.
+Weihe sie mit allen ihren Geräten! So wird sie heilig sein.
+
+<<v10>>
+10 Salbe auch den Brandopferaltar mit all seinen Geräten und weihe den
+Altar! So wird der Altar hochheilig sein.
+
+<<v11>>
+11 Salbe das Becken mit seinem Gestell und weihe es!
+
+<<v12>>
+12 Dann lass Aaron und seine Söhne zum Eingang des Offenbarungszeltes
+herantreten und wasche sie mit Wasser!
+
+<<v13>>
+13 Bekleide Aaron mit den heiligen Gewändern, salbe und weihe ihn, damit
+er mir als Priester dient.
+
+<<v14>>
+14 Dann lass seine Söhne herantreten und bekleide sie mit Leibröcken;
+
+<<v15>>
+15 salbe sie, wie du ihren Vater gesalbt hast, damit sie mir als
+Priester dienen. Ihre Salbung soll ihnen ein immer währendes Priestertum
+sichern von Generation zu Generation.
+
+<<v16>>
+16 Mose tat es. Er machte alles, wie es der Herr ihm befohlen hatte.
+
+<<v17>>
+17 Im zweiten Jahr, am ersten Tag des ersten Monats, stellte man die
+Wohnstätte auf.
+
+<<v18>>
+18 Mose stellte die Wohnstätte auf, legte ihre Sockel hin, setzte ihre
+Bretter darauf, brachte ihre Querlatten an und stellte ihre Säulen auf.
+
+<<v19>>
+19 Dann spannte er das Zelt über die Wohnstätte und legte die Decke des
+Zeltes darüber, wie es der Herr dem Mose befohlen hatte.
+
+<<v20>>
+20 Dann nahm er die Bundesurkunde, legte sie in die Lade, brachte die
+Stangen an der Lade an und setzte die Deckplatte oben auf die Lade.
+
+<<v21>>
+21 Er brachte die Lade in die Wohnstätte, spannte die Vorhangdecke auf
+und verdeckte so die Lade der Bundesurkunde, wie es der Herr dem Mose
+befohlen hatte.
+
+<<v22>>
+22 Er stellte den Tisch in das Offenbarungszelt, an die Nordseite der
+Wohnstätte, vor den Vorhang.
+
+<<v23>>
+23 Darauf schichtete er die Brote vor dem Herrn auf, wie es der Herr dem
+Mose befohlen hatte.
+
+<<v24>>
+24 Er stellte den Leuchter in das Offenbarungszelt, dem Tisch gegenüber,
+an die Südseite der Wohnstätte.
+
+<<v25>>
+25 Er setzte die Lampen vor dem Herrn auf, wie es der Herr dem Mose
+befohlen hatte.
+
+<<v26>>
+26 Dann stellte er den goldenen Altar in das Offenbarungszelt vor den
+Vorhang.
+
+<<v27>>
+27 Er ließ auf ihm duftendes Räucherwerk verbrennen, wie es der Herr dem
+Mose befohlen hatte.
+
+<<v28>>
+28 Dann hängte er den Vorhang an den Eingang der Wohnstätte.
+
+<<v29>>
+29 Den Brandopferaltar stellte er an den Eingang der Wohnstätte, des
+Offenbarungszeltes, und brachte auf ihm das Brand- und Speiseopfer dar,
+wie es der Herr dem Mose befohlen hatte.
+
+<<v30>>
+30 Er stellte das Becken zwischen das Offenbarungszelt und den Altar und
+goss Wasser zum Waschen hinein.
+
+<<v31>>
+31 Darin wuschen Mose, Aaron und seine Söhne ihre Hände und Füße.
+
+<<v32>>
+32 Wenn sie in das Offenbarungszelt eintraten oder sich dem Altar
+näherten, wuschen sie sich, wie es der Herr dem Mose befohlen hatte.
+
+<<v33>>
+33 Er errichtete den Vorhof um die Wohnstätte und den Altar und ließ den
+Vorhang am Tor des Vorhofs aufhängen. So vollendete Mose das Werk.
+
+<<v34>>
+34 Dann verhüllte die Wolke das Offenbarungszelt und die Herrlichkeit
+des Herrn erfüllte die Wohnstätte.
+
+<<v35>>
+35 Mose konnte das Offenbarungszelt nicht betreten, denn die Wolke lag
+darauf, und die Herrlichkeit des Herrn erfüllte die Wohnstätte.
+
+<<v36>>
+36 Immer, wenn die Wolke sich von der Wohnstätte erhob, brachen die
+Israeliten auf, solange ihre Wanderung dauerte.
+
+<<v37>>
+37 Wenn sich aber die Wolke nicht erhob, brachen sie nicht auf, bis zu
+dem Tag, an dem sie sich erhob.
+
+<<v38>>
+38 Bei Tag schwebte über der Wohnstätte die Wolke des Herrn, bei Nacht
+aber war an ihr Feuer vor den Augen des ganzen Hauses Israel, solange
+ihre Wanderung dauerte.

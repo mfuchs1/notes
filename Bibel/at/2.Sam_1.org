@@ -1,0 +1,173 @@
+#+TITLE: 2 Sam 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-07 Di 23:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 1.html
+
+
+<<verses>>
+
+<<v1>>
+* König David: 1,1 - 9,13
+
+* Sauls Tod und Davids Klage: 1,1-27
+
+1 Als David nach dem Tod Sauls von seinem Sieg über die Amalekiter
+zurückgekehrt war und sich zwei Tage lang in Ziklag aufgehalten hatte,
+
+<<v2>>
+2 kam am dritten Tag ein Mann aus dem Lager Sauls, mit zerrissenen
+Kleidern und Staub auf dem Haupt. Als er bei David angelangt war, warf
+er sich (vor ihm) auf den Boden nieder und huldigte ihm.
+
+<<v3>>
+3 David fragte ihn: Woher kommst du? Er antwortete ihm: Ich habe mich
+aus dem Lager Israels gerettet.
+
+<<v4>>
+4 David sagte zu ihm: Wie stehen die Dinge? Berichte mir! Er erwiderte:
+Das Volk ist aus dem Kampf geflohen, viele von den Männern sind gefallen
+und umgekommen; auch Saul und sein Sohn Jonatan sind tot. [fn:1]
+
+<<v5>>
+5 David fragte den jungen Mann, der ihm die Nachricht brachte: Woher
+weißt du, dass Saul und sein Sohn Jonatan tot sind?
+
+<<v6>>
+6 Der junge Mann, der ihm die Nachricht brachte, sagte: Ich kam zufällig
+auf das Gebirge von Gilboa; da sah ich, wie sich Saul auf seinen Speer
+stützte und Kriegswagen und Reiter auf ihn eindrangen.
+
+<<v7>>
+7 Er wandte sich um, und als er mich sah, rief er mich. Ich antwortete:
+Hier bin ich.
+
+<<v8>>
+8 Er fragte mich: Wer bist du? Ich gab ihm zur Antwort: Ich bin ein
+Amalekiter.
+
+<<v9>>
+9 Da sagte er zu mir: Komm her zu mir und töte mich! Denn mich hat ein
+Schwächeanfall erfasst, aber noch ist alles Leben in mir.
+
+<<v10>>
+10 Ich ging also zu ihm hin und tötete ihn; denn ich wusste, dass er
+seine Niederlage nicht überleben würde. Dann nahm ich den Stirnreif, den
+er auf dem Kopf trug, und die Spange, die er am Arm hatte, und bringe
+sie nun hierher zu meinem Herrn.
+
+<<v11>>
+11 Da fasste David sein Gewand und zerriss es und ebenso (machten es)
+alle Männer, die bei ihm waren.
+
+<<v12>>
+12 Sie klagten, weinten und fasteten bis zum Abend wegen Saul, seines
+Sohnes Jonatan, des Volkes des Herrn und des Hauses Israel, die unter
+dem Schwert gefallen waren.
+
+<<v13>>
+13 Und David fragte den jungen Mann, der ihm die Nachricht gebracht
+hatte: Woher bist du? Er antwortete: Ich bin der Sohn eines Einwanderers
+aus Amalek.
+
+<<v14>>
+14 David fragte ihn: Wie kommt es, dass du dich nicht davor gefürchtet
+hast, deine Hand auszustrecken, um den Gesalbten des Herrn umzubringen? [fn:2]
+
+<<v15>>
+15 Darauf rief David einen von seinen jungen Männern zu sich und sagte:
+Komm her, stoß ihn nieder! Und er schlug ihn tot. [fn:3]
+
+<<v16>>
+16 David aber sagte zu ihm: Dein Blut über dein Haupt; denn dein Mund
+hat dich verurteilt, als du sagtest: Ich habe den Gesalbten des Herrn
+getötet.
+
+<<v17>>
+17 Und David sang die folgende Totenklage auf Saul und seinen Sohn
+Jonatan;
+
+<<v18>>
+18 er sagte, man solle es die Söhne Judas als Bogenlied lehren; es steht
+im «Buch des Aufrechten»: [fn:4] [fn:5]\\
+\\
+
+<<v19>>
+19 Israel, dein Stolz liegt erschlagen auf deinen Höhen. /\\
+ Ach, die Helden sind gefallen!\\
+\\
+
+<<v20>>
+20 Meldet es nicht in Gat, /\\
+ verkündet es nicht auf Aschkelons Straßen, /\\
+ damit die Töchter der Philister sich nicht freuen, /\\
+ damit die Töchter der Unbeschnittenen nicht jauchzen.\\
+\\
+
+<<v21>>
+21 Ihr Berge in Gilboa, kein Tau und kein Regen /\\
+ falle auf euch, ihr trügerischen Gefilde. /\\
+ Denn dort wurde der Schild der Helden befleckt, /\\
+ der Schild des Saul, als wäre er nicht mit Öl gesalbt. [fn:6]\\
+\\
+
+<<v22>>
+22 Ohne das Blut von Erschlagenen, /\\
+ ohne das Mark der Helden /\\
+ kam der Bogen Jonatans nie zurück; /\\
+ auch das Schwert Sauls /\\
+ kehrte niemals erfolglos zurück.\\
+\\
+
+<<v23>>
+23 Saul und Jonatan, die Geliebten und Teuren, /\\
+ im Leben und Tod sind sie nicht getrennt. /\\
+ Sie waren schneller als Adler, /\\
+ waren stärker als Löwen.\\
+\\
+
+<<v24>>
+24 Ihr Töchter Israels, um Saul müsst ihr weinen; /\\
+ er hat euch in köstlichen Purpur gekleidet, /\\
+ hat goldenen Schmuck auf eure Gewänder geheftet.\\
+\\
+
+<<v25>>
+25 Ach, die Helden sind gefallen mitten im Kampf. /\\
+ Jonatan liegt erschlagen auf deinen Höhen.\\
+\\
+
+<<v26>>
+26 Weh ist mir um dich, mein Bruder Jonatan. /\\
+ Du warst mir sehr lieb. /\\
+ Wunderbarer war deine Liebe für mich /\\
+ als die Liebe der Frauen. [fn:7]\\
+\\
+
+<<v27>>
+27 Ach, die Helden sind gefallen, /\\
+ die Waffen des Kampfes verloren.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_31.org::v1][1 Sam 31,1-4]]
+
+[fn:2] [[file:1.Sam_24.org::v7][1 Sam 24,7]]; [[file:1.Sam_26.org::v9][26,9]]
+
+[fn:3] (15-16) [[file:2.Sam_4.org::v10][4,10]].[[file:2.Sam_4.org::v22][22]]
+
+[fn:4] [[file:Jos_10.org::v13][Jos 10,13]]
+
+[fn:5] Die Überschrift des Lieds ist schwer deutbar.
+
+[fn:6] ihr trügerischen Gefilde: Text korr.; H: ihr Gefilde der
+Erstlingsgarben.
+
+[fn:7] [[file:1.Sam_18.org::v3][1 Sam 18,3]]

@@ -1,0 +1,356 @@
+#+TITLE: Ri 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-04 Sa 10:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 9.html
+
+<<verses>>
+
+<<v1>>
+* Die Wahl Abimelechs zum König: 9,1-6
+
+1 Abimelech, der Sohn Jerubbaals, ging nach Sichem zu den Brüdern seiner
+Mutter und sagte zu ihnen und zur ganzen Sippe der Familie seiner
+Mutter: [fn:1]
+
+<<v2>>
+2 Redet doch allen Bürgern von Sichem zu und sagt: Was ist besser für
+euch: wenn siebzig Männer über euch herrschen, alle Söhne Jerubbaals,
+oder wenn nur ein Mann über euch herrscht? Denkt auch daran, dass ich
+euer Fleisch und Bein bin. [fn:2]
+
+<<v3>>
+3 Da redeten die Brüder seiner Mutter seinetwegen allen Bürgern Sichems
+zu, und zwar genau mit seinen Worten, sodass sich ihr Herz Abimelech
+zuwandte. Denn sie sagten sich: Er ist unser Bruder.
+
+<<v4>>
+4 Sie gaben ihm siebzig Silberstücke aus dem Tempel des «Baal des
+Bundes» und Abimelech warb damit Männer an, die nichts zu verlieren
+hatten und zu allem fähig waren; sie wurden sein Gefolge. [fn:3] [fn:4]
+
+<<v5>>
+5 Dann drang er in das Haus seines Vaters in Ofra ein und brachte seine
+Brüder, die Söhne Jerubbaals, siebzig Mann, auf ein und demselben Stein
+um. Nur Jotam, der jüngste Sohn Jerubbaals, blieb übrig, weil er sich
+versteckt hatte. [fn:5]
+
+<<v6>>
+6 Da versammelten sich alle Bürger von Sichem und Bet-Millo, zogen zu
+der Eiche, die bei Sichem steht, und machten Abimelech zum König. [fn:6]\\
+\\
+
+<<v7>>
+* Die Fabel vom König der Bäume: 9,7-21
+
+7 Als man das Jotam meldete, stellte er sich auf den Gipfel des Berges
+Garizim und rief ihnen mit erhobener Stimme zu: Hört auf mich, ihr
+Bürger von Sichem, /\\
+ damit Gott auf euch hört.\\
+\\
+
+<<v8>>
+8 Einst machten sich die Bäume auf, /\\
+ um sich einen König zu salben, /\\
+ und sie sagten zum Ölbaum: /\\
+ Sei du unser König!\\
+\\
+
+<<v9>>
+9 Der Ölbaum sagte zu ihnen: /\\
+ Soll ich mein Fett aufgeben, /\\
+ mit dem man Götter und Menschen ehrt, /\\
+ und hingehen, um über den anderen Bäumen zu schwanken? [fn:7]\\
+\\
+
+<<v10>>
+10 Da sagten die Bäume zum Feigenbaum: /\\
+ Komm, sei du unser König!\\
+\\
+
+<<v11>>
+11 Der Feigenbaum sagte zu ihnen: /\\
+ Soll ich meine Süßigkeit aufgeben /\\
+ und meine guten Früchte /\\
+ und hingehen, um über den anderen Bäumen zu schwanken?\\
+\\
+
+<<v12>>
+12 Da sagten die Bäume zum Weinstock: /\\
+ Komm, sei du unser König!\\
+\\
+
+<<v13>>
+13 Der Weinstock sagte zu ihnen: /\\
+ Soll ich meinen Most aufgeben, /\\
+ der Götter und Menschen erfreut, /\\
+ und hingehen, um über den anderen Bäumen zu schwanken?\\
+\\
+
+<<v14>>
+14 Da sagten alle Bäume zum Dornenstrauch: /\\
+ Komm, sei du unser König!\\
+\\
+
+<<v15>>
+15 Der Dornenstrauch sagte zu den Bäumen: /\\
+ Wollt ihr mich wirklich zu eurem König salben? /\\
+ Kommt, findet Schutz in meinem Schatten! /\\
+ Wenn aber nicht, dann soll vom Dornenstrauch Feuer ausgehen /\\
+ und die Zedern des Libanon fressen.\\
+\\
+
+<<v16>>
+16 Wenn ihr also treu und redlich gehandelt habt, als ihr Abimelech zum
+König machtet, und wenn ihr an Jerubbaal und seinem Haus gut gehandelt
+habt, wenn ihr so an ihm gehandelt habt, wie das Wirken meines Vaters es
+verdient,
+
+<<v17>>
+17 der für euch gekämpft, sein Leben gewagt und euch aus der Gewalt
+Midians befreit hat,
+
+<<v18>>
+18 während ihr euch heute gegen das Haus meines Vaters erhoben habt,
+seine Söhne, siebzig Männer, auf ein und demselben Stein umgebracht und
+Abimelech, den Sohn seiner Sklavin, zum König über die Bürger von Sichem
+gemacht habt, weil er euer Bruder ist, -
+
+<<v19>>
+19 wenn ihr also heute treu und redlich an Jerubbaal und seinem Haus
+gehandelt habt, dann sollt ihr eure Freude haben an Abimelech und er
+soll seine Freude an euch haben.
+
+<<v20>>
+20 Wenn aber nicht, dann soll Feuer von Abimelech ausgehen und die
+Bürger Sichems und Bet-Millos fressen. Und von den Bürgern Sichems und
+von Bet-Millo soll Feuer ausgehen und Abimelech fressen.
+
+<<v21>>
+21 Dann machte sich Jotam davon, floh vor seinem Bruder Abimelech nach
+Beer und ließ sich dort nieder.\\
+\\
+
+<<v22>>
+* Der Kampf um Sichem: 9,22-49
+
+22 Als Abimelech drei Jahre lang über Israel geherrscht hatte,
+
+<<v23>>
+23 sandte Gott einen bösen Geist zwischen Abimelech und die Bürger von
+Sichem, sodass die Bürger von Sichem von Abimelech abfielen.
+
+<<v24>>
+24 Das Verbrechen an den siebzig Söhnen Jerubbaals sollte sich rächen;
+über ihren Bruder Abimelech, der sie umgebracht hatte, sollte die Strafe
+für das Blutvergießen kommen und ebenso über die Bürger von Sichem, die
+ihm tatkräftig bei der Ermordung seiner Brüder geholfen hatten. [fn:8]
+
+<<v25>>
+25 Die Bürger von Sichem legten ihm auf den Höhen der Berge einen
+Hinterhalt. Sie raubten dort jeden aus, der auf seinem Weg bei ihnen
+vorbeikam. Das wurde Abimelech gemeldet.
+
+<<v26>>
+26 Gaal, der Sohn Ebeds, kam mit seinen Brüdern und Knechten nach Sichem
+und die Bürger von Sichem fassten Vertrauen zu ihm. [fn:9]
+
+<<v27>>
+27 Sie gingen aufs Feld hinaus, hielten in ihren Weinbergen die
+Weinlese, kelterten und feierten ein Freudenfest; sie zogen zum Haus
+ihres Gottes, aßen und tranken und verfluchten Abimelech.
+
+<<v28>>
+28 Gaal, der Sohn Ebeds, sagte: Wer ist schon Abimelech? Und was ist
+Sichem, dass wir Abimelech dienen sollten? Ist er nicht der Sohn
+Jerubbaals und ist nicht Sebul sein Vogt? Dient lieber den Männern
+Hamors, des Vaters von Sichem! Warum sollten wir ihm dienen?
+
+<<v29>>
+29 Wäre doch dieses Volk in meiner Gewalt; ich wollte Abimelech
+vertreiben. Ich würde zu Abimelech sagen: Du hast ein großes Heer, also
+zieh in den Kampf! [fn:10]
+
+<<v30>>
+30 Als Sebul, der Vogt der Stadt, von den Reden Gaals, des Sohnes Ebeds,
+hörte, entbrannte sein Zorn.
+
+<<v31>>
+31 Er schickte Boten zu Abimelech nach Aruma und ließ ihm sagen: Gaal,
+der Sohn Ebeds, und seine Brüder sind nach Sichem gekommen und hetzen
+nun die Stadt gegen dich auf. [fn:11]
+
+<<v32>>
+32 Brich also noch in der Nacht mit den Leuten auf, die du bei dir hast,
+und leg dich auf dem freien Feld in einen Hinterhalt!
+
+<<v33>>
+33 Am Morgen aber brich bei Sonnenaufgang auf und rück gegen die Stadt
+vor! Sobald dann Gaal mit seinen Leuten gegen dich ausrückt, mach mit
+ihm, wie es sich für dich ergibt.
+
+<<v34>>
+34 Abimelech brach noch in der Nacht mit allen Leuten, die er bei sich
+hatte, auf und sie legten sich in vier Abteilungen bei Sichem in einen
+Hinterhalt.
+
+<<v35>>
+35 Als Gaal, der Sohn Ebeds, herauskam und vor das Stadttor trat, brach
+Abimelech mit seinen Leuten aus dem Hinterhalt hervor.
+
+<<v36>>
+36 Als Gaal die Männer sah, sagte er zu Sebul: Sieh, da steigen Leute
+von den Höhen der Berge herunter. Sebul entgegnete ihm: Du siehst den
+Schatten der Berge für Menschen an.
+
+<<v37>>
+37 Doch Gaal redete weiter und sagte: Sieh doch, da kommen Leute vom
+Nabel des Landes herab und eine Abteilung kommt aus der Richtung der
+Orakel-Eiche. [fn:12]
+
+<<v38>>
+38 Da sagte Sebul zu ihm: Wo bleibt nun dein großes Maul, mit dem du
+gesagt hast: Wer ist schon Abimelech, dass wir ihm dienen sollten? Sind
+das nicht die Leute, die du verachtet hast? Rück jetzt nur aus, und
+kämpfe mit ihnen!
+
+<<v39>>
+39 Da rückte Gaal an der Spitze der Bürger von Sichem aus und kämpfte
+gegen Abimelech.
+
+<<v40>>
+40 Aber er musste vor ihm fliehen und Abimelech verfolgte ihn und viele
+wurden erschlagen, sie fielen, noch bevor sie das Tor erreicht hatten.
+
+<<v41>>
+41 Abimelech aber kehrte nach Aruma zurück und Sebul vertrieb Gaal und
+seine Brüder; sie konnten nicht mehr in Sichem bleiben. [fn:13]
+
+<<v42>>
+42 Am anderen Morgen gingen die Leute (von Sichem) aufs Feld hinaus. Das
+meldete man Abimelech.
+
+<<v43>>
+43 Er nahm seine Leute, teilte sie in drei Abteilungen und legte auf dem
+Feld einen Hinterhalt. Als er sah, wie die Leute aus der Stadt
+herauskamen, überfiel er sie und erschlug sie.
+
+<<v44>>
+44 Abimelech stürmte mit der Abteilung, die bei ihm war, vor und bezog
+am Eingang des Stadttors Stellung, während die beiden anderen
+Abteilungen auf die, die auf dem Feld waren, eindrangen und sie
+erschlugen. [fn:14]
+
+<<v45>>
+45 Abimelech kämpfte den ganzen Tag gegen die Stadt. Er eroberte sie und
+tötete ihre Einwohner. Dann zerstörte er die Stadt und streute Salz über
+sie.
+
+<<v46>>
+46 Als die Besatzung der Burg von Sichem davon hörte, zog sie sich in
+das Gewölbe des Tempels des «Bundesgottes» zurück. [fn:15]
+
+<<v47>>
+47 Abimelech wurde gemeldet, dass sich die ganze Besatzung der Burg von
+Sichem dort versammelt hatte.
+
+<<v48>>
+48 Daraufhin stieg Abimelech mit all seinen Leuten den Berg Zalmon
+hinauf. Abimelech nahm seine Axt in die Hand, hieb einen Busch ab, hob
+ihn auf, legte ihn auf seine Schulter und sagte zu seinen Leuten: Macht
+mir nach, was ihr gesehen habt, aber schnell! [fn:16]
+
+<<v49>>
+49 Da hieben auch alle seine Leute einen Busch ab und zogen hinter
+Abimelech her. Sie legten die Zweige auf das Gewölbe und zündeten sie an
+und steckten das Gewölbe über der Besatzung in Brand. So kam auch die
+ganze Besatzung der Burg von Sichem um, etwa tausend Männer und
+Frauen.\\
+\\
+
+<<v50>>
+* Der Tod Abimelechs: 9,50-57
+
+50 Dann zog Abimelech nach Tebez, belagerte die Stadt und nahm sie ein. [fn:17]
+
+<<v51>>
+51 Mitten in der Stadt aber war eine starke Burg. Dorthin flohen alle
+Männer und Frauen, alle Bürger der Stadt. Sie schlossen hinter sich zu
+und stiegen auf das Dach der Burg.
+
+<<v52>>
+52 Abimelech rückte an die Burg heran und eröffnete den Kampf gegen sie.
+Als er sich dem Burgtor näherte, um es in Brand zu stecken,
+
+<<v53>>
+53 warf eine Frau Abimelech einen Mühlstein auf den Kopf und
+zerschmetterte ihm den Schädel. [fn:18]
+
+<<v54>>
+54 Da rief er seinen Waffenträger und sagte zu ihm: Schnell, zieh dein
+Schwert und töte mich! Man soll nicht von mir sagen: Eine Frau hat ihn
+umgebracht. Der junge Mann durchbohrte ihn und er starb.
+
+<<v55>>
+55 Als die Israeliten sahen, dass Abimelech tot war, ging jeder zurück
+in seinen Heimatort.
+
+<<v56>>
+56 So ließ Gott das Verbrechen, das Abimelech an seinem Vater begangen
+hatte, als er seine siebzig Brüder umbrachte, auf ihn selbst
+zurückfallen.
+
+<<v57>>
+57 Auch auf die Einwohner von Sichem ließ Gott alles Böse, das sie getan
+hatten, zurückfallen. So kam über sie der Fluch Jotams, des Sohnes
+Jerubbaals.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ri_8.org::v31][8,31]]
+
+[fn:2] [[file:Gen_2.org::v23][Gen 2,23]]
+
+[fn:3] [[file:Ri_8.org::v33][8,33]]
+
+[fn:4] Wörtlich: die leer und zuchtlos waren (vgl. [[file:Ri_11.org::v3][11,3]]).
+
+[fn:5] [[file:Ri_8.org::v35][8,35]]
+
+[fn:6] [[file:Gen_35.org::v4][Gen 35,4]]; [[file:Jos_24.org::v26][Jos 24,26]]
+
+[fn:7] mit dem: Text korr., vgl. G.
+
+[fn:8] die ihm geholfen hatten, wörtlich: die seine Hände stark
+gemacht hatten.
+
+[fn:9] und Knechten: Text korr.
+
+[fn:10] ich würde . . . sagen: Text korr. nach G. - Du hast
+ein großes Heer: Text korr.; H: Mach groß (?) dein Heer!
+
+[fn:11] Aruma: Text korr. nach V. 41.
+
+[fn:12] Nabel des Landes: gemeint ist wohl der Garizim als
+Mittelpunkt.
+
+[fn:13] kehrte zurück: Text korr., vgl. G; H: wohnte.
+
+[fn:14] 44f: mit der Abteilung: Text korr., vgl. G. Das
+Ausstreuen von Salz über der zerstörten Stadt ist eine Symbolhandlung,
+die eine dauernde Verwüstung andeutet (vgl. [[file:Dtn_29.org::v22][Dtn 29,22]]; [[file:Ps_107.org::v34][Ps 107,34]]).
+
+[fn:15] [[v46][46]].[[v49][49]]: Gewölbe: Übersetzung unsicher.
+
+[fn:16] seine Axt: Text korr., vgl. G.
+
+[fn:17] Tebez liegt nördlich von Sichem.
+
+[fn:18] [[file:2.Sam_11.org::v21][2 Sam 11,21]]

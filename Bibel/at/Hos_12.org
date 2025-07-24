@@ -1,0 +1,139 @@
+:PROPERTIES:
+:ID:       66ef66f6-81fc-4235-a9d4-74e97f88b976
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Hosea* -- [[file:Hos_1.html][1]] ...
+[[file:Hos_10.html][10]] [[file:Hos_11.html][11]] *12*
+[[file:Hos_13.html][13]] [[file:Hos_14.html][14]]
+
+--------------
+
+* Hos 12
+  :PROPERTIES:
+  :CUSTOM_ID: hos-12
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das unzuverlässige Volk: 12,1-15
+     :PROPERTIES:
+     :CUSTOM_ID: das-unzuverlässige-volk-121-15
+     :END:
+1 Mit Lügen umzingelt mich Efraim, /\\
+ mit Betrug das Haus Israel. [Aber Juda hält auch in der Fremde zu Gott
+/\\
+ und bleibt dem Hochheiligen treu.]\\
+\\
+
+<<v2>>
+2 Efraim weidet den Wind, /\\
+ immer läuft es dem Ostwind nach. Es häuft Lüge auf Lüge, Gewalt auf
+Gewalt. /\\
+ Es schließt mit Assur ein Bündnis /\\
+ und liefert Öl nach Ägypten. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Darum geht der Herr mit Israel ins Gericht, /\\
+ er straft Jakob für sein Verhalten /\\
+ und zahlt ihm heim, wie es seine Taten verdienen. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Schon im Mutterleib hinterging er seinen Bruder, /\\
+ und als er ein Mann war, rang er mit Gott. ^{[[#fn3][3]]}\\
+\\
+
+<<v5>>
+5 [Er wurde Herr über den Engel und siegte.] /\\
+ Weinend flehte er ihn um Gnade an. Er fand ihn in Bet-El /\\
+ und dort sprach er mit ihm. ^{[[#fn4][4]]}\\
+\\
+
+<<v6>>
+6 Der Herr, der Gott der Heere, /\\
+ dessen Name Jahwe ist, (sagte:)\\
+\\
+
+<<v7>>
+7 Du wirst mit Hilfe deines Gottes heimkehren; /\\
+ bewahre die Liebe und das Recht /\\
+ und hoffe immer auf deinen Gott!\\
+\\
+
+<<v8>>
+8 Doch dieser Händler hat eine falsche Waage in der Hand, /\\
+ er liebt den Betrug. ^{[[#fn5][5]]}\\
+\\
+
+<<v9>>
+9 Efraim sagt: Ich bin reich geworden /\\
+ und habe mir ein Vermögen erworben. Nichts, was ich erwarb, /\\
+ gilt mir als Unrecht und Sünde. ^{[[#fn6][6]]}\\
+\\
+
+<<v10>>
+10 Aber ich, der Herr, /\\
+ dein Gott, seit der Zeit in Ägypten, ich lasse dich wieder in Zelten
+wohnen /\\
+ wie in den Tagen der (ersten) Begegnung. ^{[[#fn7][7]]}\\
+\\
+
+<<v11>>
+11 Ich rede zu den Propheten, /\\
+ ich lasse sie viele Visionen sehen /\\
+ und durch die Propheten sende ich Vernichtung. ^{[[#fn8][8]]}\\
+\\
+
+<<v12>>
+12 Schon in Gilead beging man Verbrechen /\\
+ und auch jetzt handeln sie völlig verkehrt. Sie opfern in Gilgal den
+Stieren; /\\
+ darum werden auch ihre Altäre den Steinhaufen gleichen, /\\
+ die man neben den Äckern aufhäuft. ^{[[#fn9][9]][[#fn10][10]]}\\
+\\
+
+<<v13>>
+13 Jakob floh in die Gegend von Aram; /\\
+ wegen eines Weibes wurde Israel zum Knecht, /\\
+ wegen eines Weibes hütete er Schafe. ^{[[#fn11][11]]}\\
+\\
+
+<<v14>>
+14 Aber durch einen Propheten führte der Herr Israel aus Ägypten heraus
+/\\
+ und durch einen Propheten wurde es behütet. ^{[[#fn12][12]]}\\
+\\
+
+<<v15>>
+15 Efraim hat Gott bitter gekränkt, /\\
+ darum wird sein Herr ihn die Blutschuld büßen lassen /\\
+ und ihm die Beschimpfung heimzahlen.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 7,11; Jes 31,1f
+
+^{[[#fnm2][2]]} ℘ 4,1
+
+^{[[#fnm3][3]]} ℘ Gen 25,26; 32,25-30
+
+^{[[#fnm4][4]]} ℘ Gen 28,10-19
+
+^{[[#fnm5][5]]} ℘ Am 8,5; Mi 6,11
+
+^{[[#fnm6][6]]} ℘ Lk 12,19; Offb 3,17
+
+^{[[#fnm7][7]]} ℘ 13,4; Ex 20,2
+
+^{[[#fnm8][8]]} ℘ 6,5
+
+^{[[#fnm9][9]]} ℘ 6,8; 4,15; 9,15
+
+^{[[#fnm10][10]]} Gilead ist eine ostjordanische Ortschaft (vgl. 6,8),
+aber auch Name für das Ostjordanland. Zu Gilgal vgl. 4,15; 9,15.
+
+^{[[#fnm11][11]]} ℘ Gen 29
+
+^{[[#fnm12][12]]} ℘ Ex 3,7-10

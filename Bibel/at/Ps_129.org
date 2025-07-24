@@ -1,0 +1,71 @@
+#+TITLE: Ps 129 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 14:42]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 129.html
+
+* Ps 129
+
+<<verses>>
+
+<<v1>>
+* Hoffnung in der Bedrängnis
+
+1 [Ein Wallfahrtslied.] Sie haben mich oft bedrängt von Jugend auf /\\
+ - so soll Israel sagen -, [fn:1]\\
+\\
+
+<<v2>>
+2 sie haben mich oft bedrängt von Jugend auf, /\\
+ doch sie konnten mich nicht bezwingen. [fn:2]\\
+\\
+
+<<v3>>
+3 Die Pflüger haben auf meinem Rücken gepflügt, /\\
+ ihre langen Furchen gezogen. [fn:3]\\
+\\
+
+<<v4>>
+4 Doch der Herr ist gerecht, /\\
+ er hat die Stricke der Frevler zerhauen.\\
+\\
+
+<<v5>>
+5 Beschämt sollen alle weichen, /\\
+ alle, die Zion hassen.\\
+\\
+
+<<v6>>
+6 Sie sollen wie das Gras auf den Dächern sein, /\\
+ das verdorrt, noch bevor man es ausreißt. [fn:4]\\
+\\
+
+<<v7>>
+7 Kein Schnitter kann seine Hand damit füllen, /\\
+ kein Garbenbinder den Arm.\\
+\\
+
+<<v8>>
+8 Keiner, der vorübergeht, wird sagen: /\\
+ «Der Segen des Herrn sei mit euch.» - /\\
+ Wir aber segnen euch im Namen des Herrn. [fn:5]\\
+\\
+
+* Footnotes
+
+[fn:1] Wörtlich: von meiner Jugend auf.
+
+[fn:2] [[file:Ps_118.org::v13][118,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_16.org::v33][Joh 16,33]]
+
+[fn:3] [[file:Ps_66.org::v12][66,12]]; [[file:Jes_51.org::v23][Jes 51,23]]
+
+[fn:4] [[file:Jes_37.org::v27][Jes 37,27]]
+
+[fn:5] [[file:Rut_2.org::v4][Rut 2,4]]

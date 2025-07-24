@@ -1,0 +1,163 @@
+#+TITLE: Ps 75 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-02 Fr 16:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 75.html
+
+* Ps 74
+
+<<verses>>
+
+<<v1>>
+* Klage über die Verwüstung des Heiligtums
+
+1 [Ein Weisheitslied Asafs.] Warum, Gott, hast du uns für immer
+verstoßen? /\\
+ Warum ist dein Zorn gegen die Herde deiner Weide entbrannt? [fn:1]\\
+\\
+
+<<v2>>
+2 Denk an deine Gemeinde, die du vorzeiten erworben, /\\
+ als Stamm dir zu Eigen erkauft, /\\
+ an den Berg Zion, den du zur Wohnung erwählt hast. [fn:2]\\
+\\
+
+<<v3>>
+3 Erheb deine Schritte zu den uralten Trümmern! /\\
+ Der Feind hat im Heiligtum alles verwüstet.\\
+\\
+
+<<v4>>
+4 Deine Widersacher lärmten an deiner heiligen Stätte, /\\
+ stellten ihre Banner auf als Zeichen des Sieges.\\
+\\
+
+<<v5>>
+5 Wie einer die Axt schwingt im Dickicht des Waldes, / [fn:3]\\
+\\
+
+<<v6>>
+6 so zerschlugen sie all das Schnitzwerk mit Beil und Hammer. [fn:4]\\
+\\
+
+<<v7>>
+7 Sie legten an dein Heiligtum Feuer, /\\
+ entweihten die Wohnung deines Namens bis auf den Grund. [fn:5]\\
+\\
+
+<<v8>>
+8 Sie sagten in ihrem Herzen: «Wir zerstören alles.» /\\
+ Und sie verbrannten alle Gottesstätten ringsum im Land. [fn:6]\\
+\\
+
+<<v9>>
+9 Zeichen für uns sehen wir nicht, /\\
+ es ist kein Prophet mehr da, /\\
+ niemand von uns weiß, wie lange noch.\\
+\\
+
+<<v10>>
+10 Wie lange, Gott, darf der Bedränger noch schmähen, /\\
+ darf der Feind ewig deinen Namen lästern?\\
+\\
+
+<<v11>>
+11 Warum ziehst du die Hand von uns ab, /\\
+ hältst deine Rechte im Gewand verborgen? [fn:7] [fn:8]\\
+\\
+
+<<v12>>
+12 Doch Gott ist mein König von alters her, /\\
+ Taten des Heils vollbringt er auf Erden.\\
+\\
+
+<<v13>>
+13 Mit deiner Macht hast du das Meer zerspalten, /\\
+ die Häupter der Drachen über den Wassern zerschmettert. [fn:9]\\
+\\
+
+<<v14>>
+14 Du hast die Köpfe des Leviatan zermalmt, /\\
+ ihn zum Fraß gegeben den Ungeheuern der See. [fn:10]\\
+\\
+
+<<v15>>
+15 Hervorbrechen ließest du Quellen und Bäche, /\\
+ austrocknen Ströme, die sonst nie versiegen. [fn:11]\\
+\\
+
+<<v16>>
+16 Dein ist der Tag, dein auch die Nacht, /\\
+ hingestellt hast du Sonne und Mond. [fn:12]\\
+\\
+
+<<v17>>
+17 Du hast die Grenzen der Erde festgesetzt, /\\
+ hast Sommer und Winter geschaffen.\\
+\\
+
+<<v18>>
+18 Denk daran: Der Feind schmäht den Herrn, /\\
+ ein Volk ohne Einsicht lästert deinen Namen.\\
+\\
+
+<<v19>>
+19 Gib dem Raubtier das Leben deiner Taube nicht preis; /\\
+ das Leben deiner Armen vergiss nicht für immer!\\
+\\
+
+<<v20>>
+20 Blick hin auf deinen Bund! /\\
+ Denn voll von Schlupfwinkeln der Gewalt ist unser Land. [fn:13]\\
+\\
+
+<<v21>>
+21 Lass den Bedrückten nicht beschämt von dir weggehn! /\\
+ Arme und Gebeugte sollen deinen Namen rühmen.\\
+\\
+
+<<v22>>
+22 Erheb dich, Gott, und führe deine Sache! /\\
+ Bedenke, wie die Toren dich täglich schmähen.\\
+\\
+
+<<v23>>
+23 Vergiss nicht das Geschrei deiner Gegner, /\\
+ das Toben deiner Widersacher, das ständig emporsteigt.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_77.org::v8][77,8]]; [[file:Ps_80.org::v5][80,5]]
+
+[fn:2] [[file:Ex_15.org::v17][Ex 15,17]]; [[file:Dtn_7.org::v6][Dtn 7,6]]; [[file:Ps_76.org::v3][Ps 76,3]]
+
+[fn:3] Text korr.; H: Es sah sich an, wie wenn man im Unterholz die Äxte hoch emporhebt.
+
+[fn:4] Text korr.; H: und dann all das Schnitzwerk.
+
+[fn:5] [[file:2.Kön_25.org::v9][2 Kön 25,9]]; [[file:Jes_64.org::v10][Jes 64,10]]
+
+[fn:6] [[file:Klgl_2.org::v9][Klgl 2,9]]
+
+[fn:7] [[file:Jes_52.org::v10][Jes 52,10]]
+
+[fn:8] hältst verborgen: Text korr.; H: mach ein Ende!
+
+[fn:9] [[file:Ex_14.org::v21][Ex 14,21f]]; [[file:Ps_89.org::v11][Ps 89,11]]; [[file:Jes_51.org::v9][Jes 51,9f]]
+
+[fn:10] Text korr.; H: dem Volk von Dämonen.
+
+[fn:11] [[file:Ex_17.org::v6][Ex 17,6]]; [[file:Jos_3.org::v16][Jos 3,16]]
+
+[fn:12] [[file:Ps_104.org::v19][104,19]]
+
+[fn:13] deinen: nach G und S. Andere Übersetzungsmöglichkeit:
+Denn die Winkel des Landes sind voll von Stätten der Gewalt.

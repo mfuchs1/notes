@@ -1,0 +1,169 @@
+:PROPERTIES:
+:ID:       38051e49-2860-40de-8936-f145b6be5b08
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Römer* --
+[[file:Röm_1.html][1]] ... [[file:Röm_3.html][3]] [[file:Röm_4.html][4]]
+*5* [[file:Röm_6.html][6]] [[file:Röm_7.html][7]] ...
+[[file:Röm_16.html][16]]
+
+--------------
+
+* Röm 5
+  :PROPERTIES:
+  :CUSTOM_ID: röm-5
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Hoffnung der Glaubenden: 5,1-11
+     :PROPERTIES:
+     :CUSTOM_ID: die-hoffnung-der-glaubenden-51-11
+     :END:
+1 Gerecht gemacht aus Glauben, haben wir Frieden mit Gott durch Jesus
+Christus, unseren Herrn.
+
+<<v2>>
+2 Durch ihn haben wir auch den Zugang zu der Gnade erhalten, in der wir
+stehen, und rühmen uns unserer Hoffnung auf die Herrlichkeit Gottes.
+^{[[#fn1][1]]}
+
+<<v3>>
+3 Mehr noch, wir rühmen uns ebenso unserer Bedrängnis; denn wir wissen:
+Bedrängnis bewirkt Geduld, ^{[[#fn2][2]]}
+
+<<v4>>
+4 Geduld aber Bewährung, Bewährung Hoffnung.
+
+<<v5>>
+5 Die Hoffnung aber lässt nicht zugrunde gehen; denn die Liebe Gottes
+ist ausgegossen in unsere Herzen durch den Heiligen Geist, der uns
+gegeben ist. ^{[[#fn3][3]]}
+
+<<v6>>
+6 Christus ist schon zu der Zeit, da wir noch schwach und gottlos waren,
+für uns gestorben. ^{[[#fn4][4]]}
+
+<<v7>>
+7 Dabei wird nur schwerlich jemand für einen Gerechten sterben;
+vielleicht wird er jedoch für einen guten Menschen sein Leben wagen.
+
+<<v8>>
+8 Gott aber hat seine Liebe zu uns darin erwiesen, dass Christus für uns
+gestorben ist, als wir noch Sünder waren. ^{[[#fn5][5]]}
+
+<<v9>>
+9 Nachdem wir jetzt durch sein Blut gerecht gemacht sind, werden wir
+durch ihn erst recht vor dem Gericht Gottes gerettet werden.
+^{[[#fn6][6]][[#fn7][7]]}
+
+<<v10>>
+10 Da wir mit Gott versöhnt wurden durch den Tod seines Sohnes, als wir
+noch (Gottes) Feinde waren, werden wir erst recht, nachdem wir versöhnt
+sind, gerettet werden durch sein Leben. ^{[[#fn8][8]]}
+
+<<v11>>
+11 Mehr noch, wir rühmen uns Gottes durch Jesus Christus, unseren Herrn,
+durch den wir jetzt schon die Versöhnung empfangen haben.
+^{[[#fn9][9]]}\\
+\\
+
+<<v12>>
+**** Der alte und der neue Mensch: 5,12-21
+     :PROPERTIES:
+     :CUSTOM_ID: der-alte-und-der-neue-mensch-512-21
+     :END:
+12 Durch einen einzigen Menschen kam die Sünde in die Welt und durch die
+Sünde der Tod und auf diese Weise gelangte der Tod zu allen Menschen,
+weil alle sündigten. ^{[[#fn10][10]][[#fn11][11]]}
+
+<<v13>>
+13 Sünde war schon vor dem Gesetz in der Welt, aber Sünde wird nicht
+angerechnet, wo es kein Gesetz gibt; ^{[[#fn12][12]]}
+
+<<v14>>
+14 dennoch herrschte der Tod von Adam bis Mose auch über die, welche
+nicht wie Adam durch Übertreten eines Gebots gesündigt hatten; Adam aber
+ist die Gestalt, die auf den Kommenden hinweist. ^{[[#fn13][13]]}
+
+<<v15>>
+15 Doch anders als mit der Übertretung verhält es sich mit der Gnade;
+sind durch die Übertretung des einen die vielen dem Tod anheim gefallen,
+so ist erst recht die Gnade Gottes und die Gabe, die durch die Gnadentat
+des einen Menschen Jesus Christus bewirkt worden ist, den vielen
+reichlich zuteil geworden. ^{[[#fn14][14]]}
+
+<<v16>>
+16 Anders als mit dem, was durch den einen Sünder verursacht wurde,
+verhält es sich mit dieser Gabe: Das Gericht führt wegen der Übertretung
+des einen zur Verurteilung, die Gnade führt aus vielen Übertretungen zur
+Gerechtsprechung.
+
+<<v17>>
+17 Ist durch die Übertretung des einen der Tod zur Herrschaft gekommen,
+durch diesen einen, so werden erst recht alle, denen die Gnade und die
+Gabe der Gerechtigkeit reichlich zuteil wurde, leben und herrschen durch
+den einen, Jesus Christus.
+
+<<v18>>
+18 Wie es also durch die Übertretung eines einzigen für alle Menschen
+zur Verurteilung kam, so wird es auch durch die gerechte Tat eines
+einzigen für alle Menschen zur Gerechtsprechung kommen, die Leben gibt.
+
+<<v19>>
+19 Wie durch den Ungehorsam des einen Menschen die vielen zu Sündern
+wurden, so werden auch durch den Gehorsam des einen die vielen zu
+Gerechten gemacht werden.
+
+<<v20>>
+20 Das Gesetz aber ist hinzugekommen, damit die Übertretung mächtiger
+werde; wo jedoch die Sünde mächtig wurde, da ist die Gnade übergroß
+geworden. ^{[[#fn15][15]]}
+
+<<v21>>
+21 Denn wie die Sünde herrschte und zum Tod führte, so soll auch die
+Gnade herrschen und durch Gerechtigkeit zu ewigem Leben führen, durch
+Jesus Christus, unseren Herrn. ^{[[#fn16][16]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Eph 3,12
+
+^{[[#fnm2][2]]} ℘ Jak 1,2f; 1 Petr 4,13
+
+^{[[#fnm3][3]]} ℘ Ps 22,6
+
+^{[[#fnm4][4]]} ℘ 1 Petr 3,18
+
+^{[[#fnm5][5]]} ℘ Joh 3,16; 1 Joh 4,10
+
+^{[[#fnm6][6]]} ℘ 1 Thess 1,10
+
+^{[[#fnm7][7]]} Gericht Gottes, wörtlich: Zorn.
+
+^{[[#fnm8][8]]} ℘ 2 Kor 5,18
+
+^{[[#fnm9][9]]} ℘ 1 Kor 1,30f
+
+^{[[#fnm10][10]]} ℘ Gen 2,17; 3,1-19
+
+^{[[#fnm11][11]]} 12-14: Der Zusammenhang von Sünde und Tod spielt in
+der alttestamentlich-jüdischen Tradition eine wichtige Rolle. Der Tod
+ist nicht nur Zeichen für die Vergänglichkeit, sondern auch für das
+Gericht über die menschliche Sünde (6,23). Sünde wird hier wie sonst in
+der Bibel als eine überpersönliche Macht verstanden, der sich der
+einzelne Mensch nicht zu entziehen vermag; dazu trägt er allerdings
+durch sein Tun selbst bei und ist daher mitverantwortlich.
+
+^{[[#fnm12][12]]} ℘ 4,15
+
+^{[[#fnm13][13]]} Adam, der Gottes Gebot übertreten hat, weist als
+Gegenbild auf den «Kommenden», d. h. Christus, hin, der gehorsam Gottes
+Willen erfüllt.
+
+^{[[#fnm14][14]]} ℘ 1 Kor 15,21f
+
+^{[[#fnm15][15]]} ℘ 7,7.13; Gal 3,19
+
+^{[[#fnm16][16]]} ℘ 6,23

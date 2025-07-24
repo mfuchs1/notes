@@ -1,0 +1,129 @@
+#+TITLE: Ps 83 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-04 So 00:31]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 83.html
+
+* Ps 83
+
+<<verses>>
+
+<<v1>>
+* Eine Bitte um Hilfe gegen Feinde des Volkes
+
+1 [Ein Lied. Ein Psalm Asafs.]\\
+\\
+
+<<v2>>
+2 Schweig doch nicht, o Gott, bleib nicht still, /\\
+ o Gott, bleib nicht stumm!\\
+\\
+
+<<v3>>
+3 Sieh doch, deine Feinde toben; /\\
+ die dich hassen, erheben das Haupt. [fn:1]\\
+\\
+
+<<v4>>
+4 Gegen dein Volk ersinnen sie listige Pläne /\\
+ und halten Rat gegen die, die sich bei dir bergen.\\
+\\
+
+<<v5>>
+5 Sie sagen: «Wir wollen sie ausrotten als Volk; /\\
+ an den Namen Israel soll niemand mehr denken.»\\
+\\
+
+<<v6>>
+6 Ja, sie halten einmütig Rat /\\
+ und schließen ein Bündnis gegen dich: [fn:2]\\
+\\
+
+<<v7>>
+7 Edoms Zelte und die Ismaeliter, /\\
+ Moab und die Hagariter,\\
+\\
+
+<<v8>>
+8 Gebal, Ammon und Amalek, /\\
+ das Philisterland und die Bewohner von Tyrus.\\
+\\
+
+<<v9>>
+9 Zu ihnen gesellt sich auch Assur /\\
+ und leiht seinen Arm den Söhnen Lots. [Sela]\\
+\\
+
+<<v10>>
+10 Mach es mit ihnen wie mit Midian und Sisera, /\\
+ wie mit Jabin am Bach Kischon, [fn:3]\\
+\\
+
+<<v11>>
+11 die du bei En-Dór vernichtet hast. /\\
+ Sie wurden zum Dung für die Äcker.\\
+\\
+
+<<v12>>
+12 Mach ihre Fürsten wie Oreb und Seeb, /\\
+ wie Sebach und Zalmunna mach all ihre Führer! / [fn:4] [fn:5]\\
+\\
+
+<<v13>>
+13 Sie sagten: «Wir wollen Gottes Land erobern.»\\
+\\
+
+<<v14>>
+14 Mein Gott, lass sie dahinwirbeln wie Staub, /\\
+ wie Spreu vor dem Wind! [fn:6] [fn:7]\\
+\\
+
+<<v15>>
+15 Wie das Feuer, das ganze Wälder verbrennt, /\\
+ wie die Flamme, die Berge versengt,\\
+\\
+
+<<v16>>
+16 so jage sie davon mit deinem Sturm /\\
+ und schrecke sie mit deinem Wetter!\\
+\\
+
+<<v17>>
+17 Bedecke mit Schmach ihr Gesicht, /\\
+ damit sie, Herr, nach deinem Namen fragen.\\
+\\
+
+<<v18>>
+18 Beschämt sollen sie sein und verstört für immer, /\\
+ sollen vor Schande zugrunde gehn.\\
+\\
+
+<<v19>>
+19 Sie sollen erkennen, dass du es bist. Herr ist dein Name. /\\
+ Du allein bist der Höchste über der ganzen Erde. [fn:8]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_35.org::v20][35,20]]
+
+[fn:2] [[file:Ps_2.org::v2][2,2]]
+
+[fn:3] [[file:Ri_7.org::v23][Ri 7,23-25]]; [[file:Jes_9.org::v3][Jes 9,3]]; [[file:Jes_10.org::v26][10,26]]; [[file:Ri_4.org::v15][Ri 4,15f]]
+
+[fn:4] [[file:Ri_7.org::v25][Ri 7,25]]; [[file:Ri_8.org::v21][Ri 8,21]]
+
+[fn:5] Text korr. nach G.
+
+[fn:6] [[file:Ps_35.org::v5][35,5]]
+
+[fn:7] Wörtlich: Mein Gott, mach sie der Distel gleich!
+
+[fn:8] [[file:Ps_46.org::v11][46,11]]; [[file:Ps_59.org::v14][59,14]]; [[file:Ps_100.org::v3][100,3]]; [[file:Dtn_4.org::v39][Dtn 4,39]]; [[file:Jes_43.org::v10][Jes 43,10]]; [[file:Dan_3.org::v45][Dan 3,45]]

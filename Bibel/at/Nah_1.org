@@ -1,0 +1,158 @@
+:PROPERTIES:
+:ID:       d8ca3104-1bfc-4288-8908-8ce15ec2e5d8
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Nahum* -- *1* [[file:Nah_2.html][2]]
+[[file:Nah_3.html][3]]
+
+--------------
+
+* Nah 1
+  :PROPERTIES:
+  :CUSTOM_ID: nah-1
+  :END:
+
+Nach einem Hymnus auf Gott als den strengen und gerechten Richter des
+ganzen Weltgeschehens (1,2-8) kündigt der Prophet Nahum die Vernichtung
+Ninives, der Hauptstadt des assyrischen Weltreichs, an (1,9-14) und
+schildert in prophetischer Vorausschau den Untergang der Stadt (2,1-14),
+die für ihr gottwidriges Treiben den verdienten Lohn erhält (3,1-19).\\
+\\
+Das Buch Nahum hat die Form einer Drohweissagung gegen Ninive und ist
+wohl noch zu einer Zeit entstanden, als die Völker Vorderasiens schwer
+unter dem Druck der Macht Assurs zu leiden hatten. Da einerseits die
+Eroberung von No-Amon (Theben in Ägypten) vorausgesetzt wird (3,8), die
+im Jahr 667 v. Chr. erfolgte, und andererseits die Zerstörung Ninives im
+Jahr 612 v. Chr. noch aussteht, wird man die Abfassung des Buches zu
+Beginn der zweiten Hälfte des 7. Jahrhunderts v. Chr. ansetzen dürfen.\\
+\\
+Der Prophet Nahum verkündet ganz im Sinn prophetischer
+Geschichtsbetrachtung (vgl. Jes 10,5-15), also ohne religiöse
+Selbstgerechtigkeit und nationale Engstirnigkeit, den Untergang Assurs,
+das Jahrhunderte hindurch die Völker Vorderasiens mit Gewalt unterdrückt
+und grausam misshandelt hat. So ist Nahum der Prophet eines Gottes,
+dessen Gericht jede Vergewaltigung des Menschen bestraft, die durch
+entartete politische Mächte geschieht.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Überschrift: 1,1
+   :PROPERTIES:
+   :CUSTOM_ID: überschrift-11
+   :END:
+1 Ausspruch über Ninive. Das Buch der Visionen Nahums aus Elkosch.\\
+\\
+
+<<v2>>
+** Gottes Macht in Gnade und Gericht: 1,2-8
+   :PROPERTIES:
+   :CUSTOM_ID: gottes-macht-in-gnade-und-gericht-12-8
+   :END:
+2 Ein eifernder und rächender Gott ist der Herr. /\\
+ Der Herr übt Rache und ist voll Zorn. Der Herr übt Rache an seinen
+Gegnern /\\
+ und hält fest am Zorn gegen seine Feinde. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Der Herr ist langmütig und von großer Macht; /\\
+ doch lässt der Herr gewiss keinen ungestraft. In Wirbel und Sturm nimmt
+er seinen Weg, /\\
+ die Wolken sind der Staub seiner Füße. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Er droht dem Meer und macht es trocken, /\\
+ alle Flüsse lässt er versiegen. Welk sind Baschan und Karmel, /\\
+ auch die Blüten des Libanon sind verwelkt. ^{[[#fn3][3]]}\\
+\\
+
+<<v5>>
+5 Berge beben vor ihm /\\
+ und Hügel geraten ins Wanken. Die Welt schreit vor ihm auf, /\\
+ die Erde und all ihre Bewohner. ^{[[#fn4][4]]}\\
+\\
+
+<<v6>>
+6 Vor seinem Groll - wer kann da bestehen? /\\
+ Wer hält stand in der Glut seines Zorns? Sein Grimm greift um sich wie
+Feuer /\\
+ und die Felsen bersten vor ihm.\\
+\\
+
+<<v7>>
+7 Gut ist der Herr, /\\
+ eine feste Burg am Tag der Not. /\\
+ Er kennt alle, die Schutz suchen bei ihm.\\
+\\
+
+<<v8>>
+8 Doch in reißender Flut /\\
+ macht er seinen Gegnern ein Ende /\\
+ und Finsternis verfolgt seine Feinde.\\
+\\
+
+<<v9>>
+** Das Gericht über Ninive: 1,9 - 3,19
+   :PROPERTIES:
+   :CUSTOM_ID: das-gericht-über-ninive-19---319
+   :END:
+**** Ninives vergebliche Auflehnung gegen Gott: 1,9 - 2,1
+     :PROPERTIES:
+     :CUSTOM_ID: ninives-vergebliche-auflehnung-gegen-gott-19---21
+     :END:
+9 Was plant ihr gegen den Herrn? /\\
+ Er macht doch ein Ende. /\\
+ Es soll nicht wieder Not aufkommen.\\
+\\
+
+<<v10>>
+10 Wie dichtes Dornengestrüpp /\\
+ und wie wirres Windengerank werden sie verbrannt, /\\
+ wie dürre Spreu; nichts bleibt übrig. ^{[[#fn5][5]]}\\
+\\
+
+<<v11>>
+11 Von dir stammt der Mann, /\\
+ der Böses plant gegen den Herrn, /\\
+ der Übles im Schild führt.\\
+\\
+
+<<v12>>
+12 So spricht der Herr: Auch wenn sie unversehrt sind und zahlreich, /\\
+ sie werden abgeschnitten, sie gehen vorüber. Habe ich dich auch
+gedemütigt, /\\
+ ich werde dich nicht mehr demütigen.\\
+\\
+
+<<v13>>
+13 Ja, jetzt zerbreche ich sein Joch, /\\
+ das auf dir lastet, /\\
+ und deine Fesseln werde ich sprengen. ^{[[#fn6][6]][[#fn7][7]]}\\
+\\
+
+<<v14>>
+14 Der Herr hat über dich bestimmt: /\\
+ Von dir soll es keinen Nachkommen mehr geben. Aus dem Haus deines
+Gottes /\\
+ reiße ich Götze und Gussbild. Ich schaufle dein Grab; /\\
+ denn du bist verächtlich geworden.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Dtn 4,24
+
+^{[[#fnm2][2]]} ℘ Ex 34,6f
+
+^{[[#fnm3][3]]} ℘ Ex 14f; Ps 106,9; Jes 50,2; 51,10
+
+^{[[#fnm4][4]]} ℘ Ps 68,9; 97,4f; Jer 4,24
+
+^{[[#fnm5][5]]} verbrannt, wörtlich: gefressen (vom Feuer).
+
+^{[[#fnm6][6]]} ℘ Jes 9,3
+
+^{[[#fnm7][7]]} Weil in VV. 12b.13 nicht mehr Ninive, sondern Juda
+angeredet wird, meint «sein Joch» die Unterdrückung durch Assur.

@@ -1,0 +1,96 @@
+#+TITLE: Ri 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-05 So 14:01]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 17.html
+
+<<verses>>
+
+<<v1>>
+* Nachträge: 17,1 - 21,25
+
+* Das Heiligtum Michas: 17,1-13
+
+1 Im Gebirge Efraim lebte ein Mann namens Micha.
+
+<<v2>>
+2 Er sagte zu seiner Mutter: Die elfhundert Silberstücke, die dir jemand
+weggenommen hat und deretwegen du den Fluch ausgestoßen und ihn sogar
+vor meinen Ohren wiederholt hast, dieses Geld befindet sich bei mir; ich
+selber habe es genommen. Seine Mutter sagte: Sei gesegnet vom Herrn,
+mein Sohn. [fn:1]
+
+<<v3>>
+3 Er gab die elfhundert Silberstücke seiner Mutter zurück. Seine Mutter
+aber sagte: Ich weihe mein Silber dem Herrn, damit es wieder meinem Sohn
+zugute kommt. Man soll ein mit Metall überzogenes Gottesbild machen.
+Fürs Erste aber will ich es dir wiedergeben.
+
+<<v4>>
+4 Doch der Sohn gab das Silber seiner Mutter zurück. Seine Mutter nahm
+zweihundert Silberstücke und gab sie einem Goldschmied. Der machte ein
+mit Metall überzogenes Gottesbild daraus, das dann im Haus Michas
+aufgestellt wurde.
+
+<<v5>>
+5 So hatte Micha ein Gotteshaus. Er machte nun ein Efod und Terafim und
+stellte einen seiner Söhne dazu an, ihm als Priester zu dienen. [fn:2]
+
+<<v6>>
+6 In jenen Tagen gab es in Israel noch keinen König; jeder tat, was ihm
+gefiel. [fn:3]
+
+<<v7>>
+7 In Betlehem in Juda lebte (damals) ein junger Mann [aus der Sippe
+Juda]. Er war Levit und lebte dort als Fremder. [fn:4]
+
+<<v8>>
+8 Dieser Mann zog aus der Stadt, aus Betlehem in Juda, fort, um sich
+irgendwo als Fremder niederzulassen, wo immer es sei. Auf seiner
+Wanderung kam er auch ins Gebirge Efraim zum Haus Michas.
+
+<<v9>>
+9 Micha fragte ihn: Woher kommst du? Er antwortete ihm: Ich bin ein
+Levit aus Betlehem in Juda und bin unterwegs, um mich irgendwo als
+Fremder niederzulassen, wo immer es sei.
+
+<<v10>>
+10 Micha sagte zu ihm: Bleib bei mir und sei mir Vater und Priester! Ich
+werde dir jährlich zehn Silberstücke geben, dazu die nötigen Kleider und
+deinen Lebensunterhalt. [Da ging der Levit.] [fn:5]
+
+<<v11>>
+11 Der Levit willigte ein, bei ihm zu bleiben, und der junge Mann wurde
+für Micha wie einer seiner Söhne.
+
+<<v12>>
+12 Micha stellte also den jungen Leviten als Priester an und er blieb
+bei ihm im Haus.
+
+<<v13>>
+13 Und Micha sagte: Nun weiß ich, dass der Herr mir Gutes erweisen wird;
+denn ich habe einen Leviten als Priester.\\
+\\
+
+* Footnotes
+
+[fn:1]  Beim Verlust von Eigentum sprach man einen Fluch über
+den Dieb oder unredlichen Finder aus, damit er aus Furcht vor dem im
+Fluch angedrohten Unheil den Gegenstand zurückgibt (vgl. Lev 5,1 und die
+dortige Anmerkung). Die Mutter macht den Fluch nach Klärung der
+Angelegenheit durch einen Segen unwirksam.
+
+[fn:2] und stellte an, wörtlich: und füllte die Hand (vgl. [[file:Ex_28.org::v41][Ex 28,41]]; [[file:Ex_29.org::v9][29,9]].[[file:Ex_29.org::v24][24]]).
+
+[fn:3] [[file:Ri_18.org::v1][18,1]]; [[file:Ri_19.org::v1][19,1]]; [[file:Ri_21.org::v25][21,25]]
+
+[fn:4] Der Zusatz fehlt in S, vgl. G.
+
+[fn:5] Vater: Ehrentitel für Amtsperson. - Der Zusatz
+widerspricht dem folgenden; wohl falsche Lesart aus V. 11.

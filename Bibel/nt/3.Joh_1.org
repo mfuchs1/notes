@@ -1,0 +1,153 @@
+:PROPERTIES:
+:ID:       60761845-2026-4af2-abc4-a8492aa09764
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der dritte Brief des Johannes*
+
+--------------
+
+* 3.Joh
+  :PROPERTIES:
+  :CUSTOM_ID: joh
+  :END:
+
+Der 3. Johannesbrief ist wie der zweite von dem »Alten« oder »Ältesten«
+verfasst. Es ist ein persönlicher Brief an einen sonst unbekannten
+Gaius, der zu einem mit dem Absender verbundenen Freundeskreis gehört
+(vgl. V. 15). Drei Anliegen kommen darin zur Sprache: die Unterstützung
+von Wandermissionaren (VV. 2-8), die Zurückweisung eines
+herrschsüchtigen Gemeindeleiters namens Diotrephes, der die Bemühungen
+des Briefschreibers hindert und Christen aus der Gemeinde ausschließt
+(VV. 9-10), sowie eine Empfehlung für einen gewissen Demetrius (VV.
+11-12). Der Briefschluss (VV. 13-15) gleicht dem des 2.
+Johannesbriefs.\\
+\\
+Die Gemeinde, in der sich der Empfänger befindet, kann kaum dieselbe wie
+die Empfängerin des 2. Johannesbriefs sein. Von Irrlehrern ist keine
+Rede. Wegen des gleichen Verfassers muss dieser Brief etwa aus der
+gleichen Zeit wie der 2. Johannesbrief stammen (Ende des 1.
+Jahrhunderts).\\
+\\
+Der 3. Johannesbrief ist wertvoll für die Kenntnis damaliger
+Gemeindeverhältnisse: Es gibt noch keine feste kirchliche Verfassung,
+aber lebendige Gemeindezellen, Wandermissionare und den Einfluss eines
+über die Ortsgemeinden hinaus wirkenden Mannes.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Anschrift und Gruß: 1-4
+   :PROPERTIES:
+   :CUSTOM_ID: anschrift-und-gruß-1-4
+   :END:
+1 Der Älteste an den geliebten Gaius, den ich in Wahrheit liebe.
+^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Lieber Bruder, ich wünsche dir in jeder Hinsicht Wohlergehen und
+Gesundheit, so wie es deiner Seele wohlergeht. ^{[[#fn3][3]]}
+
+<<v3>>
+3 Denn ich habe mich sehr gefreut, als Brüder kamen, die für deine Treue
+zur Wahrheit Zeugnis ablegten und berichteten, wie du in der Wahrheit
+lebst.
+
+<<v4>>
+4 Ich habe keine größere Freude, als zu hören, dass meine Kinder in der
+Wahrheit leben.\\
+\\
+
+<<v5>>
+** Unterstützung von Missionaren: 5-8
+   :PROPERTIES:
+   :CUSTOM_ID: unterstützung-von-missionaren-5-8
+   :END:
+5 Lieber Bruder, du handelst treu in allem, was du an den Brüdern, sogar
+an fremden Brüdern tust. ^{[[#fn4][4]]}
+
+<<v6>>
+6 Sie haben vor der Gemeinde für deine Liebe Zeugnis abgelegt. Du wirst
+gut daran tun, wenn du sie für ihre Reise so ausrüstest, wie es Gottes
+würdig ist.
+
+<<v7>>
+7 Denn für seinen Namen sind sie ausgezogen und haben von den Heiden
+nichts angenommen.
+
+<<v8>>
+8 Darum sind wir verpflichtet, solche Männer aufzunehmen, damit auch wir
+zu Mitarbeitern für die Wahrheit werden.\\
+\\
+
+<<v9>>
+** Zurechtweisung des Diotrephes: 9-10
+   :PROPERTIES:
+   :CUSTOM_ID: zurechtweisung-des-diotrephes-9-10
+   :END:
+9 Ich habe der Gemeinde geschrieben. Aber Diotrephes, der unter ihnen
+der Erste sein will, erkennt uns nicht an. ^{[[#fn5][5]]}
+
+<<v10>>
+10 Deshalb werde ich, wenn ich komme, an sein Tun und Treiben erinnern.
+Mit bösen Worten hetzt er gegen uns und gibt sich damit noch nicht
+zufrieden; sondern er selbst nimmt die Brüder nicht auf und hindert alle
+daran, die es tun wollen, und schließt diese aus der Gemeinde aus.\\
+\\
+
+<<v11>>
+** Empfehlung des Demetrius: 11-12
+   :PROPERTIES:
+   :CUSTOM_ID: empfehlung-des-demetrius-11-12
+   :END:
+11 Lieber Bruder, ahme nicht das Böse nach, sondern das Gute! Wer das
+Gute tut, ist aus Gott; wer aber das Böse tut, hat Gott nicht gesehen.
+^{[[#fn6][6]]}
+
+<<v12>>
+12 Für Demetrius legen alle und die Wahrheit selbst Zeugnis ab; auch wir
+legen für ihn Zeugnis ab und du weißt, dass unser Zeugnis wahr ist.
+^{[[#fn7][7]][[#fn8][8]]}\\
+\\
+
+<<v13>>
+** Schlussgrüße: 13-15
+   :PROPERTIES:
+   :CUSTOM_ID: schlussgrüße-13-15
+   :END:
+13 Vieles hätte ich dir noch zu schreiben; ich will es aber nicht mit
+Tinte und Feder tun. ^{[[#fn9][9]]}
+
+<<v14>>
+14 Ich hoffe, dich bald zu sehen; dann werden wir persönlich miteinander
+sprechen.
+
+<<v15>>
+15 Friede sei mit dir! Es grüßen dich die Freunde. Grüße die Freunde,
+jeden einzelnen!\\
+\\
+
+^{[[#fnm1][1]]} ℘ 2 Joh 1
+
+^{[[#fnm2][2]]} »Der Älteste« ist der gleiche Verfasser wie der in 2 Joh
+1 genannte. Gaius ist wahrscheinlich ein führendes Mitglied einer
+Gemeinde, deren Vorsteher Diotrephes mt dem Verfasser des Briefs im
+Streit lag (vgl. VV. 9f).
+
+^{[[#fnm3][3]]} Wohlergeht: Zusammenschreibung entgegen neuer
+Rechtschreibung.
+
+^{[[#fnm4][4]]} Die »fremden Brüder« sind offenbar durchreisende
+Prediger (Missionare), die in die Gemeinde kamen.
+
+^{[[#fnm5][5]]} Über den Gemeindevorsteher Diotrephes ist sonst nichts
+bekannt.
+
+^{[[#fnm6][6]]} ℘ 1 Joh 2,3; 3,6.10
+
+^{[[#fnm7][7]]} ℘ Joh 19,35; 21,24
+
+^{[[#fnm8][8]]} Über die Person des Demetrius wissen wir nichts Näheres.
+
+^{[[#fnm9][9]]} ℘ (13f) 2 Joh 12

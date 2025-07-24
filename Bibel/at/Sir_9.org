@@ -1,0 +1,158 @@
+:PROPERTIES:
+:ID:       acc57eef-85ec-4b76-88c4-1f56dfa7a2a9
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_7.html][7]] [[file:Sir_8.html][8]]
+*9* [[file:Sir_10.html][10]] [[file:Sir_11.html][11]] ...
+[[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 9
+  :PROPERTIES:
+  :CUSTOM_ID: sir-9
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Der rechte Umgang mit Frauen: 9,1-9
+     :PROPERTIES:
+     :CUSTOM_ID: der-rechte-umgang-mit-frauen-91-9
+     :END:
+1 Sei nicht eifersüchtig gegen die Frau an deiner Brust, /\\
+ damit sie nicht auf böse Gedanken gegen dich selbst kommt.\\
+\\
+
+<<v2>>
+2 Liefere dich nicht einer Frau aus, /\\
+ damit sie nicht Gewalt bekommt über dich.\\
+\\
+
+<<v3>>
+3 Nah dich nicht einer fremden Frau, /\\
+ damit du nicht in ihre Netze fällst. ^{[[#fn1][1]]}\\
+\\
+
+<<v4>>
+4 Verkehr nicht mit einer Saitenspielerin, /\\
+ damit du nicht durch ihre Töne gefangen wirst. ^{[[#fn2][2]]}\\
+\\
+
+<<v5>>
+5 Denk nicht zu viel an ein Mädchen, /\\
+ damit du nicht seinetwegen der Strafe verfällst.
+^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+<<v6>>
+6 Gib dich nicht mit einer Dirne ab, /\\
+ damit sie dich nicht um dein Erbe bringt. ^{[[#fn5][5]]}\\
+\\
+
+<<v7>>
+7 Schau nicht umher auf den Wegen zur Stadt, /\\
+ streif nicht umher in ihren abgelegenen Winkeln!\\
+\\
+
+<<v8>>
+8 Verhüll dein Auge vor einer reizvollen Frau, /\\
+ blick nicht auf eine Schönheit, die dir nicht gehört. Wegen einer Frau
+kamen schon viele ins Verderben, /\\
+ sie versengt ihre Liebhaber wie Feuer. ^{[[#fn6][6]]}\\
+\\
+
+<<v9>>
+9 Streck dich nicht mit einer Verheirateten zum Weingelage hin, /\\
+ sitz nicht berauscht mit ihr zusammen, /\\
+ damit du ihr nicht dein Herz zuneigst und verblutend ins Grab sinkst.\\
+\\
+
+<<v10>>
+**** Der rechte Umgang von Mann zu Mann: 9,10-18
+     :PROPERTIES:
+     :CUSTOM_ID: der-rechte-umgang-von-mann-zu-mann-910-18
+     :END:
+10 Gib einen alten Freund nicht auf; /\\
+ denn ein neuer hält nicht zu dir. Neuer Freund, neuer Wein: /\\
+ Nur alt trinkst du ihn gern.\\
+\\
+
+<<v11>>
+11 Sei nicht neidisch auf einen bösen Menschen; /\\
+ denn du weißt nicht, wann sein Tag ihn erreicht. ^{[[#fn7][7]]}\\
+\\
+
+<<v12>>
+12 Liebäugle nicht mit einem übermütigen Menschen, der Erfolg hat, /\\
+ bedenk, dass er nicht bis zum Tod straflos bleibt.\\
+\\
+
+<<v13>>
+13 Bleib dem Menschen fern, der Macht hat zu töten, /\\
+ und setz dich nicht Todesängsten aus! Nahst du dich ihm, so verfehle
+dich nicht, /\\
+ sonst nimmt er dir das Leben. Wisse, dass du dich zwischen Schlingen
+bewegst /\\
+ und über eine Fanggrube schreitest. ^{[[#fn8][8]][[#fn9][9]]}\\
+\\
+
+<<v14>>
+14 Antworte deinem Nächsten, so gut du kannst, /\\
+ du selbst aber berate dich mit Weisen!\\
+\\
+
+<<v15>>
+15 Stell deine Überlegung zusammen mit Verständigen an /\\
+ und berate alles in ihrem Kreis! ^{[[#fn10][10]][[#fn11][11]]}\\
+\\
+
+<<v16>>
+16 Gerechte Männer seien deine Tischgenossen, /\\
+ dein Ruhm bestehe in der Gottesfurcht. ^{[[#fn12][12]]}\\
+\\
+
+<<v17>>
+17 Die Hände der Weisen fassen das Richtige an, /\\
+ ein redegewandter Weiser ist Herrscher in seinem Volk.
+^{[[#fn13][13]][[#fn14][14]]}\\
+\\
+
+<<v18>>
+18 Gefürchtet in der Stadt ist der Schwätzer, /\\
+ ein prahlerischer Mund ist verhasst.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Spr 2,16
+
+^{[[#fnm2][2]]} ℘ Spr 6,25
+
+^{[[#fnm3][3]]} ℘ Ijob 31,1
+
+^{[[#fnm4][4]]} 5b: Der Verfasser hat vor allem die materiellen und
+sozialen Nachteile im Auge (vgl. Ex 22,15f; Dtn 22,29). Sittliche
+Beweggründe sind oft weniger wirkungsvoll.
+
+^{[[#fnm5][5]]} ℘ Spr 5,10; 29,3
+
+^{[[#fnm6][6]]} ℘ Spr 5,5
+
+^{[[#fnm7][7]]} ℘ Ps 37,13
+
+^{[[#fnm8][8]]} ℘ Spr 29,5
+
+^{[[#fnm9][9]]} Es ist wohl an die heidnischen Herrscher Ägyptens oder
+Syriens gedacht, die wegen ihrer Willkür und Grausamkeit bekannt waren.
+
+^{[[#fnm10][10]]} ℘ 6,34-37
+
+^{[[#fnm11][11]]} 15b: G: und berate alles nach dem Gesetz des Höchsten!
+
+^{[[#fnm12][12]]} ℘ 10,22; 25,6
+
+^{[[#fnm13][13]]} ℘ 20,27
+
+^{[[#fnm14][14]]} 17a: Text unsicher; G, kaum richtig: Ein Werk aus
+Künstlerhand findet Lob.

@@ -1,0 +1,223 @@
+#+TITLE: Spr 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-09-03 Di 01:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 8.html
+
+* Spr 8
+
+<<verses>>
+
+<<v1>>
+* Die Weisheit als Gabe Gottes: 8,1 - 9,18
+
+1 Ruft nicht die Weisheit, /\\
+ erhebt nicht die Klugheit ihre Stimme? [fn:1] [fn:2]\\
+\\
+
+<<v2>>
+2 Bei der Stadtburg, auf den Straßen, /\\
+ an der Kreuzung der Wege steht sie;\\
+\\
+
+<<v3>>
+3 neben den Toren, wo die Stadt beginnt, /\\
+ am Zugang zu den Häusern ruft sie laut:\\
+\\
+
+<<v4>>
+4 Euch, ihr Leute, lade ich ein, /\\
+ meine Stimme ergeht an alle Menschen:\\
+\\
+
+<<v5>>
+5 Ihr Unerfahrenen, werdet klug, /\\
+ ihr Törichten, nehmt Vernunft an!\\
+\\
+
+<<v6>>
+6 Hört her! Aufrichtig rede ich. /\\
+ Redlich ist, was meine Lippen reden.\\
+\\
+
+<<v7>>
+7 Die Wahrheit spricht meine Zunge, /\\
+ Unrechtes ist meinen Lippen ein Gräuel.\\
+\\
+
+<<v8>>
+8 Alle meine Worte sind recht, /\\
+ keines von ihnen ist hinterhältig und falsch.\\
+\\
+
+<<v9>>
+9 Für den Verständigen sind sie alle klar /\\
+ und richtig für den, der Erkenntnis fand.\\
+\\
+
+<<v10>>
+10 Nehmt lieber Bildung an als Silber, /\\
+ lieber Verständnis als erlesenes Gold!\\
+\\
+
+<<v11>>
+11 Ja, Weisheit übertrifft die Perlen an Wert, /\\
+ keine kostbaren Steine kommen ihr gleich. [fn:3]\\
+\\
+
+<<v12>>
+12 Ich, die Weisheit, verweile bei der Klugheit, /\\
+ ich entdecke Erkenntnis und guten Rat.\\
+\\
+
+<<v13>>
+13 Gottesfurcht verlangt, Böses zu hassen. /\\
+ Hochmut und Hoffart, schlechte Taten /\\
+ und einen verlogenen Mund hasse ich.\\
+\\
+
+<<v14>>
+14 Bei mir ist Rat und Hilfe; /\\
+ ich bin die Einsicht, bei mir ist Macht.\\
+\\
+
+<<v15>>
+15 Durch mich regieren die Könige /\\
+ und entscheiden die Machthaber, wie es Recht ist;\\
+\\
+
+<<v16>>
+16 durch mich versehen die Herrscher ihr Amt, /\\
+ die Vornehmen und alle Verwalter des Rechts. [fn:4]\\
+\\
+
+<<v17>>
+17 Ich liebe alle, die mich lieben, /\\
+ und wer mich sucht, der wird mich finden.\\
+\\
+
+<<v18>>
+18 Reichtum und Ehre sind bei mir, /\\
+ angesehener Besitz und Glück; [fn:5]\\
+\\
+
+<<v19>>
+19 meine Frucht ist besser als Gold und Feingold, /\\
+ mein Nutzen übertrifft wertvolles Silber.\\
+\\
+
+<<v20>>
+20 Ich gehe auf dem Weg der Gerechtigkeit, /\\
+ mitten auf den Pfaden des Rechtes,\\
+\\
+
+<<v21>>
+21 um denen, die mich lieben, Gaben zu verleihen /\\
+ und ihre Scheunen zu füllen.\\
+\\
+
+<<v22>>
+22 Der Herr hat mich geschaffen im Anfang seiner Wege, /\\
+ vor seinen Werken in der Urzeit; [fn:6] [fn:7]\\
+\\
+
+<<v23>>
+23 in frühester Zeit wurde ich gebildet, /\\
+ am Anfang, beim Ursprung der Erde.\\
+\\
+
+<<v24>>
+24 Als die Urmeere noch nicht waren, /\\
+ wurde ich geboren, /\\
+ als es die Quellen noch nicht gab, die wasserreichen.\\
+\\
+
+<<v25>>
+25 Ehe die Berge eingesenkt wurden, /\\
+ vor den Hügeln wurde ich geboren.\\
+\\
+
+<<v26>>
+26 Noch hatte er die Erde nicht gemacht und die Fluren /\\
+ und alle Schollen des Festlands.\\
+\\
+
+<<v27>>
+27 Als er den Himmel baute, war ich dabei, /\\
+ als er den Erdkreis abmaß über den Wassern, [fn:8]\\
+\\
+
+<<v28>>
+28 als er droben die Wolken befestigte /\\
+ und Quellen strömen ließ aus dem Urmeer,\\
+\\
+
+<<v29>>
+29 als er dem Meer seine Satzung gab /\\
+ und die Wasser nicht seinen Befehl übertreten durften,\\
+\\
+
+<<v30>>
+30 als er die Fundamente der Erde abmaß, /\\
+ da war ich als geliebtes Kind bei ihm. Ich war seine Freude Tag für Tag
+/\\
+ und spielte vor ihm allezeit.\\
+\\
+
+<<v31>>
+31 Ich spielte auf seinem Erdenrund /\\
+ und meine Freude war es, bei den Menschen zu sein.\\
+\\
+
+<<v32>>
+32 Nun, ihr Söhne, hört auf mich! /\\
+ Wohl dem, der auf meine Wege achtet.\\
+\\
+
+<<v33>>
+33 Hört die Mahnung und werdet weise, /\\
+ lehnt sie nicht ab!\\
+\\
+
+<<v34>>
+34 Wohl dem, der auf mich hört, /\\
+ der Tag für Tag an meinen Toren wacht /\\
+ und meine Türpfosten hütet.\\
+\\
+
+<<v35>>
+35 Wer mich findet, findet Leben /\\
+ und erlangt das Gefallen des Herrn.\\
+\\
+
+<<v36>>
+36 Doch wer mich verfehlt, der schadet sich selbst; /\\
+ alle, die mich hassen, lieben den Tod.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Sir_24.org::v1][Sir 24,1f]]
+
+[fn:2] 1-21: Die Weisheit tritt als Mahnrednerin auf wie in 1,20-33.
+
+[fn:3] [[file:Spr_3.org::v15][3,15]]
+
+[fn:4] [[file:Weish_6.org::v20][Weish 6,20]]
+
+[fn:5] [[file:Weish_8.org::v5][Weish 8,5]]
+
+[fn:6] [[file:Weish_8.org::v2][Weish 8,2-4]]
+
+[fn:7] 22-33: Zur personifizierten Weisheit des Schöpfergottes
+vgl. die Einleitung. 22a: So mit S, Vg und der aramäischen Übersetzung;
+andere Übersetzungsmöglichkeit: als Erstling seiner Schöpfungswerke.
+
+[fn:8] [[file:Ijob_28.org::v24][Ijob 28,24-27]]

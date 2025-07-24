@@ -1,0 +1,130 @@
+#+TITLE: Hld 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-07-02 Mi 11:18]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Hld 5.html
+
+* Hld 5
+
+<<verses>>
+
+<<v1>>
+1 Ich komme in meinen Garten, Schwester Braut; /\\
+ ich pflücke meine Myrrhe, den Balsam; esse meine Wabe samt dem Honig,
+/\\
+ trinke meinen Wein und die Milch. Freunde, esst und trinkt, /\\
+ berauscht euch an der Liebe!\\
+\\
+
+<<v2>>
+2 Ich schlief, doch mein Herz war wach. /\\
+ Horch, mein Geliebter klopft: Mach auf, meine Schwester und Freundin,
+/\\
+ meine Taube, du Makellose! Mein Kopf ist voll Tau, /\\
+ aus meinen Locken tropft die Nacht.\\
+\\
+
+<<v3>>
+3 Ich habe mein Kleid schon abgelegt - /\\
+ wie soll ich es wieder anziehen? Die Füße habe ich gewaschen - /\\
+ soll ich sie wieder beschmutzen?\\
+\\
+
+<<v4>>
+4 Mein Geliebter streckte die Hand durch die Luke; /\\
+ da bebte mein Herz ihm entgegen.\\
+\\
+
+<<v5>>
+5 Ich stand auf, dem Geliebten zu öffnen. /\\
+ Da tropften meine Hände von Myrrhe am Griff des Riegels.\\
+\\
+
+<<v6>>
+6 Ich öffnete meinem Geliebten: /\\
+ Doch der Geliebte war weg, verschwunden. /\\
+ Mir stockte der Atem: Er war weg. Ich suchte ihn, ich fand ihn nicht.
+/\\
+ Ich rief ihn, er antwortete nicht. [fn:1]\\
+\\
+
+<<v7>>
+7 Da fanden mich die Wächter bei ihrer Runde durch die Stadt; /\\
+ sie schlugen, sie verletzten mich. Den Mantel entrissen sie mir, /\\
+ die Wächter der Mauern. [fn:2]\\
+\\
+
+<<v8>>
+8 Ich beschwöre euch, Jerusalems Töchter: /\\
+ Wenn ihr meinen Geliebten findet, sagt ihm, /\\
+ ich bin krank vor Liebe. [fn:3] [fn:4]\\
+\\
+
+<<v9>>
+9 Was hat dein Geliebter den andern voraus, /\\
+ du schönste der Frauen? Was hat dein Geliebter den andern voraus, /\\
+ dass du so uns beschwörst?\\
+\\
+
+<<v10>>
+10 Mein Geliebter ist weiß und rot, /\\
+ ist ausgezeichnet vor Tausenden.\\
+\\
+
+<<v11>>
+11 Sein Haupt ist reines Gold. /\\
+ Seine Locken sind Rispen, rabenschwarz.\\
+\\
+
+<<v12>>
+12 Seine Augen sind wie Tauben an Wasserbächen; /\\
+ (die Zähne,) in Milch gebadet, sitzen fest. [fn:5]\\
+\\
+
+<<v13>>
+13 Seine Wangen sind wie Balsambeete, /\\
+ darin Gewürzkräuter sprießen, seine Lippen wie Lilien; /\\
+ sie tropfen von flüssiger Myrrhe.\\
+\\
+
+<<v14>>
+14 Seine Finger sind wie Stäbe aus Gold, /\\
+ mit Steinen aus Tarschisch besetzt. Sein Leib ist wie eine Platte aus
+Elfenbein, /\\
+ mit Saphiren bedeckt. [fn:6]\\
+\\
+
+<<v15>>
+15 Seine Schenkel sind Marmorsäulen, /\\
+ auf Sockeln von Feingold. Seine Gestalt ist wie der Libanon, /\\
+ erlesen wie Zedern.\\
+\\
+
+<<v16>>
+16 Sein Mund ist voll Süße; /\\
+ alles ist Wonne an ihm. Das ist mein Geliebter, /\\
+ ja, das ist mein Freund, /\\
+ ihr Töchter Jerusalems.\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:Hld_3.org::v1][3,1]]
+
+[fn:2] [[file:Hld_3.org::v3][3,3]]
+
+[fn:3] [[file:Hld_2.org::v7][2,7]]; [[file:Hld_3.org::v5][3,5]]
+
+[fn:4] sagt ihm, wörtlich: Was sollt ihr ihm melden?
+
+[fn:5] 12c: Wörtlich: fest in der Fassung.
+
+[fn:6] 14a: Wörtlich: Seine Hände. 

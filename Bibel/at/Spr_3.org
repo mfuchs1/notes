@@ -1,0 +1,218 @@
+#+TITLE: Spr 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-21 Mi 21:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 3.html
+
+* Spr 3
+
+<<verses>>
+
+<<v1>>
+1 Mein Sohn, vergiss meine Lehre nicht, bewahre meine Gebote in deinem
+Herzen!\\
+\\
+
+<<v2>>
+2 Denn sie vermehren die Tage und Jahre deines Lebens /\\
+ und bringen dir Wohlergehen. [fn:1]\\
+\\
+
+<<v3>>
+3 Nie sollen Liebe und Treue dich verlassen; /\\
+ binde sie dir um den Hals, /\\
+ schreib sie auf die Tafel deines Herzens! [fn:2]\\
+\\
+
+<<v4>>
+4 Dann erlangst du Gunst und Beifall /\\
+ bei Gott und den Menschen. [fn:3]\\
+\\
+
+<<v5>>
+5 Mit ganzem Herzen vertrau auf den Herrn, /\\
+ bau nicht auf eigene Klugheit;\\
+\\
+
+<<v6>>
+6 such ihn zu erkennen auf all deinen Wegen, /\\
+ dann ebnet er selbst deine Pfade.\\
+\\
+
+<<v7>>
+7 Halte dich nicht selbst für weise, /\\
+ fürchte den Herrn und fliehe das Böse!\\
+\\
+
+<<v8>>
+8 Das ist heilsam für deine Gesundheit /\\
+ und erfrischt deine Glieder.\\
+\\
+
+<<v9>>
+9 Ehre den Herrn mit deinem Vermögen, /\\
+ mit dem Besten von dem, was du erntest.\\
+\\
+
+<<v10>>
+10 Dann füllen sich deine Scheunen mit Korn, /\\
+ deine Fässer laufen über von Wein.\\
+\\
+
+<<v11>>
+11 Mein Sohn, verachte nicht die Zucht des Herrn, /\\
+ widersetz dich nicht, wenn er dich zurechtweist.\\
+\\
+
+<<v12>>
+12 Wen der Herr liebt, den züchtigt er, /\\
+ wie ein Vater seinen Sohn, den er gern hat.\\
+\\
+
+<<v13>>
+13 Wohl dem Mann, der Weisheit gefunden, /\\
+ dem Mann, der Einsicht gewonnen hat.\\
+\\
+
+<<v14>>
+14 Denn sie zu erwerben ist besser als Silber, /\\
+ sie zu gewinnen ist besser als Gold.\\
+\\
+
+<<v15>>
+15 Sie übertrifft die Perlen an Wert, /\\
+ keine kostbaren Steine kommen ihr gleich. [fn:4]\\
+\\
+
+<<v16>>
+16 Langes Leben birgt sie in ihrer Rechten, /\\
+ in ihrer Linken Reichtum und Ehre;\\
+\\
+
+<<v17>>
+17 ihre Wege sind Wege der Freude, /\\
+ all ihre Pfade führen zum Glück.\\
+\\
+
+<<v18>>
+18 Wer nach ihr greift, dem ist sie ein Lebensbaum, /\\
+ wer sie fest hält, ist glücklich zu preisen. [fn:5]\\
+\\
+
+<<v19>>
+19 Der Herr hat die Erde mit Weisheit gegründet /\\
+ und mit Einsicht den Himmel befestigt. [fn:6]\\
+\\
+
+<<v20>>
+20 Durch sein Wissen brechen die tiefen Quellen hervor /\\
+ und träufeln die Wolken den Tau herab.\\
+\\
+
+<<v21>>
+21 Mein Sohn, lass beides nicht aus den Augen: /\\
+ Bewahre Umsicht und Besonnenheit!\\
+\\
+
+<<v22>>
+22 Dann werden sie dir ein Lebensquell, /\\
+ ein Schmuck für deinen Hals;\\
+\\
+
+<<v23>>
+23 dann gehst du sicher deinen Weg /\\
+ und stößt mit deinem Fuß nicht an. [fn:7]\\
+\\
+
+<<v24>>
+24 Gehst du zur Ruhe, so schreckt dich nichts auf, /\\
+ legst du dich nieder, erquickt dich dein Schlaf.\\
+\\
+
+<<v25>>
+25 Du brauchst dich vor jähem Erschrecken nicht zu fürchten /\\
+ noch vor dem Verderben, das über die Frevler kommt.\\
+\\
+
+<<v26>>
+26 Der Herr wird deine Zuversicht sein, /\\
+ er bewahrt deinen Fuß vor der Schlinge.\\
+\\
+
+<<v27>>
+27 Versag keine Wohltat dem, der sie braucht, /\\
+ wenn es in deiner Hand liegt, Gutes zu tun. [fn:8]\\
+\\
+
+<<v28>>
+28 Wenn du jetzt etwas hast, /\\
+ sag nicht zu deinem Nächsten: /\\
+ Geh, komm wieder, morgen will ich dir etwas geben. [fn:9]\\
+\\
+
+<<v29>>
+29 Sinne nichts Böses gegen deinen Nächsten, /\\
+ der friedlich neben dir wohnt.\\
+\\
+
+<<v30>>
+30 Bring niemand ohne Grund vor Gericht, /\\
+ wenn er dir nichts Böses getan hat.\\
+\\
+
+<<v31>>
+31 Beneide den Gewalttätigen nicht, /\\
+ wähle keinen seiner Wege;\\
+\\
+
+<<v32>>
+32 denn ein Gräuel ist dem Herrn der Ränkeschmied, /\\
+ die Redlichen sind seine Freunde.\\
+\\
+
+<<v33>>
+33 Der Fluch des Herrn fällt auf das Haus des Frevlers, /\\
+ die Wohnung der Gerechten segnet er.\\
+\\
+
+<<v34>>
+34 Die Zuchtlosen verspottet er, /\\
+ den Gebeugten erweist er seine Gunst. [fn:10]\\
+\\
+
+<<v35>>
+35 Die Weisen erlangen Ehre, /\\
+ die Toren aber häufen Schande auf sich.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Spr_4.org::v10][4,10]]
+
+[fn:2] [[file:Ps_85.org::v11][Ps 85,11]]
+
+[fn:3] [[file:1.Sam_2.org::v26][1 Sam 2,26]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_2.org::v52][Lk 2,52]]
+
+[fn:4] [[file:Spr_8.org::v11][8,11]]
+
+[fn:5] Der Lebensbaum im Paradies ([[file:Gen_2.org::v9][Gen 2,9]]) ist Symbol für
+langes und glückliches Leben (vgl. [[file:Spr_11.org::v30][11,30]]; [[file:Spr_13.org::v12][13,12]]; [[file:Spr_15.org::v4][15,4]]).
+
+[fn:6] 19f: Die göttliche Schöpfungsweisheit wird poetisch
+personifiziert (vgl. [[file:Spr_8.org::v22][8,22-31]]). Zugrunde liegt das geozentrische Weltbild
+der Alten.
+
+[fn:7] [[file:Ps_91.org::v5][Ps 91,5-12]]
+
+[fn:8] [[file:Sir_4.org::v1][Sir 4,1-10]]
+
+[fn:9] [[file:~/RoamNotes/notes/Bibel/nt/Jak_2.org::v15][Jak 2,15f]]
+
+[fn:10] [[file:~/RoamNotes/notes/Bibel/nt/Jak_4.org::v6][Jak 4,6]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_5.org::v5][1 Petr 5,5]]

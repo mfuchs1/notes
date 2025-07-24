@@ -1,0 +1,119 @@
+:PROPERTIES:
+:ID:       9ca9c5ea-61b4-4d4a-ac3e-6073dcf95030
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Römer* --
+[[file:Röm_1.html][1]] ... [[file:Röm_11.html][11]]
+[[file:Röm_12.html][12]] *13* [[file:Röm_14.html][14]]
+[[file:Röm_15.html][15]] [[file:Röm_16.html][16]]
+
+--------------
+
+* Röm 13
+  :PROPERTIES:
+  :CUSTOM_ID: röm-13
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Der Christ und die staatliche Ordnung: 13,1-7
+     :PROPERTIES:
+     :CUSTOM_ID: der-christ-und-die-staatliche-ordnung-131-7
+     :END:
+1 Jeder leiste den Trägern der staatlichen Gewalt den schuldigen
+Gehorsam. Denn es gibt keine staatliche Gewalt, die nicht von Gott
+stammt; jede ist von Gott eingesetzt. ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Wer sich daher der staatlichen Gewalt widersetzt, stellt sich gegen
+die Ordnung Gottes, und wer sich ihm entgegenstellt, wird dem Gericht
+verfallen.
+
+<<v3>>
+3 Vor den Trägern der Macht hat sich nicht die gute, sondern die böse
+Tat zu fürchten; willst du also ohne Furcht vor der staatlichen Gewalt
+leben, dann tue das Gute, sodass du ihre Anerkennung findest.
+
+<<v4>>
+4 Sie steht im Dienst Gottes und verlangt, dass du das Gute tust. Wenn
+du aber Böses tust, fürchte dich! Denn nicht ohne Grund trägt sie das
+Schwert. Sie steht im Dienst Gottes und vollstreckt das Urteil an dem,
+der Böses tut.
+
+<<v5>>
+5 Deshalb ist es notwendig, Gehorsam zu leisten, nicht allein aus Furcht
+vor der Strafe, sondern vor allem um des Gewissens willen.
+^{[[#fn3][3]]}
+
+<<v6>>
+6 Das ist auch der Grund, weshalb ihr Steuern zahlt; denn in Gottes
+Auftrag handeln jene, die Steuern einzuziehen haben.
+
+<<v7>>
+7 Gebt allen, was ihr ihnen schuldig seid, sei es Steuer oder Zoll, sei
+es Furcht oder Ehre. ^{[[#fn4][4]]}\\
+\\
+
+<<v8>>
+**** Das grundlegende Gebot: 13,8-14
+     :PROPERTIES:
+     :CUSTOM_ID: das-grundlegende-gebot-138-14
+     :END:
+8 Bleibt niemand etwas schuldig; nur die Liebe schuldet ihr einander
+immer. Wer den andern liebt, hat das Gesetz erfüllt. ^{[[#fn5][5]]}
+
+<<v9>>
+9 Denn die Gebote: /Du sollst nicht die Ehe brechen, du sollst nicht
+töten, du sollst nicht stehlen, du sollst nicht begehren!,/ und alle
+anderen Gebote sind in dem einen Satz zusammengefasst: /Du sollst deinen
+Nächsten lieben wie dich selbst./ ^{[[#fn6][6]]}
+
+<<v10>>
+10 Die Liebe tut dem Nächsten nichts Böses. Also ist die Liebe die
+Erfüllung des Gesetzes. ^{[[#fn7][7]]}
+
+<<v11>>
+11 Bedenkt die gegenwärtige Zeit: Die Stunde ist gekommen, aufzustehen
+vom Schlaf. Denn jetzt ist das Heil uns näher als zu der Zeit, da wir
+gläubig wurden. ^{[[#fn8][8]]}
+
+<<v12>>
+12 Die Nacht ist vorgerückt, der Tag ist nahe. Darum lasst uns ablegen
+die Werke der Finsternis und anlegen die Waffen des Lichts.
+^{[[#fn9][9]]}
+
+<<v13>>
+13 Lasst uns ehrenhaft leben wie am Tag, ohne maßloses Essen und
+Trinken, ohne Unzucht und Ausschweifung, ohne Streit und Eifersucht.
+^{[[#fn10][10]]}
+
+<<v14>>
+14 Legt (als neues Gewand) den Herrn Jesus Christus an und sorgt nicht
+so für euren Leib, dass die Begierden erwachen. ^{[[#fn11][11]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 1 Petr 2,13f; Tit 3,1
+
+^{[[#fnm2][2]]} 1-7: Zu den Grenzen des hier geforderten Gehorsams
+gegenüber der staatlichen Gewalt vgl. Offb 13.
+
+^{[[#fnm3][3]]} ℘ 1 Petr 2,19
+
+^{[[#fnm4][4]]} ℘ Mt 22,21
+
+^{[[#fnm5][5]]} ℘ Joh 13,34
+
+^{[[#fnm6][6]]} ℘ Ex 20,13-17; Dtn 5,17-21; Mt 22,39f; Gal 5,14; Lev
+19,18
+
+^{[[#fnm7][7]]} ℘ 1 Kor 13,4
+
+^{[[#fnm8][8]]} ℘ Eph 5,14.16; 1 Thess 5,5f
+
+^{[[#fnm9][9]]} ℘ Eph 6,11.13; 1 Thess 5,8
+
+^{[[#fnm10][10]]} ℘ Mt 24,49; Lk 21,34
+
+^{[[#fnm11][11]]} ℘ Gal 3,27; Eph 4,24

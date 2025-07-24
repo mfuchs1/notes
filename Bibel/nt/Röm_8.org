@@ -1,0 +1,297 @@
+:PROPERTIES:
+:ID:       3b29ea91-b18b-45c5-8e8d-958ae0bcf0d4
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Römer* --
+[[file:Röm_1.html][1]] ... [[file:Röm_6.html][6]] [[file:Röm_7.html][7]]
+*8* [[file:Röm_9.html][9]] [[file:Röm_10.html][10]] ...
+[[file:Röm_16.html][16]]
+
+--------------
+
+* Röm 8
+  :PROPERTIES:
+  :CUSTOM_ID: röm-8
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das Leben der Christen im Geist: 8,1-17
+     :PROPERTIES:
+     :CUSTOM_ID: das-leben-der-christen-im-geist-81-17
+     :END:
+1 Jetzt gibt es keine Verurteilung mehr für die, welche in Christus
+Jesus sind. ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Denn das Gesetz des Geistes und des Lebens in Christus Jesus hat dich
+frei gemacht vom Gesetz der Sünde und des Todes. ^{[[#fn3][3]]}
+
+<<v3>>
+3 Weil das Gesetz, ohnmächtig durch das Fleisch, nichts vermochte,
+sandte Gott seinen Sohn in der Gestalt des Fleisches, das unter der
+Macht der Sünde steht, zur Sühne für die Sünde, um an seinem Fleisch die
+Sünde zu verurteilen; ^{[[#fn4][4]]}
+
+<<v4>>
+4 dies tat er, damit die Forderung des Gesetzes durch uns erfüllt werde,
+die wir nicht nach dem Fleisch, sondern nach dem Geist leben.
+^{[[#fn5][5]]}
+
+<<v5>>
+5 Denn alle, die vom Fleisch bestimmt sind, trachten nach dem, was dem
+Fleisch entspricht, alle, die vom Geist bestimmt sind, nach dem, was dem
+Geist entspricht.
+
+<<v6>>
+6 Das Trachten des Fleisches führt zum Tod, das Trachten des Geistes
+aber zu Leben und Frieden. ^{[[#fn6][6]]}
+
+<<v7>>
+7 Denn das Trachten des Fleisches ist Feindschaft gegen Gott; es
+unterwirft sich nicht dem Gesetz Gottes und kann es auch nicht.
+^{[[#fn7][7]]}
+
+<<v8>>
+8 Wer vom Fleisch bestimmt ist, kann Gott nicht gefallen.
+
+<<v9>>
+9 Ihr aber seid nicht vom Fleisch, sondern vom Geist bestimmt, da ja der
+Geist Gottes in euch wohnt. Wer den Geist Christi nicht hat, der gehört
+nicht zu ihm. ^{[[#fn8][8]]}
+
+<<v10>>
+10 Wenn Christus in euch ist, dann ist zwar der Leib tot aufgrund der
+Sünde, der Geist aber ist Leben aufgrund der Gerechtigkeit.
+^{[[#fn9][9]][[#fn10][10]]}
+
+<<v11>>
+11 Wenn der Geist dessen in euch wohnt, der Jesus von den Toten
+auferweckt hat, dann wird er, der Christus Jesus von den Toten
+auferweckt hat, auch euren sterblichen Leib lebendig machen durch seinen
+Geist, der in euch wohnt. ^{[[#fn11][11]]}
+
+<<v12>>
+12 Wir sind also nicht dem Fleisch verpflichtet, Brüder, so dass wir
+nach dem Fleisch leben müssten.
+
+<<v13>>
+13 Wenn ihr nach dem Fleisch lebt, müsst ihr sterben; wenn ihr aber
+durch den Geist die (sündigen) Taten des Leibes tötet, werdet ihr leben.
+^{[[#fn12][12]]}
+
+<<v14>>
+14 Denn alle, die sich vom Geist Gottes leiten lassen, sind Söhne
+Gottes. ^{[[#fn13][13]]}
+
+<<v15>>
+15 Denn ihr habt nicht einen Geist empfangen, der euch zu Sklaven macht,
+so dass ihr euch immer noch fürchten müsstet, sondern ihr habt den Geist
+empfangen, der euch zu Söhnen macht, den Geist, in dem wir rufen: Abba,
+Vater! ^{[[#fn14][14]][[#fn15][15]]}
+
+<<v16>>
+16 So bezeugt der Geist selber unserem Geist, dass wir Kinder Gottes
+sind.
+
+<<v17>>
+17 Sind wir aber Kinder, dann auch Erben; wir sind Erben Gottes und sind
+Miterben Christi, wenn wir mit ihm leiden, um mit ihm auch verherrlicht
+zu werden. ^{[[#fn16][16]]}\\
+\\
+
+<<v18>>
+**** Die Hoffnung auf die Erlösung der Welt: 8,18-30
+     :PROPERTIES:
+     :CUSTOM_ID: die-hoffnung-auf-die-erlösung-der-welt-818-30
+     :END:
+18 Ich bin überzeugt, dass die Leiden der gegenwärtigen Zeit nichts
+bedeuten im Vergleich zu der Herrlichkeit, die an uns offenbar werden
+soll. ^{[[#fn17][17]][[#fn18][18]]}
+
+<<v19>>
+19 Denn die ganze Schöpfung wartet sehnsüchtig auf das Offenbarwerden
+der Söhne Gottes. ^{[[#fn19][19]]}
+
+<<v20>>
+20 Die Schöpfung ist der Vergänglichkeit unterworfen, nicht aus eigenem
+Willen, sondern durch den, der sie unterworfen hat; aber zugleich gab er
+ihr Hoffnung: ^{[[#fn20][20]]}
+
+<<v21>>
+21 Auch die Schöpfung soll von der Sklaverei und Verlorenheit befreit
+werden zur Freiheit und Herrlichkeit der Kinder Gottes. ^{[[#fn21][21]]}
+
+<<v22>>
+22 Denn wir wissen, dass die gesamte Schöpfung bis zum heutigen Tag
+seufzt und in Geburtswehen liegt.
+
+<<v23>>
+23 Aber auch wir, obwohl wir als Erstlingsgabe den Geist haben, seufzen
+in unserem Herzen und warten darauf, dass wir mit der Erlösung unseres
+Leibes als Söhne offenbar werden. ^{[[#fn22][22]]}
+
+<<v24>>
+24 Denn wir sind gerettet, doch in der Hoffnung. Hoffnung aber, die man
+schon erfüllt sieht, ist keine Hoffnung. Wie kann man auf etwas hoffen,
+das man sieht? ^{[[#fn23][23]]}
+
+<<v25>>
+25 Hoffen wir aber auf das, was wir nicht sehen, dann harren wir aus in
+Geduld. ^{[[#fn24][24]]}
+
+<<v26>>
+26 So nimmt sich auch der Geist unserer Schwachheit an. Denn wir wissen
+nicht, worum wir in rechter Weise beten sollen; der Geist selber tritt
+jedoch für uns ein mit Seufzen, das wir nicht in Worte fassen können.
+
+<<v27>>
+27 Und Gott, der die Herzen erforscht, weiß, was die Absicht des Geistes
+ist: Er tritt so, wie Gott es will, für die Heiligen ein.
+
+<<v28>>
+28 Wir wissen, dass Gott bei denen, die ihn lieben, alles zum Guten
+führt, bei denen, die nach seinem ewigen Plan berufen sind;
+^{[[#fn25][25]]}
+
+<<v29>>
+29 denn alle, die er im voraus erkannt hat, hat er auch im voraus dazu
+bestimmt, an Wesen und Gestalt seines Sohnes teilzuhaben, damit dieser
+der Erstgeborene von vielen Brüdern sei. ^{[[#fn26][26]][[#fn27][27]]}
+
+<<v30>>
+30 Die aber, die er vorausbestimmt hat, hat er auch berufen, und die er
+berufen hat, hat er auch gerecht gemacht; die er aber gerecht gemacht
+hat, die hat er auch verherrlicht. ^{[[#fn28][28]]}\\
+\\
+
+<<v31>>
+**** Die Gewissheit der Glaubenden: 8,31-39
+     :PROPERTIES:
+     :CUSTOM_ID: die-gewissheit-der-glaubenden-831-39
+     :END:
+31 Was ergibt sich nun, wenn wir das alles bedenken? Ist Gott für uns,
+wer ist dann gegen uns?
+
+<<v32>>
+32 Er hat seinen eigenen Sohn nicht verschont, sondern ihn für uns alle
+hingegeben - wie sollte er uns mit ihm nicht alles schenken?
+^{[[#fn29][29]]}
+
+<<v33>>
+33 Wer kann die Auserwählten Gottes anklagen? Gott ist es, der gerecht
+macht. ^{[[#fn30][30]]}
+
+<<v34>>
+34 Wer kann sie verurteilen? Christus Jesus, der gestorben ist, mehr
+noch: der auferweckt worden ist, sitzt zur Rechten Gottes und tritt für
+uns ein. ^{[[#fn31][31]]}
+
+<<v35>>
+35 Was kann uns scheiden von der Liebe Christi? Bedrängnis oder Not oder
+Verfolgung, Hunger oder Kälte, Gefahr oder Schwert?
+
+<<v36>>
+36 In der Schrift steht: /Um deinetwillen sind wir den ganzen Tag dem
+Tod ausgesetzt; wir werden behandelt wie Schafe, die man zum Schlachten
+bestimmt hat./ ^{[[#fn32][32]]}
+
+<<v37>>
+37 Doch all das überwinden wir durch den, der uns geliebt hat.
+^{[[#fn33][33]]}
+
+<<v38>>
+38 Denn ich bin gewiss: Weder Tod noch Leben, weder Engel noch Mächte,
+weder Gegenwärtiges noch Zukünftiges, weder Gewalten ^{[[#fn34][34]]}
+
+<<v39>>
+39 der Höhe oder Tiefe noch irgendeine andere Kreatur können uns
+scheiden von der Liebe Gottes, die in Christus Jesus ist, unserem
+Herrn.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 10,4
+
+^{[[#fnm2][2]]} 1-11: Das Leben «nach dem Geist» ist hier einem Leben
+«nach dem Fleisch» gegenübergestellt; «Fleisch» bezeichnet in biblischer
+Überlieferung das Irdische und Vergängliche, das, worauf man sich nicht
+verlassen darf, wenn man nicht der Sünde verfallen will. Deshalb kann
+das Wort «Fleisch» auch den Menschen bezeichnen, der von der Sünde
+beherrscht wird.
+
+^{[[#fnm3][3]]} ℘ 2 Kor 3,17
+
+^{[[#fnm4][4]]} ℘ 2 Kor 5,21; Gal 4,4; Phil 2,7; Hebr 2,17
+
+^{[[#fnm5][5]]} ℘ Gal 5,16.25
+
+^{[[#fnm6][6]]} ℘ 6,21
+
+^{[[#fnm7][7]]} ℘ Jak 4,4
+
+^{[[#fnm8][8]]} ℘ 1 Kor 3,16
+
+^{[[#fnm9][9]]} ℘ Gal 2,20; Phil 1,21
+
+^{[[#fnm10][10]]} aufgrund der Sünde, andere Übersetzungsmöglichkeit
+(wegen des Zusammenhangs mit 6,10f): für die Sünde.
+
+^{[[#fnm11][11]]} ℘ 6,4; 2 Kor 4,14
+
+^{[[#fnm12][12]]} ℘ Gal 6,8; Eph 4,22-24
+
+^{[[#fnm13][13]]} ℘ Gal 5,18
+
+^{[[#fnm14][14]]} ℘ Gal 4,4-6
+
+^{[[#fnm15][15]]} Zu «Abba» vgl. die Anmerkung zu Mk 14,36.
+
+^{[[#fnm16][16]]} ℘ Gal 4,7; 2 Tim 2,11f; 1 Petr 4,13; Offb 21,7
+
+^{[[#fnm17][17]]} ℘ 2 Kor 4,17
+
+^{[[#fnm18][18]]} 18-39: Die gesamte Schöpfung soll erlöst werden. Die
+Leiden dieser Zeit können im Blick auf die verheißene Vollendung
+ertragen werden. Die Glaubenden sind der Not dieser Welt nicht enthoben,
+aber durch den Geist haben sie jetzt schon das Heil empfangen. Mit
+diesem Abschnitt wird der erste Hauptteil abgeschlossen.
+
+^{[[#fnm19][19]]} ℘ Kol 3,4; 1 Joh 3,2
+
+^{[[#fnm20][20]]} ℘ Gen 3,17-19
+
+^{[[#fnm21][21]]} ℘ 2 Petr 3,13
+
+^{[[#fnm22][22]]} ℘ 2 Kor 5,2-5
+
+^{[[#fnm23][23]]} ℘ 2 Kor 5,7; Hebr 11,1
+
+^{[[#fnm24][24]]} ℘ 2 Kor 4,18; Gal 5,5
+
+^{[[#fnm25][25]]} ℘ Eph 1,11
+
+^{[[#fnm26][26]]} ℘ Phil 3,21; Kol 1,18
+
+^{[[#fnm27][27]]} an Wesen und Gestalt seines Sohnes teilzuhaben,
+wörtlich: um dem Bild seines Sohnes gleichgestaltet zu werden. Mit dem
+Begriff «Bild» ist auf die neue, verklärte Leiblichkeit des
+auferstandenen Christus Bezug genommen, woran die Geretteten durch den
+Geist teilbekommen. Im Hintergrund steht der Gedanke der erneuerten
+Gottebenbildlichkeit (vgl. Gen 1,26f). Zum Gedanken an Christus als Bild
+Gottes vgl. 2 Kor 4,6; Kol 1,15; Hebr 1,3.
+
+^{[[#fnm28][28]]} ℘ 2 Thess 2,13f
+
+^{[[#fnm29][29]]} ℘ Joh 3,16
+
+^{[[#fnm30][30]]} ℘ Jes 50,8
+
+^{[[#fnm31][31]]} ℘ 4,25; Hebr 7,25; 1 Joh 2,1
+
+^{[[#fnm32][32]]} ℘ Ps 44,23
+
+^{[[#fnm33][33]]} ℘ 1 Joh 5,4
+
+^{[[#fnm34][34]]} ℘ Eph 1,21; 6,12; Kol 2,15; 1 Petr 3,22

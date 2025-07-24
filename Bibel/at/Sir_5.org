@@ -1,0 +1,120 @@
+:PROPERTIES:
+:ID:       4e4b569e-7e25-4030-8e57-7f18c4b2d0fc
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_3.html][3]] [[file:Sir_4.html][4]]
+*5* [[file:Sir_6.html][6]] [[file:Sir_7.html][7]] ...
+[[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 5
+  :PROPERTIES:
+  :CUSTOM_ID: sir-5
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Verlass dich nicht auf deinen Reichtum /\\
+ und sag nicht: Ich kann es mir leisten. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Folg nicht deinem Herzen und deinen Augen, /\\
+ um nach dem Begehren deiner Seele zu leben.\\
+\\
+
+<<v3>>
+3 Sag nicht: Wer vermag etwas gegen meine Macht? /\\
+ Denn der Herr rächt die Verfolgten. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Sag nicht: Ich habe gesündigt, /\\
+ doch was ist mir geschehen? /\\
+ Denn der Herr hat viel Geduld.\\
+\\
+
+<<v5>>
+5 Verlass dich nicht auf die Vergebung, /\\
+ füge nicht Sünde an Sünde, ^{[[#fn3][3]]}\\
+\\
+
+<<v6>>
+6 indem du sagst: Seine Barmherzigkeit ist groß, /\\
+ er wird mir viele Sünden verzeihen. Denn Erbarmen ist bei ihm, aber
+auch Zorn, /\\
+ auf den Frevlern ruht sein Grimm.\\
+\\
+
+<<v7>>
+7 Zögere nicht, dich zu ihm zu bekehren, /\\
+ verschieb es nicht Tag um Tag! Denn sein Zorn bricht plötzlich aus, /\\
+ zur Zeit der Vergeltung wirst du dahingerafft.\\
+\\
+
+<<v8>>
+8 Vertrau nicht auf trügerische Schätze; /\\
+ sie nützen nichts am Tag des Zorns. ^{[[#fn4][4]]}\\
+\\
+
+<<v9>>
+**** Die Verantwortung beim Reden: 5,9 - 6,4
+     :PROPERTIES:
+     :CUSTOM_ID: die-verantwortung-beim-reden-59---64
+     :END:
+9 Worfle nicht bei jedem Wind /\\
+ und geh nicht auf jedem Pfad! ^{[[#fn5][5]]}\\
+\\
+
+<<v10>>
+10 Bleib fest bei deiner Überzeugung, /\\
+ eindeutig sei deine Rede.\\
+\\
+
+<<v11>>
+11 Sei schnell bereit zum Hören, /\\
+ aber bedächtig bei der Antwort! ^{[[#fn6][6]]}\\
+\\
+
+<<v12>>
+12 Nur wenn du imstande bist, antworte deinem Mitmenschen, /\\
+ wenn nicht, leg die Hand auf den Mund! ^{[[#fn7][7]]}\\
+\\
+
+<<v13>>
+13 Ehre und Schmach liegen in der Hand des Schwätzers, /\\
+ des Menschen Zunge ist sein Untergang. ^{[[#fn8][8]]}\\
+\\
+
+<<v14>>
+14 Lass dich nicht doppelzüngig nennen /\\
+ und verleumde niemand mit deinen Worten! Denn für den Dieb ist Schande
+bestimmt, /\\
+ schlimme Schmach für den Doppelzüngigen.\\
+\\
+
+<<v15>>
+15 Im Kleinen wie im Großen handle nicht unrecht, /\\
+ sei nicht statt eines Freundes ein Feind!\\
+\\
+
+^{[[#fnm1][1]]} ℘ Ps 62,11
+
+^{[[#fnm2][2]]} 3b: Andere Übersetzungsmöglichkeit nach G: Denn der Herr
+ist ein strenger Richter.
+
+^{[[#fnm3][3]]} ℘ 7,8
+
+^{[[#fnm4][4]]} ℘ Spr 11,4
+
+^{[[#fnm5][5]]} 9a: Zu «worfeln» vgl. die Anmerkung zu Rut 3,2-4.
+
+^{[[#fnm6][6]]} ℘ Jak 1,19
+
+^{[[#fnm7][7]]} ℘ Spr 30,32
+
+^{[[#fnm8][8]]} ℘ 23,8; Spr 10,14

@@ -1,0 +1,63 @@
+#+title:      Die 7 Gaben des Hl. Geistes
+#+date:       [2025-05-27 Di 08:14]
+#+filetags:   :theology:
+#+identifier: 20250527T081402
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Die sieben Gaben des Hl Geistes.html
+
+* Was sind die 7 Gaben des Heiligen Geistes?
+
+Was sind die 7 Gaben des Heiligen Geistes und werden sie in der Bibel beschrieben. Alle Erläuterungen findest du in diesem Artikel.
+
+* Die Sieben Gaben des Heiligen Geistes
+
+Der Heilige Geist, der den Jüngern von Jesus versprochen wurde, ist im Neuen Testament mit drei Wort präsent: dynamis (= Allmacht Gottes), energeia (= wirksame Kraft), pneuma (= lebendiger Atem). Im Heiligen Geist ist uns die Fülle der Gnade geschenkt. Die biblische Rede von den „Sieben Gaben des Heiligen Geistes“ präzisiert das, was durch das Geschenk des Heiligen Geistes im einzelnen Gläubigen an Begabungen sichtbar werden kann und möglich wird. Man spricht von Charisma oder Charismen (altgriech. = aus Güte geschenkte Gabe).
+
+
+* Was sagt die Heilige Schrift?
+
+Im neuen Testament gibt es gleich an verschiedenen Stellen Listen der „Gaben des Heiligen Geistes“, die sich zum Teil überschneiden – etwa Röm 12,6-8; 1 Kor 12,8-10; 1 Kor 12,28-31; Eph 4,7.11f.; 1 Petr 4,10-11. Traditionell ist in der Kirche die Rede von „sieben“ Gaben des Heiligen Geistes. YOUCAT 310: „Die sieben Gaben des Heiligen Geistes sind: Weisheit, Einsicht, Rat, Stärke, Erkenntnis, Frömmigkeit und Gottesfurcht. Damit „begabt“ der Heilige Geist Christen; d.h., er schenkt ihnen, über ihre natürlichen Anlagen hinaus, bestimmte Kräfte und gibt ihnen die Chance, zu speziellen Werkzeugen Gottes in dieser Welt zu werden.“
+
+
+* Die kleine YOUCAT-Katechese
+
+** Der geheime Bauplan der Kirche
+
+In Neuburg an der Donau gibt es eine schöne alte Kirche, in der die Leute nur zur Decke schauen müssen, um die „Sieben Gaben des Heiligen Geistes“ zu entdecken. In einem kleinen Film erklärt Annemarie Strahl, was es mit dem merkwürdigen Gemälde auf sich hat. Ihre Erklärung ist schön und genau: Dargestellt wird der Heilige Geist, „wie er die Kirche erbaut ... Er ist da, wo in einem Deckengewölbe der Schlussstein steht, ohne den ein Gewölbe zusammenbricht. Unsere Kirche besteht nur deshalb, weil der Heilige Geist da ist und seine Gaben ausgießt ... Die Sieben Gaben fließen ja in sieben verschiedene Richtungen, und jeder, denke ich, hat eine Gabe oder mehrere Gaben gekriegt – ich glaube nicht, dass einer alle hat.“ Genau das steht auch in YOUCAT 119 auf die Frage: „Was tut der Heilige Geist in der Kirche?“ Antwort: „Der Heilige Geist baut die Kirche auf und treibt sie an. Er erinnert sie an ihre Mission. Er beruft Menschen in ihren Dienst und schenkt ihnen die nötigen Gaben. Er führt uns immer tiefer in die Gemeinschaft mit dem dreifaltigen Gott.“
+
+
+** Viele Architekten verderben die Kirche
+
+In Deutschland gibt es ein Sprichwort, das lautet: Viele Köche verderben den Brei. Der eine gibt noch ein bisschen Salz dazu. Der andere meint: Jetzt noch einen Löffel Honig! Der dritte sagt: Brei ohne Knoblauch? Geht ja gar nicht! Wetten, dass der Brei ungenießbar wird!? Genauso ungenießbar wird die Kirche, wenn selbsternannte Architekten meinen, die Kirche sei das, was wir Menschen aus ihr machen. Hier noch ein kluges Buch! Dort noch ein neues Gremium! Und hier eine fabelhafte Denkschrift! Ungeniert basteln sie an der Kirche herum, um ihre Kanten zu glätten und ihr Erscheinungsbild akzeptabler für die Zeitgenossen zu machen. Menschen können im Hören auf Gott sehr wohl der Kirche dienen. Die Kirche hat zuletzt aber nur einen Baumeister. Der ist unsichtbar, nur mit feinsten Sensorien zu erspüren, aber hochaktiv. „Der Heilige Geist ist es, der die Kirche als ganze in der Wahrheit hält und sie immer tiefer in die Erkenntnis Gottes führt. Es ist der Heilige Geist, der in den Sakramenten wirkt und die Heilige Schrift für uns lebendig macht.“ (YOUCAT 119) Und darauf kommt es an. Als Verein mit hohen Idealen, als menschliche Gemeinschaft, als Gruppe, als Partei – überhaupt als soziologisches Gebilde ist die Kirche uninteressant.
+
+Dass es tatsächlich der Heilige Geist ist, der in der Kirche wirkt, geht allein aus der Tatsache hervor, dass es sie nach 2000 Jahren noch immer gibt. In ihrer langen Geschichte wurde mit der Kirche alles gemacht: Sie wurde verboten oder benutzt, in den Himmel gehoben oder verflucht, bestochen oder verfolgt, eingesperrt oder ausgeschlossen – und alle paar Jahre wurde sie für tot erklärt. Napoleon drohte einmal dem vatikanischen Unterhändler Consalvi: „Ist Ihnen klar, Eminenz, dass ich Ihre Kirche jederzeit zerstören kann?“ Consalvi antwortete: „Ist Ihnen klar, Majestät, dass nicht einmal wir Priester das in achtzehn Jahrhunderten fertiggebracht haben?“ Und noch etwas spricht für den geheimnisvollen geistlichen Architekten: „Die vielen Heiligen aller Epochen und Kulturen sind der sichtbare Beweis seiner Gegenwart.“ (YOUCAT 119). Als die Kirche vor 800 Jahren in Geld, Macht und Ruhm versank, waren es nicht Päpste und Prälaten, die sie vor dem Untergang bewahrten. Ein kleiner Mann namens Franziskus baute sie im Heiligen Geist wieder auf. Und als Rom vor 500 Jahren von der Reformation gerichtet und von Söldnerheeren geplündert wurden, zogen wieder nicht Päpste und Prälaten sie aus dem Dreck, sondern ein heiliger Narr Gottes, Philipp Neri, und ein heiliger Soldat Gottes: Ignatius von Loyola.
+
+
+** Die Bausteine für einer geistlich bewegte Kirche
+
+*** Weisheit
+Die Kirche braucht zunächst die Gabe der Weisheit – oder (um einen anderen Begriff zu erwähnen) den „Geist der Unterscheidung“. In 1 Joh 4,1 heißt es: „Traut nicht jedem Geist, sondern prüft die Geister, ob sie aus Gott sind; denn viele falsche Propheten sind in der Welt aufgetreten.“ Darum sagen weise Christen oft: Lass mich beten und eine Nacht darüber schlafen, dann kann ich ein Urteil fällen.
+
+*** Einsicht
+Die Kirche braucht sodann die Gabe der Einsicht. Einsicht meint: Bleib nicht an der Oberfläche! Schau in die Tiefe! Erkenne, was Gott dir sagen oder zeigen will. Das „hörende Herz“ (1 Kön 3,9) das sich der weise König Salomo erbat, finden wir wieder bei den beiden Emmausjüngern, die sich mit düsteren Gedanken aus dem Staub machen, bis ein geheimnisvoller Dritter sich ihnen zugesellt. Beim Brotbrechen erst gehen den Verzweifelten die Augen auf. Ohne Einsicht würden wir niemals erkennen, „was kein Auge gesehen und kein Ohr gehört hat, was keinem Menschen in den Sinn gekommen ist: das Große das Gott denen bereitet hat, die ihn lieben. Denn uns hat es Gott enthüllt durch den Geist.“ (1Kor 2,9-10)
+
+*** Guter Rat
+Die Kirche braucht die Gabe des Rates. Denn oft sind wir ratlos – und unsere Ratlosigkeit bewirkt Kurzschlusshandlungen. Dann machen wir es - nicht Gott. Christsein lebt von Vertrauen und Geduld, vom Warten auf die Hand Gottes. Wenn die Stunde gekommen ist, wird uns deutlich werden, was das Richtige ist. Wir dürfen an das Wort denken, das Jesus seinen Jüngern mit auf den Weg gab für die Stunde, in der man sie vor Gericht ziehen würde: „Macht euch keine Sorgen, wie und was ihr reden sollt; denn es wird euch in jener Stunde eingegeben, was ihr sagen sollt. Nicht ihr werdet dann reden, sondern der Geist eures Vaters wird durch euch reden.“ (Mt 10, 19-20)
+
+*** Stärke
+Die Kirche braucht die Gabe der Stärke. Man kann auch sagen: Sie braucht Tapferkeit und prophetische Menschen. „Wer tapfer ist“, heißt es YOUCAT 303, „tritt dauerhaft für das einmal erkannte Gute ein, selbst wenn er im Extremfall dafür sogar das eigene Leben opfern müsste.“ Die wahren Diener Gottes halten sich an 2 Tim 4,2: „Verkünde das Wort, tritt dafür ein, ob man es hören will oder nicht.“ Von einem mutigen Widerstandskämpfer gegen Hitler, Robert Prinz von Arenberg, gibt es den Ausspruch: „Mehr als umbringen können sie mich nicht. Und selbst wenn sie mich umbringen, bringt mich das noch lange nicht um.“
+
+*** Erkenntnis
+Die Kirche braucht zudem die Gabe der Erkenntnis. Damit ist nicht einfach die menschliche Vernunft gemeint, sondern jenes „Erkennen“, das von Jesus in der Geschichte von der Frau am Jakobsbrunnen (Joh 4) berichtet wird. Obwohl Jesus die Frau nicht kennt, ist er in der Lage, ihre innere Not zu erfassen und ihr den heilenden Weg zu weisen. In der Kirche finden wir diese Gabe der Erkenntnis oft bei klugen Beichtvätern und Menschen, die andere geistlich begleiten.
+
+*** Frömmigkeit
+Sodann braucht die Kirche die Gabe der Frömmigkeit. Fromm ist ein Mensch dann, wenn er Gott zum Mittelpunkt seines Denkens, Urteilens und Handelns gemacht hat. „Wenn man Gott erkannt hat“, heißt es in YOUCAT 34, „muss man ihn an die erste Stelle in seinem Leben setzen.“ Frömmigkeit ist ein anderes Wort für Hingabe an Gott. Von der Gnade Gottes sagt Tit 2,11-12: „Sie erzieht uns dazu, uns von der Gottlosigkeit und den irdischen Begierden loszusagen und besonnen, gerecht und fromm in dieser Welt zu leben.“
+
+*** Gottesfurcht
+Zuletzt braucht die Kirche die Gabe der Gottesfurcht. Für viele moderne Menschen ist sie etwas Fragwürdiges. Für die Heilige Schrift aber ist die Gottesfurcht der „Anfang der Erkenntnis, nur Toren verachten Weisheit und Zucht.“ (Spr 1,7) Gemeint ist einen Haltung, die von der unendlichen Erhabenheit Gottes über alles menschliche Denken und Handeln ausgeht. Der Gottesfürchtige stellt den Willen Gottes über seine persönlichen Pläne; er tut alles, um nach Gottes Geboten zu leben und sie nicht zu übertreten.

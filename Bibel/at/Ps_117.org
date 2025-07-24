@@ -1,0 +1,33 @@
+#+TITLE: Ps 117 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-18 So 00:18]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 117.html
+
+* Ps 117
+
+<<verses>>
+
+<<v1>>
+* Aufruf an alle Völker zum Lob Gottes
+
+1 Lobet den Herrn, alle Völker, /\\
+ preist ihn, alle Nationen! [fn:1]\\
+\\
+
+<<v2>>
+2 Denn mächtig waltet über uns seine Huld, /\\
+ die Treue des Herrn währt in Ewigkeit. /\\
+ Halleluja!\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/Röm_15.org::v11][Röm 15,11]]

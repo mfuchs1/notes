@@ -1,0 +1,196 @@
+#+TITLE: Jdt 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 7.html
+
+<<verses>>
+
+<<v1>>
+* Der Anfang der Belagerung von Betulia: 7,1-7
+
+1 Am folgenden Tag befahl Holofernes seinem ganzen Heer und allen seinen
+Hilfsvölkern, gegen Betulia vorzurücken, die Gebirgspässe zu besetzen
+und den Kampf gegen die Israeliten zu eröffnen.
+
+<<v2>>
+2 So begann an jenem Tag der Aufbruch des ganzen Heeres. Die
+einsatzfähige Streitmacht zählte zusammen hundertsiebzigtausend Mann
+Fußtruppen und zwölftausend Berittene, nicht eingerechnet den Tross und
+die dazugehörigen Mannschaften; es war eine gewaltige Menge.
+
+<<v3>>
+3 Sie schlugen in der Ebene bei Betulia an der Quelle ihr Lager auf und
+besetzten ein Gebiet, das sich in der Breite von Dotan bis Jibleam und
+in der Länge von Betulia bis Kyamon gegenüber Jesreel erstreckte.
+
+<<v4>>
+4 Als die Israeliten ihre große Zahl sahen, waren sie tief bestürzt, und
+einer sagte zum andern: Diese Leute werden das ganze Land auffressen;
+weder die hohen Berge noch die Täler und Hügel werden ihre Last tragen
+können.
+
+<<v5>>
+5 Dennoch griffen alle zu den Waffen; sie zündeten auf ihren Stadttürmen
+Feuer an und hielten die ganze Nacht hindurch Wache.
+
+<<v6>>
+6 Am nächsten Tag rückte Holofernes mit seiner ganzen Reiterei an, vor
+den Augen der Israeliten in Betulia.
+
+<<v7>>
+7 Er ließ die Pässe erkunden, die zu ihrer Stadt hinaufführten, spürte
+ihre Wasserquellen auf und nahm sie in Besitz. Er stellte dort
+bewaffnete Posten auf und kehrte zu seinem Heer zurück.\\
+\\
+
+<<v8>>
+* Die Rede der Heerführer an Holofernes: 7,8-15
+
+8 Da kamen zu ihm alle Heerführer der Edomiter, alle Hauptleute der
+Moabiter und die Befehlshaber der Küstengebiete. Sie sagten:
+
+<<v9>>
+9 Möge doch unser Gebieter einen Rat anhören, damit deinem Heer kein
+Schaden entsteht.
+
+<<v10>>
+10 Dieses Volk der Israeliten vertraut nämlich weniger auf seine Speere
+als vielmehr auf die Höhe der Berge, die es bewohnt; denn es ist gar
+nicht so leicht, zu den Gipfeln ihrer Berge vorzudringen.
+
+<<v11>>
+11 Darum, Gebieter, tritt gegen sie nicht in einer geordneten
+Feldschlacht an; dann wird kein einziger Mann von deinen Leuten fallen.
+
+<<v12>>
+12 Bleib in deinem Lager und spar jeden Mann deines Heeres! Es genügt,
+wenn deine Knechte die Wasserquelle in ihren Besitz bringen, die am Fuß
+des Berges entspringt.
+
+<<v13>>
+13 Denn dort holen die Bewohner Betulias ihr Wasser. Dann wird der Durst
+sie umbringen und sie müssen ihre Stadt ausliefern. Wir aber wollen mit
+unseren Leuten auf die benachbarten Berggipfel steigen und dort Wache
+stehen, damit niemand die Stadt verlassen kann.
+
+<<v14>>
+14 Dann werden sie mit ihren Frauen und Kindern vor Hunger
+verschmachten, und bevor noch das Schwert über sie kommt, werden sie
+hingestreckt auf den Gassen vor ihren Häusern liegen.
+
+<<v15>>
+15 So wirst du sie schwer dafür büßen lassen, dass sie dir Widerstand
+geleistet haben und dir nicht mit der Bitte um Frieden entgegengekommen
+sind.\\
+\\
+
+<<v16>>
+* Die Verzögerungstaktik des Holofernes: 7,16-18
+
+16 Diese Worte gefielen dem Holofernes und all seinen Offizieren und er
+befahl, den Rat zu befolgen.
+
+<<v17>>
+17 Darauf machten sich eine Abteilung der Ammoniter und mit ihnen
+fünftausend Assyrer auf den Weg; sie schlugen in der Ebene ein Lager auf
+und besetzten die Brunnen und Quellen der Israeliten.
+
+<<v18>>
+18 Die Edomiter und die Ammoniter aber schlugen im Bergland gegenüber
+von Dotan ein Lager auf. Außerdem schickten sie Abteilungen nach Süden
+und Osten gegen die Stadt Egrebel, die in der Nähe von Chus am Bach
+Mochmur liegt. Das übrige Heer der Assyrer hatte sein Lager in der Ebene
+und bedeckte das ganze Land; ihre Zelte und ihr Tross bildeten ein
+riesiges Heerlager; es war eine gewaltige Menge.\\
+\\
+
+<<v19>>
+* Der Wassermangel in Betulia: 7,19-22
+
+19 Die Israeliten aber schrien zum Herrn, ihrem Gott. Sie hatten allen
+Mut verloren, da sie ringsum von ihren Feinden eingeschlossen waren und
+es kein Entrinnen mehr gab.
+
+<<v20>>
+20 Nachdem die Belagerung durch das ganze Heer der Assyrer mit ihrem
+Fußvolk, ihren Wagen und Reitern vierunddreißig Tage gedauert hatte,
+ging in sämtlichen Behältern der Einwohner von Betulia das Wasser zur
+Neige.
+
+<<v21>>
+21 Auch die Zisternen wurden leer. Die Belagerten konnten sich an keinem
+einzigen Tag mehr satt trinken, weil sie nur ein bestimmtes Maß an
+Wasser zugeteilt bekamen.
+
+<<v22>>
+22 Ihre Kinder verschmachteten; die Frauen und jungen Männer wurden
+ohnmächtig vor Durst, sie fielen auf den Straßen der Stadt und in den
+Torwegen um, denn sie hatten keine Kraft mehr.\\
+\\
+
+<<v23>>
+* Die Verzweiflung der Bewohner von Betulia: 7,23-29
+
+23 Da versammelte sich das ganze Volk, die jungen Männer, die Frauen und
+Kinder, bei Usija und den leitenden Männern der Stadt, erhoben ein
+lautes Geschrei und riefen den Ältesten zu:
+
+<<v24>>
+24 Gott sei Richter zwischen uns und euch. Ihr habt ein schweres Unrecht
+an uns begangen, weil ihr mit den Assyrern nicht friedlich verhandeln
+wolltet.
+
+<<v25>>
+25 Jetzt gibt es für uns keine Rettung mehr; denn Gott hat uns an sie
+verkauft. Darum müssen wir verdursten und vor ihren Augen elend zugrunde
+gehen.
+
+<<v26>>
+26 Ruft sie also jetzt herbei und liefert die ganze Stadt den Soldaten
+des Holofernes und seinem Heer zur Plünderung aus!
+
+<<v27>>
+27 Es ist besser für uns, ihnen als Beute in die Hände zu fallen. Wenn
+wir auch zu Sklaven gemacht werden, so bleiben wir doch wenigstens am
+Leben und brauchen nicht mit eigenen Augen den Tod unserer Säuglinge und
+das Dahinsterben unserer Frauen und Kinder mit anzusehen.
+
+<<v28>>
+28 Wir beschwören euch beim Himmel und bei der Erde, bei unserem Gott,
+dem Herrn unserer Väter, der uns für unsere Sünden und die Vergehen
+unserer Väter bestraft, Gott möge nicht am heutigen Tag diese Drohung an
+uns wahr machen.
+
+<<v29>>
+29 Und in der Versammlung erhob sich ein allgemeines heftiges Klagen;
+alle schrien mit lauter Stimme zu Gott, dem Herrn.\\
+\\
+
+<<v30>>
+* Usijas ermutigende Antwort: 7,30-32
+
+30 Doch Usija sagte zu ihnen: Fasst Mut, Brüder! Wir wollen noch fünf
+Tage aushalten. In dieser Zeit wird der Herr, unser Gott, uns sein
+Erbarmen wieder zuwenden; er wird uns nicht für immer verlassen.
+
+<<v31>>
+31 Sollten aber diese Tage vergehen, ohne dass uns geholfen wird, dann
+will ich tun, was ihr gefordert habt. [fn:1]
+
+<<v32>>
+32 Dann ließ er das Volk auseinander gehen, jeden auf seinen Posten, und
+sie begaben sich wieder auf die Mauern und Türme der Stadt. Die Frauen
+und Kinder aber schickte er in ihre Häuser zurück. In der Stadt
+herrschte tiefe Niedergeschlagenheit.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_11.org::v3][1 Sam 11,3]]

@@ -1,0 +1,165 @@
+#+TITLE: 1 Sam 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 13:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 12.html
+
+
+* 1.Sam 12
+
+<<verses>>
+
+<<v1>>
+1 Samuel sagte zu ganz Israel: Ihr wisst, ich habe in allem, was ihr mir
+gesagt habt, auf euch gehört und einen König bei euch eingesetzt. [fn:1]
+
+<<v2>>
+2 Seht, hier ist nun der König, der vor euch in den Krieg ziehen wird.
+Ich selbst bin alt und grau geworden und meine Söhne leben ja mitten
+unter euch. Von meiner Jugend an bis zum heutigen Tag bin ich vor euch
+hergegangen.
+
+<<v3>>
+3 Hier stehe ich; antwortet mir in Gegenwart des Herrn und seines
+Gesalbten: Wem habe ich je ein Rind weggenommen? Wem habe ich einen Esel
+weggenommen? Wen habe ich übervorteilt, wen ungerecht behandelt? Von wem
+habe ich Bestechungsgeld angenommen und habe beide Augen zugedrückt? Ich
+will es euch zurückerstatten.
+
+<<v4>>
+4 Sie antworteten: Du hast uns weder übervorteilt noch ungerecht
+behandelt, noch hast du von jemand etwas angenommen.
+
+<<v5>>
+5 Er sagte zu ihnen: Der Herr ist Zeuge euch gegenüber und auch sein
+Gesalbter ist heute Zeuge dafür, dass ihr mir nichts vorwerfen könnt.
+Sie erwiderten: Sie sind Zeugen. [fn:2]
+
+<<v6>>
+6 Und Samuel sagte zum Volk: Der Herr ist es gewesen, der Mose und Aaron
+erschaffen und eure Väter aus Ägypten heraufgeführt hat.
+
+<<v7>>
+7 Tretet nun zu mir, damit ich mit euch vor den Augen des Herrn ins
+Gericht gehe und euch alle Wohltaten des Herrn vorhalte, die er euch und
+euren Vätern erwiesen hat. [fn:3]
+
+<<v8>>
+8 Als Jakob nach Ägypten gekommen war und die Ägypter eure Väter
+unterdrückten und sie zum Herrn schrien, da sandte der Herr Mose und
+Aaron. Sie führten eure Väter aus Ägypten heraus und gaben ihnen
+Wohnsitze an diesem Ort. [fn:4] [fn:5]
+
+<<v9>>
+9 Eure Väter aber vergaßen den Herrn, ihren Gott. Da verkaufte er sie an
+Sisera, den Feldherrn von Hazor, an die Philister und an den König von
+Moab und diese führten Krieg gegen sie. [fn:6]
+
+<<v10>>
+10 Da schrien sie zum Herrn und sagten: Wir haben gesündigt; denn wir
+haben den Herrn verlassen und den Baalen und Astarten gedient. Befrei
+uns jetzt aus der Gewalt unserer Feinde; wir wollen wieder dir dienen. [fn:7]
+
+<<v11>>
+11 Darauf sandte der Herr Jerubbaal, Barak, Jiftach und Samuel und
+befreite euch aus der Gewalt eurer Feinde ringsumher, sodass ihr in
+Sicherheit leben konntet. [fn:8] [fn:9]
+
+<<v12>>
+12 Als ihr aber saht, dass Nahasch, der König der Ammoniter, gegen euch
+ausrückte, sagtet ihr zu mir: Nein, ein König soll über uns herrschen!,
+obwohl doch der Herr, euer Gott, euer König ist. [fn:10]
+
+<<v13>>
+13 Seht, hier ist euer König, den ihr verlangt und den ihr euch erwählt
+habt. Ja, der Herr hat euch einen König gegeben.
+
+<<v14>>
+14 Wenn ihr den Herrn fürchtet und ihm dient, wenn ihr auf seine Stimme
+hört und euch seinem Befehl nicht widersetzt, wenn sowohl ihr als auch
+der König, der über euch herrscht, dem Herrn, eurem Gott, folgt (dann
+geht es euch gut).
+
+<<v15>>
+15 Wenn ihr aber nicht auf die Stimme des Herrn hört und euch seinem
+Befehl widersetzt, dann wird die Hand des Herrn gegen euch
+(ausgestreckt) sein wie gegen eure Väter.
+
+<<v16>>
+16 Nun tretet her und seht die große Tat mit an, die der Herr vor euren
+Augen vollbringen wird.
+
+<<v17>>
+17 Ist jetzt nicht gerade Weizenernte? Ich werde zum Herrn rufen und er
+wird Gewitter und Regen schicken. So werdet ihr erkennen und einsehen,
+wie groß euer Unrecht in den Augen des Herrn ist, das ihr dadurch
+begangen habt, dass ihr für euch einen König verlangt habt. [fn:11]
+
+<<v18>>
+18 Samuel rief zum Herrn und der Herr schickte noch am gleichen Tag
+Gewitter und Regen. Da geriet das ganze Volk in große Furcht vor dem
+Herrn und vor Samuel
+
+<<v19>>
+19 und alle sagten zu Samuel: Bete für deine Knechte zum Herrn, deinem
+Gott, damit wir nicht umkommen; denn wir haben all unseren Sünden noch
+die Bosheit hinzugefügt, einen König für uns zu verlangen.
+
+<<v20>>
+20 Samuel erwiderte dem Volk: Fürchtet euch nicht! Ihr habt all dieses
+Böse getan; doch weicht (von nun an) nicht mehr von der Nachfolge des
+Herrn ab und dient dem Herrn mit ganzem Herzen!
+
+<<v21>>
+21 Weicht ja nicht ab und folgt nicht den nichtigen (Göttern), die
+nichts nützen und nicht retten können, weil sie nichtig sind.
+
+<<v22>>
+22 Um seines großen Namens willen wird der Herr sein Volk nicht
+verstoßen; denn er hat sich entschlossen, euch zu seinem Volk zu machen.
+
+<<v23>>
+23 Auch ich weise es weit von mir, mich am Herrn zu versündigen, und
+höre deshalb nicht auf, für euch zu beten; ich werde euch den guten und
+geraden Weg weisen.
+
+<<v24>>
+24 Nur fürchtet den Herrn und dient ihm treu und von ganzem Herzen! Denn
+ihr seht, welch große Dinge er an euch getan hat.
+
+<<v25>>
+25 Wenn ihr aber wieder Böses tut, dann werdet sowohl ihr als auch euer
+König dahingerafft werden.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_8.org::v6][8,6]]; [[file:1.Sam_11.org::v15][11,15]]
+
+[fn:2] dass ihr mir nichts vorwerfen könnt, wörtlich: dass ihr
+in meiner Hand nichts gefunden habt.
+
+[fn:3] euch vorhalte: ergänzt nach G.
+
+[fn:4] [[file:Ex_3.org::v7][Ex 3,7f]]
+
+[fn:5] und die Ägypter eure Väter unterdrückten: ergänzt nach G.
+
+[fn:6] [[file:Ri_4.org::v2][Ri 4,2]]; [[file:Ri_10.org::v7][10,7]]; [[file:Ri_13.org::v1][13,1]]; [[file:Ri_3.org::v12][3,12]] (oder [[file:1.Sam_3.org::v12][1 Sam 3,12]]?)
+
+[fn:7] [[file:Ri_10.org::v10][Ri 10,10]]
+
+[fn:8] [[file:Ri_6.org::v14][Ri 6,14]]; [[file:Ri_11.org::v29][11,29]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v32][Hebr 11,32]]
+
+[fn:9] Bedan: G und S lesen Barak.
+
+[fn:10] [[file:1.Sam_11.org::v1][11,1f]]; [[file:1.Sam_8.org::v19][8,19]]
+
+[fn:11] Gewitter und Regen gibt es in der Erntezeit in
+Palästina äußerst selten.

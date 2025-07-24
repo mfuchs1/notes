@@ -1,0 +1,224 @@
+#+TITLE: Dtn 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-26 Do 22:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 2.html
+
+<<verses>>
+
+<<v1>>
+* Der Zug ins Ostjordanland: 2,1-13
+
+1 Dann wendeten wir uns der Wüste zu, brachen auf und nahmen den Weg zum
+Schilfmeer, wie es der Herr mir befohlen hatte. Wir umzogen lange Zeit
+das Gebirge Seïr. [fn:1]
+
+<<v2>>
+2 Dann sagte der Herr zu mir: [fn:2]
+
+<<v3>>
+3 Ihr seid jetzt lange genug um dieses Gebirge herumgezogen. Wendet euch
+jetzt nach Norden!
+
+<<v4>>
+4 Befiehl dem Volk: Ihr werdet jetzt durch das Gebiet von
+Stammverwandten ziehen, durch das Gebiet der Nachkommen Esaus, die in
+Seïr wohnen. Wenn sie Furcht vor euch zeigen, dann seid auf der Hut,
+
+<<v5>>
+5 und beginnt keine Feindseligkeiten gegen sie! Von ihrem Land gebe ich
+euch keinen Fußbreit; denn das Gebirge Seïr habe ich für Esau zum Besitz
+bestimmt. [fn:3]
+
+<<v6>>
+6 Was ihr an Getreide zum Essen braucht, kauft von ihnen für Silber;
+selbst das Trinkwasser beschafft euch von ihnen gegen Silber!
+
+<<v7>>
+7 Der Herr, dein Gott, hatte dich reich gesegnet bei der Arbeit deiner
+Hände. Er wusste, dass du in dieser großen Wüste unterwegs warst.
+Vierzig Jahre lang war der Herr, dein Gott, bei dir. Nichts hat dir
+gefehlt. [fn:4]
+
+<<v8>>
+8 Wir zogen also weg aus dem Gebiet in der Nähe der Söhne Esaus, unserer
+Stammverwandten, die in Seïr wohnen, weg vom Weg durch die Araba, von
+Elat und Ezjon-Geber. Wir wendeten uns (nach Norden) und zogen den Weg
+zur Wüste Moab entlang.
+
+<<v9>>
+9 Und der Herr sagte zu mir: Begegne Moab nicht feindlich, beginn keinen
+Kampf mit ihnen! Von ihrem Land bestimme ich dir kein Stück zum Besitz;
+denn Ar habe ich für die Nachkommen Lots zum Besitz bestimmt.
+
+<<v10>>
+10 Einst saßen dort die Emiter, ein Volk, das groß, zahlreich und hoch
+gewachsen war wie die Anakiter. [fn:5]
+
+<<v11>>
+11 Wie die Anakiter galten auch sie als Rafaïter, die Moabiter aber
+nennen sie Emiter.
+
+<<v12>>
+12 In Seïr saßen einst die Horiter, aber deren Besitz haben die
+Nachkommen Esaus übernommen. Als sie vordrangen, vernichteten sie die
+Horiter und setzten sich an deren Stelle, so wie die Israeliten es mit
+dem Land taten, das ihnen der Herr zum Besitz bestimmt hatte.
+
+<<v13>>
+13 Und jetzt steht auf und überquert das Tal des Sered! Da überquerten
+wir das Tal des Sered.\\
+\\
+
+<<v14>>
+* Die Eroberung des Ostjordanlandes: 2,14 - 3,17
+
+14 Die Zeit, die wir von Kadesch-Barnea an gewandert waren, bis wir das
+Tal des Sered überquerten, betrug achtunddreißig Jahre. So lange dauerte
+es, bis die Generation der waffenfähigen Männer vollständig ausgestorben
+war, sodass sich keiner von ihnen mehr im Lager befand, wie es ihnen der
+Herr geschworen hatte.
+
+<<v15>>
+15 Der Herr hatte seine Hand gegen sie ausgestreckt und Verwirrung unter
+ihnen verbreitet, bis sie ausgestorben waren, sodass sich keiner von
+ihnen mehr im Lager befand. [fn:6]
+
+<<v16>>
+16 Als alle waffenfähigen Männer ausgestorben und tot waren, sodass
+keiner von ihnen mehr im Volk lebte,
+
+<<v17>>
+17 sagte der Herr zu mir:
+
+<<v18>>
+18 Wenn du heute durch das Gebiet von Moab, durch Ar, ziehst,
+
+<<v19>>
+19 kommst du nahe an den Ammonitern vorbei. Begegne ihnen nicht
+feindlich, beginne keine Feindseligkeiten gegen sie! Vom Land der
+Ammoniter bestimme ich dir kein Stück zum Besitz; denn ich habe es für
+die Nachkommen Lots zum Besitz bestimmt.
+
+<<v20>>
+20 Auch dieses gilt als Land der Rafaïter. Einst saßen die Rafaïter
+darin. Die Ammoniter nennen sie die Samsummiter, [fn:7]
+
+<<v21>>
+21 ein Volk, das groß, zahlreich und hoch gewachsen war wie die
+Anakiter. Der Herr vernichtete die Rafaïter, als die Ammoniter
+eindrangen. Diese übernahmen ihren Besitz und setzten sich an ihre
+Stelle.
+
+<<v22>>
+22 Das war das Gleiche, was der Herr für die Nachkommen Esaus getan hat,
+die in Seïr sitzen. Als sie vordrangen, vernichtete er die Horiter. Die
+Nachkommen Esaus übernahmen ihren Besitz und setzten sich an ihre
+Stelle. So blieb es bis heute.
+
+<<v23>>
+23 Das Gleiche geschah mit den Awitern, die in einzelnen Dörfern bis
+nach Gaza hin saßen. Die Kaftoriter, die aus Kaftor ausgewandert waren,
+vernichteten sie und setzten sich an ihre Stelle.
+
+<<v24>>
+24 Steht auf, brecht auf und überquert das Tal des Arnon! Hiermit gebe
+ich Sihon, den König von Heschbon, den Amoriter, mit seinem Land in eure
+Gewalt. Fang an, in Besitz zu nehmen! Bei Sihon sollst du den Kampf
+beginnen.
+
+<<v25>>
+25 Und ich fange heute an, den Völkern überall unter dem Himmel
+Schrecken und Furcht vor dir ins Gesicht zu zeichnen. Wenn sie von dir
+nur hören, zittern sie. Sie winden sich vor Angst, wenn sie dich sehen. [fn:8]
+
+<<v26>>
+26 Da sandte ich aus der Wüste Kedemot Boten zu Sihon, dem König von
+Heschbon, und ließ ihm folgendes Abkommen vorschlagen: [fn:9]
+
+<<v27>>
+27 Ich will durch dein Land ziehen. Ich werde mich genau an den Weg
+halten, ohne ihn rechts oder links zu verlassen.
+
+<<v28>>
+28 Was ich an Getreide zum Essen brauche, wirst du mir für Silber
+verkaufen, auch das Trinkwasser wirst du mir gegen Silber geben. Ich
+werde nur zu Fuß durchziehen,
+
+<<v29>>
+29 so wie die Nachkommen Esaus, die in Seïr wohnen, und die Moabiter,
+die in Ar wohnen, es mir erlaubt haben. (Das soll gelten,) bis ich über
+den Jordan in das Land gezogen bin, das der Herr, unser Gott, uns gibt.
+
+<<v30>>
+30 Doch Sihon, der König von Heschbon, weigerte sich, uns bei sich
+durchziehen zu lassen. Denn der Herr, dein Gott, hatte seinen Kampfgeist
+gestärkt und ihm Mut gemacht, um ihn in deine Gewalt zu geben, wie es
+inzwischen geschehen ist.
+
+<<v31>>
+31 Zu mir aber sagte der Herr: Hiermit fange ich an. Ich liefere dir
+Sihon und sein Land aus. Du fang an, in Besitz zu nehmen! Fang mit
+seinem Land an!
+
+<<v32>>
+32 Sihon rückte mit seinem ganzen Volk gegen uns aus, um bei Jahaz zu
+kämpfen.
+
+<<v33>>
+33 Der Herr, unser Gott, lieferte ihn uns aus. Wir schlugen ihn, seine
+Söhne und sein ganzes Volk.
+
+<<v34>>
+34 Damals eroberten wir alle seine Städte. Wir weihten die ganze
+männliche Bevölkerung, die Frauen, die Kinder und die Greise der
+Vernichtung; keinen ließen wir überleben. [fn:10] [fn:11]
+
+<<v35>>
+35 Als Beute behielten wir nur das Vieh und das, was wir in den
+eroberten Städten geplündert hatten.
+
+<<v36>>
+36 Von Aroër am Rand des Arnontals und von der Stadt, die im Tal liegt,
+bis hin nach Gilead gab es keine befestigte Stadt, deren Mauern für uns
+zu hoch waren. Alle hat uns der Herr, unser Gott, ausgeliefert.
+
+<<v37>>
+37 Nur dem Land der Ammoniter hast du dich nicht genähert, dem gesamten
+Randgebiet des Jabboktals und den Städten im Gebirge, also allem, was
+der Herr, unser Gott, uns verwehrt hatte.
+
+* Footnotes
+
+[fn:1] (1-25) Num 21,4-20 [[file:Num_21.org::v4][Num 21,4-20]]
+
+[fn:2] (2-8) Num 20,14-21 [[file:Num_20.org::v14][Num 20,14-21]]
+
+[fn:3] Apg 7,5 [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v5][Apg 7,5]]
+
+[fn:4] 8,4 [[file:Dtn_8.org::v4][Dtn 8,4]]; 28,12 [[file:Dtn_28.org::v12][Dtn 28,12]]; 29,4 [[file:Dtn_29.org::v4][Dtn 29,4]]
+
+[fn:5] 10-12: Erklärender Zusatz (vgl. die Anmerkung zu 1,1-5).
+
+[fn:6] Ex 14,24 [[file:Ex_14.org::v24][Ex 14,24]]
+
+[fn:7] 20-23: Erklärender Zusatz (vgl. die Anmerkung zu 1,1-5).
+
+[fn:8] 11,25 [[file:Dtn_11.org::v25][Dtn 11,25]]; 28,10 [[file:Dtn_28.org::v10][Dtn 28,10]]; Ex 15,14 [[file:Ex_15.org::v14][Ex 15,14]]
+
+[fn:9] (26-37) Num 21,21-25 [[file:Num_21.org::v21][Num 21,21-25]]
+
+[fn:10] 20,16-18 [[file:Dtn_20.org::v16][Dtn 20,16-18]]
+
+[fn:11] weihten der Vernichtung: In älteren Bibelübersetzungen
+stand hier und an ähnlichen Stellen das Wort «Bann» oder «bannen», das
+aber missverständlich ist. Gemeint ist die Vernichtung der Bevölkerung,
+und es ist dabei ein Wort benutzt, das in früheren Zeiten Vernichtung
+aufgrund von Gelübden oder Götterweisungen bezeichnete. Zur
+deuteronomischen Kriegstheorie vgl. [[file:Dtn_20.org::v10][Dtn 20,10-18]].

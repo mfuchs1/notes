@@ -1,0 +1,169 @@
+#+TITLE: 2 Chr 29 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 29.html
+
+<<verses>>
+
+<<v1>>
+* Ahas: 28,1-15
+
+1 Ahas war zwanzig Jahre alt, als er König wurde, und regierte sechzehn
+Jahre in Jerusalem. Er tat nicht wie sein Vater David, was dem Herrn
+gefiel, [fn:1] [fn:2]
+
+<<v2>>
+2 sondern er folgte den Wegen der Könige von Israel. Auch ließ er
+Gussbilder für die Baale anfertigen,
+
+<<v3>>
+3 opferte im Tal Ben-Hinnom, verbrannte seine Söhne im Feuer und ahmte
+so die Gräuel der Völker nach, die der Herr vor den Augen der Israeliten
+vertrieben hatte.
+
+<<v4>>
+4 Auf den Kulthöhen und Hügeln und unter jedem üppigen Baum brachte er
+Schlacht- und Rauchopfer dar.
+
+<<v5>>
+5 Darum gab ihn der Herr, sein Gott, in die Hand des Königs der Aramäer.
+Sie schlugen ihn, führten ihm viele Gefangene weg und brachten sie nach
+Damaskus. Ebenso geriet er in die Hand des Königs von Israel. Pekach,
+der Sohn Remaljas, bereitete ihm eine schwere Niederlage.
+
+<<v6>>
+6 Er erschlug an einem Tag in Juda hundertzwanzigtausend Mann, lauter
+tapfere Krieger, da sie den Herrn, den Gott ihrer Väter, verlassen
+hatten.
+
+<<v7>>
+7 Sichri, ein efraimitischer Kriegsheld, tötete den Königssohn Maaseja,
+den Hausvorsteher Asrikam und Elkana, den Zweiten nach dem König.
+
+<<v8>>
+8 Die Israeliten führten von ihren Stammesbrüdern zweihunderttausend
+Frauen, Söhne und Töchter als Gefangene weg, machten bei ihnen auch
+reiche Beute und brachten sie nach Samaria.
+
+<<v9>>
+9 Dort lebte ein Prophet des Herrn namens Oded. Dieser ging dem Heer
+entgegen, das nach Samaria zurückkehrte, und hielt ihm vor: Seht, weil
+der Herr, der Gott eurer Väter, über Juda erzürnt war, hat er sie in
+eure Hand gegeben. Ihr habt unter ihnen mit einer Wut gemordet, die zum
+Himmel schreit.
+
+<<v10>>
+10 Jetzt wollt ihr euch Leute aus Juda und Jerusalem als Knechte und
+Mägde untertan machen. Steht denn nicht ihr gerade in Schuld vor dem
+Herrn, eurem Gott?
+
+<<v11>>
+11 Hört daher jetzt auf mich! Gebt die Gefangenen zurück, die ihr von
+euren Stammesbrüdern weggeführt habt. Es würde sonst der glühende Zorn
+des Herrn euch treffen.
+
+<<v12>>
+12 Darauf traten einige von den Häuptern der Efraimiter, nämlich Asarja,
+der Sohn Johanans, Berechja, der Sohn Meschillemots, Jehiskija, der Sohn
+Schallums, und Amasa, der Sohn Hadlais, zu den Heimkehrern vom Feldzug
+hin,
+
+<<v13>>
+13 redeten mit ihnen und sagten: Bringt die Gefangenen nicht hierher!
+Schon liegt eine Schuld vor dem Herrn auf uns und ihr wollt unsere Sünde
+und Schuld noch vermehren. Ist doch unsere Schuld schon groß genug und
+der glühende Zorn des Herrn lastet auf Israel.
+
+<<v14>>
+14 Daraufhin gaben die bewaffneten Krieger in Gegenwart der Obersten und
+der ganzen Versammlung die Gefangenen und die Beute frei.
+
+<<v15>>
+15 Männer, die namentlich dazu bestimmt waren, gingen hin und nahmen
+sich der Gefangenen an. Sie bekleideten alle, die nackt waren, aus der
+Beute und versahen sie mit Gewändern und Schuhen. Sie gaben ihnen zu
+essen und zu trinken, salbten die Schwachen unter ihnen und setzten sie
+auf Esel. So brachten sie die Gefangenen in die Palmenstadt Jericho in
+die Nähe ihrer Stammesbrüder. Sie selbst kehrten nach Samaria zurück.\\
+\\
+
+<<v16>>
+* Die Bedrängnis durch Assur: 28,16-27
+
+16 In jener Zeit sandte König Ahas einen Hilferuf an den König von
+Assur; [fn:3] [fn:4]
+
+<<v17>>
+17 denn auch die Edomiter waren eingedrungen, hatten Juda besiegt und
+Gefangene weggeführt.
+
+<<v18>>
+18 Zugleich überfielen die Philister die Städte der Schefela und des
+judäischen Negeb, eroberten Bet-Schemesch, Ajalon, Gederot, Socho mit
+seinen Tochterstädten, Timna mit seinen Tochterstädten und Gimso mit
+seinen Tochterstädten und setzten sich darin fest;
+
+<<v19>>
+19 denn der Herr demütigte Juda wegen Ahas', des Königs von Juda, der
+die Zügellosigkeit in Juda förderte und gegen den Herrn treulos war. [fn:5]
+
+<<v20>>
+20 Tiglat-Pileser, der König von Assur, kam zu ihm; doch brachte er ihm
+nur Bedrängnis, aber keine Stärkung.
+
+<<v21>>
+21 Ahas musste den Tempel, den königlichen Palast und die führenden
+Männer berauben und alles dem König von Assur geben, fand jedoch keine
+Hilfe.
+
+<<v22>>
+22 Selbst in der Zeit der Bedrängnis setzte König Ahas seine
+Treulosigkeit gegen den Herrn fort.
+
+<<v23>>
+23 Er brachte den Göttern von Damaskus, die ihn geschlagen hatten, Opfer
+dar und sagte: Die Götter der aramäischen Könige haben ihren Verehrern
+geholfen. Ihnen will ich opfern und sie werden mir helfen. Doch sie
+dienten nur dazu, ihn und ganz Israel zu Fall zu bringen.
+
+<<v24>>
+24 Ahas ließ die Geräte des Hauses Gottes zusammenholen und zerschlagen,
+schloss die Tore des Hauses des Herrn und errichtete Altäre an allen
+Ecken Jerusalems.
+
+<<v25>>
+25 In jeder einzelnen Stadt Judas baute er Kulthöhen, um anderen Göttern
+zu opfern. So erzürnte er den Herrn, den Gott seiner Väter.
+
+<<v26>>
+26 Seine übrige Geschichte und alle seine Unternehmungen, die früheren
+und die späteren, sind aufgezeichnet im Buch der Könige von Juda und
+Israel.
+
+<<v27>>
+27 Ahas entschlief zu seinen Vätern und man begrub ihn in Jerusalem,
+innerhalb der Stadt, legte ihn also nicht in die Gräber der Könige von
+Israel. Sein Sohn Hiskija wurde König an seiner Stelle.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-8) [[file:2.Kön_16.org::v1][2 Kön 16,1]]-[[file:2.Kön_16.org::v5][5]]
+
+[fn:2] Wahrscheinlich regierte Ahas nur sechs, nicht sechzehn
+Jahre (vgl. die Anmerkung zu [[file:2.Kön_16.org::v2][2 Kön 16,2]]).
+
+[fn:3] (16-27) [[file:2.Kön_16.org::v7][2 Kön 16,7]]-[[file:2.Kön_16.org::v19][19]]
+
+[fn:4] 16-18: Das geschah während des Syrisch-efraimitischen
+Kriegs (vgl. [[file:2.Kön_16.org::v5][2 Kön 16,5]]-[[file:2.Kön_16.org::v7][7]]).
+
+[fn:5] König von Juda: Text korr. nach G; H: Israel, vgl. aber
+die Anmerkung zu [[file:2.Kön_10.org::v1][10,1]].

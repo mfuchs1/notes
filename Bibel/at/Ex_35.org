@@ -1,0 +1,172 @@
+#+TITLE: Ex 35 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 00:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 35.html
+
+
+<<verses>>
+
+<<v1>>
+* Ausführung der kultischen Anordnungen 35,1 - 40,38
+
+* Das Gesetz über den Sabbat: 35,1-3
+1 Mose versammelte die ganze Gemeinde der Israeliten und sagte zu ihnen:
+Das ist es, was der Herr euch zu tun befohlen hat:
+
+<<v2>>
+2 Sechs Tage soll man arbeiten; der siebte Tag ist heilig, Sabbat,
+Ruhetag zur Ehre des Herrn. Jeder, der an ihm arbeitet, soll mit dem Tod
+bestraft werden. [fn:1]
+
+<<v3>>
+3 Am Sabbat sollt ihr in keiner eurer Wohnstätten Feuer anzünden.\\
+\\
+
+<<v4>>
+* Die Spenden für das Heiligtum: 35,4-29
+4 Mose sagte zur ganzen Gemeinde der Israeliten: Der Herr hat Folgendes
+befohlen: [fn:2]
+
+<<v5>>
+5 Erhebt von euch eine Abgabe für den Herrn! Jeder, den sein Herz dazu
+bewegt, soll eine Abgabe für den Herrn bringen: Gold, Silber, Kupfer,
+
+<<v6>>
+6 violetten und roten Purpur, Karmesin, Byssus, Ziegenhaare,
+
+<<v7>>
+7 rötliche Widderfelle, Tahaschhäute und Akazienholz,
+
+<<v8>>
+8 Öl für den Leuchter, Balsam für das Salböl und für das duftende
+Räucherwerk,
+
+<<v9>>
+9 Karneolsteine und Ziersteine für Efod und Lostasche.
+
+<<v10>>
+10 Alle Sachverständigen unter euch sollen kommen und alles anfertigen,
+was der Herr angeordnet hat:
+
+<<v11>>
+11 die Wohnstätte, ihr Zelt und seine Decke, seine Haken, Bretter,
+Querlatten, Säulen und Sockel,
+
+<<v12>>
+12 die Lade und ihre Stangen, die Deckplatte und den Vorhang,
+
+<<v13>>
+13 den Tisch, seine Stangen, alle seine Geräte und die Schaubrote,
+
+<<v14>>
+14 den Leuchter mit seinen Geräten und Lampen sowie das Öl für den
+Leuchter,
+
+<<v15>>
+15 den Räucheraltar mit seinen Stangen, das Salböl, das duftende
+Räucherwerk und den Türvorhang für den Eingang der Wohnstätte,
+
+<<v16>>
+16 den Brandopferaltar, sein Gitter aus Kupfer, seine Stangen, all sein
+Gerät, das Becken und sein Gestell,
+
+<<v17>>
+17 die Behänge des Vorhofs, seine Säulen und Sockel sowie den Vorhang
+für das Tor des Vorhofs,
+
+<<v18>>
+18 die Zeltpflöcke der Wohnstätte und des Vorhofs mit ihren Stricken,
+
+<<v19>>
+19 die gewirkten Gewänder für den Dienst im Heiligtum, die heiligen
+Gewänder für den Priester Aaron und die Gewänder für seine Söhne zum
+Priesterdienst.
+
+<<v20>>
+20 Da ging die ganze Gemeinde der Israeliten weg von Mose;
+
+<<v21>>
+21 als sie wiederkamen, brachte jeder, den sein Herz bewog, und jeder,
+den sein Geist dazu antrieb, die Abgabe für den Herrn zur Herstellung
+des Offenbarungszeltes und für seinen gesamten Dienst und die heiligen
+Gewänder.
+
+<<v22>>
+22 Männer und Frauen kamen; alle brachten auf eigenen Antrieb hin
+Spangen, Nasenreife und Fingerringe, Halsketten, allerlei
+Goldgegenstände, jeder, der Gold für den Herrn als Weihegabe bringen
+wollte.
+
+<<v23>>
+23 Alle, die etwas an violettem und rotem Purpur, Karmesin, Byssus,
+Ziegenhaaren, rötlichen Widderfellen oder Tahaschhäuten bei sich fanden,
+brachten es.
+
+<<v24>>
+24 Alle, die eine Abgabe an Silber oder Kupfer leisten wollten, brachten
+die Abgabe für den Herrn; alle, die Akazienholz beschaffen konnten,
+geeignet für jede Bearbeitung, brachten es herbei.
+
+<<v25>>
+25 Alle Frauen, die sich auf Handarbeit verstanden, spannen und brachten
+das Gesponnene: violetten und roten Purpur, Karmesin und Byssus.
+
+<<v26>>
+26 Alle kunstfertigen Frauen, die sich angespornt fühlten, spannen
+Ziegenhaare.
+
+<<v27>>
+27 Die Sippenhäupter brachten Karneolsteine und Ziersteine für Efod und
+Lostasche,
+
+<<v28>>
+28 Balsam und Öl für den Leuchter, für das Salböl und für das duftende
+Räucherwerk.
+
+<<v29>>
+29 Alle Männer und Frauen, die ihr Herz dazu trieb, etwas zu irgendeiner
+Arbeit beizutragen, die der Herr durch Mose anzufertigen befohlen hatte,
+alle diese Israeliten brachten eine Spende für den Herrn.\\
+\\
+
+<<v30>>
+* Die Beauftragung von Künstlern und Handwerkern: 35,30 - 36,7
+30 Dann sagte Mose zu den Israeliten: Seht, der Herr hat Bezalel, den
+Sohn Uris, des Sohnes Hurs, vom Stamm Juda, beim Namen gerufen [fn:3]
+
+<<v31>>
+31 und ihn mit dem Geist Gottes erfüllt, mit Weisheit, Klugheit und
+Kenntnis für jegliche Arbeit,
+
+<<v32>>
+32 Pläne zu entwerfen und sie in Gold, Silber und Kupfer auszuführen
+
+<<v33>>
+33 und durch Schneiden und Fassen von Steinen und durch Schnitzen von
+Holz allerlei Kunstwerke herzustellen.
+
+<<v34>>
+34 Auch hat er ihm und Oholiab, dem Sohn Ahisamachs, vom Stamm Dan, die
+Gabe verliehen, andere zu lehren.
+
+<<v35>>
+35 Er hat sie erfüllt mit Kunstsinn zum Ausführen jeder Arbeit eines
+Steinschneiders, eines Kunstwebers und eines Buntwirkers in violettem
+und rotem Purpur, Karmesin und Byssus sowie eines Webers. Sie können
+alle Arbeiten ausführen und die Pläne dazu entwerfen.
+
+
+* Footnotes
+
+[fn:1] 20,9f; 31,15; Dtn 5,12-14
+
+[fn:2] (4-29) 25,1-9
+
+[fn:3] (30-35) 31,1-11

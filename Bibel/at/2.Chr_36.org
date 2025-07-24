@@ -1,0 +1,174 @@
+#+TITLE: 2 Chr 36 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:56]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 36.html
+
+<<verses>>
+
+<<v1>>
+* Joahas: 36,1-4
+
+1 Die Bürger des Landes nahmen nun Joahas, den Sohn Joschijas, und
+machten ihn anstelle seines Vaters zum König in Jerusalem. [fn:1]
+
+<<v2>>
+2 Joahas war dreiundzwanzig Jahre alt, als er König wurde. Er regierte
+drei Monate in Jerusalem;
+
+<<v3>>
+3 dann setzte ihn der König von Ägypten als König in Jerusalem ab und
+legte dem Land eine Geldbuße von hundert Talenten Silber und einem
+Talent Gold auf.
+
+<<v4>>
+4 Er machte Eljakim, den Bruder des Joahas, zum König von Juda und
+Jerusalem und änderte seinen Namen in Jojakim. Seinen Bruder Joahas aber
+nahm Necho fest und brachte ihn nach Ägypten.\\
+\\
+
+<<v5>>
+* Jojakim: 36,5-8
+
+5 Jojakim war fünfundzwanzig Jahre alt, als er König wurde. Er regierte
+elf Jahre in Jerusalem und tat, was dem Herrn, seinem Gott, missfiel. [fn:2]
+
+<<v6>>
+6 Gegen ihn zog Nebukadnezzar, der König von Babel, herauf und legte ihn
+in Ketten, um ihn nach Babel wegzuführen. [fn:3]
+
+<<v7>>
+7 Auch einen Teil der Geräte des Hauses des Herrn brachte Nebukadnezzar
+nach Babel und stellte sie in seinem Palast in Babel auf.
+
+<<v8>>
+8 Die übrige Geschichte Jojakims, die Gräueltaten, die er verübte, und
+was sich sonst über ihn findet, das alles ist aufgezeichnet im Buch der
+Könige von Israel und Juda. Sein Sohn Jojachin wurde König an seiner
+Stelle.\\
+\\
+
+<<v9>>
+* Jojachin: 36,9-10
+
+9 Jojachin war achtzehn Jahre alt, als er König wurde. Er regierte drei
+Monate und zehn Tage in Jerusalem und tat, was dem Herrn missfiel. [fn:4] [fn:5]
+
+<<v10>>
+10 Um die Jahreswende ließ König Nebukadnezzar ihn samt den kostbaren
+Geräten des Hauses des Herrn nach Babel bringen. Er machte Zidkija, den
+Bruder Jojakims, zum König von Juda und Jerusalem. [fn:6]\\
+\\
+
+<<v11>>
+* Zidkija: 36,11-16
+
+11 Zidkija war einundzwanzig Jahre alt, als er König wurde. Er regierte
+elf Jahre in Jerusalem [fn:7]
+
+<<v12>>
+12 und tat, was dem Herrn, seinem Gott, missfiel; er beugte sich nicht
+vor dem Propheten Jeremia, der im Auftrag des Herrn zu ihm sprach.
+
+<<v13>>
+13 Auch fiel er vom König Nebukadnezzar ab, der ihn bei Gott einen Eid
+hatte schwören lassen. Er versteifte seinen Nacken, verhärtete sein Herz
+und kehrte nicht um zum Herrn, dem Gott Israels.
+
+<<v14>>
+14 Auch alle führenden Männer Judas und die Priester und das Volk
+begingen viel Untreue. Sie ahmten die Gräueltaten der Völker nach und
+entweihten das Haus, das der Herr in Jerusalem zu seinem Heiligtum
+gemacht hatte. [fn:8]
+
+<<v15>>
+15 Immer wieder hatte der Herr, der Gott ihrer Väter, sie durch seine
+Boten gewarnt; denn er hatte Mitleid mit seinem Volk und seiner Wohnung.
+
+<<v16>>
+16 Sie aber verhöhnten die Boten Gottes, verachteten sein Wort und
+verspotteten seine Propheten, bis der Zorn des Herrn gegen sein Volk so
+groß wurde, dass es keine Heilung mehr gab.\\
+\\
+
+<<v17>>
+* Das Ende des Reiches Juda: 36,17-21
+
+17 Der Herr ließ nun den König der Chaldäer gegen sie heranziehen.
+Dieser tötete ihre jungen Krieger in ihrem Heiligtum mit dem Schwert und
+verschonte keinen jungen Mann und keine junge Frau, keinen Greis und
+Betagten; alle gab Gott in seine Hand. [fn:9]
+
+<<v18>>
+18 Nebukadnezzar ließ die großen und kleinen Geräte des Hauses Gottes,
+die Tempelschätze und die Schätze des Königs und seiner hohen Beamten
+insgesamt nach Babel bringen.
+
+<<v19>>
+19 Die Chaldäer verbrannten das Haus Gottes, rissen die Mauern
+Jerusalems nieder, legten Feuer an alle seine Paläste und zerstörten
+alle wertvollen Geräte.
+
+<<v20>>
+20 Alle, die dem Schwert entgangen waren, führte Nebukadnezzar in die
+Verbannung nach Babel. Dort mussten sie ihm und seinen Söhnen als
+Sklaven dienen, bis das Reich der Perser zur Herrschaft kam.
+
+<<v21>>
+21 Da ging das Wort in Erfüllung, das der Herr durch den Mund Jeremias
+verkündet hatte. Das Land bekam seine Sabbate ersetzt, es lag brach
+während der ganzen Zeit der Verwüstung, bis siebzig Jahre voll waren. [fn:10] [fn:11]\\
+\\
+
+<<v22>>
+* Der Beginn der Wiederherstellung Israels: 36,22-23
+
+22 Im ersten Jahr des Königs Kyrus von Persien sollte sich erfüllen, was
+der Herr durch Jeremia gesprochen hatte. Darum erweckte der Herr den
+Geist des Königs Kyrus von Persien und Kyrus ließ in seinem ganzen Reich
+mündlich und schriftlich den Befehl verkünden: [fn:12]
+
+<<v23>>
+23 So spricht Kyrus, der König von Persien: Der Herr, der Gott des
+Himmels, hat mir alle Reiche der Erde verliehen. Er selbst hat mir
+aufgetragen, ihm in Jerusalem in Juda ein Haus zu bauen. Jeder unter
+euch, der zu seinem Volk gehört - der Herr, sein Gott, sei mit ihm -,
+der soll hinaufziehen.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-4) [[file:2.Kön_23.org::v30][2 Kön 23,30]]-[[file:2.Kön_23.org::v35][35]]
+
+[fn:2] (5-8) [[file:2.Kön_23.org::v36][2 Kön 23,36f]]; [[file:2.Kön_25.org::v5][25,5f]]
+
+[fn:3] Die hier erwähnte Gefangennahme wird sonst nicht berichtet.
+
+[fn:4] (9-10) [[file:2.Kön_24.org::v8][2 Kön 24,8]]-[[file:2.Kön_24.org::v17][17]]
+
+[fn:5] achtzehn: Text korr. nach [[file:2.Kön_24.org::v8][2 Kön 24,8]]; H: acht.
+
+[fn:6] Jojachin ergab sich freiwillig den Babyloniern und wurde
+nach Babylon gebracht, wo er bis zu seiner Begnadigung gefangen gehalten
+wurde (vgl. [[file:2.Kön_25.org::v27][2 Kön 25,27]]). - den Bruder Jojakims: H: seinen Bruder.
+
+[fn:7] (11-16) [[file:2.Kön_24.org::v18][2 Kön 24,18]]-[[file:2.Kön_24.org::v20][20]]
+
+[fn:8] führenden Männer Judas: so mit G; H: Obersten der Priester.
+
+[fn:9] (17-21) [[file:2.Kön_25.org::v8][2 Kön 25,8]]-[[file:2.Kön_25.org::v21][21]]
+
+[fn:10] [[file:Jer_27.org::v7][Jer 27,7]]
+
+[fn:11] Während der Dauer der Gefangenschaft blieben große
+Teile des Landes unbebaut. Auf diese Weise wurde ihm die Ruhe ersetzt,
+die es wegen der Nichteinhaltung des Sabbatjahrs hatte entbehren müssen
+(vgl. Lev 26,34f).
+
+[fn:12] (22-23) [[file:Esra_1.org::v1][Esra 1,1]]-[[file:Esra_1.org::v3][3]]

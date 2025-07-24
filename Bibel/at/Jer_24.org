@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID:       bacbf778-e481-4fad-b8e2-a9214d76b142
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jeremia* -- [[file:Jer_1.html][1]] ...
+[[file:Jer_22.html][22]] [[file:Jer_23.html][23]] *24*
+[[file:Jer_25.html][25]] [[file:Jer_26.html][26]] ...
+[[file:Jer_52.html][52]]
+
+--------------
+
+* Jer 24
+  :PROPERTIES:
+  :CUSTOM_ID: jer-24
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die beiden Feigenkörbe: 24,1-10
+     :PROPERTIES:
+     :CUSTOM_ID: die-beiden-feigenkörbe-241-10
+     :END:
+1 Der Herr ließ mich schauen: Da standen zwei Körbe mit Feigen vor dem
+Tempel des Herrn. Dies geschah, nachdem Nebukadnezzar, der König von
+Babel, Jojachin, den Sohn Jojakims, den König von Juda, sowie die Großen
+von Juda samt den Schmieden und Schlossern aus Jerusalem weggeführt und
+nach Babel gebracht hatte. ^{[[#fn1][1]]}
+
+<<v2>>
+2 In dem einen Korb waren sehr gute Feigen, wie Frühfeigen, im andern
+Korb sehr schlechte Feigen, so schlecht, dass sie ungenießbar waren.
+
+<<v3>>
+3 Der Herr fragte mich: Was siehst du, Jeremia? Feigen, antwortete ich.
+Die guten Feigen sind sehr gut, die schlechten aber sehr schlecht, so
+schlecht, dass sie ungenießbar sind.
+
+<<v4>>
+4 Nun erging an mich das Wort des Herrn:
+
+<<v5>>
+5 So spricht der Herr, der Gott Israels: Wie auf diese guten Feigen, so
+schaue ich liebevoll auf die Verschleppten aus Juda, die ich von diesem
+Ort vertrieben habe ins Land der Chaldäer.
+
+<<v6>>
+6 Ich richte meine Augen liebevoll auf sie und lasse sie in dieses Land
+heimkehren. Ich will sie aufbauen, nicht niederreißen, einpflanzen,
+nicht ausreißen. ^{[[#fn2][2]]}
+
+<<v7>>
+7 Ich gebe ihnen ein Herz, damit sie erkennen, dass ich der Herr bin.
+Sie werden mein Volk sein und ich werde ihr Gott sein; denn sie werden
+mit ganzem Herzen zu mir umkehren. ^{[[#fn3][3]]}
+
+<<v8>>
+8 Aber wie mit den schlechten Feigen, die so schlecht sind, dass sie
+ungenießbar sind, [ja, so spricht der Herr] so verfahre ich mit Zidkija,
+dem König von Juda, mit seinen Großen und dem Rest Jerusalems, mit
+denen, die in diesem Land übrig geblieben sind, und denen, die sich in
+Ägypten niedergelassen haben. ^{[[#fn4][4]][[#fn5][5]]}
+
+<<v9>>
+9 Ich mache sie zu einem Bild des Schreckens für alle Reiche der Erde,
+zum Schimpf und Gespött, zum Hohn und zum Fluch an allen Orten, an die
+ich sie verstoße. ^{[[#fn6][6]]}
+
+<<v10>>
+10 Ich sende unter sie Schwert, Hunger und Pest, bis sie ganz
+ausgerottet sind aus dem Land, das ich ihnen und ihren Vätern gegeben
+habe.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 2 Kön 24,14-16
+
+^{[[#fnm2][2]]} ℘ 1,10; 31,28
+
+^{[[#fnm3][3]]} ℘ 31,33; 30,22; Lev 26,12; Dtn 26,17f
+
+^{[[#fnm4][4]]} ℘ 29,17f
+
+^{[[#fnm5][5]]} Die wiederholte Beteuerung, dass es sich um ein
+Gotteswort handelt (VV. 4f), ist wohl späterer Zusatz.
+
+^{[[#fnm6][6]]} ℘ 15,4

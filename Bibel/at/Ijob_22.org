@@ -1,0 +1,206 @@
+#+TITLE: Ijob 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-30 Do 09:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 22.html
+
+<<verses>>
+
+<<v1>>
+* Die dritte Rede des Elifas: 22,1-30
+
+* Ijobs angebliche Freveltaten: 22,1-11
+
+1 Da antwortete Elifas von Teman und sprach:\\
+\\
+
+<<v2>>
+2 Kann denn der Mensch Gott nützen? /\\
+ Nein, sich selber nützt der Kluge.\\
+\\
+
+<<v3>>
+3 Ist es dem Allmächtigen von Wert, /\\
+ dass du gerecht bist, /\\
+ ist es für ihn Gewinn, wenn du unsträfliche Wege gehst? [fn:1]\\
+\\
+
+<<v4>>
+4 Wegen deiner Gottesfurcht sollte er dich strafen, /\\
+ vor Gericht mit dir gehen?\\
+\\
+
+<<v5>>
+5 Ist nicht groß deine Bosheit, /\\
+ ohne Ende dein Verschulden?\\
+\\
+
+<<v6>>
+6 Du pfändest ohne Grund deine Brüder, /\\
+ ziehst Nackten ihre Kleider aus. [fn:2]\\
+\\
+
+<<v7>>
+7 Den Durstigen tränkst du nicht mit Wasser, /\\
+ dem Hungernden versagst du das Brot. [fn:3]\\
+\\
+
+<<v8>>
+8 Dem Mann der Faust gehört das Land, /\\
+ der Günstling darf darin wohnen. [fn:4]\\
+\\
+
+<<v9>>
+9 Witwen hast du weggeschickt mit leeren Händen, /\\
+ der Verwaisten Arme zerschlagen. [fn:5]\\
+\\
+
+<<v10>>
+10 Deswegen liegen Fallstricke rings um dich her /\\
+ und jäher Schrecken ängstigt dich [fn:6]\\
+\\
+
+<<v11>>
+11 oder Dunkel, worin du nicht siehst, /\\
+ und Wasserflut, die dich bedeckt. [fn:7]\\
+\\
+
+<<v12>>
+* Der allwissende Gott: 22,12-20
+
+12 Ist Gott nicht wie der Himmel hoch? /\\
+ Schau, wie die höchsten Sterne ragen. [fn:8]\\
+\\
+
+<<v13>>
+13 Und da sagst du: Was weiß denn Gott? /\\
+ Richtet er denn durch das dunkle Gewölk? [fn:9]\\
+\\
+
+<<v14>>
+14 Wolken umhüllen ihn, sodass er nicht sieht, /\\
+ am Himmelskreis geht er einher. [fn:10]\\
+\\
+
+<<v15>>
+15 Willst du dem Pfad der Vorzeit folgen, /\\
+ den die Männer des Unheils zogen,\\
+\\
+
+<<v16>>
+16 die vor der Zeit dahingerafft wurden, /\\
+ über deren Grund sich ein Strom ergoss?\\
+\\
+
+<<v17>>
+17 Die sagten zu Gott: Weiche von uns!, /\\
+ und: Was tut uns der Allmächtige an? [fn:11] [fn:12]\\
+\\
+
+<<v18>>
+18 Und doch, er hat ihre Häuser mit Gütern gefüllt /\\
+ und das Planen der Bösen blieb ihm fern. [fn:13]\\
+\\
+
+<<v19>>
+19 Sehen werden, sich freuen die Gerechten, /\\
+ der Reine wird sie verspotten: [fn:14]\\
+\\
+
+<<v20>>
+20 Wahrhaftig, vernichtet sind unsere Gegner, /\\
+ ihren Rest hat das Feuer verzehrt.\\
+\\
+
+<<v21>>
+* Die Mahnung zu Umkehr und Demut: 22,21-30
+
+21 Werde sein Freund und halte Frieden! /\\
+ Nur dadurch kommt das Gute dir zu.\\
+\\
+
+<<v22>>
+22 Nimm doch Weisung an aus seinem Mund, /\\
+ leg dir seine Worte ins Herz:\\
+\\
+
+<<v23>>
+23 Kehrst du zum Allmächtigen um, /\\
+ so wirst du aufgerichtet. Hältst Unrecht deinem Zelt du fern,\\
+\\
+
+<<v24>>
+24 wirfst in den Staub das Edelgold, /\\
+ zum Flussgestein das Feingold,\\
+\\
+
+<<v25>>
+25 dann wird der Allmächtige dein Edelgold /\\
+ und erlesenes Silber für dich sein.\\
+\\
+
+<<v26>>
+26 Dann wirst du am Allmächtigen dich erfreuen /\\
+ und zu Gott dein Angesicht heben. [fn:15]\\
+\\
+
+<<v27>>
+27 Flehst du ihn an, so hört er dich /\\
+ und du wirst deine Gelübde erfüllen.\\
+\\
+
+<<v28>>
+28 Beschließt du etwas, dann trifft es ein /\\
+ und Licht überstrahlt deine Wege.\\
+\\
+
+<<v29>>
+29 Wer hochmütig redet, den duckt er, /\\
+ doch hilft er dem, der die Augen senkt. [fn:16]\\
+\\
+
+<<v30>>
+30 Er rettet den, der schuldlos ist; /\\
+ durch deiner Hände Reinheit wird er gerettet.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ijob_35.org::v7][35,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_17.org::v7][Lk 17,7]]-[[file:~/RoamNotes/notes/Bibel/nt/Lk_17.org::v10][10]]
+
+[fn:2] [[file:Ex_22.org::v25][Ex 22,25f]]; [[file:Dtn_24.org::v12][Dtn 24,12f]]
+
+[fn:3] [[file:Jes_58.org::v7][Jes 58,7]]; [[file:Ez_18.org::v7][Ez 18,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_25.org::v42][Mt 25,42]]
+
+[fn:4] Andere Übersetzungsmöglichkeiten: der Erfolgreiche, der
+Mächtige.
+
+[fn:5] [[file:Ex_22.org::v21][Ex 22,21f]]
+
+[fn:6] [[file:Ijob_18.org::v8][18,8]]-[[file:Ijob_18.org::v11][11]]; [[file:Ijob_19.org::v6][19,6]]
+
+[fn:7] [[file:Ps_69.org::v2][Ps 69,2f]]
+
+[fn:8] [[file:Jes_40.org::v26][Jes 40,26]]
+
+[fn:9] [[file:Ijob_36.org::v13][35,13]]; [[file:Ps_73.org::v11][Ps 73,11]]; [[file:Jes_29.org::v15][Jes 29,15]]
+
+[fn:10] [[file:Sir_24.org::v5][Sir 24,5]]; [[file:Jer_23.org::v23][Jer 23,23f]]
+
+[fn:11] [[file:Ijob_21.org::v14][21,14]]
+
+[fn:12] von uns: Text korr.; H: von ihnen.
+
+[fn:13] ihm: Text korr.; H: mir.
+
+[fn:14] [[file:Ps_58.org::v11][Ps 58,11]]
+
+[fn:15] [[file:Ijob_27.org::v10][27,10]]
+
+[fn:16] [[file:Ps_18.org::v28][Ps 18,28]]; [[file:Jes_2.org::v11][Jes 2,11]]-[[file:Jes_2.org::v17][17]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v52][Lk 1,52f]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_5.org::v5][1 Petr 5,5]]

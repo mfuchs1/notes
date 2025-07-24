@@ -1,0 +1,35 @@
+#+title:      org table
+#+date:       [2024-06-14 Fr 09:44]
+#+filetags:   :emacs:
+#+identifier: 20240614T094425
+
+[[https://orgmode.org/manual/References.html#index-remote-references-352]]
+
+[[https://www.reddit.com/r/emacs/comments/oil7xw/i_made_a_thing_for_org_bespoke_completion_sparse/]]
+
+* Remote table references
+
+#+TBLNAME: tab1
+| Nº  | Description | Value |
+|-----+-------------+-------|
+|     | TOTAL       |     5 |
+
+...
+
+#+TBLNAME: tab10
+| Nº | Description | Value |
+|----+-------------+-------|
+|    | TOTAL       |     4 |
+
+tab-summary
+| Description       | Value |
+|-------------------+-------|
+| Total of Table 1  |     5 |
+| Total of Table 10 |     4 |
+|-------------------+-------|
+| Grand Total       |     9 |
+#+TBLFM: @2$2=remote(tab1,@2$3)::@3$2=remote(tab10,@2$3)::@>$2=vsum(@I$2..@II$2)
+
+
+
+

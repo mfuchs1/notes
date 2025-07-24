@@ -1,0 +1,99 @@
+#+TITLE: 2 Chr 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 14.html
+
+<<verses>>
+
+<<v1>>
+* Asas Erfolge: 14,1-14
+
+1 Asa tat, was gut und recht war in den Augen des Herrn, seines Gottes. [fn:1]
+
+<<v2>>
+2 Er entfernte die fremden Altäre und die Kulthöhen, zerbrach die
+Steinmale, hieb die Kultpfähle um [fn:2]
+
+<<v3>>
+3 und befahl den Judäern, den Herrn, den Gott ihrer Väter, zu suchen und
+das Gesetz und die Gebote zu halten.
+
+<<v4>>
+4 Er beseitigte die Kulthöhen und die Rauchopferaltäre aus allen Städten
+Judas. Das Reich hatte Ruhe unter ihm.
+
+<<v5>>
+5 Weil das Land Ruhe hatte und weil er in jenen Jahren keinen Krieg
+führen musste, konnte Asa Festungen in Juda ausbauen. Der Herr hatte ihm
+nämlich Ruhe verschafft.
+
+<<v6>>
+6 Er sagte daher zu den Männern Judas: Wir wollen diese Städte ausbauen
+und sie mit Mauern, Türmen, Toren und Riegeln versehen; denn noch liegt
+das Land frei vor uns. Weil wir den Herrn, unseren Gott, eifrig gesucht
+haben, hat er uns ringsum Ruhe verschafft. So konnten sie bauen und
+hatten Erfolg.
+
+<<v7>>
+7 Asa hatte ein Heer von dreihunderttausend Mann aus Juda, die Schild
+und Lanze führten, und zweihundertachtzigtausend Mann aus Benjamin, die
+den Rundschild trugen und den Bogen spannten. Sie alle waren tapfere
+Krieger.
+
+<<v8>>
+8 Gegen sie zog der Kuschiter Serach mit einem Heer von einer Million
+Mann und dreihundert Wagen. Er kam bis Marescha. [fn:3]
+
+<<v9>>
+9 Asa zog ihm entgegen und sie stellten sich im Tal nördlich von
+Marescha zum Kampf auf. [fn:4]
+
+<<v10>>
+10 Doch Asa rief zum Herrn, seinem Gott, und sagte: Herr, im Streit
+zwischen einem Mächtigen und einem Schwachen kann niemand so helfen wie
+du. Hilf uns, Herr, unser Gott; denn du bist unsere Stütze und in deinem
+Namen sind wir gegen diese Übermacht gezogen. Herr, du bist unser Gott
+und kein Mensch soll etwas gegen dich vermögen.
+
+<<v11>>
+11 Da schlug der Herr die Kuschiter vor Asa und Juda und die Kuschiter
+mussten fliehen;
+
+<<v12>>
+12 Asa und seine Leute verfolgten sie bis Gerar. Von den Kuschitern
+fielen so viele, dass sie sich nicht mehr erholten. Sie zerbrachen vor
+dem Herrn und seinem Heerlager. Die Judäer aber machten reiche Beute. [fn:5]
+
+<<v13>>
+13 Sie schlugen alle Städte im Umkreis von Gerar, denn der Schrecken des
+Herrn war über sie gekommen. Die Judäer plünderten sie aus, denn es gab
+in ihnen viel zu erbeuten.
+
+<<v14>>
+14 Auch die Zeltlager bei den Herden überwältigten sie, führten eine
+Menge Schafe und Ziegen und Kamele fort und kehrten dann nach Jerusalem
+zurück.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-4) [[file:1.Kön_15.org::v9][1 Kön 15,9-12]]
+
+[fn:2] Zu «Kulthöhen» vgl. die Anmerkung zu [[file:1.Kön_3.org::v2][1 Kön 3,2]]. - Zu
+«Steinmalen» und «Kultpfählen» vgl. die Anmerkung zu [[file:1.Kön_14.org::v23][1 Kön 14,23]].
+
+[fn:3] Kuschiter sind hier nicht die Bewohner Äthiopiens oder
+des Sudan, sondern ein kleinerer Volksstamm südlich des israelitischen
+Siedlungsgebiets, vgl. die Ortsnamen Marescha (VV. 8f) und Gerar (VV. 12f).
+
+[fn:4] nördlich: Text korr. nach G.
+
+[fn:5] Das israelitische Heer ist das Heerlager Gottes, des
+eigentlichen Königs Israels.

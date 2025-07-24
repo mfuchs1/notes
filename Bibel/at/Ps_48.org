@@ -1,0 +1,122 @@
+#+TITLE: Ps 48 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-04 Do 20:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 48.html
+
+* Ps 48
+
+<<verses>>
+
+<<v1>>
+* Die Stadt des großen Königs
+
+1 [Ein Lied. Ein Psalm der Korachiter.]\\
+\\
+
+<<v2>>
+2 Groß ist der Herr und hoch zu preisen /\\
+ in der Stadt unsres Gottes. [fn:1]\\
+\\
+
+<<v3>>
+3 Sein heiliger Berg ragt herrlich empor; /\\
+ er ist die Freude der ganzen Welt. Der Berg Zion liegt weit im Norden;
+/\\
+ er ist die Stadt des großen Königs. [fn:2]\\
+\\
+
+<<v4>>
+4 Gott ist in ihren Häusern bekannt /\\
+ als ein sicherer Schutz. [fn:3]\\
+\\
+
+<<v5>>
+5 Denn seht: Die Könige vereinten sich /\\
+ und zogen gemeinsam heran; [fn:4]\\
+\\
+
+<<v6>>
+6 doch als sie aufsahen, erstarrten sie vor Schreck, /\\
+ sie waren bestürzt und liefen davon.\\
+\\
+
+<<v7>>
+7 Dort packte sie das Zittern, /\\
+ wie die Wehen eine gebärende Frau, [fn:5]\\
+\\
+
+<<v8>>
+8 wie der Sturm vom Osten, /\\
+ der die Schiffe von Tarschisch zerschmettert. [fn:6]\\
+\\
+
+<<v9>>
+9 Wie wir's gehört hatten, so erlebten wir's jetzt /\\
+ in der Stadt des Herrn der Heere, in der Stadt unsres Gottes; /\\
+ Gott lässt sie ewig bestehen. [Sela]\\
+\\
+
+<<v10>>
+10 Über deine Huld, o Gott, denken wir nach /\\
+ in deinem heiligen Tempel.\\
+\\
+
+<<v11>>
+11 Wie dein Name, Gott, so reicht dein Ruhm bis an die Enden der Erde;
+/\\
+ deine rechte Hand ist voll von Gerechtigkeit. [fn:7]\\
+\\
+
+<<v12>>
+12 Der Berg Zion freue sich, /\\
+ die Töchter Judas sollen über deine gerechten Urteile jubeln. [fn:8]\\
+\\
+
+<<v13>>
+13 Umkreist den Zion, /\\
+ umschreitet ihn, zählt seine Türme! [fn:9]\\
+\\
+
+<<v14>>
+14 Betrachtet seine Wälle, /\\
+ geht in seinen Palästen umher, /\\
+ damit ihr dem kommenden Geschlecht erzählen könnt: [fn:10]\\
+\\
+
+<<v15>>
+15 «Das ist Gott, unser Gott für immer und ewig. /\\
+ Er wird uns führen in Ewigkeit.» [fn:11] [fn:12]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_95.org::v3][95,3]]; [[file:Ps_96.org::v4][96,4]]; [[file:Ps_145.org::v3][145,3]]
+
+[fn:2] [[file:Ps_50.org::v2][50,2]]; [[file:Ps_78.org::v68][78,68f]]; [[file:Jes_14.org::v13][Jes 14,13]]; [[file:Klgl_2.org::v15][Klgl 2,15]]
+
+[fn:3] [[file:Ps_46.org::v6][46,6]]
+
+[fn:4] [[file:Ri_5.org::v19][Ri 5,19]]
+
+[fn:5] [[file:Ex_15.org::v14][Ex 15,14]]
+
+[fn:6] [[file:Jes_2.org::v16][Jes 2,16]]
+
+[fn:7] [[file:Ps_113.org::v3][113,3]]; [[file:Mal_1.org::v11][Mal 1,11]]
+
+[fn:8] [[file:Ps_97.org::v8][97,8]]
+
+[fn:9] [[file:Ps_122.org::v3][122,3]]; [[file:Jes_26.org::v1][Jes 26,1]]
+
+[fn:10] [[file:Ps_22.org::v31][22,31f]]
+
+[fn:11] [[file:Ps_102.org::v28][102,28]]
+
+[fn:12] Nach G.

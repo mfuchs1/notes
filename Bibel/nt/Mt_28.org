@@ -1,0 +1,161 @@
+:PROPERTIES:
+:ID:       74192467-5f6a-404d-8b5f-1beb46a467c9
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Matthäus* --
+[[file:Mt_1.html][1]] ... [[file:Mt_26.html][26]]
+[[file:Mt_27.html][27]] *28*
+
+--------------
+
+* Mt 28
+  :PROPERTIES:
+  :CUSTOM_ID: mt-28
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Botschaft des Engels am leeren Grab: 28,1-8
+     :PROPERTIES:
+     :CUSTOM_ID: die-botschaft-des-engels-am-leeren-grab-281-8
+     :END:
+1 Nach dem Sabbat kamen in der Morgendämmerung des ersten Tages der
+Woche Maria aus Magdala und die andere Maria, um nach dem Grab zu sehen.
+^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 352\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Plötzlich entstand ein gewaltiges Erdbeben; denn ein Engel des Herrn
+kam vom Himmel herab, trat an das Grab, wälzte den Stein weg und setzte
+sich darauf.
+
+<<v3>>
+3 Seine Gestalt leuchtete wie ein Blitz und sein Gewand war weiß wie
+Schnee.
+
+<<v4>>
+4 Die Wächter begannen vor Angst zu zittern und fielen wie tot zu Boden.
+
+<<v5>>
+5 Der Engel aber sagte zu den Frauen: Fürchtet euch nicht! Ich weiß, ihr
+sucht Jesus, den Gekreuzigten.
+
+<<v6>>
+6 Er ist nicht hier; denn er ist auferstanden, wie er gesagt hat. Kommt
+her und seht euch die Stelle an, wo er lag. ^{[[#fn2][2]]}
+
+<<v7>>
+7 Dann geht schnell zu seinen Jüngern und sagt ihnen: Er ist von den
+Toten auferstanden. Er geht euch voraus nach Galiläa, dort werdet ihr
+ihn sehen. Ich habe es euch gesagt.
+
+<<v8>>
+8 Sogleich verließen sie das Grab und eilten voll Furcht und großer
+Freude zu seinen Jüngern, um ihnen die Botschaft zu verkünden.\\
+\\
+
+<<v9>>
+**** Die Erscheinung Jesu vor den Frauen: 28,9-10
+     :PROPERTIES:
+     :CUSTOM_ID: die-erscheinung-jesu-vor-den-frauen-289-10
+     :END:
+9 Plötzlich kam ihnen Jesus entgegen und sagte: Seid gegrüßt! Sie gingen
+auf ihn zu, warfen sich vor ihm nieder und umfassten seine Füße.
+^{[[#fn3][3]][[#fn4][4]][[#fn5][5]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 353\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v10>>
+10 Da sagte Jesus zu ihnen: Fürchtet euch nicht! Geht und sagt meinen
+Brüdern, sie sollen nach Galiläa gehen und dort werden sie mich sehen.\\
+\\
+
+<<v11>>
+**** Der Betrug der Hohenpriester: 28,11-15
+     :PROPERTIES:
+     :CUSTOM_ID: der-betrug-der-hohenpriester-2811-15
+     :END:
+11 Noch während die Frauen unterwegs waren, kamen einige von den
+Wächtern in die Stadt und berichteten den Hohenpriestern alles, was
+geschehen war. ^{[[#fn6][6]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 354\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v12>>
+12 Diese fassten gemeinsam mit den Ältesten den Beschluss, die Soldaten
+zu bestechen. Sie gaben ihnen viel Geld
+
+<<v13>>
+13 und sagten: Erzählt den Leuten: Seine Jünger sind bei Nacht gekommen
+und haben ihn gestohlen, während wir schliefen. ^{[[#fn7][7]]}
+
+<<v14>>
+14 Falls der Statthalter davon hört, werden wir ihn beschwichtigen und
+dafür sorgen, dass ihr nichts zu befürchten habt.
+
+<<v15>>
+15 Die Soldaten nahmen das Geld und machten alles so, wie man es ihnen
+gesagt hatte. So kommt es, dass dieses Gerücht bei den Juden bis heute
+verbreitet ist.\\
+\\
+
+<<v16>>
+**** Der Auftrag des Auferstandenen: 28,16-20
+     :PROPERTIES:
+     :CUSTOM_ID: der-auftrag-des-auferstandenen-2816-20
+     :END:
+16 Die elf Jünger gingen nach Galiläa auf den Berg, den Jesus ihnen
+genannt hatte. ^{[[#fn8][8]][[#fn9][9]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 364\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v17>>
+17 Und als sie Jesus sahen, fielen sie vor ihm nieder. Einige aber
+hatten Zweifel.
+
+<<v18>>
+18 Da trat Jesus auf sie zu und sagte zu ihnen: Mir ist alle Macht
+gegeben im Himmel und auf der Erde.
+
+<<v19>>
+19 Darum geht zu allen Völkern und macht alle Menschen zu meinen
+Jüngern; tauft sie auf den Namen des Vaters und des Sohnes und des
+Heiligen Geistes, ^{[[#fn10][10]]}
+
+<<v20>>
+20 und lehrt sie, alles zu befolgen, was ich euch geboten habe. Seid
+gewiss: Ich bin bei euch alle Tage bis zum Ende der Welt.\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-8) Mk 16,1-8; Lk 24,1-12; Joh 20,1-13 ⇨Esyn:
+Synopse Nr. 352
+
+^{[[#fnm2][2]]} ℘ 12,40; 16,21; 17,23; 20,19
+
+^{[[#fnm3][3]]} ℘ (9-10) Joh 20,14-18
+
+^{[[#fnm4][4]]} 9f: Wie Joh 20,11-18 berichtet Matthäus von einer
+Erscheinung Jesu vor Maria aus Magdala - und anderen Frauen - in der
+Nähe des Grabes.
+
+^{[[#fnm5][5]]} ℘ ⇨Esyn: Synopse Nr. 353
+
+^{[[#fnm6][6]]} ℘ ⇨Esyn: Synopse Nr. 354
+
+^{[[#fnm7][7]]} ℘ 27,64
+
+^{[[#fnm8][8]]} 16-20: Der abschließende Bericht über die Aussendung der
+Jünger durch den Auferstandenen (vgl. Lk 24,47; Joh 20,21) erneuert die
+in Mt 10 berichtete Sendung durch den irdischen Jesus. Die Jünger
+erhalten jetzt aber einen weltweiten Auftrag.
+
+^{[[#fnm9][9]]} ℘ ⇨Esyn: Synopse Nr. 364
+
+^{[[#fnm10][10]]} ℘ 24,14

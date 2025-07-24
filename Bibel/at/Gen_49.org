@@ -1,0 +1,242 @@
+#+TITLE: Gen 49 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:37]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 49.html
+
+<<verses>>
+
+<<v1>>
+* Der Segen Jakobs: 49,1-27
+    
+1 Darauf rief Jakob seine Söhne und sprach: Versammelt euch, dann sage
+ich euch an, was euch begegnet in künftigen Tagen. [fn:1]\\
+\\
+
+<<v2>>
+2 Kommt zusammen, ihr Söhne Jakobs, und hört, /\\
+ auf Israel hört, auf euren Vater!\\
+\\
+
+<<v3>>
+3 /Ruben/, mein Erster, du meine Stärke, /\\
+ meiner Zeugungskraft Erstling, /\\
+ übermütig an Stolz, übermütig an Kraft, [fn:2]\\
+\\
+
+<<v4>>
+4 brodelnd wie Wasser. Der Erste sollst du nicht bleiben. /\\
+ Du bestiegst ja das Bett deines Vaters; geschändet hast du damals mein
+Lager. [fn:3] [fn:4]\\
+\\
+
+<<v5>>
+5 /Simeon/ und /Levi/, die Brüder, /\\
+ Werkzeuge der Gewalt sind ihre Messer. [fn:5]\\
+\\
+
+<<v6>>
+6 Zu ihrem Kreis mag ich nicht gehören, /\\
+ mit ihrer Rotte vereinige sich nicht mein Herz. /\\
+ Denn in ihrem Zorn brachten sie Männer um, /\\
+ mutwillig lähmten sie Stiere.\\
+\\
+
+<<v7>>
+7 Verflucht ihr Zorn, da er so heftig, /\\
+ verflucht ihr Grimm, da er so roh. /\\
+ Ich teile sie unter Jakob auf, /\\
+ ich zerstreue sie unter Israel. [fn:6]\\
+\\
+
+<<v8>>
+8 /Juda/, dir jubeln die Brüder zu, /\\
+ deine Hand hast du am Genick deiner Feinde. /\\
+ Deines Vaters Söhne fallen vor dir nieder.\\
+\\
+
+<<v9>>
+9 Ein junger Löwe ist Juda. /\\
+ Vom Raub, mein Sohn, wurdest du groß. /\\
+ Er kauert, liegt da wie ein Löwe, /\\
+ wie eine Löwin. Wer wagt, sie zu scheuchen?\\
+\\
+
+<<v10>>
+10 Nie weicht von Juda das Zepter, /\\
+ der Herrscherstab von seinen Füßen, /\\
+ bis der kommt, dem er gehört, /\\
+ dem der Gehorsam der Völker gebührt. [fn:7]\\
+\\
+
+<<v11>>
+11 Er bindet am Weinstock sein Reittier fest, /\\
+ seinen Esel am Rebstock. /\\
+ Er wäscht in Wein sein Kleid, /\\
+ in Traubenblut sein Gewand.\\
+\\
+
+<<v12>>
+12 Feurig von Wein funkeln die Augen, /\\
+ seine Zähne sind weißer als Milch.\\
+\\
+
+<<v13>>
+13 /Sebulon/ wohnt nahe dem Strand, /\\
+ am Gestade der Schiffe, /\\
+ mit seinem Rücken nach Sidon hin.\\
+\\
+
+<<v14>>
+14 /Issachar/ ist ein knochiger Esel, /\\
+ lagernd in seinem Pferch.\\
+\\
+
+<<v15>>
+15 Er sieht, wie die Ruhe so schön ist /\\
+ und wie so freundlich das Land; /\\
+ da neigt er die Schulter als Träger /\\
+ und wird zum fronenden Knecht.\\
+\\
+
+<<v16>>
+16 /Dan/ schafft Recht seinem Volk /\\
+ wie nur einer von Israels Stämmen. [fn:8]\\
+\\
+
+<<v17>>
+17 Zur Schlange am Weg wird Dan, /\\
+ zur zischelnden Natter am Pfad. /\\
+ Sie beißt das Pferd in die Fesseln, /\\
+ sein Reiter stürzt rücklings herab.\\
+\\
+
+<<v18>>
+18 Auf deine Hilfe harre ich, Herr.\\
+\\
+
+<<v19>>
+19 /Gad/, ins Gedränge drängen sie ihn, /\\
+ doch er bedrängt ihre Ferse. [fn:9]\\
+\\
+
+<<v20>>
+20 /Ascher/, fett ist sein Brot. /\\
+ Königskost liefert er.\\
+\\
+
+<<v21>>
+21 /Naftali/, die flüchtige Hirschkuh, /\\
+ versteht sich auf gefällige Rede.\\
+\\
+
+<<v22>>
+22 Ein junger Fruchtbaum ist /Josef/, /\\
+ ein junger Fruchtbaum am Quell, /\\
+ ein junger Zweig an der Mauer.\\
+\\
+
+<<v23>>
+23 Man erbittert und reizt ihn, /\\
+ die Schützen stellen ihm nach.\\
+\\
+
+<<v24>>
+24 Sein Bogen sitzt sicher; /\\
+ gelenkig sind Arme und Hände. /\\
+ Das kommt vom Starken Jakobs, /\\
+ von dort kommt der Hirt, Israels Fels, [fn:10]\\
+\\
+
+<<v25>>
+25 vom Gott deines Vaters, er wird dir helfen. /\\
+ Gott, der Allmächtige, er wird dich segnen /\\
+ mit Segen des Himmels von droben, /\\
+ mit Segen tief lagernder Urflut, /\\
+ mit Segen von Brust und Schoß.\\
+\\
+
+<<v26>>
+26 Deines Vaters Segen übertrifft /\\
+ den Segen der uralten Berge, /\\
+ den man von den ewigen Hügeln ersehnt. /\\
+ Er komme auf Josefs Haupt, /\\
+ auf das Haupt des Geweihten der Brüder.\\
+\\
+
+<<v27>>
+27 /Benjamin/ ist ein reißender Wolf: /\\
+ Am Morgen frisst er die Beute, /\\
+ am Abend teilt er den Fang.\\
+\\
+
+<<v28>>
+* Jakobs Tod und Begräbnis: 49,28 - 50,13
+28 Sie alle sind die zwölf Stämme Israels und das war es, was ihr Vater
+zu ihnen sagte, als er sie segnete. Einen jeden bedachte er mit dem
+Segen, der ihm zukam.
+
+<<v29>>
+29 Er trug ihnen ferner auf und sagte zu ihnen: Ich werde mit meinen
+Vorfahren vereint. Begrabt mich bei meinen Vätern in der Höhle auf dem
+Grundstück des Hetiters Efron,
+
+<<v30>>
+30 in der Höhle auf dem Grundstück von Machpela bei Mamre in Kanaan. Das
+Grundstück hatte Abraham vom Hetiter Efron als eigene Grabstätte
+gekauft.
+
+<<v31>>
+31 Dort hat man Abraham und seine Frau Sara begraben; dort hat man Isaak
+und seine Frau Rebekka begraben; dort habe ich Lea begraben,
+
+<<v32>>
+32 auf dem Grundstück, das samt der Höhle darauf von den Hetitern in
+unseren Besitz übergegangen ist. [fn:11]
+
+<<v33>>
+33 Jakob beendete den Auftrag an seine Söhne und zog seine Füße auf das
+Bett zurück. Dann verschied er und wurde mit seinen Vorfahren vereint.
+
+* Footnotes
+
+[fn:1] 1-27: Man nennt diesen Text «Jakob-Segen»; er enthält
+aber nicht nur Segenssprüche, sondern auch Flüche und Feststellungen
+über einzelne Stämme. Der Wortlaut der Sprüche setzt bereits das
+Schicksal der Stämme voraus. Die Sprache dieses Textes in H ist sehr
+knapp und verwendet viele schwer verständliche Anspielungen.
+
+[fn:2] (3-27) Dtn 33,6-25 [[file:Dtn_33.org::v6][Dtn 33,6-25]]
+
+[fn:3] 35,22 [[file:Gen_35.org::v22][Gen 35,22]]
+
+[fn:4] Der Erste sollst du nicht bleiben: Er verliert das
+Erstgeburtsrecht. Andere Übersetzungsmöglichkeit: Den Übermut dämpfe!
+(vgl. V. 3).
+
+[fn:5] Die Messer sind vielleicht die Beschneidungsmesser, die
+die Sichemiten wehrlos gemacht haben, oder die Schwerter, mit denen die
+Jakob-Söhne die Sichemiten niedergemetzelt haben (vgl. 34,13-26 [[file:Gen_34.org::v13][Gen 34,13-26]]).
+
+[fn:6] Die Stämme Simeon und Levi sind später in anderen
+Stämmen aufgegangen.
+
+[fn:7] Gemeint ist vielleicht David, der den Herrscherstab
+übernimmt. Die Übersetzung ist unsicher.
+
+[fn:8] Wortspiel mit dem Namen Dan, der auch «der, der Recht
+spricht» bedeutet (vgl. 30,6 [[file:Gen_30.org::v6][Gen 30,6]]).
+
+[fn:9] Wortspiel mit dem Namen Gad und dem Zeitwort «drängen»
+(gadád); anders 30,11 [[file:Gen_30.org::v11][Gen 30,11]].
+
+[fn:10] Der Sinn des letzten Versteils ist in H unklar.
+
+[fn:11] 23,16-18 [[file:Gen_23.org::v16][Gen 23,16-18]]
+

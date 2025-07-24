@@ -1,0 +1,183 @@
+#+TITLE: Dtn 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-29 So 19:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 16.html
+
+
+<<verses>>
+
+<<v1>>
+* Das Frühlingsfest: 16,1-8
+
+1 Achte auf den Monat Abib und feiere dem Herrn, deinem Gott, das
+Paschafest; denn im Monat Abib hat der Herr, dein Gott, dich nachts aus
+Ägypten geführt. [fn:1] [fn:2]
+
+<<v2>>
+2 Als Paschatiere für den Herrn, deinen Gott, sollst du Schafe, Ziegen
+oder Rinder schlachten an der Stätte, die der Herr auswählen wird, indem
+er dort seinen Namen wohnen lässt. [fn:3]
+
+<<v3>>
+3 Du sollst nichts Gesäuertes dazu essen. Sieben Tage lang sollst du
+ungesäuertes Brot dazu essen, die Speise der Bedrängnis, damit du dein
+ganzes Leben lang des Tages gedenkst, an dem du aus Ägypten gezogen
+bist. Denn in Hast bist du aus Ägypten gezogen. [fn:4]
+
+<<v4>>
+4 In deinem ganzen Gebiet soll sieben Tage lang kein Sauerteig zu finden
+sein und vom Fleisch des Tieres, das du am Abend des ersten Tages
+schlachtest, darf bis zum andern Morgen nichts übrig bleiben.
+
+<<v5>>
+5 Du darfst das Paschatier nicht in irgendeinem der Stadtbereiche
+schlachten, die der Herr, dein Gott, dir geben wird,
+
+<<v6>>
+6 sondern nur an der Stätte, die der Herr, dein Gott, auswählt, indem er
+dort seinen Namen wohnen lässt. Dort sollst du das Paschatier
+schlachten, am Abend bei Sonnenuntergang, zu der Stunde, in der du aus
+Ägypten gezogen bist. [fn:5]
+
+<<v7>>
+7 Du sollst es an der Stätte kochen und verzehren, die der Herr, dein
+Gott, ausgewählt hat, und am Morgen darfst du wieder zu deinen Zelten
+zurückkehren.
+
+<<v8>>
+8 Sechs Tage sollst du ungesäuertes Brot essen, am siebten Tag ist eine
+Festversammlung für den Herrn, deinen Gott; da sollst du keine Arbeit
+tun.\\
+\\
+
+<<v9>>
+* Das Wochenfest: 16,9-12
+
+9 Du sollst sieben Wochen zählen. Wenn man die Sichel an den Halm legt,
+sollst du beginnen, die sieben Wochen zu zählen. [fn:6]
+
+<<v10>>
+10 Danach sollst du dem Herrn, deinem Gott, das Wochenfest feiern und
+dabei eine freiwillige Gabe darbringen, die du danach bemisst, wie der
+Herr, dein Gott, dich gesegnet hat.
+
+<<v11>>
+11 Du sollst vor dem Herrn, deinem Gott, fröhlich sein, du, dein Sohn
+und deine Tochter, dein Sklave und deine Sklavin, auch die Leviten, die
+in deinen Stadtbereichen Wohnrecht haben, und die Fremden, Waisen und
+Witwen, die in deiner Mitte leben. Du sollst fröhlich sein an der
+Stätte, die der Herr, dein Gott, auswählt, indem er dort seinen Namen
+wohnen lässt. [fn:7]
+
+<<v12>>
+12 Denk daran: Du bist in Ägypten Sklave gewesen. Daher sollst du auf
+diese Gesetze achten und sie halten. [fn:8]\\
+\\
+
+<<v13>>
+* Das Laubhüttenfest: 16,13-15
+
+13 Das Laubhüttenfest sollst du sieben Tage lang feiern, nachdem du das
+Korn von der Tenne und den Wein aus der Kelter eingelagert hast.
+
+<<v14>>
+14 Du sollst an deinem Fest fröhlich sein, du, dein Sohn und deine
+Tochter, dein Sklave und deine Sklavin, die Leviten und die Fremden,
+Waisen und Witwen, die in deinen Stadtbereichen wohnen. [fn:9]
+
+<<v15>>
+15 Sieben Tage lang sollst du dem Herrn, deinem Gott, das Fest feiern an
+der Stätte, die der Herr auswählt. Wenn dich der Herr, dein Gott, in
+allem gesegnet hat, in deiner Ernte und in der Arbeit deiner Hände, dann
+sollst du wirklich fröhlich sein. [fn:10]\\
+\\
+
+<<v16>>
+* Die Verpflichtung zu Wallfahrten: 16,16f
+
+16 Dreimal im Jahr sollen alle deine Männer hingehen, um das Angesicht
+des Herrn, deines Gottes, an der Stätte, die er auswählt, zu schauen: am
+Fest der Ungesäuerten Brote, am Wochenfest und am Laubhüttenfest. Man
+soll nicht mit leeren Händen hingehen, um das Angesicht des Herrn zu
+schauen, [fn:11] [fn:12]
+
+<<v17>>
+17 sondern jeder mit seiner Gabe, die dem Segen entspricht, den du vom
+Herrn, deinem Gott, erhalten hast.\\
+\\
+
+<<v18>>
+* Das Verhalten der Richter in den Ortschaften: 16,18-20
+
+18 Richter und Listenführer sollst du in allen Stadtbereichen einsetzen,
+die der Herr, dein Gott, dir in deinen Stammesgebieten gibt. Sie sollen
+dem Volk Recht sprechen und gerechte Urteile fällen. [fn:13]
+
+<<v19>>
+19 Du sollst das Recht nicht beugen. Du sollst kein Ansehen der Person
+kennen. Du sollst keine Bestechung annehmen; denn Bestechung macht Weise
+blind und verdreht die Fälle derer, die im Recht sind. [fn:14]
+
+<<v20>>
+20 Gerechtigkeit, Gerechtigkeit - ihr sollst du nachjagen, damit du
+Leben hast und das Land in Besitz nehmen kannst, das der Herr, dein
+Gott, dir gibt. [fn:15]\\
+\\
+
+<<v21>>
+* Das Verbot nichtjahwistischer Kultsymbole: 16,21f
+
+21 Du sollst neben dem Altar des Herrn, deines Gottes, den du dir baust,
+keinen Kultpfahl, keinerlei Holz einpflanzen. [fn:16]
+
+<<v22>>
+22 Du sollst kein Steinmal von der Art errichten, die der Herr, dein
+Gott, hasst. [fn:17]\\
+\\
+
+* Footnotes
+
+[fn:1] (1-17) Ex 23,14-17; 34,18-26; (1-8) Lk 2,41; Ex 12; 2 Kön 23,21
+
+[fn:2] Andere Übersetzungsmöglichkeit: Achte auf den Neumond im
+Abib! Der Monat Abib entspricht dem März/April unseres Kalenders.
+
+[fn:3] 12,11
+
+[fn:4] (3-4) 26,7; Ex 3,7; 12,11; 13,3-10; 23,18; 34,25; 1 Kor 5,8
+
+[fn:5] 12,11
+
+[fn:6] (9-11) Apg 2,1; 1 Kor 16,8
+
+[fn:7] 12,11
+
+[fn:8] 5,15
+
+[fn:9] 26,11
+
+[fn:10] 28,12
+
+[fn:11] Ex 23,14-17; 34,18-23
+
+[fn:12] um das Angesicht des Herrn . . . zu schauen: so nach
+dem mutmaßlichen Urtext. In den erhaltenen Textzeugen ist zur Wahrung
+der Unsichtbarkeit Gottes der Text leicht abgeändert: um vor dem
+Angesicht des Herrn . . . zu erscheinen.
+
+[fn:13] 1,15; 29,5-9; 29,9; 31,28; (18-20) 1,16f; 2 Chr 19,5-7
+
+[fn:14] (19-20) Ex 23,1-3.6-8; Jak 2,9
+
+[fn:15] 6,18f; 8,1; 11,8; Jos 23,5
+
+[fn:16] Ex 20,24; 1 Kön 14,15; 2 Kön 21,7; 23,6f; (21-22) 12,3
+
+[fn:17] 1 Kön 14,23; 2 Kön 17,10

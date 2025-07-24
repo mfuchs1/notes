@@ -1,0 +1,157 @@
+#+TITLE: Ps 135 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 22:26]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 135.html
+
+* Ps 135
+
+<<verses>>
+
+<<v1>>
+* Loblied auf Gottes Wirken in Schöpfung und Geschichte
+
+1 Halleluja! Lobt den Namen des Herrn, /\\
+ lobt ihn, ihr Knechte des Herrn, [fn:1]\\
+\\
+
+<<v2>>
+2 die ihr steht im Haus des Herrn, /\\
+ in den Vorhöfen am Haus unsres Gottes.\\
+\\
+
+<<v3>>
+3 Lobt den Herrn, denn der Herr ist gütig. /\\
+ Singt und spielt seinem Namen, denn er ist freundlich.\\
+\\
+
+<<v4>>
+4 Der Herr hat sich Jakob erwählt, /\\
+ Israel wurde sein Eigentum. [fn:2]\\
+\\
+
+<<v5>>
+5 Ja, das weiß ich: Groß ist der Herr, /\\
+ unser Herr ist größer als alle Götter. [fn:3]\\
+\\
+
+<<v6>>
+6 Alles, was dem Herrn gefällt, vollbringt er, /\\
+ im Himmel, auf der Erde, in den Meeren, in allen Tiefen. [fn:4]\\
+\\
+
+<<v7>>
+7 Er führt Wolken herauf vom Ende der Erde, /\\
+ er lässt es blitzen und regnen, /\\
+ aus seinen Kammern holt er den Sturmwind hervor. [fn:5]\\
+\\
+
+<<v8>>
+8 Er erschlug Ägyptens Erstgeburt, /\\
+ bei Menschen und beim Vieh. [fn:6]\\
+\\
+
+<<v9>>
+9 Gegen dich, Ägypten, sandte er Zeichen und Wunder, /\\
+ gegen den Pharao und all seine Knechte. [fn:7] [fn:8]\\
+\\
+
+<<v10>>
+10 Er schlug viele Völker nieder /\\
+ und tötete mächtige Könige: [fn:9]\\
+\\
+
+<<v11>>
+11 Sihon, den König der Amoriter, /\\
+ Og, den König von Baschan, /\\
+ und alle Reiche Kanaans.\\
+\\
+
+<<v12>>
+12 Ihr Land gab er Israel zum Erbe, /\\
+ zum Erbe Israel, seinem Volk. [fn:10]\\
+\\
+
+<<v13>>
+13 Herr, dein Name währt ewig, /\\
+ das Gedenken an dich, Herr, dauert von Geschlecht zu Geschlecht. [fn:11]\\
+\\
+
+<<v14>>
+14 Denn der Herr verschafft Recht seinem Volk; /\\
+ er hat mit seinen Knechten Mitleid. [fn:12]\\
+\\
+
+<<v15>>
+15 Die Götzen der Heiden sind nur Silber und Gold, /\\
+ ein Machwerk von Menschenhand. [fn:13]\\
+\\
+
+<<v16>>
+16 Sie haben einen Mund und reden nicht, /\\
+ Augen und sehen nicht;\\
+\\
+
+<<v17>>
+17 sie haben Ohren und hören nicht; /\\
+ auch ist kein Hauch in ihrem Mund.\\
+\\
+
+<<v18>>
+18 Die sie gemacht haben, sollen ihrem Machwerk gleichen, /\\
+ alle, die den Götzen vertrauen.\\
+\\
+
+<<v19>>
+19 Haus Israel, preise den Herrn! /\\
+ Haus Aaron, preise den Herrn! [fn:14]\\
+\\
+
+<<v20>>
+20 Haus Levi, preise den Herrn! /\\
+ Alle, die ihr den Herrn fürchtet, preist den Herrn!\\
+\\
+
+<<v21>>
+21 Gepriesen sei der Herr auf Zion, /\\
+ er, der thront in Jerusalem. /\\
+ Halleluja!\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:Ps_113.org::v1][113,1]]
+
+[fn:2] [[file:Ps_33.org::v12][33,12]]
+
+[fn:3] [[file:Ps_95.org::v3][95,3]]; [[file:Ps_136.org::v2][136,2f]]
+
+[fn:4] [[file:Ps_115.org::v3][115,3]]
+
+[fn:5] [[file:Jer_10.org::v13][Jer 10,13]]; [[file:Ijob_37.org::v9][Ijob 37,9]]
+
+[fn:6] [[file:Ps_78.org::v51][78,51]]
+
+[fn:7] [[file:Ps_78.org::v42][78,42-51]]
+
+[fn:8] Wörtlich: In deine Mitte, Ägypten.
+
+[fn:9] (10-12) [[file:Ps_136.org::v17][136,17-22]]; [[file:Num_21.org::v21][Num 21,21-24]].[[file:Num_21.org::v33][33-35]]
+
+[fn:10] [[file:Jos_11.org::v23][Jos 11,23]]
+
+[fn:11] [[file:Ps_102.org::v13][102,13]]
+
+[fn:12] [[file:Dtn_32.org::v36][Dtn 32,36]]
+
+[fn:13] (15-18) [[file:Ps_115.org::v4][115,4-6]].[[file:Ps_115.org::v8][8]]
+
+[fn:14] (19-20) [[file:Ps_115.org::v9][115,9-11]]

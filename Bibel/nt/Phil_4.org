@@ -1,0 +1,144 @@
+:PROPERTIES:
+:ID:       3b26a5e4-ecfa-4003-9864-8c24d8b5b825
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Philipper* --
+[[file:Phil_1.html][1]] [[file:Phil_2.html][2]] [[file:Phil_3.html][3]]
+*4*
+
+--------------
+
+* Phil 4
+  :PROPERTIES:
+  :CUSTOM_ID: phil-4
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Christliche Grundhaltungen: 4,1-9
+     :PROPERTIES:
+     :CUSTOM_ID: christliche-grundhaltungen-41-9
+     :END:
+1 Darum, meine geliebten Brüder, nach denen ich mich sehne, meine Freude
+und mein Ehrenkranz, steht fest in der Gemeinschaft mit dem Herrn, liebe
+Brüder.
+
+<<v2>>
+2 Ich ermahne Evodia und ich ermahne Syntyche, einmütig zu sein im
+Herrn.
+
+<<v3>>
+3 Ja, ich bitte auch dich, treuer Gefährte, nimm dich ihrer an! Sie
+haben mit mir für das Evangelium gekämpft, zusammen mit Klemens und
+meinen anderen Mitarbeitern. Ihre Namen stehen im /Buch des Lebens./
+^{[[#fn1][1]][[#fn2][2]]}
+
+<<v4>>
+4 Freut euch im Herrn zu jeder Zeit! Noch einmal sage ich: Freut euch!
+^{[[#fn3][3]]}
+
+<<v5>>
+5 Eure Güte werde allen Menschen bekannt. Der Herr ist nahe.
+
+<<v6>>
+6 Sorgt euch um nichts, sondern bringt in jeder Lage betend und flehend
+eure Bitten mit Dank vor Gott! ^{[[#fn4][4]]}
+
+<<v7>>
+7 Und der Friede Gottes, der alles Verstehen übersteigt, wird eure
+Herzen und eure Gedanken in der Gemeinschaft mit Christus Jesus
+bewahren.
+
+<<v8>>
+8 Schließlich, Brüder: Was immer wahrhaft, edel, recht, was lauter,
+liebenswert, ansprechend ist, was Tugend heißt und lobenswert ist,
+darauf seid bedacht!
+
+<<v9>>
+9 Was ihr gelernt und angenommen, gehört und an mir gesehen habt, das
+tut! Und der Gott des Friedens wird mit euch sein. ^{[[#fn5][5]]}\\
+\\
+
+<<v10>>
+** Dank des Apostels: 4,10-20
+   :PROPERTIES:
+   :CUSTOM_ID: dank-des-apostels-410-20
+   :END:
+10 Ich habe mich im Herrn besonders gefreut, dass ihr eure Sorge für
+mich wieder einmal entfalten konntet. Ihr hattet schon daran gedacht,
+aber es fehlte euch die Gelegenheit dazu.
+
+<<v11>>
+11 Ich sage das nicht, weil ich etwa Mangel leide. Denn ich habe
+gelernt, mich in jeder Lage zurechtzufinden:
+
+<<v12>>
+12 Ich weiß Entbehrungen zu ertragen, ich kann im Überfluss leben. In
+jedes und alles bin ich eingeweiht: in Sattsein und Hungern, Überfluss
+und Entbehrung.
+
+<<v13>>
+13 Alles vermag ich durch ihn, der mir Kraft gibt.
+
+<<v14>>
+14 Trotzdem habt ihr recht daran getan, an meiner Bedrängnis
+teilzunehmen.
+
+<<v15>>
+15 Ihr wisst selbst, ihr Philipper, dass ich beim Beginn der
+Verkündigung des Evangeliums, als ich aus Mazedonien aufbrach, mit
+keiner Gemeinde durch Geben und Nehmen verbunden war außer mit euch
+
+<<v16>>
+16 und dass ihr mir in Thessalonich und auch sonst das eine und andere
+Mal etwas geschickt habt, um mir zu helfen.
+
+<<v17>>
+17 Es geht mir nicht um die Gabe, es geht mir um den Gewinn, der euch
+mit Zinsen gutgeschrieben wird.
+
+<<v18>>
+18 Ich habe alles empfangen und habe jetzt mehr als genug. Mir fehlt
+nichts mehr, seit ich von Epaphroditus eure Gaben erhielt, ein schönes
+Opfer, eine angenehme Opfergabe, die Gott gefällt. ^{[[#fn6][6]]}
+
+<<v19>>
+19 Mein Gott aber wird euch durch Christus Jesus alles, was ihr nötig
+habt, aus dem Reichtum seiner Herrlichkeit schenken.
+
+<<v20>>
+20 Unserem Gott und Vater sei die Ehre in alle Ewigkeit! Amen.
+^{[[#fn7][7]]}\\
+\\
+
+<<v21>>
+** Der Schluss des Briefes: Grüße und Segenswunsch: 4,21-23
+   :PROPERTIES:
+   :CUSTOM_ID: der-schluss-des-briefes-grüße-und-segenswunsch-421-23
+   :END:
+21 Grüßt jeden Heiligen in Christus Jesus! Es grüßen euch die Brüder,
+die bei mir sind.
+
+<<v22>>
+22 Es grüßen euch alle Heiligen, besonders die aus dem Haus des Kaisers.
+
+<<v23>>
+23 Die Gnade Jesu Christi, des Herrn, sei mit eurem Geist!\\
+\\
+
+^{[[#fnm1][1]]} ℘ Ps 69,29; Offb 3,5
+
+^{[[#fnm2][2]]} treuer Gefährte: im griechischen Text steht Syzygos, was
+auch männlicher Eigenname sein könnte.
+
+^{[[#fnm3][3]]} ℘ 3,1
+
+^{[[#fnm4][4]]} ℘ 1 Kor 7,29; 1 Petr 4,7
+
+^{[[#fnm5][5]]} ℘ Röm 15,33
+
+^{[[#fnm6][6]]} ein schönes Opfer, wörtlich: einen wohlriechenden Duft.
+
+^{[[#fnm7][7]]} ℘ Röm 16,27

@@ -1,0 +1,269 @@
+#+TITLE: Gen 41 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 41.html
+
+<<v1>>
+* Der Traum des Pharao und seine Deutung: 41,1-36
+:PROPERTIES:
+:CUSTOM_ID: der-traum-des-pharao-und-seine-deutung-411-36
+:END:
+1 Zwei Jahre später hatte der Pharao einen Traum: Er stand am Nil.
+
+<<v2>>
+2 Aus dem Nil stiegen sieben gut aussehende, wohlgenährte Kühe und
+weideten im Riedgras.
+
+<<v3>>
+3 Nach ihnen stiegen sieben andere Kühe aus dem Nil; sie sahen hässlich
+aus und waren mager. Sie stellten sich neben die schon am Nilufer
+stehenden Kühe
+
+<<v4>>
+4 und die hässlichen, mageren Kühe fraßen die sieben gut aussehenden und
+wohlgenährten Kühe auf. Dann erwachte der Pharao.
+
+<<v5>>
+5 Er schlief aber wieder ein und träumte ein zweites Mal: An einem
+einzigen Halm wuchsen sieben Ähren, prall und schön.
+
+<<v6>>
+6 Nach ihnen wuchsen sieben kümmerliche, vom Ostwind ausgedörrte Ähren.
+
+<<v7>>
+7 Die kümmerlichen Ähren verschlangen die sieben prallen, vollen Ähren.
+Der Pharao wachte auf: Es war ein Traum.
+
+<<v8>>
+8 Am Morgen fühlte er sich beunruhigt; er schickte hin und ließ alle
+Wahrsager und Weisen Ägyptens rufen. Der Pharao erzählte ihnen seine
+Träume, doch keiner war da, der sie ihm hätte deuten können.
+
+<<v9>>
+9 Da sagte der Obermundschenk zum Pharao: Heute muss ich an meine
+Verfehlung erinnern:
+
+<<v10>>
+10 Als der Pharao über seine Diener aufgebracht war, gab er mich ins
+Haus des Obersten der Leibwache in Haft, mich und den Oberbäcker.
+
+<<v11>>
+11 Da hatten wir, ich und er, in derselben Nacht einen Traum, der für
+jeden eine besondere Bedeutung haben sollte. [fn:1]
+
+<<v12>>
+12 Dort war mit uns zusammen ein junger Hebräer, ein Sklave des Obersten
+der Leibwache. Wir erzählten ihm unsere Träume und er legte sie uns aus.
+Jedem gab er die zutreffende Deutung.
+
+<<v13>>
+13 Wie er es uns gedeutet hatte, so geschah es: Mich setzte man wieder
+in mein Amt ein, den andern hängte man auf.
+
+<<v14>>
+14 Da schickte der Pharao hin und ließ Josef rufen. Man holte ihn
+schnell aus dem Gefängnis, schor ihm die Haare, er zog andere Kleider an
+und kam zum Pharao.
+
+<<v15>>
+15 Der Pharao sagte zu Josef: Ich hatte einen Traum, doch keiner kann
+ihn deuten. Von dir habe ich aber gehört, du brauchst einen Traum nur zu
+hören, dann kannst du ihn deuten.
+
+<<v16>>
+16 Josef antwortete dem Pharao: Nicht ich, sondern Gott wird zum Wohl
+des Pharao eine Antwort geben.
+
+<<v17>>
+17 Da sagte der Pharao zu Josef: In meinem Traum stand ich am Nilufer.
+
+<<v18>>
+18 Aus dem Nil stiegen sieben wohlgenährte, stattliche Kühe und weideten
+im Riedgras.
+
+<<v19>>
+19 Nach ihnen stiegen sieben andere Kühe herauf, elend, sehr hässlich
+und mager. Nie habe ich in ganz Ägypten so hässliche Kühe gesehen.
+
+<<v20>>
+20 Die mageren und hässlichen Kühe fraßen die sieben ersten, fetten auf.
+
+<<v21>>
+21 Sie verschwanden in ihrem Bauch, aber man merkte nicht, dass sie
+darin waren; sie sahen genauso elend aus wie vorher. Dann wachte ich
+auf.
+
+<<v22>>
+22 Weiter sah ich in meinem Traum: Auf einem einzigen Halm gingen sieben
+volle, schöne Ähren auf.
+
+<<v23>>
+23 Nach ihnen wuchsen sieben taube, kümmerliche, vom Ostwind ausgedörrte
+Ähren.
+
+<<v24>>
+24 Die kümmerlichen Ähren verschlangen die sieben schönen Ähren. Ich
+habe das den Wahrsagern erzählt, aber keiner konnte mir die Deutung
+sagen.
+
+<<v25>>
+25 Darauf sagte Josef zum Pharao: Der Traum des Pharao ist ein und
+derselbe. Gott sagt dem Pharao an, was er vorhat:
+
+<<v26>>
+26 Die sieben schönen Kühe sind sieben Jahre und die sieben schönen
+Ähren sind sieben Jahre. Es ist ein und derselbe Traum.
+
+<<v27>>
+27 Die sieben mageren und hässlichen Kühe, die nachher heraufkamen, sind
+sieben Jahre und die sieben leeren, vom Ostwind ausgedörrten Ähren sind
+sieben Jahre Hungersnot.
+
+<<v28>>
+28 Das ist es, was ich meinte, als ich zum Pharao sagte: Gott ließ den
+Pharao sehen, was er vorhat:
+
+<<v29>>
+29 Sieben Jahre kommen, da wird großer Überfluss in ganz Ägypten sein.
+
+<<v30>>
+30 Nach ihnen aber werden sieben Jahre Hungersnot heraufziehen: Da wird
+der ganze Überfluss in Ägypten vergessen sein und Hunger wird das Land
+auszehren.
+
+<<v31>>
+31 Dann wird man nichts mehr vom Überfluss im Land merken wegen des
+Hungers, der danach kommt; denn er wird sehr drückend sein.
+
+<<v32>>
+32 Dass aber der Pharao gleich zweimal träumte, bedeutet: Die Sache
+steht bei Gott fest und Gott wird sie bald ausführen.
+
+<<v33>>
+33 Nun sehe sich der Pharao nach einem klugen, weisen Mann um und setze
+ihn über Ägypten.
+
+<<v34>>
+34 Der Pharao möge handeln: Er bestelle Bevollmächtigte über das Land
+und besteuere Ägypten mit einem Fünftel in den sieben Jahren des
+Überflusses.
+
+<<v35>>
+35 Die Bevollmächtigten sollen alles Brotgetreide der kommenden guten
+Jahre sammeln und auf Weisung des Pharao Korn aufspeichern; das
+Brotgetreide sollen sie in den Städten sicherstellen.
+
+<<v36>>
+36 Das Brotgetreide soll dem Land als Rücklage dienen für die sieben
+Jahre der Hungersnot, die über Ägypten kommen werden. Dann wird das Land
+nicht an Hunger zugrunde gehen.\\
+\\
+
+<<v37>>
+* Josefs Macht über Ägypten: 41,37-57
+:PROPERTIES:
+:CUSTOM_ID: josefs-macht-über-ägypten-4137-57
+:END:
+37 Die Rede gefiel dem Pharao und allen seinen Hofleuten.
+
+<<v38>>
+38 Der Pharao sagte zu ihnen: Finden wir einen Mann wie diesen hier,
+einen, in dem der Geist Gottes wohnt?
+
+<<v39>>
+39 Dann sagte der Pharao zu Josef: Nachdem dich Gott all das hat wissen
+lassen, gibt es niemand, der so klug und weise wäre wie du.
+
+<<v40>>
+40 Du sollst über meinem Hause stehen und deinem Wort soll sich mein
+ganzes Volk beugen. Nur um den Thron will ich höher sein als du.
+
+<<v41>>
+41 Der Pharao sagte weiter zu Josef: Hiermit stelle ich dich über ganz
+Ägypten.
+
+<<v42>>
+42 Der Pharao nahm den Siegelring von seiner Hand und steckte ihn Josef
+an die Hand. Er bekleidete ihn mit Byssusgewändern und legte ihm die
+goldene Kette um den Hals. [fn:2]
+
+<<v43>>
+43 Dann ließ er ihn seinen zweiten Wagen besteigen. Man rief vor ihm
+aus: Achtung! So stellte er ihn über ganz Ägypten.
+
+<<v44>>
+44 Der Pharao sagte zu Josef: Ich bin der Pharao, aber ohne dich soll
+niemand seine Hand oder seinen Fuß regen in ganz Ägypten.
+
+<<v45>>
+45 Der Pharao verlieh Josef den Namen Zafenat-Paneach und gab ihm
+Asenat, die Tochter Potiferas, des Priesters von On, zur Frau. So wurde
+Josef Herr über Ägypten.
+
+<<v46>>
+46 Josef war dreißig Jahre alt, als er vor dem Pharao, dem König von
+Ägypten, stand. Josef ging vom Pharao weg und durchzog ganz Ägypten.
+
+<<v47>>
+47 Das Land brachte in den sieben Jahren des Überflusses überreichen
+Ertrag.
+
+<<v48>>
+48 Josef ließ während der sieben Jahre, in denen es Überfluss gab, alles
+Brotgetreide in Ägypten sammeln und in die Städte schaffen. Das Getreide
+der Felder rings um jede Stadt ließ er dort hineinbringen.
+
+<<v49>>
+49 So speicherte Josef Getreide in sehr großer Menge auf, wie Sand am
+Meer, bis man aufhören musste, es zu messen, weil man es nicht mehr
+messen konnte.
+
+<<v50>>
+50 Ein Jahr, bevor die Hungersnot kam, wurden Josef zwei Söhne geboren.
+Asenat, die Tochter Potiferas, des Priesters von On, gebar sie ihm.
+
+<<v51>>
+51 Josef nannte den Erstgeborenen Manasse (Vergessling), denn er sagte:
+Gott hat mich all meine Sorge und mein ganzes Vaterhaus vergessen
+lassen.
+
+<<v52>>
+52 Den zweiten Sohn nannte er Efraim (Fruchtbringer), denn er sagte:
+Gott hat mich fruchtbar werden lassen im Lande meines Elends.
+
+<<v53>>
+53 Die sieben Jahre des Überflusses in Ägypten gingen zu Ende
+
+<<v54>>
+54 und es begannen die sieben Jahre der Hungersnot, wie es Josef
+vorausgesagt hatte. Eine Hungersnot brach über alle Länder herein, in
+ganz Ägypten aber gab es Brot.
+
+<<v55>>
+55 Da ganz Ägypten Hunger hatte, schrie das Volk zum Pharao nach Brot.
+Der Pharao aber sagte zu den Ägyptern: Geht zu Josef! Tut, was er euch
+sagt.
+
+<<v56>>
+56 Als die Hungersnot über das ganze Land gekommen war, öffnete Josef
+alle Speicher und verkaufte Getreide an die Ägypter. Aber der Hunger
+wurde immer drückender in Ägypten.
+
+<<v57>>
+57 Auch alle Welt kam nach Ägypten, um bei Josef Getreide zu kaufen;
+denn der Hunger wurde immer drückender auf der ganzen Erde.\\
+\\
+
+
+* Footnotes
+
+[fn:1] 40,5
+
+[fn:2] Byssus ist eine feine Leinwand.

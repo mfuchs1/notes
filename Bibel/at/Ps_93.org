@@ -1,0 +1,60 @@
+#+TITLE: Ps 93 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-05 Mo 16:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 93.html
+
+* Ps 93
+
+<<verses>>
+
+<<v1>>
+* Das Königtum Gottes
+
+1 Der Herr ist König, bekleidet mit Hoheit; /\\
+ der Herr hat sich bekleidet und mit Macht umgürtet. Der Erdkreis ist
+fest gegründet, /\\
+ nie wird er wanken. [fn:1]\\
+\\
+
+<<v2>>
+2 Dein Thron steht fest von Anbeginn, /\\
+ du bist seit Ewigkeit. [fn:2]\\
+\\
+
+<<v3>>
+3 Fluten erheben sich, Herr, /\\
+ Fluten erheben ihr Brausen, /\\
+ Fluten erheben ihr Tosen. [fn:3]\\
+\\
+
+<<v4>>
+4 Gewaltiger als das Tosen vieler Wasser, /\\
+ gewaltiger als die Brandung des Meeres /\\
+ ist der Herr in der Höhe. [fn:4]\\
+\\
+
+<<v5>>
+5 Deine Gesetze sind fest und verlässlich; /\\
+ Herr, deinem Haus gebührt Heiligkeit /\\
+ für alle Zeiten. [fn:5]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_24.org::v7][24,7-10]]; [[file:Ps_75.org::v4][75,4]]; [[file:Ps_104.org::v5][104,5]]
+
+[fn:2] [[file:Ps_9.org::v8][9,8]]; [[file:Ps_90.org::v2][90,2]]
+
+[fn:3] (3-4) [[file:Ps_29.org::v10][29,10]]
+
+[fn:4] Text korr.; H: mehr als die Herrlichkeit der Brandungen.
+
+[fn:5] [[file:Ps_19.org::v8][19,8]]

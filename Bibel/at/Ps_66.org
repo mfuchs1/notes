@@ -1,0 +1,148 @@
+#+TITLE: Ps 66 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-07-30 Di 22:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 66.html
+
+* Ps 66
+
+<<verses>>
+
+<<v1>>
+* Aufruf zum Lobpreis
+
+1 [Für den Chormeister. Ein Lied. Ein Psalm.] Jauchzt vor Gott, alle
+Länder der Erde! / [fn:1]\\
+\\
+
+<<v2>>
+2 Spielt zum Ruhm seines Namens! /\\
+ Verherrlicht ihn mit Lobpreis!\\
+\\
+
+<<v3>>
+3 Sagt zu Gott: «Wie Ehrfurcht gebietend sind deine Taten; /\\
+ vor deiner gewaltigen Macht müssen die Feinde sich beugen.»\\
+\\
+
+<<v4>>
+4 Alle Welt bete dich an und singe dein Lob, /\\
+ sie lobsinge deinem Namen! [Sela]\\
+\\
+
+<<v5>>
+5 Kommt und seht die Taten Gottes! /\\
+ Staunenswert ist sein Tun an den Menschen: [fn:2]\\
+\\
+
+<<v6>>
+6 Er verwandelte das Meer in trockenes Land, /\\
+ sie schritten zu Fuß durch den Strom; /\\
+ dort waren wir über ihn voll Freude. [fn:3]\\
+\\
+
+<<v7>>
+7 In seiner Kraft ist er Herrscher auf ewig; /\\
+ seine Augen prüfen die Völker. /\\
+ Die Trotzigen können sich gegen ihn nicht erheben. [Sela]\\
+\\
+
+<<v8>>
+8 Preist unsern Gott, ihr Völker; /\\
+ lasst laut sein Lob erschallen!\\
+\\
+
+<<v9>>
+9 Er erhielt uns am Leben /\\
+ und ließ unseren Fuß nicht wanken. [fn:4]\\
+\\
+
+<<v10>>
+10 Du hast, o Gott, uns geprüft /\\
+ und uns geläutert, wie man Silber läutert. [fn:5]\\
+\\
+
+<<v11>>
+11 Du brachtest uns in schwere Bedrängnis /\\
+ und legtest uns eine drückende Last auf die Schulter. [fn:6]\\
+\\
+
+<<v12>>
+12 Du ließest Menschen über unsere Köpfe schreiten. /\\
+ Wir gingen durch Feuer und Wasser. /\\
+ Doch du hast uns in die Freiheit hinausgeführt. [fn:7] [fn:8]\\
+\\
+
+<<v13>>
+13 Ich komme mit Opfern in dein Haus; /\\
+ ich erfülle dir meine Gelübde, [fn:9]\\
+\\
+
+<<v14>>
+14 die ich einst dir versprach, /\\
+ die dir mein Mund in der Not gelobte.\\
+\\
+
+<<v15>>
+15 Fette Tiere bringe ich dir als Brandopfer dar, /\\
+ zusammen mit dem Rauch von Widdern; /\\
+ ich richte dir Rinder und Böcke zu. [Sela] [fn:10]\\
+\\
+
+<<v16>>
+16 Ihr alle, die ihr Gott fürchtet, kommt und hört; /\\
+ ich will euch erzählen, was er mir Gutes getan hat.\\
+\\
+
+<<v17>>
+17 Zu ihm hatte ich mit lauter Stimme gerufen /\\
+ und schon konnte mein Mund ihn preisen. [fn:11]\\
+\\
+
+<<v18>>
+18 Hätte ich Böses im Sinn gehabt, /\\
+ dann hätte der Herr mich nicht erhört. [fn:12]\\
+\\
+
+<<v19>>
+19 Gott aber hat mich erhört, /\\
+ hat auf mein drängendes Beten geachtet.\\
+\\
+
+<<v20>>
+20 Gepriesen sei Gott; denn er hat mein Gebet nicht verworfen /\\
+ und mir seine Huld nicht entzogen.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_98.org::v4][98,4]]; [[file:Ps_100.org::v1][100,1]]
+
+[fn:2] [[file:Ps_46.org::v9][46,9]]
+
+[fn:3] [[file:Ex_14.org::v21][Ex 14,21f]]; [[file:Jos_3.org::v16][Jos 3,16f]]
+
+[fn:4] [[file:Ps_121.org::v3][121,3]]
+
+[fn:5] [[file:Jes_48.org::v10][Jes 48,10]]; [[file:Spr_17.org::v3][Spr 17,3]]
+
+[fn:6] auf die Schulter, wörtlich: um unsere Hüften.
+
+[fn:7] [[file:Jes_43.org::v2][Jes 43,2]]
+
+[fn:8] Text korr.
+
+[fn:9] (13-14) [[file:Ps_22.org::v26][22,26]]; [[file:Ps_50.org::v14][50,14]]; [[file:Ps_61.org::v9][61,9]]; [[file:Ps_76.org::v12][76,12]]; [[file:Ps_116.org::v14][116,14]].[[file:Ps_116.org::v18][18]]; [[file:Num_30.org::v3][Num 30,3]]; [[file:Jona_2.org::v10][Jona 2,10]]
+
+[fn:10] Nach G.
+
+[fn:11] Wörtlich: Rühmen war unter meiner Zunge.
+
+[fn:12] (18-19) [[file:Spr_28.org::v9][Spr 28,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_9.org::v31][Joh 9,31]]

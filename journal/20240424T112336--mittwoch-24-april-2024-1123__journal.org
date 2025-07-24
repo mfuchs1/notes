@@ -1,0 +1,10 @@
+#+title:      Mittwoch 24 April 2024 11:23
+#+date:       [2024-04-24 Mi 11:23]
+#+filetags:   :journal:
+#+identifier: 20240424T112336
+
+* Mehr Gedanken
+zu einer anderen Sache.
+
+Link zu einer anderen Journal-Datei:
+[[denote:20240424T083042][Mittwoch 24 April 2024 08:30]]

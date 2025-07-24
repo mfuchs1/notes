@@ -1,0 +1,171 @@
+#+TITLE: Jos 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-02 Do 00:09]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 7.html
+
+<<verses>>
+
+<<v1>>
+* Der Kampf um Ai. Achans Diebstahl: 7,1-26
+
+1 Die Israeliten aber veruntreuten etwas von dem, was dem Untergang
+geweiht war. Denn Achan, der Sohn Karmis, des Sohnes Sabdis, des Sohnes
+Serachs, vom Stamm Juda, nahm etwas von dem, was dem Untergang geweiht
+war. Da entbrannte der Zorn des Herrn über die Israeliten.
+
+<<v2>>
+2 Josua schickte von Jericho aus einige Männer nach Ai, das bei
+Bet-Awen, östlich von Bet-El liegt, und sagte zu ihnen: Geht hinauf, und
+erkundet das Land! Die Männer gingen hinauf und erkundeten Ai. [fn:1]
+
+<<v3>>
+3 Als sie zu Josua zurückkamen, sagten sie zu ihm: Es braucht nicht das
+ganze Volk hinaufzuziehen. Etwa zwei- oder dreitausend Mann sollen
+hinaufziehen; sie können Ai besiegen. Bemüh nicht das ganze Volk
+dorthin! Denn dort sind nur wenige Leute.
+
+<<v4>>
+4 So stiegen vom Volk etwa dreitausend Mann nach Ai hinauf; aber sie
+mussten vor den Männern von Ai die Flucht ergreifen.
+
+<<v5>>
+5 Die Männer von Ai erschlugen sechsunddreißig von ihnen; die andern
+verfolgten sie vom Stadttor bis zu den Steinbrüchen und schlugen sie an
+der Steige. Da zerschmolz das Herz des Volkes und wurde zu Wasser.
+
+<<v6>>
+6 Josua zerriss seine Kleider und warf sich zusammen mit den Ältesten
+vor der Lade des Herrn mit dem Gesicht zu Boden und blieb dort bis zum
+Abend liegen. Sie streuten sich Asche auf das Haupt [fn:2]
+
+<<v7>>
+7 und Josua sagte: Ach Herr, mein Gott! Warum hast du dieses Volk über
+den Jordan ziehen lassen? Um uns den Amoritern auszuliefern, damit sie
+uns vernichten? Hätten wir uns doch dazu entschlossen, jenseits des
+Jordan zu bleiben!
+
+<<v8>>
+8 Ach Herr, was soll ich sagen, nachdem Israel seinen Feinden den Rücken
+gezeigt hat?
+
+<<v9>>
+9 Das werden die Kanaaniter und alle Bewohner des Landes hören und sie
+werden uns umzingeln und unseren Namen im ganzen Land ausrotten. Was
+willst du dann für deinen großen Namen tun?
+
+<<v10>>
+10 Da sagte der Herr zu Josua: Steh auf! Warum liegst du da, mit dem
+Gesicht zur Erde?
+
+<<v11>>
+11 Israel hat gesündigt. Sie haben sich sogar gegen meinen Bund
+vergangen, den ich ihnen auferlegt habe. Sie haben etwas weggenommen von
+dem, was dem Untergang geweiht war; sie haben es gestohlen; sie haben es
+unterschlagen und zu ihren eigenen Sachen getan.
+
+<<v12>>
+12 Deshalb können die Israeliten dem Angriff ihrer Feinde nicht mehr
+standhalten und müssen ihren Feinden den Rücken zeigen; denn sie sind
+nun selbst dem Untergang geweiht. Ich werde nicht mehr mit euch sein,
+wenn ihr bei euch nicht alles, was dem Untergang geweiht ist,
+vernichtet.
+
+<<v13>>
+13 Auf! Heilige das Volk und sag: Heiligt euch für morgen! Denn so hat
+der Herr, der Gott Israels, gesprochen: Bei dir, Israel, ist etwas, was
+dem Untergang geweiht ist. Du kannst dem Angriff deiner Feinde nicht
+standhalten, solange ihr nicht alles, was dem Untergang geweiht ist, aus
+eurer Mitte entfernt habt.
+
+<<v14>>
+14 Morgen sollt ihr Stamm für Stamm antreten und der Stamm, den der Herr
+bezeichnet, soll Sippe für Sippe antreten und die Sippe, die der Herr
+dann bezeichnet, soll Großfamilie für Großfamilie antreten und die
+Großfamilie, die der Herr dann bezeichnet, soll Mann für Mann antreten.
+
+<<v15>>
+15 Bei wem man dann etwas findet, das dem Untergang geweiht ist, der
+soll mit allem, was er hat, verbrannt werden, weil er sich am Bund des
+Herrn vergangen und in Israel eine Schandtat verübt hat.
+
+<<v16>>
+16 Josua ließ also früh am Morgen Israel Stamm für Stamm antreten; da
+wurde der Stamm Juda bezeichnet. [fn:3]
+
+<<v17>>
+17 Dann ließ er die Sippen Judas antreten; da wurde die Sippe der
+Serachiter bezeichnet. Dann ließ er die Sippe der Serachiter nach
+Großfamilien antreten; da wurde Sabdi bezeichnet. [fn:4]
+
+<<v18>>
+18 Dann ließ er dessen Familie Mann für Mann antreten; da wurde Achan,
+der Sohn Karmis, der Enkel Sabdis, des Sohnes Serachs, vom Stamm Juda
+bezeichnet.
+
+<<v19>>
+19 Josua sagte zu Achan: Mein Sohn, gib dem Herrn, dem Gott Israels, die
+Ehre und leg vor ihm ein Geständnis ab! Sag mir offen, was du getan
+hast, und verheimliche mir nichts!
+
+<<v20>>
+20 Achan antwortete Josua: Es ist wahr, ich habe mich gegen den Herrn,
+den Gott Israels, versündigt. Das und das habe ich getan:
+
+<<v21>>
+21 Ich sah unter der Beute einen schönen Mantel aus Schinar, außerdem
+zweihundert Schekel Silber und einen Goldbarren, der fünfzig Schekel
+wog. Ich wollte es haben und nahm es an mich. Es ist in meinem Zelt im
+Boden vergraben, das Silber an unterster Stelle.
+
+<<v22>>
+22 Josua schickte Boten und sie liefen zum Zelt, und wirklich: die
+Sachen waren im Zelt Achans vergraben, das Silber an unterster Stelle.
+
+<<v23>>
+23 Sie holten alles aus dem Zelt heraus, brachten es zu Josua und allen
+Israeliten und breiteten es vor dem Herrn aus.
+
+<<v24>>
+24 Da nahm Josua Achan, den Sohn Serachs, ebenso das Silber und den
+Mantel und den Goldbarren, seine Söhne und Töchter, seine Rinder, Esel
+und Schafe, sein Zelt und seine ganze Habe. Er und ganz Israel brachten
+alles ins Tal Achor.
+
+<<v25>>
+25 Dann sagte Josua: Womit du uns ins Unglück gestürzt hast, damit
+stürzt dich der Herr heute ins Unglück. Und ganz Israel steinigte Achan.
+[Sie verbrannten sie im Feuer und steinigten sie.]
+
+<<v26>>
+26 Man errichtete über ihm einen großen Steinhaufen, der bis zum
+heutigen Tag zu sehen ist, und der Herr ließ ab von seinem glühenden
+Zorn. Deshalb nennt man diesen Ort bis heute Achortal (Unglückstal). [fn:5] [fn:6]\\
+\\
+
+* Footnotes
+
+[fn:1] Auch die Zerstörung von Ai (Trümmerhaufen) ist wie die
+von Jericho archäologisch nicht nachgewiesen. - Bet-Awen (Haus des
+Unheils) ist wohl ein herabwürdigender Name für Bet-El (vgl. [[file:Hos_4.org::v15][Hos 4,15]];
+[[file:Am_5.org::v5][Am 5,5]]).
+
+[fn:2] Das Zerreißen der Kleider und das Bestreuen des Kopfes
+mit Staub oder Asche waren Zeichen der Trauer und des Schmerzes
+(vgl. [[file:1.Sam_4.org::v12][1 Sam 4,12]]; [[file:2.Sam_1.org::v2][2 Sam 1,2]]).
+
+[fn:3] [[file:1.Sam_10.org::v20][1 Sam 10,20]]
+
+[fn:4] Großfamilien: Text korr. mit S und einigen H-Handschriften. -
+Zum Ausdruck Großfamilie vgl. die Anmerkung zu [[file:Num_1.org::v2][Num 1,2]].
+
+[fn:5] [[file:Jes_65.org::v10][Jes 65,10]]; [[file:Hos_2.org::v17][Hos 2,17]]
+
+[fn:6] Achor klingt an «Achan» an. Mit der Erzählung wird der
+Name des Achortals gedeutet.

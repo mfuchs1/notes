@@ -1,0 +1,52 @@
+:PROPERTIES:
+:CUSTOM_ID: h:4706b504-1b57-42af-a303-2e72a8e9bcce
+:END:
+#+title:      Reise nach London Brighton
+#+date:       [2024-06-27 Do 15:19]
+#+filetags:   :Project:reise:
+#+identifier: 20240627T151917
+#+CATEGORY: reise
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+
+* Anreise London
+<2024-07-10 Mi 09:20>
+Flug Salzburg London
+
+* Rückreise Salzburg
+:PROPERTIES:
+:CUSTOM_ID: h:7d7092d7-aa5f-4341-abcc-e08f1428055b
+:END:
+<2024-07-15 Mo>
+Flug London Salzburg
+
+* Rückreise Gabriel Brighton München
+Ich hole Gabriel vom Flughafen ab. Er fliegt mit einer Begleitperson, das muss ich noch beim ÖAMTC (85 Euro) bezahlen.
+
+
+* Hotel in London
+
+* Sehenswürdigkeiten in London
+Pro Tag maximal eine Sehenswürdigkeit; wo gibt es Spielplätze in London?
+- Wachsfiguren
+- Tower of London
+- Big Ben
+- Eye of London
+- ... ?
+
+Es gibt in London ein paar coole Spielplätze, noch viel mehr Parks.
+
+* Sehenswürdigkeiten in Brighton
+Ich kenne nur eine: ein Haus von David Gilmour, Gitarrist von Pink Floyd. Hier gibt es bekannte Orte am Strand; einen Steg?
+
+* Budget
+
+* Reise London nach Brighton
+
+- Zug :: Mit dem Zug dauert es ca 1h, vom Bahnhof in Brighton zur Schule sind es fast 4 Meilen; da bräuchten wir ein Taxi - ev. hat die Schule ein Shuttle? Kosten: 19 Euro pro Person und Fahrt; am Sonntag ca 13 Euro. Für uns alle kostet die Hinfahrt ca 40 Euros.
+  
+- Auto :: Mit dem Auto (mieten; Kosten? ca 54-56 Euro pro Tag) dauert es nicht ganz 2 Stunden.

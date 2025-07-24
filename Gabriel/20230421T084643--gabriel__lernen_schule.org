@@ -1,0 +1,43 @@
+#+title:      Gabriel
+#+date:       [2023-04-21 Fr 08:46]
+#+filetags:   :lernen:schule:Project:
+#+identifier: 20230421T084643
+#+CATEGORY: Gabriel
+
+Wie kann ich Gabriel helfen beim Lernen?
+
+In den Hauptfächern gibt es öfters eine LZK; manchmal auch unangekündigt.
+
+Das erste Semester in der MS war für Gabriel eher frustrierend; va Englisch: trotz 3 auf die erste SA drohte ihm ein Nicht Genügend. Gespräch it der E Lehrerin; mit dem KV. Gabriel hatte in D, M, E ein Genügend. Im 2. Semester ging es viel, viel besser: auf alle drei SA erhielt Gabriel ein Befriedigend. Auch die Tests waren alle sehr erfolgreich.
+
+* Mathematik
+
+** DONE [#A] Gabriel Geometrie lernen
+CLOSED: [2023-04-24 Mo 14:26] SCHEDULED: <2023-04-21 Fr 15:30>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-04-24 Mo 14:26]
+:END:
+Rechteck, Quadrat, ... konstruieren lernen.
+Handhabung, Umgang mit Dreieck, Zirkel;
+
+Umfang und Fläche berechnen könenn. Bei der Angabe einer Diagonale und einer Swite kann Gabriel die Länge der zweiten Seite zwar über die Konstruktion ermitteln; zum Berechnen braucht Gabriel z.B. den Satz des Pythagoras.
+
+(Gabriel: "Mah, alle lachen mich aus, weil ich das nicht kann!")
+Ihm Selbstvertrauen schenken, üben ... - er kann das!
+GZ ist eigentlich lusitg und spannend; durch die Zeichenprogramme bei Opa kann es spannend werden.
+
+** Grundrechenarten
+oft wiederholen, auffrischen, auch mit Dezimalzahlen
+KlaPuStri - Regel
+
+* Deutsch
+
+regelmäßig lernen und wiederholen
+Am Wochenende einen Text schreiben
+
+* Englisch
+Nachhilfe: Melanie Jobke (Kontakt über Magdalena Pürrer)
+
+regelmäßig Vokabeln + Lektionen lernen
+
+* Termine / SA

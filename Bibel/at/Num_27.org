@@ -1,0 +1,130 @@
+#+TITLE: Num 27 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-26 Do 21:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 27.html
+
+<<verses>>
+
+<<v1>>
+* Die Erbordnung: 27,1-11
+
+1 Die Töchter Zelofhads, des Sohnes Hefers, des Sohnes Gileads, des
+Sohnes Machirs, des Sohnes Manasses, aus den Sippen Manasses, des Sohnes
+Josefs, - diese Töchter hießen Machla, Noa, Hogla, Milka und Tirza -, [fn:1]
+
+<<v2>>
+2 kamen zu Mose, zum Priester Eleasar, zu den Anführern und zur ganzen
+Gemeinde an den Eingang des Offenbarungszeltes und sagten:
+
+<<v3>>
+3 Unser Vater ist in der Wüste gestorben. Er gehörte nicht zu den
+Anhängern Korachs, die sich gegen den Herrn zusammengerottet hatten;
+denn er war bereits wegen seiner eigenen Sünde gestorben. Aber er
+hinterließ keine Söhne.
+
+<<v4>>
+4 Warum soll nun der Name unseres Vaters aus seiner Sippe verschwinden,
+weil er keinen Sohn hatte? Gib uns also eigenen Grund und Boden bei den
+Brüdern unseres Vaters!
+
+<<v5>>
+5 Mose trug ihren Fall dem Herrn vor
+
+<<v6>>
+6 und der Herr sprach zu Mose:
+
+<<v7>>
+7 Die Töchter Zelofhads haben Recht. Du musst ihnen eigenen Grund und
+Boden als Erbbesitz bei den Brüdern ihres Vaters geben, also den
+Erbbesitz ihres Vaters auf sie übertragen.
+
+<<v8>>
+8 Sag zu den Israeliten: Wenn jemand ohne Söhne stirbt, dann übertragt
+seinen Erbbesitz auf seine Tochter!
+
+<<v9>>
+9 Hat er keine Tochter, dann gebt seinen Erbbesitz seinen Brüdern!
+
+<<v10>>
+10 Hat er keine Brüder, dann gebt seinen Erbbesitz den Brüdern seines
+Vaters!
+
+<<v11>>
+11 Hat sein Vater keine Brüder, dann gebt seinen Erbbesitz dem nächsten
+Verwandten aus seiner Sippe; er soll ihn bekommen. Das wurde für die
+Israeliten geltendes Recht, wie der Herr es Mose befohlen hatte.\\
+\\
+
+<<v12>>
+* Die Berufung Josuas: 27,12-23
+
+12 Der Herr sprach zu Mose: Steig auf das Abarimgebirge dort und sieh
+dir das Land an, das ich den Israeliten gegeben habe.
+
+<<v13>>
+13 Wenn du es gesehen hast, wirst du mit deinen Vorfahren vereint werden
+wie dein Bruder Aaron; [fn:2]
+
+<<v14>>
+14 denn ihr habt euch in der Wüste Zin meinem Befehl widersetzt, als die
+Gemeinde aufbegehrte und ihr vor ihren Augen hättet bezeugen sollen,
+dass ich der Heilige bin. [Das ist das «Streitwasser» von Kadesch in der
+Wüste Zin.] [fn:3]
+
+<<v15>>
+15 Da sagte Mose zum Herrn:
+
+<<v16>>
+16 Der Herr, der Gott der Geister, die alle Menschen beleben, setze
+einen Mann als Anführer der Gemeinde ein, [fn:4]
+
+<<v17>>
+17 der vor ihnen her in den Kampf zieht und vor ihnen her wieder in das
+Lager einzieht, der sie zum Krieg hinausführt und sie zurückführt; die
+Gemeinde des Herrn soll nicht sein wie Schafe, die keinen Hirten haben. [fn:5]
+
+<<v18>>
+18 Der Herr antwortete Mose: Nimm Josua, den Sohn Nuns, einen Mann, der
+mit Geist begabt ist, und leg ihm deine Hand auf!
+
+<<v19>>
+19 Dann lass ihn vor den Priester Eleasar und vor die ganze Gemeinde
+treten und gib ihm vor ihren Augen deine Anweisungen!
+
+<<v20>>
+20 Gib ihm einen Teil deiner Würde ab, damit die ganze Gemeinde der
+Israeliten auf ihn hört.
+
+<<v21>>
+21 Er soll vor den Priester Eleasar treten und ihn vor dem Herrn um die
+Entscheidungen durch das Urim-Orakel bitten. Nach seinem Befehl sollen
+sie in den Kampf ziehen und nach seinem Befehl sollen sie wieder in das
+Lager einziehen, er und mit ihm alle Israeliten und die ganze Gemeinde.
+
+<<v22>>
+22 Mose tat, was ihm der Herr befohlen hatte. Er nahm Josua und ließ ihn
+vor den Priester Eleasar und vor die ganze Gemeinde treten.
+
+<<v23>>
+23 Er legte ihm seine Hände auf und gab ihm seine Anweisungen, wie es
+der Herr durch Mose befohlen hatte.\\
+\\
+
+* Footnotes
+
+[fn:1] 26,33 [[file:Num_26.org::v33][Num 26,33]]
+
+[fn:2] 20,22-29 [[file:Num_20.org::v22][Num 20,22-29]]
+
+[fn:3] 20,2-13 [[file:Num_20.org::v2][Num 20,2-13]]; Ex 17,7 [[file:Ex_17.org::v7][Ex 17,7]]
+
+[fn:4] 16,22 [[file:Num_16.org::v22][Num 16,22]]
+
+[fn:5] Mt 9,36 [[file:~/RoamNotes/notes/Bibel/nt/Mt_9.org::v36][Mt 9,36]]; Mk 6,34 [[file:~/RoamNotes/notes/Bibel/nt/Mk_6.org::v34][Mk 6,34]]

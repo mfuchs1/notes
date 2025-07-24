@@ -1,0 +1,152 @@
+#+TITLE: 1 Chr 24 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-21 Di 21:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 24.html
+
+<<verses>>
+
+<<v1>>
+* Die Dienstklassen der Priester: 24,1-19
+
+1 Auch die Nachkommen Aarons waren in Abteilungen gegliedert. Die Söhne
+Aarons waren: Nadab, Abihu, Eleasar und Itamar. [fn:1]
+
+<<v2>>
+2 Nadab und Abihu starben vor ihrem Vater. Da sie keine Söhne hatten,
+übernahmen Eleasar und Itamar das Priestertum. [fn:2]
+
+<<v3>>
+3 David teilte sie gemeinsam mit Zadok, einem Nachkommen Eleasars, und
+mit Ahimelech, einem Nachkommen Itamars, in ihre Dienstklassen ein.
+
+<<v4>>
+4 Dabei ergab sich, dass bei den Nachkommen Eleasars mehr führende
+Männer waren als bei den Nachkommen Itamars. Man teilte daher den
+Nachkommen Eleasars sechzehn Oberhäupter von Großfamilien zu und den
+Nachkommen Itamars nur acht für ihre Großfamilien.
+
+<<v5>>
+5 Doch teilte man diese wie jene durch das Los ein; denn Fürsten des
+Heiligtums, Fürsten Gottes, waren sowohl unter den Nachkommen Eleasars
+wie auch unter den Nachkommen Itamars.
+
+<<v6>>
+6 Der Schreiber Schemaja, der Sohn Netanels, ein Levit, schrieb sie auf
+im Beisein des Königs, der führenden Männer, des Priesters Zadok,
+Abjatars, des Sohnes Ahimelechs, sowie der Familienhäupter der Priester
+und Leviten. Jeweils zwei Großfamilien wurden aus der Linie Eleasars und
+eine aus der Linie Itamars ausgelost. [fn:3]
+
+<<v7>>
+7 Das erste Los fiel auf Jojarib, das zweite auf Jedaja,
+
+<<v8>>
+8 das dritte auf Harim, das vierte auf Seorim,
+
+<<v9>>
+9 das fünfte auf Malkija, das sechste auf Mijamin,
+
+<<v10>>
+10 das siebte auf Koz, das achte auf Abija, [fn:4]
+
+<<v11>>
+11 das neunte auf Jeschua, das zehnte auf Schechanja,
+
+<<v12>>
+12 das elfte auf Eljaschib, das zwölfte auf Jakim,
+
+<<v13>>
+13 das dreizehnte auf Huppa, das vierzehnte auf Jeschebab,
+
+<<v14>>
+14 das fünfzehnte auf Bilga, das sechzehnte auf Immer,
+
+<<v15>>
+15 das siebzehnte auf Hesir, das achtzehnte auf Pizzez,
+
+<<v16>>
+16 das neunzehnte auf Petachja, das zwanzigste auf Jeheskel,
+
+<<v17>>
+17 das einundzwanzigste auf Jachin, das zweiundzwanzigste auf Gamul,
+
+<<v18>>
+18 das dreiundzwanzigste auf Delaja, das vierundzwanzigste auf Maasja.
+
+<<v19>>
+19 Das waren ihre Dienstklassen, nach denen sie in das Haus des Herrn
+kommen mussten, wie es ihre Pflicht war, die sie von ihrem Vater Aaron
+übernommen hatten; so hatte es ihm der Herr, der Gott Israels,
+befohlen.\\
+\\
+
+<<v20>>
+* Die Levitenordnung: 24,20-31
+
+20 Zu den übrigen Leviten, und zwar zu den Söhnen Amrams, gehörte
+Schubaël, zu den Söhnen Schubaëls Jechdeja. [fn:5]
+
+<<v21>>
+21 Von Rehabja, und zwar von den Söhnen Rehabjas, war Jischija der
+erste.
+
+<<v22>>
+22 Zu den Nachkommen Jizhars gehörte Schelomit, zu den Söhnen Schelomits
+Jahat.
+
+<<v23>>
+23 Von den Söhnen Hebrons war Jerija der erste, Amarja der zweite,
+Jahasiël der dritte, Jekamam der vierte.
+
+<<v24>>
+24 Der Sohn Usiëls war Micha. Zu den Söhnen Michas gehörte Schamir.
+
+<<v25>>
+25 Der Bruder Michas war Jischija. Zu den Söhnen Jischijas gehörte
+Secharja.
+
+<<v26>>
+26 Die Söhne Meraris waren Machli und Muschi. Der Sohn Jaasijas war
+Bani.
+
+<<v27>>
+27 Meraris Nachkommen über Jaasija waren: Bani, Schoham, Sakkur und
+Ibri.
+
+<<v28>>
+28 Zu Machli gehörten Eleasar, der keine Kinder hatte, und Kisch.
+
+<<v29>>
+29 Der Sohn des Kisch war Jerachmeel.
+
+<<v30>>
+30 Die Söhne Muschis waren: Machli, Eder und Jerimot. - Das waren die
+Leviten nach ihren Großfamilien.
+
+<<v31>>
+31 Auch sie warfen das Los wie ihre Brüder, die Söhne Aarons, im Beisein
+des Königs David, Zadoks und Ahimelechs sowie der Familienhäupter der
+Priester und Leviten, und zwar die Familien des Oberhauptes wie die
+seines jüngsten Bruders.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Chr_5.org::v29][5,29]]
+
+[fn:2] [[file:Lev_10.org::v1][Lev 10,1f]]
+
+[fn:3] Abjatars, des Sohnes Ahimelechs: Text korr. wie in [[file:1.Chr_18.org::v16][18,16]],
+jeweils zwei: sinngemäß korr. - und eine: Text korr. nach G.
+
+[fn:4] Zur Priesterklasse Abija gehörte Zacharias, der Vater
+Johannes' des Täufers (vgl. [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v5][Lk 1,5]]).
+
+[fn:5] (20-31) [[file:1.Chr_23.org::v17][23,17-23]]

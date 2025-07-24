@@ -1,0 +1,118 @@
+#+TITLE: Ijob 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-04 Mo 22:50]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 20.html
+
+* Ps 19
+
+<<verses>>
+
+<<v1>>
+* Lob der Schöpfung - Lob des Gesetzes
+
+1 [Für den Chormeister. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Die Himmel rühmen die Herrlichkeit Gottes, /\\
+ vom Werk seiner Hände kündet das Firmament. [fn:1]\\
+\\
+
+<<v3>>
+3 Ein Tag sagt es dem andern, /\\
+ eine Nacht tut es der andern kund,\\
+\\
+
+<<v4>>
+4 ohne Worte und ohne Reden, /\\
+ unhörbar bleibt ihre Stimme.\\
+\\
+
+<<v5>>
+5 Doch ihre Botschaft geht in die ganze Welt hinaus, /\\
+ ihre Kunde bis zu den Enden der Erde. Dort hat er der Sonne ein Zelt
+gebaut. / [fn:2] [fn:3]\\
+\\
+
+<<v6>>
+6 Sie tritt aus ihrem Gemach hervor wie ein Bräutigam; sie frohlockt wie
+ein Held /\\
+ und läuft ihre Bahn. [fn:4]\\
+\\
+
+<<v7>>
+7 Am einen Ende des Himmels geht sie auf /\\
+ und läuft bis ans andere Ende; /\\
+ nichts kann sich vor ihrer Glut verbergen.\\
+\\
+
+<<v8>>
+8 Die Weisung des Herrn ist vollkommen, /\\
+ sie erquickt den Menschen. Das Gesetz des Herrn ist verlässlich, /\\
+ den Unwissenden macht es weise. [fn:5] [fn:6]\\
+\\
+
+<<v9>>
+9 Die Befehle des Herrn sind richtig, /\\
+ sie erfreuen das Herz; das Gebot des Herrn ist lauter, /\\
+ es erleuchtet die Augen.\\
+\\
+
+<<v10>>
+10 Die Furcht des Herrn ist rein, /\\
+ sie besteht für immer. Die Urteile des Herrn sind wahr, /\\
+ gerecht sind sie alle.\\
+\\
+
+<<v11>>
+11 Sie sind kostbarer als Gold, als Feingold in Menge. /\\
+ Sie sind süßer als Honig, als Honig aus Waben. [fn:7]\\
+\\
+
+<<v12>>
+12 Auch dein Knecht lässt sich von ihnen warnen; /\\
+ wer sie beachtet, hat reichen Lohn.\\
+\\
+
+<<v13>>
+13 Wer bemerkt seine eigenen Fehler? /\\
+ Sprich mich frei von Schuld, die mir nicht bewusst ist!\\
+\\
+
+<<v14>>
+14 Behüte deinen Knecht auch vor vermessenen Menschen; /\\
+ sie sollen nicht über mich herrschen. Dann bin ich ohne Makel /\\
+ und rein von schwerer Schuld.\\
+\\
+
+<<v15>>
+15 Die Worte meines Mundes mögen dir gefallen; /\\
+ was ich im Herzen erwäge, stehe dir vor Augen, /\\
+ Herr, mein Fels und mein Erlöser. [fn:8]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_50.org::v6][50,6]]; [[file:Sir_43.org::v1][Sir 43,1f]]
+
+[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/Röm_10.org::v18][Röm 10,18]]
+
+[fn:3] Text korr. nach G.
+
+[fn:4] Ergänzt nach G und S.
+
+[fn:5] (8-9) [[file:Ps_12.org::v7][12,7]]
+
+[fn:6] Textvorschlag für die Psalmodie: Die Weisung des Herrn
+ist vollkommen und gut.
+
+[fn:7] [[file:Ps_119.org::v72][119,72]]
+
+[fn:8] [[file:Ps_92.org::v16][92,16]]

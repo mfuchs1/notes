@@ -1,0 +1,185 @@
+#+TITLE: 2 Makk 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 17:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Makk 5.html
+
+<<verses>>
+
+<<v1>>
+* Der Einbruch des Unheils: 5,1 - 7,42
+
+* Ein Vorzeichen: 5,1-4
+
+1 Um diese Zeit unternahm Antiochus seinen zweiten Feldzug gegen
+Ägypten. [fn:1]
+
+<<v2>>
+2 Da erschienen fast vierzig Tage lang über der ganzen Stadt Reiter, die
+durch die Lüfte jagten, in golddurchwirkten Gewändern; Lanzenträger
+rückten in Abteilungen zum Kampf aus, Schwerter zuckten.
+
+<<v3>>
+3 Reiterscharen ordneten sich zur Schlacht, Angriffe wurden gemacht, von
+beiden Seiten rannte man gegeneinander an, Schilde bewegten sich, Speere
+gab es in Menge, Wurfgeschosse flogen, goldener Waffenschmuck blitzte
+auf und man sah Rüstungen aller Art.
+
+<<v4>>
+4 Alle beteten deshalb, die Erscheinung möge etwas Gutes bedeuten.\\
+\\
+
+<<v5>>
+* Der Bürgerkrieg in Jerusalem: 5,5-10
+
+5 Es kam aber das falsche Gerücht auf, Antiochus sei gestorben. Da
+unternahm Jason mit nicht weniger als tausend Mann einen überraschenden
+Angriff auf die Stadt. Er drängte die Verteidiger auf der Mauer rasch in
+die Enge; als er die Stadt ganz besetzt hatte, flüchtete sich Menelaus
+in die Burg.
+
+<<v6>>
+6 Jason aber richtete unter seinen Mitbürgern ein schonungsloses Blutbad
+an, ohne zu bedenken, dass Glück gegenüber den eigenen Leuten das größte
+Unglück ist. Es sah aus, als habe er Feinde und nicht Landsleute besiegt
+und ausgeplündert.
+
+<<v7>>
+7 Dennoch konnte er die Herrschaft nicht an sich reißen. Sein Anschlag
+brachte ihm am Schluss nur Schande und er musste zum zweiten Mal in das
+Ammoniterland fliehen.
+
+<<v8>>
+8 Er nahm schließlich ein böses Ende. Aretas, der Fürst der Araber, ließ
+ihn gefangen setzen; er aber entkam und floh von Stadt zu Stadt. Von
+allen gehetzt, als Verräter der Gesetze verhasst, verwünscht als Henker
+des Vaterlandes und seiner Mitbürger, verschlug es ihn nach Ägypten.
+
+<<v9>>
+9 Und wie er viele Menschen aus ihrem Vaterland in die Fremde getrieben
+hatte, so kam er selbst in der Fremde um, nämlich bei den Spartanern, zu
+denen er übers Meer gefahren war, um bei ihnen Schutz zu finden; die
+Spartaner waren ja mit den Juden verwandt. [fn:2]
+
+<<v10>>
+10 So wie er viele ohne Grab hatte daliegen lassen, so trauerte jetzt
+auch niemand um ihn; auch er erhielt keinerlei Begräbnis und kein Grab
+bei seinen Vätern.\\
+\\
+
+<<v11>>
+* Der Überfall des heidnischen Königs: 5,11-20
+
+11 Als dem König zu Ohren kam, was geschehen war, glaubte er, Judäa
+wolle von ihm abfallen. Wütend wie ein wildes Tier brach er daher mit
+seinem Heer von Ägypten auf und nahm die Stadt mit Waffengewalt ein. [fn:3]
+
+<<v12>>
+12 Er befahl seinen Soldaten, alle, die ihnen begegneten, rücksichtslos
+niederzuhauen und auch die zu erschlagen, die sich auf das Dach ihrer
+Häuser geflüchtet hätten.
+
+<<v13>>
+13 Sie richteten unter Jung und Alt ein großes Blutbad an; junge Männer,
+Frauen und Kinder kamen um, man erstach Mädchen und Säuglinge.
+
+<<v14>>
+14 In nur drei Tagen verlor die Stadt achtzigtausend Einwohner;
+vierzigtausend fanden im Kampf den Tod, ebenso viele, wie man ermordet
+hatte, wurden in die Sklaverei verkauft.
+
+<<v15>>
+15 Doch das genügte dem König noch nicht; in seiner Frechheit betrat er
+den heiligsten Tempel der ganzen Erde unter der Führung des Menelaus,
+der die Gesetze und sein Vaterland verraten hatte.
+
+<<v16>>
+16 Seine blutbefleckten Hände griffen nach den heiligen Geräten, und was
+andere Könige gestiftet hatten, um Glanz und Würde des Ortes zu erhöhen,
+raffte er mit unreinen Händen zusammen.
+
+<<v17>>
+17 In seinem Übermut erkannte Antiochus nicht, dass der Herr nur für
+eine kurze Zeit zornig war, weil die Einwohner der Stadt gesündigt
+hatten, und deswegen nicht auf den Ort achtete. [fn:4]
+
+<<v18>>
+18 Hätten sich die Juden damals nicht in viele Sünden verstrickt, dann
+wäre ihm, sobald er sich vorwagte, seine Frechheit durch Peitschenhiebe
+ausgetrieben worden, ähnlich wie dem Heliodor, der von König Seleukus
+zur Durchsuchung der Schatzkammer ausgeschickt worden war.
+
+<<v19>>
+19 Aber der Herr hat nicht das Volk erwählt wegen des Ortes, sondern den
+Ort wegen des Volkes.
+
+<<v20>>
+20 Deswegen litt auch der Ort mit unter den Unglücksschlägen, die das
+Volk trafen, wie er später Anteil hatte an seinem Glück. Als der
+Allherrscher zürnte, lag der Ort verlassen da; als aber der große Herr
+sich wieder versöhnen ließ, wurde er in aller Pracht
+wiederhergestellt.\\
+\\
+
+<<v21>>
+* Jerusalem in der Hand der Heiden: 5,21-27
+
+21 Antiochus also ließ tausendachthundert Talente aus dem Tempel
+schaffen und zog eilig ab nach Antiochia. In seiner Vermessenheit
+glaubte er, das Land schiffbar und das Meer gangbar machen zu können -
+so überheblich war er.
+
+<<v22>>
+22 Er ließ bei seinem Abzug mehrere Befehlshaber zurück, die das Volk
+unterdrücken sollten. In Jerusalem war es Philippus, seiner Herkunft
+nach ein Phrygier, seiner Gesinnung nach ein Barbar, noch wilder als
+der, der ihn eingesetzt hatte;
+
+<<v23>>
+23 auf dem Berg Garizim war es Andronikus. Dazu kam Menelaus, der sich
+seinen Mitbürgern gegenüber noch herrischer aufführte als die anderen;
+denn er hasste die jüdischen Bürger.
+
+<<v24>>
+24 Außerdem schickte der König den Anführer der Mysier, Apollonius, mit
+einem Heer von zweiundzwanzigtausend Mann; er hatte ihm befohlen, alle
+wehrfähigen Männer umzubringen, die Frauen und Kinder aber in die
+Sklaverei zu verkaufen. [fn:5]
+
+<<v25>>
+25 Als Apollonius in Jerusalem ankam, spielte er zunächst den
+Friedfertigen. Er wartete bis zum heiligen Sabbattag. Als er nun
+bemerkte, dass die Juden sich jeder Arbeit enthielten, gab er seinen
+Leuten Befehl, zu den Waffen zu greifen und auszurücken.
+
+<<v26>>
+26 Alle, die zum festlichen Gottesdienst gegangen waren, ließ er
+niederstechen. Dann fielen sie mit der blanken Waffe in die Stadt ein
+und erschlugen viele Menschen.
+
+<<v27>>
+27 Judas aber, mit dem Beinamen der Makkabäer, schloss sich mit neun
+Gefährten zusammen und zog sich in die Wüste zurück. Er lebte mit seinen
+Leuten in den Bergen wie die Tiere. Sie ernährten sich die ganze Zeit
+nur von Pflanzen, um nicht ebenfalls unrein zu werden. [fn:6]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Makk_1.org::v17][1 Makk 1,17]]
+
+[fn:2] [[file:1.Makk_12.org::v7][1 Makk 12,7]]
+
+[fn:3] (11-16) [[file:1.Makk_1.org::v20][1 Makk 1,20]]-[[file:1.Makk_1.org::v24][24]]
+
+[fn:4] [[file:2.Makk_6.org::v12][6,12]]-[[file:2.Makk_6.org::v17][17]]
+
+[fn:5] (24-26) [[file:1.Makk_1.org::v29][1 Makk 1,29f]]
+
+[fn:6] [[file:1.Makk_2.org::v28][1 Makk 2,28]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v38][Hebr 11,38]]

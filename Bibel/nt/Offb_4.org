@@ -1,0 +1,114 @@
+:PROPERTIES:
+:ID:       47c10899-5563-4a99-81ea-2f934cbcd7b0
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Offenbarung des Johannes* --
+[[file:Offb_1.html][1]] [[file:Offb_2.html][2]] [[file:Offb_3.html][3]]
+*4* [[file:Offb_5.html][5]] [[file:Offb_6.html][6]] ...
+[[file:Offb_22.html][22]]
+
+--------------
+
+* Offb 4
+  :PROPERTIES:
+  :CUSTOM_ID: offb-4
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Die einleitende Himmelsvision: 4,1 - 5,14
+   :PROPERTIES:
+   :CUSTOM_ID: die-einleitende-himmelsvision-41---514
+   :END:
+**** Die Huldigung vor dem Thron Gottes: 4,1-11
+     :PROPERTIES:
+     :CUSTOM_ID: die-huldigung-vor-dem-thron-gottes-41-11
+     :END:
+1 Danach sah ich: Eine Tür war geöffnet am Himmel; und die Stimme, die
+vorher zu mir gesprochen hatte und die wie eine Posaune klang, sagte:
+/Komm herauf/ und ich werde dir zeigen, /was dann geschehen muss./
+^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Sogleich wurde ich vom Geist ergriffen. Und ich sah: Ein Thron stand
+im Himmel; /auf dem Thron/ saß einer, ^{[[#fn3][3]]}
+
+<<v3>>
+3 der wie ein Jaspis und ein Karneol aussah. Und /über dem Thron/ wölbte
+sich /ein Regenbogen,/ der wie ein Smaragd /aussah./
+
+<<v4>>
+4 Und rings um den Thron standen vierundzwanzig Throne und auf den
+Thronen saßen vierundzwanzig Älteste in weißen Gewändern und mit
+goldenen Kränzen auf dem Haupt. ^{[[#fn4][4]]}
+
+<<v5>>
+5 Von dem Thron gingen /Blitze, Stimmen und Donner/ aus. Und sieben
+lodernde Fackeln brannten vor dem Thron; das sind die sieben Geister
+Gottes. ^{[[#fn5][5]]}
+
+<<v6>>
+6 Und vor dem Thron war etwas wie ein gläsernes Meer, gleich Kristall.
+Und in der Mitte, rings um den Thron, waren /vier Lebewesen voller
+Augen,/ vorn und hinten. ^{[[#fn6][6]][[#fn7][7]]}
+
+<<v7>>
+7 Das erste Lebewesen glich /einem Löwen,/ das zweite /einem Stier,/ das
+dritte sah aus wie /ein Mensch,/ das vierte glich /einem/ fliegenden
+/Adler./ ^{[[#fn8][8]]}\\
+\\
+
+<<v8>>
+8 Und jedes der vier Lebewesen hatte /sechs Flügel,/ außen und innen
+/voller Augen./ Sie ruhen nicht, bei Tag und Nacht, und rufen: /Heilig,
+heilig, heilig/ /\\
+ /ist der Herr,/ der Gott, der Herrscher über die ganze Schöpfung; /\\
+ er war und /er ist/ und er kommt. ^{[[#fn9][9]]}\\
+\\
+
+<<v9>>
+9 Und wenn die Lebewesen dem, /der auf dem Thron sitzt und in alle
+Ewigkeit lebt,/ Herrlichkeit und Ehre und Dank erweisen,
+^{[[#fn10][10]]}
+
+<<v10>>
+10 dann werfen sich die vierundzwanzig Ältesten vor dem, /der auf dem
+Thron sitzt,/ nieder und beten ihn an, /der in alle Ewigkeit lebt./ Und
+sie legen ihre goldenen Kränze vor seinem Thron nieder und sprechen:\\
+\\
+
+<<v11>>
+11 Würdig bist du, unser Herr und Gott, /\\
+ Herrlichkeit zu empfangen und Ehre und Macht. Denn du bist es, der die
+Welt erschaffen hat, /\\
+ durch deinen Willen war sie und wurde sie erschaffen.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Ex 19,16.24; Dan 2,29
+
+^{[[#fnm2][2]]} 1-11: Die Schilderung des himmlischen Hofstaates und
+seiner Liturgie bringt die Macht und Herrlichkeit Gottes, des Herrn der
+Welt und der Geschichte, zum Ausdruck.
+
+^{[[#fnm3][3]]} ℘ Jes 6,1; Ez 1,26-28
+
+^{[[#fnm4][4]]} 4-8: Die «vierundzwanzig Ältesten» sind hohe Engel, die
+in Anlehnung an alttestamentliche Vorstellungen eine Art Thronrat Gottes
+bilden. Die «sieben Geister» sind Engel, die Gott als Boten dienen. Bei
+den «vier Wesen» (vgl. Ez 1,4-21; Jes 6,2f) handelt es sich um Engel,
+die als Wächter beim Thron Gottes stehen.
+
+^{[[#fnm5][5]]} ℘ Ex 19,16 G; Sach 4,2; Ez 1,13
+
+^{[[#fnm6][6]]} ℘ Ez 1,22; 1,5.18
+
+^{[[#fnm7][7]]} Das «gläserne Meer» symbolisiert das Firmament des
+Himmels; was besagt, dass Gott jenseits der Schöpfung thront.
+
+^{[[#fnm8][8]]} ℘ Ez 1,10
+
+^{[[#fnm9][9]]} ℘ Jes 6,2; Ez 1,18 G; Jes 6,3; Ex 3,14 G
+
+^{[[#fnm10][10]]} ℘ Jes 6,1; Dan 6,27; 12,7

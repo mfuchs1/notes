@@ -1,0 +1,148 @@
+#+TITLE: Gen 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 10.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Nachkommen Noachs - Völkertafel: 10,1-32
+
+Das ist die Geschlechterfolge nach den Söhnen Noachs, Sem, Ham und
+Jafet. Ihnen wurden nach der Flut Söhne geboren.
+
+<<v2>>
+2 Die Söhne Jafets sind Gomer, Magog, Madai, Jawan, Tubal, Meschech und
+Tiras.
+
+<<v3>>
+3 Die Söhne Gomers sind Aschkenas, Rifat und Togarma.
+
+<<v4>>
+4 Die Söhne Jawans sind Elischa, Tarschisch, die Kittäer und die
+Rodaniter. [fn:1]
+
+<<v5>>
+5 Von ihnen zweigten sich die Inselvölker in ihren verschiedenen Ländern
+ab, jedes nach seiner Sprache und seinen Sippenverbänden in ihren
+Völkerschaften.
+
+<<v6>>
+6 Die Söhne Hams sind Kusch, Ägypten, Put und Kanaan. [fn:2]
+
+<<v7>>
+7 Die Söhne von Kusch sind Seba, Hawila, Sabta, Ragma und Sabtecha, und
+die Söhne Ragmas sind Saba und Dedan.
+
+<<v8>>
+8 Kusch zeugte Nimrod; dieser wurde der erste Held auf der Erde.
+
+<<v9>>
+9 Er war ein tüchtiger Jäger vor dem Herrn. Deshalb pflegt man zu sagen:
+Ein tüchtiger Jäger vor dem Herrn wie Nimrod.
+
+<<v10>>
+10 Kerngebiet seines Reiches war Babel, Erech, Akkad und Kalne im Land
+Schinar.
+
+<<v11>>
+11 Von diesem Land zog er nach Assur aus und erbaute Ninive, Rehobot-Ir,
+Kelach
+
+<<v12>>
+12 sowie Resen, zwischen Ninive und Kelach, das ist die große Stadt.
+
+<<v13>>
+13 Ägypten zeugte die Luditer, die Anamiter, die Lehabiter, die
+Naftuhiter,
+
+<<v14>>
+14 die Patrositer und die Kasluhiter, von denen die Philister abstammen,
+ferner die Kaftoriter.
+
+<<v15>>
+15 Kanaan zeugte Sidon, seinen Erstgeborenen, und Het,
+
+<<v16>>
+16 ferner die Jebusiter, die Amoriter, die Girgaschiter,
+
+<<v17>>
+17 die Hiwiter, die Arkiter, die Siniter,
+
+<<v18>>
+18 die Arwaditer, die Zemariter und die Hamatiter. Später spalteten sich
+die Sippenverbände der Kanaaniter.
+
+<<v19>>
+19 Das Gebiet der Kanaaniter reichte von Sidon, wenn man über Gerar
+kommt, bis Gaza, wenn man über Sodom, Gomorra, Adma und Zebojim kommt,
+bis Lescha.
+
+<<v20>>
+20 Das waren die Söhne Hams nach ihren Sippenverbänden, nach ihren
+Sprachen in ihren Ländern und Völkerschaften.
+
+<<v21>>
+21 Auch Sem wurden Kinder geboren. Er ist der Stammvater aller Söhne
+Ebers, der ältere Bruder Jafets. [fn:3]
+
+<<v22>>
+22 Die Söhne Sems sind Elam, Assur, Arpachschad, Lud und Aram.
+
+<<v23>>
+23 Die Söhne Arams sind Uz, Hul, Geter und Masch.
+
+<<v24>>
+24 Arpachschad zeugte Schelach, Schelach zeugte Eber.
+
+<<v25>>
+25 Dem Eber wurden zwei Söhne geboren; der eine hieß Peleg (Teilung),
+denn zu seiner Zeit wurde das Land geteilt, und sein Bruder hieß Joktan.
+
+<<v26>>
+26 Joktan zeugte Almodad, Schelef, Hazarmawet, Jerach,
+
+<<v27>>
+27 Hadoram, Usal, Dikla,
+
+<<v28>>
+28 Obal, Abimaël, Scheba,
+
+<<v29>>
+29 Ofir, Hawila und Jobab. Das alles sind Söhne Joktans.
+
+<<v30>>
+30 Ihr Siedlungsgebiet reichte von Mescha, wenn man über Sefar kommt,
+bis ans Ostgebirge.
+
+<<v31>>
+31 Das waren die Söhne Sems nach ihren Sippenverbänden, nach ihren
+Sprachen in ihren Ländern, nach ihren Völkern.
+
+<<v32>>
+32 Das waren die Sippenverbände der Söhne Noachs nach ihrer
+Geschlechterfolge in ihren Völkern. Von ihnen zweigten sich nach der
+Flut die Völker der Erde ab.\\
+\\
+
+
+* Footnotes
+
+[fn:1] In H steht Dodaniter; wahrscheinlich ist aber Rodaniter
+zu lesen wie in 1 Chr 1,7. Die hebräischen Buchstaben d und r sind
+einander sehr ähnlich und konnten leicht verwechselt werden.
+
+[fn:2] Eine Eigenart solcher alter Listen ist es, dass darin
+Städte und Länder wie Personen angeführt werden. Nach hebräischer
+Denkweise haben auch Städte und Länder einen Stammvater (vgl. die
+Anmerkung zu 4,17).
+
+[fn:3] Die «Söhne Ebers» sind die Hebräer (hebr.: ibrím).

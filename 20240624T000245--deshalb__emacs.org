@@ -1,0 +1,8 @@
+#+title:      deshalb
+#+date:       [2024-06-24 Mo 00:02]
+#+filetags:   :emacs:
+#+identifier: 20240624T000245
+
+[[denote:20240624T000226::#h:3d4d5d53-514c-4e1c-9c1d-6c33375d4db2]]
+
+

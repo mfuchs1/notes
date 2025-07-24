@@ -1,0 +1,132 @@
+#+TITLE: Jos 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-01 Mi 23:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 4.html
+
+<<verses>>
+
+<<v1>>
+* Die zwölf Gedenksteine: 4,1 - 5,1
+
+1 Als das ganze Volk den Jordan durchschritten hatte, sagte der Herr zu
+Josua: [fn:1]
+
+<<v2>>
+2 Wählt aus dem Volk zwölf Männer aus, aus jedem Stamm einen,
+
+<<v3>>
+3 und befehlt ihnen: Hebt hier, an der Stelle mitten im Jordan, wo die
+Priester fest und sicher standen, zwölf Steine auf, nehmt sie mit
+hinüber und legt sie an dem Ort nieder, an dem ihr die nächste Nacht
+verbringt.
+
+<<v4>>
+4 Da rief Josua die zwölf Männer, die er aus den Israeliten bestimmt
+hatte, aus jedem Stamm einen,
+
+<<v5>>
+5 und sagte zu ihnen: Geht vor der Lade des Herrn, eures Gottes, her bis
+zur Mitte des Jordan; dort soll jeder von euch einen Stein auf seine
+Schulter heben, so viele Steine, wie es Stämme der Israeliten gibt.
+
+<<v6>>
+6 Sie sollen unter euch ein Zeichen sein. Wenn euch eure Söhne morgen
+fragen: Was bedeuten diese Steine für euch?,
+
+<<v7>>
+7 dann antwortet ihnen: (Sie bedeuten,) dass die Fluten des Jordan vor
+der Bundeslade des Herrn wie abgeschnitten waren; als sie durch den
+Jordan zog, waren die Fluten des Jordan wie abgeschnitten. So sind diese
+Steine ein ewiges Erinnerungszeichen für die Israeliten.
+
+<<v8>>
+8 Die Israeliten taten, was Josua befohlen hatte, und nahmen zwölf
+Steine mitten aus dem Jordan, so viele, wie es Stämme der Israeliten
+gab, wie es der Herr dem Josua befohlen hatte. Sie nahmen sie mit
+hinüber zu ihrem Rastplatz und stellten sie dort auf.
+
+<<v9>>
+9 Und in der Mitte des Jordan richtete Josua zwölf Steine auf, dort, wo
+die Priester gestanden hatten, die die Bundeslade trugen; sie stehen
+dort bis zum heutigen Tag.
+
+<<v10>>
+10 Die Priester aber, die die Lade trugen, blieben mitten im Jordan
+stehen, bis alles geschehen war, was der Herr durch Josua dem Volk
+befohlen hatte [ganz so, wie Mose dem Josua befohlen hatte], und das
+Volk beeilte sich und zog hinüber.
+
+<<v11>>
+11 Als das ganze Volk vollständig hinübergezogen war, zog auch die Lade
+des Herrn hinüber und die Priester (gingen wieder) dem Volk voraus.
+
+<<v12>>
+12 Die Rubeniter, die Gaditer und der halbe Stamm Manasse zogen
+kampfbereit vor den Israeliten her, wie es ihnen Mose befohlen hatte. [fn:2]
+
+<<v13>>
+13 Es waren etwa vierzigtausend bewaffnete Männer, die vor den Augen des
+Herrn zum Kampf in die Steppen von Jericho zogen.
+
+<<v14>>
+14 An jenem Tag machte der Herr den Josua in den Augen ganz Israels groß
+und man hatte Ehrfurcht vor ihm, wie man vor Mose zeit seines Lebens
+Ehrfurcht hatte.
+
+<<v15>>
+15 Da sagte der Herr zu Josua:
+
+<<v16>>
+16 Befiehl den Priestern, die die Lade der Bundesurkunde tragen, aus dem
+Jordan heraufzusteigen.
+
+<<v17>>
+17 Da befahl Josua den Priestern: Steigt aus dem Jordan herauf!
+
+<<v18>>
+18 Als nun die Priester, die die Bundeslade des Herrn trugen, aus der
+Mitte des Jordan heraufstiegen und ihre Füße das Ufer berührten, da
+kehrte das Wasser des Jordan an seinen Ort zurück und trat wie zuvor
+wieder über alle Ufer.
+
+<<v19>>
+19 Das Volk zog am zehnten Tag des ersten Monats durch den Jordan und
+schlug in Gilgal, am Ostrand des Gebietes von Jericho, sein Lager auf.
+
+<<v20>>
+20 In Gilgal stellte Josua die zwölf Steine auf, die man aus dem Jordan
+mitgenommen hatte.
+
+<<v21>>
+21 Er sagte zu den Israeliten: Wenn eure Söhne morgen ihre Väter fragen:
+Was bedeuten diese Steine?,
+
+<<v22>>
+22 dann sollt ihr sie belehren: Hier hat Israel trockenen Fußes den
+Jordan durchschritten;
+
+<<v23>>
+23 denn der Herr, euer Gott, hat das Wasser des Jordan vor euren Augen
+austrocknen lassen, bis ihr hindurchgezogen wart, genau so wie es Jahwe,
+euer Gott, mit dem Schilfmeer machte, das er vor unseren Augen
+austrocknen ließ, bis wir hindurchgezogen waren. [fn:3]
+
+<<v24>>
+24 Daran sollen alle Völker der Erde erkennen, dass die Hand des Herrn
+stark ist, und ihr sollt allezeit Jahwe, euren Gott, fürchten.
+
+* Footnotes
+
+[fn:1] [[v1][1]]-[[v9][9]].[[v20][20]]-[[v24][24]]: Hier werden Herkunft und Bedeutung der zwölf
+Steine im Jordan bzw. in Gilgal erklärt.
+
+[fn:2] [[file:Jos_1.org::v12][1,12-16]]
+
+[fn:3] [[file:Ex_14.org::v21][Ex 14,21f]]

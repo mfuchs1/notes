@@ -1,0 +1,223 @@
+#+TITLE: 1 Makk 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-27 Mo 15:02]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 15.html
+
+<<verses>>
+
+<<v1>>
+* Das Bündnis zwischen Simeon und Antiochus VII.: 15,1-14
+
+1 Antiochus, der Sohn des Königs Demetrius, schickte von den Inseln ein
+Schreiben an Simeon, den Priester und Fürsten der Juden, und an das
+ganze Volk. [fn:1]
+
+<<v2>>
+2 Es hatte folgenden Inhalt: König Antiochus grüßt Simeon, den
+Hohenpriester und Fürsten, und das jüdische Volk.
+
+<<v3>>
+3 Ein paar Verbrecher haben die Herrschaft über das Reich unserer Väter
+an sich gerissen. Ich will nun das Reich wieder übernehmen und in ihm
+die alte Ordnung wiederherstellen. Ich habe zahlreiche Streitkräfte
+angeworben, mehrere Kriegsschiffe ausgerüstet
+
+<<v4>>
+4 und will mit ihnen landen, um alle zur Rechenschaft zu ziehen, die
+unser Land verwüstet und so viele Städte in meinem Reich entvölkert
+haben.
+
+<<v5>>
+5 Ich bestätige dir den Erlass aller Steuern, auf die die Könige vor mir
+verzichtet haben, und aller sonstigen Geschenke, die sie dir erlassen
+haben.
+
+<<v6>>
+6 Hiermit gestatte ich dir, eigene Münzen für dein Land zu prägen.
+
+<<v7>>
+7 Jerusalem und das Heiligtum sollen frei sein. Du darfst alle Waffen
+behalten, die du dir beschafft hast, dazu alle Festungen, die du
+angelegt hast und die in deiner Hand sind.
+
+<<v8>>
+8 Alle Schulden an die königliche Kasse, auch die künftigen Forderungen
+der Krone, seien dir von jetzt an für immer erlassen.
+
+<<v9>>
+9 Sobald wir die Herrschaft angetreten haben, werden wir dich, dein Volk
+und den Tempel mit hohen Ehren auszeichnen, sodass sich euer Ruhm über
+die ganze Welt verbreitet.
+
+<<v10>>
+10 Im Jahr 174 kam Antiochus in das Land seiner Väter. Alle Truppen
+schlossen sich ihm an; nur wenige blieben bei Tryphon.
+
+<<v11>>
+11 Antiochus verfolgte ihn und Tryphon flüchtete nach Dor am Meer. [fn:2]
+
+<<v12>>
+12 Er hatte gemerkt, dass für ihn schlimme Zeiten angebrochen waren;
+denn seine Truppen hatten ihn verlassen.
+
+<<v13>>
+13 Antiochus belagerte Dor mit hundertzwanzigtausend Soldaten und
+achttausend Reitern.
+
+<<v14>>
+14 Er schloss die Stadt ein und ließ sie mit den Schiffen vom Meer her
+angreifen. So setzte er ihr zu Wasser und zu Land hart zu und ließ
+niemand hinein oder heraus.\\
+\\
+
+<<v15>>
+* Nachträge zum Vertrag mit Rom: 15,15-24
+
+15 Zu dieser Zeit kam Numenius mit seinen Begleitern aus Rom zurück; er
+hatte Briefe mit folgendem Inhalt an verschiedene Könige und Länder bei
+sich: [fn:3]
+
+<<v16>>
+16 Der römische Konsul Luzius grüßt König Ptolemäus. [fn:4]
+
+<<v17>>
+17 Die jüdischen Gesandten sind als Freunde und Verbündete zu uns
+gekommen, um das alte Freundschaftsbündnis zu erneuern; der Hohepriester
+Simeon und das jüdische Volk hatten sie geschickt.
+
+<<v18>>
+18 Sie brachten auch einen goldenen Schild im Wert von tausend Minen
+mit.
+
+<<v19>>
+19 Wir haben nun beschlossen, Könige und Länder schriftlich anzuweisen,
+nichts gegen die Juden zu unternehmen, gegen sie, ihre Städte und ihr
+Land keinen Krieg zu führen und ihre Gegner nicht zu unterstützen.
+
+<<v20>>
+20 Auch beschlossen wir, den Schild von ihnen anzunehmen.
+
+<<v21>>
+21 Wenn nun irgendwelche Verbrecher aus ihrem Land zu euch geflohen
+sind, so liefert sie dem Hohenpriester Simeon aus, damit er sie nach dem
+jüdischen Gesetz bestrafen kann.
+
+<<v22>>
+22 Im gleichen Sinn schrieb Luzius an die Könige Demetrius, Attalus,
+Ariarathes und Arsakes
+
+<<v23>>
+23 sowie an alle folgenden Länder: nach Sampsame, Sparta, Delos, Myndos,
+Sikyon, Karien, Samos, Pamphylien, Lyzien, Halikarnass, Rhodos,
+Phaselis, Kos, Side, Arwad, Gortyna, Knidos, Zypern und Zyrene.
+
+<<v24>>
+24 Eine Abschrift schickten die Römer an den Hohenpriester Simeon.\\
+\\
+
+<<v25>>
+* Die Entfremdung zwischen Simeon und Antiochus VII.: 15,25-36
+
+25 König Antiochus belagerte Dor von der Vorstadt aus. Er ließ seine
+Truppen ununterbrochen gegen die Stadt anrennen, stellte
+Belagerungsmaschinen auf und hielt Tryphon eingeschlossen, sodass
+niemand hinein oder heraus konnte.
+
+<<v26>>
+26 Simeon sandte dem König zu seiner Unterstützung zweitausend
+ausgesuchte Krieger, dazu Silber und Gold und viel Kriegsausrüstung.
+
+<<v27>>
+27 Aber der König wollte es nicht annehmen; er brach vielmehr mit ihm
+und machte alles rückgängig, was er vorher mit ihm vertraglich
+vereinbart hatte.
+
+<<v28>>
+28 Er schickte einen seiner Freunde namens Athenobius als Unterhändler
+zu ihm und ließ ihm sagen: Ihr habt Jafo, Geser und die Burg von
+Jerusalem besetzt, Städte meines Königreiches.
+
+<<v29>>
+29 Ihr Gebiet habt ihr verwüstet und großen Schaden im Land angerichtet
+und viele Orte in meinem Reich habt ihr an euch gerissen.
+
+<<v30>>
+30 Nun gebt die Städte wieder heraus, die ihr besetzt habt; ebenso
+entrichtet die Steuern für die Orte außerhalb Judäas, die ihr euch
+angeeignet habt.
+
+<<v31>>
+31 Andernfalls gebt als Ersatz fünfhundert Talente Silber, weitere
+fünfhundert Talente für den Schaden, den ihr angerichtet habt, und für
+die Steuern der Städte. Sonst kommen wir und führen Krieg gegen euch.
+
+<<v32>>
+32 Athenobius, der Freund des Königs, kam nach Jerusalem. Als er die
+Prachtentfaltung Simeons, den Schrank mit den goldenen und silbernen
+Geräten und den großen Hofstaat sah, war er sehr erstaunt. Er meldete
+Simeon die Worte des Königs; [fn:5]
+
+<<v33>>
+33 doch der gab zur Antwort: Wir haben kein fremdes Land besetzt und uns
+nichts angeeignet, was uns nicht gehörte, sondern wir haben nur das Erbe
+unserer Väter zurückgeholt, das unsere Feinde zu Unrecht vorübergehend
+an sich gerissen hatten.
+
+<<v34>>
+34 Wir nutzen nur die Gelegenheit und halten das Erbe unserer Väter
+fest.
+
+<<v35>>
+35 Was aber Jafo und Geser betrifft, auf die du Anspruch erhebst, so ist
+zu sagen: Diese Städte haben unserem Volk und Land großen Schaden
+zugefügt. Wir wollen für sie hundert Talente zahlen. Athenobius gab ihm
+keine Antwort,
+
+<<v36>>
+36 sondern ging wütend zum König zurück. Er unterrichtete ihn über die
+Antwort Simeons, über seine Prachtentfaltung und über alles, was er
+gesehen hatte. Da geriet der König in heftigen Zorn.\\
+\\
+
+<<v37>>
+* Der Sieg der Söhne Simeons über Kendebäus: 15,37 - 16,10
+
+37 Tryphon entkam auf einem Schiff nach Orthosia.
+
+<<v38>>
+38 Der König ernannte Kendebäus zum Befehlshaber über die Küste und
+teilte ihm Fußtruppen und Reiterei zu.
+
+<<v39>>
+39 Er gab ihm den Auftrag, an der Grenze Judäas ein Lager aufzuschlagen,
+den Ort Kidron auszubauen und mit festen Toren zu versehen, um gegen die
+Juden Krieg zu führen, während er selbst die Verfolgung des Tryphon
+aufnahm.
+
+<<v40>>
+40 Kendebäus zog nach Jamnia und begann, das jüdische Volk zu reizen,
+Überfälle auf Judäa zu machen, Juden gefangen zu nehmen und zu ermorden.
+
+<<v41>>
+41 Er baute Kidron aus und legte Reiter und Fußtruppen hinein. Diese
+unternahmen Streifzüge auf den Straßen Judäas, wie ihnen der König
+befohlen hatte.
+
+* Footnotes
+
+[fn:1] Antiochus: Antiochus VII. Sidetes.
+
+[fn:2] Dor: eine Küstenfestung südlich des Karmel.
+
+[fn:3] [[file:1.Makk_14.org::v24][14,24]]
+
+[fn:4] Lucius Caecilius Metellus Calvus war 142 v. Chr. Konsul.
+
+[fn:5] [[file:1.Kön_10.org::v4][1 Kön 10,4f]]

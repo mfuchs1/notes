@@ -1,0 +1,129 @@
+#+TITLE: 2 Chr 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 11.html
+
+* 2.Chr 11
+
+<<verses>>
+
+<<v1>>
+1 Rehabeam kam nach Jerusalem und versammelte das Haus Juda und
+Benjamin, hundertachtzigtausend auserlesene Krieger, um gegen die
+Israeliten zu kämpfen und das Königtum für Rehabeam zurückzugewinnen.
+
+<<v2>>
+2 Doch das Wort des Herrn erging an Schemaja, den Mann Gottes:
+
+<<v3>>
+3 Sag zu Rehabeam, dem Sohn Salomos, dem König von Juda, und zu allen
+Israeliten in Juda und Benjamin:
+
+<<v4>>
+4 So spricht der Herr: Zieht nicht in den Krieg gegen eure Brüder! Jeder
+kehre in sein Haus zurück, denn ich habe es so verfügt. Sie hörten auf
+die Worte des Herrn und sahen davon ab, gegen Jerobeam zu ziehen.
+
+<<v5>>
+5 Rehabeam blieb in Jerusalem.\\
+\\
+
+<<v6>>
+* Rehabeam: 11,5 - 12,16
+
+6 Rehabeam baute Städte in Juda zu Festungen aus. Er baute aus:
+Betlehem, Etam, Tekoa, [fn:1]
+
+<<v7>>
+7 Bet-Zur, Socho, Adullam,
+
+<<v8>>
+8 Gat, Marescha, Sif,
+
+<<v9>>
+9 Adorajim, Lachisch, Aseka,
+
+<<v10>>
+10 Zora, Ajalon und Hebron, die alle in Juda und Benjamin lagen, lauter
+Festungen.
+
+<<v11>>
+11 Er machte die Festungen stark, setzte Befehlshaber über sie ein und
+legte Vorräte an Nahrungsmitteln, Öl und Wein in ihnen an.
+
+<<v12>>
+12 In jede einzelne Stadt brachte er Schilde und Lanzen. So machte er
+sie sehr stark. Rehabeam herrschte über Juda und Benjamin.
+
+<<v13>>
+13 Auch die Priester und Leviten, die (zerstreut) in ganz Israel lebten,
+stellten sich aus all ihren Gebieten bei ihm ein.
+
+<<v14>>
+14 Denn die Leviten verließen ihre Weideflächen und ihren Besitz und
+zogen nach Juda und Jerusalem, weil Jerobeam und seine Söhne ihnen den
+Priesterdienst für den Herrn verwehrten.
+
+<<v15>>
+15 Jerobeam bestellte sich eigene Priester für die Kulthöhen, für die
+Bocksgeister und für die Kälber, die er gemacht hatte. [fn:2] [fn:3]
+
+<<v16>>
+16 Den Leviten folgten aus allen Stämmen Israels auch andere, die darauf
+bedacht waren, den Herrn, den Gott Israels, zu suchen. Sie kamen nach
+Jerusalem, um dem Herrn, dem Gott ihrer Väter, Opfer darzubringen.
+
+<<v17>>
+17 Sie stärkten das Reich Juda und waren drei Jahre lang eine Stütze für
+Rehabeam, den Sohn Salomos; denn drei Jahre folgten sie den Wegen Davids
+und Salomos.
+
+<<v18>>
+18 Rehabeam nahm sich Mahalat, die Tochter Jerimots, des Sohnes Davids,
+und der Abihajil, der Tochter Eliabs, des Sohnes Isais, zur Frau.
+
+<<v19>>
+19 Sie gebar ihm die Söhne Jëusch, Schemarja und Saham.
+
+<<v20>>
+20 Nach ihr nahm er Maacha, die Enkelin Abschaloms. Sie gebar ihm Abija,
+Attai, Sisa und Schelomit.
+
+<<v21>>
+21 Rehabeam aber liebte Maacha, die Enkelin Abschaloms, mehr als seine
+anderen Frauen und Nebenfrauen. Er hatte nämlich achtzehn Frauen und
+sechzig Nebenfrauen genommen und achtundzwanzig Söhne und sechzig
+Töchter gezeugt. [fn:4]
+
+<<v22>>
+22 Abija, den Sohn der Maacha, bestellte Rehabeam zum Oberhaupt und
+Fürsten unter seinen Brüdern; denn er hatte vor, ihn zum König zu
+machen.
+
+<<v23>>
+23 In kluger Weise verteilte er alle Gegenden Judas und Benjamins und
+alle festen Städte an seine Söhne. Auch verschaffte er ihnen reichlichen
+Unterhalt und warb viele Frauen für sie.
+
+* Footnotes
+
+[fn:1] 6-10: Die Orte liegen südlich und westlich von
+Jerusalem. Durch ihren Ausbau sollte Juda gegen Angriffe aus Ägypten
+geschützt werden, das unter dem Pharao Schischak Palästina bedrohte
+(vgl. [[file:2.Chr_12.org][Kap. 12]]).
+
+[fn:2] [[file:1.Kön_12.org::v28][1 Kön 12,28]]
+
+[fn:3] Die Einsetzung von Priestern, die nicht dem Stamm Levi
+angehörten, wurde schon in [[file:1.Kön_12.org::v31][1 Kön 12,31]] getadelt. - Bocksgeister sind in
+der Volksphantasie Dämonen in Bocksgestalt. - Die «Kälber» sind die
+Stierbilder, die Jerobeam I. in Bet-El und Dan aufstellen ließ (vgl. [[file:1.Kön_12.org::v28][1 Kön 12,28f]]).
+
+[fn:4] Nachahmung der Haremsbräuche orientalischer Herrscher.

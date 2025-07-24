@@ -1,0 +1,176 @@
+:PROPERTIES:
+:ID:       3a86a328-3e77-465b-bd22-a3c8148fc066
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Ezechiel* -- [[file:Ez_1.html][1]] ...
+[[file:Ez_27.html][27]] [[file:Ez_28.html][28]] *29*
+[[file:Ez_30.html][30]] [[file:Ez_31.html][31]] ...
+[[file:Ez_48.html][48]]
+
+--------------
+
+* Ez 29
+  :PROPERTIES:
+  :CUSTOM_ID: ez-29
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Gegen den Pharao und Ägypten: 29,1 - 32,32
+   :PROPERTIES:
+   :CUSTOM_ID: gegen-den-pharao-und-ägypten-291---3232
+   :END:
+**** Das Gericht über den König und sein Land: 29,1-16
+     :PROPERTIES:
+     :CUSTOM_ID: das-gericht-über-den-könig-und-sein-land-291-16
+     :END:
+1 Am zwölften Tag des zehnten Monats im zehnten Jahr erging das Wort des
+Herrn an mich:
+
+<<v2>>
+2 Menschensohn, richte dein Gesicht auf den Pharao, den König von
+Ägypten, tritt als Prophet auf gegen ihn und gegen ganz Ägypten
+^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 und sag: So spricht Gott, der Herr: Jetzt gehe ich gegen dich vor,
+Pharao, du König Ägyptens, du großes Krokodil, das zwischen den Armen
+des Nil liegt und sagt: Mir gehören die Arme des Nil, /\\
+ ich habe sie selber erschaffen. ^{[[#fn2][2]][[#fn3][3]]}\\
+\\
+
+<<v4>>
+4 Aber ich schlage dir Haken durch die Kinnbacken und lasse die Fische
+deines Nil an deinen Schuppen kleben. Ich ziehe dich herauf aus deinem
+Nil samt all den Fischen deines Nil, die an deinen Schuppen kleben.\\
+\\
+
+<<v5>>
+5 Dann werfe ich dich in die Wüste hinaus, /\\
+ dich und all die Fische des Nil. Aufs trockene Land wirst du fallen.
+/\\
+ Niemand holt dich von dort und begräbt dich. Den wilden Tieren und den
+Vögeln des Himmels /\\
+ werfe ich dich vor zum Fraß. ^{[[#fn4][4]]}\\
+\\
+
+<<v6>>
+6 Dann werden alle Ägypter erkennen, /\\
+ dass ich der Herr bin. Eine Stütze aus Schilfrohr bist du /\\
+ für das Haus Israel. ^{[[#fn5][5]][[#fn6][6]]}\\
+\\
+
+<<v7>>
+7 Nehmen sie dich in die Hand, dann zerbrichst du /\\
+ und durchbohrst ihnen die Schulter; stützen sie sich auf dich, dann
+zerbrichst du /\\
+ und allen beginnen die Hüften zu wanken. ^{[[#fn7][7]]}\\
+\\
+
+<<v8>>
+8 Darum - so spricht Gott, der Herr: Ich bringe das Schwert über dich
+und rotte Mensch und Vieh bei dir aus.\\
+\\
+
+<<v9>>
+9 Ägypten wird zu Wüste und Ödland. Dann werden sie erkennen, dass ich
+der Herr bin. Du hast gesagt: Mir gehören die Arme des Nil; /\\
+ ich habe sie selber erschaffen.\\
+\\
+
+<<v10>>
+10 Darum gehe ich jetzt gegen dich und deine Nilarme vor. Ich mache
+Ägypten zum dürren Ödland, zur Wüste von Migdol bis Syene und bis an die
+Grenzen von Kusch. ^{[[#fn8][8]][[#fn9][9]]}
+
+<<v11>>
+11 Weder Mensch noch Tier geht mehr darüber hin. Vierzig Jahre lang wird
+es nicht mehr bewohnt sein.
+
+<<v12>>
+12 Ich mache Ägypten zur Wüste inmitten verwüsteter Länder. Seine Städte
+sollen vierzig Jahre lang verwüstet daliegen inmitten verödeter Städte.
+Ich zerstreue die Ägypter unter die Völker und vertreibe sie in alle
+Länder.
+
+<<v13>>
+13 Denn so spricht Gott, der Herr: Nach vierzig Jahren führe ich die
+Ägypter aus den Völkern zusammen, unter die sie zerstreut wurden.
+
+<<v14>>
+14 Ich wende das Geschick Ägyptens und bringe sie zurück in das Land
+Patros, das Land ihrer Herkunft. Dort werden sie ein unbedeutendes Reich
+gründen. ^{[[#fn10][10]]}
+
+<<v15>>
+15 Es wird unbedeutend sein im Vergleich zu den anderen Königreichen,
+und es wird sich nicht mehr über die anderen Völker erheben. Ich mache
+sie ganz klein, damit sie nicht mehr über die Völker herrschen können.
+
+<<v16>>
+16 Das Haus Israel wird ihnen nicht mehr vertrauen und sich ihnen nicht
+mehr anschließen; es wird sich hüten, seine alte Schuld wieder in
+Erinnerung zu rufen. Sie werden erkennen, dass ich Gott, der Herr,
+bin.\\
+\\
+
+<<v17>>
+**** Der Sieg Nebukadnezzars: 29,17-21
+     :PROPERTIES:
+     :CUSTOM_ID: der-sieg-nebukadnezzars-2917-21
+     :END:
+17 Am ersten Tag des ersten Monats im siebenundzwanzigsten Jahr erging
+das Wort des Herrn an mich:
+
+<<v18>>
+18 Menschensohn! Nebukadnezzar, der König von Babel, hat sein Heer vor
+Tyrus schwere Arbeit verrichten lassen; alle Köpfe wurden kahl und jede
+Schulter war zerschunden. Aber Tyrus hat ihn und sein Heer nicht belohnt
+für die Arbeit, die sie geleistet haben.
+
+<<v19>>
+19 Darum - so spricht Gott, der Herr: Ich gebe Nebukadnezzar, dem König
+von Babel, das Land Ägypten. Er wird seine Schätze wegschleppen; er wird
+alles plündern und reiche Beute machen. Das wird der Lohn seines Heeres
+sein. ^{[[#fn11][11]]}
+
+<<v20>>
+20 Als Belohnung für seine Arbeit gebe ich ihm Ägypten; denn sie haben
+für mich gearbeitet - Spruch Gottes, des Herrn.
+
+<<v21>>
+21 An jenem Tag werde ich dem Haus Israel neue Kraft verleihen und du
+sollst wieder zu ihnen reden. Dann werden sie erkennen, dass ich der
+Herr bin. ^{[[#fn12][12]][[#fn13][13]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Jes 19; Jer 46
+
+^{[[#fnm2][2]]} ℘ 32,2
+
+^{[[#fnm3][3]]} sie: Text korr. nach G; H: mich.
+
+^{[[#fnm4][4]]} und begräbt dich, wörtlich: und sammelt dich ein.
+
+^{[[#fnm5][5]]} ℘ 2 Kön 18,21
+
+^{[[#fnm6][6]]} bist du: Text korr. nach G.
+
+^{[[#fnm7][7]]} zu wanken: Text korr.
+
+^{[[#fnm8][8]]} ℘ 30,6
+
+^{[[#fnm9][9]]} Migdol: die nördlichste Grenzfestung Ägyptens. - Syene
+(= Assuan): die südlichste Grenzfestung Ägyptens.
+
+^{[[#fnm10][10]]} Patros ist ein Name für Oberägypten.
+
+^{[[#fnm11][11]]} ℘ 30,10.24
+
+^{[[#fnm12][12]]} ℘ Ps 132,17
+
+^{[[#fnm13][13]]} Wörtlich: Ich werde dem Haus Israel ein Horn sprossen
+lassen und ich gebe dir Öffnung des Mundes in ihrer Mitte.

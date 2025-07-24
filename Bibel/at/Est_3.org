@@ -1,0 +1,175 @@
+#+TITLE: Est 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-25 Sa 20:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Est 3.html
+
+<<verses>>
+
+<<v1>>
+* Hamans Anschlag gegen die Juden: 3,1 - 15
+
+* Der Racheplan: 3,1-6
+
+1 Nach diesen Ereignissen zeichnete König Artaxerxes den Agagiter Haman,
+den Sohn Hammedatas, in besonderer Weise aus und gab ihm einen höheren
+Rang als allen anderen Fürsten seiner Umgebung. [fn:1]
+
+<<v2>>
+2 Alle königlichen Diener am Tor des Palastes fielen vor Haman nieder
+und huldigten ihm; denn so hatte es der König ihm zu Ehren befohlen.
+Mordechai aber fiel nicht nieder und huldigte ihm nicht.
+
+<<v3>>
+3 Da sagten die königlichen Diener am Tor des Palastes zu Mordechai:
+Warum setzt du dich über das Gebot des Königs hinweg?
+
+<<v4>>
+4 Das sagten sie jeden Tag zu ihm, doch er hörte nicht auf sie. Sie
+meldeten es Haman, weil sie sehen wollten, ob Mordechai mit seiner
+Begründung Erfolg haben werde; er hatte ihnen nämlich gesagt, er sei
+Jude.
+
+<<v5>>
+5 Als Haman merkte, dass Mordechai nicht vor ihm niederfiel und ihm
+nicht huldigte, wurde er sehr zornig.
+
+<<v6>>
+6 Aber es schien ihm nicht genug, nur Mordechai zu beseitigen. Da man
+ihm gesagt hatte, welchem Volk Mordechai angehörte, wollte Haman alle
+Juden im Reich des Artaxerxes vernichten - das ganze Volk Mordechais.\\
+\\
+
+<<v7>>
+* Der Ausrottungsplan: 3,7-11
+
+7 Im ersten Monat, dem Monat Nisan, im zwölften Jahr des Königs
+Artaxerxes, warf man in Gegenwart Hamans das Pur, das ist das Los, über
+die einzelnen Tage und Monate und das Los fiel auf den dreizehnten Tag
+des zwölften Monats, des Monats Adar. [fn:2] [fn:3]
+
+<<v8>>
+8 Darauf sagte Haman zu König Artaxerxes: Es gibt ein Volk, das über
+alle Provinzen deines Reiches verstreut lebt, aber sich von den anderen
+Völkern absondert. Seine Gesetze sind von denen aller anderen Völker
+verschieden; auch die Gesetze des Königs befolgen sie nicht. Es ist
+nicht richtig, dass der König ihnen das durchgehen lässt. [fn:4]
+
+<<v9>>
+9 Wenn der König einverstanden ist, soll ein schriftlicher Erlass
+herausgegeben werden, sie auszurotten. Dann kann ich den Schatzmeistern
+zehntausend Talente Silber übergeben und in die königlichen
+Schatzkammern bringen lassen.
+
+<<v10>>
+10 Da zog der König seinen Siegelring vom Finger und gab ihn dem
+Agagiter Haman, dem Sohn Hammedatas, dem Feind der Juden, [fn:5]
+
+<<v11>>
+11 und er sagte zu Haman: Das Silber lasse ich dir; mach mit dem Volk,
+was dir richtig erscheint.\\
+\\
+
+<<v12>>
+* Der Erlass: 3,12-15
+
+12 Am dreizehnten Tag des ersten Monats wurden die Schreiber des Königs
+gerufen. Man schrieb an die Satrapen des Königs, die Statthalter der
+einzelnen Provinzen und die Fürsten aller Völker der einzelnen Provinzen
+in ihrer eigenen Schrift und Sprache alles genau so, wie es Haman
+befohlen hatte. Der Erlass war im Namen des Königs Artaxerxes
+geschrieben und mit dem Siegelring des Königs gesiegelt. [fn:6]
+
+<<v13>>
+13 Durch Eilboten sandte man das Schreiben an alle königlichen Provinzen
+(mit dem Befehl): Man solle alle Juden, Jung und Alt, auch Kinder und
+Frauen, am gleichen Tag, dem dreizehnten Tag im zwölften Monat, dem
+Monat Adar, erschlagen, ermorden und ausrotten und ihren Besitz
+plündern.
+
+<<v13a>>
+13a Hier ist eine Abschrift des Briefes: Der Großkönig Artaxerxes
+schreibt den Statthaltern der hundertsiebenundzwanzig Provinzen von
+Indien bis Kusch und den untergeordneten Behörden: [fn:7]
+
+<<v13b>>
+13b Als Herrscher über viele Völker und Gebieter über die ganze Welt
+habe ich beschlossen - nicht aus überheblicher Willkür, sondern in
+meinem allzeit bewiesenen Streben nach Milde und Güte -, meinen
+Untertanen in jeder Hinsicht ein ruhiges Leben zu sichern, die
+Entwicklung des Reiches zu fördern, es bis an die Grenzen mit guten
+Straßen zu versehen und allen Menschen wieder den ersehnten Frieden zu
+schenken.
+
+<<v13c>>
+13c Als ich meine Ratgeber fragte, wie das erreicht werden könnte, hat
+Haman, der sich bei uns durch seine Besonnenheit hervorgetan und seine
+unwandelbare edle Gesinnung und feste Treue unter Beweis gestellt hat
+und der im Reich den zweithöchsten Rang innehat,
+
+<<v13d>>
+13d uns darauf hingewiesen, dass sich ein bestimmtes heimtückisches Volk
+unter alle Nationen der Erde gemischt habe, das durch seine Gesetze zu
+jedem anderen Volk in Gegensatz stehe. Es missachte ununterbrochen die
+Anordnungen unserer Könige, sodass die Verwaltung des ganzen Reiches
+beeinträchtigt ist, obwohl sie von uns ausgezeichnet geleitet wird.
+
+<<v13e>>
+13e So sind wir zu der Ansicht gelangt, dass dieses Volk als einziges
+sich gegen alle Menschen ohne Ausnahme feindselig verhält, nach
+absonderlichen und befremdlichen Gesetzen lebt und sich gegen die
+Interessen unseres Landes stellt und die schlimmsten Verbrechen begeht,
+sodass im Reich keine geordneten Verhältnisse eintreten können.
+
+<<v13f>>
+13f Darum ordnen wir an: Alle, die euch Haman, der Leiter der
+Staatskanzlei, unser zweiter Vater, in seinem Brief näher beschrieben
+hat, sollen am vierzehnten Tag des Monats Adar des laufenden Jahres samt
+ihren Frauen und Kindern ohne Gnade und Erbarmen durch das Schwert ihrer
+Feinde radikal ausgerottet werden. [fn:8] [fn:9]
+
+<<v13g>>
+13g So werden diese seit jeher feindseligen Menschen an einem einzigen
+Tag eines gewaltsamen Todes sterben und in die Unterwelt hinabfahren,
+unser Land aber wird sich in Zukunft einer beständigen und ungestörten
+Ruhe erfreuen.
+
+<<v14>>
+14 In jede einzelne Provinz wurde eine Abschrift des Erlasses geschickt,
+und dieser wurde als Gesetz veröffentlicht, damit alle Völker für diesen
+Tag bereit seien.
+
+<<v15>>
+15 Die Boten ritten hinaus, durch königlichen Befehl zur Eile gedrängt.
+Während das Gesetz in der Burg Susa veröffentlicht wurde, saßen der
+König und Haman beisammen und tranken; die Stadt Susa aber war in großer
+Aufregung.\\
+\\
+
+* Footnotes
+
+[fn:1] Vgl. die Anmerkung zu 1,1r. - «Agagiter» erinnert an den
+König Agag von Amalek, den Feind Israels in [[file:1.Sam_15.org][1 Sam 15]].
+
+[fn:2] [[file:Est_9.org::v24][9,24]]
+
+[fn:3] Text korr. nach G (vgl. 8,12). - Pûr, ein assyrisches
+Wort, bedeutet «Los».
+
+[fn:4] [[file:Num_23.org::v9][Num 23,9]]; [[file:Dtn_4.org::v5][Dtn 4,5]]-[[file:Dtn_4.org::v8][8]]
+
+[fn:5] [[file:Est_8.org::v2][8,2]]; [[file:Gen_41.org::v42][Gen 41,42]]
+
+[fn:6] 13a-g: G = 13,1-7 Vg
+
+[fn:7] Kusch ist der heutige Sudan und ein Teil Äthiopiens.
+
+[fn:8] [[file:Gen_45.org::v8][Gen 45,8]]
+
+[fn:9] 13f: Vater: hier ein Ehrentitel.

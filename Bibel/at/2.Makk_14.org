@@ -1,0 +1,276 @@
+#+TITLE: 2 Makk 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 21:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Makk 14.html
+
+<<verses>>
+
+<<v1>>
+* Der Feldzug Nikanors: 14,1 - 15,36
+
+* Die Intrige des Hohenpriesters Alkimus gegen Judas: 14,1-14
+
+1 Drei Jahre später erfuhren die Leute des Judas, dass Demetrius, der
+Sohn des Seleukus, mit starken Truppen und einer Flotte im Hafen von
+Tripolis gelandet sei. [fn:1]
+
+<<v2>>
+2 Antiochus und dessen Vormund Lysias habe er aus dem Weg räumen lassen
+und das Land in seine Gewalt gebracht.
+
+<<v3>>
+3 Damals lebte ein Mensch namens Alkimus; er war früher einmal
+Hoherpriester gewesen, hatte sich aber schon vor der Zeit der
+Religionsvermischung freiwillig unrein gemacht. Wie er wohl wusste,
+hatte er sich dadurch in eine ausweglose Lage gebracht, sodass er nie
+wieder an den heiligen Altar treten konnte. [fn:2]
+
+<<v4>>
+4 Darum kam er um das Jahr 151 zu König Demetrius und überreichte ihm
+einen goldenen Kranz mit einem Palmzweig, dazu Ölzweige, wie sie am
+Heiligtum gebräuchlich sind. An diesem Tag unternahm er weiter nichts.
+
+<<v5>>
+5 Als aber Demetrius ihn vor seinen Rat rufen ließ und ihn fragte, wie
+die Stimmung unter den Juden sei und welche Pläne sie hätten, ergriff er
+die Gelegenheit, um sie für sein eigenes wahnwitziges Vorhaben zu
+nutzen. Er antwortete:
+
+<<v6>>
+6 Es gibt unter den Juden Leute, die sich Hasidäer nennen; sie stehen
+unter der Führung des Makkabäers Judas. Sie hetzen zu Krieg und Aufruhr
+und lassen das Reich nicht zur Ruhe kommen.
+
+<<v7>>
+7 Dadurch wurde mir meine ehrenvolle Stellung geraubt, die mir aufgrund
+meiner Abstammung zukommt, nämlich das Amt des Hohenpriesters. Nun bin
+ich hierher gekommen,
+
+<<v8>>
+8 einmal weil ich der königlichen Sache aufrichtig ergeben bin, dann
+aber auch aus Sorge für meine Mitbürger. Denn der Unverstand der eben
+genannten Leute hat unser ganzes Volk in nicht geringes Elend gestürzt.
+
+<<v9>>
+9 Wenn du, mein König, dir einen genauen Überblick über die Lage
+verschafft hast, dann sorge für das Land und für unser bedrängtes Volk;
+du bist ja gegen jedermann freundlich und wohlgesinnt.
+
+<<v10>>
+10 Solange aber Judas noch lebt, kann es im Reich keinen Frieden geben.
+
+<<v11>>
+11 Kaum hatte er das vorgebracht, da hetzten die anderen Vertrauten des
+Königs, die den Bestrebungen des Judas feindlich gegenüberstanden,
+Demetrius noch mehr auf.
+
+<<v12>>
+12 Dieser berief sofort Nikanor, dem er das Kommando über die Elefanten
+gegeben hatte, und setzte ihn zum Befehlshaber über Judäa ein. Er
+schickte ihn weg
+
+<<v13>>
+13 mit dem schriftlichen Auftrag, Judas zu beseitigen, seine Anhänger zu
+zerstreuen, Alkimus aber als Hohenpriester über den allerhöchsten Tempel
+einzusetzen.
+
+<<v14>>
+14 Dem Nikanor schlossen sich in Scharen die Heiden an, die vor Judas
+aus Judäa geflohen waren; denn sie glaubten, das Unglück und
+Missgeschick der Juden werde ihnen Glück bringen.\\
+\\
+
+<<v15>>
+* Die Freundschaft zwischen Nikanor und Judas: 14,15-25
+
+15 Als die Juden vom Anmarsch Nikanors erfuhren und hörten, dass
+zusammen mit ihm die Heiden anrückten, streuten sie sich Erde auf das
+Haupt und flehten Gott an, der sein Volk für ewige Zeiten geschaffen hat
+und sich immer vor aller Welt sichtbar seines Erbteils annimmt. [fn:3]
+
+<<v16>>
+16 Auf Beschluss ihres Anführers brachen sie sofort auf und trafen bei
+dem Dorf Dessau auf die Feinde. [fn:4]
+
+<<v17>>
+17 Simeon, der Bruder des Judas, war zwar schon mit Nikanor
+zusammengestoßen und hatte sich langsam zurückziehen müssen, weil sein
+Gegner ihn völlig unvermutet überrascht hatte.
+
+<<v18>>
+18 Aber Nikanor kam zu Ohren, wie tapfer die Männer des Judas seien und
+wie mutig sie für ihr Vaterland kämpften; darum wich er der Entscheidung
+in offener Schlacht aus.
+
+<<v19>>
+19 Er schickte statt dessen Posidonius, Theodotus und Mattatias, um
+Friedensverhandlungen aufzunehmen.
+
+<<v20>>
+20 Nach langen Überlegungen legte der Anführer den Leuten seine Ansicht
+dar. Es zeigte sich, dass man einer Meinung war, und so billigte man die
+Verträge.
+
+<<v21>>
+21 Man verabredete einen Termin, um sich unter Ausschluss der
+Öffentlichkeit an einem bestimmten Ort zu treffen. Von jeder Seite fuhr
+ein Wagen vor und man stellte Stühle auf.
+
+<<v22>>
+22 Auf Anordnung des Judas hielten sich Bewaffnete in günstiger Stellung
+bereit, damit die Feinde nicht heimtückisch überraschend einen Anschlag
+verüben konnten. Doch die Unterredung verlief ohne Zwischenfälle.
+
+<<v23>>
+23 Nikanor hielt sich in Jerusalem auf, ohne irgendwelchen Anstoß zu
+erregen; er entließ die Anhänger, die ihm massenweise zugeströmt waren.
+
+<<v24>>
+24 Auch hatte er Judas ständig um sich und war ihm herzlich zugetan.
+
+<<v25>>
+25 Er redete ihm zu, er solle heiraten und eine Familie gründen. So
+heiratete Juda und es ging ihm gut und er freute sich seines Lebens.\\
+\\
+
+<<v26>>
+* Die Entzweiung zwischen Judas und Nikanor: 14,26-36
+
+26 Dem Alkimus blieb nicht verborgen, dass die beiden einander
+wohlgesinnt waren. Er verschaffte sich die abgeschlossenen Verträge,
+begab sich zu Demetrius und hinterbrachte ihm, Nikanor handle dem
+Staatswohl zuwider: Er habe Judas, den Feind seines Reiches, zum
+Nachfolger bestimmt. [fn:5]
+
+<<v27>>
+27 Der König war sehr aufgebracht und gereizt durch die Verleumdungen
+dieses Schurken. Er schrieb an Nikanor, dass er die Verträge für
+untragbar halte, und befahl ihm, den Makkabäer auf der Stelle gefesselt
+nach Antiochia zu schaffen.
+
+<<v28>>
+28 Nikanor geriet beim Empfang dieser Nachricht in große Bestürzung. Es
+war ihm sehr zuwider, die Vereinbarungen zu brechen; denn Judas hatte ja
+kein Unrecht getan.
+
+<<v29>>
+29 Da er sich aber dem König nicht widersetzen konnte, wartete er auf
+eine günstige Gelegenheit, um seinen Auftrag mit Hilfe einer List
+ausführen zu können.
+
+<<v30>>
+30 Doch der Makkabäer merkte, dass Nikanor ihm gegenüber immer
+abweisender wurde und dass seine gewohnte Freundlichkeit sich abkühlte.
+Er wusste, dass diese Schroffheit nichts Gutes bedeuten könne. Darum
+rief er eine Anzahl von seinen Leuten zusammen und versteckte sich mit
+ihnen vor Nikanor.
+
+<<v31>>
+31 Als Nikanor dahinter kam, dass ihn der Mann geschickt überlistet
+hatte, begab er sich zum allerhöchsten, heiligen Tempel, gerade als die
+Priester die vorgeschriebenen Opfer darbrachten, und befahl ihnen, Judas
+auszuliefern.
+
+<<v32>>
+32 Als diese unter Eid versicherten, sie wüssten nicht, wo sich der
+Gesuchte zur Zeit aufhalte,
+
+<<v33>>
+33 erhob er die rechte Hand gegen den Tempel und schwor: Wenn ihr mir
+Judas nicht gefesselt herausgebt, werde ich dieses Gotteshaus dem
+Erdboden gleichmachen, den Brandopferaltar niederreißen und an seiner
+Stelle dem Dionysos einen herrlichen Tempel errichten.
+
+<<v34>>
+34 Nach diesen Worten ging er weg. Die Priester erhoben ihre Hände zum
+Himmel und riefen zu dem, der immer unser Volk beschützt. Sie beteten:
+
+<<v35>>
+35 Herr, du bist auf nichts angewiesen; dennoch hat es dir gefallen,
+einen Tempel bauen zu lassen, in dem du unter uns wohnst.
+
+<<v36>>
+36 Nun, heiliger Herr, von dem alle Heiligung ausgeht, bewahre dieses
+Haus, das vor kurzem erst entsühnt wurde, unbefleckt in Ewigkeit.\\
+\\
+
+<<v37>>
+* Der Tod Rasis: 14,37-46
+
+37 Unter den Ältesten der Stadt Jerusalem gab es einen Mann namens Rasi.
+Er war seinen Mitbürgern freundlich zugetan, stand in hohem Ansehen und
+hieß wegen seiner Güte Vater der Juden. Dieser Mann wurde bei Nikanor
+angezeigt.
+
+<<v38>>
+38 Er hatte sich nämlich schon vor der Zeit der Religionsvermischung
+offen für das Judentum entschieden und sich dafür bis zum Äußersten mit
+Leib und Leben eingesetzt.
+
+<<v39>>
+39 Nikanor beschloss, seine Abneigung gegen die Juden sichtbar zu
+bekunden, und schickte über fünfhundert Soldaten aus, um ihn verhaften
+zu lassen.
+
+<<v40>>
+40 Er glaubte nämlich, durch seine Festnahme den Juden einen schweren
+Schlag zu versetzen.
+
+<<v41>>
+41 Schon waren die Truppen dabei, den Turm zu besetzen; sie versuchten,
+sich den Eingang durch das Hoftor mit Gewalt zu erzwingen, und riefen
+nach Feuer, um die Türen in Brand zu setzen. Rasi war von allen Seiten
+umzingelt. Da stürzte er sich in das Schwert; [fn:6]
+
+<<v42>>
+42 denn er wollte lieber in Ehren sterben als den Verruchten in die
+Hände fallen und eine schimpfliche Behandlung erfahren, die seiner edlen
+Herkunft unwürdig war.
+
+<<v43>>
+43 In der Hast aber hatte er sich nicht sofort tödlich getroffen; die
+Männer stürmten bereits durch die Türen herein. Da lief er mutig hinauf
+auf die Mauer und stürzte sich entschlossen auf die Menge hinab.
+
+<<v44>>
+44 Weil diese sofort zurückwich, entstand ein freier Raum und er fiel
+mitten auf den leeren Platz.
+
+<<v45>>
+45 Doch er lebte immer noch; in höchster Erregung erhob er sich, während
+das Blut in Strömen aus seinen schrecklichen Wunden schoss, durchbrach
+im Laufschritt die Menge und stellte sich auf einen steil abfallenden
+Felsen.
+
+<<v46>>
+46 Fast schon verblutet, riss er sich die Eingeweide aus dem Leib,
+packte sie mit beiden Händen und schleuderte sie auf die Leute hinunter;
+dabei rief er den Herrn über Leben und Tod an, er möge sie ihm
+wiedergeben. So starb er. [fn:7] [fn:8]\\
+\\
+
+* Footnotes
+
+[fn:1] (1-14) [[file:1.Makk_7.org::v1][1 Makk 7,1]]-[[file:1.Makk_7.org::v26][26]]
+
+[fn:2] Alkimus hatte die griechische Lebensweise angenommen.
+
+[fn:3] (15-25) [[file:1.Makk_7.org::v27][1 Makk 7,27]]-[[file:1.Makk_7.org::v29][29]]
+
+[fn:4] [[file:1.Makk_7.org::v31][1 Makk 7,31f]]
+
+[fn:5] (26-36) [[file:1.Makk_7.org::v30][1 Makk 7,30]]-[[file:1.Makk_7.org::v38][38]]
+
+[fn:6] [[file:1.Sam_31.org::v4][1 Sam 31,4]]
+
+[fn:7] [[file:2.Makk_7.org::v11][7,11]].[[file:2.Makk_7.org::v14][14]].[[file:2.Makk_7.org::v23][23]].[[file:2.Makk_7.org::v29][29]].[[file:2.Makk_7.org::v36][36]]
+
+[fn:8] Selbstmord kommt in der Bibel nur in ganz aussichtslosen
+Lagen vor (vgl. [[file:1.Sam_31.org::v4][1 Sam 31,4]]).

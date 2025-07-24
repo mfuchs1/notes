@@ -1,0 +1,71 @@
+:PROPERTIES:
+:ID:       4d09fe2c-b03a-4c64-9d2f-aadcffb2b4fc
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jeremia* -- [[file:Jer_1.html][1]] ...
+[[file:Jer_45.html][45]] [[file:Jer_46.html][46]] *47*
+[[file:Jer_48.html][48]] [[file:Jer_49.html][49]] ...
+[[file:Jer_52.html][52]]
+
+--------------
+
+* Jer 47
+  :PROPERTIES:
+  :CUSTOM_ID: jer-47
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Über die Philister: 47,1-7
+     :PROPERTIES:
+     :CUSTOM_ID: über-die-philister-471-7
+     :END:
+1 Das Wort des Herrn gegen die Philister, das an den Propheten Jeremia
+erging, bevor der Pharao Gaza eroberte.\\
+\\
+
+<<v2>>
+2 So spricht der Herr: Seht, Wasser wogen vom Norden heran /\\
+ und werden zum flutenden Wildbach. Sie überfluten das Land und was
+darin ist, /\\
+ die Städte und ihre Bewohner. Da schreien die Menschen, /\\
+ laut klagen alle Bewohner des Landes\\
+\\
+
+<<v3>>
+3 vor dem donnernden Hufschlag der Hengste, /\\
+ vor dem Dröhnen der Streitwagen, /\\
+ vor dem Rasseln der Räder. Väter schauen sich nicht um nach den Söhnen;
+/\\
+ denn ihre Hände sind schlaff\\
+\\
+
+<<v4>>
+4 wegen des Tages, der kommt, /\\
+ um alle Philister zu vernichten, um auszurotten den letzten Helfer /\\
+ für Tyrus und Sidon. Ja, der Herr vernichtet die Philister, /\\
+ den Rest von der Insel Kaftor.\\
+\\
+
+<<v5>>
+5 Kahl scheren wird sich Gaza, /\\
+ Aschkelon wird verstummen. Wie lange noch, du Rest der Anakiter, /\\
+ musst du dich wund ritzen? ^{[[#fn1][1]]}\\
+\\
+
+<<v6>>
+6 Weh, du Schwert des Herrn, /\\
+ wie lange noch willst du nicht rasten? Fahr zurück in die Scheide, /\\
+ halt ein und sei still!\\
+\\
+
+<<v7>>
+7 Wie sollte es rasten, /\\
+ da doch der Herr ihm Befehl gab? Gegen Aschkelon und die Meeresküste,
+/\\
+ dorthin hat er es bestellt.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 16,6; 48,37

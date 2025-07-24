@@ -1,0 +1,227 @@
+:PROPERTIES:
+:ID:       67f17d5f-e3c2-478e-ab38-ed9b6620df3c
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Matthäus* --
+[[file:Mt_1.html][1]] ... [[file:Mt_15.html][15]]
+[[file:Mt_16.html][16]] *17* [[file:Mt_18.html][18]]
+[[file:Mt_19.html][19]] ... [[file:Mt_28.html][28]]
+
+--------------
+
+* Mt 17
+  :PROPERTIES:
+  :CUSTOM_ID: mt-17
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Verklärung Jesu: 17,1-9
+     :PROPERTIES:
+     :CUSTOM_ID: die-verklärung-jesu-171-9
+     :END:
+1 Sechs Tage danach nahm Jesus Petrus, Jakobus und dessen Bruder
+Johannes beiseite und führte sie auf einen hohen Berg.
+^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 161\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Und er wurde vor ihren Augen verwandelt; sein Gesicht leuchtete wie
+die Sonne und seine Kleider wurden blendend weiß wie das Licht.
+^{[[#fn2][2]]}
+
+<<v3>>
+3 Da erschienen plötzlich vor ihren Augen Mose und Elija und redeten mit
+Jesus.
+
+<<v4>>
+4 Und Petrus sagte zu ihm: Herr, es ist gut, dass wir hier sind. Wenn du
+willst, werde ich hier drei Hütten bauen, eine für dich, eine für Mose
+und eine für Elija.
+
+<<v5>>
+5 Noch während er redete, warf eine leuchtende Wolke ihren Schatten auf
+sie und aus der Wolke rief eine Stimme: Das ist /mein geliebter Sohn, an
+dem ich Gefallen gefunden habe; auf ihn sollt ihr hören./ ^{[[#fn3][3]]}
+
+<<v6>>
+6 Als die Jünger das hörten, bekamen sie große Angst und warfen sich mit
+dem Gesicht zu Boden.
+
+<<v7>>
+7 Da trat Jesus zu ihnen, fasste sie an und sagte: Steht auf, habt keine
+Angst!
+
+<<v8>>
+8 Und als sie aufblickten, sahen sie nur noch Jesus.
+
+<<v9>>
+9 Während sie den Berg hinabstiegen, gebot ihnen Jesus: Erzählt niemand
+von dem, was ihr gesehen habt, bis der Menschensohn von den Toten
+auferstanden ist.\\
+\\
+
+<<v10>>
+**** Von der Wiederkunft des Elija: 17,10-13
+     :PROPERTIES:
+     :CUSTOM_ID: von-der-wiederkunft-des-elija-1710-13
+     :END:
+10 Da fragten ihn die Jünger: Warum sagen denn die Schriftgelehrten,
+zuerst müsse Elija kommen?
+^{[[#fn4][4]][[#fn5][5]][[#fn6][6]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 162\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v11>>
+11 Er gab zur Antwort: Ja, Elija kommt /und er wird/ alles
+/wiederherstellen./ ^{[[#fn7][7]]}
+
+<<v12>>
+12 Ich sage euch aber: Elija ist schon gekommen, doch sie haben ihn
+nicht erkannt, sondern mit ihm gemacht, was sie wollten. Ebenso wird
+auch der Menschensohn durch sie leiden müssen. ^{[[#fn8][8]]}
+
+<<v13>>
+13 Da verstanden die Jünger, dass er von Johannes dem Täufer sprach.
+^{[[#fn9][9]]}\\
+\\
+
+<<v14>>
+**** Die Heilung eines mondsüchtigen Jungen: 17,14-21
+     :PROPERTIES:
+     :CUSTOM_ID: die-heilung-eines-mondsüchtigen-jungen-1714-21
+     :END:
+14 Als sie zurückkamen, begegneten sie einer großen Zahl von Menschen.
+Da trat ein Mann auf ihn zu, fiel vor ihm auf die Knie
+^{[[#fn10][10]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 163\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v15>>
+15 und sagte: Herr, hab Erbarmen mit meinem Sohn! Er ist mondsüchtig und
+hat schwer zu leiden. Immer wieder fällt er ins Feuer oder ins Wasser.
+
+<<v16>>
+16 Ich habe ihn schon zu deinen Jüngern gebracht, aber sie konnten ihn
+nicht heilen.
+
+<<v17>>
+17 Da sagte Jesus: O du ungläubige und unbelehrbare Generation! Wie
+lange muss ich noch bei euch sein? Wie lange muss ich euch noch
+ertragen? Bringt ihn her zu mir!
+
+<<v18>>
+18 Dann drohte Jesus dem Dämon. Der Dämon verließ den Jungen, und der
+Junge war von diesem Augenblick an geheilt.
+
+<<v19>>
+19 Als die Jünger mit Jesus allein waren, wandten sie sich an ihn und
+fragten: Warum konnten denn wir den Dämon nicht austreiben?
+
+<<v20>>
+20 Er antwortete: Weil euer Glaube so klein ist. Amen, das sage ich
+euch: Wenn euer Glaube auch nur so groß ist wie ein Senfkorn, dann
+werdet ihr zu diesem Berg sagen: Rück von hier nach dort!, und er wird
+wegrücken. Nichts wird euch unmöglich sein. ^{[[#fn11][11]]}
+
+<<v21>>
+21 [] ^{[[#fn12][12]]}\\
+\\
+
+<<v22>>
+**** Die zweite Ankündigung von Leiden und Auferstehung: 17,22-23
+     :PROPERTIES:
+     :CUSTOM_ID: die-zweite-ankündigung-von-leiden-und-auferstehung-1722-23
+     :END:
+22 Als sie in Galiläa zusammen waren, sagte Jesus zu ihnen: Der
+Menschensohn wird den Menschen ausgeliefert werden,
+^{[[#fn13][13]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 164\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v23>>
+23 und sie werden ihn töten; aber am dritten Tag wird er auferstehen. Da
+wurden sie sehr traurig.\\
+\\
+
+<<v24>>
+**** Von der Tempelsteuer: 17,24-27
+     :PROPERTIES:
+     :CUSTOM_ID: von-der-tempelsteuer-1724-27
+     :END:
+24 Als Jesus und die Jünger nach Kafarnaum kamen, gingen die Männer, die
+die Tempelsteuer einzogen, zu Petrus und fragten: Zahlt euer Meister die
+Doppeldrachme nicht?
+^{[[#fn14][14]][[#fn15][15]][[#fn16][16]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 165\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v25>>
+25 Er antwortete: Doch! Als er dann ins Haus hineinging, kam ihm Jesus
+mit der Frage zuvor: Was meinst du, Simon, von wem erheben die Könige
+dieser Welt Zölle und Steuern? Von ihren eigenen Söhnen oder von den
+anderen Leuten?
+
+<<v26>>
+26 Als Petrus antwortete: Von den anderen!, sagte Jesus zu ihm: Also
+sind die Söhne frei.
+
+<<v27>>
+27 Damit wir aber bei niemand Anstoß erregen, geh an den See und wirf
+die Angel aus; den ersten Fisch, den du heraufholst, nimm, öffne ihm das
+Maul und du wirst ein Vierdrachmenstück finden. Das gib den Männern als
+Steuer für mich und für dich. ^{[[#fn17][17]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-9) Mk 9,2-10; Lk 9,28-36 ⇨Esyn: Synopse Nr. 161
+
+^{[[#fnm2][2]]} ℘ 2 Petr 1,16-18
+
+^{[[#fnm3][3]]} ℘ Ps 2,7; Jes 42,1; Dtn 18,15; Mt 3,17
+
+^{[[#fnm4][4]]} ℘ (10-13) Mk 9,11-13
+
+^{[[#fnm5][5]]} 10-13: Jüdische Kreise vertraten zur Zeit Jesu die
+Meinung, der Prophet Elija werde am Ende der Tage wiederkehren - er galt
+als zu Gott entrückt, nicht gestorben (2 Kön 2,1-18) - und das Volk
+Israel auf das kommende Endgericht vorbereiten (vgl. Mal 3,23f; Sir
+48,10).
+
+^{[[#fnm6][6]]} ℘ ⇨Esyn: Synopse Nr. 162
+
+^{[[#fnm7][7]]} ℘ Mal 3,23 G
+
+^{[[#fnm8][8]]} ℘ 11,14
+
+^{[[#fnm9][9]]} ℘ Lk 1,17
+
+^{[[#fnm10][10]]} ℘ (14-21) Mk 9,14-29; Lk 9,37-42 ⇨Esyn: Synopse Nr.
+163
+
+^{[[#fnm11][11]]} ℘ 21,21; Mk 11,23; Lk 17,6
+
+^{[[#fnm12][12]]} Spätere Textzeugen fügen hier entsprechend Mk 9,29
+ein: Diese Art (von Dämonen) aber kann nur durch Gebet und Fasten
+ausgetrieben werden.
+
+^{[[#fnm13][13]]} ℘ 16,21; 20,18f; (22-23) Mk 9,30-32; Lk 9,43b-45
+⇨Esyn: Synopse Nr. 164
+
+^{[[#fnm14][14]]} ℘ Ex 30,13
+
+^{[[#fnm15][15]]} Der Ex 30,13-15 geforderte Halbschekel galt zur Zeit
+Jesu so viel wie zwei attische Drachmen; diese Steuer wurde daher auch
+«die Doppeldrachme» genannt. Eine Drachme entsprach dem Tageslohn eines
+Arbeiters.
+
+^{[[#fnm16][16]]} ℘ ⇨Esyn: Synopse Nr. 165
+
+^{[[#fnm17][17]]} ein Vierdrachmenstück, wörtlich: einen Statér.

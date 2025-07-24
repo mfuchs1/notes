@@ -1,0 +1,42 @@
+#+TITLE: Ps 131 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 14:55]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 131.html
+
+* Ps 131
+
+<<verses>>
+
+<<v1>>
+* Der Frieden in Gott
+
+1 [Ein Wallfahrtslied.] Herr, mein Herz ist nicht stolz, /\\
+ nicht hochmütig blicken meine Augen. Ich gehe nicht um mit Dingen, /\\
+ die mir zu wunderbar und zu hoch sind. [fn:1]\\
+\\
+
+<<v2>>
+2 Ich ließ meine Seele ruhig werden und still; /\\
+ wie ein kleines Kind bei der Mutter ist meine Seele still in mir. [fn:2]\\
+\\
+
+<<v3>>
+3 Israel, harre auf den Herrn /\\
+ von nun an bis in Ewigkeit! [fn:3]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Sir_3.org::v21][Sir 3,21]]; [[file:Ps_23.org::v4][23,4]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_5.org::v5][1 Petr 5,5]]
+
+[fn:2] [[file:Ps_62.org::v2][62,2]]
+
+[fn:3] [[file:Ps_130.org::v7][130,7]]

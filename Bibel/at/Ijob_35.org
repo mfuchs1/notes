@@ -1,0 +1,108 @@
+#+TITLE: Ijob 35 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 23:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 35.html
+
+<<verses>>
+
+<<v1>>
+* Die dritte Rede Elihus: 35,1-16
+
+* Gottes Überlegenheit: 35,1-8
+
+1 Dann ergriff Elihu das Wort und sprach:\\
+\\
+
+<<v2>>
+2 Hältst du das für ein Rechtsverfahren? /\\
+ Du behauptest bloß: Gerecht bin ich vor Gott.\\
+\\
+
+<<v3>>
+3 Du sagst: Was nützt es mir, /\\
+ was habe ich davon, dass ich nicht sündige? [fn:1] [fn:2]\\
+\\
+
+<<v4>>
+4 Ich will mit Worten dir erwidern /\\
+ und deinen Freunden auch mit dir.\\
+\\
+
+<<v5>>
+5 Schau den Himmel an und sieh, /\\
+ blick zu den Wolken auf hoch über dir!\\
+\\
+
+<<v6>>
+6 Wenn du gesündigt hast, was tust du ihm, /\\
+ sind zahlreich deine Frevel, was schadest du ihm?\\
+\\
+
+<<v7>>
+7 Tust du recht, was gibst du ihm /\\
+ oder was empfängt er aus deiner Hand? [fn:3]\\
+\\
+
+<<v8>>
+8 Menschen wie dich trifft dein Frevel, /\\
+ dein Gerechtsein nur die Menschenkinder.\\
+\\
+
+<<v9>>
+* Gottes Langmut: 35,9-16
+
+9 Sie schreien über der Bedrücker Menge, /\\
+ rufen um Hilfe unter dem Arm der Großen.\\
+\\
+
+<<v10>>
+10 Doch keiner fragt: Wo ist Gott, mein Schöpfer, /\\
+ der Loblieder schenkt bei Nacht,\\
+\\
+
+<<v11>>
+11 der uns mehr lehrt als die Tiere der Erde /\\
+ und uns weiser macht als die Vögel des Himmels?\\
+\\
+
+<<v12>>
+12 Dort schreien sie und doch antwortet er nicht /\\
+ wegen des Übermuts der Bösen.\\
+\\
+
+<<v13>>
+13 Wahrhaftig umsonst, Gott hört es nicht /\\
+ und der Allmächtige sieht es nicht an. [fn:4]\\
+\\
+
+<<v14>>
+14 Gar wenn du sagst, du sähest ihn nicht - /\\
+ das Gericht steht bei ihm, du aber harre auf ihn!\\
+\\
+
+<<v15>>
+15 Jetzt aber, da sein Zorn nicht straft /\\
+ und er nicht groß des Frevels achtet,\\
+\\
+
+<<v16>>
+16 reißt Ijob sinnlos auf den Mund, /\\
+ macht große Worte im Unverstand.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ijob_7.org::v20][7,20]]
+
+[fn:2] mir: Text korr.; H: dir.
+
+[fn:3] [[file:Ijob_22.org::v3][22,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_17.org::v10][Lk 17,10]]
+
+[fn:4] [[file:Ijob_22.org::v13][22,13]]

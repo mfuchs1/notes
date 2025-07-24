@@ -1,0 +1,88 @@
+#+TITLE: Ps 112 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-17 Sa 23:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 112.html
+
+* Ps 112
+
+<<verses>>
+
+<<v1>>
+* Der Segen der Gottesfurcht
+
+1 Halleluja! Wohl dem Mann, der den Herrn fürchtet und ehrt /\\
+ und sich herzlich freut an seinen Geboten. [fn:1]\\
+\\
+
+<<v2>>
+2 Seine Nachkommen werden mächtig im Land, /\\
+ das Geschlecht der Redlichen wird gesegnet. [fn:2]\\
+\\
+
+<<v3>>
+3 Wohlstand und Reichtum füllen sein Haus, /\\
+ sein Heil hat Bestand für immer. [fn:3]\\
+\\
+
+<<v4>>
+4 Den Redlichen erstrahlt im Finstern ein Licht: /\\
+ der Gnädige, Barmherzige und Gerechte. [fn:4]\\
+\\
+
+<<v5>>
+5 Wohl dem Mann, der gütig und zum Helfen bereit ist, /\\
+ der das Seine ordnet, wie es recht ist. [fn:5]\\
+\\
+
+<<v6>>
+6 Niemals gerät er ins Wanken; /\\
+ ewig denkt man an den Gerechten. [fn:6]\\
+\\
+
+<<v7>>
+7 Er fürchtet sich nicht vor Verleumdung; /\\
+ sein Herz ist fest, er vertraut auf den Herrn.\\
+\\
+
+<<v8>>
+8 Sein Herz ist getrost, er fürchtet sich nie; /\\
+ denn bald wird er herabschauen auf seine Bedränger. [fn:7]\\
+\\
+
+<<v9>>
+9 Reichlich gibt er den Armen, /\\
+ sein Heil hat Bestand für immer; /\\
+ er ist mächtig und hoch geehrt. [fn:8]\\
+\\
+
+<<v10>>
+10 Voll Verdruss sieht es der Frevler, /\\
+ er knirscht mit den Zähnen und geht zugrunde. /\\
+ Zunichte werden die Wünsche der Frevler.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_1.org::v1][1,1f]]; [[file:Ps_128.org::v1][128,1]]
+
+[fn:2] [[file:Spr_20.org::v7][Spr 20,7]]
+
+[fn:3] [[file:Ps_128.org::v2][128,2]]
+
+[fn:4] [[file:Ps_97.org::v11][97,11]]; [[file:Ps_116.org::v5][116,5]]
+
+[fn:5] [[file:Ijob_29.org::v12][Ijob 29,12f]]
+
+[fn:6] [[file:Spr_10.org::v7][Spr 10,7]]
+
+[fn:7] [[file:Ps_54.org::v9][54,9]]
+
+[fn:8] [[file:Spr_22.org::v9][Spr 22,9]]; [[file:~/RoamNotes/notes/Bibel/nt/2.Kor_9.org::v9][2 Kor 9,9]]

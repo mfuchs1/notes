@@ -1,0 +1,254 @@
+:PROPERTIES:
+:ID:       1eb781bc-2747-4dea-8825-7a621383e0a6
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Matthäus* --
+[[file:Mt_1.html][1]] ... [[file:Mt_12.html][12]]
+[[file:Mt_13.html][13]] *14* [[file:Mt_15.html][15]]
+[[file:Mt_16.html][16]] ... [[file:Mt_28.html][28]]
+
+--------------
+
+* Mt 14
+  :PROPERTIES:
+  :CUSTOM_ID: mt-14
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das Urteil des Herodes über Jesus: 14,1-2
+     :PROPERTIES:
+     :CUSTOM_ID: das-urteil-des-herodes-über-jesus-141-2
+     :END:
+1 Zu dieser Zeit hörte der Tetrarch Herodes, was man von Jesus erzählte.
+^{[[#fn1][1]][[#fn2][2]][[#fn3][3]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 143\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Er sagte zu seinem Gefolge: Das ist Johannes der Täufer. Er ist von
+den Toten auferstanden; deshalb wirken solche Kräfte in ihm.\\
+\\
+
+<<v3>>
+**** Die Enthauptung des Täufers: 14,3-12
+     :PROPERTIES:
+     :CUSTOM_ID: die-enthauptung-des-täufers-143-12
+     :END:
+3 Herodes hatte nämlich Johannes festnehmen und in Ketten ins Gefängnis
+werfen lassen. Schuld daran war Herodias, die Frau seines Bruders
+Philippus. ^{[[#fn4][4]][[#fn5][5]][[#fn6][6]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 144\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v4>>
+4 Denn Johannes hatte zu Herodes gesagt: Du hattest nicht das Recht, sie
+zur Frau zu nehmen. ^{[[#fn7][7]][[#fn8][8]]}
+
+<<v5>>
+5 Der König wollte ihn deswegen töten lassen, fürchtete sich aber vor
+dem Volk; denn man hielt Johannes für einen Propheten. ^{[[#fn9][9]]}
+
+<<v6>>
+6 Als aber der Geburtstag des Herodes gefeiert wurde, tanzte die Tochter
+der Herodias vor den Gästen. Und sie gefiel Herodes so sehr,
+
+<<v7>>
+7 dass er schwor, ihr alles zu geben, was sie sich wünschte.
+
+<<v8>>
+8 Da sagte sie auf Drängen ihrer Mutter: Lass mir auf einer Schale den
+Kopf des Täufers Johannes herbringen.
+
+<<v9>>
+9 Der König wurde traurig; aber weil er einen Schwur geleistet hatte
+noch dazu vor allen Gästen -, befahl er, ihr den Kopf zu bringen.
+
+<<v10>>
+10 Und er ließ Johannes im Gefängnis enthaupten.
+
+<<v11>>
+11 Man brachte den Kopf auf einer Schale und gab ihn dem Mädchen und sie
+brachte ihn ihrer Mutter.
+
+<<v12>>
+12 Die Jünger des Johannes aber holten den Leichnam und begruben ihn.
+Dann gingen sie zu Jesus und berichteten ihm alles.\\
+\\
+
+<<v13>>
+**** Die Speisung der Fünftausend: 14,13-21
+     :PROPERTIES:
+     :CUSTOM_ID: die-speisung-der-fünftausend-1413-21
+     :END:
+13 Als Jesus all das hörte, fuhr er mit dem Boot in eine einsame Gegend,
+um allein zu sein. Aber die Leute in den Städten hörten davon und gingen
+ihm zu Fuß nach. ^{[[#fn10][10]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 146\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v14>>
+14 Als er ausstieg und die vielen Menschen sah, hatte er Mitleid mit
+ihnen und heilte die Kranken, die bei ihnen waren. ^{[[#fn11][11]]}
+
+<<v15>>
+15 Als es Abend wurde, kamen die Jünger zu ihm und sagten: Der Ort ist
+abgelegen und es ist schon spät geworden. Schick doch die Menschen weg,
+damit sie in die Dörfer gehen und sich etwas zu essen kaufen können.
+
+<<v16>>
+16 Jesus antwortete: Sie brauchen nicht wegzugehen. Gebt ihr ihnen zu
+essen!
+
+<<v17>>
+17 Sie sagten zu ihm: Wir haben nur fünf Brote und zwei Fische bei uns.
+
+<<v18>>
+18 Darauf antwortete er: Bringt sie her!
+
+<<v19>>
+19 Dann ordnete er an, die Leute sollten sich ins Gras setzen. Und er
+nahm die fünf Brote und die zwei Fische, blickte zum Himmel auf, sprach
+den Lobpreis, brach die Brote und gab sie den Jüngern; die Jünger aber
+gaben sie den Leuten, ^{[[#fn12][12]]}
+
+<<v20>>
+20 und alle aßen und wurden satt. Als die Jünger die übrig gebliebenen
+Brotstücke einsammelten, wurden zwölf Körbe voll.
+
+<<v21>>
+21 Es waren etwa fünftausend Männer, die an dem Mahl teilnahmen, dazu
+noch Frauen und Kinder.\\
+\\
+
+<<v22>>
+**** Der Gang Jesu auf dem Wasser: 14,22-33
+     :PROPERTIES:
+     :CUSTOM_ID: der-gang-jesu-auf-dem-wasser-1422-33
+     :END:
+22 Gleich darauf forderte er die Jünger auf, ins Boot zu steigen und an
+das andere Ufer vorauszufahren. Inzwischen wollte er die Leute nach
+Hause schicken. ^{[[#fn13][13]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 147\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v23>>
+23 Nachdem er sie weggeschickt hatte, stieg er auf einen Berg, um in der
+Einsamkeit zu beten. Spät am Abend war er immer noch allein auf dem
+Berg. ^{[[#fn14][14]]}
+
+<<v24>>
+24 Das Boot aber war schon viele Stadien vom Land entfernt und wurde von
+den Wellen hin und her geworfen; denn sie hatten Gegenwind.
+
+<<v25>>
+25 In der vierten Nachtwache kam Jesus zu ihnen; er ging auf dem See.
+^{[[#fn15][15]]}
+
+<<v26>>
+26 Als ihn die Jünger über den See kommen sahen, erschraken sie, weil
+sie meinten, es sei ein Gespenst, und sie schrien vor Angst.
+^{[[#fn16][16]]}
+
+<<v27>>
+27 Doch Jesus begann mit ihnen zu reden und sagte: Habt Vertrauen, ich
+bin es; fürchtet euch nicht!
+
+<<v28>>
+28 Darauf erwiderte ihm Petrus: Herr, wenn du es bist, so befiehl, dass
+ich auf dem Wasser zu dir komme.
+
+<<v29>>
+29 Jesus sagte: Komm! Da stieg Petrus aus dem Boot und ging über das
+Wasser auf Jesus zu.
+
+<<v30>>
+30 Als er aber sah, wie heftig der Wind war, bekam er Angst und begann
+unterzugehen. Er schrie: Herr, rette mich!
+
+<<v31>>
+31 Jesus streckte sofort die Hand aus, ergriff ihn und sagte zu ihm: Du
+Kleingläubiger, warum hast du gezweifelt? ^{[[#fn17][17]]}
+
+<<v32>>
+32 Und als sie ins Boot gestiegen waren, legte sich der Wind.
+
+<<v33>>
+33 Die Jünger im Boot aber fielen vor Jesus nieder und sagten:
+Wahrhaftig, du bist Gottes Sohn. ^{[[#fn18][18]]}\\
+\\
+
+<<v34>>
+**** Krankenheilungen in Gennesaret: 14,34-36
+     :PROPERTIES:
+     :CUSTOM_ID: krankenheilungen-in-gennesaret-1434-36
+     :END:
+34 Sie fuhren auf das Ufer zu und kamen nach Gennesaret.
+^{[[#fn19][19]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 148\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v35>>
+35 Als die Leute dort ihn erkannten, schickten sie Boten in die ganze
+Umgebung. Und man brachte alle Kranken zu ihm
+
+<<v36>>
+36 und bat ihn, er möge sie wenigstens den Saum seines Gewandes berühren
+lassen. Und alle, die ihn berührten, wurden geheilt. ^{[[#fn20][20]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-2) Mk 6,14-16; Lk 9,7-9
+
+^{[[#fnm2][2]]} Tetrarch: ursprünglich Regent über den vierten Teil
+eines Landes, später Bezeichnung eines Kleinfürsten.
+
+^{[[#fnm3][3]]} ℘ ⇨Esyn: Synopse Nr. 143
+
+^{[[#fnm4][4]]} ℘ (3-12) Mk 6,17-29; Lk 3,19f
+
+^{[[#fnm5][5]]} «Philippus» fehlt in einigen alten Textzeugen.
+
+^{[[#fnm6][6]]} ℘ ⇨Esyn: Synopse Nr. 144
+
+^{[[#fnm7][7]]} ℘ Lev 18,16; 20,21
+
+^{[[#fnm8][8]]} Da Herodes Antipas seinem Bruder Philippus die Frau
+weggenommen hat, hält Johannes der Täufer die frühere Ehe für nicht
+geschieden und sieht die Verbindung der Herodias mit Herodes als
+unerlaubt an; sie fällt unter die Bestimmung von Lev 18,16; 20,21,
+wonach der Verkehr mit der Frau eines Bruders oder Halbbruders verboten
+war.
+
+^{[[#fnm9][9]]} ℘ 21,26
+
+^{[[#fnm10][10]]} ℘ (13-21) 15,32-39; Mk 8,1-10; 6,31-44; Lk 9,10-17;
+Joh 6,1-13 ⇨Esyn: Synopse Nr. 146
+
+^{[[#fnm11][11]]} ℘ 9,36
+
+^{[[#fnm12][12]]} ℘ (19f) 2 Kön 4,43f
+
+^{[[#fnm13][13]]} ℘ (22-33) Mk 6,45-52; Joh 6,15-21 ⇨Esyn: Synopse Nr.
+147
+
+^{[[#fnm14][14]]} ℘ Lk 6,12
+
+^{[[#fnm15][15]]} Man teilte die Nacht in vier Abschnitte
+(«Nachtwachen») zu je drei Stunden ein.
+
+^{[[#fnm16][16]]} ℘ Lk 24,37
+
+^{[[#fnm17][17]]} ℘ 8,26
+
+^{[[#fnm18][18]]} ℘ 16,16; 27,54; Mk 15,39; Joh 1,49; 11,27
+
+^{[[#fnm19][19]]} ℘ (34-36) Mk 6,53-56 ⇨Esyn: Synopse Nr. 148
+
+^{[[#fnm20][20]]} ℘ 9,21; Mk 5,28; Lk 6,19; 8,44

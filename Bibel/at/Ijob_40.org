@@ -1,0 +1,194 @@
+#+TITLE: Ijob 40 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-03 So 00:10]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 40.html
+
+* Ijob 40
+
+<<verses>>
+
+<<v1>>
+1 Da antwortete der Herr dem Ijob und sprach:\\
+\\
+
+<<v2>>
+2 Mit dem Allmächtigen will der Tadler rechten? /\\
+ Der Gott anklagt, antworte drauf! [fn:1]\\
+\\
+
+<<v3>>
+* Ijobs Antwort: 40,3-5
+
+3 Da antwortete Ijob dem Herrn und sprach:\\
+\\
+
+<<v4>>
+4 Siehe, ich bin zu gering. Was kann ich dir erwidern? /\\
+ Ich lege meine Hand auf meinen Mund.\\
+\\
+
+<<v5>>
+5 Einmal habe ich geredet, ich tu es nicht wieder; /\\
+ ein zweites Mal, doch nun nicht mehr! [fn:2]\\
+\\
+
+<<v6>>
+* Die zweite Rede Gottes
+
+* Gottes Weisheit und Macht: 40,6 - 41,26
+
+6 Da antwortete der Herr dem Ijob aus dem Wettersturm und sprach:\\
+\\
+
+<<v7>>
+7 Auf, gürte deine Lenden wie ein Mann! /\\
+ Ich will dich fragen, du belehre mich!\\
+\\
+
+<<v8>>
+8 Willst du wirklich mein Recht zerbrechen, /\\
+ mich schuldig sprechen, damit du Recht behältst?\\
+\\
+
+<<v9>>
+9 Hast du denn einen Arm wie Gott, /\\
+ dröhnst du wie er mit Donnerstimme?\\
+\\
+
+<<v10>>
+10 So schmücke dich mit Hoheit und mit Majestät /\\
+ und kleide dich in Prunk und Pracht!\\
+\\
+
+<<v11>>
+11 Lass die Fluten deines Zornes sich ergießen, /\\
+ schau an jeden Stolzen, demütige ihn!\\
+\\
+
+<<v12>>
+12 Schau an jeden Stolzen, zwing ihn nieder! /\\
+ Zertritt die Frevler auf der Stelle!\\
+\\
+
+<<v13>>
+13 Verbirg sie insgesamt im Staub, /\\
+ schließ sie leibhaftig im Erdinnern ein! [fn:3]\\
+\\
+
+<<v14>>
+14 Dann werde auch ich dich preisen, /\\
+ weil deine Rechte den Sieg dir verschaffte.\\
+\\
+
+<<v15>>
+15 Sieh doch das Nilpferd, das ich wie dich erschuf. /\\
+ Gras frisst es wie ein Rind.\\
+\\
+
+<<v16>>
+16 Sieh doch die Kraft in seinen Lenden /\\
+ und die Stärke in den Muskeln seines Leibs!\\
+\\
+
+<<v17>>
+17 Wie eine Zeder lässt es hängen seinen Schwanz; /\\
+ straff sind verflochten seiner Schenkel Sehnen.\\
+\\
+
+<<v18>>
+18 Seine Knochen sind Röhren von Erz, /\\
+ wie Eisenstangen sein Gebein.\\
+\\
+
+<<v19>>
+19 Es ist der Anfang der Wege Gottes; /\\
+ der es gemacht hat, gab ihm sein Schwert. [fn:4]\\
+\\
+
+<<v20>>
+20 Doch die Berge tragen ihm Futter zu /\\
+ und alle Tiere des Feldes spielen dort.\\
+\\
+
+<<v21>>
+21 Es lagert unter Kreuzdornbüschen, /\\
+ in dem Versteck von Schilf und Sumpf.\\
+\\
+
+<<v22>>
+22 Kreuzdornbüsche decken es mit Schatten, /\\
+ die Pappeln am Fluss umgeben es.\\
+\\
+
+<<v23>>
+23 Schwillt auch der Fluss, es zittert nicht, /\\
+ bleibt ruhig, wenn auch die Flut ihm ins Maul dringt. [fn:5]\\
+\\
+
+<<v24>>
+24 Kann man an den Augen es fassen, /\\
+ mit Haken ihm die Nase durchbohren?\\
+\\
+
+<<v25>>
+25 Kannst du das Krokodil am Angelhaken ziehen, /\\
+ mit der Leine seine Zunge niederdrücken? [fn:6]\\
+\\
+
+<<v26>>
+26 Legst du ein Binsenseil ihm in die Nase, /\\
+ durchbohrst du mit einem Haken seine Backe? [fn:7]\\
+\\
+
+<<v27>>
+27 Fleht es dich groß um Gnade an? /\\
+ Richtet es zärtliche Worte an dich?\\
+\\
+
+<<v28>>
+28 Schließt es einen Pakt mit dir, /\\
+ sodass du es dauernd nehmen kannst zum Knecht?\\
+\\
+
+<<v29>>
+29 Kannst du mit ihm wie mit einem Vogel spielen, /\\
+ bindest du es für deine Mädchen an?\\
+\\
+
+<<v30>>
+30 Feilschen darum die Jagdgenossen, /\\
+ verteilen sie es stückweise unter die Händler?\\
+\\
+
+<<v31>>
+31 Kannst du seine Haut mit Spießen spicken, /\\
+ mit einer Fischharpune seinen Kopf?\\
+\\
+
+<<v32>>
+32 Leg nur einmal deine Hand daran! /\\
+ Denk an den Kampf! Du tust es nie mehr.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Jdt_8.org::v12][Jdt 8,12]]
+
+[fn:2] [[file:Ps_62.org::v12][Ps 62,12]]
+
+[fn:3] [[file:Num_16.org::v31][Num 16,31]]-[[file:Num_16.org::v34][34]]
+
+[fn:4] Sinn von H unklar.
+
+[fn:5] Schwillt: Text korr.; H: Bedrückt. Flut, wörtlich: Jordan.
+
+[fn:6] [[file:Jes_27.org::v1][Jes 27,1]]; [[file:Ez_32.org::v2][Ez 32,2]]
+
+[fn:7] [[file:Ez_29.org::v4][Ez 29,4]]

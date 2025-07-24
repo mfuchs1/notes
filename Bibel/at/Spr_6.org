@@ -1,0 +1,215 @@
+#+TITLE: Spr 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-21 Mi 21:42]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 6.html
+
+* Spr 6
+
+<<verses>>
+
+<<v1>>
+* Die Weisheit im täglichen Leben: 6,1-19
+
+1 Mein Sohn, hast du deinem Nächsten Bürgschaft geleistet, /\\
+ hast du einem Fremden den Handschlag gegeben, [fn:1] [fn:2]\\
+\\
+
+<<v2>>
+2 hast du dich durch deine Worte gebunden, /\\
+ bist du gefangen durch deine Worte,\\
+\\
+
+<<v3>>
+3 dann tu doch dies, mein Sohn: Reiß dich los; /\\
+ denn du bist in die Hände deines Nächsten geraten. /\\
+ Geh eilends hin und bestürm deinen Nächsten!\\
+\\
+
+<<v4>>
+4 Gönne deinen Augen keinen Schlaf, /\\
+ keinen Schlummer deinen Wimpern,\\
+\\
+
+<<v5>>
+5 entreiß dich seiner Hand wie eine Gazelle, /\\
+ wie ein Vogel der Hand des Jägers!\\
+\\
+
+<<v6>>
+6 Geh zur Ameise, du Fauler, /\\
+ betrachte ihr Verhalten und werde weise! [fn:3]\\
+\\
+
+<<v7>>
+7 Sie hat keinen Meister, /\\
+ keinen Aufseher und Gebieter,\\
+\\
+
+<<v8>>
+8 und doch sorgt sie im Sommer für Futter, /\\
+ sammelt sich zur Erntezeit Vorrat.\\
+\\
+
+<<v9>>
+9 Wie lang, du Fauler, willst du noch daliegen, /\\
+ wann willst du aufstehen von deinem Schlaf?\\
+\\
+
+<<v10>>
+10 Noch ein wenig schlafen, /\\
+ noch ein wenig schlummern, /\\
+ noch ein wenig die Arme verschränken, um auszuruhen. [fn:4]\\
+\\
+
+<<v11>>
+11 Da kommt schon die Armut wie ein Strolch über dich, /\\
+ die Not wie ein zudringlicher Bettler.\\
+\\
+
+<<v12>>
+12 Ein Nichtsnutz, ja ein Gauner, /\\
+ wer daherkommt mit Lügen im Mund,\\
+\\
+
+<<v13>>
+13 wer mit den Augen zwinkert, mit den Füßen deutet, /\\
+ Zeichen gibt mit den Fingern. [fn:5]\\
+\\
+
+<<v14>>
+14 Tücke im Herzen, stets voll böser Ränke, /\\
+ zettelt er jederzeit Händel an.\\
+\\
+
+<<v15>>
+15 Darum wird plötzlich das Verderben über ihn kommen, /\\
+ im Nu, ohne Rettung, wird er zerschmettert.\\
+\\
+
+<<v16>>
+16 Sechs Dinge sind dem Herrn verhasst, /\\
+ sieben sind ihm ein Gräuel: [fn:6]\\
+\\
+
+<<v17>>
+17 Stolze Augen, eine falsche Zunge, /\\
+ Hände, die unschuldiges Blut vergießen,\\
+\\
+
+<<v18>>
+18 ein Herz, das finstere Pläne hegt, /\\
+ Füße, die schnell dem Bösen nachlaufen,\\
+\\
+
+<<v19>>
+19 ein falscher Zeuge, der Lügen zuflüstert, /\\
+ und wer Streit entfacht unter Brüdern.\\
+\\
+
+<<v20>>
+* Die eheliche Treue: 6,20 - 7,27
+
+20 Achte, mein Sohn, auf das Gebot deines Vaters, /\\
+ missachte nicht die Lehre deiner Mutter!\\
+\\
+
+<<v21>>
+21 Binde sie dir für immer aufs Herz /\\
+ und winde sie dir um den Hals!\\
+\\
+
+<<v22>>
+22 Wenn du gehst, geleitet sie dich, /\\
+ wenn du ruhst, behütet sie dich, /\\
+ beim Erwachen redet sie mit dir.\\
+\\
+
+<<v23>>
+23 Denn eine Leuchte ist das Gebot /\\
+ und die Lehre ein Licht, /\\
+ ein Weg zum Leben sind Mahnung und Zucht.\\
+\\
+
+<<v24>>
+24 Sie bewahren dich vor der Frau des Nächsten, /\\
+ vor der glatten Zunge der Fremden.\\
+\\
+
+<<v25>>
+25 Begehre nicht in deinem Herzen ihre Schönheit, /\\
+ lass dich nicht fangen durch ihre Wimpern!\\
+\\
+
+<<v26>>
+26 Einer Dirne zahlt man bis zu einem Laib Brot, /\\
+ die Frau eines andern jagt dir das kostbare Leben ab.\\
+\\
+
+<<v27>>
+27 Trägt man denn Feuer in seinem Gewand, /\\
+ ohne dass die Kleider in Brand geraten?\\
+\\
+
+<<v28>>
+28 Kann man über glühende Kohlen schreiten, /\\
+ ohne sich die Füße zu verbrennen?\\
+\\
+
+<<v29>>
+29 So ist es mit dem, der zur Frau seines Nächsten geht. /\\
+ Keiner bleibt ungestraft, der sie berührt.\\
+\\
+
+<<v30>>
+30 Verachtet man nicht den Dieb, /\\
+ auch wenn er nur stiehlt, /\\
+ um sein Verlangen zu stillen, weil er Hunger hat?\\
+\\
+
+<<v31>>
+31 Wird er ertappt, so muss er siebenfach zahlen, /\\
+ den ganzen Besitz seines Hauses geben.\\
+\\
+
+<<v32>>
+32 Wer Ehebruch treibt, ist ohne Verstand, /\\
+ nur wer sich selbst vernichten will, /\\
+ lässt sich darauf ein.\\
+\\
+
+<<v33>>
+33 Schläge und Schande bringt es ihm ein, /\\
+ unaustilgbar ist seine Schmach.\\
+\\
+
+<<v34>>
+34 Denn Eifersucht bringt den Ehemann in Wut, /\\
+ er kennt keine Schonung am Tag der Rache.\\
+\\
+
+<<v35>>
+35 Kein Sühnegeld nimmt er an; /\\
+ magst du auch Geschenke häufen, er willigt nicht ein.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Spr_11.org::v15][11,15]]; [[file:Spr_17.org::v18][17,18]]; [[file:Spr_20.org::v16][20,16]]; [[file:Sir_29.org::v14][Sir 29,14-20]]
+
+[fn:2] 1-5: Eine Warnung für Unerfahrene. Der Bürge kann leicht betrogen werden.
+
+[fn:3] [[file:Spr_30.org::v25][30,25]]
+
+[fn:4] [[file:Spr_24.org::v33][24,33f]]
+
+[fn:5] [[file:Spr_10.org::v10][10,10]]
+
+[fn:6] 16-19: Ein so genannter Zahlenspruch (vgl. [[file:Spr_30.org::v15][30,15-33]]).

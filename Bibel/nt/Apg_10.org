@@ -1,0 +1,282 @@
+:PROPERTIES:
+:ID:       c8f3b2a8-223b-4ed0-84a6-a535f487c232
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Apostelgeschichte* --
+[[file:Apg_1.html][1]] ... [[file:Apg_8.html][8]] [[file:Apg_9.html][9]]
+*10* [[file:Apg_11.html][11]] [[file:Apg_12.html][12]] ...
+[[file:Apg_28.html][28]]
+
+--------------
+
+* Apg 10
+  :PROPERTIES:
+  :CUSTOM_ID: apg-10
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Vision des Hauptmanns Kornelius in Cäsarea: 10,1-8
+     :PROPERTIES:
+     :CUSTOM_ID: die-vision-des-hauptmanns-kornelius-in-cäsarea-101-8
+     :END:
+1 In Cäsarea lebte ein Mann namens Kornelius, Hauptmann in der
+sogenannten Italischen Kohorte; ^{[[#fn1][1]]}
+
+<<v2>>
+2 er lebte mit seinem ganzen Haus fromm und gottesfürchtig, gab dem Volk
+reichlich Almosen und betete beständig zu Gott.
+
+<<v3>>
+3 Er sah um die neunte Tagesstunde in einer Vision deutlich, wie ein
+Engel Gottes bei ihm eintrat und zu ihm sagte: Kornelius!
+
+<<v4>>
+4 Kornelius blickte ihn an und fragte erschrocken: Was ist, Herr? Er
+sagte zu ihm: Deine Gebete und Almosen sind zu Gott gelangt, und er hat
+sich an sie erinnert.
+
+<<v5>>
+5 Schick jetzt einige Männer nach Joppe und lass einen gewissen Simon
+herbeiholen, der den Beinamen Petrus hat.
+
+<<v6>>
+6 Er ist zu Gast bei einem Gerber namens Simon, der ein Haus am Meer
+hat. ^{[[#fn2][2]]}
+
+<<v7>>
+7 Als der Engel, der mit ihm sprach, weggegangen war, rief Kornelius
+zwei seiner Haussklaven und einen frommen Soldaten aus seinem Gefolge.
+
+<<v8>>
+8 Er erzählte ihnen alles und schickte sie nach Joppe.\\
+\\
+
+<<v9>>
+**** Die Vision des Petrus in Joppe: 10,9-23a
+     :PROPERTIES:
+     :CUSTOM_ID: die-vision-des-petrus-in-joppe-109-23a
+     :END:
+9 Am folgenden Tag, als jene unterwegs waren und sich der Stadt
+näherten, stieg Petrus auf das Dach, um zu beten; es war um die sechste
+Stunde. ^{[[#fn3][3]]}
+
+<<v10>>
+10 Da wurde er hungrig und wollte essen. Während man etwas zubereitete,
+kam eine Verzückung über ihn.
+
+<<v11>>
+11 Er sah den Himmel offen und eine Schale auf die Erde herabkommen, die
+aussah wie ein großes Leinentuch, das an den vier Ecken gehalten wurde.
+
+<<v12>>
+12 Darin lagen alle möglichen Vierfüßler, Kriechtiere der Erde und Vögel
+des Himmels.
+
+<<v13>>
+13 Und eine Stimme rief ihm zu: Steh auf, Petrus, schlachte und iss!
+
+<<v14>>
+14 Petrus aber antwortete: Niemals, Herr! Noch nie habe ich etwas
+Unheiliges und Unreines gegessen. ^{[[#fn4][4]]}
+
+<<v15>>
+15 Da richtete sich die Stimme ein zweites Mal an ihn: Was Gott für rein
+erklärt, nenne du nicht unrein! ^{[[#fn5][5]]}
+
+<<v16>>
+16 Das geschah dreimal, dann wurde die Schale plötzlich in den Himmel
+hinaufgezogen.
+
+<<v17>>
+17 Petrus war noch ratlos und überlegte, was die Vision, die er gehabt
+hatte, wohl bedeutete; inzwischen hatten sich die von Kornelius
+gesandten Männer zum Haus des Simon durchgefragt und standen am Tor.
+
+<<v18>>
+18 Sie riefen und fragten, ob Simon mit dem Beinamen Petrus hier zu Gast
+sei.
+
+<<v19>>
+19 Während Petrus noch über die Vision nachdachte, sagte der Geist zu
+ihm: Da sind zwei Männer und suchen dich. ^{[[#fn6][6]]}
+
+<<v20>>
+20 Steh auf, geh hinunter und zieh ohne Bedenken mit ihnen; denn ich
+habe sie geschickt.
+
+<<v21>>
+21 Petrus stieg zu den Männern hinab und sagte: Ich bin der, den ihr
+sucht. Aus welchem Grund seid ihr hier?
+
+<<v22>>
+22 Sie antworteten: Der Hauptmann Kornelius, ein gerechter und
+gottesfürchtiger Mann, der beim ganzen Volk der Juden in gutem Ruf
+steht, hat von einem heiligen Engel die Weisung erhalten, dich in sein
+Haus holen zu lassen und zu hören, was du ihm zu sagen hast.
+
+<<v23a>>
+23a Da ließ er sie eintreten und bewirtete sie.
+
+<<v23b>>
+**** Die Taufe des Kornelius: 10,23b-48
+     :PROPERTIES:
+     :CUSTOM_ID: die-taufe-des-kornelius-1023b-48
+     :END:
+23b Tags darauf machte sich Petrus mit ihnen auf den Weg und einige
+Brüder aus Joppe begleiteten ihn.
+
+<<v24>>
+24 Am folgenden Tag kamen sie nach Cäsarea. Kornelius erwartete sie
+schon und hatte seine Verwandten und seine nächsten Freunde
+zusammengerufen.
+
+<<v25>>
+25 Als nun Petrus ankam, ging ihm Kornelius entgegen und warf sich
+ehrfürchtig vor ihm nieder.
+
+<<v26>>
+26 Petrus aber richtete ihn auf und sagte: Steh auf! Auch ich bin nur
+ein Mensch. ^{[[#fn7][7]]}
+
+<<v27>>
+27 Während er sich mit ihm unterhielt, ging er hinein und fand dort
+viele Menschen versammelt.
+
+<<v28>>
+28 Da sagte er zu ihnen: Ihr wisst, dass es einem Juden nicht erlaubt
+ist, mit einem Nichtjuden zu verkehren oder sein Haus zu betreten; mir
+aber hat Gott gezeigt, dass man keinen Menschen unheilig oder unrein
+nennen darf. ^{[[#fn8][8]]}
+
+<<v29>>
+29 Darum bin ich auch ohne Widerspruch gekommen, als nach mir geschickt
+wurde. Nun frage ich: Warum habt ihr mich holen lassen?
+
+<<v30>>
+30 Da sagte Kornelius: Vor vier Tagen um diese Zeit war ich zum Gebet
+der neunten Stunde in meinem Haus; da stand plötzlich ein Mann in einem
+leuchtenden Gewand vor mir
+
+<<v31>>
+31 und sagte: Kornelius, dein Gebet wurde erhört und deine Almosen
+wurden vor Gott in Erinnerung gebracht.
+
+<<v32>>
+32 Schick jemand nach Joppe und lass Simon, der den Beinamen Petrus hat,
+holen; er ist Gast im Haus des Gerbers Simon am Meer.
+
+<<v33>>
+33 Sofort habe ich nach dir geschickt und es ist gut, dass du gekommen
+bist. Jetzt sind wir alle hier vor Gott zugegen, um all das anzuhören,
+was dir vom Herrn aufgetragen worden ist.
+
+<<v34>>
+34 Da begann Petrus zu reden und sagte: Wahrhaftig, jetzt begreife ich,
+dass Gott nicht auf die Person sieht, ^{[[#fn9][9]]}
+
+<<v35>>
+35 sondern dass ihm in jedem Volk willkommen ist, wer ihn fürchtet und
+tut, was recht ist. ^{[[#fn10][10]]}
+
+<<v36>>
+36 Er hat das Wort den Israeliten gesandt, indem er den Frieden
+verkündete durch Jesus Christus; dieser ist der Herr aller.
+^{[[#fn11][11]]}
+
+<<v37>>
+37 Ihr wisst, was im ganzen Land der Juden geschehen ist, angefangen in
+Galiläa, nach der Taufe, die Johannes verkündet hat: ^{[[#fn12][12]]}
+
+<<v38>>
+38 wie Gott Jesus von Nazaret gesalbt hat mit dem Heiligen Geist und mit
+Kraft, wie dieser umherzog, Gutes tat und alle heilte, die in der Gewalt
+des Teufels waren; denn Gott war mit ihm. ^{[[#fn13][13]]}
+
+<<v39>>
+39 Und wir sind Zeugen für alles, was er im Land der Juden und in
+Jerusalem getan hat. Ihn haben sie /an den Pfahl gehängt/ und getötet.
+^{[[#fn14][14]]}
+
+<<v40>>
+40 Gott aber hat ihn am dritten Tag auferweckt und hat ihn erscheinen
+lassen, ^{[[#fn15][15]]}
+
+<<v41>>
+41 zwar nicht dem ganzen Volk, wohl aber den von Gott vorherbestimmten
+Zeugen: uns, die wir mit ihm nach seiner Auferstehung von den Toten
+gegessen und getrunken haben. ^{[[#fn16][16]]}
+
+<<v42>>
+42 Und er hat uns geboten, dem Volk zu verkündigen und zu bezeugen: Das
+ist der von Gott eingesetzte Richter der Lebenden und der Toten.
+^{[[#fn17][17]]}
+
+<<v43>>
+43 Von ihm bezeugen alle Propheten, dass jeder, der an ihn glaubt, durch
+seinen Namen die Vergebung der Sünden empfängt. ^{[[#fn18][18]]}
+
+<<v44>>
+44 Noch während Petrus dies sagte, kam der Heilige Geist auf alle herab,
+die das Wort hörten. ^{[[#fn19][19]]}
+
+<<v45>>
+45 Die gläubig gewordenen Juden, die mit Petrus gekommen waren, konnten
+es nicht fassen, dass auch auf die Heiden die Gabe des Heiligen Geistes
+ausgegossen wurde.
+
+<<v46>>
+46 Denn sie hörten sie in Zungen reden und Gott preisen. Petrus aber
+sagte: ^{[[#fn20][20]]}
+
+<<v47>>
+47 Kann jemand denen das Wasser zur Taufe verweigern, die ebenso wie wir
+den Heiligen Geist empfangen haben?
+
+<<v48>>
+48 Und er ordnete an, sie im Namen Jesu Christi zu taufen. Danach baten
+sie ihn, einige Tage zu bleiben.\\
+\\
+
+^{[[#fnm1][1]]} Cäsarea am Meer war der Sitz des römischen Statthalters
+und Standort einer römischen Garnison.
+
+^{[[#fnm2][2]]} ℘ 9,43
+
+^{[[#fnm3][3]]} ℘ 11,5-11
+
+^{[[#fnm4][4]]} ℘ Lev 11; Ez 4,14
+
+^{[[#fnm5][5]]} ℘ Mk 7,15.19; Gal 2,12
+
+^{[[#fnm6][6]]} ℘ 13,2; 15,28
+
+^{[[#fnm7][7]]} ℘ 14,15; Offb 19,10
+
+^{[[#fnm8][8]]} ℘ 11,3; Gal 2,12
+
+^{[[#fnm9][9]]} ℘ Dtn 10,17; Röm 2,11.14; 1 Petr 1,17
+
+^{[[#fnm10][10]]} ℘ Röm 2,14; Joh 9,31; 10,16
+
+^{[[#fnm11][11]]} ℘ Jes 52,7; 1 Kor 12,3; Phil 1,10f
+
+^{[[#fnm12][12]]} ℘ Lk 4,44
+
+^{[[#fnm13][13]]} ℘ Jes 61,1; Lk 3,22; 4,18f; Jes 7,14; Mt 1,23
+
+^{[[#fnm14][14]]} ℘ Dtn 21,22; Gal 3,13
+
+^{[[#fnm15][15]]} ℘ (40f) 1,3; Mt 20,19; 1 Kor 15,4-7
+
+^{[[#fnm16][16]]} ℘ Lk 24,41-43
+
+^{[[#fnm17][17]]} ℘ 17,31; Röm 14,9; 2 Tim 4,1; 1 Petr 4,5
+
+^{[[#fnm18][18]]} ℘ Jes 53,5f; Jer 31,34; Dan 9,24
+
+^{[[#fnm19][19]]} ℘ 2,4
+
+^{[[#fnm20][20]]} Zu «Zungen» vgl. die Anmerkung zu 2,4.

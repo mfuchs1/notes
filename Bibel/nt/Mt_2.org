@@ -1,0 +1,200 @@
+:PROPERTIES:
+:ID:       649d51fb-c008-46eb-9474-e51bdb9194fe
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Matthäus* --
+[[file:Mt_1.html][1]] *2* [[file:Mt_3.html][3]] [[file:Mt_4.html][4]]
+... [[file:Mt_28.html][28]]
+
+--------------
+
+* Mt 2
+  :PROPERTIES:
+  :CUSTOM_ID: mt-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Huldigung der Sterndeuter: 2,1-12
+     :PROPERTIES:
+     :CUSTOM_ID: die-huldigung-der-sterndeuter-21-12
+     :END:
+1 Als Jesus zur Zeit des Königs Herodes in Betlehem in Judäa geboren
+worden war, kamen Sterndeuter aus dem Osten nach Jerusalem
+^{[[#fn1][1]][[#fn2][2]][[#fn3][3]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 8\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 und fragten: Wo ist der neugeborene König der Juden? Wir haben seinen
+Stern aufgehen sehen und sind gekommen, um ihm zu huldigen.
+^{[[#fn4][4]][[#fn5][5]]}
+
+<<v3>>
+3 Als König Herodes das hörte, erschrak er und mit ihm ganz Jerusalem.
+
+<<v4>>
+4 Er ließ alle Hohenpriester und Schriftgelehrten des Volkes
+zusammenkommen und erkundigte sich bei ihnen, wo der Messias geboren
+werden solle. ^{[[#fn6][6]]}
+
+<<v5>>
+5 Sie antworteten ihm: In Betlehem in Judäa; denn so steht es bei dem
+Propheten:\\
+\\
+
+<<v6>>
+6 /Du, Betlehem/ im Gebiet von Juda, /\\
+ bist keineswegs /die unbedeutendste/ /\\
+ /unter den führenden Städten von Juda;/ /\\
+ /denn aus dir wird ein Fürst hervorgehen,/ /\\
+ /der Hirt meines Volkes Israel./ ^{[[#fn7][7]]}\\
+\\
+
+<<v7>>
+7 Danach rief Herodes die Sterndeuter heimlich zu sich und ließ sich von
+ihnen genau sagen, wann der Stern erschienen war.
+
+<<v8>>
+8 Dann schickte er sie nach Betlehem und sagte: Geht und forscht
+sorgfältig nach, wo das Kind ist; und wenn ihr es gefunden habt,
+berichtet mir, damit auch ich hingehe und ihm huldige.
+
+<<v9>>
+9 Nach diesen Worten des Königs machten sie sich auf den Weg. Und der
+Stern, den sie hatten aufgehen sehen, zog vor ihnen her bis zu dem Ort,
+wo das Kind war; dort blieb er stehen.
+
+<<v10>>
+10 Als sie den Stern sahen, wurden sie von sehr großer Freude erfüllt.
+
+<<v11>>
+11 Sie gingen in das Haus und sahen das Kind und Maria, seine Mutter; da
+fielen sie nieder und huldigten ihm. Dann holten sie ihre Schätze hervor
+und brachten ihm Gold, Weihrauch und Myrrhe als Gaben dar.
+
+<<v12>>
+12 Weil ihnen aber im Traum geboten wurde, nicht zu Herodes
+zurückzukehren, zogen sie auf einem anderen Weg heim in ihr Land.\\
+\\
+
+<<v13>>
+**** Die Flucht nach Ägypten: 2,13-15
+     :PROPERTIES:
+     :CUSTOM_ID: die-flucht-nach-ägypten-213-15
+     :END:
+13 Als die Sterndeuter wieder gegangen waren, erschien dem Josef im
+Traum ein Engel des Herrn und sagte: Steh auf, nimm das Kind und seine
+Mutter, und flieh nach Ägypten; dort bleibe, bis ich dir etwas anderes
+auftrage; denn Herodes wird das Kind suchen, um es zu töten.
+^{[[#fn8][8]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 10\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v14>>
+14 Da stand Josef in der Nacht auf und floh mit dem Kind und dessen
+Mutter nach Ägypten.
+
+<<v15>>
+15 Dort blieb er bis zum Tod des Herodes. Denn es sollte sich erfüllen,
+was der Herr durch den Propheten gesagt hat: /Aus Ägypten habe ich
+meinen Sohn gerufen./ ^{[[#fn9][9]]}\\
+\\
+
+<<v16>>
+**** Der Kindermord in Betlehem: 2,16-18
+     :PROPERTIES:
+     :CUSTOM_ID: der-kindermord-in-betlehem-216-18
+     :END:
+16 Als Herodes merkte, dass ihn die Sterndeuter getäuscht hatten, wurde
+er sehr zornig und er ließ in Betlehem und der ganzen Umgebung alle
+Knaben bis zum Alter von zwei Jahren töten, genau der Zeit entsprechend,
+die er von den Sterndeutern erfahren hatte.
+
+<<v17>>
+17 Damals erfüllte sich, was durch den Propheten Jeremia gesagt worden
+ist:\\
+\\
+
+<<v18>>
+18 /Ein Geschrei war in Rama zu hören,/ /\\
+ lautes /Weinen und Klagen:/ /\\
+ /Rahel weinte um ihre Kinder/ /\\
+ /und wollte sich nicht trösten lassen,/ /\\
+ /denn sie waren dahin./ ^{[[#fn10][10]][[#fn11][11]]}\\
+\\
+
+<<v19>>
+**** Die Rückkehr aus Ägypten: 2,19-23
+     :PROPERTIES:
+     :CUSTOM_ID: die-rückkehr-aus-ägypten-219-23
+     :END:
+19 Als Herodes gestorben war, erschien dem Josef in Ägypten ein Engel
+des Herrn im Traum
+
+<<v20>>
+20 und sagte: Steh auf, nimm das Kind und seine Mutter und zieh in das
+Land Israel; denn die Leute, die dem Kind nach dem Leben getrachtet
+haben, sind tot.
+
+<<v21>>
+21 Da stand er auf und zog mit dem Kind und dessen Mutter in das Land
+Israel.
+
+<<v22>>
+22 Als er aber hörte, dass in Judäa Archelaus an Stelle seines Vaters
+Herodes regierte, fürchtete er sich, dorthin zu gehen. Und weil er im
+Traum einen Befehl erhalten hatte, zog er in das Gebiet von Galiläa
+^{[[#fn12][12]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 11\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v23>>
+23 und ließ sich in einer Stadt namens Nazaret nieder. Denn es sollte
+sich erfüllen, was durch die Propheten gesagt worden ist: Er wird
+Nazoräer genannt werden. ^{[[#fn13][13]][[#fn14][14]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Lk 2,4-7
+
+^{[[#fnm2][2]]} Das mit «Sterndeuter» übersetzte griechische Wort
+(mágoi) bezeichnete zunächst die Mitglieder einer persischen
+Priesterkaste, die sich mit Sternkunde und Astrologie befassten, sodann
+allgemein babylonische und sonstige Astrologen. Sie wirkten oft als
+Berater von Königen, Fürsten und reichen Leuten.
+
+^{[[#fnm3][3]]} ℘ ⇨Esyn: Synopse Nr. 8
+
+^{[[#fnm4][4]]} ℘ Num 24,17
+
+^{[[#fnm5][5]]} Andere Übersetzungsmöglichkeit: Wir haben seinen Stern
+im Osten gesehen. Entsprechend in V. 9.
+
+^{[[#fnm6][6]]} ℘ Joh 7,42
+
+^{[[#fnm7][7]]} ℘ Mi 5,1.3; 2 Sam 5,2
+
+^{[[#fnm8][8]]} ℘ ⇨Esyn: Synopse Nr. 10
+
+^{[[#fnm9][9]]} ℘ Hos 11,1
+
+^{[[#fnm10][10]]} ℘ Jer 31,15
+
+^{[[#fnm11][11]]} Rahel, die Mutter der Stämme Benjamin und Efraim -
+nicht aber Juda -, wurde bei Rama, etwa 8 Kilometer nördlich von
+Jerusalem begraben (vgl. 1 Sam 10,2). Zur Zeit Jesu vermutete man dieses
+Grab am Weg von Jerusalem nach Betlehem (vgl. Gen 35,19; 48,7). Noch
+heute steht dort eine Gedenkstätte.
+
+^{[[#fnm12][12]]} ℘ ⇨Esyn: Synopse Nr. 11
+
+^{[[#fnm13][13]]} ℘ Lk 1,26; 2,39.51; Joh 1,46; Ri 13,5.7 G
+
+^{[[#fnm14][14]]} Das Prophetenwort steht in dieser Form nicht im Alten
+Testament; vielleicht liegt eine Anspielung auf Jes 11,1 vor, wo vom
+«Spross» (hebräisch: nezer) die Rede ist.

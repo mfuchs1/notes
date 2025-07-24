@@ -1,0 +1,83 @@
+#+TITLE: Ps 113 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-17 Sa 23:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 113.html
+
+* Ps 113
+
+<<verses>>
+
+<<v1>>
+* Ein Loblied auf Gottes Hoheit und Huld
+
+1 Halleluja! Lobet, ihr Knechte des Herrn, /\\
+ lobt den Namen des Herrn! [fn:1]\\
+\\
+
+<<v2>>
+2 Der Name des Herrn sei gepriesen /\\
+ von nun an bis in Ewigkeit.\\
+\\
+
+<<v3>>
+3 Vom Aufgang der Sonne bis zum Untergang /\\
+ sei der Name des Herrn gelobt.\\
+\\
+
+<<v4>>
+4 Der Herr ist erhaben über alle Völker, /\\
+ seine Herrlichkeit überragt die Himmel. [fn:2]\\
+\\
+
+<<v5>>
+5 Wer gleicht dem Herrn, unserm Gott, /\\
+ im Himmel und auf Erden, [fn:3] [fn:4]\\
+\\
+
+<<v6>>
+6 ihm, der in der Höhe thront, /\\
+ der hinabschaut in die Tiefe, [fn:5]\\
+\\
+
+<<v7>>
+7 der den Schwachen aus dem Staub emporhebt /\\
+ und den Armen erhöht, der im Schmutz liegt? [fn:6]\\
+\\
+
+<<v8>>
+8 Er gibt ihm einen Sitz bei den Edlen, /\\
+ bei den Edlen seines Volkes. [fn:7]\\
+\\
+
+<<v9>>
+9 Die Frau, die kinderlos war, lässt er im Hause wohnen; /\\
+ sie wird Mutter und freut sich an ihren Kindern. /\\
+ Halleluja! [fn:8]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_135.org::v1][135,1]]
+
+[fn:2] [[file:Ps_95.org::v3][95,3]]; [[file:Ps_148.org::v13][148,13]]
+
+[fn:3] [[file:Ps_35.org::v10][35,10]]
+
+[fn:4] Die beiden Verse sind aus sachlichen Gründen
+folgendermaßen umgestellt: 5a/6b und 5b/6a.
+
+[fn:5] (6-7) [[file:Jes_57.org::v15][Jes 57,15]]
+
+[fn:6] (7-8) [[file:1.Sam_2.org::v8][1 Sam 2,8]]
+
+[fn:7] ihm: Text korr. nach G, S, Vg; H: mir.
+
+[fn:8] [[file:1.Sam_2.org::v5][1 Sam 2,5]]; [[file:Jes_54.org::v1][Jes 54,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v57][Lk 1,57f]]

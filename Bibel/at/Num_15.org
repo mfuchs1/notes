@@ -1,0 +1,204 @@
+#+TITLE: Num 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-22 So 11:52]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 15.html
+
+
+<<verses>>
+
+<<v1>>
+* Opfer und Sühne: 15,1-41
+
+1 Der Herr sprach zu Mose: [fn:1]
+
+<<v2>>
+2 Rede zu den Israeliten und sag zu ihnen: Wenn ihr in das Land kommt,
+das ich euch zur Besiedlung geben will,
+
+<<v3>>
+3 und wenn ihr für den Herrn ein Feueropfer vorbereitet, ein Brandopfer
+oder ein Schlachtopfer zur Erfüllung eines Gelübdes oder als freiwillige
+Gabe oder anlässlich eurer Feste, um dem Herrn einen beruhigenden Duft
+von einem Rind oder Schaf darzubringen,
+
+<<v4>>
+4 dann soll jeder, der dem Herrn seine Opfergabe bringt, als Speiseopfer
+ein Zehntel Feinmehl darbringen, das mit einem viertel Hin Öl vermengt
+ist.
+
+<<v5>>
+5 Und beim Brand- oder Schlachtopfer sollst du auf je ein Lamm ein
+viertel Hin Wein als Trankopfer herrichten.
+
+<<v6>>
+6 Auf einen Widder aber sollst du als Speiseopfer zwei Zehntel Feinmehl
+herrichten, das mit einem drittel Hin Öl vermengt ist,
+
+<<v7>>
+7 und als Trankopfer sollst du ein drittel Hin Wein darbringen, als
+beruhigenden Duft für den Herrn.
+
+<<v8>>
+8 Richtest du ein Kalb als Brand- oder Schlachtopfer zur Erfüllung eines
+Gelübdes oder als Heilsopfer zur Ehre des Herrn her,
+
+<<v9>>
+9 dann bring auf jedes Kalb als Speiseopfer drei Zehntel Feinmehl dar,
+das mit einem halben Hin Öl vermengt ist;
+
+<<v10>>
+10 als Trankopfer sollst du in diesem Fall ein halbes Hin Wein
+darbringen. Das ist ein Feueropfer und ein beruhigender Duft für den
+Herrn.
+
+<<v11>>
+11 So soll man es bei jedem Rind, bei jedem Widder, bei jedem jungen
+Lamm und jeder jungen Ziege machen.
+
+<<v12>>
+12 Je nachdem, wie viele Tiere ihr zum Opfer herrichtet, sollt ihr es
+jeweils machen.
+
+<<v13>>
+13 So soll es jeder Einheimische machen, wenn er ein Feueropfer als
+beruhigenden Duft für den Herrn darbringt.
+
+<<v14>>
+14 Wenn ein Fremder, der bei euch lebt, oder einer, dessen Familie schon
+seit Generationen unter euch lebt, ein Feueropfer als beruhigenden Duft
+für den Herrn darbringen will, dann soll er es ebenso machen wie ihr.
+
+<<v15>>
+15 Für euch und für die Fremden, die bei euch leben, gilt ein und
+dieselbe Regel; das soll bei euch als feste Regel des Herrn gelten, von
+Generation zu Generation, für euch ebenso wie für den Fremden:
+
+<<v16>>
+16 Gleiches Gesetz und gleiches Recht gilt für euch und für die Fremden,
+die bei euch leben.
+
+<<v17>>
+17 Der Herr sprach zu Mose:
+
+<<v18>>
+18 Rede zu den Israeliten und sag zu ihnen: Wenn ihr in das Land kommt,
+in das ich euch bringe,
+
+<<v19>>
+19 und wenn ihr vom Brot des Landes esst, dann sollt ihr eine Abgabe für
+den Herrn entrichten.
+
+<<v20>>
+20 Als Erstlingsgabe von eurem Brotteig sollt ihr einen Kuchen abgeben.
+Ihr sollt ihn wie die Abgabe von der Tenne abliefern.
+
+<<v21>>
+21 Von dem ersten Gebäck aus eurem Teig sollt ihr dem Herrn eine Abgabe
+entrichten, von Generation zu Generation.
+
+<<v22>>
+22 Wenn ihr aus Versehen irgendeines dieser Gebote, die der Herr dem
+Mose mitgeteilt hat, nicht haltet,
+
+<<v23>>
+23 irgendetwas, was der Herr euch durch Mose befohlen hat seit dem Tag,
+an dem der Herr die Gebote gegeben hat, und weiterhin von Generation zu
+Generation,
+
+<<v24>>
+24 dann soll, wenn das Versehen vorkam, ohne dass die Gemeinde es
+bemerkte, die ganze Gemeinde einen Jungstier zum Brandopfer als
+beruhigenden Duft für den Herrn herrichten, ferner das dazugehörende
+Speise- und Trankopfer, wie es Vorschrift ist, sowie einen Ziegenbock
+als Sündopfer.
+
+<<v25>>
+25 Der Priester soll die ganze Gemeinde der Israeliten entsühnen, dann
+wird ihnen vergeben werden; denn es war ein Versehen und sie haben ihre
+Opfergabe als Feueropfer für den Herrn und ihr Sündopfer für ihr
+Versehen vor den Herrn gebracht.
+
+<<v26>>
+26 Der ganzen Gemeinde der Israeliten und den Fremden, die bei ihnen
+leben, wird vergeben werden, denn das ganze Volk war von dem Versehen
+betroffen.
+
+<<v27>>
+27 Wenn ein einzelner versehentlich sündigt, dann soll er eine
+einjährige Ziege als Sündopfer darbringen.
+
+<<v28>>
+28 Der Priester soll die Person, die versehentlich gesündigt hat, vor
+dem Herrn entsühnen; dann wird ihr vergeben werden.
+
+<<v29>>
+29 Für die einheimischen Israeliten und für die Fremden, die bei ihnen
+leben, gilt das gleiche Gesetz, wenn jemand etwas aus Versehen tut.
+
+<<v30>>
+30 Wer aber, sei er einheimisch oder fremd, etwas vorsätzlich tut, der
+begeht eine Gotteslästerung. Ein solcher Mensch soll aus seinem Volk
+ausgemerzt werden;
+
+<<v31>>
+31 denn er hat das Wort des Herrn verachtet und sein Gesetz gebrochen.
+Ein solcher Mensch muss ausgemerzt werden; er hat schwere Schuld auf
+sich geladen.
+
+<<v32>>
+32 Als die Israeliten in der Wüste waren, entdeckten sie einmal, dass
+einer am Sabbat Holz sammelte.
+
+<<v33>>
+33 Die Leute, die ihn beim Holz Sammeln angetroffen hatten, brachten ihn
+vor Mose und Aaron und vor die ganze Gemeinde.
+
+<<v34>>
+34 Man sperrte ihn ein, weil noch nicht entschieden war, was mit ihm
+geschehen sollte.
+
+<<v35>>
+35 Der Herr sprach zu Mose: Der Mann ist mit dem Tod zu bestrafen. Die
+ganze Gemeinde soll ihn draußen vor dem Lager steinigen. [fn:2]
+
+<<v36>>
+36 Da führte die ganze Gemeinde den Mann vor das Lager hinaus und
+steinigte ihn zu Tod, wie der Herr es Mose befohlen hatte.
+
+<<v37>>
+37 Der Herr sprach zu Mose:
+
+<<v38>>
+38 Rede zu den Israeliten und sag zu ihnen, sie sollen sich Quasten an
+ihre Kleiderzipfel nähen, von Generation zu Generation, und sollen an
+den Quasten eine violette Purpurschnur anbringen; [fn:3]
+
+<<v39>>
+39 sie soll bei euch zur Quaste gehören. Wenn ihr sie seht, werdet ihr
+euch an alle Gebote des Herrn erinnern, ihr werdet sie halten und eurem
+Herzen und euren Augen nicht nachgeben, wenn sie euch zur Untreue
+verleiten wollen.
+
+<<v40>>
+40 Ihr sollt so an alle meine Gebote denken und sie halten; dann werdet
+ihr eurem Gott heilig sein.
+
+<<v41>>
+41 Ich bin der Herr, euer Gott, der euch aus Ägypten herausgeführt hat,
+um für euch Gott zu sein, ich, der Herr, euer Gott.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-31) Lev 6,17 - 7,18 [[file:Lev_6.org::v17][Lev 6,17]] - [[file:Lev_7.org::v18][Lev 7,18]]
+
+[fn:2] Ex 31,15 [[file:Ex_31.org::v15][Ex 31,15]]; 35,2 [[file:Ex_35.org::v2][Ex 35,2]]
+
+[fn:3] Mt 23,5 [[file:~/RoamNotes/notes/Bibel/nt/Mt_23.org::v5][Mt 23,5]]

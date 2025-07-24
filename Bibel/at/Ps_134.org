@@ -1,0 +1,42 @@
+#+TITLE: Ps 134 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 22:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 134.html
+
+* Ps 134
+
+<<verses>>
+
+<<v1>>
+* Nächtliches Loblied im Tempel
+
+1 [Ein Wallfahrtslied.] Wohlan, nun preiset den Herrn, /\\
+ all ihr Knechte des Herrn, die ihr steht im Haus des Herrn, /\\
+ zu nächtlicher Stunde. [fn:1]\\
+\\
+
+<<v2>>
+2 Erhebt eure Hände zum Heiligtum /\\
+ und preist den Herrn! [fn:2]\\
+\\
+
+<<v3>>
+3 Es segne dich der Herr vom Zion her, /\\
+ (der Herr,) der Himmel und Erde gemacht hat. [fn:3]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_135.org::v1][135,1f]]
+
+[fn:2] [[file:Ps_28.org::v2][28,2]]
+
+[fn:3] [[file:Ps_128.org::v5][128,5]]; [[file:Ps_115.org::v15][115,15]]

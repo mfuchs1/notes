@@ -1,0 +1,236 @@
+#+TITLE: 1 Sam 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 22:57]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 20.html
+
+<<verses>>
+
+<<v1>>
+* Jonatans Beistand für David: 20,1-42
+
+1 David floh aus dem Prophetenhaus in Rama, ging zu Jonatan und hielt
+ihm vor: Was habe ich denn getan? Was ist meine Schuld? Was habe ich
+gegen deinen Vater verbrochen, dass er mir nach dem Leben trachtet?
+
+<<v2>>
+2 Jonatan antwortete ihm: Das ist undenkbar. Du wirst nicht sterben. Du
+weißt doch: Mein Vater tut nichts Wichtiges oder Unwichtiges, ohne es
+mir zu offenbaren. Warum sollte mein Vater gerade das vor mir
+verheimlichen? Nein, das kann nicht sein.
+
+<<v3>>
+3 David aber beteuerte nochmals: Dein Vater weiß genau, dass ich dein
+Wohlwollen gefunden habe, und sagt sich: Jonatan soll das nicht wissen,
+sonst wird er betrübt. Aber, so wahr der Herr lebt und so wahr du selbst
+lebst: Zwischen mir und dem Tod liegt nur ein Schritt.
+
+<<v4>>
+4 Jonatan fragte David: Was meinst du? Was könnte ich für dich tun?
+
+<<v5>>
+5 David antwortete Jonatan: Du weißt doch, morgen ist Neumond. Da müsste
+ich unbedingt am Mahl des Königs teilnehmen. Lass mich fortgehen, damit
+ich mich bis übermorgen Abend auf dem Feld versteckt halte. [fn:1]
+
+<<v6>>
+6 Wenn dein Vater mich vermisst, dann sag: David hat mich dringend
+gebeten, in seine Heimatstadt Betlehem gehen zu dürfen, weil dort das
+jährliche Opfer für die ganze Sippe stattfindet.
+
+<<v7>>
+7 Wenn er dann sagt: Gut!, dann steht es günstig für deinen Knecht. Wenn
+er aber in heftigen Zorn gerät, dann kannst du daran erkennen, dass das
+Unheil von ihm beschlossen ist.
+
+<<v8>>
+8 Zeig deinem Knecht also deine Freundschaft; denn du hast mit deinem
+Knecht einen Bund vor dem Herrn geschlossen. Wenn ich Schuld auf mich
+geladen habe, dann töte mich gleich! Warum willst du mich erst zu deinem
+Vater bringen? [fn:2]
+
+<<v9>>
+9 Jonatan antwortete: Das darf nicht mit dir geschehen. Sobald ich
+sicher weiß, dass mein Vater beschlossen hat, Unheil über dich zu
+bringen, werde ich es dir auf jeden Fall mitteilen.
+
+<<v10>>
+10 David aber fragte Jonatan: Wer wird mir die Nachricht bringen, wenn
+dir dein Vater etwa eine schroffe Antwort gibt?
+
+<<v11>>
+11 Jonatan sagte zu David: Komm, wir wollen aufs Feld hinausgehen. Beide
+gingen aufs Feld hinaus.
+
+<<v12>>
+12 Und Jonatan sagte zu David: Beim Herrn, dem Gott Israels: Wenn ich
+morgen oder übermorgen um diese Zeit bei meinem Vater in Erfahrung
+bringe, dass es gut für David steht, dann werde ich jemand schicken und
+es dir sagen lassen.
+
+<<v13>>
+13 Der Herr möge Jonatan dies und das antun: Wenn mein Vater Böses gegen
+dich im Sinn hat, werde ich es dir sagen und werde dich in Frieden gehen
+lassen. Der Herr möge mit dir sein, wie er mit meinem Vater gewesen ist.
+
+<<v14>>
+14 Nicht wahr, wenn ich dann noch am Leben bin, wirst du entsprechend
+der Huld des Herrn an mir handeln. Wenn ich aber umkomme,
+
+<<v15>>
+15 dann entzieh meinem Haus niemals deine Gunst, selbst wenn der Herr
+jeden der Feinde Davids auf dem Erdboden ausrottet.
+
+<<v16>>
+16 So schloss Jonatan einen Bund mit dem Haus David. - Der Herr halte
+sich schadlos an Davids Feinden. - [fn:3]
+
+<<v17>>
+17 Und Jonatan ließ auch David bei seiner Liebe zu ihm schwören; denn er
+liebte ihn wie sein eigenes Leben.
+
+<<v18>>
+18 Dann sagte Jonatan zu ihm: Morgen ist Neumond. Du wirst vermisst
+werden; denn man wird deinen Platz beobachten.
+
+<<v19>>
+19 Übermorgen aber geh weit hinab, an den Ort, wo du dich am Tag der Tat
+versteckt hattest, und setz dich neben den Stein dort. [fn:4]
+
+<<v20>>
+20 Ich werde dann drei Pfeile in seine Nähe schießen, als ob ich ein
+Ziel treffen wollte.
+
+<<v21>>
+21 Dann gib Acht: Ich schicke meinen Diener (und sage zu ihm): Geh, such
+nach den Pfeilen! Wenn ich dem Diener ausdrücklich sage: Pass auf, die
+Pfeile liegen von dir aus herwärts, hol sie!, dann komm, denn es steht
+günstig für dich und es liegt nichts vor, so wahr der Herr lebt.
+
+<<v22>>
+22 Wenn ich aber zu dem jungen Mann sage: Pass auf, die Pfeile liegen
+von dir aus weiter draußen!, dann geh weg, denn der Herr schickt dich
+fort.
+
+<<v23>>
+23 Für diese Vereinbarung, die wir, ich und du, getroffen haben, soll
+der Herr auf ewig mein und dein Zeuge sein.
+
+<<v24>>
+24 Daraufhin versteckte sich David auf dem Feld. So kam der Neumond und
+der König setzte sich zu Tisch, um das Mahl zu halten.
+
+<<v25>>
+25 Er setzte sich wie jedes Mal auf seinen gewohnten Platz an der Wand;
+Jonatan saß ihm gegenüber und Abner saß an Sauls Seite. Davids Platz
+aber blieb leer. [fn:5]
+
+<<v26>>
+26 Saul sagte an diesem Tag nichts, denn er dachte: Es ist ihm etwas
+zugestoßen, was ihn unrein sein lässt; sicher ist er nicht rein. [fn:6]
+
+<<v27>>
+27 Als aber am zweiten Tag, dem Tag nach dem Neumond, der Platz Davids
+wieder leer blieb, sagte Saul zu seinem Sohn Jonatan: Warum ist der Sohn
+Isais gestern und heute nicht zum Essen gekommen?
+
+<<v28>>
+28 Jonatan antwortete Saul: David hat mich dringend gebeten, nach
+Betlehem gehen zu dürfen.
+
+<<v29>>
+29 Er sagte: Lass mich gehen; denn in der Stadt findet ein Opfer unserer
+Sippe statt. Mein Bruder selbst hat mich aufgefordert (zu kommen). Wenn
+ich dein Wohlwollen gefunden habe, dann möchte ich jetzt gehen und meine
+Brüder wieder sehen. Deswegen ist David nicht an den Tisch des Königs
+gekommen.
+
+<<v30>>
+30 Da wurde Saul zornig über Jonatan und sagte: Du Sohn eines entarteten
+und aufsässigen Weibes! Ich weiß sehr gut, dass du dich zu deiner
+eigenen Schande und zur Schande des Schoßes deiner Mutter für den Sohn
+Isais entschieden hast. [fn:7]
+
+<<v31>>
+31 Doch solange der Sohn Isais auf Erden lebt, wirst weder du noch dein
+Königtum Bestand haben. Schick also sofort jemand hin und lass ihn
+holen; denn er ist ein Kind des Todes.
+
+<<v32>>
+32 Jonatan antwortete seinem Vater Saul: Warum soll er umgebracht
+werden? Was hat er getan?
+
+<<v33>>
+33 Da schleuderte Saul den Speer gegen ihn, um ihn zu töten. Nun wusste
+Jonatan, dass sein Vater beschlossen hatte, David umzubringen. [fn:8]
+
+<<v34>>
+34 Voll Zorn stand er vom Tisch auf und aß an diesem zweiten Neumondtag
+nichts; denn er war bekümmert wegen David, weil sein Vater ihn
+beschimpft hatte.
+
+<<v35>>
+35 Am nächsten Morgen ging Jonatan, wie er mit David verabredet hatte,
+aufs Feld hinaus und ein junger Diener war bei ihm.
+
+<<v36>>
+36 Er sagte zu dem Diener: Lauf, such die Pfeile, die ich abschieße. Der
+Diener lief und er schoss einen Pfeil über ihn hinaus.
+
+<<v37>>
+37 Als der Diener an die Stelle kam, wohin Jonatan den Pfeil geschossen
+hatte, rief Jonatan dem Diener nach: Liegt der Pfeil von dir aus nicht
+noch weiter draußen?
+
+<<v38>>
+38 Und er rief dem Diener nach: Beeil dich, schnell, bleib nicht stehen!
+Der Diener Jonatans hob den Pfeil auf und kam zu seinem Herrn zurück.
+
+<<v39>>
+39 Der Diener aber ahnte nichts; nur Jonatan und David wussten von der
+Vereinbarung.
+
+<<v40>>
+40 Jonatan gab dem Diener, den er bei sich hatte, seine Waffen und sagte
+zu ihm: Geh, bring sie in die Stadt!
+
+<<v41>>
+41 Als der Diener heimgegangen war, verließ David sein Versteck neben
+dem Stein, warf sich mit dem Gesicht zur Erde nieder und verneigte sich
+dreimal tief (vor Jonatan). Dann küssten sie einander und beide weinten.
+David hörte nicht auf zu weinen [fn:9]
+
+<<v42>>
+42 und Jonatan sagte zu ihm: Geh in Frieden! Für das, was wir beide uns
+im Namen des Herrn geschworen haben, sei der Herr zwischen mir und dir,
+zwischen meinen und deinen Nachkommen auf ewig Zeuge.\\
+\\
+
+* Footnotes
+
+[fn:1] Der Neumond ist wie der Sabbat Fest- und Ruhetag
+(vgl. [[file:2.Kön_4.org::v23][2 Kön 4,23]]; [[file:Hos_2.org::v13][Hos 2,13]]; [[file:Am_8.org::v5][Am 8,5]]).
+
+[fn:2] [[file:1.Sam_18.org::v3][18,3]]
+
+[fn:3] Der Sinn des zweiten Satzes ist in H unklar, die
+Übersetzung ein Versuch.
+
+[fn:4] Welche Tat gemeint ist, wird aus H nicht deutlich.
+
+[fn:5] saß ihm gegenüber: Text korr. nach G; H: stand auf.
+
+[fn:6] Für ein Kultmahl muss man im Zustand kultischer Reinheit sein.
+
+[fn:7] [[file:1.Sam_23.org::v17][23,17]]
+
+[fn:8] [[file:1.Sam_18.org::v11][18,11]]
+
+[fn:9] neben dem Stein: Text korr., vgl. V. 19; unklar. - hörte
+nicht auf zu weinen: H unklar, Übersetzung ein Versuch.

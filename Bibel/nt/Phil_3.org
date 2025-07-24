@@ -1,0 +1,141 @@
+:PROPERTIES:
+:ID:       0419c41c-8b5f-4c77-beae-5d9d4e87fd9e
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Philipper* --
+[[file:Phil_1.html][1]] [[file:Phil_2.html][2]] *3*
+[[file:Phil_4.html][4]]
+
+--------------
+
+* Phil 3
+  :PROPERTIES:
+  :CUSTOM_ID: phil-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Das Leben des Christen - das Vorbild des Apostels: 3,1 - 4,9
+   :PROPERTIES:
+   :CUSTOM_ID: das-leben-des-christen---das-vorbild-des-apostels-31---49
+   :END:
+**** Standhaftigkeit im Glauben: 3,1-6
+     :PROPERTIES:
+     :CUSTOM_ID: standhaftigkeit-im-glauben-31-6
+     :END:
+1 Vor allem, meine Brüder, freut euch im Herrn! Euch immer das Gleiche
+zu schreiben wird mir nicht lästig, euch aber macht es sicher.
+^{[[#fn1][1]]}
+
+<<v2>>
+2 Gebt Acht auf diese Hunde, gebt Acht auf die falschen Lehrer, gebt
+Acht auf die Verschnittenen! ^{[[#fn2][2]]}
+
+<<v3>>
+3 Denn die Beschnittenen sind wir, die wir im Geist Gottes dienen und
+uns in Christus Jesus rühmen und nicht auf irdische Vorzüge vertrauen,
+
+<<v4>>
+4 obwohl ich mein Vertrauen auch auf irdische Vorzüge setzen könnte.
+Wenn ein anderer meint, er könne auf irdische Vorzüge vertrauen, so
+könnte ich es noch mehr. ^{[[#fn3][3]]}
+
+<<v5>>
+5 Ich wurde am achten Tag beschnitten, bin aus dem Volk Israel, vom
+Stamm Benjamin, ein Hebräer von Hebräern, lebte als Pharisäer nach dem
+Gesetz,
+
+<<v6>>
+6 verfolgte voll Eifer die Kirche und war untadelig in der
+Gerechtigkeit, wie sie das Gesetz vorschreibt.\\
+\\
+
+<<v7>>
+**** Sehnsucht nach voller Gemeinschaft mit Christus: 3,7-21
+     :PROPERTIES:
+     :CUSTOM_ID: sehnsucht-nach-voller-gemeinschaft-mit-christus-37-21
+     :END:
+7 Doch was mir damals ein Gewinn war, das habe ich um Christi Willen als
+Verlust erkannt.
+
+<<v8>>
+8 Ja noch mehr: ich sehe alles als Verlust an, weil die Erkenntnis
+Christi Jesu, meines Herrn, alles übertrifft. Seinetwegen habe ich alles
+aufgegeben und halte es für Unrat, um Christus zu gewinnen
+
+<<v9>>
+9 und in ihm zu sein. Nicht meine eigene Gerechtigkeit suche ich, die
+aus dem Gesetz hervorgeht, sondern jene, die durch den Glauben an
+Christus kommt, die Gerechtigkeit, die Gott aufgrund des Glaubens
+schenkt. ^{[[#fn4][4]]}
+
+<<v10>>
+10 Christus will ich erkennen und die Macht seiner Auferstehung und die
+Gemeinschaft mit seinen Leiden; sein Tod soll mich prägen.
+^{[[#fn5][5]]}
+
+<<v11>>
+11 So hoffe ich, auch zur Auferstehung von den Toten zu gelangen.
+
+<<v12>>
+12 Nicht dass ich es schon erreicht hätte oder dass ich schon vollendet
+wäre. Aber ich strebe danach, es zu ergreifen, weil auch ich von
+Christus Jesus ergriffen worden bin.
+
+<<v13>>
+13 Brüder, ich bilde mir nicht ein, dass ich es schon ergriffen hätte.
+Eines aber tue ich: Ich vergesse, was hinter mir liegt, und strecke mich
+nach dem aus, was vor mir ist.
+
+<<v14>>
+14 Das Ziel vor Augen, jage ich nach dem Siegespreis: der himmlischen
+Berufung, die Gott uns in Christus Jesus schenkt.
+
+<<v15>>
+15 Das wollen wir bedenken, wir Vollkommenen. Und wenn ihr anders über
+etwas denkt, wird Gott euch auch das offenbaren.
+
+<<v16>>
+16 Nur müssen wir festhalten, was wir erreicht haben.
+
+<<v17>>
+17 Ahmt auch ihr mich nach, Brüder, und achtet auf jene, die nach dem
+Vorbild leben, das ihr an uns habt. ^{[[#fn6][6]]}
+
+<<v18>>
+18 Denn viele - von denen ich oft zu euch gesprochen habe, doch jetzt
+unter Tränen spreche - leben als Feinde des Kreuzes Christi.
+
+<<v19>>
+19 Ihr Ende ist das Verderben, ihr Gott der Bauch; ihr Ruhm besteht in
+ihrer Schande; Irdisches haben sie im Sinn. ^{[[#fn7][7]]}
+
+<<v20>>
+20 Unsere Heimat aber ist im Himmel. Von dorther erwarten wir auch Jesus
+Christus, den Herrn, als Retter, ^{[[#fn8][8]]}
+
+<<v21>>
+21 der unseren armseligen Leib verwandeln wird in die Gestalt seines
+verherrlichten Leibes, in der Kraft, mit der er sich alles unterwerfen
+kann.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 2,18; 4,4
+
+^{[[#fnm2][2]]} die falschen Lehrer, wörtlich: die schlechten Arbeiter.
+«Verschnitten» bedeutet so viel wie «kastriert»; ironische Anspielung
+auf die Beschneidung (vgl. Gal 5,12).
+
+^{[[#fnm3][3]]} ℘ (4f) 2 Kor 11,18.22
+
+^{[[#fnm4][4]]} ℘ Röm 1,17; 3,21
+
+^{[[#fnm5][5]]} ℘ Röm 6,3-5
+
+^{[[#fnm6][6]]} ℘ 1 Kor 11,1
+
+^{[[#fnm7][7]]} ℘ Röm 16,18
+
+^{[[#fnm8][8]]} ℘ Hebr 12,22

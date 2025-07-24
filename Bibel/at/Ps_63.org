@@ -1,0 +1,97 @@
+#+TITLE: Ps 63 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-06-03 Mo 10:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 63.html
+
+* Ps 63
+
+<<verses>>
+
+<<v1>>
+* Sehnsucht nach Gott
+
+1 [Ein Psalm Davids, als er in der Wüste Juda war.] [fn:1]\\
+\\
+
+<<v2>>
+2 Gott, du mein Gott, dich suche ich, /\\
+ meine Seele dürstet nach dir. Nach dir schmachtet mein Leib /\\
+ wie dürres, lechzendes Land ohne Wasser. [fn:2]\\
+\\
+
+<<v3>>
+3 Darum halte ich Ausschau nach dir im Heiligtum, /\\
+ um deine Macht und Herrlichkeit zu sehen. [fn:3]\\
+\\
+
+<<v4>>
+4 Denn deine Huld ist besser als das Leben; /\\
+ darum preisen dich meine Lippen.\\
+\\
+
+<<v5>>
+5 Ich will dich rühmen mein Leben lang, /\\
+ in deinem Namen die Hände erheben.\\
+\\
+
+<<v6>>
+6 Wie an Fett und Mark wird satt meine Seele, /\\
+ mit jubelnden Lippen soll mein Mund dich preisen. [fn:4]\\
+\\
+
+<<v7>>
+7 Ich denke an dich auf nächtlichem Lager /\\
+ und sinne über dich nach, wenn ich wache. [fn:5]\\
+\\
+
+<<v8>>
+8 Ja, du wurdest meine Hilfe; /\\
+ jubeln kann ich im Schatten deiner Flügel. [fn:6]\\
+\\
+
+<<v9>>
+9 Meine Seele hängt an dir, /\\
+ deine rechte Hand hält mich fest.\\
+\\
+
+<<v10>>
+10 Viele trachten mir ohne Grund nach dem Leben, /\\
+ aber sie müssen hinabfahren in die Tiefen der Erde. [fn:7]\\
+\\
+
+<<v11>>
+11 Man gibt sie der Gewalt des Schwertes preis, /\\
+ sie werden eine Beute der Schakale.\\
+\\
+
+<<v12>>
+12 Der König aber freue sich an Gott. /\\
+ Wer bei ihm schwört, darf sich rühmen. /\\
+ Doch allen Lügnern wird der Mund verschlossen. [fn:8]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_23.org::v14][1 Sam 23,14]]
+
+[fn:2] [[file:Ps_42.org::v2][42,2f]]
+
+[fn:3] [[file:Ps_26.org::v8][26,8]]
+
+[fn:4] [[file:Ps_23.org::v5][23,5]]; [[file:Ps_43.org::v4][43,4]]
+
+[fn:5] [[file:Ps_119.org::v148][119,148]]; [[file:Jes_26.org::v9][Jes 26,9]]
+
+[fn:6] [[file:Ps_17.org::v7][17,7f]]
+
+[fn:7] ohne Grund: Text korr.; H: zum Verderben.
+
+[fn:8] [[file:Ps_21.org::v2][21,2]]; [[file:Ps_107.org::v42][107,42]]

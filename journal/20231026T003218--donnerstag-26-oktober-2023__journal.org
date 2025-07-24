@@ -1,0 +1,20 @@
+#+title:      Donnerstag 26 Oktober 2023
+#+date:       [2023-10-26 Do 00:32]
+#+filetags:   :journal:
+#+identifier: 20231026T003218
+
+* Thoughts
+Diese neue Schrift gefällt mir sehr gut. Ich bin mir darüber noch unklar, ob ich diese Unterschiede in den Headlines lasse. Allerdings wären sie sonst nicht wirklich unterscheidbar vom restlchen Text. Also passt das durchaus so.
+
+So jetzt beginnen alsp die Herbstferien. 10 Tage. Ich möchte diese Zeit va für meine Familie nutzen, ja? Viele Momente mit den Kindern. Und für Gebet und Sport. Hoffentlich. Es gibt noch einige nette Modi in dieser Emacs Configuration:
+
+- <f9> =logos-focus-mode= lässt z.B. die 'mode-line' verschwinden.
+- <f8> =Prot/Cursor-Type= verändert das Aussehen des Cursors: entweder ein nicht-blinkender Block (v.a. für das Schreiben von Code), oder ein blinkender feiner Strich (für das Schreiben in org-mode).
+- =C-c L= Cursor bleibt in der zeile der Bildmitte, beim scrollen läuft das Vild rauf und runter, der Cursor bleibt in der Mitte.
+- <f7> =display line numbers= Zeilennummern ein- und ausschalten.
+- <f6> ef theme toggle
+- <f5> modus theme toggle
+- <f1> Einfügen des file headers - org-mode.
+
+* Tasks
+

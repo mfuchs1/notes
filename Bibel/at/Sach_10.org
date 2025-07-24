@@ -1,0 +1,91 @@
+:PROPERTIES:
+:ID:       958b047d-3e25-4d4f-81bc-223ec0459d77
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Sacharja* -- [[file:Sach_1.html][1]]
+... [[file:Sach_8.html][8]] [[file:Sach_9.html][9]] *10*
+[[file:Sach_11.html][11]] [[file:Sach_12.html][12]] ...
+[[file:Sach_14.html][14]]
+
+--------------
+
+* Sach 10
+  :PROPERTIES:
+  :CUSTOM_ID: sach-10
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Gottes Erbarmen nach dem Gericht: 10,1 - 11,3
+     :PROPERTIES:
+     :CUSTOM_ID: gottes-erbarmen-nach-dem-gericht-101---113
+     :END:
+1 Bittet den Herrn um Regen zur Regenzeit im Frühjahr! Der Herr lässt
+Gewitterwolken entstehen, er füllt sie mit Regen und gibt den Menschen
+das Grün auf dem Feld.
+
+<<v2>>
+2 Die Hausgötzen redeten Falsches; die Wahrsager schauten Lügen. Sie
+verkündeten nichtige Träume und spendeten leeren Trost. Darum wurde das
+Volk weggetrieben wie Schafe und geriet ins Elend; denn es hatte keinen
+Hirten. ^{[[#fn1][1]]}
+
+<<v3>>
+3 Gegen die Hirten ist mein Zorn entbrannt, die Leithammel ziehe ich zur
+Rechenschaft. Denn der Herr der Heere sieht nach seiner Herde, nach dem
+Haus Juda, er macht es zu seinem prächtigen Streitross.
+
+<<v4>>
+4 Aus dem Haus Juda kommt ein Edelstein, aus ihm ein Zeltpflock, aus ihm
+ein Kriegsbogen; aus ihm kommt jeder, der Macht hat. ^{[[#fn2][2]]}
+
+<<v5>>
+5 Sie alle werden wie Helden sein, die im Krieg den Feind in den
+Gassenkot treten. Sie werden kämpfen; denn der Herr ist mit ihnen. Dann
+müssen sich alle schämen, die auf Pferden reiten.
+
+<<v6>>
+6 Das Haus Juda will ich stark machen und das Haus Josef retten. Ich
+führe sie zurück; denn ich habe Erbarmen mit ihnen. Es wird sein, als ob
+ich sie nicht verstoßen hätte; denn ich bin Jahwe, ihr Gott; ich werde
+sie erhören.
+
+<<v7>>
+7 Die Söhne Efraims werden Helden sein. Sie werden sich freuen wie beim
+Wein. Ihre Kinder werden es sehen und sich freuen und ihr Herz wird
+jubeln über den Herrn.
+
+<<v8>>
+8 Ich werde ihnen pfeifen und sie zusammenholen; denn ich habe sie
+losgekauft. Sie werden so zahlreich sein, wie sie zahlreich waren.
+
+<<v9>>
+9 Ich habe sie unter die Völker gesät; doch in der Ferne werden sie an
+mich denken. Sie werden mit ihren Kindern am Leben bleiben und
+heimkehren.
+
+<<v10>>
+10 Ja, ich werde sie zurückführen aus Ägypten und aus Assur werde ich
+sie sammeln. Ich werde sie nach Gilead und zum Libanon bringen und es
+wird nicht genug Platz für sie da sein.
+
+<<v11>>
+11 Wenn sie aus dem Land der Not durch das Meer ziehen, wird der Herr
+die Wellen im Meer schlagen und die Tiefen des Nil werden austrocknen.
+Dann wird die Größe Assurs in den Staub getreten und das Zepter Ägyptens
+wird beseitigt. ^{[[#fn3][3]]}
+
+<<v12>>
+12 Ich mache sie stark durch den Herrn und sie werden in seinem Namen
+ihren Weg gehen - Spruch des Herrn. ^{[[#fn4][4]]}
+
+^{[[#fnm1][1]]} ℘ Mt 9,36
+
+^{[[#fnm2][2]]} Vier bildliche Bezeichnungen für die führenden Männer
+Judas nach dem Gericht.
+
+^{[[#fnm3][3]]} ℘ Ex 14; Jes 11,15; 51,10
+
+^{[[#fnm4][4]]} ℘ Gen 5,24; 6,9; 17,1

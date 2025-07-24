@@ -1,0 +1,240 @@
+:PROPERTIES:
+:ID:       4b99af15-b26e-445a-be44-ea340a4b6c3f
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Apostelgeschichte* --
+[[file:Apg_1.html][1]] [[file:Apg_2.html][2]] [[file:Apg_3.html][3]] *4*
+[[file:Apg_5.html][5]] [[file:Apg_6.html][6]] ...
+[[file:Apg_28.html][28]]
+
+--------------
+
+* Apg 4
+  :PROPERTIES:
+  :CUSTOM_ID: apg-4
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Petrus und Johannes vor dem Hohen Rat: 4,1-22
+     :PROPERTIES:
+     :CUSTOM_ID: petrus-und-johannes-vor-dem-hohen-rat-41-22
+     :END:
+1 Während sie zum Volk redeten, traten die Priester, der Tempelhauptmann
+und die Sadduzäer zu ihnen.
+
+<<v2>>
+2 Sie waren aufgebracht, weil die Apostel das Volk lehrten und in Jesus
+die Auferstehung von den Toten verkündeten. ^{[[#fn1][1]]}
+
+<<v3>>
+3 Sie nahmen sie fest und hielten sie bis zum nächsten Morgen in Haft.
+Es war nämlich schon Abend.
+
+<<v4>>
+4 Viele aber, die das Wort gehört hatten, wurden gläubig; und die Zahl
+der Männer stieg auf etwa fünftausend.
+
+<<v5>>
+5 Am anderen Morgen versammelten sich ihre Führer sowie die Ältesten und
+die Schriftgelehrten in Jerusalem,
+
+<<v6>>
+6 dazu Hannas, der Hohepriester, Kajaphas, Johannes, Alexander und alle,
+die aus dem Geschlecht der Hohenpriester stammten.
+^{[[#fn2][2]][[#fn3][3]]}
+
+<<v7>>
+7 Sie stellten die beiden in die Mitte und fragten sie: Mit welcher
+Kraft oder in wessen Namen habt ihr das getan? ^{[[#fn4][4]]}
+
+<<v8>>
+8 Da sagte Petrus zu ihnen, erfüllt vom Heiligen Geist: Ihr Führer des
+Volkes und ihr Ältesten!
+
+<<v9>>
+9 Wenn wir heute wegen einer guten Tat an einem kranken Menschen darüber
+vernommen werden, durch wen er geheilt worden ist,
+
+<<v10>>
+10 so sollt ihr alle und das ganze Volk Israel wissen: im Namen Jesu
+Christi, des Nazoräers, den ihr gekreuzigt habt und den Gott von den
+Toten auferweckt hat. Durch ihn steht dieser Mann gesund vor euch.
+
+<<v11>>
+11 Er (Jesus) ist /der Stein, der von euch Bauleuten verworfen wurde,
+der aber zum Eckstein geworden ist./ ^{[[#fn5][5]]}
+
+<<v12>>
+12 Und in keinem anderen ist das Heil zu finden. Denn es ist uns
+Menschen kein anderer Name unter dem Himmel gegeben, durch den wir
+gerettet werden sollen. ^{[[#fn6][6]]}
+
+<<v13>>
+13 Als sie den Freimut des Petrus und des Johannes sahen und merkten,
+dass es ungelehrte und einfache Leute waren, wunderten sie sich. Sie
+erkannten sie als Jünger Jesu,
+
+<<v14>>
+14 sahen aber auch, dass der Geheilte bei ihnen stand; so konnten sie
+nichts dagegen sagen.
+
+<<v15>>
+15 Sie befahlen ihnen, den Hohen Rat zu verlassen; dann berieten sie
+miteinander
+
+<<v16>>
+16 und sagten: Was sollen wir mit diesen Leuten anfangen? Dass
+offensichtlich ein Wunder durch sie geschehen ist, ist allen Einwohnern
+von Jerusalem bekannt; wir können es nicht abstreiten.
+
+<<v17>>
+17 Damit aber die Sache nicht weiter im Volk verbreitet wird, wollen wir
+ihnen bei Strafe verbieten, je wieder in diesem Namen zu irgendeinem
+Menschen zu sprechen. ^{[[#fn7][7]]}
+
+<<v18>>
+18 Und sie riefen sie herein und verboten ihnen, jemals wieder im Namen
+Jesu zu predigen und zu lehren.
+
+<<v19>>
+19 Doch Petrus und Johannes antworteten ihnen: Ob es vor Gott recht ist,
+mehr auf euch zu hören als auf Gott, das entscheidet selbst.
+^{[[#fn8][8]]}
+
+<<v20>>
+20 Wir können unmöglich schweigen über das, was wir gesehen und gehört
+haben.
+
+<<v21>>
+21 Jene aber drohten ihnen noch mehr und ließen sie dann gehen; denn sie
+sahen keine Möglichkeit, sie zu bestrafen, mit Rücksicht auf das Volk,
+da alle Gott wegen des Geschehenen priesen.
+
+<<v22>>
+22 Denn der Mann, an dem das Wunder der Heilung geschah, war über
+vierzig Jahre alt.\\
+\\
+
+<<v23>>
+**** Gebet der Urgemeinde um Furchtlosigkeit: 4,23-31
+     :PROPERTIES:
+     :CUSTOM_ID: gebet-der-urgemeinde-um-furchtlosigkeit-423-31
+     :END:
+23 Nach ihrer Freilassung gingen sie zu den Ihren und berichteten alles,
+was die Hohenpriester und die Ältesten zu ihnen gesagt hatten.
+
+<<v24>>
+24 Als sie das hörten, erhoben sie einmütig ihre Stimme zu Gott und
+sprachen: /Herr, du hast den Himmel, die Erde und das Meer geschaffen
+und alles, was dazugehört;/ ^{[[#fn9][9]]}\\
+\\
+
+<<v25>>
+25 du hast durch den Mund unseres Vaters David, deines Knechtes, durch
+den Heiligen Geist gesagt: /Warum toben die Völker,/ /\\
+ /warum machen die Nationen vergebliche Pläne?/ ^{[[#fn10][10]]}\\
+\\
+
+<<v26>>
+26 /Die Könige der Erde stehen auf/ /\\
+ /und die Herrscher haben sich verbündet/ /\\
+ /gegen den Herrn und seinen Gesalbten./\\
+\\
+
+<<v27>>
+27 Wahrhaftig, /verbündet haben sich/ in dieser Stadt /gegen/ deinen
+heiligen Knecht Jesus, /den du gesalbt hast,/ Herodes und Pontius
+Pilatus mit den Heiden und den Stämmen Israels,
+^{[[#fn11][11]][[#fn12][12]]}
+
+<<v28>>
+28 um alles auszuführen, was deine Hand und dein Wille im voraus
+bestimmt haben.
+
+<<v29>>
+29 Doch jetzt, Herr, sieh auf ihre Drohungen und gib deinen Knechten die
+Kraft, mit allem Freimut dein Wort zu verkünden.
+
+<<v30>>
+30 Streck deine Hand aus, damit Heilungen und Zeichen und Wunder
+geschehen durch den Namen deines heiligen Knechtes Jesus.
+
+<<v31>>
+31 Als sie gebetet hatten, bebte der Ort, an dem sie versammelt waren,
+und alle wurden mit dem Heiligen Geist erfüllt und sie verkündeten
+freimütig das Wort Gottes. ^{[[#fn13][13]]}\\
+\\
+
+<<v32>>
+**** Die Gütergemeinschaft der Urgemeinde: 4,32-37
+     :PROPERTIES:
+     :CUSTOM_ID: die-gütergemeinschaft-der-urgemeinde-432-37
+     :END:
+32 Die Gemeinde der Gläubigen war ein Herz und eine Seele. Keiner nannte
+etwas von dem, was er hatte, sein Eigentum, sondern sie hatten alles
+gemeinsam. ^{[[#fn14][14]]}
+
+<<v33>>
+33 Mit großer Kraft legten die Apostel Zeugnis ab von der Auferstehung
+Jesu, des Herrn, und reiche Gnade ruhte auf ihnen allen.
+^{[[#fn15][15]]}
+
+<<v34>>
+34 Es gab auch keinen unter ihnen, der Not litt. Denn alle, die
+Grundstücke oder Häuser besaßen, verkauften ihren Besitz, brachten den
+Erlös ^{[[#fn16][16]]}
+
+<<v35>>
+35 und legten ihn den Aposteln zu Füßen. Jedem wurde davon so viel
+zugeteilt, wie er nötig hatte.
+
+<<v36>>
+36 Auch Josef, ein Levit aus Zypern, der von den Aposteln Barnabas, das
+heißt übersetzt Sohn des Trostes, genannt wurde, ^{[[#fn17][17]]}
+
+<<v37>>
+37 verkaufte einen Acker, der ihm gehörte, brachte das Geld und legte es
+den Aposteln zu Füßen.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 23,8
+
+^{[[#fnm2][2]]} ℘ Lk 3,2
+
+^{[[#fnm3][3]]} Hannas war von 6 bis 15 n. Chr., Kajaphas von 18 bis 37
+n. Chr. Hoherpriester.
+
+^{[[#fnm4][4]]} ℘ Lk 20,2
+
+^{[[#fnm5][5]]} ℘ Ps 118,22; Lk 20,17; Eph 2,20; 1 Petr 2,4-8
+
+^{[[#fnm6][6]]} ℘ Mt 1,21; 1 Kor 3,11
+
+^{[[#fnm7][7]]} ℘ 5,28
+
+^{[[#fnm8][8]]} ℘ 5,29-32
+
+^{[[#fnm9][9]]} ℘ Ps 146,6; Ex 20,11
+
+^{[[#fnm10][10]]} ℘ Ps 2,1f
+
+^{[[#fnm11][11]]} ℘ Ps 2,2; Lk 23,12f
+
+^{[[#fnm12][12]]} Der hier erwähnte Herodes ist Herodes Antipas, ein
+Sohn Herodes' des Großen, der von 4 v. Chr. bis 39 n. Chr. Tetrarch von
+Galiläa und Peräa war (vgl. die Anmerkung zu Lk 3,1).
+
+^{[[#fnm13][13]]} ℘ 2,44f
+
+^{[[#fnm14][14]]} 32-37: Die Gütergemeinschaft der Urgemeinde war
+freiwillig; sie brachte den Geist der Brüderlichkeit zum Ausdruck.
+
+^{[[#fnm15][15]]} ℘ 2,22-24
+
+^{[[#fnm16][16]]} ℘ Lk 12,33; Apg 2,44f
+
+^{[[#fnm17][17]]} ℘ 9,27; 11,22.30; 12,25; 13 - 15; 1 Kor 9,6; Gal
+2,1.9.13; Kol 4,10

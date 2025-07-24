@@ -1,0 +1,120 @@
+:PROPERTIES:
+:ID:       5a2f4fcf-e94a-44c3-9faf-d09015378995
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch der Weisheit* --
+[[file:Weish_1.html][1]] ... [[file:Weish_11.html][11]]
+[[file:Weish_12.html][12]] *13* [[file:Weish_14.html][14]]
+[[file:Weish_15.html][15]] ... [[file:Weish_19.html][19]]
+
+--------------
+
+* Weish 13
+  :PROPERTIES:
+  :CUSTOM_ID: weish-13
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Zweite Einschaltung: Die Torheit des Götzendienstes: 13,1 - 15,19
+     :PROPERTIES:
+     :CUSTOM_ID: zweite-einschaltung-die-torheit-des-götzendienstes-131---1519
+     :END:
+1 Töricht waren von Natur alle Menschen, denen die Gotteserkenntnis
+fehlte. Sie hatten die Welt in ihrer Vollkommenheit vor Augen, ohne den
+wahrhaft Seienden erkennen zu können. Beim Anblick der Werke erkannten
+sie den Meister nicht, ^{[[#fn1][1]]}
+
+<<v2>>
+2 sondern hielten das Feuer, den Wind, die flüchtige Luft, den Kreis der
+Gestirne, die gewaltige Flut oder die Himmelsleuchten für
+weltbeherrschende Götter.
+
+<<v3>>
+3 Wenn sie diese, entzückt über ihre Schönheit, als Götter ansahen, dann
+hätten sie auch erkennen sollen, wie viel besser ihr Gebieter ist; denn
+der Urheber der Schönheit hat sie geschaffen. ^{[[#fn2][2]]}
+
+<<v4>>
+4 Und wenn sie über ihre Macht und ihre Kraft in Staunen gerieten, dann
+hätten sie auch erkennen sollen, wie viel mächtiger jener ist, der sie
+geschaffen hat; ^{[[#fn3][3]]}
+
+<<v5>>
+5 denn von der Größe und Schönheit der Geschöpfe lässt sich auf ihren
+Schöpfer schließen.
+
+<<v6>>
+6 Dennoch verdienen jene nur geringen Tadel. Vielleicht suchen sie Gott
+und wollen ihn finden, gehen aber dabei in die Irre.
+
+<<v7>>
+7 Sie verweilen bei der Erforschung seiner Werke und lassen sich durch
+den Augenschein täuschen; denn schön ist, was sie schauen.
+
+<<v8>>
+8 Doch auch sie sind unentschuldbar:
+
+<<v9>>
+9 Wenn sie durch ihren Verstand schon fähig waren, die Welt zu
+erforschen, warum fanden sie dann nicht eher den Herrn der Welt?
+
+<<v10>>
+10 Unselig aber sind jene, die auf Totes ihre Hoffnung setzen und Werke
+von Menschenhand als Götter bezeichnen, Gold und Silber, kunstvolle
+Gebilde und Tiergestalten oder einen nutzlosen Stein, ein Werk uralter
+Herkunft. ^{[[#fn4][4]]}
+
+<<v11>>
+11 Da sägte ein Holzschnitzer einen geeigneten Baum ab, entrindete ihn
+ringsum geschickt, bearbeitete ihn sorgfältig und machte daraus ein
+nützliches Gerät für den täglichen Gebrauch. ^{[[#fn5][5]]}
+
+<<v12>>
+12 Die Abfälle seiner Arbeit verwendete er, um sich die Nahrung zu
+bereiten, und aß sich satt.
+
+<<v13>>
+13 Was dann noch übrig blieb und zu nichts brauchbar war, ein krummes,
+knotiges Stück Holz, das nahm er, schnitzte daran so eifrig und
+fachgemäß, wie man es tut, wenn man am Abend von der Arbeit abgespannt
+ist, formte es zum Bild eines Menschen
+
+<<v14>>
+14 oder machte es einem armseligen Tier ähnlich, beschmierte es mit
+Mennig und roter Schminke, überstrich alle schadhaften Stellen,
+
+<<v15>>
+15 machte ihm eine würdige Wohnstatt, stellte es an der Wand auf und
+befestigte es mit Eisen.
+
+<<v16>>
+16 So sorgte er dafür, dass es nicht herunterfiel, wusste er doch, dass
+es sich nicht helfen kann; es ist ein Bild und braucht Hilfe.
+
+<<v17>>
+17 Aber wenn er um Besitz, Ehe und Kinder betet, dann schämt er sich
+nicht, das Leblose anzureden. Um Gesundheit ruft er das Kraftlose an,
+
+<<v18>>
+18 Leben begehrt er vom Toten. Hilfe erfleht er vom ganz Hilflosen und
+gute Reise von dem, was nicht einmal den Fuß bewegen kann.
+^{[[#fn6][6]]}
+
+<<v19>>
+19 Für seine Arbeit, für Gewinn und Erfolg seines Handwerks bittet er um
+Kraft von einem, dessen Hände völlig kraftlos sind.
+
+^{[[#fnm1][1]]} ℘ Ps 14,1; 92,7; Apg 14,17; 17,27; Röm 1,19f
+
+^{[[#fnm2][2]]} ℘ Dtn 4,19; Ijob 31,26f
+
+^{[[#fnm3][3]]} ℘ Ps 8,4; 104,24
+
+^{[[#fnm4][4]]} ℘ 15,5.17; Jes 44,9-20; Jer 10,3-9; Ps 135,15-18
+
+^{[[#fnm5][5]]} ℘ Jes 40,20; 44,9-20
+
+^{[[#fnm6][6]]} ℘ 15,15

@@ -1,0 +1,535 @@
+:PROPERTIES:
+:ID:       e47d7ab1-cc4c-4f36-831b-4b94819d4611
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Matthäus* --
+[[file:Mt_1.html][1]] ... [[file:Mt_25.html][25]]
+[[file:Mt_26.html][26]] *27* [[file:Mt_28.html][28]]
+
+--------------
+
+* Mt 27
+  :PROPERTIES:
+  :CUSTOM_ID: mt-27
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Auslieferung an Pilatus: 27,1-2
+     :PROPERTIES:
+     :CUSTOM_ID: die-auslieferung-an-pilatus-271-2
+     :END:
+1 Als es Morgen wurde, fassten die Hohenpriester und die Ältesten des
+Volkes gemeinsam den Beschluss, Jesus hinrichten zu lassen.
+^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 334\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Sie ließen ihn fesseln und abführen und lieferten ihn dem Statthalter
+Pilatus aus.\\
+\\
+
+<<v3>>
+**** Das Ende des Judas: 27,3-10
+     :PROPERTIES:
+     :CUSTOM_ID: das-ende-des-judas-273-10
+     :END:
+3 Als nun Judas, der ihn verraten hatte, sah, dass Jesus zum Tod
+verurteilt war, reute ihn seine Tat. Er brachte den Hohenpriestern und
+den Ältesten die dreißig Silberstücke zurück
+^{[[#fn2][2]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 335\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v4>>
+4 und sagte: Ich habe gesündigt, ich habe euch einen unschuldigen
+Menschen ausgeliefert. Sie antworteten: Was geht das uns an? Das ist
+deine Sache. ^{[[#fn3][3]]}
+
+<<v5>>
+5 Da warf er die Silberstücke in den Tempel; dann ging er weg und
+erhängte sich.
+
+<<v6>>
+6 Die Hohenpriester nahmen die Silberstücke und sagten: Man darf das
+Geld nicht in den Tempelschatz tun; denn es klebt Blut daran.
+^{[[#fn4][4]]}
+
+<<v7>>
+7 Und sie beschlossen, von dem Geld den Töpferacker zu kaufen als
+Begräbnisplatz für die Fremden.
+
+<<v8>>
+8 Deshalb heißt dieser Acker bis heute Blutacker.
+
+<<v9>>
+9 So erfüllte sich, was durch den Propheten Jeremia gesagt worden ist:
+/Sie nahmen die dreißig Silberstücke - das ist der Preis, den er den
+Israeliten wert war -/ ^{[[#fn5][5]][[#fn6][6]]}
+
+<<v10>>
+10 /und kauften für das Geld den Töpferacker, wie mir der Herr befohlen
+hatte./\\
+\\
+
+<<v11>>
+**** Die Verhandlung vor Pilatus: 27,11-26
+     :PROPERTIES:
+     :CUSTOM_ID: die-verhandlung-vor-pilatus-2711-26
+     :END:
+11 Als Jesus vor dem Statthalter stand, fragte ihn dieser: Bist du der
+König der Juden? Jesus antwortete: Du sagst es.
+^{[[#fn7][7]][[#fn8][8]][[#fn9][9]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 336\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v12>>
+12 Als aber die Hohenpriester und die Ältesten ihn anklagten, gab er
+keine Antwort.
+
+<<v13>>
+13 Da sagte Pilatus zu ihm: Hörst du nicht, was sie dir alles vorwerfen?
+
+<<v14>>
+14 Er aber antwortete ihm auf keine einzige Frage, sodass der
+Statthalter sehr verwundert war. ^{[[#fn10][10]]}
+
+<<v15>>
+15 Jeweils zum Fest pflegte der Statthalter einen Gefangenen
+freizulassen, den sich das Volk auswählen konnte.
+^{[[#fn11][11]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 339\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v16>>
+16 Damals war gerade ein berüchtigter Mann namens Barabbas im Gefängnis.
+
+<<v17>>
+17 Pilatus fragte nun die Menge, die zusammengekommen war: Was wollt
+ihr? Wen soll ich freilassen, Barabbas oder Jesus, den man den Messias
+nennt?
+
+<<v18>>
+18 Er wusste nämlich, dass man Jesus nur aus Neid an ihn ausgeliefert
+hatte.
+
+<<v19>>
+19 Während Pilatus auf dem Richterstuhl saß, ließ ihm seine Frau sagen:
+Lass die Hände von diesem Mann, er ist unschuldig. Ich hatte seinetwegen
+heute Nacht einen schrecklichen Traum.
+
+<<v20>>
+20 Inzwischen überredeten die Hohenpriester und die Ältesten die Menge,
+die Freilassung des Barabbas zu fordern, Jesus aber hinrichten zu
+lassen.
+
+<<v21>>
+21 Der Statthalter fragte sie: Wen von beiden soll ich freilassen? Sie
+riefen: Barabbas! ^{[[#fn12][12]]}
+
+<<v22>>
+22 Pilatus sagte zu ihnen: Was soll ich dann mit Jesus tun, den man den
+Messias nennt? Da schrien sie alle: Ans Kreuz mit ihm!
+
+<<v23>>
+23 Er erwiderte: Was für ein Verbrechen hat er denn begangen? Da schrien
+sie noch lauter: Ans Kreuz mit ihm! ^{[[#fn13][13]]}
+
+<<v24>>
+24 Als Pilatus sah, dass er nichts erreichte, sondern dass der Tumult
+immer größer wurde, ließ er Wasser bringen, wusch sich vor allen Leuten
+die Hände und sagte: Ich bin unschuldig am Blut dieses Menschen. Das ist
+eure Sache! ^{[[#fn14][14]][[#fn15][15]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 341\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v25>>
+25 Da rief das ganze Volk: Sein Blut komme über uns und unsere Kinder!
+
+<<v26>>
+26 Darauf ließ er Barabbas frei und gab den Befehl, Jesus zu geißeln und
+zu kreuzigen. ^{[[#fn16][16]]}\\
+\\
+
+<<v27>>
+**** Die Verspottung Jesu durch die Soldaten: 27,27-31a
+     :PROPERTIES:
+     :CUSTOM_ID: die-verspottung-jesu-durch-die-soldaten-2727-31a
+     :END:
+27 Da nahmen die Soldaten des Statthalters Jesus, führten ihn in das
+Prätorium, das Amtsgebäude des Statthalters, und versammelten die ganze
+Kohorte um ihn.
+^{[[#fn17][17]][[#fn18][18]][[#fn19][19]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 342\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v28>>
+28 Sie zogen ihn aus und legten ihm einen purpurroten Mantel um.
+^{[[#fn20][20]]}
+
+<<v29>>
+29 Dann flochten sie einen Kranz aus Dornen; den setzten sie ihm auf und
+gaben ihm einen Stock in die rechte Hand. Sie fielen vor ihm auf die
+Knie und verhöhnten ihn, indem sie riefen: Heil dir, König der Juden!
+
+<<v30>>
+30 Und sie spuckten ihn an, nahmen ihm den Stock wieder weg und schlugen
+ihm damit auf den Kopf. ^{[[#fn21][21]]}
+
+<<v31a>>
+31a Nachdem sie so ihren Spott mit ihm getrieben hatten, nahmen sie ihm
+den Mantel ab und zogen ihm seine eigenen Kleider wieder an.
+
+<<v31b>>
+**** Die Kreuzigung: 27,31b-44
+     :PROPERTIES:
+     :CUSTOM_ID: die-kreuzigung-2731b-44
+     :END:
+31b Dann führten sie Jesus hinaus, um ihn zu kreuzigen.
+^{[[#fn22][22]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 343\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v32>>
+32 Auf dem Weg trafen sie einen Mann aus Zyrene namens Simon; ihn
+zwangen sie, Jesus das Kreuz zu tragen.
+
+<<v33>>
+33 So kamen sie an den Ort, der Golgota genannt wird, das heißt
+Schädelhöhe. ^{[[#fn23][23]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 344\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v34>>
+34 Und /sie gaben/ ihm Wein /zu trinken,/ der mit /Galle/ vermischt war;
+als er aber davon gekostet hatte, wollte er ihn nicht trinken.
+^{[[#fn24][24]][[#fn25][25]]}
+
+<<v35>>
+35 Nachdem sie ihn gekreuzigt hatten, /warfen sie das Los und
+verteilten/ seine /Kleider unter sich./ ^{[[#fn26][26]][[#fn27][27]]}
+
+<<v36>>
+36 Dann setzten sie sich nieder und bewachten ihn.
+
+<<v37>>
+37 Über seinem Kopf hatten sie eine Aufschrift angebracht, die seine
+Schuld angab: Das ist Jesus, der König der Juden. ^{[[#fn28][28]]}
+
+<<v38>>
+38 Zusammen mit ihm wurden zwei Räuber gekreuzigt, der eine rechts von
+ihm, der andere links. ^{[[#fn29][29]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 345\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v39>>
+39 Die Leute, die vorbeikamen, verhöhnten ihn, /schüttelten den Kopf/
+^{[[#fn30][30]]}
+
+<<v40>>
+40 und riefen: Du willst den Tempel niederreißen und in drei Tagen
+wieder aufbauen? Wenn du Gottes Sohn bist, hilf dir selbst, und steig
+herab vom Kreuz! ^{[[#fn31][31]]}
+
+<<v41>>
+41 Auch die Hohenpriester, die Schriftgelehrten und die Ältesten
+verhöhnten ihn und sagten:
+
+<<v42>>
+42 Anderen hat er geholfen, sich selbst kann er nicht helfen. Er ist
+doch der König von Israel! Er soll vom Kreuz herabsteigen, dann werden
+wir an ihn glauben.
+
+<<v43>>
+43 /Er hat auf Gott vertraut: der soll ihn/ jetzt /retten, wenn er an
+ihm Gefallen hat;/ er hat doch gesagt: Ich bin Gottes Sohn.
+^{[[#fn32][32]]}
+
+<<v44>>
+44 Ebenso beschimpften ihn die beiden Räuber, die man zusammen mit ihm
+gekreuzigt hatte.\\
+^{[[#fn33][33]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 346\\
+$ŽG://ESyn0812/
+
+<<v45>>
+**** Der Tod Jesu: 27,45-56
+     :PROPERTIES:
+     :CUSTOM_ID: der-tod-jesu-2745-56
+     :END:
+45 Von der sechsten bis zur neunten Stunde herrschte eine Finsternis im
+ganzen Land. ^{[[#fn34][34]][[#fn35][35]][[#fn36][36]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 347\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v46>>
+46 Um die neunte Stunde rief Jesus laut: /Eli, Eli, lema sabachtani?,/
+das heißt: /Mein Gott, mein Gott, warum hast du mich verlassen?/
+^{[[#fn37][37]][[#fn38][38]]}
+
+<<v47>>
+47 Einige von denen, die dabeistanden und es hörten, sagten: Er ruft
+nach Elija.
+
+<<v48>>
+48 Sogleich lief einer von ihnen hin, tauchte einen Schwamm in /Essig,/
+steckte ihn auf einen Stock und /gab/ Jesus /zu trinken./
+^{[[#fn39][39]]}
+
+<<v49>>
+49 Die anderen aber sagten: Lass doch, wir wollen sehen, ob Elija kommt
+und ihm hilft.
+
+<<v50>>
+50 Jesus aber schrie noch einmal laut auf. Dann hauchte er den Geist
+aus.
+
+<<v51>>
+51 Da riss der Vorhang im Tempel von oben bis unten entzwei. Die Erde
+bebte und die Felsen spalteten sich. ^{[[#fn40][40]][[#fn41][41]]}
+
+<<v52>>
+52 Die Gräber öffneten sich und die Leiber vieler Heiligen, die
+entschlafen waren, wurden auferweckt.
+
+<<v53>>
+53 Nach der Auferstehung Jesu verließen sie ihre Gräber, kamen in die
+Heilige Stadt und erschienen vielen.
+
+<<v54>>
+54 Als der Hauptmann und die Männer, die mit ihm zusammen Jesus
+bewachten, das Erdbeben bemerkten und sahen, was geschah, erschraken sie
+sehr und sagten: Wahrhaftig, das war Gottes Sohn! ^{[[#fn42][42]]}
+
+<<v55>>
+55 Auch viele Frauen waren dort und sahen von weitem zu; sie waren Jesus
+seit der Zeit in Galiläa nachgefolgt und hatten ihm gedient.
+^{[[#fn43][43]][[#fn44][44]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 348\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v56>>
+56 Zu ihnen gehörten Maria aus Magdala, Maria, die Mutter des Jakobus
+und des Josef, und die Mutter der Söhne des Zebedäus.\\
+\\
+
+<<v57>>
+**** Das Begräbnis Jesu: 27,57-61
+     :PROPERTIES:
+     :CUSTOM_ID: das-begräbnis-jesu-2757-61
+     :END:
+57 Gegen Abend kam ein reicher Mann aus Arimathäa namens Josef; auch er
+war ein Jünger Jesu. ^{[[#fn45][45]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 350\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v58>>
+58 Er ging zu Pilatus und bat um den Leichnam Jesu. Da befahl Pilatus,
+ihm den Leichnam zu überlassen. ^{[[#fn46][46]]}
+
+<<v59>>
+59 Josef nahm ihn und hüllte ihn in ein reines Leinentuch.
+
+<<v60>>
+60 Dann legte er ihn in ein neues Grab, das er für sich selbst in einen
+Felsen hatte hauen lassen. Er wälzte einen großen Stein vor den Eingang
+des Grabes und ging weg.
+
+<<v61>>
+61 Auch Maria aus Magdala und die andere Maria waren dort; sie saßen dem
+Grab gegenüber.\\
+\\
+
+<<v62>>
+**** Die Bewachung des Grabes: 27,62-66
+     :PROPERTIES:
+     :CUSTOM_ID: die-bewachung-des-grabes-2762-66
+     :END:
+62 Am nächsten Tag gingen die Hohenpriester und die Pharisäer gemeinsam
+zu Pilatus; es war der Tag nach dem Rüsttag.
+^{[[#fn47][47]][[#fn48][48]][[#fn49][49]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 351\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v63>>
+63 Sie sagten: Herr, es fiel uns ein, dass dieser Betrüger, als er noch
+lebte, behauptet hat: Ich werde nach drei Tagen auferstehen.
+^{[[#fn50][50]]}
+
+<<v64>>
+64 Gib also den Befehl, dass das Grab bis zum dritten Tag sicher bewacht
+wird. Sonst könnten seine Jünger kommen, ihn stehlen und dem Volk sagen:
+Er ist von den Toten auferstanden. Und dieser letzte Betrug wäre noch
+schlimmer als alles zuvor. ^{[[#fn51][51]][[#fn52][52]]}
+
+<<v65>>
+65 Pilatus antwortete ihnen: Ihr sollt eine Wache haben. Geht und
+sichert das Grab, so gut ihr könnt.
+
+<<v66>>
+66 Darauf gingen sie, um das Grab zu sichern. Sie versiegelten den
+Eingang und ließen die Wache dort.\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-2) Mk 15,1; Lk 23,1; Joh 18,28 ⇨Esyn: Synopse Nr.
+334
+
+^{[[#fnm2][2]]} ℘ Apg 1,16-19; Mt 26,15 ⇨Esyn: Synopse Nr. 335
+
+^{[[#fnm3][3]]} einen unschuldigen Menschen, wörtlich: unschuldiges
+Blut.
+
+^{[[#fnm4][4]]} ℘ Dtn 23,19
+
+^{[[#fnm5][5]]} ℘ Sach 11,12f; Jer 18,2f; 32,8f; Ex 9,12 G
+
+^{[[#fnm6][6]]} Das dem Propheten Jeremia zugeschriebene Zitat ist eine
+freie Verbindung von Stellen aus Sacharja, Jeremia und Exodus.
+
+^{[[#fnm7][7]]} ℘ 2,2; 27,29.37; Mk 15,18.26; Lk 23,37f; Joh 19,3.19.21;
+(11-26) Mk 15,2-15; Lk 23,2-5.13-25; Joh 18,29 - 19,1
+
+^{[[#fnm8][8]]} 11-26: Pontius Pilatus war Statthalter (Präfekt) der
+römischen Provinz Judäa von 26 bis 36 n. Chr. Ihm stand das Recht zu,
+die Todesstrafe zu verhängen. Religiöse Vergehen wurden nur dann mit dem
+Tod bestraft, wenn es sich um eine Entehrung des Kaisers, um die
+Entweihung rechtlich geschützter religiöser Einrichtungen oder um
+Hochverrat handelte. Nach 27,11 wurde Jesus bei Pilatus als politischer
+Hochverräter angeklagt; das wird durch die gerade hierfür vorgesehene
+Hinrichtungsart der Kreuzigung bestätigt. Sein Heilbringer-Anspruch
+wurde politisch missdeutet.
+
+^{[[#fnm9][9]]} ℘ ⇨Esyn: Synopse Nr. 336
+
+^{[[#fnm10][10]]} ℘ Joh 19,9
+
+^{[[#fnm11][11]]} ℘ ⇨Esyn: Synopse Nr. 339
+
+^{[[#fnm12][12]]} ℘ Apg 3,13f
+
+^{[[#fnm13][13]]} ℘ Joh 19,14f
+
+^{[[#fnm14][14]]} dieses Menschen, nach zahlreichen Textzeugen: dieses
+Gerechten. Dass Jesus als unschuldiger Gerechter leidet (vgl.
+27,4.19.24) wird durch diesen Einschub deutlich herausgestellt. Pilatus
+sucht, dem römischen Recht zuwider, die Verantwortung von sich zu
+schieben, Das Volk gibt durch die Selbstverwünschung indirekt seine
+Verantwortung zu (vgl. V. 20).
+
+^{[[#fnm15][15]]} ℘ ⇨Esyn: Synopse Nr. 341
+
+^{[[#fnm16][16]]} Die Kreuzigung war eine der furchtbarsten römischen
+Hinrichtungsarten. Sie konnte vor allem über Sklaven, freigelassene
+Sklaven und Aufständische, im Allgemeinen aber nicht über römische
+Bürger verhängt werden. Die Auspeitschung mit Lederpeitschen, in die
+spitze Metallstücke eingebunden waren, konnte der Todesstrafe
+vorausgehen. Sie wurde auch als selbständige Strafe angewandt.
+
+^{[[#fnm17][17]]} ℘ (27-31a) Mk 15,16-20a; Joh 19,2f
+
+^{[[#fnm18][18]]} 27-31: Die Verspottung Jesu als König weist auf den
+Urteilsgrund hin und zeigt zugleich die Verachtung der römischen
+Soldaten gegenüber den Juden.
+
+^{[[#fnm19][19]]} ℘ ⇨Esyn: Synopse Nr. 342
+
+^{[[#fnm20][20]]} ℘ Lk 23,11
+
+^{[[#fnm21][21]]} ℘ Jes 50,6
+
+^{[[#fnm22][22]]} ℘ (31b-44) Mk 15,20b-32; Lk 23,26.33-43; Joh 19,16b-27
+⇨Esyn: Synopse Nr. 343
+
+^{[[#fnm23][23]]} ℘ ⇨Esyn: Synopse Nr. 344
+
+^{[[#fnm24][24]]} ℘ Ps 69,22
+
+^{[[#fnm25][25]]} Ein Mischtrank aus saurem Wein und Myrrhe diente zur
+Betäubung der zum Kreuzestod Verurteilten (vgl. Mk 15,22). Dass hier
+statt Myrrhe Galle erwähnt wird, ist eine Angleichung an Ps 69,22.
+
+^{[[#fnm26][26]]} ℘ Ps 22,19
+
+^{[[#fnm27][27]]} Nach römischem Brauch fielen die Kleider des
+Verurteilten dem Hinrichtungstrupp zu.
+
+^{[[#fnm28][28]]} Nach römischer Sitte wurde der Grund für die
+Verurteilung auf einer Tafel angegeben, die dem Verurteilten auf dem Weg
+zur Hinrichtung vorangetragen wurde.
+
+^{[[#fnm29][29]]} ℘ Jes 53,12 ⇨Esyn: Synopse Nr. 345
+
+^{[[#fnm30][30]]} ℘ Ps 22,8
+
+^{[[#fnm31][31]]} ℘ 26,61; Joh 2,19
+
+^{[[#fnm32][32]]} ℘ Ps 22,9
+
+^{[[#fnm33][33]]} ℘ ⇨Esyn: Synopse Nr. 346
+
+^{[[#fnm34][34]]} ℘ (45-56) Mk 15,33-41; Lk 23,44-49; Joh 19,28-30
+
+^{[[#fnm35][35]]} Die Juden rechneten damals die Tageszeit von
+Sonnenaufgang bis Sonnenuntergang und teilten diese Spanne in 12
+«Stunden» ein. Die «dritte Stunde» war also etwa um neun Uhr.
+
+^{[[#fnm36][36]]} ℘ ⇨Esyn: Synopse Nr. 347
+
+^{[[#fnm37][37]]} ℘ Ps 22,2
+
+^{[[#fnm38][38]]} 46f: Elija galt im jüdischen Volksglauben als
+Nothelfer der Gerechten, vor allem als Beistand in der Todesstunde.
+
+^{[[#fnm39][39]]} ℘ Ps 69,22
+
+^{[[#fnm40][40]]} ℘ Ex 26,31
+
+^{[[#fnm41][41]]} 51a: Gemeint ist wohl der Vorhang zwischen dem
+Heiligen und Allerheiligsten im Tempelgebäude. Das Ereignis ist als ein
+Gerichts- und Strafzeichen zu verstehen, das die Messianität Jesu
+bestätigt. 51b-53: Diese Ereignisse sollen darauf hinweisen, dass mit
+Jesu Tod und Auferstehung die Macht des Todes gebrochen wurde.
+
+^{[[#fnm42][42]]} ℘ 16,16
+
+^{[[#fnm43][43]]} 55f: Diese Frauen werden als Zeugen für das Sterben
+und die Grablegung Jesu genannt; vgl. die Anmerkung zu 12,46f.
+
+^{[[#fnm44][44]]} ℘ ⇨Esyn: Synopse Nr. 348
+
+^{[[#fnm45][45]]} ℘ (57-61) Mk 15,42-47; Lk 23,50-56; Joh 19,38-42
+⇨Esyn: Synopse Nr. 350
+
+^{[[#fnm46][46]]} ℘ Dtn 21,22f
+
+^{[[#fnm47][47]]} ℘ Joh 19,42
+
+^{[[#fnm48][48]]} 62-65: Nur Matthäus berichtet von der Bewachung und
+Versiegelung des Grabes bis zum dritten Tag, da allein er von dem
+jüdischen Gerücht über den Raub des Leichnams Jesu durch seine Jünger
+spricht (vgl. 28,11-15). Diese Notiz ist als Verteidigung des
+urchristlichen Auferstehungsglaubens zu verstehen.
+
+^{[[#fnm49][49]]} ℘ ⇨Esyn: Synopse Nr. 351
+
+^{[[#fnm50][50]]} ℘ 20,19; 12,40
+
+^{[[#fnm51][51]]} ℘ 28,13
+
+^{[[#fnm52][52]]} als alles zuvor, wörtlich: als der erste.

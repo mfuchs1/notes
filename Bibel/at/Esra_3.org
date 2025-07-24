@@ -1,0 +1,105 @@
+#+TITLE: Esra 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 18:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Esra 3.html
+
+<<verses>>
+
+<<v1>>
+* Der Beginn des Kults und des Tempelbaus: 3,1-13
+
+1 Als der siebte Monat herankam und die Israeliten bereits in ihren
+Heimatstädten waren, versammelte sich das ganze Volk geschlossen in
+Jerusalem.
+
+<<v2>>
+2 Jeschua, der Sohn des Jozadak, mit seinen Brüdern, den Priestern, und
+Serubbabel, der Sohn Schealtiëls, mit seinen Brüdern gingen daran, den
+Altar des Gottes Israels wieder aufzubauen, um auf ihm Brandopfer
+darzubringen, wie es im Gesetz des Gottesmannes Mose vorgeschrieben ist. [fn:1]
+
+<<v3>>
+3 Sie errichteten den Altar an seiner alten Stelle, obwohl die Völker
+der Nachbarländer sie davon abzuschrecken suchten, und brachten auf ihm
+dem Herrn Brandopfer dar, je ein Brandopfer am Morgen und am Abend. [fn:2]
+
+<<v4>>
+4 Dann feierten sie der Vorschrift entsprechend das Laubhüttenfest und
+brachten Tag für Tag so viele Opfer dar, wie es für die einzelnen Tage
+festgesetzt ist. [fn:3]
+
+<<v5>>
+5 Von da an brachten sie auch das ständige Brandopfer wieder dar, ferner
+die Opfer an den Neumondtagen und an allen dem Herrn geheiligten
+Festzeiten sowie alle freiwilligen Opfer, die jemand dem Herrn spendete.
+
+<<v6>>
+6 Am ersten Tag des siebten Monats hatten sie begonnen, dem Herrn
+Brandopfer darzubringen; aber die Fundamente für den Tempel des Herrn
+waren noch nicht gelegt.
+
+<<v7>>
+7 Darum nahmen sie Steinhauer und Zimmerleute in Dienst; den Sidoniern
+und Tyrern lieferten sie Nahrungsmittel, Getränke und Öl, damit sie
+Zedernstämme vom Libanon über das Meer nach Jafo brachten; das hatte
+ihnen der König Kyrus von Persien erlaubt. [fn:4]
+
+<<v8>>
+8 Im zweiten Monat des zweiten Jahres nach ihrer Ankunft beim Gotteshaus
+in Jerusalem machten sich ans Werk Serubbabel, der Sohn Schealtiëls, und
+Jeschua, der Sohn des Jozadak, mit ihren übrigen Brüdern, nämlich den
+Priestern, Leviten und allen, die aus der Gefangenschaft nach Jerusalem
+zurückgekommen waren. Sie bestimmten die Leviten, die zwanzig Jahre und
+älter waren, dazu, die Arbeiten am Haus des Herrn zu leiten.
+
+<<v9>>
+9 Jeschua, seine Söhne und Brüder, Kadmiël und seine Söhne sowie die
+Söhne Hodawjas traten gemeinsam an, um die anzuleiten, die die Arbeiten
+am Gotteshaus ausführten; dazu kamen noch die Söhne Henadads sowie ihre
+Söhne und Brüder, ebenfalls Leviten.
+
+<<v10>>
+10 Als die Bauleute das Fundament für den Tempel des Herrn gelegt
+hatten, kamen die Priester in ihren Gewändern und mit den Trompeten,
+außerdem die Leviten, die Nachkommen Asafs, mit den Zimbeln, um den
+Herrn zu preisen nach der Ordnung Davids, des Königs von Israel. [fn:5]
+
+<<v11>>
+11 Sie begannen, den Herrn zu loben und zu preisen: «Denn er ist gütig
+und seine Huld gegenüber Israel währt ewig». Und das ganze Volk erhob
+ein lautes Jubelgeschrei zum Preis des Herrn, weil das Fundament für das
+Haus des Herrn gelegt war. [fn:6]
+
+<<v12>>
+12 Viele betagte Priester, Leviten und Familienoberhäupter hatten noch
+den ersten Tempel gesehen. Als nun vor ihren Augen das Fundament für den
+neuen Tempel gelegt wurde, weinten sie laut. Viele andere aber schrien
+vor Jubel und Freude. [fn:7]
+
+<<v13>>
+13 Man konnte im lauten Freudenjubel das Weinen der anderen kaum hören,
+so laut war das Geschrei des Volkes und der Lärm war weithin zu hören.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ex_27.org::v1][Ex 27,1-8]]; [[file:Lev_6.org::v2][Lev 6,2]]
+
+[fn:2] [[file:Ex_29.org::v38][Ex 29,38]]-[[file:Ex_29.org::v42][42]]
+
+[fn:3] [[file:Num_29.org::v12][Num 29,12]]-[[file:Num_29.org::v38][38]]
+
+[fn:4] [[file:1.Kön_5.org::v20][1 Kön 5,20]]-[[file:1.Kön_5.org::v29][29]]
+
+[fn:5] [[file:1.Chr_25.org][1 Chr 25]]
+
+[fn:6] [[file:2.Chr_5.org::v13][2 Chr 5,13]]; [[file:Jer_33.org::v11][Jer 33,11]]
+
+[fn:7] [[file:Hag_2.org::v3][Hag 2,3]]

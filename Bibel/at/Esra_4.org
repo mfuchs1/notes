@@ -1,0 +1,151 @@
+#+TITLE: Esra 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 18:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Esra 4.html
+
+<<verses>>
+
+<<v1>>
+* Die Störung beim Tempelbau: 4,1-16
+
+1 Die Feinde von Juda und Benjamin erfuhren, dass die Heimkehrer für den
+Herrn, den Gott Israels, einen Tempel bauten. [fn:1]
+
+<<v2>>
+2 Da kamen sie zu Serubbabel und den Familienoberhäuptern und sagten:
+Wir wollen zusammen mit euch bauen. Denn wie ihr verehren auch wir euren
+Gott und opfern ihm seit der Zeit des Königs Asarhaddon von Assur, der
+uns hierher gebracht hat. [fn:2]
+
+<<v3>>
+3 Aber Serubbabel, Jeschua und die übrigen Oberhäupter der Großfamilien
+Israels erwiderten ihnen: Es geht nicht, dass wir mit euch zusammen
+unserem Gott ein Haus bauen, sondern wir allein wollen für den Herrn,
+den Gott Israels, bauen, wie es uns König Kyrus von Persien aufgetragen
+hat.
+
+<<v4>>
+4 Da machte das Volk des Landes die Leute von Juda mutlos und schreckte
+sie vom Bauen ab.
+
+<<v5>>
+5 Man bestach sogar königliche Räte gegen sie, um ihr Vorhaben zu
+vereiteln; das dauerte die ganze Regierungszeit des Perserkönigs Kyrus
+bis zur Regierung des Königs Darius von Persien.
+
+<<v6>>
+6 Als dann Xerxes König wurde, setzten sie zu Beginn seiner Herrschaft
+eine Anklage gegen die Bewohner von Juda und Jerusalem auf.
+
+<<v7>>
+7 In der Zeit des Artaxerxes schrieb Bischlam zusammen mit Mitredat,
+Tabeel und seinen übrigen Amtsgenossen an den König Artaxerxes von
+Persien. Der Brief war ins Aramäische übersetzt und in aramäischer
+Schrift geschrieben.
+
+<<v8>>
+8 Der Befehlshaber Rehum und der Schreiber Schimschai schrieben an den
+König Artaxerxes folgenden Brief gegen Jerusalem: [fn:3]
+
+<<v9>>
+9 Die Absender: Der Befehlshaber Rehum und der Schreiber Schimschai
+sowie ihre übrigen Amtsgenossen, die Richter, Gesandten, Aufseher und
+Verwalter, die Leute aus Erech, Babel und Susa - das sind Elamiter -
+
+<<v10>>
+10 und die übrigen Volksgruppen, die der große und berühmte Asenappar
+weggeführt und in den Städten von Samaria und im übrigen Gebiet jenseits
+des Stroms angesiedelt hat. [fn:4]
+
+<<v11>>
+11 Dies ist nun eine Abschrift des Briefes, den sie an Artaxerxes
+schickten: An den König Artaxerxes, von deinen Knechten, den Leuten
+jenseits des Stroms.
+
+<<v12>>
+12 Dem König sei gemeldet: Die Juden, die aus deiner Nähe wegzogen, sind
+zu uns nach Jerusalem gekommen. Sie bauen die aufrührerische und böse
+Stadt wieder auf; sie stellen die Mauern wieder her und sichern die
+Fundamente.
+
+<<v13>>
+13 Dem König sei nun gemeldet: Wenn diese Stadt wieder aufgebaut ist und
+ihre Mauern vollendet sind, dann entrichten die Juden keine Steuern,
+Abgaben und Zölle mehr. So bringt sie den Königen schließlich nur
+Schaden.
+
+<<v14>>
+14 Nun ist aber das Salz des Palastes unser Salz; darum ist es nicht
+recht, wenn wir mit ansehen, wie der König erniedrigt wird. Deshalb
+senden wir dem König Nachricht:
+
+<<v15>>
+15 Man möge in der Chronik deiner Väter nachforschen; du wirst dann in
+der Chronik finden und feststellen: Diese Stadt ist eine aufrührerische
+Stadt; sie hat Königen und Provinzen Schaden gebracht und von jeher hat
+man in ihr Empörung angestiftet. Deshalb ist diese Stadt ja auch
+zerstört worden.
+
+<<v16>>
+16 Wir machen also den König darauf aufmerksam: Wird diese Stadt wieder
+aufgebaut und werden ihre Mauern vollendet, dann hast du keinen Anteil
+mehr am Gebiet jenseits des Stroms.\\
+\\
+
+<<v17>>
+* Das Verbot der Fortsetzung des Baus: 4,17-24
+
+17 Der König schickte folgende Erwiderung: An den Befehlshaber Rehum und
+den Schreiber Schimschai sowie ihre übrigen Genossen, die in Samaria und
+dem übrigen Gebiet jenseits des Stroms wohnen, meinen Gruß.
+
+<<v18>>
+18 Das Schriftstück, das ihr an uns gesandt habt, ist mir in Übersetzung
+vorgelesen worden.
+
+<<v19>>
+19 Daraufhin befahl ich nachzuforschen, und man fand: Diese Stadt hat
+sich von jeher gegen die Könige erhoben und in ihr gab es immer wieder
+Aufruhr und Empörung.
+
+<<v20>>
+20 Mächtige Könige geboten über Jerusalem und herrschten über das ganze
+Gebiet jenseits des Stroms und ihnen entrichtete man Steuern, Abgaben
+und Zölle.
+
+<<v21>>
+21 Gebt also Befehl, dass man jenen Männern ihr Tun verwehrt. Diese
+Stadt darf nicht wieder aufgebaut werden, bis weitere Anordnungen von
+mir ergehen.
+
+<<v22>>
+22 Hütet euch, in dieser Sache nachlässig zu sein; sonst könnte großer
+Schaden zum Nachteil der Könige entstehen.
+
+<<v23>>
+23 Sobald das Schreiben des Königs Artaxerxes vor Rehum und dem
+Schreiber Schimschai sowie ihren Amtsgenossen verlesen worden war,
+gingen diese eilends nach Jerusalem zu den Juden und hinderten sie mit
+Waffengewalt an ihrer Arbeit.
+
+<<v24>>
+24 So kam die Arbeit am Gotteshaus in Jerusalem zum Stillstand und ruhte
+bis zum zweiten Jahr der Herrschaft des Perserkönigs Darius.\\
+\\
+
+* Footnotes
+
+[fn:1] Heimkehrer: wörtlich: Söhne der Verschleppung.
+
+[fn:2] [[file:2.Kön_17.org::v24][2 Kön 17,24]]-[[file:2.Kön_17.org::v41][41]]
+
+[fn:3] Hier wechselt der bis dahin hebräische Text ins Aramäische.
+
+[fn:4] jenseits des Stroms: vgl. die Anmerkung zu [[file:2.Sam_10.org::v16][2 Sam 10,16]].

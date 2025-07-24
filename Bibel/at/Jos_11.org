@@ -1,0 +1,146 @@
+#+TITLE: Jos 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-02 Do 10:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 11.html
+
+<<verses>>
+
+<<v1>>
+* Der Sieg über die Könige im Norden: 11,1-14
+
+1 Als Jabin, der König von Hazor, das hörte, schickte er Boten zu Jobab,
+dem König von Madon, zum König von Schimron, zum König von Achschaf [fn:1] [fn:2]
+
+<<v2>>
+2 und zu den Königen im Norden auf dem Gebirge und in der Araba südlich
+von Kinneret, in der Schefela und auf den Höhen von Dor im Westen,
+
+<<v3>>
+3 zu den Kanaanitern im Osten und im Westen, zu den Amoritern, Hetitern
+und Perisitern, zu den Jebusitern im Gebirge und den Hiwitern am Fuß des
+Hermon im Land Mizpe.
+
+<<v4>>
+4 Da rückten sie aus mit all ihren Truppen, einem Heer so groß und
+zahlreich wie der Sand am Ufer des Meeres, dazu mit einer großen Menge
+von Pferden und Wagen.
+
+<<v5>>
+5 Alle diese Könige taten sich zusammen, rückten heran und bezogen
+gemeinsam ihr Lager bei den Wassern von Merom, um den Kampf mit Israel
+aufzunehmen.
+
+<<v6>>
+6 Der Herr sagte zu Josua: Fürchte dich nicht vor ihnen! Denn morgen um
+diese Zeit werde ich sie alle erschlagen Israel zu Füßen legen. Du wirst
+ihre Pferde lähmen und ihre Wagen in Brand stecken.
+
+<<v7>>
+7 Da rückte Josua mit dem ganzen Heer an den Wassern von Merom plötzlich
+gegen sie vor und überfiel sie.
+
+<<v8>>
+8 Der Herr gab sie in die Gewalt der Israeliten und die Israeliten
+schlugen sie und verfolgten sie bis Groß-Sidon und Misrefot-Majim und
+bis zur Ebene von Mizpe im Osten. Sie schlugen sie so vernichtend, dass
+keiner von ihnen übrig blieb, der hätte entkommen können.
+
+<<v9>>
+9 Josua machte mit ihnen, was der Herr ihm gesagt hatte: Er lähmte ihre
+Pferde und steckte ihre Wagen in Brand.
+
+<<v10>>
+10 Daraufhin kehrte Josua um und nahm Hazor ein; ihren König erschlug er
+mit dem Schwert. Hazor hatte früher die Oberherrschaft über alle diese
+Königreiche.
+
+<<v11>>
+11 Die Israeliten erschlugen alles, was in der Stadt lebte, mit scharfem
+Schwert und weihten es dem Untergang. Nichts Lebendiges blieb übrig. Die
+Stadt selbst steckte man in Brand.
+
+<<v12>>
+12 Aller dieser Königsstädte samt ihren Königen bemächtigte sich Josua;
+er erschlug alles mit scharfem Schwert und weihte es dem Untergang, wie
+Mose, der Knecht des Herrn, befohlen hatte.
+
+<<v13>>
+13 Alle die Städte, die (heute noch) auf ihren Trümmerhügeln stehen,
+verbrannte Israel nicht; nur Hazor brannte Josua nieder.
+
+<<v14>>
+14 Den ganzen Besitz aus diesen Städten und das Vieh nahmen die
+Israeliten für sich, die Menschen aber erschlugen sie alle mit scharfem
+Schwert und rotteten sie völlig aus. Niemand ließen sie am Leben.\\
+\\
+
+<<v15>>
+* Das eroberte Land: 11,15 - 12,24
+
+15 Wie der Herr es seinem Knecht Mose befohlen hatte, so hatte es Mose
+Josua befohlen und so führte Josua es aus: Er unterließ nichts von all
+dem, was der Herr dem Mose befohlen hatte. [fn:3]
+
+<<v16>>
+16 So nahm Josua dieses ganze Land ein, das Gebirge und den ganzen
+Negeb, das ganze Land Goschen und die Schefela, die Araba und das
+Gebirge Israels mit seiner Schefela:
+
+<<v17>>
+17 (das ganze Land) von den kahlen Bergen, die nach Seïr hin ansteigen,
+bis nach Baal-Gad in der Libanonsenke am Fuß des Hermongebirges. Alle
+ihre Könige nahm Josua gefangen und schlug sie tot.
+
+<<v18>>
+18 Lange Zeit führte Josua gegen alle diese Könige Krieg.
+
+<<v19>>
+19 Es gab keine Stadt, die mit den Israeliten Frieden geschlossen hätte,
+außer den Hiwitern, die Gibeon bewohnten. Alle musste man im Kampf
+nehmen. [fn:4]
+
+<<v20>>
+20 Denn vom Herrn war beschlossen worden, ihr Herz angesichts des
+Kampfes mit Israel zu verhärten, um sie dem Untergang zu weihen; Israel
+sollte keine Gnade bei ihnen walten lassen, sondern sie ausrotten, wie
+es der Herr dem Mose befohlen hatte. [fn:5]
+
+<<v21>>
+21 Damals zog Josua auch gegen die Anakiter, die im Gebirge, in Hebron,
+in Debir, in Anab, im Bergland von Juda und im Bergland von Israel
+wohnten; er rottete sie überall aus und weihte sie samt ihren Städten
+dem Untergang. [fn:6]
+
+<<v22>>
+22 Im Land der Israeliten blieben keine Anakiter übrig; nur in Gaza, Gat
+und Aschdod verblieben sie.
+
+<<v23>>
+23 Josua nahm das ganze Land ein, genau so, wie es der Herr zu Mose
+gesagt hatte, und Josua verteilte es als Erbbesitz an Israel
+entsprechend seiner Stammeseinteilung. Dann war der Krieg zu Ende und
+das Land hatte Ruhe.
+
+* Footnotes
+
+[fn:1] [[file:Ri_4.org::v2][Ri 4,2]]
+
+[fn:2] 1f: Nach der Eroberung des Südens ([[file:Jos_10.org::v1][10,1-11]]) wird die
+Unterwerfung des nördlichen Palästina ([[v1][11,1-14]]) berichtet. Hauptgegner
+ist der König von Hazor, einer bedeutenden, alten Stadt. «Kinneret» wird
+der See Gennesaret und sein Umland genannt.
+
+[fn:3] [[file:Dtn_20.org::v10][Dtn 20,10-15]]
+
+[fn:4] [[file:Jos_9.org::v15][9,15]]
+
+[fn:5] [[file:Dtn_7.org::v2][Dtn 7,2]]
+
+[fn:6] [[file:Jos_14.org::v12][14,12-15]]; [[file:Dtn_9.org::v2][Dtn 9,2]]

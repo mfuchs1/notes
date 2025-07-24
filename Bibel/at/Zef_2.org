@@ -1,0 +1,151 @@
+:PROPERTIES:
+:ID:       3cff0c5b-7a17-4646-8ff8-0672f421a923
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Zefanja* -- [[file:Zef_1.html][1]] *2*
+[[file:Zef_3.html][3]]
+
+--------------
+
+* Zef 2
+  :PROPERTIES:
+  :CUSTOM_ID: zef-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Hoffnung nach Umkehr: 2,1-3
+     :PROPERTIES:
+     :CUSTOM_ID: hoffnung-nach-umkehr-21-3
+     :END:
+1 Du gleichgültiges Volk, /\\
+ sammelt euch, tut euch zusammen,\\
+\\
+
+<<v2>>
+2 ehe ihr zerstreut werdet und zerstiebt wie Spreu, /\\
+ ehe der glühende Zorn des Herrn über euch kommt, /\\
+ ehe über euch der Tag des glühenden Zornes des Herrn kommt.
+^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Sucht den Herrn, ihr Gedemütigten im Land, /\\
+ die ihr nach dem Recht des Herrn lebt. Sucht Gerechtigkeit, sucht
+Demut! /\\
+ Vielleicht bleibt ihr geborgen /\\
+ am Tag des Zornes des Herrn. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+**** Das Gericht über die Nachbarvölker: 2,4-15
+     :PROPERTIES:
+     :CUSTOM_ID: das-gericht-über-die-nachbarvölker-24-15
+     :END:
+4 Ja, Gaza wird verlassen sein /\\
+ und Aschkelon wird eine Wüste, am hellen Mittag treibt man Aschdods
+Einwohner fort /\\
+ und Ekron ackert man um. ^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+<<v5>>
+5 Weh euch, die ihr das Gebiet am Meer bewohnt, /\\
+ ihr Volk der Kereter. Das Wort des Herrn richtet sich gegen euch: /\\
+ Kanaan, Land der Philister, ich richte dich zugrunde, /\\
+ keiner deiner Bewohner bleibt übrig. ^{[[#fn5][5]]}\\
+\\
+
+<<v6>>
+6 Das Kereterland wird zum Weideland der Hirten, /\\
+ es gibt nur noch Pferche für Schafe und Ziegen.\\
+\\
+
+<<v7>>
+7 Das Gebiet am Meer /\\
+ fällt dem Rest des Hauses Juda zu. Sie treiben ihre Herden dorthin /\\
+ und suchen am Abend ein Lager /\\
+ in Aschkelons Häusern. Denn der Herr, ihr Gott, kümmert sich um sie /\\
+ und wendet ihr Geschick.\\
+\\
+
+<<v8>>
+8 Ich habe den Hohn Moabs gehört /\\
+ und die Schimpfworte der Ammoniter, die mein Volk verhöhnten /\\
+ und große Reden führten gegen sein Land. ^{[[#fn6][6]]}\\
+\\
+
+<<v9>>
+9 Darum - Spruch des Herrn der Heere, /\\
+ des Gottes Israels: So wahr ich lebe: Moab wird wie Sodom werden /\\
+ und die Ammoniter wie Gomorra, ein Ort des Unkrauts, eine Salzgrube /\\
+ und eine Wüste für immer. Der Rest meines Volkes wird sie ausplündern,
+/\\
+ der Überrest meines Volkes wird sie beerben. ^{[[#fn7][7]]}\\
+\\
+
+<<v10>>
+10 Das ist die Strafe für ihren Hochmut; /\\
+ denn sie höhnten und führten große Reden /\\
+ gegen das Volk des Herrn der Heere.\\
+\\
+
+<<v11>>
+11 Furcht erregend tritt der Herr gegen sie auf. /\\
+ Ja, er vernichtet alle Götter der Erde und alle Völker der Inseln
+werfen sich nieder vor ihm, /\\
+ jedes an seinem Ort.\\
+\\
+
+<<v12>>
+12 Auch ihr Kuschiter werdet /\\
+ von meinem Schwert durchbohrt. ^{[[#fn8][8]]}\\
+\\
+
+<<v13>>
+13 Er streckt seine Hand auch nach Norden aus /\\
+ und vernichtet Assur und Ninive macht er zur Öde, /\\
+ es verdorrt wie die Wüste. ^{[[#fn9][9]]}\\
+\\
+
+<<v14>>
+14 Dort lagern Herden, Tiere aller Art, /\\
+ auf den Kapitellen der Säulen nächtigen Eule und Dohle. Laut schreit es
+im Fenster, /\\
+ ein Rabe krächzt auf der Schwelle. /\\
+ [Denn das Zederngetäfel ist weg.] ^{[[#fn10][10]]}\\
+\\
+
+<<v15>>
+15 Das also ist die fröhliche Stadt, /\\
+ die sich in Sicherheit wiegte, /\\
+ die dachte: Ich und sonst niemand! Welch eine Wüste ist sie geworden,
+/\\
+ ein Lager für die wilden Tiere. Jeder, der dort vorbeikommt, /\\
+ pfeift und hebt entsetzt seine Hand. ^{[[#fn11][11]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Hos 13,3
+
+^{[[#fnm2][2]]} ℘ Am 5,4-6
+
+^{[[#fnm3][3]]} ℘ Am 1,6-8; Jer 47
+
+^{[[#fnm4][4]]} In H Wortspiele mit den Namen der Städte.
+
+^{[[#fnm5][5]]} ℘ Ez 25,15-17
+
+^{[[#fnm6][6]]} ℘ (8-11) Jes 15f; Jer 48,1 - 49,6; Ez 25,1-11; Am 1,13 -
+2,3
+
+^{[[#fnm7][7]]} ℘ Gen 19,24f
+
+^{[[#fnm8][8]]} ℘ Jes 18f
+
+^{[[#fnm9][9]]} ℘ Jer 46
+
+^{[[#fnm10][10]]} Denn das Zederngetäfel ist weg: Text korr.; H
+verderbt.
+
+^{[[#fnm11][11]]} ℘ Jes 47,8.10; Jer 18,16; 19,8

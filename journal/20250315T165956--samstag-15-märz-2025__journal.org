@@ -1,0 +1,17 @@
+#+title:      Samstag 15 März 2025
+#+date:       [2025-03-15 Sa 16:59]
+#+filetags:   :journal:
+#+identifier: 20250315T165956
+
+* Ein neuer Eintrag
+Mit seinem Text.
+
+* [2025-03-15 Sa 17:03] Dazu was Neues
+:PROPERTIES:
+:CUSTOM_ID: h:65190f5e-41d6-4ede-8512-85d60134fdf2
+:END:
+
+* [2025-03-15 Sa 20:25] Noch ein Eintrag
+Mit seinem Text.
+
+

@@ -1,0 +1,213 @@
+#+TITLE: Spr 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-25 So 22:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 16.html
+
+* Spr 16
+
+<<verses>>
+
+<<v1>>
+1 Der Mensch entwirft die Pläne im Herzen, /\\
+ doch vom Herrn kommt die Antwort auf der Zunge.\\
+\\
+
+<<v2>>
+2 Jeder meint, sein Verhalten sei fehlerlos, /\\
+ doch der Herr prüft die Geister. [fn:1]\\
+\\
+
+<<v3>>
+3 Befiehl dem Herrn dein Tun an, /\\
+ so werden deine Pläne gelingen. [fn:2]\\
+\\
+
+<<v4>>
+4 Alles hat der Herr für seinen Zweck erschaffen, /\\
+ so auch den Frevler für den Tag des Unheils. [fn:3]\\
+\\
+
+<<v5>>
+5 Ein Gräuel ist dem Herrn jeder Hochmütige, /\\
+ er bleibt gewiss nicht ungestraft. [fn:4]\\
+\\
+
+<<v6>>
+6 Durch Liebe und Treue wird Schuld gesühnt, /\\
+ durch Gottesfurcht weicht man dem Bösen aus.\\
+\\
+
+<<v7>>
+7 Gefallen dem Herrn die Wege eines Menschen, /\\
+ so versöhnt er auch seine Feinde mit ihm.\\
+\\
+
+<<v8>>
+8 Besser wenig und gerecht /\\
+ als viel Besitz und Unrecht. [fn:5]\\
+\\
+
+<<v9>>
+9 Des Menschen Herz plant seinen Weg, /\\
+ doch der Herr lenkt seinen Schritt.\\
+\\
+
+<<v10>>
+10 Gottesentscheid kommt von den Lippen des Königs, /\\
+ sein Mund verfehlt sich nicht, wenn er ein Urteil fällt. [fn:6]\\
+\\
+
+<<v11>>
+11 Rechte Waage und Waagschalen sind Sache des Herrn, /\\
+ sein Werk sind alle Gewichtssteine im Beutel. [fn:7]\\
+\\
+
+<<v12>>
+12 Frevlerisches Tun ist Königen ein Gräuel, /\\
+ denn ein Thron steht fest durch Gerechtigkeit. [fn:8]\\
+\\
+
+<<v13>>
+13 Gerechte Lippen gefallen dem König, /\\
+ wer aufrichtig redet, den liebt er.\\
+\\
+
+<<v14>>
+14 Des Königs Grimm gleicht Todesboten, /\\
+ aber ein Weiser kann ihn besänftigen. [fn:9]\\
+\\
+
+<<v15>>
+15 Im leuchtenden Gesicht des Königs liegt Leben, /\\
+ sein Wohlwollen gleicht der Regenwolke im Frühjahr. [fn:10]\\
+\\
+
+<<v16>>
+16 Weisheit erwerben ist besser als Gold, /\\
+ Einsicht erwerben vortrefflicher als Silber.\\
+\\
+
+<<v17>>
+17 Böses zu meiden ist das Ziel der Rechtschaffenen; /\\
+ wer auf seinen Weg achtet, bewahrt sein Leben.\\
+\\
+
+<<v18>>
+18 Hoffart kommt vor dem Sturz /\\
+ und Hochmut kommt vor dem Fall.\\
+\\
+
+<<v19>>
+19 Besser bescheiden sein mit Demütigen, /\\
+ als Beute teilen mit Stolzen.\\
+\\
+
+<<v20>>
+20 Wer auf das Wort des Herrn achtet, findet Glück; /\\
+ wohl dem, der auf ihn vertraut.\\
+\\
+
+<<v21>>
+21 Wer ein weises Herz hat, den nennt man verständig, /\\
+ gefällige Rede fördert die Belehrung. [fn:11]\\
+\\
+
+<<v22>>
+22 Wer Verstand besitzt, dem ist er ein Lebensquell, /\\
+ die Strafe der Toren ist die Torheit selbst.\\
+\\
+
+<<v23>>
+23 Das Herz des Weisen macht seinen Mund klug, /\\
+ es mehrt auf seinen Lippen die Belehrung.\\
+\\
+
+<<v24>>
+24 Freundliche Worte sind wie Wabenhonig, /\\
+ süß für den Gaumen, heilsam für den Leib.\\
+\\
+
+<<v25>>
+25 Manch einem scheint sein Weg der rechte, /\\
+ aber am Ende sind es Wege des Todes. [fn:12]\\
+\\
+
+<<v26>>
+26 Der Hunger des Arbeiters arbeitet für ihn, /\\
+ denn sein Mund treibt ihn an. [fn:13]\\
+\\
+
+<<v27>>
+27 Ein Taugenichts ist ein Ofen voll Unheil, /\\
+ auf seinen Lippen ist es wie sengendes Feuer.\\
+\\
+
+<<v28>>
+28 Ein tückischer Mensch erregt Streit, /\\
+ ein Verleumder entzweit Freunde.\\
+\\
+
+<<v29>>
+29 Der Gewalttätige verführt seinen Nächsten, /\\
+ er bringt ihn auf einen Weg, der nicht gut ist.\\
+\\
+
+<<v30>>
+30 Wer mit den Augen zwinkert, sinnt auf Tücke; /\\
+ wer die Lippen verzieht, hat das Böse schon vollbracht. [fn:14]\\
+\\
+
+<<v31>>
+31 Graues Haar ist eine prächtige Krone, /\\
+ auf dem Weg der Gerechtigkeit findet man sie.\\
+\\
+
+<<v32>>
+32 Besser ein Langmütiger als ein Kriegsheld, /\\
+ besser, wer sich selbst beherrscht, als wer Städte erobert.\\
+\\
+
+<<v33>>
+33 Im Bausch des Gewandes schüttelt man das Los, /\\
+ doch jede Entscheidung kommt allein vom Herrn. [fn:15]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Spr_21.org::v2][21,2]]
+
+[fn:2] [[file:Ps_37.org::v5][Ps 37,5]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_5.org::v7][1 Petr 5,7]]
+
+[fn:3] 4b: Kurze und überspitzte Redeweise des Volksmunds.
+
+[fn:4] [[file:Spr_11.org::v21][11,21]]
+
+[fn:5] [[file:Spr_15.org::v16][15,16]]
+
+[fn:6] [[file:Spr_25.org::v2][25,2]]
+
+[fn:7] [[file:Mi_6.org::v11][Mi 6,11]]
+
+[fn:8] [[file:Spr_25.org::v5][25,5]]
+
+[fn:9] [[file:Spr_19.org::v12][19,12]]
+
+[fn:10] 15b: Im März und April fällt der sehnlichst erwartete «Spätregen».
+
+[fn:11] [[file:Sir_6.org::v5][Sir 6,5]]
+
+[fn:12] [[file:Spr_14.org::v12][14,12]]
+
+[fn:13] [[file:Koh_6.org::v7][Koh 6,7]]
+
+[fn:14] [[file:Spr_6.org::v13][6,13]]; [[file:Spr_10.org::v10][10,10]]
+
+[fn:15] [[file:Spr_18.org::v18][18,18]]; [[file:1.Sam_14.org::v41][1 Sam 14,41]]

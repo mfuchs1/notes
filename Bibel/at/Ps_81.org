@@ -1,0 +1,131 @@
+#+TITLE: Ps 81 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-03 Sa 22:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 81.html
+
+* Ps 81
+
+<<verses>>
+
+<<v1>>
+* Aufruf zur Treue gegen Gott
+
+1 [Für den Chormeister. Nach dem Kelterlied. Von Asaf.]\\
+\\
+
+<<v2>>
+2 Jubelt Gott zu, er ist unsre Zuflucht; /\\
+ jauchzt dem Gott Jakobs zu!\\
+\\
+
+<<v3>>
+3 Stimmt an den Gesang, schlagt die Pauke, /\\
+ die liebliche Laute, dazu die Harfe!\\
+\\
+
+<<v4>>
+4 Stoßt in die Posaune am Neumond /\\
+ und zum Vollmond, am Tag unsres Festes! [fn:1]\\
+\\
+
+<<v5>>
+5 Denn das ist Satzung für Israel, /\\
+ Entscheid des Gottes Jakobs.\\
+\\
+
+<<v6>>
+6 Das hat er als Gesetz für Josef erlassen, /\\
+ als Gott gegen Ägypten auszog. Eine Stimme höre ich, die ich noch nie
+vernahm: /\\
+\\
+
+<<v7>>
+7 Seine Schulter hab ich von der Bürde befreit, /\\
+ seine Hände kamen los vom Lastkorb. [fn:2]\\
+\\
+
+<<v8>>
+8 Du riefst in der Not /\\
+ und ich riss dich heraus; ich habe dich aus dem Gewölk des Donners
+erhört, /\\
+ an den Wassern von Meríba geprüft. [Sela] [fn:3]\\
+\\
+
+<<v9>>
+9 Höre, mein Volk, ich will dich mahnen! /\\
+ Israel, wolltest du doch auf mich hören!\\
+\\
+
+<<v10>>
+10 Für dich gibt es keinen andern Gott. /\\
+ Du sollst keinen fremden Gott anbeten. [fn:4] [fn:5]\\
+\\
+
+<<v11>>
+11 Ich bin der Herr, dein Gott, /\\
+ der dich heraufgeführt hat aus Ägypten. /\\
+ Tu deinen Mund auf! Ich will ihn füllen.\\
+\\
+
+<<v12>>
+12 Doch mein Volk hat nicht auf meine Stimme gehört; /\\
+ Israel hat mich nicht gewollt. [fn:6]\\
+\\
+
+<<v13>>
+13 Da überließ ich sie ihrem verstockten Herzen /\\
+ und sie handelten nach ihren eigenen Plänen. [fn:7]\\
+\\
+
+<<v14>>
+14 Ach dass doch mein Volk auf mich hörte, /\\
+ dass Israel gehen wollte auf meinen Wegen!\\
+\\
+
+<<v15>>
+15 Wie bald würde ich seine Feinde beugen, /\\
+ meine Hand gegen seine Bedränger wenden. [fn:8]\\
+\\
+
+<<v16>>
+16 Alle, die den Herrn hassen, müssten Israel schmeicheln /\\
+ und das sollte für immer so bleiben. [fn:9]\\
+\\
+
+<<v17>>
+17 Ich würde es nähren mit bestem Weizen /\\
+ und mit Honig aus dem Felsen sättigen. [fn:10] [fn:11]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Lev_23.org::v24][Lev 23,24]]; [[file:Num_10.org::v10][Num 10,10]]
+
+[fn:2] [[file:Ex_1.org::v14][Ex 1,14]]; [[file:Ex_6.org::v6][6,6]]
+
+[fn:3] [[file:Ex_17.org::v1][Ex 17,1-7]]; [[file:Num_20.org::v13][Num 20,13]]; [[file:Ps_95.org::v8][Ps 95,8]]
+
+[fn:4] (10-11) [[file:Ex_20.org::v2][Ex 20,2f]]
+
+[fn:5] Textvorschlag für die Psalmodie: Du sollst dich nicht
+niederwerfen vor einem fremden Gott.
+
+[fn:6] [[file:Ps_95.org::v7][95,7]]
+
+[fn:7] [[file:Jer_7.org::v24][Jer 7,24]]
+
+[fn:8] [[file:Ps_66.org::v3][66,3]]
+
+[fn:9] Israel: H: ihm.
+
+[fn:10] [[file:Ps_147.org::v14][147,14]]; [[file:Dtn_32.org::v13][Dtn 32,13]]
+
+[fn:11] Text korr.; H: Er hat es genährt.

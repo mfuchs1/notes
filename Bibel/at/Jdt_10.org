@@ -1,0 +1,133 @@
+#+TITLE: Jdt 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:55]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 10.html
+
+<<verses>>
+
+<<v1>>
+* Judits Gang ins feindliche Lager: 10,1-19
+
+1 Als sie ihr flehentliches Gebet zu dem Gott Israels beendet und alles
+gesagt hatte,
+
+<<v2>>
+2 stand sie auf, rief ihre Dienerin und stieg in das Haus hinab, wo sie
+sich am Sabbat und an den Festtagen aufzuhalten pflegte.
+
+<<v3>>
+3 Dort legte sie das Bußgewand ab, das sie trug, zog ihre Witwenkleider
+aus, wusch ihren Körper mit Wasser und salbte sich mit einer
+wohlriechenden Salbe. Hierauf ordnete sie ihre Haare, setzte ein Diadem
+auf und zog die Festkleider an, die sie zu Lebzeiten ihres Gatten
+Manasse getragen hatte.
+
+<<v4>>
+4 Auch zog sie Sandalen an, legte ihre Fußspangen, Armbänder,
+Fingerringe, Ohrgehänge und all ihren Schmuck an und machte sich schön,
+um die Blicke aller Männer, die sie sähen, auf sich zu ziehen.
+
+<<v5>>
+5 Ihrer Dienerin gab sie einen Schlauch Wein und ein Gefäß mit Öl; sie
+füllte einen Sack mit Gerstenmehl, getrockneten Feigen und reinen
+Broten, verpackte all diese Dinge sorgfältig und lud sie ihrer Dienerin
+auf.
+
+<<v6>>
+6 Darauf gingen sie zum Stadttor von Betulia hinaus. Dort trafen sie
+Usija sowie Kabri und Karmi, die Ältesten der Stadt, auf ihrem Posten.
+
+<<v7>>
+7 Als sie Judits verwandeltes Aussehen sahen und die Kleider, die sie
+angelegt hatte, kamen sie aus dem Staunen über ihre Schönheit nicht mehr
+heraus und sagten zu ihr:
+
+<<v8>>
+8 Der Gott unserer Väter mache dich zu einem Werkzeug seiner Gnade und
+lasse dein Vorhaben gelingen, zum Ruhm Israels und zur Verherrlichung
+Jerusalems.
+
+<<v9>>
+9 Sie aber neigte sich vor Gott im Gebet und sagte dann zu ihnen: Gebt
+Befehl, dass mir das Stadttor geöffnet wird; ich will hinausgehen und
+tun, was ihr mit mir besprochen habt. Da befahlen sie den jungen
+Männern, das Tor für sie zu öffnen, wie sie es gewünscht hatte.
+
+<<v10>>
+10 Man öffnete das Tor und Judit ging mit ihrer Dienerin hinaus. Die
+Männer in der Stadt aber sahen ihr nach, bis sie den Berg hinabgestiegen
+und durch das Tal gegangen war und man sie nicht mehr sehen konnte.
+
+<<v11>>
+11 Als sie im Tal weitergingen, begegneten ihr assyrische Vorposten.
+
+<<v12>>
+12 Sie hielten sie fest und fragten: Zu welchem Volk gehörst du? Woher
+kommst du und wohin gehst du? Sie antwortete: Ich gehöre zum Volk der
+Hebräer und laufe von ihnen fort, weil sie euch doch bald zum Fraß
+vorgeworfen werden.
+
+<<v13>>
+13 Ich will zu Holofernes, dem Oberbefehlshaber eures Heeres, gehen und
+ihm eine zuverlässige Nachricht bringen; ich will ihm zeigen, welchen
+Weg er einschlagen muss, um das ganze Bergland in seinen Besitz zu
+bringen, ohne dass dabei einer von seinen Leuten Leib und Leben
+verliert.
+
+<<v14>>
+14 Als die Männer ihre Worte hörten und ihr Gesicht betrachteten, dessen
+Schönheit sie bezauberte, sagten sie:
+
+<<v15>>
+15 Du hast dein Leben gerettet, weil du dich beeilt hast, von dort oben
+unserem Herrn entgegenzugehen. Komm jetzt zu seinem Zelt! Einige von uns
+werden dich begleiten und dich ihm übergeben.
+
+<<v16>>
+16 Hab keine Angst, wenn du vor ihm stehst. Sag ihm, was du zu sagen
+hast, dann wird er dich gnädig behandeln.
+
+<<v17>>
+17 Darauf wählten sie von ihren Leuten hundert Männer zum Geleit für
+Judit und ihre Dienerin aus; diese führten sie zum Zelt des Holofernes.
+
+<<v18>>
+18 Im ganzen Lager entstand eine große Unruhe; denn die Nachricht von
+Judits Ankunft hatte sich schon in den Zelten herumgesprochen. Die Leute
+eilten herbei und umringten sie, als sie vor dem Zelt des Holofernes
+stand, bis man sie ihm angemeldet hatte.
+
+<<v19>>
+19 Sie bewunderten ihre Schönheit und übertrugen ihre Bewunderung auch
+auf die Israeliten. Einer sagte zum andern: Wer kann dieses Volk
+verachten, das solche Frauen in seiner Mitte hat? Es wäre nicht klug,
+auch nur einen einzigen Mann von ihnen übrig zu lassen; wenn man sie
+laufen lässt, sind sie imstande, noch die ganze Welt zu überlisten.\\
+\\
+
+<<v20>>
+* Die Begegnung mit Holofernes: 10,20-23
+
+20 Schließlich kamen die Leibwächter des Holofernes und sein ganzes
+Gefolge heraus und führten sie in das Zelt.
+
+<<v21>>
+21 Holofernes lag auf seinem Lager unter einem Mückennetz aus Purpur und
+Gold, in das Smaragde und andere Edelsteine eingewebt waren.
+
+<<v22>>
+22 Als man ihm Judit anmeldete, trat er in den Vorraum des Zeltes
+hinaus, wobei ihm silberne Leuchter vorangetragen wurden.
+
+<<v23>>
+23 Sobald er und sein Gefolge Judit erblickten, gerieten sie alle in
+Erstaunen über die Schönheit ihres Gesichts. Sie warf sich vor ihm
+nieder und huldigte ihm, doch seine Diener richteten sie wieder auf.\\
+\\

@@ -1,0 +1,246 @@
+#+TITLE: Ri 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 22:10]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 6.html
+
+<<verses>>
+
+<<v1>>
+
+* Die Berufung Gideons: 6,1-24
+
+Die Israeliten taten, was dem Herrn missfiel. Da gab sie der Herr in die
+Gewalt Midians, sieben Jahre lang. [fn:1]
+
+<<v2>>
+2 Als Midian die Oberhand gewann, machten sich die Israeliten die
+Schluchten in den Bergen und die Höhlen und die Bergnester (als
+Unterschlupf) vor den Midianitern zurecht.
+
+<<v3>>
+3 Doch immer, wenn die Israeliten gesät hatten, kamen Midian, die
+Amalekiter und die Leute aus dem Osten und zogen gegen sie heran.
+
+<<v4>>
+4 Sie belagerten die Israeliten und vernichteten die Ernte des Landes
+bis hin in die Gegend von Gaza. Sie ließen in Israel keine Lebensmittel
+übrig, auch kein Schaf, kein Rind und keinen Esel.
+
+<<v5>>
+5 Denn sie zogen mit ihren Herden und Zelten heran und kamen so
+zahlreich wie die Heuschrecken herbei. Zahllos waren sie selbst und auch
+ihre Kamele. Sie kamen und verheerten das Land.
+
+<<v6>>
+6 So verarmte Israel sehr wegen Midian und die Israeliten schrien zum
+Herrn.
+
+<<v7>>
+7 Als nun die Israeliten wegen Midian zum Herrn schrien,
+
+<<v8>>
+8 schickte der Herr einen Propheten zu den Israeliten. Dieser sagte zu
+ihnen: So spricht der Herr, der Gott Israels: Ich selbst habe euch aus
+Ägypten heraufgeführt. Ich habe euch aus dem Sklavenhaus herausgeführt.
+
+<<v9>>
+9 Ich habe euch aus der Gewalt Ägyptens und aus der Gewalt all eurer
+Unterdrücker befreit. Ich habe sie vor euren Augen vertrieben und euch
+ihr Land gegeben.
+
+<<v10>>
+10 Und ich habe euch gesagt: Ich bin der Herr, euer Gott. Fürchtet nicht
+die Götter der Amoriter, in deren Land ihr wohnt. Aber ihr habt nicht
+auf meine Stimme gehört.
+
+<<v11>>
+11 Der Engel des Herrn kam und setzte sich unter die Eiche bei Ofra, die
+dem Abiësriter Joasch gehörte. Sein Sohn Gideon war gerade dabei, in der
+Kelter Weizen zu dreschen, um ihn vor Midian in Sicherheit zu bringen. [fn:2] [fn:3]
+
+<<v12>>
+12 Da erschien ihm der Engel des Herrn und sagte zu ihm: Der Herr sei
+mit dir, starker Held.
+
+<<v13>>
+13 Doch Gideon sagte zu ihm: Ach, mein Herr, ist der Herr wirklich mit
+uns? Warum hat uns dann all das getroffen? Wo sind alle seine
+wunderbaren Taten, von denen uns unsere Väter erzählt haben? Sie sagten
+doch: Wirklich, der Herr hat uns aus Ägypten heraufgeführt. Jetzt aber
+hat uns der Herr verstoßen und uns der Faust Midians preisgegeben.
+
+<<v14>>
+14 Da wandte sich der Herr ihm zu und sagte: Geh und befrei mit der
+Kraft, die du hast, Israel aus der Faust Midians! Ja, ich sende dich. [fn:4]
+
+<<v15>>
+15 Er entgegnete ihm: Ach, mein Herr, womit soll ich Israel befreien?
+Sieh doch, meine Sippe ist die schwächste in Manasse und ich bin der
+Jüngste im Haus meines Vaters.
+
+<<v16>>
+16 Doch der Herr sagte zu ihm: Weil ich mit dir bin, wirst du Midian
+schlagen, als wäre es nur ein Mann. [fn:5]
+
+<<v17>>
+17 Gideon erwiderte ihm: Wenn ich dein Wohlwollen gefunden habe, dann
+gib mir ein Zeichen dafür, dass du selbst es bist, der mit mir redet.
+
+<<v18>>
+18 Entfern dich doch nicht von hier, bis ich zu dir zurückkomme; ich
+will eine Gabe für dich holen und sie vor dich hinlegen. Er sagte: Ich
+werde bleiben, bis du zurückkommst.
+
+<<v19>>
+19 Gideon ging (ins Haus) hinein und bereitete ein Ziegenböckchen zu
+sowie ungesäuerte Brote von einem Efa Mehl. Er legte das Fleisch in
+einen Korb, tat die Brühe in einen Topf, brachte beides zu ihm hinaus
+unter die Eiche und setzte es ihm vor.
+
+<<v20>>
+20 Da sagte der Engel Gottes zu ihm: Nimm das Fleisch und die Brote, und
+leg sie hier auf den Felsen, die Brühe aber gieß weg! Gideon tat es.
+
+<<v21>>
+21 Der Engel des Herrn streckte den Stab aus, den er in der Hand hatte,
+und berührte mit seiner Spitze das Fleisch und die Brote. Da stieg Feuer
+von dem Felsblock auf und verzehrte das Fleisch und die Brote. Der Engel
+des Herrn aber war Gideons Augen entschwunden. [fn:6]
+
+<<v22>>
+22 Als nun Gideon sah, dass es der Engel des Herrn gewesen war, sagte
+er: Weh mir, Herr und Gott, ich habe den Engel des Herrn von Angesicht
+zu Angesicht gesehen. [fn:7]
+
+<<v23>>
+23 Der Herr erwiderte ihm: Friede sei mit dir! Fürchte dich nicht, du
+wirst nicht sterben.
+
+<<v24>>
+24 Gideon errichtete an jener Stelle einen Altar für den Herrn und
+nannte ihn: Der Herr ist Friede. Der Altar steht bis zum heutigen Tag in
+Ofra, (der Stadt) der Abiësriter.\\
+\\
+
+<<v25>>
+* Die Zerstörung des Baal-Altars: 6,25-32
+
+25 In jener Nacht sagte der Herr zu Gideon: Nimm das Rind deines Vaters,
+den siebenjährigen fetten Farren, reiß den Altar des Baal nieder, der
+deinem Vater gehört, und den Kultpfahl daneben hau um! [fn:8]
+
+<<v26>>
+26 Bau einen Altar für den Herrn, deinen Gott, auf der Höhe der Burg
+hier, entsprechend der vorgeschriebenen Ordnung, nimm den fetten Farren
+und bring ihn mit dem Holz des Kultpfahls, den du umhaust, als
+Brandopfer dar.
+
+<<v27>>
+27 Da nahm Gideon zehn seiner Knechte und tat, was der Herr zu ihm
+gesagt hatte. Weil er sich aber vor seiner Familie und den Leuten der
+Stadt fürchtete, es bei Tag zu tun, tat er es bei Nacht.
+
+<<v28>>
+28 Als die Einwohner der Stadt am Morgen aufstanden, sahen sie, dass der
+Altar des Baal zerstört, der Kultpfahl daneben umgehauen und der fette
+Farren auf dem neu erbauten Altar geopfert war.
+
+<<v29>>
+29 Da sagten sie zueinander: Wer hat das getan? Sie suchten und
+forschten nach und stellten fest: Gideon, der Sohn des Joasch, hat es
+getan.
+
+<<v30>>
+30 Die Einwohner der Stadt sagten deshalb zu Joasch: Gib deinen Sohn
+heraus! Er muss sterben, denn er hat den Altar des Baal niedergerissen
+und den Kultpfahl daneben umgehauen.
+
+<<v31>>
+31 Joasch erwiderte allen, die um ihn herumstanden: Wollt ihr etwa für
+Baal streiten? Wollt /ihr/ ihn retten? Wer für ihn streitet, soll noch
+vor dem Morgen sterben. Wenn Baal Gott ist, soll er für sich selbst
+streiten, weil man seinen Altar niedergerissen hat.
+
+<<v32>>
+32 Darum nannte man Gideon seit jenem Tag Jerubbaal - das heißt: Baal
+möge gegen ihn streiten -; denn er hat seinen Altar niedergerissen. [fn:9] [fn:10]\\
+\\
+
+<<v33>>
+* Das göttliche Zeichen vor der Schlacht gegen die Midianiter: 6,33-40
+
+33 Ganz Midian, Amalek und die Leute aus dem Osten taten sich zusammen,
+zogen herüber und schlugen in der Ebene Jesreel ihr Lager auf.
+
+<<v34>>
+34 Da kam der Geist des Herrn über Gideon. Gideon blies ins Widderhorn
+und rief die Abiësriter, ihm (in den Kampf) zu folgen. [fn:11]
+
+<<v35>>
+35 Auch schickte er Boten in ganz Manasse umher und rief Manasse, ihm
+(in den Kampf) zu folgen. Außerdem schickte er Boten in Ascher, Sebulon
+und Naftali umher und auch diese stießen zu ihnen.
+
+<<v36>>
+36 Da sagte Gideon zu Gott: Wenn du Israel wirklich durch meine Hand
+retten willst, wie du gesagt hast -
+
+<<v37>>
+37 sieh her, ich lege frisch geschorene Wolle auf die Tenne; wenn der
+Tau allein auf die Wolle fällt und es auf dem ganzen (übrigen) Boden
+trocken bleibt, dann weiß ich, dass du durch meine Hand Israel retten
+willst, wie du gesagt hast.
+
+<<v38>>
+38 Und so geschah es. Als er früh am Morgen hinkam und die Wolle
+ausdrückte, konnte er den Tau - eine Schale voll Wasser - aus der Wolle
+herauspressen.
+
+<<v39>>
+39 Darauf sagte Gideon zu Gott: Dein Zorn möge nicht gegen mich
+entbrennen, wenn ich noch einmal rede. Ich möchte es nur noch dieses
+eine Mal mit der Wolle versuchen: Die Wolle allein soll dieses Mal
+trocken bleiben und auf dem ganzen (übrigen) Boden soll Tau liegen.
+
+<<v40>>
+40 Und Gott machte es in der folgenden Nacht so: Die Wolle allein blieb
+trocken und auf dem ganzen übrigen Boden lag Tau.\\
+\\
+
+* Footnotes
+
+[fn:1] Die Midianiter waren Kamelnomaden (V. 5); sie fielen
+wiederholt mit verbündeten Stämmen in Palästina ein.
+
+[fn:2] [[file:Ri_8.org::v22][8,22]]
+
+[fn:3] Ofra lag nördlich von Sichem. Der Weizen muss heimlich
+in der Kelter ausgeklopft werden, um eine Beschlagnahme durch die
+Philister zu vermeiden. Der Engel des Herrn und Gott wechseln im Text.
+
+[fn:4] [[file:1.Sam_12.org::v11][1 Sam 12,11]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v32][Hebr 11,32]]
+
+[fn:5] [[file:Ex_3.org::v12][Ex 3,12]]
+
+[fn:6] Durch das wunderbare, durch den Engel des Herrn
+entzündete Feuer wird die Stelle als heiliger Ort bezeichnet und
+folglich nach V. 24 zur Kultstätte.
+
+[fn:7] [[file:Ex_33.org::v20][Ex 33,20]]; [[file:Jes_6.org::v5][Jes 6,5]]
+
+[fn:8] [[v25][25]].[[v28][28]]: fetten (Farren): Text korr.; H: zweiten.
+
+[fn:9] [[file:Ri_7.org::v1][7,1]]
+
+[fn:10] Jerubbaal erscheint in 7,1 als zweiter Name Gideons
+und bedeutet «Baal möge (für ihn) streiten» oder «Baal möge sich groß
+erweisen».
+
+[fn:11] [[file:Ri_3.org::v10][3,10]]; [[file:Ri_11.org::v29][11,29]]; [[file:Ri_13.org::v25][13,25]]

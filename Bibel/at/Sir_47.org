@@ -1,0 +1,225 @@
+:PROPERTIES:
+:ID:       a2db3862-1947-4a3d-bef3-14e8afe0f295
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_45.html][45]]
+[[file:Sir_46.html][46]] *47* [[file:Sir_48.html][48]]
+[[file:Sir_49.html][49]] ... [[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 47
+  :PROPERTIES:
+  :CUSTOM_ID: sir-47
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Erwählung Davids: 47,1-11
+     :PROPERTIES:
+     :CUSTOM_ID: die-erwählung-davids-471-11
+     :END:
+1 Nach ihm stand Natan auf, /\\
+ um vor David hinzutreten.\\
+\\
+
+<<v2>>
+2 Wie das Fett herausgehoben ist aus dem Opferfleisch, /\\
+ so David aus Israel. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Er spielte mit Löwen, als wären es Ziegen, /\\
+ mit Bären, als wären es Schafe.\\
+\\
+
+<<v4>>
+4 In seiner Jugend erschlug er den Riesen /\\
+ und befreite das Volk von der Schmach, indem er mit der Hand die
+Schleuder schwang /\\
+ und Goliats Hochmut zerbrach. ^{[[#fn2][2]]}\\
+\\
+
+<<v5>>
+5 Denn er hatte Gott, den Höchsten, angerufen /\\
+ und dieser gab seiner rechten Hand Kraft, um den kampferprobten Mann
+niederzustrecken /\\
+ und die Macht seines Volkes zu mehren.\\
+\\
+
+<<v6>>
+6 Darum haben ihn die Frauen besungen /\\
+ und ihm zugerufen: Zehntausend (erschlug er)! ^{[[#fn3][3]]}\\
+\\
+
+<<v7>>
+7 Als er die Krone trug, führte er Krieg /\\
+ und demütigte ringsum die Feinde. Er schlug die feindlichen Philister
+/\\
+ und zerbrach ihre Macht bis heute. ^{[[#fn4][4]]}\\
+\\
+
+<<v8>>
+8 Bei allen seinen Taten stimmte er Loblieder an /\\
+ auf Gott, den Höchsten, mit rühmenden Worten. Er liebte seinen Schöpfer
+von ganzem Herzen, /\\
+ alle Tage pries er ihn mit Liedern. ^{[[#fn5][5]]}\\
+\\
+
+<<v9>>
+9 Vor dem Altar ließ er Saiteninstrumente aufstellen /\\
+ und schuf Psalmweisen für die Harfenbegleitung. ^{[[#fn6][6]]}\\
+\\
+
+<<v10>>
+10 Den Festen verlieh er Glanz /\\
+ und verschönerte die Feiertage im Kreislauf des Jahres. Vom Lobgesang
+auf Gottes heiligen Namen /\\
+ hallte das Heiligtum wider schon vor dem Morgen.\\
+\\
+
+<<v11>>
+11 Der Herr verzieh ihm seine Sünde /\\
+ und begründete seine Macht für immer. Er übergab ihm das Königsgesetz
+/\\
+ und festigte seinen Thron über Israel. ^{[[#fn7][7]]}\\
+\\
+
+<<v12>>
+**** Die Weisheit und die Torheit Salomos: 47,12-24
+     :PROPERTIES:
+     :CUSTOM_ID: die-weisheit-und-die-torheit-salomos-4712-24
+     :END:
+12 Seinetwegen erstand ihm als Nachfolger /\\
+ ein weiser Sohn, der in Sicherheit leben konnte.
+^{[[#fn8][8]][[#fn9][9]]}\\
+\\
+
+<<v13>>
+13 Salomo war König in friedlichen Tagen, /\\
+ Gott verschaffte ihm Ruhe ringsum. Er baute ein Haus für den Namen des
+Herrn /\\
+ und errichtete ein Heiligtum für immer. ^{[[#fn10][10]]}\\
+\\
+
+<<v14>>
+14 Wie weise warst du in deiner Jugend, /\\
+ von Bildung strömtest du über wie der Nil.\\
+\\
+
+<<v15>>
+15 Die Erde bedecktest du mit deinem Wissen, /\\
+ bis zur Himmelshöhe ließest du Lieder aufsteigen.
+^{[[#fn11][11]][[#fn12][12]]}\\
+\\
+
+<<v16>>
+16 Bis zu den fernsten Inseln gelangte dein Ruhm /\\
+ und man begehrte danach, dich zu hören. ^{[[#fn13][13]]}\\
+\\
+
+<<v17>>
+17 Durch Lied und Sinnspruch, Rätsel und Gleichnis /\\
+ hast du die Völker in Staunen versetzt.\\
+\\
+
+<<v18>>
+18 Du wurdest benannt nach dem Namen des Hochgeehrten, /\\
+ der auch über Israel ausgerufen ist. Gold hast du angehäuft wie Eisen
+/\\
+ und das Silber vermehrt wie Blei. ^{[[#fn14][14]]}\\
+\\
+
+<<v19>>
+19 Doch gabst du dich den Frauen hin /\\
+ und ließest sie herrschen über deinen Leib. ^{[[#fn15][15]]}\\
+\\
+
+<<v20>>
+20 Du hast deine Ehre befleckt /\\
+ und dein Ehebett entweiht. So hast du Zorn über deine Nachkommen
+gebracht /\\
+ und Klage über dein Ehelager,\\
+\\
+
+<<v21>>
+21 indem das Volk unter zwei Zepter kam /\\
+ und aus Efraim ein abtrünniges Reich wurde. ^{[[#fn16][16]]}\\
+\\
+
+<<v22>>
+22 Gott aber hat seine Huld nicht aufgegeben /\\
+ und keines seiner Worte unerfüllt gelassen. Er hat seinem Erwählten den
+Spross und Sohn nicht ausgerottet, /\\
+ die Nachkommen seine Freundes nicht ausgetilgt. So hat er Jakob einen
+Rest gelassen /\\
+ und David einen Wurzelspross aus ihm selbst. ^{[[#fn17][17]]}\\
+\\
+
+<<v23>>
+23 Salomo entschlief in Verzweiflung /\\
+ und hinterließ einen starrköpfigen Sohn, reich an Torheit, arm an
+Einsicht: /\\
+ Rehabeam, der durch seinen Entschluss das Volk entzweite. Dann stand
+Jerobeam auf, der Sohn Nebats; /\\
+ sein Andenken sei ausgelöscht. Er sündigte und verführte Israel zur
+Sünde. /\\
+ Er verschuldete Efraims Fall / ^{[[#fn18][18]][[#fn19][19]]}\\
+\\
+
+<<v24>>
+24 und die Vertreibung aus ihrem Land. Ihre Sünde wurde sehr groß, /
+^{[[#fn20][20]][[#fn21][21]]}
+
+<<v25>>
+25 allem Bösen gaben sie sich hin.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Lev 3; 1 Sam 16
+
+^{[[#fnm2][2]]} ℘ 1 Sam 17
+
+^{[[#fnm3][3]]} ℘ 1 Sam 18,6-8
+
+^{[[#fnm4][4]]} ℘ 2 Sam 5,17-25
+
+^{[[#fnm5][5]]} 8-10: Sirach würdigt, wie der Chronist, David vor allem
+als Psalmendichter und Begründer des Gottesdienstes.
+
+^{[[#fnm6][6]]} ℘ 1 Chr 15,16 - 16,43
+
+^{[[#fnm7][7]]} ℘ 2 Sam 12,1-14; 7,12-16
+
+^{[[#fnm8][8]]} ℘ 1 Kön 5,5
+
+^{[[#fnm9][9]]} 12a: Seinetwegen: deutet an, dass der Glanz Salomos auf
+die Verdienste Davids zurückzuführen ist.
+
+^{[[#fnm10][10]]} ℘ 1 Kön 6
+
+^{[[#fnm11][11]]} ℘ 1 Kön 5,12-14
+
+^{[[#fnm12][12]]} Text unsicher; G: Deine Seele bedeckte die Erde und du
+hast sie angefüllt mit Rätselsprüchen.
+
+^{[[#fnm13][13]]} 16b: Nach S; G: und du wurdest geliebt in deinem
+Frieden.
+
+^{[[#fnm14][14]]} ℘ 2 Sam 12,25; 1 Kön 10,14-29
+
+^{[[#fnm15][15]]} ℘ 1 Kön 11,1-10
+
+^{[[#fnm16][16]]} ℘ 1 Kön 11,11; 12,16-20
+
+^{[[#fnm17][17]]} 22c: Der Erwählte ist David.
+
+^{[[#fnm18][18]]} ℘ 1 Kön 12,13-19.26-33
+
+^{[[#fnm19][19]]} Text zum Teil unsicher und mit späteren Erweiterungen.
+
+^{[[#fnm20][20]]} ℘ 2 Kön 17,21-23
+
+^{[[#fnm21][21]]} G hat die Zeilen umgestellt.

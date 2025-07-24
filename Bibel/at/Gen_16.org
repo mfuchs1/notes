@@ -1,0 +1,107 @@
+#+TITLE: Gen 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:06]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 16.html
+
+
+<<verses>>
+
+<<v1>>
+* Ismaels Geburt: 16,1-16
+
+1 Sarai, Abrams Frau, hatte ihm keine Kinder geboren. Sie hatte aber
+eine ägyptische Magd namens Hagar. [fn:1]
+
+<<v2>>
+2 Sarai sagte zu Abram: Der Herr hat mir Kinder versagt. Geh zu meiner
+Magd! Vielleicht komme ich durch sie zu einem Sohn. Abram hörte auf sie. [fn:2]
+
+<<v3>>
+3 Sarai, Abrams Frau, nahm also die Ägypterin Hagar, ihre Magd, - zehn
+Jahre, nachdem sich Abram in Kanaan niedergelassen hatte - und gab sie
+ihrem Mann Abram zur Frau.
+
+<<v4>>
+4 Er ging zu Hagar und sie wurde schwanger. Als sie merkte, dass sie
+schwanger war, verlor die Herrin bei ihr an Achtung.
+
+<<v5>>
+5 Da sagte Sarai zu Abram: Das Unrecht, das ich erfahre, komme auf dich.
+Ich habe dir meine Magd überlassen. Kaum merkt sie, dass sie schwanger
+ist, so verliere ich schon an Achtung bei ihr. Der Herr entscheide
+zwischen mir und dir.
+
+<<v6>>
+6 Abram entgegnete Sarai: Hier ist deine Magd; sie ist in deiner Hand.
+Tu mit ihr, was du willst. Da behandelte Sarai sie so hart, dass ihr
+Hagar davonlief.
+
+<<v7>>
+7 Der Engel des Herrn fand Hagar an einer Quelle in der Wüste, an der
+Quelle auf dem Weg nach Schur.
+
+<<v8>>
+8 Er sprach: Hagar, Magd Sarais, woher kommst du und wohin gehst du? Sie
+antwortete: Ich bin meiner Herrin Sarai davongelaufen.
+
+<<v9>>
+9 Da sprach der Engel des Herrn zu ihr: Geh zurück zu deiner Herrin und
+ertrag ihre harte Behandlung!
+
+<<v10>>
+10 Der Engel des Herrn sprach zu ihr: Deine Nachkommen will ich so
+zahlreich machen, dass man sie nicht zählen kann.
+
+<<v11>>
+11 Weiter sprach der Engel des Herrn zu ihr: Du bist schwanger, du wirst
+einen Sohn gebären und ihn Ismael (Gott hört) nennen; denn der Herr hat
+auf dich gehört in deinem Leid.\\
+\\
+
+<<v12>>
+12 Er wird ein Mensch sein wie ein Wildesel. /\\
+ Seine Hand gegen alle, die Hände aller gegen ihn! /\\
+ Allen seinen Brüdern setzt er sich vors Gesicht. [fn:3]\\
+\\
+
+<<v13>>
+13 Da nannte sie den Herrn, der zu ihr gesprochen hatte: El-Roï (Gott,
+der nach mir schaut). Sie sagte nämlich: Habe ich hier nicht nach dem
+geschaut, der nach mir schaut? [fn:4]
+
+<<v14>>
+14 Darum nannte sie den Brunnen Beer-Lahai-Roï (Brunnen des Lebendigen,
+der nach mir schaut). Er liegt zwischen Kadesch und Bered.
+
+<<v15>>
+15 Hagar gebar dem Abram einen Sohn und Abram nannte den Sohn, den ihm
+Hagar gebar, Ismael.
+
+<<v16>>
+16 Abram war sechsundachtzig Jahre alt, als Hagar ihm Ismael gebar.\\
+\\
+
+
+* Footnotes
+
+[fn:1] (1-16) 21,9-21 [[file:Gen_21.org::v9][Gen 21,9-21]]
+
+[fn:2] Nach altorientalischem Recht konnte eine kinderlose Frau
+ihrem Mann die Sklavin überlassen. Die Kinder der Sklavin galten dann
+als legitime Kinder des Ehepaars. Sollte später die Frau wider Erwarten
+noch eigene Kinder bekommen, konnte der Vater die Kinder der Sklavin
+nach Übergabe von Geschenken fortschicken, er musste aber die Sklavin
+dann freilassen (vgl. 21,1-21).
+
+[fn:3] Der Vers deutet den unbändigen Freiheitsdrang der
+Wüstenstämme an. Die arabischen Beduinen betrachten sich noch heute als
+Nachkommen Ismaels.
+
+[fn:4] 13f: In H Wortspiel mit dem Namen des Brunnens.

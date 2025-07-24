@@ -1,0 +1,164 @@
+#+TITLE: 1 Sam 23 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-07 Di 11:52]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 23.html
+
+<<verses>>
+
+<<v1>>
+* David in Keïla und in der Steppe Sif: 23,1-28
+
+1 Man berichtete David: Die Philister kämpfen gerade gegen Keïla und
+plündern die Scheunen. [fn:1]
+
+<<v2>>
+2 Da befragte David den Herrn: Soll ich hinziehen und diese Philister
+schlagen? Der Herr antwortete David: Geh, schlag die Philister und rette
+Keïla!
+
+<<v3>>
+3 Aber die Männer Davids sagten: Schau, wir müssen schon hier in Juda
+Angst haben, wie viel mehr erst dann, wenn wir nach Keïla gegen die
+Truppen der Philister ziehen sollen.
+
+<<v4>>
+4 David befragte daher noch einmal den Herrn und der Herr gab zur
+Antwort: Brich auf, zieh nach Keïla hinab; denn ich werde die Philister
+in deine Hand geben.
+
+<<v5>>
+5 Darauf zog David mit seinen Männern gegen Keïla und kämpfte gegen die
+Philister. Er trieb ihre Herden weg und brachte den Philistern eine
+schwere Niederlage bei. So rettete David die Einwohner von Keïla.
+
+<<v6>>
+6 Als Abjatar, der Sohn Ahimelechs, zu David nach Keïla floh, nahm er
+auch das Efod mit. [fn:2]
+
+<<v7>>
+7 Saul aber wurde berichtet, dass David in Keïla war. Und Saul sagte:
+Gott hat ihn mir ausgeliefert; er hat sich selbst gefangen, indem er in
+eine Stadt mit Tor und Riegel gegangen ist.
+
+<<v8>>
+8 Saul bot das ganze Volk zum Kampf auf, um nach Keïla hinabzuziehen und
+David und seine Männer zu belagern.
+
+<<v9>>
+9 Als David merkte, dass Saul Böses gegen ihn im Schild führte, sagte er
+zu dem Priester Abjatar: Bring das Efod her!
+
+<<v10>>
+10 Dann sprach David: Herr, Gott Israels, dein Knecht hat gehört, dass
+Saul beabsichtigt, nach Keïla zu kommen, um die Stadt meinetwegen zu
+vernichten.
+
+<<v11>>
+11 Werden die Bürger von Keïla mich ihm ausliefern? Wird Saul
+herabkommen, wie dein Knecht gehört hat? Herr, Gott Israels, teile es
+deinem Knecht mit! Der Herr antwortete: Er wird herabkommen.
+
+<<v12>>
+12 David fragte weiter: Werden die Bürger von Keïla mich und meine
+Männer an Saul ausliefern? Der Herr antwortete: Sie werden euch
+ausliefern.
+
+<<v13>>
+13 Da brach David mit seinen Männern auf, etwa sechshundert Mann. Sie
+verließen Keïla und streiften umher, wie es sich gerade ergab. Als Saul
+berichtet wurde, dass David aus Keïla entkommen war, ließ er von seinem
+Plan ab und rückte nicht aus.
+
+<<v14>>
+14 David setzte sich in der Steppe auf Bergfestungen fest; er ließ sich
+in den Bergen der Steppe Sif nieder. Saul suchte ihn die ganze Zeit,
+aber Gott gab ihn nicht in seine Hand. [fn:3]
+
+<<v15>>
+15 David aber wusste, dass Saul ausgezogen war, weil er ihm nach dem
+Leben trachtete. Als David in Horescha in der Steppe Sif war,
+
+<<v16>>
+16 brach Jonatan, der Sohn Sauls, auf und ging zu David nach Horescha;
+er stärkte Davids Vertrauen auf Gott.
+
+<<v17>>
+17 Er sagte zu ihm: Fürchte dich nicht; die Hand meines Vaters Saul wird
+dich nicht erreichen. Du wirst König über Israel sein und ich werde der
+Zweite nach dir sein. Auch mein Vater Saul weiß das. [fn:4]
+
+<<v18>>
+18 Und die beiden schlossen vor dem Herrn (erneut) einen Bund. David
+blieb in Horescha und Jonatan ging wieder nach Hause. [fn:5]
+
+<<v19>>
+19 Einige Sifiter gingen zu Saul nach Gibea hinauf und berichteten ihm:
+David hat sich bei uns auf den Bergfestungen bei Horescha versteckt, und
+zwar auf der Anhöhe von Hachila südlich von Jeschimon. [fn:6]
+
+<<v20>>
+20 Wenn es dir, König, beliebt, herabzukommen, dann komm! Es wird dann
+unsere Sache sein, ihn dem König auszuliefern.
+
+<<v21>>
+21 Saul erwiderte: Gesegnet seid ihr vom Herrn, weil ihr Mitleid mit mir
+habt.
+
+<<v22>>
+22 Geht, haltet euch bereit, forscht nach und merkt euch den Ort, wo er
+sich aufhält und wer ihn dort gesehen hat; denn man hat mir gesagt, er
+sei schlau.
+
+<<v23>>
+23 Beobachtet und erkundet alle Schlupfwinkel, in denen er sich
+verstecken könnte. Wenn ihr sichere Angaben habt, kehrt zu mir zurück;
+dann werde ich mit euch gehen. Wenn er wirklich im Land ist, werde ich
+ihn unter allen Tausendschaften Judas aufspüren. [fn:7]
+
+<<v24>>
+24 Sie brachen auf und zogen vor Saul her nach Sif. David aber und seine
+Männer waren in der Steppe Maon, in der Araba südlich von Jeschimon.
+
+<<v25>>
+25 Saul und seine Männer machten sich auf die Suche. Als man das David
+meldete, zog er weiter hinunter zu den Felsen in der Steppe Maon und
+blieb dort. Saul hörte davon und folgte ihm in die Steppe Maon.
+
+<<v26>>
+26 Saul zog auf der einen Seite des Berges dahin, David und seine Männer
+auf der anderen Seite des Berges. David versuchte, rasch von Saul
+wegzukommen, während Saul und seine Männer schon dabei waren, ihn und
+seine Leute zu umzingeln, um sie gefangen zu nehmen.
+
+<<v27>>
+27 Doch da kam ein Bote zu Saul und sagte: Komm schnell, die Philister
+sind in das Land eingefallen.
+
+<<v28>>
+28 Saul ließ von der Verfolgung Davids ab und zog den Philistern
+entgegen. Deshalb nennt man diesen Ort Sela-Machlekot (Fels der
+Trennung).\\
+\\
+
+* Footnotes
+
+[fn:1] Keïla: südlich von Adullam (vgl. die Anmerkung zu [[file:1.Sam_22.org::v1][22,1]]).
+
+[fn:2] [[file:1.Sam_22.org::v18][22,18-20]]
+
+[fn:3] 14f: Sif: südlich von Hebron; Horescha: weiter südlich.
+
+[fn:4] [[file:1.Sam_20.org::v30][20,30f]]; [[file:1.Sam_24.org::v21][24,21]]
+
+[fn:5] [[file:1.Sam_18.org::v3][18,3]]
+
+[fn:6] [[file:1.Sam_26.org::v1][26,1]]; [[file:Ps_54.org::v2][Ps 54,2]]
+
+[fn:7] [[file:1.Sam_27.org::v1][27,1]]

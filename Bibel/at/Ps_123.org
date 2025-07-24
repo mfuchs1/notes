@@ -1,0 +1,51 @@
+#+TITLE: Ps 123 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 13:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 123.html
+
+* Ps 123
+
+<<verses>>
+
+<<v1>>
+* Aufblick zu Gott
+
+1 [Ein Wallfahrtslied.] Ich erhebe meine Augen zu dir, /\\
+ der du hoch im Himmel thronst. [fn:1]\\
+\\
+
+<<v2>>
+2 Wie die Augen der Knechte auf die Hand ihres Herrn, /\\
+ wie die Augen der Magd auf die Hand ihrer Herrin, so schauen unsre
+Augen auf den Herrn, unsern Gott, /\\
+ bis er uns gnädig ist. [fn:2]\\
+\\
+
+<<v3>>
+3 Sei uns gnädig, Herr, sei uns gnädig! /\\
+ Denn übersatt sind wir vom Hohn der Spötter, [fn:3]\\
+\\
+
+<<v4>>
+4 übersatt ist unsre Seele von ihrem Spott, /\\
+ von der Verachtung der Stolzen. [fn:4]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_141.org::v8][141,8]]; [[file:1.Kön_8.org::v30][1 Kön 8,30]]
+
+[fn:2] [[file:Ps_25.org::v15][25,15]]; [[file:Ps_119.org::v82][119,82]]
+
+[fn:3] [[file:Ps_41.org::v6][41,6]]; [[file:Neh_3.org::v36][Neh 3,36]]
+
+[fn:4] Wörtlich: übersatt ist unsere Seele vom Spott der
+Übermütigen.

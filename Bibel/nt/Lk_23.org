@@ -1,0 +1,380 @@
+:PROPERTIES:
+:ID:       754c9bed-1996-4d5c-ae2f-89f701a3b9c9
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Lukas* --
+[[file:Lk_1.html][1]] ... [[file:Lk_21.html][21]]
+[[file:Lk_22.html][22]] *23* [[file:Lk_24.html][24]]
+
+--------------
+
+* Lk 23
+  :PROPERTIES:
+  :CUSTOM_ID: lk-23
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Auslieferung an Pilatus: 23,1-5
+     :PROPERTIES:
+     :CUSTOM_ID: die-auslieferung-an-pilatus-231-5
+     :END:
+1 Daraufhin erhob sich die ganze Versammlung und man führte Jesus zu
+Pilatus. ^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 334\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Dort brachten sie ihre Anklage gegen ihn vor; sie sagten: Wir haben
+festgestellt, dass dieser Mensch unser Volk verführt, es davon abhält,
+dem Kaiser Steuer zu zahlen, und behauptet, er sei der Messias und
+König. ^{[[#fn2][2]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 336\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v3>>
+3 Pilatus fragte ihn: Bist du der König der Juden? Er antwortete ihm: Du
+sagst es.
+
+<<v4>>
+4 Da sagte Pilatus zu den Hohenpriestern und zum Volk: Ich finde nicht,
+dass dieser Mensch eines Verbrechens schuldig ist.
+
+<<v5>>
+5 Sie aber blieben hartnäckig und sagten: Er wiegelt das Volk auf und
+verbreitet seine Lehre im ganzen jüdischen Land von Galiläa bis
+hierher.\\
+\\
+
+<<v6>>
+**** Die Verspottung durch Herodes: 23,6-12
+     :PROPERTIES:
+     :CUSTOM_ID: die-verspottung-durch-herodes-236-12
+     :END:
+6 Als Pilatus das hörte, fragte er, ob der Mann ein Galiläer sei.
+^{[[#fn3][3]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 337\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v7>>
+7 Und als er erfuhr, dass Jesus aus dem Gebiet des Herodes komme, ließ
+er ihn zu Herodes bringen, der in jenen Tagen ebenfalls in Jerusalem
+war.
+
+<<v8>>
+8 Herodes freute sich sehr, als er Jesus sah; schon lange hatte er sich
+gewünscht, mit ihm zusammenzutreffen, denn er hatte von ihm gehört. Nun
+hoffte er, ein Wunder von ihm zu sehen. ^{[[#fn4][4]]}
+
+<<v9>>
+9 Er stellte ihm viele Fragen, doch Jesus gab ihm keine Antwort.
+
+<<v10>>
+10 Die Hohenpriester und die Schriftgelehrten, die dabeistanden, erhoben
+schwere Beschuldigungen gegen ihn.
+
+<<v11>>
+11 Herodes und seine Soldaten zeigten ihm offen ihre Verachtung. Er
+trieb seinen Spott mit Jesus, ließ ihm ein Prunkgewand umhängen und
+schickte ihn so zu Pilatus zurück. ^{[[#fn5][5]]}
+
+<<v12>>
+12 An diesem Tag wurden Herodes und Pilatus Freunde; vorher waren sie
+Feinde gewesen.\\
+\\
+
+<<v13>>
+**** Die Verhandlung vor Pilatus: 23,13-25
+     :PROPERTIES:
+     :CUSTOM_ID: die-verhandlung-vor-pilatus-2313-25
+     :END:
+13 Pilatus rief die Hohenpriester und die anderen führenden Männer und
+das Volk zusammen ^{[[#fn6][6]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 338\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v14>>
+14 und sagte zu ihnen: Ihr habt mir diesen Menschen hergebracht und
+behauptet, er wiegle das Volk auf. Ich selbst habe ihn in eurer
+Gegenwart verhört und habe keine der Anklagen, die ihr gegen diesen
+Menschen vorgebracht habt, bestätigt gefunden,
+
+<<v15>>
+15 auch Herodes nicht, denn er hat ihn zu uns zurückgeschickt. Ihr seht
+also: Er hat nichts getan, worauf die Todesstrafe steht.
+
+<<v16>>
+16 Daher will ich ihn nur auspeitschen lassen und dann werde ich ihn
+freilassen.
+
+<<v17>>
+17 [] ^{[[#fn7][7]][[#fn8][8]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 339\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v18>>
+18 Da schrien sie alle miteinander: Weg mit ihm; lass den Barabbas frei!
+^{[[#fn9][9]]}
+
+<<v19>>
+19 Dieser Mann war wegen eines Aufruhrs in der Stadt und wegen Mordes
+ins Gefängnis geworfen worden.
+
+<<v20>>
+20 Pilatus aber redete wieder auf sie ein, denn er wollte Jesus
+freilassen.
+
+<<v21>>
+21 Doch sie schrien: Kreuzige ihn, kreuzige ihn! ^{[[#fn10][10]]}
+
+<<v22>>
+22 Zum dritten Mal sagte er zu ihnen: Was für ein Verbrechen hat er denn
+begangen? Ich habe nichts feststellen können, wofür er den Tod verdient.
+Daher will ich ihn auspeitschen lassen und dann werde ich ihn
+freilassen.
+
+<<v23>>
+23 Sie aber schrien und forderten immer lauter, er solle Jesus kreuzigen
+lassen, und mit ihrem Geschrei setzten sie sich durch:
+
+<<v24>>
+24 Pilatus entschied, dass ihre Forderung erfüllt werden solle.
+^{[[#fn11][11]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 341\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v25>>
+25 Er ließ den Mann frei, der wegen Aufruhr und Mord im Gefängnis saß
+und den sie gefordert hatten. Jesus aber lieferte er ihnen aus, wie sie
+es verlangten.\\
+\\
+
+<<v26>>
+**** Die Kreuzigung: 23,26-43
+     :PROPERTIES:
+     :CUSTOM_ID: die-kreuzigung-2326-43
+     :END:
+26 Als sie Jesus hinausführten, ergriffen sie einen Mann aus Zyrene
+namens Simon, der gerade vom Feld kam. Ihm luden sie das Kreuz auf,
+damit er es hinter Jesus hertrage. ^{[[#fn12][12]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 343\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v27>>
+27 Es folgte eine große Menschenmenge, darunter auch Frauen, die um ihn
+klagten und weinten.
+
+<<v28>>
+28 Jesus wandte sich zu ihnen um und sagte: Ihr Frauen von Jerusalem,
+weint nicht über mich; weint über euch und eure Kinder!
+
+<<v29>>
+29 Denn es kommen Tage, da wird man sagen: Wohl den Frauen, die
+unfruchtbar sind, die nicht geboren und nicht gestillt haben.
+
+<<v30>>
+30 Dann wird man /zu den Bergen sagen: Fallt auf uns!, und zu den
+Hügeln: Deckt uns zu!/ ^{[[#fn13][13]]}
+
+<<v31>>
+31 Denn wenn das mit dem grünen Holz geschieht, was wird dann erst mit
+dem dürren werden?
+
+<<v32>>
+32 Zusammen mit Jesus wurden auch zwei Verbrecher zur Hinrichtung
+geführt.
+
+<<v33>>
+33 Sie kamen zur Schädelhöhe; dort kreuzigten sie ihn und die
+Verbrecher, den einen rechts von ihm, den andern links.
+^{[[#fn14][14]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 344\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v34>>
+34 Jesus aber betete: Vater, vergib ihnen, denn sie wissen nicht, was
+sie tun. Dann /warfen sie das Los und verteilten/ seine /Kleider unter
+sich./ ^{[[#fn15][15]][[#fn16][16]]}
+
+<<v35>>
+35 Die Leute standen dabei und /schauten zu;/ auch die führenden Männer
+des Volkes /verlachten/ ihn und sagten: Anderen hat er geholfen, nun
+soll er sich selbst helfen, wenn er der erwählte Messias Gottes ist.
+^{[[#fn17][17]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 345\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v36>>
+36 Auch die Soldaten verspotteten ihn; sie traten vor ihn hin, reichten
+ihm Essig
+
+<<v37>>
+37 und sagten: Wenn du der König der Juden bist, dann hilf dir selbst!
+
+<<v38>>
+38 Über ihm war eine Tafel angebracht; auf ihr stand: Das ist der König
+der Juden.
+
+<<v39>>
+39 Einer der Verbrecher, die neben ihm hingen, verhöhnte ihn: Bist du
+denn nicht der Messias? Dann hilf dir selbst und auch uns!
+^{[[#fn18][18]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 346\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v40>>
+40 Der andere aber wies ihn zurecht und sagte: Nicht einmal du fürchtest
+Gott? Dich hat doch das gleiche Urteil getroffen.
+
+<<v41>>
+41 Uns geschieht recht, wir erhalten den Lohn für unsere Taten; dieser
+aber hat nichts Unrechtes getan.
+
+<<v42>>
+42 Dann sagte er: Jesus, denk an mich, wenn du in dein Reich kommst.
+^{[[#fn19][19]]}
+
+<<v43>>
+43 Jesus antwortete ihm: Amen, ich sage dir: Heute noch wirst du mit mir
+im Paradies sein.\\
+\\
+
+<<v44>>
+**** Der Tod Jesu: 23,44-49
+     :PROPERTIES:
+     :CUSTOM_ID: der-tod-jesu-2344-49
+     :END:
+44 Es war etwa um die sechste Stunde, als eine Finsternis über das ganze
+Land hereinbrach. Sie dauerte bis zur neunten Stunde.
+^{[[#fn20][20]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 347\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v45>>
+45 Die Sonne verdunkelte sich. Der Vorhang im Tempel riss mitten
+entzwei,
+
+<<v46>>
+46 und Jesus rief laut: /Vater, in deine Hände lege ich meinen Geist./
+Nach diesen Worten hauchte er den Geist aus. ^{[[#fn21][21]]}
+
+<<v47>>
+47 Als der Hauptmann sah, was geschehen war, pries er Gott und sagte:
+Das war wirklich ein gerechter Mensch.
+
+<<v48>>
+48 Und alle, die zu diesem Schauspiel herbeigeströmt waren und sahen,
+was sich ereignet hatte, schlugen sich an die Brust und gingen betroffen
+weg.
+
+<<v49>>
+49 Alle seine /Bekannten/ aber /standen in einiger Entfernung/ (vom
+Kreuz), auch die Frauen, die ihm seit der Zeit in Galiläa nachgefolgt
+waren und die alles mit ansahen. ^{[[#fn22][22]]}\\
+^{[[#fn23][23]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 348\\
+$ŽG://ESyn0812/
+
+<<v50.51>>
+**** Das Begräbnis Jesu: 23,50-56
+     :PROPERTIES:
+     :CUSTOM_ID: das-begräbnis-jesu-2350-56
+     :END:
+50.51 Damals gehörte zu den Mitgliedern des Hohen Rates ein Mann namens
+Josef, der aus der jüdischen Stadt Arimathäa stammte. Er wartete auf das
+Reich Gottes und hatte dem, was die anderen beschlossen und taten, nicht
+zugestimmt, weil er gut und gerecht war.
+^{[[#fn24][24]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 350\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v52>>
+52 Er ging zu Pilatus und bat um den Leichnam Jesu.
+
+<<v53>>
+53 Und er nahm ihn vom Kreuz, hüllte ihn in ein Leinentuch und legte ihn
+in ein Felsengrab, in dem noch niemand bestattet worden war.
+
+<<v54>>
+54 Das war am Rüsttag, kurz bevor der Sabbat anbrach. ^{[[#fn25][25]]}
+
+<<v55>>
+55 Die Frauen, die mit Jesus aus Galiläa gekommen waren, gaben ihm das
+Geleit und sahen zu, wie der Leichnam in das Grab gelegt wurde.
+
+<<v56>>
+56 Dann kehrten sie heim und bereiteten wohlriechende Öle und Salben zu.
+Am Sabbat aber hielten sie die vom Gesetz vorgeschriebene Ruhe ein.\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-5) Mt 27,2.11-14; Mk 15,1-5; Joh 18,28-38 ⇨Esyn:
+Synopse Nr. 334
+
+^{[[#fnm2][2]]} ℘ ⇨Esyn: Synopse Nr. 336
+
+^{[[#fnm3][3]]} ℘ ⇨Esyn: Synopse Nr. 337
+
+^{[[#fnm4][4]]} ℘ 9,9
+
+^{[[#fnm5][5]]} ℘ Mt 27,28; Mk 15,17
+
+^{[[#fnm6][6]]} ℘ ⇨Esyn: Synopse Nr. 338
+
+^{[[#fnm7][7]]} Einige Textzeugen fügen hinzu: Zum Fest aber musste er
+ihnen einen Gefangenen freilassen.
+
+^{[[#fnm8][8]]} ℘ ⇨Esyn: Synopse Nr. 339
+
+^{[[#fnm9][9]]} ℘ Apg 3,13f; (18-25) Mt 27,20-26; Mk 15,11-15; Joh
+18,38 - 19,1
+
+^{[[#fnm10][10]]} ℘ Joh 19,15
+
+^{[[#fnm11][11]]} ℘ ⇨Esyn: Synopse Nr. 341
+
+^{[[#fnm12][12]]} ℘ (26-43) Mt 27,31b-44; Mk 15,20b-32; Joh 19,16b-27.29
+⇨Esyn: Synopse Nr. 343
+
+^{[[#fnm13][13]]} ℘ Hos 10,8; Offb 6,16
+
+^{[[#fnm14][14]]} ℘ ⇨Esyn: Synopse Nr. 344
+
+^{[[#fnm15][15]]} ℘ Ps 22,19; Joh 19,24
+
+^{[[#fnm16][16]]} Der erste Teil des Verses fehlt bei einigen alten
+Textzeugen.
+
+^{[[#fnm17][17]]} ℘ Ps 22,8 ⇨Esyn: Synopse Nr. 345
+
+^{[[#fnm18][18]]} ℘ ⇨Esyn: Synopse Nr. 346
+
+^{[[#fnm19][19]]} Einige Textzeugen haben: wenn du in deiner Macht als
+König kommst.
+
+^{[[#fnm20][20]]} ℘ (44-49) Mt 27,45-56; Mk 15,33-41; Joh 19,28-30
+⇨Esyn: Synopse Nr. 347
+
+^{[[#fnm21][21]]} ℘ Ps 31,6
+
+^{[[#fnm22][22]]} ℘ Ps 38,12; Lk 8,2f
+
+^{[[#fnm23][23]]} ℘ ⇨Esyn: Synopse Nr. 348
+
+^{[[#fnm24][24]]} ℘ (50-56) Mt 27,57-61; Mk 15,42-47; Joh 19,38-42
+⇨Esyn: Synopse Nr. 350
+
+^{[[#fnm25][25]]} ℘ Dtn 21,23

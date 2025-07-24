@@ -1,0 +1,32 @@
+#+title:      Gespräch mit Gabriele
+#+date:       [2024-10-10 Do 14:06]
+#+filetags:   :memo:
+#+identifier: 20241010T140600
+
+* Gedächtnisprotokoll
+Das Gespräch verlief so toll und gesegnet. Gabi hat mir aufs Neue versichert, wer sehr sie hinter mir steht und mich unterstützt.
+
+Schneller als ich in Abtenau kam, waren die bösen Gerüchte über mich im Ort. Den genauen Inhalt dieser Gerüchte hat sie mir nicht gesagt - ich kann es mir aber vorstellen. Außerdem "trifft es immer die Gleichen". Und zweitens bringt es nichts, sich mit dem Negativen und Bösen auseinander zu setzen. Besser ist es, diesen Gerüchten keine Bühne und Chance zu bieten. 
+
+Wir Lehrer sind nicht zur Unterhaltung hier, sondern wir begleiten die Kinder auf ihrem Lernweg. Ich muss mir Unterrichtsmethoden zurecht legen, sodass die Kinder ihren Lernerfolg erreichen.
+
+Respekt muss ich erwarten und einfordern.
+
+Den bösen Gerüchten keine Chance geben. Das heißt, wie kommuniziere ich (gewaltfrei) mit den Kindern, sodass "die Botschaft" ankommt. Die Frage lautet: "Was soll ankommen ?" und dann entsprechend reden. Falsch wäre: was will ich sagen? Denn dann könnte etwas gänzlich anderes ankommen.
+
+Gabi hat mir zwei Ausbildungen zu diesem Thema vorgeschlagen - werde mich anmelden.
+
+- "Störungen haben Vorrang!"
+- Immer ganze Klasse im Blick haben
+- Von einer Metaebene aus unterrichten; dann habe ich auch die Freiheit, auf Störungen zu reagieren.
+
+* Gedanken
+
+* Schriftgröße / -art
+Etwas komplett anderes: ich habe noch nicht die ideale Schriftgröße in Emacs gefunden. In Kate und im Terminal (Konsole) habe ich =Jetbrains Mono 13=; diese Schriftgröße und Schriftart lässt sich wunderbar lesen. Hier in Emacs verhalten sich Schriften "anders", kommt mir vor. Hab soeben auf =Jetbrains Mono= umgestellt.
+
+In Emacs schreibe ich Prosa (sie wie diesen Text hier) und gleichzeitig programmiere ich Emacs. Dafür braucht es vesrchiedene, angepasste Schriftarten. =Iosevka Comfy= ist meine Wahl, da sie verschiedene Varianten hat (Monospace und Quasi-Monospace / Proportional).
+
+Die Schriftgröße ist noch nicht ideal: 13 kommt mir zu klein vor für Prosa und vor allem zum Lesen; allerdings sehe ich in dieser Schriftgröße in z.B. ~mu4e~ die komplette Übersicht vollständig in einem Buffer.
+
+Und die Schrift kommt mir nicht komplett scharf vor. 

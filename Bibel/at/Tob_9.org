@@ -1,0 +1,39 @@
+#+TITLE: Tob 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 10:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 9.html
+
+<<verses>>
+
+<<v1>>
+* Rafaels Freundesdienst: 9,1-6
+
+1 Tobias rief Rafael und sagte zu ihm:
+
+<<v2>>
+2 Asarja, mein Bruder, nimm einen Knecht und zwei Kamele und reise nach
+Rages in Medien zu Gabaël. Hol mir das Geld und bring Gabaël zur
+Hochzeit mit!
+
+<<v3>>
+3 Denn Raguël hat mich beschworen, noch nicht wegzugehen.
+
+<<v4>>
+4 Mein Vater zählt die Tage, und wenn ich zu lange fortbleibe, wird er
+sich große Sorgen machen.
+
+<<v5>>
+5 Rafael reiste ab, blieb die Nacht über bei Gabaël und legte ihm den
+Schuldschein vor. Gabaël holte die versiegelten Beutel und gab sie ihm.
+
+<<v6>>
+6 Am frühen Morgen brachen sie gemeinsam auf und kamen zur Hochzeit. Und
+Tobias pries seine Frau.\\
+\\

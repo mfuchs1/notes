@@ -1,0 +1,226 @@
+:PROPERTIES:
+:ID:       90f8e5ea-3e50-4359-b9f9-d03679fb2af2
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Ezechiel* -- [[file:Ez_1.html][1]] ...
+[[file:Ez_26.html][26]] [[file:Ez_27.html][27]] *28*
+[[file:Ez_29.html][29]] [[file:Ez_30.html][30]] ...
+[[file:Ez_48.html][48]]
+
+--------------
+
+* Ez 28
+  :PROPERTIES:
+  :CUSTOM_ID: ez-28
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Gegen den Fürsten von Tyrus: 28,1-10
+     :PROPERTIES:
+     :CUSTOM_ID: gegen-den-fürsten-von-tyrus-281-10
+     :END:
+1 Das Wort des Herrn erging an mich:
+
+<<v2>>
+2 Menschensohn, sag zum Fürsten von Tyrus: So spricht Gott, der Herr:
+Dein Herz war stolz und du sagtest: Ich bin ein Gott, einen Wohnsitz für
+Götter bewohne ich mitten im Meer. Doch du bist nur ein Mensch und kein
+Gott, obwohl du im Herzen geglaubt hast, dass du wie Gott bist.
+^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Gewiss, du bist weiser als Daniel. /\\
+ Kein Geheimnis war dir zu dunkel. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Durch deine Weisheit und Einsicht schufst du dir Reichtum. /\\
+ Mit Gold und Silber fülltest du deine Kammern.\\
+\\
+
+<<v5>>
+5 Durch deine gewaltige Weisheit, durch deinen Handel /\\
+ hast du deinen Reichtum vermehrt. Doch dein Herz wurde stolz /\\
+ wegen all deines Reichtums.\\
+\\
+
+<<v6>>
+6 Darum - so spricht Gott, der Herr: Weil du im Herzen geglaubt hast,
+/\\
+ dass du wie Gott bist,\\
+\\
+
+<<v7>>
+7 darum schicke ich Fremde gegen dich, /\\
+ tyrannische Völker. Sie zücken das Schwert gegen all deine prächtige
+Weisheit, /\\
+ entweihen deinen strahlenden Glanz.\\
+\\
+
+<<v8>>
+8 Man stößt dich hinab in das Grab; /\\
+ wie einer durchbohrt wird und stirbt, /\\
+ so stirbst du mitten im Meer.\\
+\\
+
+<<v9>>
+9 Willst du dann angesichts deiner Mörder noch sagen: /\\
+ Ich bin ein Gott? Du bist nur ein Mensch und kein Gott /\\
+ in der Hand deiner Mörder. ^{[[#fn3][3]]}\\
+\\
+
+<<v10>>
+10 Wie Unbeschnittene sterben, /\\
+ so stirbst du durch Fremde; denn ich habe gesprochen - /\\
+ Spruch Gottes, des Herrn.\\
+\\
+
+<<v11>>
+**** Die Totenklage über den König von Tyrus: 28,11-19
+     :PROPERTIES:
+     :CUSTOM_ID: die-totenklage-über-den-könig-von-tyrus-2811-19
+     :END:
+11 Das Wort des Herrn erging an mich:\\
+\\
+
+<<v12>>
+12 Menschensohn, stimm die Totenklage an über den König von Tyrus und
+sag zu ihm: So spricht Gott, der Herr: Du warst ein vollendet
+gestaltetes Siegel, /\\
+ voll Weisheit und vollkommener Schönheit. ^{[[#fn4][4]][[#fn5][5]]}\\
+\\
+
+<<v13>>
+13 Im Garten Gottes, in Eden, bist du gewesen. /\\
+ Allerlei kostbare Steine umgaben dich: Rubin, Topas, dazu Jaspis, /\\
+ Chrysolith, Karneol und Onyx, /\\
+ Saphir, Karfunkelstein und Smaragd. Aus Gold war alles gemacht, /\\
+ was an dir erhöht und vertieft war, all diese Zierden brachte man an,
+/\\
+ als man dich schuf. ^{[[#fn6][6]]}\\
+\\
+
+<<v14>>
+14 Einem Kerub mit ausgebreiteten, schützenden Flügeln gesellte ich dich
+bei. /\\
+ Auf dem heiligen Berg der Götter bist du gewesen. /\\
+ Zwischen den feurigen Steinen gingst du umher.
+^{[[#fn7][7]][[#fn8][8]]}\\
+\\
+
+<<v15>>
+15 Ohne Tadel war dein Verhalten /\\
+ seit dem Tag, an dem man dich schuf, /\\
+ bis zu dem Tag, an dem du Böses getan hast. ^{[[#fn9][9]]}\\
+\\
+
+<<v16>>
+16 Durch deinen ausgedehnten Handel /\\
+ warst du erfüllt von Gewalttat, /\\
+ in Sünde bist du gefallen. Darum habe ich dich vom Berg der Götter
+verstoßen, /\\
+ aus der Mitte der feurigen Steine /\\
+ hat dich der schützende Kerub verjagt.\\
+\\
+
+<<v17>>
+17 Hochmütig warst du geworden, /\\
+ weil du so schön warst. Du hast deine Weisheit vernichtet, /\\
+ verblendet vom strahlenden Glanz. Ich stieß dich auf die Erde hinab.
+/\\
+ Den Blicken der Könige gab ich dich preis, /\\
+ damit sie dich alle begaffen.\\
+\\
+
+<<v18>>
+18 Du hast durch gewaltige Schuld, /\\
+ durch unredliche Handelsgeschäfte /\\
+ deine Heiligtümer entweiht. So ließ ich mitten in dir ein Feuer
+ausbrechen, /\\
+ das dich verzehrt hat. Vor den Augen all derer, die dich sahen, /\\
+ machte ich dich zu Asche auf der Erde.\\
+\\
+
+<<v19>>
+19 All deine Freunde unter den Völkern /\\
+ waren entsetzt über dich. Zu einem Bild des Schreckens bist du
+geworden, /\\
+ du bist für immer dahin. ^{[[#fn10][10]]}\\
+\\
+
+<<v20>>
+**** Gegen Sidon: 28,20-23
+     :PROPERTIES:
+     :CUSTOM_ID: gegen-sidon-2820-23
+     :END:
+20 Das Wort des Herrn erging an mich:
+
+<<v21>>
+21 Menschensohn, richte dein Gesicht auf Sidon, tritt als Prophet gegen
+die Stadt auf\\
+\\
+
+<<v22>>
+22 und sag: So spricht Gott, der Herr: Jetzt gehe ich gegen dich vor,
+Sidon, /\\
+ und verherrliche mich in deiner Mitte. Dann werden sie erkennen, dass
+ich der Herr bin, /\\
+ wenn ich an der Stadt das Urteil vollstrecke /\\
+ und mich so als heilig erweise.\\
+\\
+
+<<v23>>
+23 Ich schicke Pest und Mord in die Gassen der Stadt. /\\
+ Viele fallen in ihr, erschlagen vom Schwert, das von überall her auf
+sie einschlägt. /\\
+ Dann werden sie erkennen, dass ich der Herr bin.\\
+\\
+
+<<v24>>
+**** Verheißung für Israel: 28,24-26
+     :PROPERTIES:
+     :CUSTOM_ID: verheißung-für-israel-2824-26
+     :END:
+24 Dann droht dem Haus Israel kein stechender Dorn und kein verletzender
+Stachel mehr von all seinen feindlichen Nachbarn. Daran werden sie
+erkennen, dass ich Gott, der Herr, bin.
+
+<<v25>>
+25 So spricht Gott, der Herr: Wenn ich die vom Haus Israel aus all den
+Ländern zusammenführe, in die sie zerstreut sind, dann erweise ich mich
+an ihnen vor den Augen der Völker als heilig. Sie werden in ihrem Land
+wohnen, das ich meinem Knecht Jakob gegeben habe. ^{[[#fn11][11]]}
+
+<<v26>>
+26 Dort werden sie in Sicherheit leben; sie werden Häuser bauen und
+Weinberge pflanzen. Sie wohnen in Sicherheit, sobald ich an all ihren
+Feinden ringsum das Urteil vollstrecke. Dann werden sie erkennen, dass
+ich, der Herr, ihr Gott bin.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Gen 3,5; Jes 14,13f
+
+^{[[#fnm2][2]]} ℘ 14,14; Dan 1,17
+
+^{[[#fnm3][3]]} ℘ Jes 31,3
+
+^{[[#fnm4][4]]} ℘ 27,2
+
+^{[[#fnm5][5]]} Siegel: Text korr.; vgl. die alten Übersetzungen.
+
+^{[[#fnm6][6]]} ℘ 31,8f; Gen 2,8
+
+^{[[#fnm7][7]]} ℘ Gen 3,24; Jes 14,13; Ez 10,2
+
+^{[[#fnm8][8]]} einem Kerub: Text korr. nach G.
+
+^{[[#fnm9][9]]} bis zu dem Tag, an dem du Böses getan hast, wörtlich:
+bis an dir Schlechtigkeit gefunden wurde.
+
+^{[[#fnm10][10]]} ℘ 27,36
+
+^{[[#fnm11][11]]} ℘ 11,17; 20,34.41; 34,13; 36,24; 37,21

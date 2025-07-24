@@ -1,0 +1,384 @@
+:PROPERTIES:
+:ID:       0c43b137-8c3a-419d-b40c-0f400193fe38
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- *1* [[file:Jes_2.html][2]]
+[[file:Jes_3.html][3]] ... [[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 1
+  :PROPERTIES:
+  :CUSTOM_ID: jes-1
+  :END:
+
+** Die Bücher der Propheten
+   :PROPERTIES:
+   :CUSTOM_ID: die-bücher-der-propheten
+   :END:
+Der Prophet Jesaja aus Jerusalem (etwa 740-701 v. Chr.) hat mit seiner
+Verkündigung den Grundstock des Buches geschaffen, das seinen Namen
+trägt. Aus dem Inhalt der von ihm überlieferten Prophetenworte schließt
+man, dass er, im Todesjahr des Königs Usija (739 v. Chr.) berufen (Kap.
+6), in vier wichtigen Perioden der Geschichte Judas das Wort Jahwes
+verkündete. Zunächst befasste er sich in Drohworten (Kap. 1 - 3 und 5)
+mit den Zuständen in Juda und Jerusalem. Im Syrischefraimitischen Krieg
+(734/33 v. Chr.) warnte er vor einem Bündnis mit Assur (7,1 - 9,6). Beim
+ersten Versuch des Königs Hiskija, sich an einem Aufstand gegen die
+Assyrer zu beteiligen (716-711 v. Chr.), erhob er warnend seine Stimme
+(Kap. 18; 20; 28 - 30; auch Teile von Kap. 14). Endlich trat er beim
+Angriff des assyrischen Königs Sanherib (um 701 v. Chr.) auf, um das
+rettende Eingreifen Gottes gegen den überheblichen Feind anzusagen
+(Worte in den Kapiteln 10; 14; 28 - 30).\\
+\\
+Vom Leben des Propheten ist uns wenig bekannt. Er dürfte den gebildeten
+höheren Kreisen entstammen; anscheinend war er mit einer prophetisch
+begabten Frau verheiratet (8,3) und hatte wohl mehrere Kinder (vgl. 7,3;
+8,1-3). Die Worte Jesajas, die in Kap. 1 - 39 überliefert sind, wurden
+von seinen Schülern (8,16) und anderen vielfach kommentiert und
+beträchtlich erweitert; so wurden sie später in seinem Geist an jeweils
+neue Situationen angepasst. Dem Propheten kam es vor allem darauf an,
+die Menschen zu Glauben und Vertrauen gegenüber dem heiligen und
+erhabenen Gott aufzurufen, der nach seinem weisen Plan die
+Weltgeschichte und besonders die Geschicke seines Volkes lenkt. Dieses
+gläubige Hinschauen auf den Herrn bedeutet zugleich, seinem Willen zu
+entsprechen im politischen wie im sozialen Handeln, insbesondere den
+Armen gegenüber. Der Ernst der prophetischen Botschaft Jesajas drückt
+sich vor allem in den scharfen Gerichtsworten aus.\\
+\\
+Verschiedene Überschriften (1,1; 2,1; 13,1) weisen darauf hin, dass der
+erste Teil des Buches (Kap. 1 - 39) eine lange Entstehungsgeschichte
+hat. Noch heute ist ihm anzusehen, dass einer ersten Sammlung (Kap. 2 -
+5 und 9,6 - 11,16) die sogenannte Denkschrift des Propheten (6,1 - 9,5)
+eingefügt und schließlich Kap. 1 als eine Art Zusammenfassung seiner
+Worte vorausgestellt wurde. Jes 24 - 27 sind apokalyptische Texte (die
+sog. »große JesajaApokalypse«) und tragen das Kolorit einer späten Zeit
+an sich. Die Jesajaerzählungen (Kap. 36 - 39) sind fast ganz aus dem
+zweiten Königsbuch übernommen. So entstand ein Prophetenbuch, das wie
+bei der Denkschrift in großen Zügen das Grundschema erkennen lässt, nach
+dem die prophetischen Bücher zusammengestellt wurden: Drohungen gegen
+das eigene Volk (Kap. 1 - 12); Drohungen gegen andere Völker (Kap. 13
+23); Verheißungen, die hier allerdings Drohreden einschließen, für das
+eigene Volk (Kap. 24 - 35); ein geschichtlicher Anhang rundet das Ganze
+ab (Kap. 36 - 39). Für das Neue Testament und die christliche
+Verkündigung sind in besonderer Weise die messianischen Texte wichtig
+(Kap. 7; 9,1-6; 11; 28,16f).\\
+\\
+In eine ganz andere Welt versetzen uns die Kapitel 40 - 55. Hier
+befindet sich Juda im Babylonischen Exil; zu ihm spricht ein Prophet,
+der den Auftrag erhält (40,1-11), das unmittelbar bevorstehende rettende
+Eingreifen Gottes anzukündigen. Gott erweckt Kyrus (44,28 - 45,8), damit
+er das Volk aus der Gefangenschaft entlässt. Dann wird Jahwe, der als
+der alleinige durch Schöpfung und geschichtliches Handeln ausgewiesene
+Gott über die Völker herrscht, sein Volk in einem neuen, wunderbaren
+Exodus nach Zion heimführen. Dort wird er als König Israels herrschen,
+das er wieder aufblühen lässt. In diese überschwängliche Heilsprophetie
+sind vier Texte über den »Gottesknecht« eingefügt (42,1-9; 49,1-9;
+50,4-9; 52,13 - 53,12), der als der Erwählte Jahwes zum »Bund des Volkes
+und Licht der Heiden« bestimmt, wie ein Prophet gesendet, mit Aufgaben
+für Israel und die Völker betraut, nach Leiden und Todesnot errettet und
+schließlich verherrlicht wird. Durch die sogenannten Gottesknechttexte
+hat dieser Teil des Jesajabuches weit in die Zukunft gewirkt. Die
+neutestamentliche Urgemeinde nahm sie auf und sah sie im Wirken und im
+Weg Jesu erfüllt. Der Verfasser von Jes 40 - 55 ist unbekannt. Man nennt
+ihn Deuterojesaja (Zweiter Jesaja).\\
+\\
+In Jes 56 - 66 wechselt die Situation wieder. Hier sind
+verschiedenartige Texte zusammengestellt, die sich an die Heimgekehrten
+richten. Sie schöpfen vielfach aus Jes 40 - 55, sprechen aber deutlich
+die veränderte Lage an. Ein Prophet erhebt seine Stimme (Kap. 60 - 62),
+der sich durch Gottes Geist zur Verkündigung einer frohen Botschaft
+gesandt weiß (Kap. 61; vgl. Lk 4,16-19); man nennt ihn Tritojesaja
+(Dritter Jesaja). Dieser Teil des Jesajabuches enthält in loser
+Anordnung Heils- und Gerichtsworte. Besonders hervorzuheben sind die
+Verheißung für die Fremden (56,1-8), die Mahnung zur wahren Frömmigkeit
+(58,1-14), das leuchtende Bild von der Gottesstadt (Kap. 60 und 62), das
+Gebet zu Gott, unserem Vater, in Gestalt einer Volksklage (63,7 -
+64,11). Mit dem Blick auf den neuen Himmel und die neue Erde (Kap. 66)
+schließt das Jesajabuch.\\
+\\
+Unter den Funden von Qumran befand sich eine vollständig erhaltene
+Jesaja-Handschrift aus dem 2. Jahrhundert v. Chr. Sie ist damit etwa
+tausend Jahre älter als die meisten bisher bekannten hebräischen
+Handschriften des Alten Testaments.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** I. Teil Der erste Jesaja (Protojesaja): 1,1 - 39,8
+   :PROPERTIES:
+   :CUSTOM_ID: i.-teil-der-erste-jesaja-protojesaja-11---398
+   :END:
+*** Worte über Juda und Jerusalem aus der Frühzeit des Propheten: 1,1 -
+12,6
+    :PROPERTIES:
+    :CUSTOM_ID: worte-über-juda-und-jerusalem-aus-der-frühzeit-des-propheten-11---126
+    :END:
+**** Einleitung: 1,1
+     :PROPERTIES:
+     :CUSTOM_ID: einleitung-11
+     :END:
+1 Vision des Jesaja, des Sohnes des Amoz, über Juda und Jerusalem, die
+er zu der Zeit hatte, als Usija, Jotam, Ahas und Hiskija Könige von Juda
+waren. ^{[[#fn1][1]][[#fn2][2]]}\\
+\\
+
+<<v2>>
+**** Die Untreue des Volkes: 1,2-4
+     :PROPERTIES:
+     :CUSTOM_ID: die-untreue-des-volkes-12-4
+     :END:
+2 Hört, ihr Himmel! Erde, horch auf! /\\
+ Denn der Herr spricht: Ich habe Söhne großgezogen und emporgebracht,
+/\\
+ doch sie sind von mir abgefallen. ^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+<<v3>>
+3 Der Ochse kennt seinen Besitzer /\\
+ und der Esel die Krippe seines Herrn; Israel aber hat keine Erkenntnis,
+/\\
+ mein Volk hat keine Einsicht. ^{[[#fn5][5]]}\\
+\\
+
+<<v4>>
+4 Weh dem sündigen Volk, der schuldbeladenen Nation, /\\
+ der Brut von Verbrechern, den verkommenen Söhnen! Sie haben den Herrn
+verlassen, /\\
+ den Heiligen Israels haben sie verschmäht /\\
+ und ihm den Rücken gekehrt. ^{[[#fn6][6]][[#fn7][7]]}\\
+\\
+
+<<v5>>
+**** Die Folgen der Sünde: 1,5-9
+     :PROPERTIES:
+     :CUSTOM_ID: die-folgen-der-sünde-15-9
+     :END:
+5 Wohin soll man euch noch schlagen? /\\
+ Ihr bleibt ja doch abtrünnig. Der ganze Kopf ist wund, /\\
+ das ganze Herz ist krank:\\
+\\
+
+<<v6>>
+6 Vom Kopf bis zum Fuß kein heiler Fleck, /\\
+ nur Beulen, Striemen und frische Wunden, sie sind nicht ausgedrückt,
+nicht verbunden, /\\
+ nicht mit Öl gelindert.\\
+\\
+
+<<v7>>
+7 Euer Land ist verödet, /\\
+ eure Städte sind niedergebrannt. Fremde verzehren vor euren Augen den
+Ertrag eurer Äcker; /\\
+ verödet wie das zerstörte Sodom ist euer Land. ^{[[#fn8][8]]}\\
+\\
+
+<<v8>>
+8 Die Tochter Zion steht verlassen da /\\
+ wie eine Hütte im Weinberg, wie eine Wächterhütte im Gurkenfeld /\\
+ [wie eine belagerte Stadt]. ^{[[#fn9][9]]}\\
+\\
+
+<<v9>>
+9 Hätte der Herr der Heere nicht einen Rest für uns übrig gelassen, /\\
+ wir wären wie Sodom geworden, /\\
+ wir glichen Gomorra. ^{[[#fn10][10]]}\\
+\\
+
+<<v10>>
+**** Der falsche und der wahre Gottesdienst: 1,10-17
+     :PROPERTIES:
+     :CUSTOM_ID: der-falsche-und-der-wahre-gottesdienst-110-17
+     :END:
+10 Hört das Wort des Herrn, ihr Herrscher von Sodom! /\\
+ Vernimm die Weisung unseres Gottes, du Volk von Gomorra!
+^{[[#fn11][11]]}\\
+\\
+
+<<v11>>
+11 Was soll ich mit euren vielen Schlachtopfern?, /\\
+ spricht der Herr. Die Widder, die ihr als Opfer verbrennt, /\\
+ und das Fett eurer Rinder habe ich satt; /\\
+ das Blut der Stiere, der Lämmer und Böcke ist mir zuwider.
+^{[[#fn12][12]]}\\
+\\
+
+<<v12>>
+12 Wenn ihr kommt, um mein Angesicht zu schauen - /\\
+ wer hat von euch verlangt, dass ihr meine Vorhöfe zertrampelt?\\
+\\
+
+<<v13>>
+13 Bringt mir nicht länger sinnlose Gaben, /\\
+ Rauchopfer, die mir ein Gräuel sind. Neumond und Sabbat und
+Festversammlung - /\\
+ Frevel und Feste - ertrage ich nicht.\\
+\\
+
+<<v14>>
+14 Eure Neumondfeste und Feiertage /\\
+ sind mir in der Seele verhasst, sie sind mir zur Last geworden, /\\
+ ich bin es müde, sie zu ertragen.\\
+\\
+
+<<v15>>
+15 Wenn ihr eure Hände ausbreitet, /\\
+ verhülle ich meine Augen vor euch. Wenn ihr auch noch so viel betet,
+/\\
+ ich höre es nicht. /\\
+ Eure Hände sind voller Blut.\\
+\\
+
+<<v16>>
+16 Wascht euch, reinigt euch! /\\
+ Lasst ab von eurem üblen Treiben! /\\
+ Hört auf, vor meinen Augen Böses zu tun!\\
+\\
+
+<<v17>>
+17 Lernt, Gutes zu tun! /\\
+ Sorgt für das Recht! Helft den Unterdrückten! /\\
+ Verschafft den Waisen Recht, /\\
+ tretet ein für die Witwen! ^{[[#fn13][13]][[#fn14][14]]}\\
+\\
+
+<<v18>>
+**** Der Rechtsstreit Gottes mit seinem Volk: 1,18-20
+     :PROPERTIES:
+     :CUSTOM_ID: der-rechtsstreit-gottes-mit-seinem-volk-118-20
+     :END:
+18 Kommt her, wir wollen sehen, /\\
+ wer von uns Recht hat, /\\
+ spricht der Herr. Wären eure Sünden auch rot wie Scharlach, /\\
+ sie sollen weiß werden wie Schnee. Wären sie rot wie Purpur, /\\
+ sie sollen weiß werden wie Wolle.\\
+\\
+
+<<v19>>
+19 Wenn ihr bereit seid zu hören, /\\
+ sollt ihr den Ertrag des Landes genießen.\\
+\\
+
+<<v20>>
+20 Wenn ihr aber trotzig seid und euch weigert, /\\
+ werdet ihr vom Schwert gefressen. /\\
+ Ja, der Mund des Herrn hat gesprochen.\\
+\\
+
+<<v21>>
+**** Das Gericht über Jerusalem: 1,21-31
+     :PROPERTIES:
+     :CUSTOM_ID: das-gericht-über-jerusalem-121-31
+     :END:
+21 Ach, sie ist zur Dirne geworden, die treue Stadt. /\\
+ Einst war dort das Recht in voller Geltung, die Gerechtigkeit war dort
+zu Hause, /\\
+ jetzt aber herrschen die Mörder.\\
+\\
+
+<<v22>>
+22 Dein Silber wurde zu Schlacke, /\\
+ dein Wein ist verwässert. ^{[[#fn15][15]]}\\
+\\
+
+<<v23>>
+23 Deine Fürsten sind Aufrührer /\\
+ und eine Bande von Dieben, alle lassen sich gerne bestechen /\\
+ und jagen Geschenken nach. Sie verschaffen den Waisen kein Recht, /\\
+ die Sache der Witwen gelangt nicht vor sie.\\
+\\
+
+<<v24>>
+24 Darum - Spruch Gottes, des Herrn der Heere, /\\
+ des Starken Israels: Weh meinen Gegnern, /\\
+ ich will Rache nehmen an ihnen, /\\
+ mich rächen an meinen Feinden. ^{[[#fn16][16]]}\\
+\\
+
+<<v25>>
+25 Ich will meine Hand gegen dich wenden, /\\
+ deine Schlacken will ich mit Lauge ausschmelzen, /\\
+ all dein Blei schmelze ich aus. ^{[[#fn17][17]]}\\
+\\
+
+<<v26>>
+26 Ich will dir wieder Richter geben wie am Anfang /\\
+ und Ratsherrn wie zu Beginn. Dann wird man dich die Burg der
+Gerechtigkeit nennen, /\\
+ die treue Stadt.\\
+\\
+
+<<v27>>
+27 Zion wird durch das Recht gerettet, /\\
+ wer dort umkehrt, durch die Gerechtigkeit.\\
+\\
+
+<<v28>>
+28 Doch alle Abtrünnigen und Sünder werden zerschmettert. /\\
+ Wer den Herrn verlässt, wird vernichtet.\\
+\\
+
+<<v29>>
+29 Ihr werdet in Schande stürzen /\\
+ wegen der Eichen, die euch gefallen, und werdet euch schämen /\\
+ wegen der (heiligen) Haine, die ihr so gern habt.
+^{[[#fn18][18]][[#fn19][19]]}\\
+\\
+
+<<v30>>
+30 Ihr werdet wie eine Eiche, deren Blätter verwelken, /\\
+ und wie ein Garten, dessen Wasser versiegt ist.\\
+\\
+
+<<v31>>
+31 Dann wird der Starke zu Werg /\\
+ und sein Tun zum zündenden Funken; beide verbrennen zusammen /\\
+ und niemand kann löschen.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Mi 1,1
+
+^{[[#fnm2][2]]} Die Überschrift hat wohl ursprünglich Jes 1 - 12
+eingeleitet.
+
+^{[[#fnm3][3]]} ℘ 23,4
+
+^{[[#fnm4][4]]} 2-31: Die Einleitungsrede bietet wie eine vorangestellte
+Zusammenfassung wichtige Themen der Verkündigung des Propheten.
+
+^{[[#fnm5][5]]} ℘ Lk 2,16
+
+^{[[#fnm6][6]]} ℘ 30,9
+
+^{[[#fnm7][7]]} Der «Heilige Israels» ist in Jes Bezeichnung für Jahwe,
+den heiligen Gott (vgl. 6,3).
+
+^{[[#fnm8][8]]} Sodom: Text korr. nach V. 9.
+
+^{[[#fnm9][9]]} ℘ 24,20
+
+^{[[#fnm10][10]]} ℘ Gen 19,1-29
+
+^{[[#fnm11][11]]} Angeredet ist die Stadt Jerusalem.
+
+^{[[#fnm12][12]]} ℘ Am 5,21-23
+
+^{[[#fnm13][13]]} ℘ Am 5,24
+
+^{[[#fnm14][14]]} den Unterdrückten: Text korr. nach den alten
+Übersetzungen.
+
+^{[[#fnm15][15]]} ℘ Ez 22,18
+
+^{[[#fnm16][16]]} Der «Starke Israels» ist Bezeichnung für Jahwe (vgl.
+«der Starke Jakobs» Gen 49,24).
+
+^{[[#fnm17][17]]} ℘ Ez 22,18f; Mal 3,3; Spr 25,4
+
+^{[[#fnm18][18]]} ℘ 65,3
+
+^{[[#fnm19][19]]} Heidnische Kultbräuche werden oft bei heiligen Bäumen
+vollzogen (vgl. Jer 2,20; Hos 4,13). - Ihr werdet: Text korr. nach
+H-Handschriften und der aramäischen Übersetzung.

@@ -1,0 +1,263 @@
+#+TITLE: 1 Kön 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-14 Di 23:01]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 11.html
+
+<<verses>>
+
+<<v1>>
+* Salomos Bundesbruch: 11,1-8
+
+1 König Salomo liebte neben der Tochter des Pharao noch viele andere
+ausländische Frauen: Moabiterinnen, Ammoniterinnen, Edomiterinnen,
+Sidonierinnen, Hetiterinnen.
+
+<<v2>>
+2 Es waren Frauen aus den Völkern, von denen der Herr den Israeliten
+gesagt hatte: Ihr dürft nicht zu ihnen gehen und sie dürfen nicht zu
+euch kommen; denn sie würden euer Herz ihren Göttern zuwenden. An diesen
+hing Salomo mit Liebe. [fn:1]
+
+<<v3>>
+3 Er hatte siebenhundert fürstliche Frauen und dreihundert Nebenfrauen.
+Sie machten sein Herz abtrünnig. [fn:2]
+
+<<v4>>
+4 Als Salomo älter wurde, verführten ihn seine Frauen zur Verehrung
+anderer Götter, sodass er dem Herrn, seinem Gott, nicht mehr ungeteilt
+ergeben war wie sein Vater David.
+
+<<v5>>
+5 Er verehrte Astarte, die Göttin der Sidonier, und Milkom, den Götzen
+der Ammoniter.
+
+<<v6>>
+6 Er tat, was dem Herrn missfiel, und war ihm nicht so vollkommen
+ergeben wie sein Vater David.
+
+<<v7>>
+7 Damals baute Salomo auf dem Berg östlich von Jerusalem eine Kulthöhe
+für Kemosch, den Götzen der Moabiter, und für Milkom, den Götzen der
+Ammoniter. [fn:3]
+
+<<v8>>
+8 Dasselbe tat er für alle seine ausländischen Frauen, die ihren Göttern
+Rauch- und Schlachtopfer darbrachten.\\
+\\
+
+<<v9>>
+* Ankündigung des Gerichts: 11,9-13
+
+9 Der Herr aber wurde zornig über Salomo, weil sich sein Herz von ihm,
+dem Gott Israels, abgewandt hatte, der ihm zweimal erschienen war [fn:4]
+
+<<v10>>
+10 und ihm verboten hatte, fremden Göttern zu dienen. Doch Salomo hielt
+sich nicht an das, was der Herr von ihm verlangt hatte.
+
+<<v11>>
+11 Daher sprach der Herr zu ihm: Weil es so mit dir steht, weil du
+meinen Bund gebrochen und die Gebote nicht befolgt hast, die ich dir
+gegeben habe, werde ich dir das Königreich entreißen und es deinem
+Knecht geben.
+
+<<v12>>
+12 Nur deines Vaters David wegen werde ich es nicht schon zu deinen
+Lebzeiten tun; erst deinem Sohn werde ich es entreißen.
+
+<<v13>>
+13 Doch werde ich ihm das Königtum nicht ganz entreißen; ich lasse
+deinem Sohn noch einen Stamm wegen meines Knechtes David und wegen
+Jerusalem, der Stadt, die ich erwählt habe.\\
+\\
+
+<<v14>>
+* Salomos Gegner: 11,14-40
+
+14 Der Herr ließ Salomo einen Widersacher erstehen, den Edomiter Hadad
+aus der königlichen Familie von Edom.
+
+<<v15>>
+15 Als David die Edomiter geschlagen hatte und sein Heerführer Joab
+hinaufzog, um die Gefallenen zu begraben, tötete er in Edom alles, was
+männlich war. [fn:5]
+
+<<v16>>
+16 Sechs Monate hielt sich Joab mit ganz Israel in Edom auf, bis er
+alles, was männlich war, ausgerottet hatte.
+
+<<v17>>
+17 Hadad aber konnte mit einigen Edomitern, die im Dienst seines Vaters
+standen, entfliehen und nach Ägypten entkommen. Er war noch sehr jung.
+
+<<v18>>
+18 Sie waren von Midian aufgebrochen und nach Paran gelangt. Dort nahmen
+sie noch andere Männer mit und kamen nach Ägypten zum Pharao, dem König
+von Ägypten. Dieser gab Hadad ein Haus, sorgte für seinen Unterhalt und
+schenkte ihm ein Grundstück.
+
+<<v19>>
+19 Hadad fand solche Gnade beim Pharao, dass dieser ihm die Schwester
+seiner Gemahlin, der Königin Tachpenes, zur Frau gab.
+
+<<v20>>
+20 Die Schwester der Tachpenes gebar ihm den Sohn Genubat und Tachpenes
+zog ihn im Haus des Pharao auf. So lebte Genubat im Haus des Pharao
+unter dessen Söhnen.
+
+<<v21>>
+21 Als nun Hadad in Ägypten hörte, dass David zu seinen Vätern
+entschlafen und der Heerführer Joab tot war, bat er den Pharao: Lass
+mich in mein Land zurückkehren!
+
+<<v22>>
+22 Der Pharao entgegnete ihm: Was fehlt dir denn bei mir, dass du in
+dein Land zurückkehren willst? Doch Hadad antwortete: Lass mich ziehen!
+
+<<v23>>
+23 Gott ließ Salomo noch einen anderen Widersacher erstehen, Reson, den
+Sohn Eljadas, der vor seinem Herrn, dem König Hadad-Eser von Zoba,
+geflohen war. [fn:6]
+
+<<v24>>
+24 Als David viele Aramäer niedermachen ließ, sammelte Reson Männer um
+sich und wurde Anführer einer Freischar. Später zog er nach Damaskus,
+ließ sich dort nieder und wurde König in Damaskus.
+
+<<v25>>
+25 Er war ein Widersacher Israels, solange Salomo lebte, und vermehrte
+das Unglück, das von Hadad ausging; er hasste Israel und herrschte über
+Aram.
+
+<<v26>>
+26 Auch Jerobeam, der Sohn Nebats, ein Beamter Salomos, erhob sich gegen
+den König. Er war ein Efratiter aus Zereda; seine Mutter hieß Zerua und
+war Witwe. [fn:7]
+
+<<v27>>
+27 Mit der Erhebung hatte es folgende Bewandtnis: Salomo baute den Millo
+und schloss die Lücke in der Stadt Davids, seines Vaters. [fn:8]
+
+<<v28>>
+28 Jerobeam war ein tüchtiger Mann, und als Salomo sah, wie der junge
+Mann arbeitete, machte er ihn zum Aufseher über alle Fronarbeiten des
+Hauses Josef.
+
+<<v29>>
+29 Als in jener Zeit Jerobeam einmal aus Jerusalem herauskam, begegnete
+ihm auf dem Weg der Prophet Ahija aus Schilo. Dieser war mit einem neuen
+Mantel bekleidet. Während nun beide allein auf freiem Feld waren,
+
+<<v30>>
+30 fasste Ahija den neuen Mantel, den er anhatte, zerriss ihn in zwölf
+Stücke
+
+<<v31>>
+31 und sagte zu Jerobeam: Nimm dir zehn Stücke; denn so spricht der
+Herr, der Gott Israels: Ich nehme Salomo das Königtum weg und gebe dir
+zehn Stämme. [fn:9]
+
+<<v32>>
+32 Nur ein Stamm soll ihm verbleiben wegen meines Knechtes David und
+wegen Jerusalem, der Stadt, die ich aus allen Stämmen Israels erwählt
+habe.
+
+<<v33>>
+33 Denn er hat mich verlassen und Astarte, die Göttin der Sidonier,
+Kemosch, den Gott der Moabiter, und Milkom, den Gott der Ammoniter,
+angebetet. Er ist von meinen Wegen abgewichen und hat nicht wie sein
+Vater David das getan, was mir gefällt; er hat meine Gebote und
+Satzungen übertreten.
+
+<<v34>>
+34 Doch werde ich ihm das Königtum nicht ganz wegnehmen. Wegen meines
+Knechtes David, den ich erwählt habe und der meine Befehle und Gebote
+befolgt hat, lasse ich ihm die Herrschaft, solange er lebt.
+
+<<v35>>
+35 Erst seinem Sohn werde ich das Königreich nehmen und dir zehn Stämme
+geben.
+
+<<v36>>
+36 Seinem Sohn werde ich einen einzigen Stamm geben, damit meinem Knecht
+David für immer eine Leuchte vor mir bleibe in Jerusalem, der Stadt, die
+ich erwählt habe, um auf sie meinen Namen zu legen.
+
+<<v37>>
+37 Dich aber will ich nehmen, damit du ganz nach deinem Begehren
+herrschen kannst; du sollst König von Israel sein.
+
+<<v38>>
+38 Wenn du nun auf alles hörst, was ich dir gebiete, auf meinen Wegen
+gehst und das tust, was mir gefällt, wenn du meine Gebote und Befehle
+befolgst wie mein Knecht David, dann werde ich mit dir sein. Ich werde
+dir ein Haus bauen, das Bestand hat, wie ich es für David gebaut habe,
+und dir Israel übergeben. [fn:10]
+
+<<v39>>
+39 Die Nachkommen Davids werde ich für den Abfall bestrafen, doch nicht
+für alle Zeiten.
+
+<<v40>>
+40 Salomo suchte nun Jerobeam zu töten. Doch dieser machte sich auf und
+floh nach Ägypten zu Schischak, dem König von Ägypten. Dort blieb er bis
+zum Tod Salomos. [fn:11]\\
+\\
+
+<<v41>>
+* Salomos Tod: 11,41-43
+
+41 Die übrige Geschichte Salomos, alle seine Taten und die Beweise
+seiner Weisheit, sind aufgezeichnet in der Chronik Salomos. [fn:12]
+
+<<v42>>
+42 Die Zeit, in der Salomo in Jerusalem über ganz Israel König war,
+betrug vierzig Jahre.
+
+<<v43>>
+43 Er entschlief zu seinen Vätern und wurde in der Stadt seines Vaters
+David begraben. Sein Sohn Rehabeam wurde König an seiner Stelle.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ex_34.org::v16][Ex 34,16]]; [[file:Dtn_7.org::v3][Dtn 7,3]]
+
+[fn:2] Nachahmung der Haremsbräuche orientalischer Herrscher.
+
+[fn:3] Milkom: Text korr. nach V. 5 und V. 33; H: Moloch.
+
+[fn:4] [[file:1.Kön_3.org::v4][3,4-15]]; [[file:1.Kön_9.org::v1][9,1-9]]
+
+[fn:5] geschlagen hatte: Text korr. nach G.
+
+[fn:6] 23-25: David hatte Hadad-Eser von Zoba besiegt und
+Damaskus unterworfen (vgl. [[file:2.Sam_8.org::v3][2 Sam 8,3-6]]; [[file:2.Sam_10.org::v16][10,16-19]]). Reson gelang es, sich
+in Damaskus als König zu behaupten. Das mag zu Beginn der Regierung
+Salomos geschehen sein.
+
+[fn:7] Efratiter: Angehöriger des Stammes Efraim. - Zereda:
+zwischen Jafo und Schilo.
+
+[fn:8] 27f: Die Erhebung Jerobeams steht in zeitlichem
+Zusammenhang mit dem Bau des Millo (vgl. die Anmerkung zu [[file:2.Sam_5.org::v9][2 Sam 5,9]]).
+
+[fn:9] 31f: Der eine Stamm, der dem Sohn Salomos verbleiben
+soll, ist Juda. Dass Jerobeam nur zehn statt der erwarteten elf Stämme
+erhält, erklärt sich aus dem Fehlen Levis, der kein Stammesgebiet besaß.
+Da auch Simeon nicht mehr als eigener Stamm vorhanden war, sind Efraim
+und Manasse, die Josefstämme, getrennt mitgezählt.
+
+[fn:10] [[file:2.Sam_7.org::v16][2 Sam 7,16]]
+
+[fn:11] Schischak hatte 945 v. Chr. die 21. Dynastie, die mit
+Salomo verschwägert war, gestürzt.
+
+[fn:12] (41-43) [[file:2.Chr_9.org::v29][2 Chr 9,29-31]]

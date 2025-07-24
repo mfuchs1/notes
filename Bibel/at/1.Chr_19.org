@@ -1,0 +1,125 @@
+#+TITLE: 1 Chr 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-20 Mo 23:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 19.html
+
+<<verses>>
+
+<<v1>>
+* Der Krieg mit den Ammonitern und Aramäern: 19,1 - 20,3
+
+1 Als darauf Nahasch, der König der Ammoniter, starb und sein Sohn an
+seiner Stelle König wurde, [fn:1]
+
+<<v2>>
+2 sagte David: Ich will Hanun, dem Sohn des Nahasch, mein Wohlwollen
+zeigen, weil sein Vater auch mir sein Wohlwollen gezeigt hat. Und David
+schickte eine Gesandtschaft zu Hanun und ließ ihm sein Beileid zum Tod
+seines Vaters aussprechen. Als die Diener Davids in das Land der
+Ammoniter kamen, um Hanun das Beileid auszusprechen,
+
+<<v3>>
+3 sagten die Fürsten der Ammoniter zu Hanun: Will David wirklich deinen
+Vater vor deinen Augen ehren, weil er Leute schickt, die dir sein
+Beileid aussprechen sollen? Sind seine Diener nicht viel eher zu dir
+gekommen, um das Land auszukundschaften und zu durchforschen und es dann
+zu verwüsten?
+
+<<v4>>
+4 Darauf ließ Hanun die Diener Davids festnehmen, ihnen den Bart scheren
+und ihnen die Kleider zur Hälfte abschneiden, bis zum Gesäß herauf. So
+schickte er sie weg.
+
+<<v5>>
+5 Sie zogen fort, und als man David meldete, was mit den Männern
+geschehen war, schickte er ihnen jemand entgegen und ließ ihnen, weil
+sie so schwer geschändet waren, sagen: Bleibt in Jericho und kehrt erst
+zurück, wenn euer Bart wieder gewachsen ist.
+
+<<v6>>
+6 Als die Ammoniter merkten, dass sie sich bei David verhasst gemacht
+hatten, schickten Hanun und die Ammoniter tausend Talente Silber, um in
+Mesopotamien, Aram-Maacha und Zoba Wagenkämpfer samt Wagen anzuwerben.
+
+<<v7>>
+7 Sie warben zweiunddreißigtausend Kriegswagen an und gewannen den König
+von Maacha mit seinen Kriegsleuten. Diese zogen heran und lagerten vor
+Medeba. Auch die Ammoniter sammelten sich aus ihren Städten und zogen in
+den Kampf. [fn:2]
+
+<<v8>>
+8 David erfuhr davon und schickte Joab mit dem ganzen Heer, allen
+kriegstüchtigen Männern, hin.
+
+<<v9>>
+9 Die Ammoniter rückten aus und stellten sich vor der Stadt zum Kampf
+auf, während die Könige, die gekommen waren, jeweils für sich draußen
+auf dem freien Feld standen.
+
+<<v10>>
+10 Als Joab sah, dass ihm ein Angriff von vorn und von hinten drohte,
+traf er eine Auswahl aus der Kerntruppe Israels und stellte sie gegen
+die Aramäer auf.
+
+<<v11>>
+11 Den Rest des Heeres unterstellte er seinem Bruder Abischai, damit sie
+sich den Ammonitern gegenüber aufstellten.
+
+<<v12>>
+12 Joab sagte: Wenn die Aramäer stärker sind als ich, dann komm du mir
+zu Hilfe! Wenn die Ammoniter stärker sind als du, dann werde ich dir zu
+Hilfe kommen.
+
+<<v13>>
+13 Sei tapfer! Wir wollen mutig für unser Volk und für die Städte
+unseres Gottes kämpfen. Der Herr aber möge tun, was er für recht hält.
+
+<<v14>>
+14 Dann griff Joab mit seinen Leuten die Aramäer an und diese ergriffen
+die Flucht vor ihm.
+
+<<v15>>
+15 Als die Ammoniter sahen, dass die Aramäer flohen, ergriffen sie die
+Flucht vor seinem Bruder Abischai und zogen sich in die Stadt zurück.
+Joab kehrte heim nach Jerusalem.
+
+<<v16>>
+16 Die Aramäer sahen, dass sie von Israel geschlagen waren. Sie
+schickten Boten und ließen die Aramäer, die diesseits des Stromes
+wohnten, ausrücken; an ihrer Spitze stand Schobach, der Oberbefehlshaber
+Hadad-Esers. [fn:3]
+
+<<v17>>
+17 Als man das David meldete, versammelte er ganz Israel, überschritt
+den Jordan, zog gegen sie und nahm ihnen gegenüber Aufstellung. Während
+er sich den Aramäern gegenüber zum Kampf aufstellte, eröffneten sie den
+Kampf.
+
+<<v18>>
+18 Doch sie mussten vor den Israeliten fliehen. David vernichtete
+siebentausend aramäische Kriegswagen und tötete vierzigtausend Mann von
+ihren Fußtruppen. Auch Schobach, den Oberbefehlshaber des Heeres, tötete
+er. [fn:4]
+
+<<v19>>
+19 Die Vasallen Hadad-Esers sahen nun ein, dass sie von den Israeliten
+besiegt waren. Sie schlossen Frieden mit David und unterwarfen sich ihm.
+Von da an hatten die Aramäer kein Verlangen mehr, den Ammonitern zu
+helfen.
+
+* Footnotes
+
+[fn:1] (1-20,3) [[file:2.Sam_10.org::v1][2 Sam 10,1]] - [[file:2.Sam_11.org::v1][11,1]]; [[file:2.Sam_12.org::v30][12,30-31]]
+
+[fn:2] Medeba: östlich der Nordküste des Toten Meers.
+
+[fn:3] diesseits: vgl. die Anmerkung zu [[file:2.Sam_10.org::v16][2 Sam 10,16]].
+
+[fn:4] In [[file:2.Sam_10.org::v18][2 Sam 10,18]] ist nur von siebenhundert Wagen die Rede.

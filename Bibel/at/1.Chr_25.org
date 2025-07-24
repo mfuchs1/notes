@@ -1,0 +1,131 @@
+#+TITLE: 1 Chr 25 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-21 Di 21:50]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 25.html
+
+<<verses>>
+
+<<v1>>
+* Die Dienstklassen der Sänger: 25,1-31
+
+1 David und die Obersten des Heeres sonderten die Söhne Asafs, Hemans
+und Jedutuns, die auf Zithern, Harfen und Zimbeln spielten, für ihren
+Dienst aus. Und das ist das Verzeichnis der Männer, die den Dienst
+versahen:
+
+<<v2>>
+2 Von den Söhnen Asafs: Sakkur, Josef, Netanja und Asarela. Die Söhne
+Asafs standen unter der Leitung Asafs, der nach der Anweisung des Königs
+spielte.
+
+<<v3>>
+3 Von Jedutun: die Söhne Jedutuns: Gedalja, Zeri, Schimi, Jeschaja,
+Haschabja und Mattitja, insgesamt sechs. Sie standen unter der Leitung
+ihres Vaters Jedutun, der zum Lob und Preis des Herrn die Zither
+spielte.
+
+<<v4>>
+4 Von Heman: die Söhne Hemans: Bukkija, Mattanja, Usiël, Schubaël,
+Jerimot, Hananja, Hanani, Eliata, Giddalti, Romamti-Eser, Joschbekascha,
+Malloti, Hotir, Mahasiot.
+
+<<v5>>
+5 Sie alle waren Söhne Hemans, des Sehers des Königs, gemäß der
+Verheißung Gottes, der ihm Erhöhung der Macht versprach. So schenkte
+Gott dem Heman vierzehn Söhne und drei Töchter.
+
+<<v6>>
+6 Alle diese spielten unter der Leitung ihrer Väter, nämlich Asafs,
+Jedutuns und Hemans, beim Gesang im Haus des Herrn auf Zimbeln, Harfen
+und Zithern. Sie hatten den Dienst im Haus Gottes nach der Weisung des
+Königs zu besorgen.
+
+<<v7>>
+7 Sie zählten zusammen mit ihren Amtsbrüdern, die im Gesang zu Ehren des
+Herrn unterrichtet waren, 288 Mann, lauter geübte Leute.
+
+<<v8>>
+8 Sie warfen das Los zur Feststellung des Dienstes, und zwar der
+Geringste wie der Größte, der Meister wie der Schüler.
+
+<<v9>>
+9 Das erste Los traf auf Josef, das zweite auf Gedalja, seine Brüder und
+Söhne: 12; [fn:1]
+
+<<v10>>
+10 das dritte auf Sakkur, seine Söhne und Brüder: 12;
+
+<<v11>>
+11 das vierte auf Zeri, seine Söhne und Brüder: 12;
+
+<<v12>>
+12 das fünfte auf Netanja, seine Söhne und Brüder: 12;
+
+<<v13>>
+13 das sechste auf Bukkija, seine Söhne und Brüder: 12;
+
+<<v14>>
+14 das siebte auf Asarela, seine Söhne und Brüder: 12;
+
+<<v15>>
+15 das achte auf Jeschaja, seine Söhne und Brüder: 12;
+
+<<v16>>
+16 das neunte auf Mattanja, seine Söhne und Brüder: 12;
+
+<<v17>>
+17 das zehnte auf Schimi, seine Söhne und Brüder: 12;
+
+<<v18>>
+18 das elfte auf Usiël, seine Söhne und Brüder: 12;
+
+<<v19>>
+19 das zwölfte auf Haschabja, seine Söhne und Brüder: 12;
+
+<<v20>>
+20 das dreizehnte auf Schubael, seine Söhne und Brüder: 12;
+
+<<v21>>
+21 das vierzehnte auf Mattitja, seine Söhne und Brüder: 12;
+
+<<v22>>
+22 das fünfzehnte auf Jerimot, seine Söhne und Brüder: 12;
+
+<<v23>>
+23 das sechzehnte auf Hananja, seine Söhne und Brüder: 12;
+
+<<v24>>
+24 das siebzehnte auf Joschbekascha, seine Söhne und Brüder: 12;
+
+<<v25>>
+25 das achtzehnte auf Hanani, seine Söhne und Brüder: 12;
+
+<<v26>>
+26 das neunzehnte auf Malloti, seine Söhne und Brüder: 12;
+
+<<v27>>
+27 das zwanzigste auf Eliata, seine Söhne und Brüder: 12;
+
+<<v28>>
+28 das einundzwanzigste auf Hotir, seine Söhne und Brüder: 12;
+
+<<v29>>
+29 das zweiundzwanzigste auf Giddalti, seine Söhne und Brüder: 12;
+
+<<v30>>
+30 das dreiundzwanzigste auf Mahasiot, seine Söhne und Brüder: 12;
+
+<<v31>>
+31 das vierundzwanzigste auf Romamti-Eser, seine Söhne und Brüder: 12.\\
+\\
+
+* Footnotes
+
+[fn:1] In H steht vor Josef noch der Name Asaf.

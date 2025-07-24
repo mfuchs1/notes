@@ -1,0 +1,118 @@
+#+TITLE: Jos 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-02 Do 10:38]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 12.html
+
+
+* Jos 12
+
+<<verses>>
+
+<<v1>>
+1 Das sind die Könige des Landes, die von den Israeliten geschlagen
+wurden, und die Länder, die sie in Besitz nahmen, jenseits des Jordan im
+Osten vom Arnontal bis zum Hermongebirge mit der ganzen Araba im Osten:
+
+<<v2>>
+2 Sihon, der Amoriterkönig, der in Heschbon wohnte; er herrschte von
+Aroër am Rand des Arnontales und von der Mitte des Tals an über das
+halbe Gilead bis zum Jabboktal, das die Grenze zu den Ammonitern bildet, [fn:1]
+
+<<v3>>
+3 ferner über die Araba bis zum See Kinneret im Osten und bis zum Meer
+der Araba, dem Salzmeer im Osten in Richtung auf Bet-Jeschimot und im
+Süden über das Gebiet am Fuß des Berges Pisga,
+
+<<v4>>
+4 dann das Gebiet des Og, des Königs von Baschan, der von den Rafaïtern
+übrig geblieben war und in Aschtarot und in Edreï wohnte; [fn:2] [fn:3]
+
+<<v5>>
+5 er herrschte über das Hermongebirge und Salcha und den ganzen Baschan
+bis zum Gebiet der Geschuriter und der Maachatiter sowie über das halbe
+Gilead bis zum Gebiet Sihons, des Königs von Heschbon.
+
+<<v6>>
+6 Mose, der Knecht des Herrn, und die Israeliten hatten sie geschlagen
+und Mose, der Knecht des Herrn, hatte das Land den Rubenitern, den
+Gaditern und dem halben Stamm Manasse zum Besitz gegeben. [fn:4]
+
+<<v7>>
+7 Das sind die Könige des Landes, die Josua und die Israeliten jenseits
+des Jordan im Westen geschlagen hatten, von Baal-Gad in der Libanonsenke
+bis zu den kahlen Bergen, die nach Seïr hin ansteigen Josua gab ihr Land
+den Stämmen Israels zum Besitz, deren Stammeseinteilung entsprechend:
+
+<<v8>>
+8 im Gebirge und in der Schefela, in der Araba und an den Bergabhängen,
+in der Wüste und im Negeb, (das Land) der Hetiter, der Amoriter, der
+Kanaaniter, der Perisiter, der Hiwiter und der Jebusiter:
+
+<<v9>>
+9 Der König von Jericho: einer; der König von Ai, das seitlich von
+Bet-El liegt: einer;
+
+<<v10>>
+10 der König von Jerusalem: einer; der König von Hebron: einer;
+
+<<v11>>
+11 der König von Jarmut: einer; der König von Lachisch: einer;
+
+<<v12>>
+12 der König von Eglon: einer; der König von Geser: einer;
+
+<<v13>>
+13 der König von Debir: einer; der König von Geder: einer;
+
+<<v14>>
+14 der König von Horma: einer; der König von Arad: einer;
+
+<<v15>>
+15 der König von Libna: einer; der König von Adullam: einer;
+
+<<v16>>
+16 der König von Makkeda: einer; der König von Bet-El: einer;
+
+<<v17>>
+17 der König von Tappuach: einer; der König von Hefer: einer;
+
+<<v18>>
+18 der König von Afek: einer; der König von Scharon: einer;
+
+<<v19>>
+19 der König von Madon: einer; der König von Hazor: einer;
+
+<<v20>>
+20 der König von Schimron-Meron: einer; der König von Achschaf: einer;
+
+<<v21>>
+21 der König von Taanach: einer; der König von Megiddo: einer;
+
+<<v22>>
+22 der König von Kedesch: einer; der König von Jokneam am Karmel: einer;
+
+<<v23>>
+23 der König von Dor an der Höhe von Dor: einer; der König von Gojim in
+Galiläa: einer;
+
+<<v24>>
+24 der König von Tirza: einer; zusammen: einunddreißig Könige.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Jos_9.org::v10][9,10]]; [[file:Num_21.org::v23][Num 21,23f]]
+
+[fn:2] [[file:Jos_9.org::v10][9,10]]; [[file:Num_21.org::v33][Num 21,33]]; [[file:Dtn_3.org::v1][Dtn 3]]
+
+[fn:3] Der Zusatz «das Gebiet des» fehlt in G und nimmt auf
+12,1 keine Rücksicht.
+
+[fn:4] [[file:Num_32.org::v33][Num 32,33]]

@@ -1,0 +1,206 @@
+:PROPERTIES:
+:ID:       404ceacc-2b5f-434a-bc94-0bc8d31d7407
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jeremia* -- [[file:Jer_1.html][1]] ...
+[[file:Jer_27.html][27]] [[file:Jer_28.html][28]] *29*
+[[file:Jer_30.html][30]] [[file:Jer_31.html][31]] ...
+[[file:Jer_52.html][52]]
+
+--------------
+
+* Jer 29
+  :PROPERTIES:
+  :CUSTOM_ID: jer-29
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Der Brief an die Verbannten: 29,1-23
+     :PROPERTIES:
+     :CUSTOM_ID: der-brief-an-die-verbannten-291-23
+     :END:
+1 Das ist der Wortlaut des Briefes, den der Prophet Jeremia aus
+Jerusalem an den Rest der Ältesten der Gemeinde der Verbannten sandte,
+an die Priester, Propheten und das ganze Volk, das Nebukadnezzar von
+Jerusalem nach Babel verschleppt hatte,
+
+<<v2>>
+2 nachdem der König Jojachin, die Herrin, die Hofbeamten, die Großen von
+Juda und Jerusalem sowie die Schmiede und Schlosser aus Jerusalem
+fortgezogen waren; ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v3>>
+3 er schickte den Brief durch Elasa, den Sohn Schafans, und Gemarja, den
+Sohn Hilkijas, die Zidkija, der König von Juda, nach Babel zu
+Nebukadnezzar, dem König von Babel, sandte:
+
+<<v4>>
+4 So spricht der Herr der Heere, der Gott Israels, zur ganzen Gemeinde
+der Verbannten, die ich von Jerusalem nach Babel weggeführt habe:
+
+<<v5>>
+5 Baut Häuser und wohnt darin, pflanzt Gärten und esst ihre Früchte!
+
+<<v6>>
+6 Nehmt euch Frauen und zeugt Söhne und Töchter, nehmt für eure Söhne
+Frauen und gebt eure Töchter Männern, damit sie Söhne und Töchter
+gebären. Ihr sollt euch dort vermehren und nicht vermindern.
+
+<<v7>>
+7 Bemüht euch um das Wohl der Stadt, in die ich euch weggeführt habe,
+und betet für sie zum Herrn; denn in ihrem Wohl liegt euer Wohl.
+
+<<v8>>
+8 Denn so spricht der Herr der Heere, der Gott Israels: Lasst euch nicht
+täuschen von den Propheten, die unter euch sind, und von euren
+Wahrsagern. Hört nicht auf die Träume, die sie träumen. ^{[[#fn3][3]]}
+
+<<v9>>
+9 Denn Lüge ist das, was sie euch in meinem Namen weissagen; ich habe
+sie nicht gesandt - Spruch des Herrn.
+
+<<v10>>
+10 Ja, so spricht der Herr: Wenn siebzig Jahre für Babel vorüber sind,
+dann werde ich nach euch sehen, mein Heilswort an euch erfüllen und euch
+an diesen Ort zurückführen. ^{[[#fn4][4]]}
+
+<<v11>>
+11 Denn ich, ich kenne meine Pläne, die ich für euch habe - Spruch des
+Herrn -, Pläne des Heils und nicht des Unheils; denn ich will euch eine
+Zukunft und eine Hoffnung geben.
+
+<<v12>>
+12 Wenn ihr mich ruft, wenn ihr kommt und zu mir betet, so erhöre ich
+euch.
+
+<<v13>>
+13 Sucht ihr mich, so findet ihr mich. Wenn ihr von ganzem Herzen nach
+mir fragt, ^{[[#fn5][5]]}
+
+<<v14>>
+14 lasse ich mich von euch finden - Spruch des Herrn. Ich wende euer
+Geschick und sammle euch aus allen Völkern und von allen Orten, wohin
+ich euch versprengt habe - Spruch des Herrn. Ich bringe euch an den Ort
+zurück, von dem ich euch weggeführt habe.
+
+<<v15>>
+15 Zwar werdet ihr sagen: Auch in Babel hat der Herr für uns Propheten
+auftreten lassen.
+
+<<v16>>
+16 [Fürwahr, so spricht der Herr über den König, der auf dem Thron
+Davids sitzt, und über das ganze Volk, das in dieser Stadt wohnt, eure
+Brüder, die noch nicht mit euch in die Verbannung fortgezogen sind,
+^{[[#fn6][6]]}
+
+<<v17>>
+17 so spricht der Herr der Heere: Seht, ich schicke unter sie Schwert,
+Hunger und Pest und ich behandle sie wie verdorbene Feigen, die so
+schlecht sind, dass sie ungenießbar sind. ^{[[#fn7][7]]}
+
+<<v18>>
+18 Ich verfolge sie mit Schwert, Hunger und Pest und mache sie zu einem
+Bild des Schreckens für alle Reiche der Erde, zum Fluch und zum
+Entsetzen, zum Hohn und Gespött aller Völker, zu denen ich sie verstoße,
+
+<<v19>>
+19 weil sie nicht auf meine Worte gehört haben - Spruch des Herrn -,
+obwohl ich immer wieder meine Knechte, die Propheten, zu ihnen gesandt
+habe; ihr aber habt nicht gehört - Spruch des Herrn. ^{[[#fn8][8]]}
+
+<<v20>>
+20 Ihr jedoch, hört jetzt das Wort des Herrn, all ihr Verschleppten, die
+ich von Jerusalem nach Babel wegführen ließ.]
+
+<<v21>>
+21 So spricht der Herr der Heere, der Gott Israels, über Ahab, den Sohn
+Kolajas, und über Zidkija, den Sohn Maasejas, die euch in meinem Namen
+Lüge weissagen: Seht, ich liefere sie Nebukadnezzar, dem König von
+Babel, aus. Er wird sie vor euren Augen niederhauen lassen.
+
+<<v22>>
+22 Dann wird man bei allen Verschleppten Judas, die in Babel sind, von
+ihnen das Fluchwort herleiten: Der Herr mache dich Zidkija und Ahab
+gleich, die der König von Babel im Feuer rösten ließ.
+
+<<v23>>
+23 Sie haben nämlich Schändliches in Israel getrieben, mit den Frauen
+ihrer Nächsten Ehebruch begangen und in meinem Namen Worte verkündet,
+die ich ihnen nicht aufgetragen hatte. Ich bin der Wissende und der
+Zeuge - Spruch des Herrn.\\
+\\
+
+<<v24>>
+**** Das Drohwort gegen Schemaja: 29,24-32
+     :PROPERTIES:
+     :CUSTOM_ID: das-drohwort-gegen-schemaja-2924-32
+     :END:
+24 Zu Schemaja aus Nehelam sollst du sagen:
+
+<<v25>>
+25 So spricht der Herr der Heere, der Gott Israels: Du hast in deinem
+eigenen Namen einen Brief [an das ganze Volk in Jerusalem und] an den
+Priester Zefanja, den Sohn Maasejas, [sowie an alle Priester] geschickt
+mit diesem Inhalt: ^{[[#fn9][9]]}
+
+<<v26>>
+26 Der Herr hat dich anstelle des Priesters Jojada zum Priester
+bestellt, damit du im Haus des Herrn Acht gibst auf jeden verrückten
+Propheten und ihn in Block und Halseisen legst.
+
+<<v27>>
+27 Warum bist du also nicht gegen Jeremia aus Anatot eingeschritten, der
+sich bei euch wie ein Prophet gebärdet?
+
+<<v28>>
+28 Deshalb hat er auch an uns nach Babel die Botschaft geschickt: Es
+wird noch lange dauern; baut Häuser und wohnt darin, pflanzt Gärten und
+genießt ihre Früchte!
+
+<<v29>>
+29 Der Priester Zefanja aber hatte diesen Brief dem Propheten Jeremia
+vorgelesen.
+
+<<v30>>
+30 Da erging das Wort des Herrn an Jeremia:
+
+<<v31>>
+31 Schick eine Botschaft an alle Verschleppten: So spricht der Herr über
+Schemaja aus Nehelam: Weil Schemaja euch geweissagt hat, obwohl ich ihn
+nicht gesandt hatte, und weil er euch dazu verführt hat, auf Lügen zu
+vertrauen, ^{[[#fn10][10]]}
+
+<<v32>>
+32 darum - so spricht der Herr: Seht, ich ziehe Schemaja aus Nehelam und
+seine Nachkommen zur Rechenschaft. Keiner von den Seinen soll unter
+diesem Volk wohnen bleiben und das Glück schauen, das ich meinem Volk
+bereite - Spruch des Herrn -; denn er hat Auflehnung gegen den Herrn
+gepredigt. ^{[[#fn11][11]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 24,1; 2 Kön 24,14f
+
+^{[[#fnm2][2]]} Die «Herrin» ist die Mutter Jojachins (vgl. 13,18).
+
+^{[[#fnm3][3]]} ℘ 14,14
+
+^{[[#fnm4][4]]} ℘ 25,11-13
+
+^{[[#fnm5][5]]} ℘ (13-14) Dtn 4,29
+
+^{[[#fnm6][6]]} 16-20: Passt nicht in den Briefzusammenhang, stammt vor
+allem aus Kap. 24; fehlt in G zu Recht.
+
+^{[[#fnm7][7]]} ℘ (17-18) 24,8-10
+
+^{[[#fnm8][8]]} ℘ 25,4
+
+^{[[#fnm9][9]]} Die eingeklammerten Zusätze fehlen in G; der Brief ging
+wohl nur an Zefanja.
+
+^{[[#fnm10][10]]} ℘ 28,15
+
+^{[[#fnm11][11]]} ℘ 28,16

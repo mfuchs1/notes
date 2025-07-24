@@ -1,0 +1,152 @@
+:PROPERTIES:
+:ID:       df6c0c13-4190-4494-b15f-c2c99a522d68
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der erste Brief an die Thessalonicher* --
+[[file:1.Thess_1.html][1]] *2* [[file:1.Thess_3.html][3]]
+[[file:1.Thess_4.html][4]] [[file:1.Thess_5.html][5]]
+
+--------------
+
+* 1.Thess 2
+  :PROPERTIES:
+  :CUSTOM_ID: thess-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Rückblick auf das erste Wirken des Apostels: 2,1-12
+     :PROPERTIES:
+     :CUSTOM_ID: rückblick-auf-das-erste-wirken-des-apostels-21-12
+     :END:
+1 Ihr wisst selbst, Brüder, dass wir nicht vergebens zu euch gekommen
+sind.
+
+<<v2>>
+2 Wir hatten vorher in Philippi viel zu leiden und wurden misshandelt,
+wie ihr wisst; dennoch haben wir im Vertrauen auf unseren Gott das
+Evangelium Gottes trotz harter Kämpfe freimütig und furchtlos bei euch
+verkündet.
+
+<<v3>>
+3 Denn wir predigen nicht, um euch irrezuführen, in schmutziger Weise
+auszunutzen oder zu betrügen, ^{[[#fn1][1]]}
+
+<<v4>>
+4 sondern wir tun es, weil Gott uns geprüft und uns das Evangelium
+anvertraut hat, nicht also um den Menschen, sondern um Gott zu gefallen,
+der unsere /Herzen prüft./ ^{[[#fn2][2]]}
+
+<<v5>>
+5 Nie haben wir mit unseren Worten zu schmeicheln versucht, das wisst
+ihr, und nie haben wir aus versteckter Habgier gehandelt, dafür ist Gott
+Zeuge.
+
+<<v6>>
+6 Wir haben auch keine Ehre bei den Menschen gesucht, weder bei euch
+noch bei anderen,
+
+<<v7>>
+7 obwohl wir als Apostel Christi unser Ansehen hätten geltend machen
+können. Im Gegenteil, wir sind euch freundlich begegnet: Wie eine Mutter
+für ihre Kinder sorgt,
+
+<<v8>>
+8 so waren wir euch zugetan und wollten euch nicht nur am Evangelium
+Gottes teilhaben lassen, sondern auch an unserem eigenen Leben; denn ihr
+wart uns sehr lieb geworden.
+
+<<v9>>
+9 Ihr erinnert euch, Brüder, wie wir uns gemüht und geplagt haben. Bei
+Tag und Nacht haben wir gearbeitet, um keinem von euch zur Last zu
+fallen, und haben euch so das Evangelium Gottes verkündet.
+^{[[#fn3][3]][[#fn4][4]]}
+
+<<v10>>
+10 Ihr seid Zeugen, und auch Gott ist Zeuge, wie gottgefällig, gerecht
+und untadelig wir uns euch, den Gläubigen, gegenüber verhalten haben.
+
+<<v11>>
+11 Ihr wisst auch, dass wir, wie ein Vater seine Kinder, jeden Einzelnen
+von euch ^{[[#fn5][5]]}
+
+<<v12>>
+12 ermahnt, ermutigt und beschworen haben zu leben, wie es Gottes würdig
+ist, der euch zu seinem Reich und zu seiner Herrlichkeit beruft.
+^{[[#fn6][6]]}\\
+\\
+
+<<v13>>
+**** Die Aufnahme des Evangeliums durch die Gemeinde: 2,13-16
+     :PROPERTIES:
+     :CUSTOM_ID: die-aufnahme-des-evangeliums-durch-die-gemeinde-213-16
+     :END:
+13 Darum danken wir Gott unablässig dafür, dass ihr das Wort Gottes, das
+ihr durch unsere Verkündigung empfangen habt, nicht als Menschenwort,
+sondern - was es in Wahrheit ist - als Gottes Wort angenommen habt; und
+jetzt ist es in euch, den Gläubigen, wirksam. ^{[[#fn7][7]]}
+
+<<v14>>
+14 Denn, Brüder, ihr seid den Gemeinden Gottes in Judäa gleich geworden,
+die sich zu Christus Jesus bekennen. Ihr habt von euren Mitbürgern das
+Gleiche erlitten wie jene von den Juden.
+
+<<v15>>
+15 Diese haben sogar Jesus, den Herrn, und die Propheten getötet; auch
+uns haben sie verfolgt. Sie missfallen Gott und sind Feinde aller
+Menschen; ^{[[#fn8][8]][[#fn9][9]]}
+
+<<v16>>
+16 sie hindern uns daran, den Heiden das Evangelium zu verkünden und
+ihnen so das Heil zu bringen. Dadurch /machen sie/ unablässig /das Maß
+ihrer Sünden voll./ Aber der ganze Zorn ist schon über sie gekommen.
+^{[[#fn10][10]]}\\
+\\
+
+<<v17>>
+**** Der verhinderte Besuch: 2,17-20
+     :PROPERTIES:
+     :CUSTOM_ID: der-verhinderte-besuch-217-20
+     :END:
+17 Für kurze Zeit, Brüder, sind wir verwaist, weil ihr uns fern seid,
+den Augen fern, nicht dem Herzen; deshalb haben wir uns in größter
+Sehnsucht umso eifriger bemüht, euch wieder zu sehen.
+
+<<v18>>
+18 Ja, wir hatten uns fest vorgenommen, zu euch zu kommen, und das
+wollte ich, Paulus, schon einige Male; aber der Satan hat uns daran
+gehindert.
+
+<<v19>>
+19 Denn wer ist unsere Hoffnung, unsere Freude, der Kranz unseres Ruhmes
+vor Jesus, unserem Herrn, wenn er kommen wird? Nicht etwa auch ihr?
+
+<<v20>>
+20 Ja, ihr seid unsere Ehre und Freude.\\
+\\
+
+^{[[#fnm1][1]]} 3-12: Paulus spielt wohl auf die Verdächtigungen an, die
+vonseiten seiner Feinde gegen ihn ausgestreut werden.
+
+^{[[#fnm2][2]]} ℘ Jer 11,20
+
+^{[[#fnm3][3]]} ℘ Apg 20,34; 1 Kor 4,12; 9,12-18
+
+^{[[#fnm4][4]]} Paulus arbeitete als Zeltmacher oder Zelttuchweber, um
+der Gemeinde nicht zur Last zu fallen (vgl. Apg 18,3).
+
+^{[[#fnm5][5]]} ℘ 1 Kor 4,15
+
+^{[[#fnm6][6]]} ℘ Eph 4,1; Phil 1,27; 2 Thess 1,5; 1 Petr 5,10
+
+^{[[#fnm7][7]]} ℘ Hebr 4,2; Gal 1,11f; 2 Thess 2,13f
+
+^{[[#fnm8][8]]} ℘ Mt 23,31f; Apg 2,23; 7,52; Röm 11,28
+
+^{[[#fnm9][9]]} 15f: Die Schärfe der Anklage gegen die Juden erklärt
+sich daraus, dass sie in allen Gemeinden die Missionsarbeit des Apostels
+zu stören versuchten.
+
+^{[[#fnm10][10]]} ℘ Mt 23,13; Gen 15,16; Dan 8,23

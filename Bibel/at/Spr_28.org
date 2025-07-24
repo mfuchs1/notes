@@ -1,0 +1,193 @@
+#+TITLE: Spr 28 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-10-02 Mi 21:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 28.html
+
+* Spr 28
+
+<<verses>>
+
+<<v1>>
+1 Der Frevler flieht, auch wenn ihn keiner verfolgt, /\\
+ der Gerechte fühlt sich sicher wie ein Löwe.\\
+\\
+
+<<v2>>
+2 Durch seine Frevel bekommt ein Land viele Herrscher, /\\
+ durch einen verständigen, einsichtsvollen Mann erhält die Ordnung
+Bestand. [fn:1]\\
+\\
+
+<<v3>>
+3 Ein Vornehmer, der die Armen unterdrückt, /\\
+ ist wie Regen, der alles wegschwemmt und kein Brot bringt. [fn:2]\\
+\\
+
+<<v4>>
+4 Wer die Lehre preisgibt, rühmt den Frevler, /\\
+ wer die Lehre beachtet, bekämpft ihn.\\
+\\
+
+<<v5>>
+5 Böse Menschen verstehen nicht, was recht ist, /\\
+ die aber, die den Herrn suchen, verstehen alles. [fn:3]\\
+\\
+
+<<v6>>
+6 Besser ein Armer, der schuldlos seinen Weg geht, /\\
+ als ein Reicher, der krumme Wege geht. [fn:4]\\
+\\
+
+<<v7>>
+7 Wer sich an die Lehre hält, ist ein verständiger Sohn, /\\
+ wer mit Verschwendern umgeht, macht seinem Vater Schande.\\
+\\
+
+<<v8>>
+8 Wer sein Vermögen durch Zins und Aufschlag vermehrt, /\\
+ sammelt für den, der Erbarmen hat mit den Armen. [fn:5]\\
+\\
+
+<<v9>>
+9 Wendet einer sein Ohr ab, um die Lehre nicht zu hören, /\\
+ dann ist sogar sein Gebet ein Gräuel.\\
+\\
+
+<<v10>>
+10 Wer Rechtschaffene irreführt auf einen bösen Weg, /\\
+ der fällt in seine eigene Grube; /\\
+ die Schuldlosen aber erlangen Gutes.\\
+\\
+
+<<v11>>
+11 Der Reiche hält sich selbst für klug, /\\
+ doch ein verständiger Armer durchschaut ihn.\\
+\\
+
+<<v12>>
+12 Haben Gerechte die Oberhand, gibt es glanzvolle Zeiten, /\\
+ erheben sich die Frevler, verstecken sich die Menschen. [fn:6]\\
+\\
+
+<<v13>>
+13 Wer seine Sünden verheimlicht, hat kein Glück, /\\
+ wer sie bekennt und meidet, findet Erbarmen. [fn:7]\\
+\\
+
+<<v14>>
+14 Wohl dem Menschen, der stets Gott fürchtet; /\\
+ wer aber sein Herz verhärtet, fällt ins Unglück.\\
+\\
+
+<<v15>>
+15 Ein grollender Löwe, ein gieriger Bär - /\\
+ ein frevelhafter Herrscher über ein schwaches Volk.\\
+\\
+
+<<v16>>
+16 Mancher Fürst ist klein an Verstand und groß als Unterdrücker; /\\
+ wer Ausbeutung hasst, hat ein langes Leben.\\
+\\
+
+<<v17>>
+17 Ein Mensch, auf dem Blutschuld lastet, /\\
+ ist flüchtig bis zum Grab; man halte ihn nicht. [fn:8] [fn:9]\\
+\\
+
+<<v18>>
+18 Wer schuldlos seinen Weg geht, dem wird geholfen, /\\
+ wer krumme Wege geht, fällt in die Grube.\\
+\\
+
+<<v19>>
+19 Wer sein Feld bestellt, wird satt von Brot, /\\
+ wer nichtigen Dingen nachjagt, wird satt von Armut. [fn:10]\\
+\\
+
+<<v20>>
+20 Ein ehrlicher Mensch erntet vielfachen Segen, /\\
+ wer aber hastet, um sich zu bereichern, bleibt nicht ungestraft. [fn:11]\\
+\\
+
+<<v21>>
+21 Auf die Person sehen ist nicht recht, /\\
+ für einen Bissen Brot wird mancher zum Verbrecher. [fn:12]\\
+\\
+
+<<v22>>
+22 Nach Reichtum giert ein neidischer Mensch /\\
+ und bedenkt nicht, dass Mangel über ihn kommen wird.\\
+\\
+
+<<v23>>
+23 Wer einen andern zurechtweist, /\\
+ findet schließlich Dank, /\\
+ mehr als der Schmeichler.\\
+\\
+
+<<v24>>
+24 Wer Vater oder Mutter beraubt /\\
+ und meint, er tue kein Unrecht, /\\
+ macht sich zum Genossen des Mörders. [fn:13]\\
+\\
+
+<<v25>>
+25 Der Habgierige erregt Streit, /\\
+ wer auf den Herrn vertraut, wird reichlich gelabt.\\
+\\
+
+<<v26>>
+26 Wer auf seinen eigenen Verstand vertraut, ist ein Tor, /\\
+ wer in Weisheit seinen Weg geht, wird gerettet.\\
+\\
+
+<<v27>>
+27 Wer dem Armen gibt, hat keinen Mangel, /\\
+ wer seine Augen verschließt, wird viel verflucht.\\
+\\
+
+<<v28>>
+28 Erheben sich die Frevler, dann verbergen sich die Menschen, /\\
+ gehen sie zugrunde, dann kommen die Gerechten an die Macht. [fn:14]\\
+\\
+
+* Footnotes
+
+[fn:1] Der Text ist schwierig. Er bezieht sich möglicherweise
+auf die rasch wechselnden Regierungen des Nordreichs Israel. Nach G wäre
+zu übersetzen: Durch die Frevel eines Gewalttätigen werden
+Streitigkeiten geweckt; durch einen verständigen Mann erlöschen sie.
+
+[fn:2] 3a: Vornehmer: G: Frevelhafter.
+
+[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_2.org::v14][1 Kor 2,14]]
+
+[fn:4] [[file:Spr_19.org::v1][19,1]]
+
+[fn:5] [[file:Ex_22.org::v24][Ex 22,24]]
+
+[fn:6] [[v28][28,28]]; [[file:Spr_29.org::v2][29,2]]
+
+[fn:7] [[file:Ps_32.org::v2][Ps 32,2-5]]
+
+[fn:8] [[file:Gen_4.org::v12][Gen 4,12]]
+
+[fn:9] 17b: Andere Übersetzungsmöglichkeit: man unterstütze ihn nicht.
+
+[fn:10] [[file:Spr_12.org::v11][12,11]]
+
+[fn:11] [[file:Sir_11.org::v10][Sir 11,10f]]
+
+[fn:12] [[file:Spr_24.org::v23][24,23]]
+
+[fn:13] [[file:Spr_18.org::v9][18,9]]
+
+[fn:14] [[v12][28,12]]

@@ -1,0 +1,131 @@
+:PROPERTIES:
+:ID:       7fc943f7-b8a0-4259-899a-0144541889cb
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Ezechiel* -- [[file:Ez_1.html][1]] ...
+[[file:Ez_17.html][17]] [[file:Ez_18.html][18]] *19*
+[[file:Ez_20.html][20]] [[file:Ez_21.html][21]] ...
+[[file:Ez_48.html][48]]
+
+--------------
+
+* Ez 19
+  :PROPERTIES:
+  :CUSTOM_ID: ez-19
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Totenklage über den Fürsten von Israel: 19,1-14
+     :PROPERTIES:
+     :CUSTOM_ID: die-totenklage-über-den-fürsten-von-israel-191-14
+     :END:
+1 Du aber, stimm die Totenklage an über den Fürsten von Israel\\
+\\
+
+<<v2>>
+2 und sag: Was war doch deine Mutter für eine Löwin /\\
+ unter den Löwen! Bei jungen Löwen hatte sie ihr Lager /\\
+ und zog ihren Nachwuchs auf. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Eins von ihren Jungen zog sie groß /\\
+ und es wurde ein starker Löwe. Er lernte, zu reißen und zu rauben, /\\
+ er fraß Menschen.\\
+\\
+
+<<v4>>
+4 Da bot man Völker gegen ihn auf. /\\
+ In ihrer Grube fingen sie ihn /\\
+ und schleppten ihn an Haken ins Land Ägypten.
+^{[[#fn2][2]][[#fn3][3]]}\\
+\\
+
+<<v5>>
+5 Als sie sah, dass ihre Hoffnung vereitelt, /\\
+ dass sie zunichte war, nahm sie von ihren Jungen ein anderes /\\
+ und machte es zum starken Löwen. ^{[[#fn4][4]]}\\
+\\
+
+<<v6>>
+6 Er tummelte sich unter den Löwen /\\
+ und wurde ein starker Löwe. Er lernte zu reißen und zu rauben, /\\
+ er fraß Menschen.\\
+\\
+
+<<v7>>
+7 Er zerbrach ihre Burgen /\\
+ und verheerte ihre Städte; das Land, und was in ihm lebte, /\\
+ entsetzte sich bei seinem lauten Gebrüll. ^{[[#fn5][5]]}\\
+\\
+
+<<v8>>
+8 Da setzte man Völker gegen ihn ein /\\
+ aus den Ländern ringsum. Sie warfen ihr Netz über ihn; /\\
+ in ihrer Grube fingen sie ihn.\\
+\\
+
+<<v9>>
+9 Sie zerrten ihn an Haken in einen Käfig /\\
+ und brachten ihn zum König von Babel, [sie brachten ihn in Gewahrsam,]
+/\\
+ damit man seine Stimme nicht mehr hörte /\\
+ auf Israels Bergen. ^{[[#fn6][6]]}\\
+\\
+
+<<v10>>
+10 Deine Mutter war wie ein Weinstock im Garten, /\\
+ der am Wasser gepflanzt ist. Voll von Früchten und Ranken war er /\\
+ wegen des Reichtums an Wasser. ^{[[#fn7][7]][[#fn8][8]]}\\
+\\
+
+<<v11>>
+11 Er hatte kräftige Zweige, /\\
+ für Zepter von Herrschern geeignet; sein Wuchs war hoch, /\\
+ er ragte bis in die Wolken. Weithin war er sichtbar wegen seiner Höhe
+/\\
+ und wegen seines dichten Laubes.\\
+\\
+
+<<v12>>
+12 Doch im Zorn riss man ihn aus /\\
+ und warf ihn auf die Erde. Der Ostwind dörrte ihn aus, /\\
+ seine Früchte riss man ab. Sein kräftiger Stamm verdorrte. /\\
+ Feuer verzehrte ihn. ^{[[#fn9][9]]}\\
+\\
+
+<<v13>>
+13 Nun verpflanzte man ihn in die Wüste, /\\
+ in trockenes, dürstendes Land.\\
+\\
+
+<<v14>>
+14 Und Feuer ging aus von den Zweigen am Stamm /\\
+ und fraß seine Früchte. Kein kräftiger Zweig war mehr an ihm, /\\
+ kein Zepter für Herrscher. - Eine Totenklage ist dieses Lied; /\\
+ zur Totenklage ist es geworden.\\
+\\
+
+^{[[#fnm1][1]]} Die Totenklage in Form einer bildhaften Rede bezeichnet
+wohl mit der «Löwenmutter» das judäische Königshaus, mit dem
+«Löwenjungen» in VV. 3f Joahas, in VV. 5-9 Jojachin. - Auch der
+Weinstock (VV. 10-14) stellt das davidische Königshaus dar.
+
+^{[[#fnm2][2]]} ℘ 2 Kön 23,31-34
+
+^{[[#fnm3][3]]} bot man . . . auf: Text korr.; H: hörten sie.
+
+^{[[#fnm4][4]]} ein anderes: vgl. die Anmerkung zu 17,7.
+
+^{[[#fnm5][5]]} Er zerbrach ihre Burgen: Text korr., vgl. G.
+
+^{[[#fnm6][6]]} ℘ 2 Kön 24,15
+
+^{[[#fnm7][7]]} ℘ 17,6
+
+^{[[#fnm8][8]]} im Garten: Text korr.; H: in deinem Blut.
+
+^{[[#fnm9][9]]} ℘ Joh 15,6

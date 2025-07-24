@@ -1,0 +1,63 @@
+#+TITLE: Ps 125 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 13:50]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 125.html
+
+* Ps 125
+
+<<verses>>
+
+<<v1>>
+* Gott, der Beschützer seines Volkes
+
+1 [Ein Wallfahrtslied.] Wer auf den Herrn vertraut, steht fest wie der
+Zionsberg, /\\
+ der niemals wankt, der ewig bleibt. [fn:1]\\
+\\
+
+<<v2>>
+2 Wie Berge Jerusalem rings umgeben, /\\
+ so ist der Herr um sein Volk von nun an auf ewig. [fn:2]\\
+\\
+
+<<v3>>
+3 Das Zepter des Frevlers soll nicht auf dem Erbland der Gerechten
+lasten, /\\
+ damit die Hand der Gerechten nicht nach Unrecht greift. [fn:3] [fn:4]\\
+\\
+
+<<v4>>
+4 Herr, tu Gutes den Guten, /\\
+ den Menschen mit redlichem Herzen! [fn:5]\\
+\\
+
+<<v5>>
+5 Doch wer auf krumme Wege abbiegt, /\\
+ den jage, Herr, samt den Frevlern davon! /\\
+ Frieden über Israel! [fn:6] [fn:7]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Spr_10.org::v30][Spr 10,30]]
+
+[fn:2] [[file:Dtn_32.org::v10][Dtn 32,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_28.org::v20][Mt 28,20]]
+
+[fn:3] [[file:Ps_119.org::v134][119,134]]
+
+[fn:4] Wörtlich: damit nicht auch die Gerechten ihre Hände nach
+Unrecht ausstrecken.
+
+[fn:5] [[file:Ps_18.org::v26][18,26f]]
+
+[fn:6] [[file:Ps_92.org::v10][92,10]]
+
+[fn:7] Text korr.; H: auf ihre krummen Wege.

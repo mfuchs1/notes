@@ -1,0 +1,263 @@
+:PROPERTIES:
+:ID:       579f095c-8c00-44f8-b659-fa6d125b4b25
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Joel* -- [[file:Joel_1.html][1]] *2*
+[[file:Joel_3.html][3]] [[file:Joel_4.html][4]]
+
+--------------
+
+* Joel 2
+  :PROPERTIES:
+  :CUSTOM_ID: joel-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Der Tag des Herrn: 2,1-11
+     :PROPERTIES:
+     :CUSTOM_ID: der-tag-des-herrn-21-11
+     :END:
+1 Auf dem Zion stoßt in das Horn, /\\
+ schlagt Lärm auf meinem heiligen Berg! Alle Bewohner des Landes sollen
+zittern; /\\
+ denn es kommt der Tag des Herrn, ja, er ist nahe, / ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 der Tag des Dunkels und der Finsternis, /\\
+ der Tag der Wolken und Wetter. Wie das Morgenrot, das sich über die
+Berge hinbreitet, /\\
+ kommt ein Volk, groß und gewaltig, wie es vor ihm noch nie eines gab
+/\\
+ und nach ihm keines mehr geben wird /\\
+ bis zu den fernsten Geschlechtern. ^{[[#fn2][2]]}\\
+\\
+
+<<v3>>
+3 Vor ihm her verzehrendes Feuer, /\\
+ hinter ihm lodernde Flammen; vor ihm ist das Land wie der Garten Eden,
+/\\
+ hinter ihm schaurige Wüste - /\\
+ nichts kann ihm entrinnen. ^{[[#fn3][3]]}\\
+\\
+
+<<v4>>
+4 Wie Rosse sehen sie aus, /\\
+ wie Reiter stürmen sie dahin. ^{[[#fn4][4]]}\\
+\\
+
+<<v5>>
+5 Wie rasselnde Streitwagen /\\
+ springen sie über die Kuppen der Berge, wie eine prasselnde
+Feuerflamme, die die Stoppeln frisst, /\\
+ wie ein mächtiges Heer, gerüstet zur Schlacht.\\
+\\
+
+<<v6>>
+6 Bei ihrem Anblick winden sich Völker, /\\
+ alle Gesichter glühen vor Angst. ^{[[#fn5][5]]}\\
+\\
+
+<<v7>>
+7 Wie Helden stürmen sie dahin, /\\
+ wie Krieger erklettern sie die Mauer. Jeder verfolgt seinen Weg, /\\
+ keiner verlässt seine Bahn.\\
+\\
+
+<<v8>>
+8 Keiner stößt den andern; /\\
+ Mann für Mann ziehen sie ihre Bahn. Mitten durch die Wurfspeere stürmen
+sie vor, /\\
+ ihre Reihen nehmen kein Ende.\\
+\\
+
+<<v9>>
+9 Sie überfallen die Stadt, erstürmen die Mauern, /\\
+ klettern an den Häusern empor, /\\
+ steigen durch die Fenster ein wie ein Dieb.\\
+\\
+
+<<v10>>
+10 Die Erde zittert vor ihnen, der Himmel erbebt; /\\
+ Sonne und Mond verfinstern sich, /\\
+ die Sterne halten ihr Licht zurück. ^{[[#fn6][6]]}\\
+\\
+
+<<v11>>
+11 Und der Herr lässt vor seinem Heer /\\
+ seine Stimme dröhnen; sein Heer ist gewaltig, /\\
+ mächtig ist der Vollstrecker seines Befehls. Ja, groß ist der Tag des
+Herrn und voll Schrecken. /\\
+ Wer kann ihn ertragen? ^{[[#fn7][7]]}\\
+\\
+
+<<v12>>
+**** Der Aufruf zur Buße: 2,12-17
+     :PROPERTIES:
+     :CUSTOM_ID: der-aufruf-zur-buße-212-17
+     :END:
+12 Auch jetzt noch - Spruch des Herrn: /\\
+ Kehrt um zu mir von ganzem Herzen /\\
+ mit Fasten, Weinen und Klagen. ^{[[#fn8][8]]}\\
+\\
+
+<<v13>>
+13 Zerreißt eure Herzen, nicht eure Kleider, /\\
+ und kehrt um zum Herrn, eurem Gott! Denn er ist gnädig und barmherzig,
+/\\
+ langmütig und reich an Güte /\\
+ und es reut ihn, dass er das Unheil verhängt hat. ^{[[#fn9][9]]}\\
+\\
+
+<<v14>>
+14 Vielleicht kehrt er um und es reut ihn /\\
+ und er lässt Segen zurück, sodass ihr Speise- und Trankopfer darbringen
+könnt /\\
+ für den Herrn, euren Gott. ^{[[#fn10][10]]}\\
+\\
+
+<<v15>>
+15 Auf dem Zion stoßt in das Horn, /\\
+ ordnet ein heiliges Fasten an, /\\
+ ruft einen Gottesdienst aus! ^{[[#fn11][11]]}\\
+\\
+
+<<v16>>
+16 Versammelt das Volk, /\\
+ heiligt die Gemeinde! Versammelt die Alten, /\\
+ holt die Kinder zusammen, auch die Säuglinge! Der Bräutigam verlasse
+seine Kammer /\\
+ und die Braut ihr Gemach.\\
+\\
+
+<<v17>>
+17 Zwischen Vorhalle und Altar /\\
+ sollen die Priester klagen, /\\
+ die Diener des Herrn sollen sprechen: Hab Mitleid, Herr, mit deinem
+Volk /\\
+ und überlass dein Erbe nicht der Schande, /\\
+ damit die Völker nicht über uns spotten. Warum soll man bei den Völkern
+sagen: /\\
+ Wo ist denn ihr Gott? ^{[[#fn12][12]]}\\
+\\
+
+<<v18>>
+**** Die Erhörung durch Gott: 2,18-27
+     :PROPERTIES:
+     :CUSTOM_ID: die-erhörung-durch-gott-218-27
+     :END:
+18 Da erwachte im Herrn die Leidenschaft für sein Land /\\
+ und er hatte Erbarmen mit seinem Volk. ^{[[#fn13][13]]}\\
+\\
+
+<<v19>>
+19 Der Herr antwortete seinem Volk und sprach: /\\
+ Seht, ich sende euch Korn, Wein und Öl, /\\
+ damit ihr euch daran sättigen könnt. Ich gebe euch nicht mehr der
+Schande preis /\\
+ unter den Völkern. ^{[[#fn14][14]]}\\
+\\
+
+<<v20>>
+20 Den Feind aus dem Norden /\\
+ schicke ich weit von euch weg, ich treibe ihn in ein dürres, verödetes
+Land, /\\
+ seine Vorhut treibe ich zum östlichen Meer /\\
+ und seine Nachhut zum westlichen Meer. Dann erhebt sich ein Gestank,
+/\\
+ Verwesungsgeruch steigt von ihm auf /\\
+ [denn er hat sich gebrüstet]. ^{[[#fn15][15]]}\\
+\\
+
+<<v21>>
+21 Fürchte dich nicht, fruchtbares Land! /\\
+ Freu dich und juble; /\\
+ denn der Herr hat Großes getan.\\
+\\
+
+<<v22>>
+22 Fürchtet euch nicht, ihr Tiere auf dem Feld! /\\
+ Denn das Gras in der Steppe wird wieder grün, der Baum trägt seine
+Frucht, /\\
+ Feigenbaum und Weinstock bringen ihren Ertrag.\\
+\\
+
+<<v23>>
+23 Jubelt, ihr Söhne Zions, /\\
+ und freut euch über den Herrn, euren Gott! Denn er gibt euch Nahrung,
+wie es recht ist. /\\
+ Er schickt euch den Regen, Herbstregen und Frühjahrsregen /\\
+ wie in früherer Zeit. ^{[[#fn16][16]][[#fn17][17]]}\\
+\\
+
+<<v24>>
+24 Die Tennen sind voll von Getreide, /\\
+ die Keltern fließen über von Wein und Öl.\\
+\\
+
+<<v25>>
+25 Ich ersetze euch die Ernten, /\\
+ die von der Wanderheuschrecke und der Larve, /\\
+ vom Nager und vom Grashüpfer gefressen wurden, von meinem großen Heer,
+/\\
+ das ich gegen euch sandte. ^{[[#fn18][18]]}\\
+\\
+
+<<v26>>
+26 Ihr werdet essen und satt werden /\\
+ und den Namen des Herrn, eures Gottes, preisen, /\\
+ der für euch solche Wunder getan hat. /\\
+ [Mein Volk braucht sich nie mehr zu schämen.] ^{[[#fn19][19]]}\\
+\\
+
+<<v27>>
+27 Dann werdet ihr erkennen, /\\
+ dass ich mitten in Israel bin und dass ich der Herr, euer Gott, bin,
+/\\
+ ich und sonst niemand. /\\
+ Mein Volk braucht sich nie mehr zu schämen. ^{[[#fn20][20]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Am 5,18.20; Zef 1,14
+
+^{[[#fnm2][2]]} ℘ Zef 1,15
+
+^{[[#fnm3][3]]} ℘ 1,19; Gen 2,8
+
+^{[[#fnm4][4]]} ℘ Offb 9,7.9
+
+^{[[#fnm5][5]]} ℘ Jes 13,8; Nah 2,11
+
+^{[[#fnm6][6]]} ℘ 3,4; 4,15f
+
+^{[[#fnm7][7]]} ℘ Nah 1,6; Mal 3,2.23
+
+^{[[#fnm8][8]]} ℘ Dtn 4,29
+
+^{[[#fnm9][9]]} ℘ Jes 58,5-7; Am 5,14f; Ex 34,6f
+
+^{[[#fnm10][10]]} ℘ Jona 3,9
+
+^{[[#fnm11][11]]} ℘ 2,1; 1,14
+
+^{[[#fnm12][12]]} ℘ Ex 32,11f; 1 Makk 7,36-38; Ps 42,4.11; 79,10; Mi
+7,10
+
+^{[[#fnm13][13]]} ℘ Dtn 4,24
+
+^{[[#fnm14][14]]} ℘ Dtn 11,14
+
+^{[[#fnm15][15]]} ℘ Jes 34,3; Am 4,10
+
+^{[[#fnm16][16]]} ℘ Dtn 11,14
+
+^{[[#fnm17][17]]} Text korr. nach G; H ist schwer verständlich.
+
+^{[[#fnm18][18]]} ℘ 1,4
+
+^{[[#fnm19][19]]} 26d: Der Zusatz ist aus V. 27e hier eingedrungen.
+
+^{[[#fnm20][20]]} ℘ Jes 42,8

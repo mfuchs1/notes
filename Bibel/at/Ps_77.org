@@ -1,0 +1,167 @@
+#+TITLE: Ps 77 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-02 Fr 17:10]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 77.html
+
+* Ps 77
+
+<<verses>>
+
+<<v1>>
+* Gottes Weg mit seinem Volk
+
+1 [Für den Chormeister. Nach Jedutun. Ein Psalm Asafs.]\\
+\\
+
+<<v2>>
+2 Ich rufe zu Gott, ich schreie, /\\
+ ich rufe zu Gott, bis er mich hört.\\
+\\
+
+<<v3>>
+3 Am Tag meiner Not suche ich den Herrn; /\\
+ unablässig erhebe ich nachts meine Hände, /\\
+ meine Seele lässt sich nicht trösten. [fn:1] [fn:2]\\
+\\
+
+<<v4>>
+4 Denke ich an Gott, muss ich seufzen; /\\
+ sinne ich nach, dann will mein Geist verzagen. [Sela]\\
+\\
+
+<<v5>>
+5 Du lässt mich nicht mehr schlafen; /\\
+ ich bin voll Unruhe und kann nicht reden. [fn:3]\\
+\\
+
+<<v6>>
+6 Ich sinne nach über die Tage von einst, /\\
+ ich will denken an längst vergangene Jahre. [fn:4]\\
+\\
+
+<<v7>>
+7 Mein Herz grübelt bei Nacht, /\\
+ ich sinne nach, es forscht mein Geist. [fn:5]\\
+\\
+
+<<v8>>
+8 Wird der Herr mich denn auf ewig verstoßen /\\
+ und mir niemals mehr gnädig sein? [fn:6]\\
+\\
+
+<<v9>>
+9 Hat seine Huld für immer ein Ende, /\\
+ ist seine Verheißung aufgehoben für alle Zeiten?\\
+\\
+
+<<v10>>
+10 Hat Gott seine Gnade vergessen, /\\
+ im Zorn sein Erbarmen verschlossen? [Sela] [fn:7]\\
+\\
+
+<<v11>>
+11 Da sagte ich mir: «Das ist mein Schmerz, /\\
+ dass die Rechte des Höchsten so anders handelt.» [fn:8]\\
+\\
+
+<<v12>>
+12 Ich denke an die Taten des Herrn, /\\
+ ich will denken an deine früheren Wunder.\\
+\\
+
+<<v13>>
+13 Ich erwäge all deine Werke /\\
+ und will nachsinnen über deine Taten. [fn:9]\\
+\\
+
+<<v14>>
+14 Gott, dein Weg ist heilig. /\\
+ Wo ist ein Gott, so groß wie unser Gott? [fn:10] [fn:11]\\
+\\
+
+<<v15>>
+15 Du allein bist der Gott, der Wunder tut, /\\
+ du hast deine Macht den Völkern kundgetan. [fn:12]\\
+\\
+
+<<v16>>
+16 Du hast mit starkem Arm dein Volk erlöst, /\\
+ die Kinder Jakobs und Josefs. [Sela] [fn:13]\\
+\\
+
+<<v17>>
+17 Die Wasser sahen dich, Gott, /\\
+ die Wasser sahen dich und bebten. /\\
+ Die Tiefen des Meeres tobten. [fn:14]\\
+\\
+
+<<v18>>
+18 Die Wolken gossen ihr Wasser aus, /\\
+ das Gewölk ließ die Stimme dröhnen, /\\
+ auch deine Pfeile flogen dahin. [fn:15]\\
+\\
+
+<<v19>>
+19 Dröhnend rollte dein Donner, /\\
+ Blitze erhellten den Erdkreis, /\\
+ die Erde bebte und wankte. [fn:16] [fn:17]\\
+\\
+
+<<v20>>
+20 Durch das Meer ging dein Weg, /\\
+ dein Pfad durch gewaltige Wasser, /\\
+ doch niemand sah deine Spuren. [fn:18]\\
+\\
+
+<<v21>>
+21 Du führtest dein Volk wie eine Herde /\\
+ durch die Hand von Mose und Aaron. [fn:19]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_50.org::v15][50,15]]; [[file:Ps_88.org::v2][88,2]]
+
+[fn:2] Mit den Übersetzungen des Symmachus und des Hieronymus.
+
+[fn:3] [[file:Ps_119.org::v148][119,148]]
+
+[fn:4] [[file:Ps_143.org::v5][143,5]]
+
+[fn:5] Nach G und S.
+
+[fn:6] [[file:Ps_13.org::v2][13,2]]; [[file:Ps_74.org::v1][74,1]]; [[file:Ps_85.org::v6][85,6]]; [[file:Ps_89.org::v47][89,47]]; [[file:Klgl_3.org::v31][Klgl 3,31]]
+
+[fn:7] [[file:Jes_49.org::v14][Jes 49,14f]]
+
+[fn:8] [[file:Mal_3.org::v6][Mal 3,6]]
+
+[fn:9] [[file:Ps_143.org::v5][143,5]]
+
+[fn:10] [[file:Ps_18.org::v31][18,31f]]; [[file:Ps_35.org::v10][35,10]]
+
+[fn:11] Nach G.
+
+[fn:12] [[file:Ps_98.org::v1][98,1]]
+
+[fn:13] [[file:Neh_1.org::v10][Neh 1,10]]
+
+[fn:14] [[file:Ps_18.org::v16][18,16]]; [[file:Ps_114.org::v3][114,3]]; [[file:Nah_1.org::v4][Nah 1,4]]
+
+[fn:15] [[file:Ps_18.org::v15][18,15]]; (18-19) [[file:Hab_3.org::v9][Hab 3,9-11]]
+
+[fn:16] [[file:Ps_68.org::v9][68,9]]; [[file:Ps_97.org::v4][97,4]]
+
+[fn:17] Text korr.
+
+[fn:18] [[file:Neh_9.org::v11][Neh 9,11]]; [[file:Jes_43.org::v16][Jes 43,16]]; [[file:Jes_51.org::v10][51,10]]; (20-21) [[file:Ex_14.org::v21][Ex 14,21-31]]
+
+[fn:19] [[file:Ps_78.org::v52][78,52]]; [[file:Jes_63.org::v11][Jes 63,11-14]]; [[file:Mi_6.org::v4][Mi 6,4]]

@@ -1,0 +1,8 @@
+#+title:      Mittwoch 24 April 2024 09:30
+#+date:       [2024-04-24 Mi 09:30]
+#+filetags:   :journal:
+#+identifier: 20240424T093007
+
+* Das ~org-capture~ für denote journal klappt...
+aber noch nicht perfekt. Die Meldung "org-capture-expand-file: Invalid file location: nil" bleibt. Jedoch bin ich gewiss, dies lässt sich leicht lösen. Im Grunde ist das ~org-capture~ nicht wirklich notwendig. Über den Befehl `denote-journal-extras-new-entry` ("C-c n j") lässt sich das Gleiche erreichen. Trotzdem: das will ich lösen.
+

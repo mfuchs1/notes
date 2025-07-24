@@ -1,0 +1,101 @@
+#+TITLE: Neh 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 23:31]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Neh 4.html
+
+<<verses>>
+
+<<v1>>
+* Störaktionen von außen: 4,1-17
+
+1 Als aber Sanballat und Tobija sowie die Araber, die Ammoniter und die
+Leute von Aschdod hörten, dass der Wiederaufbau der Mauer von Jerusalem
+voranging - denn die Breschen schlossen sich allmählich -, wurden sie
+wütend
+
+<<v2>>
+2 und alle zusammen verschworen sich, gegen Jerusalem in den Krieg zu
+ziehen und dort Unruhe zu stiften.
+
+<<v3>>
+3 Wir aber beteten zu unserem Gott und stellten Tag und Nacht eine Wache
+auf, um uns vor ihnen zu schützen.
+
+<<v4>>
+4 Doch dann sagten die Juden: Den Trägern geht die Kraft aus, denn es
+liegt zu viel Schutt da; es wird uns nie gelingen, die Mauer aufzubauen.
+
+<<v5>>
+5 Unsere Feinde aber sagten: Sie sollen nichts merken und nichts von uns
+sehen, bis wir mitten unter ihnen stehen; dann metzeln wir sie nieder
+und machen dem Unternehmen ein Ende.
+
+<<v6>>
+6 Doch die Juden, die bei ihnen lebten, kamen und sagten uns mindestens
+zehnmal: Aus allen Orten ringsum, wo sie wohnen, ziehen sie gegen uns
+heran.
+
+<<v7>>
+7 Da stellte ich unterhalb der Mauer auf dem freien Gelände das Volk
+nach Sippen geordnet auf, mit Schwertern, Lanzen und Bogen bewaffnet.
+
+<<v8>>
+8 Ich musterte sie, dann erhob ich mich und sagte zu den Vornehmen, den
+Beamten und den übrigen Männern: Fürchtet euch nicht vor ihnen! Denkt an
+den Herrn; er ist groß und furchtgebietend. Kämpft für eure Brüder und
+Söhne, für eure Töchter und Frauen und für eure Häuser!
+
+<<v9>>
+9 Unsere Feinde erfuhren, dass uns ihr Vorhaben bekannt geworden war. So
+vereitelte Gott ihren Plan und wir alle kehrten zu der Mauer zurück,
+jeder zu seiner Arbeit.
+
+<<v10>>
+10 Seit jenem Tag arbeitete nur die Hälfte meiner Leute am Bau; die
+andere Hälfte hielt Lanzen, Schilde, Bogen und Panzer bereit und die
+Obersten standen hinter dem ganzen Volk Juda,
+
+<<v11>>
+11 das an der Mauer baute. Die Lastträger arbeiteten so: Mit der einen
+Hand taten sie ihre Arbeit, in der andern hielten sie den Wurfspieß.
+
+<<v12>>
+12 Von den Bauleuten hatte jeder sein Schwert um die Hüften gegürtet und
+so bauten sie. Ständig hatte ich den Hornbläser bei mir
+
+<<v13>>
+13 und ich sagte zu den Vornehmen, den Beamten und den übrigen: Die
+Arbeit ist vielfältig und weit ausgedehnt. Wir stehen auf der Mauer
+zerstreut und weit voneinander entfernt.
+
+<<v14>>
+14 Wo ihr also das Horn ertönen hört, dort sammelt euch um uns! Unser
+Gott wird für uns streiten. [fn:1]
+
+<<v15>>
+15 So arbeiteten wir am Bau, während die Hälfte die Lanzen bereithielt,
+vom Anbruch der Morgenröte bis zum Aufgang der Sterne.
+
+<<v16>>
+16 Damals sagte ich dem Volk noch: Jeder soll mit seinen Leuten auch
+nachts in Jerusalem bleiben; dann stehen sie uns in der Nacht als Wache
+zur Verfügung und am Tag zur Arbeit.
+
+<<v17>>
+17 Weder ich noch meine Brüder, weder meine Leute noch die
+Wachmannschaft, die mich begleitete, keiner von uns zog seine Kleider
+aus; jeder hatte seine Waffe an der Seite. [fn:2]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ex_14.org::v14][Ex 14,14]]
+
+[fn:2] Übersetzung wegen Störungen in H unsicher.

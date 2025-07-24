@@ -1,0 +1,22 @@
+#+title:      Mittwoch  9 August 2023
+#+date:       [2023-08-09 Mi 22:02]
+#+filetags:   :journal:
+#+identifier: 20230809T220224
+
+* Thoughts
+Hier kommt mein Text. Und da schreibe ich weiter. Ist das wirklich besser zum Lesen? Ich bin mir nicht so sicher. Was denken andere, wenn sie diesen Text lesen? Hm... So sieht der Text eigentlich recht sauber und klar aus. In der Iosevka Comfy Wide Fixed sieht der Text für meinen Geschmack jedoch besser lesbar aus als in der Iosevka Aile oder der regulären Iosevka. Jetbrains Mono wäre auch noch eine Alternative. Ich hab mich von der Iosevka CWF verabschiedet; eventuell war meine Installation nicht korrekt. Ich kehre zu Jetbrains Mono zurück und habe in allen Programmen und va auf dem ganzen System die Schriftarten geändert.
+
+Eigentlich habe ich bisher die 'headings' und den file-title größer geschrieben - mit modus-themes-headings lässt sich das sehr gut und einfach konfigurieren. Jetzt habe ich bei prot nachgeschaut: er verändert nur die org-agenda. Die Headings in org-mode bleiben gleich groß, es ändert sich nur die Farbe (blau oder violett). Prot hat Recht: schließlich ist es Text - es muss nicht all zu fancy sein. Die Headings sind fett, das genügt als Hervorhebung.
+
+Ich habe seine Konfiguration von den modus-themes übernommen - schaut sehr schön aus - alles ist in einem "Lavendel"-Stil.
+
+Jetzt sollte ich beginnen, das Schuljahr und die Themen genauer vorzubereiten. Emacs hab ich ausreichend konfiguriert. Die Schriftgröße habe ich v.a. in Emacs con 12 auf 13 erhöht (so wird es auf der Homepage von JetBrains Mono vorgeschlagen: [[https://www.jetbrains.com/lp/mono/]]). Diese kleine Änderung hat eine relativ große Wirkung und verbessert die Lesbarkeit des Textes. Und meine Augen müssen sich erst an die neue Schriftgröße gewöhnen.
+
+Dieser ständige Regen nervt sehr. Wann hört er auf? Ich denke an all die armen Menschen, die unter Hochwasser leiden müssen. Manchmal wird das Datum rechts in der Modeline schwarz (statt rot). Woran liegt das?
+
+Heute <2023-08-09 Mi> ist die Version 1.3.0 der 'ef-themes' erschienen: [[https://protesilaos.com/codelog/2023-08-09-ef-themes-1-3-0/]] und: [[https://protesilaos.com/codelog/2023-07-22-ef-maris-dark-light/]].
+
+Darunter gibt es die neuen Varianten 'ef-maris-light' und 'ef-maris-dark'. Beide bläulich - für Umgebungen, die weder sehr hell noch sehr dunkel sind. Ich verwende jetzt beide maris-Varianten - ich muss sagen: wunderschön. Da bleibe ich jetzt. Und komme wahrscheinlich wieder zu den modus-themes zurück. 
+
+* Tasks
+

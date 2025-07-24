@@ -1,0 +1,214 @@
+#+TITLE: Gen 30 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:21]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 30.html
+
+* Gen 30
+<<verses>>
+
+<<v1>>
+1 Als Rahel sah, dass sie Jakob keine Kinder gebar, wurde sie
+eifersüchtig auf ihre Schwester. Sie sagte zu Jakob: Verschaff mir
+Söhne! Wenn nicht, sterbe ich.
+
+<<v2>>
+2 Da wurde Jakob zornig auf Rahel und sagte: Nehme ich etwa die Stelle
+Gottes ein, der dir die Leibesfrucht versagt?
+
+<<v3>>
+3 Sie antwortete: Da ist meine Magd Bilha. Geh zu ihr! Sie soll auf
+meine Knie gebären, dann komme auch ich durch sie zu Kindern. [fn:1]
+
+<<v4>>
+4 Sie gab ihm also ihre Magd Bilha zur Frau und Jakob ging zu ihr.
+
+<<v5>>
+5 Bilha wurde schwanger und gebar Jakob einen Sohn.
+
+<<v6>>
+6 Rahel sagte: Gott hat mir Recht verschafft; er hat auch meine Stimme
+gehört und mir einen Sohn geschenkt. Deshalb nannte sie ihn Dan
+(Richter).
+
+<<v7>>
+7 Bilha, Rahels Magd, wurde abermals schwanger und gebar Jakob einen
+zweiten Sohn.
+
+<<v8>>
+8 Da sagte Rahel: Gotteskämpfe habe ich ausgestanden mit meiner
+Schwester und ich habe mich durchgesetzt. So nannte sie ihn Naftali
+(Kämpfer).
+
+<<v9>>
+9 Als Lea sah, dass sie keine Kinder mehr bekam, nahm sie ihre Magd
+Silpa und gab sie Jakob zur Frau.
+
+<<v10>>
+10 Leas Magd Silpa gebar Jakob einen Sohn.
+
+<<v11>>
+11 Da sprach Lea: Glück auf! So nannte sie ihn Gad (Glück).
+
+<<v12>>
+12 Als Leas Magd Silpa Jakob einen zweiten Sohn gebar,
+
+<<v13>>
+13 sagte Lea: Mir zum Glück! Denn die Frauen werden mich
+beglückwünschen. So nannte sie ihn Ascher (Glückskind).
+
+<<v14>>
+14 Einst ging Ruben zur Zeit der Weizenernte weg und fand auf dem Feld
+Alraunen. Er brachte sie seiner Mutter Lea mit. Da sagte Rahel zu Lea:
+Gib mir doch ein paar von den Alraunen deines Sohnes!
+
+<<v15>>
+15 Sie aber erwiderte ihr: Ist es dir nicht genug, mir meinen Mann
+wegzunehmen? Nun willst du mir auch noch die Alraunen meines Sohnes
+nehmen? Da entgegnete Rahel: Gut, dann soll Jakob für die Alraunen
+deines Sohnes heute Nacht bei dir schlafen.
+
+<<v16>>
+16 Als Jakob am Abend vom Feld kam, ging ihm Lea entgegen und sagte: Zu
+mir musst du kommen! Ich habe dich nämlich erworben um den Preis der
+Alraunen meines Sohnes. So schlief er in jener Nacht bei ihr.
+
+<<v17>>
+17 Gott erhörte Lea. Sie wurde schwanger und gebar Jakob einen fünften
+Sohn.
+
+<<v18>>
+18 Da sagte Lea: Gott hat mich dafür belohnt, dass ich meine Magd meinem
+Mann gegeben habe. Sie nannte ihn Issachar (Lohn).
+
+<<v19>>
+19 Noch einmal wurde Lea schwanger und gebar Jakob einen sechsten Sohn.
+
+<<v20>>
+20 Da sagte Lea: Gott hat mich mit einem schönen Geschenk bedacht. Jetzt
+endlich wird mein Mann bei mir bleiben, da ich ihm doch sechs Söhne
+geboren habe. Sie nannte ihn also Sebulon (Bleibe).
+
+<<v21>>
+21 Schließlich gebar sie eine Tochter und nannte sie Dina.
+
+<<v22>>
+22 Nun erinnerte sich Gott an Rahel. Gott erhörte sie und öffnete ihren
+Mutterschoß.
+
+<<v23>>
+23 Sie wurde schwanger und gebar einen Sohn. Da sagte sie: Gott hat die
+Schande von mir genommen.
+
+<<v24>>
+24 Sie nannte ihn Josef (Zufüger) und sagte: Der Herr gebe mir noch
+einen anderen Sohn hinzu.\\
+\\
+
+<<v25>>
+* Jakobs List gegen Laban: 30,25-43
+
+25 Nachdem Rahel Josef geboren hatte, sagte Jakob zu Laban: Entlass
+mich! Ich will in meine Heimat ziehen.
+
+<<v26>>
+26 Gib mir meine Frauen und Kinder, um die ich dir gedient habe, damit
+ich gehen kann. Du weißt ja um meinen Dienst, den ich dir geleistet
+habe.
+
+<<v27>>
+27 Laban antwortete ihm: Wenn ich nur dein Wohlwollen finde! Ich stand
+unter günstigen Vorzeichen und der Herr hat mich deinetwegen gesegnet.
+
+<<v28>>
+28 Weiter sagte er: Bestimm selbst deinen Lohn und ich werde ihn dir
+aushändigen.
+
+<<v29>>
+29 Da sagte Jakob zu ihm: Du weißt um meinen Dienst und um dein Vieh,
+das mir anvertraut war.
+
+<<v30>>
+30 Das wenige, das du hattest, bevor ich kam, hat sich gewaltig vermehrt
+und der Herr hat dich gesegnet für jeden meiner Schritte. Und jetzt -
+wann werde auch ich etwas für mein eigenes Haus tun können?
+
+<<v31>>
+31 Da sagte Laban: Was soll ich dir geben? Du brauchst mir weiter nichts
+zu geben, antwortete Jakob, wenn du mit folgendem Vorschlag
+einverstanden bist: Ich will dein Vieh weiterhin weiden und hüten.
+
+<<v32>>
+32 Ich will heute unter deinem Vieh umhergehen. Und du sondere dort alle
+schwarz gesprenkelten oder schwarz scheckigen und alle dunklen Schafe
+aus, ebenso die weiß scheckigen und weiß gesprenkelten Ziegen. Das soll
+mein Lohn sein. [fn:2]
+
+<<v33>>
+33 Morgen soll meine Redlichkeit offenbar werden, wenn du kommst, meinen
+Lohn zu besehen: Alles, was nicht weiß gesprenkelt und weiß scheckig
+unter den Ziegen und dunkel unter den Lämmern ist, das soll als von mir
+gestohlen gelten.
+
+<<v34>>
+34 Gut, sagte Laban, wie du gesagt hast, soll es geschehen.
+
+<<v35>>
+35 Am selben Tag noch sonderte er die hell gestreiften und weiß
+scheckigen Ziegenböcke aus und alle weiß gesprenkelten und weiß
+scheckigen Ziegen, alles, an dem etwas Weißes war, und alles Dunkle
+unter den Lämmern und übergab es seinen Söhnen.
+
+<<v36>>
+36 Dann entfernte er sich drei Tagesmärsche von Jakob, der das übrige
+Vieh Labans weidete.
+
+<<v37>>
+37 Nun holte sich Jakob frische Ruten von Silberpappeln, Mandelbäumen
+und Platanen, schälte weiße Streifen heraus und legte so das Weiße an
+den Ruten bloß.
+
+<<v38>>
+38 Die geschälten Ruten legte er in die Tröge, in die Wasserrinnen, zu
+denen die Tiere zur Tränke kamen, gerade vor die Tiere hin. Die Tiere
+begatteten sich, wenn sie zur Tränke kamen.
+
+<<v39>>
+39 Hatten sich die Tiere vor den Ruten begattet, so warfen sie
+gestreifte, gesprenkelte und scheckige Junge.
+
+<<v40>>
+40 Die Lämmer teilte Jakob auf. Er richtete den Blick der Tiere auf das
+Gestreifte und alles Dunkle in der Herde Labans. So legte er sich selbst
+Herden zu und tat sie nicht zum Vieh Labans. [fn:3]
+
+<<v41>>
+41 Jedes Mal nun, wenn sich die kräftigen Tiere begatteten, legte Jakob
+die Ruten in die Tröge, sodass die Tiere sie vor Augen hatten, wenn sie
+sich begatteten.
+
+<<v42>>
+42 Bei den schwächlichen Tieren aber legte er sie nicht hin. So wurden
+die schwächlichen Labans, die kräftigen dagegen Jakobs Eigentum,
+
+<<v43>>
+43 und der Mann wurde überaus reich; er besaß eine Menge Schafe und
+Ziegen, Mägde und Knechte, Kamele und Esel.\\
+\\
+
+
+* Footnotes
+
+[fn:1] Die Adoptivmutter nimmt das Kind der Magd unmittelbar
+nach der Geburt auf ihre Knie zum Zeichen dafür, dass sie es als ihr
+eigenes annimmt (vgl. 50,23 [[file:Gen_50.org::v23][Gen 50,23]]).
+
+[fn:2] Der Sinn des Verses ist in H nicht klar.
+
+[fn:3] Der zweite Satz des Verses ist in H unklar.

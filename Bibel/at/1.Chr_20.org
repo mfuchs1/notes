@@ -1,0 +1,74 @@
+#+TITLE: 1 Chr 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-20 Mo 23:25]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 20.html
+
+* 1.Chr 20
+
+<<verses>>
+
+<<v1>>
+1 Um die Jahreswende, zu der Zeit, in der die Könige in den Krieg
+ziehen, führte Joab die Streitmacht in das Feld und verwüstete das Land
+der Ammoniter. Er rückte bis Rabba vor und belagerte es. David selbst
+blieb in Jerusalem. Joab eroberte Rabba und zerstörte es.
+
+<<v2>>
+2 David nahm ihrem König die Krone vom Haupt. Er stellte fest, dass ihr
+Gewicht ein Talent Gold betrug; an ihr war ein kostbarer Stein. Sie
+wurde nun Davids Krone. Und er schaffte eine sehr große Beute aus der
+Stadt fort.
+
+<<v3>>
+3 Auch ihre Einwohner führte er fort und stellte sie an die Steinsägen,
+an die eisernen Spitzhacken und an die eisernen Äxte. So machte er es
+mit allen Städten der Ammoniter. Dann kehrte David mit dem ganzen Heer
+nach Jerusalem zurück. [fn:1]\\
+\\
+
+<<v4>>
+* Einzelne Heldentaten: 20,4-8
+
+4 Danach kam es bei Geser wieder zum Kampf mit den Philistern. Damals
+erschlug Sibbechai aus Huscha den Sippai, der zu den Rafaïtern gehörte.
+Die Philister wurden niedergeworfen. [fn:2] [fn:3]
+
+<<v5>>
+5 Als es wieder einmal zum Kampf gegen die Philister kam, erschlug
+Elhanan, der Sohn Jaïrs, den Lachmi, den Bruder Goljats aus Gat, dessen
+Speer einem Weberbaum glich. [fn:4]
+
+<<v6>>
+6 Dann kam es noch einmal bei Gat zum Kampf. Da trat ein Mann von
+riesenhafter Größe auf; er hatte je sechs Finger und sechs Zehen,
+zusammen vierundzwanzig; auch er stammte von Rafa ab.
+
+<<v7>>
+7 Als er Israel verhöhnte, erschlug ihn Jonatan, der Sohn von Davids
+Bruder Schima.
+
+<<v8>>
+8 Diese stammten von Rafa aus Gat ab; sie fielen durch die Hand Davids
+und seiner Krieger.\\
+\\
+
+* Footnotes
+
+[fn:1] David blieb während der Belagerung Rabbas in Jerusalem.
+In diese Zeit fällt sein Vergehen mit Batseba, der Frau des Hetiters
+Urija (vgl. [[file:2.Sam_11.org::v2][2 Sam 11,2]] - [[file:2.Sam_12.org::v25][12,25]]), über das der Chronist nicht berichtet.
+und stellte sie: Text korr. nach [[file:2.Sam_12.org::v31][2 Sam 12,31]].
+
+[fn:2] (4-8) [[file:2.Sam_21.org::v18][2 Sam 21,18-22]]
+
+[fn:3] kam es wieder: Text korr. mit G und [[file:2.Sam_21.org::v18][2 Sam 21,18]].
+
+[fn:4] Der Chronist will hier den Widerspruch zwischen [[file:1.Sam_17.org][1 Sam 17]]
+und [[file:2.Sam_21.org::v19][2 Sam 21,19]] ausgleichen.

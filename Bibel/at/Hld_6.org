@@ -1,0 +1,112 @@
+#+TITLE: Hld 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-07-02 Mi 11:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Hld 6.html
+
+* Hld 6
+
+<<verses>>
+
+<<v1>>
+1 Wohin ist dein Geliebter gegangen, /\\
+ du schönste der Frauen? Wohin wandte sich dein Geliebter? /\\
+ Wir wollen ihn suchen mit dir.\\
+\\
+
+<<v2>>
+2 In seinen Garten ging mein Geliebter /\\
+ zu den Balsambeeten, um in den Gartengründen zu weiden, /\\
+ um Lilien zu pflücken. [fn:1]\\
+\\
+
+<<v3>>
+3 Meinem Geliebten gehöre ich /\\
+ und mir gehört der Geliebte, /\\
+ der in den Lilien weidet. [fn:2]\\
+\\
+
+<<v4>>
+4 Schön wie Tirza bist du, meine Freundin, /\\
+ lieblich wie Jerusalem, /\\
+ prächtig wie Himmelsbilder. [fn:3] [fn:4]\\
+\\
+
+<<v5>>
+5 Wende deine Augen von mir, /\\
+ denn sie verwirren mich. Dein Haar gleicht einer Herde von Ziegen, /\\
+ die von Gilead herabziehen. [fn:5]\\
+\\
+
+<<v6>>
+6 Deine Zähne sind wie eine Herde von Mutterschafen, /\\
+ die aus der Schwemme steigen. Jeder Zahn hat sein Gegenstück, /\\
+ keinem fehlt es. [fn:6]\\
+\\
+
+<<v7>>
+7 Dem Riss eines Granatapfels gleicht deine Schläfe /\\
+ hinter deinem Schleier. [fn:7]\\
+\\
+
+<<v8>>
+8 Sechzig Königinnen (hat Salomo), /\\
+ achtzig Nebenfrauen /\\
+ und Mädchen ohne Zahl.\\
+\\
+
+<<v9>>
+9 Doch einzig ist meine Taube, die Makellose, /\\
+ die Einzige ihrer Mutter, /\\
+ die Erwählte ihrer Gebärerin. Erblicken sie die Mädchen, /\\
+ sie preisen sie; /\\
+ Königinnen und Nebenfrauen rühmen sie.\\
+\\
+
+<<v10>>
+10 Wer ist, die da erscheint wie das Morgenrot, /\\
+ wie der Mond so schön, strahlend rein wie die Sonne, /\\
+ prächtig wie Himmelsbilder? [fn:8]\\
+\\
+
+<<v11>>
+11 In den Nussgarten stieg ich hinab, /\\
+ um nach dem Sprossen der Palme zu sehen, um zu sehen, ob der Weinstock
+treibt, /\\
+ die Granatbäume blühen. [fn:9]\\
+\\
+
+<<v12>>
+12 Da entführte mich meine Seele, /\\
+ ich weiß nicht wie, /\\
+ zu den Wagen meines edlen Volkes. [fn:10]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Hld_4.org::v12][4,12-16]]
+
+[fn:2] [[file:Hld_2.org::v16][2,16]]
+
+[fn:3] [[v10][6,10]]
+
+[fn:4] Tirza war eine der alten Königsstädte des Nordreichs Israel.
+
+[fn:5] [[file:Hld_4.org::v1][4,1]]
+
+[fn:6] [[file:Hld_4.org::v2][4,2]]
+
+[fn:7] [[file:Hld_4.org::v3][4,3]]
+
+[fn:8] [[v4][6,4]]
+
+[fn:9] [[file:Hld_7.org::v13][7,13]]
+
+[fn:10] Sinn von H unklar.

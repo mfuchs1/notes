@@ -1,0 +1,201 @@
+:PROPERTIES:
+:ID:       d7bca9f0-5d65-4d25-9348-44b75a4c32f3
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Ezechiel* -- [[file:Ez_1.html][1]] ...
+[[file:Ez_10.html][10]] [[file:Ez_11.html][11]] *12*
+[[file:Ez_13.html][13]] [[file:Ez_14.html][14]] ...
+[[file:Ez_48.html][48]]
+
+--------------
+
+* Ez 12
+  :PROPERTIES:
+  :CUSTOM_ID: ez-12
+  :END:
+
+<<verses>>
+
+<<v1>>
+*** Weitere symbolische Handlungen: 12,1-20
+    :PROPERTIES:
+    :CUSTOM_ID: weitere-symbolische-handlungen-121-20
+    :END:
+**** Die Verschleppung: 12,1-16
+     :PROPERTIES:
+     :CUSTOM_ID: die-verschleppung-121-16
+     :END:
+1 Das Wort des Herrn erging an mich:
+
+<<v2>>
+2 Menschensohn, du wohnst mitten unter einem widerspenstigen Volk, das
+Augen hat, um zu sehen, und doch nicht sieht, das Ohren hat, um zu
+hören, und doch nicht hört; denn sie sind ein widerspenstiges Volk.
+^{[[#fn1][1]]}
+
+<<v3>>
+3 Du, Menschensohn, pack deine Sachen, als würdest du verschleppt, und
+geh am hellen Tag vor ihren Augen weg, als ob du vor ihren Augen von
+deinem Wohnsitz an einen andern verschleppt würdest. Vielleicht sehen
+sie es; aber sie sind ja ein widerspenstiges Volk.
+
+<<v4>>
+4 Trag dein Gepäck bei Tag vor ihren Augen hinaus wie ein Mann, der
+verschleppt wird. Am Abend aber geh selbst vor ihren Augen hinaus wie
+die Leute, die in die Verbannung ziehen.
+
+<<v5>>
+5 Brich dir vor ihren Augen ein Loch in die Wand und kriech hindurch!
+^{[[#fn2][2]]}
+
+<<v6>>
+6 Vor ihren Augen nimm das Gepäck auf die Schulter! Bring es in der
+Dunkelheit weg! Verhülle dein Gesicht, damit du das Land nicht mehr
+siehst. Denn ich habe dich zum Mahnzeichen für das Haus Israel gemacht.
+^{[[#fn3][3]]}
+
+<<v7>>
+7 Ich tat, was mir befohlen wurde. Bei Tag trug ich mein Gepäck hinaus
+wie ein Mann, der verschleppt wird. Am Abend brach ich mit den Händen
+ein Loch durch die Wand; in der Dunkelheit kroch ich hindurch. Dann nahm
+ich vor ihren Augen das Gepäck auf die Schulter.
+
+<<v8>>
+8 Am nächsten Morgen erging das Wort des Herrn an mich:
+
+<<v9>>
+9 Menschensohn, hat nicht das Haus Israel, das widerspenstige Volk, zu
+dir gesagt: Was machst du da?
+
+<<v10>>
+10 Sag zu ihnen: So spricht Gott, der Herr: Dieses drohende Wort gilt
+dem Fürsten von Jerusalem und dem ganzen Volk Israel, das in Jerusalem
+wohnt.
+
+<<v11>>
+11 Sag: Ich bin ein Mahnzeichen für euch: Was ich getan habe, das wird
+mit ihnen geschehen; in die Verbannung, in die Gefangenschaft werden sie
+ziehen.
+
+<<v12>>
+12 Ihr Fürst wird in der Dunkelheit sein Gepäck auf die Schulter nehmen
+und hinausgehen. In die Mauer wird man ein Loch brechen, um
+hindurchzugehen. Er wird sein Gesicht verhüllen, um mit seinen Augen das
+Land nicht zu sehen. ^{[[#fn4][4]]}
+
+<<v13>>
+13 Ich aber werfe mein Netz über ihn, damit er sich in meinen Schlingen
+fängt. Dann bringe ich ihn nach Babel, ins Land der Chaldäer; doch er
+wird nichts davon sehen. Dort wird er sterben. ^{[[#fn5][5]]}
+
+<<v14>>
+14 Alle, die bei ihm sind und ihm helfen wollen, alle seine Truppen
+zerstreue ich in alle Winde und ich zücke das Schwert hinter ihnen.
+
+<<v15>>
+15 Dann werden sie erkennen, dass ich der Herr bin. Wenn ich sie unter
+die Völker zerstreue und in alle Länder vertreibe, ^{[[#fn6][6]]}
+
+<<v16>>
+16 lasse ich einige von ihnen das Schwert, den Hunger und die Pest
+überleben, damit sie bei den Völkern, zu denen sie kommen, von all ihren
+Gräueltaten erzählen. Dann werden sie erkennen, dass ich der Herr bin.
+^{[[#fn7][7]]}\\
+\\
+
+<<v17>>
+**** Die Not der Belagerten: 12,17-20
+     :PROPERTIES:
+     :CUSTOM_ID: die-not-der-belagerten-1217-20
+     :END:
+17 Das Wort des Herrn erging an mich:
+
+<<v18>>
+18 Menschensohn, iss dein Brot mit Zittern und trink dein Wasser mit
+Angst und Entsetzen!
+
+<<v19>>
+19 Dann sag zum Volk im Land: So spricht Gott, der Herr, zu den
+Einwohnern Jerusalems über das Land Israel: Sie werden ihr Brot mit
+Angst essen und ihr Wasser mit Schaudern trinken; denn ihr Land wird
+verwüstet und ausgeplündert wegen der Gewalttaten all seiner Bewohner.
+^{[[#fn8][8]][[#fn9][9]]}
+
+<<v20>>
+20 Die bewohnten Städte sollen verheert und das Land verwüstet werden.
+Dann werdet ihr erkennen, dass ich der Herr bin.\\
+\\
+
+<<v21>>
+*** Drohungen und Mahnungen: 12,21 - 23,49
+    :PROPERTIES:
+    :CUSTOM_ID: drohungen-und-mahnungen-1221---2349
+    :END:
+**** Gegen die Verächter des Propheten: 12,21-28
+     :PROPERTIES:
+     :CUSTOM_ID: gegen-die-verächter-des-propheten-1221-28
+     :END:
+21 Das Wort des Herrn erging an mich: ^{[[#fn10][10]]}
+
+<<v22>>
+22 Menschensohn, was habt ihr da für ein Sprichwort im Land Israel? Ihr
+sagt: Die Zeit zieht sich hin, die Visionen erfüllen sich nie.
+^{[[#fn11][11]]}
+
+<<v23>>
+23 Darum sag zu ihnen: So spricht Gott, der Herr: Ich werde mit diesem
+Sprichwort Schluss machen und man wird es in Israel nicht mehr
+gebrauchen. Sag stattdessen zu ihnen: Die Zeit und alles, was die
+Visionen verkünden, ist nahe. ^{[[#fn12][12]]}
+
+<<v24>>
+24 Denn nichtige Sehersprüche und trügerische Orakel wird es im Haus
+Israel nicht mehr geben.
+
+<<v25>>
+25 Denn ich, der Herr, sage, was ich sage, damit es geschieht. Es lässt
+nicht mehr lange auf sich warten; denn, du widerspenstiges Volk, wenn
+ich in euren Tagen spreche, dann führe ich auch aus, was ich sage -
+Spruch Gottes, des Herrn.
+
+<<v26>>
+26 Das Wort des Herrn erging an mich:
+
+<<v27>>
+27 Menschensohn, das Haus Israel sagt: Die Vision, die er hat, handelt
+von späteren Tagen, er weissagt für ferne Zeiten.
+
+<<v28>>
+28 Darum sag zu ihnen: So spricht Gott, der Herr: Nichts von dem, was
+ich sage, lässt lange auf sich warten; was ich sage, geschieht Spruch
+Gottes, des Herrn.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 2,5-7; Jer 5,21
+
+^{[[#fnm2][2]]} kriech hindurch: Text korr. nach den alten
+Übersetzungen; entsprechend auch VV. 7 und 12.
+
+^{[[#fnm3][3]]} ℘ 24,24.27; Jes 8,18; 20,3
+
+^{[[#fnm4][4]]} ℘ 2 Kön 25,4
+
+^{[[#fnm5][5]]} ℘ 17,20
+
+^{[[#fnm6][6]]} ℘ 20,23
+
+^{[[#fnm7][7]]} ℘ 6,8
+
+^{[[#fnm8][8]]} ℘ 4,16; 19,7
+
+^{[[#fnm9][9]]} ihr Land: Text korr. nach den alten Übersetzungen und
+mehreren H-Handschriften.
+
+^{[[#fnm10][10]]} 21-23: Das Sprichwort bedeutet Kritik und Ablehnung
+der Verkündigung Ezechiels. Der Prophet kehrt es um und widerlegt es so.
+Entsprechendes gilt von VV. 27f.
+
+^{[[#fnm11][11]]} ℘ 18,2; 2 Petr 3,1-4
+
+^{[[#fnm12][12]]} ℘ Hab 2,3

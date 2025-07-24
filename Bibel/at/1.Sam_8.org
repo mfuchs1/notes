@@ -1,0 +1,121 @@
+#+TITLE: 1 Sam 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 10:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 8.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Forderung nach einem König: 8,1-22
+
+1 Als Samuel alt geworden war, setzte er seine Söhne als Richter Israels
+ein.
+
+<<v2>>
+2 Sein erstgeborener Sohn hieß Joël, sein zweiter Abija. Sie waren in
+Beerscheba Richter. [fn:1]
+
+<<v3>>
+3 Seine Söhne gingen nicht auf seinen Wegen, sondern waren auf ihren
+Vorteil aus, ließen sich bestechen und beugten das Recht.
+
+<<v4>>
+4 Deshalb versammelten sich alle Ältesten Israels und gingen zu Samuel
+nach Rama.
+
+<<v5>>
+5 Sie sagten zu ihm: Du bist nun alt und deine Söhne gehen nicht auf
+deinen Wegen. Darum setze jetzt einen König bei uns ein, der uns
+regieren soll, wie es bei allen Völkern der Fall ist. [fn:2]
+
+<<v6>>
+6 Aber Samuel missfiel es, dass sie sagten: Gib uns einen König, der uns
+regieren soll. Samuel betete deshalb zum Herrn,
+
+<<v7>>
+7 und der Herr sagte zu Samuel: Hör auf die Stimme des Volkes in allem,
+was sie zu dir sagen. Denn nicht dich haben sie verworfen, sondern mich
+haben sie verworfen: Ich soll nicht mehr ihr König sein. [fn:3]
+
+<<v8>>
+8 Das entspricht ganz ihren Taten, die sie (immer wieder) getan haben,
+seitdem ich sie aus Ägypten heraufgeführt habe, bis zum heutigen Tag;
+sie haben mich verlassen und anderen Göttern gedient. So machen sie es
+nun auch mit dir.
+
+<<v9>>
+9 Doch hör jetzt auf ihre Stimme, warne sie aber eindringlich und mach
+ihnen bekannt, welche Rechte der König hat, der über sie herrschen wird.
+
+<<v10>>
+10 Samuel teilte dem Volk, das einen König von ihm verlangte, alle Worte
+des Herrn mit.
+
+<<v11>>
+11 Er sagte: Das werden die Rechte des Königs sein, der über euch
+herrschen wird: Er wird eure Söhne holen und sie für sich bei seinen
+Wagen und seinen Pferden verwenden und sie werden vor seinem Wagen
+herlaufen.
+
+<<v12>>
+12 Er wird sie zu Obersten über (Abteilungen von) Tausend und zu Führern
+über (Abteilungen von) Fünfzig machen. Sie müssen sein Ackerland pflügen
+und seine Ernte einbringen. Sie müssen seine Kriegsgeräte und die
+Ausrüstung seiner Streitwagen anfertigen.
+
+<<v13>>
+13 Eure Töchter wird er holen, damit sie ihm Salben zubereiten und
+kochen und backen.
+
+<<v14>>
+14 Eure besten Felder, Weinberge und Ölbäume wird er euch wegnehmen und
+seinen Beamten geben.
+
+<<v15>>
+15 Von euren Äckern und euren Weinbergen wird er den Zehnten erheben und
+ihn seinen Höflingen und Beamten geben.
+
+<<v16>>
+16 Eure Knechte und Mägde, eure besten jungen Leute und eure Esel wird
+er holen und für sich arbeiten lassen.
+
+<<v17>>
+17 Von euren Schafherden wird er den Zehnten erheben. Ihr selber werdet
+seine Sklaven sein.
+
+<<v18>>
+18 An jenem Tag werdet ihr wegen des Königs, den ihr euch erwählt habt,
+um Hilfe schreien, aber der Herr wird euch an jenem Tag nicht antworten.
+
+<<v19>>
+19 Doch das Volk wollte nicht auf Samuel hören, sondern sagte: Nein, ein
+König soll über uns herrschen.
+
+<<v20>>
+20 Auch wir wollen wie alle anderen Völker sein. Unser König soll uns
+Recht sprechen, er soll vor uns herziehen und soll unsere Kriege führen.
+
+<<v21>>
+21 Samuel hörte alles an, was das Volk sagte, und trug es dem Herrn vor.
+
+<<v22>>
+22 Und der Herr sagte zu Samuel: Hör auf ihre Stimme und setz ihnen
+einen König ein! Da sagte Samuel zu den Israeliten: Geht heim, jeder in
+seine Stadt!\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Chr_6.org::v13][1 Chr 6,13]]
+
+[fn:2] [[file:Dtn_17.org::v14][Dtn 17,14-20]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v20][Apg 13,20f]]
+
+[fn:3] [[file:1.Sam_10.org::v19][10,19]]; [[file:Ex_15.org::v18][Ex 15,18]]; [[file:Ps_74.org::v12][Ps 74,12]]

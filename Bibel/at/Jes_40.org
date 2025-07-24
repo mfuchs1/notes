@@ -1,0 +1,284 @@
+:PROPERTIES:
+:ID:       2604fde6-5950-4e1b-a446-c383b3127fe6
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_38.html][38]] [[file:Jes_39.html][39]] *40*
+[[file:Jes_41.html][41]] [[file:Jes_42.html][42]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 40
+  :PROPERTIES:
+  :CUSTOM_ID: jes-40
+  :END:
+
+<<verses>>
+
+<<v1>>
+** II. Teil Der zweite Jesaja (Deuterojesaja) 40,1 - 55,13
+   :PROPERTIES:
+   :CUSTOM_ID: ii.-teil-der-zweite-jesaja-deuterojesaja-401---5513
+   :END:
+*** Einleitung: Die Verheißung der Heimkehr: 40,1-11
+    :PROPERTIES:
+    :CUSTOM_ID: einleitung-die-verheißung-der-heimkehr-401-11
+    :END:
+1 Tröstet, tröstet mein Volk, /\\
+ spricht euer Gott. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Redet Jerusalem zu Herzen /\\
+ und verkündet der Stadt, dass ihr Frondienst zu Ende geht, /\\
+ dass ihre Schuld beglichen ist; denn sie hat die volle Strafe erlitten
+/\\
+ von der Hand des Herrn /\\
+ für all ihre Sünden. ^{[[#fn2][2]][[#fn3][3]]}\\
+\\
+
+<<v3>>
+3 Eine Stimme ruft: /\\
+ Bahnt für den Herrn einen Weg durch die Wüste! Baut in der Steppe eine
+ebene Straße /\\
+ für unseren Gott! ^{[[#fn4][4]]}\\
+\\
+
+<<v4>>
+4 Jedes Tal soll sich heben, /\\
+ jeder Berg und Hügel sich senken. Was krumm ist, soll gerade werden,
+/\\
+ und was hüglig ist, werde eben.\\
+\\
+
+<<v5>>
+5 Dann offenbart sich die Herrlichkeit des Herrn, /\\
+ alle Sterblichen werden sie sehen. /\\
+ Ja, der Mund des Herrn hat gesprochen.\\
+\\
+
+<<v6>>
+6 Eine Stimme sagte: Verkünde! /\\
+ Ich fragte: Was soll ich verkünden? Alles Sterbliche ist wie das Gras
+/\\
+ und all seine Schönheit ist wie die Blume auf dem Feld.
+^{[[#fn5][5]][[#fn6][6]]}\\
+\\
+
+<<v7>>
+7 Das Gras verdorrt, die Blume verwelkt, /\\
+ wenn der Atem des Herrn darüber weht. /\\
+ Wahrhaftig, Gras ist das Volk.\\
+\\
+
+<<v8>>
+8 Das Gras verdorrt, die Blume verwelkt, /\\
+ doch das Wort unseres Gottes bleibt in Ewigkeit. ^{[[#fn7][7]]}\\
+\\
+
+<<v9>>
+9 Steig auf einen hohen Berg, /\\
+ Zion, du Botin der Freude! Erheb deine Stimme mit Macht, /\\
+ Jerusalem, du Botin der Freude! Erheb deine Stimme, fürchte dich nicht!
+/\\
+ Sag den Städten in Juda: /\\
+ Seht, da ist euer Gott.\\
+\\
+
+<<v10>>
+10 Seht, Gott der Herr, kommt mit Macht, /\\
+ er herrscht mit starkem Arm. Seht, er bringt seinen Siegespreis mit:
+/\\
+ Alle, die er gewonnen hat, gehen vor ihm her. ^{[[#fn8][8]]}\\
+\\
+
+<<v11>>
+11 Wie ein Hirt führt er seine Herde zur Weide, /\\
+ er sammelt sie mit starker Hand. Die Lämmer trägt er auf dem Arm, /\\
+ die Mutterschafe führt er behutsam.\\
+\\
+
+<<v12>>
+** Preis der Erhabenheit Gottes: 40,12-20; 41,6-7; 40,21-31
+   :PROPERTIES:
+   :CUSTOM_ID: preis-der-erhabenheit-gottes-4012-20-416-7-4021-31
+   :END:
+12 Wer misst das Meer mit der hohlen Hand? /\\
+ Wer kann mit der ausgespannten Hand den Himmel vermessen? /\\
+ Wer misst den Staub der Erde mit einem Scheffel? Wer wiegt die Berge
+mit einer Waage /\\
+ und mit Gewichten die Hügel? ^{[[#fn9][9]]}\\
+\\
+
+<<v13>>
+13 Wer bestimmt den Geist des Herrn? /\\
+ Wer kann sein Berater sein und ihn unterrichten? ^{[[#fn10][10]]}\\
+\\
+
+<<v14>>
+14 Wen fragt er um Rat /\\
+ und wer vermittelt ihm Einsicht? Wer kann ihn über die Pfade des Rechts
+belehren? /\\
+ Wer lehrt ihn das Wissen /\\
+ und zeigt ihm den Weg der Erkenntnis?\\
+\\
+
+<<v15>>
+15 Seht, die Völker sind wie ein Tropfen am Eimer, /\\
+ sie gelten so viel wie ein Stäubchen auf der Waage. /\\
+ Ganze Inseln wiegen nicht mehr als ein Sandkorn.\\
+\\
+
+<<v16>>
+16 Der Libanon reicht nicht aus für das Brennholz, /\\
+ sein Wild genügt nicht für die Opfer.\\
+\\
+
+<<v17>>
+17 Alle Völker sind vor Gott wie ein Nichts, /\\
+ für ihn sind sie wertlos und nichtig.\\
+\\
+
+<<v18>>
+18 Mit wem wollt ihr Gott vergleichen /\\
+ und welches Bild an seine Stelle setzen? ^{[[#fn11][11]]}\\
+\\
+
+<<v19>>
+19 Der Handwerker gießt ein Götterbild, /\\
+ der Goldschmied überzieht es mit Gold /\\
+ und fertigt silberne Ketten dazu.\\
+\\
+
+<<v20>>
+20 Wer arm ist, wählt für ein Weihegeschenk /\\
+ ein Holz, das nicht fault; er sucht einen fähigen Meister, /\\
+ der ihm das Götterbild aufstellt, /\\
+ sodass es nicht wackelt. ^{[[#fn12][12]]}\\
+\\
+
+<<v41,6>>
+41,6 Dabei hilft einer dem andern; /\\
+ er sagt zu seinem Bruder: Pack an!\\
+\\
+
+<<v41,7>>
+41,7 So ermuntert der Handwerker den Goldschmied, /\\
+ der, der glättet, den Schmied am Amboss; er sagt: Die Lötung ist gut!,
+/\\
+ dann befestigt er das Ganze mit Nägeln, /\\
+ damit es nicht wackelt. ^{[[#fn13][13]]}\\
+\\
+
+<<v21>>
+21 Wisst ihr es nicht, hört ihr es nicht, /\\
+ war es euch nicht von Anfang an bekannt? Habt ihr es nicht immer wieder
+erfahren /\\
+ seit der Grundlegung der Erde? ^{[[#fn14][14]][[#fn15][15]]}\\
+\\
+
+<<v22>>
+22 Er ist es, der über dem Erdenrund thront; /\\
+ wie Heuschrecken sind ihre Bewohner. Wie einen Schleier spannt er den
+Himmel aus, /\\
+ er breitet ihn aus wie ein Zelt zum Wohnen.\\
+\\
+
+<<v23>>
+23 Er macht die Fürsten zunichte, /\\
+ er nimmt den Richtern der Erde jeden Einfluss.\\
+\\
+
+<<v24>>
+24 Kaum sind sie gesät und gepflanzt, /\\
+ kaum wurzelt ihr Stamm in der Erde, da bläst er sie an, sodass sie
+verdorren; /\\
+ der Sturm trägt sie fort wie Spreu.\\
+\\
+
+<<v25>>
+25 Mit wem wollt ihr mich vergleichen? /\\
+ Wem sollte ich ähnlich sein?, spricht der Heilige. ^{[[#fn16][16]]}\\
+\\
+
+<<v26>>
+26 Hebt eure Augen in die Höhe und seht: /\\
+ Wer hat die (Sterne) dort oben erschaffen? Er ist es, der ihr Heer
+täglich zählt und heraufführt, /\\
+ der sie alle beim Namen ruft. Vor dem Allgewaltigen und Mächtigen /\\
+ wagt keiner zu fehlen. ^{[[#fn17][17]]}\\
+\\
+
+<<v27>>
+27 Jakob, warum sagst du, /\\
+ Israel, warum sprichst du: Mein Weg ist dem Herrn verborgen, /\\
+ meinem Gott entgeht mein Recht?\\
+\\
+
+<<v28>>
+28 Weißt du es nicht, hörst du es nicht? /\\
+ Der Herr ist ein ewiger Gott, /\\
+ der die weite Erde erschuf. Er wird nicht müde und matt, /\\
+ unergründlich ist seine Einsicht. ^{[[#fn18][18]]}\\
+\\
+
+<<v29>>
+29 Er gibt dem Müden Kraft, /\\
+ dem Kraftlosen verleiht er große Stärke.\\
+\\
+
+<<v30>>
+30 Die Jungen werden müde und matt, /\\
+ junge Männer stolpern und stürzen.\\
+\\
+
+<<v31>>
+31 Die aber, die dem Herrn vertrauen, /\\
+ schöpfen neue Kraft, /\\
+ sie bekommen Flügel wie Adler. Sie laufen und werden nicht müde, /\\
+ sie gehen und werden nicht matt. ^{[[#fn19][19]]}\\
+\\
+
+^{[[#fnm1][1]]} 1-55,13: Vgl. die Einleitung zu Jes.
+
+^{[[#fnm2][2]]} ℘ Jer 16,18
+
+^{[[#fnm3][3]]} 2e: Wörtlich: «sie hat Zweifaches empfangen». Das
+Strafrecht fordert in bestimmten Fällen doppelte Wiedergutmachung (vgl.
+Ex 22,3.6.8).
+
+^{[[#fnm4][4]]} ℘ Mt 3,3; Mk 1,3; Lk 3,4-6; Joh 1,23; Jes 62,10
+
+^{[[#fnm5][5]]} ℘ (6-7) Ps 103,15; Jak 1,10; 1 Petr 1,24f
+
+^{[[#fnm6][6]]} 6-8: Spricht vom Verkündigungsauftrag an Deuterojesaja.
+Ich fragte: Text korr. nach G, vgl. den Qumran-Text.
+
+^{[[#fnm7][7]]} ℘ Ps 119,89
+
+^{[[#fnm8][8]]} ℘ 62,11; Offb 22,12
+
+^{[[#fnm9][9]]} Scheffel: H: Schalisch (ein Hohlmaß unbekannter Größe).
+
+^{[[#fnm10][10]]} ℘ Jer 23,18; Röm 11,34
+
+^{[[#fnm11][11]]} ℘ 40,25; 46,5
+
+^{[[#fnm12][12]]} 20f: Die Verse 41,6f gehören nach ihrem Inhalt
+hierher; sie stehen in Kap. 41 isoliert. Sinn von H teilweise unklar.
+
+^{[[#fnm13][13]]} ℘ Jer 10,4
+
+^{[[#fnm14][14]]} ℘ 40,28
+
+^{[[#fnm15][15]]} seit der Grundlegung: Text korr.
+
+^{[[#fnm16][16]]} ℘ 40,18
+
+^{[[#fnm17][17]]} ℘ Ps 147,4
+
+^{[[#fnm18][18]]} ℘ 40,21
+
+^{[[#fnm19][19]]} ℘ Ps 103,5

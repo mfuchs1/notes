@@ -1,0 +1,58 @@
+#+TITLE: Ps 100 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-08 Do 18:09]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 100.html
+
+* Ps 100
+
+<<verses>>
+
+<<v1>>
+* Lobgesang des Volkes beim Einzug ins Heiligtum
+
+1 [Ein Psalm zum Dankopfer.] Jauchzt vor dem Herrn, alle Länder der
+Erde! /\\
+\\
+
+<<v2>>
+2 Dient dem Herrn mit Freude! /\\
+ Kommt vor sein Antlitz mit Jubel! [fn:1]\\
+\\
+
+<<v3>>
+3 Erkennt: Der Herr allein ist Gott. /\\
+ Er hat uns geschaffen, wir sind sein Eigentum, /\\
+ sein Volk und die Herde seiner Weide. [fn:2] [fn:3]\\
+\\
+
+<<v4>>
+4 Tretet mit Dank durch seine Tore ein! /\\
+ Kommt mit Lobgesang in die Vorhöfe seines Tempels! /\\
+ Dankt ihm, preist seinen Namen!\\
+\\
+
+<<v5>>
+5 Denn der Herr ist gütig, /\\
+ ewig währt seine Huld, /\\
+ von Geschlecht zu Geschlecht seine Treue. [fn:4]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_95.org::v2][95,2]]
+
+[fn:2] [[file:Ps_83.org::v19][83,19]]; [[file:Ps_95.org::v7][95,7]]; [[file:Ps_64.org::v7][Jes 64,7]]
+
+[fn:3] wir sind sein Eigentum: so nach einigen alten
+Übersetzungen. Nach anderen alten Übersetzungen: und nicht wir (haben
+uns erschaffen).
+
+[fn:4] [[file:Ps_107.org::v1][107,1]]

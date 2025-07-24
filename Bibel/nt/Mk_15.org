@@ -1,0 +1,358 @@
+:PROPERTIES:
+:ID:       ba1eda2e-3412-4353-8c19-1a924c27fc80
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Markus* --
+[[file:Mk_1.html][1]] ... [[file:Mk_13.html][13]]
+[[file:Mk_14.html][14]] *15* [[file:Mk_16.html][16]]
+
+--------------
+
+* Mk 15
+  :PROPERTIES:
+  :CUSTOM_ID: mk-15
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Verhandlung vor Pilatus: 15,1-15
+     :PROPERTIES:
+     :CUSTOM_ID: die-verhandlung-vor-pilatus-151-15
+     :END:
+1 Gleich in der Frühe fassten die Hohenpriester, die Ältesten und die
+Schriftgelehrten, also der ganze Hohe Rat, über Jesus einen Beschluss:
+Sie ließen ihn fesseln und abführen und lieferten ihn Pilatus aus.
+^{[[#fn1][1]][[#fn2][2]][[#fn3][3]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 334\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Pilatus fragte ihn: Bist du der König der Juden? Er antwortete ihm: Du
+sagst es. ^{[[#fn4][4]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 336\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v3>>
+3 Die Hohenpriester brachten viele Anklagen gegen ihn vor.
+^{[[#fn5][5]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 337\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v4>>
+4 Da wandte sich Pilatus wieder an ihn und fragte: Willst du denn nichts
+dazu sagen? Sieh doch, wie viele Anklagen sie gegen dich vorbringen.
+
+<<v5>>
+5 Jesus aber gab keine Antwort mehr, sodass Pilatus sich wunderte.
+
+<<v6>>
+6 Jeweils zum Fest ließ Pilatus einen Gefangenen frei, den sie sich
+ausbitten durften. ^{[[#fn6][6]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 339\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v7>>
+7 Damals saß gerade ein Mann namens Barabbas im Gefängnis, zusammen mit
+anderen Aufrührern, die bei einem Aufstand einen Mord begangen hatten.
+
+<<v8>>
+8 Die Volksmenge zog (zu Pilatus) hinauf und bat, ihnen die gleiche
+Gunst zu gewähren wie sonst.
+
+<<v9>>
+9 Pilatus fragte sie: Wollt ihr, dass ich den König der Juden freilasse?
+
+<<v10>>
+10 Er merkte nämlich, dass die Hohenpriester nur aus Neid Jesus an ihn
+ausgeliefert hatten.
+
+<<v11>>
+11 Die Hohenpriester aber wiegelten die Menge auf, lieber die
+Freilassung des Barabbas zu fordern. ^{[[#fn7][7]]}
+
+<<v12>>
+12 Pilatus wandte sich von neuem an sie und fragte: Was soll ich dann
+mit dem tun, den ihr den König der Juden nennt? ^{[[#fn8][8]]}
+
+<<v13>>
+13 Da schrien sie: Kreuzige ihn!
+
+<<v14>>
+14 Pilatus entgegnete: Was hat er denn für ein Verbrechen begangen? Sie
+schrien noch lauter: Kreuzige ihn!
+
+<<v15>>
+15 Darauf ließ Pilatus, um die Menge zufrieden zu stellen, Barabbas frei
+und gab den Befehl, Jesus zu geißeln und zu kreuzigen.\\
+^{[[#fn9][9]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 341\\
+$ŽG://ESyn0812/
+
+<<v16>>
+**** Die Verspottung Jesu durch die Soldaten: 15,16-20a
+     :PROPERTIES:
+     :CUSTOM_ID: die-verspottung-jesu-durch-die-soldaten-1516-20a
+     :END:
+16 Die Soldaten führten ihn in den Palast hinein, das heißt in das
+Prätorium, und riefen die ganze Kohorte zusammen.
+^{[[#fn10][10]][[#fn11][11]][[#fn12][12]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 342\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v17>>
+17 Dann legten sie ihm einen Purpurmantel um und flochten einen
+Dornenkranz; den setzten sie ihm auf ^{[[#fn13][13]]}
+
+<<v18>>
+18 und grüßten ihn: Heil dir, König der Juden!
+
+<<v19>>
+19 Sie schlugen ihm mit einem Stock auf den Kopf und spuckten ihn an,
+knieten vor ihm nieder und huldigten ihm.
+
+<<v20a>>
+20a Nachdem sie so ihren Spott mit ihm getrieben hatten, nahmen sie ihm
+den Purpurmantel ab und zogen ihm seine eigenen Kleider wieder an.
+^{[[#fn14][14]]}
+
+<<v20b>>
+**** Die Kreuzigung: 15,20b-32
+     :PROPERTIES:
+     :CUSTOM_ID: die-kreuzigung-1520b-32
+     :END:
+20b Dann führten sie Jesus hinaus, um ihn zu kreuzigen.
+^{[[#fn15][15]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 343\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v21>>
+21 Einen Mann, der gerade vom Feld kam, Simon von Zyrene, den Vater des
+Alexander und des Rufus, zwangen sie, sein Kreuz zu tragen.
+^{[[#fn16][16]][[#fn17][17]]}
+
+<<v22>>
+22 Und sie brachten Jesus an einen Ort namens Golgota, das heißt
+übersetzt: Schädelhöhe. ^{[[#fn18][18]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 344\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v23>>
+23 Dort reichten sie ihm Wein, der mit Myrrhe gewürzt war; er aber nahm
+ihn nicht. ^{[[#fn19][19]]}
+
+<<v24>>
+24 Dann kreuzigten sie ihn. /Sie warfen das Los und verteilten/ seine
+/Kleider unter sich/ und gaben jedem, was ihm zufiel. ^{[[#fn20][20]]}
+
+<<v25>>
+25 Es war die dritte Stunde, als sie ihn kreuzigten.
+
+<<v26>>
+26 Und eine Aufschrift (auf einer Tafel) gab seine Schuld an: Der König
+der Juden.
+
+<<v27>>
+27 Zusammen mit ihm kreuzigten sie zwei Räuber, den einen rechts von
+ihm, den andern links. ^{[[#fn21][21]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 345\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v28>>
+28 [] ^{[[#fn22][22]]}
+
+<<v29>>
+29 Die Leute, die vorbeikamen, verhöhnten ihn, /schüttelten den Kopf/
+und riefen: Ach, du willst den Tempel niederreißen und in drei Tagen
+wieder aufbauen? ^{[[#fn23][23]]}
+
+<<v30>>
+30 Hilf dir doch selbst und steig herab vom Kreuz!
+
+<<v31>>
+31 Auch die Hohenpriester und die Schriftgelehrten verhöhnten ihn und
+sagten zueinander: Anderen hat er geholfen, sich selbst kann er nicht
+helfen.
+
+<<v32>>
+32 Der Messias, der König von Israel! Er soll doch jetzt vom Kreuz
+herabsteigen, damit wir sehen und glauben. Auch die beiden Männer, die
+mit ihm zusammen gekreuzigt wurden, beschimpften ihn.\\
+^{[[#fn24][24]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 346\\
+$ŽG://ESyn0812/
+
+<<v33>>
+**** Der Tod Jesu: 15,33-41
+     :PROPERTIES:
+     :CUSTOM_ID: der-tod-jesu-1533-41
+     :END:
+33 Als die sechste Stunde kam, brach über das ganze Land eine Finsternis
+herein. Sie dauerte bis zur neunten Stunde.
+^{[[#fn25][25]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 347\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v34>>
+34 Und in der neunten Stunde rief Jesus mit lauter Stimme: /Eloï, Eloï,
+lema sabachtani?,/ das heißt übersetzt: /Mein Gott, mein Gott, warum
+hast du mich verlassen?/ ^{[[#fn26][26]]}
+
+<<v35>>
+35 Einige von denen, die dabeistanden und es hörten, sagten: Hört, er
+ruft nach Elija!
+
+<<v36>>
+36 Einer lief hin, tauchte einen Schwamm in /Essig,/ steckte ihn auf
+einen Stock und /gab/ Jesus /zu trinken./ Dabei sagte er: Lasst uns doch
+sehen, ob Elija kommt und ihn herabnimmt. ^{[[#fn27][27]]}
+
+<<v37>>
+37 Jesus aber schrie laut auf. Dann hauchte er den Geist aus.
+
+<<v38>>
+38 Da riss der Vorhang im Tempel von oben bis unten entzwei.
+
+<<v39>>
+39 Als der Hauptmann, der Jesus gegenüberstand, ihn auf diese Weise
+sterben sah, sagte er: Wahrhaftig, dieser Mensch war Gottes Sohn.
+
+<<v40>>
+40 Auch einige Frauen sahen von weitem zu, darunter Maria aus Magdala,
+Maria, die Mutter von Jakobus dem Kleinen und Joses, sowie Salome;
+^{[[#fn28][28]][[#fn29][29]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 348\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v41>>
+41 sie waren Jesus schon in Galiläa nachgefolgt und hatten ihm gedient.
+Noch viele andere Frauen waren dabei, die mit ihm nach Jerusalem
+hinaufgezogen waren.\\
+\\
+
+<<v42>>
+**** Das Begräbnis Jesu: 15,42-47
+     :PROPERTIES:
+     :CUSTOM_ID: das-begräbnis-jesu-1542-47
+     :END:
+42 Da es Rüsttag war, der Tag vor dem Sabbat, und es schon Abend wurde,
+^{[[#fn30][30]][[#fn31][31]][[#fn32][32]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 350\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v43>>
+43 ging Josef von Arimathäa, ein vornehmer Ratsherr, der auch auf das
+Reich Gottes wartete, zu Pilatus und wagte es, um den Leichnam Jesu zu
+bitten. ^{[[#fn33][33]]}
+
+<<v44>>
+44 Pilatus war überrascht, als er hörte, dass Jesus schon tot sei. Er
+ließ den Hauptmann kommen und fragte ihn, ob Jesus bereits gestorben
+sei.
+
+<<v45>>
+45 Als der Hauptmann ihm das bestätigte, überließ er Josef den Leichnam.
+
+<<v46>>
+46 Josef kaufte ein Leinentuch, nahm Jesus vom Kreuz, wickelte ihn in
+das Tuch und legte ihn in ein Grab, das in einen Felsen gehauen war.
+Dann wälzte er einen Stein vor den Eingang des Grabes.
+
+<<v47>>
+47 Maria aus Magdala aber und Maria, die Mutter des Joses, beobachteten,
+wohin der Leichnam gelegt wurde. ^{[[#fn34][34]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-15) Mt 27,1f.11-26; Lk 22,66; 23,1-4.17-25; Joh
+18,29 - 19,1
+
+^{[[#fnm2][2]]} 1-15: Zu Pilatus und Barabbas vgl. die Anmerkung zu Mt
+27, 11-26.
+
+^{[[#fnm3][3]]} ℘ ⇨Esyn: Synopse Nr. 334
+
+^{[[#fnm4][4]]} ℘ ⇨Esyn: Synopse Nr. 336
+
+^{[[#fnm5][5]]} ℘ ⇨Esyn: Synopse Nr. 337
+
+^{[[#fnm6][6]]} ℘ ⇨Esyn: Synopse Nr. 339
+
+^{[[#fnm7][7]]} ℘ Apg 3,13f
+
+^{[[#fnm8][8]]} ℘ Joh 19,15
+
+^{[[#fnm9][9]]} ℘ ⇨Esyn: Synopse Nr. 341
+
+^{[[#fnm10][10]]} ℘ (16-20a) Mt 27,27-31a; Joh 19,2f
+
+^{[[#fnm11][11]]} 16-20a: Zur Verspottung durch die Soldaten vgl. die
+Anmerkung zu Mt 27,27-31.
+
+^{[[#fnm12][12]]} ℘ ⇨Esyn: Synopse Nr. 342
+
+^{[[#fnm13][13]]} ℘ Lk 23,11
+
+^{[[#fnm14][14]]} 20b-32: Zu Einzelheiten der Hinrichtung Jesu vgl. die
+Anmerkungen zu Mt 27,34-51a.
+
+^{[[#fnm15][15]]} ℘ ⇨Esyn: Synopse Nr. 343
+
+^{[[#fnm16][16]]} ℘ (21-32) Mt 27,31b-44; Lk 23,26-38; Joh 19,16b-27
+
+^{[[#fnm17][17]]} Die Söhne des Simon von Zyrene werden hier genannt,
+weil sie wahrscheinlich später der christlichen Gemeinde (in Rom?)
+angehörten; vgl. Röm 16,13.
+
+^{[[#fnm18][18]]} ℘ ⇨Esyn: Synopse Nr. 344
+
+^{[[#fnm19][19]]} ℘ Ps 69,22
+
+^{[[#fnm20][20]]} ℘ Ps 22,19; Joh 19,24
+
+^{[[#fnm21][21]]} ℘ ⇨Esyn: Synopse Nr. 345
+
+^{[[#fnm22][22]]} Spätere Textzeugen fügen entsprechend Lk 22,37 hier
+ein: So erfüllte sich das Schriftwort: Er wurde zu den Verbrechern
+gerechnet.
+
+^{[[#fnm23][23]]} ℘ Ps 22,8; Mk 14,58; Joh 2,19
+
+^{[[#fnm24][24]]} ℘ ⇨Esyn: Synopse Nr. 346
+
+^{[[#fnm25][25]]} ℘ (33-41) Mt 27,45-56; Lk 23,44-49; Joh 19,28-30
+⇨Esyn: Synopse Nr. 347
+
+^{[[#fnm26][26]]} ℘ Ps 22,2
+
+^{[[#fnm27][27]]} ℘ Ps 69,22
+
+^{[[#fnm28][28]]} 40.47: Zu «Joses» vgl. die Anmerkung zu Mk 6,3 bzw. zu
+«Brüder Jesu» Mt 12,46f.
+
+^{[[#fnm29][29]]} ℘ ⇨Esyn: Synopse Nr. 348
+
+^{[[#fnm30][30]]} ℘ (42-47) Mt 27,57-61; Lk 23,50-56; Joh 19,38-42
+
+^{[[#fnm31][31]]} Rüsttag ist der Tag vor dem Sabbat (der Freitag). Nach
+Dtn 21,23 mussten die am Holz aufgehängten, zuvor gesteinigten
+Gotteslästerer noch vor Sonnenuntergang abgenommen werden; das galt auch
+für Gekreuzigte. Die Grablegung fand sofort anschließend statt.
+
+^{[[#fnm32][32]]} ℘ ⇨Esyn: Synopse Nr. 350
+
+^{[[#fnm33][33]]} 43-45: Die Freigabe des Leichnams für die private
+Bestattung war nach römischem Recht dem zuständigen Richter vorbehalten.
+
+^{[[#fnm34][34]]} der Leichnam, wörtlich: er.

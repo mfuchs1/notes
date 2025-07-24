@@ -1,0 +1,143 @@
+:PROPERTIES:
+:ID:       675c34e9-2109-4b3a-a128-1fbf70b7b834
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Hosea* -- [[file:Hos_1.html][1]] ...
+[[file:Hos_3.html][3]] [[file:Hos_4.html][4]] *5* [[file:Hos_6.html][6]]
+[[file:Hos_7.html][7]] ... [[file:Hos_14.html][14]]
+
+--------------
+
+* Hos 5
+  :PROPERTIES:
+  :CUSTOM_ID: hos-5
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Abrechnung mit den Führern und dem Volk: 5,1-7
+     :PROPERTIES:
+     :CUSTOM_ID: die-abrechnung-mit-den-führern-und-dem-volk-51-7
+     :END:
+1 Hört her, ihr Priester! /\\
+ Gebt Acht, ihr vom Haus Israel! Horcht auf, ihr aus dem Königshaus! /\\
+ Denn ihr seid die Hüter des Rechts. Doch ihr wurdet (für das Volk) zu
+einer Falle in Mizpa, /\\
+ zu einem Netz, das auf dem Tabor ausgespannt ist, ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 zu einer tiefen Grube in Schittim. /\\
+ Ich aber werde euch alle bestrafen.\\
+\\
+
+<<v3>>
+3 Ich kenne Efraim gut, /\\
+ Israel kann sich vor mir nicht verstecken: Efraim hat es mit den Dirnen
+getrieben, /\\
+ Israel hat sich befleckt.\\
+\\
+
+<<v4>>
+4 Ihre Taten verhindern, /\\
+ dass sie umkehren zu ihrem Gott. Denn der Geist der Unzucht steckt in
+ihnen, /\\
+ sodass sie den Herrn nicht erkennen. ^{[[#fn2][2]]}\\
+\\
+
+<<v5>>
+5 Sein eigener Hochmut klagt Israel an, /\\
+ Efraim kommt zu Fall durch seine eigene Schuld; /\\
+ zusammen mit ihm stürzt auch Juda zu Boden.\\
+\\
+
+<<v6>>
+6 Sie werden ausziehen mit ihren Schafen und Rindern, /\\
+ um den Herrn zu suchen, doch sie werden ihn nicht finden; /\\
+ er zieht sich vor ihnen zurück. ^{[[#fn3][3]]}\\
+\\
+
+<<v7>>
+7 Sie haben dem Herrn die Treue gebrochen, /\\
+ sie haben Bastarde geboren. /\\
+ Nun frisst ein glühender Wind ihren ererbten Besitz. ^{[[#fn4][4]]}\\
+\\
+
+<<v8>>
+**** Die Schuld der Bruderstämme: 5,8-15
+     :PROPERTIES:
+     :CUSTOM_ID: die-schuld-der-bruderstämme-58-15
+     :END:
+8 Blast in Gibea das Widderhorn, /\\
+ in Rama die Trompete! Schlagt Lärm in Bet-Awen, /\\
+ schreckt Benjamin auf! ^{[[#fn5][5]]}\\
+\\
+
+<<v9>>
+9 Efraim wird zu einer schauerlichen Wüste, /\\
+ wenn der Tag der Züchtigung kommt. Ich mache bei Israels Stämmen
+bekannt, /\\
+ was fest beschlossen ist.\\
+\\
+
+<<v10>>
+10 Die Führer Judas handeln wie Menschen, die Grenzsteine versetzen. /\\
+ Ich gieße meinen Groll wie Wasser über sie aus. ^{[[#fn6][6]]}\\
+\\
+
+<<v11>>
+11 Efraim wird unterdrückt, /\\
+ das Recht wird zertreten. Denn sie waren darauf aus, /\\
+ dem «Unflat» zu folgen. ^{[[#fn7][7]]}\\
+\\
+
+<<v12>>
+12 Ich aber bin wie Eiter für Efraim, /\\
+ wie Fäulnis für das Haus Juda. ^{[[#fn8][8]]}\\
+\\
+
+<<v13>>
+13 Als Efraim seine Krankheit sah /\\
+ und Juda sein Geschwür, da ging Efraim nach Assur /\\
+ und (Juda) schickte zum Großkönig. Aber der kann euch nicht heilen, /\\
+ er befreit euch nicht von eurem Geschwür. ^{[[#fn9][9]]}\\
+\\
+
+<<v14>>
+14 Denn ich bin für Efraim wie ein Löwe, /\\
+ wie ein junger Löwe für das Haus Juda. Ich, ja ich, reiße (die Beute),
+/\\
+ dann gehe ich davon; ich schleppe sie weg /\\
+ und keiner kann sie mir entreißen. ^{[[#fn10][10]]}\\
+\\
+
+<<v15>>
+15 Ich gehe weg, ich kehre an meinen Ort zurück, /\\
+ (und warte,) bis sie mich schuldbewusst suchen, bis sie in ihrer Not
+/\\
+ wieder Ausschau halten nach mir. ^{[[#fn11][11]]}\\
+\\
+
+^{[[#fnm1][1]]} 1f: Mizpa, Schittim: Kultorte Baals.
+
+^{[[#fnm2][2]]} ℘ Jer 13,23
+
+^{[[#fnm3][3]]} ℘ Am 5,4; 8,12
+
+^{[[#fnm4][4]]} Vgl. 4,13.
+
+^{[[#fnm5][5]]} ℘ Jer 4,5; Joël 2,1
+
+^{[[#fnm6][6]]} ℘ Dtn 19,14; 27,17
+
+^{[[#fnm7][7]]} 11d: Abwertender Ausdruck für Baal und seinen Kult.
+
+^{[[#fnm8][8]]} ℘ Hab 3,16
+
+^{[[#fnm9][9]]} ℘ 7,11; 8,9
+
+^{[[#fnm10][10]]} ℘ Jes 5,29
+
+^{[[#fnm11][11]]} ℘ Dtn 4,29; Jer 29,13; Am 5,4

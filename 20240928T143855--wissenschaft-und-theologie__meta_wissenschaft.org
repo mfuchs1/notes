@@ -1,0 +1,45 @@
+#+title:      Wissenschaft und Theologie
+#+date:       [2024-09-28 Sa 14:38]
+#+filetags:   :meta:wissenschaft:
+#+identifier: 20240928T143855
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Wissenschaft und Theologie.html
+
+
+* Fragen
+Die Schüler stellen hin und wieder sehr herausfordernde Fragen wie z.B. "Woher wissen Sie, dass Gott wirklich existieren?" - "Schöpfung oder Evolution, wer hat jetzt recht? Was stimmt?" - "Die Bibel! Pfff! Uralte Geschichten, hat nichts mit uns zu tun. Sind doch nur Märchen."
+
+Für diese Fragen bin ich so dankbar. Danach lässt sich wunderbar mit den Kindern philosophieren. Ich muss nur aufpassen, meine Sicht der Dinge den Kindern nicht aufs Auge zu drücken. Sie sollen selbst die Wahrheit entdecken.
+
+Z.B.: Beispiel der Bienen und die Blumen; gleich nach dem Winter blühen Winter, die besonders viel Pollen produzieren; später kommen Blumen mit Pollen und viel Honig Nektar, etc ... Passt wunderbar zusammen mit dem Bedürfnis der Bienen.
+
+Oder die Abfolge der Jahreszeiten; die Ordnung im Weltall; die komplexe Photosynthese; ...
+
+Woher kommt diese Ordnung? Allerdings: ist Gott nur der intelligente Designer? Greift dies nicht zu kurz? Siehe Buch "Säugetier von Gottes Gnaden" (lesen!)
+
+* Blick in die Geschichte, Geographie, etc
+:PROPERTIES:
+:CUSTOM_ID: h:14523e57-4d55-4bee-a9d3-d52623a1c8db
+:END:
+Sieht man sich in der Welt um, reist man z.B. nach Asien oder in islamische Länder: für die Menschen in diesen Ländern ist es das Natürlichste auf der Welt - sie leben in der Gegenwart Gottes (oder des Göttlichen). Für sie ist es klar, dass Gott existiert und das diese Existenz Gottes Auswirkungen auf ihr tägliches Leben hat.
+
+Wenn der Muezzin fünfmal am Tag zum Gebet ruft, dann lassen in islamischen Ländern die Gläubigen alles liegen und stehen, und versammeln sich dort, wo sie sind, zum Gebet. Die Hindus beginnen und beenden ihren Tag Zuhause vor ihrem Hausaltar. Während des Tages stoßen sie an allen Ecken auf kleine und größere Tempel und betreten sie zum Gebet und zur Liturgie.
+
+Alte Philosophen wie Aristoteles, Platon, etc ... für sie war es klar, dass es einen einzigen Gott (Aristoteles) gibt und dass man seine Existenz mit der Vernunft entdecken kann. Dass man ihn betrachten (zu ihm beten) kann.
+
+Und nun wären wir West-Europäer so viel klüger und weiser als der Rest der Welt, klüger als Aristoteles, indem wir behaupten, Gott gäbe es nicht? Oder, selbst wenn Er existieren würde, das hätte null Wirkung auf unser Leben?
+
+* Ideen für den Unterricht
+- Texte / Videos / ...
+- Gespräche mit Wissenschaftlern, Theologen, ...
+- etc.
+
+Im Gespräch mit den Schülern darf ich ihnen keinen Vorwurf machen, oder ihnen meine Sicht der Dinge überstülpen. Andererseits darf ich mir nicht wegen der "Beschwerden" der Eltern den Unterricht ihren Erwartungen anpassen, oder mich ihnen angleichen. Ich habe einen Auftrag und diesen erfülle ich.
+
+Auf der Homepage der Religionsbücher gibt es Links zu YouTube Videos zu diesem Thema. Ein Physiker (?) zeigt die Grenzen der Wissenschaft, und wo die Religion beginnt. "Wie wenig wir eigentlich wissen!" 

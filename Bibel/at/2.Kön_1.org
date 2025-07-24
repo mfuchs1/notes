@@ -1,0 +1,126 @@
+#+TITLE: 2 Kön 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 17:04]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 1.html
+
+<<verses>>
+
+<<v1>>
+* Die Geschichte der getrennten Reiche: Zweiter Teil: 1,1 - 17,41
+
+* Elija und Ahasja: 1,1-18
+
+1 Nach dem Tod Ahabs fiel Moab von Israel ab.
+
+<<v2>>
+2 Ahasja war in Samaria durch das Gitter seines Obergemachs gefallen und
+hatte sich verletzt. Er sandte Boten ab mit dem Auftrag: Geht, befragt
+Beelzebul, den Gott von Ekron, ob ich von diesem Leiden genesen werde. [fn:1]
+
+<<v3>>
+3 Doch der Engel des Herrn sprach zu Elija aus Tischbe: Mach dich auf,
+geh den Boten des Königs von Samaria entgegen und sag zu ihnen: Gibt es
+denn keinen Gott in Israel, sodass ihr fortgehen müsst, um Beelzebul,
+den Gott von Ekron, zu befragen?
+
+<<v4>>
+4 Darum: So spricht der Herr: Vom Lager, auf das du dich gelegt hast,
+wirst du nicht mehr aufstehen; denn du musst sterben. Elija ging weiter.
+
+<<v5>>
+5 Die Boten aber kehrten zum König zurück und er fragte sie: Wie kommt
+es, dass ihr schon zurück seid?
+
+<<v6>>
+6 Sie antworteten ihm: Ein Mann kam uns entgegen und trug uns auf: Kehrt
+zum König zurück, der euch gesandt hat, und sagt zu ihm: So spricht der
+Herr: Gibt es denn keinen Gott in Israel, sodass du Boten aussenden
+musst, die Beelzebul, den Gott von Ekron, befragen sollen? Darum wirst
+du von dem Lager, auf das du dich gelegt hast, nicht mehr aufstehen;
+denn du musst sterben.
+
+<<v7>>
+7 Da fragte er sie: Wie sah der Mann aus, der euch entgegenkam und diese
+Worte zu euch sprach?
+
+<<v8>>
+8 Sie erwiderten: Er trug einen Mantel aus Ziegenhaaren und hatte einen
+ledernen Gurt um die Hüften. Da sagte er: Das war Elija aus Tischbe. [fn:2]
+
+<<v9>>
+9 Er sandte nun den Hauptmann über Fünfzig und seine Leute zu ihm.
+Dieser stieg zu Elija hinauf, der auf dem Gipfel des Berges saß, und
+rief ihm zu: Mann Gottes, der König befiehlt dir herabzukommen.
+
+<<v10>>
+10 Doch Elija antwortete dem Hauptmann der Fünfzig: Wenn ich ein Mann
+Gottes bin, so falle Feuer vom Himmel und verzehre dich und deine
+Fünfzig. Sogleich fiel Feuer vom Himmel und verzehrte ihn und seine
+Leute.
+
+<<v11>>
+11 Darauf sandte der König einen anderen Hauptmann über Fünfzig und
+seine Leute zu ihm. Auch dieser ergriff das Wort und rief Elija zu: Mann
+Gottes, so spricht der König: Komm sofort herab!
+
+<<v12>>
+12 Doch Elija antwortete ihnen: Wenn ich ein Mann Gottes bin, so falle
+Feuer vom Himmel und verzehre dich und deine Fünfzig. Sogleich fiel das
+Feuer Gottes vom Himmel und verzehrte ihn und seine Leute.
+
+<<v13>>
+13 Nun schickte der König einen dritten Hauptmann über Fünfzig und seine
+Leute. Dieser kam hinauf, kniete vor Elija nieder und flehte ihn an:
+Mann Gottes, möchte doch mein Leben und das Leben deiner fünfzig Knechte
+kostbar sein in deinen Augen.
+
+<<v14>>
+14 Feuer ist vom Himmel gefallen und hat die ersten zwei Hauptleute und
+ihre fünfzig Mann verzehrt. Möchte nun mein Leben kostbar sein in deinen
+Augen.
+
+<<v15>>
+15 Da sagte der Engel des Herrn zu Elija: Geh mit ihm hinab und fürchte
+dich nicht vor ihm! Elija stand also auf, ging mit ihm zum König hinab
+
+<<v16>>
+16 und hielt ihm vor: So spricht der Herr: Du hast Boten ausgesandt, um
+Beelzebul, den Gott von Ekron, zu befragen, als gäbe es in Israel keinen
+Gott, dessen Wort man einholen könnte. Darum wirst du von dem Lager, auf
+das du dich gelegt hast, nicht mehr aufstehen; denn du musst sterben.
+
+<<v17>>
+17 So starb Ahasja nach dem Wort des Herrn, das Elija verkündet hatte.
+(Sein Bruder) Joram wurde König an seiner Stelle im zweiten Jahr Jorams,
+des Sohnes Joschafats, des Königs von Juda; denn er hatte keinen Sohn. [fn:3]
+
+<<v18>>
+18 Die übrige Geschichte Ahasjas und seine Taten sind aufgezeichnet in
+der Chronik der Könige von Israel.\\
+\\
+
+* Footnotes
+
+[fn:1] Die Bezeichnung Zebul (= Fürst) wurde Baal und anderen
+Göttern beigelegt; sie ist auch im Namen des Gottes von Ekron enthalten.
+Mt 10,25 hat die ursprüngliche Namensform Beelzebul. Baalzebub in H ist
+eine Entstellung des Namens (= Herr der Fliegen).
+
+[fn:2] Der Mantel war das besondere Kleidungsstück der
+Propheten ([[file:1.Sam_28.org::v14][1 Sam 28,14]]; [[file:1.Kön_19.org::v13][1 Kön 19,13]].[[file:1.Kön_19.org::v19][19]]; [[file:2.Kön_2.org::v8][2 Kön 2,8]].[[file:2.Kön_2.org::v14][14]]; [[file:Sach_13.org::v4][Sach 13,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_3.org::v4][Mt 3,4]]).
+
+[fn:3] Sein Bruder: eingefügt wegen des Zusammenhangs, vgl.
+[[file:2.Kön_3.org::v1][3,1]]. Der Regierungswechsel wird hier in das zweite Jahr Jorams, des
+Nachfolgers Joschafats, in 3,1 dagegen in das 18. Jahr Joschafats
+datiert. Der Unterschied entstand dadurch, dass in 3,1 die
+Regierungsjahre Omris und seiner Nachfolger Ahab und Ahasja vom
+Todesjahr Simris (= 27. Jahr Asas), in [[v17][1,17]] dagegen, wie in G, erst vom
+Beginn der Alleinherrschaft Omris (= 31. Jahr Asas, nach Ausschaltung
+Tibnis) an berechnet wurden.

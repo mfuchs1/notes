@@ -1,0 +1,169 @@
+#+TITLE: Ps 103 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-08 Do 21:56]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 103.html
+
+* Ps 103
+
+<<verses>>
+
+<<v1>>
+* Ein Loblied auf den gütigen und verzeihenden Gott
+
+1 [Von David.] Lobe den Herrn, meine Seele, /\\
+ und alles in mir seinen heiligen Namen!\\
+\\
+
+<<v2>>
+2 Lobe den Herrn, meine Seele, /\\
+ und vergiss nicht, was er dir Gutes getan hat: [fn:1]\\
+\\
+
+<<v3>>
+3 der dir all deine Schuld vergibt /\\
+ und all deine Gebrechen heilt, [fn:2]\\
+\\
+
+<<v4>>
+4 der dein Leben vor dem Untergang rettet /\\
+ und dich mit Huld und Erbarmen krönt,\\
+\\
+
+<<v5>>
+5 der dich dein Leben lang mit seinen Gaben sättigt; /\\
+ wie dem Adler wird dir die Jugend erneuert. [fn:3] [fn:4]\\
+\\
+
+<<v6>>
+6 Der Herr vollbringt Taten des Heiles, /\\
+ Recht verschafft er allen Bedrängten. [fn:5]\\
+\\
+
+<<v7>>
+7 Er hat Mose seine Wege kundgetan, /\\
+ den Kindern Israels seine Werke. [fn:6]\\
+\\
+
+<<v8>>
+8 Der Herr ist barmherzig und gnädig, /\\
+ langmütig und reich an Güte. [fn:7]\\
+\\
+
+<<v9>>
+9 Er wird nicht immer zürnen, /\\
+ nicht ewig im Groll verharren. [fn:8]\\
+\\
+
+<<v10>>
+10 Er handelt an uns nicht nach unsern Sünden /\\
+ und vergilt uns nicht nach unsrer Schuld.\\
+\\
+
+<<v11>>
+11 Denn so hoch der Himmel über der Erde ist, /\\
+ so hoch ist seine Huld über denen, die ihn fürchten. [fn:9] [fn:10]\\
+\\
+
+<<v12>>
+12 So weit der Aufgang entfernt ist vom Untergang, /\\
+ so weit entfernt er die Schuld von uns.\\
+\\
+
+<<v13>>
+13 Wie ein Vater sich seiner Kinder erbarmt, /\\
+ so erbarmt sich der Herr über alle, die ihn fürchten. [fn:11]\\
+\\
+
+<<v14>>
+14 Denn er weiß, was wir für Gebilde sind; /\\
+ er denkt daran: Wir sind nur Staub. [fn:12]\\
+\\
+
+<<v15>>
+15 Des Menschen Tage sind wie Gras, /\\
+ er blüht wie die Blume des Feldes. [fn:13]\\
+\\
+
+<<v16>>
+16 Fährt der Wind darüber, ist sie dahin; /\\
+ der Ort, wo sie stand, weiß von ihr nichts mehr. [fn:14]\\
+\\
+
+<<v17>>
+17 Doch die Huld des Herrn währt immer und ewig /\\
+ für alle, die ihn fürchten und ehren; sein Heil erfahren noch Kinder
+und Enkel; / [fn:15]\\
+\\
+
+<<v18>>
+18 alle, die seinen Bund bewahren, /\\
+ an seine Gebote denken und danach handeln. [fn:16]\\
+\\
+
+<<v19>>
+19 Der Herr hat seinen Thron errichtet im Himmel, /\\
+ seine königliche Macht beherrscht das All.\\
+\\
+
+<<v20>>
+20 Lobt den Herrn, ihr seine Engel, /\\
+ ihr starken Helden, die seine Befehle vollstrecken, /\\
+ seinen Worten gehorsam! [fn:17]\\
+\\
+
+<<v21>>
+21 Lobt den Herrn, all seine Scharen, /\\
+ seine Diener, die seinen Willen vollziehen!\\
+\\
+
+<<v22>>
+22 Lobt den Herrn, all seine Werke, /\\
+ an jedem Ort seiner Herrschaft! /\\
+ Lobe den Herrn, meine Seele! [fn:18]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Dtn_4.org::v9][Dtn 4,9]]
+
+[fn:2] [[file:Ps_32.org::v1][32,1]]; [[file:Ex_15.org::v26][Ex 15,26]]
+
+[fn:3] [[file:Ijob_33.org::v25][Ijob 33,25]]; [[file:Jes_40.org::v31][Jes 40,31]]
+
+[fn:4] dein Leben lang: Text korr.
+
+[fn:5] [[file:Ps_146.org::v7][146,7]]
+
+[fn:6] [[file:Ps_90.org::v16][90,16]]
+
+[fn:7] [[file:Ps_116.org::v5][116,5]]
+
+[fn:8] [[file:Jes_57.org::v16][Jes 57,16]]; [[file:Jer_3.org::v12][Jer 3,12]]
+
+[fn:9] [[file:Ps_36.org::v6][36,6]]; [[file:Jes_55.org::v9][Jes 55,9]]
+
+[fn:10] so hoch: Text korr.; H: so stark.
+
+[fn:11] [[file:Ps_145.org::v9][145,9]]; [[file:Jdt_16.org::v15][Jdt 16,15]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_15.org::v11][Lk 15,11-24]]
+
+[fn:12] [[file:Ps_146.org::v4][146,4]]
+
+[fn:13] [[file:Ps_90.org::v5][90,5f]]
+
+[fn:14] [[file:Ijob_7.org::v10][Ijob 7,10]]
+
+[fn:15] [[file:Ex_20.org::v6][Ex 20,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v50][Lk 1,50]]
+
+[fn:16] [[file:Ps_25.org::v10][25,10]]
+
+[fn:17] (20-22) [[file:Ps_29.org::v1][29,1]]; [[file:Ps_148.org::v2][148,2-4]]
+
+[fn:18] [[file:Ps_145.org::v10][145,10]]; [[file:Dan_3.org::v57][Dan 3,57]]

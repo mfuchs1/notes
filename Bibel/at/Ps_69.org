@@ -1,0 +1,270 @@
+#+TITLE: Ps 69 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-02 Fr 10:27]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 69.html
+
+* Ps 69
+
+<<verses>>
+
+<<v1>>
+* Der Hilferuf eines unschuldig Verfolgten
+
+1 [Für den Chormeister. Nach der Weise «Lilien». Von David.]\\
+\\
+
+<<v2>>
+2 Hilf mir, o Gott! /\\
+ Schon reicht mir das Wasser bis an die Kehle. [fn:1]\\
+\\
+
+<<v3>>
+3 Ich bin in tiefem Schlamm versunken /\\
+ und habe keinen Halt mehr; ich geriet in tiefes Wasser, /\\
+ die Strömung reißt mich fort. [fn:2]\\
+\\
+
+<<v4>>
+4 Ich bin müde vom Rufen, /\\
+ meine Kehle ist heiser, mir versagen die Augen, /\\
+ während ich warte auf meinen Gott. [fn:3]\\
+\\
+
+<<v5>>
+5 Zahlreicher als die Haare auf meinem Kopf /\\
+ sind die, die mich grundlos hassen. Zahlreich sind meine Verderber,
+meine verlogenen Feinde. /\\
+ Was ich nicht geraubt habe, soll ich erstatten. [fn:4]\\
+\\
+
+<<v6>>
+6 Gott, du kennst meine Torheit, /\\
+ meine Verfehlungen sind dir nicht verborgen.\\
+\\
+
+<<v7>>
+7 Wer auf dich hofft, Herr, du Herr der Heere, /\\
+ soll durch mich nicht scheitern; wer dich sucht, Gott Israels, /\\
+ gerate durch mich nicht in Schande.\\
+\\
+
+<<v8>>
+8 Denn deinetwegen erleide ich Schmach /\\
+ und Schande bedeckt mein Gesicht. [fn:5]\\
+\\
+
+<<v9>>
+9 Entfremdet bin ich den eigenen Brüdern, /\\
+ den Söhnen meiner Mutter wurde ich fremd. [fn:6]\\
+\\
+
+<<v10>>
+10 Denn der Eifer für dein Haus hat mich verzehrt; /\\
+ die Schmähungen derer, die dich schmähen, haben mich getroffen. [fn:7]\\
+\\
+
+<<v11>>
+11 Ich nahm mich durch Fasten in Zucht, /\\
+ doch es brachte mir Schmach und Schande. [fn:8]\\
+\\
+
+<<v12>>
+12 Ich ging in Sack und Asche, /\\
+ doch sie riefen Spottverse hinter mir her. [fn:9]\\
+\\
+
+<<v13>>
+13 Man redet über mich in der Versammlung am Tor, /\\
+ von mir singen die Zecher beim Wein. [fn:10]\\
+\\
+
+<<v14>>
+14 Ich aber bete zu dir, /\\
+ Herr, zur Zeit der Gnade. Erhöre mich in deiner großen Huld, /\\
+ Gott, hilf mir in deiner Treue! [fn:11]\\
+\\
+
+<<v15>>
+15 Entreiß mich dem Sumpf, /\\
+ damit ich nicht versinke. Zieh mich heraus aus dem Verderben, /\\
+ aus dem tiefen Wasser! [fn:12] [fn:13]\\
+\\
+
+<<v16>>
+16 Lass nicht zu, dass die Flut mich überschwemmt, /\\
+ die Tiefe mich verschlingt, /\\
+ der Brunnenschacht über mir seinen Rachen schließt. [fn:14]\\
+\\
+
+<<v17>>
+17 Erhöre mich, Herr, in deiner Huld und Güte, /\\
+ wende dich mir zu in deinem großen Erbarmen!\\
+\\
+
+<<v18>>
+18 Verbirg nicht dein Gesicht vor deinem Knecht; /\\
+ denn mir ist angst. Erhöre mich bald! [fn:15]\\
+\\
+
+<<v19>>
+19 Sei mir nah und erlöse mich! /\\
+ Befrei mich meinen Feinden zum Trotz!\\
+\\
+
+<<v20>>
+20 Du kennst meine Schmach und meine Schande. /\\
+ Dir stehen meine Widersacher alle vor Augen.\\
+\\
+
+<<v21>>
+21 Die Schande bricht mir das Herz, /\\
+ ganz krank bin ich vor Schmach; umsonst habe ich auf Mitleid gewartet,
+/\\
+ auf einen Tröster, doch ich habe keinen gefunden. [fn:16]\\
+\\
+
+<<v22>>
+22 Sie gaben mir Gift zu essen, /\\
+ für den Durst reichten sie mir Essig. [fn:17]\\
+\\
+
+<<v23>>
+23 Der Opfertisch werde für sie zur Falle, /\\
+ das Opfermahl zum Fangnetz. [fn:18] [fn:19]\\
+\\
+
+<<v24>>
+24 Blende ihre Augen, sodass sie nicht mehr sehen; /\\
+ lähme ihre Hüften für immer!\\
+\\
+
+<<v25>>
+25 Gieß über sie deinen Grimm aus, /\\
+ dein glühender Zorn soll sie treffen!\\
+\\
+
+<<v26>>
+26 Ihr Lagerplatz soll veröden, /\\
+ in ihren Zelten soll niemand mehr wohnen. [fn:20]\\
+\\
+
+<<v27>>
+27 Denn sie verfolgen den Mann, den du schon geschlagen hast, /\\
+ und mehren den Schmerz dessen, der von dir getroffen ist. [fn:21] [fn:22]\\
+\\
+
+<<v28>>
+28 Rechne ihnen Schuld über Schuld an, /\\
+ damit sie nicht teilhaben an deiner Gerechtigkeit.\\
+\\
+
+<<v29>>
+29 Sie seien aus dem Buch des Lebens getilgt /\\
+ und nicht bei den Gerechten verzeichnet. [fn:23]\\
+\\
+
+<<v30>>
+30 Ich aber bin elend und voller Schmerzen; /\\
+ doch deine Hilfe, o Gott, wird mich erhöhen.\\
+\\
+
+<<v31>>
+31 Ich will den Namen Gottes rühmen im Lied, /\\
+ in meinem Danklied ihn preisen.\\
+\\
+
+<<v32>>
+32 Das gefällt dem Herrn mehr als ein Opferstier, /\\
+ mehr als Rinder mit Hörnern und Klauen. [fn:24]\\
+\\
+
+<<v33>>
+33 Schaut her, ihr Gebeugten, und freut euch; /\\
+ ihr, die ihr Gott sucht: euer Herz lebe auf! [fn:25]\\
+\\
+
+<<v34>>
+34 Denn der Herr hört auf die Armen, /\\
+ er verachtet die Gefangenen nicht.\\
+\\
+
+<<v35>>
+35 Himmel und Erde sollen ihn rühmen, /\\
+ die Meere und was sich in ihnen regt.\\
+\\
+
+<<v36>>
+36 Denn Gott wird Zion retten, /\\
+ wird Judas Städte neu erbauen. Seine Knechte werden dort wohnen und das
+Land besitzen, / [fn:26]\\
+\\
+
+<<v37>>
+37 ihre Nachkommen sollen es erben; /\\
+ wer seinen Namen liebt, soll darin wohnen. [fn:27]\\
+\\
+
+* Footnotes
+
+[fn:1] (2-3) [[file:Ps_42.org::v8][42,8]]
+
+[fn:2] [[file:Ps_40.org::v3][40,3]]
+
+[fn:3] [[file:Jes_38.org::v14][Jes 38,14]]
+
+[fn:4] [[file:Ps_35.org::v19][35,19]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_15.org::v25][Joh 15,25]]
+
+[fn:5] [[file:Ps_44.org::v23][44,23]]; [[file:Jer_15.org::v15][Jer 15,15]]
+
+[fn:6] [[file:Ps_31.org::v12][31,12]]
+
+[fn:7] [[file:Ps_119.org::v139][119,139]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_2.org::v17][Joh 2,17]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_15.org::v3][Röm 15,3]]
+
+[fn:8] Text korr.; H: Ich weinte beim Fasten meiner Seele.
+
+[fn:9] [[file:Klgl_3.org::v14][Klgl 3,14]]
+
+[fn:10] [[file:Ijob_30.org::v9][Ijob 30,9]]
+
+[fn:11] [[file:Ps_102.org::v14][102,14]]; [[file:Jes_49.org::v8][Jes 49,8]]
+
+[fn:12] [[file:Ps_40.org::v3][40,3]]
+
+[fn:13] Text korr.; H: Lass mich gerettet werden vor denen, die mich hassen.
+
+[fn:14] [[file:Ps_42.org::v8][42,8]]; [[file:Gen_29.org::v3][Gen 29,3]]
+
+[fn:15] [[file:Ps_102.org::v3][102,3]]; [[file:Ps_143.org::v7][143,7]]
+
+[fn:16] [[file:Klgl_1.org::v2][Klgl 1,2]]
+
+[fn:17] [[file:Klgl_3.org::v15][Klgl 3,15]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v34][Mt 27,34]].[[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v48][48]]
+
+[fn:18] (23-24) [[file:~/RoamNotes/notes/Bibel/nt/Röm_11.org::v9][Röm 11,9f]]
+
+[fn:19] Nach der aramäischen Übersetzung.
+
+[fn:20] [[file:~/RoamNotes/notes/Bibel/nt/Apg_1.org::v20][Apg 1,20]]
+
+[fn:21] [[file:Ps_71.org::v11][71,11]]; [[file:Ps_53.org::v4][Jes 53,4]]
+
+[fn:22] Text korr. nach G; H: und sie zählen den Schmerz.
+
+[fn:23] [[file:Ps_139.org::v16][139,16]]; [[file:Ex_32.org::v32][Ex 32,32]]; [[file:Jes_4.org::v3][Jes 4,3]]; [[file:Dan_7.org::v10][Dan 7,10]]; [[file:Dan_12.org::v1][12,1]]; [[file:Mal_2.org::v16][Mal 3,16]];
+[[file:~/RoamNotes/notes/Bibel/nt/Lk_10.org::v20][Lk 10,20]]; [[file:~/RoamNotes/notes/Bibel/nt/Phil_4.org::v3][Phil 4,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_3.org::v5][Offb 3,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_20.org::v12][20,12]]
+
+[fn:24] [[file:Ps_40.org::v7][40,7]]
+
+[fn:25] [[file:Ps_22.org::v27][22,27]]
+
+[fn:26] [[file:Ps_51.org::v20][51,20]]; [[file:Jes_44.org::v26][Jes 44,26]]; [[file:Ez_36.org::v10][Ez 36,10]]
+
+[fn:27] [[file:Jes_65.org::v9][Jes 65,9]]

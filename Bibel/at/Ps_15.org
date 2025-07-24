@@ -1,0 +1,55 @@
+#+TITLE: Ps 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-04 Mo 22:09]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 15.html
+
+* Ps 15
+
+<<verses>>
+
+<<v1>>
+* Die Bedingungen für den Eintritt ins Heiligtum
+
+1 [Ein Psalm Davids.] Herr, wer darf Gast sein in deinem Zelt, /\\
+ wer darf weilen auf deinem heiligen Berg?\\
+\\
+
+<<v2>>
+2 Der makellos lebt und das Rechte tut; /\\
+ der von Herzen die Wahrheit sagt / [fn:1]\\
+\\
+
+<<v3>>
+3 und mit seiner Zunge nicht verleumdet; der seinem Freund nichts Böses
+antut /\\
+ und seinen Nächsten nicht schmäht;\\
+\\
+
+<<v4>>
+4 der den Verworfenen verachtet, /\\
+ doch alle, die den Herrn fürchten, in Ehren hält; der sein Versprechen
+nicht ändert, /\\
+ das er seinem Nächsten geschworen hat; [fn:2]\\
+\\
+
+<<v5>>
+5 der sein Geld nicht auf Wucher ausleiht /\\
+ und nicht zum Nachteil des Schuldlosen Bestechung annimmt. Wer sich
+danach richtet, /\\
+ der wird niemals wanken. [fn:3]\\
+\\
+
+* Footnotes
+
+[fn:1] (2-3) [[file:Ps_12.org::v3][12,3-5]]
+
+[fn:2] Nach G und S; H ist verderbt.
+
+[fn:3] [[file:Ex_22.org::v24][Ex 22,24]]; [[file:Ex_23.org::v8][23,8]]

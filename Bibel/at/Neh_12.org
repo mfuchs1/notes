@@ -1,0 +1,232 @@
+#+TITLE: Neh 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 09:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Neh 12.html
+
+<<verses>>
+
+<<v1>>
+* Die Listen von Priester- und Levitenfamilien: 12,1-26
+
+1 Folgende Priester und Leviten kamen herauf, zusammen mit Serubbabel,
+dem Sohn Schealtiëls, und Jeschua: Seraja, Jirmeja, Esra,
+
+<<v2>>
+2 Amarja, Malluch, Hattusch,
+
+<<v3>>
+3 Schechanja, Harim, Meremot,
+
+<<v4>>
+4 Iddo, Ginneton, Abija,
+
+<<v5>>
+5 Mijamin, Maadja, Bilga,
+
+<<v6>>
+6 Schemaja, Jojarib, Jedaja,
+
+<<v7>>
+7 Sallu, Amok, Hilkija und Jedaja. Das waren die Oberhäupter der
+Priester zur Zeit Jeschuas. Ferner ihre Brüder,
+
+<<v8>>
+8 die Leviten: Jeschua, Binnui, Kadmiël, Scherebja, Juda und Mattanja;
+ihm und seinen Brüdern oblag der Lobgesang.
+
+<<v9>>
+9 Ihnen gegenüber standen Bakbukja und Unni und ihre Brüder, so wie sie
+für den Dienst eingeteilt waren.
+
+<<v10>>
+10 Jeschua zeugte Jojakim, Jojakim zeugte Eljaschib und Eljaschib
+Jojada;
+
+<<v11>>
+11 Jojada zeugte Jonatan und Jonatan zeugte Jaddua.
+
+<<v12>>
+12 In der Zeit Jojakims waren folgende Priester die Oberhäupter ihrer
+Familien: Meraja in der Familie Seraja, Hananja in der Familie Jirmeja,
+
+<<v13>>
+13 Meschullam in der Familie Esra, Johanan in der Familie Amarja,
+
+<<v14>>
+14 Jonatan in der Familie Malluch, Josef in der Familie Schebanja,
+
+<<v15>>
+15 Adna in der Familie Harim, Helkai in der Familie Meremot,
+
+<<v16>>
+16 Secharja in der Familie Iddo, Meschullam in der Familie Ginneton,
+
+<<v17>>
+17 Sichri in der Familie Abija, . . . in der Familie Mijamin, Piltai in
+der Familie Maadja, [fn:1]
+
+<<v18>>
+18 Schammua in der Familie Bilga, Jonatan in der Familie Schemaja,
+
+<<v19>>
+19 Mattenai in der Familie Jojarib, Usi in der Familie Jedaja,
+
+<<v20>>
+20 Kallai in der Familie Sallu, Eber in der Familie Amok,
+
+<<v21>>
+21 Haschabja in der Familie Hilkija, Netanel in der Familie Jedaja.
+
+<<v22>>
+22 Die Oberhäupter der levitischen Priesterfamilien in der Zeit
+Eljaschibs, Jojadas, Johanans und Jadduas sind in der Chronik
+verzeichnet bis zur Regierung des Persers Darius.
+
+<<v23>>
+23 Von den Leviten sind die Oberhäupter der Familien in der Chronik
+verzeichnet bis zur Zeit Johanans, des Sohnes Eljaschibs.
+
+<<v24>>
+24 Die Oberhäupter der Leviten waren: Haschabja, Scherebja, Jeschua,
+Binnui, Kadmiël und ihre Brüder, die ihnen beim Lob- und Dankgesang
+gegenüberstanden, Abteilung für Abteilung, nach der Vorschrift des
+Gottesmannes David,
+
+<<v25>>
+25 nämlich Mattanja, Bakbukja und Obadja. Meschullam, Talmon und Akkub
+hielten als Torwächter die Wache an den Vorratskammern der Tore.
+
+<<v26>>
+26 Diese Leviten waren im Amt zur Zeit Jojakims, des Sohnes Jeschuas,
+des Sohnes Jozadaks, und zur Zeit des Statthalters Nehemia und des
+Priesters und Schriftgelehrten Esra.\\
+\\
+
+<<v27>>
+* Die Einweihung der Mauer: 12,27-43
+
+27 Bei der Einweihung der Mauer Jerusalems holte man die Leviten aus
+allen ihren Wohnsitzen nach Jerusalem, um mit frohen Lobgesängen und mit
+der Musik von Zimbeln, Harfen und Zithern die Einweihung zu vollziehen. [fn:2]
+
+<<v28>>
+28 Da fanden sich die Sänger aus dem Umkreis von Jerusalem ein und aus
+den Gehöften der Leute von Netofa,
+
+<<v29>>
+29 aus Bet-Gilgal und den Gemarkungen von Geba und Asmawet; die Sänger
+hatten sich nämlich rings um Jerusalem Gehöfte gebaut.
+
+<<v30>>
+30 Die Priester und Leviten reinigten sich selbst; sie reinigten auch
+das Volk, die Tore und die Mauer. [fn:3]
+
+<<v31>>
+31 Dann ließ ich die Vorsteher von Juda auf die Mauer steigen und
+stellte zwei große Festchöre auf. Der eine zog oben auf der Mauer nach
+rechts dem Aschentor zu. [fn:4]
+
+<<v32>>
+32 Ihm folgte Hoschaja mit der einen Hälfte der Vorsteher von Juda.
+
+<<v33>>
+33 Dann kamen Asarja, Esra, Meschullam,
+
+<<v34>>
+34 Juda, Benjamin, Schemaja und Jirmeja;
+
+<<v35>>
+35 sie waren Priester und bliesen die Trompeten. Dann kamen Secharja,
+der Sohn Jonatans, des Sohnes Schemajas, des Sohnes Mattanjas, des
+Sohnes Michajas, des Sohnes Sakkurs, des Sohnes Asafs,
+
+<<v36>>
+36 und seine Brüder Schemaja, Asarel, Milalai, Gilalai, Maai, Netanel,
+Juda und Hanani mit den Musikinstrumenten des Gottesmannes David. Vor
+ihnen her schritt Esra, der Schriftgelehrte. [fn:5]
+
+<<v37>>
+37 Sie zogen zum Quelltor, stiegen dann geradeaus die Stufen zur
+Davidstadt und den Aufgang zur Mauer hinauf und kamen am Palast Davids
+entlang zum Wassertor im Osten.
+
+<<v38>>
+38 Der zweite Festchor ging nach links - ihm folgte ich mit der andern
+Hälfte des Volkes -, oben auf der Mauer am Ofenturm vorbei zur Breiten
+Mauer,
+
+<<v39>>
+39 dann über das Efraimtor, das Jeschanator und das Fischtor, am Turm
+Hananel und am Tor der Hundert vorbei zum Schaftor; er machte Halt am
+Wachtor.
+
+<<v40>>
+40 Dann stellten sich die beiden Festchöre im Hof des Hauses Gottes auf,
+auch ich und die Hälfte der Beamten, die bei mir waren,
+
+<<v41>>
+41 sowie die Priester Eljakim, Maaseja, Mijamin, Michaja, Eljoënai,
+Secharja und Hananja mit den Trompeten
+
+<<v42>>
+42 und (die Leviten) Maaseja, Schemaja, Eleasar, Usi, Johanan, Malkija,
+Elam und Eser. Nun ließen sich die Sänger hören; ihr Leiter war
+Jisrachja.
+
+<<v43>>
+43 An diesem Tag brachte man große Schlachtopfer dar und alle freuten
+sich; denn Gott hatte ihnen eine große Freude bereitet. Auch die Frauen
+und Kinder waren fröhlich und der Jubel in Jerusalem war weithin zu
+hören. [fn:6]\\
+\\
+
+<<v44>>
+* Die Ordnung der heiligen Abgaben: 12,44-47
+
+44 In jener Zeit wurden Männer bestellt zur Aufsicht über die Kammern,
+die für die Vorräte, Abgaben, Erstlingsfrüchte und Zehnten bestimmt
+waren. In diesen Kammern sammelte man von den Feldern der einzelnen
+Städte die Anteile, die den Priestern und Leviten gesetzlich zukamen.
+Denn die Juden waren den Priestern und Leviten, die im Dienst standen,
+wohlgesinnt. [fn:7]
+
+<<v45>>
+45 Sie versahen den Dienst (im Haus) ihres Gottes und vollzogen die
+Reinigungsriten; auch die Sänger und Torwächter taten Dienst nach den
+Vorschriften Davids und seines Sohnes Salomo. [fn:8]
+
+<<v46>>
+46 Denn schon früher, in der Zeit Davids und Asafs, gab es Vorsteher der
+Sänger, die zur Ehre Gottes Lob- und Danklieder vortrugen.
+
+<<v47>>
+47 Zur Zeit Serubbabels und zur Zeit Nehemias lieferte ganz Israel die
+Anteile für die Sänger und Torwächter ab, je nachdem es der tägliche
+Bedarf erforderte. Man gab den Leviten einen heiligen Anteil und die
+Leviten gaben davon den Söhnen Aarons einen heiligen Anteil.\\
+\\
+
+* Footnotes
+
+[fn:1] Der Name des Oberhaupts der Familie Mijamin ist ausgefallen.
+
+[fn:2] [[file:Esra_3.org::v10][Esra 3,10]]
+
+[fn:3] [[file:Esra_6.org::v20][Esra 6,20]]
+
+[fn:4] [[file:Esra_2.org::v13][2,13]]-[[file:Esra_2.org::v15][15]]; [[file:Esra_3.org::v1][3,1]]-[[file:Esra_3.org::v3][3]]
+
+[fn:5] [[file:2.Chr_29.org::v25][2 Chr 29,25]]-[[file:Esra_3.org::v27][27]]
+
+[fn:6] [[file:Esra_6.org::v17][Esra 6,17]]
+
+[fn:7] [[file:Neh_10.org::v39][10,39f]]; [[file:Neh_13.org::v10][13,10]]-[[file:Neh_13.org::v18][18]]
+
+[fn:8] [[file:1.Chr_16.org::v4][1 Chr 16,4f]]

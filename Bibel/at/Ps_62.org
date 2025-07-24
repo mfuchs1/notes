@@ -1,0 +1,112 @@
+#+TITLE: Ps 62 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-06-03 Mo 10:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 62.html
+
+* Ps 62
+
+<<verses>>
+
+<<v1>>
+* Vertrauen auf Gottes Macht und Huld
+
+1 [Für den Chormeister. Nach Jedutun. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Bei Gott allein kommt meine Seele zur Ruhe, /\\
+ von ihm kommt mir Hilfe. [fn:1]\\
+\\
+
+<<v3>>
+3 Nur er ist mein Fels, meine Hilfe, meine Burg; /\\
+ darum werde ich nicht wanken. [fn:2]\\
+\\
+
+<<v4>>
+4 Wie lange rennt ihr an gegen einen Einzigen, /\\
+ stürmt alle heran wie gegen eine fallende Wand, /\\
+ wie gegen eine Mauer, die einstürzt?\\
+\\
+
+<<v5>>
+5 Ja, sie planen, ihn von seiner Höhe zu stürzen; /\\
+ Lügen ist ihre Lust. Sie segnen mit ihrem Mund, /\\
+ doch in ihrem Herzen fluchen sie. [Sela] [fn:3]\\
+\\
+
+<<v6>>
+6 Bei Gott allein kommt meine Seele zur Ruhe; /\\
+ denn von ihm kommt meine Hoffnung. [fn:4]\\
+\\
+
+<<v7>>
+7 Nur er ist mein Fels, meine Hilfe, meine Burg; /\\
+ darum werde ich nicht wanken.\\
+\\
+
+<<v8>>
+8 Bei Gott ist mein Heil, meine Ehre; /\\
+ Gott ist mein schützender Fels, meine Zuflucht. [fn:5] [fn:6]\\
+\\
+
+<<v9>>
+9 Vertrau ihm, Volk (Gottes), zu jeder Zeit! /\\
+ Schüttet euer Herz vor ihm aus! /\\
+ Denn Gott ist unsere Zuflucht. [Sela] [fn:7]\\
+\\
+
+<<v10>>
+10 Nur ein Hauch sind die Menschen, /\\
+ die Leute nur Lug und Trug. Auf der Waage schnellen sie empor, /\\
+ leichter als ein Hauch sind sie alle. [fn:8]\\
+\\
+
+<<v11>>
+11 Vertraut nicht auf Gewalt, /\\
+ verlasst euch nicht auf Raub! Wenn der Reichtum auch wächst, /\\
+ so verliert doch nicht euer Herz an ihn! [fn:9]\\
+\\
+
+<<v12>>
+12 Eines hat Gott gesagt, /\\
+ zweierlei habe ich gehört: Bei Gott ist die Macht; / [fn:10]\\
+\\
+
+<<v13>>
+13 Herr, bei dir ist die Huld. Denn du wirst jedem vergelten, /\\
+ wie es seine Taten verdienen. [fn:11]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_37.org::v7][37,7]]; [[file:Jes_30.org::v15][Jes 30,15]]
+
+[fn:2] Text korr. (vgl. V. 7b).
+
+[fn:3] [[file:Ps_28.org::v3][28,3]]
+
+[fn:4] [[file:Ps_42.org::v6][42,6]]; [[file:Mi_7.org::v7][Mi 7,7]]
+
+[fn:5] [[file:Ps_3.org::v4][3,4]]; [[file:Ps_92.org::v16][92,16]]
+
+[fn:6] Gott, wörtlich: bei Gott.
+
+[fn:7] [[file:Jes_26.org::v4][Jes 26,4]]
+
+[fn:8] [[file:Ps_39.org::v6][39,6f]]; [[file:Jes_40.org::v15][Jes 40,15]]
+
+[fn:9] [[file:~/RoamNotes/notes/Bibel/nt/Mt_19.org::v22][Mt 19,22]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_12.org::v15][Lk 12,15-21]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Tim_6.org::v17][1 Tim 6,17]]
+
+[fn:10] [[file:Ijob_40.org::v5][Ijob 40,5]]
+
+[fn:11] [[file:Ps_28.org::v4][28,4]]; [[file:Ps_31.org::v24][31,24]]; [[file:Ps_91.org::v8][91,8]]; [[file:Ps_94.org::v2][94,2]].[[file:Ps_94.org::v23][23]]; [[file:2.Sam_3.org::v39][2 Sam 3,39]]; [[file:Ijob_34.org::v11][Ijob 34,11]];
+[[file:Klgl_3.org::v64][Klgl 3,64]]; [[file:Jer_50.org::v29][Jer 50,29]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_2.org::v6][Röm 2,6]]; [[file:~/RoamNotes/notes/Bibel/nt/2.Tim_4.org::v14][2 Tim 4,14]]

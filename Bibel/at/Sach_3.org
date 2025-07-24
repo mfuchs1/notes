@@ -1,0 +1,80 @@
+:PROPERTIES:
+:ID:       cf057671-9fd7-47fa-acb3-5766c6bc4f50
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Sacharja* -- [[file:Sach_1.html][1]]
+[[file:Sach_2.html][2]] *3* [[file:Sach_4.html][4]]
+[[file:Sach_5.html][5]] ... [[file:Sach_14.html][14]]
+
+--------------
+
+* Sach 3
+  :PROPERTIES:
+  :CUSTOM_ID: sach-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die vierte Vision: Der Priesterdienst in der messianischen Zeit:
+3,1-10
+     :PROPERTIES:
+     :CUSTOM_ID: die-vierte-vision-der-priesterdienst-in-der-messianischen-zeit-31-10
+     :END:
+1 Danach ließ er mich den Hohenpriester Jeschua sehen, der vor dem Engel
+des Herrn stand. Der Satan aber stand rechts von Jeschua, um ihn
+anzuklagen. ^{[[#fn1][1]]}
+
+<<v2>>
+2 Der Engel des Herrn sagte zum Satan: Der Herr weise dich in die
+Schranken, Satan; ja, der Herr, der Jerusalem auserwählt hat, weise dich
+in die Schranken. Ist dieser Mann nicht ein Holzscheit, das man aus dem
+Feuer gerissen hat? ^{[[#fn2][2]]}
+
+<<v3>>
+3 Jeschua hatte nämlich schmutzige Kleider an, als er vor dem Engel
+stand.
+
+<<v4>>
+4 Der Engel wandte sich an seine Diener und befahl: Zieht ihm die
+schmutzigen Kleider aus! Zu ihm aber sagte er: Hiermit nehme ich deine
+Schuld von dir und bekleide dich mit festlichen Gewändern.
+
+<<v5>>
+5 Und ich befehle: Man soll ihm einen reinen Turban aufsetzen. Da
+setzten sie ihm den reinen Turban auf und bekleideten ihn mit
+Festgewändern und der Engel des Herrn stand dabei.
+
+<<v6>>
+6 Der Engel des Herrn versicherte Jeschua:
+
+<<v7>>
+7 So spricht der Herr der Heere: Wenn du auf meinen Wegen gehst und wenn
+du meine Ordnung einhältst, dann wirst du es sein, der mein Haus regiert
+und meine Vorhöfe verwaltet, und ich gebe dir Zutritt zu meinen Dienern
+hier.
+
+<<v8>>
+8 Höre, Hoherpriester Jeschua: Du und deine Gefährten, die vor dir
+sitzen, ihr seid Männer, die Wahrzeichen sind. Denn siehe, ich will
+meinen Knecht kommen lassen, den Spross. ^{[[#fn3][3]]}
+
+<<v9>>
+9 Denn der Stein, den ich vor Jeschua hingelegt habe - auf diesem einen
+Stein sind sieben Augen. Ich ritze in ihn eine Inschrift ein Spruch des
+Herrn der Heere - und ich tilge die Schuld dieses Landes an einem
+einzigen Tag. ^{[[#fn4][4]]}
+
+<<v10>>
+10 An jenem Tag - Spruch des Herrn der Heere - werdet ihr einander
+einladen unter Weinstock und Feigenbaum.\\
+\\
+
+^{[[#fnm1][1]]} Zum Namen Jeschua vgl. die Anmerkung zu Hag 1,1.
+
+^{[[#fnm2][2]]} ℘ Jud 9
+
+^{[[#fnm3][3]]} ℘ Jes 8,18; Sach 6,12; Jer 23,5; 33,15
+
+^{[[#fnm4][4]]} ℘ 4,10; Ex 28,9-11; 39,6f; Offb 2,17

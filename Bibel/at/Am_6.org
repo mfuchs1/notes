@@ -1,0 +1,142 @@
+:PROPERTIES:
+:ID:       230780a9-955d-4bab-a5e5-41d99c4524ca
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Amos* -- [[file:Am_1.html][1]] ...
+[[file:Am_4.html][4]] [[file:Am_5.html][5]] *6* [[file:Am_7.html][7]]
+[[file:Am_8.html][8]] [[file:Am_9.html][9]]
+
+--------------
+
+* Am 6
+  :PROPERTIES:
+  :CUSTOM_ID: am-6
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die leichtlebige Oberschicht: 6,1-14
+     :PROPERTIES:
+     :CUSTOM_ID: die-leichtlebige-oberschicht-61-14
+     :END:
+1 Weh den Sorglosen auf dem Zion /\\
+ und den Selbstsicheren auf dem Berg von Samaria. Weh den Vornehmen des
+Ersten unter den Völkern. /\\
+ [ Weh denen, bei denen sich die Israeliten versammeln.]
+^{[[#fn1][1]][[#fn2][2]]}\\
+\\
+
+<<v2>>
+2 Zieht hinüber nach Kalne und seht euch dort um! /\\
+ Geht von da nach Hamat, in die große Stadt, /\\
+ und steigt hinunter nach Gat, ins Land der Philister! Seid ihr besser
+als diese Reiche? /\\
+ Ist euer Gebiet größer als ihr Gebiet? ^{[[#fn3][3]]}\\
+\\
+
+<<v3>>
+3 Ihr, die ihr den Tag des Unheils hinausschieben wollt, /\\
+ führt die Herrschaft der Gewalt herbei. ^{[[#fn4][4]]}\\
+\\
+
+<<v4>>
+4 Ihr liegt auf Betten aus Elfenbein /\\
+ und faulenzt auf euren Polstern. Zum Essen holt ihr euch Lämmer aus der
+Herde /\\
+ und Mastkälber aus dem Stall.\\
+\\
+
+<<v5>>
+5 Ihr grölt zum Klang der Harfe, /\\
+ ihr wollt Lieder erfinden wie David. ^{[[#fn5][5]]}\\
+\\
+
+<<v6>>
+6 Ihr trinkt den Wein aus großen Humpen, /\\
+ ihr salbt euch mit dem feinsten Öl /\\
+ und sorgt euch nicht über den Untergang Josefs. ^{[[#fn6][6]]}\\
+\\
+
+<<v7>>
+7 Darum müssen sie jetzt in die Verbannung, /\\
+ allen Verbannten voran. /\\
+ Das Fest der Faulenzer ist nun vorbei.\\
+\\
+
+<<v8>>
+8 Gott, der Herr, hat bei sich selbst geschworen - /\\
+ Spruch des Herrn, des Gottes der Heere: Ich verabscheue Jakobs Stolz
+/\\
+ und hasse seine Paläste; die Stadt und alles, was in ihr ist, /\\
+ gebe ich preis. ^{[[#fn7][7]]}\\
+\\
+
+<<v9>>
+9 Wenn dann in einem einzigen Haus noch zehn Menschen übrig sind, /\\
+ müssen auch sie sterben.\\
+\\
+
+<<v10>>
+10 Und hebt ein Verwandter oder der Leichenbestatter einen Toten auf,
+/\\
+ um die Gebeine aus dem Haus zu schaffen, und fragt er den, /\\
+ der im hintersten Winkel des Hauses sitzt: Ist noch jemand bei dir?,
+/\\
+ dann antwortet dieser: Nein!, und sagt: /\\
+ Still! Sprich ja nicht den Namen des Herrn aus!
+^{[[#fn8][8]][[#fn9][9]]}\\
+\\
+
+<<v11>>
+11 Denn der Herr befiehlt /\\
+ und man schlägt das große Haus in Trümmer /\\
+ und das kleine in Stücke.\\
+\\
+
+<<v12>>
+12 Rennen denn Pferde über die Felsen, /\\
+ oder pflügt man mit Ochsen das Meer? Ihr aber habt das Recht in Gift
+verwandelt /\\
+ und die Frucht der Gerechtigkeit in bitteren Wermut.\\
+\\
+
+<<v13>>
+13 Ihr jubelt über (die Eroberung von) Lo-Dabar und sagt: /\\
+ Haben wir nicht aus eigener Kraft Karnajim erobert?
+^{[[#fn10][10]][[#fn11][11]]}\\
+\\
+
+<<v14>>
+14 Doch seht, ihr vom Haus Israel, /\\
+ ich schicke ein Volk gegen euch, /\\
+ das euch quälen wird von Lebo-Hamat bis zum Bach der Araba-Steppe - /\\
+ Spruch des Herrn, des Gottes der Heere. ^{[[#fn12][12]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Lk 6,24
+
+^{[[#fnm2][2]]} 1d: Text unklar.
+
+^{[[#fnm3][3]]} Kalne ist die Hauptstadt eines nordsyrischen Staates,
+Hamat eine Aramäerhauptstadt am Orontes.
+
+^{[[#fnm4][4]]} ℘ 9,10; Ez 12,27
+
+^{[[#fnm5][5]]} ℘ Jes 5,12
+
+^{[[#fnm6][6]]} «Josef» ist hier Bezeichnung für das Nordreich Israel.
+
+^{[[#fnm7][7]]} ℘ 4,2
+
+^{[[#fnm8][8]]} ℘ Hab 2,20; Sach 2,17
+
+^{[[#fnm9][9]]} Text nicht ganz klar. Der Versschluss bezeugt die Angst
+vor der Todesgefahr, die von Gott ausgeht.
+
+^{[[#fnm10][10]]} ℘ Dtn 8,17
+
+^{[[#fnm11][11]]} Lo-Dabar und Karnajim sind Städte im Ostjordanland.
+
+^{[[#fnm12][12]]} 14d: Nord- und Südgrenze Israels.

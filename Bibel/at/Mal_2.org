@@ -1,0 +1,177 @@
+:PROPERTIES:
+:ID:       f999cf39-b149-4a13-84ab-2b5c5f7b3655
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Maleachi* -- [[file:Mal_1.html][1]]
+*2* [[file:Mal_3.html][3]]
+
+--------------
+
+* Mal 2
+  :PROPERTIES:
+  :CUSTOM_ID: mal-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Drohwort gegen die Priester: 2,1-9
+   :PROPERTIES:
+   :CUSTOM_ID: drohwort-gegen-die-priester-21-9
+   :END:
+1 Jetzt ergeht über euch dieser Beschluss, ihr Priester:\\
+\\
+
+<<v2>>
+2 Wenn ihr nicht hört /\\
+ und nicht von Herzen darauf bedacht seid, meinen Namen in Ehren zu
+halten /\\
+ - spricht der Herr der Heere -, dann schleudere ich meinen Fluch gegen
+euch /\\
+ und verfluche den Segen, der auf euch ruht, ja, ich verfluche ihn, /\\
+ weil ihr nicht von Herzen darauf bedacht seid. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Seht, ich schlage euch den Arm ab /\\
+ und werfe euch Unrat ins Gesicht, den Unrat eurer Feste, /\\
+ und man wird euch zu ihm hinausschaffen. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Dann werdet ihr erkennen, dass ich es bin, /\\
+ der diesen Beschluss über euch ergehen ließ, weil ich einen Bund mit
+Levi habe, /\\
+ spricht der Herr der Heere. ^{[[#fn3][3]]}\\
+\\
+
+<<v5>>
+5 Mein Bund bedeutete für ihn Leben und Heil; /\\
+ beides gab ich ihm, dazu die Furcht: Er sollte mich fürchten /\\
+ und vor meinem Namen erschrecken. ^{[[#fn4][4]]}\\
+\\
+
+<<v6>>
+6 Zuverlässige Belehrung kam aus seinem Mund, /\\
+ nichts Verkehrtes fand sich auf seinen Lippen, in Frieden und
+Aufrichtigkeit ging er mit mir seinen Weg /\\
+ und viele hielt er davon ab, schuldig zu werden. ^{[[#fn5][5]]}\\
+\\
+
+<<v7>>
+7 Denn die Lippen des Priesters bewahren die Erkenntnis /\\
+ und aus seinem Mund erwartet man Belehrung; /\\
+ denn er ist der Bote des Herrn der Heere. ^{[[#fn6][6]]}\\
+\\
+
+<<v8>>
+8 Ihr aber, ihr seid abgewichen vom Weg /\\
+ und habt viele zu Fall gebracht durch eure Belehrung; ihr habt den Bund
+Levis zunichte gemacht, /\\
+ spricht der Herr der Heere. ^{[[#fn7][7]]}\\
+\\
+
+<<v9>>
+9 Darum mache ich euch verächtlich /\\
+ und erniedrige euch vor dem ganzen Volk, weil ihr euch nicht an meine
+Wege haltet /\\
+ und auf die Person seht bei der Belehrung. ^{[[#fn8][8]]}\\
+\\
+
+<<v10>>
+** Gegen Mischehe und Ehescheidung: 2,10-16
+   :PROPERTIES:
+   :CUSTOM_ID: gegen-mischehe-und-ehescheidung-210-16
+   :END:
+10 Haben wir nicht alle denselben Vater? /\\
+ Hat nicht der eine Gott uns alle erschaffen? Warum handeln wir dann
+treulos, /\\
+ einer gegen den andern, /\\
+ und entweihen den Bund unserer Väter? ^{[[#fn9][9]]}\\
+\\
+
+<<v11>>
+11 Treulos hat Juda gehandelt /\\
+ und Gräueltaten sind [in Israel und] in Jerusalem geschehen: Juda hat
+das Heiligtum des Herrn [das er liebt] entweiht /\\
+ und die Tochter eines fremden Gottes zur Frau genommen.\\
+\\
+
+<<v12>>
+12 Der Herr versage dem, der so handelt, /\\
+ einen, der für ihn zeugt und für ihn spricht, in den Zelten Jakobs
+einen, /\\
+ der dem Herrn der Heere Opfer darbringt. ^{[[#fn10][10]]}\\
+\\
+
+<<v13>>
+13 Außerdem bedeckt ihr den Altar des Herrn mit Tränen, /\\
+ ihr weint und klagt, weil er sich eurem Opfer nicht mehr zuwendet /\\
+ und es nicht mehr gnädig annimmt aus eurer Hand.\\
+\\
+
+<<v14>>
+14 Und wenn ihr fragt: Warum?: /\\
+ Weil der Herr Zeuge war zwischen dir und der Frau deiner Jugend, /\\
+ an der du treulos handelst, obwohl sie deine Gefährtin ist, /\\
+ die Frau, mit der du einen Bund geschlossen hast.\\
+\\
+
+<<v15>>
+15 Hat er nicht eine Einheit geschaffen, /\\
+ ein lebendiges Wesen? Was ist das Ziel dieser Einheit? /\\
+ Nachkommen von Gott. Nehmt euch also um eures Lebens willen in Acht!
+/\\
+ Handle nicht treulos an der Frau deiner Jugend!
+^{[[#fn11][11]][[#fn12][12]]}\\
+\\
+
+<<v16>>
+16 Wenn einer seine Frau aus Abneigung verstößt, /\\
+ [spricht der Herr, Israels Gott,] dann befleckt er sich mit einer
+Gewalttat, /\\
+ spricht der Herr der Heere. Nehmt euch also um eures Lebens willen in
+Acht /\\
+ und handelt nicht treulos! ^{[[#fn13][13]]}\\
+\\
+
+<<v17>>
+** Gottes Erscheinen zum Gericht: 2,17 - 3,12
+   :PROPERTIES:
+   :CUSTOM_ID: gottes-erscheinen-zum-gericht-217---312
+   :END:
+17 Ihr ermüdet den Herrn mit euren Reden /\\
+ und ihr fragt: Wodurch ermüden wir ihn? Dadurch, dass ihr sagt: /\\
+ Jeder, der Böses tut, /\\
+ ist gut in den Augen des Herrn, an solchen Leuten hat er Gefallen. /\\
+ Oder auch: Wo ist denn Gott, der Gericht hält?\\
+\\
+
+^{[[#fnm1][1]]} ℘ Dtn 28,15
+
+^{[[#fnm2][2]]} 3d: H unklar.
+
+^{[[#fnm3][3]]} ℘ Dtn 18,1-8
+
+^{[[#fnm4][4]]} H unklar.
+
+^{[[#fnm5][5]]} ℘ Dtn 21,5
+
+^{[[#fnm6][6]]} ℘ Hos 4,1-6
+
+^{[[#fnm7][7]]} ℘ Mt 23,13-15
+
+^{[[#fnm8][8]]} H unklar.
+
+^{[[#fnm9][9]]} ℘ Eph 4,4-6
+
+^{[[#fnm10][10]]} 12c: So nach G.
+
+^{[[#fnm11][11]]} ℘ Gen 2,24; Mt 5,31f; Eph 5,24-32
+
+^{[[#fnm12][12]]} H schwer verständlich; G: Ihr aber sagt: Was anderes
+als Nachkommen sucht Gott?
+
+^{[[#fnm13][13]]} 16c: Wörtlich: bedeckt er sein Gewand mit einer
+Gewalttat.

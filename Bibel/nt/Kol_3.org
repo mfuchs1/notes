@@ -1,0 +1,161 @@
+:PROPERTIES:
+:ID:       0e338944-261d-489d-adb7-dac0c6afadc7
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Kolosser* --
+[[file:Kol_1.html][1]] [[file:Kol_2.html][2]] *3* [[file:Kol_4.html][4]]
+
+--------------
+
+* Kol 3
+  :PROPERTIES:
+  :CUSTOM_ID: kol-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Worte der Mahnung an die Getauften: 3,1 - 4,6
+   :PROPERTIES:
+   :CUSTOM_ID: worte-der-mahnung-an-die-getauften-31---46
+   :END:
+**** Der alte und der neue Mensch: 3,1-17
+     :PROPERTIES:
+     :CUSTOM_ID: der-alte-und-der-neue-mensch-31-17
+     :END:
+1 Ihr seid mit Christus auferweckt; darum strebt nach dem, was im Himmel
+ist, wo Christus /zur Rechten Gottes sitzt./ ^{[[#fn1][1]]}
+
+<<v2>>
+2 Richtet euren Sinn auf das Himmlische und nicht auf das Irdische!
+
+<<v3>>
+3 Denn ihr seid gestorben und euer Leben ist mit Christus verborgen in
+Gott.
+
+<<v4>>
+4 Wenn Christus, unser Leben, offenbar wird, dann werdet auch ihr mit
+ihm offenbar werden in Herrlichkeit.
+
+<<v5>>
+5 Darum tötet, was irdisch an euch ist: die Unzucht, die Schamlosigkeit,
+die Leidenschaft, die bösen Begierden und die Habsucht, die ein
+Götzendienst ist. ^{[[#fn2][2]]}
+
+<<v6>>
+6 All das zieht den Zorn Gottes nach sich. ^{[[#fn3][3]]}
+
+<<v7>>
+7 Früher seid auch ihr darin gefangen gewesen und habt euer Leben davon
+beherrschen lassen.
+
+<<v8>>
+8 Jetzt aber sollt ihr das alles ablegen: Zorn, Wut und Bosheit; auch
+Lästerungen und Zoten sollen nicht mehr über eure Lippen kommen.
+^{[[#fn4][4]]}
+
+<<v9>>
+9 Belügt einander nicht; denn ihr habt den alten Menschen mit seinen
+Taten abgelegt ^{[[#fn5][5]]}
+
+<<v10>>
+10 und seid zu einem neuen Menschen geworden, der nach dem Bild seines
+Schöpfers erneuert wird, um ihn zu erkennen. ^{[[#fn6][6]]}
+
+<<v11>>
+11 Wo das geschieht, gibt es nicht mehr Griechen oder Juden,
+Beschnittene oder Unbeschnittene, Fremde, Skythen, Sklaven oder Freie,
+sondern Christus ist alles und in allen. ^{[[#fn7][7]]}
+
+<<v12>>
+12 Ihr seid von Gott geliebt, seid seine auserwählten Heiligen. Darum
+bekleidet euch mit aufrichtigem Erbarmen, mit Güte, Demut, Milde,
+Geduld! ^{[[#fn8][8]]}
+
+<<v13>>
+13 Ertragt euch gegenseitig und vergebt einander, wenn einer dem andern
+etwas vorzuwerfen hat. Wie der Herr euch vergeben hat, so vergebt auch
+ihr!
+
+<<v14>>
+14 Vor allem aber liebt einander, denn die Liebe ist das Band, das alles
+zusammenhält und vollkommen macht. ^{[[#fn9][9]]}
+
+<<v15>>
+15 In eurem Herzen herrsche der Friede Christi; dazu seid ihr berufen
+als Glieder des einen Leibes. Seid dankbar! ^{[[#fn10][10]]}
+
+<<v16>>
+16 Das Wort Christi wohne mit seinem ganzen Reichtum bei euch. Belehrt
+und ermahnt einander in aller Weisheit! Singt Gott in eurem Herzen
+Psalmen, Hymnen und Lieder, wie sie der Geist eingibt, denn ihr seid in
+Gottes Gnade. ^{[[#fn11][11]]}
+
+<<v17>>
+17 Alles, was ihr in Worten und Werken tut, geschehe im Namen Jesu, des
+Herrn. Durch ihn dankt Gott, dem Vater!\\
+\\
+
+<<v18>>
+**** Christliche Hausordnung: 3,18 - 4,1
+     :PROPERTIES:
+     :CUSTOM_ID: christliche-hausordnung-318---41
+     :END:
+18 Ihr Frauen, ordnet euch euren Männern unter, wie es sich im Herrn
+geziemt. ^{[[#fn12][12]]}
+
+<<v19>>
+19 Ihr Männer, liebt eure Frauen und seid nicht aufgebracht gegen sie!
+
+<<v20>>
+20 Ihr Kinder, gehorcht euren Eltern in allem; denn so ist es gut und
+recht im Herrn.
+
+<<v21>>
+21 Ihr Väter, schüchtert eure Kinder nicht ein, damit sie nicht mutlos
+werden.
+
+<<v22>>
+22 Ihr Sklaven, gehorcht euren irdischen Herren in allem! Arbeitet nicht
+nur, um euch bei den Menschen einzuschmeicheln und ihnen zu gefallen,
+sondern fürchtet den Herrn mit aufrichtigem Herzen!
+
+<<v23>>
+23 Tut eure Arbeit gern, als wäre sie für den Herrn und nicht für
+Menschen;
+
+<<v24>>
+24 ihr wisst, dass ihr vom Herrn euer Erbe als Lohn empfangen werdet.
+Dient Christus, dem Herrn!
+
+<<v25>>
+25 Wer Unrecht tut, wird dafür seine Strafe erhalten, ohne Ansehen der
+Person. ^{[[#fn13][13]]}
+
+^{[[#fnm1][1]]} ℘ Eph 2,6; Ps 110,1
+
+^{[[#fnm2][2]]} ℘ Mt 15,19; Röm 1,29f; Gal 5,19f
+
+^{[[#fnm3][3]]} Nach anderen Textzeugen: Wegen all dem kommt der Zorn
+Gottes über die Ungehorsamen; vgl. Eph 5,6.
+
+^{[[#fnm4][4]]} ℘ Eph 4,31
+
+^{[[#fnm5][5]]} ℘ Eph 4,22-24
+
+^{[[#fnm6][6]]} ℘ Gen 1,26f
+
+^{[[#fnm7][7]]} ℘ Gal 3,28
+
+^{[[#fnm8][8]]} ℘ Eph 4,32
+
+^{[[#fnm9][9]]} ℘ Eph 4,3f
+
+^{[[#fnm10][10]]} ℘ Röm 12,5
+
+^{[[#fnm11][11]]} ℘ Eph 5,19
+
+^{[[#fnm12][12]]} ℘ (18-4,1) Eph 5,22 - 6,9; 1 Petr 2,18 - 3,7
+
+^{[[#fnm13][13]]} ℘ Röm 2,11

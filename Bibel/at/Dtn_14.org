@@ -1,0 +1,188 @@
+#+TITLE: Dtn 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-29 So 16:31]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 14.html
+
+
+<<verses>>
+
+<<v1>>
+* Das Verbot kanaanäischer Trauerbräuche: 14,1-2
+
+1 Ihr seid Kinder des Herrn, eures Gottes. Ihr sollt euch für einen
+Toten nicht wund ritzen und keine Stirnglatzen scheren. [fn:1]
+
+<<v2>>
+2 Denn du bist ein Volk, das dem Herrn, deinem Gott, heilig ist, und
+dich hat der Herr ausgewählt, damit du unter allen Völkern, die auf der
+Erde leben, das Volk wirst, das ihm persönlich gehört. [fn:2]\\
+\\
+
+<<v3>>
+* Die Speiseverbote: 14,3-21a
+
+3 Du sollst nichts essen, was ein Gräuel ist. [fn:3]
+
+<<v4>>
+4 Dies sind die Großtiere, die ihr essen dürft: Rind, Lamm, Zicklein, [fn:4]
+
+<<v5>>
+5 Damhirsch, Gazelle, Rehbock, Wildziege, Wisent, Wildschaf und
+Steinbock.
+
+<<v6>>
+6 Ihr dürft jedes Großtier essen, das gespaltene Klauen hat, und zwar
+ganz gespaltene Klauen, und das zu den Wiederkäuern gehört.
+
+<<v7>>
+7 Von den Großtieren, die wiederkäuen oder ganz gespaltene Klauen haben,
+dürft ihr aber Folgende nicht essen: Kamel, Hase, Klippdachs. Sie sind
+zwar Wiederkäuer, haben aber keine gespaltenen Klauen. Sie sollen euch
+als unrein gelten.
+
+<<v8>>
+8 Ebenso das Wildschwein, denn es hat zwar gespaltene Klauen, ist aber
+kein Wiederkäuer. Es soll euch als unrein gelten. Vom Fleisch dieser
+Tiere dürft ihr nicht essen und ihr Aas dürft ihr nicht berühren. [fn:5]
+
+<<v9>>
+9 Von allem, was im Wasser lebt, dürft ihr Folgendes essen: Alles, was
+Flossen und Schuppen hat, dürft ihr essen.
+
+<<v10>>
+10 Alles, was keine Flossen und keine Schuppen hat, dürft ihr nicht
+essen. Es soll euch als unrein gelten.
+
+<<v11>>
+11 Alle reinen Vögel dürft ihr essen.
+
+<<v12>>
+12 Dies sind die Vögel, die ihr nicht essen dürft: Aasgeier,
+Schwarzgeier, Bartgeier,
+
+<<v13>>
+13 Milan, die verschiedenen Bussardarten,
+
+<<v14>>
+14 alle Arten des Raben,
+
+<<v15>>
+15 Adlereule, Kurzohreule, Langohreule und die verschiedenen
+Falkenarten,
+
+<<v16>>
+16 Kauz, Bienenfresser, Weißeule,
+
+<<v17>>
+17 Kleineule, Fischadler, Fischeule,
+
+<<v18>>
+18 Storch und die verschiedenen Reiherarten, Wiedehopf, Fledermaus
+
+<<v19>>
+19 und alles fliegende Kleingetier: Sie sollen euch als unrein gelten
+und dürfen nicht gegessen werden.
+
+<<v20>>
+20 Alle reinen geflügelten Tiere dürft ihr essen.
+
+<<v21a>>
+21a Ihr dürft keinerlei Aas essen. Du sollst es dem Fremden, der in
+euren Stadtbereichen Wohnrecht hat, zum Essen überlassen oder es einem
+Ausländer verkaufen. Denn du bist ein Volk, das dem Herrn, deinem Gott,
+heilig ist. [fn:6]\\
+\\
+
+<<v21b>>
+* Das Verbot eines Fruchtbarkeitszaubers: 14,21b
+
+21b Du sollst ein Zicklein nicht in der Milch seiner Mutter kochen. [fn:7]\\
+\\
+
+<<v22>>
+* Die jährlichen Abgaben an das Heiligtum: 14,22-27
+
+22 Du sollst jedes Jahr den Zehnten von der gesamten Ernte geben, die
+dein Acker erbringt aus dem, was du angebaut hast. [fn:8]
+
+<<v23>>
+23 Vor dem Herrn, deinem Gott, sollst du an der Stätte, die er auswählt,
+indem er dort seinen Namen wohnen lässt, deinen Zehnten an Korn, Wein
+und Öl und die Erstlinge deiner Rinder, Schafe und Ziegen verzehren,
+damit du lernst, den Herrn, deinen Gott, zu fürchten, solange du lebst. [fn:9]
+
+<<v24>>
+24 Wenn aber der Weg dorthin deine Kräfte übersteigt, weil die Stätte,
+die der Herr auswählt, indem er dort seinen Namen anbringt, so weit
+entfernt liegt und der Herr, dein Gott, dich so gesegnet hat, dass du
+den Zehnten nicht dorthin tragen kannst, [fn:10]
+
+<<v25>>
+25 dann sollst du alles für Silber verkaufen, das Silber als deinen
+Besitz zusammenbinden, zu der Stätte ziehen, die der Herr, dein Gott,
+auswählt,
+
+<<v26>>
+26 dort für das Silber alles kaufen, worauf du Appetit hast - Rinder,
+Schafe, Ziegen, Wein und Bier, alles, wonach es deinen Gaumen verlangt
+-, und dann sollst du vor dem Herrn, deinem Gott, Mahl halten und
+fröhlich sein, du und deine Familie.
+
+<<v27>>
+27 Auch sollst du die Leviten, die in deinen Stadtbereichen Wohnrecht
+haben, nicht im Stich lassen, denn sie haben nicht wie du Landanteil und
+Erbbesitz. [fn:11]\\
+\\
+
+<<v28>>
+* Der Zehnt für die Armen in jedem dritten Jahr: 14,28f
+
+28 In jedem dritten Jahr sollst du den ganzen Zehnten deiner Jahresernte
+in deinen Stadtbereichen abliefern und einlagern [fn:12] [fn:13]
+
+<<v29>>
+29 und die Leviten, die ja nicht wie du Landanteil und Erbbesitz haben,
+die Fremden, die Waisen und die Witwen, die in deinen Stadtbereichen
+wohnen, können kommen, essen und satt werden, damit der Herr, dein Gott,
+dich stets segnet bei der Arbeit, die deine Hände tun. [fn:14]\\
+\\
+
+* Footnotes
+
+[fn:1] (1-2) [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v45][Mt 5,45]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_6.org::v9][6,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_6.org::v35][Lk 6,35]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_11.org::v2][11,2]]
+
+[fn:2] [[file:Dtn_7.org::v6][7,6]]; [[file:Dtn_26.org::v18][26,18f]]; [[file:~/RoamNotes/notes/Bibel/nt/Tit_2.org::v14][Tit 2,14]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v9][1 Petr 2,9]]
+
+[fn:3] (3-21a) [[file:Lev_11.org::v1][Lev 11]]
+
+[fn:4] 4-18: Die Übersetzung der Tiernamen ist nicht immer
+sicher.
+
+[fn:5] 8.13: In beiden Versen liegt ein sehr früh verderbter
+Text vor; die Wiederherstellung ist unsicher.
+
+[fn:6] [[file:Ex_22.org::v30][Ex 22,30]]; [[file:Dtn_7.org::v6][7,6]]
+
+[fn:7] [[file:Ex_23.org::v19][Ex 23,19]]; [[file:Ex_34.org::v26][34,26]]
+
+[fn:8] (22-27) [[file:Dtn_12.org::v17][12,17-19]]
+
+[fn:9] [[file:Dtn_12.org::v11][12,11]]; [[file:Dtn_15.org::v19][15,19-23]]
+
+[fn:10] [[file:Dtn_12.org::v5][12,5]].[[file:Dtn_12.org::v21][21]]
+
+[fn:11] [[file:Dtn_10.org::v9][10,9]]
+
+[fn:12] (28-29) [[file:Dtn_26.org::v12][26,12-15]]
+
+[fn:13] Wahrscheinlich in jedem dritten Jahr nach einem
+Sabbatjahr; denn im Sabbatjahr gehörten alle Erträge den Armen (vgl. [[file:Ex_23.org::v11][Ex 23,11]]).
+
+[fn:14] [[file:Dtn_10.org::v9][10,9]]; [[file:Dtn_28.org::v12][28,12]]

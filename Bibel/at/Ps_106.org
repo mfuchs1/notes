@@ -1,0 +1,340 @@
+#+TITLE: Ps 106 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-15 Do 16:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 106.html
+
+* Ps 106
+
+<<verses>>
+
+<<v1>>
+* Gottes Güte - Israels Undank
+
+1 Halleluja! Danket dem Herrn; denn er ist gütig, /\\
+ denn seine Huld währt ewig. [fn:1]\\
+\\
+
+<<v2>>
+2 Wer kann die großen Taten des Herrn erzählen, /\\
+ all seinen Ruhm verkünden? [fn:2]\\
+\\
+
+<<v3>>
+3 Wohl denen, die das Recht bewahren /\\
+ und zu jeder Zeit tun, was gerecht ist. [fn:3]\\
+\\
+
+<<v4>>
+4 Denk an mich, Herr, aus Liebe zu deinem Volk, /\\
+ such mich auf und bring mir Hilfe!\\
+\\
+
+<<v5>>
+5 Lass mich das Glück deiner Erwählten schauen, /\\
+ an der Freude deines Volkes mich freuen, /\\
+ damit ich gemeinsam mit deinem Erbe mich rühmen kann.\\
+\\
+
+<<v6>>
+6 Wir haben zusammen mit unsern Vätern gesündigt, /\\
+ wir haben Unrecht getan und gefrevelt. [fn:4]\\
+\\
+
+<<v7>>
+7 Unsre Väter in Ägypten begriffen deine Wunder nicht, /\\
+ dachten nicht an deine reiche Huld /\\
+ und trotzten dem Höchsten am Schilfmeer. [fn:5] [fn:6]\\
+\\
+
+<<v8>>
+8 Er aber hat sie gerettet, um seinen Namen zu ehren /\\
+ und seine Macht zu bekunden. [fn:7]\\
+\\
+
+<<v9>>
+9 Er bedrohte das Schilfmeer, da wurde es trocken; /\\
+ wie durch eine Steppe führte er sie durch die Fluten. [fn:8]\\
+\\
+
+<<v10>>
+10 Er rettete sie aus der Hand derer, die sie hassten, /\\
+ erlöste sie aus der Gewalt des Feindes.\\
+\\
+
+<<v11>>
+11 Ihre Bedränger bedeckte das Wasser, /\\
+ nicht einer von ihnen blieb übrig.\\
+\\
+
+<<v12>>
+12 Nun glaubten sie Gottes Worten /\\
+ und sangen laut seinen Lobpreis. [fn:9]\\
+\\
+
+<<v13>>
+13 Doch sie vergaßen schnell seine Taten, /\\
+ wollten auf seinen Ratschluss nicht warten.\\
+\\
+
+<<v14>>
+14 Sie wurden in der Wüste begehrlich /\\
+ und versuchten Gott in der Öde. [fn:10]\\
+\\
+
+<<v15>>
+15 Er gab ihnen, was sie von ihm verlangten; /\\
+ dann aber erfasste sie Ekel und Überdruss.\\
+\\
+
+<<v16>>
+16 Sie wurden im Lager eifersüchtig auf Mose /\\
+ und auf Aaron, den Heiligen des Herrn. [fn:11]\\
+\\
+
+<<v17>>
+17 Die Erde tat sich auf, sie verschlang den Datan /\\
+ und bedeckte die Rotte Abírams. [fn:12]\\
+\\
+
+<<v18>>
+18 Feuer verbrannte die Rotte, /\\
+ Flammen verzehrten die Frevler.\\
+\\
+
+<<v19>>
+19 Sie machten am Horeb ein Kalb /\\
+ und warfen sich vor dem Gussbild nieder. [fn:13]\\
+\\
+
+<<v20>>
+20 Die Herrlichkeit Gottes tauschten sie ein /\\
+ gegen das Bild eines Stieres, der Gras frisst. [fn:14]\\
+\\
+
+<<v21>>
+21 Sie vergaßen Gott, ihren Retter, /\\
+ der einst in Ägypten Großes vollbrachte, [fn:15]\\
+\\
+
+<<v22>>
+22 Wunder im Lande Hams, /\\
+ Furcht erregende Taten am Schilfmeer.\\
+\\
+
+<<v23>>
+23 Da fasste er einen Plan und er hätte sie vernichtet, /\\
+ wäre nicht Mose, sein Erwählter, für sie in die Bresche gesprungen, /\\
+ sodass Gott sie im Zorn nicht vertilgte. [fn:16]\\
+\\
+
+<<v24>>
+24 Sie verschmähten das köstliche Land; /\\
+ sie glaubten seinen Verheißungen nicht. [fn:17]\\
+\\
+
+<<v25>>
+25 In ihren Zelten murrten sie, /\\
+ hörten nicht auf die Stimme des Herrn.\\
+\\
+
+<<v26>>
+26 Da erhob er gegen sie die Hand, /\\
+ um sie niederzustrecken noch in der Wüste, [fn:18]\\
+\\
+
+<<v27>>
+27 ihre Nachkommen unter die Völker zu zerstreuen, /\\
+ sie in alle Welt zu versprengen. [fn:19] [fn:20]\\
+\\
+
+<<v28>>
+28 Sie hängten sich an den Báal-Pegór /\\
+ und aßen die Opfer der toten Götzen. [fn:21] [fn:22]\\
+\\
+
+<<v29>>
+29 Sie erbitterten Gott mit ihren schändlichen Taten, /\\
+ bis über sie eine schwere Plage kam.\\
+\\
+
+<<v30>>
+30 Pinhas trat auf und hielt Gericht; /\\
+ so wurde die Plage abgewandt. [fn:23]\\
+\\
+
+<<v31>>
+31 Das rechnete Gott ihm als Gerechtigkeit an, /\\
+ ihm und seinem Geschlecht für immer und ewig. [fn:24]\\
+\\
+
+<<v32>>
+32 An den Wassern von Meríba reizten sie Gottes Zorn, /\\
+ ihretwegen erging es Mose übel. [fn:25]\\
+\\
+
+<<v33>>
+33 Denn sie hatten seinen Geist erbittert, /\\
+ sein Mund redete unbedacht.\\
+\\
+
+<<v34>>
+34 Sie rotteten die Völker nicht aus, /\\
+ wie ihnen der Herr einst befahl. [fn:26]\\
+\\
+
+<<v35>>
+35 Sie vermischten sich mit den Heiden /\\
+ und lernten von ihren Taten.\\
+\\
+
+<<v36>>
+36 Sie dienten ihren Götzen; /\\
+ die wurden ihnen zur Falle. [fn:27]\\
+\\
+
+<<v37>>
+37 Sie brachten ihre Söhne und Töchter dar /\\
+ als Opfer für die Dämonen. [fn:28]\\
+\\
+
+<<v38>>
+38 Sie vergossen schuldloses Blut, /\\
+ das Blut ihrer Söhne und Töchter, die sie den Götzen Kanaans opferten;
+/\\
+ so wurde das Land durch Blutschuld entweiht. [fn:29]\\
+\\
+
+<<v39>>
+39 Sie wurden durch ihre Taten unrein /\\
+ und brachen Gott mit ihrem Tun die Treue.\\
+\\
+
+<<v40>>
+40 Der Zorn des Herrn entbrannte gegen sein Volk, /\\
+ er empfand Abscheu gegen sein Erbe. [fn:30]\\
+\\
+
+<<v41>>
+41 Er gab sie in die Hand der Völker /\\
+ und die sie hassten, beherrschten sie.\\
+\\
+
+<<v42>>
+42 Ihre Feinde bedrängten sie, /\\
+ unter ihre Hand mussten sie sich beugen.\\
+\\
+
+<<v43>>
+43 Oft hat er sie befreit; /\\
+ sie aber trotzten seinem Beschluss /\\
+ und versanken in ihrer Schuld. [fn:31] [fn:32]\\
+\\
+
+<<v44>>
+44 Doch als er ihr Flehen hörte, /\\
+ sah er auf ihre Not\\
+\\
+
+<<v45>>
+45 und dachte ihnen zuliebe an seinen Bund; /\\
+ er hatte Mitleid in seiner großen Gnade. [fn:33]\\
+\\
+
+<<v46>>
+46 Bei denen, die sie verschleppten, /\\
+ ließ er sie Erbarmen erfahren. [fn:34]\\
+\\
+
+<<v47>>
+47 Hilf uns, Herr, unser Gott, /\\
+ führe uns aus den Völkern zusammen! Wir wollen deinen heiligen Namen
+preisen, /\\
+ uns rühmen, weil wir dich loben dürfen. [fn:35]\\
+\\
+
+<<v48>>
+48 Gepriesen sei der Herr, der Gott Israels, /\\
+ vom Anfang bis ans Ende der Zeiten. /\\
+ Alles Volk soll sprechen: Amen. /\\
+ Halleluja!\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_107.org::v1][107,1]]
+
+[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/Joh_21.org::v25][Joh 21,25]]
+
+[fn:3] [[file:Jes_56.org::v1][Jes 56,1f]]
+
+[fn:4] [[file:Lev_26.org::v40][Lev 26,40]]; [[file:Dan_9.org::v5][Dan 9,5]]
+
+[fn:5] [[file:Ps_78.org::v11][78,11-17]]
+
+[fn:6] dem Höchsten am Schilfmeer: Text korr.; H: am Meer, am Schilfmeer.
+
+[fn:7] [[file:Ez_39.org::v25][Ez 39,25]]
+
+[fn:8] [[file:Ex_14.org::v21][Ex 14,21f]]; [[file:Jes_63.org::v11][Jes 63,11-14]]
+
+[fn:9] [[file:Ex_14.org::v31][Ex 14,31]]; [[file:Ex_15.org::v1][15,1-21]]
+
+[fn:10] [[file:Ps_78.org::v18][78,18]]; [[file:Num_11.org::v4][Num 11,4-6]]
+
+[fn:11] [[file:Num_16.org::v1][Num 16,1-3]]
+
+[fn:12] (17-18) [[file:Num_16.org::v31][Num 16,31-35]]
+
+[fn:13] (19-20) [[file:Ex_32.org::v1][Ex 32,1-6]]
+
+[fn:14] [[file:Jer_2.org::v11][Jer 2,11]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_1.org::v23][Röm 1,23]]
+
+[fn:15] [[file:Ps_78.org::v42][78,42]]
+
+[fn:16] [[file:Ex_32.org::v11][Ex 32,11-14]]
+
+[fn:17] [[file:Num_14.org::v2][Num 14,2-4]]
+
+[fn:18] [[file:Num_14.org::v23][Num 14,23]].[[file:Num_14.org::v29][29]]
+
+[fn:19] [[file:Lev_26.org::v33][Lev 26,33]]; [[file:Ex_20.org::v23][Ez 20,23]]
+
+[fn:20] zu zerstreuen: Text korr.; H: niederzustrecken, (wie in V. 26b).
+
+[fn:21] [[file:Num_25.org::v1][Num 25,1-3]]
+
+[fn:22] Wörtlich: die Opfer der Toten.
+
+[fn:23] [[file:Num_25.org::v7][Num 25,7-11]]
+
+[fn:24] [[file:Num_25.org::v12][Num 25,12f]]
+
+[fn:25] [[file:Num_20.org::v2][Num 20,2-13]]
+
+[fn:26] (34-36) [[file:Dtn_7.org::v1][Dtn 7,1-5]]; [[file:Ri_1.org::v18][Ri 1,18]] - [[file:Ri_2.org::v5][2,5]]
+
+[fn:27] [[file:Ri_2.org::v11][Ri 2,11-13]]
+
+[fn:28] (37-38) [[file:Lev_18.org::v21][Lev 18,21]]
+
+[fn:29] (38-39) [[file:Num_35.org::v33][Num 35,33f]]
+
+[fn:30] (40-42) [[file:Ri_2.org::v14][Ri 2,14f]]
+
+[fn:31] [[file:Ri_2.org::v16][Ri 2,16]]
+
+[fn:32] Text korr.; H: ihrem Beschluss.
+
+[fn:33] [[file:Lev_26.org::v42][Lev 26,42]]
+
+[fn:34] [[file:Esra_9.org::v9][Esra 9,9]]
+
+[fn:35] (47-48) [[file:1.Chr_16.org::v35][1 Chr 16,35f]]

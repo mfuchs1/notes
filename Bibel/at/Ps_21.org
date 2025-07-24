@@ -1,0 +1,101 @@
+#+TITLE: Ps 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-05 Di 17:27]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 21.html
+
+* Ps 21
+
+<<verses>>
+
+<<v1>>
+* Dank für den Sieg des Königs
+
+1 [Für den Chormeister. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 An deiner Macht, Herr, freut sich der König; /\\
+ über deine Hilfe, wie jubelt er laut!\\
+\\
+
+<<v3>>
+3 Du hast ihm den Wunsch seines Herzens erfüllt, /\\
+ ihm nicht versagt, was seine Lippen begehrten. [Sela] [fn:1]\\
+\\
+
+<<v4>>
+4 Du kamst ihm entgegen mit Segen und Glück, /\\
+ du kröntest ihn mit einer goldenen Krone. [fn:2]\\
+\\
+
+<<v5>>
+5 Leben erbat er von dir, du gabst es ihm, /\\
+ viele Tage, für immer und ewig. [fn:3]\\
+\\
+
+<<v6>>
+6 Groß ist sein Ruhm durch deine Hilfe, /\\
+ du hast ihn bekleidet mit Hoheit und Pracht.\\
+\\
+
+<<v7>>
+7 Du machst ihn zum Segen für immer; /\\
+ wenn du ihn anblickst, schenkst du ihm große Freude. [fn:4]\\
+\\
+
+<<v8>>
+8 Denn der König vertraut auf den Herrn, /\\
+ die Huld des Höchsten lässt ihn niemals wanken.\\
+\\
+
+<<v9>>
+9 Deine Hand wird all deine Feinde finden; /\\
+ wer dich hasst, den trifft deine Rechte.\\
+\\
+
+<<v10>>
+10 Du lässt sie glühen wie einen feurigen Ofen, /\\
+ sobald du erscheinst. Der Herr verschlingt sie im Zorn, /\\
+ das Feuer verzehrt sie.\\
+\\
+
+<<v11>>
+11 Du wirst ihre Brut von der Erde vertilgen; /\\
+ ihr Geschlecht (verschwindet) aus der Mitte der Menschen. [fn:5]\\
+\\
+
+<<v12>>
+12 Schmieden sie auch böse und listige Pläne, /\\
+ richten sie doch nichts aus gegen dich.\\
+\\
+
+<<v13>>
+13 Du schlägst sie alle in die Flucht, /\\
+ wenn du mit deinem Bogen auf sie zielst. [fn:6]\\
+\\
+
+<<v14>>
+14 Erhebe dich, Herr, in deiner Macht! /\\
+ Deiner siegreichen Kraft wollen wir singen und spielen.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_20.org::v5][20,5]]
+
+[fn:2] [[file:Ps_132.org::v18][132,18]]
+
+[fn:3] [[file:Ps_61.org::v7][61,7]]; [[file:1.Kön_3.org::v14][1 Kön 3,14]]
+
+[fn:4] [[file:Gen_12.org::v2][Gen 12,2]]; [[file:Gen_48.org::v20][48,20]]; [[file:1.Chr_17.org::v27][1 Chr 17,27]]
+
+[fn:5] [[file:Ps_103.org::v13][109,13]]
+
+[fn:6] auf sie, wörtlich: auf ihr Gesicht.

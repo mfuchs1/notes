@@ -1,0 +1,360 @@
+:PROPERTIES:
+:ID:       61d5d595-b8ab-4c2c-b991-36c15ee4d906
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Lukas* --
+[[file:Lk_1.html][1]] *2* [[file:Lk_3.html][3]] [[file:Lk_4.html][4]]
+... [[file:Lk_24.html][24]]
+
+--------------
+
+* Lk 2
+  :PROPERTIES:
+  :CUSTOM_ID: lk-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Geburt Jesu: 2,1-20
+     :PROPERTIES:
+     :CUSTOM_ID: die-geburt-jesu-21-20
+     :END:
+1 In jenen Tagen erließ Kaiser Augustus den Befehl, alle Bewohner des
+Reiches in Steuerlisten einzutragen.
+^{[[#fn1][1]][[#fn2][2]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 7\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Dies geschah zum ersten Mal; damals war Quirinius Statthalter von
+Syrien.
+
+<<v3>>
+3 Da ging jeder in seine Stadt, um sich eintragen zu lassen.
+
+<<v4>>
+4 So zog auch Josef von der Stadt Nazaret in Galiläa hinauf nach Judäa
+in die Stadt Davids, die Betlehem heißt; denn er war aus dem Haus und
+Geschlecht Davids. ^{[[#fn3][3]]}
+
+<<v5>>
+5 Er wollte sich eintragen lassen mit Maria, seiner Verlobten, die ein
+Kind erwartete. ^{[[#fn4][4]]}
+
+<<v6>>
+6 Als sie dort waren, kam für Maria die Zeit ihrer Niederkunft,
+
+<<v7>>
+7 und sie gebar ihren Sohn, den Erstgeborenen. Sie wickelte ihn in
+Windeln und legte ihn in eine Krippe, weil in der Herberge kein Platz
+für sie war.
+
+<<v8>>
+8 In jener Gegend lagerten Hirten auf freiem Feld und hielten Nachtwache
+bei ihrer Herde. ^{[[#fn5][5]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 8\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v9>>
+9 Da trat der Engel des Herrn zu ihnen und der Glanz des Herrn
+umstrahlte sie. Sie fürchteten sich sehr,
+
+<<v10>>
+10 der Engel aber sagte zu ihnen: Fürchtet euch nicht, denn ich verkünde
+euch eine große Freude, die dem ganzen Volk zuteil werden soll:
+
+<<v11>>
+11 Heute ist euch in der Stadt Davids der Retter geboren; er ist der
+Messias, der Herr. ^{[[#fn6][6]]}
+
+<<v12>>
+12 Und das soll euch als Zeichen dienen: Ihr werdet ein Kind finden,
+das, in Windeln gewickelt, in einer Krippe liegt.
+
+<<v13>>
+13 Und plötzlich war bei dem Engel ein großes himmlisches Heer, das Gott
+lobte und sprach: ^{[[#fn7][7]]}\\
+\\
+
+<<v14>>
+14 Verherrlicht ist Gott in der Höhe /\\
+ und auf Erden ist Friede /\\
+ bei den Menschen seiner Gnade. ^{[[#fn8][8]][[#fn9][9]]}\\
+\\
+
+<<v15>>
+15 Als die Engel sie verlassen hatten und in den Himmel zurückgekehrt
+waren, sagten die Hirten zueinander: Kommt, wir gehen nach Betlehem, um
+das Ereignis zu sehen, das uns der Herr verkünden ließ.
+
+<<v16>>
+16 So eilten sie hin und fanden Maria und Josef und das Kind, das in der
+Krippe lag.
+
+<<v17>>
+17 Als sie es sahen, erzählten sie, was ihnen über dieses Kind gesagt
+worden war.
+
+<<v18>>
+18 Und alle, die es hörten, staunten über die Worte der Hirten.
+
+<<v19>>
+19 Maria aber bewahrte alles, was geschehen war, in ihrem Herzen und
+dachte darüber nach. ^{[[#fn10][10]]}
+
+<<v20>>
+20 Die Hirten kehrten zurück, rühmten Gott und priesen ihn für das, was
+sie gehört und gesehen hatten; denn alles war so gewesen, wie es ihnen
+gesagt worden war.\\
+\\
+
+<<v21>>
+**** Das Zeugnis des Simeon und der Hanna über Jesus: 2,21-40
+     :PROPERTIES:
+     :CUSTOM_ID: das-zeugnis-des-simeon-und-der-hanna-über-jesus-221-40
+     :END:
+21 Als acht Tage vorüber waren und das Kind beschnitten werden sollte,
+gab man ihm den Namen Jesus, den der Engel genannt hatte, noch ehe das
+Kind im Schoß seiner Mutter empfangen wurde.
+^{[[#fn11][11]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 9\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v22>>
+22 Dann kam für sie der Tag der vom Gesetz des Mose vorgeschriebenen
+Reinigung. Sie brachten das Kind nach Jerusalem hinauf, um es dem Herrn
+zu weihen, ^{[[#fn12][12]]}
+
+<<v23>>
+23 gemäß dem Gesetz des Herrn, in dem es heißt: /Jede männliche
+Erstgeburt soll dem Herrn geweiht sein./ ^{[[#fn13][13]]}
+
+<<v24>>
+24 Auch wollten sie ihr Opfer darbringen, wie es das Gesetz des Herrn
+vorschreibt: /ein Paar Turteltauben oder zwei junge Tauben./
+^{[[#fn14][14]]}
+
+<<v25>>
+25 In Jerusalem lebte damals ein Mann namens Simeon. Er war gerecht und
+fromm und wartete auf die Rettung Israels und der Heilige Geist ruhte
+auf ihm. ^{[[#fn15][15]]}
+
+<<v26>>
+26 Vom Heiligen Geist war ihm offenbart worden, er werde den Tod nicht
+schauen, ehe er den Messias des Herrn gesehen habe.
+
+<<v27>>
+27 Jetzt wurde er vom Geist in den Tempel geführt; und als die Eltern
+Jesus hereinbrachten, um zu erfüllen, was nach dem Gesetz üblich war,
+
+<<v28>>
+28 nahm Simeon das Kind in seine Arme und pries Gott mit den Worten:\\
+\\
+
+<<v29>>
+29 Nun lässt du, Herr, deinen Knecht, /\\
+ wie du gesagt hast, in Frieden scheiden.\\
+^{[[#fn16][16]]}\\
+wie dein Wort es verheißen hat. 30: Denn meine Augen haben das Heil
+geschaut, 31: das du geschaffen hast, damit alle Völker es sehen: 32:
+ein Licht, das die Heiden erleuchtet, /\\
+ und eine Verherrlichung deines Volkes Israel.\\
+\\
+
+<<v30>>
+30 Denn meine Augen haben /das Heil gesehen,/ / ^{[[#fn17][17]]}\\
+\\
+
+<<v31>>
+31 das du /vor allen Völkern/ bereitet hast, ^{[[#fn18][18]]}\\
+\\
+
+<<v32>>
+32 /ein Licht,/ das /die Heiden/ erleuchtet, /\\
+ und /Herrlichkeit/ für dein Volk /Israel./ ^{[[#fn19][19]]}\\
+\\
+
+<<v33>>
+33 Sein Vater und seine Mutter staunten über die Worte, die über Jesus
+gesagt wurden.
+
+<<v34>>
+34 Und Simeon segnete sie und sagte zu Maria, der Mutter Jesu: Dieser
+ist dazu bestimmt, dass in Israel viele durch ihn zu Fall kommen und
+viele aufgerichtet werden, und er wird ein Zeichen sein, dem
+widersprochen wird. ^{[[#fn20][20]]}
+
+<<v35>>
+35 Dadurch sollen die Gedanken vieler Menschen offenbar werden. Dir
+selbst aber wird ein Schwert durch die Seele dringen.
+
+<<v36>>
+36 Damals lebte auch eine Prophetin namens Hanna, eine Tochter Penuëls,
+aus dem Stamm Ascher. Sie war schon hochbetagt. Als junges Mädchen hatte
+sie geheiratet und sieben Jahre mit ihrem Mann gelebt;
+
+<<v37>>
+37 nun war sie eine Witwe von vierundachtzig Jahren. Sie hielt sich
+ständig im Tempel auf und diente Gott Tag und Nacht mit Fasten und
+Beten. ^{[[#fn21][21]]}
+
+<<v38>>
+38 In diesem Augenblick nun trat sie hinzu, pries Gott und sprach über
+das Kind zu allen, die auf die Erlösung Jerusalems warteten.
+
+<<v39>>
+39 Als seine Eltern alles getan hatten, was das Gesetz des Herrn
+vorschreibt, kehrten sie nach Galiläa in ihre Stadt Nazaret zurück.
+^{[[#fn22][22]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 11\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v40>>
+40 Das Kind wuchs heran und wurde kräftig; Gott erfüllte es mit Weisheit
+und seine Gnade ruhte auf ihm.\\
+\\
+
+<<v41>>
+**** Der zwölfjährige Jesus im Tempel: 2,41-52
+     :PROPERTIES:
+     :CUSTOM_ID: der-zwölfjährige-jesus-im-tempel-241-52
+     :END:
+41 Die Eltern Jesu gingen jedes Jahr zum Paschafest nach Jerusalem.
+^{[[#fn23][23]][[#fn24][24]][[#fn25][25]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 12\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v42>>
+42 Als er zwölf Jahre alt geworden war, zogen sie wieder hinauf, wie es
+dem Festbrauch entsprach. ^{[[#fn26][26]]}
+
+<<v43>>
+43 Nachdem die Festtage zu Ende waren, machten sie sich auf den Heimweg.
+Der junge Jesus aber blieb in Jerusalem, ohne dass seine Eltern es
+merkten.
+
+<<v44>>
+44 Sie meinten, er sei irgendwo in der Pilgergruppe, und reisten eine
+Tagesstrecke weit; dann suchten sie ihn bei den Verwandten und
+Bekannten.
+
+<<v45>>
+45 Als sie ihn nicht fanden, kehrten sie nach Jerusalem zurück und
+suchten ihn dort.
+
+<<v46>>
+46 Nach drei Tagen fanden sie ihn im Tempel; er saß mitten unter den
+Lehrern, hörte ihnen zu und stellte Fragen.
+
+<<v47>>
+47 Alle, die ihn hörten, waren erstaunt über sein Verständnis und über
+seine Antworten.
+
+<<v48>>
+48 Als seine Eltern ihn sahen, waren sie sehr betroffen und seine Mutter
+sagte zu ihm: Kind, wie konntest du uns das antun? Dein Vater und ich
+haben dich voll Angst gesucht.
+
+<<v49>>
+49 Da sagte er zu ihnen: Warum habt ihr mich gesucht? Wusstet ihr nicht,
+dass ich in dem sein muss, was meinem Vater gehört?
+
+<<v50>>
+50 Doch sie verstanden nicht, was er damit sagen wollte.
+
+<<v51>>
+51 Dann kehrte er mit ihnen nach Nazaret zurück und war ihnen gehorsam.
+Seine Mutter bewahrte alles, was geschehen war, in ihrem Herzen.
+^{[[#fn27][27]]}
+
+<<v52>>
+52 Jesus aber wuchs heran und seine Weisheit nahm zu und /er fand
+Gefallen bei Gott und den Menschen./ ^{[[#fn28][28]]}\\
+\\
+
+^{[[#fnm1][1]]} 1-3: Quirinius hat als Statthalter von Syrien 6/7 n.
+Chr. eine Steuerfeststellung, einen sog. Zensus, durchführen lassen.
+Dies kann jedoch nicht der Zensus gewesen sein, zu dem Josef nach
+Betlehem zog; denn die Geburt Jesu fällt nach Mt 2 in die Zeit vor dem
+Tod des Herodes (4 v. Chr.). Der Mönch Dionysius Exiguus (ca. 497-540),
+auf den die christliche Zeitrechnung zurückgeht, hat sich demnach um
+etwa 4 bis 5 Jahre verrechnet. Kaiser Augustus herrschte von 31 v. Chr.
+bis 14 n. Chr.
+
+^{[[#fnm2][2]]} ℘ ⇨Esyn: Synopse Nr. 7
+
+^{[[#fnm3][3]]} ℘ Joh 7,42
+
+^{[[#fnm4][4]]} Nach jüdischem Recht gilt die Verlobte bereits als
+Ehefrau (vgl. die Anmerkung zu Mt 1,18).
+
+^{[[#fnm5][5]]} ℘ ⇨Esyn: Synopse Nr. 8
+
+^{[[#fnm6][6]]} Die drei Titel «Retter», «Messias» (Christus), «Herr»
+weisen auf die Heilsbedeutung Christi hin. «Retter» und «Herr» waren
+auch Hoheitstitel der römischen Kaiser.
+
+^{[[#fnm7][7]]} ℘ Mt 26,53
+
+^{[[#fnm8][8]]} ℘ 19,38; Jes 57,19; Eph 2,17
+
+^{[[#fnm9][9]]} Wörtlich: Herrlichkeit Gott in der Höhe und auf Erden
+Friede bei den Menschen des Wohlgefallens. - Die ökumenische liturgische
+Fassung lautet: Ehre sei Gott in der Höhe und Friede auf Erden den
+Menschen seiner Gnade.
+
+^{[[#fnm10][10]]} ℘ 2,51
+
+^{[[#fnm11][11]]} ℘ 1,31 ⇨Esyn: Synopse Nr. 9
+
+^{[[#fnm12][12]]} ℘ Lev 12; Num 18,15f
+
+^{[[#fnm13][13]]} ℘ Ex 13,2.12
+
+^{[[#fnm14][14]]} ℘ Lev 12,8
+
+^{[[#fnm15][15]]} die Rettung, wörtlich: den Trost.
+
+^{[[#fnm16][16]]} 29-32: Die obige Fassung ist für die Liturgie
+vorgesehen. Daneben hat die ökumenische Kommission auch den folgenden
+Text erarbeitet: 29: Nun lässt du, Herr, deinen Knecht in Frieden
+scheiden, /
+
+^{[[#fnm17][17]]} ℘ Jes 40,5 G
+
+^{[[#fnm18][18]]} ℘ Jes 52,10
+
+^{[[#fnm19][19]]} ℘ Jes 49,6; 42,6; 46,13
+
+^{[[#fnm20][20]]} ℘ Jes 8,14
+
+^{[[#fnm21][21]]} Andere Übersetzungsmöglichkeit: seit vierundachtzig
+Jahren aber war sie Witwe.
+
+^{[[#fnm22][22]]} ℘ ⇨Esyn: Synopse Nr. 11
+
+^{[[#fnm23][23]]} ℘ Ex 23,14-17
+
+^{[[#fnm24][24]]} 41-51: Vom 13. Lebensjahr an ist ein jüdischer Junge
+verpflichtet, die Gebote und Vorschriften des jüdischen Gesetzes zu
+beachten. Nach Ex 23,14-17; 24,23f; Dtn 16,16f hatten alle jüdischen
+Männer, ausgenommen Greise und Kranke, zu den drei Hauptfesten des
+jüdischen Jahres, Pascha, Pfingsten und Laubhüttenfest, im Tempel zu
+erscheinen. Dies war aber nur für jene streng verpflichtend, die nicht
+mehr als eine Tagesreise weit vom Tempel entfernt wohnten. Zu Fuß
+brauchte man von Galiläa mindestens drei Tage nach Jerusalem.
+
+^{[[#fnm25][25]]} ℘ ⇨Esyn: Synopse Nr. 12
+
+^{[[#fnm26][26]]} ℘ Ex 12,15.18
+
+^{[[#fnm27][27]]} ℘ 2,19
+
+^{[[#fnm28][28]]} ℘ 1 Sam 2,26

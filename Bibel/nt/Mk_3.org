@@ -1,0 +1,272 @@
+:PROPERTIES:
+:ID:       cab61ab7-cacf-44a4-98fd-5ede39a6506f
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Markus* --
+[[file:Mk_1.html][1]] [[file:Mk_2.html][2]] *3* [[file:Mk_4.html][4]]
+[[file:Mk_5.html][5]] ... [[file:Mk_16.html][16]]
+
+--------------
+
+* Mk 3
+  :PROPERTIES:
+  :CUSTOM_ID: mk-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Heilung eines Mannes am Sabbat: 3,1-6
+     :PROPERTIES:
+     :CUSTOM_ID: die-heilung-eines-mannes-am-sabbat-31-6
+     :END:
+1 Als er ein andermal in eine Synagoge ging, saß dort ein Mann, dessen
+Hand verdorrt war. ^{[[#fn1][1]][[#fn2][2]][[#fn3][3]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 47\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Und sie gaben Acht, ob Jesus ihn am Sabbat heilen werde; sie suchten
+nämlich einen Grund zur Anklage gegen ihn.
+
+<<v3>>
+3 Da sagte er zu dem Mann mit der verdorrten Hand: Steh auf und stell
+dich in die Mitte!
+
+<<v4>>
+4 Und zu den anderen sagte er: Was ist am Sabbat erlaubt: Gutes zu tun
+oder Böses, ein Leben zu retten oder es zu vernichten? Sie aber
+schwiegen.
+
+<<v5>>
+5 Und er sah sie der Reihe nach an, voll Zorn und Trauer über ihr
+verstocktes Herz, und sagte zu dem Mann: Streck deine Hand aus! Er
+streckte sie aus und seine Hand war wieder gesund.
+
+<<v6>>
+6 Da gingen die Pharisäer hinaus und fassten zusammen mit den Anhängern
+des Herodes den Beschluss, Jesus umzubringen.\\
+\\
+
+<<v7>>
+**** Der Andrang des Volkes: 3,7-12
+     :PROPERTIES:
+     :CUSTOM_ID: der-andrang-des-volkes-37-12
+     :END:
+7 Jesus zog sich mit seinen Jüngern an den See zurück. Viele Menschen
+aus Galiläa aber folgten ihm. Auch aus Judäa,
+^{[[#fn4][4]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 48\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v8>>
+8 aus Jerusalem und Idumäa, aus dem Gebiet jenseits des Jordan und aus
+der Gegend von Tyrus und Sidon kamen Scharen von Menschen zu ihm, als
+sie von all dem hörten, was er tat.
+
+<<v9>>
+9 Da sagte er zu seinen Jüngern, sie sollten ein Boot für ihn
+bereithalten, damit er von der Menge nicht erdrückt werde.
+
+<<v10>>
+10 Denn er heilte viele, sodass alle, die ein Leiden hatten, sich an ihn
+herandrängten, um ihn zu berühren.
+
+<<v11>>
+11 Wenn die von unreinen Geistern Besessenen ihn sahen, fielen sie vor
+ihm nieder und schrien: Du bist der Sohn Gottes! ^{[[#fn5][5]]}
+
+<<v12>>
+12 Er aber verbot ihnen streng, bekannt zu machen, wer er sei.\\
+\\
+
+<<v13>>
+**** Die Wahl der Zwölf: 3,13-19
+     :PROPERTIES:
+     :CUSTOM_ID: die-wahl-der-zwölf-313-19
+     :END:
+13 Jesus stieg auf einen Berg und rief die zu sich, die er erwählt
+hatte, und sie kamen zu ihm.
+^{[[#fn6][6]][[#fn7][7]][[#fn8][8]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 49\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v14>>
+14 Und er setzte zwölf ein, die er bei sich haben und die er dann
+aussenden wollte, damit sie predigten
+
+<<v15>>
+15 und mit seiner Vollmacht Dämonen austrieben.
+
+<<v16>>
+16 Die Zwölf, die er einsetzte, waren: Petrus - diesen Beinamen gab er
+dem Simon -, ^{[[#fn9][9]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 21\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v17>>
+17 Jakobus, der Sohn des Zebedäus, und Johannes, der Bruder des
+Jakobus - ihnen gab er den Beinamen Boanerges, das heißt Donnersöhne -,
+
+<<v18>>
+18 dazu Andreas, Philippus, Bartholomäus, Matthäus, Thomas, Jakobus, der
+Sohn des Alphäus, Thaddäus, Simon Kananäus ^{[[#fn10][10]]}
+
+<<v19>>
+19 und Judas Iskariot, der ihn dann verraten hat.\\
+\\
+
+<<v20>>
+**** Jesus und seine Angehörigen: 3,20-21
+     :PROPERTIES:
+     :CUSTOM_ID: jesus-und-seine-angehörigen-320-21
+     :END:
+20 Jesus ging in ein Haus und wieder kamen so viele Menschen zusammen,
+dass er und die Jünger nicht einmal mehr essen konnten.
+^{[[#fn11][11]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 116\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v21>>
+21 Als seine Angehörigen davon hörten, machten sie sich auf den Weg, um
+ihn mit Gewalt zurückzuholen; denn sie sagten: Er ist von Sinnen.
+^{[[#fn12][12]]}\\
+\\
+
+<<v22>>
+**** Verteidigungsrede Jesu: 3,22-30
+     :PROPERTIES:
+     :CUSTOM_ID: verteidigungsrede-jesu-322-30
+     :END:
+22 Die Schriftgelehrten, die von Jerusalem herabgekommen waren, sagten:
+Er ist von Beelzebul besessen; mit Hilfe des Anführers der Dämonen
+treibt er die Dämonen aus.
+^{[[#fn13][13]][[#fn14][14]][[#fn15][15]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 117\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v23>>
+23 Da rief er sie zu sich und belehrte sie in Form von Gleichnissen: Wie
+kann der Satan den Satan austreiben?
+
+<<v24>>
+24 Wenn ein Reich in sich gespalten ist, kann es keinen Bestand haben.
+
+<<v25>>
+25 Wenn eine Familie in sich gespalten ist, kann sie keinen Bestand
+haben.
+
+<<v26>>
+26 Und wenn sich der Satan gegen sich selbst erhebt und mit sich selbst
+im Streit liegt, kann er keinen Bestand haben, sondern es ist um ihn
+geschehen.
+
+<<v27>>
+27 Es kann aber auch keiner in das Haus eines starken Mannes einbrechen
+und ihm den Hausrat rauben, wenn er den Mann nicht vorher fesselt; erst
+dann kann er sein Haus plündern. ^{[[#fn16][16]]}
+
+<<v28>>
+28 Amen, das sage ich euch: Alle Vergehen und Lästerungen werden den
+Menschen vergeben werden, so viel sie auch lästern mögen;
+^{[[#fn17][17]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 118\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v29>>
+29 wer aber den Heiligen Geist lästert, der findet in Ewigkeit keine
+Vergebung, sondern seine Sünde wird ewig an ihm haften.
+
+<<v30>>
+30 Sie hatten nämlich gesagt: Er ist von einem unreinen Geist besessen.
+^{[[#fn18][18]]}\\
+\\
+
+<<v31>>
+**** Von den wahren Verwandten Jesu: 3,31-35
+     :PROPERTIES:
+     :CUSTOM_ID: von-den-wahren-verwandten-jesu-331-35
+     :END:
+31 Da kamen seine Mutter und seine Brüder; sie blieben vor dem Haus
+stehen und ließen ihn herausrufen.
+^{[[#fn19][19]][[#fn20][20]][[#fn21][21]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 121\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v32>>
+32 Es saßen viele Leute um ihn herum und man sagte zu ihm: Deine Mutter
+und deine Brüder stehen draußen und fragen nach dir. ^{[[#fn22][22]]}
+
+<<v33>>
+33 Er erwiderte: Wer ist meine Mutter und wer sind meine Brüder?
+
+<<v34>>
+34 Und er blickte auf die Menschen, die im Kreis um ihn herumsaßen, und
+sagte: Das hier sind meine Mutter und meine Brüder.
+
+<<v35>>
+35 Wer den Willen Gottes erfüllt, der ist für mich Bruder und Schwester
+und Mutter.\\
+^{[[#fn23][23]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 321\\
+$ŽG://ESyn0812/
+
+^{[[#fnm1][1]]} ℘ (1-6) Lk 14,1-6; Mt 12,9-14; Lk 6,6-11
+
+^{[[#fnm2][2]]} 1-6: Die ärztliche Tätigkeit galt als Arbeit und durfte
+deshalb nach pharisäischer Auffassung am Sabbat nur dann ausgeübt
+werden, wenn Lebensgefahr bestand. 1.3.5: Hand, andere
+Übersetzungsmöglichkeit: Arm.
+
+^{[[#fnm3][3]]} ℘ ⇨Esyn: Synopse Nr. 47
+
+^{[[#fnm4][4]]} ℘ (7-12) Mt 4,23-25; 12,15f; Lk 6,17-19 ⇨Esyn: Synopse
+Nr. 48
+
+^{[[#fnm5][5]]} ℘ Mt 8,29; Lk 4,41
+
+^{[[#fnm6][6]]} ℘ (13-19) Mt 10,1-4; Lk 6,12-16
+
+^{[[#fnm7][7]]} 13-19: Vgl. die Anmerkung zu Mt 9,35 - 11,1.
+
+^{[[#fnm8][8]]} ℘ ⇨Esyn: Synopse Nr. 49
+
+^{[[#fnm9][9]]} ℘ (16-19) Joh 1,40-44; Apg 1,13 ⇨Esyn: Synopse Nr. 21
+
+^{[[#fnm10][10]]} Zu «Kananäus» vgl. die Anmerkung zu Mt 10,4.
+
+^{[[#fnm11][11]]} ℘ ⇨Esyn: Synopse Nr. 116
+
+^{[[#fnm12][12]]} ℘ Joh 7,5
+
+^{[[#fnm13][13]]} ℘ Mt 9,34; 10,25; (22-30) Mt 12,24-29.31f; Lk 11,15-22
+
+^{[[#fnm14][14]]} 22-30: Vgl. die Anmerkung zu Mt 12,24.
+
+^{[[#fnm15][15]]} ℘ ⇨Esyn: Synopse Nr. 117
+
+^{[[#fnm16][16]]} ℘ Jes 49,24
+
+^{[[#fnm17][17]]} ℘ (28-29) Lk 12,10 ⇨Esyn: Synopse Nr. 118
+
+^{[[#fnm18][18]]} ℘ Joh 10,20
+
+^{[[#fnm19][19]]} ℘ (31-35) Mt 12,46-50; Lk 8,19-21
+
+^{[[#fnm20][20]]} 31-35: Vgl. die Anmerkung zu Mt 12,46f.
+
+^{[[#fnm21][21]]} ℘ ⇨Esyn: Synopse Nr. 121
+
+^{[[#fnm22][22]]} Einige Textzeugen fügen nach «Brüder» hinzu: und deine
+Schwestern.
+
+^{[[#fnm23][23]]} ℘ ⇨Esyn: Synopse Nr. 321

@@ -1,0 +1,21 @@
+#+title:      Dienstag  3 Oktober 2023
+#+date:       [2023-10-03 Di 21:00]
+#+filetags:   :journal:
+#+identifier: 20231003T210008
+
+* Thoughts
+Wow das war ein Tag. So viel schief gelaufen.
+
+- ein paar Stunden in der Schule waren eher mühsam
+- dann ging Emacs nicht mehr: ich hatte ein Paket unüberlegt installiert. Auch das Löschen des Pakets hat keine Lösung gebracht. Ich konnte dann mit meiner =init.el= Datei nichts mehr retten. Zuhause hab ich mir die komplette Konfiguration vom Desktop geborgt. Und seither ist das Problem gelöst. Auch von einem Paket (bibtex-actions) hab ich mich getrennt - war auch wirklich nicht notwendig, da =consult-bibtex= ein exzellentes Paket ist.
+
+  Zuhause hab ich mich nach dem Essen um die HÜ der Kinder gekümmert. Um Viertel vor 3 machte ich den nächsten Fehler: ich fuhr zu früh weg. Hab ziemlich laut geschimpft über meine Dummheit. Wir haben Isabelle die Karte gebracht und sind dann gleich zum Klettern gefahren. Da noch etwas Zeit wars, sonnten wir uns an der Salzach.
+
+  Während dem Kletterkurs von Gabriel hab ich den Laptop fertig repariert und Leopold bei der HÜ geholfen.
+
+  Auf dem Heimweg dann der nächste Rückschlag: großer Stau wegen dem Fußballspiel. Zuhause war es sehr spät: Gabriel hat die HÜ fertig gemacht und zum Abendessen gab es keinen Kaiserschmarrn, sondern Karotten, Käse, Spiegeleier und Joghurt.
+
+  Und jetzt bin ich müde - die Kinder auch...
+
+* Tasks
+

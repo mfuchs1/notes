@@ -1,0 +1,155 @@
+#+TITLE: 2 Kön 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 17:10]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 2.html
+
+<<verses>>
+
+<<v1>>
+* Die Entrückung Elijas: 2,1-18
+
+1 An dem Tag, da der Herr Elija im Wirbelsturm in den Himmel aufnehmen
+wollte, ging Elija mit Elischa von Gilgal weg. [fn:1]
+
+<<v2>>
+2 Er sagte zu Elischa: Bleib hier; denn der Herr hat mich nach Bet-El
+gesandt. Doch Elischa erwiderte: So wahr der Herr lebt und so wahr du
+lebst: Ich verlasse dich nicht. So gingen sie nach Bet-El.
+
+<<v3>>
+3 Dort kamen die Prophetenjünger, die in Bet-El waren, zu Elischa heraus
+und sagten zu ihm: Weißt du, dass der Herr heute deinen Meister über
+dein Haupt hinweg aufnehmen wird? Er antwortete: Auch ich weiß es. Seid
+still! [fn:2]
+
+<<v4>>
+4 Elija aber sagte zu ihm: Bleib hier, Elischa; denn der Herr hat mich
+nach Jericho gesandt. Elischa erwiderte: So wahr der Herr lebt und so
+wahr du lebst: Ich verlasse dich nicht. So kamen sie nach Jericho.
+
+<<v5>>
+5 Dort traten die Prophetenjünger, die in Jericho waren, an Elischa
+heran und sagten zu ihm: Weißt du, dass der Herr heute deinen Meister
+über dein Haupt hinweg aufnehmen wird? Er antwortete ihnen: Auch ich
+weiß es. Seid still!
+
+<<v6>>
+6 Elija aber bat ihn: Bleib hier; denn der Herr hat mich an den Jordan
+gesandt. Elischa erwiderte: So wahr der Herr lebt und so wahr du lebst:
+Ich verlasse dich nicht. So gingen beide miteinander.
+
+<<v7>>
+7 Fünfzig Prophetenjünger folgten ihnen und blieben dann seitwärts in
+einiger Entfernung stehen. Die beiden traten an den Jordan.
+
+<<v8>>
+8 Hier nahm Elija seinen Mantel, rollte ihn zusammen und schlug mit ihm
+auf das Wasser. Dieses teilte sich nach beiden Seiten und sie schritten
+trockenen Fußes hindurch.
+
+<<v9>>
+9 Als sie drüben angekommen waren, sagte Elija zu Elischa: Sprich eine
+Bitte aus, die ich dir erfüllen soll, bevor ich von dir weggenommen
+werde. Elischa antwortete: Möchten mir doch zwei Anteile deines Geistes
+zufallen. [fn:3]
+
+<<v10>>
+10 Elija entgegnete: Du hast etwas Schweres erbeten. Wenn du siehst, wie
+ich von dir weggenommen werde, wird es dir zuteil werden. Sonst aber
+wird es nicht geschehen.
+
+<<v11>>
+11 Während sie miteinander gingen und redeten, erschien ein feuriger
+Wagen mit feurigen Pferden und trennte beide voneinander. Elija fuhr im
+Wirbelsturm zum Himmel empor.
+
+<<v12>>
+12 Elischa sah es und rief laut: Mein Vater, mein Vater! Wagen Israels
+und sein Lenker! Als er ihn nicht mehr sah, fasste er sein Gewand und
+riss es mitten entzwei. [fn:4]
+
+<<v13>>
+13 Dann hob er den Mantel auf, der Elija entfallen war, kehrte um und
+trat an das Ufer des Jordan.
+
+<<v14>>
+14 Er nahm den Mantel, der Elija entfallen war, schlug mit ihm auf das
+Wasser und rief: Wo ist der Herr, der Gott des Elija? Als er auf das
+Wasser schlug, teilte es sich nach beiden Seiten und Elischa ging
+hinüber.
+
+<<v15>>
+15 Die Prophetenjünger von Jericho, die in der Nähe standen, sahen ihn
+und sagten: Der Geist des Elija ruht auf Elischa. Sie kamen ihm entgegen
+und warfen sich vor ihm zur Erde nieder.
+
+<<v16>>
+16 Dann sagten sie zu ihm: Unter deinen Knechten sind fünfzig starke
+Männer. Sie sollen auf die Suche nach deinem Meister gehen. Der Geist
+des Herrn könnte ihn fortgetragen und auf einem der Berge oder in einem
+der Täler niedergesetzt haben. Doch Elischa entgegnete: Schickt niemand!
+
+<<v17>>
+17 Als sie aber heftig darauf bestanden, sagte er: Schickt sie also hin!
+Sie schickten fünfzig Mann aus und diese suchten drei Tage lang. Da sie
+ihn nicht fanden,
+
+<<v18>>
+18 kehrten sie zu Elischa zurück. Er hielt sich noch in Jericho auf und
+sagte zu ihnen: Habe ich euch nicht gesagt: Ihr sollt nicht hingehen?\\
+\\
+
+<<v19>>
+* Die ersten Taten Elischas: 2,19-25
+
+19 Die Männer der Stadt sagten zu Elischa: Unser Herr sieht, dass man in
+dieser Stadt gut wohnen kann; nur das Wasser ist ungesund und in der
+Gegend gibt es viele Fehlgeburten.
+
+<<v20>>
+20 Elischa befahl: Bringt mir eine neue Schüssel und schüttet Salz
+hinein! Man brachte sie ihm
+
+<<v21>>
+21 und er ging zur Wasserquelle und warf das Salz hinein mit den Worten:
+So spricht der Herr: Ich mache dieses Wasser gesund. Es wird keinen Tod
+und keine Fehlgeburt mehr verursachen.
+
+<<v22>>
+22 Daher ist das Wasser bis zum heutigen Tag gesund, wie es Elischa
+vorausgesagt hatte.
+
+<<v23>>
+23 Von dort ging er nach Bet-El. Während er den Weg hinaufstieg, kamen
+junge Burschen aus der Stadt und verspotteten ihn: Sie riefen ihm zu:
+Kahlkopf, komm herauf! Kahlkopf, komm herauf!
+
+<<v24>>
+24 Er wandte sich um, sah sie an und verfluchte sie im Namen des Herrn.
+Da kamen zwei Bären aus dem Wald und zerrissen zweiundvierzig junge
+Leute.
+
+<<v25>>
+25 Von dort ging er zum Berg Karmel und kehrte dann nach Samaria
+zurück.\\
+\\
+
+* Footnotes
+
+[fn:1] Gilgal ist nicht der in [[file:Jos_4.org::v19][Jos 4,19]] genannte Ort bei
+Jericho, sondern ein Ort nördlich von Bet-El.
+
+[fn:2] Prophetenjünger: die Mitglieder der Prophetengemeinschaften.
+
+[fn:3] Durch die Verleihung von zwei Anteilen des Geistes des
+Elija fällt Elischa die Stellung eines Erstgeborenen zu (vgl. [[file:Dtn_21.org::v17][Dtn 21,17]]).
+
+[fn:4] Der Ausruf drückt die Bedeutung Elijas aus. Der
+Kriegswagen gehörte zur wirkungsvollsten Ausrüstung des damaligen Heeres.

@@ -1,0 +1,136 @@
+#+TITLE: Hld 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-07-02 Mi 11:12]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Hld 4.html
+
+* Hld 4
+
+<<verses>>
+
+<<v1>>
+1 Schön bist du, meine Freundin, /\\
+ ja, du bist schön. Hinter dem Schleier /\\
+ deine Augen wie Tauben. Dein Haar gleicht einer Herde von Ziegen, /\\
+ die herabzieht von Gileads Bergen. [fn:1]\\
+\\
+
+<<v2>>
+2 Deine Zähne sind wie eine Herde /\\
+ frisch geschorener Schafe, /\\
+ die aus der Schwemme steigen. Jeder Zahn hat sein Gegenstück, /\\
+ keinem fehlt es. [fn:2] [fn:3]\\
+\\
+
+<<v3>>
+3 Rote Bänder sind deine Lippen; /\\
+ lieblich ist dein Mund. Dem Riss eines Granatapfels gleicht deine
+Schläfe /\\
+ hinter dem Schleier. [fn:4]\\
+\\
+
+<<v4>>
+4 Wie der Turm Davids ist dein Hals, /\\
+ in Schichten von Steinen erbaut; tausend Schilde hängen daran, /\\
+ lauter Waffen von Helden.\\
+\\
+
+<<v5>>
+5 Deine Brüste sind wie zwei Kitzlein, /\\
+ wie die Zwillinge einer Gazelle, /\\
+ die in den Lilien weiden. [fn:5]\\
+\\
+
+<<v6>>
+6 Wenn der Tag verweht und die Schatten wachsen, /\\
+ will ich zum Myrrhenberg gehen, /\\
+ zum Weihrauchhügel.\\
+\\
+
+<<v7>>
+7 Alles an dir ist schön, meine Freundin; /\\
+ kein Makel haftet dir an.\\
+\\
+
+<<v8>>
+8 Komm doch mit mir, meine Braut, vom Libanon, /\\
+ weg vom Libanon komm du mit mir! Weg vom Gipfel des Amana, /\\
+ von den Höhen des Senir und Hermon; weg von den Lagern der Löwen, /\\
+ den Bergen der Panther.\\
+\\
+
+<<v9>>
+9 Verzaubert hast du mich, /\\
+ meine Schwester Braut; /\\
+ ja verzaubert mit einem (Blick) deiner Augen, /\\
+ mit einer Perle deiner Halskette.\\
+\\
+
+<<v10>>
+10 Wie schön ist deine Liebe, /\\
+ meine Schwester Braut; wie viel süßer ist deine Liebe als Wein, /\\
+ der Duft deiner Salben köstlicher als alle Balsamdüfte. [fn:6]\\
+\\
+
+<<v11>>
+11 Von deinen Lippen, Braut, tropft Honig; /\\
+ Milch und Honig ist unter deiner Zunge. Der Duft deiner Kleider ist wie
+des Libanon Duft.\\
+\\
+
+<<v12>>
+12 Ein verschlossener Garten ist meine Schwester Braut, /\\
+ ein verschlossener Garten, /\\
+ ein versiegelter Quell.\\
+\\
+
+<<v13>>
+13 Ein Lustgarten sprosst aus dir, /\\
+ Granatbäume mit köstlichen Früchten, /\\
+ Hennadolden, Nardenblüten, [fn:7]\\
+\\
+
+<<v14>>
+14 Narde, Krokus, Gewürzrohr und Zimt, /\\
+ alle Weihrauchbäume, Myrrhe und Aloe, /\\
+ allerbester Balsam.\\
+\\
+
+<<v15>>
+15 Die Quelle des Gartens bist du, /\\
+ ein Brunnen lebendigen Wassers, /\\
+ Wasser vom Libanon. [fn:8]\\
+\\
+
+<<v16>>
+16 Nordwind, erwache! Südwind, herbei! /\\
+ Durchweht meinen Garten, /\\
+ lasst strömen die Balsamdüfte! Mein Geliebter komme in seinen Garten
+/\\
+ und esse von den köstlichen Früchten.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Gen_24.org::v65][Gen 24,65]]; [[file:Hld_6.org::v5][Hld 6,5]]
+
+[fn:2] [[file:Hld_6.org::v6][6,6]]
+
+[fn:3] Die beiden Zahnreihen sind parallel, symmetrisch und lückenlos.
+
+[fn:4] [[file:Hld_6.org::v7][6,7]]
+
+[fn:5] [[file:Hld_7.org::v4][7,4]]
+
+[fn:6] [[file:Hld_1.org::v2][1,2]].[[file:Hld_1.org::v4][4]]
+
+[fn:7] Allegorie; gemeint sind die Braut, ihre Glieder, ihr Haar usw.
+
+[fn:8] [[v15][15a]]: des Gartens: Text korr.; H: der Gärten.

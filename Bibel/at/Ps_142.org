@@ -1,0 +1,75 @@
+#+TITLE: Ps 142 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-20 Di 18:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 142.html
+
+* Ps 142
+
+<<verses>>
+
+<<v1>>
+* Hilferuf in schwerer Bedrängnis
+
+1 [Ein Weisheitslied Davids, als er in der Höhle war. Ein Gebet.] [fn:1]\\
+\\
+
+<<v2>>
+2 Mit lauter Stimme schrei ich zum Herrn, /\\
+ laut flehe ich zum Herrn um Gnade.\\
+\\
+
+<<v3>>
+3 Ich schütte vor ihm meine Klagen aus, /\\
+ eröffne ihm meine Not.\\
+\\
+
+<<v4>>
+4 Wenn auch mein Geist in mir verzagt, /\\
+ du kennst meinen Pfad. Auf dem Weg, den ich gehe, /\\
+ legten sie mir Schlingen. [fn:2]\\
+\\
+
+<<v5>>
+5 Ich blicke nach rechts und schaue aus, /\\
+ doch niemand ist da, der mich beachtet. Mir ist jede Zuflucht genommen,
+/\\
+ niemand fragt nach meinem Leben.\\
+\\
+
+<<v6>>
+6 Herr, ich schreie zu dir, /\\
+ ich sage: Meine Zuflucht bist du, /\\
+ mein Anteil im Land der Lebenden. [fn:3]\\
+\\
+
+<<v7>>
+7 Vernimm doch mein Flehen; /\\
+ denn ich bin arm und elend. Meinen Verfolgern entreiß mich; /\\
+ sie sind viel stärker als ich. [fn:4]\\
+\\
+
+<<v8>>
+8 Führe mich heraus aus dem Kerker, /\\
+ damit ich deinen Namen preise. Die Gerechten scharen sich um mich, /\\
+ weil du mir Gutes tust. [fn:5]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_63.org::v1][63,1]]
+
+[fn:2] [[file:Ps_143.org::v4][143,4]]; [[file:Ps_140.org::v6][140,6]]
+
+[fn:3] [[file:Ps_91.org::v2][91,2]]; [[file:Ps_73.org::v26][73,26]]; [[file:Ps_27.org::v13][27,13]]
+
+[fn:4] Wörtlich: denn ich bin sehr schwach.
+
+[fn:5] [[file:Ps_88.org::v9][88,9]]

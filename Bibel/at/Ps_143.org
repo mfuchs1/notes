@@ -1,0 +1,109 @@
+#+TITLE: Ps 143 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-20 Di 18:56]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 143.html
+
+* Ps 143
+
+<<verses>>
+
+<<v1>>
+* Gebet um Kraft und Hilfe gegen Feinde
+
+1 [Ein Psalm Davids.] Herr, höre mein Gebet, vernimm mein Flehen; /\\
+ in deiner Treue erhöre mich, in deiner Gerechtigkeit!\\
+\\
+
+<<v2>>
+2 Geh mit deinem Knecht nicht ins Gericht; /\\
+ denn keiner, der lebt, ist gerecht vor dir. [fn:1]\\
+\\
+
+<<v3>>
+3 Der Feind verfolgt mich, tritt mein Leben zu Boden, /\\
+ er lässt mich in der Finsternis wohnen wie längst Verstorbene. [fn:2]\\
+\\
+
+<<v4>>
+4 Mein Geist verzagt in mir, /\\
+ mir erstarrt das Herz in der Brust. [fn:3]\\
+\\
+
+<<v5>>
+5 Ich denke an die vergangenen Tage, /\\
+ sinne nach über all deine Taten, /\\
+ erwäge das Werk deiner Hände. [fn:4]\\
+\\
+
+<<v6>>
+6 Ich breite die Hände aus (und bete) zu dir; /\\
+ meine Seele dürstet nach dir wie lechzendes Land. [Sela] [fn:5]\\
+\\
+
+<<v7>>
+7 Herr, erhöre mich bald, /\\
+ denn mein Geist wird müde; verbirg dein Antlitz nicht vor mir, /\\
+ damit ich nicht werde wie Menschen, die längst begraben sind. [fn:6] [fn:7]\\
+\\
+
+<<v8>>
+8 Lass mich deine Huld erfahren am frühen Morgen; /\\
+ denn ich vertraue auf dich. Zeig mir den Weg, den ich gehen soll; /\\
+ denn ich erhebe meine Seele zu dir. [fn:8]\\
+\\
+
+<<v9>>
+9 Herr, entreiß mich den Feinden! /\\
+ Zu dir nehme ich meine Zuflucht. [fn:9]\\
+\\
+
+<<v10>>
+10 Lehre mich, deinen Willen zu tun; denn du bist mein Gott. /\\
+ Dein guter Geist leite mich auf ebenem Pfad. [fn:10] [fn:11]\\
+\\
+
+<<v11>>
+11 Um deines Namens willen, Herr, erhalt mich am Leben, /\\
+ führe mich heraus aus der Not in deiner Gerechtigkeit!\\
+\\
+
+<<v12>>
+12 Vertilge in deiner Huld meine Feinde, /\\
+ lass all meine Gegner untergehn! /\\
+ Denn ich bin dein Knecht. [fn:12]\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:Ps_130.org::v3][130,3]]; [[file:Ijob_4.org::v17][Ijob 4,17]]; [[file:Ijob_9.org::v2][9,2]]; [[file:Ijob_25.org::v4][25,4]]; [[file:Koh_7.org::v20][Koh 7,20]]
+
+[fn:2] [[file:Klgl_3.org::v6][Klgl 3,6]]
+
+[fn:3] [[file:Ps_142.org::v4][142,4]]; [[file:Ijob_17.org::v1][Ijob 17,1]]
+
+[fn:4] [[file:Ps_77.org::v6][77,6-13]]
+
+[fn:5] [[file:Ps_42.org::v2][42,2]]
+
+[fn:6] [[file:Ps_69.org::v18][69,18]]; [[file:Ps_102.org::v3][102,3]]; [[file:Ps_28.org::v1][28,1]]; [[file:Ps_88.org::v5][88,5]]
+
+[fn:7] Wörtlich: die hinabgestiegen sind zur Grube.
+
+[fn:8] [[file:Ps_90.org::v14][90,14]]; [[file:Ps_25.org::v1][25,1f]]
+
+[fn:9] meine Zuflucht: Text korr. nach G.
+
+[fn:10] [[file:Ps_119.org::v1][119,1]]
+
+[fn:11] Text korr.; H: leite mich auf ebenem Land.
+
+[fn:12] [[file:Ps_54.org::v7][54,7]]

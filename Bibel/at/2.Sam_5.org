@@ -1,0 +1,165 @@
+#+TITLE: 2 Sam 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-08 Mi 10:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 5.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Anerkennung Davids als König von ganz Israel: 5,1-12
+
+1 Alle Stämme Israels kamen zu David nach Hebron und sagten: Wir sind
+doch dein Fleisch und Bein. [fn:1]
+
+<<v2>>
+2 Schon früher, als noch Saul unser König war, bist du es gewesen, der
+Israel in den Kampf und wieder nach Hause geführt hat. Der Herr hat zu
+dir gesagt: Du sollst der Hirt meines Volkes Israel sein, du sollst
+Israels Fürst werden. [fn:2]
+
+<<v3>>
+3 Alle Ältesten Israels kamen zum König nach Hebron; der König David
+schloss mit ihnen in Hebron einen Vertrag vor dem Herrn und sie salbten
+David zum König von Israel. [fn:3]
+
+<<v4>>
+4 David war dreißig Jahre alt, als er König wurde, und er regierte
+vierzig Jahre lang. [fn:4]
+
+<<v5>>
+5 In Hebron war er sieben Jahre und sechs Monate König von Juda und in
+Jerusalem war er dreiunddreißig Jahre König von ganz Israel und Juda.
+
+<<v6>>
+6 Der König zog mit seinen Männern nach Jerusalem gegen die Jebusiter,
+die in dieser Gegend wohnten. Die Jebusiter aber sagten zu David: Du
+kommst hier nicht herein; die Blinden und Lahmen werden dich vertreiben.
+Das sollte besagen: David wird hier nicht eindringen. [fn:5]
+
+<<v7>>
+7 Dennoch eroberte David die Burg Zion; sie wurde die Stadt Davids.
+
+<<v8>>
+8 David sagte an jenem Tag: Jeder, der den Schacht erreicht, soll die
+Jebusiter erschlagen, auch die Lahmen und Blinden, die David in der
+Seele verhasst sind. Daher sagt man: Ein Blinder und ein Lahmer kommt
+nicht ins Haus. [fn:6]
+
+<<v9>>
+9 David ließ sich in der Burg nieder und nannte sie die Stadt Davids.
+Und David begann ringsum zu bauen, und zwar vom Millo an bis zur Burg. [fn:7]
+
+<<v10>>
+10 David wurde immer mächtiger und der Herr, der Gott der Heere, war mit
+ihm. [fn:8]
+
+<<v11>>
+11 Hiram, der König von Tyrus, schickte eine Gesandtschaft zu David und
+ließ ihm Zedernholz überbringen; auch Zimmerleute und Steinmetzen
+schickte er und sie bauten für David einen Palast.
+
+<<v12>>
+12 So erkannte David, dass der Herr ihn als König von Israel bestätigt
+hatte und dass der Herr sein Königtum wegen seines Volkes Israel zu
+hohem Ansehen gebracht hatte.\\
+\\
+
+<<v13>>
+* Die in Jerusalem geborenen Söhne Davids: 5,13-16
+
+13 Als David von Hebron gekommen war, nahm er sich noch Nebenfrauen,
+auch Frauen aus Jerusalem. So wurden ihm noch mehr Söhne und Töchter
+geboren. [fn:9]
+
+<<v14>>
+14 Das sind die Namen der Söhne, die ihm in Jerusalem geboren wurden:
+Schima, Schobab, Natan, Salomo,
+
+<<v15>>
+15 Jibhar, Elischua, Nefeg, Jafia,
+
+<<v16>>
+16 Elischama, Eljada und Elifelet.\\
+\\
+
+<<v17>>
+* Der Krieg mit den Philistern: 5,17-25
+
+17 Die Philister hörten, dass man David zum König von Israel gesalbt
+hatte. Da zogen alle herauf, um David gefangen zu nehmen. David erfuhr
+davon und zog sich in eine Bergfestung zurück. [fn:10]
+
+<<v18>>
+18 Als die Philister herankamen und in der Rafaïterebene umherstreiften, [fn:11] [fn:12]
+
+<<v19>>
+19 befragte David den Herrn; er sagte: Soll ich die Philister angreifen?
+Wirst du sie in meine Hand geben? Der Herr antwortete David: Greif sie
+an; denn ich werde die Philister bestimmt in deine Hand geben.
+
+<<v20>>
+20 Da zog David nach Baal-Perazim. Dort schlug er die Philister und
+sagte: Der Herr hat die Reihen meiner Feinde vor meinen Augen
+durchbrochen, wie Wasser (einen Damm) durchbricht. Deshalb nennt man
+jenen Ort Baal-Perazim (Herr der Durchbrüche).
+
+<<v21>>
+21 Die Philister ließen dort ihre Götterbilder zurück, sodass David und
+seine Männer sie mitnehmen konnten.
+
+<<v22>>
+22 Doch die Philister zogen noch einmal herauf und streiften in der
+Rafaïterebene umher.
+
+<<v23>>
+23 David befragte wieder den Herrn und der Herr antwortete ihm: Zieh
+nicht hinauf, umgeh sie in ihrem Rücken und komm von den Baka-Bäumen her
+an sie heran! [fn:13]
+
+<<v24>>
+24 Wenn du dann in den Wipfeln der Baka-Bäume ein Geräusch wie von
+Schritten hörst, dann beeil dich; denn dann geht der Herr vor dir her,
+um das Heer der Philister zu schlagen.
+
+<<v25>>
+25 David tat, was der Herr ihm befohlen hatte, und er schlug die
+Philister (im ganzen Gebiet) zwischen Geba und der Gegend von Geser.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:2.Sam_19.org::v13][19,13]]; [[file:Gen_2.org::v23][Gen 2,23]]; (1-12) [[file:1.Chr_11.org::v1][1 Chr 11,1-10]]; [[file:1.Chr_14.org::v1][14,1f]]
+
+[fn:2] [[file:1.Sam_13.org::v14][1 Sam 13,14]]; [[file:1.Sam_18.org::v13][18,13]].[[file:1.Sam_18.org::v16][16]]; [[file:1.Sam_25.org::v30][25,30]]; [[file:2.Sam_6.org::v21][2 Sam 6,21]]; [[file:2.Sam_7.org::v8][7,8]]
+
+[fn:3] [[file:2.Sam_2.org::v4][2,4]]; [[file:1.Sam_16.org::v13][1 Sam 16,13]]
+
+[fn:4] (4-5) [[file:1.Kön_2.org::v11][1 Kön 2,11]]; [[file:1.Chr_3.org::v4][1 Chr 3,4]]; [[file:1.Chr_29.org::v27][29,27]]
+
+[fn:5] [[file:Jos_15.org::v63][Jos 15,63]]; [[file:Ri_1.org::v21][Ri 1,21]]
+
+[fn:6] Text schwer verständlich.
+
+[fn:7] Millo: Stadtteil von Jerusalem westlich des
+Tempelbereichs. Der Name bedeutet «Auffüllung», «Aufschüttung» o. dgl.
+
+[fn:8] [[file:2.Sam_3.org::v1][3,1]]
+
+[fn:9] [[file:2.Sam_3.org::v2][3,2-5]]; [[file:1.Chr_3.org::v5][1 Chr 3,5-9]]; (13-16) [[file:1.Chr_14.org::v3][1 Chr 14,3-7]]
+
+[fn:10] (17-25) [[file:1.Chr_14.org::v8][1 Chr 14,8-17]]
+
+[fn:11] [[file:2.Sam_23.org::v13][23,13]]; [[file:1.Sam_22.org::v1][1 Sam 22,1]]
+
+[fn:12] Rafaïterebene: die Ebene südwestlich von Jerusalem.
+
+[fn:13] Die Baka-Bäume sind wahrscheinlich Mastixsträucher,
+die im Gebirge Juda häufig vorkommen. 

@@ -1,0 +1,248 @@
+:PROPERTIES:
+:ID:       985cde3c-e2ae-42c7-888b-a81d6a4e3ad0
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Galater* -- *1*
+[[file:Gal_2.html][2]] [[file:Gal_3.html][3]] ... [[file:Gal_6.html][6]]
+
+--------------
+
+* Gal 1
+  :PROPERTIES:
+  :CUSTOM_ID: gal-1
+  :END:
+
+Paulus ist nach Apg 16,6; 18,23 auf seinen Missionsreisen zweimal in das
+»galatische Land« gekommen, was durch Gal 4,13 bestätigt wird, wo er
+ausdrücklich auf den ersten Aufenthalt verweist. Die Gründung der
+Gemeinden in Galatien (zur Bevölkerung und geographischen Lage vgl.
+Anmerkung zu 1,2) fällt in die Zeit der beginnenden selbstständigen
+Missionsarbeit nach der Trennung von Barnabas, vermutlich in das Jahr 50
+n. Chr. (Apg 15,39 - 18,23).\\
+\\
+Einige Jahre später sind die galatischen Gemeinden von Irrlehrern
+aufgesucht und beeinflusst worden. Paulus befindet sich inzwischen in
+Ephesus (vgl. Apg 19,1 - 20,1) und schreibt von dort aus zwischen 53 und
+55 n. Chr. seinen Brief. Die Irrlehrer vertreten nach den wenigen
+Hinweisen, die dem Galaterbrief zu entnehmen sind, eine Lehre, die aus
+jüdischer, christlicher und heidnischer Tradition zusammengesetzt ist,
+verstehen sich selbst aber als Judenchristen und verlangen von den
+ehemaligen Heiden, dass sie sich ebenfalls beschneiden lassen und das
+alttestamentliche Gesetz als zum Heil notwendig anerkennen (vgl.
+4,8-10.16-20; 5,1-12; 6,11-16).\\
+\\
+Paulus sieht darin eine Verfälschung der christlichen Botschaft, er kann
+diese Lehre nicht als »Evangelium« anerkennen (1,6-9). Er erinnert an
+seine eigene Bekehrung und Einsetzung zum Apostel der Heiden, an seine
+Unabhängigkeit von den Vertretern der judenchristlichen Mission
+(1,10-24), an die Anerkennung seiner gesetzesfreien Mission unter den
+Heiden beim Apostelkonzil und an die Auseinandersetzung mit Petrus und
+Barnabas in Antiochia (2,1-21). Danach legt er dar, wie Verheißung und
+Gesetz, Glaube und »Werke des Gesetzes« sich zueinander verhalten, und
+warnt vor einem Abfall vom wahren Glauben (3,1 - 5,12). Im Schlussteil
+bringt der Apostel allgemeine Ermahnungen (sog. Paränese), wie wir sie
+auch aus anderen Paulusbriefen kennen (z. B. Röm Kap. 12 und 13). Doch
+kommt er in dem eigenhändig geschriebenen Schlusswort wieder auf die
+besondere Situation in Galatien zurück.\\
+\\
+Paulus hat mit seinem Brief offensichtlich Erfolg gehabt, sonst wäre das
+Schreiben kaum erhalten geblieben. Auch zeigt 1 Kor 16,1, dass er
+weiterhin mit den galatischen Christen in Verbindung stand. Der Brief
+gibt Einblick in Gefährdungen der jungen Gemeinden und zeigt, ähnlich
+dem Römerbrief, was Paulus unter dem Evangelium von Jesus Christus
+versteht; insbesondere geht er dabei auf das Verhältnis von
+Rechtfertigung und Glaube ein.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Anschrift und Gruß: 1,1-5
+   :PROPERTIES:
+   :CUSTOM_ID: anschrift-und-gruß-11-5
+   :END:
+1 Paulus, zum Apostel berufen, nicht von Menschen oder durch einen
+Menschen, sondern durch Jesus Christus und durch Gott, den Vater, der
+ihn von den Toten auferweckt hat, ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 und alle Brüder, die bei mir sind, an die Gemeinden in Galatien:
+^{[[#fn3][3]][[#fn4][4]]}
+
+<<v3>>
+3 Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn
+Jesus Christus, ^{[[#fn5][5]]}
+
+<<v4>>
+4 der sich für unsere Sünden hingegeben hat, um uns aus der
+gegenwärtigen bösen Welt zu befreien, nach dem Willen unseres Gottes und
+Vaters. ^{[[#fn6][6]]}
+
+<<v5>>
+5 Ihm sei Ehre in alle Ewigkeit. Amen. ^{[[#fn7][7]]}\\
+\\
+
+<<v6>>
+** Der Anlass des Briefes: 1,6-9
+   :PROPERTIES:
+   :CUSTOM_ID: der-anlass-des-briefes-16-9
+   :END:
+6 Ich bin erstaunt, dass ihr euch so schnell von dem abwendet, der euch
+durch die Gnade Christi berufen hat, und dass ihr euch einem anderen
+Evangelium zuwendet. ^{[[#fn8][8]][[#fn9][9]]}
+
+<<v7>>
+7 Doch es gibt kein anderes Evangelium, es gibt nur einige Leute, die
+euch verwirren und die das Evangelium Christi verfälschen wollen.
+^{[[#fn10][10]]}
+
+<<v8>>
+8 Wer euch aber ein anderes Evangelium verkündigt, als wir euch
+verkündigt haben, der sei verflucht, auch wenn wir selbst es wären oder
+ein Engel vom Himmel. ^{[[#fn11][11]]}
+
+<<v9>>
+9 Was ich gesagt habe, das sage ich noch einmal: Wer euch ein anderes
+Evangelium verkündigt, als ihr angenommen habt, der sei verflucht.\\
+\\
+
+<<v10>>
+** Das Apostelamt des Paulus: 1,10 - 2,10
+   :PROPERTIES:
+   :CUSTOM_ID: das-apostelamt-des-paulus-110---210
+   :END:
+**** Die Berufung zum Apostel: 1,10-24
+     :PROPERTIES:
+     :CUSTOM_ID: die-berufung-zum-apostel-110-24
+     :END:
+10 Geht es mir denn um die Zustimmung der Menschen, oder geht es mir um
+Gott? Suche ich etwa Menschen zu gefallen? Wollte ich noch den Menschen
+gefallen, dann wäre ich kein Knecht Christi. ^{[[#fn12][12]]}
+
+<<v11>>
+11 Ich erkläre euch, Brüder: Das Evangelium, das ich verkündigt habe,
+stammt nicht von Menschen; ^{[[#fn13][13]]}
+
+<<v12>>
+12 ich habe es ja nicht von einem Menschen übernommen oder gelernt,
+sondern durch die Offenbarung Jesu Christi empfangen. ^{[[#fn14][14]]}
+
+<<v13>>
+13 Ihr habt doch gehört, wie ich früher als gesetzestreuer Jude gelebt
+habe, und wisst, wie maßlos ich die Kirche Gottes verfolgte und zu
+vernichten suchte. ^{[[#fn15][15]]}
+
+<<v14>>
+14 In der Treue zum jüdischen Gesetz übertraf ich die meisten
+Altersgenossen in meinem Volk und mit dem größten Eifer setzte ich mich
+für die Überlieferungen meiner Väter ein. ^{[[#fn16][16]]}
+
+<<v15>>
+15 Als aber Gott, der mich /schon im Mutterleib/ auserwählt und durch
+seine Gnade berufen hat, mir in seiner Güte ^{[[#fn17][17]]}
+
+<<v16>>
+16 seinen Sohn offenbarte, damit ich ihn unter den Heiden verkündige, da
+zog ich keinen Menschen zu Rate; ^{[[#fn18][18]][[#fn19][19]]}
+
+<<v17>>
+17 ich ging auch nicht sogleich nach Jerusalem hinauf zu denen, die vor
+mir Apostel waren, sondern zog nach Arabien und kehrte dann wieder nach
+Damaskus zurück. ^{[[#fn20][20]]}
+
+<<v18>>
+18 Drei Jahre später ging ich nach Jerusalem hinauf, um Kephas kennen zu
+lernen, und blieb fünfzehn Tage bei ihm. ^{[[#fn21][21]][[#fn22][22]]}
+
+<<v19>>
+19 Von den anderen Aposteln habe ich keinen gesehen, nur Jakobus, den
+Bruder des Herrn. ^{[[#fn23][23]]}
+
+<<v20>>
+20 Was ich euch hier schreibe - Gott weiß, dass ich nicht lüge.
+^{[[#fn24][24]]}
+
+<<v21>>
+21 Danach ging ich in das Gebiet von Syrien und Zilizien.
+^{[[#fn25][25]]}
+
+<<v22>>
+22 Den Gemeinden Christi in Judäa aber blieb ich persönlich unbekannt,
+
+<<v23>>
+23 sie hörten nur: Er, der uns einst verfolgte, verkündigt jetzt den
+Glauben, den er früher vernichten wollte.
+
+<<v24>>
+24 Und sie lobten Gott um meinetwillen.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 1,11f; Röm 1,1
+
+^{[[#fnm2][2]]} nicht von Menschen oder durch einen Menschen: d. h.
+weder von einer Gemeinde beauftragt (vgl. «Abgesandte» Phil 2,25; 2 Kor
+8,23) noch durch Vermittlung eines Propheten eingesetzt (vgl. 1 Tim
+1,18; 4,14).
+
+^{[[#fnm3][3]]} ℘ 1 Kor 16,1
+
+^{[[#fnm4][4]]} Gemeint ist die Landschaft im Innern Kleinasiens, nicht
+die gleichnamige römische Provinz, die auch noch das Gebiet des
+südlicher gelegenen Pisidien und Teile von Lykaonien umfasste (vgl. Apg
+13,14 - 14,25); nur die Bewohner der von Kelten besiedelten Landschaft
+können mit «Galater» (3,1) angesprochen werden.
+
+^{[[#fnm5][5]]} 3f: Der Gruß ist erweitert durch einen aus der
+urchristlichen Überlieferung stammenden Bekenntnissatz.
+
+^{[[#fnm6][6]]} ℘ 2,20; Eph 5,2; 1 Tim 2,6; 1 Joh 5,19
+
+^{[[#fnm7][7]]} ℘ Röm 16,27; 2 Tim 4,18
+
+^{[[#fnm8][8]]} ℘ 5,8
+
+^{[[#fnm9][9]]} 6-9: Anstelle des sonst üblichen Dankgebets beginnt
+Paulus diesen Brief mit einer Warnung und Drohung.
+
+^{[[#fnm10][10]]} ℘ 2 Kor 11,4; Gal 5,10; Apg 15,1.24
+
+^{[[#fnm11][11]]} ℘ 1 Kor 16,22
+
+^{[[#fnm12][12]]} ℘ 1 Thess 2,4
+
+^{[[#fnm13][13]]} ℘ 1,1
+
+^{[[#fnm14][14]]} Dies schließt die Bindung an urchristliche
+Bekenntnistradition nicht aus (vgl. die Anmerkung zu 1,3f).
+
+^{[[#fnm15][15]]} ℘ Phil 3,5; Apg 8,3; 9,1; 1 Kor 15,9
+
+^{[[#fnm16][16]]} ℘ Apg 26,4f
+
+^{[[#fnm17][17]]} ℘ Jes 49,1
+
+^{[[#fnm18][18]]} ℘ Röm 1,5; 1 Kor 15,10; Apg 9,3-5
+
+^{[[#fnm19][19]]} Wörtlich: da zog ich nicht Fleisch und Blut zu Rate.
+
+^{[[#fnm20][20]]} Zur Bekehrung bei Damaskus vgl. Apg 9,1-22; 22,3-16;
+26, 4-18. «Arabien» ist Bezeichnung des damaligen Nabatäerreiches, zu
+dem zeitweise auch Damaskus gehörte, wo Paulus wohl zuerst missioniert
+hat.
+
+^{[[#fnm21][21]]} ℘ Apg 9,26-28; Joh 1,42
+
+^{[[#fnm22][22]]} 18f: Neben Petrus, aramäisch Kepha(s), spielte in
+nachösterlicher Zeit Jakobus, der «Bruder des Herrn», eine wichtige
+Rolle in der Jerusalemer Gemeinde (vgl. 2,9), deren Leitung er später
+übernahm (Apg 12,17). Vgl. die Anmerkung zu Mt 12,46f.
+
+^{[[#fnm23][23]]} ℘ 2,9; Mt 13,55
+
+^{[[#fnm24][24]]} ℘ Röm 9,1
+
+^{[[#fnm25][25]]} Nach Apg 9,30 wirkte Paulus zuerst im Umkreis seiner
+Heimatstadt Tarsus in Zilizien (vgl. Apg 22,3) und wurde dann von
+Barnabas in das Missionszentrum der «Hellenisten» (vgl. Apg 6,1 -8,3;
+11,19-21), die Großstadt Antiochia am Orontes, geholt (Apg 11,25f).

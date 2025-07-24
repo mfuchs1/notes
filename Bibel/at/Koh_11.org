@@ -1,0 +1,103 @@
+#+TITLE: Koh 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-02-13 Do 14:37]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Koh 11.html
+
+* Koh 11
+
+<<verses>>
+
+<<v1>>
+* Berechenbarkeit und Unberechenbarkeit der Zukunft: 11,1-3
+
+1 Leg dein Brot auf die Wasserfläche, /\\
+ denn noch nach vielen Tagen wirst du es wieder finden -\\
+\\
+
+<<v2>>
+2 verteil dein Kapital auf sieben oder gar auf acht; /\\
+ denn du weißt nicht, welches Unglück über das Land kommt.\\
+\\
+
+<<v3>>
+3 Wenn die Wolken sich mit Regen füllen, /\\
+ schütten sie ihn auch über das Land aus; wenn ein Baum nach Süden oder
+Norden fällt - /\\
+ wohin der Baum auch fällt, da bleibt er liegen. [fn:1]\\
+\\
+
+<<v4>>
+* Tatkräftiges Handeln: 11,4-8
+
+4 Wer ständig nach dem Wind schaut, kommt nicht zum Säen, /\\
+ wer ständig die Wolken beobachtet, kommt nicht zum Ernten.\\
+\\
+
+<<v5>>
+5 Wie du den Weg des Windes ebenso wenig wie das Werden des Kindes im
+Leib der Schwangeren erkennen kannst, so kannst du auch das Tun Gottes
+nicht erkennen, der alles tut. [fn:2]
+
+<<v6>>
+6 Am Morgen beginne zu säen, auch gegen Abend lass deine Hand noch nicht
+ruhen; denn du kannst nicht im Voraus erkennen, was Erfolg haben wird,
+das eine oder das andere, oder ob sogar beide zugleich zu guten
+Ergebnissen führen.\\
+\\
+
+<<v7>>
+7 Dann wird das Licht süß sein /\\
+ und den Augen wird es wohl tun, die Sonne zu sehen.\\
+\\
+
+<<v8>>
+8 Denn selbst wenn ein Mensch viele Jahre zu leben hat, /\\
+ freue er sich in dieser ganzen Zeit /\\
+ und er denke zugleich an die dunklen Tage: /\\
+ Auch sie werden viele sein. /\\
+ Alles, was kommt, ist Windhauch. [fn:3]\\
+\\
+
+<<v9>>
+* Freude in der Jugend im Blick auf Alter und Tod: 11,9 - 12,7
+
+9 Freu dich, junger Mann, in deiner Jugend, /\\
+ sei heiteren Herzens in deinen frühen Jahren! Geh auf den Wegen, die
+dein Herz dir sagt, /\\
+ zu dem, was deine Augen vor sich sehen. [ Aber sei dir bewusst, dass
+Gott dich für all das vor Gericht ziehen wird.] [fn:4] [fn:5]\\
+\\
+
+<<v10>>
+10 Halte deinen Sinn von Ärger frei /\\
+ und schütz deinen Leib vor Krankheit; /\\
+ denn die Jugend und das dunkle Haar sind Windhauch. [fn:6] [fn:7]\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:Koh_3.org::v17][3,17]]
+
+[fn:2] [[file:Koh_3.org::v11][3,11]]; [[file:Koh_8.org::v17][8,17]]; [[file:Ps_139.org::v15][Ps 139,15]]
+
+[fn:3] 8e: Andere Übersetzungsmöglichkeit: Jeder, der (zur
+Welt) kommt, ist Windhauch (d. h. er muss sterben).
+
+[fn:4] (9-12,7) [[file:Koh_7.org::v1][7,1-4]]
+
+[fn:5] Die zweite Vershälfte ist vermutlich vom Verfasser des
+zweiten Nachworts hinzugefügt worden (vgl. 12,14).
+
+[fn:6] [[file:Koh_2.org::v23][2,23]]
+
+[fn:7] Andere Übersetzungsmöglichkeit: denn die Jugend und die
+Morgenröte sind ...

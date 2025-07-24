@@ -1,0 +1,168 @@
+#+TITLE: Koh 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-02-13 Do 13:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Koh 8.html
+
+* Koh 8
+
+<<verses>>
+
+<<v1>>
+1 Wer ist hier gebildet? Wer versteht es, ein Wort zu deuten? [fn:1] [fn:2]\\
+
+* Zum Thema: Gebildete und König: 8,1b-4
+
+Das Wissen eines Menschen macht seine Miene strahlend /\\
+ und seine strengen Züge lösen sich. -\\
+\\
+
+<<v2>>
+2 Ich (dagegen sage): Achte auf die Befehle des Königs, und zwar im
+Hinblick auf den vor Gott geleisteten Eid. [fn:3]
+
+<<v3>>
+3 Entferne dich nicht hastig aus seiner Gegenwart und versteife dich
+nicht auf eine Sache, wenn sie schlimm auszugehen droht. Denn alles,
+wozu er sich entscheidet, setzt er auch durch. [fn:4]
+
+<<v4>>
+4 Hinter dem Wort des Königs steht nun einmal die Macht. Wer also kann
+ihm sagen: Was tust du?\\
+\\
+
+<<v5>>
+* Zum Thema: Schicksal des gebildeten Gesetzestreuen und des ungebildeten Gesetzesübertreters: 8,5-12a
+
+5 Wer auf das Gebot achtet, den trifft nichts Schlimmes, /\\
+ der Verstand des Gebildeten weiß die rechte Zeit. - [fn:5]\\
+\\
+
+<<v6>>
+6 Allerdings: Es gibt die rechte Zeit für jedes Geschehen und: Schlimmes
+Geschick lastet häufig auf dem Menschen und: [fn:6] [fn:7]\\
+\\
+
+<<v7>>
+7 Er weiß nicht, was geschehen wird. /\\
+ Wie es geschehen wird - wer verkündet es ihm? [fn:8]\\
+\\
+
+<<v8>>
+8 Es gibt keinen Menschen, der Macht hat über den Wind, /\\
+ sodass er den Wind einschließen könnte. Es gibt keine Macht über den
+Sterbetag. /\\
+ Es gibt im Krieg keinen Urlaub. /\\
+ Selbst ein Gesetzesbruch kann die Gesetzesbrecher nicht retten. [fn:9]\\
+\\
+
+<<v9>>
+9 All dies habe ich beobachtet, als ich mich zu einer Zeit, wo ein
+Mensch seine Macht über den andern Menschen dazu benutzte, diesem zu
+schaden, mit jedem Tun beschäftigte, das unter der Sonne getan wurde. [fn:10]
+
+<<v10>>
+10 Dabei habe ich beobachtet, wie Menschen, die das Gesetz übertreten
+hatten, ein Begräbnis erhielten, während andere, die recht getan hatten,
+ankamen und vom Ort des Heiligtums wieder weggehen und bald in der Stadt
+vergessen sein werden. Auch das ist Windhauch. [fn:11]\\
+\\
+
+<<v11>>
+11 Denn: Wo keine Strafe verhängt wird, /\\
+ ist die Bosheit schnell am Werk. Deshalb wächst im Herzen der Menschen
+die Lust, Böses zu tun.\\
+\\
+
+<<v12>>
+12 Denn: Ein Sünder kann hundertmal Böses tun /\\
+ und dennoch lange leben.\\
+\\
+
+<<v13>>
+* Weiterführung: 8,12b-15
+
+13 Freilich kenne ich das Wort: Denen, die Gott fürchten, wird es gut
+gehen, /\\
+ weil sie sich vor ihm fürchten; dem, der das Gesetz übertritt, wird es
+nicht gut gehen /\\
+ und er wird kein langes Leben haben, gleich dem Schatten, /\\
+ weil er sich nicht vor Gott fürchtet. [fn:12]\\
+\\
+
+<<v14>>
+14 Doch es gibt etwas, das auf der Erde getan wurde und Windhauch ist:
+Es gibt gesetzestreue Menschen, denen es so ergeht, /\\
+ als hätten sie wie Gesetzesbrecher gehandelt; und es gibt
+Gesetzesbrecher, /\\
+ denen es so ergeht, /\\
+ als hätten sie wie Gesetzestreue gehandelt. Ich schloss daraus, dass
+auch dies Windhauch ist. [fn:13]\\
+\\
+
+<<v15>>
+15 Da pries ich die Freude; denn es gibt für den Menschen kein Glück
+unter der Sonne, es sei denn, er isst und trinkt und freut sich. Das
+soll ihn begleiten bei seiner Arbeit während der Lebenstage, die Gott
+ihm unter der Sonne geschenkt hat. [fn:14]\\
+\\
+
+<<v16.17>>
+* Zum Thema: Grenzen der Erkenntnis: 8,16 - 9,6
+
+16.17 Als ich mir vorgenommen hatte zu erkennen, was Wissen wirklich
+ist, und zu beobachten, welches Geschäft eigentlich auf der Erde
+getätigt wird, da sah ich ein, dass der Mensch, selbst wenn er seinen
+Augen bei Tag und Nacht keinen Schlaf gönnt, das Tun Gottes in seiner
+Ganzheit nicht wieder finden kann, das Tun, das unter der Sonne getan
+wurde. Deshalb strengt der Mensch, danach suchend, sich an und findet es
+doch nicht wieder. Selbst wenn der Gebildete behauptet, er erkenne - er
+kann es doch nicht wieder finden. [fn:15]
+
+
+* Footnotes
+
+[fn:1] [[file:Koh_2.org::v14][2,14]]; [[file:Spr_16.org::v13][Spr 16,13f]]
+
+[fn:2] 1a: Andere Lesart: Wer tut es dem Gebildeten gleich? Wer
+dem, der es versteht, ein Wort zu deuten? - Wählt man diese Lesart, dann
+bilden die beiden Fragen nicht mehr das Ende des vorangehenden
+Abschnitts, sondern den Anfang des folgenden.
+
+[fn:3] 2-4: Kohelet widerspricht der Meinung von der
+Unwiderstehlichkeit des Gebildeten durch den Hinweis auf die größere
+Durchsetzungskraft der realen Machtverhältnisse. Er kleidet den Hinweis
+in Ratschläge für das Verhalten bei Hof.
+
+[fn:4] [[file:Koh_10.org::v4][10,4]]; [[file:Spr_20.org::v2][Spr 20,2]]
+
+[fn:5] [[file:Spr_19.org::v16][Spr 19,16]]; (5-6) [[file:Spr_3.org::v1][3,1]]
+
+[fn:6] [[file:Koh_2.org::v17][2,17]]; [[file:Koh_6.org::v1][6,1]]
+
+[fn:7] 6-12: Die Beweisführung greift zunächst auf 2,17 und
+6,1.12 zurück, dann weist sie auf Sprichwörter und auf gemachte
+Erfahrungen hin. Am Ende stehen Schlussfolgerungen in Spruchform.
+
+[fn:8] [[file:Koh_6.org::v12][6,12]]
+
+[fn:9] [[file:Spr_30.org::v4][Spr 30,4]]; [[file:Koh_9.org::v12][Koh 9,12]]
+
+[fn:10] [[file:Koh_1.org::v13][1,13]]
+
+[fn:11] [[file:Ijob_21.org::v27][Ijob 21,27-34]]
+
+[fn:12] [[file:Koh_6.org::v12][6,12]]; (12-13) [[file:Ps_37.org::v17][Ps 37,17-20]]; [[file:Spr_10.org::v27][Spr 10,27]]; (12b-15) [[file:Spr_3.org::v16][3,16-22]]
+
+[fn:13] [[file:Koh_7.org::v15][7,15]]; [[file:Ps_73.org::v2][Ps 73,2-12]]; [[file:Jer_12.org::v1][Jer 12,1]]
+
+[fn:14] [[file:Koh_2.org::v10][2,10]]
+
+[fn:15] [[file:Koh_1.org::v8][1,8]].[[file:Koh_1.org::v13][13]].[[file:Koh_1.org::v17][17]]; [[file:Koh_2.org::v23][2,23]]; [[file:Koh_3.org::v11][3,11]]; [[file:Koh_11.org::v5][11,5]]; [[file:Sir_18.org::v5][Sir 18,5]]

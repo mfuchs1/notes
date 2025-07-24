@@ -1,0 +1,146 @@
+#+TITLE: Dtn 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-29 So 21:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 20.html
+
+
+<<verses>>
+
+<<v1>>
+* Das Aufgebot des Volksheeres: 20,1-9
+
+1 Wenn du zum Kampf gegen deine Feinde ausziehst und Pferde und Wagen
+und ein Kriegsvolk erblickst, das zahlreicher ist als du, dann sollst du
+dich nicht vor ihnen fürchten; denn der Herr, dein Gott, der dich aus
+Ägypten heraufgeführt hat, ist bei dir.
+
+<<v2>>
+2 Wenn ihr in den Kampf zieht, soll der Priester vortreten, dem
+Kriegsvolk eine Ansprache halten [fn:1]
+
+<<v3>>
+3 und zu ihnen sagen: Höre, Israel! Ihr zieht heute in den Kampf gegen
+eure Feinde. Verliert nicht den Mut! Fürchtet euch nicht, geratet nicht
+durcheinander und weicht nicht erschreckt zurück, wenn sie angreifen.
+
+<<v4>>
+4 Denn der Herr, euer Gott, zieht mit euch, um für euch gegen eure
+Feinde zu kämpfen und euch zu retten. [fn:2]
+
+<<v5>>
+5 Dann sollen die Listenführer zum Kriegsvolk sagen: Ist unter euch
+einer, der ein neues Haus gebaut und noch nicht eingeweiht hat? Er trete
+weg und kehre zu seinem Haus zurück, damit er nicht im Kampfe fällt und
+ein anderer es einweiht. [fn:3]
+
+<<v6>>
+6 Ist unter euch einer, der einen Weinberg angelegt und noch nicht die
+erste Lese gehalten hat? Er trete weg und kehre nach Hause zurück, damit
+er nicht im Kampfe fällt und ein anderer die erste Lese hält.
+
+<<v7>>
+7 Ist unter euch einer, der sich mit einer Frau verlobt und sie noch
+nicht geheiratet hat? Er trete weg und kehre nach Hause zurück, damit er
+nicht im Kampfe fällt und ein anderer seine Frau heiratet. [fn:4]
+
+<<v8>>
+8 Außerdem sollen die Listenführer zum Kriegsvolk sagen: Ist unter euch
+einer, der sich fürchtet und keinen Mut hat? Er trete weg und kehre nach
+Hause zurück, damit nicht auch noch seinen Brüdern der Mut genommen
+wird. [fn:5]
+
+<<v9>>
+9 Und wenn die Listenführer damit zu Ende sind, dies dem Kriegsvolk zu
+sagen, sollen sie Truppenführer ernennen und ihnen das Kommando über das
+Kriegsvolk übertragen.\\
+\\
+
+<<v10>>
+* Der Krieg gegen Städte: 20,10-18
+
+10 Wenn du vor eine Stadt ziehst, um sie anzugreifen, dann sollst du ihr
+zunächst eine friedliche Einigung vorschlagen.
+
+<<v11>>
+11 Nimmt sie die friedliche Einigung an und öffnet dir die Tore, dann
+soll die gesamte Bevölkerung, die du dort vorfindest, zum Frondienst
+verpflichtet und dir untertan sein.
+
+<<v12>>
+12 Lehnt sie eine friedliche Einigung mit dir ab und will sich mit dir
+im Kampf messen, dann darfst du sie belagern.
+
+<<v13>>
+13 Wenn der Herr, dein Gott, sie in deine Gewalt gibt, sollst du alle
+männlichen Personen mit scharfem Schwert erschlagen.
+
+<<v14>>
+14 Die Frauen aber, die Kinder und Greise, das Vieh und alles, was sich
+sonst in der Stadt befindet, alles, was sich darin plündern lässt,
+darfst du dir als Beute nehmen. Was du bei deinen Feinden geplündert
+hast, darfst du verzehren; denn der Herr, dein Gott, hat es dir
+geschenkt.
+
+<<v15>>
+15 So sollst du mit allen Städten verfahren, die sehr weit von dir
+entfernt liegen und nicht zu den Städten dieser Völker hier gehören.
+
+<<v16>>
+16 Aus den Städten dieser Völker jedoch, die der Herr, dein Gott, dir
+als Erbbesitz gibt, darfst du nichts, was Atem hat, am Leben lassen. [fn:6]
+
+<<v17>>
+17 Vielmehr sollst du die Hetiter und Amoriter, Kanaaniter und
+Perisiter, Hiwiter und Jebusiter der Vernichtung weihen, so wie es der
+Herr, dein Gott, dir zur Pflicht gemacht hat, [fn:7]
+
+<<v18>>
+18 damit sie euch nicht lehren, alle Gräuel nachzuahmen, die sie
+begingen, wenn sie ihren Göttern dienten, und ihr nicht gegen den Herrn,
+euren Gott, sündigt. [fn:8]\\
+\\
+
+<<v19>>
+* Die Schonung des Baumbestandes: 20,19f
+
+19 Wenn du eine Stadt längere Zeit hindurch belagerst, um sie
+anzugreifen und zu erobern, dann sollst du ihrem Baumbestand keinen
+Schaden zufügen, indem du die Axt daran legst. Du darfst von den Bäumen
+essen, sie aber nicht fällen mit dem Gedanken, die Bäume auf dem Feld
+seien der Mensch selbst, sodass sie von dir belagert werden müssten. [fn:9]
+
+<<v20>>
+20 Nur den Bäumen, von denen du weißt, dass sie keine Fruchtbäume sind,
+darfst du Schaden zufügen. Du darfst sie fällen und daraus
+Belagerungswerk bauen gegen die Stadt, die gegen dich kämpfen will, bis
+sie schließlich fällt.\\
+\\
+
+* Footnotes
+
+[fn:1] (2-4) [[file:Dtn_1.org::v29][1,29-31]]; [[file:Dtn_3.org::v21][3,21f]]; [[file:Ex_14.org::v13][Ex 14,13f]]; [[file:Jos_23.org::v3][Jos 23,3-13]]; [[file:Dtn_17.org::v12][Dtn 17,12]]
+
+[fn:2] [[file:Ex_14.org::v30][Ex 14,30]]; [[file:Ri_2.org::v18][Ri 2,18]]; [[file:Ri_6.org::v37][6,37]]; [[file:Ri_7.org::v7][7,7]]; [[file:Ri_10.org::v12][10,12]]; [[file:1.Sam_7.org::v8][1 Sam 7,8]]; [[file:1.Sam_14.org::v23][14,23.39]]
+
+[fn:3] (5-9) [[file:Dtn_16.org::v18][16,18]]; [[file:Dtn_28.org::v30][28,30]]
+
+[fn:4] [[file:Dtn_24.org::v5][24,5]]
+
+[fn:5] [[file:Ri_7.org::v3][Ri 7,3]]
+
+[fn:6] (16-18) [[file:Dtn_13.org::v16][13,16f]]
+
+[fn:7] (17-18) [[file:Dtn_7.org::v1][7,1-4]]
+
+[fn:8] [[file:Dtn_18.org::v9][18,9]]
+
+[fn:9] die Bäume auf dem Feld seien der Mensch selbst: Von den
+Bäumen leben die Menschen der Stadt. Wer sie vernichtet, nimmt den
+Menschen für lange Zeit ihren Lebensunterhalt.

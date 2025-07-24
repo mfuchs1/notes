@@ -1,0 +1,225 @@
+:PROPERTIES:
+:ID:       dee3af8c-73da-4042-8593-f024d78e48e7
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Epheser* --
+[[file:Eph_1.html][1]] [[file:Eph_2.html][2]] [[file:Eph_3.html][3]] *4*
+[[file:Eph_5.html][5]] [[file:Eph_6.html][6]]
+
+--------------
+
+* Eph 4
+  :PROPERTIES:
+  :CUSTOM_ID: eph-4
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Verschiedene Mahnungen: 4,1 - 6,20
+   :PROPERTIES:
+   :CUSTOM_ID: verschiedene-mahnungen-41---620
+   :END:
+**** Aufruf zur Einheit: 4,1-6
+     :PROPERTIES:
+     :CUSTOM_ID: aufruf-zur-einheit-41-6
+     :END:
+1 Ich, der ich um des Herrn willen im Gefängnis bin, ermahne euch, ein
+Leben zu führen, das des Rufes würdig ist, der an euch erging.
+
+<<v2>>
+2 Seid demütig, friedfertig und geduldig, ertragt einander in Liebe
+^{[[#fn1][1]]}
+
+<<v3>>
+3 und bemüht euch, die Einheit des Geistes zu wahren durch den Frieden,
+der euch zusammenhält.
+
+<<v4>>
+4 *Ein* Leib und *ein* Geist, wie euch durch eure Berufung auch *eine*
+gemeinsame Hoffnung gegeben ist; ^{[[#fn2][2]]}
+
+<<v5>>
+5 *ein* Herr, *ein* Glaube, *eine* Taufe,
+
+<<v6>>
+6 *ein* Gott und Vater aller, der über allem und durch alles und in
+allem ist.\\
+\\
+
+<<v7>>
+**** Die Gnadengaben zum Aufbau der Kirche: 4,7-16
+     :PROPERTIES:
+     :CUSTOM_ID: die-gnadengaben-zum-aufbau-der-kirche-47-16
+     :END:
+7 Aber jeder von uns empfing die Gnade in dem Maß, wie Christus sie ihm
+geschenkt hat.
+
+<<v8>>
+8 Deshalb heißt es: /Er stieg hinauf zur Höhe und erbeutete Gefangene,/
+er gab den /MenschenGeschenke./ ^{[[#fn3][3]][[#fn4][4]]}
+
+<<v9>>
+9 Wenn er aber /hinaufstieg,/ was bedeutet dies anderes, als dass er
+auch zur Erde herabstieg?
+
+<<v10>>
+10 Derselbe, der herabstieg, ist auch hinaufgestiegen bis zum höchsten
+Himmel, um das All zu beherrschen.
+
+<<v11>>
+11 Und er gab den einen das Apostelamt, andere setzte er als Propheten
+ein, andere als Evangelisten, andere als Hirten und Lehrer,
+^{[[#fn5][5]][[#fn6][6]]}
+
+<<v12>>
+12 um die Heiligen für die Erfüllung ihres Dienstes zu rüsten, für den
+Aufbau des Leibes Christi. ^{[[#fn7][7]]}
+
+<<v13>>
+13 So sollen wir alle zur Einheit im Glauben und in der Erkenntnis des
+Sohnes Gottes gelangen, damit wir zum vollkommenen Menschen werden und
+Christus in seiner vollendeten Gestalt darstellen.
+^{[[#fn8][8]][[#fn9][9]]}
+
+<<v14>>
+14 Wir sollen nicht mehr unmündige Kinder sein, ein Spiel der Wellen,
+hin und her getrieben von jedem Widerstreit der Meinungen, dem Betrug
+der Menschen ausgeliefert, der Verschlagenheit, die in die Irre führt.
+^{[[#fn10][10]]}
+
+<<v15>>
+15 Wir wollen uns, von der Liebe geleitet, an die Wahrheit halten und in
+allem wachsen, bis wir ihn erreicht haben. Er, Christus, ist das Haupt.
+^{[[#fn11][11]][[#fn12][12]]}
+
+<<v16>>
+16 Durch ihn wird der ganze Leib zusammengefügt und gefestigt in jedem
+einzelnen Gelenk. Jedes trägt mit der Kraft, die ihm zugemessen ist. So
+wächst der Leib und wird in Liebe aufgebaut.\\
+\\
+
+<<v17>>
+**** Der alte und der neue Mensch: 4,17-24
+     :PROPERTIES:
+     :CUSTOM_ID: der-alte-und-der-neue-mensch-417-24
+     :END:
+17 Ich sage es euch und beschwöre euch im Herrn: Lebt nicht mehr wie die
+Heiden in ihrem nichtigen Denken!
+
+<<v18>>
+18 Ihr Sinn ist verfinstert. Sie sind dem Leben, das Gott schenkt,
+entfremdet durch die Unwissenheit, in der sie befangen sind, und durch
+die Verhärtung ihres Herzens.
+
+<<v19>>
+19 Haltlos wie sie sind, geben sie sich der Ausschweifung hin, um voll
+Gier jede Art von Gemeinheit zu begehen.
+
+<<v20>>
+20 Das aber entspricht nicht dem, was ihr von Christus gelernt habt.
+
+<<v21>>
+21 Ihr habt doch von ihm gehört und seid unterrichtet worden in der
+Wahrheit, die Jesus ist. ^{[[#fn13][13]]}
+
+<<v22>>
+22 Legt den alten Menschen ab, der in Verblendung und Begierde zugrunde
+geht, ändert euer früheres Leben ^{[[#fn14][14]]}
+
+<<v23>>
+23 und erneuert euren Geist und Sinn!
+
+<<v24>>
+24 Zieht den neuen Menschen an, der /nach dem Bild Gottes/ geschaffen
+ist in wahrer Gerechtigkeit und Heiligkeit.
+^{[[#fn15][15]][[#fn16][16]]}\\
+\\
+
+<<v25>>
+**** Die Pflichten gegen den Nächsten: 4,25 - 5,2
+     :PROPERTIES:
+     :CUSTOM_ID: die-pflichten-gegen-den-nächsten-425---52
+     :END:
+25 Legt deshalb die Lüge ab und /redet untereinander die Wahrheit;/ denn
+wir sind als Glieder miteinander verbunden. ^{[[#fn17][17]]}
+
+<<v26>>
+26 /Lasst euch durch den Zorn nicht zur Sünde hinreißen!/ Die Sonne soll
+über eurem Zorn nicht untergehen. ^{[[#fn18][18]]}
+
+<<v27>>
+27 Gebt dem Teufel keinen Raum!
+
+<<v28>>
+28 Der Dieb soll nicht mehr stehlen, sondern arbeiten und sich mit
+seinen Händen etwas verdienen, damit er den Notleidenden davon geben
+kann.
+
+<<v29>>
+29 Über eure Lippen komme kein böses Wort, sondern nur ein gutes, das
+den, der es braucht, stärkt und dem, der es hört, Nutzen bringt.
+
+<<v30>>
+30 Beleidigt nicht den Heiligen Geist Gottes, dessen Siegel ihr tragt
+für den Tag der Erlösung.
+
+<<v31>>
+31 Jede Art von Bitterkeit, Wut, Zorn, Geschrei und Lästerung und alles
+Böse verbannt aus eurer Mitte! ^{[[#fn19][19]]}
+
+<<v32>>
+32 Seid gütig zueinander, seid barmherzig, vergebt einander, weil auch
+Gott euch durch Christus vergeben hat.
+
+^{[[#fnm1][1]]} ℘ Kol 3,12
+
+^{[[#fnm2][2]]} ℘ Röm 12,5; 1 Kor 12,12f
+
+^{[[#fnm3][3]]} ℘ Ps 68,19
+
+^{[[#fnm4][4]]} 8f: Christus, der Gottessohn, der vom Himmel herabstieg,
+überwand und entmachtete bei seiner Himmelfahrt die bedrohlichen
+überirdischen Mächte, die den Zugang zu Gott versperrten. «Gefangene»:
+die von Christus überwundenen Mächte.
+
+^{[[#fnm5][5]]} ℘ 1 Kor 12,28
+
+^{[[#fnm6][6]]} Mit «Evangelisten» sind Missionare, mit «Hirten»
+Gemeindeleiter gemeint.
+
+^{[[#fnm7][7]]} Jeder «Heilige», das heißt jeder Christ, hat seine
+Aufgabe in der Kirche.
+
+^{[[#fnm8][8]]} ℘ Kol 1,28
+
+^{[[#fnm9][9]]} Die «vollendete Gestalt» Christi wird erst in der durch
+die Einheit der Glaubenden vollendeten Kirche sichtbar.
+
+^{[[#fnm10][10]]} ℘ Jak 1,6
+
+^{[[#fnm11][11]]} ℘ 1 Kor 11,3; Kol 2,19
+
+^{[[#fnm12][12]]} 15f: Das hier verwendete Bild vom Leib setzt die
+Vorstellungen der antiken Medizin voraus. Danach wurde der Leib vom
+Haupt her versorgt, und die Gelenke besorgten die Verbindung zwischen
+dem Haupt und den Gliedern. Mit den «Gelenken» sind wohl die in V. 11
+genannten Ämter gemeint.
+
+^{[[#fnm13][13]]} In der geschichtlichen Person Jesu ist die Wahrheit
+Gottes erschienen.
+
+^{[[#fnm14][14]]} ℘ Kol 3,9
+
+^{[[#fnm15][15]]} ℘ Gen 1,26; Kol 3,10
+
+^{[[#fnm16][16]]} Die in der Schöpfung begründete Würde des Menschen als
+des Abbildes Gottes wird durch die Taufe wiederhergestellt und
+vollendet. Zu «Zieht . . . an» vgl. die Anmerkung zu Gal 3,26f.
+
+^{[[#fnm17][17]]} ℘ Sach 8,16
+
+^{[[#fnm18][18]]} ℘ Ps 4,5 G
+
+^{[[#fnm19][19]]} ℘ Kol 3,8

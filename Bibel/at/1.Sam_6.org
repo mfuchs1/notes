@@ -1,0 +1,144 @@
+#+TITLE: 1 Sam 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 10:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 6.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Rückkehr der Lade: 6,1 - 7,1
+
+1 Die Lade des Herrn war sieben Monate lang im Gebiet der Philister.
+
+<<v2>>
+2 Dann riefen die Philister ihre Priester und Wahrsager herbei und
+fragten sie: Was sollen wir mit der Lade des Herrn machen? Gebt uns
+Auskunft, auf welche Weise wir sie an den Ort zurückschicken sollen, an
+den sie gehört.
+
+<<v3>>
+3 Sie antworteten: Wenn ihr die Lade des Gottes Israels zurückschickt,
+dann schickt sie nicht ohne Gabe zurück! Ihr müsst vielmehr ein
+Sühnegeschenk entrichten. Dann werdet ihr Heilung finden und ihr werdet
+erkennen, warum seine Hand nicht von euch ablässt.
+
+<<v4>>
+4 Sie fragten weiter: Was für ein Sühnegeschenk sollen wir ihm
+entrichten? Sie antworteten: Fünf goldene Beulen und fünf goldene Mäuse,
+entsprechend der Zahl der Philisterfürsten; denn alle hat die gleiche
+Plage getroffen, auch eure Fürsten. [fn:1]
+
+<<v5>>
+5 Macht also Abbilder eurer Pestbeulen und der Mäuse, die euer Land
+verwüsten, und gebt dem Gott Israels die Ehre! Vielleicht lässt er seine
+Hand leichter werden über euch, eurem Gott und eurem Land.
+
+<<v6>>
+6 Warum wollt ihr euer Herz verhärten, wie die Ägypter und der Pharao
+ihr Herz verhärtet haben? Sie mussten doch auch die Israeliten, nachdem
+sie sie übel behandelt hatten, entlassen und diese konnten fortgehen. [fn:2]
+
+<<v7>>
+7 Macht also jetzt einen neuen Wagen; holt zwei säugende Kühe, auf die
+noch kein Joch gelegt worden ist, und spannt die Kühe vor den Wagen;
+ihre Kälber aber nehmt ihnen weg und bringt sie nach Hause!
+
+<<v8>>
+8 Dann nehmt die Lade des Herrn und stellt sie auf den Wagen und legt
+daneben in einer Tasche die goldenen Gegenstände, die ihr ihm als
+Sühnegabe entrichten wollt; dann lasst sie fortziehen!
+
+<<v9>>
+9 Gebt aber acht: Wenn die Lade in Richtung Bet-Schemesch, also in ihr
+Gebiet hinaufzieht, dann war er es, der uns dieses große Unheil zugefügt
+hat; wenn nicht, dann wissen wir, dass nicht seine Hand uns getroffen
+hat, sondern dass es ein Zufall gewesen ist. [fn:3]
+
+<<v10>>
+10 Die Leute machten es so. Sie nahmen zwei säugende Kühe und spannten
+sie an den Wagen; ihre Kälber aber hielten sie zu Hause zurück.
+
+<<v11>>
+11 Sie stellten die Lade des Herrn auf den Wagen und auch die Tasche mit
+den goldenen Mäusen und den Abbildern ihrer Geschwüre.
+
+<<v12>>
+12 Die Kühe aber gingen geradewegs in Richtung Bet-Schemesch; sie
+folgten genau der Straße, wichen weder nach rechts noch nach links ab
+und brüllten immerzu. Die Fürsten der Philister folgten ihnen bis zur
+Grenze von Bet-Schemesch.
+
+<<v13>>
+13 Die Leute von Bet-Schemesch waren gerade im Tal bei der Weizenernte.
+Als sie aufblickten und die Lade sahen, freuten sie sich sehr darüber.
+
+<<v14>>
+14 Als der Wagen bis zum Feld Joschuas von Bet-Schemesch gekommen war,
+blieb er stehen. Dort lag ein großer Stein. Sie spalteten das Holz des
+Wagens und brachten die Kühe dem Herrn als Brandopfer dar.
+
+<<v15>>
+15 [Die Leviten hatten die Lade des Herrn und die Tasche, die neben ihr
+stand und in der goldene Gegenstände waren, herabgehoben und auf den
+großen Stein gestellt. Die Männer von Bet-Schemesch brachten an jenem
+Tag dem Herrn Brandopfer und Schlachtopfer dar.] [fn:4]
+
+<<v16>>
+16 Die fünf Fürsten der Philister sahen zu; dann kehrten sie am gleichen
+Tag nach Ekron zurück.
+
+<<v17>>
+17 Das sind die goldenen Geschwüre, die die Philister dem Herrn als
+Sühnegabe entrichtet haben: eines für Aschdod, eines für Gaza, eines für
+Aschkelon, eines für Gat, eines für Ekron,
+
+<<v18>>
+18 dazu die goldenen Mäuse entsprechend der Zahl der Philisterstädte
+unter den fünf Fürsten, von der befestigten Stadt bis zum offenen Dorf.
+Der große Stein, auf den man die Lade des Herrn gestellt hatte, liegt
+noch bis zum heutigen Tag auf dem Feld des Joschua aus Bet-Schemesch. [fn:5]
+
+<<v19>>
+19 Der Herr aber strafte die Leute von Bet-Schemesch, weil sie die Lade
+des Herrn angeschaut hatten. Er erschlug aus dem Volk siebzig Mann
+[fünfzigtausend Mann]. Da trauerte das Volk, weil der Herr einen so
+schweren Schlag gegen das Volk geführt hatte. [fn:6] [fn:7]
+
+<<v20>>
+20 Die Männer von Bet-Schemesch sagten: Wer kann vor dem Herrn, diesem
+heiligen Gott, bestehen? Und zu wem soll er von uns aus hinaufziehen? [fn:8]
+
+<<v21>>
+21 Sie schickten Boten zu den Einwohnern von Kirjat-Jearim und ließen
+sagen: Die Philister haben die Lade des Herrn zurückgebracht. Kommt
+herab und holt sie zu euch hinauf! [fn:9]
+
+* Footnotes
+
+[fn:1] Die Weihegeschenke bilden die erkrankten Körperteile und
+die Plage ab und sind als Bitte an Gott gedacht.
+
+[fn:2] [[file:Ex_8.org::v28][Ex 8,28]]; [[file:Ex_9.org::v7][9,7]]
+
+[fn:3] Es soll ein Gottesurteil herbeigeführt werden.
+
+[fn:4] Zusatz im Sinn von [[file:Num_4.org::v1][Num 4]].
+
+[fn:5] Der große Stein: Text korr., vgl. G.
+
+[fn:6] [[file:Num_4.org::v20][Num 4,20]]; [[file:2.Sam_6.org::v6][2 Sam 6,6f]]
+
+[fn:7] Übertreibender Zusatz, der bei einem Teil der Textzeugen fehlt.
+
+[fn:8] Bet-Schemesch liegt östlich von Aschdod, Kirjat-Jearim
+westlich von Jerusalem.
+
+[fn:9] [[file:1.Chr_13.org::v6][1 Chr 13,6]]; [[file:Ps_132.org::v6][Ps 132,6]]

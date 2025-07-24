@@ -1,0 +1,191 @@
+:PROPERTIES:
+:ID:       a2187862-e635-4829-ba35-d1bbbccc798d
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Habakuk* -- *1* [[file:Hab_2.html][2]]
+[[file:Hab_3.html][3]]
+
+--------------
+
+* Hab 1
+  :PROPERTIES:
+  :CUSTOM_ID: hab-1
+  :END:
+
+Dieses kleine Buch weist eine klare Struktur auf: Auf zwei Klagen des
+Propheten (1,2-4.12-17) folgen zwei göttliche Antworten (1,5-11; 2,1-5).
+Die zweite Antwort mündet in fünf Wehe-Rufe aus (2,6-20). Das
+abschließende »Gebet Habakuks« (Kap. 3) stellt die hymnische Schilderung
+der Gotteserscheinung dar, auf die der Prophet klagend und hoffend
+wartet. Dieser Schluss gehört unabdingbar zum Buch, auch wenn er als
+Gebet der Gemeinde verwendet wurde und in V. 17 einen nachträglichen
+Einschub erhielt. Der rhetorische Stil mit seiner eindrucksvollen
+Bildersprache macht das Buch zu einer Perle der prophetischen
+Literatur.\\
+\\
+Die Erwähnung der Chaldäer, d. h. der Träger des Neubabylonischen Reichs
+(1,6), weist auf den historischen Hintergrund des Buches hin: die
+heraufkommende Chaldäergefahr vor 598 v. Chr. Der Prophet, von dem sonst
+nichts bekannt ist - Dan 14,33-39 passt nicht auf ihn -, beklagt
+zunächst den schlimmen Zustand des Gottesvolkes, wohl unter König
+Jojakim (609-598 v. Chr.), und erhält zur Antwort, die Chaldäer kämen
+deshalb als Strafwerkzeug Gottes über Israel (vgl. auch 1,12). Nach der
+Klage über die Grausamkeit des Feindes deckt Gott das Geheimnis seines
+Geschichtswaltens auf: Auch durch anscheinend widersprüchliche
+Geschichtsabläufe hindurch garantiert er den endgültigen Sieg von Recht
+und Gerechtigkeit über Habsucht, Ausbeutung, Gewalttat und Götzendienst.
+Das gilt gerade auch auf der Ebene der Völkergeschichte. Die
+Verkündigung des Propheten gipfelt in der Gottesaussage: »Der Gerechte
+bleibt wegen seiner Treue am Leben« (2,4); gemeint ist die Treue im
+tätigen Glauben. Diese Zusage hat durch Paulus (Röm 1,17; Gal 3,11)
+besondere Bedeutung gewonnen (vgl. auch Hebr 10,38).\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Überschrift: 1,1
+   :PROPERTIES:
+   :CUSTOM_ID: überschrift-11
+   :END:
+1 Ausspruch, den der Prophet Habakuk in einer Vision hörte.\\
+\\
+
+<<v2>>
+** Der Dialog des Propheten mit Gott: 1,2 - 2,5
+   :PROPERTIES:
+   :CUSTOM_ID: der-dialog-des-propheten-mit-gott-12---25
+   :END:
+**** Die Klage des Propheten: 1,2-4
+     :PROPERTIES:
+     :CUSTOM_ID: die-klage-des-propheten-12-4
+     :END:
+2 Wie lange, Herr, soll ich noch rufen /\\
+ und du hörst nicht? Ich schreie zu dir: Hilfe, Gewalt! /\\
+ Aber du hilfst nicht. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Warum lässt du mich die Macht des Bösen erleben /\\
+ und siehst der Unterdrückung zu? Wohin ich blicke, sehe ich Gewalt und
+Misshandlung, /\\
+ erhebt sich Zwietracht und Streit. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Darum ist das Gesetz ohne Kraft /\\
+ und das Recht setzt sich gar nicht mehr durch. Die Bösen umstellen den
+Gerechten /\\
+ und so wird das Recht verdreht.\\
+\\
+
+<<v5>>
+**** Die Antwort Gottes: 1,5-11
+     :PROPERTIES:
+     :CUSTOM_ID: die-antwort-gottes-15-11
+     :END:
+5 Seht auf die Völker, schaut hin, /\\
+ staunt und erstarrt! Denn ich vollbringe in euren Tagen eine Tat - /\\
+ würde man euch davon erzählen, ihr glaubtet es nicht.\\
+\\
+
+<<v6>>
+6 Denn seht, ich stachle die Chaldäer auf, /\\
+ das grausame, ungestüme Volk, das die Weiten der Erde durchzieht, /\\
+ um Wohnplätze zu erobern, die ihm nicht gehören,\\
+\\
+
+<<v7>>
+7 ein furchtbares und schreckliches Volk, /\\
+ das selbst sein Recht und seinen Rang bestimmt.\\
+\\
+
+<<v8>>
+8 Seine Pferde sind schneller als Panther, /\\
+ wilder als die Wölfe der Steppe. Seine Rosse und Reiter stürmen heran,
+/\\
+ sie kommen aus der Ferne, sie fliegen herbei wie ein Geier, /\\
+ der sich auf seinen Fraß stürzt. ^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+<<v9>>
+9 Sie rücken an, entschlossen zu roher Gewalt, /\\
+ alle Gesichter vorwärts gerichtet. /\\
+ Gefangene raffen sie zusammen wie Sand.\\
+\\
+
+<<v10>>
+10 Sie machen sich sogar über Könige lustig /\\
+ und lachen über mächtige Fürsten; ja, sie spotten über jede Festung,
+/\\
+ sie schütten einen Erdwall auf und nehmen sie ein.\\
+\\
+
+<<v11>>
+11 Dann ziehen sie weiter, /\\
+ wie der Sturmwind sausen sie dahin. Doch sie werden es büßen, /\\
+ denn sie haben ihre Kraft zu ihrem Gott gemacht. ^{[[#fn5][5]]}\\
+\\
+
+<<v12>>
+**** Erneute Klage des Propheten: 1,12-17
+     :PROPERTIES:
+     :CUSTOM_ID: erneute-klage-des-propheten-112-17
+     :END:
+12 Herr, bist nicht du von Ewigkeit her mein heiliger Gott? /\\
+ Wir wollen nicht sterben. Herr, du hast sie doch nur dazu gerufen, /\\
+ an uns das Gericht zu vollziehen: Du, unser Fels, du hast sie dazu
+bestimmt, /\\
+ uns zu bestrafen. ^{[[#fn6][6]]}\\
+\\
+
+<<v13>>
+13 Deine Augen sind zu rein, um Böses mit anzusehen, /\\
+ du kannst der Unterdrückung nicht zusehen. Warum siehst du also den
+Treulosen zu und schweigst, /\\
+ wenn der Ruchlose den Gerechten verschlingt?\\
+\\
+
+<<v14>>
+14 Warum behandelst du die Menschen /\\
+ wie die Fische im Meer, /\\
+ wie das Gewürm, das keinen Herrn hat? ^{[[#fn7][7]]}\\
+\\
+
+<<v15>>
+15 Mit der Angel holt er sie alle herauf, /\\
+ er schleppt sie weg in seinem Netz und rafft sie fort in seinem
+Fischgarn; /\\
+ er freut sich darüber und jubelt.\\
+\\
+
+<<v16>>
+16 Deshalb opfert er seinem Netz /\\
+ und bringt seinem Fischgarn Rauchopfer dar; denn durch sie hat er
+reichen Gewinn /\\
+ und ein üppiges Mahl. ^{[[#fn8][8]]}\\
+\\
+
+<<v17>>
+17 Darum zückt er unablässig sein Schwert, /\\
+ um ohne Erbarmen die Völker zu morden. ^{[[#fn9][9]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Ijob 19,7
+
+^{[[#fnm2][2]]} ℘ Ps 55,10-12; Am 3,9f
+
+^{[[#fnm3][3]]} ℘ Zef 3,3
+
+^{[[#fnm4][4]]} 8b: Nach G; H: Wölfe am Abend.
+
+^{[[#fnm5][5]]} ℘ Jes 10,13
+
+^{[[#fnm6][6]]} ℘ Dtn 33,27; Ps 90,1f
+
+^{[[#fnm7][7]]} ℘ Ez 29,4f
+
+^{[[#fnm8][8]]} Vgl. V. 11. Der Feind vergöttert seine Machtmittel.
+
+^{[[#fnm9][9]]} 17a: Nach dem Qumran-Text.

@@ -1,0 +1,78 @@
+#+TITLE: Ps 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-03 So 14:35]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 4.html
+
+* Ps 4
+
+<<verses>>
+
+<<v1>>
+* Gottes Schutz in der Nacht
+
+1 [Für den Chormeister. Mit Saitenspiel. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Wenn ich rufe, erhöre mich, /\\
+ Gott, du mein Retter! Du hast mir Raum geschaffen, als mir angst war.
+/\\
+ Sei mir gnädig und hör auf mein Flehen! [fn:1]\\
+\\
+
+<<v3>>
+3 Ihr Mächtigen, wie lange noch schmäht ihr meine Ehre, /\\
+ warum liebt ihr den Schein und sinnt auf Lügen? [Sela]\\
+\\
+
+<<v4>>
+4 Erkennt doch: Wunderbar handelt der Herr an den Frommen; /\\
+ der Herr erhört mich, wenn ich zu ihm rufe. [fn:2]\\
+\\
+
+<<v5>>
+5 Ereifert ihr euch, so sündigt nicht! /\\
+ Bedenkt es auf eurem Lager und werdet still! [Sela] [fn:3]\\
+\\
+
+<<v6>>
+6 Bringt rechte Opfer dar /\\
+ und vertraut auf den Herrn! [fn:4]\\
+\\
+
+<<v7>>
+7 Viele sagen: «Wer lässt uns Gutes erleben?» /\\
+ Herr, lass dein Angesicht über uns leuchten! [fn:5]\\
+\\
+
+<<v8>>
+8 Du legst mir größere Freude ins Herz, /\\
+ als andere haben bei Korn und Wein in Fülle.\\
+\\
+
+<<v9>>
+9 In Frieden leg ich mich nieder und schlafe ein; /\\
+ denn du allein, Herr, lässt mich sorglos ruhen. [fn:6]\\
+\\
+
+* Footnotes
+
+[fn:1] Wörtlich: Gott meiner Gerechtigkeit.
+
+[fn:2] wunderbar handelt der Herr . . .: Text korr. mich:
+ergänzt nach G.
+
+[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/Eph_4.org::v26][Eph 4,26]]
+
+[fn:4] [[file:Ps_51.org::v19][51,19]].[[file:Ps_51.org::v21][21]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v5][1 Petr 2,5]]
+
+[fn:5] [[file:Ps_31.org::v17][31,17]]; [[file:Ps_44.org::v4][44,4]]; [[file:Ps_67.org::v2][67,2]]; [[file:Ps_80.org::v4][80,4]]; [[file:Num_6.org::v25][Num 6,25f]]
+
+[fn:6] [[file:Ps_3.org::v6][3,6]]

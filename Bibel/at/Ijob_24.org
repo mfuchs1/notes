@@ -1,0 +1,180 @@
+#+TITLE: Ijob 24 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 17:44]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 24.html
+
+<<verses>>
+
+<<v1>>
+* Der Übermut der Sünder: 24,1-17
+
+1 Warum hat der Allmächtige keine Fristen bestimmt? /\\
+ Warum schauen, die ihn kennen, seine Gerichtstage nicht?\\
+\\
+
+<<v2>>
+2 Jene verrücken die Grenzen, /\\
+ rauben Herden und führen sie zur Weide. [fn:1]\\
+\\
+
+<<v3>>
+3 Den Esel der Waisen treiben sie fort, /\\
+ pfänden das Rind der Witwe. [fn:2]\\
+\\
+
+<<v4>>
+4 Vom Weg drängen sie die Armen, /\\
+ es verbergen sich alle Gebeugten des Landes. [fn:3]\\
+\\
+
+<<v5>>
+5 Sieh, wie Wildesel in der Steppe /\\
+ ziehen sie zu ihrer Arbeit aus; die Steppe suchen sie nach Nahrung ab,
+/\\
+ nach Brot für ihre Kinder.\\
+\\
+
+<<v6>>
+6 Auf dem Feld schneiden sie des Nachts, /\\
+ halten im Weinberg des Frevlers Nachlese.\\
+\\
+
+<<v7>>
+7 Nackt verbringen sie die Nacht, ohne Kleider, /\\
+ haben keine Decke in der Kälte. [fn:4]\\
+\\
+
+<<v8>>
+8 Vom Regen der Berge sind sie durchnässt, /\\
+ klammern sich ohne Schutz an den Fels.\\
+\\
+
+<<v9>>
+9 Von der Mutterbrust reißen sie die Waisen, /\\
+ den Säugling des Armen nehmen sie zum Pfand.\\
+\\
+
+<<v10>>
+10 Nackt müssen sie gehen, ohne Kleid, /\\
+ hungernd tragen sie Garben.\\
+\\
+
+<<v11>>
+11 Zwischen Mauern pressen sie Öl, /\\
+ treten die Kelter und müssen doch dürsten.\\
+\\
+
+<<v12>>
+12 Aus der Stadt stöhnen Sterbende, /\\
+ der Erschlagenen Leben schreit laut. /\\
+ Doch Gott achtet nicht auf ihr Flehen. [fn:5] [fn:6]\\
+\\
+
+<<v13>>
+13 Sie sind die Rebellen gegen das Licht; /\\
+ sie nehmen seine Wege nicht wahr, /\\
+ bleiben nicht auf seinen Pfaden. [fn:7]\\
+\\
+
+<<v14>>
+14 Ist kein Licht, erhebt sich der Mörder, /\\
+ tötet Elende und Arme; /\\
+ in der Nacht gleicht er dem Dieb. [fn:8] [fn:9]\\
+\\
+
+<<v15>>
+15 Auch des Ehebrechers Auge achtet auf Dämmerung. /\\
+ Kein Auge, sagt er, soll mich erspähen!, /\\
+ eine Hülle legt er aufs Gesicht. [fn:10]\\
+\\
+
+<<v16>>
+16 Im Finstern bricht er ein in die Häuser; /\\
+ tagsüber verstecken sie sich; /\\
+ sie wollen nichts wissen vom Licht.\\
+\\
+
+<<v17>>
+17 Denn Finsternis ist für sie der Morgen zugleich, /\\
+ denn mit ihren Schrecken sind sie wohl vertraut.\\
+\\
+
+<<v18>>
+* Das Ende der Frevler: 24,18-25
+
+18 Schnell reißt ihn das Wasser fort; /\\
+ verflucht ist ihr Anteil auf Erden; /\\
+ nicht wendet er den Weg den Weinbergen zu. [fn:11]\\
+\\
+
+<<v19>>
+19 Dürre und Hitze raffen das Schneewasser weg, /\\
+ die Unterwelt den Sünder.\\
+\\
+
+<<v20>>
+20 Der Mutterschoß vergisst ihn, /\\
+ Gewürm labt sich an ihm; nie mehr wird an ihn gedacht; /\\
+ ja, wie Holz wird Frevel zerschmettert.\\
+\\
+
+<<v21>>
+21 Er tut Böses der Unfruchtbaren, der Kinderlosen, /\\
+ keiner Witwe erweist er Gutes.\\
+\\
+
+<<v22>>
+22 Gott reißt die Starken hinweg in seiner Macht; /\\
+ steht er auf, ist niemand seines Lebens sicher.\\
+\\
+
+<<v23>>
+23 Sicherheit gibt er ihm, er traue darauf; /\\
+ aber seine Augen überwachen ihren Weg.\\
+\\
+
+<<v24>>
+24 Sie kommen hoch für kurze Zeit, dann ist es aus. /\\
+ Sie werden umgebogen, alle mit der Faust gepackt /\\
+ und wie Ährenspitzen abgeschnitten. [fn:12]\\
+\\
+
+<<v25>>
+25 Ist es nicht so? Wer straft mich Lügen /\\
+ und bringt meine Rede zum Schweigen?\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Dtn_27.org::v17c][Dtn 27,17c]]
+
+[fn:2] [[file:Dtn_27.org::v17][Dtn 24,17]]
+
+[fn:3] [[file:Dtn_15.org::v11][Dtn 15,11]]
+
+[fn:4] [[file:Dtn_24.org::v12][Dtn 24,12f]]
+
+[fn:5] [[file:~/RoamNotes/notes/Bibel/nt/Offb_6.org::v10][Offb 6,10f]]
+
+[fn:6] Sterbende: Text korr. nach S; H: Menschen.
+
+[fn:7] [[file:Ijob_38.org::v15][38,15]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_3.org::v20][Joh 3,20]]; [[file:~/RoamNotes/notes/Bibel/nt/Eph_5.org::v8][Eph 5,8]]-[[file:~/RoamNotes/notes/Bibel/nt/Eph_5.org::v14][14]]
+
+[fn:8] [[file:Ps_10.org::v8][Ps 10,8f]]
+
+[fn:9] Ist kein Licht: Text korr.; H: Bei Licht (= Bei Tage).
+
+[fn:10] [[file:Spr_7.org::v9][Spr 7,9f]]
+
+[fn:11] 18-25: In den Kapiteln [[file:Ijob_24.org][24]] - [[file:Ijob_27.org][27]] ist die Reihenfolge des
+Textes vermutlich gestört. Ein logischer Ablauf und ein besseres
+Verständnis ergibt sich, wenn man liest: Dritte Rede Bildads: [[file:Ijob_25.org::v1][25,1]]-[[file:Ijob_25.org::v6][6]].
+
+[fn:12] [[file:Ijob_30.org::v4][30,4]]

@@ -1,0 +1,103 @@
+#+TITLE: Ps 41 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-02 Di 22:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 41.html
+
+* Ps 41
+
+<<verses>>
+
+<<v1>>
+* Das Gebet eines Kranken und Verfolgten
+
+1 [Für den Chormeister. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Wohl dem, der sich des Schwachen annimmt; /\\
+ zur Zeit des Unheils wird der Herr ihn retten. [fn:1]\\
+\\
+
+<<v3>>
+3 Ihn wird der Herr behüten /\\
+ und am Leben erhalten. Man preist ihn glücklich im Land. /\\
+ Gib ihn nicht seinen gierigen Feinden preis!\\
+\\
+
+<<v4>>
+4 Auf dem Krankenbett wird der Herr ihn stärken; /\\
+ seine Krankheit verwandelst du in Kraft.\\
+\\
+
+<<v5>>
+5 Ich sagte: Herr, sei mir gnädig, /\\
+ heile mich; denn ich habe gegen dich gesündigt. [fn:2]\\
+\\
+
+<<v6>>
+6 Meine Feinde reden böse über mich: /\\
+ «Wann stirbt er endlich und wann vergeht sein Name?» [fn:3]\\
+\\
+
+<<v7>>
+7 Besucht mich jemand, /\\
+ so kommen seine Worte aus falschem Herzen. Er häuft in sich Bosheit an,
+/\\
+ dann geht er hinaus und redet.\\
+\\
+
+<<v8>>
+8 Im Hass gegen mich sind sich alle einig; /\\
+ sie tuscheln über mich und sinnen auf Unheil:\\
+\\
+
+<<v9>>
+9 «Verderben hat sich über ihn ergossen; /\\
+ wer einmal daliegt, steht nicht mehr auf.»\\
+\\
+
+<<v10>>
+10 Auch mein Freund, dem ich vertraute, /\\
+ der mein Brot aß, hat gegen mich geprahlt. [fn:4] [fn:5]\\
+\\
+
+<<v11>>
+11 Du aber, Herr, sei mir gnädig; /\\
+ richte mich auf, damit ich ihnen vergelten kann.\\
+\\
+
+<<v12>>
+12 Daran erkenne ich, dass du an mir Gefallen hast: /\\
+ wenn mein Feind nicht über mich triumphieren darf.\\
+\\
+
+<<v13>>
+13 Weil ich aufrichtig bin, hältst du mich fest /\\
+ und stellst mich vor dein Antlitz für immer.\\
+\\
+
+<<v14>>
+14 Gepriesen sei der Herr, der Gott Israels, /\\
+ von Ewigkeit zu Ewigkeit. Amen, ja amen. [fn:6]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Spr_14.org::v21][Spr 14,21]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v7][Mt 5,7]]
+
+[fn:2] [[file:Ps_6.org::v3][6,3]]
+
+[fn:3] [[file:Ps_22.org::v7][22,7f]]; [[file:Ps_44.org::v14][44,14f]]; [[file:Ps_71.org::v7][71,7]]; [[file:Ps_89.org::v51][89,51]]; [[file:Ps_102.org::v9][102,9]]; [[file:Ps_109.org::v25][109,25]]; [[file:Ps_123.org::v3][123,3f]]
+
+[fn:4] [[file:Ps_31.org::v12][31,12]]; [[file:Obd_1.org::v7][Obd 7]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_13.org::v18][Joh 13,18]]
+
+[fn:5] Text korr.
+
+[fn:6] [[file:Neh_9.org::v5][Neh 9,5]]

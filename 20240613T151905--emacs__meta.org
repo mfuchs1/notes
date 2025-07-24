@@ -1,0 +1,25 @@
+#+title:      Emacs
+#+date:       [2024-06-13 Do 15:19]
+#+filetags:   :meta:
+#+identifier: 20240613T151905
+
+* Make startup faster
+My init files are nearly 10k lines and I have >300 packages. I've never "declared .emacs bankruptcy." Emacs starts in 0.4-0.6 seconds (without the daemon) for me. One reason I initially switched to Emacs was because Vim was comparably slow as hell for what I was doing. That's no longer the case. Neovim and Vim are definitely faster than Emacs, but I almost never run into cases where it matters. Even on my crappy work laptop, the only time I ran into issues with Emacs is when dealing with log files that were gigabytes (in cases like that evil's :g and :s are just unusably slow).
+
+> There's a lot of cargo culted config fragments like the ones you'll find in the article.
+
+Besides changing the gc-cons-threshold (which is indeed a questionable fragment to blindly copy/paste), there were no other specific config fragments, only examples. People blindly paste config fragments for everything (e.g. set nocompatible in Vim).
+
+> Why does every user have to constantly reinvent the same config to work around all of the issues in Emacs?
+
+What is there to reinvent? It should take almost no extra configuration to properly defer package loading. Package loading is also not automatic. If you are explicitly loading every package you've installed during init, that's your fault. You shouldn't blindly copy things into your config. If you really don't want to handle configuration yourself, starter kits exist for a reason.
+
+> In the article the author talks about how he's gone bankrupt three times with his config, maybe that's a sign that the problem isn't the author. If Emacs is that fragile, then its extensibility is really a moot point.
+
+It is mostly a user problem. Emacs lets you do anything. It gives you enough rope to hang yourself with. I could write an unreadable and broken mess of a program in any programming language, but that doesn't say anything about whether a language is fundamentally flawed.
+
+It's a double-edged sword. There's no such thing as bug-free software. And the more functionality, the more room for misconfiguration and bugs. Vim/neovim come nowhere close in terms of functionality. The correct word isn't "fragile." A better word would be "malleable." It's the editable editor. Emacs' malleability is at least part of the reason why it's able to stay relevant despite the fact that it has very few developers compared to Vim and other editors. Because Emacs is this way, it's potentially easier to do something dumb or install a bunch of useless, slow packages, but because Emacs is this way we also have Magit, org-mode, and a bunch of other killer packages that Vim has much worse versions of (or no equivalent of at all).
+
+This means that if you only need a simple setup, Emacs is not that appealing, but my experience has been that I have no idea what I want until I know what is actually possible (e.g. I didn't grok magit until I read the entire manual and saw how greatly it would simplify my workflow).
+
+[[https://tychoish.com/post/towards-faster-emacs-start-times/]]

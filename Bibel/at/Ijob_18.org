@@ -1,0 +1,150 @@
+#+TITLE: Ijob 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 22:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 18.html
+
+<<verses>>
+
+<<v1>>
+* Die zweite Rede Bildads: 18,1-21
+
+* Die Selbstverteidigung Bildads: 18,1-4
+
+1 Da antwortete Bildad von Schuach und sprach:\\
+\\
+
+<<v2>>
+2 Wann endlich macht ihr Schluss mit den Reden? /\\
+ Nehmt Einsicht an, dann reden wir.\\
+\\
+
+<<v3>>
+3 Warum sind wir wie Vieh geachtet, /\\
+ gelten als unrein in euren Augen?\\
+\\
+
+<<v4>>
+4 Du, der sich selbst zerfleischt in seinem Zorn, /\\
+ soll deinetwegen die Erde sich entvölkern, /\\
+ der Fels von seiner Stelle rücken?\\
+\\
+
+<<v5>>
+* Das Schicksal des Frevlers: 18,5-21
+
+5 Ja, der Frevler Licht erlischt, /\\
+ die Flamme seines Feuers strahlt nicht auf. [fn:1]\\
+\\
+
+<<v6>>
+6 Das Licht in seinem Zelte dunkelt, /\\
+ seine Leuchte über ihm erlischt.\\
+\\
+
+<<v7>>
+7 Eng wird sein gewaltiger Schritt, /\\
+ sein eigner Plan bringt ihn zu Fall. [fn:2]\\
+\\
+
+<<v8>>
+8 Denn mit seinen Füßen gerät er ins Netz /\\
+ und über Flechtwerk schreitet er dahin. [fn:3] [fn:4]\\
+\\
+
+<<v9>>
+9 Das Klappnetz packt ihn an der Ferse, /\\
+ die Schlinge hält ihn fest.\\
+\\
+
+<<v10>>
+10 Versteckt am Boden liegt sein Fangstrick, /\\
+ die Falle für ihn auf dem Pfad.\\
+\\
+
+<<v11>>
+11 Ringsum ängstigen ihn Schrecken /\\
+ und scheuchen ihn auf Schritt und Tritt. [fn:5]\\
+\\
+
+<<v12>>
+12 Hungrig nach ihm ist sein Unheil, /\\
+ das Verderben steht bereit zu seinem Sturz.\\
+\\
+
+<<v13>>
+13 Es frisst die Glieder seines Leibes, /\\
+ seine Glieder frisst des Todes Erstgeborener. [fn:6]\\
+\\
+
+<<v14>>
+14 Ausgerissen wird aus seinem Zelt die Zuversicht, /\\
+ du treibst ihn fort zum König der Schrecken. [fn:7] [fn:8]\\
+\\
+
+<<v15>>
+15 Ihm Fremdes wohnt in seinem Zelt, /\\
+ Schwefel wird auf seinen Hof gestreut. [fn:9]\\
+\\
+
+<<v16>>
+16 Von unten her verdorren seine Wurzeln, /\\
+ von oben welken seine Zweige.\\
+\\
+
+<<v17>>
+17 Sein Andenken schwindet von der Erde, /\\
+ kein Name bleibt ihm weit und breit. [fn:10]\\
+\\
+
+<<v18>>
+18 Sie stoßen ihn vom Licht ins Dunkel /\\
+ und jagen ihn vom Erdkreis fort.\\
+\\
+
+<<v19>>
+19 Kein Spross, kein Stamm bleibt ihm in seinem Volk, /\\
+ am Ort seines Aufenthaltes keiner, der ihn überlebt. [fn:11]\\
+\\
+
+<<v20>>
+20 Über seinen Tag schaudern die im Westen, /\\
+ die im Osten packt das Grauen.\\
+\\
+
+<<v21>>
+21 Ja, so geht es mit der Wohnung des Frevlers, /\\
+ mit dem Ort des Menschen, der Gott nicht kennt.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ijob_21.org::v21][21,17]]
+
+[fn:2] [[file:Ps_18.org::v37][Ps 18,37]]; [[file:Spr_14.org::v12][Spr 4,12]]
+
+[fn:3] [[file:Ijob_22.org::v10][22,10]]; [[file:Ps_35.org::v7][Ps 35,7f]]; [[file:Ps_140.org::v6][140,6]]
+
+[fn:4] Gemeint ist das Flechtwerk, das als Gitter über die
+Fanggrube gelegt wird.
+
+[fn:5] [[file:Ijob_15.org::v21][15,21]]; [[file:Weish_17.org::v10][Weish 17,10]]-[[file:Weish_17.org::v14][14]]
+
+[fn:6] «Des Todes Erstgeborener» ist wohl die Pest als
+schlimmste Krankheit.
+
+[fn:7] [[file:Ps_52.org::v7][Ps 52,7]]
+
+[fn:8] «König der Schrecken» steht für das Totenreich.
+
+[fn:9] [[file:Dtn_29.org::v22][Dtn 29,22]]; [[file:Ps_11.org::v6][Ps 11,6]]; [[file:Jes_34.org::v9][Jes 34,9]]
+
+[fn:10] [[file:Ps_9.org::v6][Ps 9,6]]; [[file:Ps_34.org::v17][34,17]]; [[file:Spr_10.org::v7][Spr 10,7]]
+
+[fn:11] [[file:Ps_37.org::v28][Ps 37,28]]; [[file:Ps_109.org::v13][109,13]]

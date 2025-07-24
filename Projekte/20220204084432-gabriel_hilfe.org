@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       9d06af43-2db1-4371-9e7f-2ebd6278ebc7
+:END:
+#+filetags: Project Gabriel ADHS
+#+category: Gabriel_Hilfe
+#+title: Gabriel_Hilfe
+
+* Goals
+
+** Wie kann ich Gabriel helfen?
+
+In letzter Zeit hat Gabriel zweimal eine größere Summe Geld entwendet. Einmal über 200 Euro aus der Gechäftskassa von Isabelle. Einen Teil haben wir gefunden, einen anderen Teil hat Isabelle durch Überstunden zurückgezahlt, den Rest hat Gabriel durch sein Taschengeld ersetzt.
+
+Nach meinem Geburtstag hat Gabriel 200 Euro aus meiner Geldtasche genommen, um mir damit ein Geschenk zu kaufen. Auf dem Weg zum Spar hat er das Geld verloren. Frage: welches große Geschenk wollte er mit 200 Euro kaufen? 
+
+- Welche Bedürfnisse hat Gabriel, dass er so etwas tut?
+- Was fühlt er dabei? Gibt ihm das Geld Sicherheit? Macht? Bedeutung?
+- Er hatte sicher keine böse Absicht; ...
+- Kreative Ideen, um Gabriel zu helfen ...
+
+Klare Regeln und liebervoller Umgang mit Gabriel; als konkrete Maßnahme soll Gabriel der Zugang zu unserem Geld versperrt werden. Weitere Maßnahmen sollen direkt mit der *Tat* in Verbindung stehen - TV-Verbot oder "kein Essen" helfen da nichts. Ich bin mir aber sicher, dass wir eher den Hausverstand einschalten müssen, als Psychologen einzuschalten. Denn eines ist klar: sowas lässt sich kein Therapeut entgehen und wird Gabriel eine lange Therapie verschreiben - was mit ungeheuren Kosten verbunden ist - und wahrscheinlich kaum etwas hilft.
+
+Warum macht Gabriel das? Er will "nett" sein, da bin ich mir sicher. Vielleicht hat er auch mitbekommen, dass dür mich mein Geburtstag nicht so schön war, ich erhielt eigentlich gar kein Geschenk, nicht einmal eine Torte (naja stimmt nicht, es gab eine Torte bei Oma und Opa). Dann fiel unsere gemeinsame Feier in einem Hotel ins Wasser, da Isabelle und die Kinder krank wurden. Ich denke mir, dass Gabriel mir den Geburtstag versüßen wollte - und für Geld hat er kein Gefühl. Er weiß nicht, wieviel 200 Euro wert sind. Auch denkt ein 10jähriger im Tun nicht so rational nach wie ein Erwachsener. Ich glaube, da würden wir zuviel von ihm erwarten.
+
+** Persönlich
+Viel gemeinsam mit Gabriel unternehmen; in letzter Zeit stand nur die Schule im Mittelpunkt. Wann habe ich / haben wir etwas "gratis" mit Gabriel gemacht?
+
+Früher las ich ihm eine Geschichte vor, dann habe ich öfters Schach gespielt. Vielleicht sollte ich jetzt mal Radeln mit ihm gehen, oder auf einen Berg kraxeln, ...
+
+** Schule
+Wie oft musste sich Gabriel Schimpf, Druck und Kritik, besonders bzgl der Schule anhören? Wurde / Wird er von uns gelobt? Wie lernt ein Kind mit ADHS? Welche "Methode" kann ihm helfen? Braucht er Nachhilfe?
+
+Welche Hilfe will er selbst? Wie denkt er selbst, dass er zu besseren Noten kommt? DAS wäre der falsche Ansatz. Er sollte cooler und ohne Stress bei der Schularbeit sitzen. Und *so* lernen, dass er den Stoff wirklich beherrscht. Gute Noten sind die falsche Motivation. 
+
+** ADHS
+Ich habe ein Buch auf Amazon gefunden, dass könnte uns helfen. [[id:688078b8-b338-4bc2-a6c7-6d0a0f1f6493][Erfolgreich lernen mit ADHS: Der praktische Ratgeber für Eltern : Rietzler, Stefanie, Grolimund, Fabian: Amazon.de: Bücher]]
+
+Gabriel nimmt ein Medikament, das hilft ihm schon. Natürlich ist es streng genommen eine Art Droge, daher ... irgendwann sollte er auch ohne Medikament leben können.
+
+Die Erotherapie half ihm sehr; kommt da wieder etwas?
+
+* Tasks
+** DONE ein neuer Eintrag
+CLOSED: [2022-09-17 Sa 20:06]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-09-17 Sa 20:06]
+:END:
+als Test
+
+* Dates

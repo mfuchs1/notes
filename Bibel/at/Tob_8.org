@@ -1,0 +1,115 @@
+#+TITLE: Tob 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 10:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 8.html
+
+<<verses>>
+
+<<v1>>
+* Die glücklichen Brautleute: 8,1-9
+
+1 Nach der Mahlzeit führten sie Tobias zu Sara.
+
+<<v2>>
+2 Als er hineinging, erinnerte er sich an die Worte Rafaels; er nahm
+etwas Glut aus dem Räucherbecken, legte das Herz und die Leber des
+Fisches darauf und ließ sie verbrennen.
+
+<<v3>>
+3 Sobald der Dämon den Geruch spürte, floh er in den hintersten Winkel
+Ägyptens; dort wurde er von dem Engel gefesselt.
+
+<<v4>>
+4 Als Tobias und Sara in der Kammer allein waren, erhob sich Tobias vom
+Lager und sagte: Steh auf, Schwester, wir wollen beten, damit der Herr
+Erbarmen mit uns hat.
+
+<<v5>>
+5 Und er begann zu beten: Sei gepriesen, Gott unserer Väter; gepriesen
+sei dein heiliger und ruhmreicher Name in alle Ewigkeit. Die Himmel und
+alle deine Geschöpfe müssen dich preisen.
+
+<<v6>>
+6 Du hast Adam erschaffen und hast ihm Eva zur Frau gegeben, damit sie
+ihm hilft und ihn ergänzt. Von ihnen stammen alle Menschen ab. Du
+sagtest: Es ist nicht gut, dass der Mensch allein ist; wir wollen für
+ihn einen Menschen machen, der ihm hilft und zu ihm passt. [fn:1]
+
+<<v7>>
+7 Darum, Herr, nehme ich diese meine Schwester auch nicht aus reiner
+Lust zur Frau, sondern aus wahrer Liebe. Hab Erbarmen mit mir und lass
+mich gemeinsam mit ihr ein hohes Alter erreichen!
+
+<<v8>>
+8 Und Sara sagte zusammen mit ihm: Amen.
+
+<<v9>>
+9 Und beide schliefen die Nacht über miteinander.\\
+\\
+
+<<v10>>
+* Raguëls Freude: 8,10-21
+
+10 Morgens stand Raguël auf, ging hinaus und hob ein Grab aus. Er
+dachte: Sicher ist auch dieser Mann gestorben.
+
+<<v11>>
+11 Als er wieder ins Haus kam,
+
+<<v12>>
+12 sagte er zu seiner Frau Edna: Schick eine Magd hinauf; sie soll
+nachsehen, ob er noch lebt. Wenn er nicht mehr lebt, wollen wir ihn
+begraben, ohne dass es jemand merkt.
+
+<<v13>>
+13 Die Magd öffnete die Tür, ging hinein und sah, dass die beiden
+schliefen.
+
+<<v14>>
+14 Sie ging wieder hinaus und berichtete ihnen, Tobias sei noch am
+Leben.
+
+<<v15>>
+15 Da pries Raguël Gott und betete: Sei gepriesen, Gott, mit reinem und
+heiligem Lobpreis. Deine Heiligen und alle deine Geschöpfe sollen dich
+preisen. Alle deine Engel und alle deine Auserwählten sollen dich
+preisen in alle Ewigkeit.
+
+<<v16>>
+16 Sei gepriesen, weil du mir diese Freude bereitet hast und weil nicht
+eingetroffen ist, was ich befürchtet habe. Du hast uns in deiner großen
+Barmherzigkeit geholfen.
+
+<<v17>>
+17 Sei gepriesen, weil du mit diesen beiden Menschen Erbarmen hattest,
+die die einzigen Kinder ihrer Eltern sind. Herr, hab Erbarmen mit ihnen
+und lass sie ihr Leben in Gesundheit und Freude verbringen, geschützt
+von deinem Erbarmen!
+
+<<v18>>
+18 Dann befahl er seinen Knechten, das Grab wieder zuzuschütten.
+
+<<v19>>
+19 Er veranstaltete für das Paar ein Hochzeitsfest, das vierzehn Tage
+dauerte,
+
+<<v20>>
+20 und noch vor Beendigung der Hochzeitsfeier beschwor er Tobias, nicht
+abzureisen, ehe die vierzehn Tage des Festes zu Ende seien.
+
+<<v21>>
+21 Dann solle er die Hälfte seines Vermögens in Empfang nehmen und
+wohlbehalten zu seinem Vater zurückkehren. Das übrige, sagte er, wirst
+du erhalten, wenn ich und meine Frau tot sind.\\
+\\
+
+* Footnotes
+
+[fn:1] Gen 2,18

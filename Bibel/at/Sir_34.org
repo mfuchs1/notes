@@ -1,0 +1,192 @@
+:PROPERTIES:
+:ID:       ac6d85ae-283e-4340-b190-c7a3fcef9dc4
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_32.html][32]]
+[[file:Sir_33.html][33]] *34* [[file:Sir_35.html][35]]
+[[file:Sir_36.html][36]] ... [[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 34
+  :PROPERTIES:
+  :CUSTOM_ID: sir-34
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Leere Träume und Gottesfurcht: 34,1-20
+     :PROPERTIES:
+     :CUSTOM_ID: leere-träume-und-gottesfurcht-341-20
+     :END:
+1 Nichtige und trügerische Hoffnung ist Sache des Toren /\\
+ und Träume regen nur Törichte auf. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Wie einer, der nach Schatten greift und dem Wind nachjagt, /\\
+ so ist einer, der sich auf Träume verlässt.\\
+\\
+
+<<v3>>
+3 Das Traumbild ist ein Spiegel, /\\
+ das Abbild eines Gesichts gegenüber dem Gesicht selbst.\\
+\\
+
+<<v4>>
+4 Wie kann Reines vom Unreinen kommen? /\\
+ Wie kann Wahres von der Lüge kommen? ^{[[#fn2][2]]}\\
+\\
+
+<<v5>>
+5 Wahrsagung, Zeichendeuterei und Träume sind nichtig: /\\
+ Was du erhoffst, macht das Herz sich vor.\\
+\\
+
+<<v6>>
+6 Sind sie nicht vom Höchsten zur Warnung gesandt, /\\
+ so schenk ihnen keine Beachtung! ^{[[#fn3][3]]}\\
+\\
+
+<<v7>>
+7 Träume haben schon viele in die Irre geführt, /\\
+ weil sie ihnen vertrauten, sind sie gestrauchelt.\\
+\\
+
+<<v8>>
+8 Das Gesetz wird zuverlässig in Erfüllung gehen. /\\
+ Vollkommen ist Weisheit in einem ehrlichen Mund.\\
+\\
+
+<<v9>>
+9 Wer viel gereist ist, hat reiches Wissen /\\
+ und der Erfahrene redet verständig.\\
+\\
+
+<<v10>>
+10 Wer nichts erfahren hat, weiß wenig, /\\
+\\
+
+<<v11>>
+11 der Vielgereiste nimmt zu an Klugheit.\\
+\\
+
+<<v12>>
+12 Vieles habe ich auf meinen Reisen gesehen, /\\
+ viele Dinge habe ich durchgestanden. ^{[[#fn4][4]]}\\
+\\
+
+<<v13>>
+13 Oft musste ich Todesgefahren bestehen, /\\
+ aber ich wurde gerettet und sie gingen vorüber.\\
+\\
+
+<<v14>>
+14 Der Geist der Gottesfürchtigen wird leben; / ^{[[#fn5][5]]}\\
+\\
+
+<<v15>>
+15 denn ihr Hoffen ist auf ihren Retter gerichtet.\\
+\\
+
+<<v16>>
+16 Wer den Herrn fürchtet, verzagt nicht /\\
+ und hat keine Angst, denn der Herr ist seine Hoffnung.\\
+\\
+
+<<v17>>
+17 Wohl dem, der den Herrn fürchtet. /\\
+\\
+
+<<v18>>
+18 Auf wen vertraut er und wer ist seine Stütze?\\
+\\
+
+<<v19>>
+19 Die Augen des Herrn ruhen auf denen, die ihn lieben; /\\
+ er ist ein starker Schild, eine mächtige Stütze, /\\
+ Schutz vor dem Glutwind, /\\
+ Schatten in der Mittagshitze, /\\
+ Halt vor dem Straucheln, Hilfe vor dem Fall,\\
+\\
+
+<<v20>>
+20 Freude für das Herz, Licht für die Augen, /\\
+ Heilung, Leben und Segen.\\
+\\
+
+<<v21>>
+**** Opfer und Gebet: 34,21 - 35,22a
+     :PROPERTIES:
+     :CUSTOM_ID: opfer-und-gebet-3421---3522a
+     :END:
+21 Ein Brandopfer von unrechtem Gut ist eine befleckte Gabe, /
+^{[[#fn6][6]]}\\
+\\
+
+<<v22>>
+22 Opfer des Bösen gefallen Gott nicht.\\
+\\
+
+<<v23>>
+23 Kein Gefallen hat der Höchste an den Gaben der Sünder, /\\
+ auch für eine Menge Brandopfer vergibt er die Sünden nicht.\\
+\\
+
+<<v24>>
+24 Man schlachtet den Sohn vor den Augen des Vaters, /\\
+ wenn man ein Opfer darbringt vom Gut der Armen.\\
+\\
+
+<<v25>>
+25 Kärgliches Brot ist der Lebensunterhalt der Armen, /\\
+ wer es ihnen vorenthält, ist ein Blutsauger.\\
+\\
+
+<<v26>>
+26 Den Nächsten mordet, wer ihm den Unterhalt nimmt, /\\
+\\
+
+<<v27>>
+27 Blut vergießt, wer dem Arbeiter den Lohn vorenthält. ^{[[#fn7][7]]}\\
+\\
+
+<<v28>>
+28 Einer baut auf, einer reißt nieder - /\\
+ was haben sie mehr davon als die Mühe?\\
+\\
+
+<<v29>>
+29 Einer segnet, einer flucht - /\\
+ auf wessen Stimme wird der Herr hören?\\
+\\
+
+<<v30>>
+30 Reinigt sich einer von einem Toten, berührt ihn aber wieder, /\\
+ was nützt ihm dann die Waschung?\\
+\\
+
+<<v31>>
+31 So ist ein Mensch, der seiner Sünden wegen fastet, /\\
+ aber hingeht und dasselbe wieder tut. Wer wird sein Gebet erhören /\\
+ und was hat er von seinem Fasten?\\
+\\
+
+^{[[#fnm1][1]]} Kap. 34 In G als Kap. 31 gezählt. 1a: Nach G.
+
+^{[[#fnm2][2]]} ℘ Ijob 14,4
+
+^{[[#fnm3][3]]} ℘ Ijob 33,14-18
+
+^{[[#fnm4][4]]} 12b: Nach S; G: und mehr als meine Worte ist mein
+Wissen.
+
+^{[[#fnm5][5]]} 14-35,5: Soziale Haltung ist wertvoller als alle
+Opfergaben, erst recht, wenn die Opfer auf Kosten der Armen erfolgen.
+
+^{[[#fnm6][6]]} ℘ 35,14f
+
+^{[[#fnm7][7]]} ℘ 7,20

@@ -1,0 +1,406 @@
+#+TITLE: 1 Makk 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-25 Sa 23:28]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 2.html
+
+<<verses>>
+
+<<v1>>
+* Der Aufstand gegen die Verfolger: 2,1-70
+
+* Mattatias und seine Söhne: 2,1-14
+
+1 Damals trat ein Priester auf aus dem Geschlecht des Jojarib namens
+Mattatias; sein Vater war Johanan, der Sohn Simeons. Er stammte aus
+Jerusalem, hatte sich aber in Modeïn niedergelassen. [fn:1]
+
+<<v2>>
+2 Er hatte fünf Söhne: Johanan, den man auch Gaddi nannte,
+
+<<v3>>
+3 Simeon mit dem Beinamen Tassi,
+
+<<v4>>
+4 Judas, der als der Makkabäer bekannt wurde,
+
+<<v5>>
+5 Eleasar, dem man den Namen Awaran gab, und Jonatan, der auch Apphus
+hieß.
+
+<<v6>>
+6 Als er das gotteslästerliche Treiben in Judäa und in Jerusalem sah,
+sagte er:\\
+\\
+
+<<v7>>
+7 Ach, warum bin ich geboren, dass ich erleben muss, /\\
+ wie man mein Volk vernichtet /\\
+ und die heilige Stadt zerstört? /\\
+ Ohnmächtig musste man zusehen, /\\
+ wie sie in die Gewalt ihrer Feinde geriet, /\\
+ wie die heilige Stätte Fremden in die Hände fiel.\\
+\\
+
+<<v8>>
+8 Ihr Tempel wurde wie ein ehrloser Mann,\\
+\\
+
+<<v9>>
+9 ihre Kostbarkeiten schleppte man als Beute fort. /\\
+ Auf den Plätzen erschlug man ihre kleinen Kinder; /\\
+ ihre jungen Männer fielen unter dem Schwert des Feindes.\\
+\\
+
+<<v10>>
+10 Welches Volk hat nicht ein Stück des Reiches erhalten, /\\
+ hat sich nicht seinen Anteil an der Beute errafft?\\
+\\
+
+<<v11>>
+11 Ihren ganzen Schmuck nahm man ihr weg. /\\
+ Die Freie wurde zur Sklavin.\\
+\\
+
+<<v12>>
+12 Seht, unser Heiligtum, /\\
+ unsere Zierde und unser Ruhm, liegt verödet; /\\
+ fremde Völker haben es entweiht.\\
+\\
+
+<<v13>>
+13 Wozu leben wir noch?
+
+<<v14>>
+14 Und Mattatias und seine Söhne zerrissen ihre Gewänder, zogen
+Bußkleider an und gaben sich tiefer Trauer hin.\\
+\\
+
+<<v15>>
+* Der Aufstand des Mattatias: 2,15-28
+
+15 Da kamen die Beamten, die vom König den Auftrag hatten, die Einwohner
+zum Abfall von Gott zu zwingen, in die Stadt Modeïn, um die Opfer
+durchzuführen.
+
+<<v16>>
+16 Viele Männer aus Israel kamen zu ihnen; auch Mattatias und seine
+Söhne mussten erscheinen.
+
+<<v17>>
+17 Da wandten sich die Leute des Königs an Mattatias und sagten: Du
+besitzt in dieser Stadt Macht, Ansehen und Einfluss und hast die
+Unterstützung deiner Söhne und Verwandten. [fn:2]
+
+<<v18>>
+18 Tritt also als erster vor und tu, was der König angeordnet hat. So
+haben es alle Völker getan, auch die Männer in Judäa und alle, die in
+Jerusalem geblieben sind. Dann wirst du mit deinen Söhnen zu den
+Freunden des Königs gehören; auch wird man dich und deine Söhne mit
+Silber, Gold und vielen Geschenken überhäufen. [fn:3]
+
+<<v19>>
+19 Mattatias aber antwortete mit lauter Stimme: Auch wenn alle Völker im
+Reich des Königs ihm gehorchen und jedes von der Religion seiner Väter
+abfällt und sich für seine Anordnungen entscheidet -
+
+<<v20>>
+20 ich, meine Söhne und meine Verwandten bleiben beim Bund unserer
+Väter.
+
+<<v21>>
+21 Der Himmel bewahre uns davor, das Gesetz und seine Vorschriften zu
+verlassen.
+
+<<v22>>
+22 Wir gehorchen den Befehlen des Königs nicht und wir weichen weder
+nach rechts noch nach links von unserer Religion ab.
+
+<<v23>>
+23 Kaum hatte er das gesagt, da trat vor aller Augen ein Jude vor und
+wollte auf dem Altar von Modeïn opfern, wie es der König angeordnet
+hatte.
+
+<<v24>>
+24 Als Mattatias das sah, packte ihn leidenschaftlicher Eifer; er bebte
+vor Erregung und ließ seinem gerechten Zorn freien Lauf: Er sprang vor
+und erstach den Abtrünnigen über dem Altar.
+
+<<v25>>
+25 Zusammen mit ihm erschlug er auch den königlichen Beamten, der sie
+zum Opfer zwingen wollte, und riss den Altar nieder;
+
+<<v26>>
+26 der leidenschaftliche Eifer für das Gesetz hatte ihn gepackt und er
+tat, was einst Pinhas mit Simri, dem Sohn des Salu, gemacht hatte. [fn:4]
+
+<<v27>>
+27 Dann ging Mattatias durch die Stadt und rief laut: Wer sich für das
+Gesetz ereifert und zum Bund steht, der soll mir folgen.
+
+<<v28>>
+28 Und er floh mit seinen Söhnen in die Berge; ihren ganzen Besitz
+ließen sie in der Stadt zurück.\\
+\\
+
+<<v29>>
+* Der Kampf am Sabbat: 2,29-41
+
+29 Damals gingen viele, die Recht und Gerechtigkeit suchten, in die
+Wüste hinunter, um dort zu leben. [fn:5]
+
+<<v30>>
+30 Ihre Kinder und ihre Frauen und auch ihr Vieh nahmen sie mit; denn
+ihre Lage zu Hause war unerträglich geworden.
+
+<<v31>>
+31 Aber man meldete den Beauftragten des Königs und der Besatzung, die
+in der Davidstadt von Jerusalem war: Die Leute, die die Anordnung des
+Königs missachtet haben, sind in die Wüste zu den Höhlen hinabgezogen.
+
+<<v32>>
+32 Da setzte ihnen eine starke Truppe nach; als sie die Juden eingeholt
+hatte, stellte sie sich ihnen gegenüber auf und machte sich zum Kampf
+bereit. An jenem Tag war gerade Sabbat.
+
+<<v33>>
+33 Die Soldaten riefen ihnen zu: Jetzt ist noch Zeit. Kommt heraus und
+tut, was der König sagt; dann bleibt ihr am Leben.
+
+<<v34>>
+34 Die Juden antworteten: Wir gehen nicht hinaus und tun nicht, was der
+König sagt; wir werden den Sabbat nicht entweihen.
+
+<<v35>>
+35 Da gingen die Soldaten sofort zum Angriff über.
+
+<<v36>>
+36 Die Juden gaben keine Antwort mehr; sie warfen nicht einmal Steine
+auf sie, noch versperrten sie die Eingänge der Höhlen.
+
+<<v37>>
+37 Denn sie sagten: Wir wollen lieber alle sterben, als schuldig werden.
+Himmel und Erde sind unsere Zeugen, dass ihr uns gegen jedes Recht
+umbringt.
+
+<<v38>>
+38 Am Sabbat begannen die Soldaten den Kampf; so starben die Juden mit
+ihren Frauen und Kindern, etwa tausend Menschen, und auch ihr Vieh kam
+zusammen mit ihnen um.
+
+<<v39>>
+39 Als Mattatias und seine Anhänger das erfuhren, hielten sie für die
+Toten eine große Trauerfeier ab.
+
+<<v40>>
+40 Sie sagten zueinander: Wenn wir alle so handeln, wie unsere Brüder
+gehandelt haben, und nicht gegen die fremden Völker für unser Leben und
+unsere Gesetze kämpfen, dann vertilgen sie uns bald von der Erde.
+
+<<v41>>
+41 Und sie beschlossen noch am gleichen Tag: Wenn uns jemand am Sabbat
+angreift, werden wir gegen ihn kämpfen, damit wir nicht alle umkommen
+wie unsere Brüder in den Höhlen.\\
+\\
+
+<<v42>>
+* Erste Erfolge der Aufständischen: 2,42-48
+
+42 Damals schloss sich ihnen auch die Gemeinschaft der Hasidäer an; das
+waren tapfere Männer aus Israel, die alle dem Gesetz treu ergeben waren. [fn:6]
+
+<<v43>>
+43 Auch alle anderen, die vor dem Unheil flohen, kamen zu ihnen und
+verstärkten ihre Reihen.\\
+\\
+
+<<v44>>
+44 Sie stellten eine bewaffnete Streitmacht auf und sie erschlugen die
+Sünder in ihrem Zorn, /\\
+ die Frevler in ihrem Grimm. Wer übrig blieb, musste zu den
+Nachbarvölkern fliehen, um sein Leben zu retten.\\
+\\
+
+<<v45>>
+45 Mattatias und seine Anhänger zogen durch das ganze Land und rissen
+die Altäre nieder.
+
+<<v46>>
+46 Alle unbeschnittenen Kinder, die sie in dem Gebiet Israels fanden,
+beschnitten sie gewaltsam.\\
+\\
+
+<<v47>>
+47 Sie verfolgten die frechen Frevler; /\\
+ in allem, was sie taten, hatten sie Glück.\\
+\\
+
+<<v48>>
+48 Sie entrissen das Gesetz der Gewalt fremder Völker /\\
+ und der Hand der Könige. /\\
+ Dem Sünder ließen sie keine Macht.\\
+\\
+
+<<v49>>
+* Vermächtnis und Tod des Mattatias: 2,49-70
+
+49 Schließlich kam für Mattatias die Zeit, dass er sterben musste. Da
+sagte er zu seinen Söhnen: Nun sind über uns Hochmut und Strafe
+gekommen, /\\
+ die Zeit des Zusammenbruchs und lodernder Zorn. [fn:7]\\
+\\
+
+<<v50>>
+50 Jetzt ereifert euch für das Gesetz, meine Söhne, /\\
+ setzt euer Leben ein für den Bund unserer Väter!\\
+\\
+
+<<v51>>
+51 Denkt an die Taten, /\\
+ die unsere Väter zu ihren Zeiten vollbrachten; /\\
+ erwerbt euch großen Ruhm /\\
+ und einen ewigen Namen!\\
+\\
+
+<<v52>>
+52 Wurde Abraham nicht für treu befunden in der Erprobung /\\
+ und wurde ihm das nicht als Gerechtigkeit angerechnet? [fn:8]\\
+\\
+
+<<v53>>
+53 Josef hielt das Gebot, als man ihn bedrängte, /\\
+ und wurde Herr über Ägypten. [fn:9]\\
+\\
+
+<<v54>>
+54 Pinhas, unser Ahnherr, ereiferte sich für Gottes Sache /\\
+ und empfing den Bund ewigen Priestertums. [fn:10] [fn:11]\\
+\\
+
+<<v55>>
+55 Weil Josua seinen Auftrag erfüllte, /\\
+ wurde er Richter in Israel. [fn:12]\\
+\\
+
+<<v56>>
+56 Kaleb sprach als Zeuge vor dem Volk die Wahrheit; /\\
+ darum bekam er ein Erbteil im Land. [fn:13]\\
+\\
+
+<<v57>>
+57 David hielt die Treue; /\\
+ darum erhielt er den Königsthron als ewiges Erbe. [fn:14]\\
+\\
+
+<<v58>>
+58 Elija kämpfte mit leidenschaftlichem Eifer für das Gesetz /\\
+ und wurde in den Himmel aufgenommen. [fn:15]\\
+\\
+
+<<v59>>
+59 Hananja, Asarja und Mischaël hatten Vertrauen; /\\
+ darum wurden sie aus den Flammen gerettet. [fn:16]\\
+\\
+
+<<v60>>
+60 Weil Daniel unschuldig war, /\\
+ wurde er dem Rachen der Löwen entrissen. [fn:17]\\
+\\
+
+<<v61>>
+61 Überdenkt unsere ganze Vergangenheit: /\\
+ Keiner, der ihm vertraut, kommt zu Fall.\\
+\\
+
+<<v62>>
+62 Habt keine Angst vor den Worten eines bösen Menschen! /\\
+ Seine Herrlichkeit verfällt der Fäulnis und den Würmern. [fn:18]\\
+\\
+
+<<v63>>
+63 Heute noch reckt er sich hoch empor, /\\
+ morgen schon ist er verschwunden; /\\
+ denn er ist wieder zu Staub geworden /\\
+ und mit seinen Plänen ist's aus. [fn:19]\\
+\\
+
+<<v64>>
+64 Meine Söhne, seid stark und mutig im Kampf für das Gesetz; /\\
+ denn durch das Gesetz werdet ihr euch Ruhm erwerben.
+
+<<v65>>
+65 Da ist Simeon, euer Bruder. Ich weiß, dass er ein kluger Mann ist.
+Hört immer auf ihn! Er soll euer Vater sein.
+
+<<v66>>
+66 Judas, der Makkabäer, ist seit seiner Jugend ein tapferer Krieger. Er
+soll an der Spitze eures Heeres stehen und den Kampf für sein Volk
+führen.
+
+<<v67>>
+67 Schart alle um euch, die das Gesetz halten. Nehmt Rache für euer
+Volk!
+
+<<v68>>
+68 Zahlt es den fremden Völkern heim! Achtet auf das, was das Gesetz
+befiehlt.
+
+<<v69>>
+69 Und nachdem er sie gesegnet hatte, wurde er mit seinen Vätern
+vereint.
+
+<<v70>>
+70 Er starb im Jahr 146. Man setzte ihn im Grab seiner Väter in Modeïn
+bei und ganz Israel hielt feierlich die Totenklage um ihn.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Chr_24.org::v7][1 Chr 24,7]]
+
+[fn:2] (17-22) [[file:Dan_11.org::v32][Dan 11,32]]
+
+[fn:3] Freund des Königs: eine ehrenvolle Auszeichnung, die am
+persischen Hof erblich war.
+
+[fn:4] [[file:Num_25.org::v6][Num 25,6]]-[[file:Num_25.org::v15][15]]
+
+[fn:5] [[file:2.Makk_6.org::v11][2 Makk 6,11]]
+
+[fn:6] «Hasidäer» (hasidim) bedeutet «Fromme»; eine jüdische
+Gemeinschaft, die sich später (150 v. Chr.) in Pharisäer und Essener
+aufspaltete.
+
+[fn:7] 49-70: Zum «Vermächtnis» des Mattatias vgl. den Lobpreis
+der Väter in [[file:Sir_44.org][Sir 44]]-[[file:Sir_50.org][50]].
+
+[fn:8] [[file:Gen_22.org][Gen 22]]; [[file:Gen_15.org::v6][15,6]]
+
+[fn:9] [[file:Gen_39.org::v7][Gen 39,7]]-[[file:Gen_39.org::v15][15]]; [[file:Gen_41.org::v38][41,38]]-[[file:Gen_41.org::v44][44]]
+
+[fn:10] [[file:Num_25.org::v6][Num 25,6]]-[[file:Num_25.org::v13][13]]
+
+[fn:11] Der gegenwärtige Hohepriester Simon II. wird in die
+Ahnenreihe des Aaron und Pinhas gestellt.
+
+[fn:12] [[file:Ex_17.org::v9][Ex 17,9]]-[[file:Ex_17.org::v13][13]]; [[file:Num_27.org::v15][Num 27,15]]-[[file:Num_27.org::v23][23]]
+
+[fn:13] [[file:Num_13.org::v30][Num 13,30]]; [[file:Num_14.org::v6][14,6f]].[[file:Num_14.org::v24][24]]; [[file:Jos_14.org::v6][Jos 14,6]]-[[file:Jos_14.org::v14][14]]
+
+[fn:14] [[file:1.Sam_24.org][1 Sam 24]]; [[file:1.Sam_26.org][26]]; [[file:2.Sam_7.org][2 Sam 7]]
+
+[fn:15] [[file:1.Kön_18.org::v40][1 Kön 18,40]]; [[file:1.Kön_19.org::v10][19,10]]; [[file:2.Kön_2.org::v1][2 Kön 2,1]]-[[file:2.Kön_2.org::v13][13]]
+
+[fn:16] [[file:Dan_3.org][Dan 3]]
+
+[fn:17] [[file:Dan_6.org][Dan 6]]
+
+[fn:18] Gemeint ist Antiochus IV. Epiphanes.
+
+[fn:19] [[file:Ps_37.org::v35][Ps 37,35f]]; [[file:Ps_146.org::v3][146,3f]]

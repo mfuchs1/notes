@@ -1,0 +1,166 @@
+#+TITLE: 1 Kön 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-12 So 10:57]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 3.html
+
+<<verses>>
+
+<<v1>>
+* Salomos Heirat: 3,1
+
+1 Salomo verschwägerte sich mit dem Pharao, dem König von Ägypten. Er
+nahm eine Tochter des Pharao zur Frau und brachte sie in die Davidstadt,
+bis er sein Haus, das Haus des Herrn und die Mauern rings um Jerusalem
+vollendet hatte. [fn:1]\\
+\\
+
+<<v2>>
+* Salomos Bitte um Weisheit: 3,2-15
+
+2 Das Volk opferte zu jener Zeit auf den Kulthöhen, weil dem Namen des
+Herrn noch kein Haus gebaut war. [fn:2]
+
+<<v3>>
+3 Salomo aber liebte den Herrn und befolgte die Gebote seines Vaters
+David; nur brachte er auf den Kulthöhen Schlachtopfer und Rauchopfer
+dar.
+
+<<v4>>
+4 So ging der König nach Gibeon, um dort zu opfern; denn hier war die
+angesehenste Kulthöhe. Tausend Brandopfer legte Salomo auf ihren Altar. [fn:3] [fn:4]
+
+<<v5>>
+5 In Gibeon erschien der Herr dem Salomo nachts im Traum und forderte
+ihn auf: Sprich eine Bitte aus, die ich dir gewähren soll.
+
+<<v6>>
+6 Salomo antwortete: Du hast deinem Knecht David, meinem Vater, große
+Huld erwiesen; denn er lebte vor dir in Treue, in Gerechtigkeit und mit
+aufrichtigem Herzen. Du hast ihm diese große Huld bewahrt und ihm einen
+Sohn geschenkt, der heute auf seinem Thron sitzt.
+
+<<v7>>
+7 So hast du jetzt, Herr, mein Gott, deinen Knecht anstelle meines
+Vaters David zum König gemacht. Doch ich bin noch sehr jung und weiß
+nicht, wie ich mich als König verhalten soll.
+
+<<v8>>
+8 Dein Knecht steht aber mitten in deinem Volk, das du erwählt hast:
+einem großen Volk, das man wegen seiner Menge nicht zählen und nicht
+schätzen kann.
+
+<<v9>>
+9 Verleih daher deinem Knecht ein hörendes Herz, damit er dein Volk zu
+regieren und das Gute vom Bösen zu unterscheiden versteht. Wer könnte
+sonst dieses mächtige Volk regieren?
+
+<<v10>>
+10 Es gefiel dem Herrn, dass Salomo diese Bitte aussprach.
+
+<<v11>>
+11 Daher antwortete ihm Gott: Weil du gerade diese Bitte ausgesprochen
+hast und nicht um langes Leben, Reichtum oder um den Tod deiner Feinde,
+sondern um Einsicht gebeten hast, um auf das Recht zu hören,
+
+<<v12>>
+12 werde ich deine Bitte erfüllen. Sieh, ich gebe dir ein so weises und
+verständiges Herz, dass keiner vor dir war und keiner nach dir kommen
+wird, der dir gleicht.
+
+<<v13>>
+13 Aber auch das, was du nicht erbeten hast, will ich dir geben:
+Reichtum und Ehre, sodass zu deinen Lebzeiten keiner unter den Königen
+dir gleicht.
+
+<<v14>>
+14 Wenn du auf meinen Wegen gehst, meine Gesetze und Gebote befolgst wie
+dein Vater David, dann schenke ich dir ein langes Leben.
+
+<<v15>>
+15 Da erwachte Salomo und merkte, dass es ein Traum war. Als er nach
+Jerusalem kam, trat er vor die Bundeslade des Herrn, brachte Brand- und
+Heilsopfer dar und gab ein Festmahl für alle seine Diener.\\
+\\
+
+<<v16>>
+* Das salomonische Urteil: 3,16-28
+
+16 Damals kamen zwei Dirnen und traten vor den König.
+
+<<v17>>
+17 Die eine sagte: Bitte, Herr, ich und diese Frau wohnen im gleichen
+Haus, und ich habe dort in ihrem Beisein geboren.
+
+<<v18>>
+18 Am dritten Tag nach meiner Niederkunft gebar auch diese Frau. Wir
+waren beisammen; kein Fremder war bei uns im Haus, nur wir beide waren
+dort.
+
+<<v19>>
+19 Nun starb der Sohn dieser Frau während der Nacht; denn sie hatte ihn
+im Schlaf erdrückt.
+
+<<v20>>
+20 Sie stand mitten in der Nacht auf, nahm mir mein Kind weg, während
+deine Magd schlief, und legte es an ihre Seite. Ihr totes Kind aber
+legte sie an meine Seite.
+
+<<v21>>
+21 Als ich am Morgen aufstand, um mein Kind zu stillen, war es tot. Als
+ich es aber am Morgen genau ansah, war es nicht mein Kind, das ich
+geboren hatte.
+
+<<v22>>
+22 Da rief die andere Frau: Nein, mein Kind lebt und dein Kind ist tot.
+Doch die erste entgegnete: Nein, dein Kind ist tot und mein Kind lebt.
+So stritten sie vor dem König.
+
+<<v23>>
+23 Da begann der König: Diese sagt: Mein Kind lebt und dein Kind ist
+tot! und jene sagt: Nein, dein Kind ist tot und mein Kind lebt.
+
+<<v24>>
+24 Und der König fuhr fort: Holt mir ein Schwert! Man brachte es vor den
+König.
+
+<<v25>>
+25 Nun entschied er: Schneidet das lebende Kind entzwei und gebt eine
+Hälfte der einen und eine Hälfte der anderen!
+
+<<v26>>
+26 Doch nun bat die Mutter des lebenden Kindes den König - es regte sich
+nämlich in ihr die mütterliche Liebe zu ihrem Kind: Bitte, Herr, gebt
+ihr das lebende Kind und tötet es nicht! Doch die andere rief: Es soll
+weder mir noch dir gehören. Zerteilt es!
+
+<<v27>>
+27 Da befahl der König: Gebt jener das lebende Kind und tötet es nicht;
+denn sie ist seine Mutter.
+
+<<v28>>
+28 Ganz Israel hörte von dem Urteil, das der König gefällt hatte, und
+sie schauten mit Ehrfurcht zu ihm auf; denn sie erkannten, dass die
+Weisheit Gottes in ihm war, wenn er Recht sprach.\\
+\\
+
+* Footnotes
+
+[fn:1] Die Heirat bedeutete, dass Salomo von Ägypten als König
+anerkannt wurde.
+
+[fn:2] Kulthöhen in der Nähe vieler Städte galten in alter Zeit
+als rechtmäßig (vgl. [[file:Ex_20.org::v24][Ex 20,24]]), wurden aber in Dtn 12 verboten. Der
+Verfasser der Königsbücher beurteilt Salomo und die späteren Könige nach
+diesem Verbot.
+
+[fn:3] (4-15) [[file:2.Chr_1.org::v3][2 Chr 1,3-13]]
+
+[fn:4] In Gibeon, nördlich von Jerusalem, befand sich nach [[file:1.Chr_21.org::v29][1 Chr 21,29]]
+und [[file:2.Chr_1.org::v3][2 Chr 1,3]] das aus der Wüstenzeit stammende heilige Zelt.

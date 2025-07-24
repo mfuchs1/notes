@@ -1,0 +1,129 @@
+#+TITLE: Jos 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 11:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 17.html
+
+
+* Jos 17
+
+<<verses>>
+
+<<v1>>
+1 Dem Stamm des Manasse - er war der Erstgeborene Josefs - fiel durch
+das Los folgender Anteil zu: Machir, der Erstgeborene Manasses, der
+Vater Gileads, - er war ein kampferprobter Mann - erhielt Gilead und den
+Baschan. [fn:1]
+
+<<v2>>
+2 Auch die übrigen Söhne Manasses erhielten einen (Anteil) entsprechend
+ihren Sippen: die Söhne Abiësers, die Söhne Heleks, die Söhne Asriëls,
+die Söhne Schechems, die Söhne Hefers und die Söhne Schemidas; das sind
+die männlichen Nachkommen Manasses, des Sohnes Josefs, mit ihren Sippen.
+
+<<v3>>
+3 Zelofhad aber, der Sohn Hefers, des Sohnes Gileads, des Sohnes
+Machirs, des Sohnes Manasses, hatte keine Söhne, sondern nur Töchter.
+Seine Töchter hatten folgende Namen: Machla, Noa, Hogla, Milka und
+Tirza. [fn:2]
+
+<<v4>>
+4 Sie erschienen vor dem Priester Eleasar und vor Josua, dem Sohn Nuns,
+und vor den Anführern und sagten: Der Herr hat Mose befohlen, uns
+Erbbesitz im Kreis unserer Brüder zu geben. Da gab er ihnen, gemäß der
+Anweisung des Herrn, Erbbesitz im Kreis der Brüder ihres Vaters.
+
+<<v5>>
+5 So entfielen auf Manasse, abgesehen vom Land Gilead und dem Baschan,
+die jenseits des Jordan liegen, zehn Anteile.
+
+<<v6>>
+6 Denn die Töchter Manasses erhielten Erbbesitz im Kreis seiner Söhne.
+Das Land Gilead aber erhielten die übrigen Söhne Manasses.
+
+<<v7>>
+7 Das Gebiet Manasses reicht vom Gebiet Aschers bis nach Michmetat, das
+gegenüber von Sichem liegt. Von dort verläuft die Grenze nach Süden bis
+zu den Einwohnern von En-Tappuach.
+
+<<v8>>
+8 Manasse wurde das Gebiet von Tappuach zuteil, Tappuach selbst aber, an
+der Grenze Manasses, den Efraimitern.
+
+<<v9>>
+9 Dann zieht sich die Grenze hinab zum Bach Kana; südlich des Bachs
+gehören einzelne Städte mitten unter den Städten Manasses zu Efraim.
+Nördlich des Bachs ist die Grenze Manasses; sie läuft am Meer aus. [fn:3]
+
+<<v10>>
+10 Das Gebiet im Süden gehört Efraim und das Gebiet im Norden Manasse,
+dessen Grenze das Meer bildet. Im Norden grenzen sie an Ascher, im Osten
+an Issachar.
+
+<<v11>>
+11 Manasse erhielt in Issachar und in Ascher Bet-Schean und seine
+Tochterstädte, Jibleam und seine Tochterstädte, die Einwohner von Dor
+und seinen Tochterstädten, die Einwohner von En-Dor und seinen
+Tochterstädten, die Einwohner von Taanach und seinen Tochterstädten, die
+Einwohner von Megiddo und seinen Tochterstädten [drei Anhöhen]. [fn:4] [fn:5]
+
+<<v12>>
+12 Doch die Manassiter konnten diese Städte nicht in Besitz nehmen; es
+gelang den Kanaanitern, ihre Wohnsitze in diesem Land zu halten.
+
+<<v13>>
+13 Als die Israeliten jedoch stark geworden waren, zwangen sie die
+Kanaaniter zur Fron; aber vertreiben konnten sie sie nicht.
+
+<<v14>>
+14 Die Nachkommen Josefs sagten zu Josua: Warum hast du uns nur ein
+einziges Los und nur einen einzigen Anteil als Erbbesitz gegeben, obwohl
+wir ein zahlreiches Volk sind, nachdem uns der Herr so sehr gesegnet
+hat?
+
+<<v15>>
+15 Josua antwortete ihnen: Wenn ihr ein so zahlreiches Volk seid, dann
+steigt doch hinauf in das Waldgebiet und rodet für euch dort im Land der
+Perisiter und Rafaïter, wenn euch das Gebirge Efraim zu eng ist.
+
+<<v16>>
+16 Da sagten die Nachkommen Josefs: Das Bergland reicht für uns nicht
+aus. Im ebenen Land aber wohnen die Kanaaniter, die alle eiserne
+Kampfwagen haben, wie etwa die Leute in Bet-Schean und seinen
+Tochterstädten und die Leute in der Ebene Jesreel. [fn:6]
+
+<<v17>>
+17 Josua erwiderte dem Haus Josef, Efraim und Manasse: Ihr seid ein
+zahlreiches Volk und habt große Kraft. Ihr erhaltet nicht nur einen
+einzigen Anteil;
+
+<<v18>>
+18 denn auch das Bergland soll euch gehören. Es ist bewaldet; ihr könnt
+es roden. Das so gewonnene Land soll euch gehören, wenn ihr auch die
+Kanaaniter nicht vertreiben könnt, weil sie eiserne Kampfwagen haben und
+weil sie stark sind. [fn:7]\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:Jos_13.org::v29][13,29f]]; [[file:Num_26.org::v29][Num 26,29]]; [[file:Ri_5.org::v14][Ri 5,14]]
+
+[fn:2] [[file:Num_26.org::v33][Num 26,33]]; [[file:Num_27.org::v1][27,1-8]]; [[file:Num_36.org::v2][36,2]]
+
+[fn:3] [[file:Jos_16.org::v8][16,8f]]
+
+[fn:4] [[file:Ri_1.org::v27][Ri 1,27f]]
+
+[fn:5] Sinn und Bedeutung des Zusatzes unsicher.
+
+[fn:6] Die Wagen hatten eiserne Beschläge. In Israel wurden
+solche Wagen erst unter Salomo eingeführt (vgl. [[file:1.Kön_10.org::v28][1 Kön 10,28f]]).
+
+[fn:7] nicht: Text korr. (vgl. [[v13][V. 13]]; [[file:Jos_16.org::v10][16,10]]).

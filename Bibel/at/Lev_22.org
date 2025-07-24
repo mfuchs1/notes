@@ -1,0 +1,189 @@
+#+TITLE: Lev 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 21:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 22.html
+
+
+<<verses>>
+
+<<v1>>
+* Weitere Vorschriften für den Genuss und die Darbringung von Opfern: 22,1-33
+
+* Der Ausschluss von Priestern vom Genuss der Opfergaben: 22,1-9
+
+1 Der Herr sprach zu Mose:
+
+<<v2>>
+2 Sag zu Aaron und seinen Söhnen, sie sollen sich mit den heiligen
+Opfergaben der Israeliten in Acht nehmen, um meinen heiligen Namen nicht
+zu entweihen; sie müssen für mich heilig gehalten werden. Ich bin der
+Herr.
+
+<<v3>>
+3 Sag zu ihnen: Jeder aus euren Nachkommen, auch in den kommenden
+Generationen, der sich im Zustand der Unreinheit den heiligen Opfergaben
+nähert, die die Israeliten dem Herrn weihen, soll ausgemerzt und aus
+meiner Gegenwart weggeschafft werden. Ich bin der Herr.
+
+<<v4>>
+4 Keiner aus den Nachkommen Aarons, der aussätzig ist oder einen
+Ausfluss hat, darf von den heiligen Gaben essen, ehe er rein ist. Wer
+irgendetwas berührt hat, das durch eine Leiche unrein wurde, wer einen
+Samenerguss hatte,
+
+<<v5>>
+5 wer Kleintiere berührt hat und sich damit verunreinigte oder einen
+Menschen, der ihn durch eine eigene Unreinheit befleckte,
+
+<<v6>>
+6 jeder, der solche Berührungen hatte, soll bis zum Abend unrein sein
+und darf von den heiligen Gaben erst essen, nachdem er seinen Körper in
+Wasser gebadet hat.
+
+<<v7>>
+7 Mit Sonnenuntergang soll er wieder rein sein und darf danach von den
+heiligen Gaben essen; denn sie sind sein Lebensunterhalt.
+
+<<v8>>
+8 Er darf kein verendetes oder zerrissenes Tier essen; er würde sich
+dadurch verunreinigen. Ich bin der Herr.
+
+<<v9>>
+9 Sie sollen auf meine Anordnungen achten und keine Sünde auf sich
+laden; sie sollen sterben, falls sie sie entweihen. Ich, der Herr, bin
+es, der sie heiligt. [fn:1]\\
+\\
+
+<<v10>>
+* Der Ausschluss der Laien vom Genuss der Opfergaben: 22,10-16
+
+10 Kein Laie darf Heiliges essen; weder der Hausgenosse eines Priesters
+noch sein Lohnarbeiter darf etwas Heiliges essen.
+
+<<v11>>
+11 Aber wenn ein Priester eine Person mit seinem Geld als Eigentum
+erwirbt, darf sie davon essen wie einer, der in seinem Haus geboren ist;
+sie dürfen von seiner Nahrung essen.
+
+<<v12>>
+12 Wenn eine Priestertochter einen Laien heiratet, darf sie vom Anteil
+des Erhebungsritus, von den heiligen Gaben nicht essen;
+
+<<v13>>
+13 aber wenn sie verwitwet oder verstoßen ist und keine Kinder hat und
+deshalb in das Haus ihres Vaters zurückkehrt, darf sie wie in ihrer
+Jugend vom Lebensunterhalt ihres Vaters essen; kein Laie aber darf davon
+essen.
+
+<<v14>>
+14 Wenn einer ohne Vorsatz etwas Heiliges isst, soll er es dem Priester
+ersetzen und ein Fünftel des Wertes hinzufügen.
+
+<<v15>>
+15 Die Priester dürfen die heiligen Gaben der Israeliten, die sie dem
+Herrn darbieten, nicht entweihen.
+
+<<v16>>
+16 Sie würden den Israeliten Schuld aufladen, die zu einem Schuldopfer
+verpflichtet, wenn sie ihre heiligen Gaben äßen; denn ich bin der Herr,
+der diese Gaben geheiligt hat. [fn:2]\\
+\\
+
+<<v17>>
+* Die Tauglichkeit der Opfertiere: 22,17-25
+
+17 Der Herr sprach zu Mose:
+
+<<v18>>
+18 Rede zu Aaron, seinen Söhnen und allen Israeliten und sag zu ihnen:
+Jeder aus dem Haus Israel oder von den Fremden in Israel, der seine
+Opfergabe wegen eines Gelübdes oder freiwillig bringt und sie für den
+Herrn als Brandopfer darbringt,
+
+<<v19>>
+19 muss, damit ihr Annahme findet, ein fehlerloses, männliches Tier von
+den Rindern, Schafen oder Ziegen darbringen.
+
+<<v20>>
+20 Ihr dürft kein Tier mit einem Gebrechen darbringen, denn ihr würdet
+damit keine Annahme finden.
+
+<<v21>>
+21 Wenn jemand ein Heilsopfer für den Herrn darbringt, sei es, um ein
+Gelübde zu erfüllen, oder sei es als freiwillige Gabe, so soll es ein
+fehlerloses Rind oder Schaf oder eine fehlerlose Ziege sein, um Annahme
+zu finden; es darf kein Gebrechen haben.
+
+<<v22>>
+22 Ihr dürft dem Herrn kein Tier opfern, das blind, verstümmelt,
+krätzig, aussätzig, eitrig ist oder zerbrochene Gliedmaßen hat. Kein
+Stück von solchen Tieren dürft ihr auf den Altar als ein Feueropfer für
+den Herrn legen.
+
+<<v23>>
+23 Ein entstelltes oder verstümmeltes Rind oder Schaf kannst du als
+freiwillige Opfergabe verwenden, aber als Einlösung eines Gelübdes ist
+es missfällig.
+
+<<v24>>
+24 Ihr dürft dem Herrn kein Tier darbringen, das zerdrückte,
+zerschlagene, ausgerissene oder abgeschnittene Hoden hat. Ihr dürft das
+in eurem Land nicht tun
+
+<<v25>>
+25 und ihr dürft kein solches Tier aus der Hand eines Fremden erwerben,
+um es als Speise eures Gottes darzubringen. Ein derartiger Eingriff an
+ihnen bewirkt ein Gebrechen; sie würden euch keine Annahme bringen.\\
+\\
+
+<<v26>>
+* Einzelbestimmungen über Opfertiere: 22,26-30
+
+26 Der Herr sprach zu Mose:
+
+<<v27>>
+27 Wenn ein Rind, ein Schaf oder eine Ziege geboren wird, soll das Junge
+sieben Tage bei seiner Mutter bleiben. Vom achten Tag an ist es als
+Feueropfer für den Herrn annehmbar. [fn:3]
+
+<<v28>>
+28 Ein Rind oder Schaf sollt ihr nicht an einem Tag zugleich mit seinem
+Jungen schlachten.
+
+<<v29>>
+29 Wenn ihr dem Herrn ein Dankopfer darbringt, opfert es so, dass es
+angenommen werden kann.
+
+<<v30>>
+30 Man soll es noch am selben Tag essen, ohne etwas davon bis zum Morgen
+übrig zu lassen. Ich bin der Herr.\\
+\\
+
+<<v31>>
+* Schlussmahnung: 22,31-33
+
+31 Ihr sollt auf meine Gebote achten und sie befolgen; ich bin der Herr.
+
+<<v32>>
+32 Ihr sollt meinen heiligen Namen nicht entweihen, damit ich inmitten
+der Israeliten geheiligt werde; ich, der Herr, bin es, der euch heiligt.
+
+<<v33>>
+33 Ich, der euch aus Ägypten herausgeführt hat, um euer Gott zu sein,
+ich bin der Herr.\\
+\\
+
+* Footnotes
+
+[fn:1] falls sie sie entweihen: H unklar.
+
+[fn:2] H ist nicht völlig klar.
+
+[fn:3] Ex 22,29 [[file:Ex_22.org::v22][Ex 22,29]]

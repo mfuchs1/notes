@@ -1,0 +1,171 @@
+#+TITLE: Dtn 27 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-30 Mo 16:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 27.html
+
+<<verses>>
+
+<<v1>>
+
+* Einschub: Aufträge für die Zeit nach dem Jordanübergang: 27,1-26
+
+Mose und die Ältesten Israels befahlen dem Volk: Achtet auf das ganze
+Gebot, auf das ich euch heute verpflichte. [fn:1]
+
+<<v2>>
+2 An dem Tag, wenn ihr über den Jordan zieht in das Land, das der Herr,
+dein Gott, dir gibt, sollst du große Steine aufrichten, sie mit Kalk
+bestreichen
+
+<<v3>>
+3 und alle Worte dieser Weisung darauf schreiben, wenn du hinüberziehst,
+um in das Land, das der Herr, dein Gott, dir gibt, das Land, wo Milch
+und Honig fließen, hineinzuziehen, wie der Herr, der Gott deiner Väter,
+es dir zugesagt hat.
+
+<<v4>>
+4 Wenn ihr über den Jordan zieht, sollt ihr diese Steine, die zu
+errichten ich euch heute befehle, auf dem Berg Garizim aufrichten. Mit
+Kalk sollst du sie bestreichen. [fn:2] [fn:3]
+
+<<v5>>
+5 Dort sollst du dem Herrn, deinem Gott, einen Altar bauen, einen Altar
+aus Steinen. Du darfst nicht mit Eisenwerkzeug daran arbeiten. [fn:4]
+
+<<v6>>
+6 Aus unbehauenen Steinen sollst du den Altar des Herrn, deines Gottes,
+bauen und auf ihm sollst du Brandopfertiere für den Herrn, deinen Gott,
+verbrennen.
+
+<<v7>>
+7 Dort sollst du Heilsopfertiere schlachten und verzehren und vor dem
+Herrn, deinem Gott, fröhlich sein.
+
+<<v8>>
+8 Und auf die Steine sollst du in schöner Schrift alle Worte dieser
+Weisung schreiben.
+
+<<v9>>
+9 Mose und die levitischen Priester sagten zu ganz Israel: Sei still und
+höre, Israel: Heute, an diesem Tag, bist du das Volk des Herrn, deines
+Gottes, geworden. [fn:5]
+
+<<v10>>
+10 Du sollst auf die Stimme des Herrn, deines Gottes, hören und seine
+Gebote und Gesetze halten, auf die ich dich heute verpflichte. [fn:6]
+
+<<v11>>
+11 Am gleichen Tag befahl Mose dem Volk: [fn:7]
+
+<<v12>>
+12 Folgende Stämme sollen sich auf dem Berg Garizim aufstellen, um das
+Volk zu segnen, wenn ihr den Jordan überschritten habt: Simeon, Levi,
+Juda, Issachar, Josef und Benjamin.
+
+<<v13>>
+13 Folgende Stämme sollen sich am Berg Ebal aufstellen, um den Fluch zu
+sprechen: Ruben, Gad, Ascher, Sebulon, Dan und Naftali.
+
+<<v14>>
+14 Die Leviten sollen über alle Männer Israels mit lauter Stimme
+ausrufen: [fn:8]
+
+<<v15>>
+15 Verflucht ist der Mann, der ein Gottesbildnis, das dem Herrn ein
+Gräuel ist, ein Künstlermachwerk, schnitzt oder gießt und es heimlich
+aufstellt. Und das ganze Volk soll ausrufen: Amen. [fn:9]
+
+<<v16>>
+16 Verflucht, wer Vater oder Mutter schmäht. Und das ganze Volk soll
+rufen: Amen. [fn:10]
+
+<<v17>>
+17 Verflucht, wer den Grenzstein seines Nachbarn verrückt. Und das ganze
+Volk soll rufen: Amen. [fn:11]
+
+<<v18>>
+18 Verflucht, wer einem Blinden den falschen Weg weist. Und das ganze
+Volk soll rufen: Amen.
+
+<<v19>>
+19 Verflucht, wer das Recht der Fremden, die Waisen sind, und das der
+Witwen beugt. Und das ganze Volk soll rufen: Amen. [fn:12]
+
+<<v20>>
+20 Verflucht, wer sich mit der Frau seines Vaters hinlegt, denn er deckt
+das Bett seines Vaters auf. Und das ganze Volk soll rufen: Amen. [fn:13]
+
+<<v21>>
+21 Verflucht, wer sich mit irgendeinem Tier hinlegt. Und das ganze Volk
+soll rufen: Amen. [fn:14]
+
+<<v22>>
+22 Verflucht, wer sich mit seiner Schwester hinlegt, mit der Tochter
+seines Vaters oder mit der Tochter seiner Mutter. Und das ganze Volk
+soll rufen: Amen.
+
+<<v23>>
+23 Verflucht, wer sich mit seiner Schwiegermutter hinlegt. Und das ganze
+Volk soll rufen: Amen.
+
+<<v24>>
+24 Verflucht, wer einen andern heimlich erschlägt. Und das ganze Volk
+soll rufen: Amen. [fn:15]
+
+<<v25>>
+25 Verflucht, wer sich bestechen lässt, einen unschuldigen Menschen zu
+töten. Und das ganze Volk soll rufen: Amen. [fn:16]
+
+<<v26>>
+26 Verflucht, wer nicht die Worte dieser Weisung stützt, indem er sie
+hält. Und das ganze Volk soll rufen: Amen. [fn:17]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Dtn_5.org::v23][5,23]]; (1-13) [[file:Jos_8.org::v30][Jos 8,30-35]]
+
+[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/Joh_4.org::v20][Joh 4,20]]
+
+[fn:3] Garizim, andere Lesart: Ebal; sie stammt aus
+antisamaritischer Tendenz, denn nach V. 13 ist der Ebal der Berg des
+Verfluchens und der Tempel der Samariter stand auf dem Garizim.
+
+[fn:4] (5-6) [[file:Ex_20.org::v25][Ex 20,25]]
+
+[fn:5] [[file:Dtn_7.org::v6][7,6]]; [[file:Dtn_10.org::v8][10,8]]; [[file:Dtn_26.org::v17][26,17-19]]
+
+[fn:6] [[file:Dtn_28.org::v1][28,1]]
+
+[fn:7] (11-13) [[file:Dtn_11.org::v29][11,29]]
+
+[fn:8] 14-26: Vom letzten Satz abgesehen, richten sich die
+Verfluchungen alle gegen Verbrechen, die im Geheimen geschehen sind. Da
+menschliche Justiz sie nicht fassen kann, werden sie der göttlichen
+Ahndung überantwortet.
+
+[fn:9] [[file:Dtn_4.org::v16][4,16]].[[file:Dtn_4.org::v28][28]]; [[file:Dtn_5.org::v8][5,8]]; [[file:Dtn_7.org::v25][7,25]]; [[file:Dtn_9.org::v12][9,12]]; [[file:Dtn_31.org::v29][31,29]]; [[file:Ri_17.org::v3][Ri 17,3]]; [[file:1.Kön_14.org::v9][1 Kön 14,9]];
+[[file:2.Kön_17.org::v16][2 Kön 17,16]]; [[file:2.Kön_21.org::v7][21,7]]
+
+[fn:10] [[file:Dtn_5.org::v16][5,16]]; [[file:Ex_21.org::v17][Ex 21,17]]
+
+[fn:11] [[file:Dtn_5.org::v21][5,21]]; [[file:Dtn_19.org::v14][19,14]]
+
+[fn:12] [[file:Dtn_24.org::v17][24,17]]; [[file:Ex_22.org::v20][Ex 22,20-23]]; [[file:Ex_23.org::v9][23,9]]
+
+[fn:13] [[file:Dtn_23.org::v1][23,1]]; [[file:2.Sam_16.org::v22][2 Sam 16,22]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_5.org::v1][1 Kor 5,1]]
+
+[fn:14] [[file:Ex_22.org::v18][Ex 22,18]]
+
+[fn:15] [[file:Dtn_5.org::v17][5,17]]; [[file:Ex_21.org::v12][Ex 21,12]]
+
+[fn:16] [[file:Dtn_19.org::v10][19,10]]; [[file:Ex_23.org::v8][Ex 23,8]]
+
+[fn:17] [[file:~/RoamNotes/notes/Bibel/nt/2.Kor_3.org::v9][2 Kor 3,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Gal_3.org::v10][Gal 3,10]]

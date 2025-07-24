@@ -1,0 +1,166 @@
+#+TITLE: Spr 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-25 So 23:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 18.html
+
+* Spr 18
+
+<<verses>>
+
+<<v1>>
+1 Der Abtrünnige sucht nach einem Vorwand, /\\
+ um loszubrechen mit aller Gewalt. [fn:1]\\
+\\
+
+<<v2>>
+2 Der Tor hat kein Gefallen an Einsicht, /\\
+ vielmehr daran, sein Herz zur Schau zu stellen. [fn:2]\\
+\\
+
+<<v3>>
+3 Kommt Frevel, kommt auch Verachtung /\\
+ und mit der Schandtat die Schmach.\\
+\\
+
+<<v4>>
+4 Tiefe Wasser sind die Worte aus dem Mund eines Menschen, /\\
+ ein sprudelnder Bach, eine Quelle der Weisheit.\\
+\\
+
+<<v5>>
+5 Es ist nicht gut, einen Schuldigen zu begünstigen /\\
+ und den Unschuldigen abzuweisen vor Gericht.\\
+\\
+
+<<v6>>
+6 Die Lippen des Toren beginnen Streit, /\\
+ sein Mund schreit nach Schlägen.\\
+\\
+
+<<v7>>
+7 Dem Toren wird sein Mund zum Verderben; /\\
+ seine Lippen werden ihm selbst zur Falle.\\
+\\
+
+<<v8>>
+8 Die Worte des Verleumders sind wie Leckerbissen, /\\
+ sie gleiten hinab in die Kammern des Leibes. [fn:3]\\
+\\
+
+<<v9>>
+9 Wer lässig ist bei seiner Arbeit, /\\
+ ist schon ein Bruder des Mörders. [fn:4]\\
+\\
+
+<<v10>>
+10 Ein fester Turm ist der Name des Herrn, /\\
+ dorthin eilt der Gerechte und ist geborgen. [fn:5]\\
+\\
+
+<<v11>>
+11 Für den Reichen ist sein Vermögen wie eine feste Stadt, /\\
+ wie eine hohe Mauer - in seiner Einbildung. [fn:6]\\
+\\
+
+<<v12>>
+12 Vor dem Sturz ist das Herz des Menschen überheblich, /\\
+ aber der Ehre geht Demut voran. [fn:7]\\
+\\
+
+<<v13>>
+13 Gibt einer Antwort, bevor er gehört hat, /\\
+ ist es Torheit und Schande für ihn. [fn:8]\\
+\\
+
+<<v14>>
+14 Der Geist des Menschen überwindet die Krankheit, /\\
+ doch einen zerschlagenen Geist, wer kann den aufrichten? [fn:9]\\
+\\
+
+<<v15>>
+15 Das Herz des Verständigen erwirbt sich Erkenntnis, /\\
+ das Ohr der Weisen sucht Erkenntnis.\\
+\\
+
+<<v16>>
+16 Geschenke schaffen dem Geber Raum /\\
+ und geleiten ihn vor die Großen. [fn:10]\\
+\\
+
+<<v17>>
+17 Recht bekommt in seinem Streitfall der Erste, /\\
+ aber dann kommt der andere und geht der Sache nach.\\
+\\
+
+<<v18>>
+18 Streitigkeiten beendet das Los, /\\
+ es entscheidet zwischen Mächtigen. [fn:11]\\
+\\
+
+<<v19>>
+19 Ein getäuschter Bruder ist verschlossener als eine Festung, /\\
+ Streitigkeiten sind wie der Sperrriegel einer Burg.\\
+\\
+
+<<v20>>
+20 Von der Frucht seines Mundes wird ein jeder satt, /\\
+ vom Ertrag seiner Lippen wird er gesättigt.\\
+\\
+
+<<v21>>
+21 Tod und Leben stehen in der Macht der Zunge; /\\
+ wer sie liebevoll gebraucht, genießt ihre Frucht.\\
+\\
+
+<<v22>>
+22 Wer eine Frau gefunden, hat Glück gefunden /\\
+ und das Gefallen des Herrn erlangt. [fn:12]\\
+\\
+
+<<v23>>
+23 Flehentlich redet der Arme, /\\
+ der Reiche aber antwortet mit Härte.\\
+\\
+
+<<v24>>
+24 Manche Freunde führen ins Verderben, /\\
+ manch ein lieber Freund ist anhänglicher als ein Bruder.\\
+\\
+
+* Footnotes
+
+[fn:1] 1a: einem Vorwand: nach G; H: einer Begierde.
+
+[fn:2] 2b: Herz: kann Denkweise und überhaupt das Innere
+bedeuten.
+
+[fn:3] [[file:Spr_26.org::v22][26,22]]
+
+[fn:4] 28,24
+
+[fn:5] Ps 61,4
+
+[fn:6] 10,15
+
+[fn:7] 16,18; 15,33
+
+[fn:8] Sir 32,7-9
+
+[fn:9] Zugrunde liegt wohl die Einsicht, dass physische Leiden
+leichter heilbar sind als psychische.
+
+[fn:10] 17,8; 21,14
+
+[fn:11] 16,33
+
+[fn:12] G und Vg: eine gute Frau. Sie fügen an: Wer eine gute
+Frau verstößt, verstößt das Glück; wer eine Ehebrecherin aufnimmt, ist
+töricht und frevelhaft.

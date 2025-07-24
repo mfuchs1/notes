@@ -1,0 +1,160 @@
+#+TITLE: 1 Kön 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-16 Do 22:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 19.html
+
+<<verses>>
+
+<<v1>>
+* Elija am Horeb: 19,1-13a
+
+1 Ahab erzählte Isebel alles, was Elija getan, auch dass er alle
+Propheten mit dem Schwert getötet habe.
+
+<<v2>>
+2 Sie schickte einen Boten zu Elija und ließ ihm sagen: Die Götter
+sollen mir dies und das antun, wenn ich morgen um diese Zeit dein Leben
+nicht dem Leben eines jeden von ihnen gleich mache. [fn:1]
+
+<<v3>>
+3 Elija geriet in Angst, machte sich auf und ging weg, um sein Leben zu
+retten. Er kam nach Beerscheba in Juda und ließ dort seinen Diener
+zurück. [fn:2]
+
+<<v4>>
+4 Er selbst ging eine Tagereise weit in die Wüste hinein. Dort setzte er
+sich unter einen Ginsterstrauch und wünschte sich den Tod. Er sagte: Nun
+ist es genug, Herr. Nimm mein Leben; denn ich bin nicht besser als meine
+Väter.
+
+<<v5>>
+5 Dann legte er sich unter den Ginsterstrauch und schlief ein. Doch ein
+Engel rührte ihn an und sprach: Steh auf und iss!
+
+<<v6>>
+6 Als er um sich blickte, sah er neben seinem Kopf Brot, das in
+glühender Asche gebacken war, und einen Krug mit Wasser. Er aß und trank
+und legte sich wieder hin.
+
+<<v7>>
+7 Doch der Engel des Herrn kam zum zweiten Mal, rührte ihn an und
+sprach: Steh auf und iss! Sonst ist der Weg zu weit für dich.
+
+<<v8>>
+8 Da stand er auf, aß und trank und wanderte, durch diese Speise
+gestärkt, vierzig Tage und vierzig Nächte bis zum Gottesberg Horeb. [fn:3]
+
+<<v9>>
+9 Dort ging er in eine Höhle, um darin zu übernachten. Doch das Wort des
+Herrn erging an ihn: Was willst du hier, Elija?
+
+<<v10>>
+10 Er sagte: Mit leidenschaftlichem Eifer bin ich für den Herrn, den
+Gott der Heere, eingetreten, weil die Israeliten deinen Bund verlassen,
+deine Altäre zerstört und deine Propheten mit dem Schwert getötet haben.
+Ich allein bin übrig geblieben und nun trachten sie auch mir nach dem
+Leben.
+
+<<v11>>
+11 Der Herr antwortete: Komm heraus und stell dich auf den Berg vor den
+Herrn! Da zog der Herr vorüber: Ein starker, heftiger Sturm, der die
+Berge zerriss und die Felsen zerbrach, ging dem Herrn voraus. Doch der
+Herr war nicht im Sturm. Nach dem Sturm kam ein Erdbeben. Doch der Herr
+war nicht im Erdbeben. [fn:4]
+
+<<v12>>
+12 Nach dem Beben kam ein Feuer. Doch der Herr war nicht im Feuer. Nach
+dem Feuer kam ein sanftes, leises Säuseln.
+
+<<v13>>
+13 Als Elija es hörte, hüllte er sein Gesicht in den Mantel, trat hinaus
+und stellte sich an den Eingang der Höhle. [fn:5]\\
+\\
+
+<<v14>>
+* Neue Aufträge: 19,13b-18
+
+14 Da vernahm er eine Stimme, die ihm zurief: Was willst du hier, Elija?
+Er antwortete: Mit Leidenschaft bin ich für den Herrn, den Gott der
+Heere, eingetreten, weil die Israeliten deinen Bund verlassen, deine
+Altäre zerstört und deine Propheten mit dem Schwert getötet haben. Ich
+allein bin übrig geblieben und nun trachten sie auch mir nach dem Leben.
+
+<<v15>>
+15 Der Herr antwortete ihm: Geh deinen Weg durch die Wüste zurück und
+begib dich nach Damaskus! Bist du dort angekommen, salbe Hasaël zum
+König über Aram! [fn:6]
+
+<<v16>>
+16 Jehu, den Sohn Nimschis, sollst du zum König von Israel salben und
+Elischa, den Sohn Schafats aus Abel-Mehola, salbe zum Propheten an
+deiner Stelle. [fn:7] [fn:8]
+
+<<v17>>
+17 So wird es geschehen: Wer dem Schwert Hasaëls entrinnt, den wird Jehu
+töten. Und wer dem Schwert Jehus entrinnt, den wird Elischa töten.
+
+<<v18>>
+18 Ich werde in Israel siebentausend übrig lassen, alle, deren Knie sich
+vor dem Baal nicht gebeugt und deren Mund ihn nicht geküsst hat.\\
+\\
+
+<<v19>>
+* Die Berufung Elischas: 19,19-21
+
+19 Als Elija von dort weggegangen war, traf er Elischa, den Sohn
+Schafats. Er war gerade mit zwölf Gespannen am Pflügen und er selbst
+pflügte mit dem zwölften. Im Vorbeigehen warf Elija seinen Mantel über
+ihn.
+
+<<v20>>
+20 Sogleich verließ Elischa die Rinder, eilte Elija nach und bat ihn:
+Lass mich noch meinem Vater und meiner Mutter den Abschiedskuss geben;
+dann werde ich dir folgen. Elija antwortete: Geh, aber komm dann zurück!
+Bedenke, was ich an dir getan habe. [fn:9]
+
+<<v21>>
+21 Elischa ging von ihm weg, nahm seine zwei Rinder und schlachtete sie.
+Mit dem Joch der Rinder kochte er das Fleisch und setzte es den Leuten
+zum Essen vor. Dann stand er auf, folgte Elija und trat in seinen
+Dienst.\\
+\\
+
+* Footnotes
+
+[fn:1] Isebel wagte es nicht, gewaltsam gegen Elija vorzugehen.
+Ihre Warnung sollte ihn zur Flucht zwingen und seinen Einfluss auf das
+Volk verhindern.
+
+[fn:2] geriet in Angst: Text korr. nach G; H: sah.
+
+[fn:3] Elija begab sich zum Horeb (= Sinai), auf dem das Gesetz
+verkündet worden war, um das er sich leidenschaftlich bemüht hatte.
+
+[fn:4] 11-13a: Bei der Verkündigung der Gebote erschien Gott am
+Sinai mit Blitz und Donner, Feuer und Erdbeben ([[file:Ex_19.org::v16][Ex 19,16-19]]) und
+offenbarte sich so als heiliger und Furcht erregender Gott. Auch vor
+Elija bot er diese Kräfte auf; doch waren sie nur seine Vorboten.
+
+[fn:5] 13b-18: Die Aufträge sind wohl bei anderer Gelegenheit
+ergangen; sie sind nicht Fortführung der vorausgehenden Offenbarung. Die
+ersten beiden Aufträge wurden erst durch Elischa verwirklicht und waren
+wohl ursprünglich an ihn gerichtet.
+
+[fn:6] [[file:2.Kön_8.org::v7][2 Kön 8,7-15]]
+
+[fn:7] [[file:2.Kön_9.org::v1][2 Kön 9,1-10]]
+
+[fn:8] Zur Angleichung an die vorher erwähnte Salbung der
+Könige wird auch die Berufung Elischas als Salbung bezeichnet.
+
+[fn:9] Der Vorgang erinnert an die Berufung der Jünger Jesu
+(vgl. [[file:~/RoamNotes/notes/Bibel/nt/Mt_4.org::v19][Mt 4,19-22]]). Die volle Ausstattung Elischas zum Propheten erfolgte
+erst bei der Entrückung Elijas ([[file:2.Kön_2.org::v1][2 Kön 2]]).

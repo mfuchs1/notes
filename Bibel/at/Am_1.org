@@ -1,0 +1,186 @@
+:PROPERTIES:
+:ID:       a85cc2f0-7c56-40ff-829c-bff84af299d9
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Amos* -- *1* [[file:Am_2.html][2]]
+[[file:Am_3.html][3]] ... [[file:Am_9.html][9]]
+
+--------------
+
+* Am 1
+  :PROPERTIES:
+  :CUSTOM_ID: am-1
+  :END:
+
+Die neun Kapitel dieses Buches lassen einen klaren Aufbau erkennen. Die
+beiden ersten Kapitel stellen einen Zyklus von Gerichtsreden über die
+Völker und Israel dar, dann folgen in Kap. 3 - 6 die konkreten Anklagen
+und Strafansagen des Propheten gegen führende Kreise des Nordreichs. In
+Kap. 7 - 9 treffen wir, nur unterbrochen durch den Bericht, in dem von
+Amos in der dritten Person erzählt wird (7,10-17), auf einen Zyklus von
+fünf Visionen. Den Abschluss bildet die Heilsverheißung von 9,11-15, die
+die Wiederaufrichtung der »zerfallenen Hütte Davids« in Aussicht stellt;
+ob sie auf Amos selbst zurückgeht, ist in der Forschung umstritten und
+wird häufig verneint. Die Lobpreisungen in 4,13; 5,8f; 9,5f sind sicher
+erst später eingefügt worden, wahrscheinlich auch der Juda-Spruch in
+2,4f.\\
+\\
+Amos war von Haus aus ein Viehzüchter und Maulbeerfeigenpflanzer (1,1;
+7,14) aus Tekoa, südlich von Betlehem. Er wurde durch göttliche Berufung
+gegen Ende der Regierungszeit des politisch und wirtschaftlich überaus
+erfolgreichen Königs Jerobeam II. nach 760 v. Chr. als Prophet ins
+Nordreich Israel gesandt (3,3-8; 7,15), wo er für kurze Zeit bis zu
+seiner Ausweisung am Reichsheiligtum von Bet-El wirkte. Die Hauptanklage
+dieses ältesten Schriftpropheten richtet sich gegen die des Gottesvolkes
+unwürdigen Zustände im Staat, in der Verwaltung, im Gerichtswesen und in
+der Wirtschaft. Weil die oberen Schichten die Menschen niederer Herkunft
+und ungesicherter sozialer Lage zu bloßen Objekten ihres Erwerbs-,
+Macht- und Genusstriebs herabwürdigen und so das »Gottesrecht« brechen,
+muss Amos das Todesurteil Gottes für das Reich Israel verkünden. Eine
+auf den Kult beschränkte Verehrung Gottes wird von Amos verworfen
+(5,21-26). Jahwe ist nach ihm so sehr ein »Gott für den Menschen«, dass
+selbst die Völkerwelt wegen Unmenschlichkeit und Zertretung der
+fundamentalen Menschenrechte seinem Strafgericht verfällt (1,3 - 2,3).
+Amos kündigt einen »Tag des Herrn« an, der »Finsternis bringen wird und
+nicht Licht« (5,18-20). Höchstens ein »Rest« wird gerettet werden
+(5,15).\\
+\\
+Im Neuen Testament erfährt die Botschaft des Amos ein Echo vor allem in
+der Rede des Stephanus in Apg 7,42f (= Am 5,25-27). Das Vermächtnis des
+Amos bleibt ein fundamentales Anliegen auch für das Gottesvolk des Neuen
+Bundes. Das mitmenschliche Ethos gehört zum Wesen gelebter
+Offenbarungsreligion.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Überschrift: 1,1
+   :PROPERTIES:
+   :CUSTOM_ID: überschrift-11
+   :END:
+1 Die Worte, die Amos, ein Schafzüchter aus Tekoa, in Visionen über
+Israel gehört hat, in der Zeit, als Usija König von Juda und Jerobeam,
+der Sohn des Joasch, König von Israel waren, zwei Jahre vor dem
+Erdbeben.\\
+\\
+
+<<v2>>
+** Das Gericht über die Völker: 1,2 - 2,16
+   :PROPERTIES:
+   :CUSTOM_ID: das-gericht-über-die-völker-12---216
+   :END:
+**** Über die Nachbarvölker: 1,2 - 2,3
+     :PROPERTIES:
+     :CUSTOM_ID: über-die-nachbarvölker-12---23
+     :END:
+2 Er sprach: Der Herr brüllt vom Zion her, /\\
+ aus Jerusalem lässt er seine Stimme erschallen. Da welken die Auen der
+Hirten /\\
+ und der Gipfel des Karmel verdorrt.\\
+\\
+
+<<v3>>
+3 So spricht der Herr: Wegen der drei Verbrechen, die Damaskus beging,
+/\\
+ wegen der vier nehme ich es nicht zurück: Weil sie Gilead mit eisernen
+Dreschschlitten zermalmten, / ^{[[#fn1][1]]}\\
+\\
+
+<<v4>>
+4 darum schicke ich Feuer gegen Hasaëls Haus; /\\
+ es frisst Ben-Hadads Paläste. ^{[[#fn2][2]]}\\
+\\
+
+<<v5>>
+5 Ich zerbreche die Riegel von Damaskus, /\\
+ ich vernichte den Herrscher von Bikat-Awen /\\
+ und den Zepterträger von Bet-Eden; das Volk von /Aram/ muss in die
+Verbannung nach Kir, /\\
+ spricht der Herr. ^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+<<v6>>
+6 So spricht der Herr: Wegen der drei Verbrechen, die Gaza beging, /\\
+ wegen der vier nehme ich es nicht zurück: Weil sie ganze Gebiete
+entvölkerten, /\\
+ um die Verschleppten an Edom auszuliefern, ^{[[#fn5][5]]}\\
+\\
+
+<<v7>>
+7 darum schicke ich Feuer in Gazas Mauern; /\\
+ es frisst seine Paläste.\\
+\\
+
+<<v8>>
+8 Ich vernichte den Herrscher von Aschdod /\\
+ und den Zepterträger von Aschkelon. Dann wende ich meine Hand gegen
+Ekron /\\
+ und der Rest der /Philister/ wird verschwinden, /\\
+ spricht der Herr.\\
+\\
+
+<<v9>>
+9 So spricht der Herr: Wegen der drei Verbrechen, die /Tyrus/ beging,
+/\\
+ wegen der vier nehme ich es nicht zurück: Weil sie Verschleppte
+scharenweise an Edom auslieferten /\\
+ und nicht mehr an den Bund mit ihren Brüdern dachten, ^{[[#fn6][6]]}\\
+\\
+
+<<v10>>
+10 darum schicke ich Feuer in die Mauern von Tyrus; /\\
+ es frisst seine Paläste.\\
+\\
+
+<<v11>>
+11 So spricht der Herr: Wegen der drei Verbrechen, die /Edom/ beging,
+/\\
+ wegen der vier nehme ich es nicht zurück: Weil Edom seinen Bruder mit
+dem Schwert verfolgte /\\
+ und jedes Mitleid unterdrückte, weil es unversöhnlich festhielt an
+seinem Zorn /\\
+ und nie abließ von seinem Groll, ^{[[#fn7][7]]}\\
+\\
+
+<<v12>>
+12 schicke ich Feuer gegen Teman; /\\
+ es frisst Bozras Paläste.\\
+\\
+
+<<v13>>
+13 So spricht der Herr: Wegen der drei Verbrechen, die die /Ammoniter/
+begingen, /\\
+ wegen der vier nehme ich es nicht zurück: Weil sie in Gilead die
+schwangeren Frauen aufschlitzten, /\\
+ als sie ihr Gebiet erweitern wollten, ^{[[#fn8][8]]}\\
+\\
+
+<<v14>>
+14 darum lege ich Feuer an die Mauern von Rabba; /\\
+ es frisst seine Paläste beim Kriegsgeschrei am Tag der Schlacht, /\\
+ beim Getöse am Tag des Sturms.\\
+\\
+
+<<v15>>
+15 Ihr König muss in die Verbannung, /\\
+ er und alle seine Großen, /\\
+ spricht der Herr.\\
+\\
+
+^{[[#fnm1][1]]} ℘ (3-5) Jes 17,1-3; Jer 49,23-27
+
+^{[[#fnm2][2]]} ℘ 2 Kön 10,32
+
+^{[[#fnm3][3]]} ℘ 2 Kön 16,9
+
+^{[[#fnm4][4]]} Herrscher: G: Einwohner.
+
+^{[[#fnm5][5]]} ℘ 2 Chr 21,16f; Zef 2,4-7
+
+^{[[#fnm6][6]]} ℘ (9-10) Jes 23; Ez 26 - 28
+
+^{[[#fnm7][7]]} ℘ (11-12) Jer 49,7-22; Ez 35
+
+^{[[#fnm8][8]]} ℘ 2 Kön 15,16; (13-15) Jer 49,1-6

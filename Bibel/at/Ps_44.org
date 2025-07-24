@@ -1,0 +1,192 @@
+#+TITLE: Ps 44 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-03 Mi 22:25]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 44.html
+
+* Ps 44
+
+<<verses>>
+
+<<v1>>
+* Klage in Kriegsnot
+
+1 [Für den Chormeister. Ein Weisheitslied der Korachiter.]\\
+\\
+
+<<v2>>
+2 Gott, wir hörten es mit eigenen Ohren, /\\
+ unsere Väter erzählten uns von dem Werk, das du in ihren Tagen
+vollbracht hast, /\\
+ in den Tagen der Vorzeit. [fn:1]\\
+\\
+
+<<v3>>
+3 Mit eigener Hand hast du Völker vertrieben, /\\
+ sie aber eingepflanzt. Du hast Nationen zerschlagen, /\\
+ sie aber ausgesät. [fn:2]\\
+\\
+
+<<v4>>
+4 Denn sie gewannen das Land nicht mit ihrem Schwert, /\\
+ noch verschaffte ihr Arm ihnen den Sieg; nein, deine Rechte war es,
+dein Arm und dein leuchtendes Angesicht; /\\
+ denn du hattest an ihnen Gefallen. [fn:3]\\
+\\
+
+<<v5>>
+5 Du, mein König und mein Gott, /\\
+ du bist es, der Jakob den Sieg verleiht. [fn:4] [fn:5]\\
+\\
+
+<<v6>>
+6 Mit dir stoßen wir unsere Bedränger nieder, /\\
+ in deinem Namen zertreten wir unsere Gegner. [fn:6]\\
+\\
+
+<<v7>>
+7 Denn ich verlasse mich nicht auf meinen Bogen, /\\
+ noch kann mein Schwert mir helfen;\\
+\\
+
+<<v8>>
+8 nein, du hast uns vor unsern Bedrängern gerettet; /\\
+ alle, die uns hassen, bedeckst du mit Schande.\\
+\\
+
+<<v9>>
+9 Wir rühmen uns Gottes den ganzen Tag /\\
+ und preisen deinen Namen auf ewig. [Sela]\\
+\\
+
+<<v10>>
+10 Doch nun hast du uns verstoßen und mit Schmach bedeckt, /\\
+ du ziehst nicht mit unserm Heer in den Kampf. [fn:7]\\
+\\
+
+<<v11>>
+11 Du lässt uns vor unsern Bedrängern fliehen /\\
+ und Menschen, die uns hassen, plündern uns aus. [fn:8]\\
+\\
+
+<<v12>>
+12 Du gibst uns preis wie Schlachtvieh, /\\
+ unter die Völker zerstreust du uns. [fn:9]\\
+\\
+
+<<v13>>
+13 Du verkaufst dein Volk um ein Spottgeld /\\
+ und hast an dem Erlös keinen Gewinn. [fn:10]\\
+\\
+
+<<v14>>
+14 Du machst uns zum Schimpf für die Nachbarn, /\\
+ zu Spott und Hohn bei allen, die rings um uns wohnen. [fn:11]\\
+\\
+
+<<v15>>
+15 Du machst uns zum Spottlied der Völker, /\\
+ die Heiden zeigen uns nichts als Verachtung.\\
+\\
+
+<<v16>>
+16 Meine Schmach steht mir allzeit vor Augen /\\
+ und Scham bedeckt mein Gesicht\\
+\\
+
+<<v17>>
+17 wegen der Worte des lästernden Spötters, /\\
+ wegen der rachgierigen Blicke des Feindes.\\
+\\
+
+<<v18>>
+18 Das alles ist über uns gekommen /\\
+ und doch haben wir dich nicht vergessen, /\\
+ uns von deinem Bund nicht treulos abgewandt.\\
+\\
+
+<<v19>>
+19 Unser Herz ist nicht von dir gewichen, /\\
+ noch hat unser Schritt deinen Pfad verlassen.\\
+\\
+
+<<v20>>
+20 Doch du hast uns verstoßen an den Ort der Schakale /\\
+ und uns bedeckt mit Finsternis.\\
+\\
+
+<<v21>>
+21 Hätten wir den Namen unseres Gottes vergessen /\\
+ und zu einem fremden Gott die Hände erhoben,\\
+\\
+
+<<v22>>
+22 würde Gott das nicht ergründen? /\\
+ Denn er kennt die heimlichen Gedanken des Herzens.\\
+\\
+
+<<v23>>
+23 Nein, um deinetwillen werden wir getötet Tag für Tag, /\\
+ behandelt wie Schafe, /\\
+ die man zum Schlachten bestimmt hat. [fn:12]\\
+\\
+
+<<v24>>
+24 Wach auf! Warum schläfst du, Herr? /\\
+ Erwache, verstoß nicht für immer! [fn:13]\\
+\\
+
+<<v25>>
+25 Warum verbirgst du dein Gesicht, /\\
+ vergisst unsere Not und Bedrängnis? [fn:14]\\
+\\
+
+<<v26>>
+26 Unsere Seele ist in den Staub hinabgebeugt, /\\
+ unser Leib liegt am Boden. [fn:15] [fn:16]\\
+\\
+
+<<v27>>
+27 Steh auf und hilf uns! /\\
+ In deiner Huld erlöse uns!\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_78.org::v3][78,3]]; [[file:Dtn_4.org::v9][Dtn 4,9]]; [[file:2.Sam_7.org::v22][2 Sam 7,22f]]
+
+[fn:2] [[file:Ps_78.org::v55][78,55]]; [[file:Ps_80.org::v9][80,9]]
+
+[fn:3] [[file:Dtn_8.org::v17][Dtn 8,17f]]; [[file:Jos_24.org::v12][Jos 24,12]]; [[file:Ps_4.org::v7][4,7]]
+
+[fn:4] [[file:Ps_5.org::v3][5,3]]
+
+[fn:5] Text korr.
+
+[fn:6] [[file:Ps_60.org::v14][60,14]]
+
+[fn:7] [[file:Ps_60.org::v12][60,12]]
+
+[fn:8] [[file:Dtn_28.org::v25][Dtn 28,25]]
+
+[fn:9] [[file:Dtn_28.org::v64][Dtn 28,64]]
+
+[fn:10] [[file:Jes_52.org::v3][Jes 52,3]]
+
+[fn:11] [[file:Ps_79.org::v4][79,4]]; [[file:Ps_80.org::v7][80,7]]
+
+[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/Röm_8.org::v36][Röm 8,36]]
+
+[fn:13] [[file:Ps_74.org::v1][74,1]]; [[file:Ps_83.org::v2][83,2]]
+
+[fn:14] [[file:Ps_89.org::v47][89,47]]; [[file:Ijob_13.org::v24][Ijob 13,24]]
+
+[fn:15] [[file:Ps_7.org::v6][7,6]]; [[file:Ps_119.org::v25][119,25]]
+
+[fn:16] Wörtlich: klebt am Boden.

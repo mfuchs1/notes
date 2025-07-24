@@ -1,0 +1,137 @@
+#+TITLE: Dtn 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-28 Sa 21:39]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 8.html
+
+
+<<verses>>
+
+<<v1>>
+* Israel und der Reichtum: 8,1-20
+
+1 Ihr sollt auf das ganze Gebot, auf das ich dich heute verpflichte,
+achten und es halten, damit ihr Leben habt und zahlreich werdet und in
+das Land, das der Herr euren Vätern mit einem Schwur versprochen hat,
+hineinziehen und es in Besitz nehmen könnt. [fn:1]
+
+<<v2>>
+2 Du sollst an den ganzen Weg denken, den der Herr, dein Gott, dich
+während dieser vierzig Jahre in der Wüste geführt hat, um dich gefügig
+zu machen und dich zu prüfen. Er wollte erkennen, wie du dich
+entscheiden würdest: ob du auf seine Gebote achtest oder nicht. [fn:2]
+
+<<v3>>
+3 Durch Hunger hat er dich gefügig gemacht und hat dich dann mit dem
+Manna gespeist, das du nicht kanntest und das auch deine Väter nicht
+kannten. Er wollte dich erkennen lassen, dass der Mensch nicht nur von
+Brot lebt, sondern dass der Mensch von allem lebt, was der Mund des
+Herrn spricht. [fn:3] [fn:4]
+
+<<v4>>
+4 Deine Kleider sind dir nicht in Lumpen vom Leib gefallen und dein Fuß
+ist nicht geschwollen, diese vierzig Jahre lang. [fn:5]
+
+<<v5>>
+5 Daraus sollst du die Erkenntnis gewinnen, dass der Herr, dein Gott,
+dich erzieht, wie ein Vater seinen Sohn erzieht. [fn:6]
+
+<<v6>>
+6 Du sollst auf die Gebote des Herrn, deines Gottes, achten, auf seinen
+Wegen gehen und ihn fürchten.
+
+<<v7>>
+7 Wenn der Herr, dein Gott, dich in ein prächtiges Land führt, ein Land
+mit Bächen, Quellen und Grundwasser, das im Tal und am Berg
+hervorquillt, [fn:7]
+
+<<v8>>
+8 ein Land mit Weizen und Gerste, mit Weinstock, Feigenbaum und
+Granatbaum, ein Land mit Ölbaum und Honig,
+
+<<v9>>
+9 ein Land, in dem du nicht armselig dein Brot essen musst, in dem es
+dir an nichts fehlt, ein Land, dessen Steine aus Eisen sind, aus dessen
+Bergen du Erz gewinnst;
+
+<<v10>>
+10 wenn du dort isst und satt wirst und den Herrn, deinen Gott, für das
+prächtige Land, das er dir gegeben hat, preist,
+
+<<v11>>
+11 dann nimm dich in acht und vergiss den Herrn, deinen Gott, nicht,
+missachte nicht seine Gebote, Rechtsvorschriften und Gesetze, auf die
+ich dich heute verpflichte.
+
+<<v12>>
+12 Und wenn du gegessen hast und satt geworden bist und prächtige Häuser
+gebaut hast und sie bewohnst,
+
+<<v13>>
+13 wenn deine Rinder, Schafe und Ziegen sich vermehren und Silber und
+Gold sich bei dir häuft und dein gesamter Besitz sich vermehrt,
+
+<<v14>>
+14 dann nimm dich in Acht, dass dein Herz nicht hochmütig wird und du
+den Herrn, deinen Gott, nicht vergisst, der dich aus Ägypten, dem
+Sklavenhaus, geführt hat;
+
+<<v15>>
+15 der dich durch die große und Furcht erregende Wüste geführt hat,
+durch Feuernattern und Skorpione, durch ausgedörrtes Land, wo es kein
+Wasser gab; der für dich Wasser aus dem Felsen der Steilwand
+hervorsprudeln ließ; [fn:8]
+
+<<v16>>
+16 der dich in der Wüste mit dem Manna speiste, das deine Väter noch
+nicht kannten, (und der das alles tat,) um dich gefügig zu machen, dich
+zu prüfen und dir zuletzt Gutes zu tun.
+
+<<v17>>
+17 Dann nimm dich in Acht und denk nicht bei dir: Ich habe mir diesen
+Reichtum aus eigener Kraft und mit eigener Hand erworben.
+
+<<v18>>
+18 Denk vielmehr an den Herrn, deinen Gott: Er war es, der dir die Kraft
+gab, Reichtum zu erwerben, weil er seinen Bund, den er deinen Vätern
+geschworen hatte, so verwirklichen wollte, wie er es heute tut. [fn:9]
+
+<<v19>>
+19 Wenn du aber den Herrn, deinen Gott, vergisst und anderen Göttern
+nachfolgst, ihnen dienst und dich vor ihnen niederwirfst - heute rufe
+ich Zeugen gegen euch an: dann werdet ihr völlig ausgetilgt werden. [fn:10]
+
+<<v20>>
+20 Wie die Völker, die der Herr bei eurem Angriff austilgt, so werdet
+auch ihr dafür ausgetilgt werden, dass ihr nicht auf die Stimme des
+Herrn, eures Gottes, gehört habt.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Dtn_16.org::v20][16,20]]
+
+[fn:2] [[file:Dtn_13.org::v4][13,4]]; [[file:Gen_22.org::v1][Gen 22,1]]; [[file:Ex_15.org::v25][Ex 15,25]]; [[file:Ex_16.org::v4][16,4]]; [[file:Ex_20.org::v20][20,20]] (2-6) [[file:Dtn_4.org::v32][4,32-40]];
+[[file:Dtn_7.org::v8][7,8-11]]; [[file:Dtn_9.org::v4][9,4-7]]; [[file:Dtn_10.org::v20][10,20-22]]; [[file:Dtn_11.org::v1][11,1-7]]; [[file:Dtn_29.org::v1][29,1-8]]
+
+[fn:3] [[file:Ex_17.org::v1][Ex 17]]; [[file:Num_11.org::v4][Num 11,4-9]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_4.org::v4][Mt 4,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_4.org::v4][Lk 4,4]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_10.org::v3][1 Kor 10,3]]
+
+[fn:4] Wörtlich: was aus dem Mund des Herrn hervorgeht.
+
+[fn:5] [[file:Dtn_2.org::v7][2,7]]; [[file:Dtn_29.org::v4][29,4]]
+
+[fn:6] [[file:~/RoamNotes/notes/Bibel/nt/Hebr_12.org::v7][Hebr 12,7]]
+
+[fn:7] (7-20) [[file:Dtn_6.org::v10][6,10-14]]; [[file:Dtn_11.org::v10][11,10-15]]; [[file:2.Kön_18.org::v32][2 Kön 18,32]]
+
+[fn:8] [[file:Num_21.org::v4][Num 21,4-9]]; [[file:Ex_17.org::v1][Ex 17,1-7]]
+
+[fn:9] [[file:Gen_15.org::v18][Gen 15,18]]
+
+[fn:10] [[file:Dtn_30.org::v19][30,19]] (19-20) [[file:Dtn_28.org::v15][28,15-68]]

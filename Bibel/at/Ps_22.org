@@ -1,0 +1,245 @@
+#+TITLE: Ps 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-05 Di 17:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 22.html
+
+* Ps 22
+
+<<verses>>
+
+<<v1>>
+* Gottverlassenheit und Heilsgewissheit
+
+1 [Für den Chormeister. Nach der Weise «Hinde der Morgenröte». Ein Psalm
+Davids.]\\
+\\
+
+<<v2>>
+2 Mein Gott, mein Gott, warum hast du mich verlassen, /\\
+ bist fern meinem Schreien, den Worten meiner Klage? [fn:1]\\
+\\
+
+<<v3>>
+3 Mein Gott, ich rufe bei Tag, doch du gibst keine Antwort; /\\
+ ich rufe bei Nacht und finde doch keine Ruhe.\\
+\\
+
+<<v4>>
+4 Aber du bist heilig, /\\
+ du thronst über dem Lobpreis Israels. [fn:2]\\
+\\
+
+<<v5>>
+5 Dir haben unsre Väter vertraut, /\\
+ sie haben vertraut und du hast sie gerettet. [fn:3]\\
+\\
+
+<<v6>>
+6 Zu dir riefen sie und wurden befreit, /\\
+ dir vertrauten sie und wurden nicht zuschanden.\\
+\\
+
+<<v7>>
+7 Ich aber bin ein Wurm und kein Mensch, /\\
+ der Leute Spott, vom Volk verachtet. [fn:4]\\
+\\
+
+<<v8>>
+8 Alle, die mich sehen, verlachen mich, /\\
+ verziehen die Lippen, schütteln den Kopf: [fn:5]\\
+\\
+
+<<v9>>
+9 «Er wälze die Last auf den Herrn, /\\
+ der soll ihn befreien! Der reiße ihn heraus, /\\
+ wenn er an ihm Gefallen hat.» [fn:6] [fn:7]\\
+\\
+
+<<v10>>
+10 Du bist es, der mich aus dem Schoß meiner Mutter zog, /\\
+ mich barg an der Brust der Mutter. [fn:8]\\
+\\
+
+<<v11>>
+11 Von Geburt an bin ich geworfen auf dich, /\\
+ vom Mutterleib an bist du mein Gott. [fn:9]\\
+\\
+
+<<v12>>
+12 Sei mir nicht fern, denn die Not ist nahe /\\
+ und niemand ist da, der hilft. [fn:10]\\
+\\
+
+<<v13>>
+13 Viele Stiere umgeben mich, /\\
+ Büffel von Baschan umringen mich.\\
+\\
+
+<<v14>>
+14 Sie sperren gegen mich ihren Rachen auf, /\\
+ reißende, brüllende Löwen. [fn:11]\\
+\\
+
+<<v15>>
+15 Ich bin hingeschüttet wie Wasser, /\\
+ gelöst haben sich all meine Glieder. /\\
+ Mein Herz ist in meinem Leib wie Wachs zerflossen.\\
+\\
+
+<<v16>>
+16 Meine Kehle ist trocken wie eine Scherbe, /\\
+ die Zunge klebt mir am Gaumen, /\\
+ du legst mich in den Staub des Todes. [fn:12] [fn:13]\\
+\\
+
+<<v17>>
+17 Viele Hunde umlagern mich, /\\
+ eine Rotte von Bösen umkreist mich. /\\
+ Sie durchbohren mir Hände und Füße. [fn:14]\\
+\\
+
+<<v18>>
+18 Man kann all meine Knochen zählen; /\\
+ sie gaffen und weiden sich an mir.\\
+\\
+
+<<v19>>
+19 Sie verteilen unter sich meine Kleider /\\
+ und werfen das Los um mein Gewand. [fn:15]\\
+\\
+
+<<v20>>
+20 Du aber, Herr, halte dich nicht fern! /\\
+ Du, meine Stärke, eil mir zu Hilfe! [fn:16]\\
+\\
+
+<<v21>>
+21 Entreiße mein Leben dem Schwert, /\\
+ mein einziges Gut aus der Gewalt der Hunde!\\
+\\
+
+<<v22>>
+22 Rette mich vor dem Rachen des Löwen, /\\
+ vor den Hörnern der Büffel rette mich Armen! [fn:17] [fn:18]\\
+\\
+
+<<v23>>
+23 Ich will deinen Namen meinen Brüdern verkünden, /\\
+ inmitten der Gemeinde dich preisen. [fn:19]\\
+\\
+
+<<v24>>
+24 Die ihr den Herrn fürchtet, preist ihn, /\\
+ ihr alle vom Stamm Jakobs, rühmt ihn; /\\
+ erschauert alle vor ihm, ihr Nachkommen Israels!\\
+\\
+
+<<v25>>
+25 Denn er hat nicht verachtet, /\\
+ nicht verabscheut das Elend des Armen. Er verbirgt sein Gesicht nicht
+vor ihm; /\\
+ er hat auf sein Schreien gehört.\\
+\\
+
+<<v26>>
+26 Deine Treue preise ich in großer Gemeinde; /\\
+ ich erfülle meine Gelübde vor denen, die Gott fürchten. [fn:20]\\
+\\
+
+<<v27>>
+27 Die Armen sollen essen und sich sättigen; /\\
+ den Herrn sollen preisen, die ihn suchen. /\\
+ Aufleben soll euer Herz für immer. [fn:21]\\
+\\
+
+<<v28>>
+28 Alle Enden der Erde sollen daran denken /\\
+ und werden umkehren zum Herrn: /\\
+ Vor ihm werfen sich alle Stämme der Völker nieder. [fn:22] [fn:23]\\
+\\
+
+<<v29>>
+29 Denn der Herr regiert als König; /\\
+ er herrscht über die Völker. [fn:24]\\
+\\
+
+<<v30>>
+30 Vor ihm allein sollen niederfallen die Mächtigen der Erde, /\\
+ vor ihm sich alle niederwerfen, die in der Erde ruhen. [Meine Seele,
+sie lebt für ihn; / [fn:25]\\
+\\
+
+<<v31>>
+31 mein Stamm wird ihm dienen.] Vom Herrn wird man dem künftigen
+Geschlecht erzählen, / [fn:26]\\
+\\
+
+<<v32>>
+32 seine Heilstat verkündet man dem kommenden Volk; /\\
+ denn er hat das Werk getan.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v46][Mt 27,46]]
+
+[fn:2] [[file:Jes_6.org::v3][Jes 6,3]]
+
+[fn:3] (5-6) [[file:Jes_25.org::v2][25,2f]]
+
+[fn:4] [[file:Ijob_25.org::v6][Ijob 25,6]]; [[file:Jes_41.org::v14][Jes 41,14]]; [[file:Jes_53.org::v3][53,3]]
+
+[fn:5] [[file:Ps_109.org::v25][109,25]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v39][Mt 27,39]]
+
+[fn:6] [[file:Weish_2.org::v18][Weish 2,18-20]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v43][Mt 27,43]]
+
+[fn:7] Er wälze: Text korr.; H: Wälze.
+
+[fn:8] [[file:Jes_44.org::v2][Jes 44,2]].[[file:Jes_44.org::v24][24]]
+
+[fn:9] [[file:Ps_71.org::v6][71,6]]
+
+[fn:10] [[v20][22,20]]; [[file:Ps_35.org::v22][35,22]]; [[file:Ps_38.org::v22][38,22f]]; [[file:Ps_40.org::v14][40,14]]; [[file:Ps_71.org::v12][71,12]]
+
+[fn:11] [[file:Ps_17.org::v12][17,12]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_5.org::v8][1 Petr 5,8]]
+
+[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/Joh_19.org::v28][Joh 19,28]]
+
+[fn:13] Meine Kehle: Text korr.; H: Meine Kraft.
+
+[fn:14] Viele: ergänzt nach G und der aramäischen Übersetzung.
+Sie durchbohren: Übersetzung unsicher; Text korr. nach G; H: wie ein
+Löwe.
+
+[fn:15] [[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v35][Mt 27,35]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_19.org::v23][Joh 19,23f]]
+
+[fn:16] [[v12][22,12]]
+
+[fn:17] [[file:Ps_17.org::v12][17,12]]; [[file:~/RoamNotes/notes/Bibel/nt/2.Tim_4.org::v17][2 Tim 4,17]]
+
+[fn:18] Nach G und S; H: vor den Hörnern der Büffel hast du
+mich erhört.
+
+[fn:19] [[v26][22,26]]; [[file:Ps_9.org::v15][9,15]]; [[file:Ps_26.org::v12][26,12]]; [[file:Ps_35.org::v18][35,18]]; [[file:Ps_40.org::v10][40,10f]]; [[file:Ps_107.org::v32][107,32]]; [[file:Ps_109.org::v30][109,30]];
+[[file:Ps_111.org::v1][111,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_2.org::v12][Hebr 2,12]]
+
+[fn:20] [[file:Ps_66.org::v13][66,13]]
+
+[fn:21] [[file:Ps_69.org::v33][69,33]]
+
+[fn:22] [[file:Jes_45.org::v22][Jes 45,22]]; [[file:Tob_13.org::v13][Tob 13,13]]
+
+[fn:23] Text korr. nach mehreren G-Handschriften und S; H: Vor dir.
+
+[fn:24] [[file:Ps_24.org::v7][24,7-10]]
+
+[fn:25] H ist stark verderbt.
+
+[fn:26] (31-32) [[file:Ps_48.org::v14][48,14]]; [[file:Ps_71.org::v18][71,18]]; [[file:Ps_78.org::v3][78,3-6]]; [[file:Ps_102.org::v19][102,19]]; [[file:Ps_145.org::v4][145,4]]

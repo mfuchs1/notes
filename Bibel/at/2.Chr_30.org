@@ -1,0 +1,166 @@
+#+TITLE: 2 Chr 30 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:27]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 30.html
+
+<<verses>>
+
+<<v1>>
+* Die Feier des Paschafestes: 30,1 - 31,1
+
+1 Hiskija sandte Boten zu ganz Israel und Juda, schrieb auch Briefe an
+Efraim und Manasse und forderte sie auf, zum Haus des Herrn nach
+Jerusalem zu kommen und zur Ehre des Herrn, des Gottes Israels, das
+Pascha zu feiern.
+
+<<v2>>
+2 Dann beriet er sich mit seinen Hofleuten und der ganzen Versammlung in
+Jerusalem, ob sie das Pascha nicht erst im zweiten Monat begehen
+sollten; [fn:1]
+
+<<v3>>
+3 denn sie konnten es damals nicht abhalten, da sich nicht genügend
+Priester geheiligt hatten und das Volk nicht in Jerusalem versammelt
+war.
+
+<<v4>>
+4 Der Plan gefiel dem König und der ganzen Versammlung.
+
+<<v5>>
+5 Sie beschlossen, man solle in ganz Israel von Dan bis Beerscheba
+ausrufen, dass sie kommen und in Jerusalem zur Ehre des Herrn, des
+Gottes Israels, das Pascha feiern sollten; denn man hatte es bisher
+nicht vollzählig so gehalten, wie es vorgeschrieben war.
+
+<<v6>>
+6 Die Eilboten durchzogen nun mit den Briefen aus der Hand des Königs
+und seiner Hofleute ganz Israel und Juda und verkündeten im Auftrag des
+Königs: Israeliten, kehrt um zum Herrn, dem Gott Abrahams, Isaaks und
+Israels, damit er sich dem Rest zuwendet, der von der Hand der Könige
+von Assur verschont geblieben ist.
+
+<<v7>>
+7 Seid nicht wie eure Väter und Brüder, die dem Herrn, dem Gott ihrer
+Väter, untreu geworden sind, sodass er sie zu einem Bild des Entsetzens
+machte, wie ihr es vor Augen habt.
+
+<<v8>>
+8 Seid jetzt nicht hartnäckig wie eure Väter! Reicht dem Herrn die Hand
+und kommt in sein Heiligtum, das er für immer geheiligt hat. Dient dem
+Herrn, eurem Gott, damit sein Zorn von euch ablässt.
+
+<<v9>>
+9 Wenn ihr zum Herrn zurückkehrt, werden eure Brüder und Söhne Erbarmen
+finden bei denen, die sie als Gefangene weggeführt haben. Sie werden in
+dieses Land zurückkehren dürfen; denn der Herr, euer Gott, ist gnädig
+und barmherzig. Er wird sein Angesicht nicht von euch abwenden, wenn ihr
+zu ihm umkehrt. [fn:2]
+
+<<v10>>
+10 Die Eilboten zogen von Stadt zu Stadt durch das Gebiet von Efraim und
+Manasse bis nach Sebulon. Doch man lachte und spottete über sie.
+
+<<v11>>
+11 Nur einige Männer von Ascher, Manasse und Sebulon beugten sich und
+kamen nach Jerusalem.
+
+<<v12>>
+12 Auch in Juda waltete die Hand Gottes und bewirkte, dass sie einmütig
+den Befehl des Königs und der führenden Männer befolgten, wie es dem
+Wort des Herrn entsprach.
+
+<<v13>>
+13 So versammelte sich viel Volk in Jerusalem, um im zweiten Monat das
+Fest der Ungesäuerten Brote zu begehen. Es war eine sehr große
+Versammlung.
+
+<<v14>>
+14 Sie machten sich auf, entfernten die Altäre in Jerusalem, beseitigten
+alle Rauchopferaltäre und warfen sie in das Kidrontal.
+
+<<v15>>
+15 Am vierzehnten Tag des zweiten Monats schlachteten sie das Pascha.
+Die Priester und Leviten aber fühlten sich beschämt. Sie heiligten sich,
+brachten Brandopfer zum Haus des Herrn
+
+<<v16>>
+16 und begaben sich pflichtgemäß an ihren Platz, nach dem Gesetz des
+Mose, des Mannes Gottes. Die Priester sprengten das Blut (an den Altar),
+das sie von den Leviten entgegennahmen.
+
+<<v17>>
+17 Weil viele in der Versammlung sich nicht geheiligt hatten,
+schlachteten die Leviten die Paschalämmer für alle, denen die Reinheit
+fehlte, die man für die Weihe an den Herrn brauchte.
+
+<<v18>>
+18 Denn ein großer Teil des Volkes, viele nämlich aus Efraim, Manasse,
+Issachar und Sebulon, hatten sich nicht gereinigt. Sie aßen das Pascha
+nicht in der vorgeschriebenen Weise. Doch Hiskija betete für sie und
+sagte: Der Herr, der Gütige, entsühne
+
+<<v19>>
+19 jeden, der seinen Sinn darauf richtet, den Herrn, den Gott seiner
+Väter, zu suchen, auch wenn er nicht die Reinheit besitzt, die dem
+Heiligtum gebührt.
+
+<<v20>>
+20 Der Herr hörte auf Hiskija und ließ das Volk unversehrt.
+
+<<v21>>
+21 So feierten die Israeliten, die sich in Jerusalem eingefunden hatten,
+das Fest der Ungesäuerten Brote sieben Tage hindurch mit großer Freude.
+Tag für Tag priesen die Leviten und Priester den Herrn mit lauten
+Instrumenten.
+
+<<v22>>
+22 Die Leviten zeigten großes Verständnis für den Dienst des Herrn und
+Hiskija ermunterte sie zu ihrer Arbeit. Als dann die sieben Tage der
+Festzeit zu Ende waren, an denen sie Heilsopfer darbrachten und den
+Herrn, den Gott ihrer Väter, priesen, [fn:3]
+
+<<v23>>
+23 beschloss die ganze Versammlung, weitere sieben Tage zu feiern, und
+so machten sie auch diese sieben Tage zu einem Freudenfest.
+
+<<v24>>
+24 Hiskija, der König von Juda, hatte nämlich tausend Stiere und
+siebentausend Schafe für die Versammlung gestiftet und die führenden
+Männer hatten tausend Stiere und zehntausend Schafe für die Versammlung
+gestiftet; von den Priestern aber hatten sich sehr viele geheiligt.
+
+<<v25>>
+25 So freute sich die ganze Versammlung Judas, die Priester und die
+Leviten und alle, die aus Israel gekommen waren, auch die Fremden, die
+sich aus dem Gebiet Israels eingefunden hatten oder in Juda wohnten.
+
+<<v26>>
+26 Die Freude war groß in Jerusalem; denn seit den Tagen Salomos, des
+Sohnes Davids, des Königs von Israel, hatte es dergleichen in Jerusalem
+nicht mehr gegeben. [fn:4]
+
+<<v27>>
+27 Zuletzt standen die levitischen Priester auf und segneten das Volk.
+Gott hörte ihr Rufen und ihr Gebet drang zu seiner heiligen Wohnung, zum
+Himmel, empor.
+
+* Footnotes
+
+[fn:1] [[file:Num_9.org::v10][Num 9,10f]] gestattet in Ergänzung zu [[file:Ex_12.org::v6][Ex 12,6]] in
+besonderen Fällen die Verlegung des Pascha auf den zweiten Monat. Zur
+Paschafeier des ganzen Volkes vgl. die Anmerkung zu [[file:Ex_12.org::v1][Ex 12,1]] - [[file:Ex_13.org::v6][13,6]].
+
+[fn:2] Im Jahr 722 v. Chr. war das Nordreich untergegangen und
+ein Teil der Bevölkerung nach Assyrien in die Gefangenschaft verschleppt
+worden.
+
+[fn:3] zu Ende waren: Text korr. nach G.
+
+[fn:4] Hinweis auf das Tempelweihfest unter Salomo.

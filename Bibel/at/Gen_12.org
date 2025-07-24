@@ -1,0 +1,119 @@
+#+TITLE: Gen 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:04]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 12.html
+
+
+<<verses>>
+
+<<v1>>
+* Abrahams Berufung und Wanderung nach Kanaan: 12,1-9
+
+1 Der Herr sprach zu Abram: Zieh weg aus deinem Land, von deiner
+Verwandtschaft und aus deinem Vaterhaus in das Land, das ich dir zeigen
+werde. [fn:1]
+
+<<v2>>
+2 Ich werde dich zu einem großen Volk machen, dich segnen und deinen
+Namen groß machen. Ein Segen sollst du sein.
+
+<<v3>>
+3 Ich will segnen, die dich segnen; wer dich verwünscht, den will ich
+verfluchen. Durch dich sollen alle Geschlechter der Erde Segen erlangen. [fn:2] [fn:3]
+
+<<v4>>
+4 Da zog Abram weg, wie der Herr ihm gesagt hatte, und mit ihm ging auch
+Lot. Abram war fünfundsiebzig Jahre alt, als er aus Haran fortzog.
+
+<<v5>>
+5 Abram nahm seine Frau Sarai mit, seinen Neffen Lot und alle ihre Habe,
+die sie erworben hatten, und die Knechte und Mägde, die sie in Haran
+gewonnen hatten. Sie wanderten nach Kanaan aus und kamen dort an.
+
+<<v6>>
+6 Abram zog durch das Land bis zur Stätte von Sichem, bis zur
+Orakeleiche. Die Kanaaniter waren damals im Land.
+
+<<v7>>
+7 Der Herr erschien Abram und sprach: Deinen Nachkommen gebe ich dieses
+Land. Dort baute er dem Herrn, der ihm erschienen war, einen Altar.
+
+<<v8>>
+8 Von da brach er auf zum Bergland östlich von Bet-El und schlug sein
+Zelt so auf, dass er Bet-El im Westen und Ai im Osten hatte. Dort baute
+er dem Herrn einen Altar und rief den Namen des Herrn an.
+
+<<v9>>
+9 Dann zog Abram immer weiter, dem Negeb zu.\\
+\\
+
+<<v10>>
+* Abraham und Sara in Ägypten: 12,10-20
+
+10 Als über das Land eine Hungersnot kam, zog Abram nach Ägypten hinab,
+um dort zu bleiben; denn die Hungersnot lastete schwer auf dem Land.
+
+<<v11>>
+11 Als er sich Ägypten näherte, sagte er zu seiner Frau Sarai: Ich weiß,
+du bist eine schöne Frau.
+
+<<v12>>
+12 Wenn dich die Ägypter sehen, werden sie sagen: Das ist seine Frau!,
+und sie werden mich erschlagen, dich aber am Leben lassen.
+
+<<v13>>
+13 Sag doch, du seiest meine Schwester, damit es mir deinetwegen gut
+geht und ich um deinetwillen am Leben bleibe.
+
+<<v14>>
+14 Als Abram nach Ägypten kam, sahen die Ägypter, dass die Frau sehr
+schön war.
+
+<<v15>>
+15 Die Beamten des Pharao sahen sie und rühmten sie vor dem Pharao. Da
+holte man die Frau in den Palast des Pharao.
+
+<<v16>>
+16 Er behandelte Abram ihretwegen gut: Abram bekam Schafe und Ziegen,
+Rinder und Esel, Knechte und Mägde, Eselinnen und Kamele.
+
+<<v17>>
+17 Als aber der Herr wegen Sarai, der Frau Abrams, den Pharao und sein
+Haus mit schweren Plagen schlug,
+
+<<v18>>
+18 ließ der Pharao Abram rufen und sagte: Was hast du mir da angetan?
+Warum hast du mir nicht gesagt, dass sie deine Frau ist?
+
+<<v19>>
+19 Warum hast du behauptet, sie sei deine Schwester, sodass ich sie mir
+zur Frau nahm? Nun, da hast du deine Frau wieder, nimm sie und geh!
+
+<<v20>>
+20 Dann ordnete der Pharao seinetwegen Leute ab, die ihn, seine Frau und
+alles, was ihm gehörte, fortgeleiten sollten.\\
+\\
+
+
+* Footnotes
+
+[fn:1] 1-3: In der Berufung Abrahams und der Segenszusage an
+ihn setzt Gott dem seit der ersten Sünde anwachsenden Fluch den Segen
+entgegen. Wie der Fluch sich auf die ganze Menschheit auswirkte, so soll
+nun der Segen die ganze Menschheit erreichen. Zum Mittler des Segens
+wird Abraham erwählt.
+
+[fn:2] 18,18; 22,18; 26,4; 28,14; Sir 44,21; Gal 3,6-18
+
+[fn:3] Jemand segnen bedeutet hier so viel wie jemand Gutes
+wünschen, ihm Wohlwollen bezeigen, mit ihm Gemeinschaft pflegen; mit dem
+Verwünschen oder Verfluchen ist zum Ausdruck gebracht, dass man mit dem
+Betreffenden nichts zu tun haben will, dass man keine Gemeinschaft mit
+ihm wünscht. 

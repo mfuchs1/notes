@@ -1,0 +1,90 @@
+#+TITLE: Ps 47 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-03 Mi 23:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 47.html
+
+* Ps 47
+
+<<verses>>
+
+<<v1>>
+* Gott, der König aller Völker
+
+1 [Für den Chormeister. Ein Psalm der Korachiter.]\\
+\\
+
+<<v2>>
+2 Ihr Völker alle, klatscht in die Hände; /\\
+ jauchzt Gott zu mit lautem Jubel!\\
+\\
+
+<<v3>>
+3 Denn Furcht gebietend ist der Herr, der Höchste, /\\
+ ein großer König über die ganze Erde. [fn:1]\\
+\\
+
+<<v4>>
+4 Er unterwirft uns Völker /\\
+ und zwingt Nationen unter unsre Füße. [fn:2]\\
+\\
+
+<<v5>>
+5 Er wählt unser Erbland für uns aus, /\\
+ den Stolz Jakobs, den er liebt. [Sela] [fn:3]\\
+\\
+
+<<v6>>
+6 Gott stieg empor unter Jubel, /\\
+ der Herr beim Schall der Hörner. [fn:4]\\
+\\
+
+<<v7>>
+7 Singt unserm Gott, ja singt ihm! /\\
+ Spielt unserm König, spielt ihm! [fn:5]\\
+\\
+
+<<v8>>
+8 Denn Gott ist König der ganzen Erde. /\\
+ Spielt ihm ein Psalmenlied! [fn:6]\\
+\\
+
+<<v9>>
+9 Gott wurde König über alle Völker, /\\
+ Gott sitzt auf seinem heiligen Thron. [fn:7] [fn:8]\\
+\\
+
+<<v10>>
+10 Die Fürsten der Völker sind versammelt /\\
+ als Volk des Gottes Abrahams. Denn Gott gehören die Mächte der Erde;
+/\\
+ er ist hoch erhaben. [fn:9] [fn:10]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_95.org::v3][95,3]]
+
+[fn:2] [[file:Ps_2.org::v8][2,8]]
+
+[fn:3] [[file:Dtn_32.org::v9][Dtn 32,9]]
+
+[fn:4] [[file:Ps_68.org::v19][68,19]]; [[file:Ps_98.org::v6][98,6]]
+
+[fn:5] Nach G.
+
+[fn:6] (8-9) [[file:Ps_24.org::v7][24,7-10]]
+
+[fn:7] [[file:Jer_10.org::v7][Jer 10,7]]
+
+[fn:8] Nach G.
+
+[fn:9] [[file:Ps_84.org::v4][87,4-6]]
+
+[fn:10] die Mächte: Text korr.; H: die Schilde.

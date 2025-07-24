@@ -1,0 +1,244 @@
+:PROPERTIES:
+:ID:       043cef1d-c897-4b1c-b31c-9e79771ed390
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief des Judas*
+
+--------------
+
+* Jud
+  :PROPERTIES:
+  :CUSTOM_ID: jud
+  :END:
+
+Der Verfasser stellt sich in V. 1 als »Judas, Bruder des Jakobus« vor.
+Er beruft sich auf Jakobus, weil dieser eine bei den Empfängern des
+Briefs angesehene Persönlichkeit ist. Mit Judas kann also nur der
+»Bruder des Herrn« gemeint sein, der in Mt 13,55 und Mk 6,3 neben
+Jakobus und weiteren Brüdern Jesu genannt wird.\\
+\\
+Der Judasbrief ist sicher vor dem 2. Petrusbrief geschrieben, da dieser
+ihn in Kap. 2 benützt. Er will vor Irrlehrern warnen, die den Glauben
+gefährden und die Gemeinde spalten. Den falschen Lehrern wird
+Gottlosigkeit, ausschweifendes Leben, Leugnung der alleinigen Herrschaft
+Christi und Missachtung der Engel vorgeworfen (VV. 3-4.816.19). Diese
+Angaben reichen nicht aus, um auf eine bestimmte Irrlehre zu
+schließen.\\
+\\
+Der Aufbau des Briefs ist einfach. Im ersten Teil (VV. 3-16) droht Judas
+den falschen Lehrern das Gericht Gottes an. Er verweist auf warnende
+Beispiele im Alten Testament und beruft sich auch auf außerbiblische
+jüdische Überlieferungen (»Buch des Henoch« in den VV. 7 und 14,
+»Himmelfahrt des Mose« in V. 9). Der zweite Teil (VV. 1723) wendet sich
+an die treu gebliebenen Christen. Sie sollen festhalten am Glauben und
+am Gebet, an der Liebe und an der Hoffnung und sie sollen sich der
+Brüder annehmen, die in Gefahr sind.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Anschrift und Gruß: 1-2
+   :PROPERTIES:
+   :CUSTOM_ID: anschrift-und-gruß-1-2
+   :END:
+1 Judas, Knecht Jesu Christi, Bruder des Jakobus, an die Berufenen, die
+von Gott, dem Vater, geliebt und für Jesus Christus bestimmt und bewahrt
+sind. ^{[[#fn1][1]]}
+
+<<v2>>
+2 Erbarmen, Frieden und Liebe seien mit euch in Fülle. ^{[[#fn2][2]]}\\
+\\
+
+<<v3>>
+** Warnung vor Irrlehrern: 3-16
+   :PROPERTIES:
+   :CUSTOM_ID: warnung-vor-irrlehrern-3-16
+   :END:
+**** Das Auftreten falscher Lehrer: 3-4
+     :PROPERTIES:
+     :CUSTOM_ID: das-auftreten-falscher-lehrer-3-4
+     :END:
+3 Liebe Brüder, da es mich sehr drängt, euch über unsere gemeinsame
+Rettung zu schreiben, halte ich es für notwendig, euch mit diesem Brief
+zu ermahnen: Kämpft für den überlieferten Glauben, der den Heiligen ein
+für allemal anvertraut ist. ^{[[#fn3][3]][[#fn4][4]]}
+
+<<v4>>
+4 Denn es haben sich einige Leute eingeschlichen, die schon seit langem
+für das Gericht vorgemerkt sind: gottlose Menschen, die die Gnade
+unseres Gottes dazu missbrauchen, ein zügelloses Leben zu führen, und
+die Jesus Christus, unseren einzigen Herrscher und Herrn, verleugnen.
+^{[[#fn5][5]]}\\
+\\
+
+<<v5>>
+**** Das drohende Gericht über die Irrlehrer: 5-7
+     :PROPERTIES:
+     :CUSTOM_ID: das-drohende-gericht-über-die-irrlehrer-5-7
+     :END:
+5 Zwar wisst ihr alles ein für allemal; aber ich will euch dennoch daran
+erinnern: Obwohl der Herr das Volk aus Ägypten gerettet hatte, hat er
+später alle vernichtet, die nicht glaubten. ^{[[#fn6][6]]}
+
+<<v6>>
+6 Die Engel, die ihren hohen Rang missachtet und ihren Wohnsitz
+verlassen haben, hat er mit ewigen Fesseln in der Finsternis
+eingeschlossen, um sie am großen Tag zu richten. ^{[[#fn7][7]]}
+
+<<v7>>
+7 Auch Sodom und Gomorra und ihre Nachbarstädte sind ein Beispiel: In
+ähnlicher Weise wie jene trieben sie Unzucht und wollten mit Wesen
+anderer Art verkehren; daher werden sie mit ewigem Feuer bestraft.
+^{[[#fn8][8]][[#fn9][9]]}\\
+\\
+
+<<v8>>
+**** Der Weg der Irrlehrer: 8-16
+     :PROPERTIES:
+     :CUSTOM_ID: der-weg-der-irrlehrer-8-16
+     :END:
+8 Genauso beflecken sich auch diese Träumer, sie missachten die Macht
+des Herrn und lästern die überirdischen Mächte. ^{[[#fn10][10]]}
+
+<<v9>>
+9 Als der Erzengel Michael mit dem Teufel rechtete und über den Leichnam
+des Mose stritt, wagte er nicht, den Teufel zu lästern und zu
+verurteilen, sondern sagte: /Der Herr weise dich in die Schranken./
+^{[[#fn11][11]][[#fn12][12]]}
+
+<<v10>>
+10 Diese jedoch lästern über alles, was sie nicht kennen; was sie aber
+wie die unvernünftigen Tiere von Natur aus verstehen, daran gehen sie
+zugrunde.
+
+<<v11>>
+11 Weh ihnen! Sie sind den Weg Kains gegangen, aus Habgier sind sie dem
+Irrtum Bileams verfallen, der Aufruhr Korachs hat sie ins Verderben
+gestürzt. ^{[[#fn13][13]]}
+
+<<v12>>
+12 Diese Menschen sind ein Schandfleck bei eurem Liebesmahl, an dem sie
+ohne Scheu teilnehmen und es sich gut gehen lassen; sie sind Hirten, die
+eine Weide für sich selber suchen. Wasserlose Wolken sind sie, von den
+Winden dahingetrieben; Bäume, die im Herbst keine Frucht tragen, zweimal
+verdorrt und entwurzelt;
+
+<<v13>>
+13 wilde Meereswogen, die ihre eigene Schande ans Land spülen; Sterne,
+die keine feste Bahn haben; ihnen ist auf ewig die dunkelste Finsternis
+bestimmt.
+
+<<v14>>
+14 Auch ihnen gilt, was schon Henoch, der siebte nach Adam, geweissagt
+hat: «Seht, der Herr kommt mit seinen heiligen Zehntausenden,
+^{[[#fn14][14]]}
+
+<<v15>>
+15 um über alle Gericht zu halten und alle Gottlosen zu bestrafen wegen
+all ihrer gottlosen Taten, die sie verübt haben, und wegen all der
+frechen Reden, die die gottlosen Sünder gegen ihn geführt haben.»
+
+<<v16>>
+16 Sie sind Nörgler, immer unzufrieden mit ihrem Geschick; sie lassen
+sich von ihren Begierden leiten; sie nehmen große Worte in den Mund und
+schmeicheln den Menschen aus Eigennutz.\\
+\\
+
+<<v17>>
+** Ermahnung zur Treue und zur Sorge um gefährdete Mitchristen: 17-23
+   :PROPERTIES:
+   :CUSTOM_ID: ermahnung-zur-treue-und-zur-sorge-um-gefährdete-mitchristen-17-23
+   :END:
+17 Ihr aber, liebe Brüder, denkt an die Worte, die von den Aposteln Jesu
+Christi, unseres Herrn, im Voraus verkündet worden sind,
+^{[[#fn15][15]]}
+
+<<v18>>
+18 als sie euch sagten: Am Ende der Zeit wird es Spötter geben, die sich
+von ihren gottlosen Begierden leiten lassen. ^{[[#fn16][16]]}
+
+<<v19>>
+19 Sie werden die Einheit zerstören, denn es sind irdisch gesinnte
+Menschen, die den Geist nicht besitzen.
+
+<<v20>>
+20 Ihr aber, liebe Brüder, gründet euch auf euren hochheiligen Glauben,
+und baut darauf weiter, betet in der Kraft des Heiligen Geistes,
+^{[[#fn17][17]]}
+
+<<v21>>
+21 haltet fest an der Liebe Gottes und wartet auf das Erbarmen Jesu
+Christi, unseres Herrn, der euch das ewige Leben schenkt.
+
+<<v22>>
+22 Erbarmt euch derer, die zweifeln;
+
+<<v23>>
+23 rettet sie, entreißt sie dem Feuer! Der anderen aber erbarmt euch
+voll Furcht; verabscheut sogar das Gewand eines Menschen, der der Sünde
+verfallen ist. ^{[[#fn18][18]]}\\
+\\
+
+<<v24>>
+** Briefschluss: 24-25
+   :PROPERTIES:
+   :CUSTOM_ID: briefschluss-24-25
+   :END:
+24 Dem einen Gott aber, der die Macht hat, euch vor jedem Fehltritt zu
+bewahren und euch untadelig und voll Freude vor seine Herrlichkeit
+treten zu lassen, ^{[[#fn19][19]]}
+
+<<v25>>
+25 ihm, der uns durch Jesus Christus, unseren Herrn, rettet, gebührt die
+Herrlichkeit, Hoheit, Macht und Gewalt vor aller Zeit und jetzt und für
+alle Zeiten. Amen. ^{[[#fn20][20]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Jak 1,1
+
+^{[[#fnm2][2]]} ℘ 2 Petr 1,2
+
+^{[[#fnm3][3]]} ℘ 1 Tim 1,18; (3-16) 2 Petr 2,1-22
+
+^{[[#fnm4][4]]} Die »Heiligen« sind die Christen, die »Berufenen« von V.
+1; vgl. Röm 1,6f.
+
+^{[[#fnm5][5]]} ℘ Gal 2,4
+
+^{[[#fnm6][6]]} ℘ 2 Petr 1,12
+
+^{[[#fnm7][7]]} ℘ Gen 6,1-4
+
+^{[[#fnm8][8]]} ℘ Henochbuch 6,1-7; 10,4-6; Gen 19,4-11.23-25
+
+^{[[#fnm9][9]]} Die sündigen Städte wollten ähnlich »wie jene«, d. h.
+die in V. 6 genannten Engel, »mit Wesen anderer Art verkehren«,
+wörtlich: sie liefen anderem Fleisch nach.
+
+^{[[#fnm10][10]]} die überirdischen Mächte, wörtlich: die
+Herrlichkeiten.
+
+^{[[#fnm11][11]]} ℘ Sach 3,2
+
+^{[[#fnm12][12]]} Der Verfasser bezieht sich hier auf eine
+außerbiblische jüdische Überlieferung, die er möglicherweise in der
+Schrift über die »Himmelfahrt des Moses« vorgefunden hat; von dieser
+Schrift sind nur noch Teile erhalten.
+
+^{[[#fnm13][13]]} ℘ Gen 4,3-8; Num 22 - 24; Num 16
+
+^{[[#fnm14][14]]} ℘ Henochbuch 1,9
+
+^{[[#fnm15][15]]} ℘ 2 Petr 3,2
+
+^{[[#fnm16][16]]} ℘ 2 Petr 3,3
+
+^{[[#fnm17][17]]} ℘ Kol 2,7
+
+^{[[#fnm18][18]]} ℘ Am 4,11; Sach 3,2
+
+^{[[#fnm19][19]]} ℘ Röm 16,27
+
+^{[[#fnm20][20]]} ℘ 2 Petr 3,18

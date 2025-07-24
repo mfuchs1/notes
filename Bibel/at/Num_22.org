@@ -1,0 +1,219 @@
+#+TITLE: Num 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-24 Di 17:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 22.html
+
+
+<<verses>>
+
+<<v1>>
+* Der Seher Bileam: 22,1 - 24,25
+
+1 Die Israeliten brachen auf und schlugen ihr Lager in den Steppen von
+Moab auf, jenseits des Jordan bei Jericho.
+
+<<v2>>
+2 Balak, der Sohn Zippors, hatte gesehen, was Israel den Amoritern alles
+angetan hatte.
+
+<<v3>>
+3 Moab erschrak sehr vor dem Volk (der Israeliten), weil es so groß war,
+und es packte ihn das Grauen vor den Israeliten.
+
+<<v4>>
+4 Da sagte Moab zu den Ältesten von Midian: Jetzt wird uns dieser Haufen
+ringsum alles abfressen, wie die Rinder das Gras auf den Weiden
+abgrasen. Damals war Balak, der Sohn Zippors, König von Moab.
+
+<<v5>>
+5 Er schickte Boten zu Bileam, dem Sohn Beors, nach Petor am Strom, ins
+Land seiner Stammesgenossen, um ihn rufen zu lassen. Er ließ ihm sagen:
+Aus Ägypten ist ein Volk herangezogen, das das ganze Land bedeckt und
+nun mir gegenüber sich niedergelassen hat. [fn:1]
+
+<<v6>>
+6 Darum komm her und verfluch mir dieses Volk; denn es ist zu mächtig
+für mich. Vielleicht kann ich es dann schlagen und aus dem Land
+vertreiben. Ich weiß: Wen du segnest, der ist gesegnet; wen du
+verfluchst, der ist verflucht. [fn:2]
+
+<<v7>>
+7 Die Ältesten von Moab und die Ältesten von Midian machten sich auf den
+Weg, mit Wahrsagerlohn in den Händen. Als sie zu Bileam kamen,
+wiederholten sie ihm die Worte Balaks.
+
+<<v8>>
+8 Bileam sagte zu ihnen: Bleibt über Nacht hier, dann werde ich euch
+berichten, was der Herr zu mir sagt. Da blieben die Hofleute aus Moab
+bei Bileam.
+
+<<v9>>
+9 Gott kam zu Bileam und fragte ihn: Wer sind die Männer, die bei dir
+wohnen?
+
+<<v10>>
+10 Bileam antwortete Gott: Balak, der Sohn Zippors, der König von Moab,
+hat Boten zu mir geschickt und lässt mir sagen:
+
+<<v11>>
+11 Das Volk, das aus Ägypten herangezogen ist, bedeckt das ganze Land.
+Darum komm und verwünsch es für mich! Vielleicht kann ich es dann im
+Kampf besiegen und vertreiben.
+
+<<v12>>
+12 Gott antwortete Bileam: Geh nicht mit! Verfluch das Volk nicht; denn
+es ist gesegnet.
+
+<<v13>>
+13 Am Morgen stand Bileam auf und sagte zu den Hofleuten Balaks: Kehrt
+in euer Land zurück; denn der Herr erlaubt mir nicht, mit euch zu gehen.
+
+<<v14>>
+14 Da machten sich die Hofleute aus Moab auf den Weg und kehrten zu
+Balak zurück. Sie berichteten: Bileam hat sich geweigert, mit uns zu
+kommen.
+
+<<v15>>
+15 Balak schickte noch einmal Hofleute aus, mehr und vornehmere als das
+erste Mal.
+
+<<v16>>
+16 Sie kamen zu Bileam und sagten zu ihm: So sagt Balak, der Sohn
+Zippors: Lass dich nicht abhalten, zu mir zu kommen.
+
+<<v17>>
+17 Ich will dir einen sehr hohen Lohn geben; alles, was du von mir
+verlangst, will ich tun. Nur komm und verwünsch mir dieses Volk!
+
+<<v18>>
+18 Bileam antwortete den Dienern Balaks: Auch wenn mir Balak sein Haus
+voll Silber und Gold gäbe, könnte ich dem Befehl des Herrn, meines
+Gottes, nicht zuwiderhandeln, sei es in einer unwichtigen oder einer
+wichtigen Sache.
+
+<<v19>>
+19 Doch bleibt auch ihr jetzt über Nacht hier, bis ich weiß, was der
+Herr weiter zu mir sagt.
+
+<<v20>>
+20 In der Nacht kam Gott zu Bileam und sprach zu ihm: Wenn die Männer
+gekommen sind, um dich zu holen, dann mach dich auf den Weg und geh mit!
+Aber du darfst nur das tun, was ich dir sage.
+
+<<v21>>
+21 Am Morgen stand Bileam auf, sattelte seinen Esel und ging mit den
+Hofleuten aus Moab.
+
+<<v22>>
+22 Aber Gott wurde zornig, weil Bileam mitging, und der Engel des Herrn
+trat Bileam in feindlicher Absicht in den Weg, als Bileam, begleitet von
+zwei jungen Männern, auf seinem Esel dahinritt.
+
+<<v23>>
+23 Der Esel sah den Engel des Herrn auf dem Weg stehen, mit dem
+gezückten Schwert in der Hand, und er verließ den Weg und wich ins Feld
+aus. Da schlug ihn Bileam, um ihn auf den Weg zurückzubringen. [fn:3]
+
+<<v24>>
+24 Darauf stellte sich der Engel des Herrn auf den engen Weg zwischen
+den Weinbergen, der zu beiden Seiten Mauern hatte.
+
+<<v25>>
+25 Als der Esel den Engel des Herrn sah, drückte er sich an der Mauer
+entlang und drückte dabei das Bein Bileams gegen die Mauer. Da schlug
+ihn Bileam wieder.
+
+<<v26>>
+26 Der Engel des Herrn ging weiter und stellte sich an eine besonders
+enge Stelle, wo es weder rechts noch links eine Möglichkeit gab
+auszuweichen.
+
+<<v27>>
+27 Als der Esel den Engel des Herrn sah, ging er unter Bileam in die
+Knie. Bileam aber wurde wütend und schlug den Esel mit dem Stock.
+
+<<v28>>
+28 Da öffnete der Herr dem Esel den Mund und der Esel sagte zu Bileam:
+Was habe ich dir getan, dass du mich jetzt schon zum dritten Mal
+schlägst?
+
+<<v29>>
+29 Bileam erwiderte dem Esel: Weil du mich zum Narren hältst. Hätte ich
+ein Schwert dabei, dann hätte ich dich schon umgebracht.
+
+<<v30>>
+30 Der Esel antwortete Bileam: Bin ich nicht dein Esel, auf dem du seit
+eh und je bis heute geritten bist? War es etwa je meine Gewohnheit, mich
+so gegen dich zu benehmen? Da musste Bileam zugeben: Nein.
+
+<<v31>>
+31 Nun öffnete der Herr dem Bileam die Augen und er sah den Engel des
+Herrn auf dem Weg stehen, mit dem gezückten Schwert in der Hand. Da
+verneigte sich Bileam und warf sich auf sein Gesicht nieder.
+
+<<v32>>
+32 Der Engel des Herrn sagte zu ihm: Warum hast du deinen Esel dreimal
+geschlagen? Ich bin dir feindlich in den Weg getreten, weil mir der Weg,
+den du gehst, zu abschüssig ist. [fn:4]
+
+<<v33>>
+33 Der Esel hat mich gesehen und ist mir schon dreimal ausgewichen. Wäre
+er mir nicht ausgewichen, dann hätte ich dich vielleicht jetzt schon
+umgebracht, ihn aber am Leben gelassen.
+
+<<v34>>
+34 Bileam antwortete dem Engel des Herrn: Ich habe gesündigt, aber nur,
+weil ich nicht wusste, dass du mir im Weg standest. Jetzt aber will ich
+umkehren, wenn dir mein Vorhaben nicht recht ist.
+
+<<v35>>
+35 Der Engel des Herrn antwortete Bileam: Geh mit den Männern, aber rede
+nichts, außer was ich dir sage. Da ging Bileam mit den Hofleuten Balaks.
+
+<<v36>>
+36 Als Balak hörte, dass Bileam kam, ging er ihm entgegen bis zur
+Grenzstadt Moabs am Arnon, unmittelbar an der Grenze.
+
+<<v37>>
+37 Balak sagte zu Bileam: Ich hatte dich rufen lassen. Warum bist du
+nicht zu mir gekommen? Kann ich dir nicht einen hohen Lohn geben?
+
+<<v38>>
+38 Bileam antwortete Balak: Jetzt bin ich zwar bei dir. Aber kann ich
+jetzt etwas reden? Ich kann nur sagen, was Gott mir in den Mund legt.
+
+<<v39>>
+39 Bileam ging mit Balak weiter nach Kirjat-Huzot.
+
+<<v40>>
+40 Balak schlachtete Rinder und Schafe und ließ damit Bileam und die
+Hofleute, die dabei waren, bewirten.
+
+<<v41>>
+41 Am nächsten Morgen nahm Balak Bileam mit sich und führte ihn zu den
+Baalshöhen hinauf. Von dort konnte er bis zum Volk sehen. [fn:5]
+
+* Footnotes
+
+[fn:1] Der «Strom» ist der Eufrat.
+
+[fn:2] 24,9 [[file:Num_24.org::v9][Num 24,9]]; Gen 12,3 [[file:Gen_12.org::v3][Gen 12,3]]; 27,29 [[file:Gen_27.org::v29][Gen 27,29]]
+
+[fn:3] 23-35: Vgl. [[file:~/RoamNotes/notes/Bibel/nt/2.Petr_2.org::v16][2 Petr 2,16]]. Die Erzählung vom sprechenden
+Esel will zeigen, wie töricht die Wahrsagerei der Heiden ist: Selbst ein
+Esel ist klüger als ein Wahrsager, der meint, die Geheimnisse der
+Gottheit zu kennen.
+
+[fn:4] zu abschüssig: Der Sinn des hebräischen Wortes ist
+unklar. Wenn es hier richtig übersetzt ist, dann ist es wohl in
+übertragener Bedeutung gemeint.
+
+[fn:5] bis zum Volk, wörtlich: bis an den äußersten Rand des
+Volkes (Israel).

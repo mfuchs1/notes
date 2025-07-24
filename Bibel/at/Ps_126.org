@@ -1,0 +1,63 @@
+#+TITLE: Ps 126 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 13:54]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 126.html
+
+* Ps 126
+
+<<verses>>
+
+<<v1>>
+* Tränen und Jubel
+
+1 [Ein Wallfahrtslied.] Als der Herr das Los der Gefangenschaft Zions
+wendete, /\\
+ da waren wir alle wie Träumende. [fn:1]\\
+\\
+
+<<v2>>
+2 Da war unser Mund voll Lachen /\\
+ und unsere Zunge voll Jubel. Da sagte man unter den andern Völkern: /\\
+ «Der Herr hat an ihnen Großes getan.» [fn:2]\\
+\\
+
+<<v3>>
+3 Ja, Großes hat der Herr an uns getan. /\\
+ Da waren wir fröhlich. [fn:3]\\
+\\
+
+<<v4>>
+4 Wende doch, Herr, unser Geschick, /\\
+ wie du versiegte Bäche wieder füllst im Südland. [fn:4]\\
+\\
+
+<<v5>>
+5 Die mit Tränen säen, /\\
+ werden mit Jubel ernten. [fn:5]\\
+\\
+
+<<v6>>
+6 Sie gehen hin unter Tränen /\\
+ und tragen den Samen zur Aussaat. Sie kommen wieder mit Jubel /\\
+ und bringen ihre Garben ein.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_14.org::v7][14,7]]
+
+[fn:2] [[file:Ijob_8.org::v21][Ijob 8,21]]; [[file:Ez_36.org::v36][Ez 36,36]]
+
+[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v49][Lk 1,49]]
+
+[fn:4] [[file:Dtn_30.org::v3][Dtn 30,3]]
+
+[fn:5] (5-6) [[file:Jes_25.org::v8][Jes 25,8f]]; [[file:Bar_4.org::v23][Bar 4,23]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v4][Mt 5,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_16.org::v20][Joh 16,20]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_21.org::v4][Offb 21,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_12.org::v24][Joh 12,24]]

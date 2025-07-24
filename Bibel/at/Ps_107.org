@@ -1,0 +1,296 @@
+#+TITLE: Ps 107 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-15 Do 17:37]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 107.html
+
+* Ps 107
+
+<<verses>>
+
+<<v1>>
+* Das fünfte Buch
+   
+* Ein Danklied der Erlösten
+
+1 Danket dem Herrn, denn er ist gütig, /\\
+ denn seine Huld währt ewig. [fn:1]\\
+\\
+
+<<v2>>
+2 So sollen alle sprechen, die vom Herrn erlöst sind, /\\
+ die er von den Feinden befreit hat.\\
+\\
+
+<<v3>>
+3 Denn er hat sie aus den Ländern gesammelt, /\\
+ vom Aufgang und Niedergang, vom Norden und Süden. [fn:2]\\
+\\
+
+<<v4>>
+4 Sie, die umherirrten in der Wüste, im Ödland, /\\
+ und den Weg zur wohnlichen Stadt nicht fanden, [fn:3]\\
+\\
+
+<<v5>>
+5 die Hunger litten und Durst, /\\
+ denen das Leben dahinschwand, [fn:4]\\
+\\
+
+<<v6>>
+6 die dann in ihrer Bedrängnis schrien zum Herrn, /\\
+ die er ihren Ängsten entriss [fn:5]\\
+\\
+
+<<v7>>
+7 und die er führte auf geraden Wegen, /\\
+ sodass sie zur wohnlichen Stadt gelangten:\\
+\\
+
+<<v8>>
+8 sie alle sollen dem Herrn danken für seine Huld, /\\
+ für sein wunderbares Tun an den Menschen,\\
+\\
+
+<<v9>>
+9 weil er die lechzende Seele gesättigt, /\\
+ die hungernde Seele mit seinen Gaben erfüllt hat. [fn:6]\\
+\\
+
+<<v10>>
+10 Sie, die saßen in Dunkel und Finsternis, /\\
+ gefangen in Elend und Eisen, [fn:7]\\
+\\
+
+<<v11>>
+11 die den Worten Gottes getrotzt /\\
+ und verachtet hatten den Ratschluss des Höchsten, [fn:8]\\
+\\
+
+<<v12>>
+12 deren Herz er durch Mühsal beugte, /\\
+ die stürzten und denen niemand beistand,\\
+\\
+
+<<v13>>
+13 die dann in ihrer Bedrängnis schrien zum Herrn, /\\
+ die er ihren Ängsten entriss,\\
+\\
+
+<<v14>>
+14 die er herausführte aus Dunkel und Finsternis /\\
+ und deren Fesseln er zerbrach: [fn:9]\\
+\\
+
+<<v15>>
+15 sie alle sollen dem Herrn danken für seine Huld, /\\
+ für sein wunderbares Tun an den Menschen,\\
+\\
+
+<<v16>>
+16 weil er die ehernen Tore zerbrochen, /\\
+ die eisernen Riegel zerschlagen hat. [fn:10]\\
+\\
+
+<<v17>>
+17 Sie, die dahinsiechten in ihrem sündhaften Treiben, /\\
+ niedergebeugt wegen ihrer schweren Vergehen, [fn:11]\\
+\\
+
+<<v18>>
+18 denen vor jeder Speise ekelte, /\\
+ die nahe waren den Pforten des Todes, [fn:12]\\
+\\
+
+<<v19>>
+19 die dann in ihrer Bedrängnis schrien zum Herrn, /\\
+ die er ihren Ängsten entriss,\\
+\\
+
+<<v20>>
+20 denen er sein Wort sandte, die er heilte /\\
+ und vom Verderben befreite: [fn:13] [fn:14]\\
+\\
+
+<<v21>>
+21 sie alle sollen dem Herrn danken für seine Huld, /\\
+ für sein wunderbares Tun an den Menschen.\\
+\\
+
+<<v22>>
+22 Sie sollen ihm Dankopfer weihen, /\\
+ mit Jubel seine Taten verkünden.\\
+\\
+
+<<v23>>
+23 Sie, die mit Schiffen das Meer befuhren /\\
+ und Handel trieben auf den großen Wassern, [fn:15]\\
+\\
+
+<<v24>>
+24 die dort die Werke des Herrn bestaunten, /\\
+ seine Wunder in der Tiefe des Meeres\\
+\\
+
+<<v25>>
+25 - Gott gebot und ließ den Sturmwind aufstehn, /\\
+ der hoch die Wogen türmte -, [fn:16]\\
+\\
+
+<<v26>>
+26 die zum Himmel emporstiegen /\\
+ und hinabfuhren in die tiefste Tiefe, /\\
+ sodass ihre Seele in der Not verzagte,\\
+\\
+
+<<v27>>
+27 die wie Trunkene wankten und schwankten, /\\
+ am Ende waren mit all ihrer Weisheit, [fn:17]\\
+\\
+
+<<v28>>
+28 die dann in ihrer Bedrängnis schrien zum Herrn, /\\
+ die er ihren Ängsten entriss [fn:18]\\
+\\
+
+<<v29>>
+29 - er machte aus dem Sturm ein Säuseln, /\\
+ sodass die Wogen des Meeres schwiegen -, [fn:19]\\
+\\
+
+<<v30>>
+30 die sich freuten, dass die Wogen sich legten /\\
+ und er sie zum ersehnten Hafen führte:\\
+\\
+
+<<v31>>
+31 sie alle sollen dem Herrn danken für seine Huld, /\\
+ für sein wunderbares Tun an den Menschen.\\
+\\
+
+<<v32>>
+32 Sie sollen ihn in der Gemeinde des Volkes rühmen, /\\
+ ihn loben im Kreis der Alten. [fn:20]\\
+\\
+
+<<v33>>
+33 Er machte Ströme zur dürren Wüste, /\\
+ Oasen zum dürstenden Ödland, [fn:21]\\
+\\
+
+<<v34>>
+34 fruchtbares Land zur salzigen Steppe; /\\
+ denn seine Bewohner waren böse. [fn:22]\\
+\\
+
+<<v35>>
+35 Er machte die Wüste zum Wasserteich, /\\
+ verdorrtes Land zu Oasen. [fn:23]\\
+\\
+
+<<v36>>
+36 Dort siedelte er Hungernde an, /\\
+ sie gründeten wohnliche Städte. [fn:24]\\
+\\
+
+<<v37>>
+37 Sie bestellten Felder, pflanzten Reben /\\
+ und erzielten reiche Ernten. [fn:25]\\
+\\
+
+<<v38>>
+38 Er segnete sie, sodass sie sich gewaltig vermehrten, /\\
+ gab ihnen große Mengen an Vieh. [fn:26]\\
+\\
+
+<<v39>>
+39 Dann aber wurden sie geringer an Zahl, /\\
+ gebeugt unter der Last von Leid und Kummer.\\
+\\
+
+<<v40>>
+40 Er goss über die Edlen Verachtung aus, /\\
+ ließ sie umherirren in wegloser Wüste. [fn:27]\\
+\\
+
+<<v41>>
+41 Die Armen hob er aus dem Elend empor /\\
+ und vermehrte ihre Sippen, einer Herde gleich. [fn:28]\\
+\\
+
+<<v42>>
+42 Die Redlichen sehn es und freuen sich, /\\
+ doch alle bösen Menschen verstummen. [fn:29]\\
+\\
+
+<<v43>>
+43 Wer ist weise und beachtet das alles, /\\
+ wer begreift die reiche Huld des Herrn?\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_106.org::v1][106,1]]; [[file:Ps_118.org::v1][118,1]].[[file:Ps_118.org::v29][29]]; [[file:Ps_136.org::v1][136,1f]].[[file:Ps_136.org::v26][26]]
+
+[fn:2] [[file:Jes_43.org::v5][Jes 43,5f]]
+
+[fn:3] [[file:Dtn_8.org::v15][Dtn 8,15]]
+
+[fn:4] [[file:Jes_49.org::v10][Jes 49,10]]
+
+[fn:5] [[file:Ps_50.org::v15][50,15]]
+
+[fn:6] [[file:Jes_55.org::v1][Jes 55,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v53][Lk 1,53]]
+
+[fn:7] [[file:Ijob_36.org::v8][Ijob 36,8f]]
+
+[fn:8] [[file:Ps_106.org::v43][106,43]]; [[file:Spr_1.org::v25][Spr 1,25]]
+
+[fn:9] [[file:Jes_42.org::v7][Jes 42,7]].[[file:Jes_42.org::v16][16]]
+
+[fn:10] [[file:Jes_45.org::v2][Jes 45,2]]
+
+[fn:11] Text korr.; H: die Toren in ihrem sündhaften Treiben.
+
+[fn:12] [[file:Ijob_6.org::v6][Ijob 6,6f]]; [[file:Ijob_33.org::v20][33,20]]
+
+[fn:13] [[file:Weish_16.org::v12][Weish 16,12]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_8.org::v8][Mt 8,8]]
+
+[fn:14] vom Verderben, wörtlich: aus ihren Gruben.
+
+[fn:15] (23-24) [[file:Sir_43.org::v24][Sir 43,24f]]
+
+[fn:16] [[file:Jona_1.org::v4][Jona 1,4]]
+
+[fn:17] [[file:Spr_23.org::v34][Spr 23,34]]
+
+[fn:18] [[file:Jona_1.org::v14][Jona 1,14f]]
+
+[fn:19] [[file:Ps_65.org::v8][65,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_8.org::v26][Mt 8,26]]
+
+[fn:20] [[file:Ps_22.org::v23][22,23]]
+
+[fn:21] [[file:Jes_42.org::v15][Jes 42,15]]; [[file:Jes_50.org::v2][50,2]]
+
+[fn:22] [[file:Gen_19.org::v24][Gen 19,24-26]]; [[file:Dtn_29.org::v22][Dtn 29,22]]; [[file:Sir_39.org::v23][Sir 39,23]]
+
+[fn:23] [[file:Jes_41.org::v18][Jes 41,18]]
+
+[fn:24] [[file:Ez_36.org::v35][Ez 36,35]]
+
+[fn:25] [[file:Jes_65.org::v21][Jes 65,21]]
+
+[fn:26] [[file:Dtn_7.org::v13][Dtn 7,13f]]
+
+[fn:27] [[file:Ijob_12.org::v21][Ijob 12,21]].[[file:Ijob_12.org::v24][24]]
+
+[fn:28] [[file:Ps_113.org::v7][113,7]]
+
+[fn:29] [[file:Ijob_22.org::v19][Ijob 22,19]]; [[file:Ijob_5.org::v16][5,16]]; [[file:Ps_63.org::v12][Ps 63,12]]

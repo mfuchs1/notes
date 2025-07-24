@@ -1,0 +1,198 @@
+#+TITLE: 2 Chr 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 18:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 9.html
+
+<<verses>>
+
+<<v1>>
+* Die Königin von Saba: 9,1-12
+
+1 Die Königin von Saba hörte vom Ruf Salomos und kam mit sehr großem
+Gefolge, mit Kamelen, die Balsam, eine Menge Gold und Edelsteine trugen,
+nach Jerusalem, um ihn mit Rätselfragen auf die Probe zu stellen. Sie
+trat bei Salomo ein und redete mit ihm über alles, was sie sich
+vorgenommen hatte. [fn:1] [fn:2]
+
+<<v2>>
+2 Salomo gab ihr Antwort auf alle Fragen. Es gab nichts, was ihm
+verborgen war und was er ihr nicht hätte sagen können.
+
+<<v3>>
+3 Als nun die Königin von Saba die Weisheit Salomos erkannte, als sie
+den Palast sah, den er gebaut hatte,
+
+<<v4>>
+4 die Speisen auf seiner Tafel, die Sitzplätze seiner Beamten, das
+Aufwarten seiner Diener und ihre Gewänder, seine Mundschenken und ihre
+Gewänder, sein Opfer, das er im Haus des Herrn darbrachte, da stockte
+ihr der Atem. [fn:3]
+
+<<v5>>
+5 Sie sagte zum König: Was ich in meinem Land über dich und deine
+Weisheit gehört habe, ist wirklich wahr.
+
+<<v6>>
+6 Ich wollte es nicht glauben, bis ich nun selbst gekommen bin und es
+mit eigenen Augen gesehen habe. Und wahrhaftig, nicht einmal die Hälfte
+hat man mir berichtet von der Größe deiner Weisheit. Du übertriffst
+alles, was ich gehört habe.
+
+<<v7>>
+7 Glücklich sind deine Männer und glücklich diese deine Diener, die
+allezeit vor dir stehen und deine Weisheit hören.
+
+<<v8>>
+8 Gepriesen sei Jahwe, dein Gott, der an dir Gefallen gefunden und dich
+auf seinen Thron gesetzt hat, damit du König bist für Jahwe, deinen
+Gott. Weil dein Gott Israel liebt und ihm ewigen Bestand verleihen will,
+hat er dich zum König bestellt, damit du Recht und Gerechtigkeit übst. [fn:4]
+
+<<v9>>
+9 Sie gab dem König hundertzwanzig Talente Gold, dazu eine sehr große
+Menge Balsam und Edelsteine. Balsam, wie ihn die Königin von Saba dem
+König Salomo schenkte, gab es nicht wieder.
+
+<<v10>>
+10 Auch die Leute Hirams und die Leute Salomos, die Gold aus Ofir
+holten, brachten Algummimholz und Edelsteine. [fn:5]
+
+<<v11>>
+11 Der König ließ aus dem Algummimholz Schnitzarbeiten für das Haus des
+Herrn und den königlichen Palast sowie Zithern und Harfen für die Sänger
+anfertigen. Dergleichen hatte man vordem im Land Juda nicht gesehen.
+
+<<v12>>
+12 König Salomo gewährte der Königin von Saba alles, was sie wünschte
+und begehrte, ausgenommen das, was sie dem König geschenkt hatte.
+Schließlich kehrte sie mit ihrem Gefolge in ihr Land zurück.\\
+\\
+
+<<v13>>
+* Salomos Reichtum: 9,13-28
+
+13 Das Gewicht des Goldes, das alljährlich bei Salomo einging, betrug
+sechshundertsechsundsechzig Goldtalente. [fn:6]
+
+<<v14>>
+14 Dabei sind nicht eingerechnet die Abgaben, die von den Kaufleuten und
+Händlern kamen. Auch alle Könige von Arabien und die Statthalter des
+Landes brachten Salomo Gold und Silber. [fn:7]
+
+<<v15>>
+15 König Salomo ließ zweihundert Schilde aus gehämmertem Gold
+herstellen. Sechshundert Schekel gehämmertes Gold verwandte er für jeden
+Schild.
+
+<<v16>>
+16 Dazu machte er dreihundert kleinere Schilde aus gehämmertem Gold.
+Dreihundert Schekel Gold verwendete er für jeden. Er brachte sie in das
+Libanonwaldhaus. [fn:8]
+
+<<v17>>
+17 Ferner ließ der König einen großen Thron aus Elfenbein anfertigen und
+mit purem Gold überziehen.
+
+<<v18>>
+18 Sechs Stufen führten zum Thron hinauf. An seiner Rückseite war ein
+goldenes Lamm und zu beiden Seiten des Sitzes befanden sich Armlehnen.
+Zwei Löwen standen neben den Lehnen [fn:9]
+
+<<v19>>
+19 und zwölf zu beiden Seiten der sechs Stufen. Dergleichen ist noch für
+kein Königreich geschaffen worden.
+
+<<v20>>
+20 Alle Trinkgefäße des Königs Salomo waren aus Gold; ebenso waren alle
+Geräte des Libanonwaldhauses aus bestem Gold. Silber galt in den Tagen
+Salomos als wertlos;
+
+<<v21>>
+21 denn der König hatte eine Flotte, die mit den Leuten Hirams nach
+Tarschisch fuhr. Einmal in drei Jahren kam die Tarschischflotte und
+brachte Gold, Silber, Elfenbein, Affen und Perlhühner.
+
+<<v22>>
+22 So übertraf König Salomo alle Könige der Erde an Reichtum und
+Weisheit.
+
+<<v23>>
+23 Alle Könige der Erde begehrten, ihn zu sehen und die Weisheit zu
+hören, die Gott in sein Herz gelegt hatte.
+
+<<v24>>
+24 Alle brachten ihm Jahr für Jahr ihre Gaben: silberne und goldene
+Gefäße, Gewänder, Waffen, Balsam, Pferde und Maultiere.
+
+<<v25>>
+25 Salomo hatte viertausend Stallplätze für seine Pferde sowie Wagen und
+zwölftausend Mann als Besatzung. Er brachte sie in die Wagenstädte sowie
+in die Umgebung des Königs nach Jerusalem. [fn:10]
+
+<<v26>>
+26 Er war Herrscher über alle Könige vom Eufrat bis zum Land der
+Philister und bis an die Grenze Ägyptens. [fn:11]
+
+<<v27>>
+27 Salomo machte das Silber in Jerusalem so häufig wie die Steine und
+die Zedern so zahlreich wie die Maulbeerfeigenbäume in der Schefela. [fn:12]
+
+<<v28>>
+28 Man bezog die Pferde für Salomo aus Ägypten und aus allen Ländern.\\
+\\
+
+<<v29>>
+* Salomos Tod: 9,29-31
+
+29 Die übrige Geschichte Salomos, die frühere und die spätere, ist
+aufgezeichnet in der Geschichte des Propheten Natan, in der Weissagung
+Ahijas aus Schilo und in der Vision des Sehers Jedo über Jerobeam, den
+Sohn Nebats. [fn:13] [fn:14]
+
+<<v30>>
+30 Salomo war vierzig Jahre in Jerusalem König über ganz Israel.
+
+<<v31>>
+31 Er entschlief zu seinen Vätern und man begrub ihn in der Stadt seines
+Vaters David. Sein Sohn Rehabeam wurde König an seiner Stelle.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-12) [[file:1.Kön_10.org::v1][1 Kön 10,1-13]]
+
+[fn:2] Zu Saba vgl. die Anmerkung zu 1 Kön 10,1.
+
+[fn:3] sein Opfer: Text korr. nach G und 1 Kön 10,5; H: sein Obergemach.
+
+[fn:4] Vgl. die Anmerkung zu [[file:1.Chr_28.org::v5][1 Chr 28,5]].
+
+[fn:5] zu Algummimholz vgl. die Anmerkung zu [[file:1.Kön_10.org::v11][1 Kön 10,11]].
+
+[fn:6] (13-28) [[file:1.Kön_10.org::v14][1 Kön 10,14-28]]
+
+[fn:7] die Abgaben: H: die Männer.
+
+[fn:8] Das Libanonwaldhaus war einer der Palastbauten Salomos
+(vgl. [[file:1.Kön_7.org::v2][1 Kön 7,2-5]]).
+
+[fn:9] Text korr. nach [[file:1.Kön_10.org::v19][1 Kön 10,19]].
+
+[fn:10] [[file:1.Kön_5.org::v6][1 Kön 5,6]]; [[file:1.Kön_10.org::v26][10,26]]
+
+[fn:11] [[file:1.Kön_5.org::v1][1 Kön 5,1]]
+
+[fn:12] (27-28) [[file:1.Kön_10.org::v27][1 Kön 10,27f]]
+
+[fn:13] (29-31) [[file:1.Kön_11.org::v41][1 Kön 11,41-43]]
+
+[fn:14] Ahija aus Schilo wirkte unter Salomo und Jerobeam I.
+(vgl. [[file:1.Kön_11.org::v29][1 Kön 11,29-39]]; [[file:1.Kön_14.org::v2][14,2-16]]). Jedo ist vielleicht der in [[file:2.Chr_12.org::v15][12,15]] und
+[[file:2.Chr_13.org::v22][13,22]] genannte Prophet Iddo.

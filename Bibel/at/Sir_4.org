@@ -1,0 +1,220 @@
+:PROPERTIES:
+:ID:       6f21d1f9-7f0f-48d6-9d4b-36e16511ed8c
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] [[file:Sir_2.html][2]] [[file:Sir_3.html][3]] *4*
+[[file:Sir_5.html][5]] [[file:Sir_6.html][6]] ...
+[[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 4
+  :PROPERTIES:
+  :CUSTOM_ID: sir-4
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Mildtätigkeit: 4,1-10
+     :PROPERTIES:
+     :CUSTOM_ID: mildtätigkeit-41-10
+     :END:
+1 Mein Sohn, entzieh dem Armen nicht den Lebensunterhalt /\\
+ und lass die Augen des Betrübten nicht vergebens warten!\\
+\\
+
+<<v2>>
+2 Enttäusche den Hungrigen nicht /\\
+ und das Herz des Unglücklichen errege nicht! ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Verweigere die Gabe dem Bedürftigen nicht
+
+<<v4>>
+4 und missachte nicht die Bitten des Geringen!\\
+\\
+
+<<v5>>
+5 Verbirg dich nicht vor dem Verzweifelten /\\
+ und gib ihm keinen Anlass, dich zu verfluchen.\\
+\\
+
+<<v6>>
+6 Schreit der Betrübte im Schmerz seiner Seele, /\\
+ so wird Gott, sein Fels, auf sein Wehgeschrei hören. ^{[[#fn2][2]]}\\
+\\
+
+<<v7>>
+7 Mach dich beliebt in der Gemeinde, /\\
+ beuge das Haupt vor dem, der sie führt.\\
+\\
+
+<<v8>>
+8 Neige dem Armen dein Ohr zu /\\
+ und erwidere ihm freundlich den Gruß!\\
+\\
+
+<<v9>>
+9 Rette den Bedrängten vor seinen Bedrängern; /\\
+ ein gerechtes Gericht sei dir nicht widerwärtig.
+^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+<<v10>>
+10 Sei den Waisen wie ein Vater /\\
+ und den Witwen wie ein Gatte! Dann wird Gott dich seinen Sohn nennen,
+/\\
+ er wird Erbarmen mit dir haben /\\
+ und dich vor dem Grab bewahren. ^{[[#fn5][5]][[#fn6][6]]}\\
+\\
+
+<<v11>>
+**** Der Weg zum Leben: 4,11-19
+     :PROPERTIES:
+     :CUSTOM_ID: der-weg-zum-leben-411-19
+     :END:
+11 Die Weisheit belehrt ihre Söhne, /\\
+ sie mahnt eindringlich alle, die auf sie achten.\\
+\\
+
+<<v12>>
+12 Wer sie liebt, liebt das Leben, /\\
+ wer sie sucht, wird Gott gefallen. ^{[[#fn7][7]]}\\
+\\
+
+<<v13>>
+13 Wer sie ergreift, findet Ehre beim Herrn /\\
+ und wird unter Gottes Segen leben.\\
+\\
+
+<<v14>>
+14 Der Dienst an ihr ist Dienst am Heiligtum; /\\
+ wer sie liebt, den liebt der Herr.\\
+\\
+
+<<v15>>
+15 Wer auf mich hört, wird gerecht richten, /\\
+ wer mir zuhört, wohnt in meinen innersten Kammern.\\
+\\
+
+<<v16>>
+16 Hat er Vertrauen zu mir, wird er mich erlangen, /\\
+ auch seine Nachkommen werden mich besitzen.\\
+\\
+
+<<v17>>
+17 Denn unerkannt gehe ich mit ihm /\\
+ und prüfe ihn durch Versuchungen. Furcht und Bangen lasse ich über ihn
+kommen, /\\
+ bis sein Herz von mir erfüllt ist. ^{[[#fn8][8]]}\\
+\\
+
+<<v18>>
+18 Dann wende ich mich ihm zu, /\\
+ zeige ihm den geraden Weg und enthülle ihm meine Geheimnisse.\\
+\\
+
+<<v19>>
+19 Weicht er ab, so verwerfe ich ihn /\\
+ und überlasse ihn denen, die ihn vernichten.\\
+\\
+
+<<v20>>
+** Die Gottesfurcht im Leben der Gemeinschaft: 4,20 - 18,14
+   :PROPERTIES:
+   :CUSTOM_ID: die-gottesfurcht-im-leben-der-gemeinschaft-420---1814
+   :END:
+**** Die echte und die falsche Scham: 4,20-30
+     :PROPERTIES:
+     :CUSTOM_ID: die-echte-und-die-falsche-scham-420-30
+     :END:
+20 Mein Sohn, achte auf die rechte Zeit /\\
+ und scheue das Unrecht! Deiner selbst sollst du dich nicht schämen
+müssen. ^{[[#fn9][9]]}\\
+\\
+
+<<v21>>
+21 Es gibt eine Scham, die Sünde bringt, /\\
+ und eine Scham, die Ehre und Ruhm einträgt. ^{[[#fn10][10]]}\\
+\\
+
+<<v22>>
+22 Sei nicht parteiisch, dir selbst zum Schaden, /\\
+ strauchle nicht, dir selbst zum Fall.\\
+\\
+
+<<v23>>
+23 Halte zur rechten Zeit dein Wort nicht zurück, /\\
+ verbirg deine Weisheit nicht!\\
+\\
+
+<<v24>>
+24 Denn die Weisheit zeigt sich in der Rede /\\
+ und die Einsicht in der Antwort der Zunge.\\
+\\
+
+<<v25>>
+25 Widerstreite der Wahrheit nicht; /\\
+ deiner Torheit sollst du dich schämen.\\
+\\
+
+<<v26>>
+26 Schäme dich nicht, von der Sünde umzukehren, /\\
+ leiste nicht trotzig Widerstand! ^{[[#fn11][11]]}\\
+\\
+
+<<v27>>
+27 Unterwirf dich nicht dem Toren, /\\
+ nimm keine Rücksicht auf den Herrscher!\\
+\\
+
+<<v28>>
+28 Bis zum Tod setz dich ein für das Recht, /\\
+ dann wird der Herr für dich kämpfen.\\
+\\
+
+<<v29>>
+29 Sei nicht prahlerisch mit deinen Worten /\\
+ und schlaff und matt in deinem Tun!\\
+\\
+
+<<v30>>
+30 Spiel nicht in deinem Haus den Löwen, /\\
+ vor dem sich deine Knechte fürchten müssen.\\
+\\
+
+<<v31>>
+**** Das rechte Verhalten gegen den Besitz: 4,31 - 5,8
+     :PROPERTIES:
+     :CUSTOM_ID: das-rechte-verhalten-gegen-den-besitz-431---58
+     :END:
+31 Deine Hand sei nicht ausgestreckt zum Nehmen /\\
+ und verschlossen beim Zurückgeben.\\
+\\
+
+^{[[#fnm1][1]]} 2-5: Text korr.; in H und G Doppelungen.
+
+^{[[#fnm2][2]]} ℘ Dtn 32,3f
+
+^{[[#fnm3][3]]} ℘ Spr 17,15; 31,8f
+
+^{[[#fnm4][4]]} 9b: Nach G: Sei nicht feig im Gericht!
+
+^{[[#fnm5][5]]} ℘ Ijob 29,12f
+
+^{[[#fnm6][6]]} 10cd: G: Dann wirst du wie ein Sohn des Höchsten sein;
+er wird dich mehr lieben als deine Mutter.
+
+^{[[#fnm7][7]]} ℘ Spr 8,35; 12,2; 18,22
+
+^{[[#fnm8][8]]} ℘ 2,1
+
+^{[[#fnm9][9]]} ℘ Koh 3,1
+
+^{[[#fnm10][10]]} ℘ 41,16 - 42,8
+
+^{[[#fnm11][11]]} ℘ 5,7

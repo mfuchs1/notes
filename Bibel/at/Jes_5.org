@@ -1,0 +1,270 @@
+:PROPERTIES:
+:ID:       e51db3b8-01e5-4071-b5fc-05762695f219
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_3.html][3]] [[file:Jes_4.html][4]] *5* [[file:Jes_6.html][6]]
+[[file:Jes_7.html][7]] ... [[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 5
+  :PROPERTIES:
+  :CUSTOM_ID: jes-5
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das Lied vom Weinberg: 5,1-7
+     :PROPERTIES:
+     :CUSTOM_ID: das-lied-vom-weinberg-51-7
+     :END:
+1 Ich will ein Lied singen von meinem geliebten Freund, /\\
+ ein Lied vom Weinberg meines Liebsten. Mein Freund hatte einen Weinberg
+/\\
+ auf einer fruchtbaren Höhe. ^{[[#fn1][1]][[#fn2][2]]}\\
+\\
+
+<<v2>>
+2 Er grub ihn um und entfernte die Steine /\\
+ und bepflanzte ihn mit den edelsten Reben. Er baute mitten darin einen
+Turm /\\
+ und hieb eine Kelter darin aus. Dann hoffte er, /\\
+ dass der Weinberg süße Trauben brächte, /\\
+ doch er brachte nur saure Beeren. ^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+<<v3>>
+3 Nun sprecht das Urteil, Jerusalems Bürger und ihr Männer von Juda, /\\
+ im Streit zwischen mir und dem Weinberg!\\
+\\
+
+<<v4>>
+4 Was konnte ich noch für meinen Weinberg tun, /\\
+ das ich nicht für ihn tat? Warum hoffte ich denn auf süße Trauben? /\\
+ Warum brachte er nur saure Beeren?\\
+\\
+
+<<v5>>
+5 Jetzt aber will ich euch kundtun, /\\
+ was ich mit meinem Weinberg mache: Ich entferne seine schützende Hecke;
+/\\
+ so wird er zur Weide. Seine Mauer reiße ich ein; /\\
+ dann wird er zertrampelt.\\
+\\
+
+<<v6>>
+6 Zu Ödland will ich ihn machen. /\\
+ Man soll seine Reben nicht schneiden /\\
+ und soll ihn nicht hacken; Dornen und Disteln werden dort wuchern. /\\
+ Ich verbiete den Wolken, ihm Regen zu spenden. ^{[[#fn5][5]]}\\
+\\
+
+<<v7>>
+7 Ja, der Weinberg des Herrn der Heere /\\
+ ist das Haus Israel und die Männer von Juda sind die Reben, /\\
+ die er zu seiner Freude gepflanzt hat. Er hoffte auf Rechtsspruch - /\\
+ doch siehe da: Rechtsbruch, und auf Gerechtigkeit - /\\
+ doch siehe da: Der Rechtlose schreit.\\
+\\
+
+<<v8>>
+**** Sechs Weherufe über das trotzige Israel: 5,8-24
+     :PROPERTIES:
+     :CUSTOM_ID: sechs-weherufe-über-das-trotzige-israel-58-24
+     :END:
+8 Weh euch, die ihr Haus an Haus reiht /\\
+ und Feld an Feld fügt, bis kein Platz mehr da ist /\\
+ und ihr allein im Land ansässig seid.\\
+\\
+
+<<v9>>
+9 Meine Ohren hören das Wort des Herrn der Heere: /\\
+ Wahrhaftig, alle eure Häuser sollen veröden. So groß und schön sie auch
+sind: /\\
+ Sie sollen unbewohnt sein. ^{[[#fn6][6]][[#fn7][7]]}\\
+\\
+
+<<v10>>
+10 Ein Weinberg von zehn Morgen bringt nur ein Bat Wein, /\\
+ ein Hómer Saatgut bringt nur ein Efa Korn. ^{[[#fn8][8]]}\\
+\\
+
+<<v11>>
+11 Weh euch, die ihr schon früh am Morgen /\\
+ hinter dem Bier her seid und sitzen bleibt bis spät in die Nacht, /\\
+ wenn euch der Wein erhitzt.\\
+\\
+
+<<v12>>
+12 Bei ihren Gelagen spielt man Zither und Harfe, /\\
+ Pauken und Flöten; aber was der Herr tut, beachten sie nicht, /\\
+ was seine Hände vollbringen, sehen sie nicht. ^{[[#fn9][9]]}\\
+\\
+
+<<v13>>
+13 Darum muss mein Volk in die Verbannung; /\\
+ denn es hat keine Erkenntnis. Seine Reichen sterben vor Hunger, /\\
+ die Masse der Armen verschmachtet vor Durst. ^{[[#fn10][10]]}\\
+\\
+
+<<v14>>
+14 Darum sperrt die Unterwelt ihren Rachen auf, /\\
+ maßlos weit reißt sie ihr Maul auf, sodass des Volkes Pracht und
+Reichtum hinabfährt, /\\
+ der ganze lärmende, johlende Haufen. ^{[[#fn11][11]]}\\
+\\
+
+<<v15>>
+15 Die Menschen müssen sich ducken, /\\
+ jeder Mann muss sich beugen, /\\
+ die stolzen Augen werden sich senken. ^{[[#fn12][12]]}\\
+\\
+
+<<v16>>
+16 Doch der Herr der Heere ist erhaben, /\\
+ wenn er Gericht hält, durch seine Gerechtigkeit /\\
+ erweist der heilige Gott sich als heilig.\\
+\\
+
+<<v17>>
+17 Dann grasen dort Lämmer wie auf der Weide, /\\
+ in den Ruinen weiden fette Schafe.\\
+\\
+
+<<v18>>
+18 Weh euch, die ihr die Strafe wie mit Ochsenstricken herbeizieht /\\
+ und die Sünde wie mit Wagenseilen. ^{[[#fn13][13]]}\\
+\\
+
+<<v19>>
+19 Ihr sagt: Was er tun will, das tue er schnell; /\\
+ er soll sich beeilen, damit wir es sehen; was der Heilige Israels
+plant, treffe bald ein; /\\
+ wir wollen es wissen.\\
+\\
+
+<<v20>>
+20 Weh denen, die das Böse gut und das Gute böse nennen, /\\
+ die die Finsternis zum Licht und das Licht zur Finsternis machen, /\\
+ die das Bittere süß und das Süße bitter machen.\\
+\\
+
+<<v21>>
+21 Weh denen, die in ihren eigenen Augen weise sind /\\
+ und sich selbst für klug halten. ^{[[#fn14][14]]}\\
+\\
+
+<<v22>>
+22 Weh denen, die Helden sind, /\\
+ wenn es gilt, Wein zu trinken, /\\
+ und tapfer, wenn es gilt, starke Getränke zu brauen,\\
+\\
+
+<<v23>>
+23 die den Schuldigen für Bestechungsgeld freisprechen /\\
+ und dem Gerechten sein Recht vorenthalten. ^{[[#fn15][15]]}\\
+\\
+
+<<v24>>
+24 Darum: Wie des Feuers Zunge die Stoppeln frisst /\\
+ und wie das Heu in der Flamme zusammensinkt, so soll ihre Wurzel
+verfaulen /\\
+ und ihre Blüte wie Staub aufgewirbelt werden. Denn sie haben die
+Weisung des Herrn der Heere von sich gewiesen /\\
+ und über das Wort des Heiligen Israels gelästert. ^{[[#fn16][16]]}\\
+\\
+
+<<v25>>
+**** Die Ankündigung der assyrischen Invasion: 5,25-30
+     :PROPERTIES:
+     :CUSTOM_ID: die-ankündigung-der-assyrischen-invasion-525-30
+     :END:
+25 Darum entbrennt der Zorn des Herrn gegen sein Volk; /\\
+ er streckt seine Hand aus gegen das Volk und schlägt zu. Da erzittern
+die Berge /\\
+ und die Leichen liegen auf den Gassen wie Abfall. Doch bei all dem
+lässt sein Zorn nicht nach, /\\
+ seine Hand bleibt ausgestreckt.\\
+\\
+
+<<v26>>
+26 Er stellt ein Feldzeichen auf /\\
+ für ein Volk in der Ferne, er pfeift es herbei vom Ende der Erde /\\
+ und schon kommen sie eilig heran. ^{[[#fn17][17]][[#fn18][18]]}\\
+\\
+
+<<v27>>
+27 Kein Müder ist unter ihnen, keiner, der stolpert, /\\
+ keiner, der einnickt und schläft. Bei keinem löst sich der Gürtel von
+den Hüften, /\\
+ noch reißt ein Schuhriemen ab.\\
+\\
+
+<<v28>>
+28 Ihre Pfeile sind scharf, /\\
+ alle ihre Bogen gespannt. Die Hufe ihrer Pferde sind hart wie Kiesel,
+/\\
+ die Räder sausen dahin wie der Sturm.\\
+\\
+
+<<v29>>
+29 Es ist ein Lärm wie das Brüllen des Löwen, /\\
+ wie wenn ein Junglöwe brüllt. Er knurrt und packt seine Beute, /\\
+ er schleppt sie fort /\\
+ und niemand reißt sie ihm weg.\\
+\\
+
+<<v30>>
+30 Und es dröhnt über ihnen an jenem Tag /\\
+ wie das Brausen des Meeres. Wohin man blickt auf der Erde: /\\
+ nur Finsternis voller Angst; /\\
+ das Licht ist durch Wolken verdunkelt. ^{[[#fn19][19]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-7) Mt 21,33-43
+
+^{[[#fnm2][2]]} Als Weinstock und Weinberg des Herrn (Jer 2,21; Ez 15;
+Ps 80,9-16) wird Israel bezeichnet. Das Weinberglied beginnt wie ein
+Liebeslied und wird dann zum Gerichtswort.
+
+^{[[#fnm3][3]]} ℘ 27,2-4; Jer 2,21
+
+^{[[#fnm4][4]]} Die Kelter war ein im Felsen ausgehauener Steintrog.
+
+^{[[#fnm5][5]]} ℘ 7,23-25
+
+^{[[#fnm6][6]]} ℘ 6,11
+
+^{[[#fnm7][7]]} hören: ergänzt nach G. - Die Strafe entspricht, auch im
+folgenden Wehruf (VV. 13f), dem Vergehen (V. 10).
+
+^{[[#fnm8][8]]} Morgen, wörtlich: Joch, Gespann.
+
+^{[[#fnm9][9]]} ℘ Ijob 21,12; Am 6,5f
+
+^{[[#fnm10][10]]} sterben: Text korr. nach den alten Übersetzungen. -
+die Masse der Armen, wörtlich: seine Masse.
+
+^{[[#fnm11][11]]} ℘ Hab 2,5
+
+^{[[#fnm12][12]]} ℘ 2,9.11.17
+
+^{[[#fnm13][13]]} 18a: mit Ochsenstricken: Text korr. in Anlehnung an V.
+18b.
+
+^{[[#fnm14][14]]} ℘ Spr 3,7; Röm 12,16
+
+^{[[#fnm15][15]]} ℘ Ex 23,7f; Spr 17,15
+
+^{[[#fnm16][16]]} ℘ Joël 2,5; Ijob 18,16
+
+^{[[#fnm17][17]]} ℘ Jer 5,15; Jes 7,18
+
+^{[[#fnm18][18]]} für ein Volk: Text korr.; Einzahl wie Jer 5,15.
+Gemeint sind die Assyrer (vgl. 7,18-20; 10,5-19). Diese fielen zwischen
+735 und 701 v. Chr. mehrmals in Palästina ein.
+
+^{[[#fnm19][19]]} ℘ 8,22

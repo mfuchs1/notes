@@ -1,0 +1,184 @@
+#+TITLE: Gen 32 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 32.html
+
+* Gen 32
+<<verses>>
+
+<<v1>>
+1 Früh am Morgen stand Laban auf, küsste seine Söhne und Töchter und
+segnete sie. Dann machte er sich auf den Weg und kehrte nach Hause
+zurück.\\
+\\
+
+<<v2>>
+* Die Boten und Geschenke für Esau: 32,2-22
+
+2 Auch Jakob zog seines Weges. Da begegneten ihm Engel Gottes.
+
+<<v3>>
+3 Als Jakob sie erblickte, sagte er: Das ist das Heerlager Gottes. Dem
+Ort gab er darum den Namen Mahanajim (Doppellager).
+
+<<v4>>
+4 Jakob sandte Boten vor sich her zu seinem Bruder Esau nach Seïr, in
+das Gebiet von Edom.
+
+<<v5>>
+5 Er trug ihnen auf: Ihr sollt Esau, meinem Herrn, sagen: So sagt dein
+Knecht Jakob: Bei Laban habe ich mich aufgehalten und bin bis jetzt
+ausgeblieben.
+
+<<v6>>
+6 Ich habe Ochsen und Esel, Schafe und Ziegen, Knechte und Mägde. Ich
+gebe nun meinem Herrn durch Boten Nachricht, um dein Wohlwollen zu
+finden.
+
+<<v7>>
+7 Die Boten kehrten zu Jakob zurück und berichteten: Als wir zu deinem
+Bruder Esau kamen, war auch er schon unterwegs zu dir. Vierhundert Mann
+hat er bei sich.
+
+<<v8>>
+8 Jakob wurde angst und bange. Er teilte seine Leute, die Schafe und
+Ziegen, die Rinder und Kamele auf zwei Lager auf
+
+<<v9>>
+9 und sagte: Wenn Esau zu dem einen Lager kommt und es niedermacht, dann
+kann das andere Lager entkommen.
+
+<<v10>>
+10 Und Jakob sagte: Du Gott meines Vaters Abraham und Gott meines Vaters
+Isaak, Herr, du hast mir gesagt: Kehr in deine Heimat und zu deiner
+Verwandtschaft zurück; ich werde es dir gut gehen lassen. [fn:1]
+
+<<v11>>
+11 Ich bin nicht wert all der Hulderweise und all der Treue, die du
+deinem Knecht erwiesen hast. Denn nur mit einem Stab habe ich den Jordan
+dort überschritten und jetzt sind aus mir zwei Lager geworden.
+
+<<v12>>
+12 Entreiß mich doch der Hand meines Bruders, der Hand Esaus! Ich
+fürchte nämlich, er könnte kommen und mich erschlagen, Mutter und
+Kinder.
+
+<<v13>>
+13 Du hast doch gesagt: Ich will es dir gut gehen lassen und will deine
+Nachkommen zahlreich machen wie den Sand am Meer, den niemand zählen
+kann vor Menge. [fn:2]
+
+<<v14>>
+14 Er brachte dort jene Nacht zu. Dann stellte er von allem, was er
+gerade zur Hand hatte, ein Geschenk für seinen Bruder Esau zusammen:
+
+<<v15>>
+15 zweihundert Ziegen und zwanzig Böcke, zweihundert Mutterschafe und
+zwanzig Widder,
+
+<<v16>>
+16 dreißig säugende Kamele mit ihren Jungen, vierzig Kühe und zehn
+Stiere, zwanzig Eselinnen und zehn Esel.
+
+<<v17>>
+17 Er übergab sie, nach Herden gesondert, seinen Knechten und sagte zu
+ihnen: Zieht mir voraus und haltet zwischen den einzelnen Herden
+Abstand.
+
+<<v18>>
+18 Dem ersten trug er auf: Wenn du auf meinen Bruder Esau triffst und er
+dich ausfragt: Zu wem gehörst du, wohin gehst du und wem gehört das da
+vor dir?,
+
+<<v19>>
+19 dann sag: Deinem Knecht Jakob. Ein Geschenk ist es, gesandt an meinen
+Herrn, an Esau. Schau, dort hinter uns kommt er auch schon selbst.
+
+<<v20>>
+20 Auch dem zweiten und dritten, allen, die hinter den einzelnen Herden
+schritten, trug er auf: Im gleichen Sinn redet mit Esau, wenn ihr ihn
+trefft.
+
+<<v21>>
+21 Sagt: Schau, dort kommt dein Knecht Jakob auch schon hinter uns. Denn
+Jakob sagte sich: Ich will ihn mit der geschenkten Herde, die vor mir
+herzieht, beschwichtigen und ihm dann erst unter die Augen treten.
+Vielleicht nimmt er mich freundlich auf.
+
+<<v22>>
+22 Die Herde, die er schenken wollte, zog ihm also voraus, er aber
+brachte jene Nacht im Lager zu.\\
+\\
+
+<<v23>>
+* Jakobs Kampf mit Gott: 32,23-33
+
+23 In derselben Nacht stand er auf, nahm seine beiden Frauen, seine
+beiden Mägde sowie seine elf Söhne und durchschritt die Furt des Jabbok.
+
+<<v24>>
+24 Er nahm sie und ließ sie den Fluss überqueren. Dann schaffte er alles
+hinüber, was ihm sonst noch gehörte.
+
+<<v25>>
+25 Als nur noch er allein zurückgeblieben war, rang mit ihm ein Mann,
+bis die Morgenröte aufstieg. [fn:3]
+
+<<v26>>
+26 Als der Mann sah, dass er ihm nicht beikommen konnte, schlug er ihn
+aufs Hüftgelenk. Jakobs Hüftgelenk renkte sich aus, als er mit ihm rang.
+
+<<v27>>
+27 Der Mann sagte: Lass mich los; denn die Morgenröte ist aufgestiegen.
+Jakob aber entgegnete: Ich lasse dich nicht los, wenn du mich nicht
+segnest.
+
+<<v28>>
+28 Jener fragte: Wie heißt du? Jakob, antwortete er.
+
+<<v29>>
+29 Da sprach der Mann: Nicht mehr Jakob wird man dich nennen, sondern
+Israel (Gottesstreiter); denn mit Gott und Menschen hast du gestritten
+und hast gewonnen.
+
+<<v30>>
+30 Nun fragte Jakob: Nenne mir doch deinen Namen! Jener entgegnete: Was
+fragst du mich nach meinem Namen? Dann segnete er ihn dort.
+
+<<v31>>
+31 Jakob gab dem Ort den Namen Penuël (Gottesgesicht) und sagte: Ich
+habe Gott von Angesicht zu Angesicht gesehen und bin doch mit dem Leben
+davongekommen.
+
+<<v32>>
+32 Die Sonne schien bereits auf ihn, als er durch Penuël zog; er hinkte
+an seiner Hüfte.
+
+<<v33>>
+33 Darum essen die Israeliten den Muskelstrang über dem Hüftgelenk nicht
+bis auf den heutigen Tag; denn er hat Jakob aufs Hüftgelenk, auf den
+Hüftmuskel geschlagen.\\
+\\
+
+
+* Footnotes
+
+[fn:1] 31,3 [[file:Gen_31.org::v3][Gen 31,3]]
+
+[fn:2] 32,10 [[file:Gen_32.org::v10][Gen 32,10]]; 22,17 [[file:Gen_22.org::v17][Gen 22,17]]; 28,14 [[file:Gen_28.org::v14][Gen 28,14]]
+
+[fn:3] 25-33: In dieser Erzählung sind drei alte Traditionen
+miteinander verwoben: 1. eine von der Umbenennung des Namens Jakob in
+Israel (vgl. 35,9f); 2. eine, die die Herkunft des Ortsnamens Penuël
+erklärt (Gottesgesicht); 3. eine, die den sonderbaren Brauch begründet,
+den Muskelstrang über dem Hüftgelenk der Tiere nicht zu essen. Der
+unbekannte «Mann» war vielleicht in der vorisraelitischen Form der
+Erzählung ein dämonisches Wesen; die israelitische Tradition erkennt in
+ihm Gott selbst oder zumindest ein himmlisches Wesen, einen Engel.

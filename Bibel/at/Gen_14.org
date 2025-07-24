@@ -1,0 +1,144 @@
+#+TITLE: Gen 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 14.html
+
+
+<<verses>>
+
+<<v1>>
+* Abraham und Melchisedek: 14,1-24
+
+1 Damals führten Amrafel, der König von Schinar, Arjoch, der König von
+Ellasar, Kedor-Laomer, der König von Elam, und Tidal, der König der
+Völker,
+
+<<v2>>
+2 Krieg gegen Bera, den König von Sodom, Birscha, den König von Gomorra,
+Schinab, den König von Adma, Schemeber, den König von Zebojim, und den
+König von Bela, das jetzt Zoar heißt.
+
+<<v3>>
+3 Sie alle zogen als Verbündete in das Siddimtal, das jetzt Salzmeer
+heißt.
+
+<<v4>>
+4 Zwölf Jahre waren sie Kedor-Laomer untertan gewesen, im dreizehnten
+Jahr fielen sie von ihm ab.
+
+<<v5>>
+5 Im vierzehnten Jahr kamen Kedor-Laomer und die mit ihm verbündeten
+Könige. Sie schlugen die Rafaïter in Aschterot-Karnajim, die Susiter in
+Ham, die Emiter in der Ebene von Kirjatajim
+
+<<v6>>
+6 und die Horiter in ihrem Gebirge Seïr bis nach El-Paran, das am Rande
+der Wüste liegt.
+
+<<v7>>
+7 Auf dem Rückweg kamen sie nach En-Mischpat, das jetzt Kadesch heißt,
+und verwüsteten das ganze Gebiet der Amalekiter sowie das der Amoriter,
+die in Hazezon-Tamar wohnten.
+
+<<v8>>
+8 Der König von Sodom, der König von Gomorra, der König von Adma, der
+König von Zebojim und der König von Bela, das jetzt Zoar heißt, zogen
+aus und stellten sich ihnen im Siddimtal zum Kampf,
+
+<<v9>>
+9 nämlich Kedor-Laomer, dem König von Elam, Tidal, dem König der Völker,
+Amrafel, dem König von Schinar, und Arjoch, dem König von Ellasar: vier
+Könige gegen fünf.
+
+<<v10>>
+10 Das Siddimtal war voller Erdpechgruben; die Könige von Sodom und
+Gomorra mussten fliehen und fielen dort hinein, die Übrigen flohen ins
+Gebirge.
+
+<<v11>>
+11 Die Feinde nahmen die ganze Habe von Sodom und Gomorra sowie alle
+ihre Vorräte mit und zogen ab.
+
+<<v12>>
+12 Als sie abzogen, nahmen sie auch Lot, den Neffen Abrams, und seine
+Habe mit; Lot wohnte damals in Sodom.
+
+<<v13>>
+13 Ein Flüchtling kam und berichtete es dem Hebräer Abram; Abram wohnte
+bei den Eichen des Amoriters Mamre, des Bruders Eschkols und Aners, die
+seine Bundesgenossen waren.
+
+<<v14>>
+14 Als Abram hörte, sein Bruder sei gefangen, musterte er seine
+ausgebildete Mannschaft, dreihundertachtzehn Mann, die alle in seinem
+Haus geboren waren, und nahm die Verfolgung auf bis nach Dan. [fn:1]
+
+<<v15>>
+15 In der Nacht verteilten sie sich, er und seine Knechte, um sie zu
+überfallen. Er schlug sie und verfolgte sie bis Hoba, nördlich von
+Damaskus.
+
+<<v16>>
+16 Er brachte die ganze Habe zurück, auch seinen Bruder Lot und dessen
+Besitz sowie die Frauen und die übrigen Leute.
+
+<<v17>>
+17 Als er nach dem Sieg über Kedor-Laomer und die mit ihm verbündeten
+Könige zurückkam, zog ihm der König von Sodom ins Schawetal entgegen,
+das jetzt Königstal heißt.
+
+<<v18>>
+18 Melchisedek, der König von Salem, brachte Brot und Wein heraus. Er
+war Priester des Höchsten Gottes. [fn:2] [fn:3]\\
+\\
+
+<<v19>>
+19 Er segnete Abram und sagte: Gesegnet sei Abram vom Höchsten Gott, /\\
+ dem Schöpfer des Himmels und der Erde,\\
+\\
+
+<<v20>>
+20 und gepriesen sei der Höchste Gott, /\\
+ der deine Feinde an dich ausgeliefert hat. Darauf gab ihm Abram den
+Zehnten von allem. [fn:4]\\
+\\
+
+<<v21>>
+21 Der König von Sodom sagte zu Abram: Gib mir die Leute zurück, die
+Habe behalte!
+
+<<v22>>
+22 Abram entgegnete dem König von Sodom: Ich erhebe meine Hand zum
+Herrn, dem Höchsten Gott, dem Schöpfer des Himmels und der Erde:
+
+<<v23>>
+23 Keinen Faden und keinen Schuhriemen, nichts von allem, was dir
+gehört, will ich behalten. Du sollst nicht behaupten können: Ich habe
+Abram reich gemacht.
+
+<<v24>>
+24 Nur was meine Leute verzehrt haben und was auf die Männer entfällt,
+die mit mir gezogen sind, auf Aner, Eschkol und Mamre, das sollen sie
+als ihren Anteil behalten.\\
+\\
+
+
+* Footnotes
+
+[fn:1] "Bruder" wird im Hebräischen auch für einen Verwandten
+(hier: den Neffen) gebraucht.
+
+[fn:2] Ps 110,4 [[file:Ps_110.org::v4][Ps 110,4]]; Hebr 5,6.10 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Hebr_5.org::v6][Hebr 5,6.10]]; 6,20 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Hebr_6.org::v20][Hebr 6,20]]; 7,1.10-17 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Hebr_7.org::v10][Hebr 7,1.10-17]]
+
+[fn:3] 18-20: In der Begegnung Abrahams mit Melchisedek zeigt
+sich, dass der «höchste Gott, der Schöpfer von Himmel und Erde», der in
+Jerusalem verehrt wird, derselbe ist wie der Gott Abrahams.
+
+[fn:4] Hebr 7,2.4.8f

@@ -1,0 +1,69 @@
+#+TITLE: Ps 110 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-17 Sa 23:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 110.html
+
+* Ps 110
+
+<<verses>>
+
+<<v1>>
+* Die Einsetzung des priesterlichen Königs auf dem Zion
+
+1 [Ein Psalm Davids.] So spricht der Herr zu meinem Herrn: /\\
+ Setze dich mir zur Rechten /\\
+ und ich lege dir deine Feinde als Schemel unter die Füße. [fn:1]\\
+\\
+
+<<v2>>
+2 Vom Zion strecke der Herr das Zepter deiner Macht aus: /\\
+ «Herrsche inmitten deiner Feinde!»\\
+\\
+
+<<v3>>
+3 Dein ist die Herrschaft am Tage deiner Macht /\\
+ (wenn du erscheinst) in heiligem Schmuck; ich habe dich gezeugt noch
+vor dem Morgenstern, /\\
+ wie den Tau in der Frühe. [fn:2] [fn:3]\\
+\\
+
+<<v4>>
+4 Der Herr hat geschworen und nie wird's ihn reuen: /\\
+ «Du bist Priester auf ewig nach der Ordnung Melchisedeks.» [fn:4]\\
+\\
+
+<<v5>>
+5 Der Herr steht dir zur Seite; /\\
+ er zerschmettert Könige am Tage seines Zornes. [fn:5]\\
+\\
+
+<<v6>>
+6 Er hält Gericht unter den Völkern, er häuft die Toten, /\\
+ die Häupter zerschmettert er weithin auf Erden.\\
+\\
+
+<<v7>>
+7 Er trinkt aus dem Bach am Weg; /\\
+ so kann er (von neuem) das Haupt erheben.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/Mt_22.org::v44][Mt 22,44]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_2.org::v34][Apg 2,34f]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_1.org::v13][Hebr 1,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_8.org::v1][8,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_10.org::v12][10,12f]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_12.org::v2][12,2]]
+
+[fn:2] [[file:Ps_2.org::v7][2,7]]
+
+[fn:3] H ist schwer verständlich; die Übersetzung ist ein
+Versuch nach G.
+
+[fn:4] [[file:Gen_14.org::v18][Gen 14,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_5.org::v6][Hebr 5,6]]
+
+[fn:5] (5-6) [[file:Ps_2.org::v9][2,9]]

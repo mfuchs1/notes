@@ -1,0 +1,214 @@
+#+TITLE: 2 Chr 29 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 29.html
+
+<<verses>>
+
+<<v1>>
+* Einleitung zur Geschichte Hiskijas: 29,1-2
+
+1 Hiskija war fünfundzwanzig Jahre alt, als er König wurde, und regierte
+neunundzwanzig Jahre in Jerusalem. Seine Mutter hieß Abi und war eine
+Tochter Secharjas. [fn:1]
+
+<<v2>>
+2 Genau wie sein Vater David tat er, was dem Herrn gefiel.\\
+\\
+
+<<v3>>
+* Die Wiederherstellung des Kultes: 29,3-36
+
+3 Im ersten Jahr seiner Regierung, im ersten Monat, öffnete er die Tore
+des Hauses des Herrn und setzte sie wieder instand. [fn:2]
+
+<<v4>>
+4 Darauf ließ er die Priester und die Leviten kommen, versammelte sie
+auf dem Platz im Osten
+
+<<v5>>
+5 und sagte zu ihnen: Leviten, hört mich an! Heiligt euch jetzt und
+heiligt das Haus des Herrn, des Gottes eurer Väter! Schafft alles
+Unreine aus dem Heiligtum!
+
+<<v6>>
+6 Unsere Väter haben treulos gehandelt und getan, was dem Herrn, unserem
+Gott, missfällt. Sie haben ihn verlassen und ihre Blicke von der
+Wohnstätte des Herrn abgewandt und ihr den Rücken gekehrt.
+
+<<v7>>
+7 Sogar die Tore der Vorhalle (des Tempels) haben sie geschlossen, die
+Lampen ausgelöscht, kein Rauchopfer angezündet und dem Gott Israels im
+Heiligtum kein Brandopfer dargebracht.
+
+<<v8>>
+8 Darum kam der Zorn des Herrn über Juda und Jerusalem. Er machte sie
+zum Schreckbild, zum Gegenstand des Entsetzens und zum Gespött, wie ihr
+es mit eigenen Augen seht.
+
+<<v9>>
+9 Deswegen sind unsere Väter unter dem Schwert gefallen und sind unsere
+Söhne, Töchter und Frauen in Gefangenschaft.
+
+<<v10>>
+10 Ich habe nun vor, einen Bund mit dem Herrn, dem Gott Israels, zu
+schließen, damit sein glühender Zorn von uns ablässt.
+
+<<v11>>
+11 Meine Söhne, seid jetzt nicht nachlässig! Euch hat ja der Herr dazu
+erwählt, dass ihr vor ihm steht und ihm dient. Ihr sollt seine Diener
+sein und ihm Opfer darbringen.
+
+<<v12>>
+12 Da standen folgende Leviten auf: Mahat, der Sohn Amasais, und Joël,
+der Sohn Asarjas, von den Nachkommen der Kehatiter; Kisch, der Sohn
+Abdis, und Asarja, der Sohn Jehallelels, von den Nachkommen Meraris;
+Joach, der Sohn Simmas, und Eden, der Sohn Joachs, von den
+Gerschonitern;
+
+<<v13>>
+13 Schimri und Jëiël von den Nachkommen Elizafans; Secharja und Mattanja
+von den Nachkommen Asafs;
+
+<<v14>>
+14 Jehiël und Schimi von den Nachkommen Hemans; Schemaja und Usiël von
+den Nachkommen Jedutuns.
+
+<<v15>>
+15 Sie versammelten ihre Stammesbrüder und heiligten sich. Dann gingen
+sie auf Befehl des Königs, der sich auf die Worte des Herrn stützte,
+daran, das Haus des Herrn zu reinigen.
+
+<<v16>>
+16 Die Priester betraten das Innere des Hauses des Herrn, um es zu
+reinigen. Sie schafften alles Unreine, das sie im Tempel des Herrn
+fanden, in den Hof des Hauses des Herrn. Dort übernahmen es die Leviten
+und trugen es in das Kidrontal hinaus.
+
+<<v17>>
+17 Am ersten Tag des ersten Monats begannen sie mit der Reinigung; am
+achten Tag des Monats kamen sie zur Vorhalle des Herrn; dann heiligten
+sie das Haus des Herrn innerhalb von acht Tagen. Am sechzehnten Tag des
+ersten Monats hatten sie die Arbeit vollendet.
+
+<<v18>>
+18 Darauf gingen sie zum König Hiskija hinein und meldeten: Wir haben
+das ganze Haus des Herrn gesäubert. Den Brandopferaltar mit all seinen
+Geräten, den Tisch für die Schaubrote mit all seinen Geräten,
+
+<<v19>>
+19 alle Geräte, die König Ahas während seiner Regierung durch seine
+Treulosigkeit entweiht hat, haben wir instand gesetzt und geheiligt. Sie
+stehen nun vor dem Altar des Herrn.
+
+<<v20>>
+20 Am nächsten Morgen versammelte König Hiskija die führenden Männer der
+Stadt und ging mit ihnen in das Haus des Herrn hinauf.
+
+<<v21>>
+21 Man führte sieben Stiere, sieben Widder, sieben Lämmer und sieben
+Ziegenböcke als Sündopfer für das Königshaus, für das Heiligtum und für
+Juda herbei und der König befahl den Priestern, den Nachkommen Aarons,
+sie auf dem Altar des Herrn darzubringen.
+
+<<v22>>
+22 Man schlachtete die Rinder; die Priester fingen das Blut auf und
+sprengten es an den Altar. Dann schlachteten sie die Widder und
+sprengten das Blut an den Altar. Dann schlachteten sie die Lämmer und
+sprengten das Blut an den Altar.
+
+<<v23>>
+23 Zuletzt brachte man die Böcke für das Sündopfer vor den König und die
+Versammlung, damit sie die Hände auf sie legten.
+
+<<v24>>
+24 Dann schlachteten die Priester die Böcke und sprengten das Blut als
+Sündopfer an den Altar, um für ganz Israel Sühne zu erwirken; denn der
+König hatte das Brandopfer und das Sündopfer für ganz Israel bestimmt.
+
+<<v25>>
+25 Er stellte die Leviten mit Zimbeln, Harfen und Zithern im Haus des
+Herrn auf, wie es der Anordnung Davids, des königlichen Sehers Gad und
+des Propheten Natan entsprach. Diese Weisungen waren vom Herrn durch
+seine Propheten ergangen. [fn:3]
+
+<<v26>>
+26 Die Leviten traten mit den Instrumenten Davids und die Priester mit
+ihren Trompeten an.
+
+<<v27>>
+27 Dann ließ Hiskija das Brandopfer auf dem Altar darbringen. Als das
+Opfer begann, setzten gleichzeitig auch der Gesang zur Ehre des Herrn
+und die Trompeten ein, begleitet von den Instrumenten Davids, des Königs
+von Israel.
+
+<<v28>>
+28 Die ganze Versammlung warf sich nieder, während der Gesang ertönte
+und die Trompeten schmetterten. Dies alles dauerte bis zum Abschluss des
+Opfers.
+
+<<v29>>
+29 Nach der Darbringung des Brandopfers verneigten sich der König und
+alle, die sich bei ihm eingefunden hatten, und warfen sich nieder.
+
+<<v30>>
+30 König Hiskija und die führenden Männer befahlen den Leviten, den
+Herrn mit den Worten Davids und des Sehers Asaf zu preisen. Diese sangen
+den Lobpreis mit Freuden, verneigten sich und warfen sich nieder.
+
+<<v31>>
+31 Hierauf nahm Hiskija das Wort und sagte: Ihr steht jetzt mit vollen
+Händen vor dem Herrn. Tretet heran und bringt Schlacht- und Dankopfer
+zum Haus des Herrn! Da brachte die Versammlung Schlachtund Dankopfer
+herbei; manche gaben freiwillig noch Brandopfer hinzu. [fn:4]
+
+<<v32>>
+32 Die Anzahl der Brandopfer, die die Versammlung spendete, betrug
+siebzig Rinder, hundert Widder und zweihundert Lämmer. Sie wurden alle
+als Brandopfer dem Herrn dargebracht.
+
+<<v33>>
+33 Die Weihegaben beliefen sich auf sechshundert Rinder und dreitausend
+Schafe. [fn:5]
+
+<<v34>>
+34 Es waren aber zu wenig Priester vorhanden, um alle Brandopfer
+enthäuten zu können. Daher halfen ihnen ihre Amtsbrüder, die Leviten,
+bis die Arbeit geschehen war und die Priester sich geheiligt hatten;
+denn die Leviten hatten sich eifriger um ihre Heiligung bemüht als die
+Priester. [fn:6]
+
+<<v35>>
+35 Es war aber auch die Anzahl der Brandopfer sehr groß, die neben den
+Fettstücken der Heilsopfer und den zum Brandopfer gehörenden Trankopfern
+dargebracht werden mussten. So wurde der Dienst im Haus des Herrn
+wiederhergestellt.
+
+<<v36>>
+36 Hiskija und das ganze Volk freuten sich, dass Gott dies dem Volk
+gewährt hatte; denn es war wider Erwarten schnell geschehen.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-2) [[file:2.Kön_18.org::v1][2 Kön 18,1]]-[[file:2.Kön_18.org::v3][3]]
+
+[fn:2] (3-36) [[file:2.Kön_18.org::v4][2 Kön 18,4]]-[[file:2.Kön_18.org::v8][8]]
+
+[fn:3] [[file:1.Chr_16.org::v4][1 Chr 16,4]]-[[file:1.Chr_16.org::v6][6]]
+
+[fn:4] Wörtlich: Ihr habt jetzt eure Hand für den Herrn gefüllt.
+
+[fn:5] Die Menge der Tiere benötigte man zum Opfermahl, das mit
+der Einweihungsfeier verbunden war.
+
+[fn:6] Die Priester und Leviten mussten vor der Ausübung ihres
+Dienstes «sich heiligen», d.h. verschiedene Reinigungsriten auf sich
+nehmen.

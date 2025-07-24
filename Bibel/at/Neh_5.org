@@ -1,0 +1,136 @@
+#+TITLE: Neh 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 23:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Neh 5.html
+
+<<verses>>
+
+<<v1>>
+* Unfriede in den eigenen Reihen: 5,1-13
+
+1 Die Männer des einfachen Volkes und ihre Frauen erhoben aber laute
+Klage gegen ihre jüdischen Stammesbrüder. [fn:1]
+
+<<v2>>
+2 Die einen sagten: Wir müssen unsere Söhne und Töchter verpfänden, um
+Getreide zu bekommen, damit wir zu essen haben und leben können. [fn:2]
+
+<<v3>>
+3 Andere sagten: Wir müssen unsere Felder, Weinberge und Häuser
+verpfänden, um in der Hungerzeit Getreide zu bekommen.
+
+<<v4>>
+4 Wieder andere sagten: Auf unsere Felder und Weinberge mussten wir Geld
+aufnehmen für die Steuern des Königs.
+
+<<v5>>
+5 Wir sind doch vom selben Fleisch wie unsere Stammesbrüder; unsere
+Kinder sind ihren Kindern gleich und doch müssen wir unsere Söhne und
+Töchter zu Sklaven erniedrigen. Einige von unseren Töchtern sind schon
+erniedrigt worden. Wir sind machtlos und unsere Felder und Weinberge
+gehören anderen. [fn:3]
+
+<<v6>>
+6 Als ich ihre Klage und diese Worte hörte, wurde ich sehr zornig.
+
+<<v7>>
+7 Ich überlegte mir die Sache; dann stellte ich die Vornehmen und die
+Beamten zur Rede und sagte zu ihnen: Die eigenen Stammesbrüder bedrückt
+ihr mit Schuldforderungen. Und ich berief ihretwegen eine große
+Versammlung ein
+
+<<v8>>
+8 und sagte zu ihnen: Wir haben von unseren jüdischen Stammesbrüdern,
+die an andere Völker verkauft worden waren, so viele wie möglich
+losgekauft. Ihr aber, ihr wollt eure eigenen Stammesbrüder verkaufen,
+damit sie dann wieder an uns verkauft werden. Da schwiegen sie und
+wussten nichts zu erwidern. [fn:4]
+
+<<v9>>
+9 Darauf sagte ich: Was ihr tut, ist nicht recht. Wollt ihr nicht das
+Gebot unseres Gottes gewissenhaft einhalten, um so dem Hohn der uns
+feindlichen Völker zu entgehen? [fn:5]
+
+<<v10>>
+10 Auch ich und meine Brüder und meine Leute haben Stammesbrüdern Geld
+und Getreide geliehen. Erlassen wir ihnen doch diese Schuldforderungen.
+
+<<v11>>
+11 Gebt ihnen unverzüglich ihre Äcker und Weinberge, ihre Ölgärten und
+Häuser zurück und erlasst ihnen die Schuld an Geld und Getreide, Wein
+und Öl, die sie bei euch haben. [fn:6]
+
+<<v12>>
+12 Da erklärten sie: Wir wollen alles zurückgeben und nichts mehr von
+ihnen fordern. Wir wollen tun, was du gesagt hast. Darauf rief ich die
+Priester herbei und ließ die Leute schwören, dass sie ihre Zusage halten
+würden.
+
+<<v13>>
+13 Dann schüttelte ich den Bausch meines Gewandes aus und sagte: Genauso
+schüttle Gott jeden, der diese Zusage nicht hält, aus seinem Haus und
+seinem Eigentum; er sei ebenso ausgeschüttelt und leer. Die ganze
+Versammlung antwortete: Amen, so sei es!, und pries den Herrn und das
+Volk erfüllte die Zusage. [fn:7]\\
+\\
+
+<<v14>>
+* Nehemia als Statthalter: 5,14-19
+
+14 Außerdem verzichtete ich mit meinen Brüdern auf den Unterhalt, den
+ich als Statthalter hätte beanspruchen können, und zwar von dem Tag an,
+an dem mich der König zum Statthalter in Juda bestellt hatte, vom
+zwanzigsten bis zum zweiunddreißigsten Jahr des Artaxerxes, also zwölf
+Jahre lang.
+
+<<v15>>
+15 Die Statthalter, die mir vorangingen, hatten das Volk schwer
+belastet; sie hatten von ihm täglich vierzig Silberschekel für ihren
+Unterhalt erhoben; auch ihre Leute hatten das Volk unterdrückt. Ich
+hingegen tat das aus Gottesfurcht nicht.
+
+<<v16>>
+16 Auch beim Bau der Mauer habe ich selbst Hand angelegt. Wir haben kein
+Feld gekauft. Alle meine Leute halfen dort gemeinsam bei der Bauarbeit.
+
+<<v17>>
+17 An meinem Tisch speisten die führenden Juden und die Beamten,
+hundertfünfzig an der Zahl, sowie die, die von den Völkern ringsumher zu
+uns kamen.
+
+<<v18>>
+18 Täglich wurden ein Ochse, sechs auserlesene Schafe und auch Geflügel
+zubereitet und all das ging auf meine Kosten. Dazu kam alle zehn Tage
+eine Menge von verschiedenen Weinen. Trotzdem habe ich den Unterhalt
+eines Statthalters nicht eingefordert, denn der Frondienst lag schon
+schwer genug auf diesem Volk.
+
+<<v19>>
+19 Denk daran, mein Gott, und lass mir all das zugute kommen, was ich
+für dieses Volk getan habe. [fn:8]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Jer_34.org::v8][Jer 34,8]]-[[file:Jer_34.org::v16][16]]
+
+[fn:2] [[file:2.Kön_4.org::v1][2 Kön 4,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_18.org::v25][Mt 18,25]]
+
+[fn:3] [[file:Lev_25.org::v39][Lev 25,39]].[[file:Lev_25.org::v43][43]]
+
+[fn:4] [[file:Lev_25.org::v47][Lev 25,47f]]
+
+[fn:5] [[file:Lev_25.org::v35][Lev 25,35]]-[[file:Lev_25.org::v37][37]]
+
+[fn:6] [[file:Dtn_15.org::v1][Dtn 15,1f]]
+
+[fn:7] Im Gewandbausch trug man Feldfrüchte (vgl. [[file:Ps_129.org::v7][Ps 129,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_6.org::v38][Lk 6,38)]].
+
+[fn:8] [[file:Neh_6.org::v14][6,14]]; [[file:Neh_13.org::v14][13,14]].[[file:Neh_13.org::v31][31]]; [[file:Ps_132.org::v1][Ps 132,1]]

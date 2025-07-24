@@ -1,0 +1,208 @@
+#+TITLE: Gen 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 19.html
+
+
+<<verses>>
+
+<<v1>>
+* Das Gericht über Sodom und die Rettung Lots: 19,1-29
+
+1 Die beiden Engel kamen am Abend nach Sodom. Lot saß im Stadttor von
+Sodom. Als er sie sah, erhob er sich, trat auf sie zu, warf sich mit dem
+Gesicht zur Erde nieder
+
+<<v2>>
+2 und sagte: Meine Herren, kehrt doch im Haus eures Knechtes ein, bleibt
+über Nacht und wascht euch die Füße! Am Morgen könnt ihr euren Weg
+fortsetzen. Nein, sagten sie, wir wollen im Freien übernachten.
+
+<<v3>>
+3 Er redete ihnen aber so lange zu, bis sie mitgingen und bei ihm
+einkehrten. Er bereitete ihnen ein Mahl, ließ ungesäuerte Brote backen
+und sie aßen.
+
+<<v4>>
+4 Sie waren noch nicht schlafen gegangen, da umstellten die Einwohner
+der Stadt das Haus, die Männer von Sodom, Jung und Alt, alles Volk von
+weit und breit.
+
+<<v5>>
+5 Sie riefen nach Lot und fragten ihn: Wo sind die Männer, die heute
+Abend zu dir gekommen sind? Heraus mit ihnen, wir wollen mit ihnen
+verkehren.
+
+<<v6>>
+6 Da ging Lot zu ihnen hinaus vor die Tür, schloss sie hinter sich zu
+
+<<v7>>
+7 und sagte: Aber meine Brüder, begeht doch nicht ein solches
+Verbrechen!
+
+<<v8>>
+8 Seht, ich habe zwei Töchter, die noch keinen Mann erkannt haben. Ich
+will sie euch herausbringen. Dann tut mit ihnen, was euch gefällt. Nur
+jenen Männern tut nichts an; denn deshalb sind sie ja unter den Schutz
+meines Daches getreten. [fn:1]
+
+<<v9>>
+9 Sie aber schrien: Mach dich fort!, und sagten: Kommt da so ein
+einzelner Fremder daher und will sich als Richter aufspielen! Nun wollen
+wir es mit dir noch schlimmer treiben als mit ihnen. Sie setzten dem
+Mann, nämlich Lot, arg zu und waren schon dabei, die Tür aufzubrechen.
+
+<<v10>>
+10 Da streckten jene Männer die Hand aus, zogen Lot zu sich ins Haus und
+sperrten die Tür zu.
+
+<<v11>>
+11 Dann schlugen sie die Leute draußen vor dem Haus, Groß und Klein, mit
+Blindheit, sodass sie sich vergebens bemühten, den Eingang zu finden.
+
+<<v12>>
+12 Die Männer sagten dann zu Lot: Hast du hier noch einen Schwiegersohn,
+Söhne, Töchter oder sonst jemand in der Stadt? Bring sie weg von diesem
+Ort!
+
+<<v13>>
+13 Wir wollen nämlich diesen Ort vernichten; denn schwer ist die Klage,
+die über die Leute zum Herrn gedrungen ist. Der Herr hat uns geschickt,
+die Stadt zu vernichten.
+
+<<v14>>
+14 Da ging Lot hinaus, redete auf seine Schwiegersöhne ein, die seine
+Töchter heiraten wollten, und sagte: Macht euch auf und verlasst diesen
+Ort; denn der Herr will die Stadt vernichten. Aber seine Schwiegersöhne
+meinten, er mache nur Spaß.
+
+<<v15>>
+15 Als die Morgenröte aufstieg, drängten die Engel Lot zur Eile: Auf,
+nimm deine Frau und deine beiden Töchter, die hier sind, damit du nicht
+wegen der Schuld der Stadt hinweggerafft wirst.
+
+<<v16>>
+16 Da er noch zögerte, fassten die Männer ihn, seine Frau und seine
+beiden Töchter an der Hand, weil der Herr mit ihm Mitleid hatte, führten
+ihn hinaus und ließen ihn erst draußen vor der Stadt los.
+
+<<v17>>
+17 Während er sie hinaus ins Freie führte, sagte er: Bring dich in
+Sicherheit, es geht um dein Leben. Sieh dich nicht um und bleib in der
+ganzen Gegend nicht stehen! Rette dich ins Gebirge, sonst wirst du auch
+weggerafft. [fn:2]
+
+<<v18>>
+18 Lot aber sagte zu ihnen: Nein, mein Herr,
+
+<<v19>>
+19 dein Knecht hat doch dein Wohlwollen gefunden. Du hast mir große
+Gunst erwiesen und mich am Leben gelassen. Ich kann aber nicht ins
+Gebirge fliehen, sonst lässt mich das Unglück nicht mehr los und ich
+muss sterben.
+
+<<v20>>
+20 Da, die Stadt in der Nähe, dorthin könnte man fliehen. Sie ist doch
+klein; dorthin will ich mich retten. Ist sie nicht klein? So könnte ich
+am Leben bleiben.
+
+<<v21>>
+21 Er antwortete ihm: Gut, auch das will ich dir gewähren und die Stadt,
+von der du sprichst, nicht zerstören.
+
+<<v22>>
+22 Schnell flieh dorthin; denn ich kann nichts unternehmen, bevor du
+dort angekommen bist. Deshalb nannte er die Stadt Zoar (Kleine).
+
+<<v23>>
+23 Als die Sonne über dem Land aufgegangen und Lot in Zoar angekommen
+war,
+
+<<v24>>
+24 ließ der Herr auf Sodom und Gomorra Schwefel und Feuer regnen, vom
+Herrn, vom Himmel herab.
+
+<<v25>>
+25 Er vernichtete von Grund auf jene Städte und die ganze Gegend, auch
+alle Einwohner der Städte und alles, was auf den Feldern wuchs.
+
+<<v26>>
+26 Als Lots Frau zurückblickte, wurde sie zu einer Salzsäule.
+
+<<v27>>
+27 Am frühen Morgen begab sich Abraham an den Ort, an dem er dem Herrn
+gegenübergestanden hatte.
+
+<<v28>>
+28 Er schaute gegen Sodom und Gomorra und auf das ganze Gebiet im
+Umkreis und sah: Qualm stieg von der Erde auf wie der Qualm aus einem
+Schmelzofen.
+
+<<v29>>
+29 Als Gott die Städte der Gegend vernichtete, dachte er an Abraham und
+ließ Lot mitten aus der Zerstörung fortgeleiten, während er die Städte,
+in denen Lot gewohnt hatte, von Grund auf zerstörte.\\
+\\
+
+<<v30>>
+* Die Stammväter der Moabiter und Ammoniter: 19,30-38
+
+30 Lot zog von Zoar weiter hinauf und ließ sich mit seinen beiden
+Töchtern im Gebirge nieder. Er fürchtete sich nämlich, in Zoar zu
+bleiben, und wollte lieber mit seinen beiden Töchtern in einer Höhle
+wohnen.
+
+<<v31>>
+31 Eines Tages sagte die Ältere zur Jüngeren: Unser Vater wird alt und
+einen Mann, der mit uns verkehrt, wie es in aller Welt üblich ist, gibt
+es nicht.
+
+<<v32>>
+32 Komm, geben wir unserem Vater Wein zu trinken und legen wir uns zu
+ihm, damit wir von unserem Vater Kinder bekommen.
+
+<<v33>>
+33 Sie gaben also ihrem Vater am Abend Wein zu trinken; dann kam die
+Ältere und legte sich zu ihrem Vater. Er merkte nicht, wie sie sich
+hinlegte und wie sie aufstand.
+
+<<v34>>
+34 Am anderen Tag sagte die Ältere zur Jüngeren: Ich habe gestern bei
+meinem Vater gelegen. Geben wir ihm auch heute Abend Wein zu trinken,
+dann geh und leg du dich zu ihm. So werden wir von unserem Vater Kinder
+bekommen.
+
+<<v35>>
+35 Sie gaben ihrem Vater also auch an jenem Abend Wein zu trinken; dann
+legte sich die Jüngere zu ihm. Er merkte nicht, wie sie sich hinlegte
+und wie sie aufstand.
+
+<<v36>>
+36 Beide Töchter Lots wurden von ihrem Vater schwanger.
+
+<<v37>>
+37 Die Ältere gebar einen Sohn und nannte ihn Moab. Er gilt als
+Stammvater der Moabiter bis heute.
+
+<<v38>>
+38 Auch die Jüngere gebar einen Sohn und nannte ihn Ben-Ammi. Er gilt
+als Stammvater der Ammoniter bis heute.\\
+\\
+
+
+* Footnotes
+
+[fn:1] Das Gastrecht ist im Alten Orient so heilig, dass Lot
+notgedrungen lieber die Preisgabe seiner Töchter wählt, als dass er
+seine Gäste preisgibt (vgl. Ri 19,24f [[file:Ri_19.org::v24][Ri 19,24f]]).
+
+[fn:2] Wechsel von Einzahl und Mehrzahl, weil hier zwei
+Erzählungen miteinander verzahnt sind: eine, die von Gott allein, eine
+andere, die von drei übermenschlichen Wesen sprach.

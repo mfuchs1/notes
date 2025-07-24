@@ -1,0 +1,156 @@
+#+TITLE: Ri 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 16:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 4.html
+
+<<verses>>
+
+<<v1>>
+* Debora und Barak: 4,1 - 5,31
+
+* Der Sieg über Sisera: 4,1-16
+
+1 Als Ehud gestorben war, taten die Israeliten wieder, was dem Herrn
+missfiel.
+
+<<v2>>
+2 Darum lieferte sie der Herr der Gewalt Jabins, des Königs von Kanaan,
+aus, der in Hazor herrschte. Sein Heerführer war Sisera, der in
+Haroschet-Gojim wohnte. [fn:1]
+
+<<v3>>
+3 Da schrien die Israeliten zum Herrn, denn Sisera besaß neunhundert
+eiserne Kampfwagen und hatte die Israeliten zwanzig Jahre lang grausam
+unterdrückt.
+
+<<v4>>
+4 Damals war Debora, eine Prophetin, die Frau des Lappidot, Richterin in
+Israel.
+
+<<v5>>
+5 Sie hatte ihren Sitz unter der Debora-Palme zwischen Rama und Bet-El
+im Gebirge Efraim und die Israeliten kamen zu ihr hinauf, um sich Recht
+sprechen zu lassen. [fn:2]
+
+<<v6>>
+6 Sie schickte Boten zu Barak, dem Sohn Abinoams aus Kedesch-Naftali,
+ließ ihn rufen und sagte zu ihm: Der Herr, der Gott Israels, befiehlt:
+Geh hin, zieh auf den Berg Tabor und nimm zehntausend Naftaliter und
+Sebuloniter mit dir!
+
+<<v7>>
+7 Ich aber werde Sisera, den Heerführer Jabins, mit seinen Wagen und
+seiner Streitmacht zu dir an den Bach Kischon lenken und ihn in deine
+Hand geben.
+
+<<v8>>
+8 Barak sagte zu ihr: Wenn du mit mir gehst, werde ich gehen; wenn du
+aber nicht mit mir gehst, werde ich nicht gehen.
+
+<<v9>>
+9 Sie sagte: Ja, ich gehe mit dir; aber der Ruhm bei dem Unternehmen, zu
+dem du ausziehst, wird dann nicht dir zuteil; denn der Herr wird Sisera
+der Hand einer Frau ausliefern. Und Debora machte sich auf und ging
+zusammen mit Barak nach Kedesch.
+
+<<v10>>
+10 Barak rief Sebulon und Naftali in Kedesch zusammen und zehntausend
+Mann folgten ihm (auf den Tabor) hinauf. Auch Debora ging mit ihm.
+
+<<v11>>
+11 Der Keniter Heber aber, der sich von Kain, von den Söhnen Hobabs, des
+Schwiegervaters des Mose, getrennt hatte, hatte sein Zelt an der Eiche
+von Zaanannim bei Kedesch aufgeschlagen. [fn:3]
+
+<<v12>>
+12 Als man nun Sisera meldete, dass Barak, der Sohn Abinoams, auf den
+Berg Tabor gezogen sei,
+
+<<v13>>
+13 beorderte Sisera alle seine Wagen - neunhundert eiserne Kampfwagen
+und das ganze Kriegsvolk, das er bei sich hatte, von Haroschet-Gojim an
+den Bach Kischon. [fn:4]
+
+<<v14>>
+14 Da sagte Debora zu Barak: Auf! Denn das ist der Tag, an dem der Herr
+den Sisera in deine Gewalt gegeben hat. Ja, der Herr zieht selbst vor
+dir her. Barak zog also vom Berg Tabor herab und die zehntausend Mann
+folgten ihm.
+
+<<v15>>
+15 Und der Herr brachte Sisera, alle seine Wagen und seine ganze
+Streitmacht [mit scharfem Schwert] vor den Augen Baraks in große
+Verwirrung. Sisera sprang vom Wagen und floh zu Fuß. [fn:5] [fn:6]
+
+<<v16>>
+16 Barak verfolgte die Wagen und das Heer bis nach Haroschet-Gojim. Das
+ganze Heer Siseras fiel unter dem scharfen Schwert; nicht ein einziger
+Mann blieb übrig.\\
+\\
+
+<<v17>>
+* Siseras Tod: 4,17-24
+
+17 Sisera war zu Fuß zum Zelt der Jaël, der Frau des Keniters Heber,
+geflohen; denn zwischen Jabin, dem König von Hazor, und der Familie des
+Keniters Heber herrschte Frieden.
+
+<<v18>>
+18 Jaël ging Sisera entgegen und sagte zu ihm: Kehr ein, Herr, kehr ein
+bei mir, hab keine Angst! Da begab er sich zu ihr ins Zelt und sie
+deckte ihn mit einem Teppich zu.
+
+<<v19>>
+19 Er sagte zu ihr: Gib mir doch etwas Wasser zu trinken, ich habe
+Durst. Sie öffnete einen Schlauch mit Milch und gab ihm zu trinken; dann
+deckte sie ihn wieder zu. [fn:7]
+
+<<v20>>
+20 Er sagte zu ihr: Stell dich an den Zelteingang, und wenn einer kommt
+und dich fragt: Ist jemand hier?, dann antworte: Nein.
+
+<<v21>>
+21 Doch Jaël, die Frau Hebers, holte einen Zeltpflock, nahm einen Hammer
+in die Hand, ging leise zu Sisera hin und schlug ihm den Zeltpflock
+durch die Schläfe, sodass er noch in den Boden drang. So fand Sisera,
+der vor Erschöpfung eingeschlafen war, den Tod.
+
+<<v22>>
+22 Da erschien gerade Barak, der Sisera verfolgte. Jaël ging ihm
+entgegen und sagte: Komm, ich zeige dir den Mann, den du suchst. Er ging
+mit ihr hinein; da sah er Sisera tot am Boden liegen, mit dem Pflock in
+seiner Schläfe.
+
+<<v23>>
+23 So demütigte Gott an diesem Tag Jabin, den König von Kanaan, vor den
+Israeliten
+
+<<v24>>
+24 und die Faust der Israeliten lag immer schwerer auf Jabin, dem König
+von Kanaan, bis sie Jabin, den König von Kanaan, ganz vernichtet
+hatten.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Jos_11.org::v1][Jos 11,1]]
+
+[fn:2] [[file:Gen_35.org::v8][Gen 35,8]]
+
+[fn:3] [[file:Ri_1.org::v16][1,16]]
+
+[fn:4] Der Bach Kischon durchfließt den Westteil der
+Jesreelebene.
+
+[fn:5] [[file:Ri_5.org::v20][5,20]]; [[file:Ex_23.org::v27][Ex 23,27]]; [[file:Jos_10.org::v10][Jos 10,10]]; [[file:1.Sam_7.org::v10][1 Sam 7,10]]
+
+[fn:6] Zusatz aus V. 16.
+
+[fn:7] [[file:Ri_5.org::v25][5,25]]

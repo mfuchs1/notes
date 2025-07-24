@@ -1,0 +1,285 @@
+#+TITLE: Ri 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-05 So 16:35]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 20.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Beratung in Mizpa: 20,1-10
+
+1 Alle Israeliten von Dan bis Beerscheba und auch die Bewohner von
+Gilead kamen herbei und die Gemeinde versammelte sich einmütig beim
+Herrn in Mizpa. [fn:1] [fn:2]
+
+<<v2>>
+2 Die Häupter des ganzen Volkes, alle Stämme Israels, traten zu einer
+Versammlung des Volkes Gottes zusammen, vierhunderttausend Mann zu Fuß,
+mit Schwertern bewaffnet.
+
+<<v3>>
+3 Die Benjaminiter erfuhren, dass die Israeliten nach Mizpa
+hinaufgezogen waren. Die Israeliten sagten: Berichtet, wie dieses
+Verbrechen geschehen ist.
+
+<<v4>>
+4 Der Levit, der Mann der ermordeten Frau, antwortete: Ich bin mit
+meiner Nebenfrau nach Gibea, das in Benjamin liegt, gekommen, um zu
+übernachten.
+
+<<v5>>
+5 Da rotteten sich die Bürger von Gibea gegen mich zusammen und
+umringten nachts in feindlicher Absicht das Haus. Sie wollten mich
+umbringen und meine Nebenfrau vergewaltigten sie, sodass sie gestorben
+ist.
+
+<<v6>>
+6 Da nahm ich den Leichnam meiner Nebenfrau, schnitt ihn in Stücke und
+schickte sie in alle Gebiete des Erbbesitzes der Israeliten; denn sie
+hatten mitten in Israel ein schändliches Verbrechen begangen.
+
+<<v7>>
+7 Nun seid ihr alle hier, ihr Israeliten; also besprecht euch
+miteinander und beratet hier (was zu tun ist)!
+
+<<v8>>
+8 Da erhob sich das ganze Volk wie ein Mann und sagte: Keiner von uns
+darf in sein Zelt gehen und keiner von uns darf in sein Haus
+zurückkehren.
+
+<<v9>>
+9 Wir wollen Folgendes mit Gibea machen: Wir wollen gegen die Stadt (in
+den Kampf) ziehen. [fn:3]
+
+<<v10>>
+10 Und zwar wählen wir aus allen Stämmen Israels jeweils zehn Männer von
+hundert und hundert von tausend und tausend von zehntausend durch das
+Los aus. Sie sollen Verpflegung für die Leute holen, die gekommen sind,
+um mit Gibea in Benjamin zu machen, was es nach der Schandtat verdient,
+die es mitten in Israel begangen hat.\\
+\\
+
+<<v11>>
+* Der Aufmarsch vor Gibea: 20,11-18
+
+11 So versammelten sich alle Israeliten, geschlossen wie ein Mann, bei
+der Stadt.
+
+<<v12>>
+12 Und die Stämme Israels schickten Boten durch das ganze Gebiet des
+Stammes Benjamin und ließen sagen: Was ist das für eine üble Tat, die
+bei euch geschehen ist? [fn:4]
+
+<<v13>>
+13 Gebt uns also das üble Gesindel von Gibea heraus, wir wollen es töten
+und wollen das Böse in Israel austilgen. Doch die Benjaminiter wollten
+nicht auf die Stimme ihrer Brüder, der Israeliten, hören.
+
+<<v14>>
+14 Sie kamen vielmehr aus ihren Städten bei Gibea zusammen, um gegen die
+Israeliten in den Kampf zu ziehen.
+
+<<v15>>
+15 Als man an jenem Tag die Benjaminiter aus den Städten musterte,
+zählte man sechsundzwanzigtausend mit Schwertern bewaffnete Männer, ohne
+die Einwohner von Gibea. [Siebenhundert auserlesene Männer wurden
+gemustert.]
+
+<<v16>>
+16 Unter diesen Männern befanden sich siebenhundert besonders
+auserlesene Männer; sie waren alle Linkshänder und konnten einen Stein
+haargenau schleudern, ohne je das Ziel zu verfehlen.
+
+<<v17>>
+17 Auch die Männer Israels ließen sich mustern. Es waren ohne die
+Benjaminiter vierhunderttausend mit dem Schwert bewaffnete Männer, alles
+tüchtige Krieger.
+
+<<v18>>
+18 Sie brachen auf, zogen nach Bet-El hinauf und befragten Gott. Die
+Israeliten sagten: Wer von uns soll zuerst gegen die Benjaminiter in den
+Kampf ziehen? Der Herr antwortete: Zuerst Juda.\\
+\\
+
+<<v19>>
+* Die Niederlage der Israeliten: 20,19-28
+
+19 Die Israeliten brachen am Morgen auf und bezogen ihr Lager gegenüber
+Gibea.
+
+<<v20>>
+20 Dann rückten die Israeliten zum Kampf gegen die Benjaminiter aus und
+stellten sich ihnen gegenüber vor Gibea zum Kampf auf.
+
+<<v21>>
+21 Die Benjaminiter rückten von Gibea aus und streckten an diesem Tag
+zweiundzwanzigtausend Israeliten zu Boden.
+
+<<v22>>
+22 Doch die Männer Israels fassten wieder Mut und stellten sich noch
+einmal zum Kampf auf, am gleichen Ort, wo sie sich am ersten Tag
+aufgestellt hatten.
+
+<<v23>>
+23 Die Israeliten waren nämlich (inzwischen nach Bet-El) hinaufgezogen,
+hatten bis zum Abend vor dem Herrn geweint und ihn gefragt: Sollen wir
+noch einmal zum Kampf gegen unseren Bruder Benjamin antreten? Der Herr
+hatte geantwortet: Zieht hinauf gegen ihn!
+
+<<v24>>
+24 Als nun die Israeliten am zweiten Tag gegen die Benjaminiter
+vorrückten,
+
+<<v25>>
+25 zogen ihnen die Benjaminiter wiederum von Gibea aus entgegen und
+streckten noch einmal achtzehntausend Männer aus Israel zu Boden, die
+alle mit Schwertern bewaffnet waren.
+
+<<v26>>
+26 Darauf zogen alle Israeliten, das ganze Volk, hinauf nach Bet-El.
+Dort saßen sie klagend vor dem Herrn; sie fasteten an jenem Tag bis zum
+Abend und brachten dem Herrn Brandopfer und Heilsopfer dar.
+
+<<v27>>
+27 Dann befragten die Israeliten wieder den Herrn. In Bet-El stand
+nämlich in jenen Tagen die Bundeslade Gottes
+
+<<v28>>
+28 und Pinhas, der Sohn Eleasars, des Sohnes Aarons, tat in jenen Tagen
+Dienst vor dem Angesicht des Herrn. Die Israeliten sagten: Sollen wir
+noch einmal ausrücken zum Kampf mit unserem Bruder Benjamin oder sollen
+wir es aufgeben? Der Herr antwortete: Zieht hinauf! Denn morgen gebe ich
+ihn in eure Gewalt. [fn:5]\\
+\\
+
+<<v29>>
+* Die Vernichtung der Benjaminiter: 20,29-48
+
+29 Darauf legten die Israeliten rings um Gibea Leute in den Hinterhalt.
+
+<<v30>>
+30 Am dritten Tag zogen die Israeliten wieder gegen die Benjaminiter
+hinauf und stellten sich, wie die beiden vorigen Male, bei Gibea auf.
+
+<<v31>>
+31 Die Benjaminiter aber rückten gegen die Israeliten aus und ließen
+sich von der Stadt weglocken; sie begannen, wie die beiden vorigen Male,
+auf freiem Feld einzelne Israeliten zu erschlagen, und zwar an den
+Straßen, von denen die eine nach Bet-El, die andere nach Gibeon
+hinaufführt, im Ganzen etwa dreißig Mann. [fn:6]
+
+<<v32>>
+32 Die Benjaminiter dachten: Sie werden von uns geschlagen wie beim
+ersten Mal. Die Israeliten aber sagten: Wir wollen fliehen und sie von
+der Stadt weg zu den Straßen hinlocken.
+
+<<v33>>
+33 Alle Israeliten zogen sich also von ihrem Platz zurück und stellten
+sich bei Baal-Tamar wieder auf. Die Israeliten aber, die westlich von
+Gibea im Hinterhalt lagen, brachen aus ihrer Stellung hervor.
+
+<<v34>>
+34 Darauf rückten zehntausend ausgewählte Männer aus ganz Israel
+gegenüber Gibea heran. Es gab einen schweren Kampf; die Benjaminiter
+erkannten nicht, dass das Unheil sie ereilte.
+
+<<v35>>
+35 Der Herr schlug die Benjaminiter vor den Augen Israels und die
+Israeliten machten an jenem Tag fünfundzwanzigtausendundeinhundert Mann
+aus Benjamin nieder, alles mit Schwertern bewaffnete Krieger.
+
+<<v36>>
+36 Die Benjaminiter sahen, dass sie geschlagen waren. Die Israeliten
+gaben Benjamin weiteres Gelände preis; denn sie vertrauten auf den
+Hinterhalt, den sie bei Gibea gelegt hatten.
+
+<<v37>>
+37 Die Leute im Hinterhalt stürmten nun schnell auf Gibea los. Sie kamen
+aus dem Hinterhalt hervor und erschlugen alles in der Stadt mit scharfem
+Schwert.
+
+<<v38>>
+38 Die Israeliten hatten mit den Männern im Hinterhalt verabredet, dass
+sie eine Rauchwolke aus der Stadt aufsteigen lassen sollten.
+
+<<v39>>
+39 Als nun die Israeliten im Kampf kehrtmachten und Benjamin anfing,
+etwa dreißig Israeliten zu erschlagen, weil sie sagten: Sicher wird
+Israel von uns völlig geschlagen wie beim ersten Kampf!,
+
+<<v40>>
+40 da begann aus der Stadt eine hohe Rauchsäule aufzusteigen. Als die
+Benjaminiter sich umwandten, sahen sie, dass die Stadt wie ein Ganzopfer
+zum Himmel emporflammte.
+
+<<v41>>
+41 Als dann die Israeliten wieder kehrtmachten, gerieten die
+Benjaminiter in Verwirrung; denn sie erkannten, dass das Unglück sie
+ereilt hatte.
+
+<<v42>>
+42 Sie zogen sich vor den Israeliten in Richtung auf die Wüste zurück,
+konnten aber dem Kampf nicht entrinnen. Denn nun kamen auch die Männer
+(Israels) aus der Stadt, nahmen die Benjaminiter in die Zange und
+vernichteten sie. [fn:7]
+
+<<v43>>
+43 Sie umzingelten die Benjaminiter und verfolgten sie von Noha
+[zertraten sie] bis in die Gegend östlich von Gibea. [fn:8]
+
+<<v44>>
+44 Achtzehntausend Mann aus Benjamin fielen, alles kampferprobte Männer.
+
+<<v45>>
+45 Die Übrigen wandten sich um und flohen auf die Wüste zu, nach
+Sela-Rimmon. Die Israeliten hielten Nachlese und vernichteten auf den
+Straßen noch einmal fünftausend Mann. Bei der Verfolgung, die sich bis
+nach Gidom hinzog, erschlugen sie nochmals zweitausend von ihnen.
+
+<<v46>>
+46 Die Gesamtzahl der Gefallenen aus Benjamin betrug an diesem Tag
+fünfundzwanzigtausend, lauter mit dem Schwert bewaffnete Krieger.
+
+<<v47>>
+47 Nur sechshundert Mann konnten sich absetzen und in die Wüste nach
+Sela-Rimmon fliehen; sie blieben vier Monate in Sela-Rimmon. [fn:9]
+
+<<v48>>
+48 Die Israeliten aber kehrten zu den Benjaminitern zurück und
+erschlugen alles, was zu finden war, mit scharfem Schwert, die Stadt
+samt Menschen und Vieh. Ebenso steckten sie alle Städte, die sie finden
+konnten, in Brand. [fn:10]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ri_21.org::v1][21,1]]; [[file:1.Sam_7.org::v5][1 Sam 7,5;]] [[file:1.Sam_10.org::v17][10,17]]
+
+[fn:2] Mizpa in Benjamin ([[file:Jos_18.org::v26][Jos 18,26]]) lag nördlich von
+Jerusalem, auf der Straße nach Sichem.
+
+[fn:3] Wir wollen (in den Kampf) ziehen: Text korr. nach G. -
+«durch das Los» ist in der Übersetzung zu V. 10 gezogen.
+
+[fn:4] des Stammes: Text korr. nach G und Vg.
+
+[fn:5] [[file:Num_25.org::v7][Num 25,7]]
+
+[fn:6] nach Gibeon: Text korr., H: nach Gibea.
+
+[fn:7] aus der Stadt: Text korr., vgl. G.
+
+[fn:8] von Noha: Text korr. nach G.
+
+[fn:9] [[file:Ri_21.org::v13][21,13]]
+
+[fn:10] samt Menschen: Text korr., vgl. Vg, S und einige
+H-Handschriften.

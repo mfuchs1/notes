@@ -1,0 +1,250 @@
+#+TITLE: Dtn 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-29 So 15:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 12.html
+
+
+<<verses>>
+
+<<v1>>
+* Die deuteronomische Gesetzessammlung: 12,1 - 26,19
+
+* Einleitung: 12,1
+
+1 Das sind die Gesetze und Rechtsvorschriften, auf die ihr achten und
+die ihr halten sollt in dem Land, das der Herr, der Gott deiner Väter,
+dir gegeben hat, damit du es in Besitz nimmst. Sie sollen so lange
+gelten, wie ihr in dem Land leben werdet. [fn:1]\\
+\\
+
+<<v2>>
+* Die Vernichtung fremder Kultstätten: 12,2f
+
+2 Ihr sollt alle Kultstätten zerstören, an denen die Völker, deren
+Besitz ihr übernehmt, ihren Göttern gedient haben: auf den hohen Bergen,
+auf den Hügeln und unter jedem üppigen Baum. [fn:2]
+
+<<v3>>
+3 Ihr sollt ihre Altäre niederreißen und ihre Steinmale zerschlagen.
+Ihre Kultpfähle sollt ihr im Feuer verbrennen und die Bilder ihrer
+Götter umhauen. Ihre Namen sollt ihr an jeder solchen Stätte tilgen. [fn:3]\\
+\\
+
+<<v4>>
+* Eine einzige Kultstätte für Israel: 12,4-7
+
+4 Ihr sollt nicht das Gleiche tun (wie diese Völker), wenn ihr den
+Herrn, euren Gott, verehrt, [fn:4]
+
+<<v5>>
+5 sondern ihr sollt nach der Stätte fragen, die der Herr, euer Gott, aus
+allen euren Stammesgebieten auswählen wird, indem er dort seinen Namen
+anbringt. Nach seiner Wohnung sollt ihr fragen und dorthin sollst du
+ziehen. [fn:5] [fn:6]
+
+<<v6>>
+6 Dorthin sollt ihr eure Brandopfertiere und Schlachtopfertiere bringen,
+eure Zehnten und Handerhebungsopfer, was ihr dem Herrn gelobt habt und
+was ihr freiwillig gebt, und die Erstlinge eurer Rinder, Schafe und
+Ziegen.
+
+<<v7>>
+7 Dort sollt ihr vor dem Herrn, eurem Gott, das Mahl halten. Ihr sollt
+fröhlich sein, ihr und eure Familien, aus Freude über alles, was eure
+Hände geschafft haben, weil der Herr, dein Gott, dich gesegnet hat.\\
+\\
+
+<<v8>>
+* Der Zeitpunkt des Inkrafttretens: 12,8-12
+
+8 Ihr sollt nicht tun, was jeder Einzelne für richtig hält, wie es hier
+bei uns heute noch geschieht.
+
+<<v9>>
+9 Denn ihr seid bis jetzt nicht in die Ruhe und in den Erbbesitz
+eingezogen, die der Herr, dein Gott, dir gibt.
+
+<<v10>>
+10 Wenn ihr aber den Jordan überschritten habt und in dem Land wohnt,
+das der Herr, euer Gott, an euch als Erbbesitz verteilt, wenn er euch
+Ruhe vor allen euren Feinden ringsum verschafft hat und ihr in
+Sicherheit wohnt, [fn:7]
+
+<<v11>>
+11 dann sollt ihr alles, wozu ich euch verpflichte, an die Stätte
+bringen, die der Herr, euer Gott, auswählt, indem er dort seinen Namen
+wohnen lässt: eure Brandopfertiere und Schlachtopfertiere, eure Zehnten
+und Handerhebungsopfer und alle eure auserlesenen Gaben, die ihr dem
+Herrn gelobt habt. [fn:8]
+
+<<v12>>
+12 Dort sollt ihr vor dem Herrn, eurem Gott, fröhlich sein, ihr, eure
+Söhne und Töchter, eure Sklaven und Sklavinnen sowie die Leviten, die in
+euren Stadtbereichen Wohnrecht haben; denn der Levit hat nicht wie ihr
+Landanteil und Erbbesitz. [fn:9]\\
+\\
+
+<<v13>>
+* Die Unterscheidung von Opfer und Schlachtung: 12,13-19
+
+13 Nimm dich in Acht! Verbrenn deine Brandopfertiere nicht an
+irgendeiner Stätte, die dir gerade vor die Augen kommt,
+
+<<v14>>
+14 sondern nur an der Stätte, die der Herr im Gebiet eines deiner Stämme
+auswählt. Dort sollst du deine Brandopfertiere verbrennen und dort
+sollst du alles ausführen, wozu ich dich verpflichte.
+
+<<v15>>
+15 Doch darfst du immer, wenn du es möchtest, und überall in deinen
+Stadtbereichen schlachten und Fleisch essen, so weit der Segen reicht,
+den dir der Herr, dein Gott, geschenkt hat. Jeder, der Reine wie der
+Unreine, darf davon essen, wie bei Gazelle und Damhirsch. [fn:10]
+
+<<v16>>
+16 Das Blut aber sollt ihr nicht genießen, sondern wie Wasser auf die
+Erde schütten.
+
+<<v17>>
+17 Auch darfst du in deinen Stadtbereichen nicht den Zehnten von Korn,
+Wein und Öl verzehren, die Erstlinge von Rindern, Schafen und Ziegen,
+alle Gaben, die du dem Herrn gelobt hast, die freiwilligen Gaben und
+deine Handerhebungsopfer. [fn:11]
+
+<<v18>>
+18 Vor dem Herrn, deinem Gott, sollst du sie verzehren, an der Stätte,
+die der Herr, dein Gott, auswählen wird - du, dein Sohn und deine
+Tochter, dein Sklave und deine Sklavin sowie die Leviten, die in deinen
+Stadtbereichen Wohnrecht haben -, und du sollst vor dem Herrn, deinem
+Gott, fröhlich sein und dich freuen über alles, was deine Hände
+geschafft haben.
+
+<<v19>>
+19 Nimm dich in Acht, und lass die Leviten nicht im Stich, solange du im
+Land lebst. [fn:12]\\
+\\
+
+<<v20>>
+* Das Blut bei Opfer und Schlachtung: 12,20-28
+
+20 Wenn der Herr, dein Gott, dein Gebiet vergrößert, wie er es dir
+zugesagt hat, und du, weil du Appetit auf Fleisch hast, sagst: Ich
+möchte gern Fleisch essen, dann darfst du so viel Fleisch essen, wie du
+möchtest. [fn:13]
+
+<<v21>>
+21 Und wenn die Entfernung zu der Stätte, die der Herr, dein Gott,
+auswählen wird, indem er dort seinen Namen anbringt, zu groß ist, dann
+schlachte, so wie ich es dir erlaubt habe, Rinder, Schafe oder Ziegen,
+die der Herr dir geschenkt hat, und iss in deinen Stadtbereichen, so
+viel du möchtest. [fn:14]
+
+<<v22>>
+22 Auch sollst du davon essen, wie man von Gazelle und Damhirsch isst:
+Der Reine und der Unreine dürfen gemeinsam davon essen. [fn:15]
+
+<<v23>>
+23 Doch beherrsche dich und genieße kein Blut; denn Blut ist Lebenskraft
+und du sollst nicht zusammen mit dem Fleisch die Lebenskraft verzehren.
+
+<<v24>>
+24 Du sollst es nicht genießen, sondern wie Wasser auf die Erde
+schütten.
+
+<<v25>>
+25 Du sollst es nicht genießen, damit es dir und später deinen Söhnen
+gut geht, weil du tust, was in den Augen des Herrn richtig ist.
+
+<<v26>>
+26 Die heiligen Abgaben jedoch, zu denen du verpflichtet bist, und die
+Gaben, die du selbst dem Herrn gelobt hast, sollst du aufladen und du
+sollst damit zu der Stätte ziehen, die der Herr auswählen wird.
+
+<<v27>>
+27 Dort sollst du deine Brandopfertiere auf dem Altar des Herrn, deines
+Gottes, darbringen, das Fleisch und das Blut. Bei deinen
+Schlachtopfertieren soll das Blut auf den Altar des Herrn, deines
+Gottes, geschüttet werden, das Fleisch sollst du essen.
+
+<<v28>>
+28 Achte und höre auf alle diese Worte, auf die ich dich verpflichte,
+damit es dir und später deinen Söhnen immer gut geht, weil du tust, was
+in den Augen des Herrn, deines Gottes, gut und richtig ist.\\
+\\
+
+<<v29>>
+* Das Verbot kanaanäischer Kultbräuche: 12,29-31
+
+29 Wenn der Herr, dein Gott, die Völker, in deren Land du hineinziehst,
+um ihren Besitz zu übernehmen, vor dir niedergestreckt hat, wenn du
+ihren Besitz übernommen hast und dort wohnst, [fn:16]
+
+<<v30>>
+30 dann nimm dich in Acht! Lauf nicht hinter ihnen her in die Falle,
+nachdem sie bei deinem Angriff vernichtet worden sind. Erkundige dich
+nicht nach ihren Göttern und frag nicht: Wie dienen denn diese Völker
+ihren Göttern? Ich will das Gleiche tun wie sie. [fn:17]
+
+<<v31>>
+31 Wenn du dem Herrn, deinem Gott, dienst, sollst du nicht das Gleiche
+tun wie sie; denn sie haben, wenn sie ihren Göttern dienten, alle Gräuel
+begangen, die der Herr hasst. Sie haben sogar ihre Söhne und Töchter im
+Feuer verbrannt, wenn sie ihren Göttern dienten. [fn:18]\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:Dtn_4.org::v5][4,5]]; [[file:Dtn_5.org::v1][5,1]]; [[file:Dtn_31.org::13][31,13]]
+
+[fn:2] [[file:1.Kön_14.org::v23][1 Kön 14,23]]; [[file:2.Kön_16.org::v4][2 Kön 16,4]]; [[file:2.Kön_17.org::v10][17,10]]; [[file:Jer_2.org::v20][Jer 2,20]]; [[file:Hos_4.org::v13][Hos 4,13]]
+
+[fn:3] [[file:Dtn_7.org::v5][7,5]].[[file:Dtn_7.org::v25][25]]; [[file:Ex_23.org::v24][Ex 23,24]]; [[file:Ex_34.org::v13][34,13]]
+
+[fn:4] (4-28) [[file:Ex_20.org::v24][Ex 20,24]]; [[file:2.Kön_18.org::v22][2 Kön 18,22]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_4.org::v20][Joh 4,20]]
+
+[fn:5] [[v21][12,21]]; [[file:Dtn_14.org::v24][14,24]]; [[file:1.Kön_9.org::v3][1 Kön 9,3]]; [[file:1.Kön_11.org::v36][11,36]]; [[file:1.Kön_14.org::v21][14,21]]; [[file:2.Kön_21.org::v4][2 Kön 21,4]].[[file:2.Kön_21.org::v7][7]];
+[[file:1.Kön_6.org::v13][1 Kön 6,13]]; [[file:1.Kön_8.org::v12][8,12]]
+
+[fn:6] Ursprünglich lautete der Text vermutlich: indem er dort
+seinen Namen anbringt, um ihn (dort) wohnen zu lassen. Dorthin sollst du
+ziehen. - Die Anbringung des Namens an einem Ort, etwa durch eine
+königliche Inschrift, war im Alten Orient Zeichen der Besitzergreifung
+und Herrschaft. Das Gleiche meinte der Ausdruck «seinen Namen an einem
+Ort wohnen lassen». Beide Wendungen werden in den deuteronomischen
+Gesetzen nebeneinander gebraucht. Die Rede vom Wohnenlassen des Namens
+(vgl. 12,11; 14,23; 16,2.6.11; 26,2) wehrt zugleich die Vorstellung ab,
+Gott selbst wohne im Tempel (vgl. 1 Kön 8,12f; im Tempel wohnt nur
+Gottes Name. Das bedeutet: Wenn dieser Name im Tempel angerufen wird,
+erhört Gott das Gebet. Gott selbst wohnt im Himmel (vgl. 26,15).
+
+[fn:7] [[file:2.Sam_7.org::v1][2 Sam 7,1]].[[file:2.Sam_7.org::v11][11]]; [[file:1.Kön_5.org::v5][1 Kön 5,5]]
+
+[fn:8] [[file:Dtn_14.org::v23][14,23]]; [[file:Dtn_16.org::v2][16,2]].[[file:Dtn_16.org::v6][6]].[[file:Dtn_16.org::v11][11]]; [[file:Dtn_26.org::v2][26,2]]; [[file:Jer_7.org::v12][Jer 7,12]]
+
+[fn:9] [[file:Dtn_10.org::v9][10,9]]
+
+[fn:10] (15-16) [[file:Dtn_15.org::v22][15,22f]]; [[file:Dtn_14.org::v5][14,5]]
+
+[fn:11] (17-18) [[file:Dtn_14.org::v22][14,22-27]]
+
+[fn:12] [[file:Dtn_14.org::v27][14,27]]
+
+[fn:13] [[file:Dtn_19.org::v8][19,8]]
+
+[fn:14] [[v5][12,5]]; [[file:Dtn_14.org::v24][14,24]]
+
+[fn:15] (22-25) [[file:Dtn_15.org::v22][15,22f]]
+
+[fn:16] (29-31) [[file:Dtn_7.org::v1][7]]
+
+[fn:17] [[file:Ex_23.org::v33][Ex 23,33]]; [[file:Ex_34.org::v12][34,12]]
+
+[fn:18] [[file:Dtn_18.org::v9][18,9f]]; [[file:2.Kön_17.org::v31][2 Kön 17,31]]; [[file:Jer_7.org::v31][Jer 7,31]]; [[file:Jer_19.org::v5][19,5]]

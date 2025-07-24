@@ -1,0 +1,84 @@
+#+TITLE: Ps 28 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-14 Do 09:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 28.html
+
+* Ps 28
+
+<<verses>>
+
+<<v1>>
+* Hilferuf in Todesgefahr und Dank für Erhörung
+
+1 [Von David.] Zu dir rufe ich, Herr, mein Fels. /\\
+ Wende dich nicht schweigend ab von mir! Denn wolltest du schweigen, /\\
+ würde ich denen gleich, die längst begraben sind. [fn:1]\\
+\\
+
+<<v2>>
+2 Höre mein lautes Flehen, wenn ich zu dir schreie, /\\
+ wenn ich die Hände zu deinem Allerheiligsten erhebe. [fn:2]\\
+\\
+
+<<v3>>
+3 Raff mich nicht weg mit den Übeltätern und Frevlern, /\\
+ die ihren Nächsten freundlich grüßen, /\\
+ doch Böses hegen in ihrem Herzen. [fn:3]\\
+\\
+
+<<v4>>
+4 Vergilt ihnen, wie es ihrem Treiben entspricht /\\
+ und ihren bösen Taten. Vergilt ihnen, wie es das Werk ihrer Hände
+verdient. /\\
+ Wende ihr Tun auf sie selbst zurück! [fn:4]\\
+\\
+
+<<v5>>
+5 Denn sie achten nicht auf das Walten des Herrn /\\
+ und auf das Werk seiner Hände. Darum reißt er sie nieder /\\
+ und richtet sie nicht wieder auf. [fn:5]\\
+\\
+
+<<v6>>
+6 Der Herr sei gepriesen. /\\
+ Denn er hat mein lautes Flehen erhört.\\
+\\
+
+<<v7>>
+7 Der Herr ist meine Kraft und mein Schild, /\\
+ mein Herz vertraut ihm. Mir wurde geholfen. Da jubelte mein Herz; /\\
+ ich will ihm danken mit meinem Lied.\\
+\\
+
+<<v8>>
+8 Der Herr ist die Stärke seines Volkes, /\\
+ er ist Schutz und Heil für seinen Gesalbten. [fn:6]\\
+\\
+
+<<v9>>
+9 Hilf deinem Volk und segne dein Erbe, /\\
+ führe und trage es in Ewigkeit! [fn:7]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_92.org::v16][92,16]]; [[file:Ps_143.org::v7][143,7]]
+
+[fn:2] [[file:Ps_134.org::v2][134,2]]; [[file:Dan_6.org::v11][Dan 6,11]]
+
+[fn:3] [[file:Ps_26.org::v9][26,9]]; [[file:Ps_62.org::v5][62,5]]; [[file:Spr_26.org::v24][Spr 26,24-28]]
+
+[fn:4] [[file:Ps_62.org::v13][62,13]]
+
+[fn:5] [[file:Jes_5.org::v12][Jes 5,12f]]
+
+[fn:6] Text korr. nach G und S.
+
+[fn:7] [[file:Ps_29.org::v11][29,11]]; [[file:Dtn_9.org::v29][Dtn 9,29]]

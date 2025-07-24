@@ -1,0 +1,144 @@
+:PROPERTIES:
+:ID:       8b0ec582-11bb-4d1d-9188-7c6406002ae6
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Amos* -- [[file:Am_1.html][1]]
+[[file:Am_2.html][2]] *3* [[file:Am_4.html][4]] [[file:Am_5.html][5]]
+... [[file:Am_9.html][9]]
+
+--------------
+
+* Am 3
+  :PROPERTIES:
+  :CUSTOM_ID: am-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Die Anklagen gegen die Oberschicht in Israel: 3,1 - 6,14
+   :PROPERTIES:
+   :CUSTOM_ID: die-anklagen-gegen-die-oberschicht-in-israel-31---614
+   :END:
+**** Israels Erwählung und Verantwortung: 3,1-2
+     :PROPERTIES:
+     :CUSTOM_ID: israels-erwählung-und-verantwortung-31-2
+     :END:
+1 Hört dieses Wort, das der Herr gesprochen hat /\\
+ über euch, ihr Söhne Israels, über den ganzen Stamm, /\\
+ den ich aus Ägypten heraufgeführt habe.\\
+\\
+
+<<v2>>
+2 Nur euch habe ich erwählt /\\
+ aus allen Stämmen der Erde; darum ziehe ich euch zur Rechenschaft /\\
+ für alle eure Vergehen. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+**** Gott und die Propheten: 3,3-8
+     :PROPERTIES:
+     :CUSTOM_ID: gott-und-die-propheten-33-8
+     :END:
+3 Gehen zwei den gleichen Weg, /\\
+ ohne dass sie sich verabredet haben?\\
+\\
+
+<<v4>>
+4 Brüllt der Löwe im Wald /\\
+ und er hat keine Beute? Gibt der junge Löwe Laut in seinem Versteck,
+/\\
+ ohne dass er einen Fang getan hat?\\
+\\
+
+<<v5>>
+5 Fällt ein Vogel zur Erde, /\\
+ wenn niemand nach ihm geworfen hat? Springt die Klappfalle vom Boden
+auf, /\\
+ wenn sie nichts gefangen hat?\\
+\\
+
+<<v6>>
+6 Bläst in der Stadt jemand ins Horn, /\\
+ ohne dass das Volk erschrickt? Geschieht ein Unglück in einer Stadt,
+/\\
+ ohne dass der Herr es bewirkt hat? ^{[[#fn2][2]]}\\
+\\
+
+<<v7>>
+7 Nichts tut Gott, der Herr, /\\
+ ohne dass er seinen Knechten, den Propheten, /\\
+ zuvor seinen Ratschluss offenbart hat.\\
+\\
+
+<<v8>>
+8 Der Löwe brüllt - wer fürchtet sich nicht? /\\
+ Gott, der Herr, spricht - /\\
+ wer wird da nicht zum Propheten?\\
+\\
+
+<<v9>>
+**** Das Gericht über Samaria: 3,9-15
+     :PROPERTIES:
+     :CUSTOM_ID: das-gericht-über-samaria-39-15
+     :END:
+9 Ruft es aus über den Palästen von Aschdod /\\
+ und über den Palästen in Ägypten! Sagt: Versammelt euch auf den Bergen
+rings um Samaria, /\\
+ seht euch das wilde Treiben in der Stadt an /\\
+ und die Unterdrückung, die dort herrscht. ^{[[#fn3][3]]}\\
+\\
+
+<<v10>>
+10 Sie kennen die Rechtschaffenheit nicht - Spruch des Herrn -, /\\
+ sie sammeln Schätze in ihren Palästen /\\
+ mit Gewalt und Unterdrückung.\\
+\\
+
+<<v11>>
+11 Darum - so spricht Gott, der Herr: Ein Feind wird das Land umzingeln;
+/\\
+ er wird deine Macht niederreißen /\\
+ und deine Paläste werden geplündert.\\
+\\
+
+<<v12>>
+12 So spricht der Herr: Wie ein Hirt aus dem Rachen des Löwen /\\
+ (von einem Schaf) nur zwei Wadenknochen rettet oder den Zipfel eines
+Ohres, so werden Israels Söhne gerettet, /\\
+ die in Samaria auf ihrem Diwan sitzen /\\
+ und auf ihren Polstern aus Damaskus. ^{[[#fn4][4]]}\\
+\\
+
+<<v13>>
+13 Hört und bezeugt es dem Haus Jakob - /\\
+ Spruch Gottes, des Herrn, des Gottes der Heere:\\
+\\
+
+<<v14>>
+14 Ja, an dem Tag, an dem ich Israel /\\
+ für seine Verbrechen zur Rechenschaft ziehe, /\\
+ werde ich an den Altären von Bet-El die Strafe vollziehen; die Hörner
+des Altars werden abgehauen /\\
+ und fallen zu Boden. ^{[[#fn5][5]]}\\
+\\
+
+<<v15>>
+15 Ich zerschlage den Winterpalast und den Sommerpalast, /\\
+ die Elfenbeinhäuser werden verschwinden und mit den vielen Häusern ist
+es zu Ende - /\\
+ Spruch des Herrn. ^{[[#fn6][6]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Dtn 7,6
+
+^{[[#fnm2][2]]} ℘ Joël 2,1
+
+^{[[#fnm3][3]]} ℘ Zef 3,8
+
+^{[[#fnm4][4]]} ℘ 6,4
+
+^{[[#fnm5][5]]} ℘ 1 Kön 12,32; 2 Kön 23,15
+
+^{[[#fnm6][6]]} ℘ 1 Kön 22,39

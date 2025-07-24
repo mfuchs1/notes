@@ -1,0 +1,21 @@
+#+title:      Die vaterlose Gesellschaft
+#+date:       [2025-02-28 Fr 17:09]
+#+filetags:   :philosophy:biblio:matussek2006:
+#+identifier: 20250228T170929
+
+#+begin_src bibtex
+@book{Matussek2006,
+        abstract = "Dass fast alle Scheidungskinder bei ihren Müttern leben, haben die meisten Väter akzeptiert, dass sie ihre Kinder aber vielfach nicht mehr oder kaum noch sehen dürfen, empört die Männer. Die Väter sind meist die Verlierer im Geschlechterkampf. Ein ebenso provokantes wie überfälliges Buch.",
+        author = "\textsc{Matussek}, Matthias",
+        edition = "",
+        isbn = "9783596171392",
+        keywords = "Aufsatzsammlung; Ehescheidung; Elterliche Sorge; Kind; Vater; Vater / Kind / Ehescheidung / Elterliche Sorge / Aufsatzsammlung",
+        language = "",
+        location = "Frankfurt am Main",
+        pagetotal = "",
+        publisher = "Fischer Taschenbuch Verlag",
+        subtitle = "{Eine Polemik gegen die Abschaffung der Familie}",
+        title = "{Die vaterlose Gesellschaft}",
+        year = "2006"
+}
+#+end_src

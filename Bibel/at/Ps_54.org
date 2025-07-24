@@ -1,0 +1,77 @@
+#+TITLE: Ps 54 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-02-27 Di 17:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 54.html
+
+* Ps 54
+<<verses>>
+
+<<v1>>
+* Hilferuf eines Bedrängten
+
+1 [Für den Chormeister. Mit Saitenspiel. Ein Weisheitslied Davids,
+
+<<v2>>
+2 als die Sifiter kamen und Saul meldeten: David hält sich bei uns
+verborgen.] [fn:1]\\
+\\
+
+<<v3>>
+3 Hilf mir, Gott, durch deinen Namen, /\\
+ verschaff mir Recht mit deiner Kraft!\\
+\\
+
+<<v4>>
+4 Gott, höre mein Flehen, /\\
+ vernimm die Worte meines Mundes!\\
+\\
+
+<<v5>>
+5 Denn es erheben sich gegen mich stolze Menschen, /\\
+ freche Leute trachten mir nach dem Leben; /\\
+ sie haben Gott nicht vor Augen. [Sela] [fn:2] [fn:3]\\
+\\
+
+<<v6>>
+6 Doch Gott ist mein Helfer, /\\
+ der Herr beschützt mein Leben. [fn:4]\\
+\\
+
+<<v7>>
+7 Auf meine Gegner falle das Unheil zurück. /\\
+ Weil du treu bist, vernichte sie! [fn:5]\\
+\\
+
+<<v8>>
+8 Freudig bringe ich dir dann mein Opfer dar /\\
+ und lobe deinen Namen, Herr; denn du bist gütig. [fn:6]\\
+\\
+
+<<v9>>
+9 Der Herr hat mich herausgerissen aus all meiner Not /\\
+ und mein Auge kann auf meine Feinde herabsehn. [fn:7]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_23.org::v19][1 Sam 23,19]]; [[file:1.Sam_26.org::v1][26,1]]
+
+[fn:2] [[file:Ps_86.org::v14][86,14]]
+
+[fn:3] stolze Menschen: Text korr.; H: Fremde.
+
+[fn:4] [[file:Ps_118.org::v7][118,7]]
+
+[fn:5] [[file:Ps_143.org::v12][143,12]]
+
+[fn:6] [[file:Ps_52.org::v11][52,11]]
+
+[fn:7] [[file:Ps_59.org::v11][59,11]]; [[file:Ps_91.org::v8][91,8]]; [[file:Ps_92.org::v12][92,12]]; [[file:Ps_112.org::v8][112,8]]; [[file:Ps_118.org::v7][118,7]]

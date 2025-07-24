@@ -1,0 +1,162 @@
+#+TITLE: Ps 145 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-20 Di 23:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 145.html
+
+* Ps 145
+
+<<verses>>
+
+<<v1>>
+* Lobpreis der Größe und Güte Gottes
+
+1 [Ein Loblied Davids.] Ich will dich rühmen, mein Gott und König, /\\
+ und deinen Namen preisen immer und ewig;\\
+\\
+
+<<v2>>
+2 ich will dich preisen Tag für Tag /\\
+ und deinen Namen loben immer und ewig. [fn:1]\\
+\\
+
+<<v3>>
+3 Groß ist der Herr und hoch zu loben, /\\
+ seine Größe ist unerforschlich. [fn:2]\\
+\\
+
+<<v4>>
+4 Ein Geschlecht verkünde dem andern den Ruhm deiner Werke /\\
+ und erzähle von deinen gewaltigen Taten. [fn:3]\\
+\\
+
+<<v5>>
+5 Sie sollen vom herrlichen Glanz deiner Hoheit reden; /\\
+ ich will deine Wunder besingen.\\
+\\
+
+<<v6>>
+6 Sie sollen sprechen von der Gewalt deiner erschreckenden Taten; /\\
+ ich will von deinen großen Taten berichten.\\
+\\
+
+<<v7>>
+7 Sie sollen die Erinnerung an deine große Güte wecken /\\
+ und über deine Gerechtigkeit jubeln.\\
+\\
+
+<<v8>>
+8 Der Herr ist gnädig und barmherzig, /\\
+ langmütig und reich an Gnade. [fn:4]\\
+\\
+
+<<v9>>
+9 Der Herr ist gütig zu allen, /\\
+ sein Erbarmen waltet über all seinen Werken. [fn:5]\\
+\\
+
+<<v10>>
+10 Danken sollen dir, Herr, all deine Werke /\\
+ und deine Frommen dich preisen. [fn:6]\\
+\\
+
+<<v11>>
+11 Sie sollen von der Herrlichkeit deines Königtums reden, /\\
+ sollen sprechen von deiner Macht, [fn:7]\\
+\\
+
+<<v12>>
+12 den Menschen deine machtvollen Taten verkünden /\\
+ und den herrlichen Glanz deines Königtums. [fn:8]\\
+\\
+
+<<v13>>
+13 Dein Königtum ist ein Königtum für ewige Zeiten, /\\
+ deine Herrschaft währt von Geschlecht zu Geschlecht. [Der Herr ist treu
+in all seinen Worten, /\\
+ voll Huld in all seinen Taten] [fn:9]\\
+\\
+
+<<v14>>
+14 Der Herr stützt alle, die fallen, /\\
+ und richtet alle Gebeugten auf. [fn:10]\\
+\\
+
+<<v15>>
+15 Aller Augen warten auf dich /\\
+ und du gibst ihnen Speise zur rechten Zeit. [fn:11]\\
+\\
+
+<<v16>>
+16 Du öffnest deine Hand /\\
+ und sättigst alles, was lebt, nach deinem Gefallen. [fn:12]\\
+\\
+
+<<v17>>
+17 Gerecht ist der Herr in allem, was er tut, /\\
+ voll Huld in all seinen Werken. [fn:13]\\
+\\
+
+<<v18>>
+18 Der Herr ist allen, die ihn anrufen, nahe, /\\
+ allen, die zu ihm aufrichtig rufen. [fn:14]\\
+\\
+
+<<v19>>
+19 Die Wünsche derer, die ihn fürchten, erfüllt er, /\\
+ er hört ihr Schreien und rettet sie. [fn:15]\\
+\\
+
+<<v20>>
+20 Alle, die ihn lieben, behütet der Herr, /\\
+ doch alle Frevler vernichtet er. [fn:16]\\
+\\
+
+<<v21>>
+21 Mein Mund verkünde das Lob des Herrn. /\\
+ Alles, was lebt, preise seinen heiligen Namen immer und ewig! [fn:17]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_34.org::v2][34,2]]; [[file:Ps_68.org::v20][68,20]]
+
+[fn:2] [[file:Ps_95.org::v3][95,3]]
+
+[fn:3] [[file:Ps_78.org::v4][78,4]]
+
+[fn:4] [[file:Ps_116.org::v5][116,5]]
+
+[fn:5] [[file:Ps_103.org::v13][103,13]]; [[file:Weish_11.org::v24][Weish 11,24]]
+
+[fn:6] [[file:Ps_103.org::v22][103,22]]
+
+[fn:7] (11-13) [[file:Ps_24.org::v7][24,7-10]]
+
+[fn:8] Text korr. nach G und S; H: seine machtvollen Taten.
+
+[fn:9] Der eingeklammerte Textteil fehlt in H; Rekonstruktion
+nach G, S und Vg.
+
+[fn:10] [[file:Ps_94.org::v18][94,18]]; [[file:Ps_146.org::v8][146,8]]
+
+[fn:11] (15-16) [[file:Ps_104.org::v27][104,27f]]; [[file:Ps_136.org::v25][136,25]]
+
+[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/Mt_6.org::v25][Mt 6,25f]]
+
+[fn:13] [[file:Dtn_32.org::v4][Dtn 32,4]]
+
+[fn:14] [[file:Dtn_4.org::v7][Dtn 4,7]]; [[file:Jes_55.org::v6][Jes 55,6]]; [[file:Jes_58.org::v9][58,9]]; [[file:Jer_29.org::v13][Jer 29,13]]
+
+[fn:15] [[file:Ps_34.org::v18][34,18]]; [[file:Spr_10.org::v24][Spr 10,24]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_9.org::v31][Joh 9,31]]
+
+[fn:16] [[file:Ri_5.org::v31][Ri 5,31]]
+
+[fn:17] [[file:Sir_39.org::v35][Sir 39,35]]

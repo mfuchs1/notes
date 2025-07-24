@@ -1,0 +1,317 @@
+:PROPERTIES:
+:ID:       79d58c04-8708-40a9-9158-34fe4a49cf45
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Apostelgeschichte* --
+[[file:Apg_1.html][1]] *2* [[file:Apg_3.html][3]] [[file:Apg_4.html][4]]
+... [[file:Apg_28.html][28]]
+
+--------------
+
+* Apg 2
+  :PROPERTIES:
+  :CUSTOM_ID: apg-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das Pfingstereignis: 2,1-13
+     :PROPERTIES:
+     :CUSTOM_ID: das-pfingstereignis-21-13
+     :END:
+1 Als der Pfingsttag gekommen war, befanden sich alle am gleichen Ort.
+^{[[#fn1][1]]}
+
+<<v2>>
+2 Da kam plötzlich vom Himmel her ein Brausen, wie wenn ein heftiger
+Sturm daherfährt, und erfüllte das ganze Haus, in dem sie waren.
+
+<<v3>>
+3 Und es erschienen ihnen Zungen wie von Feuer, die sich verteilten; auf
+jeden von ihnen ließ sich eine nieder. ^{[[#fn2][2]]}
+
+<<v4>>
+4 Alle wurden mit dem Heiligen Geist erfüllt und begannen, in fremden
+Sprachen zu reden, wie es der Geist ihnen eingab.
+^{[[#fn3][3]][[#fn4][4]]}
+
+<<v5>>
+5 In Jerusalem aber wohnten Juden, fromme Männer aus allen Völkern unter
+dem Himmel.
+
+<<v6>>
+6 Als sich das Getöse erhob, strömte die Menge zusammen und war ganz
+bestürzt; denn jeder hörte sie in seiner Sprache reden. ^{[[#fn5][5]]}
+
+<<v7>>
+7 Sie gerieten außer sich vor Staunen und sagten: Sind das nicht alles
+Galiläer, die hier reden?
+
+<<v8>>
+8 Wieso kann sie jeder von uns in seiner Muttersprache hören:
+
+<<v9>>
+9 Parther, Meder und Elamiter, Bewohner von Mesopotamien, Judäa und
+Kappadozien, von Pontus und der Provinz Asien,
+
+<<v10>>
+10 von Phrygien und Pamphylien, von Ägypten und dem Gebiet Libyens nach
+Zyrene hin, auch die Römer, die sich hier aufhalten,
+
+<<v11>>
+11 Juden und Proselyten, Kreter und Araber, wir hören sie in unseren
+Sprachen Gottes große Taten verkünden.
+
+<<v12>>
+12 Alle gerieten außer sich und waren ratlos. Die einen sagten
+zueinander: Was hat das zu bedeuten? ^{[[#fn6][6]]}
+
+<<v13>>
+13 Andere aber spotteten: Sie sind vom süßen Wein betrunken.\\
+\\
+
+<<v14>>
+**** Die Pfingstpredigt des Petrus: 2,14-36
+     :PROPERTIES:
+     :CUSTOM_ID: die-pfingstpredigt-des-petrus-214-36
+     :END:
+14 Da trat Petrus auf, zusammen mit den Elf; er erhob seine Stimme und
+begann zu reden: Ihr Juden und alle Bewohner von Jerusalem! Dies sollt
+ihr wissen, achtet auf meine Worte!
+
+<<v15>>
+15 Diese Männer sind nicht betrunken, wie ihr meint; es ist ja erst die
+dritte Stunde am Morgen;
+
+<<v16>>
+16 sondern jetzt geschieht, was durch den Propheten Joël gesagt worden
+ist:\\
+\\
+
+<<v17>>
+17 In den letzten Tagen /wird es geschehen,/ /\\
+ so spricht Gott: /\\
+ /Ich werde von meinem Geist ausgießen/ /\\
+ /über alles Fleisch./ /\\
+ /Eure Söhne und eure Töchter werden Propheten sein,/ /\\
+ /eure jungen Männer werden Visionen haben,/ /\\
+ /und eure Alten werden Träume haben./ ^{[[#fn7][7]]}\\
+\\
+
+<<v18>>
+18 /Auch über meine Knechte und Mägde/ /\\
+ /werde ich von meinem Geist ausgießen/ /\\
+ /in jenen Tagen und sie werden Propheten sein./\\
+\\
+
+<<v19>>
+19 /Ich werde Wunder erscheinen lassen/ droben /am Himmel/ /\\
+ /und Zeichen/ unten /auf der Erde:/ /\\
+ /Blut und Feuer und qualmenden Rauch./ ^{[[#fn8][8]]}\\
+\\
+
+<<v20>>
+20 /Die Sonne wird sich in Finsternis verwandeln/ /\\
+ /und der Mond in Blut,/ /\\
+ /ehe der Tag des Herrn kommt,/ /\\
+ /der große und herrliche Tag./\\
+\\
+
+<<v21>>
+21 /Und es wird geschehen:/ /\\
+ /Jeder, der den Namen des Herrn anruft,/ /\\
+ /wird gerettet./ ^{[[#fn9][9]]}\\
+\\
+
+<<v22>>
+22 Israeliten, hört diese Worte: Jesus, den Nazoräer, den Gott vor euch
+beglaubigt hat durch machtvolle Taten, Wunder und Zeichen, die er durch
+ihn in eurer Mitte getan hat, wie ihr selbst wisst -
+^{[[#fn10][10]][[#fn11][11]]}
+
+<<v23>>
+23 ihn, der nach Gottes beschlossenem Willen und Vorauswissen hingegeben
+wurde, habt ihr durch die Hand von Gesetzlosen ans Kreuz geschlagen und
+umgebracht. ^{[[#fn12][12]][[#fn13][13]]}
+
+<<v24>>
+24 Gott aber hat ihn von den Wehen des Todes befreit und auferweckt;
+denn es war unmöglich, dass er vom Tod festgehalten wurde.\\
+\\
+
+<<v25>>
+25 David nämlich sagt über ihn: /Ich habe den Herrn beständig vor
+Augen./ /\\
+ /Er steht mir zur Rechten, ich wanke nicht./ ^{[[#fn14][14]]}\\
+\\
+
+<<v26>>
+26 /Darum freut sich mein Herz/ /\\
+ /und frohlockt meine Zunge/ /\\
+ /und auch mein Leib wird in sicherer Hoffnung ruhen;/\\
+\\
+
+<<v27>>
+27 /denn du gibst mich nicht der Unterwelt preis,/ /\\
+ /noch lässt du deinen Frommen die Verwesung schauen./\\
+\\
+
+<<v28>>
+28 /Du zeigst mir die Wege zum Leben,/ /\\
+ /du erfüllst mich mit Freude vor deinem Angesicht./\\
+\\
+
+<<v29>>
+29 Brüder, ich darf freimütig zu euch über den Patriarchen David reden:
+Er starb und wurde begraben und sein Grabmal ist bei uns erhalten bis
+auf den heutigen Tag.
+
+<<v30>>
+30 Da er ein Prophet war und wusste, dass Gott /ihm/ den Eid /geschworen
+hatte, einer von seinen Nachkommen werde auf seinem Thron sitzen,/
+^{[[#fn15][15]]}
+
+<<v31>>
+31 sagte er vorausschauend über die Auferstehung des Christus: /Er gibt
+ihn nicht der Unterwelt preis und sein Leib schaut die Verwesung nicht./
+^{[[#fn16][16]]}
+
+<<v32>>
+32 Diesen Jesus hat Gott auferweckt, dafür sind wir alle Zeugen.
+
+<<v33>>
+33 Nachdem er durch die rechte Hand Gottes erhöht worden war und vom
+Vater den verheißenen Heiligen Geist empfangen hatte, hat er ihn
+ausgegossen, wie ihr seht und hört.\\
+\\
+
+<<v34>>
+34 David ist nicht zum Himmel aufgestiegen; vielmehr sagt er selbst: /Es
+sprach der Herr zu meinem Herrn:/ /\\
+ /Setze dich mir zur Rechten,/ ^{[[#fn17][17]]}\\
+\\
+
+<<v35>>
+35 /und ich lege dir deine Feinde/ /\\
+ /als Schemel unter die Füße./
+
+<<v36>>
+36 Mit Gewissheit erkenne also das ganze Haus Israel: Gott hat ihn zum
+Herrn und Messias gemacht, diesen Jesus, den ihr gekreuzigt habt.\\
+\\
+
+<<v37>>
+**** Erste Bekehrungen: 2,37-42
+     :PROPERTIES:
+     :CUSTOM_ID: erste-bekehrungen-237-42
+     :END:
+37 Als sie das hörten, traf es sie mitten ins Herz, und sie sagten zu
+Petrus und den übrigen Aposteln: Was sollen wir tun, Brüder?
+^{[[#fn18][18]]}
+
+<<v38>>
+38 Petrus antwortete ihnen: Kehrt um und jeder von euch lasse sich auf
+den Namen Jesu Christi taufen zur Vergebung seiner Sünden; dann werdet
+ihr die Gabe des Heiligen Geistes empfangen. ^{[[#fn19][19]]}
+
+<<v39>>
+39 Denn euch und euren Kindern gilt die Verheißung und all /denen in der
+Ferne,/ die der Herr, unser Gott, herbeirufen wird. ^{[[#fn20][20]]}
+
+<<v40>>
+40 Mit noch vielen anderen Worten beschwor und ermahnte er sie: Lasst
+euch retten aus dieser verdorbenen Generation! ^{[[#fn21][21]]}
+
+<<v41>>
+41 Die nun, die sein Wort annahmen, ließen sich taufen. An diesem Tag
+wurden (ihrer Gemeinschaft) etwa dreitausend Menschen hinzugefügt.
+
+<<v42>>
+42 Sie hielten an der Lehre der Apostel fest und an der Gemeinschaft, am
+Brechen des Brotes und an den Gebeten. ^{[[#fn22][22]]}\\
+\\
+
+<<v43>>
+**** Das Leben der jungen Gemeinde: 2,43-47
+     :PROPERTIES:
+     :CUSTOM_ID: das-leben-der-jungen-gemeinde-243-47
+     :END:
+43 Alle wurden von Furcht ergriffen; denn durch die Apostel geschahen
+viele Wunder und Zeichen. ^{[[#fn23][23]]}
+
+<<v44>>
+44 Und alle, die gläubig geworden waren, bildeten eine Gemeinschaft und
+hatten alles gemeinsam. ^{[[#fn24][24]]}
+
+<<v45>>
+45 Sie verkauften Hab und Gut und gaben davon allen, jedem so viel, wie
+er nötig hatte.
+
+<<v46>>
+46 Tag für Tag verharrten sie einmütig im Tempel, brachen in ihren
+Häusern das Brot und hielten miteinander Mahl in Freude und Einfalt des
+Herzens. ^{[[#fn25][25]]}
+
+<<v47>>
+47 Sie lobten Gott und waren beim ganzen Volk beliebt. Und der Herr
+fügte täglich ihrer Gemeinschaft die hinzu, die gerettet werden
+sollten.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 1,14; Lev 23,15-21
+
+^{[[#fnm2][2]]} ℘ Lk 3,16
+
+^{[[#fnm3][3]]} ℘ 4,31; 8,15.17; 10,44; 11,15; 15,8; 19,2.6
+
+^{[[#fnm4][4]]} in fremden Sprachen, wörtlich: in anderen Zungen. -
+Gemeint ist hier ein Reden in anderen Sprachen, das aber zugleich
+geistgewirktes «Zungenreden» ist; es bestand wohl vor allem in
+Gebetsrufen; vgl. auch Apg 10,46; 19,6; 1 Kor 12,10; 14,5.
+
+^{[[#fnm5][5]]} ℘ 2,11; 10,46; 19,6; Mk 16,17; 1 Kor 12,10.28.30;
+14,1-39
+
+^{[[#fnm6][6]]} ℘ 1 Kor 14,23
+
+^{[[#fnm7][7]]} ℘ Joël 3,1-5
+
+^{[[#fnm8][8]]} ℘ 5,12
+
+^{[[#fnm9][9]]} ℘ Röm 10,13
+
+^{[[#fnm10][10]]} ℘ 10,38; Lk 24,19
+
+^{[[#fnm11][11]]} Zu Nazoräer vgl. die Anmerkung zu Mt 2,23.
+
+^{[[#fnm12][12]]} ℘ 1 Thess 2,15
+
+^{[[#fnm13][13]]} Gesetzlose: Pilatus und die römischen Soldaten.
+
+^{[[#fnm14][14]]} ℘ Ps 16,8-11 G
+
+^{[[#fnm15][15]]} ℘ Ps 132,11; 2 Sam 7,12f
+
+^{[[#fnm16][16]]} ℘ 13,35; Ps 16,10
+
+^{[[#fnm17][17]]} ℘ Ps 110,1
+
+^{[[#fnm18][18]]} ℘ Lk 3,10
+
+^{[[#fnm19][19]]} ℘ Lk 3,3
+
+^{[[#fnm20][20]]} ℘ Jes 57,19; Eph 2,17
+
+^{[[#fnm21][21]]} ℘ Dtn 32,5; Ps 78,8; Lk 9,41; Phil 2,15
+
+^{[[#fnm22][22]]} Die Wendung «Brechen des Brotes» bezeichnet die
+urchristliche Eucharistiefeier, die zuerst noch mit einem «Liebesmahl»
+(einer Agápe) verbunden war; vgl. 20,7-12.
+
+^{[[#fnm23][23]]} ℘ 5,12
+
+^{[[#fnm24][24]]} ℘ 4,32-35
+
+^{[[#fnm25][25]]} ℘ Lk 24,53

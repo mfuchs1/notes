@@ -1,0 +1,246 @@
+:PROPERTIES:
+:ID:       8776f274-fae0-41f3-99e7-d1c834cf33d8
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Offenbarung des Johannes* -- *1*
+[[file:Offb_2.html][2]] [[file:Offb_3.html][3]] ...
+[[file:Offb_22.html][22]]
+
+--------------
+
+* Offb 1
+  :PROPERTIES:
+  :CUSTOM_ID: offb-1
+  :END:
+
+Das letzte Buch des Neuen Testaments heißt »Offenbarung« oder
+»Apokalypse« (griechisch: apokálypsis, Enthüllung). Der Titel stammt vom
+Verfasser selbst (1,1).\\
+\\
+Apokalypsen gab es schon in alttestamentlicher Zeit. Das bekannteste
+Beispiel ist das Buch Daniel (Kap. 7 - 12), das zur Zeit der
+Religionsverfolgung durch den Syrerkönig Antiochus IV. Epiphanes
+(167-164 v. Chr.) geschrieben wurde, um die Israeliten zum treuen
+Festhalten am Bundesgott und seinem Gesetz aufzurufen. Eine ähnliche
+Situation führte zur Abfassung der neutestamentlichen Apokalypse, die
+gegen Ende der Regierungszeit des römischen Kaisers Domitian (81-96 n.
+Chr.) geschrieben wurde.\\
+\\
+Der Verfasser rechnet damit, dass der Zwang zur göttlichen Verehrung des
+Kaisers in nächster Zukunft zu einer schweren Verfolgung der Kirche
+führen wird. Domitian verlangte, als »Herr und Gott« angeredet zu
+werden. In der römischen Provinz Asien wurde der Kaiserkult schon seit
+langem mit besonderem Eifer betrieben. Sieben Gemeinden dieser Provinz,
+die zugleich die ganze Kirche repräsentieren, sind denn auch die
+unmittelbaren Adressaten des Buches (1,4.11).\\
+\\
+Der uns nicht näher bekannte Verfasser nennt sich schlicht »Knecht
+Johannes«; er muss aber eine Persönlichkeit von hoher Autorität gewesen
+sein. Seine gründliche Kenntnis des Alten Testaments und der
+außerbiblischen jüdischen Offenbarungsschriften (Apokalypsen) weisen auf
+judenchristliche Herkunft hin. Er ist der Erste, der eine selbstständige
+christliche Apokalypse verfasst hat. Den Auftrag dazu hat er nach seinen
+eigenen Worten in einer Vision (Schau) vom himmlischen Christus erhalten
+(1,10-20).\\
+\\
+Auf die einleitende Vision folgen zuerst die sog. Sendschreiben, in
+denen sich der himmlische Christus anerkennend, tadelnd und mahnend an
+die sieben Gemeinden wendet (Kap. 2 - 3). Der ungleich längere Hauptteil
+(4,1 - 22,15) beginnt mit der großen Vision vom thronenden Gott im Kreis
+des himmlischen Hofstaates.\\
+\\
+Die Offenbarung geschieht, wie in vorchristlichen apokalyptischen
+Schriften, auch in der christlichen Apokalypse durch »Visionen« und
+»Auditionen« (Schauen und Hören von himmlischen Botschaften). Wie seine
+Vorgänger bedient sich auch Johannes nicht nur der gewöhnlichen, ohne
+weiteres verständlichen Sprache, sondern er verwendet vor allem Bilder,
+Symbole und allegorische Szenen. Und wie dort ist auch hier das
+Hauptthema der bevorstehende Triumph der Herrschaft Gottes. Trotz dieser
+Gemeinsamkeiten ist die Apokalypse des Johannes aber eine echt
+christliche Schrift mit alttestamentlichjüdischen Zeugnissen. Der
+endgültige Sieg Gottes, der für die vorchristlichen »Apokalyptiker« noch
+reine Zukunft ist, hat mit der Auferstehung Jesu bereits begonnen. Ziel
+der Geschichte kann demnach nur noch die Vollendung und volle
+Offenbarung dieses Sieges sein. Der prophetische Verfasser will im Blick
+auf die beginnende Auseinandersetzung zwischen Christuskult und
+Kaiserkult die noch ausstehenden Ereignisse der Endzeit mit den
+Ausdrucksmitteln einer Apokalypse veranschaulichen.\\
+\\
+Die Offenbarung des Johannes will nicht den Gang der Welt- und
+Kirchengeschichte voraussagen. Ebenso wenig ist es ihre Absicht, das mit
+der baldigen Wiederkunft Christi verbundene Geschehen in seinem Ablauf
+genau zu beschreiben. Mit ihren zahlreichen, dem heutigen Leser weithin
+fremden Bildern will sie vielmehr bedeutsame Wahrheiten über das
+Schicksal der Kirche und der ungläubigen Menschheit verkünden, um in den
+Christen die Bereitschaft zum Martyrium zu stärken. Als Zeugnis des
+unerschütterlichen Glaubens an den Sieg Christi und seiner Getreuen ist
+diese einzige prophetische Schrift des Neuen Testaments das große Trost-
+und Mahnbuch der Kirche geworden.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Vorwort: 1,1-3
+   :PROPERTIES:
+   :CUSTOM_ID: vorwort-11-3
+   :END:
+1 Offenbarung Jesu Christi, die Gott ihm gegeben hat, damit er seinen
+Knechten zeigt, /was/ bald /geschehen muss;/ und er hat es durch seinen
+Engel, den er sandte, seinem Knecht Johannes gezeigt. ^{[[#fn1][1]]}
+
+<<v2>>
+2 Dieser hat das Wort Gottes und das Zeugnis Jesu Christi bezeugt:
+alles, was er geschaut hat.
+
+<<v3>>
+3 Selig, wer diese prophetischen Worte vorliest und wer sie hört und wer
+sich an das hält, was geschrieben ist; denn die Zeit ist nahe.
+^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+** Briefliche Einleitung: 1,4-8
+   :PROPERTIES:
+   :CUSTOM_ID: briefliche-einleitung-14-8
+   :END:
+4 Johannes an die sieben Gemeinden in der Provinz Asien: Gnade sei mit
+euch und Friede von /Ihm, der ist/ und der war und der kommt, und von
+den sieben Geistern vor seinem Thron ^{[[#fn3][3]][[#fn4][4]]}
+
+<<v5>>
+5 und von Jesus Christus; er ist /der treue Zeuge, der Erstgeborene/ der
+Toten, /der Herrscher über die Könige der Erde./ Er liebt uns und hat
+uns /von unseren Sünden erlöst/ durch sein Blut; ^{[[#fn5][5]]}
+
+<<v6>>
+6 er hat uns zu Königen gemacht und zu /Priestern/ vor Gott, seinem
+Vater. Ihm sei die Herrlichkeit und die Macht in alle Ewigkeit. Amen.
+^{[[#fn6][6]]}
+
+<<v7>>
+7 /Siehe, er kommt mit den Wolken,/ und jedes Auge wird ihn /sehen,/
+auch alle, /die ihn durchbohrt/ haben; und alle Völker der Erde /werden
+seinetwegen jammern und klagen./ Ja, amen. ^{[[#fn7][7]]}
+
+<<v8>>
+8 Ich bin das Alpha und das Omega, spricht Gott, der Herr, /der ist/ und
+der war und der kommt, der Herrscher über die ganze Schöpfung.
+^{[[#fn8][8]][[#fn9][9]]}\\
+\\
+
+<<v9>>
+** Die Sendschreiben an die sieben Gemeinden: 1,9 - 3,22
+   :PROPERTIES:
+   :CUSTOM_ID: die-sendschreiben-an-die-sieben-gemeinden-19---322
+   :END:
+**** Die Beauftragung des Johannes: 1,9-20
+     :PROPERTIES:
+     :CUSTOM_ID: die-beauftragung-des-johannes-19-20
+     :END:
+9 Ich, euer Bruder Johannes, der wie ihr bedrängt ist, der mit euch an
+der Königsherrschaft teilhat und mit euch in Jesus standhaft ausharrt,
+ich war auf der Insel Patmos um des Wortes Gottes willen und des
+Zeugnisses für Jesus.
+
+<<v10>>
+10 Am Tag des Herrn wurde ich vom Geist ergriffen und hörte hinter mir
+eine Stimme, laut wie eine Posaune. ^{[[#fn10][10]][[#fn11][11]]}
+
+<<v11>>
+11 Sie sprach: Schreib das, was du siehst, in ein Buch und schick es an
+die sieben Gemeinden: nach Ephesus, nach Smyrna, nach Pergamon, nach
+Thyatira, nach Sardes, nach Philadelphia und nach Laodizea.
+^{[[#fn12][12]]}
+
+<<v12>>
+12 Da wandte ich mich um, weil ich sehen wollte, wer zu mir sprach. Als
+ich mich umwandte, sah ich sieben goldene Leuchter
+
+<<v13>>
+13 und mitten unter den Leuchtern einen, der /wie ein Mensch/ aussah;
+/er/ war /bekleidet mit einem Gewand,/ das bis auf die Füße reichte, und
+um die Brust trug er /einen Gürtel aus Gold./
+^{[[#fn13][13]][[#fn14][14]]}
+
+<<v14>>
+14 Sein Haupt und /seine Haare/ waren /weiß wie weiße Wolle, leuchtend
+weiß wie Schnee,/ und seine /Augen wie Feuerflammen;/ ^{[[#fn15][15]]}
+
+<<v15>>
+15 /seine Beine glänzten wie Golderz,/ das im Schmelzofen glüht, und
+/seine Stimme/ war /wie das Rauschen von Wassermassen./ ^{[[#fn16][16]]}
+
+<<v16>>
+16 In seiner Rechten hielt er sieben Sterne und aus seinem Mund kam ein
+scharfes, zweischneidiges Schwert und sein Gesicht leuchtete wie die
+machtvoll strahlende Sonne. ^{[[#fn17][17]]}
+
+<<v17>>
+17 Als ich ihn sah, fiel ich wie tot vor seinen Füßen nieder. Er aber
+legte seine rechte Hand auf mich und sagte: /Fürchte dich nicht! Ich bin
+der Erste und der Letzte/ ^{[[#fn18][18]]}
+
+<<v18>>
+18 und der Lebendige. Ich war tot, doch nun lebe ich in alle Ewigkeit,
+und ich habe die Schlüssel zum Tod und zur Unterwelt. ^{[[#fn19][19]]}
+
+<<v19>>
+19 Schreib auf, was du gesehen hast: was ist und /was/ danach
+/geschehen/ wird. ^{[[#fn20][20]]}
+
+<<v20>>
+20 Der geheimnisvolle Sinn der sieben Sterne, die du auf meiner rechten
+Hand gesehen hast, und der sieben goldenen Leuchter ist: Die sieben
+Sterne sind die Engel der sieben Gemeinden und die sieben Leuchter sind
+die sieben Gemeinden. ^{[[#fn21][21]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Dan 2,28f
+
+^{[[#fnm2][2]]} ℘ 14,13; 16,15; 19,9; 20,6; 22,7.14
+
+^{[[#fnm3][3]]} ℘ 1 Kor 16,19; Ex 3,14 G
+
+^{[[#fnm4][4]]} «Sieben» ist die symbolische Zahl der Ganzheit und
+Vollkommenheit. «Die sieben Gemeinden in der Provinz Asien» vertreten
+also die Gesamtkirche.
+
+^{[[#fnm5][5]]} ℘ Ps 89,38.28; 130,8
+
+^{[[#fnm6][6]]} ℘ 5,10; Ex 19,6; Jes 61,6
+
+^{[[#fnm7][7]]} ℘ Dan 7,13; Sach 12,10
+
+^{[[#fnm8][8]]} ℘ Ex 3,14 G
+
+^{[[#fnm9][9]]} Alpha ist der erste, Omega der letzte Buchstabe des
+griechischen Alphabets: Gott umfasst alle Bereiche der Wirklichkeit.
+
+^{[[#fnm10][10]]} ℘ Apg 20,7; 1 Kor 16,2
+
+^{[[#fnm11][11]]} 10-20: Die Vision von der Beauftragung des Johannes
+ist das erste Beispiel apokalyptischer Bildsprache in der Offenbarung.
+
+^{[[#fnm12][12]]} ℘ 1 Kor 16,19; Offb 2,1-7.8-11.12-17.18-29;
+3,1-6.7-13.14-22
+
+^{[[#fnm13][13]]} ℘ Dan 7,13; Ez 9,2.11 G; Dan 10,5
+
+^{[[#fnm14][14]]} ein Mensch, wörtlich: ein Menschensohn.
+
+^{[[#fnm15][15]]} ℘ Dan 7,9; 10,6
+
+^{[[#fnm16][16]]} ℘ Ez 1,24; 43,2
+
+^{[[#fnm17][17]]} ℘ 2,1; Ri 5,31
+
+^{[[#fnm18][18]]} ℘ Jes 44,2.6; Offb 2,8; 22,13
+
+^{[[#fnm19][19]]} ℘ Hos 13,14
+
+^{[[#fnm20][20]]} ℘ Dan 2,29
+
+^{[[#fnm21][21]]} Zu «Engel der sieben Gemeinden» vgl. die Anmerkung zu
+2,1.

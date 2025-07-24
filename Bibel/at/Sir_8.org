@@ -1,0 +1,141 @@
+:PROPERTIES:
+:ID:       eafca497-2370-4198-9c14-9a0991dceaad
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_6.html][6]] [[file:Sir_7.html][7]]
+*8* [[file:Sir_9.html][9]] [[file:Sir_10.html][10]] ...
+[[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 8
+  :PROPERTIES:
+  :CUSTOM_ID: sir-8
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Takt und Klugheit: 8,1-19
+     :PROPERTIES:
+     :CUSTOM_ID: takt-und-klugheit-81-19
+     :END:
+1 Streite nicht mit einem Mächtigen, /\\
+ damit du ihm nicht in die Hände fällst. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Kämpf nicht gegen einen Reichen an, /\\
+ sonst wirft er zu deinem Verderben sein Geld ins Gewicht. Schon viele
+hat das Geld übermütig gemacht, /\\
+ die Herzen der Großen hat es verführt.\\
+\\
+
+<<v3>>
+3 Zank nicht mit einem Schwätzer /\\
+ und leg nicht noch Holz auf das Feuer! ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Pflege keinen Umgang mit einem Toren; /\\
+ er wird die Weisen doch nur verachten. ^{[[#fn3][3]]}\\
+\\
+
+<<v5>>
+5 Beschäm keinen, der sich von der Sünde bekehrt hat; /\\
+ denk daran, dass wir alle schuldig sind.\\
+\\
+
+<<v6>>
+6 Beschimpf keinen alten Mann, /\\
+ denn auch mancher von uns wird ein Greis.\\
+\\
+
+<<v7>>
+7 Freu dich nicht, wenn einer gestorben ist, /\\
+ bedenk: Wir alle werden sterben.\\
+\\
+
+<<v8>>
+8 Verwirf die Rede der Weisen nicht, /\\
+ wirf dich vielmehr auf ihre Sinnsprüche! Denn dadurch wirst du Bildung
+lernen, /\\
+ um vor Fürsten stehen zu können. ^{[[#fn4][4]]}\\
+\\
+
+<<v9>>
+9 Verachte nicht die Überlieferung der Alten, /\\
+ die sie übernommen haben von ihren Vätern. Dann wirst du Einsicht
+lernen, /\\
+ um antworten zu können, sobald es notwendig ist.\\
+\\
+
+<<v10>>
+10 Entzünde nicht die Glut des Frevlers, /\\
+ damit du in der Flamme seines Feuers nicht verbrennst.\\
+\\
+
+<<v11>>
+11 Weich einem Zuchtlosen nicht aus, /\\
+ sonst lauert er heimlich auf deine Reden.\\
+\\
+
+<<v12>>
+12 Borge keinem, der mächtiger ist als du. /\\
+ Hast du geborgt, so hast du verloren. ^{[[#fn5][5]]}\\
+\\
+
+<<v13>>
+13 Bürge für keinen, der höher steht als du. /\\
+ Hast du gebürgt, so musst du zahlen. ^{[[#fn6][6]]}\\
+\\
+
+<<v14>>
+14 Rechte nicht mit einem Richter; /\\
+ denn er spricht Recht, wie es ihm beliebt.\\
+\\
+
+<<v15>>
+15 Mit einem Gewalttätigen geh nicht des Wegs, /\\
+ damit du nicht schweres Unheil über dich bringst. Denn er läuft
+rücksichtslos weiter /\\
+ und du gehst zugrunde durch seinen Unverstand.\\
+\\
+
+<<v16>>
+16 Einem Jähzornigen biete nicht die Stirn /\\
+ und reite mit ihm nicht durch die Wüste! Leicht wiegt in seinen Augen
+die Blutschuld; /\\
+ wenn kein Helfer da ist, bringt er dich um. ^{[[#fn7][7]]}\\
+\\
+
+<<v17>>
+17 Führe kein vertrauliches Gespräch mit einem Toren; /\\
+ er kann dein Geheimnis nicht für sich behalten.\\
+\\
+
+<<v18>>
+18 Vor einem Fremden tu nichts, was geheim bleiben soll; /\\
+ du weißt nicht, wie er sich am Ende verhält.\\
+\\
+
+<<v19>>
+19 Öffne dein Herz nicht jedem Menschen /\\
+ und wirf das Glück nicht von dir!\\
+\\
+
+^{[[#fnm1][1]]} ℘ Koh 10,20
+
+^{[[#fnm2][2]]} ℘ 28,10
+
+^{[[#fnm3][3]]} ℘ 9,15f; Spr 23,9
+
+^{[[#fnm4][4]]} 8ab: Auch in H liegt ein Wortspiel vor.
+
+^{[[#fnm5][5]]} ℘ 29,1-20
+
+^{[[#fnm6][6]]} ℘ Spr 6,1-5
+
+^{[[#fnm7][7]]} ℘ 28,8; Spr 22,24

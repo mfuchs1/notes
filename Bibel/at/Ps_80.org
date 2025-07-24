@@ -1,0 +1,143 @@
+#+TITLE: Ps 80 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-03 Sa 22:10]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 80.html
+
+* Ps 80
+
+<<verses>>
+
+<<v1>>
+* Bitte für Israel, den Weinstock Gottes
+
+1 [Für den Chormeister. Nach der Weise «Lilien». Ein Zeugnis. Ein Psalm
+Asafs.]\\
+\\
+
+<<v2>>
+2 Du Hirte Israels, höre, /\\
+ der du Josef weidest wie eine Herde! Der du auf den Kerubim thronst,
+erscheine / [fn:1]\\
+\\
+
+<<v3>>
+3 vor Efraim, Benjamin und Manasse! Biete deine gewaltige Macht auf /\\
+ und komm uns zu Hilfe!\\
+\\
+
+<<v4>>
+4 Gott, richte uns wieder auf! /\\
+ Lass dein Angesicht leuchten, dann ist uns geholfen. [fn:2]\\
+\\
+
+<<v5>>
+5 Herr, Gott der Heerscharen, wie lange noch zürnst du, /\\
+ während dein Volk zu dir betet?\\
+\\
+
+<<v6>>
+6 Du hast sie gespeist mit Tränenbrot, /\\
+ sie überreich getränkt mit Tränen. [fn:3]\\
+\\
+
+<<v7>>
+7 Du machst uns zum Spielball der Nachbarn /\\
+ und unsere Feinde verspotten uns. [fn:4] [fn:5]\\
+\\
+
+<<v8>>
+8 Gott der Heerscharen, richte uns wieder auf! /\\
+ Lass dein Angesicht leuchten, dann ist uns geholfen.\\
+\\
+
+<<v9>>
+9 Du hobst in Ägypten einen Weinstock aus, /\\
+ du hast Völker vertrieben, ihn aber eingepflanzt. [fn:6]\\
+\\
+
+<<v10>>
+10 Du schufst ihm weiten Raum; /\\
+ er hat Wurzeln geschlagen /\\
+ und das ganze Land erfüllt.\\
+\\
+
+<<v11>>
+11 Sein Schatten bedeckte die Berge, /\\
+ seine Zweige die Zedern Gottes. [fn:7]\\
+\\
+
+<<v12>>
+12 Seine Ranken trieb er bis hin zum Meer /\\
+ und seine Schößlinge bis zum Eufrat.\\
+\\
+
+<<v13>>
+13 Warum rissest du seine Mauern ein? /\\
+ Alle, die des Weges kommen, plündern ihn aus. [fn:8]\\
+\\
+
+<<v14>>
+14 Der Eber aus dem Wald wühlt ihn um, /\\
+ die Tiere des Feldes fressen ihn ab.\\
+\\
+
+<<v15>>
+15 Gott der Heerscharen, wende dich uns wieder zu! /\\
+ Blick vom Himmel herab, und sieh auf uns! Sorge für diesen Weinstock
+/\\
+\\
+
+<<v16>>
+16 und für den Garten, den deine Rechte gepflanzt hat. [fn:9]\\
+\\
+
+<<v17>>
+17 Die ihn im Feuer verbrannten wie Kehricht, /\\
+ sie sollen vergehen vor deinem drohenden Angesicht. [fn:10]\\
+\\
+
+<<v18>>
+18 Deine Hand schütze den Mann zu deiner Rechten, /\\
+ den Menschensohn, den du für dich groß und stark gemacht.\\
+\\
+
+<<v19>>
+19 Erhalt uns am Leben! /\\
+ Dann wollen wir deinen Namen anrufen und nicht von dir weichen.\\
+\\
+
+<<v20>>
+20 Herr, Gott der Heerscharen, richte uns wieder auf! /\\
+ Lass dein Angesicht leuchten, dann ist uns geholfen.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_23.org::v1][23,1]]; [[file:Ps_95.org::v7][95,7]]
+
+[fn:2] [[file:Ps_85.org::v5][85,5]]; [[file:Ps_4.org::v7][4,7]]
+
+[fn:3] [[file:Ps_42.org::v4][42,4]]
+
+[fn:4] [[file:Ps_44.org::v14][44,14]]
+
+[fn:5] Nach G, S und der griechischen Übersetzung des Symmachus.
+
+[fn:6] [[file:Jer_2.org::v21][Jer 2,21]]
+
+[fn:7] (11-12) [[file:Dtn_11.org::v24][Dtn 11,24]]
+
+[fn:8] [[file:Ps_89.org::v41][89,41f]]
+
+[fn:9] Text korr.; H fügt aus V. 18 hinzu: und den Sohn, den du
+großzogst.
+
+[fn:10]  [[file:Ez_15.org::v2][Ez 15,2-4]]

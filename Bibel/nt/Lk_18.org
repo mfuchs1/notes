@@ -1,0 +1,301 @@
+:PROPERTIES:
+:ID:       3ef83e7c-e1a3-46a8-a59f-d2fb171c8c40
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Lukas* --
+[[file:Lk_1.html][1]] ... [[file:Lk_16.html][16]]
+[[file:Lk_17.html][17]] *18* [[file:Lk_19.html][19]]
+[[file:Lk_20.html][20]] ... [[file:Lk_24.html][24]]
+
+--------------
+
+* Lk 18
+  :PROPERTIES:
+  :CUSTOM_ID: lk-18
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das Gleichnis vom gottlosen Richter und der Witwe: 18,1-8
+     :PROPERTIES:
+     :CUSTOM_ID: das-gleichnis-vom-gottlosen-richter-und-der-witwe-181-8
+     :END:
+1 Jesus sagte ihnen durch ein Gleichnis, dass sie allezeit beten und
+darin nicht nachlassen sollten: ^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 236\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 In einer Stadt lebte ein Richter, der Gott nicht fürchtete und auf
+keinen Menschen Rücksicht nahm.
+
+<<v3>>
+3 In der gleichen Stadt lebte auch eine Witwe, die immer wieder zu ihm
+kam und sagte: Verschaff mir Recht gegen meinen Feind!
+
+<<v4>>
+4 Lange wollte er nichts davon wissen. Dann aber sagte er sich: Ich
+fürchte zwar Gott nicht und nehme auch auf keinen Menschen Rücksicht;
+
+<<v5>>
+5 trotzdem will ich dieser Witwe zu ihrem Recht verhelfen, denn sie
+lässt mich nicht in Ruhe. Sonst kommt sie am Ende noch und schlägt mich
+ins Gesicht.
+
+<<v6>>
+6 Und der Herr fügte hinzu: Bedenkt, was der ungerechte Richter sagt.
+
+<<v7>>
+7 Sollte Gott seinen Auserwählten, die Tag und Nacht zu ihm schreien,
+nicht zu ihrem Recht verhelfen, sondern zögern? ^{[[#fn2][2]]}
+
+<<v8>>
+8 Ich sage euch: Er wird ihnen unverzüglich ihr Recht verschaffen. Wird
+jedoch der Menschensohn, wenn er kommt, auf der Erde (noch) Glauben
+vorfinden?\\
+\\
+
+<<v9>>
+**** Das Beispiel vom Pharisäer und vom Zöllner: 18,9-14
+     :PROPERTIES:
+     :CUSTOM_ID: das-beispiel-vom-pharisäer-und-vom-zöllner-189-14
+     :END:
+9 Einigen, die von ihrer eigenen Gerechtigkeit überzeugt waren und die
+anderen verachteten, erzählte Jesus dieses Beispiel:
+^{[[#fn3][3]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 237\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v10>>
+10 Zwei Männer gingen zum Tempel hinauf, um zu beten; der eine war ein
+Pharisäer, der andere ein Zöllner.
+
+<<v11>>
+11 Der Pharisäer stellte sich hin und sprach leise dieses Gebet: Gott,
+ich danke dir, dass ich nicht wie die anderen Menschen bin, die Räuber,
+Betrüger, Ehebrecher oder auch wie dieser Zöllner dort.
+
+<<v12>>
+12 Ich faste zweimal in der Woche und gebe dem Tempel den zehnten Teil
+meines ganzen Einkommens. ^{[[#fn4][4]]}
+
+<<v13>>
+13 Der Zöllner aber blieb ganz hinten stehen und wagte nicht einmal,
+seine Augen zum Himmel zu erheben, sondern schlug sich an die Brust und
+betete: Gott, sei mir Sünder gnädig! ^{[[#fn5][5]]}
+
+<<v14>>
+14 Ich sage euch: Dieser kehrte als Gerechter nach Hause zurück, der
+andere nicht. Denn wer sich selbst erhöht, wird erniedrigt, wer sich
+aber selbst erniedrigt, wird erhöht werden. ^{[[#fn6][6]]}\\
+\\
+
+<<v15>>
+**** Die Segnung der Kinder: 18,15-17
+     :PROPERTIES:
+     :CUSTOM_ID: die-segnung-der-kinder-1815-17
+     :END:
+15 Man brachte auch kleine Kinder zu ihm, damit er ihnen die Hände
+auflegte. Als die Jünger das sahen, wiesen sie die Leute schroff ab.
+^{[[#fn7][7]][[#fn8][8]][[#fn9][9]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 253\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v16>>
+16 Jesus aber rief die Kinder zu sich und sagte: Lasst die Kinder zu mir
+kommen; hindert sie nicht daran! Denn Menschen wie ihnen gehört das
+Reich Gottes.
+
+<<v17>>
+17 Amen, das sage ich euch: Wer das Reich Gottes nicht so annimmt wie
+ein Kind, der wird nicht hineinkommen. ^{[[#fn10][10]]}\\
+\\
+
+<<v18>>
+**** Von Reichtum und Nachfolge: 18,18-30
+     :PROPERTIES:
+     :CUSTOM_ID: von-reichtum-und-nachfolge-1818-30
+     :END:
+18 Einer von den führenden Männern fragte ihn: Guter Meister, was muss
+ich tun, um das ewige Leben zu gewinnen?
+^{[[#fn11][11]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 254\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v19>>
+19 Jesus antwortete: Warum nennst du mich gut? Niemand ist gut außer
+Gott, dem Einen. ^{[[#fn12][12]]}
+
+<<v20>>
+20 Du kennst doch die Gebote: /Du sollst nicht die Ehe brechen, du
+sollst nicht töten, du sollst nicht stehlen, du sollst nicht falsch
+aussagen; ehre deinen Vater und deine Mutter!/ ^{[[#fn13][13]]}
+
+<<v21>>
+21 Er erwiderte: Alle diese Gebote habe ich von Jugend an befolgt.
+
+<<v22>>
+22 Als Jesus das hörte, sagte er: Eines fehlt dir noch: Verkauf alles,
+was du hast, verteil das Geld an die Armen und du wirst einen bleibenden
+Schatz im Himmel haben; dann komm und folge mir nach! ^{[[#fn14][14]]}
+
+<<v23>>
+23 Der Mann aber wurde sehr traurig, als er das hörte; denn er war
+überaus reich.
+
+<<v24>>
+24 Jesus sah ihn an und sagte: Wie schwer ist es für Menschen, die viel
+besitzen, in das Reich Gottes zu kommen!
+^{[[#fn15][15]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 255\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v25>>
+25 Denn eher geht ein Kamel durch ein Nadelöhr, als dass ein Reicher in
+das Reich Gottes gelangt.
+
+<<v26>>
+26 Die Leute, die das hörten, fragten: Wer kann dann noch gerettet
+werden?
+
+<<v27>>
+27 Er erwiderte: Was für Menschen unmöglich ist, ist /für Gott möglich./
+^{[[#fn16][16]]}
+
+<<v28>>
+28 Da sagte Petrus: Du weißt, wir haben unser Eigentum verlassen und
+sind dir nachgefolgt.
+
+<<v29>>
+29 Jesus antwortete ihnen: Amen, ich sage euch: Jeder, der um des
+Reiches Gottes willen Haus oder Frau, Brüder, Eltern oder Kinder
+verlassen hat,
+
+<<v30>>
+30 wird dafür schon in dieser Zeit das Vielfache erhalten und in der
+kommenden Welt das ewige Leben.\\
+\\
+
+<<v31>>
+**** Die dritte Ankündigung von Leiden und Auferstehung: 18,31-34
+     :PROPERTIES:
+     :CUSTOM_ID: die-dritte-ankündigung-von-leiden-und-auferstehung-1831-34
+     :END:
+31 Jesus versammelte die Zwölf um sich und sagte zu ihnen: Wir gehen
+jetzt nach Jerusalem hinauf; dort wird sich alles erfüllen, was bei den
+Propheten über den Menschensohn steht: ^{[[#fn17][17]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 262\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v32>>
+32 Er wird den Heiden ausgeliefert, wird verspottet, misshandelt und
+angespuckt werden, ^{[[#fn18][18]]}
+
+<<v33>>
+33 und man wird ihn geißeln und töten. Aber am dritten Tag wird er
+auferstehen. ^{[[#fn19][19]]}
+
+<<v34>>
+34 Doch die Zwölf verstanden das alles nicht; der Sinn der Worte war
+ihnen verschlossen und sie begriffen nicht, was er sagte.
+^{[[#fn20][20]]}\\
+\\
+
+<<v35>>
+**** Die Heilung eines Blinden bei Jericho: 18,35-43
+     :PROPERTIES:
+     :CUSTOM_ID: die-heilung-eines-blinden-bei-jericho-1835-43
+     :END:
+35 Als Jesus in die Nähe von Jericho kam, saß ein Blinder an der Straße
+und bettelte. ^{[[#fn21][21]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 264\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v36>>
+36 Er hörte, dass viele Menschen vorbeigingen, und fragte: Was hat das
+zu bedeuten?
+
+<<v37>>
+37 Man sagte ihm: Jesus von Nazaret geht vorüber.
+
+<<v38>>
+38 Da rief er: Jesus, Sohn Davids, hab Erbarmen mit mir!
+
+<<v39>>
+39 Die Leute, die vorausgingen, wurden ärgerlich und befahlen ihm zu
+schweigen. Er aber schrie noch viel lauter: Sohn Davids, hab Erbarmen
+mit mir!
+
+<<v40>>
+40 Jesus blieb stehen und ließ ihn zu sich herführen. Als der Mann vor
+ihm stand, fragte ihn Jesus:
+
+<<v41>>
+41 Was soll ich dir tun? Er antwortete: Herr, ich möchte wieder sehen
+können.
+
+<<v42>>
+42 Da sagte Jesus zu ihm: Du sollst wieder sehen. Dein Glaube hat dir
+geholfen. ^{[[#fn22][22]]}
+
+<<v43>>
+43 Im gleichen Augenblick konnte er wieder sehen. Da pries er Gott und
+folgte Jesus. Und alle Leute, die das gesehen hatten, lobten Gott.\\
+\\
+
+^{[[#fnm1][1]]} ℘ ⇨Esyn: Synopse Nr. 236
+
+^{[[#fnm2][2]]} sondern zögern, andere Übersetzungsmöglichkeit: während
+er ihnen geduldig zuhört.
+
+^{[[#fnm3][3]]} ℘ ⇨Esyn: Synopse Nr. 237
+
+^{[[#fnm4][4]]} ℘ Mt 23,23
+
+^{[[#fnm5][5]]} ℘ Ps 51,3
+
+^{[[#fnm6][6]]} ℘ 14,11; Mt 23,12
+
+^{[[#fnm7][7]]} ℘ (15-17) Mt 19,13-15; Mk 10,13-16
+
+^{[[#fnm8][8]]} Wörtlich: damit er sie berührte.
+
+^{[[#fnm9][9]]} ℘ ⇨Esyn: Synopse Nr. 253
+
+^{[[#fnm10][10]]} ℘ Mt 18,3
+
+^{[[#fnm11][11]]} ℘ 10,25; (18-30) Mt 19,18-30; Mk 10,17-31 ⇨Esyn:
+Synopse Nr. 254
+
+^{[[#fnm12][12]]} ℘ Dtn 6,4
+
+^{[[#fnm13][13]]} ℘ Ex 20,12-16; Dtn 5,16-20
+
+^{[[#fnm14][14]]} ℘ 12,33; Mt 8,22
+
+^{[[#fnm15][15]]} ℘ ⇨Esyn: Synopse Nr. 255
+
+^{[[#fnm16][16]]} ℘ Gen 18,14; Ijob 42,2; Lk 1,37
+
+^{[[#fnm17][17]]} ℘ (31-34) Mt 20,17-19; Mk 10,32-34 ⇨Esyn: Synopse Nr.
+262
+
+^{[[#fnm18][18]]} ℘ 9,22.44; 17,25
+
+^{[[#fnm19][19]]} ℘ 24,6f
+
+^{[[#fnm20][20]]} ℘ 9,45
+
+^{[[#fnm21][21]]} ℘ (35-43) Mt 9,27-31; Mt 20,29-34; Mk 10,46-52 ⇨Esyn:
+Synopse Nr. 264
+
+^{[[#fnm22][22]]} ℘ 7,50; 8,48; Mt 9,22; Mk 5,34

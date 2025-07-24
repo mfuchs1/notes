@@ -1,0 +1,59 @@
+#+title:      Weihnachtsgottesdienst
+#+date:       [2024-12-05 Do 09:51]
+#+filetags:   :schule:
+#+identifier: 20241205T095119
+
+* Thema
+Licht des Friedens
+
+* Kyrie
+Herr, auf dich warten die Völker und die Nationen, schenke uns in dieser Zeit des Advents neu das Licht deiner Gegenwart.
+
+Jesus, auf dich vertrauen wir, ermutige uns dieses Vertrauen anzunehmen und es an unsere Mitmenschen weiterzugeben.
+
+Herr, auf dich hoffen die Menschen, schenke uns Bereitschaft zur Versöhnung mit uns selbst und allen Menschen. 
+
+* Lesung
+Jesaja 7,10-14 - Gott Immanuel (Gott ist mit uns)
+
+#+begin_src text
+Lesung
+aus dem Buch Jesája.
+In jenen Tagen
+sprach der Herr zu Ahas – dem König von Juda –
+und sagte:
+Erbitte dir ein Zeichen vom Herrn, deinem Gott,
+tief zur Unterwelt
+oder hoch nach oben hin!
+Ahas antwortete:
+Ich werde um nichts bitten
+und den Herrn nicht versuchen.
+Da sagte Jesája:
+Hört doch, Haus Davids!
+Genügt es euch nicht, Menschen zu ermüden,
+dass ihr auch noch meinen Gott ermüdet?
+Darum wird der Herr selbst euch ein Zeichen geben:
+Siehe, die Jungfrau hat empfangen,
+sie gebiert einen Sohn
+und wird ihm den Namen Immánuel
+– Gott mit uns – geben.
+#+end_src
+
+* Fürbitten
+Insgesamt sechs Fürbitten (2 pro Klasse)
+
+Die Frage ist, ob das "die Schüler selber schreiben" überhaupt klappen wird. Sollte ich nicht eher alle Fürbitten und Texte selber schreiben und die Schüler nur vorlesen lassen?
+
+- Für die Armen und Kranken
+- Für den Frieden in den Kriegsgebieten; in unseren Herzen und Familien
+  
+- Für die Einsamen, jene die ohne Familie / oder weit weg von der Familie Weihnachten feiern
+  (Marlene 3c)
+- Für jene, die von Sorgen erdrückt werden - um Kraft und Hoffnung
+  
+- Für jene, die dunkle Stunden erleben - um Gottes Licht
+- Für unsere Verstorbenen
+  (Emily 3c)
+
+
+* Ablauf

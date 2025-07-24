@@ -1,0 +1,70 @@
+#+TITLE: Jos 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 12:02]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 20.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Asylstädte: 20,1-9
+
+1 Damals sagte der Herr zu Josua: [fn:1]
+
+<<v2>>
+2 Sag den Israeliten: Bestimmt die Asylstädte bei euch, von denen ich zu
+euch durch Mose gesprochen habe.
+
+<<v3>>
+3 Dorthin kann jeder fliehen, der getötet hat, das heißt, der
+versehentlich, ohne Vorsatz, einen Menschen erschlagen hat. Die Städte
+sollen euch als Asyl vor dem Bluträcher dienen.
+
+<<v4>>
+4 Wenn jemand in eine von diesen Städten flieht, soll er am Eingang des
+Stadttors stehen bleiben und den Ältesten der Stadt seine Sache
+vortragen. Sie sollen ihn zu sich in die Stadt aufnehmen und ihm eine
+Unterkunft geben, damit er bei ihnen bleiben kann.
+
+<<v5>>
+5 Wenn dann der Bluträcher ihn verfolgt, sollen sie ihm den, der getötet
+hat, nicht ausliefern; denn er hat seinen Nächsten versehentlich
+erschlagen und ohne ihn vorher gehasst zu haben.
+
+<<v6>>
+6 Er soll in dieser Stadt bleiben, bis er vor die Gemeinde zur
+Gerichtsverhandlung treten kann, bis zum Tod des Hohenpriesters, der in
+jenen Tagen im Amt ist. Dann darf der, der getötet hat, wieder in seine
+Stadt und in sein Haus zurückkehren - in die Stadt, aus der er geflohen
+ist.
+
+<<v7>>
+7 Man wählte also Kedesch in Galiläa, im Gebirge Naftali, aus, ferner
+Sichem im Gebirge Efraim und Kirjat-Arba, das ist Hebron, im Gebirge
+Juda. [fn:2]
+
+<<v8>>
+8 Jenseits des Jordan [östlich von Jericho] bestimmte man Bezer in der
+Steppe, in der Ebene, vom Stamm Ruben, Ramot in Gilead vom Stamm Gad und
+Golan im Baschan vom Stamm Manasse.
+
+<<v9>>
+9 Das waren die Asylstädte für alle Israeliten und für die Fremden, die
+sich bei ihnen aufhielten. Dorthin konnte jeder, der ohne Vorsatz einen
+Menschen erschlagen hatte, fliehen, um nicht durch die Hand des
+Bluträchers zu sterben, bevor er vor der Gemeinde gestanden hätte.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-9) [[file:Num_35.org::v9][Num 35,9-29]]; [[file:Dtn_19.org::v1][Dtn 19,1-10]]
+
+[fn:2] Man wählte: Text korr. (vgl. Num 35,11); H: Sie heiligten;
+wohl unter Einfluss des folgenden Namens Kedesch (Heiligtum).

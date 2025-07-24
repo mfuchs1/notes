@@ -1,0 +1,102 @@
+#+TITLE: Ps 76 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-02 Fr 17:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 76.html
+
+* Ps 76
+
+<<verses>>
+
+<<v1>>
+* Der Weltenrichter auf dem Zion
+
+1 [Für den Chormeister. Mit Saitenspiel. Ein Psalm Asafs. Ein Lied.]\\
+\\
+
+<<v2>>
+2 Gott gab sich zu erkennen in Juda, /\\
+ sein Name ist groß in Israel.\\
+\\
+
+<<v3>>
+3 Sein Zelt erstand in Salem, /\\
+ seine Wohnung auf dem Zion. [fn:1]\\
+\\
+
+<<v4>>
+4 Dort zerbrach er die blitzenden Pfeile des Bogens, /\\
+ Schild und Schwert, die Waffen des Krieges. [Sela] [fn:2]\\
+\\
+
+<<v5>>
+5 Du bist furchtbar und herrlich, /\\
+ mehr als die ewigen Berge. [fn:3]\\
+\\
+
+<<v6>>
+6 Ausgeplündert sind die tapferen Streiter, /\\
+ sie sinken hin in den Schlaf; /\\
+ allen Helden versagen die Hände. [fn:4]\\
+\\
+
+<<v7>>
+7 Wenn du drohst, Gott Jakobs, /\\
+ erstarren Rosse und Wagen.\\
+\\
+
+<<v8>>
+8 Furchtbar bist du. Wer kann bestehen vor dir, /\\
+ vor der Gewalt deines Zornes? [fn:5]\\
+\\
+
+<<v9>>
+9 Vom Himmel her machst du das Urteil bekannt; /\\
+ Furcht packt die Erde, und sie verstummt,\\
+\\
+
+<<v10>>
+10 wenn Gott sich erhebt zum Gericht, /\\
+ um allen Gebeugten auf der Erde zu helfen. [Sela]\\
+\\
+
+<<v11>>
+11 Denn auch der Mensch voll Trotz muss dich preisen /\\
+ und der Rest der Völker dich feiern. [fn:6]\\
+\\
+
+<<v12>>
+12 Legt Gelübde ab und erfüllt sie dem Herrn, eurem Gott! /\\
+ Ihr alle ringsum, bringt Gaben ihm, den ihr fürchtet. [fn:7]\\
+\\
+
+<<v13>>
+13 Er nimmt den Fürsten den Mut; /\\
+ Furcht erregend ist er für die Könige der Erde.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_87.org::v2][87,2]]; [[file:Ps_132.org::v13][132,13]]
+
+[fn:2] [[file:Ps_46.org::v10][46,10]]; [[file:Jdt_9.org::v7][Jdt 9,7]]
+
+[fn:3] furchtbar: nach der aramäischen Übersetzung und nach der
+griechischen von Theodotion; H: leuchtend. Text korr. nach G.
+
+[fn:4] [[file:2.Kön_19.org::v35][2 Kön 19,35]]; [[file:Jer_51.org::v39][Jer 51,39]].[[file:Jer_51.org::v57][57]]
+
+[fn:5] [[file:Dtn_7.org::v21][Dtn 7,21]]; [[file:Nah_1.org::v6][Nah 1,6]]
+
+[fn:6] dich feiern: Text korr.; H: du gürtest dich. - Andere
+Übersetzungsmöglichkeit: Ja, das grimmige Edom soll dich preisen, der
+Rest Hamats dich feiern.
+
+[fn:7] [[file:Ps_66.org::v13][66,13]]

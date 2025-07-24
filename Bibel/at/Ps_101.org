@@ -1,0 +1,79 @@
+#+TITLE: Ps 101 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-08 Do 18:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 101.html
+
+* Ps 101
+
+<<verses>>
+
+<<v1>>
+* Die Vorsätze eines Königs
+
+1 [Ein Psalm Davids.] Von Gnade und Recht will ich singen; /\\
+ dir, o Herr, will ich spielen. [fn:1]\\
+\\
+
+<<v2>>
+2 Ich will auf den Weg der Bewährten achten. /\\
+ Wann kommst du zu mir? /\\
+ Ich lebe in der Stille meines Hauses mit lauterem Herzen. [fn:2] [fn:3]\\
+\\
+
+<<v3>>
+3 Ich richte mein Auge nicht auf Schändliches; /\\
+ ich hasse es, Unrecht zu tun, es soll nicht an mir haften.\\
+\\
+
+<<v4>>
+4 Falschheit sei meinem Herzen fern; /\\
+ ich will das Böse nicht kennen.\\
+\\
+
+<<v5>>
+5 Wer den Nächsten heimlich verleumdet, /\\
+ den bring ich zum Schweigen. Stolze Augen und hochmütige Herzen /\\
+ kann ich nicht ertragen. [fn:4]\\
+\\
+
+<<v6>>
+6 Meine Augen suchen die Treuen im Land; /\\
+ sie sollen bei mir wohnen. /\\
+ Wer auf rechten Wegen geht, der darf mir dienen. [fn:5]\\
+\\
+
+<<v7>>
+7 In meinem Haus soll kein Betrüger wohnen; /\\
+ kein Lügner kann vor meinen Augen bestehen.\\
+\\
+
+<<v8>>
+8 Morgen für Morgen spreche ich das Urteil /\\
+ über die Frevler im Land, /\\
+ um in der Stadt des Herrn alle auszurotten, die Unrecht tun. [fn:6] [fn:7]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_7.org::v18][7,18]]
+
+[fn:2] [[file:Ps_26.org::v11][26,11f]]
+
+[fn:3] in der Stille, wörtlich: inmitten.
+
+[fn:4] [[file:Spr_21.org::v4][Spr 21,4]]
+
+[fn:5] [[file:Spr_14.org::v35][Spr 14,35]]
+
+[fn:6] [[file:Jer_21.org::v12][Jer 21,12]]; [[file:Zef_3.org::v5][Zef 3,5]]; [[file:Spr_20.org::v26][Spr 20,26]]
+
+[fn:7] Wörtlich: Morgen für Morgen will ich vernichten alle
+Frevler im Land.

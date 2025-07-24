@@ -1,0 +1,224 @@
+:PROPERTIES:
+:ID:       7a3b991e-d4aa-41f1-886c-f3fd2b652528
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Daniel* -- [[file:Dan_1.html][1]]
+[[file:Dan_2.html][2]] [[file:Dan_3.html][3]] *4* [[file:Dan_5.html][5]]
+[[file:Dan_6.html][6]] ... [[file:Dan_14.html][14]]
+
+--------------
+
+* Dan 4
+  :PROPERTIES:
+  :CUSTOM_ID: dan-4
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Ich, Nebukadnezzar, lebte ohne Sorge in meinem Haus und war glücklich
+in meinem Palast. ^{[[#fn1][1]]}
+
+<<v2>>
+2 Da hatte ich einen Traum, der mich erschreckte. Was ich auf meinem
+Lager sah, was meine Augen da erblickten, versetzte mich in Angst.
+
+<<v3>>
+3 Darum ließ ich alle Weisen Babels zu mir rufen, damit sie mir den
+Traum deuteten.
+
+<<v4>>
+4 Da kamen die Zeichendeuter, Wahrsager, Chaldäer und Astrologen herbei.
+Ich erzählte ihnen den Traum; aber sie konnten ihn mir nicht deuten.
+
+<<v5>>
+5 Zuletzt erschien Daniel vor mir, der nach dem Namen meines Gottes auch
+Beltschazzar heißt und in dem der Geist der heiligen Götter ist. Ihm
+erzählte ich nun den Traum und sagte: ^{[[#fn2][2]]}
+
+<<v6>>
+6 Beltschazzar, Oberster der Zeichendeuter, von dir weiß ich, dass der
+Geist der heiligen Götter in dir ist und dass dir kein Geheimnis
+verschlossen bleibt. Hör also, was ich im Traum gesehen habe, und deute
+es mir!
+
+<<v7>>
+7 Was ich auf meinem Lager vor Augen hatte, war dies: Da stand ein Baum
+mitten auf der Erde; er war sehr hoch. ^{[[#fn3][3]]}
+
+<<v8>>
+8 Der Baum wuchs zusehends und wurde immer mächtiger; seine Höhe reichte
+bis an den Himmel; er war bis ans Ende der ganzen Erde zu sehen.
+
+<<v9>>
+9 Er hatte prächtiges Laub und trug so viele Früchte, dass er Nahrung
+für alle bot. Unter ihm fanden die wilden Tiere des Feldes Schatten; die
+Vögel nisteten in seinen Zweigen; alle Lebewesen ernährten sich von ihm.
+
+<<v10>>
+10 Während ich auf meinem Lager noch das Traumbild sah, stieg ein
+Wächter, ein Heiliger, vom Himmel herab. ^{[[#fn4][4]]}
+
+<<v11>>
+11 Er befahl mit mächtiger Stimme: Fällt den Baum und schlagt seine Äste
+ab! Streift sein Laubwerk ab und zerstreut seine Früchte! Die Tiere
+sollen aus seinem Schatten fliehen und die Vögel aus seinen Zweigen.
+
+<<v12>>
+12 Aber lasst ihm den Wurzelstock in der Erde, im Gras des Feldes, mit
+einer Fessel aus Eisen und Bronze. Der Tau des Himmels soll ihn benetzen
+und mit den Tieren soll er teilhaben am Gras der Erde.
+
+<<v13>>
+13 Sein Herz sei nicht mehr ein Menschenherz; ein Tierherz soll ihm
+gegeben werden und sieben Zeiten sollen über ihn hingehen.
+^{[[#fn5][5]]}
+
+<<v14>>
+14 Dieser Befehl beruht auf einem Beschluss der Wächter; ein Spruch der
+Heiligen fordert es. Die Lebenden sollen erkennen: Über die Herrschaft
+bei den Menschen gebietet der Höchste; er verleiht sie, wem er will,
+selbst den Niedrigsten der Menschen kann er dazu erheben. ^{[[#fn6][6]]}
+
+<<v15>>
+15 Das ist der Traum, den ich, König Nebukadnezzar, gehabt habe. Nun
+deute ihn, Beltschazzar! Von allen Weisen meines Reiches konnte ihn mir
+keiner auslegen; du aber kannst es, denn in dir ist der Geist der
+heiligen Götter.
+
+<<v16>>
+16 Da war Daniel, der auch Beltschazzar heißt, eine Zeit lang ganz
+verstört; denn seine Gedanken machten ihm Angst. Doch der König sagte:
+Beltschazzar, lass dich von dem Traum und seiner Deutung nicht
+ängstigen! Beltschazzar erwiderte: Mein Herr, der Traum gelte deinen
+Feinden; seine Deutung treffe deine Widersacher.
+
+<<v17>>
+17 Du hast einen Baum gesehen; er wuchs zusehends und wurde immer
+mächtiger. Seine Höhe reichte bis an den Himmel und er war auf der
+ganzen Erde zu sehen.
+
+<<v18>>
+18 Er hatte prächtiges Laub und trug so viele Früchte, dass er Nahrung
+für alle bot. Unter ihm fanden die wilden Tiere des Feldes Zuflucht, und
+in seinen Zweigen wohnten die Vögel des Himmels.
+
+<<v19>>
+19 Dieser Baum bist du, König; du bist groß und mächtig geworden; deine
+Größe ist immer mehr gewachsen; sie reicht bis zum Himmel und deine
+Herrschaft bis ans Ende der Erde.
+
+<<v20>>
+20 Dann hat der König gesehen, wie ein Wächter, ein Heiliger, vom Himmel
+herabstieg und befahl: Fällt den Baum und vernichtet ihn! Aber lasst ihm
+in der Erde, im Gras des Feldes, den Wurzelstock, mit einer Fessel aus
+Eisen und Bronze. Der Tau des Himmels soll ihn benetzen und mit den
+Tieren des Feldes soll er teilhaben (am Gras der Erde), bis sieben
+Zeiten über ihn hingegangen sind.
+
+<<v21>>
+21 Das, o König, bedeutet - es ist ein Beschluss des Höchsten, der
+meinen Herrn, den König, betrifft -:
+
+<<v22>>
+22 Man wird dich aus der Gemeinschaft der Menschen verstoßen und du
+musst bei den wilden Tieren des Feldes leben. Du wirst dich von Gras
+ernähren wie die Ochsen und der Tau des Himmels wird dich benetzen. So
+gehen sieben Zeiten über dich hin, bis du erkennst, dass der Höchste
+über die Herrschaft bei den Menschen gebietet und sie verleiht, wem er
+will. ^{[[#fn7][7]]}
+
+<<v23>>
+23 Schließlich hieß es, man solle den Wurzelstock des Baumes stehen
+lassen; das bedeutet: Deine Herrschaft bleibt dir erhalten, sobald du
+anerkennst, dass der Himmel die Macht hat.
+
+<<v24>>
+24 Darum, o König, nimm meinen Rat an: Lösch deine Sünden aus durch
+rechtes Tun, tilge deine Vergehen, indem du Erbarmen hast mit den Armen.
+Dann mag dein Glück vielleicht von Dauer sein. ^{[[#fn8][8]]}
+
+<<v25>>
+25 All das kam dann über König Nebukadnezzar.
+
+<<v26>>
+26 Als er nämlich zwölf Monate später auf (der Dachterrasse) des
+königlichen Palastes zu Babel spazieren ging,
+
+<<v27>>
+27 sagte der König: Ist das nicht das großartige Babel, das ich durch
+meine gewaltige Macht als Königsstadt erbaut habe, zum Ruhm meiner
+Herrlichkeit? ^{[[#fn9][9]]}
+
+<<v28>>
+28 Noch hatte der König diese Worte auf den Lippen, da fiel eine Stimme
+vom Himmel: Dir, König Nebukadnezzar, sei gesagt: Die Herrschaft wird
+dir genommen.
+
+<<v29>>
+29 Man wird dich aus der Gemeinschaft der Menschen ausstoßen. Du musst
+bei den wilden Tieren leben und dich von Gras ernähren wie die Ochsen.
+So werden sieben Zeiten über dich hingehen, bis du erkennst, dass der
+Höchste über die Herrschaft bei den Menschen gebietet und sie verleiht,
+wem er will. ^{[[#fn10][10]]}
+
+<<v30>>
+30 Noch in derselben Stunde erfüllte sich dieser Spruch an
+Nebukadnezzar: Man verstieß ihn aus der Gemeinschaft der Menschen und er
+musste sich von Gras ernähren wie die Ochsen. Der Tau des Himmels
+benetzte seinen Körper, bis seine Haare so lang wie Adlerfedern waren
+und seine Nägel wie Vogelkrallen.
+
+<<v31>>
+31 Als die Zeit verstrichen war, erhob ich, Nebukadnezzar, meine Augen
+zum Himmel und mein Verstand kehrte zurück. Da pries ich den Höchsten;
+ich lobte und verherrlichte den, der ewig lebt. Ja, seine Herrschaft ist
+eine ewige Herrschaft; sein Reich überdauert alle Generationen.
+^{[[#fn11][11]]}
+
+<<v32>>
+32 Alle Bewohner der Erde gelten vor ihm wie nichts. Er macht mit dem
+Heer des Himmels und mit den Bewohnern der Erde, was er will. Es gibt
+niemand, der seiner Hand wehren und zu ihm sagen dürfte: Was tust du da?
+^{[[#fn12][12]]}
+
+<<v33>>
+33 Zu derselben Zeit kehrte mein Verstand zurück und ich erhielt zum
+Ruhm meines Königtums auch meine Herrlichkeit und meinen königlichen
+Glanz zurück. Meine Räte und Großen suchten mich auf; man setzte mich
+wieder in meine Herrschaft ein und meine Macht wurde noch größer.
+^{[[#fn13][13]]}
+
+<<v34>>
+34 Ich, Nebukadnezzar, lobe, preise und rühme nun den König des Himmels.
+Denn alle seine Taten sind vortrefflich und seine Wege gerecht. Die
+Menschen, die in stolzer Höhe dahinschreiten, kann er erniedrigen.\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-5) 2,1-3.10
+
+^{[[#fnm2][2]]} ℘ 2,28.47; 5,11
+
+^{[[#fnm3][3]]} ℘ Ez 31,3-14
+
+^{[[#fnm4][4]]} ℘ 7,9f; 10,13.21
+
+^{[[#fnm5][5]]} Nach der Vorstellung des Alten Orients hat im Herzen der
+Verstand seinen Sitz (vgl. VV. 31.33).
+
+^{[[#fnm6][6]]} ℘ 2,21; Ijob 36,7-11
+
+^{[[#fnm7][7]]} ℘ 3,100
+
+^{[[#fnm8][8]]} ℘ Spr 19,17; Sir 3,30f
+
+^{[[#fnm9][9]]} ℘ Spr 16,18
+
+^{[[#fnm10][10]]} ℘ 5,21
+
+^{[[#fnm11][11]]} ℘ 3,100
+
+^{[[#fnm12][12]]} ℘ Ijob 9,12; Jes 40,17
+
+^{[[#fnm13][13]]} ℘ Lk 1,52; 18,14

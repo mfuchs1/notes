@@ -1,0 +1,179 @@
+#+TITLE: Num 23 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-24 Di 17:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 23.html
+
+
+<<verses>>
+
+* Num 23
+<<v1>>
+1 Bileam sagte zu Balak: Errichte mir hier sieben Altäre und stell mir
+hier sieben junge Stiere und sieben Widder bereit!
+
+<<v2>>
+2 Balak tat, was Bileam gesagt hatte, und Balak und Bileam brachten auf
+jedem Altar einen jungen Stier und einen Widder dar.
+
+<<v3>>
+3 Dann sagte Bileam zu Balak: Bleib bei deinem Brandopfer stehen! Ich
+aber will beiseite gehen; vielleicht begegnet mir der Herr. Was er mich
+sehen lässt, werde ich dir mitteilen. Dann ging er auf die kahle Höhe.
+
+<<v4>>
+4 Gott begegnete Bileam. Bileam sagte zu ihm: Ich habe sieben Altäre
+hergerichtet und auf jedem Altar einen jungen Stier und einen Widder
+dargebracht.
+
+<<v5>>
+5 Da legte der Herr dem Bileam ein Wort in den Mund und sagte: Geh zu
+Balak zurück und sag ihm das und das!
+
+<<v6>>
+6 Bileam kehrte also zurück. Balak stand bei seinem Brandopfer und alle
+Hofleute Moabs waren bei ihm.\\
+\\
+
+<<v7>>
+7 Da begann Bileam mit seinem Orakelspruch und sagte: Aus Aram führte
+mich Balak her, /\\
+ der König von Moab vom Ostgebirge: /\\
+ «Geh, verfluche mir Jakob! /\\
+ Geh, drohe Israel!»\\
+\\
+
+<<v8>>
+8 Doch wie soll ich verwünschen, /\\
+ wen Gott nicht verwünscht, /\\
+ wie soll ich drohen, /\\
+ wem Jahwe nicht droht?\\
+\\
+
+<<v9>>
+9 Denn vom Gipfel der Felsen sehe ich es, /\\
+ von den Höhen aus erblicke ich es: /\\
+ Dort, ein Volk, es wohnt für sich, /\\
+ es zählt sich nicht zu den Völkern.\\
+\\
+
+<<v10>>
+10 Wer zählt Jakobs Menge, zahlreich wie Staub, /\\
+ wer die Zehntausende Israels? /\\
+ Oh, könnte ich den Tod der Gerechten sterben /\\
+ und wäre mein Ende dem seinen gleich. [fn:1]\\
+\\
+
+<<v11>>
+11 Da sagte Balak zu Bileam: Was hast du mir angetan? Ich habe dich
+geholt, damit du meine Feinde verwünschst, und nun hast du sie
+stattdessen gesegnet.
+
+<<v12>>
+12 Bileam antwortete: Muss ich nicht das sagen, was der Herr mir in den
+Mund legt?
+
+<<v13>>
+13 Darauf sagte Balak zu ihm: Geh mit mir an einen anderen Ort, von wo
+aus du das Volk sehen kannst. Du wirst freilich nur den äußersten Rand
+sehen; ganz wirst du es nicht sehen. Von dort aus verwünsch es mir!
+
+<<v14>>
+14 Er nahm ihn mit zum Späherfeld am Gipfel des Pisga, errichtete dort
+sieben Altäre und brachte auf jedem Altar einen jungen Stier und einen
+Widder dar.
+
+<<v15>>
+15 Bileam sagte zu Balak: Bleib hier bei deinem Brandopfer stehen, ich
+aber will dort drüben auf die Begegnung mit dem Herrn warten.
+
+<<v16>>
+16 Der Herr begegnete Bileam, legte ihm ein Wort in den Mund und sagte:
+Kehr zu Balak zurück und sag ihm das und das!
+
+<<v17>>
+17 Als Bileam zu Balak kam, stand er bei seinem Opfer und die Hofleute
+Moabs waren bei ihm. Balak fragte ihn: Was hat der Herr gesagt?\\
+\\
+
+<<v18>>
+18 Da begann Bileam mit seinem Orakelspruch und sagte: Auf, Balak, höre,
+/\\
+ lausche mir, Sohn Zippors!\\
+\\
+
+<<v19>>
+19 Gott ist kein Mensch, der lügt, /\\
+ kein Menschenkind, das etwas bereut. /\\
+ Spricht er etwas und tut es dann nicht, /\\
+ sagt er etwas und hält es dann nicht?\\
+\\
+
+<<v20>>
+20 Sieh her, ich habe es übernommen zu segnen; /\\
+ so muss ich segnen, ich kann's nicht widerrufen.\\
+\\
+
+<<v21>>
+21 Man erblickt kein Übel in Jakob, /\\
+ man sieht kein Unheil in Israel. /\\
+ Jahwe, sein Gott, ist bei ihm, /\\
+ seinem König jubelt Israel zu.\\
+\\
+
+<<v22>>
+22 Gott hat sie aus Ägypten geführt. /\\
+ Er hat Hörner wie ein Wildstier.\\
+\\
+
+<<v23>>
+23 Zauberei wirkt nicht gegen Jakob, /\\
+ Beschwörung hilft nicht gegen Israel - /\\
+ [Jetzt sagt man zu Jakob, zu Israel: /\\
+ Was hat Gott getan?] [fn:2]\\
+\\
+
+<<v24>>
+24 ein Volk wie ein Löwe, der aufsteht, /\\
+ wie ein Raubtier, das sich erhebt. /\\
+ Es legt sich nicht hin, /\\
+ bevor es die Beute gefressen /\\
+ und das Blut der Erschlagenen getrunken hat.\\
+\\
+
+<<v25>>
+25 Da sagte Balak zu Bileam: Wenn du es schon nicht verwünschen willst,
+dann segne es doch wenigstens nicht!
+
+<<v26>>
+26 Bileam antwortete Balak: Habe ich es dir nicht gesagt: Ich muss alles
+tun, was der Herr mir befiehlt.
+
+<<v27>>
+27 Darauf sagte Balak zu Bileam: Komm mit, ich will dich noch an einen
+anderen Ort mitnehmen. Vielleicht ist es Gott recht, dass du mir das
+Volk von dort aus verfluchst.
+
+<<v28>>
+28 Balak nahm also Bileam mit auf den Gipfel des Pegor, der auf das
+Ödland herabschaut.
+
+<<v29>>
+29 Bileam sagte zu Balak: Bau mir hier sieben Altäre und stell mir hier
+sieben junge Stiere und sieben Widder bereit!
+
+<<v30>>
+30 Balak tat, was Bileam gesagt hatte, und brachte auf jedem Altar einen
+jungen Stier und einen Widder dar.
+
+* Footnotes
+
+[fn:1] dem seinen, gemeint ist: dem Ende Israels.
+
+[fn:2] Der Einschub gibt hier keinen Sinn.

@@ -1,0 +1,176 @@
+#+TITLE: 1 Chr 23 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-21 Di 21:39]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 23.html
+
+<<verses>>
+
+<<v1>>
+* Die Dienstklassen der Leviten: 23,1-23
+
+1 David war alt und hochbetagt und bestellte seinen Sohn Salomo zum
+König von Israel. [fn:1]
+
+<<v2>>
+2 Er versammelte dazu alle führenden Männer Israels, die Priester und
+Leviten.
+
+<<v3>>
+3 Die Leviten waren von dreißig Jahren an aufwärts gezählt worden. Ihre
+Zahl betrug 38000 Mann. [fn:2]
+
+<<v4>>
+4 Von diesen hatten 24000 den Dienst im Haus des Herrn zu leiten, 6000
+waren Listenführer und Richter,
+
+<<v5>>
+5 4000 Torwächter und 4000 sollten den Herrn mit den Instrumenten
+preisen, die David zum Lobpreis anfertigen ließ. [fn:3]
+
+<<v6>>
+6 David teilte die Leviten in Klassen ein nach den Söhnen Levis:
+Gerschon, Kehat und Merari.
+
+<<v7>>
+7 Zu den Nachkommen Gerschons gehörten Ladan und Schimi.
+
+<<v8>>
+8 Von den Söhnen Ladans war Jehiël der erste; ihm folgten Setam und
+Joël; insgesamt waren es drei.
+
+<<v9>>
+9 Die Söhne Jehiëls waren Schelomit, Hasiël und Haran, insgesamt drei.
+Sie waren die Familienhäupter Ladans. [fn:4]
+
+<<v10>>
+10 Die Söhne Schimis waren Jahat, Sisa, Jëusch und Beria. Das waren die
+vier Söhne Schimis.
+
+<<v11>>
+11 Jahat war der erste, Sisa der zweite. Jëusch und Beria hatten nur
+wenige Söhne; sie bildeten daher nur eine Großfamilie und eine
+Dienstklasse.
+
+<<v12>>
+12 Die Söhne Kehats waren: Amram, Jizhar, Hebron und Usiël, insgesamt
+vier. [fn:5]
+
+<<v13>>
+13 Die Söhne Amrams waren Aaron und Mose. Aaron und seine Söhne wurden
+für immer dazu bestimmt, Hochheiliges zu betreuen, Rauchopfer vor dem
+Herrn zu verbrennen, ihm zu dienen und allezeit in seinem Namen zu
+segnen.
+
+<<v14>>
+14 Die Söhne des Mose aber, des Mannes Gottes, wurden dem Stamm der
+Leviten zugerechnet.
+
+<<v15>>
+15 Die Söhne des Mose waren Gerschom und Eliëser. [fn:6]
+
+<<v16>>
+16 Von den Söhnen Gerschoms war Schubaël der erste.
+
+<<v17>>
+17 Der Erstgeborene Eliësers war Rehabja. Andere Söhne hatte er nicht.
+Die Söhne Rehabjas dagegen waren sehr zahlreich.
+
+<<v18>>
+18 Von den Söhnen Jizhars war Schelomit der erste.
+
+<<v19>>
+19 Die Söhne Hebrons waren: der erste Jerija, der zweite Amarja, der
+dritte Jahasiël, der vierte Jekamam.
+
+<<v20>>
+20 Von den Söhnen Usiëls war Micha der erste und Jischija der zweite.
+
+<<v21>>
+21 Die Söhne Meraris waren Machli und Muschi. Die Söhne Machlis waren
+Eleasar und Kisch. [fn:7]
+
+<<v22>>
+22 Eleasar hinterließ keine Söhne, als er starb; er hatte nur Töchter
+und diese heirateten die Söhne des Kisch, ihre Vettern.
+
+<<v23>>
+23 Die Söhne Muschis waren: Machli, Eder und Jeremot, insgesamt drei.\\
+\\
+
+<<v24>>
+* Die Aufgaben der Leviten: 23,24-32
+
+24 Das waren die Leviten nach ihren Großfamilien mit deren Häuptern, wie
+sie Kopf für Kopf gezählt und bestellt worden waren. Sie besorgten, von
+zwanzig Jahren an aufwärts, den Dienst am Haus des Herrn.
+
+<<v27>>
+27 Nach den letzten Anordnungen Davids zählte man die Leviten von
+zwanzig Jahren an aufwärts. [fn:8]
+
+<<v25>>
+25 David sagte nämlich: Der Herr, der Gott Israels, hat seinem Volk
+Israel Ruhe verliehen und für immer in Jerusalem Wohnung genommen.
+
+<<v26>>
+26 Die Leviten brauchen das Zelt und all seine Geräte für den Dienst
+nicht mehr zu tragen. [fn:9]
+
+<<v28>>
+28 Ihre Stellung im Dienst des Hauses des Herrn an der Seite der Söhne
+Aarons verpflichtet sie vielmehr zur Aufsicht über die Höfe und Kammern,
+zur Reinigung alles Heiligen, zum Dienst im Haus Gottes,
+
+<<v29>>
+29 zur Besorgung der Schaubrote, des Feinmehls für die Speiseopfer und
+die ungesäuerten Brote, der Bratpfannen und des Backwerks sowie zur
+Überwachung der Hohl- und Längenmaße.
+
+<<v30>>
+30 Sie müssen auch jeden Morgen und Abend bereitstehen, um den Herrn zu
+loben und zu preisen.
+
+<<v31>>
+31 Desgleichen sollen sie bei allen Brandopfern, die an den Sabbaten,
+Neumonden und Festen dem Herrn dargebracht werden, vollzählig, wie es
+ihre Pflicht ist, immer vor ihm erscheinen.
+
+<<v32>>
+32 So sollen sie den Dienst im Offenbarungszelt, den Dienst am Heiligtum
+und die Bedienung der Söhne Aarons, ihrer Amtsbrüder, bei ihren
+Verrichtungen im Haus des Herrn übernehmen.\\
+\\
+
+* Footnotes
+
+[fn:1] 1-26,32: Die Einfügung der folgenden Listen beruht auf
+der Meinung, dass David bereits den Gottesdienst im neuen Tempel
+geordnet hat. Sie gehören aber der späteren Zeit an (vgl. [[v24][23,24-28]]).
+
+[fn:2] Als Beginn des Dienstalters der Leviten werden dreißig
+Jahre ([[file:Num_4.org::v2][Num 4,2f]].[[file:Num_4.org::v23][23]].[[file:Num_4.org::v30][30]]; [[v3][1 Chr 23,3]]), fünfundzwanzig Jahre ([[file:Num_8.org::v24][Num 8,24]]) und
+zwanzig Jahre ([[v21][1 Chr 23,21]].[[v27][27]]; [[file:2.Chr_31.org::v17][2 Chr 31,17]]; [[file:Esra_3.org::v8][Esra 3,8]]) genannt. Zu diesen
+Änderungen kam es, als in nachexilischer Zeit der liturgische Dienst an
+Bedeutung gewann und der Aufgabenbereich der Leviten sich vergrößerte.
+
+[fn:3] die David . . . anfertigen ließ: Text korr. nach G.
+
+[fn:4] In H steht für Jehiël der Name Schimi, dessen Söhne
+jedoch in V. 10 genannt werden. Man erwartet einen der Söhne Ladans.
+
+[fn:5] [[file:1.Chr_5.org::v28][5,28f]]; [[file:1.Chr_6.org::v3][6,3]]
+
+[fn:6] [[file:Ex_18.org::v3][Ex 18,3f]]
+
+[fn:7] [[file:1.Chr_6.org::v4][6,4]]
+
+[fn:8] Vers sinngemäß umgestellt.
+
+[fn:9] [[file:Num_3.org::v5][Num 3,5-9]]

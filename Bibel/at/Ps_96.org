@@ -1,0 +1,109 @@
+#+TITLE: Ps 96 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-05 Mo 23:42]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 96.html
+
+* Ps 96
+
+<<verses>>
+
+<<v1>>
+* Der Herr, König und Richter aller Welt
+
+1 Singt dem Herrn ein neues Lied, /\\
+ singt dem Herrn, alle Länder der Erde! [fn:1]\\
+\\
+
+<<v2>>
+2 Singt dem Herrn und preist seinen Namen, /\\
+ verkündet sein Heil von Tag zu Tag!\\
+\\
+
+<<v3>>
+3 Erzählt bei den Völkern von seiner Herrlichkeit, /\\
+ bei allen Nationen von seinen Wundern! [fn:2]\\
+\\
+
+<<v4>>
+4 Denn groß ist der Herr und hoch zu preisen, /\\
+ mehr zu fürchten als alle Götter. [fn:3]\\
+\\
+
+<<v5>>
+5 Alle Götter der Heiden sind nichtig, /\\
+ der Herr aber hat den Himmel geschaffen.\\
+\\
+
+<<v6>>
+6 Hoheit und Pracht sind vor seinem Angesicht, /\\
+ Macht und Glanz in seinem Heiligtum.\\
+\\
+
+<<v7>>
+7 Bringt dar dem Herrn, ihr Stämme der Völker, /\\
+ bringt dar dem Herrn Lob und Ehre! [fn:4]\\
+\\
+
+<<v8>>
+8 Bringt dar dem Herrn die Ehre seines Namens, /\\
+ spendet Opfergaben und tretet ein in sein Heiligtum! [fn:5]\\
+\\
+
+<<v9>>
+9 In heiligem Schmuck werft euch nieder vor dem Herrn, /\\
+ erbebt vor ihm, alle Länder der Erde!\\
+\\
+
+<<v10>>
+10 Verkündet bei den Völkern: /\\
+ Der Herr ist König. Den Erdkreis hat er gegründet, sodass er nicht
+wankt. /\\
+ Er richtet die Nationen so, wie es recht ist. [fn:6] [fn:7]\\
+\\
+
+<<v11>>
+11 Der Himmel freue sich, die Erde frohlocke, /\\
+ es brause das Meer und alles, was es erfüllt. [fn:8]\\
+\\
+
+<<v12>>
+12 Es jauchze die Flur und was auf ihr wächst. /\\
+ Jubeln sollen alle Bäume des Waldes [fn:9]\\
+\\
+
+<<v13>>
+13 vor dem Herrn, wenn er kommt, /\\
+ wenn er kommt, um die Erde zu richten. Er richtet den Erdkreis gerecht
+/\\
+ und die Nationen nach seiner Treue. [fn:10]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_33.org::v3][33,3]]; (1-13) [[file:1.Chr_16.org::v23][1 Chr 16,23-33]]
+
+[fn:2] [[file:Ps_108.org::v4][108,4]]
+
+[fn:3] [[file:Ps_48.org::v2][48,2]]; [[file:Ps_95.org::v3][95,3]]
+
+[fn:4] (7-9) [[file:Ps_29.org::v1][29,1f]]
+
+[fn:5] Wörtlich: und tretet ein in seine (Tempel-)Vorhöfe!
+
+[fn:6] [[file:Ps_24.org::v7][24,7-10]]; [[file:Ps_75.org::v3][75,3f]]
+
+[fn:7] H: Der Erdkreis ist gegründet.
+
+[fn:8] [[file:Ps_98.org::v7][98,7]]
+
+[fn:9] [[file:Jes_55.org::v12][Jes 55,12]]
+
+[fn:10] [[file:Ps_98.org::v9][98,9]]; [[file:Ps_9.org::v9][9,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_17.org::v31][Apg 17,31]]

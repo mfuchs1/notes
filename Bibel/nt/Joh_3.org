@@ -1,0 +1,265 @@
+:PROPERTIES:
+:ID:       fa55dbc1-fe72-44e9-b39f-610383440180
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Johannes* --
+[[file:Joh_1.html][1]] [[file:Joh_2.html][2]] *3* [[file:Joh_4.html][4]]
+[[file:Joh_5.html][5]] ... [[file:Joh_21.html][21]]
+
+--------------
+
+* Joh 3
+  :PROPERTIES:
+  :CUSTOM_ID: joh-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das Gespräch mit Nikodemus: 3,1-13
+     :PROPERTIES:
+     :CUSTOM_ID: das-gespräch-mit-nikodemus-31-13
+     :END:
+1 Es war ein Pharisäer namens Nikodemus, ein führender Mann unter den
+Juden. ^{[[#fn1][1]][[#fn2][2]][[#fn3][3]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 27\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Der suchte Jesus bei Nacht auf und sagte zu ihm: Rabbi, wir wissen, du
+bist ein Lehrer, der von Gott gekommen ist; denn niemand kann die
+Zeichen tun, die du tust, wenn nicht Gott mit ihm ist.
+^{[[#fn4][4]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 280\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v3>>
+3 Jesus antwortete ihm: Amen, amen, ich sage dir: Wenn jemand nicht von
+neuem geboren wird, kann er das Reich Gottes nicht sehen.
+^{[[#fn5][5]][[#fn6][6]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 253\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v4>>
+4 Nikodemus entgegnete ihm: Wie kann ein Mensch, der schon alt ist,
+geboren werden? Er kann doch nicht in den Schoß seiner Mutter
+zurückkehren und ein zweites Mal geboren werden.
+
+<<v5>>
+5 Jesus antwortete: Amen, amen, ich sage dir: Wenn jemand nicht aus
+Wasser und Geist geboren wird, kann er nicht in das Reich Gottes kommen.
+^{[[#fn7][7]]}
+
+<<v6>>
+6 Was aus dem Fleisch geboren ist, das ist Fleisch; was aber aus dem
+Geist geboren ist, das ist Geist. ^{[[#fn8][8]]}
+
+<<v7>>
+7 Wundere dich nicht, dass ich dir sagte: Ihr müsst von neuem geboren
+werden.
+
+<<v8>>
+8 Der Wind weht, wo er will; du hörst sein Brausen, weißt aber nicht,
+woher er kommt und wohin er geht. So ist es mit jedem, der aus dem Geist
+geboren ist. ^{[[#fn9][9]][[#fn10][10]]}
+
+<<v9>>
+9 Nikodemus erwiderte ihm: Wie kann das geschehen?
+
+<<v10>>
+10 Jesus antwortete: Du bist der Lehrer Israels und verstehst das nicht?
+
+<<v11>>
+11 Amen, amen, ich sage dir: Was wir wissen, davon reden wir, und was
+wir gesehen haben, das bezeugen wir, und doch nehmt ihr unser Zeugnis
+nicht an. ^{[[#fn11][11]]}
+
+<<v12>>
+12 Wenn ich zu euch über irdische Dinge gesprochen habe und ihr nicht
+glaubt, wie werdet ihr glauben, wenn ich zu euch über himmlische Dinge
+spreche?
+
+<<v13>>
+13 Und niemand ist in den Himmel hinaufgestiegen außer dem, der vom
+Himmel herabgestiegen ist: der Menschensohn.\\
+\\
+
+<<v14>>
+**** Das Ziel der Sendung Jesu: 3,14-21
+     :PROPERTIES:
+     :CUSTOM_ID: das-ziel-der-sendung-jesu-314-21
+     :END:
+14 Und wie Mose die Schlange in der Wüste erhöht hat, so muss der
+Menschensohn erhöht werden, ^{[[#fn12][12]]}
+
+<<v15>>
+15 damit jeder, der (an ihn) glaubt, in ihm das ewige Leben hat.
+
+<<v16>>
+16 Denn Gott hat die Welt so sehr geliebt, dass er seinen einzigen Sohn
+hingab, damit jeder, der an ihn glaubt, nicht zugrunde geht, sondern das
+ewige Leben hat. ^{[[#fn13][13]][[#fn14][14]]}
+
+<<v17>>
+17 Denn Gott hat seinen Sohn nicht in die Welt gesandt, damit er die
+Welt richtet, sondern damit die Welt durch ihn gerettet wird.
+^{[[#fn15][15]]}
+
+<<v18>>
+18 Wer an ihn glaubt, wird nicht gerichtet; wer nicht glaubt, ist schon
+gerichtet, weil er an den Namen des einzigen Sohnes Gottes nicht
+geglaubt hat.
+
+<<v19>>
+19 Denn mit dem Gericht verhält es sich so: Das Licht kam in die Welt,
+und die Menschen liebten die Finsternis mehr als das Licht; denn ihre
+Taten waren böse.
+
+<<v20>>
+20 Jeder, der Böses tut, hasst das Licht und kommt nicht zum Licht,
+damit seine Taten nicht aufgedeckt werden.
+
+<<v21>>
+21 Wer aber die Wahrheit tut, kommt zum Licht, damit offenbar wird, dass
+seine Taten in Gott vollbracht sind.\\
+\\
+
+<<v22>>
+**** Der Täufer und der Messias: 3,22-36
+     :PROPERTIES:
+     :CUSTOM_ID: der-täufer-und-der-messias-322-36
+     :END:
+22 Darauf ging Jesus mit seinen Jüngern nach Judäa. Dort hielt er sich
+mit ihnen auf und taufte. ^{[[#fn16][16]][[#fn17][17]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 28\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v23>>
+23 Aber auch Johannes taufte damals, und zwar in Änon bei Salim, weil
+dort viel Wasser war; und die Leute kamen und ließen sich taufen.
+^{[[#fn18][18]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 29\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v24>>
+24 Johannes war nämlich noch nicht ins Gefängnis geworfen worden.
+^{[[#fn19][19]]}
+
+<<v25>>
+25 Da kam es zwischen den Jüngern des Johannes und einem Juden zum
+Streit über die Frage der Reinigung. ^{[[#fn20][20]]}
+
+<<v26>>
+26 Sie gingen zu Johannes und sagten zu ihm: Rabbi, der Mann, der auf
+der anderen Seite des Jordan bei dir war und für den du Zeugnis abgelegt
+hast, der tauft jetzt, und alle laufen zu ihm.
+
+<<v27>>
+27 Johannes antwortete: Kein Mensch kann sich etwas nehmen, wenn es ihm
+nicht vom Himmel gegeben ist. ^{[[#fn21][21]]}
+
+<<v28>>
+28 Ihr selbst könnt mir bezeugen, dass ich gesagt habe: Ich bin nicht
+der Messias, sondern nur ein Gesandter, der ihm vorausgeht.
+
+<<v29>>
+29 Wer die Braut hat, ist der Bräutigam; der Freund des Bräutigams aber,
+der dabeisteht und ihn hört, freut sich über die Stimme des Bräutigams.
+Diese Freude ist nun für mich Wirklichkeit geworden.
+
+<<v30>>
+30 Er muss wachsen, ich aber muss kleiner werden.
+
+<<v31>>
+31 Er, der von oben kommt, steht über allen; wer von der Erde stammt,
+ist irdisch und redet irdisch. Er, der aus dem Himmel kommt, steht über
+allen. ^{[[#fn22][22]]}
+
+<<v32>>
+32 Was er gesehen und gehört hat, bezeugt er, doch niemand nimmt sein
+Zeugnis an. ^{[[#fn23][23]]}
+
+<<v33>>
+33 Wer sein Zeugnis annimmt, beglaubigt, dass Gott wahrhaftig ist.
+
+<<v34>>
+34 Denn der, den Gott gesandt hat, verkündet die Worte Gottes; denn er
+gibt den Geist unbegrenzt. ^{[[#fn24][24]]}
+
+<<v35>>
+35 Der Vater liebt den Sohn und hat alles in seine Hand gegeben.
+
+<<v36>>
+36 Wer an den Sohn glaubt, hat das ewige Leben; wer aber dem Sohn nicht
+gehorcht, wird das Leben nicht sehen, sondern Gottes Zorn bleibt auf
+ihm. ^{[[#fn25][25]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 7,50; 19,39
+
+^{[[#fnm2][2]]} Der Pharisäer und Ratsherr Nikodemus, ein
+Schriftgelehrter (vgl. 3,10), spielt nur im Johannesevangelium eine
+Rolle. Nach 7,50f tritt er im Hohen Rat für Jesus ein, nach 19,39 trägt
+er zur ehrenvollen Bestattung Jesu bei.
+
+^{[[#fnm3][3]]} ℘ ⇨Esyn: Synopse Nr. 27
+
+^{[[#fnm4][4]]} ℘ ⇨Esyn: Synopse Nr. 280
+
+^{[[#fnm5][5]]} von neuem: der zugrunde liegende griechische Ausdruck
+bedeutet zugleich «von oben».
+
+^{[[#fnm6][6]]} ℘ ⇨Esyn: Synopse Nr. 253
+
+^{[[#fnm7][7]]} ℘ Ez 11,19; 36,25-27; Röm 8,9
+
+^{[[#fnm8][8]]} ℘ 1,13; Gen 6,3; Ijob 34,14f
+
+^{[[#fnm9][9]]} ℘ Koh 11,5
+
+^{[[#fnm10][10]]} Für «Wind» und «Geist» steht im griechischen Text das
+gleiche Wort (pneuma).
+
+^{[[#fnm11][11]]} ℘ 1 Joh 1,2
+
+^{[[#fnm12][12]]} ℘ 12,32.34; 19,37; Num 21,8f
+
+^{[[#fnm13][13]]} ℘ 1 Joh 4,9f; Röm 5,8; 8,32
+
+^{[[#fnm14][14]]} Die Bezeichnung des Sohnes Gottes als des «einzigen»,
+eigentlich des «einzig-erzeugten», findet sich nur in den johanneischen
+Schriften (vgl. 1,14.18; 3,18; 1 Joh 4,9).
+
+^{[[#fnm15][15]]} ℘ 12,47f
+
+^{[[#fnm16][16]]} 22f: Dass Johannes in Änon taufte, wird nur hier
+erwähnt. Der Ort lag im nördlichen Samarien, südlich von Bet-Schean. Der
+Name Änon deutet auf ein Quellgebiet. Jesus oder, wie in 4,2 berichtigt
+wird, seine Jünger tauften in Judäa.
+
+^{[[#fnm17][17]]} ℘ ⇨Esyn: Synopse Nr. 28
+
+^{[[#fnm18][18]]} ℘ ⇨Esyn: Synopse Nr. 29
+
+^{[[#fnm19][19]]} ℘ Mt 14,3; Mk 6,17
+
+^{[[#fnm20][20]]} einem Juden, nach anderen Textzeugen: einigen Juden.
+
+^{[[#fnm21][21]]} ℘ 19,11
+
+^{[[#fnm22][22]]} ℘ 3,13; 8,23
+
+^{[[#fnm23][23]]} ℘ 3,11
+
+^{[[#fnm24][24]]} Geber des Geistes ist entweder Gott, der seinem
+Gesandten den Geist in Fülle gibt, oder der Sohn, der den Glaubenden den
+Geist ohne Maß schenkt. Beide Auffassungen sind möglich und miteinander
+vereinbar (vgl. 1,33).
+
+^{[[#fnm25][25]]} ℘ 1 Joh 5,12

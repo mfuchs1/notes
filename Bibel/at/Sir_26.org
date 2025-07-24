@@ -1,0 +1,200 @@
+:PROPERTIES:
+:ID:       b2c6d447-58be-438e-9067-017053a61db7
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_24.html][24]]
+[[file:Sir_25.html][25]] *26* [[file:Sir_27.html][27]]
+[[file:Sir_28.html][28]] ... [[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 26
+  :PROPERTIES:
+  :CUSTOM_ID: sir-26
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Eine gute Frau - wohl ihrem Mann! /\\
+ Die Zahl seiner Jahre verdoppelt sich.\\
+\\
+
+<<v2>>
+2 Eine tüchtige Frau pflegt ihren Mann; /\\
+ so vollendet er seine Jahre in Frieden.\\
+\\
+
+<<v3>>
+3 Eine gute Frau ist ein guter Besitz; /\\
+ er wird dem zuteil, der Gott fürchtet;\\
+\\
+
+<<v4>>
+4 ob reich, ob arm, sein Herz ist guter Dinge, /\\
+ sein Gesicht jederzeit heiter. ^{[[#fn1][1]]}\\
+\\
+
+<<v5>>
+5 Vor drei Dingen bangt mir das Herz, /\\
+ vor vieren befällt mich die Furcht: Gerede in der Stadt, Auflauf der
+Massen und Verleumdung - /\\
+ schlimmer sind sie alle als der Tod.\\
+\\
+
+<<v6>>
+6 Eine eifersüchtige Frau bringt Kummer und Betrübnis, /\\
+ die Geißel der Zunge ist allen (vieren) gemeinsam.\\
+\\
+
+<<v7>>
+7 Ein scheuerndes Ochsenjoch ist eine böse Frau; /\\
+ wer sie nimmt, fasst einen Skorpion an.\\
+\\
+
+<<v8>>
+8 Großer Verdruss ist eine trunksüchtige Frau; /\\
+ sie kann ihre Schande nicht verbergen. ^{[[#fn2][2]]}\\
+\\
+
+<<v9>>
+9 Die lüsterne Frau verrät sich durch ihren Augenaufschlag, /\\
+ an ihren Wimpern wird sie erkannt.\\
+\\
+
+<<v10>>
+10 Gegen eine Schamlose verstärke die Wache, /\\
+ damit sie keine Gelegenheit findet und ausnützt.\\
+\\
+
+<<v11>>
+11 Auf eine Frau mit frechem Blick gib Acht; /\\
+ sei nicht überrascht, wenn sie dir untreu wird.\\
+\\
+
+<<v12>>
+12 Wie ein durstiger Wanderer den Mund auftut und vom ersten besten
+Wasser trinkt, /\\
+ so lässt sie sich vor jedem Pfahl nieder und öffnet den Köcher vor dem
+Pfeil.\\
+\\
+
+<<v13>>
+13 Die Anmut der Frau entzückt ihren Mann, /\\
+ ihre Klugheit erfrischt seine Glieder.\\
+\\
+
+<<v14>>
+14 Eine Gottesgabe ist eine schweigsame Frau, /\\
+ unbezahlbar ist eine Frau mit guter Erziehung.\\
+\\
+
+<<v15>>
+15 Anmut über Anmut ist eine schamhafte Frau; /\\
+ kein Preis wiegt eine auf, die sich selbst beherrscht.\\
+\\
+
+<<v16>>
+16 Wie die Sonne aufstrahlt in den höchsten Höhen, /\\
+ so die Schönheit einer guten Frau als Schmuck ihres Hauses.
+^{[[#fn3][3]]}\\
+\\
+
+<<v17>>
+17 Wie die Lampe auf dem heiligen Leuchter scheint, /\\
+ so ein schönes Gesicht auf einer edlen Gestalt.\\
+\\
+
+<<v18>>
+18 Wie goldene Säulen auf silbernem Sockel /\\
+ sind schlanke Beine auf wohlgeformten Füßen.\\
+\\
+
+<<v19>>
+19 [Mein Sohn, bewahre die Blüte deiner Jugend gesund, /\\
+ gib deine Kraft nicht Fremden hin! ^{[[#fn4][4]]}\\
+\\
+
+<<v20>>
+20 Hast du auf dem ganzen Feld einen fruchtbaren Acker ausgesucht, /\\
+ streu getrost deine Saat aus zur Fortpflanzung deines Geschlechts!
+^{[[#fn5][5]]}\\
+\\
+
+<<v21>>
+21 Dann werden deine Kinder dich umgeben, /\\
+ sie werden groß werden im Vertrauen auf das edle Geschlecht.
+^{[[#fn6][6]][[#fn7][7]]}\\
+\\
+
+<<v22>>
+22 Eine käufliche Frau ist dem Auswurf gleich zu achten, /\\
+ eine Verheiratete ist für ihre Liebhaber wie ein Turm des Todes.\\
+\\
+
+<<v23>>
+23 Eine ruchlose Frau wird dem Frevler zuteil, /\\
+ eine fromme erhält, wer den Herrn fürchtet.\\
+\\
+
+<<v24>>
+24 Eine schamlose Frau zerstört die Scham, /\\
+ eine anständige Frau hat Scheu auch vor dem eigenen Mann.\\
+\\
+
+<<v25>>
+25 Eine unverschämte Frau wird wie ein Hund geachtet, /\\
+ eine schamhafte fürchtet den Herrn.\\
+\\
+
+<<v26>>
+26 Eine Frau, die ihren Mann ehrt, erscheint allen als weise, /\\
+ eine Frau, die ihn verachtet, wird von allen als ruchlos erkannt.\\
+\\
+
+<<v27>>
+27 Eine großsprecherische und zungenfertige Frau /\\
+ erscheint wie eine schmetternde Kriegstrompete. Ein jeder Mann, der
+dazu schweigen muss, muss sein Leben in Kriegsunruhen verbringen.]
+^{[[#fn8][8]]}\\
+\\
+
+<<v28>>
+**** Verschiedene Warnungen: 26,28 - 27,15
+     :PROPERTIES:
+     :CUSTOM_ID: verschiedene-warnungen-2628---2715
+     :END:
+28 Über zwei Dinge ist mein Herz betrübt, /\\
+ über drei packt mich der Zorn: Ein vermögender Mann, der arm wird und
+darben muss, /\\
+ und angesehene Männer, wenn sie missachtet werden; wer von der
+Gerechtigkeit zur Sünde abweicht, /\\
+ den bestimmt der Herr für das Schwert.\\
+\\
+
+<<v29>>
+29 Schwerlich bleibt ein Kaufmann frei von Schuld; /\\
+ ein Händler wird sich nicht rein halten von Sünde.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 13,26
+
+^{[[#fnm2][2]]} ℘ Spr 6,33
+
+^{[[#fnm3][3]]} 16-18: In der orientalischen Lyrik, so auch in Hld, wird
+die schöne Körpergestalt mit dem Leuchter und mit Säulen des Tempels
+verglichen.
+
+^{[[#fnm4][4]]} 19-27: Der Abschnitt fehlt bei den meisten Textzeugen.
+Die Sprache ist derber als sonst in Sir. Also wohl späterer Zusatz. 19a:
+Nach G; S: Nimm dich in Acht zur Zeit deiner Jugend!
+
+^{[[#fnm5][5]]} Die Ehe wird mit einem fruchtbaren Acker verglichen.
+
+^{[[#fnm6][6]]} ℘ Ps 128,3
+
+^{[[#fnm7][7]]} 21b: Nach G.
+
+^{[[#fnm8][8]]} Text verderbt und unsicher.

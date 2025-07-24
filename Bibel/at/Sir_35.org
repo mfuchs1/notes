@@ -1,0 +1,182 @@
+:PROPERTIES:
+:ID:       c878a669-b75e-44e7-9f4b-a33dad976e28
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_33.html][33]]
+[[file:Sir_34.html][34]] *35* [[file:Sir_36.html][36]]
+[[file:Sir_37.html][37]] ... [[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 35
+  :PROPERTIES:
+  :CUSTOM_ID: sir-35
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Viele Opfer bringt dar, wer das Gesetz befolgt; / ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Heilsopfer spendet, wer die Gebote hält;\\
+\\
+
+<<v3>>
+3 Speiseopfer bringt dar, wer Liebe erweist; /\\
+\\
+
+<<v4>>
+4 Dankopfer spendet, wer Almosen gibt: ^{[[#fn2][2]]}\\
+\\
+
+<<v5>>
+5 Abkehr vom Bösen findet das Gefallen des Herrn: /\\
+ als Sühne gilt ihm die Abkehr vom Unrecht.\\
+\\
+
+<<v6>>
+6 Erscheine nicht mit leeren Händen vor dem Herrn, /
+^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+<<v7>>
+7 denn das alles muss geschehen, weil es angeordnet ist.\\
+\\
+
+<<v8>>
+8 Die Opfergabe des Gerechten macht den Altar glänzend von Fett /\\
+ und ihr Wohlgeruch steigt zum Höchsten auf. ^{[[#fn5][5]]}\\
+\\
+
+<<v9>>
+9 Das Opfer des Gerechten ist angenehm, /\\
+ sein Gedenkopfer wird nicht vergessen werden. ^{[[#fn6][6]]}\\
+\\
+
+<<v10>>
+10 Freigebig ehre den Herrn, /\\
+ nicht gering sei die Gabe in deinen Händen.\\
+\\
+
+<<v11>>
+11 Bei all deinen guten Werken zeig ein frohes Gesicht /\\
+ und weihe deinen Zehnten mit Freude! ^{[[#fn7][7]]}\\
+\\
+
+<<v12>>
+12 Wie Gott dir gegeben hat, so gib auch ihm, /\\
+ freigebig und so gut, wie du kannst.\\
+\\
+
+<<v13>>
+13 Denn er ist ein Gott, der vergilt, /\\
+ siebenfach wird er es dir erstatten.\\
+\\
+
+<<v14>>
+14 Versuche nicht, ihn zu bestechen, /\\
+ denn er nimmt nichts an;\\
+\\
+
+<<v15>>
+15 vertrau nicht auf Opfergaben, /\\
+ die durch Unterdrückung erworben sind. Er ist ja der Gott des Rechts,
+/\\
+ bei ihm gibt es keine Begünstigung. ^{[[#fn8][8]]}\\
+\\
+
+<<v16>>
+16 Er ist nicht parteiisch gegen den Armen, /\\
+ das Flehen des Bedrängten hört er.\\
+\\
+
+<<v17>>
+17 Er missachtet nicht das Schreien der Waise /\\
+ und der Witwe, die viel zu klagen hat.\\
+\\
+
+<<v18>>
+18 Rinnt nicht die Träne über die Wange /\\
+\\
+
+<<v19>>
+19 und klagt nicht Seufzen gegen den, der sie verursacht? [Denn von der
+Wange steigt sie zum Himmel empor; /\\
+ der Herr achtet darauf und es missfällt ihm.] ^{[[#fn9][9]]}\\
+\\
+
+<<v20>>
+20 Die Nöte des Unterdrückten nehmen ein Ende, /\\
+ das Schreien des Elenden verstummt. ^{[[#fn10][10]]}\\
+\\
+
+<<v21>>
+21 Das Flehen des Armen dringt durch die Wolken, /\\
+ es ruht nicht, bis es am Ziel ist. Es weicht nicht, bis Gott eingreift
+/ ^{[[#fn11][11]]}\\
+\\
+
+<<v22>>
+22 und Recht schafft als gerechter Richter.\\
+\\
+
+<<v23>>
+**** Gottes Hilfe für das Volk: 35,22b-26
+     :PROPERTIES:
+     :CUSTOM_ID: gottes-hilfe-für-das-volk-3522b-26
+     :END:
+23 Auch wird der Herr nicht säumen /\\
+ und wie ein Kriegsheld sich nicht aufhalten lassen, /\\
+ bis er die Hüften des Gewalttätigen zerschmettert und an den Völkern
+Vergeltung geübt hat, /\\
+ bis er das Zepter des Hochmuts zerschlagen /\\
+ und den Stab des Frevels zerbrochen hat,\\
+\\
+
+<<v24>>
+24 bis er dem Menschen sein Tun vergolten hat /\\
+ und seine Taten entsprechend seinen Absichten, ^{[[#fn12][12]]}\\
+\\
+
+<<v25>>
+25 bis er den Rechtsstreit für sein Volk entschieden /\\
+ und es durch seine Hilfe erfreut hat.\\
+\\
+
+<<v26>>
+26 Köstlich ist das Erbarmen des Herrn in der Zeit der Not, /\\
+ wie die Regenwolke in der Zeit der Dürre.\\
+\\
+
+^{[[#fnm1][1]]} Kap. 35 In G als Kap. 32 gezählt.
+
+^{[[#fnm2][2]]} ℘ Spr 21,3
+
+^{[[#fnm3][3]]} ℘ Ex 23,15; Dtn 16,16
+
+^{[[#fnm4][4]]} 6-13: Sirach lehnt die Opfervorschriften nicht
+grundsätzlich ab; aus Gehorsam soll man sie einhalten (vgl. V. 7).
+
+^{[[#fnm5][5]]} ℘ Ps 20,4
+
+^{[[#fnm6][6]]} ℘ Lev 2,2
+
+^{[[#fnm7][7]]} Vgl. 2 Kor 9,7: Einen fröhlichen Geber liebt Gott.
+
+^{[[#fnm8][8]]} 15-36,22: Die unterdrückte Witwe und alle Bedrängten
+(VV. 17f) werden zum Symbol für das bedrängte Volk, dem Gott zu Hilfe
+kommen wird. Daran schließt sich in 36,1-22 das Gebet um Rettung des
+Volkes an, das endzeitliche Hoffnung anklingen lässt.
+
+^{[[#fnm9][9]]} 19bc: Nur in Vg.
+
+^{[[#fnm10][10]]} Text unklar; nach G etwa: Wer Gott wohlgefällig dient,
+der wird angenommen und sein Bittruf erreicht die Wolken.
+
+^{[[#fnm11][11]]} ℘ 21,5
+
+^{[[#fnm12][12]]} ℘ Spr 24,12

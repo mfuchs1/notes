@@ -1,0 +1,162 @@
+#+TITLE: 1 Chr 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-20 Mo 11:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 17.html
+
+<<verses>>
+
+<<v1>>
+* Die Verheißung an David: 17,1-15
+
+1 Als nun David in seinem Haus wohnte, sagte er zu dem Propheten Natan:
+Ich wohne in einem Haus aus Zedernholz, die Bundeslade des Herrn aber
+steht in einem Zelt. [fn:1]
+
+<<v2>>
+2 Natan antwortete David: Tu alles, was du im Sinn hast; denn Gott ist
+mit dir.
+
+<<v3>>
+3 Aber in jener Nacht erging das Wort Gottes an Natan:
+
+<<v4>>
+4 Geh zu meinem Knecht David und sag zu ihm: So spricht der Herr: Nicht
+du sollst mir das Haus bauen, damit ich darin wohne.
+
+<<v5>>
+5 Seit dem Tag, als ich Israel aus Ägypten herausgeführt habe, habe ich
+bis zum heutigen Tag nie in einem Haus gewohnt, sondern bin von Zelt zu
+Zelt, von Wohnstätte zu Wohnstätte mitgewandert.
+
+<<v6>>
+6 Habe ich in der Zeit, als ich bei den Israeliten von Ort zu Ort zog,
+jemals zu einem der Richter Israels, die ich als Hirten über mein Volk
+eingesetzt hatte, ein Wort gesagt und sie gefragt: Warum habt ihr mir
+kein Haus aus Zedernholz gebaut?
+
+<<v7>>
+7 Sag also jetzt meinem Knecht David: So spricht der Herr der Heere: Ich
+habe dich von der Weide und von der Herde weggeholt, damit du Fürst
+meines Volkes Israel wirst,
+
+<<v8>>
+8 und bin überall mit dir gewesen, wohin du auch gegangen bist. Ich habe
+alle deine Feinde vor deinen Augen vernichtet und ich will dir einen
+Namen machen, der dem Namen der Großen auf der Erde gleich ist.
+
+<<v9>>
+9 Ich will meinem Volk Israel einen Platz zuweisen und will es
+einpflanzen, damit es an seinem Ort (sicher) wohnen kann und sich nicht
+mehr ängstigen muss und schlechte Menschen es nicht zugrunde richten wie
+am Anfang,
+
+<<v10>>
+10 seit den Tagen, als ich Richter in meinem Volk Israel eingesetzt
+habe. Ich werfe alle deine Feinde nieder und mache dich groß. Der Herr
+aber wird dir ein Haus bauen. [fn:2]
+
+<<v11>>
+11 Wenn deine Tage erfüllt sind und du zu deinen Vätern gehst, dann
+werde ich einen von deinen Nachkommen, einen von deinen Söhnen, als
+deinen Nachfolger einsetzen und seinem Königtum Bestand verleihen.
+
+<<v12>>
+12 Er wird für mich ein Haus bauen und ich werde seinem Thron ewigen
+Bestand verleihen.
+
+<<v13>>
+13 Ich will für ihn Vater sein und er wird für mich Sohn sein. Meine
+Huld will ich ihm nicht entziehen, wie ich sie dem entzogen habe, der
+vor dir König war.
+
+<<v14>>
+14 In meinem Haus und in meinem Königtum werde ich ihm ewigen Bestand
+verleihen; sein Thron wird für immer bestehen bleiben.
+
+<<v15>>
+15 Natan sprach zu David genau so, wie es (ihm) gesagt und offenbart
+worden war.\\
+\\
+
+<<v16>>
+* Das Gebet Davids: 17,16-27
+
+16 Da ging König David hin, setzte sich vor dem Herrn nieder und sagte:
+Wer bin ich, mein Herr und Gott, und was ist mein Haus, dass du mich bis
+hierher geführt hast? [fn:3]
+
+<<v17>>
+17 Weil das in deinen Augen noch zu wenig war, o Gott, hast du dem Haus
+deines Knechtes Zusagen für eine ferne Zukunft gemacht und mich
+angeschaut . . ., mein Herr und Gott. [fn:4]
+
+<<v18>>
+18 Was soll David noch weiter zu dir sagen? Du kennst deinen Knecht. [fn:5]
+
+<<v19>>
+19 Herr, um deines Knechtes willen und nach der Absicht deines Herzens
+hast du alle diese großen Taten getan und alle diese großen Dinge
+offenbart.
+
+<<v20>>
+20 Herr, keiner ist dir gleich und außer dir gibt es keinen Gott nach
+allem, was wir mit unseren Ohren gehört haben.
+
+<<v21>>
+21 Welches andere Volk auf der Erde ist wie dein Volk Israel? Wo wäre
+ein Gott hingegangen, um ein Volk für sich freizukaufen und sich den
+Ruhm großer und erstaunlicher Taten zu verschaffen? Du hast vor den
+Augen deines Volkes, das du von den Ägyptern freigekauft hast, ganze
+Völker vertrieben. [fn:6]
+
+<<v22>>
+22 Du hast Israel für immer zu deinem Volk bestimmt und du, Herr, bist
+sein Gott geworden.
+
+<<v23>>
+23 Möge doch jetzt auch das Wort, Herr, das du über deinen Knecht und
+über sein Haus gesprochen hast, sich für immer als wahr erweisen. Tu,
+was du gesagt hast.
+
+<<v24>>
+24 Dann wird dein Name sich als wahr erweisen und groß sein für ewige
+Zeiten und man wird sagen: Der Herr der Heere ist Israels Gott!, und das
+Haus deines Knechtes David wird vor deinen Augen Bestand haben. [fn:7]
+
+<<v25>>
+25 Denn du, mein Gott, hast deinem Knecht offenbart: Ich will dir ein
+Haus bauen. Darum fand dein Knecht den Mut, zu dir zu beten.
+
+<<v26>>
+26 Ja, Herr, du bist der einzige Gott; du hast deinem Knecht ein solches
+Glück zugesagt.
+
+<<v27>>
+27 Du hast jetzt gnädig das Haus deines Knechtes gesegnet, damit es ewig
+vor deinen Augen Bestand hat. Denn du, Herr, hast es gesegnet und es
+bleibt für immer gesegnet.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-15) [[file:2.Sam_7.org::v1][2 Sam 7,1-17]]
+
+[fn:2] und mache dich groß: Text korr. nach G; H: und verkünde
+dir (nach [[file:2.Sam_7.org::v11][2 Sam 7,11]]).
+
+[fn:3] (16-27) [[file:2.Sam_7.org::v18][2 Sam 7,18-29]]
+
+[fn:4] H ist unverständlich.
+
+[fn:5] zu dir sagen: Text korr. nach [[file:2.Sam_7.org::v20][2 Sam 7,20]].
+
+[fn:6] Text korr. nach G.
+
+[fn:7] [[file:Ex_3.org::v13][Ex 3,13-15]]

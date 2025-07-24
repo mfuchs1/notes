@@ -1,0 +1,140 @@
+:PROPERTIES:
+:ID:       1af7c530-a83e-46c7-9455-7458d194e32a
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Haggai* -- *1* [[file:Hag_2.html][2]]
+
+--------------
+
+* Hag 1
+  :PROPERTIES:
+  :CUSTOM_ID: hag-1
+  :END:
+
+Das Buch Haggai enthält in seinen zwei Kapiteln fünf prophetische Reden,
+die schon in der Form von der Verkündigung der vorexilischen Propheten
+abweichen. Sie beziehen die Zuhörer und ihre Äußerungen stärker in die
+Prophetenrede mit ein und verbinden mit den Ankündigungen in breiterem
+Maß Diskussionsworte und Mahnungen. Auch sind die Reden Haggais genau
+datiert: Sie wurden den Angaben nach (1,1; 2,1.10.20) in der zweiten
+Hälfte des Jahres 520 v. Chr. in Jerusalem gehalten. Ihr einziges Thema
+ist der Wiederaufbau des Tempels. Weil man nach der Rückkehr aus dem
+Babylonischen Exil (ab 538 v. Chr.) nur für das eigene Haus, aber nicht
+für das in Trümmern liegende Haus Gottes sorgte, so der Prophet,
+herrscht Dürre und Hungersnot. Ein neuer Tempel, von reinen Händen
+erbaut (2,10-14), wird, auch wenn er den alten an äußerem Glanz nicht
+erreicht, Segen bringen und zugleich Unterpfand für die kommende
+messianische Zeit sein. Haggai rechnet damit, dass Serubbabel, der
+Nachkomme Davids, sie einleitet (2,20-23).\\
+\\
+Über den Propheten ist nichts weiter bekannt, als dass er noch bis zur
+Einweihung des neuen Tempels (um 515 v. Chr.) gewirkt hat (vgl. Esra
+6,14f). Die den Wiederaufbau auslösenden Reden sind offenbar von seinem
+Jüngerkreis aufgezeichnet und genau datiert worden. Die überarbeitende
+Hand eines Redaktors ist noch in 1,3.5.13 und vielleicht in 2,4-6 zu
+erkennen. Die vielfach vorgenommene Umstellung von 2,15-19 hinter 1,15a
+ist nicht genügend gerechtfertigt. Das unreine Volk von 2,14 bezieht
+sich nicht in erster Linie auf die Samariter, die am Tempel mitbauen
+wollten; Haggai wendet sich hier vielmehr gegen alle kultische
+Unreinheit und hat dabei vor allem Einwohner Jerusalems und Judas vor
+Augen. Den Tempel, dessen Wiedererrichtung Haggai mit ins Werk setzte
+und den er in seinem Wort mit messianischem Glanz ausstattete, hat Jesus
+das »Haus seines Vaters« genannt (Joh 2,16).\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Der Aufruf zum Tempelbau: 1,1-11
+   :PROPERTIES:
+   :CUSTOM_ID: der-aufruf-zum-tempelbau-11-11
+   :END:
+1 Im zweiten Jahr des Königs Darius erging am ersten Tag des sechsten
+Monats das Wort des Herrn durch den Propheten Haggai an den Statthalter
+von Juda, Serubbabel, den Sohn Schealtiëls, und an den Hohenpriester
+Jeschua, den Sohn des Jozadak: ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 So spricht der Herr der Heere: Dieses Volk sagt: Noch ist die Zeit
+nicht gekommen, das Haus des Herrn aufzubauen.
+
+<<v3>>
+3 Da erging das Wort des Herrn durch den Propheten Haggai:
+
+<<v4>>
+4 Ist etwa die Zeit gekommen, dass ihr in euren getäfelten Häusern
+wohnt, während dieses Haus in Trümmern liegt? ^{[[#fn3][3]]}
+
+<<v5>>
+5 Nun aber spricht der Herr der Heere: Überlegt doch, wie es euch geht.
+
+<<v6>>
+6 Ihr sät viel und erntet wenig; ihr esst und werdet nicht satt; ihr
+trinkt, aber zum Betrinken reicht es euch nicht; ihr zieht Kleider an,
+aber sie halten nicht warm und wer etwas verdient, verdient es für einen
+löcherigen Beutel. ^{[[#fn4][4]]}
+
+<<v7>>
+7 So spricht der Herr der Heere: Überlegt also, wie es euch geht.
+
+<<v8>>
+8 Geht ins Gebirge, schafft Holz herbei und baut den Tempel wieder auf!
+Das würde mir gefallen und mich ehren, spricht der Herr.
+
+<<v9>>
+9 Ihr habt viel erhofft und doch nur wenig geerntet; und wenn ihr es
+einbrachtet, blies ich es weg. Warum wohl? - Spruch des Herrn der Heere.
+Weil mein Haus in Trümmern liegt, während jeder von euch für sein
+eigenes Haus rennt.
+
+<<v10>>
+10 Deshalb hält der Himmel über euch den Tau zurück, und die Erde hält
+ihren Ertrag zurück. ^{[[#fn5][5]]}
+
+<<v11>>
+11 Ich rief die Dürre über das Land und über die Berge, über das
+Getreide, über den Wein und das Öl, über alles, was der Boden
+hervorbringt, über Mensch und Vieh und über alle Arbeit eurer Hände.\\
+\\
+
+<<v12>>
+** Der Neuanfang: 1,12-15
+   :PROPERTIES:
+   :CUSTOM_ID: der-neuanfang-112-15
+   :END:
+12 Serubbabel, der Sohn Schealtiëls, und der Hohepriester Jeschua, der
+Sohn des Jozadak, und alle, die vom Volk noch übrig waren, hörten auf
+die Stimme des Herrn, ihres Gottes, und auf die Worte des Propheten
+Haggai; denn der Herr, ihr Gott, hatte ihn gesandt und das Volk
+fürchtete sich vor dem Herrn.
+
+<<v13>>
+13 Darum verkündete Haggai, der Bote des Herrn, dem Volk im Auftrag des
+Herrn: Ich bin bei euch - Spruch des Herrn.
+
+<<v14>>
+14 Und der Herr weckte den Geist des Statthalters von Juda, Serubbabel,
+des Sohnes Schealtiëls, und den Geist des Hohenpriesters Jeschua, des
+Sohnes des Jozadak, und den Geist all derer, die vom Volk noch übrig
+waren, sodass sie kamen und die Arbeit am Tempel ihres Gottes, des Herrn
+der Heere, aufnahmen; ^{[[#fn6][6]]}
+
+<<v15>>
+15 das war am vierundzwanzigsten Tag des sechsten Monats im zweiten Jahr
+des Königs Darius.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Sach 1,1; 3,1-9; 4,6-10
+
+^{[[#fnm2][2]]} Haggai nennt, wie Sacharja (Sach 3,1), den Hohenpriester
+mit der vollen Namensform Jehoschua; der Name wird hier an die kürzere
+Form in Esra und Neh angeglichen.
+
+^{[[#fnm3][3]]} ℘ Jer 22,14
+
+^{[[#fnm4][4]]} ℘ Hos 4,3
+
+^{[[#fnm5][5]]} ℘ Lev 26,19f
+
+^{[[#fnm6][6]]} ℘ Sach 4,6

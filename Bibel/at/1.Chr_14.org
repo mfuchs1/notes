@@ -1,0 +1,98 @@
+#+TITLE: 1 Chr 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-20 Mo 10:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 14.html
+
+<<verses>>
+
+<<v1>>
+* Das Erstarken des Königtums: 14,1-7
+
+1 Hiram, der König von Tyrus, schickte eine Gesandtschaft zu David und
+ließ ihm Zedernholz überbringen; auch Maurer und Zimmerleute schickte
+er, die ihm einen Palast bauen sollten. [fn:1]
+
+<<v2>>
+2 So erkannte David, dass ihn der Herr als König von Israel bestätigt
+hatte; denn wegen seines Volkes Israel war Davids Königtum zu hohem
+Ansehen gelangt.
+
+<<v3>>
+3 David nahm sich noch weitere Frauen in Jerusalem und zeugte noch Söhne
+und Töchter.
+
+<<v4>>
+4 Das sind die Namen der Söhne, die ihm in Jerusalem geboren wurden:
+Schima, Schobab, Natan, Salomo, [fn:2]
+
+<<v5>>
+5 Jibhar, Elischua, Elpelet,
+
+<<v6>>
+6 Nogah, Nefeg, Jafia,
+
+<<v7>>
+7 Elischama, Beeljada und Elifelet.\\
+\\
+
+<<v8>>
+* Krieg mit den Philistern: 14,8-17
+
+8 Die Philister hörten, dass David zum König von ganz Israel gesalbt
+worden war. Da zogen alle herauf, um David gefangen zu nehmen. David
+erfuhr davon und zog ihnen entgegen. [fn:3]
+
+<<v9>>
+9 Als die Philister herankamen und in der Rafaïterebene umherstreiften,
+
+<<v10>>
+10 befragte David Gott: Soll ich die Philister angreifen? Wirst du sie
+in meine Hand geben? Der Herr antwortete ihm: Greif sie an, ich will sie
+in deine Hand geben.
+
+<<v11>>
+11 Da zog David nach Baal-Perazim. Dort schlug er die Philister und
+sagte: Gott hat durch meine Hand die Reihen meiner Feinde durchbrochen,
+wie Wasser (einen Damm) durchbricht. Deshalb nennt man jenen Ort
+Baal-Perazim (Herr der Durchbrüche).
+
+<<v12>>
+12 Die Philister ließen dort ihre Götter zurück und David befahl, sie im
+Feuer zu verbrennen.
+
+<<v13>>
+13 Doch die Philister streiften noch einmal im Tal der Rafaïter umher.
+
+<<v14>>
+14 David befragte Gott wieder und Gott antwortete ihm: Zieh nicht hinter
+ihnen her, sondern umgeh sie und komm von den Baka-Bäumen her an sie
+heran!
+
+<<v15>>
+15 Wenn du dann in den Wipfeln der Baka-Bäume ein Geräusch wie von
+Schritten hörst, dann rück zum Kampf aus; denn Gott geht vor dir her, um
+das Heer der Philister zu schlagen.
+
+<<v16>>
+16 David tat, was Gott ihm befohlen hatte, und er schlug das Heer der
+Philister (im ganzen Gebiet) von Gibeon bis Geser.
+
+<<v17>>
+17 So drang der Ruhm Davids in alle Länder und der Herr legte Furcht vor
+ihm auf alle Völker.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-7) [[file:2.Sam_5.org::v11][2 Sam 5,11-16]]
+
+[fn:2] (4-7) [[file:2.Chr_3.org::v5][3,5-8]]
+
+[fn:3] (8-17) [[file:2.Sam_5.org::v17][2 Sam 5,17-25]]

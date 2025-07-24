@@ -1,0 +1,196 @@
+#+TITLE: Ex 23 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 23:16]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 23.html
+
+<<verses>>
+
+<<v1>>
+* Verhalten im Rechtsverfahren: 23,1-3
+1 Du sollst kein leeres Gerücht verbreiten. Biete deine Hand nicht dem,
+der Unrecht hat, indem du als falscher Zeuge auftrittst.
+
+<<v2>>
+2 Du sollst dich nicht der Mehrheit anschließen, wenn sie im Unrecht
+ist, und sollst in einem Rechtsverfahren nicht so aussagen, dass du dich
+der Mehrheit fügst und das Recht beugst.
+
+<<v3>>
+3 Du sollst auch den Geringen in seinem Rechtsstreit nicht begünstigen. [fn:1]\\
+
+<<v4>>
+* Verhalten gegen den Feind: 23,4-5
+4 Wenn du dem verirrten Rind oder dem Esel deines Feindes begegnest,
+sollst du ihm das Tier zurückbringen.
+
+<<v5>>
+5 Wenn du siehst, wie der Esel deines Gegners unter der Last
+zusammenbricht, dann lass ihn nicht im Stich, sondern leiste ihm
+Hilfe!\\
+\\
+
+<<v6>>
+* Verbot von Rechtsbeugung: 23,6-8
+6 Du sollst das Recht des Armen in seinem Rechtsstreit nicht beugen.
+
+<<v7>>
+7 Von einem unlauteren Verfahren sollst du dich fern halten. Wer
+unschuldig und im Recht ist, den bring nicht um sein Leben; denn ich
+spreche den Schuldigen nicht frei.
+
+<<v8>>
+8 Du sollst dich nicht bestechen lassen; denn Bestechung macht Sehende
+blind und verkehrt die Sache derer, die im Recht sind.\\
+\\
+
+<<v9>>
+* Rechtsschutz des Fremden: 23,9
+9 Einen Fremden sollst du nicht ausbeuten. Ihr wisst doch, wie es einem
+Fremden zumute ist; denn ihr selbst seid in Ägypten Fremde gewesen.\\
+\\
+
+<<v10>>
+* Sabbatjahr und Sabbatfeier: 23,10-12
+10 Sechs Jahre kannst du in deinem Land säen und die Ernte einbringen; [fn:2]
+
+<<v11>>
+11 im siebten sollst du es brach liegen lassen und nicht bestellen. Die
+Armen in deinem Volk sollen davon essen, den Rest mögen die Tiere des
+Feldes fressen. Das Gleiche sollst du mit deinem Weinberg und deinen
+Ölbäumen tun.
+
+<<v12>>
+12 Sechs Tage kannst du deine Arbeit verrichten, am siebten Tag aber
+sollst du ruhen, damit dein Rind und dein Esel ausruhen und der Sohn
+deiner Sklavin und der Fremde zu Atem kommen. [fn:3]\\
+\\
+
+<<v13>>
+* Mahnung: Treue zum Bundesgott:
+13 Auf alles, was ich euch gesagt habe, sollt ihr achten. Den Namen
+eines anderen Gottes sollt ihr nicht aussprechen, er soll dir nicht über
+die Lippen kommen.\\
+\\
+
+<<v14>>
+* Die drei Hauptfeste: 23,14-17
+14 Dreimal im Jahr sollst du mir ein Fest feiern. [fn:4]
+
+<<v15>>
+15 Du sollst das Fest der ungesäuerten Brote halten. Im Monat Abib
+sollst du zur festgesetzten Zeit sieben Tage lang ungesäuertes Brot
+essen, wie ich es dir geboten habe. Denn in diesem Monat bist du aus
+Ägypten ausgezogen. Man soll nicht mit leeren Händen vor mir erscheinen.
+
+<<v16>>
+16 Du sollst auch das Fest der Ernte, des ersten Ertrags deiner Aussaat
+auf dem Feld, halten, ebenso das Fest der Lese am Ende des Jahres, wenn
+du den Ertrag deines Feldes eingebracht hast.
+
+<<v17>>
+17 Dreimal im Jahr sollen alle deine Männer vor dem Herrn erscheinen.\\
+\\
+
+<<v18>>
+* Opfervorschriften: 23,18-19
+18 Beim Schlachten sollst du das Blut meines Opfers nicht über
+gesäuertes Brot fließen lassen. Das Fett meines Festopfers darf nicht
+bis zum Morgen liegen bleiben. [fn:5]
+
+<<v19>>
+19 Von den Erstlingsfrüchten deines Ackers sollst du die besten in das
+Haus des Herrn, deines Gottes, bringen. Das Junge einer Ziege sollst du
+nicht in der Milch seiner Mutter kochen.\\
+\\
+
+<<v20>>
+* Schlussmahnung: Verheißung und Warnung:
+20 Ich werde einen Engel schicken, der dir vorausgeht. Er soll dich auf
+dem Weg schützen und dich an den Ort bringen, den ich bestimmt habe.
+
+<<v21>>
+21 Achte auf ihn und hör auf seine Stimme! Widersetz dich ihm nicht! Er
+würde es nicht ertragen, wenn ihr euch auflehnt; denn in ihm ist mein
+Name gegenwärtig.
+
+<<v22>>
+22 Wenn du auf seine Stimme hörst und alles tust, was ich sage, dann
+werde ich der Feind deiner Feinde sein und alle in die Enge treiben, die
+dich bedrängen.
+
+<<v23>>
+23 Wenn mein Engel dir vorausgeht und dich in das Land der Amoriter,
+Hetiter, Perisiter, Kanaaniter, Hiwiter und Jebusiter führt und wenn ich
+sie verschwinden lasse,
+
+<<v24>>
+24 dann sollst du dich vor ihren Göttern nicht niederwerfen und dich
+nicht verpflichten, ihnen zu dienen. Du sollst keine Kultgegenstände
+herstellen wie sie, sondern sie zerstören und ihre Steinmale
+zerschlagen. [fn:6]
+
+<<v25>>
+25 Wenn ihr dem Herrn, eurem Gott, dient, wird er dein Brot und dein
+Wasser segnen. Ich werde Krankheiten von dir fern halten.
+
+<<v26>>
+26 In deinem Land wird es keine Frau geben, die eine Fehlgeburt hat oder
+kinderlos bleibt. Ich lasse dich die volle Zahl deiner Lebenstage
+erreichen.
+
+<<v27>>
+27 Ich sende meinen Schrecken vor dir her, ich verwirre jedes Volk, zu
+dem du kommst, und alle deine Feinde lasse ich vor dir die Flucht
+ergreifen.
+
+<<v28>>
+28 Ich lasse vor dir Panik ausbrechen; sie wird die Hiwiter, Kanaaniter
+und Hetiter vor dir hertreiben. [fn:7]
+
+<<v29>>
+29 Ich vertreibe sie aber nicht gleich im ersten Jahr; sonst verödet das
+Land und die wilden Tiere könnten zu deinem Schaden überhand nehmen.
+
+<<v30>>
+30 Nur allmählich will ich sie vor dir zurückdrängen, bis du so
+zahlreich geworden bist, dass du das Land in Besitz nehmen kannst.
+
+<<v31>>
+31 Ich setze deine Landesgrenzen fest vom Schilfmeer bis zum
+Philistermeer, von der Wüste bis zum Strom. Wenn ich die Einwohner des
+Landes in deine Hand gebe und du sie vertreibst, [fn:8]
+
+<<v32>>
+32 dann sollst du keinen Bund mit ihnen und ihren Göttern schließen.
+
+<<v33>>
+33 Sie sollen nicht in deinem Land bleiben. Sonst könnten sie dich zur
+Sünde gegen mich verführen, sodass du ihre Götter verehrst; denn dann
+würde dir das zu einer Falle.\\
+
+
+* Footnotes
+
+[fn:1] Lev 19,15
+
+[fn:2] Lev 25,2-4
+
+[fn:3] 20,9f; Dtn 5,12-14
+
+[fn:4] (14-17) 13,6f; 34,18-23
+
+[fn:5] 34,25f
+
+[fn:6] 20,5; Dtn 5,9; 13,3
+
+[fn:7] Dtn 7,20; Jos 24,12
+
+[fn:8] Der "Strom" ist der Eufrat. Bis an den Eufrat reichten
+die Grenzen Israels nur zur Zeit Davids und Salomos.

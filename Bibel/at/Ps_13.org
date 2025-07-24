@@ -1,0 +1,56 @@
+#+TITLE: Ps 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-04 Mo 22:01]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 13.html
+
+* Ps 13
+
+<<verses>>
+
+<<v1>>
+* Klage und Vertrauen in großer Not
+
+1 [Für den Chormeister. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Wie lange noch, Herr, vergisst du mich ganz? /\\
+ Wie lange noch verbirgst du dein Gesicht vor mir? [fn:1]\\
+\\
+
+<<v3>>
+3 Wie lange noch muss ich Schmerzen ertragen in meiner Seele, /\\
+ in meinem Herzen Kummer Tag für Tag? /\\
+ Wie lange noch darf mein Feind über mich triumphieren? [fn:2]\\
+\\
+
+<<v4>>
+4 Blick doch her, erhöre mich, Herr, mein Gott, /\\
+ erleuchte meine Augen, damit ich nicht entschlafe und sterbe,\\
+\\
+
+<<v5>>
+5 damit mein Feind nicht sagen kann: /\\
+ «Ich habe ihn überwältigt», damit meine Gegner nicht jubeln, /\\
+ weil ich ihnen erlegen bin.\\
+\\
+
+<<v6>>
+6 Ich aber baue auf deine Huld, /\\
+ mein Herz soll über deine Hilfe frohlocken. Singen will ich dem Herrn,
+/\\
+ weil er mir Gutes getan hat.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_6.org::v4][6,4]]; [[file:Ps_42.org::v10][42,10]]; [[file:Ps_89.org::v47][89,47]]; [[file:Klgl_5.org::v20][Klgl 5,20]]; [[file:Hab_1.org::v2][Hab 1,2]]
+
+[fn:2] Text korr.; H ist unverständlich.

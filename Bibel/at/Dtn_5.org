@@ -1,0 +1,238 @@
+#+TITLE: Dtn 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-28 Sa 15:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 5.html
+
+
+<<verses>>
+
+<<v1>>
+* Der Bund am Horeb: Die Zehn Gebote:
+
+1 Mose rief ganz Israel zusammen. Er sagte zu ihnen: Höre, Israel, die
+Gesetze und Rechtsvorschriften, die ich euch heute vortrage. Ihr sollt
+sie lernen, auf sie achten und sie halten. [fn:1]
+
+<<v2>>
+2 Der Herr, unser Gott, hat am Horeb einen Bund mit uns geschlossen. [fn:2]
+
+<<v3>>
+3 Nicht mit unseren Vätern hat der Herr diesen Bund geschlossen, sondern
+mit uns, die wir heute hier stehen, mit uns allen, mit den Lebenden. [fn:3] [fn:4]
+
+<<v4>>
+4 Auge in Auge hat der Herr auf dem Berg mitten aus dem Feuer mit euch
+geredet. [fn:5]
+
+<<v5>>
+5 Ich stand damals zwischen dem Herrn und euch, um euch das Wort des
+Herrn weiterzugeben; denn ihr wart aus Furcht vor dem Feuer nicht auf
+den Berg gekommen. Der Herr sprach:
+
+<<v6>>
+6 Ich bin Jahwe, dein Gott, der dich aus Ägypten geführt hat, aus dem
+Sklavenhaus. [fn:6] [fn:7]
+
+<<v7>>
+7 Du sollst neben mir keine anderen Götter haben. [fn:8]
+
+<<v8>>
+8 Du sollst dir kein Gottesbildnis machen, das irgendetwas darstellt am
+Himmel droben, auf der Erde unten oder im Wasser unter der Erde. [fn:9]
+
+<<v9>>
+9 Du sollst dich nicht vor anderen Göttern niederwerfen und dich nicht
+verpflichten, ihnen zu dienen. Denn ich, der Herr, dein Gott, bin ein
+eifersüchtiger Gott: Bei denen, die mir Feind sind, verfolge ich die
+Schuld der Väter an den Söhnen und an der dritten und vierten
+Generation; [fn:10]
+
+<<v10>>
+10 bei denen, die mich lieben und auf meine Gebote achten, erweise ich
+Tausenden meine Huld. [fn:11]
+
+<<v11>>
+11 Du sollst den Namen des Herrn, deines Gottes, nicht missbrauchen;
+denn der Herr lässt den nicht ungestraft, der seinen Namen missbraucht. [fn:12]
+
+<<v12>>
+12 Achte auf den Sabbat: Halte ihn heilig, wie es dir der Herr, dein
+Gott, zur Pflicht gemacht hat.
+
+<<v13>>
+13 Sechs Tage darfst du schaffen und jede Arbeit tun. [fn:13]
+
+<<v14>>
+14 Der siebte Tag ist ein Ruhetag, dem Herrn, deinem Gott, geweiht. An
+ihm darfst du keine Arbeit tun: du, dein Sohn und deine Tochter, dein
+Sklave und deine Sklavin, dein Rind, dein Esel und dein ganzes Vieh und
+der Fremde, der in deinen Stadtbereichen Wohnrecht hat. Dein Sklave und
+deine Sklavin sollen sich ausruhen wie du. [fn:14] [fn:15]
+
+<<v15>>
+15 Denk daran: Als du in Ägypten Sklave warst, hat dich der Herr, dein
+Gott, mit starker Hand und hoch erhobenem Arm dort herausgeführt. Darum
+hat es dir der Herr, dein Gott, zur Pflicht gemacht, den Sabbat zu
+halten. [fn:16]
+
+<<v16>>
+16 Ehre deinen Vater und deine Mutter, wie es dir der Herr, dein Gott,
+zur Pflicht gemacht hat, damit du lange lebst und es dir gut geht in dem
+Land, das der Herr, dein Gott, dir gibt. [fn:17]
+
+<<v17>>
+17 Du sollst nicht morden, [fn:18] [fn:19]
+
+<<v18>>
+18 du sollst nicht die Ehe brechen, [fn:20]
+
+<<v19>>
+19 du sollst nicht stehlen,
+
+<<v20>>
+20 du sollst nicht Falsches gegen deinen Nächsten aussagen,
+
+<<v21>>
+21 du sollst nicht nach der Frau deines Nächsten verlangen und du sollst
+nicht das Haus deines Nächsten begehren, nicht sein Feld, seinen Sklaven
+oder seine Sklavin, sein Rind oder seinen Esel, nichts, was deinem
+Nächsten gehört. [fn:21]
+
+<<v22>>
+22 Diese Worte sagte der Herr auf dem Berg zu eurer vollzähligen
+Versammlung, mitten aus dem Feuer, aus Wolken und Dunkel, unter lautem
+Donner, diese Worte und sonst nichts. Er schrieb sie auf zwei
+Steintafeln und übergab sie mir. [fn:22]\\
+\\
+
+<<v23>>
+* Die Einsetzung des Mose als Gesetzesmittler: 5,23-33
+
+23 Als ihr den Donner mitten aus der Finsternis gehört hattet und der
+Berg immer noch in Feuer stand, seid ihr zu mir gekommen - eure
+Stammesführer und Ältesten - [fn:23]
+
+<<v24>>
+24 und habt gesagt: Sieh, der Herr, unser Gott, hat uns seine
+Herrlichkeit und Macht gezeigt und wir haben seine donnernde Stimme
+mitten aus dem Feuer gehört. Heute ist es uns geschehen, dass Gott zu
+Menschen sprach und sie am Leben blieben. [fn:24]
+
+<<v25>>
+25 Trotzdem: Warum sollen wir noch einmal das Leben aufs Spiel setzen?
+Denn dieses große Feuer könnte uns verzehren. Wenn wir noch einmal die
+donnernde Stimme des Herrn, unseres Gottes, hören, werden wir sterben.
+
+<<v26>>
+26 Denn welches Wesen aus Fleisch wäre am Leben geblieben, wenn es wie
+wir die donnernde Stimme des lebendigen Gottes gehört hätte, als er
+mitten aus dem Feuer redete?
+
+<<v27>>
+27 Geh du allein hin! Höre alles, was der Herr, unser Gott, sagt.
+Berichte uns dann alles, was der Herr, unser Gott, dir gesagt hat, und
+wir werden es hören und halten.
+
+<<v28>>
+28 Der Herr hörte euer Geschrei, als ihr auf mich einredetet, und sagte
+zu mir: Ich habe das Geschrei dieses Volkes gehört, mit dem es dich
+bedrängt hat. Alles, was sie von dir verlangen, ist recht.
+
+<<v29>>
+29 Möchten sie doch diese Gesinnung behalten, mich fürchten und ihr
+Leben lang auf alle meine Gebote achten, damit es ihnen und ihren
+Nachkommen immer gut geht.
+
+<<v30>>
+30 Geh und sag ihnen: Kehrt zu euren Zelten zurück!
+
+<<v31>>
+31 Und du, stell dich hierher zu mir! Ich will dir das ganze Gebot
+mitteilen, die Gesetze und Rechtsvorschriften, die du sie lehren sollst
+und die sie halten sollen in dem Land, das ich ihnen gebe und das sie in
+Besitz nehmen sollen. [fn:25]
+
+<<v32>>
+32 Daher sollt ihr darauf achten, dass ihr handelt, wie es der Herr,
+euer Gott, euch vorgeschrieben hat. Ihr sollt weder rechts noch links
+abweichen.
+
+<<v33>>
+33 Ihr sollt nur auf dem Weg gehen, den der Herr, euer Gott, euch
+vorgeschrieben hat, damit ihr Leben habt und es euch gut geht und ihr
+lange lebt in dem Land, das ihr in Besitz nehmt.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Dtn_11.org::v32][11,32]]; [[file:Dtn_12.org::v1][12,1]]; [[file:Dtn_26.org::v16][26,16]]
+
+[fn:2] (2-31) [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v38][Apg 7,38]]
+
+[fn:3] [[file:Dtn_28.org::v69][28,69]]; [[file:Dtn_29.org::v13][29,13f]]
+
+[fn:4] Der Vers widerspricht nicht [[file:Dtn_2.org::v14][2,14]]. In ihren Vätern stand
+die gegenwärtige Generation selbst am Gottesberg. Die Vergangenheit wird
+kultisch vergegenwärtigt.
+
+[fn:5] (4-22) Ex 19f
+
+[fn:6] (6-22) Ex 20,2-18
+
+[fn:7] 6-21: Der Text der Zehn Gebote weist gegenüber [[file:Ex_20.org::v2][Ex 20,2-17]]
+kleine Unterschiede auf. Am wichtigsten ist, dass das
+Sabbatgebot neu begründet und zum eigentlichen Zentrum des Textes
+ausgebaut wird. Diese Fassung der Zehn Gebote ist wohl die jüngere.
+
+[fn:8] [[file:Ex_23.org::v13][Ex 23,13]]; [[file:Ex_34.org::v14][34,14]]
+
+[fn:9] [[file:Dtn_27.org::v15][27,15]]
+
+[fn:10] (9-10) [[file:Dtn_7.org::v9][7,9f]]; [[file:Ex_34.org::v7][Ex 34,7]]; [[file:Ex_34.org::v14][Ex 34,14]]
+
+[fn:11] [[file:Dtn_11.org::v1][11,1]]
+
+[fn:12] Andere Übersetzungsmöglichkeit: Du sollst bei dem
+Namen des Herrn, deines Gottes, keinen Meineid schwören, denn der Herr
+spricht den nicht frei, der bei seinem Namen einen Meineid schwört. -
+Die oben gegebene weitere Übersetzung erlaubt es, auch anderen
+Missbrauch des Jahwenamens, etwa durch Magie, einzuschließen.
+
+[fn:13] [[file:Ex_23.org::v12][Ex 23,12]]; [[file:Ex_34.org::v21][34,21]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_13.org::v14][Lk 13,14]]
+
+[fn:14] [[file:~/RoamNotes/notes/Bibel/nt/Mk_2.org::v27][Mk 2,27]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_23.org::v56][Lk 23,56]]
+
+[fn:15] der in deinen Stadtbereichen Wohnrecht hat, wörtlich:
+der in deinen Stadttoren ist. - So immer, wenn diese Wendung
+wiederkehrt.
+
+[fn:16] [[file:Dtn_15.org::v15][15,15]]; [[file:Dtn_16.org::v12][16,12]]; [[file:Dtn_24.org::v18][24,18.22]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v17][Apg 13,17]]
+
+[fn:17] [[file:~/RoamNotes/notes/Bibel/nt/Mk_15.org::v4][Mt 15,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_7.org::v10][Mk 7,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Eph_6.org::v2][Eph 6,2f]] (16-21) [[file:~/RoamNotes/notes/Bibel/nt/Mt_19.org::v18][Mt 19,18f]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_10.org::v19][Mk 10,19]];
+[[file:~/RoamNotes/notes/Bibel/nt/Lk_18.org::v20][Lk 18,20]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_13.org::v9][Röm 13,9]]
+
+[fn:18] (17f) [[file:~/RoamNotes/notes/Bibel/nt/Jak_2.org::v11][Jak 2,11]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v21][Mt 5,21]]
+
+[fn:19] Manche Bibelausgaben zählen die VV. 17-20 nur als V. 17;
+entsprechend ändert sich die Zählung der folgenden Verse.
+
+[fn:20] [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v27][Mt 5,27]]
+
+[fn:21] [[file:~/RoamNotes/notes/Bibel/nt/Röm_7.org::v7][Röm 7,7]]
+
+[fn:22] (22-27) [[file:~/RoamNotes/notes/Bibel/nt/Hebr_12.org::v18][Hebr 12,18f]]
+
+[fn:23] [[file:Dtn_1.org::v13][1,13]]; [[file:Dtn_19.org::v12][19,12]]; [[file:Dtn_27.org::v1][27,1]]; [[file:Dtn_29.org::v9][29,9]]; [[file:Dtn_31.org::v9][31,9.28]] (23-31) [[file:Dtn_18.org::v16][18,16-19]];
+[[file:Ex_20.org::v18][Ex 20,18-21]]
+
+[fn:24] [[file:Dtn_4.org::v9][4,9]]; [[file:Dtn_29.org::v1][29,1]]
+
+[fn:25] Andere Lesart: Ich will dir das ganze Gebot, die
+Gesetze und die Rechtsvorschriften mitteilen. 

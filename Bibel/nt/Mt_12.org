@@ -1,0 +1,396 @@
+:PROPERTIES:
+:ID:       a5fa51b6-0e33-4240-a025-dec449158ede
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Matthäus* --
+[[file:Mt_1.html][1]] ... [[file:Mt_10.html][10]]
+[[file:Mt_11.html][11]] *12* [[file:Mt_13.html][13]]
+[[file:Mt_14.html][14]] ... [[file:Mt_28.html][28]]
+
+--------------
+
+* Mt 12
+  :PROPERTIES:
+  :CUSTOM_ID: mt-12
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das Abreißen der Ähren am Sabbat: 12,1-8
+     :PROPERTIES:
+     :CUSTOM_ID: das-abreißen-der-ähren-am-sabbat-121-8
+     :END:
+1 In jener Zeit ging Jesus an einem Sabbat durch die Kornfelder. Seine
+Jünger hatten Hunger; sie rissen deshalb Ähren ab und aßen davon.
+^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 111\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Die Pharisäer sahen es und sagten zu ihm: Sieh her, deine Jünger tun
+etwas, das am Sabbat verboten ist.
+
+<<v3>>
+3 Da sagte er zu ihnen: Habt ihr nicht gelesen, was David getan hat, als
+er und seine Begleiter hungrig waren - ^{[[#fn2][2]]}
+
+<<v4>>
+4 wie er in das Haus Gottes ging und wie sie die heiligen Brote aßen,
+die weder er noch seine Begleiter, sondern nur die Priester essen
+durften? ^{[[#fn3][3]]}
+
+<<v5>>
+5 Oder habt ihr nicht im Gesetz gelesen, dass am Sabbat die Priester im
+Tempel den Sabbat entweihen, ohne sich schuldig zu machen?
+
+<<v6>>
+6 Ich sage euch: Hier ist einer, der größer ist als der Tempel.
+
+<<v7>>
+7 Wenn ihr begriffen hättet, was das heißt: /Barmherzigkeit will ich,
+nicht Opfer,/ dann hättet ihr nicht Unschuldige verurteilt;
+^{[[#fn4][4]]}
+
+<<v8>>
+8 denn der Menschensohn ist Herr über den Sabbat.\\
+\\
+
+<<v9>>
+**** Die Heilung eines Mannes am Sabbat: 12,9-14
+     :PROPERTIES:
+     :CUSTOM_ID: die-heilung-eines-mannes-am-sabbat-129-14
+     :END:
+9 Darauf verließ er sie und ging in ihre Synagoge.
+^{[[#fn5][5]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 112\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v10>>
+10 Dort saß ein Mann, dessen Hand verdorrt war. Sie fragten ihn: Ist es
+am Sabbat erlaubt zu heilen? Sie suchten nämlich einen Grund zur Anklage
+gegen ihn. ^{[[#fn6][6]][[#fn7][7]]}
+
+<<v11>>
+11 Er antwortete: Wer von euch wird, wenn ihm am Sabbat sein Schaf in
+eine Grube fällt, es nicht sofort wieder herausziehen? ^{[[#fn8][8]]}
+
+<<v12>>
+12 Und wie viel mehr ist ein Mensch wert als ein Schaf! Darum ist es am
+Sabbat erlaubt, Gutes zu tun.
+
+<<v13>>
+13 Dann sagte er zu dem Mann: Streck deine Hand aus! Er streckte sie
+aus, und die Hand war wieder ebenso gesund wie die andere.
+
+<<v14>>
+14 Die Pharisäer aber gingen hinaus und fassten den Beschluss, Jesus
+umzubringen. ^{[[#fn9][9]]}\\
+\\
+
+<<v15>>
+**** Jesus als der Knecht Gottes: 12,15-21
+     :PROPERTIES:
+     :CUSTOM_ID: jesus-als-der-knecht-gottes-1215-21
+     :END:
+15 Als Jesus das erfuhr, ging er von dort weg. Viele folgten ihm, und er
+heilte alle Kranken. ^{[[#fn10][10]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 113\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v16>>
+16 Aber er verbot ihnen, in der Öffentlichkeit von ihm zu reden.
+
+<<v17>>
+17 Auf diese Weise sollte sich erfüllen, was durch den Propheten Jesaja
+gesagt worden ist:\\
+\\
+
+<<v18>>
+18 /Seht, das ist mein Knecht, den ich erwählt habe,/ /\\
+ /mein Geliebter, an dem ich Gefallen gefunden habe. Ich werde meinen
+Geist auf ihn legen/ /\\
+ /und er wird den Völkern das Recht verkünden./ ^{[[#fn11][11]]}\\
+\\
+
+<<v19>>
+19 /Er wird nicht zanken und nicht schreien/ /\\
+ /und man wird seine Stimme nicht auf den Straßen hören./\\
+\\
+
+<<v20>>
+20 /Das geknickte Rohr wird er nicht zerbrechen/ /\\
+ /und den glimmenden Docht nicht auslöschen,/ /\\
+ /bis er dem Recht zum Sieg verholfen hat./\\
+\\
+
+<<v21>>
+21 /Und auf seinen Namen werden die Völker ihre Hoffnung setzen./\\
+\\
+
+<<v22>>
+**** Verteidigungsrede Jesu: 12,22-37
+     :PROPERTIES:
+     :CUSTOM_ID: verteidigungsrede-jesu-1222-37
+     :END:
+22 Damals brachte man zu ihm einen Besessenen, der blind und stumm war.
+Jesus heilte ihn, sodass der Stumme wieder reden und sehen konnte.
+^{[[#fn12][12]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 117\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v23>>
+23 Da gerieten alle Leute außer sich und sagten: Ist er etwa der Sohn
+Davids?
+
+<<v24>>
+24 Als die Pharisäer das hörten, sagten sie: Nur mit Hilfe von
+Beelzebul, dem Anführer der Dämonen, kann er die Dämonen austreiben.
+^{[[#fn13][13]][[#fn14][14]]}
+
+<<v25>>
+25 Doch Jesus wusste, was sie dachten, und sagte zu ihnen: Jedes Reich,
+das in sich gespalten ist, geht zugrunde, und keine Stadt und keine
+Familie, die in sich gespalten ist, wird Bestand haben.
+
+<<v26>>
+26 Wenn also der Satan den Satan austreibt, dann liegt der Satan mit
+sich selbst im Streit. Wie kann sein Reich dann Bestand haben?
+
+<<v27>>
+27 Und wenn ich die Dämonen durch Beelzebul austreibe, durch wen treiben
+dann eure Anhänger sie aus? Sie selbst also sprechen euch das Urteil.
+^{[[#fn15][15]]}
+
+<<v28>>
+28 Wenn ich aber die Dämonen durch den Geist Gottes austreibe, dann ist
+das Reich Gottes schon zu euch gekommen. ^{[[#fn16][16]]}
+
+<<v29>>
+29 Wie kann einer in das Haus eines starken Mannes einbrechen und ihm
+den Hausrat rauben, wenn er den Mann nicht vorher fesselt? Erst dann
+kann er sein Haus plündern. ^{[[#fn17][17]]}
+
+<<v30>>
+30 Wer nicht für mich ist, der ist gegen mich; wer nicht mit mir
+sammelt, der zerstreut.
+
+<<v31>>
+31 Darum sage ich euch: Jede Sünde und Lästerung wird den Menschen
+vergeben werden, aber die Lästerung gegen den Geist wird nicht vergeben.
+^{[[#fn18][18]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 118\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v32>>
+32 Auch dem, der etwas gegen den Menschensohn sagt, wird vergeben
+werden; wer aber etwas gegen den Heiligen Geist sagt, dem wird nicht
+vergeben, weder in dieser noch in der zukünftigen Welt.
+
+<<v33>>
+33 Entweder: der Baum ist gut - dann sind auch seine Früchte gut. Oder:
+der Baum ist schlecht - dann sind auch seine Früchte schlecht. An den
+Früchten also erkennt man den Baum. ^{[[#fn19][19]]}
+
+<<v34>>
+34 Ihr Schlangenbrut, wie könnt ihr Gutes reden, wenn ihr böse seid?
+Denn wovon das Herz voll ist, davon spricht der Mund. ^{[[#fn20][20]]}
+
+<<v35>>
+35 Ein guter Mensch bringt Gutes hervor, weil er Gutes in sich hat, und
+ein böser Mensch bringt Böses hervor, weil er Böses in sich hat.
+^{[[#fn21][21]]}
+
+<<v36>>
+36 Ich sage euch: Über jedes unnütze Wort, das die Menschen reden,
+werden sie am Tag des Gerichts Rechenschaft ablegen müssen;
+
+<<v37>>
+37 denn aufgrund deiner Worte wirst du freigesprochen und aufgrund
+deiner Worte wirst du verurteilt werden.\\
+\\
+
+<<v38>>
+**** Die Verweigerung eines Zeichens: 12,38-42
+     :PROPERTIES:
+     :CUSTOM_ID: die-verweigerung-eines-zeichens-1238-42
+     :END:
+38 Zu dieser Zeit sagten einige Schriftgelehrte und Pharisäer zu ihm:
+Meister, wir möchten von dir ein Zeichen sehen.
+^{[[#fn22][22]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 119\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v39>>
+39 Er antwortete ihnen: Diese böse und treulose Generation fordert ein
+Zeichen, aber es wird ihr kein anderes gegeben werden als das Zeichen
+des Propheten Jona. ^{[[#fn23][23]][[#fn24][24]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 296\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v40>>
+40 Denn wie /Jona drei Tage und drei Nächte im Bauch des Fisches/ war,
+so wird auch der Menschensohn drei Tage und drei Nächte im Innern der
+Erde sein. ^{[[#fn25][25]]}
+
+<<v41>>
+41 Die Männer von Ninive werden beim Gericht gegen diese Generation
+auftreten und sie verurteilen; denn sie haben sich nach der Predigt des
+Jona bekehrt. Hier aber ist einer, der mehr ist als Jona.
+^{[[#fn26][26]]}
+
+<<v42>>
+42 Die Königin des Südens wird beim Gericht gegen diese Generation
+auftreten und sie verurteilen; denn sie kam vom Ende der Erde, um die
+Weisheit Salomos zu hören. Hier aber ist einer, der mehr ist als Salomo.
+^{[[#fn27][27]]}\\
+\\
+
+<<v43>>
+**** Von der Rückkehr der unreinen Geister: 12,43-45
+     :PROPERTIES:
+     :CUSTOM_ID: von-der-rückkehr-der-unreinen-geister-1243-45
+     :END:
+43 Ein unreiner Geist, der einen Menschen verlassen hat, wandert durch
+die Wüste und sucht einen Ort, wo er bleiben kann. Wenn er aber keinen
+findet, ^{[[#fn28][28]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 120\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v44>>
+44 dann sagt er: Ich will in mein Haus zurückkehren, das ich verlassen
+habe. Und wenn er es bei seiner Rückkehr leer antrifft, sauber und
+geschmückt,
+
+<<v45>>
+45 dann geht er und holt sieben andere Geister, die noch schlimmer sind
+als er selbst. Sie ziehen dort ein und lassen sich nieder. So wird es
+mit diesem Menschen am Ende schlimmer werden als vorher. Dieser bösen
+Generation wird es genauso gehen. ^{[[#fn29][29]]}\\
+\\
+
+<<v46>>
+**** Von den wahren Verwandten Jesu: 12,46-50
+     :PROPERTIES:
+     :CUSTOM_ID: von-den-wahren-verwandten-jesu-1246-50
+     :END:
+46 Als Jesus noch mit den Leuten redete, standen seine Mutter und seine
+Brüder vor dem Haus und wollten mit ihm sprechen.
+^{[[#fn30][30]][[#fn31][31]][[#fn32][32]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 121\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v47>>
+47 Da sagte jemand zu ihm: Deine Mutter und deine Brüder stehen draußen
+und wollen mit dir sprechen. ^{[[#fn33][33]]}
+
+<<v48>>
+48 Dem, der ihm das gesagt hatte, erwiderte er: Wer ist meine Mutter,
+und wer sind meine Brüder?
+
+<<v49>>
+49 Und er streckte die Hand über seine Jünger aus und sagte: Das hier
+sind meine Mutter und meine Brüder.
+
+<<v50>>
+50 Denn wer den Willen meines himmlischen Vaters erfüllt, der ist für
+mich Bruder und Schwester und Mutter.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Dtn 23,26; (1-8) Mk 2,23-28; Lk 6,1-5 ⇨Esyn: Synopse
+Nr. 111
+
+^{[[#fnm2][2]]} ℘ 1 Sam 21,2-7
+
+^{[[#fnm3][3]]} ℘ Lev 24,5-9
+
+^{[[#fnm4][4]]} ℘ Hos 6,6; Mt 9,13
+
+^{[[#fnm5][5]]} ℘ (9-14) Lk 14,1-6; Mk 3,1-6; Lk 6,6-11 ⇨Esyn: Synopse
+Nr. 112
+
+^{[[#fnm6][6]]} ℘ Lk 13,16; Joh 5,9f
+
+^{[[#fnm7][7]]} 10.13: Hand, andere Übersetzungsmöglichkeit: Arm.
+
+^{[[#fnm8][8]]} ℘ Lk 13,15; 14,5; Joh 5,9f
+
+^{[[#fnm9][9]]} ℘ Mk 11,18; Lk 19,47; Joh 5,18
+
+^{[[#fnm10][10]]} ℘ (15-16) Mk 3,7-12; Lk 6,17-19 ⇨Esyn: Synopse Nr. 113
+
+^{[[#fnm11][11]]} ℘ Jes 42,1-4; Mt 3,17
+
+^{[[#fnm12][12]]} ℘ (22-24) 9,32-34; (22-23) Lk 11,14 ⇨Esyn: Synopse Nr.
+117
+
+^{[[#fnm13][13]]} ℘ 10,25; (24-30) Mk 3,22-27; Lk 11,15.17-23
+
+^{[[#fnm14][14]]} Beelzebul - ursprüngliche Bedeutung: Mistgott (Mist,
+d. h. das heidnische Opfer), oder: Herr der Wohnungen (von Dämonen),
+oder: Herr der Fliegen (d. h. Krankheiten) - wird hier mit Satan, dem
+Anführer aller bösen Geister, gleichgesetzt. - Unter Dämonen verstand
+man «böse» oder «unreine» Geister, die in Menschen oder Tieren hausten,
+schwere Krankheiten seelischer oder leiblicher Art verursachten und so
+die Menschen versklavten (vgl. Mk 5,9.11; 6,13; Mt 9,32; 12,45; Lk
+10,17-20; 13,11 u. ö.).
+
+^{[[#fnm15][15]]} Anhänger, wörtlich: Söhne.
+
+^{[[#fnm16][16]]} ℘ Lk 17,21
+
+^{[[#fnm17][17]]} ℘ Jes 49,24
+
+^{[[#fnm18][18]]} ℘ (31-32) Mk 3,28-30; Lk 12,10 ⇨Esyn: Synopse Nr. 118
+
+^{[[#fnm19][19]]} ℘ 7,17f; (33-35) Lk 6,43-45
+
+^{[[#fnm20][20]]} ℘ 3,7
+
+^{[[#fnm21][21]]} Wörtlich: Ein guter Mensch bringt aus dem guten Schatz
+Gutes hervor und ein böser Mensch bringt aus dem bösen Schatz Böses
+hervor.
+
+^{[[#fnm22][22]]} ℘ (38-40) 16,1-4; Joh 6,30; 1 Kor 1,22; (38-42) Mk
+8,11f; Lk 11,16.29-32 ⇨Esyn: Synopse Nr. 119
+
+^{[[#fnm23][23]]} treulose, wörtlich: ehebrecherische (vgl. Mt 16,4; Mk
+8,38). Das Wort wird hier, wie schon bei den Propheten, im übertragenen
+Sinn gebraucht (vgl. Ez 16,15-34; Hos 2 - 3).
+
+^{[[#fnm24][24]]} ℘ ⇨Esyn: Synopse Nr. 296
+
+^{[[#fnm25][25]]} ℘ Jona 2,1; Mt 27,63
+
+^{[[#fnm26][26]]} ℘ Jona 3,5
+
+^{[[#fnm27][27]]} ℘ 1 Kön 10,1-10
+
+^{[[#fnm28][28]]} ℘ (43-45) Lk 11,24-26 ⇨Esyn: Synopse Nr. 120
+
+^{[[#fnm29][29]]} ℘ 2 Petr 2,20
+
+^{[[#fnm30][30]]} ℘ (46-50) Mk 3,31-35; Lk 8,19-21
+
+^{[[#fnm31][31]]} 46f: Die Worte «Bruder» und «Schwester» können nach
+hebräischem, aramäischem und griechischem Sprachgebrauch auch als
+Kurzbezeichnung für Verwandte im weiteren Sinn gebraucht werden (vgl.
+Gen 13,8; 14,14; 24,48; u. ö.). Zum Ganzen vgl. die Aussagen des Neuen
+Testaments über die «Brüder Jesu» bzw. die «Brüder des Herrn»: Mt
+13,54-58; Mk 6,1-6; Joh 7,3-5; Apg 1,14; 1 Kor 9,5; Gal 1,19; auch Mt
+27,56; Mk 15,40.47; 16,1.
+
+^{[[#fnm32][32]]} ℘ ⇨Esyn: Synopse Nr. 121
+
+^{[[#fnm33][33]]} Dieser Vers fehlt bei einigen wichtigen alten
+Textzeugen.

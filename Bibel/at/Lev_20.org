@@ -1,0 +1,191 @@
+#+TITLE: Lev 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 20:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 20.html
+
+<<verses>>
+
+<<v1>>
+* Todeswürdige Verbrechen: 20,1-27
+
+* Das Kinderopfer: 20,1-5
+
+1 Der Herr sprach zu Mose:
+
+<<v2>>
+2 Sag zu den Israeliten: Jeder Mann unter den Israeliten oder unter den
+Fremden in Israel, der eines seiner Kinder dem Moloch gibt, wird mit dem
+Tod bestraft. Die Bürger des Landes sollen ihn steinigen. [fn:1]
+
+<<v3>>
+3 Ich richte mein Angesicht gegen einen solchen und merze ihn aus seinem
+Volk aus, weil er eines seiner Kinder dem Moloch gegeben, dadurch mein
+Heiligtum verunreinigt und meinen heiligen Namen entweiht hat.
+
+<<v4>>
+4 Falls die Bürger des Landes ihre Augen diesem Mann gegenüber
+verschließen, wenn er eines seiner Kinder dem Moloch gibt, und ihn nicht
+töten,
+
+<<v5>>
+5 so richte ich mein Angesicht gegen ihn und seine Sippe und merze sie
+aus der Mitte ihres Volkes aus, ihn und alle, die sich mit ihm dem
+Molochdienst hingeben.\\
+\\
+
+<<v6>>
+* Die Totenbeschwörung und Wahrsagerei: 20,6-8
+
+6 Gegen einen, der sich an Totenbeschwörer und Wahrsager wendet und sich
+mit ihnen abgibt, richte ich mein Angesicht und merze ihn aus seinem
+Volk aus. [fn:2]
+
+<<v7>>
+7 Ihr sollt euch heiligen, um heilig zu sein; denn ich bin der Herr,
+euer Gott.
+
+<<v8>>
+8 Ihr sollt auf meine Satzungen achten und sie befolgen. Ich bin der
+Herr, der euch heiligt.\\
+\\
+
+<<v9>>
+* Die Verfluchung der Eltern: 20,9
+
+9 Jeder, der seinen Vater oder seine Mutter verflucht, wird mit dem Tod
+bestraft. Da er seinen Vater oder seine Mutter verflucht hat, soll sein
+Blut auf ihn kommen. [fn:3]\\
+\\
+
+<<v10>>
+* Der Ehebruch: 20,10
+
+10 Ein Mann, der mit der Frau seines Nächsten die Ehe bricht, wird mit
+dem Tod bestraft, der Ehebrecher samt der Ehebrecherin. [fn:4]\\
+\\
+
+<<v11>>
+* Unzuchtverbrechen: 20,11-17
+
+11 Ein Mann, der mit der Frau seines Vaters schläft, hat die Scham
+seines Vaters entblößt. Beide werden mit dem Tod bestraft; ihr Blut soll
+auf sie kommen. [fn:5]
+
+<<v12>>
+12 Schläft einer mit seiner Schwiegertochter, so werden beide mit dem
+Tod bestraft. Sie haben eine schändliche Tat begangen, ihr Blut soll auf
+sie kommen.
+
+<<v13>>
+13 Schläft einer mit einem Mann, wie man mit einer Frau schläft, dann
+haben sie eine Gräueltat begangen; beide werden mit dem Tod bestraft;
+ihr Blut soll auf sie kommen.
+
+<<v14>>
+14 Heiratet einer eine Frau und ihre Mutter, so ist das Blutschande. Ihn
+und die beiden Frauen soll man verbrennen, damit es keine Blutschande
+unter euch gibt.
+
+<<v15>>
+15 Ein Mann, der einem Tier beiwohnt, wird mit dem Tod bestraft; auch
+das Tier sollt ihr töten.
+
+<<v16>>
+16 Nähert sich eine Frau einem Tier, um sich mit ihm zu begatten, dann
+sollst du die Frau und das Tier töten. Sie werden mit dem Tod bestraft;
+ihr Blut soll auf sie kommen.
+
+<<v17>>
+17 Nimmt einer seine Schwester, eine Tochter seines Vaters oder eine
+Tochter seiner Mutter und sieht ihre Scham und sie sieht die seine, so
+ist es eine Schandtat. Sie sollen vor den Augen der Söhne ihres Volkes
+ausgemerzt werden. Er hat die Scham seiner Schwester entblößt; er muss
+die Folgen seiner Schuld tragen.\\
+\\
+
+<<v18>>
+* Der Verkehr mit einer Menstruierenden: 20,18
+
+18 Ein Mann, der mit einer Frau während ihrer Regel schläft und ihre
+Scham entblößt, hat ihre Blutquelle aufgedeckt und sie hat ihre
+Blutquelle entblößt; daher sollen beide aus ihrem Volk ausgemerzt
+werden.\\
+\\
+
+<<v19>>
+* Die Unzucht mit Verwandten: 20,19-21
+
+19 Die Scham der Schwester deiner Mutter oder der Schwester deines
+Vaters sollst du nicht entblößen; denn wer seine eigene Verwandte
+entblößt, muss die Folgen seiner Schuld tragen.
+
+<<v20>>
+20 Ein Mann, der mit seiner Tante schläft, hat die Scham seines Onkels
+entblößt. Sie müssen die Folgen ihrer Sünde tragen; sie sollen kinderlos
+sterben.
+
+<<v21>>
+21 Nimmt einer die Frau seines Bruders, so ist das Befleckung. Er hat
+die Scham seines Bruders entblößt; sie sollen kinderlos bleiben.\\
+\\
+
+<<v22>>
+* Schlussmahnung: 20,22-26
+
+22 Ihr sollt auf alle meine Satzungen und Vorschriften achten und sie
+befolgen; dann wird euch das Land nicht ausspeien, in das ich euch
+führe, und ihr werdet dort wohnen können. [fn:6]
+
+<<v23>>
+23 Ihr sollt euch nicht nach den Bräuchen des Volkes richten, das ich
+vor euren Augen vertreibe; denn all diese Dinge haben sie getan, so dass
+es mich vor ihnen ekelte.
+
+<<v24>>
+24 Daher habe ich euch gesagt: Ihr seid es, die ihren Boden in Besitz
+nehmen sollen. Ich bin es, der ihn euch zum Besitz geben wird, ein Land,
+in dem Milch und Honig fließen. Ich bin der Herr, euer Gott, der euch
+von diesen Völkern ausgesondert hat.
+
+<<v25>>
+25 So unterscheidet zwischen reinem und unreinem Vieh, zwischen unreinen
+und reinen Vögeln! Macht euch nicht selbst abscheulich mit diesen
+Tieren, diesen Vögeln, mit allem, was auf dem Boden kriecht. Ich habe es
+für euch als unrein unterschieden.
+
+<<v26>>
+26 Seid mir geheiligt; denn ich, der Herr, bin heilig und ich habe euch
+von all diesen Völkern ausgesondert, damit ihr mir gehört.\\
+\\
+
+<<v27>>
+* Nachtrag: Die Totenbeschwörung: 20,27
+
+27 Männer oder Frauen, in denen ein Toten- oder ein Wahrsagegeist ist,
+sollen mit dem Tod bestraft werden. Man soll sie steinigen, ihr Blut
+soll auf sie kommen. [fn:7]\\
+\\
+
+
+* Footnotes
+
+[fn:1] Zu den Kinderopfern für Moloch vgl. die Anmerkung zu 18,21 [[file:Lev_18.org::v21][Lev 18,21]].
+
+[fn:2] 19,31 [[file:Lev_19.org::v31][Lev 19,31]]
+
+[fn:3] Ex 21,17 [[file:Ex_21.org::v17][Ex 21,17]]
+
+[fn:4] Ex 20,14 [[file:Ex_20.org::v14][Ex 20,14]]; Dtn 5,18 [[file:Dtn_5.org::v18][Dtn 5,18]]
+
+[fn:5] (11-17) 18,6-23 [[file:Lev_18.org::v6][Lev 18,6-23]]
+
+[fn:6] (22-26) 18,24-30 [[file:Lev_18.org::v24][Lev 18,24-30]]
+
+[fn:7] 19,31 [[file:Lev_19.org::v31][Lev 19,31]]

@@ -1,0 +1,113 @@
+:PROPERTIES:
+:ID:       bb601f56-84e1-4fd5-8c39-6f432af25f61
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jeremia* -- [[file:Jer_1.html][1]] ...
+[[file:Jer_19.html][19]] [[file:Jer_20.html][20]] *21*
+[[file:Jer_22.html][22]] [[file:Jer_23.html][23]] ...
+[[file:Jer_52.html][52]]
+
+--------------
+
+* Jer 21
+  :PROPERTIES:
+  :CUSTOM_ID: jer-21
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Der Beginn der Belagerung Jerusalems: 21,1-10
+     :PROPERTIES:
+     :CUSTOM_ID: der-beginn-der-belagerung-jerusalems-211-10
+     :END:
+1 Das Wort, das vom Herrn an Jeremia erging, als König Zidkija den
+Paschhur, den Sohn Malkijas, und den Priester Zefanja, den Sohn
+Maasejas, zu ihm sandte mit dem Auftrag:
+
+<<v2>>
+2 Befrag doch den Herrn für uns! Denn Nebukadnezzar, der König von
+Babel, führt gegen uns Krieg; vielleicht handelt der Herr an uns wie bei
+all seinen früheren Wundern, sodass Nebukadnezzar von uns abziehen muss.
+
+<<v3>>
+3 Jeremia aber antwortete ihnen: Meldet Zidkija Folgendes:
+
+<<v4>>
+4 So spricht der Herr, der Gott Israels: Fürwahr, ich drehe in eurer
+Hand die Waffen um, mit denen ihr vor der Mauer gegen den König von
+Babel und die Chaldäer, die euch belagern, kämpft, und hole sie ins
+Innere dieser Stadt.
+
+<<v5>>
+5 Ich selbst kämpfe gegen euch mit hoch erhobener Hand und starkem Arm,
+mit Zorn, Grimm und großem Groll.
+
+<<v6>>
+6 Ich schlage die Einwohner dieser Stadt, Mensch und Vieh; an schwerer
+Pest sollen sie sterben.
+
+<<v7>>
+7 Und danach - Spruch des Herrn - liefere ich Zidkija, den König von
+Juda, seine Diener und das Volk, das in dieser Stadt der Pest, dem
+Schwert und dem Hunger entronnen ist, der Hand Nebukadnezzars, des
+Königs von Babel, aus, der Hand ihrer Feinde und der Hand derer, die
+ihnen nach dem Leben trachten. Er wird sie mit scharfem Schwert
+erschlagen, ohne Mitleid, ohne Schonung, ohne Erbarmen.
+
+<<v8>>
+8 Zu diesem Volk aber sollst du sagen: So spricht der Herr: Seht, den
+Weg des Lebens und den Weg des Todes stelle ich euch zur Wahl.
+
+<<v9>>
+9 Wer in dieser Stadt bleibt, der stirbt durch Schwert, Hunger und Pest.
+Wer aber hinausgeht und sich den Chaldäern, die euch belagern, ergibt,
+der wird überleben und sein Leben wie ein Beutestück gewinnen.
+^{[[#fn1][1]]}
+
+<<v10>>
+10 Denn ich habe mein Angesicht gegen diese Stadt gerichtet zu ihrem
+Unheil, nicht zu ihrem Heil - Spruch des Herrn. Der Hand des Königs von
+Babel wird sie ausgeliefert und er wird sie mit Feuer verbrennen.\\
+\\
+
+<<v11>>
+**** Die Botschaft an die Regierung: 21,11-14
+     :PROPERTIES:
+     :CUSTOM_ID: die-botschaft-an-die-regierung-2111-14
+     :END:
+11 An das Haus des Königs von Juda: /\\
+ Hört das Wort des Herrn, Haus David!\\
+\\
+
+<<v12>>
+12 So spricht der Herr: /\\
+ Haltet jeden Morgen gerechtes Gericht! Rettet den Ausgeplünderten /\\
+ aus der Hand des Gewalttäters! Sonst bricht mein Zorn wie Feuer los;
+/\\
+ er brennt und niemand kann löschen. ^{[[#fn2][2]]}\\
+\\
+
+<<v13>>
+13 Nun gehe ich gegen dich vor, du Stadt, /\\
+ die du in der Mulde des Felsengebirges /\\
+ über der Ebene wohnst - Spruch des Herrn. Ihr freilich sagt: Wer kann
+über uns kommen /\\
+ und eindringen in unsere Bauten?\\
+\\
+
+<<v14>>
+14 Ich zahle euch heim, wie es eure Taten verdienen /\\
+ - Spruch des Herrn. Ich lege Feuer an den Wald dieser Stadt, /\\
+ das ringsum alles verzehrt. ^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 38,2
+
+^{[[#fnm2][2]]} ℘ 22,3; 4,4
+
+^{[[#fnm3][3]]} ℘ 50,32
+
+^{[[#fnm4][4]]} Mit dem «Wald dieser Stadt» sind wohl die mit Zedernholz
+erbauten Paläste Jerusalems gemeint (vgl. 22,7; 1 Kön 7,2).

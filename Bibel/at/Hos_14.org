@@ -1,0 +1,104 @@
+:PROPERTIES:
+:ID:       1532e82a-5f01-41ed-b57c-38ea1cfbd119
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Hosea* -- [[file:Hos_1.html][1]] ...
+[[file:Hos_12.html][12]] [[file:Hos_13.html][13]] *14*
+
+--------------
+
+* Hos 14
+  :PROPERTIES:
+  :CUSTOM_ID: hos-14
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Samaria verfällt seiner Strafe, /\\
+ weil es sich empört hat gegen seinen Gott. Seine Bewohner fallen unter
+dem Schwert, /\\
+ ihre Kinder werden zerschmettert, /\\
+ die schwangeren Frauen werden aufgeschlitzt. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+**** Die Umkehr als Bedingung für die Rettung: 14,2-9
+     :PROPERTIES:
+     :CUSTOM_ID: die-umkehr-als-bedingung-für-die-rettung-142-9
+     :END:
+2 Kehr um, Israel, zum Herrn, deinem Gott! /\\
+ Denn du bist zu Fall gekommen durch deine Schuld. ^{[[#fn2][2]]}\\
+\\
+
+<<v3>>
+3 Kehrt um zum Herrn, /\\
+ nehmt Worte (der Reue) mit euch und sagt zu ihm: Nimm alle Schuld von
+uns /\\
+ und lass uns Gutes erfahren! /\\
+ Wir danken es dir mit der Frucht unserer Lippen.\\
+\\
+
+<<v4>>
+4 Assur kann uns nicht retten. /\\
+ Wir wollen nicht mehr auf Pferden reiten und zum Machwerk unserer Hände
+sagen wir nie mehr: Unser Gott. /\\
+ Denn nur bei dir findet der Verwaiste Erbarmen. ^{[[#fn3][3]]}\\
+\\
+
+<<v5>>
+5 Ich will ihre Untreue heilen /\\
+ und sie aus lauter Großmut wieder lieben. /\\
+ Denn mein Zorn hat sich von Israel abgewandt.\\
+\\
+
+<<v6>>
+6 Ich werde für Israel da sein wie der Tau, /\\
+ damit es aufblüht wie eine Lilie /\\
+ und Wurzeln schlägt wie der Libanon. ^{[[#fn4][4]]}\\
+\\
+
+<<v7>>
+7 Seine Zweige sollen sich ausbreiten, /\\
+ seine Pracht soll der Pracht des Ölbaums gleichen /\\
+ und sein Duft dem Duft des Libanon. ^{[[#fn5][5]]}\\
+\\
+
+<<v8>>
+8 Sie werden wieder in meinem Schatten wohnen; /\\
+ sie bauen Getreide an und gedeihen wie die Reben, /\\
+ deren Wein so berühmt ist wie der Wein vom Libanon.\\
+\\
+
+<<v9>>
+9 Was hat Efraim noch mit den Götzen zu tun? /\\
+ Ich, ja ich, erhöre ihn, ich schaue nach ihm. Ich bin wie der grünende
+Wacholder, /\\
+ an mir findest du reiche Frucht. ^{[[#fn6][6]]}\\
+\\
+
+<<v10>>
+** Nachwort: 14,10
+   :PROPERTIES:
+   :CUSTOM_ID: nachwort-1410
+   :END:
+10 Wer weise ist, begreife dies alles, /\\
+ wer klug ist, erkenne es. Ja, die Wege des Herrn sind gerade; /\\
+ die Gerechten gehen auf ihnen, /\\
+ die Treulosen aber kommen auf ihnen zu Fall. ^{[[#fn7][7]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 10,14; 2 Kön 15,16
+
+^{[[#fnm2][2]]} ℘ 5,5
+
+^{[[#fnm3][3]]} ℘ 7,11; Jes 31,1
+
+^{[[#fnm4][4]]} ℘ Jes 35,1f
+
+^{[[#fnm5][5]]} ℘ Ps 52,10
+
+^{[[#fnm6][6]]} ℘ 4,17; 2 Kor 6,16
+
+^{[[#fnm7][7]]} ℘ Ps 107,43; Dtn 32,4

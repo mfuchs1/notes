@@ -1,0 +1,173 @@
+:PROPERTIES:
+:ID:       bccc4200-06cf-4aab-9bbb-5f0c127d51fb
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Römer* --
+[[file:Röm_1.html][1]] ... [[file:Röm_4.html][4]] [[file:Röm_5.html][5]]
+*6* [[file:Röm_7.html][7]] [[file:Röm_8.html][8]] ...
+[[file:Röm_16.html][16]]
+
+--------------
+
+* Röm 6
+  :PROPERTIES:
+  :CUSTOM_ID: röm-6
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Gemeinschaft der Getauften mit Christus: 6,1-14
+     :PROPERTIES:
+     :CUSTOM_ID: die-gemeinschaft-der-getauften-mit-christus-61-14
+     :END:
+1 Heißt das nun, dass wir an der Sünde fest halten sollen, damit die
+Gnade mächtiger werde? ^{[[#fn1][1]]}
+
+<<v2>>
+2 Keineswegs! Wie können wir, die wir für die Sünde tot sind, noch in
+ihr leben?
+
+<<v3>>
+3 wisst ihr denn nicht, dass wir alle, die wir auf Christus Jesus
+getauft wurden, auf seinen Tod getauft worden sind?
+^{[[#fn2][2]][[#fn3][3]]}
+
+<<v4>>
+4 Wir wurden mit ihm begraben durch die Taufe auf den Tod; und wie
+Christus durch die Herrlichkeit des Vaters von den Toten auferweckt
+wurde, so sollen auch wir als neue Menschen leben. ^{[[#fn4][4]]}
+
+<<v5>>
+5 Wenn wir nämlich ihm gleich geworden sind in seinem Tod, dann werden
+wir mit ihm auch in seiner Auferstehung vereinigt sein.
+^{[[#fn5][5]][[#fn6][6]]}
+
+<<v6>>
+6 Wir wissen doch: Unser alter Mensch wurde mitgekreuzigt, damit der von
+der Sünde beherrschte Leib vernichtet werde und wir nicht Sklaven der
+Sünde bleiben. ^{[[#fn7][7]]}
+
+<<v7>>
+7 Denn wer gestorben ist, der ist frei geworden von der Sünde.
+
+<<v8>>
+8 Sind wir nun mit Christus gestorben, so glauben wir, dass wir auch mit
+ihm leben werden.
+
+<<v9>>
+9 Wir wissen, dass Christus, von den Toten auferweckt, nicht mehr
+stirbt; der Tod hat keine Macht mehr über ihn. ^{[[#fn8][8]]}
+
+<<v10>>
+10 Denn durch sein Sterben ist er ein für allemal gestorben für die
+Sünde, sein Leben aber lebt er für Gott. ^{[[#fn9][9]]}
+
+<<v11>>
+11 So sollt auch ihr euch als Menschen begreifen, die für die Sünde tot
+sind, aber für Gott leben in Christus Jesus.
+
+<<v12>>
+12 Daher soll die Sünde euren sterblichen Leib nicht mehr beherrschen,
+und seinen Begierden sollt ihr nicht gehorchen. ^{[[#fn10][10]]}
+
+<<v13>>
+13 Stellt eure Glieder nicht der Sünde zur Verfügung als Waffen der
+Ungerechtigkeit, sondern stellt euch Gott zur Verfügung als Menschen,
+die vom Tod zum Leben gekommen sind, und stellt eure Glieder als Waffen
+der Gerechtigkeit in den Dienst Gottes. ^{[[#fn11][11]]}
+
+<<v14>>
+14 Die Sünde soll nicht über euch herrschen; denn ihr steht nicht unter
+dem Gesetz, sondern unter der Gnade. ^{[[#fn12][12]]}\\
+\\
+
+<<v15>>
+**** Die Freiheit der Christen von der Sünde: 6,15-23
+     :PROPERTIES:
+     :CUSTOM_ID: die-freiheit-der-christen-von-der-sünde-615-23
+     :END:
+15 Heißt das nun, dass wir sündigen dürfen, weil wir nicht unter dem
+Gesetz stehen, sondern unter der Gnade? Keineswegs! ^{[[#fn13][13]]}
+
+<<v16>>
+16 Ihr wisst doch: Wenn ihr euch als Sklaven zum Gehorsam verpflichtet,
+dann seid ihr Sklaven dessen, dem ihr gehorchen müsst; ihr seid entweder
+Sklaven der Sünde, die zum Tod führt, oder des Gehorsams, der zur
+Gerechtigkeit führt. ^{[[#fn14][14]]}
+
+<<v17>>
+17 Gott aber sei Dank; denn ihr wart Sklaven der Sünde, seid jedoch von
+Herzen der Lehre gehorsam geworden, an die ihr übergeben wurdet.
+^{[[#fn15][15]][[#fn16][16]]}
+
+<<v18>>
+18 Ihr wurdet aus der Macht der Sünde befreit und seid zu Sklaven der
+Gerechtigkeit geworden. ^{[[#fn17][17]]}
+
+<<v19>>
+19 Wegen eurer Schwachheit rede ich nach Menschenweise: Wie ihr eure
+Glieder in den Dienst der Unreinheit und der Gesetzlosigkeit gestellt
+habt, so dass ihr gesetzlos wurdet, so stellt jetzt eure Glieder in den
+Dienst der Gerechtigkeit, so dass ihr heilig werdet.
+
+<<v20>>
+20 Denn als ihr Sklaven der Sünde wart, da wart ihr der Gerechtigkeit
+gegenüber frei.
+
+<<v21>>
+21 Welchen Gewinn hattet ihr damals? Es waren Dinge, deren ihr euch
+jetzt schämt; denn sie bringen den Tod. ^{[[#fn18][18]]}
+
+<<v22>>
+22 Jetzt, da ihr aus der Macht der Sünde befreit und zu Sklaven Gottes
+geworden seid, habt ihr einen Gewinn, der zu eurer Heiligung führt und
+das ewige Leben bringt.
+
+<<v23>>
+23 Denn der Lohn der Sünde ist der Tod, die Gabe Gottes aber ist das
+ewige Leben in Christus Jesus, unserem Herrn. ^{[[#fn19][19]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 5,20
+
+^{[[#fnm2][2]]} ℘ Gal 3,27
+
+^{[[#fnm3][3]]} 3-11: Dass der Getaufte «mit Christus gestorben» ist,
+bedeutet, dass er am Tod Jesu teilhat. Er erhält Anteil an dem durch den
+Tod Jesu bewirkten Heil, hat aber in der Nachfolge Jesu während seines
+irdischen Lebens das Kreuz auf sich zu nehmen.
+
+^{[[#fnm4][4]]} ℘ Kol 2,12
+
+^{[[#fnm5][5]]} ℘ Phil 3,10f; 2 Tim 2,11
+
+^{[[#fnm6][6]]} ihm gleich geworden, wörtlich: mit ihm
+zusammengewachsen.
+
+^{[[#fnm7][7]]} ℘ Gal 5,24; 6,14; Eph 4,22f
+
+^{[[#fnm8][8]]} ℘ Apg 2,27; 13,35
+
+^{[[#fnm9][9]]} ℘ Hebr 9,26; 1 Petr 3,18
+
+^{[[#fnm10][10]]} ℘ Gen 4,7
+
+^{[[#fnm11][11]]} ℘ 6,19; 12,1
+
+^{[[#fnm12][12]]} ℘ Gal 5,18
+
+^{[[#fnm13][13]]} ℘ 6,1f
+
+^{[[#fnm14][14]]} ℘ 2 Petr 2,19; Joh 8,34-36
+
+^{[[#fnm15][15]]} ℘ Joh 8,32-36
+
+^{[[#fnm16][16]]} der Lehre, wörtlich: der Gestalt der Lehre.
+
+^{[[#fnm17][17]]} ℘ 1 Petr 2,24
+
+^{[[#fnm18][18]]} ℘ 8,6
+
+^{[[#fnm19][19]]} ℘ 5,12.21; Jak 1,15

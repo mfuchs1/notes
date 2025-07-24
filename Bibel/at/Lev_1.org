@@ -1,0 +1,158 @@
+#+TITLE: Lev 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 09:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 1.html
+
+* Lev 1
+Das Buch trägt in der griechischen und lateinischen Bibel den Namen
+Levitikus, weil es fast ganz aus Vorschriften für den Kult und für die
+Priester aus dem Stamm Levi besteht. Die Juden nennen es nach den
+Anfangsworten Wajjikrá (Und er rief). Das ganze Buch gehört der
+priesterlichen Überlieferungsschicht (P) an. Es enthält nur zwei kurze
+erzählende Abschnitte: über den Tod der Aaron-Söhne Nadab und Abihu
+(10,1-5) und über die Steinigung eines Gotteslästerers (24,10-15). Die
+Vorschriften dieses Buches werden so in die Geschichtsdarstellung des
+Pentateuch eingefügt, dass sie als Anordnungen Gottes während des
+Sinai-Aufenthalts erscheinen.
+
+Die Gliederung des Stoffes ist nicht leicht überschaubar. Lev 8 10
+greift auf Ex 40 (Einsetzung der Priester aus dem Stamm Levi) zurück. In
+Kap. 1 - 7 stehen Anweisungen für verschiedene Opfer; in Kap. 11 - 15
+folgen Vorschriften über die kultische Reinheit; Kap. 16 ist das Ritual
+für den Versöhnungstag. In Kap. 17 - 26 folgt das sogenannte
+Heiligkeitsgesetz, eine Gesetzessammlung, die in ihrem Grundbestand alte
+Vorschriften ethischer und kultischer Art enthält und wie
+altorientalische Gesetzbücher mit Segenszusagen und Fluchandrohungen
+schließt. Ein Nachtrag (Kap. 27) regelt die Ablösung von Gelübden und
+Zehnten durch Geld.
+
+Dieser ganze Stoff wurde erst nach dem Babylonischen Exil in seine
+jetzige Gestalt gebracht; das Buch enthält aber vieles, was bereits
+lange in der Praxis der Priester und in der zur Unterweisung der
+Priester dienenden Tradition vorlag. Das alles wird unter die Autorität
+des Mose und des Bundesgesetzes vom Sinai gestellt und daher Mose in den
+Mund gelegt.
+
+Die für uns teilweise befremdlichen Riten und Vorschriften, die die
+sogenannte kultische Reinheit regeln und die »Heiligkeit« Israels
+garantieren sollen, erklären sich daraus, dass die altorientalischen
+Völker keine scharfe Trennung zwischen Alltagsleben und Religion
+kannten. Dem heiligen, von aller Befleckung freien Gott dürfen nur
+Menschen dienen, die sich von ethischen Vergehen freihalten, aber auch
+die Regeln des Anstands und der Hygiene beachten. Sie müssen sich
+außerdem von allem fern halten, was an heidnische Bräuche erinnert; dazu
+gehören der Genuss von bei heidnischen Opfern geschlachteten Tieren und
+die meisten Trauerriten. Darum machen bestimmte Tiere und Speisen und
+alles, was mit dem Bereich des Todes zu tun hat, z. B. Leichen und Aas,
+»unrein«. Wer sich gegen solche Reinheitsbestimmungen vergangen hat, und
+sei es nur unbeabsichtigt, muss sich bestimmten Reinigungsriten
+unterziehen und Schuld- oder Sündopfer darbringen, wenn er wieder am
+Gottesdienst teilnehmen will.
+
+Wenn auch diese Vorschriften durch das Neue Testament überholt sind,
+behält das Buch Levitikus seine Bedeutung für die Kenntnis des Judentums
+und für das Verständnis des Neuen Testaments. Durch die strenge
+Befolgung der levitischen Gesetze hat das Judentum bis heute seine
+Identität bewahrt und ist nicht im Völkergemisch des Mittelmeerraums
+aufgegangen.
+
+<<verses>>
+
+<<v1>>
+* Die Opfervorschriften für das Volk: 1,1 - 5,26
+
+* Das Brandopfer: 1,1-17
+1 Der Herr rief Mose, redete ihn vom Offenbarungszelt aus an und sprach: [fn:1]
+
+<<v2>>
+2 Rede zu den Israeliten und sag zu ihnen: Wenn einer von euch dem Herrn
+von den Haustieren eine Opfergabe darbringt, könnt ihr das mit Rind und
+Kleinvieh tun.
+
+<<v3>>
+3 Ist seine Opfergabe ein Brandopfer vom Rind, so bringe er ein
+männliches Tier ohne Fehler dar; er soll es an den Eingang des
+Offenbarungszeltes bringen, damit es vor dem Herrn Annahme findet.
+
+<<v4>>
+4 Er lege seine Hand auf den Kopf des Opfertiers, damit es für ihn
+angenommen werde, um ihn zu entsühnen.
+
+<<v5>>
+5 Er soll dann den Stier vor dem Herrn schlachten und die Söhne Aarons,
+die Priester, sollen das Blut darbringen. Sie sollen es ringsum an den
+Altar sprengen, der am Eingang des Offenbarungszeltes steht.
+
+<<v6>>
+6 Dann soll er das Opfer abhäuten und es in Stücke zerlegen.
+
+<<v7>>
+7 Die Söhne Aarons, die Priester, sollen Feuer auf den Altar bringen und
+Holz darauf schichten.
+
+<<v8>>
+8 Hierauf sollen die Söhne Aarons, die Priester, die Stücke sowie den
+Kopf und das Fett auf das Holz über dem Altarfeuer legen.
+
+<<v9>>
+9 Der Priester soll dann die Eingeweide und die Beine mit Wasser waschen
+und das Ganze auf dem Altar in Rauch aufgehen lassen. Ein Brandopfer ist
+es, ein Feueropfer zum beruhigenden Duft für den Herrn. [fn:2]
+
+<<v10>>
+10 Ist seine Opfergabe ein Brandopfer vom Kleinvieh, von den Schafen
+oder Ziegen, dann soll er ein fehlerloses männliches Tier bringen.
+
+<<v11>>
+11 Er soll es an der Nordseite des Altars vor dem Herrn schlachten und
+die Söhne Aarons, die Priester, sollen sein Blut ringsum an den Altar
+sprengen.
+
+<<v12>>
+12 Dann soll der Priester es in Stücke zerlegen und diese sowie den Kopf
+und das Fett auf das Holz über dem Altarfeuer legen.
+
+<<v13>>
+13 Er soll dann die Eingeweide und die Beine mit Wasser waschen und der
+Priester soll das Ganze darbringen und auf dem Altar in Rauch aufgehen
+lassen. Ein Brandopfer ist es, ein Feueropfer zum beruhigenden Duft für
+den Herrn.
+
+<<v14>>
+14 Ist seine Opfergabe für den Herrn ein Brandopfer vom Geflügel, dann
+soll er eine Turteltaube oder eine junge Taube bringen.
+
+<<v15>>
+15 Der Priester soll sie zum Altar bringen, ihren Kopf abtrennen und ihn
+auf dem Altar in Rauch aufgehen lassen; ihr Blut soll gegen die
+Altarwand ausgepresst werden.
+
+<<v16>>
+16 Dann soll er ihren Kropf mit den Federn entfernen und ihn an der
+Ostseite des Altars auf den Platz der Fett-Asche werfen.
+
+<<v17>>
+17 Darauf soll der Priester den Vogel an den Flügeln einreißen, ohne ihn
+dabei zu teilen, und ihn auf dem Altar, auf dem Holz über dem Feuer, in
+Rauch aufgehen lassen. Ein Brandopfer ist es, ein Feueropfer zum
+beruhigenden Duft für den Herrn.
+
+
+* Footnotes
+
+[fn:1] 1-17: Brandopfer sind Tieropfer, bei denen das ganze
+Tier auf dem Altar verbrannt wird, im Unterschied zu anderen Opfern, bei
+denen nur ein Teil verbrannt, der andere Teil aber den Priestern
+übergeben oder von der Gemeinschaft, die das Opfer stiftet, beim
+Opfermahl verzehrt wird.
+
+[fn:2] Feueropfer sind alle Opfer, bei denen die Opfergabe ganz
+oder teilweise verbrannt wird. - Zum «beruhigenden Duft» vgl. die
+Anmerkung zu Gen 8,21 [[file:Gen_8.org::v21][Gen 8,21]].

@@ -1,0 +1,119 @@
+:PROPERTIES:
+:ID:       2d5cedf9-fcf9-4f83-bf05-51f793078209
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der erste Brief an die Korinther* --
+[[file:1.Kor_1.html][1]] ... [[file:1.Kor_3.html][3]]
+[[file:1.Kor_4.html][4]] *5* [[file:1.Kor_6.html][6]]
+[[file:1.Kor_7.html][7]] ... [[file:1.Kor_16.html][16]]
+
+--------------
+
+* 1.Kor 5
+  :PROPERTIES:
+  :CUSTOM_ID: kor-5
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Missstände in der Gemeinde: 5,1 - 6,20
+   :PROPERTIES:
+   :CUSTOM_ID: missstände-in-der-gemeinde-51---620
+   :END:
+**** Ein Fall von Blutschande: 5,1-13
+     :PROPERTIES:
+     :CUSTOM_ID: ein-fall-von-blutschande-51-13
+     :END:
+1 Übrigens hört man von Unzucht unter euch, und zwar von Unzucht, wie
+sie nicht einmal unter den Heiden vorkommt, dass nämlich einer mit der
+Frau seines Vaters lebt. ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Und da macht ihr euch noch wichtig, statt traurig zu werden und den
+aus eurer Mitte zu stoßen, der so etwas getan hat.
+
+<<v3>>
+3 Was mich angeht, so habe ich - leiblich zwar abwesend, geistig aber
+anwesend - mein Urteil über den, der sich so vergangen hat, schon jetzt
+gefällt, als ob ich persönlich anwesend wäre: ^{[[#fn3][3]]}
+
+<<v4>>
+4 Im Namen Jesu, unseres Herrn, wollen wir uns versammeln, ihr und mein
+Geist, und zusammen mit der Kraft Jesu, unseres Herrn, ^{[[#fn4][4]]}
+
+<<v5>>
+5 diesen Menschen dem Satan übergeben zum Verderben seines Fleisches,
+damit sein Geist am Tag des Herrn gerettet wird.
+^{[[#fn5][5]][[#fn6][6]]}
+
+<<v6>>
+6 Zu Unrecht rühmt ihr euch. Wisst ihr nicht, dass ein wenig Sauerteig
+den ganzen Teig durchsäuert? ^{[[#fn7][7]]}
+
+<<v7>>
+7 Schafft den alten Sauerteig weg, damit ihr neuer Teig seid. Ihr seid
+ja schon ungesäuertes Brot; denn als unser Paschalamm ist Christus
+geopfert worden. ^{[[#fn8][8]]}
+
+<<v8>>
+8 Lasst uns also das Fest nicht mit dem alten Sauerteig feiern, nicht
+mit dem Sauerteig der Bosheit und Schlechtigkeit, sondern mit den
+ungesäuerten Broten der Aufrichtigkeit und Wahrheit. ^{[[#fn9][9]]}
+
+<<v9>>
+9 Ich habe euch in meinem Brief ermahnt, dass ihr nichts mit Unzüchtigen
+zu schaffen haben sollt. ^{[[#fn10][10]][[#fn11][11]]}
+
+<<v10>>
+10 Gemeint waren damit nicht alle Unzüchtigen dieser Welt oder alle
+Habgierigen und Räuber und Götzendiener; sonst müsstet ihr ja aus der
+Welt auswandern. ^{[[#fn12][12]]}
+
+<<v11>>
+11 In Wirklichkeit meinte ich damit: Habt nichts zu schaffen mit einem,
+der sich Bruder nennt und dennoch Unzucht treibt, habgierig ist, Götzen
+verehrt, lästert, trinkt oder raubt; mit einem solchen Menschen sollt
+ihr nicht einmal zusammen essen. ^{[[#fn13][13]]}
+
+<<v12>>
+12 Ich will also nicht Außenstehende richten - ihr richtet ja auch nur
+solche, die zu euch gehören -,
+
+<<v13>>
+13 die Außenstehenden wird Gott richten. /Schafft den Übeltäter weg aus
+eurer Mitte!/ ^{[[#fn14][14]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Lev 18,7f; 20,11; Dtn 27,20
+
+^{[[#fnm2][2]]} Vgl. dazu Lev 18,7f; 20,11; Dtn 27,20; auch das römische
+Recht stellte dieses Vergehen unter Strafe.
+
+^{[[#fnm3][3]]} ℘ Kol 2,5
+
+^{[[#fnm4][4]]} ℘ Mt 18,20
+
+^{[[#fnm5][5]]} ℘ 1 Tim 1,20; 1 Petr 4,6
+
+^{[[#fnm6][6]]} Der Sünder schändet die Heiligkeit der Gemeinde; er soll
+daher ausgeschlossen werden.
+
+^{[[#fnm7][7]]} ℘ Gal 5,9
+
+^{[[#fnm8][8]]} ℘ Ex 12,15.19; 13,7; 1 Petr 1,19; Ex 12,21
+
+^{[[#fnm9][9]]} ℘ Ex 12,15-20
+
+^{[[#fnm10][10]]} ℘ 2 Petr 2,2.14.19; Jud 23
+
+^{[[#fnm11][11]]} Der hier erwähnte Brief ist vermutlich verloren
+gegangen; Fragmente dieses Briefs könnten in den 1. Korintherbrief
+aufgenommen worden sein.
+
+^{[[#fnm12][12]]} ℘ 1 Tim 6,3-10; 1 Joh 5,19
+
+^{[[#fnm13][13]]} ℘ 6,9f; 2 Thess 3,6; Kol 4,5
+
+^{[[#fnm14][14]]} ℘ Dtn 17,7; 19,19

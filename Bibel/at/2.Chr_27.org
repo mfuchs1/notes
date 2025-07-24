@@ -1,0 +1,62 @@
+#+TITLE: 2 Chr 27 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:12]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 27.html
+
+<<verses>>
+
+<<v1>>
+* Jotam: 27,1-9
+
+1 Jotam war fünfundzwanzig Jahre alt, als er König wurde, und regierte
+sechzehn Jahre in Jerusalem. Seine Mutter hieß Jeruscha und war eine
+Tochter Zadoks. [fn:1]
+
+<<v2>>
+2 Er tat, was dem Herrn gefiel, genau wie sein Vater Usija, aber er
+drang nicht in den Tempel des Herrn ein. Das Volk jedoch handelte immer
+noch verkehrt. [fn:2]
+
+<<v3>>
+3 Er baute das obere Tor am Haus des Herrn. Auch an der Mauer des Ofel
+baute er viel.
+
+<<v4>>
+4 Ebenso baute er Städte im Gebirge Juda aus, errichtete Burgen und
+Türme in den Waldgebieten,
+
+<<v5>>
+5 führte Krieg mit dem König der Ammoniter und besiegte ihn. Die
+Ammoniter mussten ihm in jenem Jahr hundert Talente Silber, zehntausend
+Kor Weizen und zehntausend Kor Gerste abliefern. Die gleiche Abgabe
+leisteten sie auch im zweiten und dritten Jahr.
+
+<<v6>>
+6 So wurde Jotam mächtig; denn er achtete in seinem Verhalten auf den
+Herrn, seinen Gott.
+
+<<v7>>
+7 Die übrige Geschichte Jotams, alle seine Kriege und Unternehmungen,
+sind aufgezeichnet im Buch der Könige von Israel und Juda.
+
+<<v8>>
+8 Er war fünfundzwanzig Jahre alt, als er König wurde, und regierte
+sechzehn Jahre in Jerusalem.
+
+<<v9>>
+9 Jotam entschlief zu seinen Vätern und man begrub ihn in der
+Davidstadt. Sein Sohn Ahas wurde König an seiner Stelle.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-9) [[file:2.Kön_15.org::v32][2 Kön 15,32]]-[[file:2.Kön_15.org::v38][38]]
+
+[fn:2] [[file:2.Chr_26.org::v16][26,16]]

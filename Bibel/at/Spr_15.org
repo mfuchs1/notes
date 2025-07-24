@@ -1,0 +1,209 @@
+#+TITLE: Spr 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-24 Sa 18:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 15.html
+
+* Spr 15
+
+<<verses>>
+
+<<v1>>
+1 Eine sanfte Antwort dämpft die Erregung, /\\
+ eine kränkende Rede reizt zum Zorn.\\
+\\
+
+<<v2>>
+2 Die Zunge der Weisen verkündet Erkenntnis, /\\
+ der Mund der Narren sprudelt Torheit hervor.\\
+\\
+
+<<v3>>
+3 An jedem Ort sind die Augen des Herrn, /\\
+ sie wachen über Gute und Böse.\\
+\\
+
+<<v4>>
+4 Eine sanfte Zunge ist ein Lebensbaum, /\\
+ eine falsche Zunge bricht das Herz.\\
+\\
+
+<<v5>>
+5 Der Tor verschmäht die Zucht seines Vaters, /\\
+ wer auf Zurechtweisung achtet, ist klug.\\
+\\
+
+<<v6>>
+6 Im Haus des Gerechten gibt es reichen Vorrat, /\\
+ was der Frevler erwirbt, wird zerschlagen.\\
+\\
+
+<<v7>>
+7 Die Lippen der Weisen streuen Erkenntnis aus, /\\
+ das Herz der Toren ist verkehrt.\\
+\\
+
+<<v8>>
+8 Das Opfer der Frevler ist dem Herrn ein Gräuel, /\\
+ am Gebet der Rechtschaffenen aber hat er Gefallen. [fn:1]\\
+\\
+
+<<v9>>
+9 Ein Gräuel ist dem Herrn der Weg des Frevlers, /\\
+ wer aber der Gerechtigkeit nachjagt, den liebt er.\\
+\\
+
+<<v10>>
+10 Schlimme Strafe trifft den, der den rechten Pfad verlässt, /\\
+ wer Zurechtweisung hasst, muss sterben.\\
+\\
+
+<<v11>>
+11 Totenreich und Unterwelt liegen offen vor dem Herrn, /\\
+ wie viel mehr die Herzen der Menschen. [fn:2]\\
+\\
+
+<<v12>>
+12 Ein Zuchtloser liebt es nicht, dass man ihn rügt, /\\
+ zu weisen Menschen begibt er sich nicht.\\
+\\
+
+<<v13>>
+13 Ein fröhliches Herz macht das Gesicht heiter, /\\
+ Kummer im Herzen bedrückt das Gemüt. [fn:3]\\
+\\
+
+<<v14>>
+14 Das Herz des Verständigen sucht Erkenntnis, /\\
+ der Mund der Toren ergeht sich in Torheit.\\
+\\
+
+<<v15>>
+15 Der Bedrückte hat lauter böse Tage, /\\
+ der Frohgemute hat ständig Feiertag.\\
+\\
+
+<<v16>>
+16 Besser wenig in Gottesfurcht /\\
+ als reiche Schätze und keine Ruhe. [fn:4] [fn:5]\\
+\\
+
+<<v17>>
+17 Besser ein Gericht Gemüse, wo Liebe herrscht, /\\
+ als ein gemästeter Ochse und Hass dabei.\\
+\\
+
+<<v18>>
+18 Ein hitziger Mensch erregt Zank, /\\
+ ein langmütiger besänftigt den Streit.\\
+\\
+
+<<v19>>
+19 Der Weg des Faulen ist wie ein Dornengestrüpp, /\\
+ der Pfad der Redlichen aber ist gebahnt.\\
+\\
+
+<<v20>>
+20 Ein kluger Sohn macht dem Vater Freude, /\\
+ nur ein törichter Mensch verachtet seine Mutter.\\
+\\
+
+<<v21>>
+21 Torheit macht dem Unverständigen Freude, /\\
+ der einsichtige Mann geht den geraden Weg.\\
+\\
+
+<<v22>>
+22 Wo es an Beratung fehlt, da scheitern die Pläne, /\\
+ wo viele Ratgeber sind, gibt es Erfolg.\\
+\\
+
+<<v23>>
+23 Jeden freut es, wenn er (kluge) Antwort geben kann, /\\
+ und wie gut ist doch ein Wort zur rechten Zeit. [fn:6]\\
+\\
+
+<<v24>>
+24 Einen Lebenspfad zur Höhe gibt es für den Klugen, /\\
+ damit er der Totenwelt drunten entgeht.\\
+\\
+
+<<v25>>
+25 Das Haus der Stolzen reißt der Herr nieder, /\\
+ den Grenzstein der Witwe aber macht er fest. [fn:7]\\
+\\
+
+<<v26>>
+26 Die Pläne des Bösen sind dem Herrn ein Gräuel, /\\
+ aber freundliche Reden gefallen ihm. [fn:8]\\
+\\
+
+<<v27>>
+27 Wer sich durch Raub bereichert, zerstört sein Haus, /\\
+ wer Bestechung von sich weist, wird lange leben. [fn:9]\\
+\\
+
+<<v28>>
+28 Der Gerechte überlegt sich im Herzen jede Antwort, /\\
+ aber der Mund der Frevler sprudelt Schlechtes hervor. [fn:10] [fn:11]\\
+\\
+
+<<v29>>
+29 Fern ist der Herr den Frevlern, /\\
+ doch das Gebet der Gerechten hört er.\\
+\\
+
+<<v30>>
+30 Strahlende Augen erfreuen das Herz, /\\
+ frohe Kunde labt den Leib.\\
+\\
+
+<<v31>>
+31 Ein Ohr, das auf heilsame Mahnungen hört, /\\
+ hält sich unter den Weisen auf.\\
+\\
+
+<<v32>>
+32 Wer Zucht abweist, verachtet sich selbst; /\\
+ wer aber auf Mahnungen hört, erwirbt Verstand.\\
+\\
+
+<<v33>>
+33 Gottesfurcht erzieht zur Weisheit /\\
+ und Demut geht der Ehre voran.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Spr_21.org::v27][21,27]]; [[file:Sir_7.org::v9][Sir 7,9]]
+
+[fn:2] [[file:Ps_139.org::v8][Ps 139,8]]; [[file:Sir_42.org::v18][Sir 42,18]]
+
+[fn:3] [[file:Sir_13.org::v25][Sir 13,25f]]
+
+[fn:4] [[file:Spr_17.org::v1][17,1]]; [[file:Ps_37.org::v16][Ps 37,16]]
+
+[fn:5] Solche Lehrsätze zeigen, dass der materielle Nutzen der
+Weisheit, der zwar öfter hervorgehoben wird, nicht das höchste Glück
+ausmacht.
+
+[fn:6] [[file:Spr_25.org::v11][25,11]]
+
+[fn:7] [[file:Dtn_19.org::v14][Dtn 19,14]]
+
+[fn:8] 26b: gefallen ihm, wörtlich: sind rein; «rein» ist
+kultischer Ausdruck, Gegensatz zu "Gräuel".
+
+[fn:9] [[file:Jes_1.org::v23][Jes 1,23]]
+
+[fn:10] [[file:Spr_19.org::v28][19,28]]
+
+[fn:11] Die Beherrschung der Zunge ist ein Lieblingsthema der
+Weisen.

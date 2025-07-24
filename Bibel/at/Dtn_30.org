@@ -1,0 +1,160 @@
+#+TITLE: Dtn 30 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-30 Mo 21:31]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 30.html
+
+<<verses>>
+
+<<v1>>
+* Die Heimkehrverheißung: 30,1-10
+
+1 Und wenn alle diese Worte über dich gekommen sind, der Segen und der
+Fluch, die ich dir vorgelegt habe, wenn du sie dir zu Herzen nimmst
+mitten unter den Völkern, unter die der Herr, dein Gott, dich versprengt
+hat, [fn:1]
+
+<<v2>>
+2 und wenn du zum Herrn, deinem Gott, zurückkehrst und auf seine Stimme
+hörst in allem, wozu ich dich heute verpflichte, du und deine Kinder,
+mit ganzem Herzen und mit ganzer Seele, [fn:2]
+
+<<v3>>
+3 dann wird der Herr, dein Gott, dein Schicksal wenden, er wird sich
+deiner erbarmen, sich dir zukehren und dich aus allen Völkern
+zusammenführen, unter die der Herr, dein Gott, dich verstreut hat. [fn:3]
+
+<<v4>>
+4 Und wenn einige von dir bis ans Ende des Himmels versprengt sind, wird
+dich der Herr, dein Gott, von dort zusammenführen, von dort wird er dich
+holen. [fn:4]
+
+<<v5>>
+5 Und der Herr, dein Gott, wird dich in das Land, das deine Väter in
+Besitz genommen haben, zurückbringen. Du wirst es wieder in Besitz
+nehmen und er wird dich glücklicher und zahlreicher machen als deine
+Väter.
+
+<<v6>>
+6 Der Herr, dein Gott, wird dein Herz und das Herz deiner Nachkommen
+beschneiden. Dann wirst du den Herrn, deinen Gott, mit ganzem Herzen und
+mit ganzer Seele lieben können, damit du Leben hast. [fn:5]
+
+<<v7>>
+7 Alle diese Verwünschungen aber wird der Herr, dein Gott, über deine
+Feinde und Gegner verhängen, die dich verfolgt haben.
+
+<<v8>>
+8 Du jedoch wirst umkehren, auf die Stimme des Herrn hören und alle
+seine Gebote, auf die ich dich heute verpflichte, halten,
+
+<<v9>>
+9 und der Herr, dein Gott, wird dir Gutes im Überfluss schenken, bei
+jeder Arbeit deiner Hände, bei der Frucht deines Leibes, bei der Frucht
+deines Viehs und bei der Frucht deines Ackers. Denn der Herr wird sich,
+wie er sich an deinen Vätern gefreut hat, auch an dir wieder freuen. Er
+wird dir Gutes tun, [fn:6]
+
+<<v10>>
+10 wenn du auf die Stimme des Herrn, deines Gottes, hörst und auf seine
+Gebote und Gesetze achtest, die in dieser Urkunde der Weisung einzeln
+aufgezeichnet sind, und wenn du zum Herrn, deinem Gott, mit ganzem
+Herzen und mit ganzer Seele zurückkehrst.\\
+\\
+
+<<v11>>
+* Das dem Menschen nahe Gebot: 30,11-14
+
+11 Dieses Gebot, auf das ich dich heute verpflichte, geht nicht über
+deine Kraft und ist nicht fern von dir. [fn:7]
+
+<<v12>>
+12 Es ist nicht im Himmel, sodass du sagen müsstest: Wer steigt für uns
+in den Himmel hinauf, holt es herunter und verkündet es uns, damit wir
+es halten können? [fn:8]
+
+<<v13>>
+13 Es ist auch nicht jenseits des Meeres, sodass du sagen müsstest: Wer
+fährt für uns über das Meer, holt es herüber und verkündet es uns, damit
+wir es halten können?
+
+<<v14>>
+14 Nein, das Wort ist ganz nah bei dir, es ist in deinem Mund und in
+deinem Herzen, du kannst es halten. [fn:9]\\
+\\
+
+<<v15>>
+* Segen und Fluch - Leben und Tod: 30,15-20
+
+15 Hiermit lege ich dir heute das Leben und das Glück, den Tod und das
+Unglück vor. [fn:10]
+
+<<v16>>
+16 Wenn du auf die Gebote des Herrn, deines Gottes, auf die ich dich
+heute verpflichte, hörst, indem du den Herrn, deinen Gott, liebst, auf
+seinen Wegen gehst und auf seine Gebote, Gesetze und Rechtsvorschriften
+achtest, dann wirst du leben und zahlreich werden und der Herr, dein
+Gott, wird dich in dem Land, in das du hineinziehst, um es in Besitz zu
+nehmen, segnen. [fn:11] [fn:12]
+
+<<v17>>
+17 Wenn du aber dein Herz abwendest und nicht hörst, wenn du dich
+verführen lässt, dich vor anderen Göttern niederwirfst und ihnen
+dienst - [fn:13]
+
+<<v18>>
+18 heute erkläre ich euch: Dann werdet ihr ausgetilgt werden; ihr werdet
+nicht lange in dem Land leben, in das du jetzt über den Jordan
+hinüberziehst, um hineinzuziehen und es in Besitz zu nehmen. [fn:14]
+
+<<v19>>
+19 Den Himmel und die Erde rufe ich heute als Zeugen gegen euch an.
+Leben und Tod lege ich dir vor, Segen und Fluch. Wähle also das Leben,
+damit du lebst, du und deine Nachkommen. [fn:15]
+
+<<v20>>
+20 Liebe den Herrn, deinen Gott, hör auf seine Stimme und halte dich an
+ihm fest; denn er ist dein Leben. Er ist die Länge deines Lebens, das du
+in dem Land verbringen darfst, von dem du weißt: Der Herr hat deinen
+Vätern Abraham, Isaak und Jakob geschworen, es ihnen zu geben. [fn:16]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Dtn_28.org::v1][28,1-68]]; (1-10) [[file:Dtn_4.org::v29][4,29-31]]; [[file:Jer_29.org::v10][Jer 29,10-14]]; [[file:Jer_32.org::v37][32,37-42]]
+
+[fn:2] [[file:Dtn_4.org::v30][4,30]]
+
+[fn:3] [[file:Dtn_28.org::v64][28,64]]
+
+[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/Mt_24.org::v31][Mt 24,31]]
+
+[fn:5] [[file:Dtn_10.org::v16][10,16]]; [[file:Dtn_11.org::v1][11,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_2.org::v29][Röm 2,29]]
+
+[fn:6] [[file:Dtn_28.org::v4][28,4]].[[file:Dtn_28.org::v11][11f]].[[file:Dtn_28.org::v63][63]]
+
+[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/1.Joh_5.org::v3][1 Joh 5,3]]; (11-14) [[file:Jer_31.org::v31][Jer 31,31-34]]
+
+[fn:8] (12-14) [[file:~/RoamNotes/notes/Bibel/nt/Röm_10.org::v6][Röm 10,6-10]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_3.org::v13][Joh 3,13]]
+
+[fn:9] [[file:Dtn_6.org::v6][6,6-9]]; [[file:Dtn_11.org::v18][11,18-20]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_2.org::v15][Röm 2,15]]
+
+[fn:10] (15-20) [[file:Dtn_4.org::v1][4,1-4]]; [[file:Dtn_32.org::v47][32,47]]
+
+[fn:11] [[file:Dtn_11.org::v1][11,1]]; [[file:Dtn_28.org::v1][28,1-14]]
+
+[fn:12] Der Anfang des Verses ist nur in G erhalten.
+
+[fn:13] (17-18) [[file:Dtn_28.org::v15][28,15-68]]
+
+[fn:14] [[file:Dtn_8.org::v19][8,19]]
+
+[fn:15] [[file:Dtn_4.org::v26][4,26]]; [[file:Dtn_8.org::v19][8,19]]; [[file:Dtn_31.org::v28][31,28]]
+
+[fn:16] [[file:Dtn_11.org::v1][11,1]]

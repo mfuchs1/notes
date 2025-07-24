@@ -1,0 +1,191 @@
+:PROPERTIES:
+:ID:       c2646e83-976a-4580-bb00-65f96f82dd7a
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Daniel* -- *1* [[file:Dan_2.html][2]]
+[[file:Dan_3.html][3]] ... [[file:Dan_14.html][14]]
+
+--------------
+
+* Dan 1
+  :PROPERTIES:
+  :CUSTOM_ID: dan-1
+  :END:
+
+Das Buch Daniel berichtet zunächst, wie im Zusammenhang mit der
+Verschleppung vornehmer Judäer durch Nebukadnezzar auch Daniel und seine
+drei Freunde nach Babylonien kommen, wo sie trotz ihrer Erziehung im
+Geist der heidnischen Weltmacht dem Glauben ihrer Väter treu bleiben.
+Anschließend erzählt das Buch, wie einerseits Daniel als Empfänger und
+Deuter göttlicher Offenbarungen Aufschluss über den Gang der
+Weltgeschichte und ihre Vollendung in der Königsherrschaft Gottes gibt,
+wobei er sein Augenmerk besonders dem Auftreten und Schicksal der
+gottwidrigen Vertreter der einzelnen heidnischen Weltmächte zuwendet,
+und wie andererseits Daniel und seine Freunde in der Verfolgung durch
+diese heidnischen Weltmächte sich als Anhänger des Gottes Israels
+beispielhaft bewähren (Kap. 1 - 7). Daniel berichtet danach selbst von
+drei weiteren Offenbarungen, die ihm den Verlauf der Geschichte Gottes
+mit seinem Volk vom Babylonischen Exil bis zur Verfolgung der Juden in
+der Zeit des syrischen Königs Antiochus IV. Epiphanes (175-164 v. Chr.)
+offen legen (Kap. 8 - 12). Im folgenden Abschnitt, der sich mit dem
+Wirken Daniels in der babylonischen Diaspora beschäftigt, wird sodann
+erzählt, wie er eine zu Unrecht angeklagte Frau vor ihren verkommenen
+Richtern rettet und wie er, nachdem er wegen seiner offenkundigen
+Missachtung des heidnischen Götzenkultes in Todesgefahr geraten ist,
+selbst die rettende Macht seines Gottes erfährt (Kap. 13f).\\
+\\
+Die Abfassung des Buches in seiner heutigen Gestalt fällt in die
+Makkabäerzeit. Jedoch ist eine längere Entstehungszeit des Buches
+anzunehmen, in deren Verlauf ältere Überlieferungen mit jeweils
+verschiedener Aussageabsicht aufgenommen und überarbeitet worden sind.
+Dafür spricht der Umstand, dass Teile des Buches in Hebräisch (1,1 -
+2,4a; 8-12), andere in Aramäisch (2,4b - 7,28) und wieder andere in
+Griechisch (3,26-90; Kap. 13 und 14) abgefasst wurden. Die nur
+griechisch vorhandenen Abschnitte waren ursprünglich selbstständige
+Texteinheiten. Der Lobgesang der drei jungen Männer im Feuerofen
+(3,26-90) wurde bereits in die griechische Übersetzung des Danielbuches
+eingefügt, während die Erzählungen der Kapitel 13 und 14 erst in der
+lateinischen Bibel mit dem Buch zu einer Einheit verbunden wurden.\\
+\\
+Literarisch gehört das Buch Daniel trotz verschiedenartiger
+Literaturformen in den Einzeldarstellungen als Ganzes zur Apokalyptik.
+Darunter versteht man eine Geistesströmung der alttestamentlichen
+Spätzeit, die sich mit der Offenbarung der himmlischen Welt und mit der
+Erschließung göttlicher Geheimnisse im Hinblick auf das Ende
+beschäftigt. Mit dieser apokalyptischen Eigenart des Buches hängt es
+zusammen, dass die Darstellung der Geschichte bewusste Schematisierungen
+und historische Unrichtigkeiten aufweist, die jedoch im Rahmen der
+übergeordneten Glaubensaussage eine gleichnishafte Bedeutung erlangen.\\
+\\
+Die theologische Bedeutung des Buches ist in der Überzeugung zu sehen,
+dass Gott den gesamten Verlauf der Weltgeschichte, auch wenn dort das
+Gottesvolk keine beherrschende Rolle spielt, fest in der Hand hat und
+dass er in dem Augenblick, in dem seine Getreuen von heidnischen
+Machthabern aufgerieben zu werden drohen, seine endzeitliche
+Königsherrschaft offenbart. Als Träger dieser Königsherrschaft Gottes
+erscheint der »Menschensohn auf den Wolken des Himmels« (Kap. 7). Im
+Endgericht werden sodann die Gerechten durch die Auferstehung von den
+Toten der Herrlichkeit Gottes teilhaftig, während die Bösen zu ewiger
+Schmach verurteilt werden (Kap. 12,1-3).\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Daniel und seine Freunde am babylonischen Hof: 1,1-21
+   :PROPERTIES:
+   :CUSTOM_ID: daniel-und-seine-freunde-am-babylonischen-hof-11-21
+   :END:
+1 Im dritten Jahr der Herrschaft des Königs Jojakim von Juda zog
+Nebukadnezzar, der König von Babel, gegen Jerusalem und belagerte es.
+^{[[#fn1][1]]}
+
+<<v2>>
+2 Und der Herr gab König Jojakim von Juda sowie einen Teil der Geräte
+aus dem Haus Gottes in Nebukadnezzars Gewalt. Er verschleppte sie in das
+Land Schinar, in den Tempel seines Gottes, die Geräte aber brachte er in
+das Schatzhaus seines Gottes. ^{[[#fn2][2]]}
+
+<<v3>>
+3 Dann befahl der König seinem Oberkämmerer Aschpenas, einige junge
+Israeliten an den Hof zu bringen, Söhne von königlicher Abkunft oder
+wenigstens aus vornehmer Familie; ^{[[#fn3][3]]}
+
+<<v4>>
+4 sie sollten frei von jedem Fehler sein, schön an Gestalt, in aller
+Weisheit unterrichtet und reich an Kenntnissen; sie sollten einsichtig
+und verständig sein und geeignet, im Palast des Königs Dienst zu tun;
+Aschpenas sollte sie auch in Schrift und Sprache der Chaldäer
+unterrichten.
+
+<<v5>>
+5 Als tägliche Kost wies ihnen der König Speisen und Wein von der
+königlichen Tafel zu. Sie sollten drei Jahre lang ausgebildet werden und
+dann in den Dienst des Königs treten.
+
+<<v6>>
+6 Unter diesen jungen Männern waren aus dem Stamm Juda Daniel, Hananja,
+Mischaël und Asarja.
+
+<<v7>>
+7 Der Oberkämmerer gab ihnen andere Namen: Daniel nannte er
+Beltschazzar, Hananja Schadrach, Mischaël Meschach und Asarja Abed-Nego.
+
+<<v8>>
+8 Daniel war entschlossen, sich nicht mit den Speisen und dem Wein der
+königlichen Tafel unrein zu machen, und er bat den Oberkämmerer darum,
+sich nicht unrein machen zu müssen. ^{[[#fn4][4]]}
+
+<<v9>>
+9 Gott ließ ihn beim Oberkämmerer Wohlwollen und Nachsicht finden.
+^{[[#fn5][5]]}
+
+<<v10>>
+10 Der Oberkämmerer sagte aber zu Daniel: Ich fürchte mich vor meinem
+Herrn, dem König, der euch die Speisen und Getränke zugewiesen hat; er
+könnte finden, dass ihr schlechter ausseht als die anderen jungen Leute
+eures Alters; dann wäre durch eure Schuld mein Kopf beim König verwirkt.
+
+<<v11>>
+11 Da sagte Daniel zu dem Mann, den der Oberkämmerer als Aufseher für
+ihn selbst sowie für Hananja, Mischaël und Asarja eingesetzt hatte:
+
+<<v12>>
+12 Versuch es doch einmal zehn Tage lang mit deinen Knechten! Lass uns
+nur pflanzliche Nahrung zu essen und Wasser zu trinken geben!
+
+<<v13>>
+13 Dann vergleiche unser Aussehen mit dem der jungen Leute, die von den
+Speisen des Königs essen. Je nachdem, was du dann siehst, verfahr weiter
+mit deinen Knechten!
+
+<<v14>>
+14 Der Aufseher nahm ihren Vorschlag an und machte mit ihnen eine
+zehntägige Probe.
+
+<<v15>>
+15 Am Ende der zehn Tage sahen sie besser und wohlgenährter aus als all
+die jungen Leute, die von den Speisen des Königs aßen.
+
+<<v16>>
+16 Da ließ der Aufseher ihre Speisen und auch den Wein, den sie trinken
+sollten, beiseite und gab ihnen Pflanzenkost.
+
+<<v17>>
+17 Und Gott verlieh diesen vier jungen Leuten Wissen und Verständnis in
+jeder Art Schrifttum und Weisheit; Daniel verstand sich auch auf
+Visionen und Träume aller Art. ^{[[#fn6][6]]}
+
+<<v18>>
+18 Als ihre Zeit zu Ende war und man sie vor den König bringen musste,
+wie er es bestimmt hatte, stellte sie der Oberkämmerer dem Nebukadnezzar
+vor.
+
+<<v19>>
+19 Der König unterhielt sich mit ihnen und fand Daniel, Hananja,
+Mischaël und Asarja allen anderen überlegen. Sie traten also in den
+Dienst des Königs.
+
+<<v20>>
+20 Sooft der König in Fragen, die Weisheit und Einsicht erfordern, ihren
+Rat einholte, fand er sie allen Zeichendeutern und Wahrsagern in seinem
+ganzen Reich zehnmal überlegen.
+
+<<v21>>
+21 Daniel blieb im königlichen Dienst bis ins erste Jahr des Königs
+Kyrus.\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-2) 2 Chr 36,5-7
+
+^{[[#fnm2][2]]} Schinar ist Babylonien (vgl. Gen 10,10; 11,2; Sach
+5,11).
+
+^{[[#fnm3][3]]} ℘ 2 Kön 20,18
+
+^{[[#fnm4][4]]} ℘ Lev 11,4-8; Est 4,17; Jer 35,6
+
+^{[[#fnm5][5]]} ℘ Gen 39,21
+
+^{[[#fnm6][6]]} ℘ Am 2,11; Gen 41,12

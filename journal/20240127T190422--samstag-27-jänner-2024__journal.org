@@ -1,0 +1,14 @@
+#+title:      Samstag 27 Jänner 2024
+#+date:       [2024-01-27 Sa 19:04]
+#+filetags:   :journal:
+#+identifier: 20240127T190422
+
+* Thoughts
+Wie "mache" ich meine Notizen? Es gibt:
+- Inbox :: lt GTD kommt dahin alles, was erledigt werden muss (also Aufgaben etc); dann wird dort sortiert und die Tasks entweder sofort erledigt, oder später gemacht.
+- Schule, Kalender, Projekte, Mails :: Das ist wohl klar.
+- Denote Notizen :: Notizen zu einem Thema: Schule, Bücher, Studium, ...
+- Journal :: Tagebuch; hierher kommen meine Gedanken, die mir während des Tages durch den Kopf gehen. Am besten, ich trage hier fast täglich etwas ein. Dh bevor ich Charly oder meinen Eltern schreibe, trage ich meine Gedanken hier ein.
+  
+* Tasks
+

@@ -1,0 +1,110 @@
+#+TITLE: 2 Chr 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 22.html
+
+<<verses>>
+
+<<v1>>
+* Ahasja: 22,1-9
+
+1 Die Einwohner Jerusalems machten nun seinen jüngsten Sohn Ahasja zum
+König an seiner Stelle. Alle älteren Brüder hatte die Räuberbande
+getötet, die mit den Arabern in das Lager eingedrungen war. So kam
+Ahasja, der Sohn Jorams, des Königs von Juda, zur Herrschaft.
+
+<<v2>>
+2 Ahasja war zweiundzwanzig Jahre alt, als er König wurde, und regierte
+ein Jahr in Jerusalem. Seine Mutter hieß Atalja; sie war eine Enkelin
+Omris. [fn:1] [fn:2]
+
+<<v3>>
+3 Auch er folgte den Wegen des Hauses Ahab, denn seine Mutter verführte
+ihn durch ihren Rat zum Bösen.
+
+<<v4>>
+4 Wie die Angehörigen des Hauses Ahab tat er, was dem Herrn missfiel;
+denn diese stürzten ihn nach dem Tod seines Vaters durch ihren Rat ins
+Verderben.
+
+<<v5>>
+5 Ihrem Rat folgend, zog er mit Joram, dem Sohn Ahabs, dem König von
+Israel, gegen Hasaël, den König von Aram, nach Ramot-Gilead in den
+Krieg. Dabei verwundeten die Aramäer Joram [fn:3]
+
+<<v6>>
+6 und er musste heimkehren, um in Jesreel von den Wunden Heilung zu
+suchen, die ihm die Aramäer geschlagen hatten, als er in Ramot gegen
+ihren König Hasaël kämpfte. Ahasja, der Sohn Jorams, der König von Juda,
+kam hinab, um Joram, den Sohn Ahabs, in Jesreel zu besuchen, als er
+krank daniederlag. [fn:4]
+
+<<v7>>
+7 Von Gott aber war es zum Verderben Ahasjas bestimmt, dass er sich zu
+Joram begab. Mit Joram fuhr er nach seiner Ankunft Jehu, dem Enkel
+Nimschis, entgegen, den der Herr gesalbt hatte, damit er das Haus Ahab
+ausrotte. [fn:5]
+
+<<v8>>
+8 Als Jehu seinen Streit mit dem Haus Ahab austrug, stieß er auf die
+Hofleute Judas und die Verwandten Ahasjas, die im Dienst Ahasjas
+standen, und machte sie nieder. [fn:6]
+
+<<v9>>
+9 Dann ließ er Ahasja suchen. Man nahm ihn fest, während er sich in
+Samaria verborgen hielt, brachte ihn vor Jehu und tötete ihn. Doch gab
+man ihm ein Grab; denn sie sagten: Er ist ein Enkel Joschafats, der den
+Herrn mit ganzem Herzen gesucht hat. Im Haus Ahasjas war nun niemand
+mehr, der fähig gewesen wäre, die Königsherrschaft zu übernehmen.\\
+\\
+
+<<v10>>
+* Atalja: 22,10 - 23,21
+
+10 Als Atalja, die Mutter Ahasjas sah, dass ihr Sohn tot war, ging sie
+daran, die ganze Nachkommenschaft der königlichen Familie des Hauses
+Juda auszurotten. [fn:7] [fn:8]
+
+<<v11>>
+11 Doch Joscheba, die Tochter des Königs, nahm Joasch, den Sohn Ahasjas,
+aus dem Kreis der Königssöhne, die ermordet werden sollten, weg und
+brachte ihn heimlich mit seiner Amme in die Bettenkammer. Dort
+versteckte sie ihn vor Atalja, sodass diese ihn nicht töten konnte.
+Joscheba, die Tochter des Königs Joram und Frau des Priesters Jojada,
+war die Schwester Ahasjas. [fn:9]
+
+<<v12>>
+12 Joasch blieb sechs Jahre bei ihr im Haus Gottes verborgen, während
+Atalja das Land regierte. [fn:10]
+
+* Footnotes
+
+[fn:1] (2-9) [[file:2.Kön_8.org::v25][2 Kön 8,25]]-[[file:2.Kön_8.org::v29][29]]; [[file:2.Kön_9.org::v27][9,27f]]
+
+[fn:2] zweiundzwanzig: so nach G und [[file:2.Kön_8.org::v26][2 Kön 8,26]]; H: zweiundvierzig.
+
+[fn:3] 5f: Vgl. [[file:2.Kön_8.org::v28][2 Kön 8,28f]].
+
+[fn:4] von den Wunden: Text korr. nach G und [[file:2.Kön_8.org::v29][2 Kön 8,29]]. Für
+Ahasja hat H Asarja.
+
+[fn:5] [[file:2.Kön_9.org::v21][2 Kön 9,21]]
+
+[fn:6] [[file:2.Kön_10.org::v12][2 Kön 10,12]]-[[file:2.Kön_10.org::v14][14]]
+
+[fn:7] (10-23,21) [[file:2.Kön_11.org::v1][2 Kön 11,1]]-[[file:2.Kön_11.org::v20][20]]
+
+[fn:8] 10-23,21: Vgl. die Anmerkungen zu [[file:2.Kön_11.org::v1][2 Kön 11,1]]-[[file:2.Kön_11.org::v17][17]].
+auszurotten: Text korr. nach G und 2 Kön 11,1.
+
+[fn:9] Als Frau des Priesters Jojada konnte Joscheba den
+Königssohn im Tempelbereich verborgen halten.
+
+[fn:10] bei ihr: Text korr. nach G und [[file:2.Kön_11.org::v3][2 Kön 11,3]]; H: bei ihnen.

@@ -1,0 +1,424 @@
+#+TITLE: Dtn 32 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-30 Mo 22:34]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 32.html
+
+* Dtn 32
+
+<<verses>>
+
+<<v1>>
+1 Hört zu, ihr Himmel, ich will reden, /\\
+ die Erde lausche meinen Worten. [fn:1]\\
+\\
+
+<<v2>>
+2 Meine Lehre wird strömen wie Regen, /\\
+ meine Botschaft wird fallen wie Tau, /\\
+ wie Regentropfen auf das Gras /\\
+ und wie Tauperlen auf die Pflanzen.\\
+\\
+
+<<v3>>
+3 Ich will den Namen des Herrn verkünden. /\\
+ Preist die Größe unseres Gottes! [fn:2]\\
+\\
+
+<<v4>>
+4 Er heißt: der Fels. Vollkommen ist, was er tut; /\\
+ denn alle seine Wege sind recht. /\\
+ Er ist ein unbeirrbar treuer Gott, /\\
+ er ist gerecht und gerade. [fn:3]\\
+\\
+
+<<v5>>
+5 Ein falsches, verdrehtes Geschlecht fiel von ihm ab, /\\
+ Verkrüppelte, die nicht mehr seine Söhne sind. [fn:4] [fn:5]\\
+\\
+
+<<v6>>
+6 Ist das euer Dank an den Herrn, /\\
+ du dummes, verblendetes Volk? /\\
+ Ist er nicht dein Vater, dein Schöpfer? /\\
+ Hat er dich nicht geformt und hingestellt?\\
+\\
+
+<<v7>>
+7 Denk an die Tage der Vergangenheit, /\\
+ lerne aus den Jahren der Geschichte! /\\
+ Frag deinen Vater, er wird es dir erzählen, /\\
+ frag die Alten, sie werden es dir sagen.\\
+\\
+
+<<v8>>
+8 Als der Höchste (den Göttern) die Völker übergab, /\\
+ als er die Menschheit aufteilte, /\\
+ legte er die Gebiete der Völker /\\
+ nach der Zahl der Götter fest; [fn:6] [fn:7]\\
+\\
+
+<<v9>>
+9 der Herr nahm sich sein Volk als Anteil, /\\
+ Jakob wurde sein Erbland.\\
+\\
+
+<<v10>>
+10 Er fand ihn in der Steppe, /\\
+ in der Wüste, wo wildes Getier heult. /\\
+ Er hüllte ihn ein, gab auf ihn Acht /\\
+ und hütete ihn wie seinen Augenstern,\\
+\\
+
+<<v11>>
+11 wie der Adler, der sein Nest beschützt /\\
+ und über seinen Jungen schwebt, /\\
+ der seine Schwingen ausbreitet, ein Junges ergreift /\\
+ und es flügelschlagend davonträgt.\\
+\\
+
+<<v12>>
+12 Der Herr allein hat Jakob geleitet, /\\
+ kein fremder Gott stand ihm zur Seite.\\
+\\
+
+<<v13>>
+13 Er führte ihn auf die Berge des Landes, /\\
+ er nährte ihn mit den Früchten des Feldes, /\\
+ er stillte ihn mit Wein aus den Felsen, /\\
+ mit Öl aus Felsspalten. [fn:8]\\
+\\
+
+<<v14>>
+14 Mit Butter von Kühen, Milch von Schafen und Ziegen, /\\
+ dazu kam Fett von Lämmern, /\\
+ von Widdern aus Baschan /\\
+ und von Ziegenböcken, /\\
+ dazu Feinmehl aus Weizen. /\\
+ Das Blut der Trauben trankst du gegoren.\\
+\\
+
+<<v15>>
+15 Und Jakob aß und wurde satt, /\\
+ Jeschurun wurde fett und bockte. /\\
+ Ja, fett und voll und feist bist du geworden. /\\
+ Er stieß den Gott, der ihn geformt hatte, von sich /\\
+ und hielt den Fels für dumm, der ihn gerettet hatte. [fn:9] [fn:10]\\
+\\
+
+<<v16>>
+16 Sie weckten seine Eifersucht durch Fremde, /\\
+ durch gräuliche Wesen reizten sie ihn zum Zorn: [fn:11]\\
+\\
+
+<<v17>>
+17 Sie opferten Geistern, die keine Gottheiten sind, /\\
+ und Göttern, die sie früher nicht kannten, /\\
+ Neulingen, die erst vor kurzem gekommen waren, /\\
+ vor denen eure Väter sich nicht fürchteten.\\
+\\
+
+<<v18>>
+18 An den Fels, der dich gezeugt hat, /\\
+ dachtest du nicht mehr, /\\
+ du vergaßest den Gott, der dich geboren hat.\\
+\\
+
+<<v19>>
+19 Da sah der Herr, dass er geschmäht wurde /\\
+ von seinen Söhnen und Töchtern, /\\
+ die seinen Zorn erregten. [fn:12]\\
+\\
+
+<<v20>>
+20 Und er sagte: Ich will mein Gesicht vor ihnen verbergen /\\
+ und dann sehen, was in Zukunft mit ihnen geschieht. /\\
+ Denn sie sind eine Generation des Aufruhrs, /\\
+ Söhne, in denen die Untreue sitzt. [fn:13]\\
+\\
+
+<<v21>>
+21 Sie haben meine Eifersucht geweckt /\\
+ durch einen Gott, der kein Gott ist, /\\
+ mich zum Zorn gereizt durch ihre Götter aus Luft - /\\
+ so wecke ich ihre Eifersucht /\\
+ durch ein Volk, das kein Volk ist, /\\
+ durch ein dummes Volk reize ich sie zum Zorn. [fn:14]\\
+\\
+
+<<v22>>
+22 In meiner Nase ist Feuer entbrannt. /\\
+ Es lodert bis in die unterste Totenwelt, /\\
+ verzehrt die Erde und was auf ihr wächst /\\
+ und schmilzt die Fundamente der Berge.\\
+\\
+
+<<v23>>
+23 Immer neue Not bürde ich ihnen auf, /\\
+ ich setze gegen sie alle meine Pfeile ein.\\
+\\
+
+<<v24>>
+24 Sie werden ausgemergelt durch den Hunger, /\\
+ verzehrt durch die Pest und die verheerende Seuche. /\\
+ Den Zahn der Raubtiere lasse ich auf sie los, /\\
+ dazu das Gift der im Staube Kriechenden. [fn:15]\\
+\\
+
+<<v25>>
+25 Auf der Straße raubt das Schwert die Kinder /\\
+ und in den Zimmern der Schrecken. /\\
+ Da stirbt der junge Mann und das Mädchen, /\\
+ der Säugling und der Greis.\\
+\\
+
+<<v26>>
+26 Ich könnte sagen: Sie sollen nicht mehr sein, /\\
+ kein Mensch soll später noch an sie denken,\\
+\\
+
+<<v27>>
+27 müsste ich nicht auch ihren Feind angreifen, /\\
+ der meinen Zorn erregt, /\\
+ ihre Gegner, die sich nicht täuschen sollen, /\\
+ die nicht sagen sollen: Unsere Hand ist erhoben, /\\
+ der Herr hat nichts von allem getan.\\
+\\
+
+<<v28>>
+28 Doch diesem Volk fehlt es an Rat, /\\
+ ihm mangelt es an Verstand. [fn:16]\\
+\\
+
+<<v29>>
+29 Wären sie klug, so begriffen sie alles /\\
+ und verstünden, was in Zukunft mit ihnen geschieht. [fn:17]\\
+\\
+
+<<v30>>
+30 Wie kann ein Einziger hinter tausend herjagen /\\
+ und zwei zehntausend in die Flucht schlagen, /\\
+ es sei denn, ihr Fels hat sie verkauft, /\\
+ der Herr hat sie preisgegeben?\\
+\\
+
+<<v31>>
+31 Doch der Fels unserer Feinde ist nicht wie unser Fels; /\\
+ das beweisen unsere Feinde. [fn:18] [fn:19]\\
+\\
+
+<<v32>>
+32 Ihr Weinstock stammt von dem Weinstock Sodoms, /\\
+ vom Todesacker Gomorras. /\\
+ Ihre Trauben sind giftige Trauben /\\
+ und tragen bittere Beeren.\\
+\\
+
+<<v33>>
+33 Ihr Wein ist Schlangengift /\\
+ und Gift von ekligen Ottern.\\
+\\
+
+<<v34>>
+34 Liegt dies nicht bei mir verborgen, /\\
+ in meinen Vorratskammern versiegelt\\
+\\
+
+<<v35>>
+35 bis zum Tag der Strafe und Vergeltung, /\\
+ bis zu der Zeit, da ihr Fuß wanken wird? /\\
+ Doch der Tag ihres Verderbens ist nah /\\
+ und ihr Verhängnis kommt schnell. - [fn:20] [fn:21]\\
+\\
+
+<<v36>>
+36 Ja, der Herr wird seinem Volk Recht geben /\\
+ und mit seinen Dienern Mitleid haben. /\\
+ Er wird sehen: Jede Hand ist ermüdet, /\\
+ es gibt nur noch Unterdrückte und Hilflose. [fn:22]\\
+\\
+
+<<v37>>
+37 Und er wird sagen: Wo sind ihre Götter? /\\
+ Wo ist der Fels, bei dem sie Schutz suchten?\\
+\\
+
+<<v38>>
+38 Die das Fett ihrer Schlachtopfer essen, /\\
+ die den Wein ihrer Trankopfer trinken - /\\
+ die sollen vortreten und euch helfen. /\\
+ Dieser Fels soll ein Schutzdach über euch sein.\\
+\\
+
+<<v39>>
+39 Jetzt seht: Ich bin es, nur ich, /\\
+ und kein Gott tritt mir entgegen. /\\
+ Ich bin es, der tötet und der lebendig macht. /\\
+ Ich habe verwundet; nur ich werde heilen. /\\
+ Niemand kann retten, wonach meine Hand gegriffen hat. [fn:23]\\
+\\
+
+<<v40>>
+40 Ich hebe meine Hand zum Himmel empor /\\
+ und sage: So wahr ich ewig lebe: [fn:24]\\
+\\
+
+<<v41>>
+41 Habe ich erst die Klinge meines Schwertes geschliffen, /\\
+ um das Recht in meine Hand zu nehmen, /\\
+ dann zwinge ich meinen Gegnern die Strafe auf /\\
+ und denen, die mich hassen, die Vergeltung.\\
+\\
+
+<<v42>>
+42 Meine Pfeile mache ich trunken von Blut, /\\
+ während mein Schwert sich ins Fleisch frisst - /\\
+ trunken vom Blut Erschlagener und Gefangener, /\\
+ ins Fleisch des höchsten feindlichen Fürsten.\\
+\\
+
+<<v43>>
+43 Erhebt das Siegesgeschrei, ihr Himmel, zusammen mit ihm, /\\
+ werft euch vor ihm nieder, ihr Götter! /\\
+ Denn er erzwingt die Strafe für das Blut seiner Söhne /\\
+ und entsühnt das Land seines Volkes. [fn:25]\\
+\\
+
+<<v44>>
+44 Dann kam Mose zum Volk und trug ihm das Lied in seinem vollen
+Wortlaut vor, er und Josua, der Sohn Nuns.\\
+\\
+
+<<v45>>
+* Die Mahnung zur Belehrung der nächsten Generation:
+
+45 Als Mose damit zu Ende war, alle diese Worte vor ganz Israel
+vorzutragen, [fn:26]
+
+<<v46>>
+46 sagte er zu ihnen: Schenkt allen Bestimmungen eure Beachtung. Heute
+beschwöre ich euch: Verpflichtet eure Kinder, dass auch sie auf alle
+Bestimmungen dieser Weisung achten und sie halten. [fn:27]
+
+<<v47>>
+47 Das ist kein leeres Wort, das ohne Bedeutung für euch wäre, sondern
+es ist euer Leben. Wenn ihr diesem Wort folgt, werdet ihr lange in dem
+Land leben, in das ihr jetzt über den Jordan hinüberzieht, um es in
+Besitz zu nehmen. [fn:28]\\
+\\
+
+<<v48>>
+* Gottes Weisung über das Sterben des Mose: 32,48-52
+
+48 Am selben Tag sagte der Herr zu Mose: [fn:29]
+
+<<v49>>
+49 Geh hinauf in das Gebirge Abarim, das du vor dir siehst, steig auf
+den Berg Nebo, der in Moab gegenüber Jericho liegt, und schau auf das
+Land Kanaan, das ich den Israeliten als Grundbesitz geben werde.
+
+<<v50>>
+50 Dort auf dem Berg, den du ersteigst, sollst du sterben und sollst mit
+deinen Vorfahren vereint werden, wie dein Bruder Aaron auf dem Berg Hor
+gestorben ist und mit seinen Vorfahren vereint wurde. [fn:30]
+
+<<v51>>
+51 Denn ihr seid mir untreu gewesen inmitten der Israeliten beim
+Haderwasser von Kadesch in der Wüste Zin und habt mich inmitten der
+Israeliten nicht als den Heiligen geehrt. [fn:31]
+
+<<v52>>
+52 Du darfst das Land von der anderen Talseite aus sehen. Aber du darfst
+das Land, das ich den Israeliten geben werde, nicht betreten.\\
+\\
+
+* Footnotes
+
+[fn:1] meinen Worten, wörtlich: den Worten meines Mundes.
+
+[fn:2] den Namen des Herrn, andere Übersetzungsmöglichkeit:
+einen Namen Jahwes. - Auf jeden Fall wird hier angekündigt, dass in
+diesem Lied für den unter dem Namen Jahwe bekannten Gott Israels ein
+neuer Name ausgerufen werden soll. Er beherrscht das ganze Lied und
+lautet: der Fels. Unter diesem Namen wurde Gott wohl in Jerusalem
+verehrt (vgl. [[file:Ps_62.org::v8][Ps 62,8]]; [[file:Ps_89.org::v27][89,27]]).
+
+[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/Röm_9.org::v14][Röm 9,14]]; [[file:~/RoamNotes/notes/Bibel/nt/2.Thess_3.org::v3][2 Thess 3,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_15.org::v3][Offb 15,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_16.org::v5][16,5]]
+
+[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/Mt_17.org::v17][Mt 17,17]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_9.org::v41][Lk 9,41]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_2.org::v40][Apg 2,40]]; [[file:~/RoamNotes/notes/Bibel/nt/Phil_2.org::v15][Phil 2,15]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_6.org::v9][Mt 6,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_11.org::v2][Lk 11,2]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_8.org::v41][Joh 8,41]]
+
+[fn:5] Schwieriger, wahrscheinlich verderbter Text.
+
+[fn:6] [[file:~/RoamNotes/notes/Bibel/nt/Apg_17.org::v27][Apg 17,27]]; [[file:Ps_82.org::v1][Ps 82]]
+
+[fn:7] nach der Zahl der Götter, andere Lesart: nach der Zahl
+der Söhne Israels. - Diese Lesart ist jünger. Sie wurde eingeführt, um
+polytheistische Vorstellungen, die dieses Lied noch ohne Bedenken
+benutzt, zu beseitigen. Die gemeinte Zahl ist 70. Es gab 70 Götter, die
+die 70 Völker der Welt regierten. Da Israel (Jakob) 70 Nachkommen hatte,
+als er nach Ägypten zog (Ex 1,5), erlaubte man sich die Änderung von
+«Götter» in «Söhne Israels».
+
+[fn:8] er nährte ihn mit den Früchten des Feldes, andere
+Lesart: und er aß von den Früchten des Feldes. - Er stillte ihn mit Wein
+aus dem Felsen, mit Öl aus den Felsspalten: Es ist wohl an Weinberge und
+Ölhaine gedacht, die auf felsendurchwachsenen Berghängen angelegt sind.
+Andere Übersetzungsmöglichkeit: mit Honig aus dem Felsen.
+
+[fn:9] [[file:Dtn_33.org::v5][33,5]].[[file:Dtn_33.org::v26][26]]
+
+[fn:10] Die erste Zeile fehlt bei einem Teil der Textzeugen. -
+Jeschurun: kultischer Name für Israel.
+
+[fn:11] [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_10.org::v20][1 Kor 10,20]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_9.org::v20][Offb 9,20]]
+
+[fn:12] Andere Lesart: Der Herr sah (es) und er verstieß im
+Zorn seine Söhne und Töchter.
+
+[fn:13] [[file:~/RoamNotes/notes/Bibel/nt/Mt_17.org::v17][Mt 17,17]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_9.org::v41][Lk 9,41]]
+
+[fn:14] [[file:~/RoamNotes/notes/Bibel/nt/Röm_10.org::v19][Röm 10,19]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_11.org::v11][11,11]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_10.org::v22][1 Kor 10,22]]
+
+[fn:15] im Staube Kriechende: Schlangen.
+
+[fn:16] diesem Volk: gemeint sind die Gegner Israels.
+
+[fn:17] [[file:~/RoamNotes/notes/Bibel/nt/Lk_19.org::v42][Lk 19,42]]
+
+[fn:18] [[file:1.Sam_2.org::v2][1 Sam 2,2]]
+
+[fn:19] In der zweiten Vershälfte ist die Deutung von H
+unsicher.
+
+[fn:20] [[file:~/RoamNotes/notes/Bibel/nt/1.Thess_4.org::v6][1 Thess 4,6]]; (35-36) [[file:~/RoamNotes/notes/Bibel/nt/Lk_21.org::v22][Lk 21,22]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_12.org::v19][Röm 12,19]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_10.org::v30][Hebr 10,30]]
+
+[fn:21] Andere Lesart: Mein ist die Strafe und die Vergeltung
+zu der Zeit, da ihr Fuß wanken wird. - Röm 12,19 und Hebr 10,30 setzen
+diese Lesart voraus.
+
+[fn:22] [[file:2.Kön_14.org::v26][2 Kön 14,26]]; [[file:Ps_135.org::v14][Ps 135,14]]
+
+[fn:23] [[file:Jes_43.org::v10][Jes 43,10-13]]
+
+[fn:24] [[file:~/RoamNotes/notes/Bibel/nt/Offb_10.org::v5][Offb 10,5f]]
+
+[fn:25] [[file:~/RoamNotes/notes/Bibel/nt/Röm_15.org::v10][Röm 15,10 G]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_1.org::v6][Hebr 1,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_6.org::v10][Offb 6,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_18.org::v20][18,20]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_19.org::v2][19,2]]
+
+[fn:26] Hier sind drei verschiedene Textfassungen überliefert.
+Die Übersetzung folgt der wahrscheinlichsten Rekonstruktion.
+
+[fn:27] [[file:Dtn_4.org::v9][4,9]]; [[file:Dtn_31.org::v13][31,13]]
+
+[fn:28] [[file:Dtn_4.org::v1][4,1-4]]; [[file:Dtn_30.org::v15][30,15-20]]
+
+[fn:29] (48-52) [[file:Num_27.org::v12][Num 27,12-14]]; [[file:Num_33.org::v47][Num 33,47f]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v45][Apg 7,45]]
+
+[fn:30] [[file:Num_20.org::v22][Num 20,22-29]]
+
+[fn:31] [[file:Num_20.org::v2][Num 20,2-13]]

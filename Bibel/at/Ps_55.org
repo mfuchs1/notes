@@ -1,0 +1,172 @@
+#+TITLE: Ps 55 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-02-27 Di 17:52]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 55.html
+
+* Ps 55
+
+<<verses>>
+
+<<v1>>
+* Klage und Vertrauen eines Alleingelassenen
+
+1 [Für den Chormeister. Mit Saitenspiel. Ein Weisheitslied Davids.]\\
+\\
+
+<<v2>>
+2 Vernimm, o Gott, mein Beten; /\\
+ verbirg dich nicht vor meinem Flehen!\\
+\\
+
+<<v3>>
+3 Achte auf mich und erhöre mich! /\\
+ Unstet schweife ich umher und klage.\\
+\\
+
+<<v4>>
+4 Das Geschrei der Feinde macht mich verstört; /\\
+ mir ist angst, weil mich die Frevler bedrängen. Sie überhäufen mich mit
+Unheil /\\
+ und befehden mich voller Grimm. [fn:1]\\
+\\
+
+<<v5>>
+5 Mir bebt das Herz in der Brust; /\\
+ mich überfielen die Schrecken des Todes.\\
+\\
+
+<<v6>>
+6 Furcht und Zittern erfassten mich; /\\
+ ich schauderte vor Entsetzen.\\
+\\
+
+<<v7>>
+7 Da dachte ich: «Hätte ich doch Flügel wie eine Taube, /\\
+ dann flöge ich davon und käme zur Ruhe.»\\
+\\
+
+<<v8>>
+8 Weit fort möchte ich fliehen, /\\
+ die Nacht verbringen in der Wüste. [Sela] [fn:2]\\
+\\
+
+<<v9>>
+9 An einen sicheren Ort möchte ich eilen /\\
+ vor dem Wetter, vor dem tobenden Sturm.\\
+\\
+
+<<v10>>
+10 Entzweie sie, Herr, verwirr ihre Sprache! /\\
+ Denn in der Stadt sehe ich Gewalttat und Hader. [fn:3]\\
+\\
+
+<<v11>>
+11 Auf ihren Mauern umschleicht man sie bei Tag und bei Nacht; /\\
+ sie ist voll Unheil und Mühsal.\\
+\\
+
+<<v12>>
+12 In ihr herrscht Verderben; /\\
+ Betrug und Unterdrückung weichen nicht von ihren Märkten.\\
+\\
+
+<<v13>>
+13 Denn nicht mein Feind beschimpft mich, /\\
+ das würde ich ertragen; nicht ein Mann, der mich hasst, tritt frech
+gegen mich auf, /\\
+ vor ihm könnte ich mich verbergen. [fn:4]\\
+\\
+
+<<v14>>
+14 Nein, du bist es, ein Mensch aus meiner Umgebung, /\\
+ mein Freund, mein Vertrauter, [fn:5]\\
+\\
+
+<<v15>>
+15 mit dem ich, in Freundschaft verbunden, /\\
+ zum Haus Gottes gepilgert bin inmitten der Menge.\\
+\\
+
+<<v16>>
+16 Der Tod soll sie überfallen, /\\
+ lebend sollen sie hinabfahren ins Totenreich. /\\
+ Denn ihre Häuser und Herzen sind voller Bosheit. [fn:6]\\
+\\
+
+<<v17>>
+17 Ich aber, zu Gott will ich rufen, /\\
+ der Herr wird mir helfen.\\
+\\
+
+<<v18>>
+18 Am Abend, am Morgen, am Mittag seufze ich und stöhne; /\\
+ er hört mein Klagen.\\
+\\
+
+<<v19>>
+19 Er befreit mich, bringt mein Leben in Sicherheit /\\
+ vor denen, die gegen mich kämpfen, /\\
+ wenn es auch viele sind, die gegen mich angehen. [fn:7]\\
+\\
+
+<<v20>>
+20 Gott hört mich und beugt sie nieder, /\\
+ er, der als König thront seit Ewigkeit. [Sela] Denn sie kehren nicht um
+/\\
+ und fürchten Gott nicht. [fn:8]\\
+\\
+
+<<v21>>
+21 Der Feind legt Hand an Gottes Freunde, /\\
+ er entweiht Gottes Bund.\\
+\\
+
+<<v22>>
+22 Glatt wie Butter sind seine Reden, /\\
+ doch in seinem Herzen sinnt er auf Streit; seine Worte sind linder als
+Öl /\\
+ und sind doch gezückte Schwerter. [fn:9]\\
+\\
+
+<<v24>>
+24 Du aber, Gott, wirst sie hinabstürzen in die tiefste Grube. /\\
+ Gewalttätige und Betrüger erreichen nicht die Mitte ihres Lebens. /\\
+ Ich aber setze mein Vertrauen auf dich. [fn:10]\\
+\\
+
+<<v23>>
+23 Wirf deine Sorge auf den Herrn, er hält dich aufrecht! /\\
+ Er lässt den Gerechten niemals wanken. [fn:11]\\
+\\
+
+* Footnotes
+
+[fn:1] Wörtlich: Sie lassen Unheil auf mich herabfallen.
+
+[fn:2] [[file:Jer_9.org::v1][Jer 9,1]]
+
+[fn:3] [[file:Jer_5.org::v1][Jer 5,1]]; [[file:Jer_6.org::v6][6,6]]; [[file:Zef_3.org::v1][Zef 3,1]]
+
+[fn:4] (13-14) [[file:Ps_31.org::v12][31,12]]
+
+[fn:5] [[file:Jer_9.org::v3][Jer 9,3]].[[file:Jer_9.org::v7][7]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_26.org::v21][Mt 26,21-24]]
+
+[fn:6] [[file:Ps_49.org::v15][49,15]]; [[file:Num_16.org::v33][Num 16,33]]; [[file:Jes_5.org::v14][Jes 5,14]]
+
+[fn:7] H ist verderbt.
+
+[fn:8] [[file:Ps_93.org::v2][93,2]]
+
+[fn:9] [[file:Ps_57.org::v5][57,5]]; [[file:Ps_62.org::v5][62,5]]; [[file:Ps_64.org::v4][64,4]]
+
+[fn:10] 102,25
+
+[fn:11] 37,5; 1 Petr 5,7

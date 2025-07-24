@@ -1,0 +1,240 @@
+#+TITLE: Ri 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 16:55]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 5.html
+
+
+<<verses>>
+
+<<v1>>
+* Das Debora-Lied: 5,1-31
+
+1 Debora und Barak, der Sohn Abinoams, sangen an jenem Tag dieses Lied: [fn:1]\\
+\\
+
+<<v2>>
+2 Dass Führer Israel führten /\\
+ und das Volk sich bereit zeigte, /\\
+ dafür preist den Herrn!\\
+\\
+
+<<v3>>
+3 Hört, ihr Könige, horcht auf, ihr Fürsten! /\\
+ Ich will dem Herrn zu Ehren singen, /\\
+ ich will zu Ehren des Herrn, /\\
+ des Gottes Israels, spielen.\\
+\\
+
+<<v4>>
+4 Herr, als du auszogst aus Seïr, /\\
+ als du vom Grünland Edoms heranschrittest, /\\
+ da bebte die Erde, die Himmel ergossen sich, /\\
+ ja, aus den Wolken ergoss sich das Wasser [fn:2]\\
+\\
+
+<<v5>>
+5 Die Berge wankten vor dem Blick des Herrn, [das ist der Sinai] /\\
+ vor dem Blick des Herrn, des Gottes Israels.\\
+\\
+
+<<v6>>
+6 In den Tagen Schamgars, des Sohnes des Anat, /\\
+ in den Tagen Jaëls lagen die Wege verlassen da; /\\
+ wer unterwegs war, musste Umwege machen. [fn:3]\\
+\\
+
+<<v7>>
+7 Bewohner des offenen Landes gab es nicht mehr, /\\
+ es gab sie nicht mehr in Israel, /\\
+ bis du dich erhobst, Debora, /\\
+ bis du dich erhobst, Mutter in Israel.\\
+\\
+
+<<v8>>
+8 Man hatte sich neue Götter erwählt. /\\
+ Es gab kein Brot an den Toren. /\\
+ Schild und Speer waren nicht mehr zu sehen /\\
+ bei den Vierzigtausend in Israel. [fn:4]\\
+\\
+
+<<v9>>
+9 Mein Herz gehört Israels Führern. /\\
+ Ihr, die ihr bereit seid im Volk, /\\
+ preist den Herrn!\\
+\\
+
+<<v10>>
+10 Ihr, die ihr auf weißen Eselinnen reitet, /\\
+ die ihr auf Teppichen sitzt, /\\
+ die ihr auf der Straße dahinzieht, singt!\\
+\\
+
+<<v11>>
+11 Horch, sie jubeln zwischen den Tränken; /\\
+ dort besingt man die rettenden Taten des Herrn, /\\
+ seine hilfreiche Tat an den Bauern in Israel. /\\
+ Damals zog das Volk des Herrn hinab zu den Toren.\\
+\\
+
+<<v12>>
+12 Auf, auf, Debora! Auf, auf, sing ein Lied! /\\
+ Erheb dich, Barak, /\\
+ führ deine Gefangenen heim, /\\
+ Sohn Abinoams!\\
+\\
+
+<<v13>>
+13 Dann steige herab, /\\
+ was übrig ist unter den Herrlichen des Volkes. /\\
+ Der Herr steige herab /\\
+ mit mir unter den Helden.\\
+\\
+
+<<v14>>
+14 Aus Efraim zogen sie hinunter ins Tal, /\\
+ hinter ihnen Benjamin mit seinen Scharen; /\\
+ von Machir stiegen die Führer hinab, /\\
+ von Sebulon die, die das Zepter tragen. [fn:5]\\
+\\
+
+<<v15>>
+15 Die Fürsten Issachars zusammen mit Debora /\\
+ und wie Issachar so auch Barak, /\\
+ ins Tal getragen von seinen Füßen. /\\
+ In Rubens Bezirken /\\
+ überlegte man lange. [fn:6]\\
+\\
+
+<<v16>>
+16 Warum sitzt du zwischen den Hürden /\\
+ und hörst bei den Herden dem Flötenspiel zu? /\\
+ In Rubens Bezirken /\\
+ überlegte man lange.\\
+\\
+
+<<v17>>
+17 Gilead bleibt jenseits des Jordan. /\\
+ Warum verweilt Dan bei den Schiffen? /\\
+ Ascher sitzt am Ufer des Meeres, /\\
+ bleibt ruhig an seinen Buchten. [fn:7]\\
+\\
+
+<<v18>>
+18 Sebulon ist ein Volk, /\\
+ das sein Leben aufs Spiel setzt, /\\
+ auch Naftali auf den Höhen des Feldes.\\
+\\
+
+<<v19>>
+19 Könige kamen und kämpften, /\\
+ damals kämpften Kanaans Könige /\\
+ in Taanach, an den Wassern Megiddos, /\\
+ doch Beute an Silber machten sie nicht.\\
+\\
+
+<<v20>>
+20 Vom Himmel her kämpften die Sterne, /\\
+ von ihren Bahnen aus kämpften sie gegen Sisera. [fn:8]\\
+\\
+
+<<v21>>
+21 Der Bach Kischon schwemmte sie fort, /\\
+ der altberühmte Bach, der Bach Kischon. /\\
+ Meine Seele soll auftreten mit Macht.\\
+\\
+
+<<v22>>
+22 Damals stampften die Hufe der Pferde /\\
+ im Jagen, im Dahinjagen der Hengste.\\
+\\
+
+<<v23>>
+23 Ihr sollt Meros verfluchen, /\\
+ spricht der Engel des Herrn. /\\
+ Mit Flüchen flucht seinen Bewohnern; /\\
+ denn sie kamen dem Herrn nicht zu Hilfe, /\\
+ zu Hilfe dem Herrn unter den Helden.\\
+\\
+
+<<v24>>
+24 Gepriesen sei Jaël unter den Frauen, /\\
+ die Frau des Keniters Heber, /\\
+ gepriesen unter den Frauen im Zelt.\\
+\\
+
+<<v25>>
+25 Er hatte Wasser verlangt, sie gab ihm Milch, /\\
+ in einer prächtigen Schale reichte sie Sahne. [fn:9]\\
+\\
+
+<<v26>>
+26 Ihre Hand streckte sie aus nach dem Pflock, /\\
+ ihre Rechte nach dem Hammer des Schmieds. /\\
+ Sie erschlug Sisera, zermalmte sein Haupt, /\\
+ zerschlug, durchbohrte seine Schläfe.\\
+\\
+
+<<v27>>
+27 Zu ihren Füßen brach er zusammen, fiel nieder, lag da, /\\
+ zu ihren Füßen brach er zusammen, fiel nieder. /\\
+ Wo er zusammenbrach, da lag er vernichtet.\\
+\\
+
+<<v28>>
+28 Aus ihrem Fenster blickt Siseras Mutter /\\
+ und klagt durch das Gitter: /\\
+ Warum säumt sein Wagen zu kommen, /\\
+ warum zögert der Hufschlag seiner Gespanne?\\
+\\
+
+<<v29>>
+29 Eine Kluge aus ihren Fürstinnen antwortet ihr, /\\
+ und sie selbst wiederholt deren Worte: [fn:10]\\
+\\
+
+<<v30>>
+30 Sicher machen und teilen sie Beute, /\\
+ ein, zwei Frauen für jeden Mann, /\\
+ Beute an Kleidern für Sisera, /\\
+ Beute an Kleidern, /\\
+ für meinen Hals als Beute ein, zwei bunte Tücher.\\
+\\
+
+<<v31>>
+31 So gehen all deine Feinde zugrunde, Herr. /\\
+ Doch die, die ihn lieben, sind wie die Sonne, /\\
+ wenn sie aufgeht in ihrer Kraft. Dann hatte das Land vierzig Jahre lang
+Ruhe.\\
+\\
+
+* Footnotes
+
+[fn:1] Der Text des Lieds ist vielfach verderbt.
+
+[fn:2] [[file:Dtn_33.org::v2][Dtn 33,2]]
+
+[fn:3] [[file:Ri_3.org::v31][3,31]]
+
+[fn:4] Text korr.
+
+[fn:5] Text korr. H fügt am Schluss, wohl als erklärenden
+Zusatz im Sinn von «hoher Beamter», hinzu: Schreiber.
+
+[fn:6] Text korr. mit V. 16.
+
+[fn:7] Nicht alle Stämme beteiligten sich am Kampf (vgl. V. 23).
+
+[fn:8] Gemeint ist ein Eingreifen Jahwes durch ein Unwetter
+(vgl. V. 21).
+
+[fn:9] [[file:Ri_4.org::v19][4,19]]
+
+[fn:10] eine Kluge: Text (Einzahl statt Mehrzahl) korr., vgl.
+S und Vg.

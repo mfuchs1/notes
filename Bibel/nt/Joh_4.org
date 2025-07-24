@@ -1,0 +1,364 @@
+:PROPERTIES:
+:ID:       c8fde166-605f-4205-ae1f-f5c101fca682
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Johannes* --
+[[file:Joh_1.html][1]] [[file:Joh_2.html][2]] [[file:Joh_3.html][3]] *4*
+[[file:Joh_5.html][5]] [[file:Joh_6.html][6]] ...
+[[file:Joh_21.html][21]]
+
+--------------
+
+* Joh 4
+  :PROPERTIES:
+  :CUSTOM_ID: joh-4
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das Gespräch am Jakobsbrunnen: 4,1-26
+     :PROPERTIES:
+     :CUSTOM_ID: das-gespräch-am-jakobsbrunnen-41-26
+     :END:
+1 Jesus erfuhr, dass die Pharisäer gehört hatten, er gewinne und taufe
+mehr Jünger als Johannes - ^{[[#fn1][1]][[#fn2][2]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 30\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 allerdings taufte nicht Jesus selbst, sondern seine Jünger -;
+
+<<v3>>
+3 daraufhin verließ er Judäa und ging wieder nach Galiläa.
+^{[[#fn3][3]]}
+
+<<v4>>
+4 Er musste aber den Weg durch Samarien nehmen.
+^{[[#fn4][4]][[#fn5][5]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 31\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v5>>
+5 So kam er zu einem Ort in Samarien, der Sychar hieß und nahe bei dem
+Grundstück lag, das Jakob seinem Sohn Josef vermacht hatte.
+^{[[#fn6][6]]}
+
+<<v6>>
+6 Dort befand sich der Jakobsbrunnen. Jesus war müde von der Reise und
+setzte sich daher an den Brunnen; es war um die sechste Stunde.
+
+<<v7>>
+7 Da kam eine samaritische Frau, um Wasser zu schöpfen. Jesus sagte zu
+ihr: Gib mir zu trinken!
+
+<<v8>>
+8 Seine Jünger waren nämlich in den Ort gegangen, um etwas zum Essen zu
+kaufen. ^{[[#fn7][7]]}
+
+<<v9>>
+9 Die samaritische Frau sagte zu ihm: Wie kannst du als Jude mich, eine
+Samariterin, um Wasser bitten? Die Juden verkehren nämlich nicht mit den
+Samaritern. ^{[[#fn8][8]]}
+
+<<v10>>
+10 Jesus antwortete ihr: Wenn du wüsstest, worin die Gabe Gottes besteht
+und wer es ist, der zu dir sagt: Gib mir zu trinken!, dann hättest du
+ihn gebeten, und er hätte dir lebendiges Wasser gegeben.
+
+<<v11>>
+11 Sie sagte zu ihm: Herr, du hast kein Schöpfgefäß, und der Brunnen ist
+tief; woher hast du also das lebendige Wasser? ^{[[#fn9][9]]}
+
+<<v12>>
+12 Bist du etwa größer als unser Vater Jakob, der uns den Brunnen
+gegeben und selbst daraus getrunken hat, wie seine Söhne und seine
+Herden?
+
+<<v13>>
+13 Jesus antwortete ihr: Wer von diesem Wasser trinkt, wird wieder Durst
+bekommen;
+
+<<v14>>
+14 wer aber von dem Wasser trinkt, das ich ihm geben werde, wird niemals
+mehr Durst haben; vielmehr wird das Wasser, das ich ihm gebe, in ihm zur
+sprudelnden Quelle werden, deren Wasser ewiges Leben schenkt.
+^{[[#fn10][10]]}
+
+<<v15>>
+15 Da sagte die Frau zu ihm: Herr, gib mir dieses Wasser, damit ich
+keinen Durst mehr habe und nicht mehr hierher kommen muss, um Wasser zu
+schöpfen.
+
+<<v16>>
+16 Er sagte zu ihr: Geh, ruf deinen Mann und komm wieder her!
+
+<<v17>>
+17 Die Frau antwortete: Ich habe keinen Mann. Jesus sagte zu ihr: Du
+hast richtig gesagt: Ich habe keinen Mann.
+
+<<v18>>
+18 Denn fünf Männer hast du gehabt und der, den du jetzt hast, ist nicht
+dein Mann. Damit hast du die Wahrheit gesagt.
+
+<<v19>>
+19 Die Frau sagte zu ihm: Herr, ich sehe, dass du ein Prophet bist.
+
+<<v20>>
+20 Unsere Väter haben auf diesem Berg Gott angebetet; ihr aber sagt, in
+Jerusalem sei die Stätte, wo man anbeten muss. ^{[[#fn11][11]]}
+
+<<v21>>
+21 Jesus sprach zu ihr: Glaube mir, Frau, die Stunde kommt, zu der ihr
+weder auf diesem Berg noch in Jerusalem den Vater anbeten werdet.
+
+<<v22>>
+22 Ihr betet an, was ihr nicht kennt, wir beten an, was wir kennen; denn
+das Heil kommt von den Juden. ^{[[#fn12][12]]}
+
+<<v23>>
+23 Aber die Stunde kommt und sie ist schon da, zu der die wahren Beter
+den Vater anbeten werden im Geist und in der Wahrheit; denn so will der
+Vater angebetet werden.
+
+<<v24>>
+24 Gott ist Geist und alle, die ihn anbeten, müssen im Geist und in der
+Wahrheit anbeten.
+
+<<v25>>
+25 Die Frau sagte zu ihm: Ich weiß, dass der Messias kommt, das ist: der
+Gesalbte (Christus). Wenn er kommt, wird er uns alles verkünden.
+^{[[#fn13][13]][[#fn14][14]]}
+
+<<v26>>
+26 Da sagte Jesus zu ihr: Ich bin es, ich, der mit dir spricht.
+^{[[#fn15][15]]}\\
+\\
+
+<<v27>>
+**** Die Aufnahme Jesu bei den Samaritern: 4,27-42
+     :PROPERTIES:
+     :CUSTOM_ID: die-aufnahme-jesu-bei-den-samaritern-427-42
+     :END:
+27 Inzwischen waren seine Jünger zurückgekommen. Sie wunderten sich,
+dass er mit einer Frau sprach, aber keiner sagte: Was willst du?, oder:
+Was redest du mit ihr? ^{[[#fn16][16]]}
+
+<<v28>>
+28 Da ließ die Frau ihren Wasserkrug stehen, eilte in den Ort und sagte
+zu den Leuten:
+
+<<v29>>
+29 Kommt her, seht, da ist ein Mann, der mir alles gesagt hat, was ich
+getan habe: Ist er vielleicht der Messias?
+
+<<v30>>
+30 Da liefen sie hinaus aus dem Ort und gingen zu Jesus.
+
+<<v31>>
+31 Währenddessen drängten ihn seine Jünger: Rabbi, iss!
+
+<<v32>>
+32 Er aber sagte zu ihnen: Ich lebe von einer Speise, die ihr nicht
+kennt.
+
+<<v33>>
+33 Da sagten die Jünger zueinander: Hat ihm jemand etwas zu essen
+gebracht?
+
+<<v34>>
+34 Jesus sprach zu ihnen: Meine Speise ist es, den Willen dessen zu tun,
+der mich gesandt hat, und sein Werk zu Ende zu führen. ^{[[#fn17][17]]}
+
+<<v35>>
+35 Sagt ihr nicht: Noch vier Monate dauert es bis zur Ernte? Ich aber
+sage euch: Blickt umher und seht, dass die Felder weiß sind, reif zur
+Ernte. ^{[[#fn18][18]]}
+
+<<v36>>
+36 Schon empfängt der Schnitter seinen Lohn und sammelt Frucht für das
+ewige Leben, so dass sich der Sämann und der Schnitter gemeinsam freuen.
+^{[[#fn19][19]]}
+
+<<v37>>
+37 Denn hier hat das Sprichwort recht: Einer sät und ein anderer erntet.
+
+<<v38>>
+38 Ich habe euch gesandt zu ernten, wofür ihr nicht gearbeitet habt;
+andere haben gearbeitet und ihr erntet die Frucht ihrer Arbeit.
+^{[[#fn20][20]]}
+
+<<v39>>
+39 Viele Samariter aus jenem Ort kamen zum Glauben an Jesus auf das Wort
+der Frau hin, die bezeugt hatte: Er hat mir alles gesagt, was ich getan
+habe.
+
+<<v40>>
+40 Als die Samariter zu ihm kamen, baten sie ihn, bei ihnen zu bleiben;
+und er blieb dort zwei Tage.
+
+<<v41>>
+41 Und noch viel mehr Leute kamen zum Glauben an ihn aufgrund seiner
+eigenen Worte.
+
+<<v42>>
+42 Und zu der Frau sagten sie: Nicht mehr aufgrund deiner Aussage
+glauben wir, sondern weil wir ihn selbst gehört haben und nun wissen: Er
+ist wirklich der Retter der Welt. ^{[[#fn21][21]]}\\
+\\
+
+<<v43>>
+**** Ein Heilungswunder in Galiläa: 4,43-54
+     :PROPERTIES:
+     :CUSTOM_ID: ein-heilungswunder-in-galiläa-443-54
+     :END:
+43 Nach diesen beiden Tagen ging er von dort nach Galiläa.
+^{[[#fn22][22]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 32\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v44>>
+44 Jesus selbst hatte nämlich bestätigt: Ein Prophet wird in seiner
+eigenen Heimat nicht geehrt. ^{[[#fn23][23]][[#fn24][24]]}
+
+<<v45>>
+45 Als er nun nach Galiläa kam, nahmen ihn die Galiläer auf, weil sie
+alles gesehen hatten, was er in Jerusalem während des Festes getan
+hatte; denn auch sie waren zum Fest gekommen.
+
+<<v46>>
+46 Jesus kam wieder nach Kana in Galiläa, wo er das Wasser in Wein
+verwandelt hatte. In Kafarnaum lebte ein königlicher Beamter; dessen
+Sohn war krank.
+^{[[#fn25][25]][[#fn26][26]][[#fn27][27]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 85\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v47>>
+47 Als er hörte, dass Jesus von Judäa nach Galiläa gekommen war, suchte
+er ihn auf und bat ihn, herabzukommen und seinen Sohn zu heilen; denn er
+lag im Sterben.
+
+<<v48>>
+48 Da sagte Jesus zu ihm: Wenn ihr nicht Zeichen und Wunder seht, glaubt
+ihr nicht. ^{[[#fn28][28]]}
+
+<<v49>>
+49 Der Beamte bat ihn: Herr, komm herab, ehe mein Kind stirbt.
+
+<<v50>>
+50 Jesus erwiderte ihm: Geh, dein Sohn lebt! Der Mann glaubte dem Wort,
+das Jesus zu ihm gesagt hatte, und machte sich auf den Weg.
+^{[[#fn29][29]]}
+
+<<v51>>
+51 Noch während er unterwegs war, kamen ihm seine Diener entgegen und
+sagten: Dein Junge lebt.
+
+<<v52>>
+52 Da fragte er sie genau nach der Stunde, in der die Besserung
+eingetreten war. Sie antworteten: Gestern in der siebten Stunde ist das
+Fieber von ihm gewichen.
+
+<<v53>>
+53 Da erkannte der Vater, dass es genau zu der Stunde war, als Jesus zu
+ihm gesagt hatte: Dein Sohn lebt. Und er wurde gläubig mit seinem ganzen
+Haus.
+
+<<v54>>
+54 So tat Jesus sein zweites Zeichen, und zwar nachdem er von Judäa nach
+Galiläa gekommen war. ^{[[#fn30][30]]}\\
+\\
+
+^{[[#fnm1][1]]} Jesus, nach anderen Textzeugen: Der Herr.
+
+^{[[#fnm2][2]]} ℘ ⇨Esyn: Synopse Nr. 30
+
+^{[[#fnm3][3]]} ℘ Mt 4,12; Mk 1,14; Lk 4,14
+
+^{[[#fnm4][4]]} 4-6: Der kürzeste Weg von Judäa nach Galiläa führte
+durch die Landschaft Samarien, deren Bewohner zwar auch Verehrer Jahwes
+waren, aber von den Juden als Abtrünnige angesehen und gemieden wurden
+(vgl. V. 9). Am Jakobsbrunnen, etwa 1 Kilometer südwestlich von dem Ort
+Sychar, gabelte sich der Weg nach Westgaliläa und zum See Gennesaret.
+Vom Jakobsbrunnen, der im Osten liegt, aus gesehen, erhebt sich
+südwestlich der Berg Garizim, nordwestlich der Ebal.
+
+^{[[#fnm5][5]]} ℘ ⇨Esyn: Synopse Nr. 31
+
+^{[[#fnm6][6]]} ℘ Gen 33,18f; 48,22; Jos 24,32
+
+^{[[#fnm7][7]]} ℘ Lk 9,52f
+
+^{[[#fnm8][8]]} Andere Übersetzungsmöglichkeit: Die Juden benutzen
+nämlich nicht dieselben (Gefäße) wie die Samariter.
+
+^{[[#fnm9][9]]} 11f: Der noch heute erhaltene Jakobsbrunnen ist 32 Meter
+tief. Sein Grundwasser fließt immer frisch nach («lebendiges Wasser»).
+Im Alten Testament wird dieser Brunnen nicht erwähnt.
+
+^{[[#fnm10][10]]} ℘ Sir 24,21; Ps 36,10; Jes 58,11
+
+^{[[#fnm11][11]]} Das Gespräch fand in der Nähe des Berges Garizim
+statt, auf dem die Samariter Jahwe verehrten (vgl. Dtn 27,4-8). Es war
+eine alte Streitfrage zwischen Juden und Samaritern, welches der
+richtige Ort der Gottesverehrung sei. Den Jahwetempel auf dem Garizim
+ließ Johannes Hyrkanus (vgl. 1 Makk 16) im Jahr 128 v. Chr. zerstören.
+Der Kult, vor allem das Schlachten von Paschalämmern, wurde aber
+weitergeführt und ist bis heute lebendig geblieben.
+
+^{[[#fnm12][12]]} ℘ 2 Kön 17,29; Jes 2,3
+
+^{[[#fnm13][13]]} ℘ Dtn 18,18
+
+^{[[#fnm14][14]]} Auch die Samariter, die nur die Fünf Bücher des Mose
+als Offenbarungsbuch anerkannten, erwarteten den in Dtn 18,18
+verheißenen (messianischen) Propheten (vgl. die Anmerkung zu 1,20f).
+
+^{[[#fnm15][15]]} ℘ 9,37
+
+^{[[#fnm16][16]]} Von einem jüdischen Mann, besonders einem Rabbi,
+verlangte die Sitte strenge Zurückhaltung gegenüber einer Frau.
+
+^{[[#fnm17][17]]} ℘ 5,30; 17,4; 19,30; Hebr 10,5-9
+
+^{[[#fnm18][18]]} Für die Zeit zwischen Aussaat und Ernte rechnete man
+im allgemeinen etwa sechs Monate. Die Bemerkung Jesu über die «Ernte»
+bezieht sich auf die bevorstehende Bekehrung der Samariter (vgl. die VV.
+30.39f).
+
+^{[[#fnm19][19]]} ℘ Ps 126,5f; Jes 9,2
+
+^{[[#fnm20][20]]} ℘ 17,18.20f
+
+^{[[#fnm21][21]]} ℘ 1 Joh 4,14
+
+^{[[#fnm22][22]]} ℘ ⇨Esyn: Synopse Nr. 32
+
+^{[[#fnm23][23]]} ℘ Mt 13,57; Mk 6,4; Lk 4,24
+
+^{[[#fnm24][24]]} Zu dem Ausspruch vgl. das Wort, das bei den drei
+ersten Evangelien im Zusammenhang mit der Ablehnung Jesu in seiner
+Heimatstadt überliefert wird (Mt 13,57; Mk 6,4; Lk 4,24).
+
+^{[[#fnm25][25]]} ℘ 2,1-11; (46b-53) Mt 8,5-13; Lk 7,1-10
+
+^{[[#fnm26][26]]} 46-54: Bei der Fernheilung des todkranken
+Beamtensohnes in Kafarnaum handelt es sich wahrscheinlich um das gleiche
+Ereignis wie bei der Heilung des Knechtes des heidnischen Hauptmanns,
+die in Mt 8,5-13 und Lk 7,1-10 erzählt wird. Die Abweichungen erklären
+sich aus verschiedener Überlieferung und anderer Erzählabsicht,
+betreffen aber nicht das Wesentliche.
+
+^{[[#fnm27][27]]} ℘ ⇨Esyn: Synopse Nr. 85
+
+^{[[#fnm28][28]]} ℘ 2,18; 6,26; 12,37; 20,30
+
+^{[[#fnm29][29]]} ℘ 1 Kön 17,23
+
+^{[[#fnm30][30]]} ℘ 2,11

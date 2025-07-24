@@ -1,0 +1,192 @@
+#+TITLE: 2 Sam 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 22:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 18.html
+
+* 2.Sam 18
+
+<<verses>>
+
+<<v1>>
+1 Dann musterte David die Leute, die bei ihm waren, und setzte Anführer
+ein über die einzelnen Tausendschaften und Hundertschaften.
+
+<<v2>>
+2 Dann ließ er seine Leute ausrücken, ein Drittel (von ihnen) unter
+Joab, ein Drittel unter Abischai, dem Sohn der Zeruja und Bruder Joabs,
+und ein Drittel unter dem Gatiter Ittai. Der König sagte zu seinen
+Leuten: Auch ich will mit euch in den Kampf ziehen. [fn:1]
+
+<<v3>>
+3 Doch sie erwiderten: Du sollst nicht mit uns in den Kampf ziehen; denn
+wenn wir fliehen, wird man sich um uns nicht kümmern; und wenn die
+Hälfte von uns stirbt, wird man sich um uns nicht kümmern. Doch du
+giltst so viel wie zehntausend von uns und außerdem wäre es besser, wenn
+du uns von der Stadt aus zu Hilfe kommen könntest.
+
+<<v4>>
+4 Der König antwortete ihnen: Ich will tun, was ihr für richtig haltet.
+Darauf stellte sich der König neben das Tor (der Stadt) und die Leute
+zogen nach Hundertschaften und Tausendschaften geordnet hinaus.
+
+<<v5>>
+5 Und der König befahl Joab, Abischai und Ittai: Geht mir mit dem
+Jungen, mit Abschalom, schonend um! Alle Leute hörten, wie der König
+seinen Anführern wegen Abschalom diese Anweisung gab. [fn:2]\\
+\\
+
+<<v6>>
+* Abschaloms Tod: 18,6-32
+
+6 Die Leute zogen ins Feld, den Israeliten entgegen, und im Wald Efraim
+kam es zur Schlacht.
+
+<<v7>>
+7 Die Israeliten wurden von den Leuten Davids geschlagen und erlitten
+eine schwere Niederlage; an jenem Tag fielen zwanzigtausend von ihnen.
+
+<<v8>>
+8 Der Kampf breitete sich über die ganze dortige Gegend aus und der Wald
+verschlang an jenem Tag mehr Krieger als das Schwert.
+
+<<v9>>
+9 Plötzlich kam Abschalom in das Blickfeld der Krieger Davids; er ritt
+auf einem Maultier. Als das Maultier unter den Ästen einer großen Eiche
+hindurchlief, blieb Abschalom mit dem Kopf fest an der Eiche hängen,
+sodass er zwischen Himmel und Erde schwebte und das Maultier unter ihm
+weglief.
+
+<<v10>>
+10 Jemand sah es und meldete Joab: Ich habe gerade Abschalom an einer
+Eiche hängen sehen.
+
+<<v11>>
+11 Joab sagte zu dem Mann, der ihm das meldete: Wenn du es gesehen hast,
+warum hast du ihn nicht sofort an Ort und Stelle niedergestoßen? Ich
+hätte dir dann gern zehn Silberstücke und einen Gürtel gegeben.
+
+<<v12>>
+12 Der Mann antwortete Joab: Auch wenn ich tausend Silberstücke auf die
+Hand ausgezahlt erhielte, würde ich meine Hand nicht gegen den Sohn des
+Königs erheben; denn der König hat dir, Abischai und Ittai vor unseren
+Ohren befohlen: Gebt mir auf den Jungen, auf Abschalom, Acht! [fn:3]
+
+<<v13>>
+13 Hätte ich heimtückisch gehandelt und ihm etwas getan - dem König
+bleibt ohnehin nichts verborgen -, dann würdest du dich (aus der Sache)
+heraushalten.
+
+<<v14>>
+14 Joab erwiderte: Ich kann mich nicht noch länger mit dir aufhalten.
+Und er nahm drei Spieße in die Hand und stieß sie Abschalom, der noch
+lebend an der Eiche hing, ins Herz.
+
+<<v15>>
+15 Die zehn Waffenträger Joabs umringten Abschalom und schlugen ihn tot.
+
+<<v16>>
+16 Dann ließ Joab das Widderhorn blasen und die Krieger hörten auf, die
+Israeliten zu verfolgen, weil Joab ihnen Einhalt gebot.
+
+<<v17>>
+17 Sie nahmen Abschalom und warfen ihn im Wald in eine tiefe Grube und
+errichteten über ihm einen riesigen Steinhaufen. Alle Israeliten aber
+flohen, jeder in sein Zelt. -
+
+<<v18>>
+18 Abschalom hatte sich schon zu Lebzeiten den Gedenkstein, der jetzt im
+Königstal steht, herbeischaffen und für sich aufstellen lassen; denn er
+sagte sich: Ich habe keinen Sohn, der meinen Namen im Gedächtnis (der
+Menschen) halten würde. Er benannte den Stein nach seinem Namen; deshalb
+heißt er bis zum heutigen Tag «Abschaloms Hand» [fn:4]
+
+<<v19>>
+19 Ahimaaz, der Sohn Zadoks, sagte: Ich will zum König eilen und ihm die
+freudige Nachricht bringen, dass der Herr ihm Recht gegenüber seinen
+Feinden verschafft hat.
+
+<<v20>>
+20 Joab sagte zu ihm: Du würdest heute kein Freudenbote sein. An einem
+anderen Tag kannst du eine gute Nachricht überbringen; heute würdest du
+nichts Erfreuliches melden; denn der Sohn des Königs ist tot.
+
+<<v21>>
+21 Und Joab befahl einem Kuschiter: Geh, melde dem König, was du gesehen
+hast. Der Kuschiter warf sich vor Joab nieder, dann eilte er davon.
+
+<<v22>>
+22 Ahimaaz, der Sohn Zadoks, sagte noch einmal zu Joab: Mag kommen, was
+will, ich möchte auch hineilen, hinter dem Kuschiter her. Joab
+antwortete: Warum willst du denn hinlaufen, mein Sohn? Du bekommst
+keinen Botenlohn.
+
+<<v23>>
+23 Doch Ahimaaz sagte: Mag kommen, was will; ich laufe hin. Joab
+erwiderte: Dann lauf! Ahimaaz lief los, nahm den Weg durch die
+Jordansenke und überholte den Kuschiter. [fn:5]
+
+<<v24>>
+24 David saß zwischen den beiden Toren. Der Späher aber war auf das Dach
+des Tores, auf die Mauer, gestiegen, und als er Ausschau hielt, sah er
+einen einzelnen Mann herbeilaufen.
+
+<<v25>>
+25 Der Späher rief dem König die Meldung zu. Der König sagte: Wenn er
+allein ist, dann bringt er eine gute Nachricht. Während der Mann
+herankam,
+
+<<v26>>
+26 sah der Späher noch einen anderen herbeieilen und rief zum Tor hinab:
+Da läuft noch ein einzelner Mann herbei. Der König sagte: Auch er bringt
+eine gute Nachricht.
+
+<<v27>>
+27 Darauf sagte der Späher: Ich sehe, der erste läuft in der Art des
+Ahimaaz, des Sohnes Zadoks. Und der König sagte: Das ist ein guter Mann,
+er kommt mit einer guten Nachricht.
+
+<<v28>>
+28 Ahimaaz rief dem König den Friedensgruß zu, warf sich vor ihm mit dem
+Gesicht zur Erde nieder und sagte: Gepriesen sei der Herr, dein Gott,
+der (dir) die Männer ausgeliefert hat, die ihre Hand gegen meinen Herrn,
+den König, erhoben haben.
+
+<<v29>>
+29 Der König fragte: Geht es dem Jungen, Abschalom, gut? Ahimaaz
+antwortete: Ich sah ein großes Getümmel, als Joab den Knecht des Königs,
+deinen Knecht, wegschickte; darum weiß ich nicht, was da geschah.
+
+<<v30>>
+30 Der König befahl: Tritt zur Seite und stell dich hierher! Ahimaaz
+trat zur Seite und blieb dort stehen.
+
+<<v31>>
+31 Da kam auch der Kuschiter und sagte: Mein Herr, der König, lasse sich
+die gute Nachricht bringen, dass der Herr dir heute Recht verschafft hat
+gegenüber allen, die sich gegen dich erhoben hatten.
+
+<<v32>>
+32 Der König fragte den Kuschiter: Geht es dem Jungen, Abschalom, gut?
+Der Kuschiter antwortete: Wie dem jungen Mann möge es allen Feinden
+meines Herrn, des Königs, ergehen, allen, die sich in böser Absicht
+gegen dich erhoben haben.\\
+\\
+
+* Footnotes
+
+[fn:1] (2f) [[file:2.Sam_15.org::v19][15,19]]
+
+[fn:2] [[v12][18,12]]
+
+[fn:3] [[v5][18,5]]
+
+[fn:4] [[file:2.Sam_14.org::v27][14,27]]
+
+[fn:5] Doch Ahimaaz sagte: ergänzt nach G.

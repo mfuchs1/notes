@@ -1,0 +1,81 @@
+#+TITLE: Ps 122 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 11:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 122.html
+
+* Ps 122
+
+<<verses>>
+
+<<v1>>
+* Ein Lied zur Wallfahrt nach Jerusalem
+
+1 [Ein Wallfahrtslied Davids.] Ich freute mich, als man mir sagte: /\\
+ «Zum Haus des Herrn wollen wir pilgern.» [fn:1]\\
+\\
+
+<<v2>>
+2 Schon stehen wir in deinen Toren, Jerusalem: / [fn:2]\\
+\\
+
+<<v3>>
+3 Jerusalem, du starke Stadt, /\\
+ dicht gebaut und fest gefügt. [fn:3]\\
+\\
+
+<<v4>>
+4 Dorthin ziehen die Stämme hinauf, die Stämme des Herrn, /\\
+ wie es Israel geboten ist, /\\
+ den Namen des Herrn zu preisen. [fn:4]\\
+\\
+
+<<v5>>
+5 Denn dort stehen Throne bereit für das Gericht, /\\
+ die Throne des Hauses David. [fn:5]\\
+\\
+
+<<v6>>
+6 Erbittet für Jerusalem Frieden! /\\
+ Wer dich liebt, sei in dir geborgen. [fn:6]\\
+\\
+
+<<v7>>
+7 Friede wohne in deinen Mauern, /\\
+ in deinen Häusern Geborgenheit. [fn:7]\\
+\\
+
+<<v8>>
+8 Wegen meiner Brüder und Freunde /\\
+ will ich sagen: In dir sei Friede.\\
+\\
+
+<<v9>>
+9 Wegen des Hauses des Herrn, unseres Gottes, /\\
+ will ich dir Glück erflehen. [fn:8]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_42.org::v5][42,5]]; [[file:Jes_2.org::v3][Jes 2,3]]
+
+[fn:2] Wörtlich: Schon stehen unsere Füße in deinen Toren.
+
+[fn:3] [[file:Ps_48.org::v13][48,13f]]
+
+[fn:4] [[file:Dtn_16.org::v16][Dtn 16,16]]
+
+[fn:5] [[file:Dtn_17.org::v8][Dtn 17,8f]]; [[file:1.Kön_7.org::v7][1 Kön 7,7]]; [[file:2.Chr_19.org::v8][2 Chr 19,8]]
+
+[fn:6] [[file:Tob_13.org::v14][Tob 13,14]]
+
+[fn:7] Wörtlich: in seinen Palästen Geborgenheit.
+
+[fn:8] [[file:Ps_26.org::v8][26,8]]; [[file:Ps_128.org::v5][128,5]]

@@ -1,0 +1,135 @@
+:PROPERTIES:
+:ID:       da9fb7a0-29a1-494b-9c1e-acbc1c6f7f50
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der zweite Brief an die Korinther* --
+[[file:2.Kor_1.html][1]] *2* [[file:2.Kor_3.html][3]]
+[[file:2.Kor_4.html][4]] ... [[file:2.Kor_13.html][13]]
+
+--------------
+
+* 2.Kor 2
+  :PROPERTIES:
+  :CUSTOM_ID: kor-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Ich entschloss mich also, nicht noch einmal zu euch zu kommen und euch
+zu betrüben. ^{[[#fn1][1]]}
+
+<<v2>>
+2 Wenn ich euch nämlich betrübe, wer wird mich dann erfreuen? Etwa der,
+den ich selbst betrübt habe?
+
+<<v3>>
+3 Und so schrieb ich, statt selber zu kommen, einen Brief, um nicht von
+denen betrübt zu werden, die mich erfreuen sollten; und ich bin sicher,
+dass meine Freude auch die Freude von euch allen ist. ^{[[#fn2][2]]}
+
+<<v4>>
+4 Ich schrieb euch aus großer Bedrängnis und Herzensnot, unter vielen
+Tränen, nicht um euch zu betrüben, nein, um euch meine übergroße Liebe
+spüren zu lassen. ^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+<<v5>>
+**** Mahnung zur Milde: 2,5-11
+     :PROPERTIES:
+     :CUSTOM_ID: mahnung-zur-milde-25-11
+     :END:
+5 Wenn aber einer Betrübnis verursacht hat, hat er nicht mich betrübt,
+sondern mehr oder weniger - um nicht zu übertreiben - euch alle.
+^{[[#fn5][5]]}
+
+<<v6>>
+6 Die Strafe, die dem Schuldigen von der Mehrheit auferlegt wurde, soll
+genügen. ^{[[#fn6][6]]}
+
+<<v7>>
+7 Jetzt sollt ihr lieber verzeihen und trösten, damit der Mann nicht von
+allzu großer Traurigkeit überwältigt wird. ^{[[#fn7][7]]}
+
+<<v8>>
+8 Darum bitte ich euch, ihm gegenüber Liebe walten zu lassen.
+
+<<v9>>
+9 Gerade deswegen habe ich euch ja auch geschrieben, weil ich wissen
+wollte, ob ihr wirklich in allen Stücken gehorsam seid.
+
+<<v10>>
+10 Wem ihr aber verzeiht, dem verzeihe auch ich. Denn auch ich habe,
+wenn hier etwas zu verzeihen war, im Angesicht Christi um euretwillen
+verziehen,
+
+<<v11>>
+11 damit wir nicht vom Satan überlistet werden; wir kennen seine
+Absichten nur zu gut.\\
+\\
+
+<<v12>>
+** Herrlichkeit und Not des Aposteldienstes: 2,12 - 5,10
+   :PROPERTIES:
+   :CUSTOM_ID: herrlichkeit-und-not-des-aposteldienstes-212---510
+   :END:
+**** Das Wirken des Apostels als Siegeszug Christi: 2,12-17
+     :PROPERTIES:
+     :CUSTOM_ID: das-wirken-des-apostels-als-siegeszug-christi-212-17
+     :END:
+12 Als ich dann nach Troas kam, um das Evangelium Christi zu verkünden,
+und mir der Herr eine Tür öffnete, ^{[[#fn8][8]]}
+
+<<v13>>
+13 hatte mein Geist dennoch keine Ruhe, weil ich meinen Bruder Titus
+nicht fand. So nahm ich Abschied und reiste nach Mazedonien.
+^{[[#fn9][9]][[#fn10][10]]}
+
+<<v14>>
+14 Dank sei Gott, der uns stets im Siegeszug Christi mitführt und durch
+uns den Duft der Erkenntnis Christi an allen Orten verbreitet.
+
+<<v15>>
+15 Denn wir sind Christi Wohlgeruch für Gott unter denen, die gerettet
+werden, wie unter denen, die verloren gehen. ^{[[#fn11][11]]}
+
+<<v16>>
+16 Den einen sind wir Todesgeruch, der Tod bringt; den anderen
+Lebensduft, der Leben verheißt. Wer aber ist dazu fähig?
+^{[[#fn12][12]]}
+
+<<v17>>
+17 Wir sind jedenfalls nicht wie die vielen anderen, die mit dem Wort
+Gottes ein Geschäft machen. Wir verkünden es aufrichtig und in Christus,
+von Gott her und vor Gott. ^{[[#fn13][13]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 12,21; 1 Kor 4,21
+
+^{[[#fnm2][2]]} ℘ 13,10
+
+^{[[#fnm3][3]]} ℘ 7,8; Apg 20,31
+
+^{[[#fnm4][4]]} Zum sog. «Tränenbrief» vgl. die Einleitung zum 2.
+Korintherbrief.
+
+^{[[#fnm5][5]]} Paulus war offenbar von einem Gemeindemitglied
+gedemütigt worden.
+
+^{[[#fnm6][6]]} ℘ 7,11f
+
+^{[[#fnm7][7]]} ℘ Kol 3,13
+
+^{[[#fnm8][8]]} ℘ Apg 20,6; 1 Kor 16,9
+
+^{[[#fnm9][9]]} ℘ 7,5
+
+^{[[#fnm10][10]]} Der Gedankengang dieses Verses wird in 7,5
+fortgeführt.
+
+^{[[#fnm11][11]]} ℘ 1 Kor 1,18
+
+^{[[#fnm12][12]]} ℘ 3,5f
+
+^{[[#fnm13][13]]} ℘ 4,2; Phil 1,15-17

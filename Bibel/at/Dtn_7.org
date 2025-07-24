@@ -1,0 +1,199 @@
+#+TITLE: Dtn 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-28 Sa 18:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 7.html
+
+
+<<verses>>
+
+<<v1>>
+* Israel und die Völker des Landes: 7,1-26
+
+1 Wenn der Herr, dein Gott, dich in das Land geführt hat, in das du
+jetzt hineinziehst, um es in Besitz zu nehmen, wenn er dir viele Völker
+aus dem Weg räumt - Hetiter, Girgaschiter und Amoriter, Kanaaniter und
+Perisiter, Hiwiter und Jebusiter, sieben Völker, die zahlreicher und
+mächtiger sind als du -, [fn:1]
+
+<<v2>>
+2 wenn der Herr, dein Gott, sie dir ausliefert und du sie schlägst, dann
+sollst du sie der Vernichtung weihen. Du sollst keinen Vertrag mit ihnen
+schließen, sie nicht verschonen
+
+<<v3>>
+3 und dich nicht mit ihnen verschwägern. Deine Tochter gib nicht seinem
+Sohn und nimm seine Tochter nicht für deinen Sohn!
+
+<<v4>>
+4 Wenn er deinen Sohn verleitet, mir nicht mehr nachzufolgen, und sie
+dann anderen Göttern dienen, wird der Zorn des Herrn gegen euch
+entbrennen und wird dich unverzüglich vernichten. [fn:2] [fn:3]
+
+<<v5>>
+5 So sollt ihr gegen sie vorgehen: Ihr sollt ihre Altäre niederreißen,
+ihre Steinmale zerschlagen, ihre Kultpfähle umhauen und ihre
+Götterbilder im Feuer verbrennen. [fn:4]
+
+<<v6>>
+6 Denn du bist ein Volk, das dem Herrn, deinem Gott, heilig ist. Dich
+hat der Herr, dein Gott, ausgewählt, damit du unter allen Völkern, die
+auf der Erde leben, das Volk wirst, das ihm persönlich gehört. [fn:5] [fn:6]
+
+<<v7>>
+7 Nicht weil ihr zahlreicher als die anderen Völker wäret, hat euch der
+Herr ins Herz geschlossen und ausgewählt; ihr seid das kleinste unter
+allen Völkern.
+
+<<v8>>
+8 Weil der Herr euch liebt und weil er auf den Schwur achtet, den er
+euren Vätern geleistet hat, deshalb hat der Herr euch mit starker Hand
+herausgeführt und euch aus dem Sklavenhaus freigekauft, aus der Hand des
+Pharao, des Königs von Ägypten. [fn:7]
+
+<<v9>>
+9 Daran sollst du erkennen: Jahwe, dein Gott, ist der Gott; er ist der
+treue Gott; noch nach tausend Generationen achtet er auf den Bund und
+erweist denen seine Huld, die ihn lieben und auf seine Gebote achten. [fn:8]
+
+<<v10>>
+10 Denen aber, die ihm Feind sind, vergilt er sofort und tilgt einen
+jeden aus; er zögert nicht, wenn einer ihm Feind ist, sondern vergilt
+ihm sofort.
+
+<<v11>>
+11 Deshalb sollst du auf das Gebot achten, auf die Gesetze und
+Rechtsvorschriften, auf die ich dich heute verpflichte, und du sollst
+sie halten. [fn:9]
+
+<<v12>>
+12 Wenn ihr diese Rechtsvorschriften hört, auf sie achtet und sie
+haltet, wird der Herr, dein Gott, dafür auf den Bund achten und dir die
+Huld bewahren, die er deinen Vätern geschworen hat. [fn:10]
+
+<<v13>>
+13 Er wird dich lieben, dich segnen und dich zahlreich machen. Er wird
+die Frucht deines Leibes und die Frucht deines Ackers segnen, dein Korn,
+deinen Wein und dein Öl, die Kälber, Lämmer und Zicklein, in dem Land,
+von dem du weißt: Er hat deinen Vätern geschworen, es dir zu geben. [fn:11]
+
+<<v14>>
+14 Du wirst mehr als die anderen Völker gesegnet sein. Weder Mann noch
+Frau noch Vieh, nichts wird bei dir unfruchtbar sein.
+
+<<v15>>
+15 Alle Krankheiten wird der Herr von dir ablenken. Keine der schweren
+ägyptischen Seuchen, die du kennst, wird er dir auferlegen, sondern über
+alle deine Feinde wird er sie bringen. [fn:12]
+
+<<v16>>
+16 Du wirst alle Völker verzehren, die der Herr, dein Gott, für dich
+bestimmt. Du sollst in dir kein Mitleid mit ihnen aufsteigen lassen. Und
+du sollst ihren Göttern nicht dienen; denn dann liefest du in eine
+Falle. [fn:13]
+
+<<v17>>
+17 Wenn du überlegst: Diese Völker sind größer als ich - wie sollte ich
+sie vertreiben können?, [fn:14]
+
+<<v18>>
+18 dann sollst du vor ihnen keine Furcht haben. Du sollst an das denken,
+was der Herr, dein Gott, mit dem Pharao und mit ganz Ägypten gemacht
+hat: [fn:15]
+
+<<v19>>
+19 an die schweren Prüfungen, die du mit eigenen Augen gesehen hast, an
+die Zeichen und Wunder, an die starke Hand und den hoch erhobenen Arm,
+mit denen der Herr, dein Gott, dich herausgeführt hat. So wird es der
+Herr, dein Gott, mit allen Völkern machen, vor denen du Furcht hast.
+
+<<v20>>
+20 Außerdem wird der Herr, dein Gott, Panik unter ihnen ausbrechen
+lassen, so lange, bis auch die ausgetilgt sind, die überleben konnten
+und sich vor dir versteckt haben.
+
+<<v21>>
+21 Du sollst nicht erschreckt zurückweichen, wenn sie angreifen; denn
+der Herr, dein Gott, ist als großer und Furcht erregender Gott in deiner
+Mitte.
+
+<<v22>>
+22 Doch der Herr, dein Gott, wird diese Völker dir nur nach und nach aus
+dem Weg räumen. Du kannst sie nicht rasch ausmerzen, weil sonst die
+wilden Tiere überhand nehmen und dir schaden.
+
+<<v23>>
+23 Doch wird der Herr, dein Gott, dir diese Völker ausliefern. Er wird
+sie in ausweglose Verwirrung stürzen, bis sie vernichtet sind.
+
+<<v24>>
+24 Er wird ihre Könige in deine Gewalt geben. Du wirst ihren Namen unter
+dem Himmel austilgen. Keiner wird deinem Angriff standhalten können, bis
+du sie schließlich vernichtet hast.
+
+<<v25>>
+25 Ihre Götterbilder sollt ihr im Feuer verbrennen. Du sollst nicht das
+Silber oder Gold haben wollen, mit dem sie überzogen sind. Du sollst es
+nicht an dich nehmen, damit du dabei nicht in eine Falle läufst. Denn es
+ist dem Herrn, deinem Gott, ein Gräuel. [fn:16] [fn:17]
+
+<<v26>>
+26 Du sollst aber keinen Gräuel in dein Haus bringen, sonst bist du wie
+er der Vernichtung geweiht. Du sollst Grauen und Abscheu vor ihm haben,
+denn er ist der Vernichtung geweiht.\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v19][Apg 13,19]] (1-26) [[file:Ex_23.org::v20][Ex 23,20-33]]; [[file:Ex_34.org::v11][34,11-16]]; [[file:Ri_2.org::v1][Ri 2,1-5]];
+(1-2) [[file:Ri_20.org::v17][20,17f]]; [[file:Jos_10.org::v40][Jos 10,40]]
+
+[fn:2] [[file:Dtn_13.org::v3][13,3]]; [[file:Dtn_28.org::v14][28,14]]
+
+[fn:3] mir nicht mehr nachzufolgen: Mose wechselt für einen
+Augenblick in das Ich Gottes.
+
+[fn:4] [[file:Ex_23.org::v24][Ex 23,24]]; [[file:Ex_34.org::v13][34,13]]
+
+[fn:5] (6-8) [[file:Dtn_10.org::v15][10,15]]; [[file:Dtn_14.org::v2][14,2.21]]; [[file:Dtn_26.org::v18][26,18f]]; [[file:Dtn_28.org::v9][28,9]]; [[file:Ex_19.org::v3][Ex 19,3-6]]; [[file:Ex_22.org::v30][22,30]];
+[[file:~/RoamNotes/notes/Bibel/nt/Röm_9.org::v4][Röm 9,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Tit_2.org::v14][Tit 2,14]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v9][1 Petr 2,9]]
+
+[fn:6] das ihm persönlich gehört: Hier wird in H ein Begriff
+für Eigentum gebraucht, der schwer zu übersetzen ist. Der Familienvater
+konnte neben dem Familienbesitz und der König neben dem Krongut noch
+ganz besonderen, persönlichen Besitz haben. Der betreffende Ausdruck
+konnte im Alten Orient auch auf die Vasallen eines Großkönigs angewandt
+werden. Das klingt hier an.
+
+[fn:7] (8-11) [[file:Dtn_8.org::v2][8,2-6]]; (8-10) [[file:Dtn_5.org::v6][5,6-10]]; [[file:Hos_11.org::v1][Hos 11,1]]; [[file:Gen_15.org::v18][Gen 15,18]]
+
+[fn:8] [[file:Dtn_11.org::v1][11,1]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_1.org::v9][1 Kor 1,9]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_10.org::v13][10,13]]
+
+[fn:9] Andere Lesart: Deshalb sollst du auf das Gebot, die
+Gesetze und die Rechtsvorschriften achten, auf die ich dich heute
+verpflichte.
+
+[fn:10] (12-16) [[file:Dtn_28.org::v1][28,1-14]]
+
+[fn:11] [[file:Dtn_28.org::v4][28,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v42][Lk 1,42]]
+
+[fn:12] [[file:Dtn_28.org::v27][28,27]]; [[file:Ex_15.org::v26][Ex 15,26]]
+
+[fn:13] [[file:Dtn_19.org::v13][19,13]]
+
+[fn:14] (17-18) [[file:Dtn_1.org::v28][1,28-31]]; [[file:Dtn_20.org::v2][20,2-4]]; [[file:Dtn_18.org::v12][18,12]]
+
+[fn:15] [[file:Dtn_29.org::v1][29,1]]
+
+[fn:16] [[v5][7,5]]; [[file:Dtn_27.org::v15][27,15]] (25-26) [[file:Jos_7.org::v1][Jos 7]]
+
+[fn:17] 25f: Das mit «Gräuel» übersetzte Wort, das noch öfter
+als Begründung von Gesetzen vorkommt, meint etwas Ekelhaftes, dessen man
+sich schämt.

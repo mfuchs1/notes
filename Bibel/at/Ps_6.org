@@ -1,0 +1,91 @@
+#+TITLE: Ps 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-03 So 14:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 6.html
+
+* Ps 6
+
+<<verses>>
+
+<<v1>>
+* Ein Bußgebet in Todesnot
+
+1 [Für den Chormeister. Mit Saitenspiel nach der Achten. Ein Psalm
+Davids.]\\
+\\
+
+<<v2>>
+2 Herr, strafe mich nicht in deinem Zorn /\\
+ und züchtige mich nicht in deinem Grimm! [fn:1]\\
+\\
+
+<<v3>>
+3 Sei mir gnädig, Herr, ich sieche dahin; /\\
+ heile mich, Herr, denn meine Glieder zerfallen! [fn:2] [fn:3]\\
+\\
+
+<<v4>>
+4 Meine Seele ist tief verstört. /\\
+ Du aber, Herr, wie lange säumst du noch? [fn:4]\\
+\\
+
+<<v5>>
+5 Herr, wende dich mir zu und errette mich, /\\
+ in deiner Huld bring mir Hilfe!\\
+\\
+
+<<v6>>
+6 Denn bei den Toten denkt niemand mehr an dich. /\\
+ Wer wird dich in der Unterwelt noch preisen? [fn:5]\\
+\\
+
+<<v7>>
+7 Ich bin erschöpft vom Seufzen, /\\
+ jede Nacht benetzen Ströme von Tränen mein Bett, /\\
+ ich überschwemme mein Lager mit Tränen.\\
+\\
+
+<<v8>>
+8 Mein Auge ist getrübt vor Kummer, /\\
+ ich bin gealtert wegen all meiner Gegner. [fn:6]\\
+\\
+
+<<v9>>
+9 Weicht zurück von mir, all ihr Frevler; /\\
+ denn der Herr hat mein lautes Weinen gehört. [fn:7]\\
+\\
+
+<<v10>>
+10 Gehört hat der Herr mein Flehen, /\\
+ der Herr nimmt mein Beten an.\\
+\\
+
+<<v11>>
+11 In Schmach und Verstörung geraten all meine Feinde, /\\
+ sie müssen weichen und gehen plötzlich zugrunde. [fn:8]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_38.org::v2][38,2]]; [[file:Jer_10.org::v24][Jer 10,24]]
+
+[fn:2] [[file:Jer_17.org::v14][Jer 17,14]]
+
+[fn:3] Text korr.; H: denn meine Glieder sind erschrocken.
+
+[fn:4] [[file:Ps_13.org::v2][13,2f]]; [[file:Ps_42.org::v6][42,6]]
+
+[fn:5] [[file:Ps_30.org::v10][30,10]]; [[file:Ps_88.org::v11][88,11-13]]; [[file:Ps_115.org::v17][115,17]]; [[file:Sir_17.org::v27][Sir 17,27]]; [[file:Jes_38.org::v18][Jes 38,18]]; [[file:Bar_2.org::v17][Bar 2,17]]
+
+[fn:6] Wörtlich: und es (das Auge) ist matt (alt) geworden.
+
+[fn:7] [[file:Ps_119.org::v115][119,115]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_7.org::v23][Mt 7,23]]
+
+[fn:8] [[file:Ps_35.org::v4][35,4]]; [[file:Ps_40.org::v15][40,15]]

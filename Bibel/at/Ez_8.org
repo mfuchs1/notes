@@ -1,0 +1,149 @@
+:PROPERTIES:
+:ID:       bea7e1db-b51f-4be0-96c9-52aa3492329a
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Ezechiel* -- [[file:Ez_1.html][1]] ...
+[[file:Ez_6.html][6]] [[file:Ez_7.html][7]] *8* [[file:Ez_9.html][9]]
+[[file:Ez_10.html][10]] ... [[file:Ez_48.html][48]]
+
+--------------
+
+* Ez 8
+  :PROPERTIES:
+  :CUSTOM_ID: ez-8
+  :END:
+
+<<verses>>
+
+<<v1>>
+*** Visionen: 8,1 - 11,25
+    :PROPERTIES:
+    :CUSTOM_ID: visionen-81---1125
+    :END:
+**** Die Entrückung des Propheten nach Jerusalem: 8,1-4
+     :PROPERTIES:
+     :CUSTOM_ID: die-entrückung-des-propheten-nach-jerusalem-81-4
+     :END:
+1 Am fünften Tag des sechsten Monats im sechsten Jahr saß ich in meinem
+Haus und die Ältesten von Juda saßen vor mir. Da legte sich die Hand
+Gottes, des Herrn, auf mich. ^{[[#fn1][1]]}
+
+<<v2>>
+2 Und ich sah eine Gestalt, die wie ein Mann aussah. Unterhalb von dem,
+was wie seine Hüften aussah, war Feuer und oberhalb von seinen Hüften
+schien etwas zu leuchten, wie glänzendes Gold. ^{[[#fn2][2]][[#fn3][3]]}
+
+<<v3>>
+3 Er streckte etwas aus, das wie eine Hand aussah, und packte mich an
+meinen Haaren. Und der Geist hob mich empor zwischen Erde und Himmel und
+brachte mich in einer göttlichen Vision nach Jerusalem, an den Eingang
+des inneren Nordtors, dorthin, wo das Bild steht, das die Eifersucht
+(des Herrn) erregt. ^{[[#fn4][4]][[#fn5][5]]}
+
+<<v4>>
+4 Dort sah ich die Herrlichkeit des Gottes Israels, wie in der Vision,
+die ich in der Ebene gesehen hatte. ^{[[#fn6][6]]}\\
+\\
+
+<<v5>>
+**** Die Entweihung des Tempels: 8,5-18
+     :PROPERTIES:
+     :CUSTOM_ID: die-entweihung-des-tempels-85-18
+     :END:
+5 Er sagte zu mir: Menschensohn, richte deinen Blick nach Norden! Ich
+blickte nach Norden; da sah ich nördlich des Tores, beim Eingang, den
+Altar mit jenem Bild, das die Eifersucht (des Herrn) erregt.
+
+<<v6>>
+6 Er sagte zu mir: Menschensohn, siehst du, was man hier treibt? Es sind
+große Gräueltaten, die das Haus Israel hier begeht; sie bleiben meinem
+Heiligtum fern. Aber du wirst noch größere Gräueltaten sehen.
+
+<<v7>>
+7 Dann brachte er mich zum Eingang des Vorhofs. Ich sah: Ein Loch war in
+der Wand.
+
+<<v8>>
+8 Er sagte zu mir: Menschensohn, durchbrich die Wand! Ich durchbrach die
+Wand - da war ein Eingang.
+
+<<v9>>
+9 Er sagte zu mir: Geh hinein, sieh dir die schlimmen Gräueltaten an,
+die man dort begeht.
+
+<<v10>>
+10 Ich ging hinein und sah: viele Bilder von abscheulichen kleinen und
+großen Tieren und allen Götzen des Hauses Israel; sie waren ringsum in
+die Wand eingeritzt.
+
+<<v11>>
+11 Siebzig Männer von den Ältesten des Hauses Israel, darunter auch
+Jaasanja, der Sohn Schafans, standen davor. Jeder hatte seine
+Räucherpfanne in der Hand und der Duft der Weihrauchwolken stieg empor.
+^{[[#fn7][7]]}
+
+<<v12>>
+12 Er sagte zu mir: Hast du gesehen, Menschensohn, was die Ältesten des
+Hauses Israel im Finstern treiben, jeder in der Kammer seines
+Götterbildes? Sie denken: Der Herr sieht uns nicht; der Herr hat das
+Land verlassen. ^{[[#fn8][8]]}
+
+<<v13>>
+13 Er sagte zu mir: Du wirst sehen, dass sie noch größere Gräueltaten
+begehen.
+
+<<v14>>
+14 Dann brachte er mich zum Nordtor am Haus des Herrn. Dort saßen
+Frauen, die Tammus beweinten. ^{[[#fn9][9]]}
+
+<<v15>>
+15 Er sagte zu mir: Hast du es gesehen, Menschensohn? Aber du wirst noch
+größere Gräueltaten sehen.
+
+<<v16>>
+16 Dann brachte er mich zum Innenhof des Hauses des Herrn. Am Eingang
+zum Tempel des Herrn, zwischen Vorhalle und Altar, standen etwa
+fünfundzwanzig Männer, mit dem Rücken zum Tempel des Herrn, mit dem
+Gesicht nach Osten. Sie beteten, nach Osten gewandt, die Sonne an.
+^{[[#fn10][10]]}
+
+<<v17>>
+17 Er sagte zu mir: Hast du es gesehen, Menschensohn? Waren dem Haus
+Juda die Gräueltaten, die es hier beging, immer noch nicht genug?
+Mussten sie auch noch das Land mit ihrer Gewalttätigkeit anfüllen,
+mussten sie mich immer wieder beleidigen und sich den Zweig an die Nase
+halten? ^{[[#fn11][11]]}
+
+<<v18>>
+18 Darum werde auch ich voll Zorn handeln. Mein Auge wird kein Mitleid
+zeigen und ich werde keine Schonung üben. Auch wenn sie mir laut in die
+Ohren schreien, werde ich sie nicht hören. ^{[[#fn12][12]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 14,1; 20,1
+
+^{[[#fnm2][2]]} ℘ 1,26-28
+
+^{[[#fnm3][3]]} ein Mann: Text korr. nach G.
+
+^{[[#fnm4][4]]} ℘ 3,12; Dan 14,36
+
+^{[[#fnm5][5]]} Das «Bild» ist wohl ein Götterbild, möglicherweise das
+einer Wächtergottheit am Toreingang.
+
+^{[[#fnm6][6]]} ℘ 1,28; 3,22f; 37,1f
+
+^{[[#fnm7][7]]} ℘ Ex 24,1; Num 11,16
+
+^{[[#fnm8][8]]} ℘ 9,9
+
+^{[[#fnm9][9]]} Tammus ist ein mesopotamischer Fruchtbarkeitsgott,
+dessen Abstieg zur Unterwelt in der Zeit der Sommerdürre als ein
+beklagenswertes Ereignis galt.
+
+^{[[#fnm10][10]]} ℘ 2 Kön 23,5.11; Jer 8,2; Dtn 4,19
+
+^{[[#fnm11][11]]} Bedeutung des zuletzt genannten Kultbrauchs unklar.
+
+^{[[#fnm12][12]]} ℘ 5,11; Jes 1,15

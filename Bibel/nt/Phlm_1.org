@@ -1,0 +1,162 @@
+:PROPERTIES:
+:ID:       74a30515-fbd4-48d0-a166-f6b0c369ad64
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an Philemon*
+
+--------------
+
+* Phlm
+  :PROPERTIES:
+  :CUSTOM_ID: phlm
+  :END:
+
+Der kleine Brief hat einen ganz persönlichen Anlass. Der Sklave Onesimus
+war seinem Herrn Philemon entlaufen, der in Kolossä wohnte. Er kam auf
+seiner Flucht zu Paulus, der im Gefängnis saß, vermutlich in Ephesus.
+Paulus gewann Onesimus für den christlichen Glauben und Onesimus war ihm
+in mancherlei Hinsicht nützlich (vgl. VV. 11 und 20). Der Apostel
+schickte den Sklaven zu Philemon zurück, dessen Haus einer christlichen
+Gemeinde als Versammlungsort diente. Der Brief, geschrieben um 55 n.
+Chr., sollte Philemon bewegen, dem Sklaven Onesimus zu verzeihen und ihn
+als christlichen Bruder aufzunehmen. Die Bedeutung des Briefs liegt
+darin, dass er einen Beitrag zur Lösung des bedrückenden Sklavenproblems
+in der christlichen Gemeinde darstellt. Gleichzeitig ist er als
+persönliches Dokument des Menschen Paulus von hohem Wert.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Anschrift und Gruß: 1-3
+   :PROPERTIES:
+   :CUSTOM_ID: anschrift-und-gruß-1-3
+   :END:
+1 Paulus, Gefangener Christi Jesu, und der Bruder Timotheus an unseren
+geliebten Mitarbeiter Philemon,
+
+<<v2>>
+2 an die Schwester Aphia, an Archippus, unseren Mitstreiter, und an die
+Gemeinde in deinem Haus: ^{[[#fn1][1]]}
+
+<<v3>>
+3 Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn
+Jesus Christus. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+** Dankgebet des Apostels: 4-7
+   :PROPERTIES:
+   :CUSTOM_ID: dankgebet-des-apostels-4-7
+   :END:
+4 Ich danke meinem Gott jedes Mal, wenn ich in meinen Gebeten an dich
+denke.
+
+<<v5>>
+5 Denn ich höre von deinem Glauben an Jesus, den Herrn, und von deiner
+Liebe zu allen Heiligen.
+
+<<v6>>
+6 Ich wünsche, dass unser gemeinsamer Glaube in dir wirkt und du all das
+Gute in uns erkennst, das auf Christus gerichtet ist.
+
+<<v7>>
+7 Es hat mir viel Freude und Trost bereitet, dass durch dich, Bruder,
+und durch deine Liebe die Heiligen ermutigt worden sind.\\
+\\
+
+<<v8>>
+** Fürsprache für Onesimus: 8-20
+   :PROPERTIES:
+   :CUSTOM_ID: fürsprache-für-onesimus-8-20
+   :END:
+8 Obwohl ich durch Christus volle Freiheit habe, dir zu befehlen, was du
+tun sollst,
+
+<<v9>>
+9 ziehe ich es um der Liebe willen vor, dich zu bitten. Ich, Paulus, ein
+alter Mann, der jetzt für Christus Jesus im Kerker liegt,
+
+<<v10>>
+10 ich bitte dich für mein Kind Onesimus, dem ich im Gefängnis zum Vater
+geworden bin. ^{[[#fn3][3]]}
+
+<<v11>>
+11 Früher konntest du ihn zu nichts gebrauchen, doch jetzt ist er dir
+und mir recht nützlich.
+
+<<v12>>
+12 Ich schicke ihn zu dir zurück, ihn, das bedeutet mein eigenes Herz.
+
+<<v13>>
+13 Ich würde ihn gern bei mir behalten, damit er mir an deiner Stelle
+dient, solange ich um des Evangeliums willen im Gefängnis bin.
+
+<<v14>>
+14 Aber ohne deine Zustimmung wollte ich nichts tun. Deine gute Tat soll
+nicht erzwungen, sondern freiwillig sein.
+
+<<v15>>
+15 Denn vielleicht wurde er nur deshalb eine Weile von dir getrennt,
+damit du ihn für ewig zurückerhältst,
+
+<<v16>>
+16 nicht mehr als Sklaven, sondern als weit mehr: als geliebten Bruder.
+Das ist er jedenfalls für mich, um wie viel mehr dann für dich, als
+Mensch und auch vor dem Herrn. ^{[[#fn4][4]]}
+
+<<v17>>
+17 Wenn du dich mir verbunden fühlst, dann nimm ihn also auf wie mich
+selbst!
+
+<<v18>>
+18 Wenn er dich aber geschädigt hat oder dir etwas schuldet, setz das
+auf meine Rechnung!
+
+<<v19>>
+19 Ich, Paulus, schreibe mit eigener Hand: Ich werde es bezahlen - um
+nicht davon zu reden, dass du dich selbst mir schuldest. ^{[[#fn5][5]]}
+
+<<v20>>
+20 Ja, Bruder, um des Herrn willen möchte ich von dir einen Nutzen
+haben. Erfreue mein Herz; wir gehören beide zu Christus.\\
+\\
+
+<<v21>>
+** Grüße und Segen: 21-25
+   :PROPERTIES:
+   :CUSTOM_ID: grüße-und-segen-21-25
+   :END:
+21 Ich schreibe dir im Vertrauen auf deinen Gehorsam und weiß, dass du
+noch mehr tun wirst, als ich gesagt habe.
+
+<<v22>>
+22 Bereite zugleich eine Unterkunft für mich vor! Denn ich hoffe, dass
+ich euch durch eure Gebete wiedergeschenkt werde.
+
+<<v23>>
+23 Es grüßen dich Epaphras, der mit mir um Christi Jesu willen im
+Gefängnis ist, ^{[[#fn6][6]]}
+
+<<v24>>
+24 sowie Markus, Aristarch, Demas und Lukas, meine Mitarbeiter.
+
+<<v25>>
+25 Die Gnade Jesu Christi, des Herrn, sei mit eurem Geist!
+^{[[#fn7][7]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Kol 4,17
+
+^{[[#fnm2][2]]} ℘ Röm 1,7
+
+^{[[#fnm3][3]]} ℘ 1 Kor 4,15; Kol 4,9
+
+^{[[#fnm4][4]]} ℘ 1 Kor 7,22
+
+^{[[#fnm5][5]]} ℘ 1 Kor 16,21
+
+^{[[#fnm6][6]]} ℘ Kol 4,7-14
+
+^{[[#fnm7][7]]} ℘ Gal 6,18

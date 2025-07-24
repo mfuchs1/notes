@@ -1,0 +1,134 @@
+#+TITLE: 2 Sam 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 16:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 8.html
+
+<<verses>>
+
+<<v1>>
+* Die Siege Davids: 8,1-14
+
+1 Hernach schlug David die Philister. Er unterwarf sie und nahm ihnen
+die Zügel der Herrschaft aus der Hand. [fn:1] [fn:2]
+
+<<v2>>
+2 Auch die Moabiter schlug er. Sie mussten sich nebeneinander auf die
+Erde legen und er maß die Reihe mit einer Messschnur ab: jeweils zwei
+Schnurlängen wurden getötet und jeweils eine volle Schnurlänge ließ er
+am Leben. So wurden die Moabiter David untertan und tributpflichtig. [fn:3]
+
+<<v3>>
+3 David schlug auch Hadad-Eser, den Sohn Rehobs, den König von Zoba, als
+dieser ausgezogen war, um seine Macht am Eufrat wiederzugewinnen. [fn:4]
+
+<<v4>>
+4 David nahm von ihm siebzehnhundert Wagenkämpfer und zwanzigtausend
+Fußsoldaten gefangen; er ließ alle Wagenpferde lähmen und behielt nur
+hundert (für sich) zurück.
+
+<<v5>>
+5 Als die Aramäer von Damaskus Hadad-Eser, dem König von Zoba, zu Hilfe
+kamen, erschlug David 22000 von den Aramäern
+
+<<v6>>
+6 und besetzte das Aramäerreich von Damaskus. So wurden die Aramäer
+David untertan und tributpflichtig. Der Herr half David bei allem, was
+er unternahm.
+
+<<v7>>
+7 David erbeutete die goldenen Schilde, die die Krieger Hadad-Esers
+trugen, und brachte sie nach Jerusalem.
+
+<<v8>>
+8 In Tebach und Berotai, den Städten Hadad-Esers, erbeutete der König
+David eine große Menge Bronze.
+
+<<v9>>
+9 Als Toï, der König von Hamat, hörte, dass David das ganze Heer
+Hadad-Esers geschlagen hatte, [fn:5]
+
+<<v10>>
+10 schickte er seinen Sohn Hadoram mit Gefäßen aus Gold, Silber und
+Bronze zu König David. Er ließ ihm den Friedensgruß entbieten und ihn
+dazu beglückwünschen, dass er Hadad-Eser im Krieg geschlagen hatte; Toï
+lebte nämlich im Krieg mit Hadad-Eser.
+
+<<v11>>
+11 König David weihte auch diese Gefäße dem Herrn, zusammen mit dem Gold
+und Silber, das er von all den Völkern, die er unterwarf, erbeutet
+hatte: [fn:6]
+
+<<v12>>
+12 von Aram und Moab, von den Ammonitern, den Philistern, von Amalek,
+sowie die Beute von Hadad-Eser, dem Sohn Rehobs, dem König von Zoba.
+
+<<v13>>
+13 So machte sich David einen Namen. Als er nach dem Sieg über Aram
+zurückkehrte, schlug er Edom im Salztal, achtzehntausend Mann, [fn:7] [fn:8]
+
+<<v14>>
+14 und setzte in Edom Vögte ein. [In ganz Edom setzte er Vögte ein.] So
+wurde ganz Edom von David unterworfen. Der Herr half David bei allem,
+was er unternahm. [fn:9]\\
+\\
+
+<<v15>>
+* Die Beamten Davids: 8,15-18
+
+15 David war König von ganz Israel und sorgte für Recht und
+Gerechtigkeit in seinem ganzen Volk. [fn:10]
+
+<<v16>>
+16 Joab, der Sohn der Zeruja, war Heerführer und Joschafat, der Sohn
+Ahiluds, war Sprecher des Königs.
+
+<<v17>>
+17 Zadok, der Sohn Ahitubs, und Abjatar, der Sohn Ahimelechs, waren
+Priester, Seraja war Staatsschreiber. [fn:11] [fn:12]
+
+<<v18>>
+18 Benaja, der Sohn Jojadas, war der Befehlshaber der Kereter und
+Peleter. Auch die Söhne Davids waren Priester. [fn:13]\\
+\\
+
+* Footnotes
+
+[fn:1] (1-14) [[file:1.Chr_18.org::v1][1 Chr 18,1-13]]
+
+[fn:2] die Zügel der Herrschaft, wörtlich: den Zaum des
+Unterarms.
+
+[fn:3] Nach [[file:1.Sam_22.org::v3][1 Sam 22,3]] hatte David gute Beziehungen zu den
+Moabitern. Warum diese Bluttat geschah, ist unbekannt.
+
+[fn:4] Zoba: ein aramäisches Stadtkönigtum nördlich von
+Damaskus.
+
+[fn:5] Hamat: eine Stadt am Orontes.
+
+[fn:6] erbeutet hatte: Text korr. nach [[file:1.Chr_18.org::v11][1 Chr 18,11]]; H:
+geheiligt hatte.
+
+[fn:7] [[file:Ps_60.org::v2][Ps 60,2]]
+
+[fn:8] schlug er Edom: Text korr., vgl. G und [[file:1.Chr_18.org::v12][1 Chr 18,12]].
+
+[fn:9] [[file:Num_24.org::v18][Num 24,18]]
+
+[fn:10] (15-18) [[file:2.Sam_20.org::v23][20,23-26]]; [[file:1.Chr_18.org::v14][1 Chr 18,14-17]]
+
+[fn:11] [[file:1.Sam_22.org::v20][1 Sam 22,20]]; [[file:1.Kön_2.org::v27][1 Kön 2,27]]
+
+[fn:12] Abjatar, der Sohn Ahimelechs: Text korr. nach S und [[file:1.Sam_22.org::v20][1 Sam 22,20]];
+[[file:1.Sam_23.org::v6][23,6]]; [[file:1.Sam_30.org::v7][30,7]]; H: Ahimelech, der Sohn Abjatars.
+
+[fn:13] der Befehlshaber: Text korr. nach 20,23. - Die Kereter
+und Peleter sind ausländische Söldner im Dienst Davids (vgl. [[file:2.Sam_15.org::v18][15,18]];
+[[file:2.Sam_20.org::v7][20,7]].[[file:2.Sam_20.org::v23][23]]; [[file:1.Kön_1.org::v38][1 Kön 1,38]].[[file:1.Kön_1.org::v44][44]]).

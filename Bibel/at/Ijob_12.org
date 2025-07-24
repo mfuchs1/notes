@@ -1,0 +1,168 @@
+#+TITLE: Ijob 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 22:02]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 12.html
+
+<<verses>>
+
+<<v1>>
+* Ijobs Gegenrede: 12,1 - 14,22
+
+* Das Schweigen Gottes: 12,1-6
+
+1 Da antwortete Ijob und sprach:\\
+\\
+
+<<v2>>
+2 Wahrhaftig, ihr seid besondere Leute /\\
+ und mit euch stirbt die Weisheit aus.\\
+\\
+
+<<v3>>
+3 Ich habe auch Verstand wie ihr, /\\
+ ich falle nicht ab im Vergleich mit euch. /\\
+ Wer wüsste wohl dergleichen nicht? [fn:1]\\
+\\
+
+<<v4>>
+4 Zum Spott für die eigenen Freunde soll ich sein, /\\
+ ich, der Gott anruft, dass er mich hört, /\\
+ ein Spott der Fromme, der Gerechte.\\
+\\
+
+<<v5>>
+5 Dem Unglück Hohn! So denkt, wer ohne Sorge ist, /\\
+ wer fest sich weiß, wenn Füße wanken. [fn:2]\\
+\\
+
+<<v6>>
+6 In Ruhe sind der Gewaltmenschen Zelte, /\\
+ voll Sicherheit sind sie, die Gott erzürnen, /\\
+ die wähnen, Gott mit ihrer Hand zu greifen.\\
+\\
+
+<<v7>>
+* Das unbegreifliche Walten Gottes: 12,7-25
+
+7 Doch frag nur die Tiere, sie lehren es dich, /\\
+ die Vögel des Himmels, sie künden es dir.\\
+\\
+
+<<v8>>
+8 Rede zur Erde, sie wird dich lehren, /\\
+ die Fische des Meeres erzählen es dir.\\
+\\
+
+<<v9>>
+9 Wer wüsste nicht bei alledem, /\\
+ dass die Hand des Herrn dies gemacht hat?\\
+\\
+
+<<v10>>
+10 In seiner Hand ruht die Seele allen Lebens /\\
+ und jeden Menschenleibes Geist. [fn:3]\\
+\\
+
+<<v11>>
+11 Darf nicht das Ohr die Worte prüfen, /\\
+ wie mit dem Gaumen man die Speisen schmeckt? [fn:4]\\
+\\
+
+<<v12>>
+12 Findet sich bei Greisen wirklich Weisheit /\\
+ und ist langes Leben schon Einsicht?\\
+\\
+
+<<v13>>
+13 Bei ihm allein ist Weisheit und Heldenkraft, /\\
+ bei ihm sind Rat und Einsicht. [fn:5]\\
+\\
+
+<<v14>>
+14 Wenn er einreißt, baut keiner wieder auf; /\\
+ wen er einschließt, dem wird nicht mehr geöffnet. [fn:6]\\
+\\
+
+<<v15>>
+15 Wenn er die Wasser dämmt, versiegen sie, /\\
+ lässt er sie frei, zerwühlen sie das Land.\\
+\\
+
+<<v16>>
+16 Bei ihm ist Macht und Klugheit, /\\
+ sein ist, wer irrt und wer irreführt.\\
+\\
+
+<<v17>>
+17 Er lässt Ratsherren barfuß gehen, /\\
+ Richter macht er zu Toren.\\
+\\
+
+<<v18>>
+18 Fesseln von Königen löst er auf /\\
+ und bindet einen Gurt um ihre Hüften. [fn:7]\\
+\\
+
+<<v19>>
+19 Er lässt Priester barfuß gehen, /\\
+ alte Geschlechter bringt er zu Fall. [fn:8]\\
+\\
+
+<<v20>>
+20 Das Wort entzieht er den Bewährten, /\\
+ den Ältesten nimmt er die Urteilskraft.\\
+\\
+
+<<v21>>
+21 Verachtung gießt er auf die Edlen, /\\
+ den Starken lockert er den Gurt. [fn:9]\\
+\\
+
+<<v22>>
+22 Verborgenes enthüllt er aus dem Dunkel, /\\
+ Finsternis führt er ans Licht.\\
+\\
+
+<<v23>>
+23 Völker lässt er wachsen und tilgt sie aus; /\\
+ er breitet Völker aus und rafft sie dann hinweg. [fn:10]\\
+\\
+
+<<v24>>
+24 Den Häuptern des Landes nimmt er den Verstand, /\\
+ lässt sie irren in wegloser Wüste.\\
+\\
+
+<<v25>>
+25 Sie tappen umher im Dunkel ohne Licht, /\\
+ er lässt sie irren wie Trunkene.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ijob_13.org::v2][13,2]]
+
+[fn:2] [[file:Ps_123.org::v4][Ps 123,4]]
+
+[fn:3] [[file:Weish_7.org::v16][Weish 7,16]]
+
+[fn:4] [[file:Ijob_34.org::v3][34,3]]
+
+[fn:5] [[file:Spr_8.org::v14][Spr 8,14]]; [[file:Dan_2.org::v20][Dan 2,20]]
+
+[fn:6] [[file:Ps_127.org::v1][Ps 127,1]]; [[file:Jes_22.org::v22][Jes 22,22]]
+
+[fn:7] Fesseln: H (mit anderer Vokalisierung): Zucht.
+
+[fn:8] [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v52][Lk 1,52]]
+
+[fn:9] [[file:Ps_107.org::v40][Ps 107,40]]
+
+[fn:10] rafft sie dann hinweg: Text korr.

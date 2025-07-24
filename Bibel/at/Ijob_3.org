@@ -1,0 +1,173 @@
+#+TITLE: Ijob 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 22:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 3.html
+
+<<verses>>
+
+<<v1>>
+* Ijobs Klage 3,1-26
+
+* Die Last des Lebens: 3,1-26
+
+1 Danach tat Ijob seinen Mund auf und verfluchte seinen Tag. [fn:1]
+
+<<v2>>
+2 Ijob ergriff das Wort und sprach:\\
+\\
+
+<<v3>>
+3 Ausgelöscht sei der Tag, an dem ich geboren bin, /\\
+ die Nacht, die sprach: Ein Mann ist empfangen.\\
+\\
+
+<<v4>>
+4 Jener Tag werde Finsternis, /\\
+ nie frage Gott von oben nach ihm, /\\
+ nicht leuchte über ihm des Tages Licht.\\
+\\
+
+<<v5>>
+5 Einfordern sollen ihn Dunkel und Finsternis, /\\
+ Gewölk über ihn sich lagern, /\\
+ Verfinsterung am Tag mache ihn schrecklich. [fn:2]\\
+\\
+
+<<v6>>
+6 Jene Nacht, das Dunkel raffe sie hinweg, /\\
+ sie reihe sich nicht in die Tage des Jahres, /\\
+ sie füge sich nicht zur Zahl der Monde. [fn:3]\\
+\\
+
+<<v7>>
+7 Ja, diese Nacht sei unfruchtbar, /\\
+ kein Jubel komme auf in ihr.\\
+\\
+
+<<v8>>
+8 Verwünschen sollen sie die Verflucher der Tage, /\\
+ die es verstehen, den Leviatan zu wecken. [fn:4]\\
+\\
+
+<<v9>>
+9 Verfinstert seien ihrer Dämmerung Sterne; /\\
+ sie harre auf das Licht, jedoch umsonst; /\\
+ die Wimpern der Morgenröte schaue sie nicht.\\
+\\
+
+<<v10>>
+10 Denn sie hat die Pforten /\\
+ an meiner Mutter Leib nicht verschlossen, /\\
+ nicht das Leid verborgen vor meinen Augen.\\
+\\
+
+<<v11>>
+11 Warum starb ich nicht vom Mutterschoß weg, /\\
+ kam ich aus dem Mutterleib und verschied nicht gleich? [fn:5]\\
+\\
+
+<<v12>>
+12 Weshalb nur kamen Knie mir entgegen, /\\
+ wozu Brüste, dass ich daran trank?\\
+\\
+
+<<v13>>
+13 Still läge ich jetzt und könnte rasten, /\\
+ entschlafen wäre ich und hätte Ruhe\\
+\\
+
+<<v14>>
+14 bei Königen, bei Ratsherren im Land, /\\
+ die Grabkammern für sich erbauten, [fn:6]\\
+\\
+
+<<v15>>
+15 oder bei Fürsten, reich an Gold, /\\
+ die ihre Häuser mit Silber gefüllt.\\
+\\
+
+<<v16>>
+16 Wie die verscharrte Fehlgeburt wäre ich nicht mehr, /\\
+ Kindern gleich, die das Licht nie geschaut. [fn:7]\\
+\\
+
+<<v17>>
+17 Dort hören Frevler auf zu toben, /\\
+ dort ruhen aus, deren Kraft erschöpft ist.\\
+\\
+
+<<v18>>
+18 Auch Gefangene sind frei von Sorgen, /\\
+ hören nicht mehr die Stimme des Treibers.\\
+\\
+
+<<v19>>
+19 Klein und Groß ist dort beisammen, /\\
+ der Sklave ist frei von seinem Herrn.\\
+\\
+
+<<v20>>
+20 Warum schenkt er dem Elenden Licht /\\
+ und Leben denen, die verbittert sind?\\
+\\
+
+<<v21>>
+21 Sie warten auf den Tod, der nicht kommt, /\\
+ sie suchen ihn mehr als verborgene Schätze.\\
+\\
+
+<<v22>>
+22 Sie würden sich freuen über einen Hügel; /\\
+ fänden sie ein Grab, sie würden frohlocken. [fn:8]\\
+\\
+
+<<v23>>
+23 Wozu Licht für den Mann auf verborgenem Weg, /\\
+ den Gott von allen Seiten einschließt? [fn:9]\\
+\\
+
+<<v24>>
+24 Bevor ich noch esse, kommt mir das Seufzen, /\\
+ wie Wasser strömen meine Klagen hin. [fn:10]\\
+\\
+
+<<v25>>
+25 Was mich erschreckte, das kam über mich, /\\
+ wovor mir bangte, das traf mich auch. [fn:11]\\
+\\
+
+<<v26>>
+26 Noch hatte ich nicht Frieden, nicht Rast, nicht Ruhe, /\\
+ fiel neues Ungemach mich an.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-12) [[file:Jer_20.org::v14][Jer 20,14]]-[[file:Jer_20.org::v18][18]]
+
+[fn:2] Verfinsterung am Tag: Text korr.; H: Bitternisse des Tags.
+
+[fn:3] sie reihe sich: Text korr. nach S und Vg; H: sie freue sich.
+
+[fn:4] Anklang an einen alten Mythos (vgl. [[file:Ps_74.org::v14][Ps 74,14]]).
+
+[fn:5] [[file:Ijob_10.org::v18][10,18f]]; [[file:Koh_4.org::v2][Koh 4,2]]; [[file:Koh_6.org::v3][6,3]]
+
+[fn:6] [[file:Jes_14.org::v9][Jes 14,9]]-[[file:Jes_14.org::v11][11]]; [[file:Ez_32.org::v18][Ez 32,18]]-[[file:Ez_32.org::v32][32]]
+
+[fn:7] [[file:Ps_58.org::v9][Ps 58,9]]
+
+[fn:8] einen Hügel: Text korr.; H: ein Jauchzen.
+
+[fn:9] [[file:Klgl_3.org::v2][Klgl 3,2]]
+
+[fn:10] [[file:Ps_42.org::v4][Ps 42,4]]
+
+[fn:11] [[file:Spr_10.org::v24][Spr 10,24]]

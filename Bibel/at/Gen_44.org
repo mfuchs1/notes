@@ -1,0 +1,166 @@
+#+TITLE: Gen 44 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:34]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 44.html
+
+
+<<verses>>
+
+<<v1>>
+1 Dann befahl Josef seinem Hausverwalter: Fülle die Getreidesäcke der
+Männer mit so viel Brotgetreide, wie sie tragen können, und leg das Geld
+eines jeden oben in den Sack!
+
+<<v2>>
+2 Meinen Becher, den Silberbecher, leg oben in den Sack des Jüngsten mit
+dem Geld, für das er Getreide gekauft hat. Er tat, wie Josef es
+angeordnet hatte.
+
+<<v3>>
+3 Als es am Morgen hell wurde, ließ man die Männer mit ihren Eseln
+abreisen.
+
+<<v4>>
+4 Sie hatten sich noch nicht weit von der Stadt entfernt, da sagte Josef
+zu seinem Hausverwalter: Auf, jag hinter den Männern her! Wenn du sie
+eingeholt hast, sag ihnen: Warum habt ihr Gutes mit Bösem vergolten und
+mir den Silberbecher gestohlen?
+
+<<v5>>
+5 Das ist doch der, aus dem mein Herr trinkt und aus dem er wahrsagt. Da
+habt ihr etwas Schlimmes getan.
+
+<<v6>>
+6 Der Hausverwalter holte sie ein und sagte zu ihnen, was ihm
+aufgetragen war.
+
+<<v7>>
+7 Sie antworteten ihm: Wie kann mein Herr so etwas sagen? Niemals werden
+deine Knechte so etwas tun.
+
+<<v8>>
+8 Sieh her, das Geld, das wir oben in unseren Getreidesäcken fanden,
+haben wir dir aus Kanaan zurückgebracht. Wie könnten wir da aus dem Haus
+deines Herrn Silber oder Gold stehlen?
+
+<<v9>>
+9 Der von den Knechten, bei dem sich der Becher findet, soll sterben und
+auch wir sollen dann unserem Herrn als Sklaven gehören.
+
+<<v10>>
+10 Also gut, sagte er, es soll geschehen, wie ihr sagt: Bei wem er sich
+findet, der sei mein Sklave, doch ihr anderen sollt straffrei bleiben.
+
+<<v11>>
+11 Jeder stellte eiligst seinen Sack auf die Erde und öffnete ihn:
+
+<<v12>>
+12 Er durchsuchte alles, beim Ältesten begann er und beim Jüngsten hörte
+er auf. Der Becher fand sich im Sack Benjamins.
+
+<<v13>>
+13 Da zerrissen sie ihre Kleider. Jeder belud seinen Esel und sie
+kehrten in die Stadt zurück.
+
+<<v14>>
+14 So kamen Juda und seine Brüder wieder in das Haus Josefs, der noch
+dort war. Sie fielen vor ihm zur Erde nieder.
+
+<<v15>>
+15 Josef sagte zu ihnen: Was habt ihr getan? Wusstet ihr denn nicht,
+dass ein Mann wie ich wahrsagen kann?
+
+<<v16>>
+16 Juda erwiderte: Was sollen wir unserem Herrn sagen, was sollen wir
+vorbringen, womit uns rechtfertigen? Gott hat die Schuld deiner Knechte
+ans Licht gebracht. So sind wir also Sklaven unseres Herrn, wir und der,
+bei dem sich der Becher gefunden hat.
+
+<<v17>>
+17 Doch Josef gab zur Antwort: Das kann ich auf keinen Fall tun.
+Derjenige, bei dem sich der Becher gefunden hat, der soll mein Sklave
+sein. Ihr anderen aber zieht in Frieden hinauf zu eurem Vater!
+
+<<v18>>
+18 Da trat Juda an ihn heran und sagte: Bitte, mein Herr, dein Knecht
+darf vielleicht meinem Herrn offen etwas sagen, ohne dass sein Zorn über
+deinen Knecht entbrennt; denn du bist wie der Pharao.
+
+<<v19>>
+19 Mein Herr hat seine Knechte gefragt: Habt ihr einen Vater oder
+Bruder?
+
+<<v20>>
+20 Wir erwiderten meinem Herrn: Wir haben einen alten Vater und einen
+kleinen Bruder, der ihm noch in hohem Alter geboren wurde. Dessen Bruder
+ist gestorben; er ist allein von seiner Mutter noch da und sein Vater
+liebt ihn besonders.
+
+<<v21>>
+21 Du aber hast von deinen Knechten verlangt: Bringt ihn her zu mir, ich
+will ihn mit eigenen Augen sehen.
+
+<<v22>>
+22 Da sagten wir zu unserem Herrn: Der Knabe kann seinen Vater nicht
+verlassen. Verließe er ihn, so würde der Vater sterben.
+
+<<v23>>
+23 Du aber sagtest zu deinen Knechten: Wenn euer jüngster Bruder nicht
+mit euch kommt, dürft ihr mir nicht mehr unter die Augen treten.
+
+<<v24>>
+24 Als wir zu deinem Knecht, deinem Vater, hinaufgekommen waren,
+erzählten wir ihm, was mein Herr gesagt hatte.
+
+<<v25>>
+25 Als dann unser Vater sagte: Kauft uns noch einmal etwas
+Brotgetreide!,
+
+<<v26>>
+26 entgegneten wir: Wir können nicht hinunterziehen; nur wenn unser
+jüngster Bruder dabei ist, ziehen wir hinunter. Wir können nämlich dem
+Mann nicht mehr unter die Augen treten, wenn nicht unser jüngster Bruder
+dabei ist.
+
+<<v27>>
+27 Darauf antwortete uns dein Knecht, mein Vater: Ihr wisst, dass mir
+meine Frau zwei Söhne geboren hat.
+
+<<v28>>
+28 Einer ist von mir gegangen und ich sagte: Er ist gewiss zerrissen
+worden. Ich habe ihn bis heute nicht mehr gesehen.
+
+<<v29>>
+29 Nun nehmt ihr mir auch den noch weg. Stößt ihm ein Unglück zu, dann
+bringt ihr mein graues Haar vor Leid in die Unterwelt.
+
+<<v30>>
+30 Wenn ich jetzt zu deinem Knecht, meinem Vater, käme und der Knabe
+wäre nicht bei uns, da doch sein Herz so an ihm hängt,
+
+<<v31>>
+31 wenn er also sähe, dass der Knabe nicht dabei ist, würde er sterben.
+Dann brächten deine Sklaven deinen Knecht, unseren greisen Vater, vor
+Gram in die Unterwelt.
+
+<<v32>>
+32 Dein Knecht hat sich für den Knaben beim Vater mit den Worten
+verbürgt: Wenn ich ihn nicht zu dir zurückbringe, will ich alle Tage bei
+meinem Vater in Schuld stehen.
+
+<<v33>>
+33 Darum soll jetzt dein Knecht an Stelle des Knaben dableiben als
+Sklave für meinen Herrn; der Knabe aber soll mit seinen Brüdern ziehen
+dürfen.
+
+<<v34>>
+34 Denn wie könnte ich zu meinem Vater hinaufziehen, ohne dass der Knabe
+bei mir wäre? Ich könnte das Unglück nicht mit ansehen, das dann meinen
+Vater träfe.

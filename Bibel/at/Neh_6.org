@@ -1,0 +1,121 @@
+#+TITLE: Neh 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 23:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Neh 6.html
+
+<<verses>>
+
+<<v1>>
+* Die Abwehr der Feinde: 6,1-19
+
+1 Sanballat, Tobija, der Araber Geschem und unsere übrigen Feinde
+erfuhren, dass ich die Mauer fertig gebaut hatte und dass in ihr keine
+Lücke mehr war. Allerdings hatte ich damals die Torflügel noch nicht in
+die Tore eingesetzt.
+
+<<v2>>
+2 Da ließen Sanballat und Geschem mir sagen: Komm, wir wollen uns in
+Kefirim in der Ebene von Ono treffen. Sie hatten aber Böses gegen mich
+im Sinn. [fn:1]
+
+<<v3>>
+3 Ich schickte Boten an sie mit der Antwort: Ich arbeite gerade an einem
+großen Werk; darum kann ich nicht kommen. Die Arbeit würde stocken, wenn
+ich sie verließe und zu euch käme.
+
+<<v4>>
+4 Viermal schickten sie mir die gleiche Einladung und jedes Mal gab ich
+ihnen die gleiche Antwort.
+
+<<v5>>
+5 Da schickte mir Sanballat in gleicher Weise zum fünften Mal seinen
+Diener; er brachte einen unverschlossenen Brief,
+
+<<v6>>
+6 in dem stand: Unter den Völkern geht das Gerücht um - und Geschem
+bestätigt es -, dass du mit den Juden einen Aufstand planst. Deshalb
+baust du die Mauer auf. Und du willst, wie man sagt, König der Juden
+werden. [fn:2]
+
+<<v7>>
+7 Du hast auch, so hört man, Propheten bestellt, die in Jerusalem von
+dir sagen und ausrufen sollen: Juda hat einen König. Solche Gerüchte
+werden aber dem König zu Ohren kommen. Darum komm jetzt, wir wollen
+zusammen beraten.
+
+<<v8>>
+8 Ich ließ ihm antworten: Nichts von dem, was du behauptest, ist
+geschehen. Das hast du alles selbst erfunden.
+
+<<v9>>
+9 Sie alle wollten uns nämlich einschüchtern; sie dachten: Dann lassen
+sie die Hände von dem Werk und es kommt nicht zustande. Nun aber rührte
+ich die Hände erst recht.
+
+<<v10>>
+10 Eines Tages ging ich in das Haus Schemajas, des Sohnes Delajas, des
+Sohnes Mehetabels; er war nämlich dort festgehalten. Er sagte: Gehen wir
+zusammen in das Haus Gottes, ins Innere des Tempels, und verschließen
+wir die Türen des Tempels! Denn man wird kommen, um dich zu töten. In
+der Nacht wird man kommen, um dich zu töten.
+
+<<v11>>
+11 Ich erwiderte: Sollte ein Mann wie ich fliehen? Wer von
+meinesgleichen würde am Leben bleiben, wenn er den Tempel beträte? Ich
+gehe nicht hin. [fn:3]
+
+<<v12>>
+12 Ich erkannte deutlich, dass nicht Gott ihn geschickt hatte; er hatte
+vielmehr diese Prophezeiung über mich nur gesprochen, weil Tobija und
+Sanballat ihn gedungen hatten. [fn:4]
+
+<<v13>>
+13 Er war gedungen, damit ich aus Furcht so handeln und mich versündigen
+sollte. Damit wollten sie mich in üblen Ruf bringen, um mich verächtlich
+zu machen.
+
+<<v14>>
+14 Mein Gott, vergiss dem Tobija und dem Sanballat nicht, was sie getan
+haben, auch nicht der Prophetin Noadja und den übrigen Propheten, die
+mir Angst machen wollten.
+
+<<v15>>
+15 Nach zweiundfünfzig Tagen, am Fünfundzwanzigsten des Monats Elul, war
+die Mauer vollendet.
+
+<<v16>>
+16 Als alle unsere Feinde es hörten, fürchteten sich alle Völker rings
+um uns her. Ihr Hochmut verging ihnen und sie mussten einsehen, dass
+unser Gott es war, der dieses Werk vollbracht hatte.
+
+<<v17>>
+17 In jener Zeit sandten die Vornehmen von Juda auch viele Briefe an
+Tobija und Briefe von Tobija gelangten an sie.
+
+<<v18>>
+18 Denn viele Menschen in Juda waren ihm durch einen Eid verpflichtet.
+Er war nämlich der Schwiegersohn Schechanjas, des Sohnes Arachs, und
+sein Sohn Johanan hatte die Tochter Meschullams, des Sohnes Berechjas,
+geheiratet.
+
+<<v19>>
+19 Auch rühmten sie vor mir seine Verdienste und trugen ihm zu, was ich
+sagte. Tobija schickte auch Briefe, um mir Furcht zu machen.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Esra_2.org::v33][Esra 2,33]]
+
+[fn:2] [[file:Esra_4.org::v11][Esra 4,11]]-[[file:Esra_4.org::v16][16]]
+
+[fn:3] [[file:Num_18.org::v7][Num 18,7]]; [[file:2.Chr_26.org::v16][2 Chr 26,16]]-[[file:2.Chr_26.org::v20][20]]
+
+[fn:4] [[file:Jer_23.org::v15][Jer 23,15]]-[[file:Jer_23.org::v17][17]]

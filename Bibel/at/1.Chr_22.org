@@ -1,0 +1,131 @@
+#+TITLE: 1 Chr 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-21 Di 21:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 22.html
+
+<<verses>>
+
+<<v1>>
+* Die Vorbereitungen für den Tempelbau: 22,1-19
+
+1 Damals sagte David: Hier soll das Haus Gottes, des Herrn, stehen und
+hier der Altar für die Brandopfer Israels. [fn:1]
+
+<<v2>>
+2 Er ließ daher die Fremden im Land Israel zusammenholen und bestellte
+sie als Steinmetzen, die Quadern für den Bau des Hauses Gottes behauen
+sollten. [fn:2]
+
+<<v3>>
+3 Auch ließ er eine Menge Eisen für die Nägel, für die Torflügel und für
+die Klammern bereitstellen, dazu Bronze in einer Menge, dass sie nicht
+mehr gewogen werden konnte,
+
+<<v4>>
+4 und ungezählte Zedernstämme. Die Bewohner von Sidon und Tyrus
+lieferten David Zedernholz in Menge.
+
+<<v5>>
+5 David dachte nämlich: Mein Sohn Salomo ist noch jung und unerfahren;
+das Haus aber, das dem Herrn gebaut werden soll, muss groß werden und in
+aller Welt Lob und Bewunderung finden. Ich will daher Vorbereitungen
+dazu treffen. So stellte David vor seinem Tod vieles bereit.
+
+<<v6>>
+6 Dann rief er seinen Sohn Salomo und trug ihm auf, dem Herrn, dem Gott
+Israels, ein Haus zu bauen.
+
+<<v7>>
+7 Er sagte zu ihm: Ich selbst hatte vor, dem Namen des Herrn, meines
+Gottes, ein Haus zu bauen. [fn:3]
+
+<<v8>>
+8 Da erging das Wort des Herrn an mich: Du hast viel Blut vergossen und
+schwere Kriege geführt. Du sollst meinem Namen kein Haus bauen, denn du
+hast vor meinen Augen viel Blut zur Erde fließen lassen. [fn:4]
+
+<<v9>>
+9 Doch wurde dir ein Sohn geboren. Dieser wird ein Mann der Ruhe sein:
+Ich will ihm Ruhe vor allen seinen Feinden ringsum verschaffen. Salomo
+ist sein Name und in seinen Tagen werde ich Israel Frieden und Ruhe
+gewähren. [fn:5]
+
+<<v10>>
+10 Er wird meinem Namen ein Haus bauen; er wird für mich Sohn sein und
+ich werde für ihn Vater sein. Seinen Königsthron werde ich in Israel
+festigen für immer. [fn:6]
+
+<<v11>>
+11 Möge jetzt der Herr mit dir sein, mein Sohn, damit du Erfolg hast und
+das Haus des Herrn, deines Gottes, baust, wie er es von dir vorausgesagt
+hat.
+
+<<v12>>
+12 Nur gebe dir der Herr Klugheit und Einsicht. Er mache dich zum
+Gebieter in Israel und helfe dir, das Gesetz des Herrn, deines Gottes,
+zu erfüllen.
+
+<<v13>>
+13 Du wirst Erfolg haben, wenn du die Gesetze und Rechtsvorschriften
+gewissenhaft befolgst, die der Herr dem Mose für Israel aufgetragen hat.
+Sei mutig und stark! Fürchte dich nicht und verzag nicht!
+
+<<v14>>
+14 Sieh her, trotz aller Not konnte ich für das Haus des Herrn
+hunderttausend Talente Gold und eine Million Talente Silber
+bereitstellen. Bronze und Eisen sind in solchen Mengen vorhanden, dass
+sie nicht gewogen werden können. Auch Holz und Steine habe ich
+herbeigeschafft und du wirst noch mehr dazutun. [fn:7]
+
+<<v15>>
+15 Du hast Handwerker in großer Anzahl, Steinmetzen, Maurer, Zimmerleute
+und zahllose Künstler, die jede Arbeit
+
+<<v16>>
+16 in Gold, Silber, Bronze und Eisen ausführen können. Auf denn, geh ans
+Werk und der Herr sei mit dir.
+
+<<v17>>
+17 Darauf befahl David allen führenden Männern Israels, seinem Sohn
+Salomo zu helfen:
+
+<<v18>>
+18 Ist nicht der Herr, euer Gott, mit euch gewesen und hat euch ringsum
+Ruhe verschafft? Er hat die Bewohner des Landes in meine Gewalt gegeben,
+sodass nun das Land dem Herrn und seinem Volk unterworfen ist.
+
+<<v19>>
+19 Richtet daher euer Herz und euren Sinn darauf, den Herrn, euren Gott,
+zu suchen. Auf denn, baut das Heiligtum Gottes, des Herrn, um dann die
+Bundeslade des Herrn und die heiligen Geräte Gottes in das Haus zu
+bringen, das man seinem Namen errichtet.\\
+\\
+
+* Footnotes
+
+[fn:1] 1-29,9: Einzelne Aussagen dieser Kapitel lassen
+erkennen, dass dem Chronisten das heilige Zelt der Wüstenzeit nach der
+Beschreibung von Ex und der nachexilische Tempel vorschwebten.
+
+[fn:2] In [[file:1.Kön_9.org::v20][1 Kön 9,20f]] wird das von Salomo berichtet. Doch nennt
+bereits die Beamtenliste Davids in [[file:2.Sam_20.org::v24][2 Sam 20,24]] einen Aufseher über die
+Fronarbeiter.
+
+[fn:3] [[file:2.Sam_7.org][2 Sam 7]]
+
+[fn:4] [[file:1.Kön_5.org::v17][1 Kön 5,17]]
+
+[fn:5] Der Name Salomo enthält den Wortstamm schalom (= Frieden).
+
+[fn:6] [[file:1.Chr_17.org::v12][17,12]]
+
+[fn:7] Die Zahlen für die Gold- und Silbermengen sind
+ungewöhnlich hoch und daher wohl nur Ausdruck für die Hochschätzung des
+Tempels.

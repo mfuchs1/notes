@@ -1,0 +1,117 @@
+#+TITLE: Ps 65 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-07-30 Di 22:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 65.html
+
+* Ps 65
+
+<<verses>>
+
+<<v1>>
+* Dank für Gottes Gaben
+
+1 [Für den Chormeister. Ein Psalm Davids. Ein Lied.]\\
+\\
+
+<<v2>>
+2 Dir gebührt Lobgesang, Gott, auf dem Zion, /\\
+ dir erfüllt man Gelübde. [fn:1]\\
+\\
+
+<<v3>>
+3 Du erhörst die Gebete. /\\
+ Alle Menschen kommen zu dir\\
+\\
+
+<<v4>>
+4 unter der Last ihrer Sünden. Unsere Schuld ist zu groß für uns, /\\
+ du wirst sie vergeben. [fn:2] [fn:3]\\
+\\
+
+<<v5>>
+5 Wohl denen, die du erwählst und in deine Nähe holst, /\\
+ die in den Vorhöfen deines Heiligtums wohnen. Wir wollen uns am Gut
+deines Hauses sättigen, /\\
+ am Gut deines Tempels. [fn:4]\\
+\\
+
+<<v6>>
+6 Du vollbringst erstaunliche Taten, /\\
+ erhörst uns in Treue, du Gott unsres Heiles, du Zuversicht aller Enden
+der Erde /\\
+ und der fernsten Gestade. [fn:5]\\
+\\
+
+<<v7>>
+7 Du gründest die Berge in deiner Kraft, /\\
+ du gürtest dich mit Stärke.\\
+\\
+
+<<v8>>
+8 Du stillst das Brausen der Meere, /\\
+ das Brausen ihrer Wogen, das Tosen der Völker. [fn:6]\\
+\\
+
+<<v9>>
+9 Alle, die an den Enden der Erde wohnen, /\\
+ erschauern vor deinen Zeichen; /\\
+ Ost und West erfüllst du mit Jubel.\\
+\\
+
+<<v10>>
+10 Du sorgst für das Land und tränkst es; /\\
+ du überschüttest es mit Reichtum. Der Bach Gottes ist reichlich
+gefüllt, /\\
+ du schaffst ihnen Korn; so ordnest du alles. [fn:7] [fn:8]\\
+\\
+
+<<v11>>
+11 Du tränkst die Furchen, ebnest die Schollen, /\\
+ machst sie weich durch Regen, segnest ihre Gewächse.\\
+\\
+
+<<v12>>
+12 Du krönst das Jahr mit deiner Güte, /\\
+ deinen Spuren folgt Überfluss. [fn:9]\\
+\\
+
+<<v13>>
+13 In der Steppe prangen die Auen, /\\
+ die Höhen umgürten sich mit Jubel. [fn:10]\\
+\\
+
+<<v14>>
+14 Die Weiden schmücken sich mit Herden, /\\
+ die Täler hüllen sich in Korn. /\\
+ Sie jauchzen und singen.\\
+\\
+
+* Footnotes
+
+[fn:1] Text korr.
+
+[fn:2] [[file:Ps_32.org::v1][32,1]]
+
+[fn:3] für uns: Text korr.; H: für mich.
+
+[fn:4] [[file:Ps_23.org::v6][23,6]]; [[file:Ps_36.org::v9][36,9]]
+
+[fn:5] Text korr.
+
+[fn:6] [[file:Ps_89.org::v10][89,10]]; [[file:Ijob_38.org::v11][Ijob 38,11]]; [[file:Jes_17.org::v12][Jes 17,12]]
+
+[fn:7] (10-11) [[file:Ps_104.org::v10][104,10]]-[[file:Ps_104.org::v15][15]]; [[file:Joel_2.org::v22][Joël 2,22]]-[[file:Joel_2.org::v24][24]]
+
+[fn:8] reichlich, wörtlich: (Der Bach Gottes ist) mit Wasser (gefüllt).
+
+[fn:9] Wörtlich: deine Spuren triefen von Fett.
+
+[fn:10] [[file:Ps_96.org::v12][96,12]]

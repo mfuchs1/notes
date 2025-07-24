@@ -1,0 +1,156 @@
+#+TITLE: 1 Sam 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 22:42]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 19.html
+
+
+<<verses>>
+
+<<v1>>
+* Jonatans Vermittlung: 19,1-7
+
+1 Saul redete vor seinem Sohn Jonatan und vor allen seinen Dienern
+davon, dass er David töten wolle. Sauls Sohn Jonatan aber hatte David
+sehr gern; [fn:1]
+
+<<v2>>
+2 deshalb berichtete er David davon und sagte: Mein Vater Saul will dich
+töten. Nimm dich also morgen früh in Acht, verbirg dich in einem
+Versteck!
+
+<<v3>>
+3 Ich aber will zusammen mit meinem Vater auf das Feld hinausgehen;
+dort, wo du dich versteckt hältst, werde ich stehen bleiben und mit
+meinem Vater über dich reden, und wenn ich etwas erfahre, werde ich dir
+Bescheid geben.
+
+<<v4>>
+4 Jonatan redete also zugunsten Davids mit seinem Vater und sagte zu
+ihm: Der König möge sich doch nicht an seinem Knecht David versündigen;
+denn er hat sich ja auch nicht an dir versündigt und seine Taten sind
+für dich sehr nützlich gewesen.
+
+<<v5>>
+5 Er hat sein Leben aufs Spiel gesetzt und den Philister erschlagen. Der
+Herr hat (durch ihn) ganz Israel viel Hilfe gebracht. Du hast es selbst
+gesehen und dich darüber gefreut. Warum willst du dich nun versündigen
+und unschuldiges Blut vergießen, indem du David ohne jeden Grund tötest? [fn:2]
+
+<<v6>>
+6 Saul hörte auf Jonatan und schwor: So wahr der Herr lebt: David soll
+nicht umgebracht werden.
+
+<<v7>>
+7 Jonatan rief David und berichtete ihm alles. Dann führte Jonatan David
+zu Saul und David war wieder in Sauls Dienst wie vorher.\\
+\\
+
+<<v8>>
+* Davids Flucht: 19,8-24
+
+8 Der Krieg ging weiter und David zog wieder gegen die Philister in den
+Kampf. Er brachte ihnen eine schwere Niederlage bei und sie ergriffen
+die Flucht.
+
+<<v9>>
+9 Doch wieder kam vom Herrn ein böser Geist über Saul, während er in
+seinem Haus saß und den Speer in der Hand hielt und David auf der Zither
+spielte. [fn:3]
+
+<<v10>>
+10 Da versuchte Saul, David mit dem Speer an die Wand zu spießen; aber
+er wich Saul aus, sodass der Speer in die Wand fuhr. David floh und
+brachte sich in Sicherheit. Noch in derselben Nacht
+
+<<v11>>
+11 schickte Saul Boten zum Haus Davids, die ihm auflauern und ihn am
+nächsten Morgen töten sollten. Doch Michal, Davids Frau, warnte ihn und
+sagte: Wenn du dich nicht noch in dieser Nacht in Sicherheit bringst,
+wirst du morgen früh umgebracht.
+
+<<v12>>
+12 Michal ließ David durch das Fenster hinab, sodass er fliehen und sich
+in Sicherheit bringen konnte.
+
+<<v13>>
+13 Dann nahm Michal das Götterbild, legte es in Davids Bett, umgab
+seinen Kopf mit einem Geflecht von Ziegenhaaren und deckte es mit einem
+Kleidungsstück zu. [fn:4]
+
+<<v14>>
+14 Als nun Saul die Boten schickte, die David holen sollten, sagte sie:
+Er ist krank.
+
+<<v15>>
+15 Saul schickte die Boten (zurück), um nach David zu sehen, und befahl:
+Bringt ihn im Bett zu mir her; er soll umgebracht werden.
+
+<<v16>>
+16 Als die Boten kamen, entdeckten sie im Bett ein Götterbild mit einem
+Geflecht von Ziegenhaaren um den Kopf.
+
+<<v17>>
+17 Da sagte Saul zu Michal: Warum hast du mich so betrogen und meinen
+Feind entkommen lassen, sodass er sich in Sicherheit bringen konnte?
+Michal antwortete Saul: Er hat zu mir gesagt: Lass mich weggehen, sonst
+bringe ich dich um.
+
+<<v18>>
+18 David floh also und brachte sich in Sicherheit. Er kam zu Samuel nach
+Rama und erzählte ihm alles, was Saul ihm angetan hatte. Dann ging er
+zusammen mit Samuel ins Prophetenhaus und beide blieben dort. [fn:5]
+
+<<v19>>
+19 Als man nun Saul berichtete: David ist in Rama, und zwar im
+Prophetenhaus!,
+
+<<v20>>
+20 da schickte Saul Boten, um David holen zu lassen. Sobald sie die
+Schar der Propheten mit Samuel an ihrer Spitze in prophetischer
+Verzückung sahen, kam der Geist Gottes auch über die Boten Sauls und
+auch sie gerieten in Verzückung. [fn:6]
+
+<<v21>>
+21 Als man Saul das meldete, schickte er andere Boten; aber auch sie
+gerieten in Verzückung. Da schickte er zum dritten Mal Boten; doch auch
+sie gerieten in Verzückung.
+
+<<v22>>
+22 Darauf ging er selbst nach Rama. Als er zu der großen Zisterne in
+Sechu kam, fragte er: Wo sind Samuel und David? Man antwortete ihm: Sie
+sind gerade im Prophetenhaus in Rama.
+
+<<v23>>
+23 Als er von dort zum Prophetenhaus in Rama weiterging, kam auch über
+ihn der Geist Gottes, und er ging in prophetischer Verzückung weiter,
+bis er zum Prophetenhaus in Rama kam.
+
+<<v24>>
+24 Er zog sogar seine Kleider aus und blieb auch in Samuels Gegenwart in
+Verzückung. Den ganzen Tag und die ganze Nacht über lag er nackt da.
+Deshalb sagt man: Ist denn auch Saul unter den Propheten? [fn:7]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_18.org::v3][18,3]]
+
+[fn:2] [[file:1.Sam_17.org::v50][17,50]]
+
+[fn:3] [[file:1.Sam_16.org::v14][16,14]]
+
+[fn:4] Götterbild: H: Terafim (ein Kultobjekt unbekannter Form).
+
+[fn:5] 18f: Prophetenhaus: in H ein Wort unsicherer Bedeutung;
+es dürfte sich um eine Prophetenniederlassung handeln (vgl. 2 Kön 6,1f).
+
+[fn:6] (20-24) [[file:1.Sam_10.org::v10][10,10-12]]
+
+[fn:7] [[file:1.Sam_10.org::v12][10,12]]

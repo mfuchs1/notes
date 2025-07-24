@@ -1,0 +1,171 @@
+#+TITLE: Ijob 29 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 21:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 29.html
+
+<<verses>>
+
+<<v1>>
+* Ijobs Schlussrede: 29,1- 31,40
+
+* Die gesegnete Vergangenheit: 29,1-25
+
+1 Dann setzte Ijob seine Rede fort und sprach:\\
+\\
+
+<<v2>>
+2 Dass ich doch wäre /\\
+ wie in längst vergangenen Monden, /\\
+ wie in den Tagen, da mich Gott beschirmte,\\
+\\
+
+<<v3>>
+3 als seine Leuchte über meinem Haupt erstrahlte, /\\
+ in seinem Licht ich durch das Dunkel ging. [fn:1]\\
+\\
+
+<<v4>>
+4 So, wie ich in den Tagen meiner Frühzeit war, /\\
+ als Gottes Freundschaft über meinem Zelte stand, [fn:2]\\
+\\
+
+<<v5>>
+5 als der Allmächtige noch mit mir war, /\\
+ meine Kinder mich umgaben, [fn:3]\\
+\\
+
+<<v6>>
+6 als meine Schritte sich in Milch gebadet, /\\
+ Bäche von Öl der Fels mir ergoss. [fn:4]\\
+\\
+
+<<v7>>
+7 Ging ich durchs Tor zur Stadt hinauf, /\\
+ ließ ich auf dem Platz meinen Sitz aufstellen;\\
+\\
+
+<<v8>>
+8 sahen mich die Jungen, so traten sie scheu beiseite, /\\
+ die Alten standen auf und blieben stehen. [fn:5]\\
+\\
+
+<<v9>>
+9 Fürsten hielten mit Reden sich zurück /\\
+ und legten ihre Hand auf ihren Mund. [fn:6]\\
+\\
+
+<<v10>>
+10 Der Edlen Stimme blieb stumm, /\\
+ am Gaumen klebte ihre Zunge.\\
+\\
+
+<<v11>>
+11 Hörte mich ein Ohr, pries es mich glücklich, /\\
+ das Auge, das mich sah, stimmte mir zu.\\
+\\
+
+<<v12>>
+12 Denn ich rettete den Armen, der schrie, /\\
+ die Waise, die ohne Hilfe war. [fn:7]\\
+\\
+
+<<v13>>
+13 Der Segen des Verlorenen kam über mich /\\
+ und jubeln ließ ich der Witwe Herz.\\
+\\
+
+<<v14>>
+14 Ich bekleidete mich mit Gerechtigkeit, /\\
+ wie Mantel und Kopfbund umhüllte mich mein Recht. [fn:8]\\
+\\
+
+<<v15>>
+15 Auge war ich für den Blinden, /\\
+ dem Lahmen wurde ich zum Fuß.\\
+\\
+
+<<v16>>
+16 Vater war ich für die Armen, /\\
+ des Unbekannten Rechtsstreit prüfte ich. [fn:9]\\
+\\
+
+<<v17>>
+17 Ich zerschmetterte des Bösen Kiefer, /\\
+ entriss die Beute seinen Zähnen. [fn:10]\\
+\\
+
+<<v18>>
+18 So dachte ich: Mit meinem Nest werde ich verscheiden /\\
+ und gleich dem Phönix meine Tage mehren.\\
+\\
+
+<<v19>>
+19 Meine Wurzel reiche bis an das Wasser, /\\
+ auf meinen Zweigen nächtige Tau.\\
+\\
+
+<<v20>>
+20 Neu bleibe mir meine Ehre, /\\
+ mein Bogen verjünge sich in meiner Hand.\\
+\\
+
+<<v21>>
+21 Auf mich horchten und warteten sie, /\\
+ lauschten schweigend meinem Rat.\\
+\\
+
+<<v22>>
+22 Wenn ich sprach, nahm keiner das Wort; /\\
+ es träufelte nieder auf sie meine Rede.\\
+\\
+
+<<v23>>
+23 Sie harrten auf mich wie auf Regen, /\\
+ sperrten den Mund wie nach Spätregen auf. [fn:11]\\
+\\
+
+<<v24>>
+24 Lächelte ich denen zu, die ohne Vertrauen, /\\
+ sie wiesen das Leuchten meines Gesichts nicht ab. [fn:12]\\
+\\
+
+<<v25>>
+25 Ich bestimmte ihr Tun, ich saß als Haupt, /\\
+ thronte wie ein König inmitten der Schar, wie einer, der Trauernde
+tröstet. [fn:13]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_18.org::v29][Ps 18,29]]
+
+[fn:2] [[file:Ijob_1.org::v10][1,10]]
+
+[fn:3] [[file:Ps_127.org::v3][Ps 127,3]]-[[file:Ps_127.org::v5][5]]; [[file:Ps_128.org::v3][128,3]]
+
+[fn:4] [[file:Ijob_20.org::v17][20,17]]
+
+[fn:5] [[file:Lev_19.org::v32][Lev 19,32]]
+
+[fn:6] [[file:Ijob_21.org::v5][21,5]]; [[file:Weish_8.org::v12][Weish 8,12]]
+
+[fn:7] [[file:Ijob_6.org::v14][6,14]]; [[file:Ps_72.org::v12][Ps 72,12f]]; [[file:Jes_11.org::v4][Jes 11,4]]
+
+[fn:8] [[file:Ijob_19.org::v9][19,9]]; [[file:Ps_132.org::v9][Ps 132,9]]; [[file:Jes_59.org::v17][Jes 59,17]]
+
+[fn:9] [[file:Spr_29.org::v7][Spr 29,7]]
+
+[fn:10] entriss: Text korr.; H: warf hin.
+
+[fn:11] [[file:Dtn_32.org::v2][Dtn 32,2]]
+
+[fn:12] [[file:Spr_16.org::v15][Spr 16,15]]
+
+[fn:13] Vielleicht späterer Zusatz.

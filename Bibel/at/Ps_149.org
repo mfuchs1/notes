@@ -1,0 +1,74 @@
+#+TITLE: Ps 149 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-21 Mi 13:59]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 149.html
+
+* Ps 149
+
+<<verses>>
+
+<<v1>>
+* Ein Kampflied des Gottesvolkes
+1 Halleluja! Singt dem Herrn ein neues Lied! /\\
+ Sein Lob erschalle in der Gemeinde der Frommen. [fn:1]\\
+\\
+
+<<v2>>
+2 Israel soll sich über seinen Schöpfer freuen, /\\
+ die Kinder Zions über ihren König jauchzen. [fn:2]\\
+\\
+
+<<v3>>
+3 Seinen Namen sollen sie loben beim Reigentanz, /\\
+ ihm spielen auf Pauken und Harfen. [fn:3]\\
+\\
+
+<<v4>>
+4 Der Herr hat an seinem Volk Gefallen, /\\
+ die Gebeugten krönt er mit Sieg. [fn:4]\\
+\\
+
+<<v5>>
+5 In festlichem Glanz sollen die Frommen frohlocken, /\\
+ auf ihren Lagern jauchzen:\\
+\\
+
+<<v6>>
+6 Loblieder auf Gott in ihrem Mund, /\\
+ ein zweischneidiges Schwert in der Hand, [fn:5]\\
+\\
+
+<<v7>>
+7 um die Vergeltung zu vollziehn an den Völkern, /\\
+ an den Nationen das Strafgericht,\\
+\\
+
+<<v8>>
+8 um ihre Könige mit Fesseln zu binden, /\\
+ ihre Fürsten mit eisernen Ketten,\\
+\\
+
+<<v9>>
+9 um Gericht über sie zu halten, so wie geschrieben steht. /\\
+ Herrlich ist das für all seine Frommen. Halleluja!\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_33.org::v3][33,3]]
+
+[fn:2] [[file:Ps_100.org::v3][100,3]]; [[file:Ps_24.org::v7][24,7-10]]
+
+[fn:3] [[file:Ps_68.org::v26][68,26]]; [[file:Ps_81.org::v3][81,3]]
+
+[fn:4] [[file:Ps_62.org::v4][Jes 62,4]]
+
+[fn:5] [[file:2.Makk_15.org::v27][2 Makk 15,27]]

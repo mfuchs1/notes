@@ -1,0 +1,159 @@
+#+TITLE: 1 Chr 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-20 Mo 11:02]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 15.html
+
+<<verses>>
+
+<<v1>>
+* Die Überführung der Lade in die Davidstadt: Die Vorbereitungen:
+
+1 David baute sich Häuser in der Davidstadt; er richtete auch eine
+Stätte für die Lade Gottes her und stellte ein Zelt für sie auf.
+
+<<v2>>
+2 Damals ordnete er an, dass nur die Leviten die Lade tragen dürfen;
+denn sie hat der Herr erwählt, seine Lade zu tragen und immerfort bei
+ihr Dienst zu tun.
+
+<<v3>>
+3 Hierauf berief David ganz Israel nach Jerusalem, um die Lade des Herrn
+an den Ort zu bringen, den er für sie hergerichtet hatte.
+
+<<v4>>
+4 Er ließ die Nachkommen Aarons und die Leviten kommen:
+
+<<v5>>
+5 von den Nachkommen Kehats den Vorsteher Uriël und seine Brüder, 120
+Mann,
+
+<<v6>>
+6 von den Nachkommen Meraris den Vorsteher Asaja und seine Brüder, 220
+Mann,
+
+<<v7>>
+7 von den Nachkommen Gerschoms den Vorsteher Joël und seine Brüder, 130
+Mann,
+
+<<v8>>
+8 von den Nachkommen Elizafans den Vorsteher Schemaja und seine Brüder,
+200 Mann,
+
+<<v9>>
+9 von den Nachkommen Hebrons den Vorsteher Eliël und seine Brüder, 80
+Mann,
+
+<<v10>>
+10 von den Nachkommen Usiëls den Vorsteher Amminadab und seine Brüder,
+112 Mann.
+
+<<v11>>
+11 David rief die Priester Zadok und Abjatar sowie die Leviten Uriël,
+Asaja, Joël, Schemaja, Eliël und Amminadab zu sich
+
+<<v12>>
+12 und befahl ihnen: Ihr seid die Familienhäupter der Leviten. Ihr und
+eure Brüder, heiligt euch und bringt die Lade des Herrn, des Gottes
+Israels, herauf an den Ort, den ich für sie hergerichtet habe.
+
+<<v13>>
+13 Weil ihr beim ersten Mal nicht beteiligt wart, hat der Herr, unser
+Gott, Unglück über uns gebracht; denn wir sind nicht auf ihn bedacht
+gewesen, wie es sich gehört hätte. [fn:1]
+
+<<v14>>
+14 Da heiligten sich die Priester und die Leviten, um die Lade des
+Herrn, des Gottes Israels, heraufzubringen.
+
+<<v15>>
+15 Die Leviten hoben die Lade Gottes mit den Tragstangen auf ihre
+Schultern, wie es Mose auf Befehl des Herrn angeordnet hatte. [fn:2]
+
+<<v16>>
+16 Den Vorstehern der Leviten befahl David, sie sollten ihre
+Stammesbrüder, die Sänger, mit ihren Instrumenten, mit Harfen, Zithern
+und Zimbeln, aufstellen, damit sie zum Freudenjubel laut ihr Spiel
+ertönen ließen.
+
+<<v17>>
+17 Sie stellten daher die Leviten Heman, den Sohn Joëls, und seinen
+Stammesbruder Asaf, den Sohn Berechjas, auf, ferner von den Nachkommen
+Meraris ihren Stammesbruder Etan, den Sohn Kuschajas. [fn:3]
+
+<<v18>>
+18 Zu ihnen kamen von ihren Brüdern im zweiten Dienstrang: Secharja,
+Jaasiël, Schemiramot, Jehiël, Unni, Eliab, Benaja, Maaseja, Mattitja,
+Elifelehu, Mikneja, Obed-Edom und Jëiël, [die Torwächter]. [fn:4]
+
+<<v19>>
+19 Die Sänger Heman, Asaf und Etan schlugen die bronzenen Zimbeln.
+
+<<v20>>
+20 Secharja, Jaasiël, Schemiramot, Jehiël, Unni, Eliab, Maaseja und
+Benaja spielten nach elamitischer Weise auf Harfen [fn:5]
+
+<<v21>>
+21 und Mattitja, Elifelehu, Mikneja, Obed-Edom, Jëiël und Asasja in der
+achten Stufe auf Zithern, um den Gesang zu führen.
+
+<<v22>>
+22 Kenanja, der Vorsteher der Leviten, leitete den Vortrag. Er gab dazu
+Anweisungen, da er sich darauf verstand.
+
+<<v23>>
+23 Berechja und Elkana waren Torwächter für die Lade.
+
+<<v24>>
+24 Die Priester Schebanja, Joschafat, Netanel, Amasai, Secharja, Benaja
+und Eliëser bliesen die Trompeten vor der Lade Gottes. Obed-Edom und
+Jehija waren Torwächter für die Lade.\\
+\\
+
+<<v25>>
+* Der Einzug der Lade: 15,25 - 16,3
+
+25 David, die Ältesten Israels und die Führer der Tausendschaften, die
+gegangen waren, um die Bundeslade des Herrn aus dem Haus Obed-Edoms
+heraufzuholen, waren voller Freude. [fn:6]
+
+<<v26>>
+26 Damit Gott den Leviten, die die Bundeslade des Herrn trugen,
+beistand, opferte man sieben Stiere und sieben Widder.
+
+<<v27>>
+27 David war mit einem Mantel aus Byssus bekleidet, ebenso alle Leviten,
+die die Lade trugen, sowie die Sänger und Kenanja, der den Vortrag der
+Sänger leitete. Dabei trug David das leinene Efod.
+
+<<v28>>
+28 So brachte ganz Israel die Bundeslade des Herrn hinauf unter großem
+Jubelgeschrei und unter dem Klang des Widderhorns, unter dem Lärm der
+Trompeten und Zimbeln, beim Spiel der Harfen und Zithern.
+
+<<v29>>
+29 Als die Bundeslade des Herrn in die Davidstadt kam, schaute Michal,
+Sauls Tochter, aus dem Fenster, und als sie sah, wie König David hüpfte
+und tanzte, verachtete sie ihn in ihrem Herzen.
+
+* Footnotes
+
+[fn:1] 13-15: Der Chronist sieht im Berühren der Lade durch
+Laien ein Vergehen gegen [[file:Num_4.org::v15][Num 4,15]].
+
+[fn:2] [[file:Num_7.org::v9][Num 7,9]]
+
+[fn:3] Von der Abstammung der Sänger berichtet [[file:2.Chr_6.org::v16][6,16-32]].
+
+[fn:4] Secharja, Jaasiël: Text korr.; H: Secharja, Sohn Jaasiëls.
+
+[fn:5] 20f: Die Bedeutung der Ausdrücke «nach elamitischer
+Weise» und «in der achten Stufe» ist unklar.
+
+[fn:6] (25-16,2) [[file:2.Sam_6.org::v12][2 Sam 6,12-19]]

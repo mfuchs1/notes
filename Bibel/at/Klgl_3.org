@@ -1,0 +1,388 @@
+:PROPERTIES:
+:ID:       0e629197-f0ab-42cf-be87-ad5278187525
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Klagelieder* -- [[file:Klgl_1.html][1]]
+[[file:Klgl_2.html][2]] *3* [[file:Klgl_4.html][4]]
+[[file:Klgl_5.html][5]]
+
+--------------
+
+* Klgl 3
+  :PROPERTIES:
+  :CUSTOM_ID: klgl-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Das dritte Lied: 3,1-66
+   :PROPERTIES:
+   :CUSTOM_ID: das-dritte-lied-31-66
+   :END:
+1 Ich bin der Mann, der Leid erlebt hat /\\
+ durch die Rute seines Grimms.\\
+\\
+
+<<v2>>
+2 Er hat mich getrieben und gedrängt /\\
+ in Finsternis, nicht ins Licht.\\
+\\
+
+<<v3>>
+3 Täglich von neuem kehrt er die Hand /\\
+ nur gegen mich.\\
+\\
+
+<<v4>>
+4 Er zehrte aus mein Fleisch und meine Haut, /\\
+ zerbrach meine Glieder,\\
+\\
+
+<<v5>>
+5 umbaute und umschloss mich /\\
+ mit Gift und Erschöpfung.\\
+\\
+
+<<v6>>
+6 Im Finstern ließ er mich wohnen /\\
+ wie längst Verstorbene. ^{[[#fn1][1]]}\\
+\\
+
+<<v7>>
+7 Er hat mich ummauert, ich kann nicht entrinnen. /\\
+ Er hat mich in schwere Fesseln gelegt.\\
+\\
+
+<<v8>>
+8 Wenn ich auch schrie und flehte, /\\
+ er blieb stumm bei meinem Gebet. ^{[[#fn2][2]]}\\
+\\
+
+<<v9>>
+9 Mit Quadern hat er mir den Weg verriegelt, /\\
+ meine Pfade irregeleitet.\\
+\\
+
+<<v10>>
+10 Ein lauernder Bär war er mir, /\\
+ ein Löwe im Versteck. ^{[[#fn3][3]]}\\
+\\
+
+<<v11>>
+11 Er hat mich vom Weg vertrieben, /\\
+ mich zerfleischt und zerrissen.\\
+\\
+
+<<v12>>
+12 Er spannte den Bogen und stellte mich hin /\\
+ als Ziel für den Pfeil.\\
+\\
+
+<<v13>>
+13 In die Nieren ließ er mir dringen /\\
+ die Geschosse seines Köchers. ^{[[#fn4][4]]}\\
+\\
+
+<<v14>>
+14 Ein Gelächter war ich all meinem Volk, /\\
+ ihr Spottlied den ganzen Tag. ^{[[#fn5][5]]}\\
+\\
+
+<<v15>>
+15 Er speiste mich mit bitterer Kost /\\
+ und tränkte mich mit Wermut. ^{[[#fn6][6]]}\\
+\\
+
+<<v16>>
+16 Meine Zähne ließ er auf Kiesel beißen, /\\
+ er drückte mich in den Staub.\\
+\\
+
+<<v17>>
+17 Du hast mich aus dem Frieden hinausgestoßen; /\\
+ ich habe vergessen, was Glück ist.\\
+\\
+
+<<v18>>
+18 Ich sprach: Dahin ist mein Glanz /\\
+ und mein Vertrauen auf den Herrn.\\
+\\
+
+<<v19>>
+19 An meine Not und Unrast denken /\\
+ ist Wermut und Gift.\\
+\\
+
+<<v20>>
+20 Immer denkt meine Seele daran /\\
+ und ist betrübt in mir. ^{[[#fn7][7]]}\\
+\\
+
+<<v21>>
+21 Das will ich mir zu Herzen nehmen, /\\
+ darauf darf ich harren:\\
+\\
+
+<<v22>>
+22 Die Huld des Herrn ist nicht erschöpft, /\\
+ sein Erbarmen ist nicht zu Ende.\\
+\\
+
+<<v23>>
+23 Neu ist es an jedem Morgen; /\\
+ groß ist deine Treue.\\
+\\
+
+<<v24>>
+24 Mein Anteil ist der Herr, sagt meine Seele, /\\
+ darum harre ich auf ihn. ^{[[#fn8][8]]}\\
+\\
+
+<<v25>>
+25 Gut ist der Herr zu dem, der auf ihn hofft, /\\
+ zur Seele, die ihn sucht.\\
+\\
+
+<<v26>>
+26 Gut ist es, schweigend zu harren /\\
+ auf die Hilfe des Herrn.\\
+\\
+
+<<v27>>
+27 Gut ist es für den Mann, /\\
+ ein Joch zu tragen in der Jugend.\\
+\\
+
+<<v28>>
+28 Er sitze einsam und schweige, /\\
+ wenn der Herr es ihm auflegt.\\
+\\
+
+<<v29>>
+29 Er beuge in den Staub seinen Mund; /\\
+ vielleicht ist noch Hoffnung.\\
+\\
+
+<<v30>>
+30 Er biete die Wange dem, der ihn schlägt, /\\
+ und lasse sich sättigen mit Schmach.\\
+\\
+
+<<v31>>
+31 Denn nicht für immer /\\
+ verwirft der Herr. ^{[[#fn9][9]]}\\
+\\
+
+<<v32>>
+32 Hat er betrübt, erbarmt er sich auch wieder /\\
+ nach seiner großen Huld. ^{[[#fn10][10]]}\\
+\\
+
+<<v33>>
+33 Denn nicht freudigen Herzens /\\
+ plagt und betrübt er die Menschen.\\
+\\
+
+<<v34>>
+34 Dass man mit Füßen tritt /\\
+ alle Gefangenen des Landes,\\
+\\
+
+<<v35>>
+35 dass man das Recht des Mannes beugt /\\
+ vor dem Antlitz des Höchsten,\\
+\\
+
+<<v36>>
+36 dass man im Rechtsstreit den Menschen bedrückt, /\\
+ sollte der Herr das nicht sehen?\\
+\\
+
+<<v37>>
+37 Wer hat gesprochen und es geschah? /\\
+ Hat nicht der Herr es geboten?\\
+\\
+
+<<v38>>
+38 Geht nicht hervor aus des Höchsten Mund /\\
+ das Gute wie auch das Böse? ^{[[#fn11][11]]}\\
+\\
+
+<<v39>>
+39 Wie dürfte denn ein Lebender klagen, /\\
+ ein Mann über die Folgen seiner Sünden?\\
+\\
+
+<<v40>>
+40 Prüfen wir unsre Wege, erforschen wir sie /\\
+ und kehren wir um zum Herrn.\\
+\\
+
+<<v41>>
+41 Erheben wir Herz und Hand /\\
+ zu Gott im Himmel.\\
+\\
+
+<<v42>>
+42 Wir haben gesündigt und getrotzt; /\\
+ du aber hast nicht vergeben.\\
+\\
+
+<<v43>>
+43 Du hast dich in Zorn gehüllt und uns verfolgt, /\\
+ getötet und nicht geschont.\\
+\\
+
+<<v44>>
+44 Du hast dich in Wolken gehüllt, /\\
+ kein Gebet kann sie durchstoßen.\\
+\\
+
+<<v45>>
+45 Zu Unrat und Auswurf hast du uns gemacht /\\
+ inmitten der Völker.\\
+\\
+
+<<v46>>
+46 Ihren Mund rissen gegen uns auf /\\
+ all unsre Feinde.\\
+\\
+
+<<v47>>
+47 Grauen und Grube wurde uns zuteil, /\\
+ Verwüstung und Verderben.\\
+\\
+
+<<v48>>
+48 Tränenströme vergießt mein Auge /\\
+ über den Zusammenbruch der Tochter, meines Volkes. ^{[[#fn12][12]]}\\
+\\
+
+<<v49>>
+49 Mein Auge ergießt sich und ruht nicht; /\\
+ es hört nicht auf,\\
+\\
+
+<<v50>>
+50 bis der Herr vom Himmel her /\\
+ sieht und schaut.\\
+\\
+
+<<v51>>
+51 Mein Auge macht mich elend /\\
+ vor lauter Weinen in meiner Stadt. ^{[[#fn13][13]]}\\
+\\
+
+<<v52>>
+52 Wie auf einen Vogel machten sie Jagd auf mich, /\\
+ die ohne Grund meine Feinde sind.\\
+\\
+
+<<v53>>
+53 Sie stürzten in die Grube mein Leben /\\
+ und warfen Steine auf mich.\\
+\\
+
+<<v54>>
+54 Das Wasser ging mir über den Kopf; /\\
+ ich sagte: Ich bin verloren. ^{[[#fn14][14]]}\\
+\\
+
+<<v55>>
+55 Da rief ich deinen Namen, Herr, /\\
+ tief unten aus der Grube.\\
+\\
+
+<<v56>>
+56 Du hörst meine Stimme. /\\
+ Verschließ nicht dein Ohr /\\
+ vor meinem Seufzen, meinem Schreien!\\
+\\
+
+<<v57>>
+57 Du warst nahe am Tag, da ich dich rief; /\\
+ du sagtest: Fürchte dich nicht!\\
+\\
+
+<<v58>>
+58 Du, Herr, hast meine Sache geführt, /\\
+ hast mein Leben erlöst.\\
+\\
+
+<<v59>>
+59 Du, Herr, hast meine Bedrückung gesehen, /\\
+ hast mir Recht verschafft. ^{[[#fn15][15]]}\\
+\\
+
+<<v60>>
+60 Du hast gesehen ihre ganze Rachgier, /\\
+ all ihr Planen gegen mich. ^{[[#fn16][16]]}\\
+\\
+
+<<v61>>
+61 Du hast ihr Schmähen gehört, o Herr, /\\
+ all ihr Planen gegen mich.\\
+\\
+
+<<v62>>
+62 Das Denken und Reden meiner Gegner /\\
+ ist gegen mich den ganzen Tag. ^{[[#fn17][17]]}\\
+\\
+
+<<v63>>
+63 Blick auf ihr Sitzen und Stehen! /\\
+ Ein Spottlied bin ich für sie.\\
+\\
+
+<<v64>>
+64 Du wirst ihnen vergelten, Herr, /\\
+ nach dem Tun ihrer Hände.\\
+\\
+
+<<v65>>
+65 Du wirst ihren Sinn verblenden. /\\
+ Dein Fluch über sie!\\
+\\
+
+<<v66>>
+66 Du wirst sie im Zorn verfolgen und vernichten /\\
+ unter deinem Himmel, o Herr. ^{[[#fn18][18]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Ps 143,3; Jes 59,10
+
+^{[[#fnm2][2]]} ℘ Ps 22,3
+
+^{[[#fnm3][3]]} ℘ Hos 13,8
+
+^{[[#fnm4][4]]} ℘ Ps 38,3
+
+^{[[#fnm5][5]]} ℘ Jer 20,7
+
+^{[[#fnm6][6]]} ℘ Rut 1,20; Ijob 9,18
+
+^{[[#fnm7][7]]} ℘ Ps 42,6
+
+^{[[#fnm8][8]]} ℘ Mi 7,7
+
+^{[[#fnm9][9]]} ℘ Ps 94,14
+
+^{[[#fnm10][10]]} ℘ Jes 54,7
+
+^{[[#fnm11][11]]} ℘ Jes 45,7
+
+^{[[#fnm12][12]]} ℘ Jer 14,17
+
+^{[[#fnm13][13]]} 51b: Text korr.; H: wegen aller Töchter meiner Stadt.
+
+^{[[#fnm14][14]]} ℘ Ps 69,2f; Jona 2,6
+
+^{[[#fnm15][15]]} ℘ Ps 9,5
+
+^{[[#fnm16][16]]} ℘ Ps 56,6
+
+^{[[#fnm17][17]]} ℘ Ps 38,13
+
+^{[[#fnm18][18]]} 66b: Text korr.; H: unter dem Himmel des Herrn.

@@ -1,0 +1,138 @@
+#+TITLE: Ps 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-03 So 22:10]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 10.html
+
+* Ps 10
+
+<<verses>>
+
+<<v1>>
+* Ein Hilferuf gegen gewalttätige Menschen
+
+1 Herr, warum bleibst du so fern, /\\
+ verbirgst dich in Zeiten der Not?\\
+\\
+
+<<v2>>
+2 In seinem Hochmut quält der Frevler die Armen. /\\
+ Er soll sich fangen in den Ränken, die er selbst ersonnen hat.\\
+\\
+
+<<v3>>
+3 Denn der Frevler rühmt sich nach Herzenslust, /\\
+ er raubt, er lästert und verachtet den Herrn.\\
+\\
+
+<<v4>>
+4 Überheblich sagt der Frevler: /\\
+ «Gott straft nicht. Es gibt keinen Gott.» /\\
+ So ist sein ganzes Denken. [fn:1]\\
+\\
+
+<<v5>>
+5 Zu jeder Zeit glückt ihm sein Tun. /\\
+ Hoch droben und fern von sich wähnt er deine Gerichte.\\
+\\
+
+<<v6>>
+6 Er sagt in seinem Herzen: «Ich werde niemals wanken. /\\
+ Von Geschlecht zu Geschlecht trifft mich kein Unglück.» [fn:2]\\
+\\
+
+<<v7>>
+7 Sein Mund ist voll Fluch und Trug und Gewalttat; /\\
+ auf seiner Zunge sind Verderben und Unheil. [fn:3]\\
+\\
+
+<<v8>>
+8 Er liegt auf der Lauer in den Gehöften /\\
+ und will den Schuldlosen heimlich ermorden; /\\
+ seine Augen spähen aus nach dem Armen. [fn:4] [fn:5]\\
+\\
+
+<<v9>>
+9 Er lauert im Versteck wie ein Löwe im Dickicht, /\\
+ er lauert darauf, den Armen zu fangen; /\\
+ er fängt den Armen und zieht ihn in sein Netz. [fn:6]\\
+\\
+
+<<v10>>
+10 Er duckt sich und kauert sich nieder, /\\
+ seine Übermacht bringt die Schwachen zu Fall. [fn:7]\\
+\\
+
+<<v11>>
+11 Er sagt in seinem Herzen: «Gott vergisst es, /\\
+ er verbirgt sein Gesicht, er sieht es niemals.» [fn:8]\\
+\\
+
+<<v12>>
+12 Herr, steh auf, Gott, erheb deine Hand, /\\
+ vergiss die Gebeugten nicht!\\
+\\
+
+<<v13>>
+13 Warum darf der Frevler Gott verachten /\\
+ und in seinem Herzen sagen: «Du strafst nicht»?\\
+\\
+
+<<v14>>
+14 Du siehst es ja selbst; /\\
+ denn du schaust auf Unheil und Kummer. Der Schwache vertraut sich dir
+an; /\\
+ du bist den Verwaisten ein Helfer. [fn:9]\\
+\\
+
+<<v15>>
+15 Zerbrich den Arm des Frevlers und des Bösen, /\\
+ bestraf seine Frevel, /\\
+ sodass man von ihm nichts mehr findet.\\
+\\
+
+<<v16>>
+16 Der Herr ist König für immer und ewig, /\\
+ in seinem Land gehen die Heiden zugrunde. [fn:10]\\
+\\
+
+<<v17>>
+17 Herr, du hast die Sehnsucht der Armen gestillt, /\\
+ du stärkst ihr Herz, du hörst auf sie:\\
+\\
+
+<<v18>>
+18 Du verschaffst den Verwaisten und Bedrückten ihr Recht. /\\
+ Kein Mensch mehr verbreite Schrecken im Land. [fn:11]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_14.org::v1][14,1]]
+
+[fn:2] Nach G; H ist unklar.
+
+[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v14][Röm 3,14]]
+
+[fn:4] [[file:Ps_11.org::v2][11,2]]
+
+[fn:5] Nach G.
+
+[fn:6] [[file:Ps_17.org::v12][17,12]]
+
+[fn:7] H ist unklar; andere Übersetzungsmöglichkeit für V. 10:
+Zerschmettert stürzen die Schwachen nieder und fallen in seine Gewalt.
+
+[fn:8] [[file:Ps_64.org::v6][64,6]]; [[file:Ps_73.org::v11][73,11]]; [[file:Ps_94.org::v7][94,7]]; [[file:Ijob_22.org::v13][Ijob 22,13f]]; [[file:Jes_29.org::v15][Jes 29,15]]; [[file:Ez_8.org::v12][Ez 8,12]]; [[file:Ez_9.org::v9][9,9]]
+
+[fn:9] H hat zusätzlich: um es in deine Hand zu geben. - Sinn unklar.
+
+[fn:10] [[file:Ps_24.org::v7][24,7-10]]
+
+[fn:11] [[file:Ps_68.org::v6][68,6]]; [[file:Ps_146.org::v9][146,9]]; [[file:Ex_22.org::v21][Ex 22,21]]; [[file:Dtn_10.org::v18][Dtn 10,18]]

@@ -1,0 +1,255 @@
+:PROPERTIES:
+:ID:       9a548cd0-095d-466d-98b2-0b2c7bdd4c3b
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Lukas* --
+[[file:Lk_1.html][1]] ... [[file:Lk_14.html][14]]
+[[file:Lk_15.html][15]] *16* [[file:Lk_17.html][17]]
+[[file:Lk_18.html][18]] ... [[file:Lk_24.html][24]]
+
+--------------
+
+* Lk 16
+  :PROPERTIES:
+  :CUSTOM_ID: lk-16
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das Gleichnis vom klugen Verwalter: 16,1-8
+     :PROPERTIES:
+     :CUSTOM_ID: das-gleichnis-vom-klugen-verwalter-161-8
+     :END:
+1 Jesus sagte zu den Jüngern: Ein reicher Mann hatte einen Verwalter.
+Diesen beschuldigte man bei ihm, er verschleudere sein Vermögen.
+^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 222\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Darauf ließ er ihn rufen und sagte zu ihm: Was höre ich über dich? Leg
+Rechenschaft ab über deine Verwaltung! Du kannst nicht länger mein
+Verwalter sein.
+
+<<v3>>
+3 Da überlegte der Verwalter: Mein Herr entzieht mir die Verwaltung. Was
+soll ich jetzt tun? Zu schwerer Arbeit tauge ich nicht, und zu betteln
+schäme ich mich.
+
+<<v4>>
+4 Doch - ich weiß, was ich tun muss, damit mich die Leute in ihre Häuser
+aufnehmen, wenn ich als Verwalter abgesetzt bin.
+
+<<v5>>
+5 Und er ließ die Schuldner seines Herrn, einen nach dem andern, zu sich
+kommen und fragte den ersten: Wie viel bist du meinem Herrn schuldig?
+
+<<v6>>
+6 Er antwortete: Hundert Fass Öl. Da sagte er zu ihm: Nimm deinen
+Schuldschein, setz dich gleich hin und schreib «fünfzig». ^{[[#fn2][2]]}
+
+<<v7>>
+7 Dann fragte er einen andern: Wie viel bist du schuldig? Der
+antwortete: Hundert Sack Weizen. Da sagte er zu ihm: Nimm deinen
+Schuldschein und schreib «achtzig». ^{[[#fn3][3]]}
+
+<<v8>>
+8 Und der Herr lobte die Klugheit des unehrlichen Verwalters und sagte:
+Die Kinder dieser Welt sind im Umgang mit ihresgleichen klüger als die
+Kinder des Lichtes.\\
+\\
+
+<<v9>>
+**** Vom rechten Gebrauch des Reichtums: 16,9-13
+     :PROPERTIES:
+     :CUSTOM_ID: vom-rechten-gebrauch-des-reichtums-169-13
+     :END:
+9 Ich sage euch: Macht euch Freunde mit Hilfe des ungerechten Mammons,
+damit ihr in die ewigen Wohnungen aufgenommen werdet, wenn es (mit euch)
+zu Ende geht. ^{[[#fn4][4]]}
+
+<<v10>>
+10 Wer in den kleinsten Dingen zuverlässig ist, der ist es auch in den
+großen, und wer bei den kleinsten Dingen Unrecht tut, der tut es auch
+bei den großen. ^{[[#fn5][5]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 223\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v11>>
+11 Wenn ihr im Umgang mit dem ungerechten Reichtum nicht zuverlässig
+gewesen seid, wer wird euch dann das wahre Gut anvertrauen?
+
+<<v12>>
+12 Und wenn ihr im Umgang mit dem fremden Gut nicht zuverlässig gewesen
+seid, wer wird euch dann euer (wahres) Eigentum geben? ^{[[#fn6][6]]}
+
+<<v13>>
+13 Kein Sklave kann zwei Herren dienen; er wird entweder den einen
+hassen und den andern lieben, oder er wird zu dem einen halten und den
+andern verachten. Ihr könnt nicht beiden dienen, Gott und dem Mammon.
+^{[[#fn7][7]]}\\
+^{[[#fn8][8]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 224\\
+$ŽG://ESyn0812/
+
+<<v14>>
+**** Das Urteil Jesu über die Pharisäer: 16,14-15
+     :PROPERTIES:
+     :CUSTOM_ID: das-urteil-jesu-über-die-pharisäer-1614-15
+     :END:
+14 Das alles hörten auch die Pharisäer, die sehr am Geld hingen, und sie
+lachten über ihn. ^{[[#fn9][9]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 225\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v15>>
+15 Da sagte er zu ihnen: Ihr redet den Leuten ein, dass ihr gerecht
+seid; aber Gott kennt euer Herz. Denn was die Menschen für großartig
+halten, das ist in den Augen Gottes ein Gräuel. ^{[[#fn10][10]]}\\
+\\
+
+<<v16>>
+**** Vom Gesetz und von der Ehescheidung: 16,16-18
+     :PROPERTIES:
+     :CUSTOM_ID: vom-gesetz-und-von-der-ehescheidung-1616-18
+     :END:
+16 Bis zu Johannes hatte man nur das Gesetz und die Propheten. Seitdem
+wird das Evangelium vom Reich Gottes verkündet und alle drängen sich
+danach, hineinzukommen.
+^{[[#fn11][11]][[#fn12][12]][[#fn13][13]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 226\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v17>>
+17 Aber eher werden Himmel und Erde vergehen, als dass auch nur der
+kleinste Buchstabe im Gesetz wegfällt. ^{[[#fn14][14]][[#fn15][15]]}
+
+<<v18>>
+18 Wer seine Frau aus der Ehe entlässt und eine andere heiratet, begeht
+Ehebruch; auch wer eine Frau heiratet, die von ihrem Mann aus der Ehe
+entlassen worden ist, begeht Ehebruch. ^{[[#fn16][16]]}\\
+\\
+
+<<v19>>
+**** Das Beispiel vom reichen Mann und vom armen Lazarus: 16,19-31
+     :PROPERTIES:
+     :CUSTOM_ID: das-beispiel-vom-reichen-mann-und-vom-armen-lazarus-1619-31
+     :END:
+19 Es war einmal ein reicher Mann, der sich in Purpur und feines Leinen
+kleidete und Tag für Tag herrlich und in Freuden lebte.
+^{[[#fn17][17]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 228\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v20>>
+20 Vor der Tür des Reichen aber lag ein armer Mann namens Lazarus,
+dessen Leib voller Geschwüre war. ^{[[#fn18][18]]}
+
+<<v21>>
+21 Er hätte gern seinen Hunger mit dem gestillt, was vom Tisch des
+Reichen herunterfiel. Stattdessen kamen die Hunde und leckten an seinen
+Geschwüren.
+
+<<v22>>
+22 Als nun der Arme starb, wurde er von den Engeln in Abrahams Schoß
+getragen. Auch der Reiche starb und wurde begraben.
+
+<<v23>>
+23 In der Unterwelt, wo er qualvolle Schmerzen litt, blickte er auf und
+sah von weitem Abraham, und Lazarus in seinem Schoß. ^{[[#fn19][19]]}
+
+<<v24>>
+24 Da rief er: Vater Abraham, hab Erbarmen mit mir und schick Lazarus zu
+mir; er soll wenigstens die Spitze seines Fingers ins Wasser tauchen und
+mir die Zunge kühlen, denn ich leide große Qual in diesem Feuer.
+
+<<v25>>
+25 Abraham erwiderte: Mein Kind, denk daran, dass du schon zu Lebzeiten
+deinen Anteil am Guten erhalten hast, Lazarus aber nur Schlechtes. Jetzt
+wird er dafür getröstet, du aber musst leiden.
+
+<<v26>>
+26 Außerdem ist zwischen uns und euch ein tiefer, unüberwindlicher
+Abgrund, sodass niemand von hier zu euch oder von dort zu uns kommen
+kann, selbst wenn er wollte.
+
+<<v27>>
+27 Da sagte der Reiche: Dann bitte ich dich, Vater, schick ihn in das
+Haus meines Vaters!
+
+<<v28>>
+28 Denn ich habe noch fünf Brüder. Er soll sie warnen, damit nicht auch
+sie an diesen Ort der Qual kommen.
+
+<<v29>>
+29 Abraham aber sagte: Sie haben Mose und die Propheten, auf die sollen
+sie hören.
+
+<<v30>>
+30 Er erwiderte: Nein, Vater Abraham, nur wenn einer von den Toten zu
+ihnen kommt, werden sie umkehren.
+
+<<v31>>
+31 Darauf sagte Abraham: Wenn sie auf Mose und die Propheten nicht
+hören, werden sie sich auch nicht überzeugen lassen, wenn einer von den
+Toten aufersteht.\\
+\\
+
+^{[[#fnm1][1]]} ℘ ⇨Esyn: Synopse Nr. 222
+
+^{[[#fnm2][2]]} Fass, wörtlich: Bat. Ein Bat sind etwa vierzig Liter.
+
+^{[[#fnm3][3]]} Sack, wörtlich: Kor. Ein Kor sind etwa vierhundert
+Liter.
+
+^{[[#fnm4][4]]} 9.11.13: Der ursprüngliche Sinn des hebräischen und
+aramäischen Wortes «Mammon» ist umstritten, vielleicht: das, worauf
+jemand vertraut, oder: das Sichergestellte, Gesicherte. Es wurde dann
+zur allgemeinen Bezeichnung für Besitz und Geld. Im Neuen Testament wird
+es Mt 6,24; Lk 16,9.11.13 im abwertenden Sinn für die dämonische Macht
+des Besitzes gebraucht. Andere Übersetzungsmöglichkeit: wenn es (mit dem
+Reichtum) zu Ende geht (das heißt: wenn ihr nichts mehr habt).
+
+^{[[#fnm5][5]]} ℘ 19,17; Mt 25,21 ⇨Esyn: Synopse Nr. 223
+
+^{[[#fnm6][6]]} Manche Textzeugen haben: wer wird euch dann unser
+Eigentum geben?
+
+^{[[#fnm7][7]]} ℘ Mt 6,24
+
+^{[[#fnm8][8]]} ℘ ⇨Esyn: Synopse Nr. 224
+
+^{[[#fnm9][9]]} ℘ ⇨Esyn: Synopse Nr. 225
+
+^{[[#fnm10][10]]} ℘ Mt 23,28
+
+^{[[#fnm11][11]]} ℘ Mt 11,12f
+
+^{[[#fnm12][12]]} Andere Übersetzungsmöglichkeit: und alle wollen mit
+Gewalt hineinkommen.
+
+^{[[#fnm13][13]]} ℘ ⇨Esyn: Synopse Nr. 226
+
+^{[[#fnm14][14]]} ℘ Mt 5,18
+
+^{[[#fnm15][15]]} nur der kleinste Buchstabe, wörtlich: nur ein kleiner
+Strich (an einem Buchstaben).
+
+^{[[#fnm16][16]]} ℘ 1 Kor 7,10f; Mt 5,32; 19,9; Mk 10,11f
+
+^{[[#fnm17][17]]} ℘ ⇨Esyn: Synopse Nr. 228
+
+^{[[#fnm18][18]]} Lazarus (hebräische Namensform: Eleasar), bedeutet
+«Gotthilf».
+
+^{[[#fnm19][19]]} Zu «Unterwelt» vgl. die Anmerkung zu Mt 16,18. - Die
+Unterwelt ist in verschiedene Räume aufgeteilt, wo die Guten (Abraham,
+Lazarus) und die Bösen (der reiche Mann) auf das Endgericht warten. -
+Abraham galt als der Vater Israels, besonders der Frommen.

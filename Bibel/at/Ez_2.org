@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       b948c9db-8411-4084-ae3b-086802cb985e
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Ezechiel* -- [[file:Ez_1.html][1]] *2*
+[[file:Ez_3.html][3]] [[file:Ez_4.html][4]] ... [[file:Ez_48.html][48]]
+
+--------------
+
+* Ez 2
+  :PROPERTIES:
+  :CUSTOM_ID: ez-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Sendung Ezechiels: 2,1 - 3,15
+     :PROPERTIES:
+     :CUSTOM_ID: die-sendung-ezechiels-21---315
+     :END:
+1 Er sagte zu mir: Stell dich auf deine Füße, Menschensohn; ich will mit
+dir reden. ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Als er das zu mir sagte, kam der Geist in mich und stellte mich auf
+die Füße. Und ich hörte den, der mit mir redete.
+
+<<v3>>
+3 Er sagte zu mir: Menschensohn, ich sende dich zu den abtrünnigen
+Söhnen Israels, die sich gegen mich aufgelehnt haben. Sie und ihre Väter
+sind immer wieder von mir abgefallen, bis zum heutigen Tag.
+^{[[#fn3][3]]}
+
+<<v4>>
+4 Es sind Söhne mit trotzigem Gesicht und hartem Herzen. Zu ihnen sende
+ich dich. Du sollst zu ihnen sagen: So spricht Gott, der Herr.
+
+<<v5>>
+5 Ob sie dann hören oder nicht - denn sie sind ein widerspenstiges Volk
+-, sie werden erkennen müssen, dass mitten unter ihnen ein Prophet war.
+^{[[#fn4][4]][[#fn5][5]]}
+
+<<v6>>
+6 Du aber, Menschensohn, fürchte dich nicht vor ihnen, hab keine Angst
+vor ihren Worten! Wenn dich auch Dornen umgeben und du auf Skorpionen
+sitzt, hab keine Angst vor ihren Worten und erschrick nicht vor ihrem
+Blick; denn sie sind ein widerspenstiges Volk. ^{[[#fn6][6]][[#fn7][7]]}
+
+<<v7>>
+7 Du sollst ihnen meine Worte sagen, ob sie hören oder nicht, denn sie
+sind widerspenstig.
+
+<<v8>>
+8 Du aber, Menschensohn, höre, was ich zu dir sage. Sei nicht
+widerspenstig wie dieses widerspenstige Volk! Öffne deinen Mund und iss,
+was ich dir gebe.
+
+<<v9>>
+9 Und ich sah: Eine Hand war ausgestreckt zu mir; sie hielt eine
+Buchrolle. ^{[[#fn8][8]]}
+
+<<v10>>
+10 Er rollte sie vor mir auf. Sie war innen und außen beschrieben und
+auf ihr waren Klagen, Seufzer und Weherufe geschrieben.
+
+^{[[#fnm1][1]]} ℘ Dan 8,17; 10,11
+
+^{[[#fnm2][2]]} Menschensohn: Im Hebräischen bezeichnet der Ausdruck den
+einzelnen Menschen; bei Ezechiel ist damit der Prophet in seiner
+menschlichen Begrenztheit gemeint, anders dagegen in Dan 7 (vgl. die
+Anmerkung zu Dan 7,13).
+
+^{[[#fnm3][3]]} zu den abtrünnigen Söhnen Israels: H: zu den Söhnen
+Israels, zu den Völkern, den abtrünnigen; diese Erweiterung fehlt zu
+Recht in G.
+
+^{[[#fnm4][4]]} ℘ 2,7; 3,11.27; 33,33
+
+^{[[#fnm5][5]]} 5.8: ein widerspenstiges Volk, wörtlich: ein Haus der
+Widerspenstigkeit.
+
+^{[[#fnm6][6]]} ℘ Jer 1,8.17
+
+^{[[#fnm7][7]]} dich auch Dornen umgeben: Text korr.; vgl. G.
+
+^{[[#fnm8][8]]} ℘ Sach 5,2; Offb 5,1

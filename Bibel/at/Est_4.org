@@ -1,0 +1,244 @@
+#+TITLE: Est 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-25 Sa 21:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Est 4.html
+
+<<verses>>
+
+<<v1>>
+* Die Abwendung der Gefahr: 4,1 - 7,10
+
+* Esters Vermittlung: 4,1-17
+
+1 Als Mordechai von allem, was geschehen war, erfuhr, zerriss er seine
+Kleider, hüllte sich in Sack und Asche, ging in die Stadt und erhob ein
+lautes Klagegeschrei.
+
+<<v2>>
+2 So kam er bis vor das Tor des Königspalastes; aber es war nicht
+erlaubt, im Trauergewand durch das Tor des Palastes zu gehen.
+
+<<v3>>
+3 Auch in allen Provinzen herrschte bei den Juden überall große Trauer,
+sobald der Erlass und das Gesetz des Königs eintrafen. Man fastete,
+weinte und klagte. Viele schliefen in Sack und Asche.
+
+<<v4>>
+4 Als die Dienerinnen und Kämmerer zu Ester kamen und ihr berichteten,
+erschrak die Königin sehr. Sie schickte Mordechai Gewänder, damit er
+sich bekleiden und das Trauergewand ablegen könne. Doch er nahm sie
+nicht an.
+
+<<v5>>
+5 Da rief Ester den königlichen Kämmerer Hatach, den der König zu ihrem
+Diener bestimmt hatte, und schickte ihn zu Mordechai, um zu erfahren,
+was vorgefallen sei und warum er sich so seltsam verhalte.
+
+<<v6>>
+6 Hatach ging zu Mordechai auf den Marktplatz vor das Tor des Palastes
+hinaus.
+
+<<v7>>
+7 Und Mordechai erzählte ihm alles, was geschehen war, und sagte ihm
+sogar, wie viel Silber Haman in die königlichen Schatzkammern liefern
+wollte, sobald er die Juden ausgerottet hätte.
+
+<<v8>>
+8 Er gab ihm auch eine Abschrift des Erlasses über die Ausrottung der
+Juden, der in Susa veröffentlicht worden war; ihn sollte Hatach Ester
+zeigen, ihr alles erzählen und sie dringend bitten, zum König zu gehen
+und ihn inständig um Gnade für ihr Volk anzuflehen.
+
+<<v9>>
+9 Hatach kam und berichtete Ester, was Mordechai gesagt hatte.
+
+<<v10>>
+10 Ester schickte Hatach wieder zu Mordechai und ließ ihm sagen:
+
+<<v11>>
+11 Alle Diener des Königs und alle Einwohner der königlichen Provinzen
+wissen, dass für jeden, Mann oder Frau, der zum König in den inneren Hof
+geht, ohne gerufen worden zu sein, das gleiche Gesetz gilt: Man tötet
+ihn. Nur wenn der König ihm das goldene Zepter entgegenstreckt, bleibt
+er am Leben. Ich bin schon dreißig Tage nicht mehr zum König gerufen
+worden. [fn:1]
+
+<<v12>>
+12 Hatach teilte Mordechai mit, was Ester gesagt hatte.
+
+<<v13>>
+13 Mordechai ließ Ester erwidern: Glaub ja nicht, weil du im
+Königspalast lebst, könntest du dich als Einzige von allen Juden retten.
+
+<<v14>>
+14 Wenn du in diesen Tagen schweigst, dann wird den Juden anderswoher
+Hilfe und Rettung kommen. Du aber und das Haus deines Vaters werden
+untergehen. Wer weiß, ob du nicht gerade dafür in dieser Zeit Königin
+geworden bist?
+
+<<v15>>
+15 Ester ließ Mordechai antworten:
+
+<<v16>>
+16 Geh und ruf alle Juden zusammen, die in Susa leben. Fastet für mich!
+Esst und trinkt drei Tage und Nächte lang nichts! Auch ich und meine
+Dienerinnen wollen ebenso fasten. Dann will ich zum König gehen, obwohl
+es gegen das Gesetz verstößt. Wenn ich umkomme, komme ich eben um.
+
+<<v17>>
+17 Mordechai ging weg und tat alles genau so, wie es Ester ihm befohlen
+hatte.\\
+\\
+
+<<v17a>>
+* Das Gebet Mordechais: 4,17a-i G = 13,8-18 Vg
+
+17a Mordechai dachte an alle die Taten des Herrn und er betete zum
+Herrn:
+
+<<v17b>>
+17b Herr, Herr, König, du Herrscher über alles! Deiner Macht ist das All
+unterworfen und niemand kann sich dir widersetzen, wenn du Israel retten
+willst; [fn:2]
+
+<<v17c>>
+17c denn du hast Himmel und Erde gemacht und alles, was wir unter dem
+Himmel bestaunen. Du bist der Herr über alles und niemand kann es wagen,
+sich dir, dem Herrn, entgegenzustellen.
+
+<<v17d>>
+17d Du kennst alles. Du weißt, Herr, dass es weder aus Hochmut, noch aus
+Überheblichkeit, noch aus Ruhmsucht geschah, wenn ich mich vor dem
+überheblichen Haman nicht niedergeworfen habe. Denn ich würde gern seine
+Fußsohlen küssen, wenn es für die Rettung Israels von Nutzen wäre.
+
+<<v17e>>
+17e Ich habe so gehandelt, weil ich nicht die Ehre eines Menschen über
+die Ehre Gottes stellen wollte. Ich werde mich vor niemand niederwerfen,
+außer vor dir, meinem Gott, und ich handle nicht aus Überheblichkeit so.
+
+<<v17f>>
+17f Und nun, Herr und Gott, König, Gott Abrahams, verschone dein Volk!
+Denn sie blicken voll Hass auf uns und wollen uns ins Verderben stürzen;
+sie sind darauf aus zu vernichten, was von Anfang an dein Erbbesitz war.
+
+<<v17g>>
+17g Übersieh dein Erbteil nicht, das du dir von den Ägyptern losgekauft
+hast.
+
+<<v17h>>
+17h Hör auf mein Flehen, hab Erbarmen mit deinem Erbbesitz und verwandle
+unsere Trauer in Freude, damit wir am Leben bleiben und deinen Namen
+preisen Herr; lass den Mund derer, die dich loben, nicht verstummen!
+
+<<v17i>>
+17i Auch ganz Israel schrie mit aller Kraft (zum Herrn); denn der Tod
+stand ihnen vor Augen.\\
+\\
+
+<<v17k>>
+* Das Gebet der Ester: 4,17k-z G = 14,1-19 Vg
+
+17k Auch die Königin Ester wurde von Todesangst ergriffen und suchte
+Zuflucht beim Herrn. Sie legte ihre prächtigen Gewänder ab und zog die
+Kleider der Notzeit und Trauer an. Statt der kostbaren Salben tat sie
+Asche und Staub auf ihr Haupt, vernachlässigte ihren Körper, und wo sie
+sonst ihren prunkvollen Schmuck trug, hingen jetzt ihre Haare in
+Strähnen herab. Und sie betete zum Herrn, dem Gott Israels:
+
+<<v17l>>
+17l Herr, unser König, du bist der Einzige. Hilf mir! Denn ich bin
+allein und habe keinen Helfer außer dir; die Gefahr steht greifbar vor
+mir.
+
+<<v17m>>
+17m Von Kindheit an habe ich in meiner Familie und meinem Stamm gehört,
+dass du, Herr, Israel aus allen Völkern erwählt hast; du hast dir unsere
+Väter aus allen ihren Vorfahren als deinen ewigen Erbbesitz ausgesucht
+und hast an ihnen gehandelt, wie du es versprochen hattest. [fn:3]
+
+<<v17n>>
+17n Wir aber haben uns gegen dich verfehlt und du hast uns unseren
+Feinden ausgeliefert, weil wir ihre Götter verehrt haben. Du bist
+gerecht, Herr.
+
+<<v17o>>
+17o Jetzt aber ist es unseren Feinden nicht mehr genug, uns grausam zu
+unterjochen, sondern sie haben ihren Götzen geschworen, dein Versprechen
+zu vereiteln, deinen Erbbesitz zu vernichten, den Mund derer, die dich
+loben, verstummen zu lassen und das Licht deines Tempels und das Feuer
+auf deinem Altar auszulöschen.
+
+<<v17p>>
+17p Stattdessen wollen sie den Heiden den Mund öffnen, damit sie ihre
+nichtigen Götzen preisen und auf ewige Zeiten einen sterblichen König
+verherrlichen.
+
+<<v17q>>
+17q Überlass dein Zepter, Herr, nicht den nichtigen Götzen! Man soll
+nicht höhnisch über unseren Sturz lachen. Lass ihre Pläne sich gegen sie
+selbst kehren; den aber, der all das gegen uns veranlasst hat, mach zum
+warnenden Beispiel!
+
+<<v17r>>
+17r Denk an uns, Herr! Offenbare dich in der Zeit unserer Not und gib
+mir Mut, König der Götter und Herrscher über alle Mächte!
+
+<<v17s>>
+17s Leg mir in Gegenwart des Löwen die passenden Worte in den Mund und
+stimm sein Herz um, damit er unseren Feind hasst und ihn und seine
+Gesinnungsgenossen vernichtet. [fn:4]
+
+<<v17t>>
+17t Uns aber rette mit deiner Hand! Hilf mir, denn ich bin allein und
+habe niemand außer dir, o Herr!
+
+<<v17u>>
+17u Du kennst alles. Du weißt auch, dass ich den Prunk der Heiden hasse
+und das Bett eines Unbeschnittenen und Fremden verabscheue. [fn:5]
+
+<<v17v>>
+17v Du weißt, dass ich das Zeichen meiner Würde verabscheue und es an
+den Tagen meines öffentlichen Auftretens nur unter Zwang auf dem Kopf
+trage.
+
+<<v17w>>
+17w Ich verabscheue es wie die blutigen Stofffetzen zur Zeit meiner
+Unreinheit und trage es nicht an den Tagen, an denen ich meine Ruhe
+habe. [fn:6]
+
+<<v17x>>
+17x Deine Magd hat nicht am Tisch Hamans gegessen, ich habe keinem
+königlichen Gelage durch meine Anwesenheit Glanz verliehen und habe
+keinen Opferwein getrunken.
+
+<<v17y>>
+17y Seit deine Magd hierher kam, bist du für sie der einzige Grund, sich
+zu freuen, Herr, du Gott Abrahams.
+
+<<v17z>>
+17z Gott, du hast Macht über alle: Erhöre das Flehen der Verzweifelten
+und befrei uns aus der Hand der Bösen! Befrei mich von meinen Ängsten!\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Est_5.org::v2][5,2]]; [[file:Est_8.org::v4][8,4]]
+
+[fn:2] [[file:2.Chr_20.org::v6][2 Chr 20,6f]]
+
+[fn:3] [[file:Dtn_6.org::v20][Dtn 6,20]]-[[file:Dtn_6.org::v25][25]]; [[file:Ps_78.org::v3][Ps 78,3]]-[[file:Ps_78.org::v7][7]]; [[file:Dtn_7.org::v6][Dtn 7,6]]; [[file:Ri_2.org::v6][Ri 2,6]]; [[file:Ps_105.org::v6][Ps 105,6]]-[[file:Ps_105.org::v15][15]]
+
+[fn:4] «Löwe» wird hier der König genannt.
+
+[fn:5] Heiden, wörtlich: Gesetzlose, d.h. Menschen, die nicht
+nach dem Gesetz der Juden leben.
+
+[fn:6] [[file:Lev_15.org::v19][Lev 15,19]]

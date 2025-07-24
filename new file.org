@@ -1,0 +1,12 @@
+
+#+title: New File
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+STARTUP: showall
+#+DATE: [2024-01-24 Mi 22:08]
+
+* heading
+:PROPERTIES:
+:CAPTURED: [2024-01-24 Mi 22:08]
+:END:
+

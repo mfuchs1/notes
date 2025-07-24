@@ -1,0 +1,119 @@
+#+TITLE: Koh 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-02-13 Do 12:54]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Koh 6.html
+
+* Koh 6
+
+<<verses>>
+
+<<v1>>
+1 Doch es gibt etwas Schlimmes, das ich unter der Sonne beobachtet habe;
+es lastet häufig auf dem Menschen: [fn:1]
+
+<<v2>>
+2 Gott schenkt einem Menschen so viel Reichtum, Wohlstand und Geltung,
+dass ihm nichts fehlt von allem, was er sich wünschen könnte; aber Gott
+ermächtigt ihn nicht, davon zu essen, sondern ein Fremder isst es auf.
+Das ist Windhauch und eine schlimme Krankheit. [fn:2]\\
+\\
+
+<<v3>>
+* Langes Leben und Reichtum ohne Freude: 6,3-5
+
+3 Wenn ein Mann hundert Söhne zeugt und viele Jahre lebt, sodass seine
+Lebenszeit wirklich lang ist, wenn er sich selbst aber seines Vermögens
+doch nicht bedienen kann, um sich satt zu essen, auch wenn niemals ein
+Grab auf ihn warten würde - ich sage: Eine Fehlgeburt hat es besser als
+er. [fn:3] [fn:4]\\
+\\
+
+<<v4>>
+4 Denn: Als Windhauch kam sie, ins Dunkel geht sie, /\\
+ in Dunkel bleibt ihr Name gehüllt.\\
+\\
+
+<<v5>>
+5 Sie hat auch die Sonne nicht gesehen und nicht gekannt. So hat sie
+Ruhe, er nicht. [fn:5]\\
+\\
+
+<<v6>>
+* Langes Leben in Armut und ohne Freude: 6,6-10
+
+6 Und wenn er zweimal tausend Jahre lebte, aber das Glück nicht kennen
+lernte: Gehen nicht beide zu ein und demselben Ort?
+
+<<v7>>
+7 Alles Arbeiten des Menschen ist für den Rachen des Totenreichs, und
+dessen Schlund wird niemals voll. [fn:6]
+
+<<v8>>
+8 Denn was hat der Gebildete dem Ungebildeten voraus, was nutzt es dem
+Armen, auch wenn er etwas kann, noch unter den Lebenden zu weilen?\\
+\\
+
+<<v9>>
+9 Besser, etwas vor Augen zu haben /\\
+ als ein hungriger Rachen. Aber auch das ist Windhauch und
+Luftgespinst.\\
+\\
+
+<<v10>>
+10 Was auch immer jemand war, er hat vorher schon seinen Namen bekommen;
+es war erkannt, dass er nur ein Mensch sein wird, und er kann nicht mit
+dem streiten, der mächtiger als er ist. [fn:7] [fn:8]\\
+\\
+
+<<v11>>
+* Alte Spruchweisheiten - kritisch überprüft: 6,11 - 9,6
+
+* Einleitung: 6,11-12
+
+11 Es gibt viele Worte, die nur den Windhauch vermehren. Was nützt das
+dem Menschen? [fn:9]
+
+<<v12>>
+12 Denn: Wer kann erkennen, was für den Menschen besser ist in seinem
+Leben, während der wenigen Tage seines Lebens voll Windhauch, die er wie
+ein Schatten verbringt? Und wer kann dem Menschen verkünden, was nach
+ihm unter der Sonne geschehen wird? [fn:10]\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:Koh_2.org::v17][2,17]]; [[file:Koh_8.org::v6][8,6]]; (1-9) [[file:Koh_2.org::v18][2,18-23]]
+
+[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/Lk_12.org::v20][Lk 12,20]]
+
+[fn:3] [[file:Koh_4.org::v3][4,3]]; [[file:Ijob_3.org::v10][Ijob 3,10-16]]; [[file:Jer_20.org::v17][Jer 20,17]]
+
+[fn:4] Auch wenn niemals ein Grab auf ihn warten würde, Sinn:
+Wenn das Unmögliche einträte, dass er unsterblich wäre.
+
+[fn:5] [[file:Koh_4.org::v6][4,6]]
+
+[fn:6] Andere Übersetzungsmöglichkeit: Alles Arbeiten des
+Menschen ist für seinen Mund und doch wird sein Rachen niemals voll.
+
+[fn:7] [[file:Koh_1.org::v9][1,9]]; [[file:Koh_3.org::v14][3,14f]]; [[file:Gen_1.org][Gen 1]]; [[file:Am_3.org::v2][Am 3,2]]; [[file:Jer_1.org::v5][Jer 1,5]]; [[file:Ijob_9.org][Ijob 9]]; [[file:Weish_12.org::v12][Weish 12,12]]
+
+[fn:8] Derjenige, der jedem Menschen schon vorher seinen Namen
+gibt und ihn in seiner menschlichen Begrenztheit durchschaut, ist Gott.
+Ob mit dem Mächtigeren, mit dem ein Mensch nicht streiten kann, der Tod
+gemeint ist oder Gott, bleibt ungesagt.
+
+[fn:9] 11f: Beispiele solcher «Worte» werden in 7,1 - 9,6
+angeführt und kritisiert. Die Fragen in 6,12 deuten den Aufbau dieses
+kommenden Abschnitts an.
+
+[fn:10] [[file:Koh_3.org::v22][3,22]]; [[file:Koh_7.org::v14][7,14f]]; [[file:Koh_8.org::v7][8,7]].[[file:Koh_8.org::v13][13]]; [[file:Koh_9.org::v9][9,9]]; [[file:Koh_10.org::v14][10,14]]; [[file:1.Chr_29.org::v15][1 Chr 29,15]]; [[file:Ps_39.org::v7][Ps 39,7]]; [[file:Ijob_14.org::v1][Ijob 14,1]]

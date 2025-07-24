@@ -1,0 +1,125 @@
+:PROPERTIES:
+:ID:       161cee14-6e68-4a84-b7ce-c1a38aee66c3
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Kolosser* --
+[[file:Kol_1.html][1]] [[file:Kol_2.html][2]] [[file:Kol_3.html][3]] *4*
+
+--------------
+
+* Kol 4
+  :PROPERTIES:
+  :CUSTOM_ID: kol-4
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Ihr Herren, gebt den Sklaven, was recht und billig ist; ihr wisst,
+dass auch ihr im Himmel einen Herrn habt.\\
+\\
+
+<<v2>>
+**** Mahnungen an alle: 4,2-6
+     :PROPERTIES:
+     :CUSTOM_ID: mahnungen-an-alle-42-6
+     :END:
+2 Lasst nicht nach im Beten; seid dabei wachsam und dankbar!
+
+<<v3>>
+3 Betet auch für uns, damit Gott uns eine Tür öffnet für das Wort und
+wir das Geheimnis Christi predigen können, für das ich im Gefängnis bin;
+
+<<v4>>
+4 betet, dass ich es wieder offenbaren und verkündigen kann, wie es
+meine Pflicht ist.
+
+<<v5>>
+5 Seid weise im Umgang mit den Außenstehenden, nutzt die Zeit!
+
+<<v6>>
+6 Eure Worte seien immer freundlich, doch mit Salz gewürzt; denn ihr
+müsst jedem in der rechten Weise antworten können.\\
+\\
+
+<<v7>>
+** Der Schluss des Briefes: persönliche Mitteilungen und Grüße: 4,7-18
+   :PROPERTIES:
+   :CUSTOM_ID: der-schluss-des-briefes-persönliche-mitteilungen-und-grüße-47-18
+   :END:
+7 Wie es mir geht, wird euch der geliebte Bruder Tychikus ausführlich
+berichten. Er ist mein treuer Helfer und dient mit mir dem Herrn.
+^{[[#fn1][1]]}
+
+<<v8>>
+8 Ich schicke ihn eigens zu euch, damit ihr alles über uns erfahrt und
+damit er euch Mut zuspricht.
+
+<<v9>>
+9 Er kommt mit Onesimus, dem treuen und geliebten Bruder, der ja einer
+von euch ist. Sie werden euch über alles berichten, was hier vor sich
+geht. ^{[[#fn2][2]][[#fn3][3]]}
+
+<<v10>>
+10 Es grüßt euch Aristarch, der mit mir im Gefängnis ist, und Markus,
+der Vetter des Barnabas. Seinetwegen habt ihr schon Anweisungen
+erhalten. Wenn er zu euch kommt, nehmt ihn auf!
+
+<<v11>>
+11 Auch Jesus, genannt Justus, grüßt euch. Von den Juden sind sie die
+Einzigen, die mit mir für das Reich Gottes arbeiten; durch sie bin ich
+getröstet worden.
+
+<<v12>>
+12 Es grüßt euch euer Epaphras, der Knecht Christi Jesu. Immer kämpft er
+für euch im Gebet, dass ihr vollkommen werdet und ganz durchdrungen seid
+vom Willen Gottes. ^{[[#fn4][4]]}
+
+<<v13>>
+13 Ich bezeuge, dass er sich große Mühe gibt um euch und um die
+Gläubigen in Laodizea und Hiërapolis. ^{[[#fn5][5]]}
+
+<<v14>>
+14 Auch der Arzt Lukas, unser lieber Freund, und Demas grüßen euch.
+^{[[#fn6][6]]}
+
+<<v15>>
+15 Grüßt die Brüder in Laodizea, auch Nympha und die Gemeinde in ihrem
+Haus. ^{[[#fn7][7]]}
+
+<<v16>>
+16 Wenn der Brief bei euch vorgelesen worden ist, sorgt dafür, dass er
+auch in der Gemeinde von Laodizea bekannt wird, und den Brief an die
+Laodizener lest auch bei euch vor! ^{[[#fn8][8]]}
+
+<<v17>>
+17 Sagt dem Archippus: Achte darauf, dass du den Dienst erfüllst, den du
+im Auftrag des Herrn übernommen hast.
+
+<<v18>>
+18 Den Gruß schreibe ich, Paulus, eigenhändig. Denkt an meine Fesseln!
+Die Gnade sei mit euch! ^{[[#fn9][9]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Eph 6,21f
+
+^{[[#fnm2][2]]} ℘ Phlm 10
+
+^{[[#fnm3][3]]} Onesimus ist der in Phlm 10-12 erwähnte Sklave des
+Philemon.
+
+^{[[#fnm4][4]]} ℘ 1,7
+
+^{[[#fnm5][5]]} Hiërapolis ist eine phrygische Stadt nördlich von
+Kolossä.
+
+^{[[#fnm6][6]]} ℘ 2 Tim 4,11
+
+^{[[#fnm7][7]]} Nach anderen Textzeugen: auch Nymphas und die Gemeinde
+in seinem Haus.
+
+^{[[#fnm8][8]]} Der Brief an die Gemeinde von Laodizea ist verloren
+gegangen.
+
+^{[[#fnm9][9]]} ℘ 1 Kor 16,21; Eph 3,1

@@ -1,0 +1,58 @@
+#+TITLE: Ps 70 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-02 Fr 10:59]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 70.html
+
+* Ps 70
+
+<<verses>>
+
+<<v1>>
+* Bitte um Gottes Hilfe
+
+1 [Für den Chormeister. Von David. Zum Weihrauchopfer.] [fn:1]\\
+\\
+
+<<v2>>
+2 Gott, komm herbei, um mich zu retten, /\\
+ Herr, eil mir zu Hilfe!\\
+\\
+
+<<v3>>
+3 In Schmach und Schande sollen alle fallen, /\\
+ die mir nach dem Leben trachten. Zurückweichen sollen sie und vor Scham
+erröten, /\\
+ die sich über mein Unglück freuen.\\
+\\
+
+<<v4>>
+4 Beschämt sollen sich alle abwenden, die lachen und höhnen /\\
+ und sagen: «Dir geschieht recht.»\\
+\\
+
+<<v5>>
+5 Alle, die dich suchen, frohlocken; /\\
+ sie mögen sich freuen in dir. Die dein Heil lieben, sollen immer sagen:
+/\\
+ «Groß ist Gott, der Herr.» [fn:2]\\
+\\
+
+<<v6>>
+6 Ich aber bin arm und gebeugt. /\\
+ Eile, o Gott, mir zu Hilfe! Meine Hilfe und mein Retter bist du. /\\
+ Herr, säume doch nicht!\\
+\\
+
+* Footnotes
+
+[fn:1] (1-6) [[file:Ps_40.org::v14][40,14-18]]
+
+[fn:2] der Herr: ergänzt mit einigen hebräischen Handschriften (vgl. [[file:Ps_40.org::v17][Ps 40,17]]).

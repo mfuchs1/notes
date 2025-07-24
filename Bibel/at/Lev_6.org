@@ -1,0 +1,143 @@
+#+TITLE: Lev 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 14:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 6.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Opfervorschriften für die Priester: 6,1 - 7,38
+
+* Das Brandopfer: 6,1-6
+
+1 Der Herr sprach zu Mose:
+
+<<v2>>
+2 Trag Aaron und seinen Söhnen auf: Für das Brandopfer gilt folgendes
+Gesetz: Das Brandopfer soll die ganze Nacht bis zum Morgen auf der
+Feuerstelle des Altars bleiben und das Altarfeuer soll darauf brennen.
+
+<<v3>>
+3 Der Priester soll sein Leinengewand anlegen und seinen Körper mit
+einem leinenen Beinkleid bedecken. Dann soll er die Fett-Asche nehmen,
+zu der das Brandopfer auf dem Altar vom Feuer verzehrt wurde, und sie
+neben den Altar schütten. [fn:1]
+
+<<v4>>
+4 Dann soll er seine Kleider ablegen, andere anziehen und die Fett-Asche
+aus dem Lager hinaus an einen reinen Platz schaffen.
+
+<<v5>>
+5 Das Feuer soll auf dem Altar brennen bleiben, es darf nicht erlöschen
+und der Priester soll jeden Morgen Holz nachlegen. Er lege darauf das
+Brandopfer und lasse auf ihm die Fetteile des Heilsopfers in Rauch
+aufgehen.
+
+<<v6>>
+6 Ein ständiges Feuer soll auf dem Altar brennen; es darf nicht
+verlöschen.\\
+\\
+
+<<v7>>
+* Das Speiseopfer: 6,7-11
+
+7 Für das Speiseopfer gilt folgendes Gesetz: Einer der Söhne Aarons
+bringt es vor den Herrn zur Vorderseite des Altars, [fn:2]
+
+<<v8>>
+8 hebt von ihm eine Hand voll Feinmehl, zusammen mit dem Öl und dem
+ganzen darauf befindlichen Weihrauch ab und lässt es als
+Gedächtnisanteil für den Herrn auf dem Altar zum beruhigenden Duft in
+Rauch aufgehen.
+
+<<v9>>
+9 Das Übrige sollen Aaron und seine Söhne als ungesäuertes Brot an einem
+heiligen Ort, im Vorhof des Offenbarungszeltes, essen.
+
+<<v10>>
+10 Man soll den Anteil an meinen Feueropfern, den ich ihnen gebe, nicht
+gesäuert backen. Es ist etwas Hochheiliges wie das Sünd- und das
+Schuldopfer.
+
+<<v11>>
+11 Jede männliche Person unter den Söhnen Aarons darf von diesem Anteil
+an den Feueropfern des Herrn essen. Das gelte bei euch als feste Regel
+von Generation zu Generation. Alles, was damit in Berührung kommt, wird
+heilig.\\
+\\
+
+<<v12>>
+* Das Opfer bei der Priesterweihe: 6,12-16
+
+12 Der Herr sprach zu Mose:
+
+<<v13>>
+13 Das ist die Opfergabe, die Aaron und seine Söhne am Tag ihrer Salbung
+dem Herrn darbringen sollen: ein Zehntel Efa Feinmehl als dauerndes
+Speiseopfer, die Hälfte am Morgen und die Hälfte am Abend.
+
+<<v14>>
+14 Dieses Speiseopfer soll, mit Öl eingerührt, auf einer Ofenplatte
+zubereitet werden; du sollst es in mehrere Stücke zerbröckeln und als
+beruhigenden Duft für den Herrn darbringen.
+
+<<v15>>
+15 Der Priester, der an Aarons Stelle aus dem Kreis seiner Söhne gesalbt
+ist, soll es zubereiten. Als feste Regel gelte: Das Speiseopfer soll für
+den Herrn ganz in Rauch aufgehen;
+
+<<v16>>
+16 jedes Speiseopfer eines Priesters soll ein Ganzopfer sein; man darf
+es nicht essen.\\
+\\
+
+<<v17>>
+* Das Sündopfer: 6,17-23
+
+17 Der Herr sprach zu Mose: [fn:3]
+
+<<v18>>
+18 Sag zu Aaron und seinen Söhnen: Für das Sündopfer gilt folgendes
+Gesetz: Dort, wo man das Brandopfer schlachtet, soll das Sündopfer vor
+dem Herrn geschlachtet werden. Es ist etwas Hochheiliges.
+
+<<v19>>
+19 Der Priester, der dieses Opfer darbringt, soll es essen; an einem
+heiligen Ort, im Vorhof des Offenbarungszeltes, muss es gegessen werden.
+
+<<v20>>
+20 Alles, was mit dem Fleisch in Berührung kommt, wird heilig, und wenn
+vom Blut etwas auf die Gewänder spritzt, soll die Stelle an einem
+heiligen Ort gewaschen werden.
+
+<<v21>>
+21 Das Tongefäß, in dem das Fleisch gekocht wird, soll zerbrochen
+werden, und wenn es in einem Bronzegefäß gekocht wird, muss dieses
+gescheuert und mit Wasser abgespült werden.
+
+<<v22>>
+22 Jede männliche Person unter den Priestern darf davon essen; es ist
+etwas Hochheiliges.
+
+<<v23>>
+23 Aber man darf kein Sündopfer essen, dessen Blut man in das
+Offenbarungszelt gebracht hat, um im Heiligtum die Sühne zu vollziehen;
+es muss im Feuer verbrannt werden.\\
+\\
+
+
+* Footnotes
+
+[fn:1] Ex 28,42f
+
+[fn:2] (7-11) 2,1-13
+
+[fn:3] (17-23) 4,1-35

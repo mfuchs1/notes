@@ -1,0 +1,95 @@
+#+TITLE: Est 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-25 Sa 21:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Est 10.html
+
+<<verses>>
+
+<<v1>>
+* Der Bericht über die Taten des Artaxerxes und die Stellung Mordechais: 10,1-3
+
+1 König Artaxerxes verpflichtete das Land und die Inseln zum Frondienst.
+
+<<v2>>
+2 Alle großen und eindrucksvollen Taten und der genaue Bericht über die
+hohe Stellung Mordechais, die ihm der König verliehen hatte, sind in der
+Chronik der Könige von Medien und Persien aufgezeichnet.
+
+<<v3>>
+3 Denn der Jude Mordechai war der zweite Mann nach König Artaxerxes, er
+war bei den Juden hoch angesehen und beliebt bei allen seinen
+Stammesbrüdern. Er suchte das Wohl seines Volkes und war auf das
+Wohlergehen all seiner Nachkommen bedacht.\\
+\\
+
+<<v3a>>
+* Die Deutung des Traumes Mordechais: 10,3a-k G=10,4-13 Vg
+
+3a Da sagte Mordechai: Durch Gott ist das alles geschehen.
+
+<<v3b>>
+3b Ich erinnere mich an den Traum, den ich darüber hatte. Nichts davon
+ist unerfüllt geblieben. [fn:1]
+
+<<v3c>>
+3c Die kleine Quelle, die zum großen Strom mit viel Wasser wurde, als
+das Licht und die Sonne wieder schienen, dieser Strom ist Ester; der
+König heiratete sie und machte sie zur Königin.
+
+<<v3d>>
+3d Die beiden Drachen sind ich und Haman.
+
+<<v3e>>
+3e Die Völker sind die, die gemeinsam das Andenken an die Juden
+auslöschen wollten.
+
+<<v3f>>
+3f Mein Volk aber, das sind die Israeliten; sie haben zu Gott geschrien
+und sind gerettet worden. Der Herr hat sein Volk gerettet, der Herr hat
+uns von allen diesen Leiden erlöst, Gott hat große Zeichen und Wunder
+getan, wie sie unter den Völkern noch nie geschehen sind.
+
+<<v3g>>
+3g Deshalb machte er zwei Lose, eines für das Volk Gottes und eines für
+alle anderen Völker.
+
+<<v3h>>
+3h Die beiden Lose fielen auf die Zeit und die Stunde und den Tag, an
+dem vor den Augen Gottes und mitten unter allen Völkern die Entscheidung
+fiel.
+
+<<v3i>>
+3i Gott hat sich an sein Volk, das sein Erbbesitz ist, erinnert und ihm
+zu seinem Recht verholfen.
+
+<<v3k>>
+3k Diese Tage im Monat Adar, der vierzehnte und der fünfzehnte, sollen
+zu allen Zeiten und in allen Generationen unter den Augen Gottes in
+seinem Volk Israel mit ausgelassener Freude gemeinsam gefeiert werden.\\
+\\
+
+<<v3l>>
+* Die Unterschrift zum griechischen Esterbuch: 10,3l G=11,1 Vg
+
+3l Im vierten Jahr der Regierung des Ptolemäus und der Kleopatra
+überbrachten Dositheus, der, wie er sagte, Priester und Levit war, und
+sein Sohn Ptolemäus den vorliegenden Purimbericht. Sie sagten, er sei
+echt; Lysimachus, der Sohn des Ptolemäus, ein Mann aus Jerusalem, habe
+ihn übersetzt. [fn:2]\\
+\\
+
+* Footnotes
+
+[fn:1] 1,1 a-l
+
+[fn:2] Empfänger des Briefs sind die Juden von Alexandria.
+Offenbar soll das Fest dort eingeführt werden. Wann das geschah, lässt
+sich bei der Unbestimmtheit der Zeitangaben nicht sagen. - Purimbericht:
+G liest (im Anklang an «Purim»): Brief über Phrurai (= Wachen).

@@ -1,0 +1,114 @@
+#+TITLE: Hld 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-07-02 Mi 11:29]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Hld 7.html
+
+* Hld 7
+
+<<verses>>
+
+<<v1>>
+1 Wende dich, wende dich, Schulammit! /\\
+ Wende dich, wende dich, /\\
+ damit wir dich betrachten. Was wollt ihr an Schulammit sehen? /\\
+ Den Lager-Tanz!\\
+\\
+
+<<v2>>
+2 Wie schön sind deine Schritte in den Sandalen, /\\
+ du Edelgeborene. Deiner Hüften Rund ist wie Geschmeide, /\\
+ gefertigt von Künstlerhand.\\
+\\
+
+<<v3>>
+3 Dein Schoß ist ein rundes Becken, /\\
+ Würzwein mangle ihm nicht. Dein Leib ist ein Weizenhügel, /\\
+ mit Lilien umstellt.\\
+\\
+
+<<v4>>
+4 Deine Brüste sind wie zwei Kitzlein, /\\
+ wie die Zwillinge einer Gazelle. [fn:1]\\
+\\
+
+<<v5>>
+5 Dein Hals ist ein Turm aus Elfenbein. /\\
+ Deine Augen sind wie die Teiche zu Heschbon /\\
+ beim Tor von Bat-Rabbim. Deine Nase ist wie der Libanonturm, /\\
+ der gegen Damaskus schaut.\\
+\\
+
+<<v6>>
+6 Dein Haupt gleicht oben dem Karmel; /\\
+ wie Purpur sind deine Haare; /\\
+ ein König liegt in den Ringeln gefangen. [fn:2]\\
+\\
+
+<<v7>>
+7 Wie schön bist du und wie reizend, /\\
+ du Liebe voller Wonnen!\\
+\\
+
+<<v8>>
+8 Wie eine Palme ist dein Wuchs; /\\
+ deine Brüste sind wie Trauben.\\
+\\
+
+<<v9>>
+9 Ich sage: Ersteigen will ich die Palme; /\\
+ ich greife nach den Rispen. Trauben am Weinstock seien mir deine
+Brüste, /\\
+ Apfelduft sei der Duft deines Atems,\\
+\\
+
+<<v10>>
+10 dein Mund köstlicher Wein, /\\
+ der glatt in mich eingeht, /\\
+ der Lippen und Zähne mir netzt. [fn:3]\\
+\\
+
+<<v11>>
+11 Ich gehöre meinem Geliebten /\\
+ und ihn verlangt nach mir.\\
+\\
+
+<<v12>>
+12 Komm, mein Geliebter, wandern wir auf das Land, /\\
+ schlafen wir in den Dörfern. [fn:4]\\
+\\
+
+<<v13>>
+13 Früh wollen wir dann zu den Weinbergen gehen /\\
+ und sehen, ob der Weinstock schon treibt, ob die Rebenblüte sich
+öffnet, /\\
+ ob die Granatbäume blühen. /\\
+ Dort schenke ich dir meine Liebe. [fn:5]\\
+\\
+
+<<v14>>
+14 Die Liebesäpfel duften; /\\
+ an unsrer Tür warten alle köstlichen Früchte, frische und solche vom
+Vorjahr; /\\
+ für dich hab ich sie aufgehoben, Geliebter.\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:Hld_4.org::v5][4,5]]
+
+[fn:2] 6c: Ringeln, wörtlich: Tränkrinnen.
+
+[fn:3] 10b: in mich: Text korr.; H: in meinen Geliebten.
+
+[fn:4] [[file:Hld_2.org::v10][2,10]]
+
+[fn:5] [[file:Hld_6.org::v11][6,11]]

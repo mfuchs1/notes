@@ -1,0 +1,189 @@
+#+TITLE: Num 35 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-26 Do 21:38]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 35.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Leviten- und Asylstädte: 35,1-34
+
+1 In der Steppe von Moab, am Jordan bei Jericho, sprach der Herr zu
+Mose: [fn:1]
+
+<<v2>>
+2 Befiehl den Israeliten, sie sollen von ihrem Erbbesitz den Leviten
+einige Städte abgeben, in denen sie sich niederlassen können. Auch die
+ringsum zu den Städten gehörende Weidefläche sollt ihr den Leviten
+überlassen.
+
+<<v3>>
+3 Die Städte sollen ihnen als Wohnsitz gehören und die dazugehörenden
+Weideflächen sollen ihrem Vieh, ihren Herden und allen ihren Tieren zur
+Verfügung stehen.
+
+<<v4>>
+4 Die Weideflächen der Städte, die ihr den Leviten gebt, sollen ringsum
+von der Stadtmauer zweitausend Ellen nach außen reichen. [fn:2]
+
+<<v5>>
+5 Außerhalb der Stadt sollt ihr in östlicher Richtung zweitausend Ellen,
+in südlicher Richtung zweitausend Ellen, in westlicher Richtung
+zweitausend Ellen und in nördlicher Richtung zweitausend Ellen abmessen.
+Die Stadt soll also in der Mitte liegen. Das soll den Leviten als
+Weidefläche der Städte gehören.
+
+<<v6>>
+6 Unter den Städten, die ihr ihnen abgebt, sollen sechs Asylstädte sein,
+die ihr als Zufluchtsorte für den bestimmt, der einen Menschen
+erschlagen hat. Außerdem sollt ihr ihnen weitere zweiundvierzig Städte
+geben.
+
+<<v7>>
+7 Im Ganzen sind es achtundvierzig Städte samt ihren Weideflächen, die
+ihr den Leviten abgeben sollt.
+
+<<v8>>
+8 Die Zahl der Städte, die ihr vom Landbesitz der Israeliten abgebt,
+sollt ihr bei einem großen Stamm höher, bei einem kleinen niedriger
+ansetzen; jeder Stamm soll von seinen Städten den Leviten so viele
+abgeben, wie es der Größe seines eigenen Erbbesitzes entspricht.
+
+<<v9>>
+9 Der Herr sprach zu Mose:
+
+<<v10>>
+10 Rede zu den Israeliten und sag zu ihnen: Wenn ihr den Jordan
+überschritten und Kanaan betreten habt,
+
+<<v11>>
+11 dann sollt ihr einige Städte auswählen, die euch als Asylstädte
+dienen. Dorthin kann einer fliehen, der einen Menschen ohne Vorsatz
+erschlagen hat.
+
+<<v12>>
+12 Die Städte sollen euch als Asyl vor dem Bluträcher dienen, sodass
+der, der getötet hat, nicht sterben muss, bevor er vor dem Gericht der
+Gemeinde stand.
+
+<<v13>>
+13 Von den Städten, die ihr abgebt, sollen euch sechs als Asylstädte
+dienen.
+
+<<v14>>
+14 Drei dieser Städte sollt ihr jenseits des Jordan und drei in Kanaan
+bestimmen; sie sollen Asylstädte sein.
+
+<<v15>>
+15 Den Israeliten, auch den Fremden und den Halbbürgern bei euch, sollen
+diese sechs Städte als Asyl zur Verfügung stehen; dorthin kann jeder
+fliehen, der ohne Vorsatz einen Menschen erschlagen hat.
+
+<<v16>>
+16 Wenn er ihn aber mit einem Eisengerät so geschlagen hat, dass er
+stirbt, ist er ein Mörder. Der Mörder ist mit dem Tod zu bestrafen.
+
+<<v17>>
+17 Wenn er ihn mit einem Stein in der Hand, der groß genug ist, jemanden
+zu töten, so geschlagen hat, dass er stirbt, ist er ein Mörder. Der
+Mörder ist mit dem Tod zu bestrafen.
+
+<<v18>>
+18 Auch wenn er ihn mit einem hölzernen Gegenstand, der geeignet ist,
+einen Menschen zu töten, so geschlagen hat, dass er stirbt, ist er ein
+Mörder. Der Mörder ist mit dem Tod zu bestrafen.
+
+<<v19>>
+19 Der Bluträcher darf den Mörder töten; sobald er ihn trifft, darf er
+ihn töten.
+
+<<v20>>
+20 Wenn einer einen andern aus Hass stößt oder aus dem Hinterhalt nach
+ihm wirft, sodass er stirbt,
+
+<<v21>>
+21 oder wenn er ihn in feindlicher Absicht mit der Hand so schlägt, dass
+er stirbt, dann soll der, der zugeschlagen hat, mit dem Tod bestraft
+werden; er ist ein Mörder. Der Bluträcher darf den Mörder töten, sobald
+er ihn trifft.
+
+<<v22>>
+22 Wenn aber einer einen andern aus Unachtsamkeit, ohne feindliche
+Absicht, gestoßen oder ohne Hinterhältigkeit irgendeinen Gegenstand auf
+ihn geworfen hat
+
+<<v23>>
+23 oder wenn er, ohne ihn zu sehen, einen Stein, der einen Menschen
+töten kann, auf ihn fallen ließ, sodass er starb - vorausgesetzt, er war
+nicht sein Feind und suchte ihn auch nicht zu schädigen -,
+
+<<v24>>
+24 dann soll die Gemeinde zwischen dem, der getötet hat, und dem
+Bluträcher nach diesen Grundsätzen ein Urteil fällen:
+
+<<v25>>
+25 Die Gemeinde soll den, der getötet hat, vor der Gewalt des
+Bluträchers retten und ihn in die Asylstadt, in die er geflohen war,
+zurückbringen. Er darf darin wohnen, bis der Hohepriester stirbt, den
+man mit heiligem Öl gesalbt hat.
+
+<<v26>>
+26 Wenn der, der getötet hat, das Gebiet der Asylstadt verlässt, in die
+er geflohen ist,
+
+<<v27>>
+27 und der Bluträcher ihn außerhalb seiner Asylstadt trifft, darf dieser
+den, der getötet hat, umbringen; dadurch entsteht ihm keine Blutschuld.
+
+<<v28>>
+28 Denn der, der getötet hat, soll bis zum Tod des Hohenpriesters in der
+Asylstadt bleiben; nach dem Tod des Hohenpriesters kann er zu seinem
+Land und zu seinem Besitz zurückkehren.
+
+<<v29>>
+29 Das soll bei euch überall, wo ihr wohnt, von Generation zu Generation
+als Recht gelten.
+
+<<v30>>
+30 Wenn irgendjemand einen Menschen erschlägt, darf man den Mörder nur
+aufgrund von Zeugenaussagen töten; doch aufgrund der Aussage nur eines
+einzigen Zeugen darf man einen Menschen nicht töten. [fn:3]
+
+<<v31>>
+31 Ihr sollt kein Sühnegeld annehmen für das Leben eines Mörders, der
+schuldig gesprochen und zum Tod verurteilt ist; denn er muss mit dem Tod
+bestraft werden.
+
+<<v32>>
+32 Auch dürft ihr von einem, der in eine Asylstadt geflohen ist, kein
+Sühnegeld annehmen, sodass er vor dem Tod des Hohenpriesters in die
+Heimat zurückkehren könnte.
+
+<<v33>>
+33 Ihr dürft das Land, in dem ihr wohnt, nicht entweihen; denn Blut
+entweiht das Land, und man kann das Land von dem darin vergossenen Blut
+nur durch das Blut dessen entsühnen, der es vergossen hat.
+
+<<v34>>
+34 Verunreinigt nicht das Land, in dem ihr euch niedergelassen habt und
+in dessen Mitte ich selbst wohne; denn ich, der Herr, wohne mitten unter
+den Israeliten.\\
+\\
+
+
+* Footnotes
+
+[fn:1] (1-34) Ex 21,12-14 [[file:Ex_21.org::v12][Ex 21,12-14]]; Jos 20,1-9 [[file:Jos_20.org::v1][Jos 20,1-9]]; Dtn 19,1-10 [[file:Dtn_19.org::v1][Dtn 19,1-10]]
+
+[fn:2] zweitausend Ellen: so nach G und nach dem Zusammenhang
+(vgl. V.5); H: tausend Ellen.
+
+[fn:3] Dtn 17,6 [[file:Dtn_17.org::v6][Dtn 17,6]]; 19,15 [[file:Dtn_19.org::v15][Dtn 19,15]]

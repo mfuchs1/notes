@@ -1,0 +1,209 @@
+#+TITLE: Ex 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 23:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 21.html
+
+<<verses>>
+
+<<v1>>
+* Das Bundesbuch: 21,1 - 23,33
+
+* Einleitung: 21,1
+
+1 Das sind die Rechtsvorschriften, die du ihnen vorlegen sollst: [fn:1]\\
+
+<<v2>>
+* Hebräische Sklaven: 21,2-11
+2 Wenn du einen hebräischen Sklaven kaufst, soll er sechs Jahre Sklave
+bleiben, im siebten Jahr soll er ohne Entgelt als freier Mann entlassen
+werden.
+
+<<v3>>
+3 Ist er allein gekommen, soll er allein gehen. War er verheiratet, soll
+seine Frau mitgehen.
+
+<<v4>>
+4 Hat ihm sein Herr eine Frau gegeben und hat sie ihm Söhne oder Töchter
+geboren, dann gehören Frau und Kinder ihrem Herrn und er muss allein
+gehen.
+
+<<v5>>
+5 Erklärt aber der Sklave: Ich liebe meinen Herrn, meine Frau und meine
+Kinder und will nicht als freier Mann fortgehen,
+
+<<v6>>
+6 dann soll ihn sein Herr vor Gott bringen, er soll ihn an die Tür oder
+an den Torpfosten bringen und ihm das Ohr mit einem Pfriem durchbohren;
+dann bleibt er für immer sein Sklave.
+
+<<v7>>
+7 Wenn einer seine Tochter als Sklavin verkauft hat, soll sie nicht wie
+andere Sklaven entlassen werden.
+
+<<v8>>
+8 Hat ihr Herr sie für sich selbst bestimmt, mag er sie aber nicht mehr,
+dann soll er sie zurückkaufen lassen. Er hat nicht das Recht, sie an
+Fremde zu verkaufen, da er seine Zusage nicht eingehalten hat.
+
+<<v9>>
+9 Hat er sie für seinen Sohn bestimmt, verfahre er mit ihr nach dem
+Recht, das für Töchter gilt.
+
+<<v10>>
+10 Nimmt er sich noch eine andere Frau, darf er sie in Nahrung, Kleidung
+und Beischlaf nicht benachteiligen.
+
+<<v11>>
+11 Wenn er ihr diese drei Dinge nicht gewährt, darf sie unentgeltlich,
+ohne Bezahlung, gehen.\\
+\\
+
+<<v12>>
+* Totschlag und Mord: 21,12-14
+12 Wer einen Menschen so schlägt, dass er stirbt, wird mit dem Tod
+bestraft.
+
+<<v13>>
+13 Wenn er ihm aber nicht aufgelauert hat, sondern Gott es durch seine
+Hand geschehen ließ, werde ich dir einen Ort festsetzen, an den er
+fliehen kann.
+
+<<v14>>
+14 Hat einer vorsätzlich gehandelt und seinen Mitbürger aus dem
+Hinterhalt umgebracht, sollst du ihn von meinem Altar wegholen, damit er
+stirbt.\\
+\\
+
+<<v15>>
+* Misshandlung der Eltern: 21,15
+15 Wer seinen Vater oder seine Mutter schlägt, wird mit dem Tod
+bestraft. [fn:2]\\
+\\
+
+<<v16>>
+* Menschenraub: 21,16
+16 Wer einen Menschen raubt, gleichgültig, ob er ihn verkauft hat oder
+ob man ihn noch in seiner Gewalt vorfindet, wird mit dem Tod bestraft.\\
+\\
+
+<<v17>>
+* Entehrung der Eltern: 21,17
+17 Wer seinen Vater oder seine Mutter verflucht, wird mit dem Tod
+bestraft.\\
+\\
+
+<<v18>>
+* Körperverletzung durch Menschen: 21,18-27
+18 Wenn Männer in Streit geraten und einer den andern mit einem Stein
+oder einer Hacke verletzt, sodass er zwar nicht stirbt, aber bettlägerig
+wird,
+
+<<v19>>
+19 später wieder aufstehen und mit Krücken draußen umhergehen kann, so
+ist der freizusprechen, der geschlagen hat; nur für die
+Arbeitsunfähigkeit des Geschädigten muss er Ersatz leisten und er muss
+für die Heilung aufkommen.
+
+<<v20>>
+20 Wenn einer seinen Sklaven oder seine Sklavin mit dem Stock so
+schlägt, dass er unter seiner Hand stirbt, dann muss der Sklave gerächt
+werden.
+
+<<v21>>
+21 Wenn er noch einen oder zwei Tage am Leben bleibt, dann soll den
+Täter keine Rache treffen; es geht ja um sein eigenes Geld.
+
+<<v22>>
+22 Wenn Männer miteinander raufen und dabei eine schwangere Frau
+treffen, sodass sie eine Fehlgeburt hat, ohne dass ein weiterer Schaden
+entsteht, dann soll der Täter eine Buße zahlen, die ihm der Ehemann der
+Frau auferlegt; er kann die Zahlung nach dem Urteil von Schiedsrichtern
+leisten.
+
+<<v23>>
+23 Ist weiterer Schaden entstanden, dann musst du geben: Leben für
+Leben,
+
+<<v24>>
+24 Auge für Auge, Zahn für Zahn, Hand für Hand, Fuß für Fuß, [fn:3]
+
+<<v25>>
+25 Brandmal für Brandmal, Wunde für Wunde, Strieme für Strieme.
+
+<<v26>>
+26 Wenn einer seinem Sklaven oder seiner Sklavin ein Auge ausschlägt,
+soll er ihn für das ausgeschlagene Auge freilassen.
+
+<<v27>>
+27 Wenn er seinem Sklaven oder seiner Sklavin einen Zahn ausschlägt,
+soll er ihn für den ausgeschlagenen Zahn freilassen.\\
+\\
+
+<<v28>>
+* Körperverletzung durch Haustiere: 21,28-32
+28 Wenn ein Rind einen Mann oder eine Frau so stößt, dass der
+Betreffende stirbt, dann muss man das Rind steinigen und sein Fleisch
+darf man nicht essen; der Eigentümer des Rinds aber bleibt straffrei.
+
+<<v29>>
+29 Hat das Rind aber schon früher gestoßen und hat der Eigentümer,
+obwohl man ihn darauf aufmerksam gemacht hat, auf das Tier nicht
+aufgepasst, sodass es einen Mann oder eine Frau getötet hat, dann soll
+man das Rind steinigen und auch sein Eigentümer soll getötet werden.
+
+<<v30>>
+30 Will man ihm aber eine Sühne auferlegen, soll er als Lösegeld für
+sein Leben so viel geben, wie man von ihm fordert.
+
+<<v31>>
+31 Stößt das Rind einen Sohn oder eine Tochter, verfahre man nach dem
+gleichen Grundsatz.
+
+<<v32>>
+32 Stößt das Rind einen Sklaven oder eine Sklavin, soll der Eigentümer
+dem Herrn dreißig Silberschekel zahlen; das Rind aber soll gesteinigt
+werden.\\
+\\
+
+<<v33>>
+* Ersatz bei Schädigung fremden Viehs: 21,33-36
+33 Wenn jemand einen Brunnen offen lässt oder einen Brunnen gräbt, ohne
+ihn abzudecken, und es fällt ein Rind oder ein Esel hinein,
+
+<<v34>>
+34 dann soll der Eigentümer des Brunnens Ersatz leisten; er soll dem
+Eigentümer des Tieres Geld zahlen, das verendete Tier aber gehört ihm.
+
+<<v35>>
+35 Wenn jemandes Rind das Rind eines anderen stößt, sodass es eingeht,
+soll man das lebende Rind verkaufen und den Erlös aufteilen; auch das
+verendete Rind soll man aufteilen.
+
+<<v36>>
+36 Wenn jedoch der Eigentümer wusste, dass das Rind schon früher stößig
+war, aber trotzdem nicht darauf aufgepasst hat, soll er das Rind
+ersetzen, Rind für Rind, das verendete Rind aber gehört ihm.\\
+\\
+
+<<v37>>
+* Ersatz bei Diebstahl: 21,37 - 22,3
+37 Wenn einer ein Rind oder ein Schaf stiehlt und es schlachtet oder
+verkauft, soll er fünf Stück Großvieh für das Rind oder vier Stück
+Kleinvieh für das Schaf als Ersatz geben.
+
+
+* Footnotes
+
+[fn:1] 1-23,33: Diese Gesetzessammlung bezeichnet man heute als
+Bundesbuch (vgl. 24,7).
+
+[fn:2] Lev 20,9; Dtn 27,16
+
+[fn:3] Lev 24,19f; Dtn 19,21; Mt 5,38

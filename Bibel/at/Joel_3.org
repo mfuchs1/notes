@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       7001e66e-bc2c-43a0-9128-56d6fb5f8ecc
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Joel* -- [[file:Joel_1.html][1]]
+[[file:Joel_2.html][2]] *3* [[file:Joel_4.html][4]]
+
+--------------
+
+* Joel 3
+  :PROPERTIES:
+  :CUSTOM_ID: joel-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Das kommende Heil: 3,1 - 4,21
+   :PROPERTIES:
+   :CUSTOM_ID: das-kommende-heil-31---421
+   :END:
+**** Die Ausgießung des Geistes: 3,1-5
+     :PROPERTIES:
+     :CUSTOM_ID: die-ausgießung-des-geistes-31-5
+     :END:
+1 Danach aber wird es geschehen, /\\
+ dass ich meinen Geist ausgieße über alles Fleisch. Eure Söhne und
+Töchter werden Propheten sein, /\\
+ eure Alten werden Träume haben /\\
+ und eure jungen Männer haben Visionen. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Auch über Knechte und Mägde /\\
+ werde ich meinen Geist ausgießen in jenen Tagen.\\
+\\
+
+<<v3>>
+3 Ich werde wunderbare Zeichen wirken /\\
+ am Himmel und auf der Erde: /\\
+ Blut und Feuer und Rauchsäulen.\\
+\\
+
+<<v4>>
+4 Die Sonne wird sich in Finsternis verwandeln /\\
+ und der Mond in Blut, ehe der Tag des Herrn kommt, /\\
+ der große und schreckliche Tag. ^{[[#fn2][2]]}\\
+\\
+
+<<v5>>
+5 Und es wird geschehen: /\\
+ Wer den Namen des Herrn anruft, wird gerettet. Denn auf dem Berg Zion
+/\\
+ und in Jerusalem gibt es Rettung, wie der Herr gesagt hat, /\\
+ und wen der Herr ruft, der wird entrinnen. ^{[[#fn3][3]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Apg 2,17-21; Num 11,25-30
+
+^{[[#fnm2][2]]} ℘ Offb 6,12
+
+^{[[#fnm3][3]]} ℘ Röm 10,13; Obd 17; Offb 14,1

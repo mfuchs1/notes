@@ -1,0 +1,81 @@
+:PROPERTIES:
+:ID:       db043155-0072-4fff-8606-2499d8c6458d
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Ezechiel* -- [[file:Ez_1.html][1]] ...
+[[file:Ez_13.html][13]] [[file:Ez_14.html][14]] *15*
+[[file:Ez_16.html][16]] [[file:Ez_17.html][17]] ...
+[[file:Ez_48.html][48]]
+
+--------------
+
+* Ez 15
+  :PROPERTIES:
+  :CUSTOM_ID: ez-15
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Gegen Jerusalem, das unnütze Holz vom Weinstock: 15,1-8
+     :PROPERTIES:
+     :CUSTOM_ID: gegen-jerusalem-das-unnütze-holz-vom-weinstock-151-8
+     :END:
+1 Das Wort des Herrn erging an mich:\\
+\\
+
+<<v2>>
+2 Menschensohn, was hat das Holz des Weinstocks /\\
+ vor dem Holz aller anderen Sträucher voraus, /\\
+ die zwischen den Bäumen des Waldes wachsen?\\
+\\
+
+<<v3>>
+3 Nimmt man es etwa, um daraus etwas zu machen? /\\
+ Oder gebraucht man es als Pflock /\\
+ und hängt allerlei Geräte daran auf?\\
+\\
+
+<<v4>>
+4 Nein, man wirft es dem Feuer zum Fraß vor. /\\
+ Sind dann die beiden Enden des Holzes vom Feuer verzehrt und hat die
+Glut seine Mitte erfasst, /\\
+ ist es dann noch geeignet, /\\
+ um etwas daraus zu machen? ^{[[#fn1][1]]}\\
+\\
+
+<<v5>>
+5 Schon als es noch ganz war, /\\
+ konnte man nichts daraus machen. Hat das Feuer es aber gefressen und
+ist es verglüht, /\\
+ kann man erst recht nichts daraus machen.\\
+\\
+
+<<v6>>
+6 Darum - so spricht Gott, der Herr: /\\
+ Wie ich das Holz des Weinstocks, /\\
+ das zwischen den Bäumen des Waldes heranwuchs, dem Feuer zum Fraß
+übergab, /\\
+ so behandle ich auch die, die in Jerusalem wohnen. ^{[[#fn2][2]]}\\
+\\
+
+<<v7>>
+7 Wenn ich meinen Blick auf sie richte, /\\
+ dann wird sie, auch wenn sie dem Feuer entkommen, das Feuer verzehren.
+Ihr werdet erkennen, dass ich der Herr bin, /\\
+ wenn ich meinen Blick auf sie richte.\\
+\\
+
+<<v8>>
+8 Ich mache das Land zur Wüste; /\\
+ denn sie haben die Treue gebrochen - /\\
+ Spruch Gottes, des Herrn.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Joh 15,6
+
+^{[[#fnm2][2]]} 6f: Das Gleichnis vom Rebholz mit dem anschließenden
+Drohwort ist in die Situation Jerusalems von 586 v. Chr.
+hineingesprochen. Das Feuer des göttlichen Gerichts hat 597 gewütet; es
+wird auch den Rest verzehren.

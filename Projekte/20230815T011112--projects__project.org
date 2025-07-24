@@ -1,0 +1,33 @@
+#+title:      Projects
+#+date:       [2023-08-15 Di 01:11]
+#+filetags:   :project:
+#+identifier: 20230815T011112
+#+STARTUP: showall
+
+* [[elisp:(org-project-capture-open-project "notes")][notes]] [2/2]
+:PROPERTIES:
+:CATEGORY: notes
+:END:
+** DONE Oha das klappt
+CLOSED: [2023-10-30 Mo 22:52]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-10-30 Mo 22:52]
+:END:
+Aha, ich denke, dieses Pakerl könnte noch recht hilfreich werden.
+
+** DONE Link in footnotes
+CLOSED: [2024-01-25 Do 09:31] DEADLINE: <2023-10-31 Di>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-01-25 Do 09:31]
+:END:
+
+[[file:~/RoamNotes/notes/Bibel/at/Dtn_32.org][Dtn 32]]
+
+* [[elisp:(org-project-capture-open-project "Gabriel")][Gabriel]] [0/2]
+:PROPERTIES:
+:CATEGORY: Gabriel
+:END:
+** TODO Tagebuch führen
+** TODO Klare Regeln, ermutigen
+Das ist so schwer; immer positiv zu bleiben. Daher ist ist es gut, wenn wir z.B. von Melanie Jobke unterstützt werden. Sie ist so eine Frohnatur und eine tolle Englisch-Nachhilfe-Lehrerin.
+

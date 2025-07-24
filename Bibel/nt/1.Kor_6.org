@@ -1,0 +1,170 @@
+:PROPERTIES:
+:ID:       ce51d70a-dd80-43f8-95ba-5e7c7e2b440a
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der erste Brief an die Korinther* --
+[[file:1.Kor_1.html][1]] ... [[file:1.Kor_4.html][4]]
+[[file:1.Kor_5.html][5]] *6* [[file:1.Kor_7.html][7]]
+[[file:1.Kor_8.html][8]] ... [[file:1.Kor_16.html][16]]
+
+--------------
+
+* 1.Kor 6
+  :PROPERTIES:
+  :CUSTOM_ID: kor-6
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Rechtshändel unter Christen: 6,1-11
+     :PROPERTIES:
+     :CUSTOM_ID: rechtshändel-unter-christen-61-11
+     :END:
+1 Wagt es einer von euch, der mit einem anderen einen Rechtsstreit hat,
+vor das Gericht der Ungerechten zu gehen statt zu den Heiligen?
+^{[[#fn1][1]]}
+
+<<v2>>
+2 Wisst ihr denn nicht, dass die Heiligen die Welt richten werden? Und
+wenn durch euch die Welt gerichtet wird, seid ihr dann nicht zuständig,
+einen Rechtsstreit über Kleinigkeiten zu schlichten?
+^{[[#fn2][2]][[#fn3][3]]}
+
+<<v3>>
+3 Wisst ihr nicht, dass wir über Engel richten werden? Also erst recht
+über Alltägliches. ^{[[#fn4][4]]}
+
+<<v4>>
+4 Wie könnt ihr dann jene, die im Urteil der Gemeinde nichts gelten, als
+Richter einsetzen, wenn ihr einen Rechtsstreit über Alltägliches
+auszutragen habt? ^{[[#fn5][5]]}
+
+<<v5>>
+5 Ich sage das, damit ihr euch schämt. Gibt es denn unter euch wirklich
+keinen, der die Gabe hat, zwischen Brüdern zu schlichten? ^{[[#fn6][6]]}
+
+<<v6>>
+6 Stattdessen zieht ein Bruder den andern vor Gericht, und zwar vor
+Ungläubige.
+
+<<v7>>
+7 Ist es nicht überhaupt schon ein Versagen, dass ihr miteinander
+Prozesse führt? Warum leidet ihr nicht lieber Unrecht? Warum lasst ihr
+euch nicht lieber ausrauben? ^{[[#fn7][7]]}
+
+<<v8>>
+8 Nein, ihr selber begeht Unrecht und Raub, und zwar an Brüdern.
+
+<<v9>>
+9 Wisst ihr denn nicht, dass Ungerechte das Reich Gottes nicht erben
+werden? Täuscht euch nicht! Weder Unzüchtige noch Götzendiener, weder
+Ehebrecher noch Lustknaben, noch Knabenschänder, ^{[[#fn8][8]]}
+
+<<v10>>
+10 noch Diebe, noch Habgierige, keine Trinker, keine Lästerer, keine
+Räuber werden das Reich Gottes erben.
+
+<<v11>>
+11 Und solche gab es unter euch. Aber ihr seid rein gewaschen, seid
+geheiligt, seid gerecht geworden im Namen Jesu Christi, des Herrn, und
+im Geist unseres Gottes. ^{[[#fn9][9]][[#fn10][10]]}\\
+\\
+
+<<v12>>
+**** Unzucht und christliche Freiheit: 6,12-20
+     :PROPERTIES:
+     :CUSTOM_ID: unzucht-und-christliche-freiheit-612-20
+     :END:
+12 «Alles ist mir erlaubt» - aber nicht alles nützt mir. Alles ist mir
+erlaubt, aber nichts soll Macht haben über mich.
+^{[[#fn11][11]][[#fn12][12]]}
+
+<<v13>>
+13 Die Speisen sind für den Bauch da und der Bauch für die Speisen; Gott
+wird beide vernichten. Der Leib ist aber nicht für die Unzucht da,
+sondern für den Herrn, und der Herr für den Leib. ^{[[#fn13][13]]}
+
+<<v14>>
+14 Gott hat den Herrn auferweckt; er wird durch seine Macht auch uns
+auferwecken. ^{[[#fn14][14]]}
+
+<<v15>>
+15 Wisst ihr nicht, dass eure Leiber Glieder Christi sind? Darf ich nun
+die Glieder Christi nehmen und zu Gliedern einer Dirne machen? Auf
+keinen Fall! ^{[[#fn15][15]]}
+
+<<v16>>
+16 Oder wisst ihr nicht: Wer sich an eine Dirne bindet, ist *ein* Leib
+mit ihr? Denn es heißt: /Die zwei werden/ *ein* /Fleisch sein./
+^{[[#fn16][16]]}
+
+<<v17>>
+17 Wer sich dagegen an den Herrn bindet, ist *ein* Geist mit ihm.
+^{[[#fn17][17]]}
+
+<<v18>>
+18 Hütet euch vor der Unzucht! Jede andere Sünde, die der Mensch tut,
+bleibt außerhalb des Leibes. Wer aber Unzucht treibt, versündigt sich
+gegen den eigenen Leib.
+
+<<v19>>
+19 Oder wisst ihr nicht, dass euer Leib ein Tempel des Heiligen Geistes
+ist, der in euch wohnt und den ihr von Gott habt? Ihr gehört nicht euch
+selbst; ^{[[#fn18][18]]}
+
+<<v20>>
+20 denn um einen teuren Preis seid ihr erkauft worden. Verherrlicht also
+Gott in eurem Leib! ^{[[#fn19][19]][[#fn20][20]]}\\
+\\
+
+^{[[#fnm1][1]]} Die Nichtchristen werden hier als «Ungerechte»
+bezeichnet, die Christen als «Heilige» (vgl. z. B. 1,2).
+
+^{[[#fnm2][2]]} ℘ Dan 7,22; Lk 22,30; Offb 20,4
+
+^{[[#fnm3][3]]} Paulus vertritt die Auffassung, dass die Christen als
+Glieder Christi an dessen richterlicher Tätigkeit beim Endgericht
+teilhaben werden (vgl. 6,15; 12,27).
+
+^{[[#fnm4][4]]} ℘ 2 Petr 2,4; Jud 6
+
+^{[[#fnm5][5]]} die im Urteil der Gemeinde nichts gelten: die
+Nichtchristen.
+
+^{[[#fnm6][6]]} ℘ 4,14
+
+^{[[#fnm7][7]]} ℘ Mt 5,39f; 1 Thess 5,15; 1 Petr 3,9
+
+^{[[#fnm8][8]]} ℘ 15,50; Gal 5,19-21; Eph 5,5; Offb 21,8; 22,15
+
+^{[[#fnm9][9]]} ℘ Röm 6,6-11; Tit 3,4-7; 1 Petr 3,21; 1 Joh 2,12; Hebr
+9,14; 10,22
+
+^{[[#fnm10][10]]} rein gewaschen . . .: Ein Hinweis auf die Taufe (vgl.
+Eph 5,26; Tit 3,3-7; Hebr 10,22; 1 Petr 1,2; 3,21).
+
+^{[[#fnm11][11]]} ℘ 10,23
+
+^{[[#fnm12][12]]} Alles ist (mir) erlaubt: vermutlich ein Schlagwort,
+das in der Gemeinde von Korinth zu hören war (vgl. 10,23).
+
+^{[[#fnm13][13]]} ℘ Mt 15,17; 1 Thess 4,3-5
+
+^{[[#fnm14][14]]} ℘ 15,20f; Röm 8,11; 2 Kor 4,14
+
+^{[[#fnm15][15]]} ℘ 12,12.27; Röm 12,5
+
+^{[[#fnm16][16]]} ℘ Gen 2,24
+
+^{[[#fnm17][17]]} ℘ 2 Kor 3,17
+
+^{[[#fnm18][18]]} ℘ 3,16; Röm 8,11.15
+
+^{[[#fnm19][19]]} ℘ 7,23; 1 Petr 1,18f
+
+^{[[#fnm20][20]]} Sklaven konnten gegen Lösegeld freigekauft werden.
+Hier wird der Tod Christi als Kaufpreis verstanden, durch den die
+Christen aus der Knechtschaft der Sünde befreit wurden (vgl. 7,23; Gal
+3,13; 1 Petr 1,18f).

@@ -1,0 +1,189 @@
+#+TITLE: Rut 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 09:02]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Rut 1.html
+
+* Rut 1
+
+Das Büchlein Rut, eine novellenartige Erzählung, trägt seinen Namen nach
+der Hauptperson, einer moabitischen Frau, die die Ahnfrau Davids werden
+sollte. Josephus Flavius, der jüdische, um 90 n. Chr. in griechischer
+Sprache schreibende Historiker, hat das Büchlein anscheinend als Anhang
+zum Richterbuch gekannt (vgl. Ri 17 - 21). Die Handlung spielt in der
+Richterzeit. In der jüdischen Bibel steht das Buch unter den »Fünf
+Festrollen«, d. h. den kleinen Büchern, die an bestimmten Festen in der
+Synagoge gelesen wurden (Rut, Hld, Koh, Klgl und Est); in der
+christlichen Bibel gehört es zu den »Geschichtsbüchern« und folgt auf
+das Buch der Richter.\\
+\\
+Der Aufbau des Buches ist einfach und übersichtlich: Ein gewisser
+Elimelech aus Betlehem wandert wegen einer Hungersnot ins Moabiterland
+aus. Dort heiraten seine Söhne moabitische Frauen. Dann sterben aber
+Elimelech und seine Söhne. Die Witwe Noomi will in ihre Heimat Betlehem
+zurückkehren. Sie fordert ihre Schwiegertöchter auf, wieder zu ihren
+Familien zu gehen. Die eine geht, die andere namens Rut aber erklärt,
+sie wolle bei ihr bleiben. So kommen Noomi und Rut nach Betlehem (Kap.
+1). Dort lernt Rut beim Ährenlesen den Gutsbesitzer Boas, einen
+Verwandten ihres verstorbenen Mannes, kennen, der sie freundlich
+behandelt (Kap. 2). Auf geschickte Weise wird Boas an seine Löserpflicht
+erinnert. Er erklärt sich bereit, ein Grundstück aus dem Besitz des
+verstorbenen Mannes, das Noomi hätte verkaufen müssen, auszulösen und
+damit auch Rut, die Witwe seines Verwandten, zu heiraten (Kap. 3). Da
+aber ein noch näherer Verwandter Noomis da ist, kommt es zu
+Verhandlungen am Stadttor, bei denen der andere zum Verzicht bewogen
+wird. So geht Boas die »Schwagerehe« (Leviratsehe) ein, zu der er sich
+als »Löser« verpflichtet fühlt. Er bekommt mit Rut einen Sohn namens
+Obed. Dieser wird der Vater Isais und Großvater Davids. Der Erzählung
+wurde später der Stammbaum Davids angeschlossen (Kap. 4).\\
+\\
+Die Entstehung des Büchleins wird heute von einigen in die Königszeit,
+von anderen in die nachexilische Zeit, etwa in die Zeit Esras, datiert.
+Der Verfasser wollte vielleicht durch den Hinweis auf die moabitische
+Abstammung Davids einer antimoabitischen Tendenz seiner Zeit, wie sie
+etwa aus Dtn 23,4-6 spricht, entgegenwirken und zeigen, dass Gott sogar
+eine moabitische Frau in seinen Heilsplan einfügt. Das Wort Ruts zu
+ihrer Schwiegermutter »Wohin du gehst, gehe auch ich, und wo du bleibst,
+da bleibe auch ich. Dein Volk ist mein Volk und dein Gott ist mein Gott«
+(1,16f) ist das Bekenntnis einer Nichtisraelitin zum Gott Israels. Es
+zeigt, dass Gott auch den Heiden, die sich zu Abraham und seinen
+Nachkommen, zum Volk Israel, bekennen, Segen und Heil schenkt (vgl. Gen
+12,3).\\
+\\
+
+<<verses>>
+
+<<v1>>
+* Die Vorgeschichte: 1,1-5
+
+1 Zu der Zeit, als die Richter regierten, kam eine Hungersnot über das
+Land. Da zog ein Mann mit seiner Frau und seinen beiden Söhnen aus
+Betlehem in Juda fort, um sich als Fremder im Grünland Moabs
+niederzulassen.[fn:1]
+
+<<v2>>
+2 Der Mann hieß Elimelech, seine Frau Noomi, und seine Söhne hießen
+Machlon und Kiljon; sie waren Efratiter aus Betlehem in Juda. Als sie im
+Grünland Moabs ankamen, blieben sie dort.
+
+<<v3>>
+3 Elimelech, der Mann Noomis, starb und sie blieb mit ihren beiden
+Söhnen zurück.[fn:2]
+
+<<v4>>
+4 Diese nahmen sich moabitische Frauen, Orpa und Rut, und so wohnten sie
+dort etwa zehn Jahre lang.
+
+<<v5>>
+5 Dann starben auch Machlon und Kiljon und Noomi blieb allein, ohne
+ihren Mann und ohne ihre beiden Söhne. [fn:3]\\
+\\
+
+<<v6>>
+* Die Heimkehr: 1,6-22
+
+6 Da brach sie mit ihren Schwiegertöchtern auf, um aus dem Grünland
+Moabs heimzukehren; denn sie hatte dort gehört, der Herr habe sich
+seines Volkes angenommen und ihm Brot gegeben.
+
+<<v7>>
+7 Sie verließ zusammen mit ihren beiden Schwiegertöchtern den Ort, wo
+sie sich aufgehalten hatte. Als sie nun auf dem Heimweg in das Land Juda
+waren,
+
+<<v8>>
+8 sagte Noomi zu ihren Schwiegertöchtern: Kehrt doch beide heim zu euren
+Müttern! Der Herr erweise euch Liebe, wie ihr sie den Toten und mir
+erwiesen habt.
+
+<<v9>>
+9 Der Herr lasse jede von euch Geborgenheit finden bei einem Gatten.
+Damit küsste sie beide zum Abschied; doch Orpa und Rut begannen laut zu
+weinen
+
+<<v10>>
+10 und sagten zu ihr: Nein, wir wollen mit dir zu deinem Volk gehen.
+
+<<v11>>
+11 Noomi sagte: Kehrt doch um, meine Töchter! Warum wollt ihr mit mir
+ziehen? Habe ich etwa in meinem Leib noch Söhne, die eure Männer werden
+könnten?
+
+<<v12>>
+12 Kehrt um, meine Töchter, und geht; denn ich bin zu alt, noch einem
+Mann zu gehören. Selbst wenn ich dächte, ich habe noch Hoffnung, ja,
+wenn ich noch diese Nacht einem Mann gehörte und gar Söhne bekäme:
+
+<<v13>>
+13 Wolltet ihr warten, bis sie erwachsen sind? Wolltet ihr euch so lange
+abschließen und ohne einen Mann leben? Nein, meine Töchter! Mir täte es
+bitter leid um euch; denn mich hat die Hand des Herrn getroffen.
+
+<<v14>>
+14 Da weinten sie noch lauter. Doch dann gab Orpa ihrer Schwiegermutter
+den Abschiedskuss, während Rut nicht von ihr ließ.
+
+<<v15>>
+15 Noomi sagte: Du siehst, deine Schwägerin kehrt heim zu ihrem Volk und
+zu ihrem Gott. Folge ihr doch!
+
+<<v16>>
+16 Rut antwortete: Dränge mich nicht, dich zu verlassen und umzukehren.
+Wohin du gehst, dahin gehe auch ich, und wo du bleibst, da bleibe auch
+ich. Dein Volk ist mein Volk und dein Gott ist mein Gott.
+
+<<v17>>
+17 Wo du stirbst, da sterbe auch ich, da will ich begraben sein. Der
+Herr soll mir dies und das antun - nur der Tod wird mich von dir
+scheiden.
+
+<<v18>>
+18 Als sie sah, dass Rut darauf bestand, mit ihr zu gehen, redete sie
+nicht länger auf sie ein.
+
+<<v19>>
+19 So zogen sie miteinander bis Betlehem. Als sie in Betlehem ankamen,
+geriet die ganze Stadt ihretwegen in Bewegung. Die Frauen sagten: Ist
+das nicht Noomi?
+
+<<v20>>
+20 Doch sie erwiderte: Nennt mich nicht mehr Noomi (Liebliche), sondern
+Mara (Bittere); denn viel Bitteres hat der Allmächtige mir getan.
+
+<<v21>>
+21 Reich bin ich ausgezogen, aber mit leeren Händen hat der Herr mich
+heimkehren lassen. Warum nennt ihr mich noch Noomi, da doch der Herr
+gegen mich gesprochen und der Allmächtige mir Schlimmes angetan hat?
+
+<<v22>>
+22 So kehrte Noomi mit Rut, ihrer moabitischen Schwiegertochter, aus dem
+Grünland Moabs heim. Zu Beginn der Gerstenernte kamen sie in Betlehem
+an.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ri_10.org::v1][Ri 10,1-5]]; [[file:Ri_12.org::v7][12,7-15]]; [[file:1.Sam_7.org::v15][1 Sam 7,15-17]]
+
+[fn:2] 3f: Nach [[file:Dtn_23.org::v4][Dtn 23,4-6]] und [[file:Neh_13.org::v1][Neh 13,1-3]] dürfen Ammoniter und
+Moabiter nicht in die Glaubensgemeinschaft Israels aufgenommen werden
+und darum waren auch Ehen mit Moabiterinnen verboten. Entweder galt
+dieses Gesetz bei der Abfassung des Buches noch nicht; dann müsste es
+noch vor Joschija (641-609 v. Chr.) entstanden sein. Oder der Verfasser
+schrieb in bewusstem Gegensatz zu den rigorosen Ehegesetzen Esras (um
+400 v. Chr.), die sich nie voll durchsetzen konnten.
+
+[fn:3] 5f: Nach [[file:Rut_4.org::v3][4,3f]] besitzt die Familie Elimelechs einen Acker
+bei Betlehem. Nach [[file:Lev_25.org::v23][Lev 25,23-28]] soll der Grundbesitz bei der Sippe
+bleiben; darum ist der nächste Verwandte eines in Not geratenen
+Israeliten verpflichtet, den aus Not veräußerten Acker auszulösen. Da
+die Familie ihres Mannes ausgestorben war, konnte Noomi hoffen, mit dem
+Grundbesitz für sich und ihre Schwiegertochter eine neue Existenz
+aufzubauen, wenn ihre Verwandten ihr dabei halfen; darum wagte sie die
+Heimkehr.

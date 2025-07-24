@@ -1,0 +1,122 @@
+#+TITLE: Ps 27 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-14 Do 09:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 27.html
+
+* Ps 27
+
+<<verses>>
+
+<<v1>>
+* Die Gemeinschaft mit Gott
+
+1 [Von David.] Der Herr ist mein Licht und mein Heil: /\\
+ Vor wem sollte ich mich fürchten? Der Herr ist die Kraft meines Lebens:
+/\\
+ Vor wem sollte mir bangen? [fn:1]\\
+\\
+
+<<v2>>
+2 Dringen Frevler auf mich ein, /\\
+ um mich zu verschlingen, meine Bedränger und Feinde, /\\
+ sie müssen straucheln und fallen. [fn:2]\\
+\\
+
+<<v3>>
+3 Mag ein Heer mich belagern: /\\
+ Mein Herz wird nicht verzagen. Mag Krieg gegen mich toben: /\\
+ Ich bleibe dennoch voll Zuversicht. [fn:3]\\
+\\
+
+<<v4>>
+4 Nur eines erbitte ich vom Herrn, /\\
+ danach verlangt mich: Im Haus des Herrn zu wohnen /\\
+ alle Tage meines Lebens, die Freundlichkeit des Herrn zu schauen /\\
+ und nachzusinnen in seinem Tempel. [fn:4]\\
+\\
+
+<<v5>>
+5 Denn er birgt mich in seinem Haus /\\
+ am Tag des Unheils; er beschirmt mich im Schutz seines Zeltes, /\\
+ er hebt mich auf einen Felsen empor. [fn:5]\\
+\\
+
+<<v6>>
+6 Nun kann ich mein Haupt erheben /\\
+ über die Feinde, die mich umringen. Ich will Opfer darbringen in seinem
+Zelt, Opfer mit Jubel; /\\
+ dem Herrn will ich singen und spielen.\\
+\\
+
+<<v7>>
+7 Vernimm, o Herr, mein lautes Rufen; /\\
+ sei mir gnädig und erhöre mich!\\
+\\
+
+<<v8>>
+8 Mein Herz denkt an dein Wort: «Sucht mein Angesicht!» /\\
+ Dein Angesicht, Herr, will ich suchen. [fn:6]\\
+\\
+
+<<v9>>
+9 Verbirg nicht dein Gesicht vor mir; /\\
+ weise deinen Knecht im Zorn nicht ab! /\\
+ Du wurdest meine Hilfe. Verstoß mich nicht, verlass mich nicht, /\\
+ du Gott meines Heiles!\\
+\\
+
+<<v10>>
+10 Wenn mich auch Vater und Mutter verlassen, /\\
+ der Herr nimmt mich auf. [fn:7]\\
+\\
+
+<<v11>>
+11 Zeige mir, Herr, deinen Weg, /\\
+ leite mich auf ebener Bahn trotz meiner Feinde! [fn:8]\\
+\\
+
+<<v12>>
+12 Gib mich nicht meinen gierigen Gegnern preis; /\\
+ denn falsche Zeugen stehen gegen mich auf und wüten. [fn:9]\\
+\\
+
+<<v13>>
+13 Ich aber bin gewiss, zu schauen /\\
+ die Güte des Herrn im Land der Lebenden. [fn:10]\\
+\\
+
+<<v14>>
+14 Hoffe auf den Herrn und sei stark! /\\
+ Hab festen Mut und hoffe auf den Herrn! [fn:11]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_97.org::v11][97,11]]; [[file:Ps_56.org::v5][56,5]]; [[file:Mi_7.org::v8][Mi 7,8]]
+
+[fn:2] [[file:Ijob_19.org::v22][Ijob 19,22]]
+
+[fn:3] [[file:Ps_3.org::v7][3,7]]
+
+[fn:4] [[file:Ps_23.org::v6][23,6]]
+
+[fn:5] [[file:Ps_31.org::v21][31,21]]
+
+[fn:6] [[file:Ps_24.org::v6][24,6]]; [[file:Ps_105.org::v4][105,4]]; [[file:Dtn_4.org::v29][Dtn 4,29]]
+
+[fn:7] [[file:Jes_49.org::v15][Jes 49,15]]
+
+[fn:8] [[file:Ps_25.org::v4][25,4]]
+
+[fn:9] [[file:Ps_35.org::v11][35,11]]
+
+[fn:10] [[file:Ps_52.org::v7][52,7]]; [[file:Ps_56.org::v14][56,14]]; [[file:Ps_116.org::v9][116,9]]; [[file:Ps_142.org::v6][142,6]]; [[file:Jes_38.org::v11][Jes 38,11]]
+
+[fn:11] [[file:Ps_31.org::v25][31,25]]

@@ -1,0 +1,172 @@
+#+TITLE: Dtn 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-29 So 21:19]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 19.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Asylstädte: 19,1-10
+
+1 Wenn der Herr, dein Gott, die Völker, deren Land der Herr, dein Gott,
+dir geben will, niederstreckt und du ihren Besitz übernimmst und in
+ihren Städten und Häusern wohnst, [fn:1]
+
+<<v2>>
+2 sollst du in dem Land, das der Herr, dein Gott, dir gibt, damit du es
+in Besitz nimmst, drei Städten eine Sonderstellung zuweisen.
+
+<<v3>>
+3 Du sollst die Wegstrecken berechnen und die Fläche des Landes, das der
+Herr, dein Gott, dir als Erbbesitz gibt, in drei Teile teilen. Dann kann
+jeder, der einen Menschen getötet hat, in diese Städte fliehen.
+
+<<v4>>
+4 Und so lautet die Bestimmung für einen, der jemand getötet hat und
+dorthin flieht, um am Leben zu bleiben: Wenn er den andern ohne Vorsatz
+erschlagen hat und nicht schon früher mit ihm verfeindet gewesen ist,
+
+<<v5>>
+5 zum Beispiel wenn er mit einem andern in den Wald gegangen ist, um
+Bäume zu fällen, seine Hand mit der Axt ausgeholt hat, um einen Baum
+umzuhauen, das Eisenblatt sich vom Stiel gelöst und den andern getroffen
+hat und dieser gestorben ist, dann kann er in eine dieser Städte
+fliehen, um am Leben zu bleiben.
+
+<<v6>>
+6 Es darf nicht sein, dass der Weg (zum Heiligtum) zu weit ist, damit
+nicht der Bluträcher, der aus Rachedurst den, der getötet hat, verfolgt,
+ihn einholt und tödlich trifft, obwohl kein Recht besteht, ihn zu töten,
+da er ja mit dem Getöteten nicht schon früher verfeindet war. [fn:2]
+
+<<v7>>
+7 Deshalb mache ich dir zur Pflicht: Du sollst drei Städten eine
+Sonderstellung zuweisen.
+
+<<v8>>
+8 Und wenn der Herr, dein Gott, dein Gebiet vergrößert, wie er es deinen
+Vätern geschworen hat, und dir das ganze Land, von dem er gesagt hat, er
+werde es deinen Vätern geben, wirklich gibt, [fn:3]
+
+<<v9>>
+9 weil du auf dieses ganze Gebot, auf das ich dich heute verpflichte,
+achtest und es hältst, indem du den Herrn, deinen Gott, liebst und dein
+Leben lang auf seinen Wegen gehst, dann sollst du diese drei Städte um
+drei weitere vermehren. [fn:4]
+
+<<v10>>
+10 So soll verhindert werden, dass mitten in dem Land, das der Herr,
+dein Gott, dir als Erbbesitz gibt, unschuldiges Blut vergossen wird und
+Blutschuld über dich kommt. [fn:5]\\
+\\
+
+<<v11>>
+* Die Auslieferung eines Mörders aus der Asylstadt: 19,11-13
+
+11 Wenn es sich um einen Mann handelt, der mit einem andern verfeindet
+war, wenn er ihm auflauerte, ihn überfiel und tödlich traf, sodass er
+starb, und wenn er in eine dieser Städte floh,
+
+<<v12>>
+12 dann sollen die Ältesten seiner Stadt ihn von dort holen lassen und
+in die Gewalt des Bluträchers geben und er soll sterben. [fn:6]
+
+<<v13>>
+13 Du sollst in dir kein Mitleid mit ihm aufsteigen lassen. Du sollst
+das Blut des Unschuldigen aus Israel wegschaffen und es wird dir gut
+gehen. [fn:7]\\
+\\
+
+<<v14>>
+* Die Grenzverrückung: 19,14
+
+14 An deinem Erbbesitz, der dir in dem Land zugeteilt werden soll, das
+der Herr, dein Gott, dir gibt, damit du es in Besitz nimmst, sollst du
+die Grenzmarkierung zu deinem Nachbarn hin, die die Vorfahren errichtet
+haben, nicht verrücken. [fn:8]\\
+\\
+
+<<v15>>
+* Die Zahl der Zeugen: 19,15
+
+15 Wenn es um ein Verbrechen oder ein Vergehen geht, darf ein einzelner
+Belastungszeuge nicht Recht bekommen, welches Vergehen auch immer der
+Angeklagte begangen hat. Erst auf die Aussage von zwei oder drei Zeugen
+darf eine Sache Recht bekommen. [fn:9] [fn:10]\\
+\\
+
+<<v16>>
+* Die falsche Aussage vor Gericht: 19,16-21
+
+16 Wenn jemand vor Gericht geht und als Zeuge einen andern zu Unrecht
+der Anstiftung zum Aufruhr bezichtigt, [fn:11] [fn:12]
+
+<<v17>>
+17 wenn die beiden Parteien mit ihrem Rechtsstreit vor den Herrn
+hintreten, vor die Priester und Richter, die dann amtieren, [fn:13] [fn:14]
+
+<<v18>>
+18 wenn die Richter eine genaue Ermittlung anstellen und sich zeigt: Der
+Mann ist ein falscher Zeuge, er hat seinen Bruder fälschlich bezichtigt, [fn:15]
+
+<<v19>>
+19 dann sollt ihr mit ihm so verfahren, wie er mit seinem Bruder
+verfahren wollte. Du sollst das Böse aus deiner Mitte wegschaffen. [fn:16]
+
+<<v20>>
+20 Die Übrigen sollen davon hören, damit sie sich fürchten und nicht
+noch einmal ein solches Verbrechen in deiner Mitte begehen.
+
+<<v21>>
+21 Und du sollst in dir kein Mitleid aufsteigen lassen: Leben für Leben,
+Auge für Auge, Zahn für Zahn, Hand für Hand, Fuß für Fuß. [fn:17]\\
+\\
+
+
+* Footnotes
+
+[fn:1] (1-13) [[file:Dtn_4.org::v41][4,41-43]]; [[file:Ex_21.org::v12][Ex 21,12-14]]; [[file:Jos_20.org::v1][Jos 20]]
+
+[fn:2] [[file:2.Sam_14.org::v7][2 Sam 14,7]]
+
+[fn:3] [[file:Dtn_1.org::v7][1,7]]; [[file:Dtn_11.org::v24][11,24]]; [[file:Dtn_12.org::v20][12,20]]; [[file:Gen_15.org::v18][Gen 15,18]]; [[file:Ex_23.org::v31][Ex 23,31]]; [[file:Ex_34.org::v24][34,24]]; [[file:Jos_1.org::v4][Jos 1,4]]; [[file:1 Kön 5::v1][1 Kön 5,1-4]]
+
+[fn:4] [[file:Dtn_11.org::v1][11,1]]
+
+[fn:5] [[v13][19,13]]; [[file:Dtn_21.org::v7][21,7-9]]; [[file:Dtn_22.org::v8][22,8]]; [[file:Dtn_27.org::v25][27,25]]
+
+[fn:6] [[file:Dtn_5.org::v23][5,23]]; [[file:Dtn_21.org::v1][21,1-9]].[[file:Dtn_21.org::v19][19]]; [[file:Dtn_22.org::v13][22,13-21]]; [[file:Dtn_25.org::v5][25,5-10]]
+
+[fn:7] [[file:Dtn_7.org::v16][7,16]]; [[file:Dtn_13.org::v9][13,9]]; [[v21][19,21]]; [[file:Dtn_25.org::v12][25,12]]; [[file:Dtn_21.org::v21][21,21]]; [[v10][19,10]]
+
+[fn:8] [[file:Dtn_27.org::v17][27,17]]
+
+[fn:9] [[file:Dtn_17.org::v6][17,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_18.org::v16][Mt 18,16]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v17][Joh 8,17]]; [[file:2.Kön_13.org::v1][2 Kor 13,1]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Tim_5.org::v19][1 Tim 5,19]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_10.org::v28][Hebr 10,28]]
+
+[fn:10] 15f: Die Funktion des Zeugen und die des Anklägers
+waren nicht klar geschieden.
+
+[fn:11] (16-21) [[file:Dtn_5.org::v20][5,20]]; [[file:Ex_23.org::v1][Ex 23,1]]
+
+[fn:12] Aufruhr, andere Übersetzungsmöglichkeit: Abfall (vom
+Herrn). Welches Vergehen hier genau gemeint ist, bleibt unklar.
+
+[fn:13] [[file:Dtn_17.org::v9][17,9]]; [[file:Dtn_26.org::v3][26,3]]
+
+[fn:14] Gemeint ist die Anwendung des Gesetzes von [[file:Dtn_17.org::v8][17,8-13]]
+oder die Anrufung eines Gottesentscheids durch den zu Unrecht
+Angeklagten.
+
+[fn:15] [[file:Dtn_13.org::v15][13,15]]; [[file:Dtn_17.org::v4][17,4]]
+
+[fn:16] [[file:1.Kön_5.org::v13][1 Kor 5,13]]; (19-20) [[file:1.Kön_21.org::v21][21,21]]
+
+[fn:17] [[v13][19,13]]; [[file:Ex_21.org::v23][Ex 21,23-25]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v38][Mt 5,38]]

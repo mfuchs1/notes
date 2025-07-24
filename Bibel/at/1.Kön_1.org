@@ -1,0 +1,350 @@
+#+TITLE: 1 Kön 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 23:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 1.html
+
+* 1.Kön 1
+
+* Die Bücher der Könige
+
+Die beiden ersten Kapitel von 1 Könige bilden den Abschluss der
+Geschichte Davids und gehören inhaltlich noch zu den Samuelbüchern.
+Deshalb wurden die Samuel- und Königsbücher vielfach als Einheit
+verstanden, für die man die gemeinsame Bezeichnung »Bücher der Könige«
+(in der griechischen Bibel »Bücher der Königsherrschaften«) gebrauchte.
+Doch sprechen die Verschiedenheit des Stils, der Sprache, der
+Darstellungsweise und des Urteils über die Könige Israels für die
+Selbstständigkeit der Königsbücher.\\
+\\
+Die beiden Bücher enthalten die Geschichte der Könige bis zum
+Babylonischen Exil. Sie sind in folgende Abschnitte gegliedert: 1. die
+Geschichte Salomos (1 Kön 1 - 11); 2. die Geschichte der getrennten
+Reiche (1 Kön 12 - 2 Kön 17); 3. die weitere Geschichte des Südreiches
+Juda (2 Kön 18 - 25). Umfangreiche Abschnitte über das Wirken der
+Propheten Elija, Elischa und anderer Gottesmänner sind vor allem in 1
+Kön 17 - 19 und 2 Kön 1 - 10 eingeschoben. Die Geschichte der einzelnen
+Könige ist in einen bestimmten Rahmen eingebaut mit Alters- und
+Datumsangaben, Urteilen über das religiöse Verhalten, Bemerkungen über
+Tod, Begräbnis und Nachfolger, mit Hinweisen auf Quellenwerke. Die
+besonderen Aussagen über die einzelnen Könige sind nach Inhalt und
+Umfang sehr verschieden und werden der Bedeutung der Herrscher nicht
+immer gerecht. Als besonders wichtig werden ihre Leistungen für Tempel
+und Gottesdienst und ihr Verhalten zum Bund Gottes mit Israel gewertet.
+Als Richtlinien gelten dabei die im Deuteronomium festgelegten Normen
+der Gottesverehrung. Die Könige des Nordreichs werden daher insgesamt
+wegen des Kultes in Bet-El getadelt, der im Widerspruch zum Gottesdienst
+in Jerusalem steht. Erfolge und Unglück werden als Lohn und Strafe für
+Gehorsam oder Abfall gedeutet.\\
+\\
+Die Zuverlässigkeit eines Geschichtswerkes beruht auf den Quellen, die
+bei seiner Abfassung zur Verfügung standen. Die Königsbücher selbst
+erwähnen eine »Chronik Salomos«, eine »Chronik der Könige von Juda« und
+eine »Chronik der Könige von Israel« als Werke, in denen der Leser
+weitere Mitteilungen finden konnte. Viele Anzeichen sprechen dafür, dass
+noch andere Quellen, z. B. Urkunden, Listen, Prophetengeschichten,
+Volkserzählungen vorlagen, aus denen einzelne Abschnitte ganz oder in
+Auszügen übernommen wurden. Oft wurden solche Texte der Absicht des
+Verfassers entsprechend überarbeitet oder ergänzt; sein persönlicher
+Beitrag ist vor allem in eingestreuten Ermahnungen oder Betrachtungen zu
+erkennen (z. B. 2 Kön 17 und 21).\\
+\\
+Das letzte Ereignis, das in den Königsbüchern erwähnt wird, ist die
+Begnadigung des Königs Jojachin um 560 v. Chr. Es wurde offensichtlich
+erwähnt, um mit einem Lichtblick auf die Zukunft schließen zu können.
+Das Ende des Babylonischen Exils war demnach noch nicht eingetreten,
+sodass die Zeit zwischen 560 und 538 als Entstehungszeit der Bücher
+anzunehmen ist. Ihr Verfasser ist unbekannt. Heute werden die beiden
+Bücher gewöhnlich dem Deuteronomistischen Geschichtswerk zugerechnet
+(vgl. die Einleitung zum Buch Deuteronomium).\\
+\\
+
+<<verses>>
+
+<<v1>>
+
+* Die Geschichte Salomos: 1,1 - 11,43
+
+* Der Kampf um die Nachfolge Davids: 1,1-27
+
+König David war alt und hochbetagt; auch wenn man ihn in Decken hüllte,
+wurde ihm nicht mehr warm.
+
+<<v2>>
+2 Da sagten seine Diener zu ihm: Man suche für unseren Herrn, den König,
+ein unberührtes Mädchen, das ihn bedient und pflegt. Wenn es an seiner
+Seite schläft, wird es unserem Herrn, dem König, warm werden.
+
+<<v3>>
+3 Man suchte nun im ganzen Land Israel nach einem schönen Mädchen, fand
+Abischag aus Schunem und brachte sie zum König.
+
+<<v4>>
+4 Das Mädchen war überaus schön. Sie pflegte den König und diente ihm;
+doch der König erkannte sie nicht. [fn:1]
+
+<<v5>>
+5 Adonija, der Sohn der Haggit, trat anmaßend auf und sagte: Ich werde
+König sein. Er beschaffte sich Wagen und Besatzung dazu sowie fünfzig
+Mann, die vor ihm herliefen. [fn:2]
+
+<<v6>>
+6 Sein Vater David hatte ihn nie in seinem Leben getadelt und nie zu ihm
+gesagt: Warum tust du das? Auch war Adonija ein sehr stattlicher Mann;
+seine Mutter hatte ihn nach Abschalom geboren.
+
+<<v7>>
+7 Er verhandelte mit Joab, dem Sohn der Zeruja, und mit dem Priester
+Abjatar. Beide stellten sich hinter Adonija.
+
+<<v8>>
+8 Der Priester Zadok aber und Benaja, der Sohn Jojadas, und der Prophet
+Natan, auch Schimi, Reï und die Helden Davids schlossen sich ihm nicht
+an.
+
+<<v9>>
+9 Adonija schlachtete nun am Stein Sohelet bei der Rogel-Quelle Schafe,
+Rinder und Mastkälber zum Opfermahl. Er lud dazu alle seine Brüder, die
+Königssöhne, sowie alle Männer von Juda ein, die im Dienst des Königs
+standen. [fn:3]
+
+<<v10>>
+10 Den Propheten Natan jedoch und Benaja sowie die Helden und seinen
+Bruder Salomo lud er nicht ein.
+
+<<v11>>
+11 Da sagte Natan zu Batseba, der Mutter Salomos: Hast du nicht gehört,
+dass Adonija, der Sohn der Haggit, König geworden ist, ohne dass David,
+unser Herr, davon weiß?
+
+<<v12>>
+12 Komm nun, ich will dir einen Rat geben, wie du dir und deinem Sohn
+Salomo das Leben retten kannst. [fn:4]
+
+<<v13>>
+13 Geh zum König David und sag zu ihm: Mein Herr und König, du hast doch
+deiner Magd geschworen: Dein Sohn Salomo soll nach mir König sein und er
+soll auf meinem Thron sitzen. Warum ist nun Adonija König geworden?
+
+<<v14>>
+14 Noch während du dort mit dem König redest, will auch ich kommen und
+deine Worte bestätigen.
+
+<<v15>>
+15 Batseba ging zum König in das Gemach. Er war sehr gealtert und
+Abischag aus Schunem bediente ihn.
+
+<<v16>>
+16 Batseba verneigte sich und warf sich vor dem König nieder, und der
+König fragte sie: Was willst du?
+
+<<v17>>
+17 Sie sagte: Mein Herr, du selbst hast doch deiner Magd beim Herrn,
+deinem Gott, geschworen: Dein Sohn Salomo soll nach mir König sein und
+er soll auf meinem Thron sitzen.
+
+<<v18>>
+18 Nun aber ist Adonija König geworden und du, mein Herr und König,
+weißt nichts davon.
+
+<<v19>>
+19 Er hat eine Menge Rinder, Mastkälber und Schafe geschlachtet und alle
+Söhne des Königs, den Priester Abjatar und den Feldherrn Joab dazu
+eingeladen. Doch deinen Knecht Salomo hat er nicht eingeladen.
+
+<<v20>>
+20 Auf dich, mein Herr und König, sind nun die Augen ganz Israels
+gerichtet. Du sollst ihnen bekannt geben, wer nach meinem Herrn und
+König auf dem Thron sitzen wird.
+
+<<v21>>
+21 Sonst müssen ich und mein Sohn Salomo es büßen, wenn mein Herr und
+König zu seinen Vätern entschlafen ist.
+
+<<v22>>
+22 Während sie noch mit dem König redete, kam der Prophet Natan.
+
+<<v23>>
+23 Man meldete dem König: Der Prophet Natan ist da. Er trat vor den
+König, warf sich vor ihm nieder, mit dem Gesicht zur Erde,
+
+<<v24>>
+24 und sagte: Mein Herr und König, du hast wohl verfügt: Adonija soll
+nach mir König sein und er soll auf meinem Thron sitzen.
+
+<<v25>>
+25 Denn er ist heute hinabgezogen, hat eine Menge Rinder, Mastkälber und
+Schafe geschlachtet und hat dazu alle Söhne des Königs, die Obersten des
+Heeres und den Priester Abjatar eingeladen. Sie essen und trinken mit
+ihm und rufen: Es lebe der König Adonija!
+
+<<v26>>
+26 Mich aber, deinen Knecht, sowie den Priester Zadok und Benaja, den
+Sohn Jojadas, und deinen Knecht Salomo hat er nicht eingeladen.
+
+<<v27>>
+27 Wenn nun diese Verfügung wirklich von meinem Herrn und König ergangen
+ist, warum hast du dann deinen Knecht nicht wissen lassen, wer nach
+meinem Herrn und König auf dem Thron sitzen wird?\\
+\\
+
+<<v28>>
+* Die Bestellung Salomos zum Thronfolger: 1,28-37
+
+28 Darauf befahl König David: Ruft mir Batseba! Sie kam zum König
+herein, trat vor den König hin
+
+<<v29>>
+29 und der König schwor ihr: So wahr der Herr lebt, der mein Leben aus
+jeder Gefahr gerettet hat:
+
+<<v30>>
+30 Ich habe dir beim Herrn, dem Gott Israels, geschworen, dass dein Sohn
+Salomo nach mir König sein und an meiner Stelle auf meinem Thron sitzen
+soll, und so will ich es heute wahr machen.
+
+<<v31>>
+31 Da verneigte sich Batseba bis zur Erde, warf sich vor dem König
+nieder und rief: Ewig lebe mein Herr, der König David!
+
+<<v32>>
+32 Hierauf befahl König David: Ruft mir den Priester Zadok, den
+Propheten Natan und Benaja, den Sohn Jojadas! Sie erschienen vor dem
+König [fn:5]
+
+<<v33>>
+33 und dieser trug ihnen auf: Nehmt das Gefolge eures Herrn mit euch,
+setzt meinen Sohn Salomo auf mein eigenes Maultier und führt ihn zum
+Gihon hinab! [fn:6]
+
+<<v34>>
+34 Dort sollen ihn der Priester Zadok und der Prophet Natan zum König
+von Israel salben und ihr sollt in das Horn stoßen und rufen: Es lebe
+König Salomo!
+
+<<v35>>
+35 Dann zieht mit ihm herauf! Er soll kommen, sich auf meinen Thron
+setzen und König werden an meiner Stelle; denn ihn habe ich zum Fürsten
+von Israel und Juda bestimmt.
+
+<<v36>>
+36 Benaja, der Sohn Jojadas, antwortete dem König: So sei es, so füge es
+der Herr, der Gott meines Herrn und Königs.
+
+<<v37>>
+37 Wie der Herr mit meinem Herrn und König war, so möge er auch mit
+Salomo sein. Er mache seinen Thron noch erhabener als den Thron meines
+Herrn, des Königs David.\\
+\\
+
+<<v38>>
+* Die Thronbesteigung Salomos: 1,38-53
+
+38 Der Priester Zadok, der Prophet Natan und Benaja, der Sohn Jojadas,
+zogen mit den Keretern und Peletern hinab. Sie setzten Salomo auf das
+Maultier des Königs David und führten ihn zum Gihon. [fn:7]
+
+<<v39>>
+39 Der Priester Zadok hatte das Salbhorn aus dem Zelt mitgenommen und
+salbte Salomo. Hierauf blies man das Widderhorn und alles Volk rief: Es
+lebe König Salomo!
+
+<<v40>>
+40 Nun zog das ganze Volk mit ihm hinauf. Dabei spielten sie auf Flöten
+und waren voller Freude, sodass bei ihrem Geschrei die Erde zu bersten
+drohte.
+
+<<v41>>
+41 Das hörten Adonija und alle Geladenen, die bei ihm waren. Sie hatten
+eben das Mahl beendet. Als Joab den Schall des Hornes hörte, rief er:
+Was soll das laute Lärmen in der Stadt?
+
+<<v42>>
+42 Während er noch redete, kam Jonatan, der Sohn des Priesters Abjatar.
+Adonija rief ihm zu: Komm, du bist ein tüchtiger Mann. Du bringst sicher
+eine gute Nachricht.
+
+<<v43>>
+43 Doch Jonatan erwiderte Adonija: Im Gegenteil. Unser Herr, der König
+David, hat Salomo als König eingesetzt.
+
+<<v44>>
+44 Er hat mit ihm den Priester Zadok ausgeschickt sowie den Propheten
+Natan und Benaja, den Sohn Jojadas, samt den Keretern und Peletern und
+diese haben ihn auf das Maultier des Königs gesetzt.
+
+<<v45>>
+45 Der Priester Zadok und der Prophet Natan haben ihn am Gihon zum König
+gesalbt. Von dort sind sie voller Freude hinaufgezogen und die Stadt ist
+in großer Aufregung. Das war der Lärm, den ihr gehört habt.
+
+<<v46>>
+46 Salomo hat sich bereits auf den königlichen Thron gesetzt.
+
+<<v47>>
+47 Auch sind die Diener des Königs gekommen, um unseren Herrn, den König
+David, zu beglückwünschen und zu rufen: Gott lasse Salomos Ruhm noch
+größer werden als deinen und er mache seinen Thron noch erhabener als
+deinen Thron. Dabei hat sich der König auf seinem Lager tief verneigt.
+
+<<v48>>
+48 Auch hat der König gesagt: Gepriesen sei der Herr, der Gott Israels,
+der mir heute gewährt hat, dass mein Nachkomme auf meinem Thron sitzt
+und dass meine Augen das noch sehen dürfen.
+
+<<v49>>
+49 Da erschraken alle Geladenen, die bei Adonija waren, und brachen auf;
+jeder ging seines Weges.
+
+<<v50>>
+50 Adonija fürchtete sich vor Salomo. Er stand auf, eilte zum Altar und
+ergriff dessen Hörner. [fn:8]
+
+<<v51>>
+51 Man meldete Salomo: Adonija hat aus Furcht vor König Salomo die
+Hörner des Altars ergriffen und gesagt: König Salomo schwöre mir zuerst,
+dass er seinen Knecht nicht mit dem Schwert hinrichten lässt.
+
+<<v52>>
+52 Salomo versprach: Wenn er sich wie ein rechtschaffener Mann verhält,
+soll ihm kein Haar gekrümmt werden. Stellt es sich aber heraus, dass er
+unrecht handelt, muss er sterben.
+
+<<v53>>
+53 Darauf ließ ihn König Salomo vom Altar wegholen. Als er kam und vor
+König Salomo niederfiel, befahl ihm dieser: Geh in dein Haus!\\
+\\
+
+* Footnotes
+
+[fn:1] der König erkannte sie nicht: Er hatte mit ihr keine
+eheliche Gemeinschaft.
+
+[fn:2] Ebenso hatte sich Abschalom verhalten, als er nach dem
+Königtum trachtete (vgl. 2 Sam 15,1). Adonija war jetzt der älteste
+überlebende Sohn Davids und konnte mit der Thronfolge rechnen.
+
+[fn:3] Die Machtübernahme sollte mit einem Opfer verbunden
+werden. Da Opferfeiern von einzelnen Familien öfter begangen wurden (1
+Sam 1,3; 16,2; 20,6; 2 Sam 15,7) und zu ihnen Verwandte und Freunde
+geladen wurden, konnte Adonija seine Anhänger sammeln, ohne Verdacht zu
+erregen. Zur Rogel-Quelle vgl. 2 Sam 17,17.
+
+[fn:4] Zur Sicherung ihrer Herrschaft ließen orientalische
+Könige oft nach Erlangung des Throns ihre einstigen Gegner beseitigen.
+
+[fn:5] Benaja war der Führer der Leibwache (vgl. 2 Sam 8,18).
+
+[fn:6] Die Gihon-Quelle liegt näher am Königspalast als die
+Rogel-Quelle.
+
+[fn:7] Die Kereter und Peleter waren ausländische Söldner, die
+David als Leibwache dienten.
+
+[fn:8] Der Altar als Asylstätte gewährte Adonija Schutz.

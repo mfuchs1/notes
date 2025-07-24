@@ -1,0 +1,112 @@
+#+TITLE: Ps 39 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-02 Di 22:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 39.html
+
+* Ps 39
+
+
+<<verses>>
+
+<<v1>>
+* Die Not des vergänglichen Menschen
+
+1 [Für den Chormeister. Von Jedutun. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Ich sagte: Ich will auf meine Wege achten, /\\
+ damit ich nicht sündige mit meiner Zunge. Ich lege meinem Mund einen
+Zaum an, /\\
+ solange der Frevler vor mir steht.\\
+\\
+
+<<v3>>
+3 So blieb ich stumm und still; /\\
+ ich schwieg, vom Glück verlassen, /\\
+ doch mein Schmerz war aufgerührt.\\
+\\
+
+<<v4>>
+4 Heiß wurde mir das Herz in der Brust, /\\
+ bei meinem Grübeln entbrannte ein Feuer; /\\
+ da musste ich reden:\\
+\\
+
+<<v5>>
+5 Herr, tu mir mein Ende kund und die Zahl meiner Tage! /\\
+ Lass mich erkennen, wie sehr ich vergänglich bin! [fn:1]\\
+\\
+
+<<v6>>
+6 Du machtest meine Tage nur eine Spanne lang, /\\
+ meine Lebenszeit ist vor dir wie ein Nichts. /\\
+ Ein Hauch nur ist jeder Mensch. [Sela] [fn:2]\\
+\\
+
+<<v7>>
+7 Nur wie ein Schatten geht der Mensch einher, /\\
+ um ein Nichts macht er Lärm. /\\
+ Er rafft zusammen und weiß nicht, wer es einheimst. [fn:3]\\
+\\
+
+<<v8>>
+8 Und nun, Herr, worauf soll ich hoffen? /\\
+ Auf dich allein will ich harren.\\
+\\
+
+<<v9>>
+9 Entreiß mich allen, die mir Unrecht tun, /\\
+ und überlass mich nicht dem Spott der Toren!\\
+\\
+
+<<v10>>
+10 Ich bin verstummt, ich tue den Mund nicht mehr auf. /\\
+ Denn so hast du es gefügt.\\
+\\
+
+<<v11>>
+11 Nimm deine Plage weg von mir! /\\
+ Unter der Wucht deiner Hand vergehe ich.\\
+\\
+
+<<v12>>
+12 Du strafst und züchtigst den Mann wegen seiner Schuld, /\\
+ du zerstörst seine Anmut wie Motten das Kleid, /\\
+ ein Hauch nur ist jeder Mensch. [Sela] [fn:4]\\
+\\
+
+<<v13>>
+13 Hör mein Gebet, Herr, vernimm mein Schreien, /\\
+ schweig nicht zu meinen Tränen! Denn ich bin nur ein Gast bei dir, /\\
+ ein Fremdling wie all meine Väter. [fn:5]\\
+\\
+
+<<v14>>
+14 Wende dein strafendes Auge ab von mir, /\\
+ sodass ich heiter blicken kann, /\\
+ bevor ich dahinfahre und nicht mehr da bin. [fn:6] [fn:7]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_90.org::v12][90,12]]
+
+[fn:2] (6-7) [[file:Ps_90.org::v9][90,9f]]; [[file:Ps_109.org::v23][109,23]]; [[file:Ps_144.org::v4][144,4]]; [[file:Ijob_7.org::v6][Ijob 7,6f]]; [[file:Ijob_14.org::v2][14,2]]; [[file:~/RoamNotes/notes/Bibel/nt/Jak_4.org::v14][Jak 4,14]]
+
+[fn:3] [[file:Ps_49.org::v18][49,18]]
+
+[fn:4] [[file:Ijob_13.org::v28][Ijob 13,28]]
+
+[fn:5] [[file:Ps_119.org::v19][119,19]]; [[file:Lev_25.org::v23][Lev 25,23]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v13][Hebr 11,13]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v11][1 Petr 2,11]]
+
+[fn:6] [[file:Ijob_7.org::v19][Ijob 7,19]]; [[file:Ijob_10.org::v21][10,21]]; [[file:Ijob_14.org::v6][14,6]]
+
+[fn:7] Text korr.; H ist unverständlich.

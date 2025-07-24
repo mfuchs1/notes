@@ -1,0 +1,143 @@
+#+TITLE: 2 Kön 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 00:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 16.html
+
+<<verses>>
+
+<<v1>>
+* Ahas von Juda: 16,1-20
+
+1 Im siebzehnten Jahr Pekachs, des Sohnes Remaljas, wurde Ahas, der Sohn
+Jotams, König von Juda. [fn:1] [fn:2]
+
+<<v2>>
+2 Er war zwanzig Jahre alt, als er König wurde, und regierte sechzehn
+Jahre in Jerusalem. Er tat nicht wie sein Vater David, was dem Herrn,
+seinem Gott, gefiel, [fn:3]
+
+<<v3>>
+3 sondern er folgte den Wegen der Könige von Israel. Er ließ sogar
+seinen Sohn durch das Feuer gehen und ahmte so die Gräuel der Völker
+nach, die der Herr vor den Israeliten vertrieben hatte. [fn:4]
+
+<<v4>>
+4 Auf den Kulthöhen und Hügeln und unter jedem üppigen Baum brachte er
+Schlacht- und Rauchopfer dar. [fn:5]
+
+<<v5>>
+5 Damals unternahmen Rezin, der König von Aram, und Pekach, der Sohn
+Remaljas, der König von Israel, einen Kriegszug gegen Jerusalem. Sie
+schlossen Ahas ein, konnten ihn aber nicht zum Kampf zwingen. [fn:6]
+
+<<v6>>
+6 Zur gleichen Zeit gewann Rezin, der König von Aram, Elat für Edom
+zurück. Er vertrieb die Judäer aus Elat, und die Edomiter kamen und
+blieben dort ansässig bis zum heutigen Tag. [fn:7]
+
+<<v7>>
+7 Ahas aber sandte Boten an Tiglat-Pileser, den König von Assur, und
+ließ ihm sagen: Ich bin dein Knecht und dein Sohn; zieh herauf und rette
+mich aus der Hand des Königs von Aram und des Königs von Israel, die
+mich bedrohen.
+
+<<v8>>
+8 Zugleich nahm Ahas das Silber und Gold, das sich im Haus des Herrn und
+in den Schatzkammern des königlichen Palastes befand, und sandte es als
+Huldigungsgeschenk an den König von Assur.
+
+<<v9>>
+9 Dieser hörte auf ihn, zog gegen Damaskus, nahm es ein und verschleppte
+seine Bewohner nach Kir; Rezin aber ließ er hinrichten.
+
+<<v10>>
+10 Als König Ahas zu Tiglat-Pileser, dem König von Assur, nach Damaskus
+kam und den Altar in Damaskus sah, schickte er dem Priester Urija ein
+Abbild und eine genaue Beschreibung des Altars. [fn:8]
+
+<<v11>>
+11 Daraufhin baute der Priester Urija einen Altar; genau nach dem
+Auftrag, den König Ahas von Damaskus aus erteilt hatte, ließ er ihn
+anfertigen, bevor der König aus Damaskus zurückkehrte.
+
+<<v12>>
+12 Als dann Ahas nach seiner Rückkehr aus Damaskus den Altar sah, ging
+er zu ihm hin, stieg hinauf
+
+<<v13>>
+13 und verbrannte auf ihm sein Brand- und Speiseopfer, goss sein
+Trankopfer aus und besprengte den Altar mit dem Blut seiner Heilsopfer.
+
+<<v14>>
+14 Den bronzenen Altar aber, der zwischen dem neuen Altar und dem Tempel
+vor dem Herrn stand, ließ er von seinem Platz vor dem Tempel wegrücken
+und nördlich vom neuen Altar aufstellen.
+
+<<v15>>
+15 Zugleich gab er dem Priester Urija die Anweisung: Auf dem neuen
+großen Altar sollst du das Brandopfer am Morgen und das Speiseopfer am
+Abend, das Brandopfer des Königs und sein Speiseopfer sowie das
+Brandopfer aller Bürger des Landes, ihr Speiseopfer und ihre Trankopfer
+darbringen. Auf ihn sollst du auch das Blut aller Brand- und
+Schlachtopfer sprengen. Was aber mit dem bronzenen Altar geschehen soll,
+will ich noch überlegen.
+
+<<v16>>
+16 Der Priester Urija tat alles, was König Ahas angeordnet hatte.
+
+<<v17>>
+17 König Ahas ließ die Leisten an den fahrbaren Gestellen abtrennen und
+die Kessel aus ihnen nehmen, auch das «Meer» von den bronzenen Rindern,
+auf denen es ruhte, wegnehmen und auf das Steinpflaster setzen. [fn:9]
+
+<<v18>>
+18 Ferner ließ er den überdachten Sabbatgang, den man an den Tempel
+angebaut hatte, und den äußeren Zugang für den König vom Haus des Herrn
+entfernen. Er tat dies mit Rücksicht auf den König von Assur. [fn:10]
+
+<<v19>>
+19 Die übrige Geschichte des Ahas und seine Taten sind aufgezeichnet in
+der Chronik der Könige von Juda.
+
+<<v20>>
+20 Ahas entschlief zu seinen Vätern und wurde bei seinen Vätern in der
+Davidstadt begraben. Sein Sohn Hiskija wurde König an seiner Stelle.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-20) [[file:2.Chr_28.org::v1][2 Chr 28,1-27]]
+
+[fn:2] In Wirklichkeit ist es das siebte Jahr Pekachs.
+
+[fn:3] Ahas regierte nur sechs Jahre: drei gleichzeitig mit
+Pekach ([[file:2.Kön_15.org::v27][15,27]]) und drei mit Hoschea ([[file:2.Kön_18.org::v1][18,1]]).
+
+[fn:4] Er ließ ihn durch das Feuer gehen: Er verbrannte ihn als
+Opfergabe für Baal (vgl. die Anmerkung zu [[file:Lev_18.org::v1][Lev 18,21]]).
+
+[fn:5] Vgl. die Anmerkung zu [[file:1.Kön_14.org::v23][1 Kön 14,23]].
+
+[fn:6] Damaskus hatte das Nordreich und andere Staaten für ein
+Bündnis gegen Assur gewonnen. Da Jotam und Ahas den Beitritt
+verweigerten, kam es zum sog. Syrisch-efraimitischen Krieg. Er gab
+Anlass zur Immanuel-Weissagung von [[file:Jes_7.org::v1][Jes 7,1-17]].
+
+[fn:7] Edom: Text korr.; H: Aram.
+
+[fn:8] 10-16: Ahas wollte keinen neuen Kult einführen, sondern
+nur die Bauweise des Altars übernehmen.
+
+[fn:9] Die bronzenen Gestelle und das «Meer» waren von Salomo
+für den Tempel angefertigt worden (vgl. [[file:1.Kön_7.org::v23][1 Kön 7,23-39]]). Ahas war
+vielleicht durch Not gezwungen, das entbehrliche Metall für andere
+Zwecke (Tribut an Assur) zu verwenden.
+
+[fn:10] Sabbatgang: Übersetzung unsicher.

@@ -1,0 +1,254 @@
+:PROPERTIES:
+:ID:       c44a9b2b-1969-4a41-923f-bd709935d79c
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Galater* --
+[[file:Gal_1.html][1]] [[file:Gal_2.html][2]] *3* [[file:Gal_4.html][4]]
+[[file:Gal_5.html][5]] [[file:Gal_6.html][6]]
+
+--------------
+
+* Gal 3
+  :PROPERTIES:
+  :CUSTOM_ID: gal-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Aufruf an die Galater: 3,1-5
+     :PROPERTIES:
+     :CUSTOM_ID: aufruf-an-die-galater-31-5
+     :END:
+1 Ihr unvernünftigen Galater, wer hat euch verblendet? Ist euch Jesus
+Christus nicht deutlich als der Gekreuzigte vor Augen gestellt worden?
+^{[[#fn1][1]]}
+
+<<v2>>
+2 Dies eine möchte ich von euch erfahren: Habt ihr den Geist durch die
+Werke des Gesetzes oder durch die Botschaft des Glaubens empfangen?
+^{[[#fn2][2]]}
+
+<<v3>>
+3 Seid ihr so unvernünftig? Am Anfang habt ihr auf den Geist vertraut
+und jetzt erwartet ihr vom Fleisch die Vollendung. ^{[[#fn3][3]]}
+
+<<v4>>
+4 Habt ihr denn so Großes vergeblich erfahren? Sollte es wirklich
+vergeblich gewesen sein?
+
+<<v5>>
+5 Warum gibt euch denn Gott den Geist und bewirkt Wundertaten unter
+euch? Weil ihr das Gesetz befolgt oder weil ihr die Botschaft des
+Glaubens angenommen habt?\\
+\\
+
+<<v6>>
+**** Abrahams Glaube und die Verheißung des Segens: 3,6-18
+     :PROPERTIES:
+     :CUSTOM_ID: abrahams-glaube-und-die-verheißung-des-segens-36-18
+     :END:
+6 Von Abraham wird gesagt: /Er glaubte Gott, und das wurde ihm als
+Gerechtigkeit angerechnet./ ^{[[#fn4][4]][[#fn5][5]]}
+
+<<v7>>
+7 Daran erkennt ihr, dass nur die, die glauben, Abrahams Söhne sind.
+^{[[#fn6][6]]}
+
+<<v8>>
+8 Und da die Schrift vorhersah, dass Gott die Heiden aufgrund des
+Glaubens gerecht macht, hat sie dem Abraham im Voraus verkündet: /Durch
+dich sollen alle Völker Segen erlangen./ ^{[[#fn7][7]]}
+
+<<v9>>
+9 Also gehören alle, die glauben, zu dem glaubenden Abraham und werden
+wie er gesegnet. ^{[[#fn8][8]]}
+
+<<v10>>
+10 Alle aber, die nach dem Gesetz leben, stehen unter dem Fluch. Denn in
+der Schrift heißt es: /Verflucht ist jeder, der sich nicht an alles
+hält, was zu tun das Buch des Gesetzes vorschreibt./ ^{[[#fn9][9]]}
+
+<<v11>>
+11 Dass durch das Gesetz niemand vor Gott gerecht wird, ist offenkundig;
+denn: /Der aus Glauben Gerechte wird leben./
+^{[[#fn10][10]][[#fn11][11]]}
+
+<<v12>>
+12 Das Gesetz aber hat nichts mit dem Glauben zu tun, sondern es gilt:
+/Wer die Gebote erfüllt, wird durch sie leben./ ^{[[#fn12][12]]}
+
+<<v13>>
+13 Christus hat uns vom Fluch des Gesetzes freigekauft, indem er für uns
+zum Fluch geworden ist; denn es steht in der Schrift: /Verflucht ist
+jeder, der am Pfahl hängt./ ^{[[#fn13][13]]}
+
+<<v14>>
+14 Jesus Christus hat uns freigekauft, damit den Heiden durch ihn der
+Segen Abrahams zuteil wird und wir so aufgrund des Glaubens den
+verheißenen Geist empfangen. ^{[[#fn14][14]]}
+
+<<v15>>
+15 Brüder, ich nehme einen Vergleich aus dem menschlichen Leben: Niemand
+setzt das rechtsgültig festgelegte Testament eines Menschen außer Kraft
+oder versieht es mit einem Zusatz. ^{[[#fn15][15]][[#fn16][16]]}
+
+<<v16>>
+16 Abraham und seinem Nachkommen wurden die Verheißungen zugesprochen.
+Es heißt nicht: «und den Nachkommen», als wären viele gemeint, sondern
+es wird nur von einem gesprochen: /und deinem Nachkommen;/ das aber ist
+Christus. ^{[[#fn17][17]]}
+
+<<v17>>
+17 Damit meine ich: Das Testament, dem Gott einst Gültigkeit verliehen
+hat, wird durch das vierhundertdreißig Jahre später erlassene Gesetz
+nicht ungültig, sodass die Verheißung aufgehoben wäre. ^{[[#fn18][18]]}
+
+<<v18>>
+18 Würde sich das Erbe nämlich aus dem Gesetz herleiten, dann eben nicht
+mehr aus der Verheißung. Gott hat aber durch die Verheißung Abraham
+Gnade erwiesen. ^{[[#fn19][19]]}\\
+\\
+
+<<v19>>
+**** Die heilsgeschichtliche Stellung des Gesetzes: 3,19-25
+     :PROPERTIES:
+     :CUSTOM_ID: die-heilsgeschichtliche-stellung-des-gesetzes-319-25
+     :END:
+19 Warum gibt es dann das Gesetz? Wegen der Übertretungen wurde es
+hinzugefügt, bis der Nachkomme käme, dem die Verheißung gilt. Es wurde
+durch Engel erlassen und durch einen Mittler bekannt gegeben.
+^{[[#fn20][20]][[#fn21][21]]}
+
+<<v20>>
+20 Einen Mittler gibt es jedoch nicht, wo nur einer handelt; Gott aber
+ist «der Eine». ^{[[#fn22][22]]}
+
+<<v21>>
+21 Hebt also das Gesetz die Verheißungen auf? Keineswegs! Wäre ein
+Gesetz gegeben worden, das die Kraft hat, lebendig zu machen, dann käme
+in der Tat die Gerechtigkeit aus dem Gesetz;
+^{[[#fn23][23]][[#fn24][24]]}
+
+<<v22>>
+22 stattdessen hat die Schrift alles der Sünde unterworfen, damit durch
+den Glauben an Jesus Christus die Verheißung sich an denen erfüllt, die
+glauben. ^{[[#fn25][25]]}
+
+<<v23>>
+23 Ehe der Glaube kam, waren wir im Gefängnis des Gesetzes, festgehalten
+bis zu der Zeit, da der Glaube offenbart werden sollte. ^{[[#fn26][26]]}
+
+<<v24>>
+24 So hat das Gesetz uns in Zucht gehalten bis zum Kommen Christi, damit
+wir durch den Glauben gerecht gemacht werden. ^{[[#fn27][27]]}
+
+<<v25>>
+25 Nachdem aber der Glaube gekommen ist, stehen wir nicht mehr unter
+dieser Zucht.\\
+\\
+
+<<v26>>
+**** Glaube und Gottessohnschaft: 3,26 - 4,7
+     :PROPERTIES:
+     :CUSTOM_ID: glaube-und-gottessohnschaft-326---47
+     :END:
+26 Ihr seid alle durch den Glauben Söhne Gottes in Christus Jesus.
+^{[[#fn28][28]][[#fn29][29]]}
+
+<<v27>>
+27 Denn ihr alle, die ihr auf Christus getauft seid, habt Christus (als
+Gewand) angelegt. ^{[[#fn30][30]]}
+
+<<v28>>
+28 Es gibt nicht mehr Juden und Griechen, nicht Sklaven und Freie, nicht
+Mann und Frau; denn ihr alle seid «einer» in Christus Jesus.
+^{[[#fn31][31]][[#fn32][32]]}
+
+<<v29>>
+29 Wenn ihr aber zu Christus gehört, dann seid ihr Abrahams Nachkommen,
+Erben kraft der Verheißung. ^{[[#fn33][33]]}
+
+^{[[#fnm1][1]]} ℘ 5,7
+
+^{[[#fnm2][2]]} ℘ 2,16
+
+^{[[#fnm3][3]]} Zum Gegensatzpaar «Fleisch» und «Geist» vgl. die
+Anmerkung zu Röm 8,1-11.
+
+^{[[#fnm4][4]]} ℘ Gen 15,6; Röm 4,3
+
+^{[[#fnm5][5]]} 6-14: Der Apostel verweist wie in Röm 4 auf Abraham, um
+deutlich zu machen, dass wahre Gerechtigkeit nicht vom Gesetz abhängt,
+sondern vom Glauben.
+
+^{[[#fnm6][6]]} ℘ Röm 4,11f
+
+^{[[#fnm7][7]]} ℘ Gen 12,3; 18,18; Apg 3,25
+
+^{[[#fnm8][8]]} ℘ Röm 4,16
+
+^{[[#fnm9][9]]} ℘ Dtn 27,26; Jak 2,10
+
+^{[[#fnm10][10]]} ℘ 2,16; Hab 2,4; Röm 1,17
+
+^{[[#fnm11][11]]} Vgl. Röm 1,17 und die dortige Anmerkung.
+
+^{[[#fnm12][12]]} ℘ Lev 18,5; Röm 10,5
+
+^{[[#fnm13][13]]} ℘ Röm 8,3; 2 Kor 5,21; Dtn 21,23
+
+^{[[#fnm14][14]]} ℘ Jes 44,3; Joël 3,1f
+
+^{[[#fnm15][15]]} ℘ Hebr 9,16
+
+^{[[#fnm16][16]]} 15-18: Der Abraham verheißene Nachkomme ist Christus;
+durch ihn werden alle Glaubenden zu Nachkommen Abrahams und Söhnen
+Gottes (vgl. 3,26.29).
+
+^{[[#fnm17][17]]} ℘ Gen 22,17
+
+^{[[#fnm18][18]]} ℘ Ex 12,40
+
+^{[[#fnm19][19]]} ℘ Röm 4,13; 11,6
+
+^{[[#fnm20][20]]} ℘ Röm 5,20; 7,7.13; Hebr 2,2; Apg 7,38.53
+
+^{[[#fnm21][21]]} 19f: Einer zeitgenössischen jüdischen Tradition
+zufolge wurde das Gesetz durch (viele) Engel erlassen und dem (einen)
+«Mittler», Mose, übergeben, der es dem Volk Israel weitergab. Diese Art
+der Vermittlung weist nach Paulus darauf hin, dass der erste Bund und
+die erste Offenbarung gegenüber der endgültigen Offenbarung durch Jesus
+Christus nur untergeordnete, vorläufige Bedeutung haben.
+
+^{[[#fnm22][22]]} ℘ Dtn 6,4
+
+^{[[#fnm23][23]]} ℘ Röm 8,2-4
+
+^{[[#fnm24][24]]} 21-25: Vom «Gefängnis des Gesetzes» spricht Paulus,
+weil die Menschen ihre Sünden aufgrund der Vorschriften des Gesetzes
+erkennen und daher für sie haftbar gemacht werden konnten.
+
+^{[[#fnm25][25]]} ℘ Röm 3,9; 11,32
+
+^{[[#fnm26][26]]} ℘ 4,3
+
+^{[[#fnm27][27]]} ℘ Röm 10,4
+
+^{[[#fnm28][28]]} ℘ 4,5.7; Röm 8,17
+
+^{[[#fnm29][29]]} 26f: Wer glaubt und getauft wird, gehört zu Christus
+und ist in seinen «Leib», die Gemeinschaft aller Glaubenden,
+eingegliedert (vgl. 1 Kor 12,13). Das wird hier mit dem Bild des
+Gewandes ausgedrückt.
+
+^{[[#fnm30][30]]} ℘ Röm 13,14
+
+^{[[#fnm31][31]]} ℘ Röm 10,12; 1 Kor 12,13; Kol 3,11
+
+^{[[#fnm32][32]]} 28f: Dass alle in Christus «einer» sind, heißt, dass
+alle Christen eine Einheit bilden, und auch, dass sie vor Gott gleich
+sind.
+
+^{[[#fnm33][33]]} ℘ 3,7.14.18; Röm 9,7

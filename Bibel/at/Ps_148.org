@@ -1,0 +1,102 @@
+#+TITLE: Ps 148 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-21 Mi 13:55]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 148.html
+
+* Ps 148
+
+<<verses>>
+
+<<v1>>
+* Danklitanei auf Gott, den Schöpfer und Herrn
+
+1 Halleluja! Lobt den Herrn vom Himmel her, /\\
+ lobt ihn in den Höhen: [fn:1]\\
+\\
+
+<<v2>>
+2 Lobt ihn, all seine Engel, /\\
+ lobt ihn, all seine Scharen;\\
+\\
+
+<<v3>>
+3 lobt ihn, Sonne und Mond, /\\
+ lobt ihn, all ihr leuchtenden Sterne;\\
+\\
+
+<<v4>>
+4 lobt ihn, alle Himmel /\\
+ und ihr Wasser über dem Himmel!\\
+\\
+
+<<v5>>
+5 Loben sollen sie den Namen des Herrn; /\\
+ denn er gebot, und sie waren erschaffen. [fn:2]\\
+\\
+
+<<v6>>
+6 Er stellte sie hin für immer und ewig, /\\
+ er gab ihnen ein Gesetz, das sie nicht übertreten. [fn:3]\\
+\\
+
+<<v7>>
+7 Lobt den Herrn, ihr auf der Erde, /\\
+ ihr Seeungeheuer und all ihr Tiefen,\\
+\\
+
+<<v8>>
+8 Feuer und Hagel, Schnee und Nebel, /\\
+ du Sturmwind, der sein Wort vollzieht,\\
+\\
+
+<<v9>>
+9 ihr Berge und all ihr Hügel, /\\
+ ihr Fruchtbäume und alle Zedern, [fn:4]\\
+\\
+
+<<v10>>
+10 ihr wilden Tiere und alles Vieh, /\\
+ Kriechtiere und gefiederte Vögel,\\
+\\
+
+<<v11>>
+11 ihr Könige der Erde und alle Völker, /\\
+ ihr Fürsten und alle Richter auf Erden,\\
+\\
+
+<<v12>>
+12 ihr jungen Männer und auch ihr Mädchen, /\\
+ ihr Alten mit den Jungen!\\
+\\
+
+<<v13>>
+13 Loben sollen sie den Namen des Herrn; /\\
+ denn sein Name allein ist erhaben, /\\
+ seine Hoheit strahlt über Erde und Himmel.\\
+\\
+
+<<v14>>
+14 Seinem Volk verleiht er Macht, /\\
+ das ist ein Ruhm für all seine Frommen, /\\
+ für Israels Kinder, das Volk, das ihm nahen darf. Halleluja! [fn:5]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/Lk_2.org::v13][Lk 2,13]]; (1-4) [[file:Ps_103.org::v20][103,20-22]]; [[file:Ijob_38.org::v7][Ijob 38,7]]
+
+[fn:2] [[file:Ps_33.org::v9][33,9]]
+
+[fn:3] [[file:Ps_119.org::v91][119,91]]; [[file:Jer_31.org::v35][Jer 31,35f]]
+
+[fn:4] [[file:Jes_44.org::v23][Jes 44,23]]
+
+[fn:5] [[file:Dtn_4.org::v7][Dtn 4,7]]

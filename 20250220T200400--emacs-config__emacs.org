@@ -1,0 +1,17 @@
+#+title:      Emacs Config
+#+date:       [2025-02-20 Do 20:04]
+#+filetags:   :emacs:
+#+identifier: 20250220T200400
+
+
+#+begin_quote
+("J" "Add to an existing journal entry (with denote.el)" plain
+           (file denote-last-path)
+           #'denote-journal-extras-new-or-existing-entry
+           :no-save t
+           :immediate-finish nil
+           :kill-buffer t
+           :jump-to-captured t)
+#+end_quote
+
+[[file:/home/matthias/.emacs.d/emacs-config.org][emacs-config.org]]

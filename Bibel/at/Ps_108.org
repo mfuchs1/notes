@@ -1,0 +1,107 @@
+#+TITLE: Ps 108 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-17 Sa 22:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 108.html
+
+* Ps 108
+
+<<verses>>
+
+<<v1>>
+* Gott, Hilfe und Schutz seines Volkes
+
+1 [Ein Lied. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Mein Herz ist bereit, o Gott, /\\
+ mein Herz ist bereit, /\\
+ ich will dir singen und spielen. Wach auf, meine Seele! / [fn:1] [fn:2]\\
+\\
+
+<<v3>>
+3 Wacht auf, Harfe und Saitenspiel! /\\
+ Ich will das Morgenrot wecken.\\
+\\
+
+<<v4>>
+4 Ich will dich vor den Völkern preisen, Herr, /\\
+ dir vor den Nationen lobsingen. [fn:3]\\
+\\
+
+<<v5>>
+5 Denn deine Güte reicht, so weit der Himmel ist, /\\
+ deine Treue, so weit die Wolken ziehn. [fn:4] [fn:5]\\
+\\
+
+<<v6>>
+6 Erheb dich über die Himmel, o Gott! /\\
+ Deine Herrlichkeit erscheine über der ganzen Erde.\\
+\\
+
+<<v7>>
+7 Hilf mit deiner Rechten, erhöre uns, /\\
+ damit die gerettet werden, die du so sehr liebst. [fn:6] [fn:7]\\
+\\
+
+<<v8>>
+8 Gott hat in seinem Heiligtum gesprochen: /\\
+ «Ich will triumphieren, will Sichem verteilen /\\
+ und das Tal von Sukkot vermessen.\\
+\\
+
+<<v9>>
+9 Mein ist Gilead, mein auch Manasse, /\\
+ Efraim ist der Helm auf meinem Haupt, /\\
+ Juda mein Herrscherstab.\\
+\\
+
+<<v10>>
+10 Doch Moab ist mein Waschbecken, /\\
+ auf Edom werfe ich meinen Schuh, /\\
+ ich triumphiere über das Land der Philister.»\\
+\\
+
+<<v11>>
+11 Wer führt mich hin zu der befestigten Stadt, /\\
+ wer wird mich nach Edom geleiten?\\
+\\
+
+<<v12>>
+12 Gott, hast denn du uns verworfen? /\\
+ Du ziehst ja nicht aus, o Gott, mit unsern Heeren.\\
+\\
+
+<<v13>>
+13 Bring uns doch Hilfe im Kampf mit dem Feind! /\\
+ Denn die Hilfe von Menschen ist nutzlos.\\
+\\
+
+<<v14>>
+14 Mit Gott werden wir Großes vollbringen; /\\
+ er selbst wird unsere Feinde zertreten.\\
+\\
+
+* Footnotes
+
+[fn:1] (2-6) [[file:Ps_57.org::v8][57,8-12]]
+
+[fn:2] Ergänzt aus [[file:Ps_57.org::v8][57,8]]. Text korr. nach [[file:Ps_57.org::v9][57,9]].
+
+[fn:3] [[file:Ps_9.org::v12][9,12]]; [[file:Ps_18.org::v50][18,50]]; [[file:Ps_57.org::v10][57,10]]; [[file:Ps_96.org::v3][96,3]]; [[file:Ps_105.org::v1][105,1]]
+
+[fn:4] [[file:Ps_36.org::v6][36,6]]
+
+[fn:5] Text korr. nach [[file:Ps_57.org::v11][57,11]].
+
+[fn:6] (7-14) [[file:Ps_60.org::v7][60,7-14]]
+
+[fn:7] Text korr. nach [[file:Ps_60.org::v7][60,7]].

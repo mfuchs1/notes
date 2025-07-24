@@ -1,0 +1,275 @@
+:PROPERTIES:
+:ID:       1b3fe484-78d0-4f5e-ab4f-905e0c93ce47
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der erste Brief an die Korinther* -- *1*
+[[file:1.Kor_2.html][2]] [[file:1.Kor_3.html][3]] ...
+[[file:1.Kor_16.html][16]]
+
+--------------
+
+* 1.Kor 1
+  :PROPERTIES:
+  :CUSTOM_ID: kor-1
+  :END:
+
+Nach Ausweis der Apostelgeschichte (18,1-18) kam Paulus auf der zweiten
+Missionsreise im Jahr 50 oder 51 n. Chr. nach Korinth. Die dortige
+Christengemeinde ist von ihm gegründet. Nach seinem Wegzug blieb er mit
+der Gemeinde in persönlicher Verbindung. In den beiden erhaltenen
+Korintherbriefen werden noch andere Schreiben an die Gemeinde erwähnt
+(vgl. 1 Kor 5,9; 2 Kor 2,4f).\\
+\\
+Paulus hat den 1. Korintherbrief zwischen 53 und 55 n. Chr. in Ephesus
+geschrieben. Den Anlass bildeten Fragen, die in der jungen
+Christengemeinde aufgetreten waren. Der Apostel erhielt davon Kenntnis
+durch »die Leute der Chloe« (1,11) und durch eine schriftliche Anfrage,
+die ihm wahrscheinlich von einer Abordnung der Gemeinde überbracht wurde
+(7,1; 16,17). Die »Leute der Chloe« berichteten von Spaltungen, die das
+Weiterbestehen der Gemeinde gefährdeten (1,12-17). Sie erzählten von
+einem schweren Fall von Blutschande (5,1-13), von Streitigkeiten der
+Christen vor heidnischen Richtern (6,1-11) und von sexuellen
+Verfehlungen (6,12-20). Ausführlich erörtert werden Fragen über Ehe und
+Ehelosigkeit (7,1 40), den Genuss von Götzenopferfleisch (8,1 - 11,1)
+und die Ordnung in der gottesdienstlichen Versammlung (11,2 - 14,40);
+nachdrücklich wendet sich Paulus gegen Missstände beim Herrenmahl
+(11,17-34). Das 15. Kapitel hat die Auferweckung Christi und der
+Christen zum Thema. Das abschließende Kapitel 16 enthält persönliche
+Mitteilungen und eine ausführliche Grußliste.\\
+\\
+Der 1. Korintherbrief gibt Einblick in das Leben und in die Probleme
+einer jungen heidenchristlichen Gemeinde. Aus der Stellungnahme des
+Paulus wird vor allem sichtbar, was für Glauben und Leben der Christen
+maßgebend ist: das Kreuz (1,18 - 2,5) und die Auferweckung Christi
+(15,1-28), das Wirken des Geistes Gottes (2,10-16; 12,1-31), die Ordnung
+der Gemeinde (3,5 - 4,21; 12,27-30; 16,15-18) und der rechte Gebrauch
+der Geistesgaben (12,1-11.27-31; 14,1-40). Wie kein anderer Brief zeigt
+dieses Schreiben, in welcher Weise Paulus sich als Gemeindegründer den
+Fragen einer jungen Gemeinde stellt und wie stark seine Entscheidungen
+von Christus, dem Gekreuzigten und Auferstandenen, her bestimmt sind.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Anschrift und Gruß: 1,1-3
+   :PROPERTIES:
+   :CUSTOM_ID: anschrift-und-gruß-11-3
+   :END:
+1 Paulus, durch Gottes Willen berufener Apostel Christi Jesu, und der
+Bruder Sosthenes ^{[[#fn1][1]]}
+
+<<v2>>
+2 an die Kirche Gottes, die in Korinth ist, - an die Geheiligten in
+Christus Jesus, berufen als Heilige mit allen, die den Namen Jesu
+Christi, unseres Herrn, überall anrufen, bei ihnen und bei uns.
+^{[[#fn2][2]][[#fn3][3]]}
+
+<<v3>>
+3 Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn
+Jesus Christus.\\
+\\
+
+<<v4>>
+** Dank an Gott: 1,4-9
+   :PROPERTIES:
+   :CUSTOM_ID: dank-an-gott-14-9
+   :END:
+4 Ich danke Gott jederzeit euretwegen für die Gnade Gottes, die euch in
+Christus Jesus geschenkt wurde,
+
+<<v5>>
+5 dass ihr an allem reich geworden seid in ihm, an aller Rede und aller
+Erkenntnis. ^{[[#fn4][4]]}
+
+<<v6>>
+6 Denn das Zeugnis über Christus wurde bei euch gefestigt,
+^{[[#fn5][5]]}
+
+<<v7>>
+7 sodass euch keine Gnadengabe fehlt, während ihr auf die Offenbarung
+Jesu Christi, unseres Herrn, wartet. ^{[[#fn6][6]]}
+
+<<v8>>
+8 Er wird euch auch festigen bis ans Ende, sodass ihr schuldlos dasteht
+am Tag Jesu, unseres Herrn. ^{[[#fn7][7]][[#fn8][8]]}
+
+<<v9>>
+9 Treu ist Gott, durch den ihr berufen worden seid zur Gemeinschaft mit
+seinem Sohn Jesus Christus, unserem Herrn. ^{[[#fn9][9]]}\\
+\\
+
+<<v10>>
+** Die Spaltungen in der Gemeinde: 1,10 - 4,21
+   :PROPERTIES:
+   :CUSTOM_ID: die-spaltungen-in-der-gemeinde-110---421
+   :END:
+**** Mahnung zur Einheit: 1,10-17
+     :PROPERTIES:
+     :CUSTOM_ID: mahnung-zur-einheit-110-17
+     :END:
+10 Ich ermahne euch aber, Brüder, im Namen Jesu Christi, unseres Herrn:
+Seid alle einmütig und duldet keine Spaltungen unter euch; seid ganz
+eines Sinnes und einer Meinung. ^{[[#fn10][10]]}
+
+<<v11>>
+11 Es wurde mir nämlich, meine Brüder, von den Leuten der Chloë
+berichtet, dass es Zank und Streit unter euch gibt.
+
+<<v12>>
+12 Ich meine damit, dass jeder von euch etwas anderes sagt: Ich halte zu
+Paulus - ich zu Apollos - ich zu Kephas - ich zu Christus.
+^{[[#fn11][11]][[#fn12][12]]}
+
+<<v13>>
+13 Ist denn Christus zerteilt? Wurde etwa Paulus für euch gekreuzigt?
+Oder seid ihr auf den Namen des Paulus getauft worden?
+
+<<v14>>
+14 Ich danke Gott, dass ich niemand von euch getauft habe, außer Krispus
+und Gaius, ^{[[#fn13][13]][[#fn14][14]]}
+
+<<v15>>
+15 sodass keiner sagen kann, ihr seiet auf meinen Namen getauft worden.
+
+<<v16>>
+16 Ich habe allerdings auch die Familie des Stephanas getauft. Ob ich
+sonst noch jemand getauft habe, weiß ich nicht mehr.
+^{[[#fn15][15]][[#fn16][16]]}
+
+<<v17>>
+17 Denn Christus hat mich nicht gesandt zu taufen, sondern das
+Evangelium zu verkünden, aber nicht mit gewandten und klugen Worten,
+damit das Kreuz Christi nicht um seine Kraft gebracht wird.
+^{[[#fn17][17]]}\\
+\\
+
+<<v18>>
+**** Die Botschaft vom Kreuz: 1,18-31
+     :PROPERTIES:
+     :CUSTOM_ID: die-botschaft-vom-kreuz-118-31
+     :END:
+18 Denn das Wort vom Kreuz ist denen, die verloren gehen, Torheit; uns
+aber, die gerettet werden, ist es Gottes Kraft. ^{[[#fn18][18]]}\\
+\\
+
+<<v19>>
+19 Es heißt nämlich in der Schrift: /Ich lasse die Weisheit der Weisen
+vergehen/ /\\
+ /und die Klugheit der Klugen verschwinden./ ^{[[#fn19][19]]}\\
+\\
+
+<<v20>>
+20 /Wo ist ein Weiser? Wo ein Schriftgelehrter?/ Wo ein Wortführer in
+dieser Welt? Hat Gott nicht die Weisheit der Welt als Torheit entlarvt?
+^{[[#fn20][20]]}
+
+<<v21>>
+21 Denn da die Welt angesichts der Weisheit Gottes auf dem Weg ihrer
+Weisheit Gott nicht erkannte, beschloss Gott, alle, die glauben, durch
+die Torheit der Verkündigung zu retten. ^{[[#fn21][21]]}
+
+<<v22>>
+22 Die Juden fordern Zeichen, die Griechen suchen Weisheit.
+^{[[#fn22][22]]}
+
+<<v23>>
+23 Wir dagegen verkündigen Christus als den Gekreuzigten: für Juden ein
+empörendes Ärgernis, für Heiden eine Torheit, ^{[[#fn23][23]]}
+
+<<v24>>
+24 für die Berufenen aber, Juden wie Griechen, Christus, Gottes Kraft
+und Gottes Weisheit.
+
+<<v25>>
+25 Denn das Törichte an Gott ist weiser als die Menschen und das
+Schwache an Gott ist stärker als die Menschen. ^{[[#fn24][24]]}
+
+<<v26>>
+26 Seht doch auf eure Berufung, Brüder! Da sind nicht viele Weise im
+irdischen Sinn, nicht viele Mächtige, nicht viele Vornehme,
+^{[[#fn25][25]]}
+
+<<v27>>
+27 sondern das Törichte in der Welt hat Gott erwählt, um die Weisen
+zuschanden zu machen, und das Schwache in der Welt hat Gott erwählt, um
+das Starke zuschanden zu machen. ^{[[#fn26][26]]}
+
+<<v28>>
+28 Und das Niedrige in der Welt und das Verachtete hat Gott erwählt:
+das, was nichts ist, um das, was etwas ist, zu vernichten,
+
+<<v29>>
+29 damit kein Mensch sich rühmen kann vor Gott. ^{[[#fn27][27]]}
+
+<<v30>>
+30 Von ihm her seid ihr in Christus Jesus, den Gott für uns zur Weisheit
+gemacht hat, zur Gerechtigkeit, Heiligung und Erlösung.
+
+<<v31>>
+31 /Wer sich/ also /rühmen will, der rühme sich/ des Herrn; so heißt es
+schon in der Schrift. ^{[[#fn28][28]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Röm 1,1; Apg 18,17
+
+^{[[#fnm2][2]]} ℘ 6,11
+
+^{[[#fnm3][3]]} Andere Übersetzungsmöglichkeiten: . . . mit allen, die
+überall den Namen unseres Herrn Jesus Christus, ihres und unseres Herrn,
+anrufen. Oder (wenn man diesen Satzteil als Fortführung der Anschrift
+versteht): . . . an die Gemeinde Gottes in Korinth . . . und an alle,
+die überall den Namen unseres Herrn Jesus Christus anrufen.
+
+^{[[#fnm4][4]]} ℘ 2 Kor 8,7
+
+^{[[#fnm5][5]]} ℘ Apg 18,5
+
+^{[[#fnm6][6]]} ℘ 2 Thess 1,7
+
+^{[[#fnm7][7]]} ℘ Phil 1,6.10; 1 Thess 3,13
+
+^{[[#fnm8][8]]} Gemeint ist die Wiederkunft Christi in Herrlichkeit zum
+Gericht und zur Vollendung der Welt (vgl. 15,23-28).
+
+^{[[#fnm9][9]]} ℘ 10,13
+
+^{[[#fnm10][10]]} ℘ 11,18; Röm 15,5
+
+^{[[#fnm11][11]]} ℘ 3,3f; Apg 18,24
+
+^{[[#fnm12][12]]} Apollos war wie Paulus ein erfolgreicher Missionar
+(vgl. 3,4-9; 4,6; Apg 18,24-28).
+
+^{[[#fnm13][13]]} ℘ Apg 18,8; Röm 16,23
+
+^{[[#fnm14][14]]} Zu Krispus vgl. Apg 18,8; zu Gaius vgl. Röm 16,23.
+
+^{[[#fnm15][15]]} ℘ 16,15.17
+
+^{[[#fnm16][16]]} Zu Stephanas vgl. 16,15.17.
+
+^{[[#fnm17][17]]} ℘ Apg 9,15
+
+^{[[#fnm18][18]]} ℘ 1,23f; Röm 1,16
+
+^{[[#fnm19][19]]} ℘ Jes 29,14; Ps 33,10
+
+^{[[#fnm20][20]]} ℘ Jes 19,12; 33,18 G; 44,25; 1 Kor 3,19
+
+^{[[#fnm21][21]]} ℘ Mt 11,25
+
+^{[[#fnm22][22]]} ℘ Mt 12,38 par; Joh 2,18; Apg 17,18-21
+
+^{[[#fnm23][23]]} ℘ 2,2.14; 1,18; 2,5; Kol 2,3
+
+^{[[#fnm24][24]]} ℘ 2 Kor 13,4
+
+^{[[#fnm25][25]]} im irdischen Sinn, wörtlich: dem Fleisch nach.
+
+^{[[#fnm26][26]]} ℘ Jak 2,5
+
+^{[[#fnm27][27]]} ℘ Röm 3,27; Eph 2,9
+
+^{[[#fnm28][28]]} ℘ Jer 9,22f; 2 Kor 10,17

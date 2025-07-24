@@ -1,0 +1,150 @@
+:PROPERTIES:
+:ID:       5a9cbc91-cfd9-468e-a067-17268f530624
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der zweite Brief an die Korinther* --
+[[file:2.Kor_1.html][1]] ... [[file:2.Kor_8.html][8]]
+[[file:2.Kor_9.html][9]] *10* [[file:2.Kor_11.html][11]]
+[[file:2.Kor_12.html][12]] [[file:2.Kor_13.html][13]]
+
+--------------
+
+* 2.Kor 10
+  :PROPERTIES:
+  :CUSTOM_ID: kor-10
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Zurückweisung von Angriffen gegen den Apostel: 10,1-18
+   :PROPERTIES:
+   :CUSTOM_ID: zurückweisung-von-angriffen-gegen-den-apostel-101-18
+   :END:
+**** Die Vorwürfe der Gegner: 10,1-11
+     :PROPERTIES:
+     :CUSTOM_ID: die-vorwürfe-der-gegner-101-11
+     :END:
+1 Ich, Paulus, der ja im persönlichen Umgang mit euch so unterwürfig,
+aus der Ferne aber so unerschrocken sein soll, ich ermahne euch
+angesichts der Freundlichkeit und Güte Christi ^{[[#fn1][1]]}
+
+<<v2>>
+2 und bitte euch: Zwingt mich nicht, bei meinem Kommen so unerschrocken
+und fest aufzutreten, wie ich es gegen gewisse Leute zu tun gedenke, die
+meinen, wir verhalten uns wie Menschen dieser Welt.
+^{[[#fn2][2]][[#fn3][3]]}
+
+<<v3>>
+3 Wir leben zwar in dieser Welt, kämpfen aber nicht mit den Waffen
+dieser Welt.
+
+<<v4>>
+4 Die Waffen, die wir bei unserem Feldzug einsetzen, sind nicht irdisch,
+aber sie haben durch Gott die Macht, Festungen zu schleifen; mit ihnen
+reißen wir ^{[[#fn4][4]]}
+
+<<v5>>
+5 alle hohen Gedankengebäude nieder, die sich gegen die Erkenntnis
+Gottes auftürmen. Wir nehmen alles Denken gefangen, sodass es Christus
+gehorcht; ^{[[#fn5][5]]}
+
+<<v6>>
+6 wir sind entschlossen, alle Ungehorsamen zu strafen, sobald ihr
+wirklich gehorsam geworden seid.
+
+<<v7>>
+7 Schaut auf das, was vor Augen liegt. Wenn jemand überzeugt ist,
+Christus zu gehören, dann soll er doch auch bedenken, dass nicht nur er,
+sondern auch wir Christus gehören. ^{[[#fn6][6]]}
+
+<<v8>>
+8 Und wenn ich etwas mehr auf unsere Vollmacht poche, werde ich mich
+nicht zu scheuen brauchen. Der Herr hat sie mir allerdings verliehen,
+damit ich bei euch aufbaue, nicht damit ich niederreiße; ^{[[#fn7][7]]}
+
+<<v9>>
+9 ich möchte nicht den Anschein erwecken, als wollte ich euch durch
+meine Briefe einschüchtern.
+
+<<v10>>
+10 Ja, die Briefe, wird gesagt, die sind wuchtig und voll Kraft, aber
+sein persönliches Auftreten ist matt und seine Worte sind armselig.
+^{[[#fn8][8]]}
+
+<<v11>>
+11 Wer so redet, der soll sich merken: Wie wir durch das geschriebene
+Wort aus der Ferne wirken, so können wir auch in eurer Gegenwart
+tatkräftig auftreten. ^{[[#fn9][9]]}\\
+\\
+
+<<v12>>
+**** Die Überzeugung des Apostels: 10,12-18
+     :PROPERTIES:
+     :CUSTOM_ID: die-überzeugung-des-apostels-1012-18
+     :END:
+12 Wir sind allerdings nicht so vermessen, uns gleich zu stellen oder zu
+vergleichen mit gewissen Leuten, die sich selbst anpreisen. In ihrem
+Unverstand messen sie sich an sich selbst und vergleichen sich mit sich
+selbst. ^{[[#fn10][10]]}
+
+<<v13>>
+13 Wir dagegen wollen uns nicht maßlos rühmen, sondern jenen Maßstab
+anlegen, den uns Gott zugeteilt hat, dass wir nämlich bis zu euch
+gelangt sind. ^{[[#fn11][11]]}
+
+<<v14>>
+14 Wir überschreiten also nicht unser Maß, wie wir es tun würden, wenn
+wir nicht bis zu euch gelangt wären; denn wir sind wirklich als Erste
+mit dem Evangelium Christi bis zu euch gekommen.
+
+<<v15>>
+15 Wir rühmen uns also nicht maßlos und mit fremden Leistungen; aber wir
+haben die Hoffnung, wenn euer Glaube stärker wird, vor euren Augen über
+das uns (bisher) gesetzte Maß weit hinauszuwachsen ^{[[#fn12][12]]}
+
+<<v16>>
+16 und die Heilsbotschaft über eure Grenzen hinauszutragen. Nach einem
+fremden Maßstab und auf einem Feld, das schon bestellt ist, wollen wir
+keinen Ruhm ernten.
+
+<<v17>>
+17 /Wer sich also rühmen will, der rühme sich/ des Herrn.
+^{[[#fn13][13]]}
+
+<<v18>>
+18 Denn nicht, wer sich selbst empfiehlt, ist anerkannt, sondern der,
+den der Herr empfiehlt. ^{[[#fn14][14]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 10,10; 11,6; 1 Kor 2,3
+
+^{[[#fnm2][2]]} ℘ 1 Kor 4,21; 2 Kor 1,17
+
+^{[[#fnm3][3]]} 2f: Wörtlich: die meinen, wir wandeln nach dem Fleisch.
+Im Fleisch nämlich wandelnd ziehen wir nicht nach dem Fleisch zu
+Felde. - Der Begriff «Fleisch» kommt im griechischen Text von 10,2-4
+wiederholt vor (vgl. die Anmerkung zu Röm 8,1-11).
+
+^{[[#fnm4][4]]} ℘ Röm 13,12; Eph 6,11-13
+
+^{[[#fnm5][5]]} ℘ Jes 2,12-17
+
+^{[[#fnm6][6]]} ℘ 1 Kor 1,12
+
+^{[[#fnm7][7]]} ℘ 12,6; 13,10
+
+^{[[#fnm8][8]]} ℘ 10,1; 11,6
+
+^{[[#fnm9][9]]} ℘ 13,2
+
+^{[[#fnm10][10]]} ℘ 3,1
+
+^{[[#fnm11][11]]} ℘ Röm 12,3
+
+^{[[#fnm12][12]]} ℘ Röm 15,20.24
+
+^{[[#fnm13][13]]} ℘ Jer 9,22f; 1 Kor 1,31
+
+^{[[#fnm14][14]]} ℘ 1 Kor 4,5

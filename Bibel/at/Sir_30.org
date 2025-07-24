@@ -1,0 +1,176 @@
+:PROPERTIES:
+:ID:       585d520b-f225-4fa2-9a9c-4c2d01f1e659
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_28.html][28]]
+[[file:Sir_29.html][29]] *30* [[file:Sir_31.html][31]]
+[[file:Sir_32.html][32]] ... [[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 30
+  :PROPERTIES:
+  :CUSTOM_ID: sir-30
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Kinder: 30,1-13
+     :PROPERTIES:
+     :CUSTOM_ID: die-kinder-301-13
+     :END:
+1 Wer seinen Sohn liebt, hält den Stock für ihn bereit, /\\
+ damit er später Freude erleben kann. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Wer seinen Sohn in Zucht hält, /\\
+ wird Freude an ihm haben und kann sich bei Bekannten seiner rühmen.
+^{[[#fn2][2]]}\\
+\\
+
+<<v3>>
+3 Wer seinen Sohn unterweist, /\\
+ erweckt den Neid des Feindes, /\\
+ bei seinen Freunden kann er auf ihn stolz sein. ^{[[#fn3][3]]}\\
+\\
+
+<<v4>>
+4 Stirbt der Vater, so ist es, als wäre er nicht tot; /\\
+ denn er hat sein Abbild hinterlassen.\\
+\\
+
+<<v5>>
+5 Solange er lebt, sieht er ihn und freut sich, /\\
+ wenn er stirbt, ist er nicht betrübt:\\
+\\
+
+<<v6>>
+6 Er hat seinen Feinden einen Rächer hinterlassen /\\
+ und seinen Freunden einen, der ihnen dankbar ist.\\
+\\
+
+<<v7>>
+7 Wer den Sohn verzärtelt, muss ihm einst die Wunden verbinden; /\\
+ dann zittert bei jedem Aufschrei sein Herz.\\
+\\
+
+<<v8>>
+8 Ein ungebändigtes Pferd wird störrisch, /\\
+ ein zügelloser Sohn wird unberechenbar. ^{[[#fn4][4]]}\\
+\\
+
+<<v9>>
+9 Verzärtle den Sohn und er wird dich enttäuschen; /\\
+ scherze mit ihm und er wird dich betrüben.\\
+\\
+
+<<v10>>
+10 Lach nicht mit ihm, sonst bekommst du Kummer /\\
+ und beißt dir am Ende die Zähne aus.\\
+\\
+
+<<v11>>
+11 Lass ihn nicht den Herrn spielen in der Jugend; /\\
+ lass dir seine Bosheiten nicht gefallen!\\
+\\
+
+<<v12>>
+12 Beug ihm den Kopf in Kindestagen; /\\
+ schlag ihn aufs Gesäß, solange er noch klein ist, sonst wird er
+störrisch und widerspenstig gegen dich /\\
+ und du hast Kummer mit ihm.\\
+\\
+
+<<v13>>
+13 Halte deinen Sohn in Zucht und mach ihm das Joch schwer, /\\
+ sonst überhebt er sich gegen dich in seiner Torheit.\\
+\\
+
+<<v14>>
+**** Gesundheit und Reichtum: 30,14 - 31,11
+     :PROPERTIES:
+     :CUSTOM_ID: gesundheit-und-reichtum-3014---3111
+     :END:
+14 Besser arm und gesunde Glieder /\\
+ als reich und mit Krankheit geschlagen.\\
+\\
+
+<<v15>>
+15 Ein Leben in Gesundheit ist mir lieber als Gold, /\\
+ ein frohes Herz lieber als Perlen.\\
+\\
+
+<<v16>>
+16 Kein Reichtum geht über den Reichtum gesunder Glieder, /\\
+ kein Gut über die Freude des Herzens.\\
+\\
+
+<<v17>>
+17 Besser sterben als ein unnützes Leben, /\\
+ besser Ruhe für immer als dauerndes Leid. ^{[[#fn5][5]]}\\
+\\
+
+<<v18>>
+18 Leckerbissen, einem verschlossenen Mund dargereicht, /\\
+ sind wie Opfergaben, die man vor ein Götzenbild hinstellt;
+^{[[#fn6][6]]}\\
+\\
+
+<<v19>>
+19 was nützen sie den Götzen der Heiden, /\\
+ die nicht essen und nicht riechen können? Ihnen gleicht einer, der
+Reichtum besitzt, /\\
+ ihn aber nicht genießen kann.\\
+\\
+
+<<v20>>
+20 Mit den Augen erblickt er ihn und seufzt /\\
+ wie ein Entmannter, der ein Mädchen umarmt. ^{[[#fn7][7]]}\\
+\\
+
+<<v21>>
+21 Überlass dich nicht der Sorge, /\\
+ schade dir nicht selbst durch dein Grübeln! ^{[[#fn8][8]]}\\
+\\
+
+<<v22>>
+22 Herzensfreude ist Leben für den Menschen, /\\
+ Frohsinn verlängert ihm die Tage.\\
+\\
+
+<<v23>>
+23 Überrede dich selbst und beschwichtige dein Herz, /\\
+ halte Verdruss von dir fern! Denn viele tötet die Sorge /\\
+ und Verdruss hat keinen Wert.\\
+\\
+
+<<v24>>
+24 Neid und Ärger verkürzen das Leben, /\\
+ Kummer macht vorzeitig alt.\\
+\\
+
+<<v25>>
+25 Der Schlaf des Fröhlichen wirkt wie eine Mahlzeit, /\\
+ das Essen schlägt gut bei ihm an.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Spr 23,13
+
+^{[[#fnm2][2]]} ℘ Spr 15,20
+
+^{[[#fnm3][3]]} ℘ Spr 23,24f
+
+^{[[#fnm4][4]]} ℘ Spr 29,15
+
+^{[[#fnm5][5]]} ℘ Koh 4,2
+
+^{[[#fnm6][6]]} Der «verschlossene Mund» ist der des Kranken.
+
+^{[[#fnm7][7]]} 20b: Vgl. die Anmerkung zu 20,4.
+
+^{[[#fnm8][8]]} 21-24: Eine moderne und doch alte Einsicht, dass
+psychische Depressionen körperlich krank machen können.

@@ -1,0 +1,135 @@
+#+TITLE: Ri 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-05 So 13:54]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 14.html
+
+<<verses>>
+
+<<v1>>
+* Simsons Hochzeit: 14,1-20
+
+1 Als Simson (eines Tages) nach Timna hinabging, fiel sein Blick auf
+eine der jungen Philisterinnen aus Timna. [fn:1]
+
+<<v2>>
+2 Als er wieder heraufkam, teilte er es seinem Vater und seiner Mutter
+mit und sagte: Ich habe in Timna eine junge Philisterin gesehen. Gebt
+sie mir doch zur Frau!
+
+<<v3>>
+3 Sein Vater und seine Mutter erwiderten ihm: Gibt es denn unter den
+Töchtern deiner Stammesbrüder und in meinem ganzen Volk keine Frau,
+sodass du fortgehen und eine Frau von diesen unbeschnittenen Philistern
+heiraten musst? Simson antwortete seinem Vater: Gib mir diese, denn sie
+gefällt mir.
+
+<<v4>>
+4 Sein Vater und seine Mutter wussten nicht, dass es vom Herrn so
+geplant war, weil er einen Anlass zum Kampf mit den Philistern suchte.
+Damals herrschten nämlich die Philister über Israel.
+
+<<v5>>
+5 Simson ging [mit seinem Vater und seiner Mutter] nach Timna. Als sie
+bei den Weinbergen von Timna waren, kam ihm plötzlich ein brüllender
+junger Löwe entgegen. [fn:2]
+
+<<v6>>
+6 Da kam der Geist des Herrn über Simson und Simson zerriss den Löwen
+mit bloßen Händen, als würde er ein Böckchen zerreißen. Aber seinem
+Vater und seiner Mutter teilte er nicht mit, was er getan hatte.
+
+<<v7>>
+7 Dann ging er hinab und redete mit der Frau und sie gefiel Simson.
+
+<<v8>>
+8 Nach einiger Zeit ging er wieder hin, um sie zu heiraten. Dabei bog er
+vom Weg ab, um nach dem Kadaver des Löwen zu sehen. Da fand er im Körper
+des Löwen einen Bienenschwarm und Honig.
+
+<<v9>>
+9 Er löste den Honig mit den Händen heraus und aß davon im Weitergehen.
+Als er zu seinem Vater und zu seiner Mutter kam, gab er ihnen davon und
+sie aßen ebenfalls. Er sagte ihnen aber nicht, dass er den Honig aus dem
+Kadaver des Löwen herausgeholt hatte.
+
+<<v10>>
+10 Auch sein Vater kam zu der Frau hinab und Simson veranstaltete dort
+ein Trinkgelage, wie es die jungen Leute zu machen pflegen.
+
+<<v11>>
+11 Weil man aber vor ihm Angst hatte, holte man dreißig Männer hinzu,
+die um ihn sein sollten. [fn:3]
+
+<<v12>>
+12 Simson sagte zu ihnen: Ich will euch ein Rätsel aufgeben. Wenn ihr es
+mir in den sieben Tagen des Gelages erraten und lösen könnt, dann will
+ich euch dreißig Hemden und dreißig Festgewänder geben.
+
+<<v13>>
+13 Wenn ihr mir aber die Lösung nicht sagen könnt, dann sollt ihr mir
+dreißig Hemden und dreißig Festgewänder geben. Sie sagten zu ihm: Sag
+uns dein Rätsel, wir möchten es hören.
+
+<<v14>>
+14 Er sagte zu ihnen: Vom Fresser kommt Speise, vom Starken kommt Süßes.
+Sie aber konnten es drei Tage lang nicht lösen.
+
+<<v15>>
+15 Am vierten Tag sagten sie zur Frau Simsons: Überrede deinen Mann,
+dass er uns die Lösung des Rätsels nennt; sonst werden wir dich samt dem
+Haus deines Vaters verbrennen. Habt ihr uns hierher eingeladen, um uns
+arm zu machen? [fn:4]
+
+<<v16>>
+16 Da weinte die Frau Simsons vor ihm und sagte: Du hast eine Abneigung
+gegen mich und liebst mich nicht. Du hast den Söhnen meines Volkes ein
+Rätsel aufgegeben und hast mir nicht die Lösung gesagt. Er erwiderte
+ihr: Ich habe es ja nicht einmal meinem Vater und meiner Mutter gesagt.
+Wie sollte ich es dir sagen?
+
+<<v17>>
+17 Sie aber weinte sieben Tage lang vor ihm, solange sie Gelage hielten.
+Am siebten Tag aber sagte er es ihr, weil sie ihm so zusetzte, und sie
+teilte die Lösung den Söhnen ihres Vaters mit.
+
+<<v18>>
+18 Und am siebten Tag sagten die Männer der Stadt zu ihm, bevor die
+Sonne unterging: Was ist süßer als Honig und was ist stärker als ein
+Löwe? Er erwiderte ihnen: Hättet ihr nicht mit meiner Kuh gepflügt, dann
+hättet ihr mein Rätsel nicht erraten. [fn:5]
+
+<<v19>>
+19 Und der Geist des Herrn kam über ihn; er ging nach Aschkelon hinab
+und erschlug dort dreißig Mann von ihnen, nahm ihnen ihre Kleider und
+gab die Gewänder denen, die das Rätsel gelöst hatten. Dann ging er
+zornentbrannt hinauf in das Haus seines Vaters. [fn:6]
+
+<<v20>>
+20 Seine Frau erhielt sein Freund, der der Brautführer gewesen war.\\
+\\
+
+* Footnotes
+
+[fn:1] Die Philister kamen im Verlauf der Wanderung der sog.
+Seevölker über Kaftor ([[file:Am_9.org::v7][Am 9,7]], vielleicht Kreta oder Kappadozien) nach
+Ägypten, wurden zurückgeschlagen und siedelten sich an der Küste
+Palästinas an, das von ihnen den Namen hat (Palästina = Philisterland).
+
+[fn:2] Nach V. 6 geht Simson allein nach Timna.
+
+[fn:3] Weil man aber vor ihm Angst hatte: Text korr. nach G; H:
+Weil sie ihn aber sahen.
+
+[fn:4] Am vierten Tag: Text korr. nach G.
+
+[fn:5] Simson wirft den jungen Leuten vor, sie hätten von
+seiner Frau die Lösung des Rätsels erzwungen.
+
+[fn:6] [[file:Ri_3.org::v10][3,10]]

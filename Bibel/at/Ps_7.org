@@ -1,0 +1,146 @@
+#+TITLE: Ps 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-03 So 14:54]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 7.html
+
+* Ps 7
+
+<<verses>>
+
+<<v1>>
+* Gebet in Verfolgung
+
+1 [Ein Klagelied Davids, das er dem Herrn sang wegen des Benjaminiters
+Kusch.]\\
+\\
+
+<<v2>>
+2 Herr, mein Gott, ich flüchte mich zu dir; /\\
+ hilf mir vor allen Verfolgern und rette mich,\\
+\\
+
+<<v3>>
+3 damit mir niemand wie ein Löwe das Leben raubt, /\\
+ mich zerreißt, und keiner ist da, der mich rettet. [fn:1]\\
+\\
+
+<<v4>>
+4 Wenn ich das getan habe, Herr, mein Gott, /\\
+ wenn an meinen Händen Unrecht klebt, [fn:2]\\
+\\
+
+<<v5>>
+5 wenn ich meinem Freunde Böses tat, /\\
+ wenn ich den quälte, der mich grundlos bedrängt hat,\\
+\\
+
+<<v6>>
+6 dann soll mich der Feind verfolgen und ergreifen; /\\
+ er richte mein Leben zugrunde und trete meine Ehre mit Füßen. [Sela] [fn:3] [fn:4]\\
+\\
+
+<<v7>>
+7 Herr, steh auf in deinem Zorn, /\\
+ erheb dich gegen meine wütenden Feinde! Wach auf, du mein Gott! /\\
+ Du hast zum Gericht gerufen. /\\
+ Der Herr richtet die Völker. [fn:5] [fn:6]\\
+\\
+
+<<v8>>
+8 Um dich stehe die Schar der Völker im Kreis; /\\
+ über ihnen throne du in der Höhe! [fn:7]\\
+\\
+
+<<v9>>
+9 Herr, weil ich gerecht bin, verschaff mir Recht /\\
+ (und tu an mir Gutes), weil ich schuldlos bin! [fn:8]\\
+\\
+
+<<v10>>
+10 Die Bosheit der Frevler finde ein Ende, /\\
+ doch gib dem Gerechten Bestand, /\\
+ gerechter Gott, der du auf Herz und Nieren prüfst. [fn:9]\\
+\\
+
+<<v11>>
+11 Ein Schild über mir ist Gott, /\\
+ er rettet die Menschen mit redlichem Herzen. [fn:10]\\
+\\
+
+<<v12>>
+12 Gott ist ein gerechter Richter, /\\
+ ein Gott, der täglich strafen kann.\\
+\\
+
+<<v13>>
+13 Wenn der Frevler sein Schwert wieder schärft, /\\
+ seinen Bogen spannt und zielt, [fn:11] [fn:12]\\
+\\
+
+<<v14>>
+14 dann rüstet er tödliche Waffen gegen sich selbst, /\\
+ bereitet sich glühende Pfeile. [fn:13]\\
+\\
+
+<<v15>>
+15 Er hat Böses im Sinn; /\\
+ er geht schwanger mit Unheil und Tücke gebiert er. [fn:14]\\
+\\
+
+<<v16>>
+16 Er gräbt ein Loch, er schaufelt es aus, /\\
+ doch er stürzt in die Grube, die er selber gemacht hat. [fn:15]\\
+\\
+
+<<v17>>
+17 Seine Untat kommt auf sein eigenes Haupt, /\\
+ seine Gewalttat fällt auf seinen Scheitel zurück.\\
+\\
+
+<<v18>>
+18 Ich will dem Herrn danken, denn er ist gerecht; /\\
+ dem Namen des Herrn, des Höchsten, will ich singen und spielen. [fn:16]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_17.org::v12][17,12]]
+
+[fn:2] (4-5) [[file:Ijob_31.org::v7][Ijob 31,7-34]]
+
+[fn:3] [[file:Ps_143.org::v3][143,3]]
+
+[fn:4] Wörtlich: er trete mein Leben zu Boden und trete meine
+Ehre in den Staub.
+
+[fn:5] [[file:Ps_9.org::v20][9,20]]
+
+[fn:6] Text korr. Der Herr richtet die Völker: in H Anfang von V.9.
+
+[fn:7] Text korr.
+
+[fn:8] [[file:Ps_18.org::v21][18,21-27]]
+
+[fn:9] [[file:Ps_26.org::v2][26,2]]; [[file:Jer_11.org::v20][Jer 11,20]]; [[file:Jer_17.org::v10][17,10]]; [[file:Jer_20.org::v12][20,12]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_2.org::v23][Offb 2,23]]
+
+[fn:10] [[file:Ps_3.org::v4][3,4]]
+
+[fn:11] [[file:Ps_11.org::v2][11,2]]
+
+[fn:12] Text korr.
+
+[fn:13] [[file:Jes_50.org::v11][Jes 50,11]]
+
+[fn:14] [[file:Ijob_15.org::v35][Ijob 15,35]]; [[file:Jes_59.org::v4][Jes 59,4]]
+
+[fn:15] [[file:Ps_9.org::v16][9,16]]; [[file:Ps_35.org::v7][35,7f]]; [[file:Ps_57.org::v7][57,7]]; [[file:Spr_26.org::v27][Spr 26,27]]; [[file:Koh_10.org::v8][Koh 10,8]]
+
+[fn:16] [[file:Ps_9.org::v12][9,12]]; [[file:Ps_18.org::v50][18,50]]; [[file:Ps_30.org::v5][30,5]]; [[file:Ps_57.org::v8][57,8f]]; [[file:Ps_68.org::v5][68,5]].[[file:Ps_68.org::v33][33]]; [[file:Ps_71.org::v23][71,23]]; [[file:Ps_92.org::v2][92,2]];
+[[file:Ps_104.org::v33][104,33]]; [[file:Ps_135.org::v3][135,3]]; [[file:Ps_138.org::v2][138,2]]; [[file:Ps_146.org::v2][146,2]]

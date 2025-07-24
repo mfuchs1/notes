@@ -1,0 +1,226 @@
+#+TITLE: 1 Chr 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 22:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 9.html
+
+<<verses>>
+
+<<v1>>
+* 1 Chr 9
+1 So ließ sich ganz Israel in die Stammeslisten eintragen. Sie wurden in
+das Buch der Könige von Israel und Juda aufgenommen. [fn:1]\\
+\\
+
+<<v2>>
+* Jerusalemer Familien nach dem Exil: 9,1-18
+
+2 Juda wurde wegen seiner Treulosigkeit nach Babel weggeführt. Die
+ersten Ansiedler, die sich wieder auf ihrem Besitz in ihren Städten
+niederließen, waren Israeliten, Priester, Leviten und Tempeldiener. [fn:2]
+
+<<v3>>
+3 In Jerusalem wohnten von den Angehörigen Judas, Benjamins, Efraims und
+Manasses folgende:
+
+<<v4>>
+4 Utai, der Sohn Ammihuds, des Sohnes Omris, des Sohnes Imris, des
+Sohnes Banis, ein Nachkomme des Perez, des Sohnes Judas.
+
+<<v5>>
+5 Von den Nachkommen Schelas: Asaja, der Erstgeborene, und dessen Söhne.
+
+<<v6>>
+6 Von den Nachkommen Serachs: Jëuël. Die Zahl ihrer Brüder betrug 690
+Mann.
+
+<<v7>>
+7 Von den Nachkommen Benjamins: Sallu, der Sohn Meschullams, des Sohnes
+Hodawjas, des Sohnes Senuas;
+
+<<v8>>
+8 ferner Jibneja, der Sohn Jerohams, und Ela, der Sohn Usis, des Sohnes
+Michris, sowie Meschullam, der Sohn Schefatjas, des Sohnes Reguëls, des
+Sohnes Jibnijas;
+
+<<v9>>
+9 dazu ihre Brüder nach ihrer Geschlechterfolge, insgesamt 956 Mann. Sie
+alle waren Oberhäupter ihrer Großfamilien.
+
+<<v10>>
+10 Von den Priestern: Jedaja, Jojarib, Jachin,
+
+<<v11>>
+11 Asarja, der Sohn Hilkijas, des Sohnes Meschullams, des Sohnes Zadoks,
+des Sohnes Merajots, des Sohnes Ahitubs, der Fürst des Hauses Gottes;
+
+<<v12>>
+12 ferner Adaja, der Sohn Jerohams, des Sohnes Paschhurs, des Sohnes
+Malkijas, und Masai, der Sohn Adiëls, des Sohnes Jachseras, des Sohnes
+Meschullams, des Sohnes Meschillemots, des Sohnes Immers,
+
+<<v13>>
+13 sowie ihre Brüder, die Häupter ihrer Großfamilien, insgesamt 1760
+Mann. Sie waren tüchtige Männer in der Besorgung des Dienstes im Haus
+Gottes.
+
+<<v14>>
+14 Von den Leviten: Schemaja, der Sohn Haschubs, des Sohnes Asrikams,
+des Sohnes Haschabjas, von den Nachkommen Meraris;
+
+<<v15>>
+15 ferner Bakbakar, Heresch, Galal, Mattanja, der Sohn Michas, des
+Sohnes Sichris, des Sohnes Asafs,
+
+<<v16>>
+16 sowie Abda, der Sohn Schammuas, des Sohnes Galals, des Sohnes
+Jedutuns, und Berechja, der Sohn Asas, des Sohnes Elkanas, der in den
+Dörfern der Netofatiter wohnte.
+
+<<v17>>
+17 Die Torwächter waren: Schallum, Akkub, Talmon und Ahiman. Ihr Bruder
+Schallum war das Oberhaupt.
+
+<<v18>>
+18 Er hat bis heute die Wache am Königstor im Osten. Das sind die
+Torwächter in den Lagern der Leviten.\\
+\\
+
+<<v19>>
+* Levitische Dienste: 9,19-34
+     :PROPERTIES:
+     :CUSTOM_ID: levitische-dienste-919-34
+     :END:
+19 Schallum, der Sohn Kores, des Sohnes Abiasafs, des Sohnes Korachs,
+und seine Brüder aus seiner Großfamilie, die Korachiter, hatten als
+Wächter den Dienst an den Schwellen des Zeltes zu besorgen. Ihre Väter
+waren im Lager des Herrn Wächter am Eingang gewesen.
+
+<<v20>>
+20 Pinhas, der Sohn Eleasars, war einst ihr Anführer - der Herr sei mit
+ihm. [fn:3]
+
+<<v21>>
+21 Secharja, der Sohn Meschelemjas, war Torwächter am Eingang des
+Offenbarungszeltes.
+
+<<v22>>
+22 Die als Torwächter an den Schwellen ausersehen waren, zählten
+insgesamt 212 Mann. Sie hatten sich in ihren Dörfern in die
+Stammeslisten eingetragen und waren von David und dem Seher Samuel in
+ihr Amt eingesetzt worden.
+
+<<v23>>
+23 Mit ihren Söhnen standen sie nach der Dienstordnung als Wächter an
+den Toren zum Haus des Herrn, zum Haus des Zeltes.
+
+<<v24>>
+24 Sie waren nach den vier Himmelsrichtungen aufgestellt, nach Osten,
+Westen, Norden und Süden.
+
+<<v25>>
+25 Ihre Brüder wohnten in ihren Dörfern und mussten jeweils sieben Tage,
+von einem Zeitpunkt zum andern, mit ihnen zum Dienst erscheinen.
+
+<<v26>>
+26 Ständig im Dienst waren nur die vier obersten Torwächter. Einige
+Leviten hatten die Aufsicht über die Kammern und die Schätze im Haus
+Gottes.
+
+<<v27>>
+27 Sie blieben auch während der Nacht in der Nähe des Hauses Gottes;
+denn ihnen war die Wache übertragen und sie hatten den Schlüssel, um
+jeden Morgen zu öffnen.
+
+<<v28>>
+28 Einige von ihnen überwachten die Geräte für den Dienst. Sie trugen
+sie abgezählt hinein und brachten sie abgezählt wieder heraus.
+
+<<v29>>
+29 Andere waren zur Aufsicht über die sonstigen Geräte und alle Geräte
+des Heiligtums bestellt. Sie hatten das Feinmehl, den Wein und das Öl,
+den Weihrauch und verschiedenartigen Balsam zu besorgen.
+
+<<v30>>
+30 Einige von den Söhnen der Priester bereiteten die Salben für den
+Balsam.
+
+<<v31>>
+31 Mattitja, einer der Leviten, der Erstgeborene des Korachiters
+Schallum, war amtlich mit der Zubereitung des Backwerks beauftragt.
+
+<<v32>>
+32 Ein Teil der Kehatiter, ihrer Amtsbrüder, hatte für die Schaubrote zu
+sorgen, die sie jeden Sabbat aufzulegen hatten.
+
+<<v33>>
+33 Das waren die Sänger, Häupter der Großfamilien bei den Leviten, die,
+von anderen Arbeiten befreit, in den Kammern wohnten, da sie Tag und
+Nacht im Dienst sein mussten . . . [fn:4]
+
+<<v34>>
+34 Das waren die Häupter der Großfamilien der Leviten nach ihrer
+Geschlechterfolge, die Häupter. Sie wohnten in Jerusalem.\\
+\\
+
+<<v35>>
+* Die Familie Sauls: 9,35-44
+
+35 In Gibeon wohnte Jëiël, der Vater Gibeons. Seine Frau war Maacha [fn:5]
+
+<<v36>>
+36 und sein erstgeborener Sohn war Abdon. Ihm folgten Zur, Kisch, Baal,
+Ner, Nadab,
+
+<<v37>>
+37 Gedor, Achjo, Secher und Miklot.
+
+<<v38>>
+38 Miklot zeugte Schima. Auch sie wohnten in Jerusalem bei ihren
+Brüdern, ihnen gegenüber.
+
+<<v39>>
+39 Ner zeugte Abner und Kisch zeugte Saul. Saul zeugte Jonatan,
+Malkischua, Abinadab und Eschbaal.
+
+<<v40>>
+40 Der Sohn Jonatans war Merib-Baal. Merib-Baal zeugte Micha.
+
+<<v41>>
+41 Die Söhne Michas waren: Piton, Melech, Tachrea und Ahas.
+
+<<v42>>
+42 Ahas zeugte Joadda und Joadda zeugte Alemet, Asmawet und Simri. Simri
+zeugte Moza,
+
+<<v43>>
+43 Moza zeugte Bina; dessen Sohn war Refaja, dessen Sohn Elasa und
+dessen Sohn Azel.
+
+<<v44>>
+44 Azel hatte sechs Söhne und das sind ihre Namen: Asrikam, Bochru,
+Jischmael, Schearja, Obadja und Hanan. Das waren die Söhne Azels.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-18) [[file:Neh_11.org::v3][Neh 11,3-19]]
+
+[fn:2] «Erste Ansiedler» sind nach dem Hinweis auf die
+Babylonische Gefangenschaft die ersten Heimkehrer unter Serubbabel und
+Jeschua (vgl. [[file:Esra_2.org::v1][Esra 2]]). «Israeliten» sind hier (neben Priestern, Leviten
+und Tempeldienern) die Laien.
+
+[fn:3] Der Satz «Der Herr sei mit ihm» ist der früheste Beleg
+für die Sitte, dem Namen einer verehrungswürdigen Person eine
+Segensformel beizufügen.
+
+[fn:4] Die erwartete Aufzählung der Namen fehlt hier.
+
+[fn:5] (35-44) [[file:1.Chr_8.org::v29][8,29-38]]

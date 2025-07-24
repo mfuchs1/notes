@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       75c775b6-2081-4432-acac-3d49c5dd9387
+:END:
+#+title: Lernen mit Gabriel
+#+category: Lernen mit Gabriel
+#+filetags: Project
+* Goals
+
+** Gabriel beim Lernen unterstützen.
+
+** Wo muss ich / müssen wir uns ändern?
+siehe Buch.
+
+* Tasks
+** DONE aha ein neuer Eintrag
+CLOSED: [2022-09-17 Sa 20:05]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-09-17 Sa 20:05]
+:END:
+cool!
+
+** TODO Buch lesen
+
+[[id:2b25440b-be69-408a-ac22-3d1f6b8eb8c0][Erfolgreich lernen mit adhs]]
+
+- Notizen erstellen
+- mit Isabelle darüber austauschen
+- Werden wir eine externe Hilfe benötigen?
+
+dann weitere Schritte festlegen.
+
+** DONE Strategie mit Gabriel erarbeiten
+CLOSED: [2022-09-17 Sa 20:05]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-09-17 Sa 20:05]
+:END:
+
+* Dates

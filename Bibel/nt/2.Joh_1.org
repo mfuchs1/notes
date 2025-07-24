@@ -1,0 +1,146 @@
+:PROPERTIES:
+:ID:       4e6d21d7-acc8-434a-b50d-eb96cfe4eb31
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der zweite Brief des Johannes*
+
+--------------
+
+* 2.Joh
+  :PROPERTIES:
+  :CUSTOM_ID: joh
+  :END:
+
+Der 2. Johannesbrief entspricht in der Anlage antiken Briefen, die
+gewöhnlich den Umfang eines Papyrusblattes hatten (vgl. 3 Joh). Der
+Verfasser stellt sich als »der Alte« oder »der Älteste« vor und weist
+damit auf seine Autorität hin. Über seine Person wissen wir nichts
+Sicheres. Nach dem einleitenden Gruß (VV. 1-3) mahnt er zunächst zu
+christlicher Lebensführung entsprechend dem Liebesgebot (VV. 4-6), warnt
+vor Irrlehrern und gibt die Anweisung, ihnen keine Aufnahme und
+Gemeinschaft zu gewähren (VV. 7-11). Dann kündigt er seinen baldigen
+Besuch an und schließt mit Grüßen der Gemeinde, in der er sich befindet
+(VV. 12-13).\\
+\\
+Nach Stil und Inhalt steht das Schreiben dem 1. Johannesbrief nahe
+(Liebesgebot, Irrlehren über Christus). Durch die eigentümliche
+Bezeichnung des Absenders ist er mit dem 3. Johannesbrief verbunden;
+beide sind wohl demselben Verfasser zuzuweisen. Im Unterschied zum 3.
+Johannesbrief ist der zweite (vgl. VV. 1 und 13) ein Gemeindebrief.\\
+\\
+Der Brief gibt Einblick in christliches Denken um 100 n. Chr. und zeigt,
+wie sich die Kirche damals gegen umherziehende Irrlehrer verteidigt.
+Obwohl das Liebesgebot stark betont ist, wird eine scharfe
+Trennungslinie zu den »Verführern« gezogen.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Anschrift und Gruß: 1-3
+   :PROPERTIES:
+   :CUSTOM_ID: anschrift-und-gruß-1-3
+   :END:
+1 Der Älteste an die von Gott auserwählte Herrin und an ihre Kinder, die
+ich in Wahrheit liebe; aber nicht nur ich, sondern auch alle, die die
+Wahrheit erkannt haben, lieben sie ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 aufgrund der Wahrheit, die in uns bleibt. Und sie wird mit uns sein in
+Ewigkeit. ^{[[#fn3][3]]}
+
+<<v3>>
+3 Gnade wird mit uns sein, Erbarmen und Friede von Gott, dem Vater, und
+von Jesus Christus, dem Sohn des Vaters, in Wahrheit und Liebe.\\
+\\
+
+<<v4>>
+** Leben in der Wahrheit: 4-6
+   :PROPERTIES:
+   :CUSTOM_ID: leben-in-der-wahrheit-4-6
+   :END:
+4 Ich habe mich sehr gefreut(,) unter deinen Kindern solche zu finden,
+die in der Wahrheit leben, gemäß dem Gebot, das wir vom Vater empfangen
+haben. ^{[[#fn4][4]]}
+
+<<v5>>
+5 Und so bitte ich dich, Herrin, nicht als wollte ich dir ein neues
+Gebot schreiben, sondern nur das, das wir von Anfang an hatten: dass wir
+einander lieben sollen. ^{[[#fn5][5]]}
+
+<<v6>>
+6 Denn die Liebe besteht darin, dass wir nach seinen Geboten leben. Das
+Gebot, das ihr von Anfang an gehört habt, lautet: Ihr sollt in der Liebe
+leben. ^{[[#fn6][6]]}\\
+\\
+
+<<v7>>
+** Abweisung von Irrlehrern: 7-11
+   :PROPERTIES:
+   :CUSTOM_ID: abweisung-von-irrlehrern-7-11
+   :END:
+7 Viele Verführer sind in die Welt hinausgegangen; sie bekennen nicht,
+dass Jesus Christus im Fleisch gekommen ist. Das ist der Verführer und
+der Antichrist. ^{[[#fn7][7]]}
+
+<<v8>>
+8 Achtet auf euch, damit ihr nicht preisgebt, was wir erarbeitet haben,
+sondern damit ihr den vollen Lohn empfangt.
+
+<<v9>>
+9 Jeder, der darüber hinausgeht und nicht in der Lehre Christi bleibt,
+hat Gott nicht. Wer aber in der Lehre bleibt, hat den Vater und den
+Sohn. ^{[[#fn8][8]][[#fn9][9]]}
+
+<<v10>>
+10 Wenn jemand zu euch kommt und nicht diese Lehre mitbringt, dann nehmt
+ihn nicht in euer Haus auf, sondern verweigert ihm den Gruß.
+
+<<v11>>
+11 Denn wer ihm den Gruß bietet, macht sich mitschuldig an seinen bösen
+Taten.\\
+\\
+
+<<v12>>
+** Schlussgrüße: 12-13
+   :PROPERTIES:
+   :CUSTOM_ID: schlussgrüße-12-13
+   :END:
+12 Vieles hätte ich euch noch zu schreiben; ich will es aber nicht mit
+Papier und Tinte tun, sondern hoffe, selbst zu euch zu kommen und
+persönlich mit euch zu sprechen, damit unsere Freude vollkommen wird.
+^{[[#fn10][10]]}
+
+<<v13>>
+13 Es grüßen dich die Kinder deiner auserwählten Schwester.
+^{[[#fn11][11]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 3 Joh 1
+
+^{[[#fnm2][2]]} »Der Älteste« ist Ehrentitel einer damals offenbar
+bekannten und unverwechselbaren Persönlichkeit. »Auserwählte Herrin« ist
+Bezeichnung für eine unbekannte Einzelgemeinde. »Kinder« sind die
+Mitglieder der angesprochenen Gemeinde (vgl. V. 13).
+
+^{[[#fnm3][3]]} ℘ Joh 14,17
+
+^{[[#fnm4][4]]} ℘ 3 Joh 3
+
+^{[[#fnm5][5]]} ℘ 1 Joh 2,7-11
+
+^{[[#fnm6][6]]} ℘ Joh 14,21; 1 Joh 5,3
+
+^{[[#fnm7][7]]} ℘ 1 Joh 2,18.22; 4,2f
+
+^{[[#fnm8][8]]} ℘ 1 Joh 2,23f
+
+^{[[#fnm9][9]]} Über die Lehre Christi geht der hinaus, der die Grenzen
+der apostolischen Unterweisung überschreitet.
+
+^{[[#fnm10][10]]} ℘ 3 Joh 13f
+
+^{[[#fnm11][11]]} Die »Kinder deiner auserwählten Schwester« sind die
+Mitglieder der Christengemeinde, in der sich der Verfasser des Briefs
+befindet (vgl. V. 1).

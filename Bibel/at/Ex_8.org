@@ -1,0 +1,143 @@
+#+TITLE: Ex 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 22:19]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 8.html
+
+* Ex 8
+
+<<verses>>
+
+<<v1>>
+1 Der Herr sprach zu Mose: Sag zu Aaron: Streck deine Hand mit dem Stab
+aus über die Flüsse, über die Nilarme und die Sümpfe und lass die
+Frösche über Ägypten kommen!
+
+<<v2>>
+2 Aaron streckte seine Hand über die Gewässer Ägyptens aus. Da stiegen
+die Frösche herauf und bedeckten ganz Ägypten.
+
+<<v3>>
+3 Doch die Wahrsager taten mit Hilfe ihrer Zauberkunst das Gleiche und
+ließen die Frösche über Ägypten kommen.
+
+<<v4>>
+4 Der Pharao rief Mose und Aaron zu sich und sagte: Betet zu Jahwe, er
+möge mich und mein Volk von den Fröschen befreien. Dann will ich das
+Volk ziehen lassen und sie können Jahwe Schlachtopfer darbringen.
+
+<<v5>>
+5 Da sagte Mose zum Pharao: Verfüg über mich! Wann soll ich für dich,
+deine Diener und dein Volk um Beseitigung der Frösche von dir und aus
+deinen Häusern beten? Nur im Nil sollen sie erhalten bleiben.
+
+<<v6>>
+6 Er sagte: Morgen. Mose antwortete: Wie du willst; du sollst erkennen,
+dass keiner Jahwe, unserem Gott, gleichkommt.
+
+<<v7>>
+7 Die Frösche werden von dir und deinen Häusern, von deinen Dienern und
+deinem Volk weichen; nur im Nil werden sie bleiben.
+
+<<v8>>
+8 Als Mose und Aaron vom Pharao weggegangen waren, schrie Mose zum Herrn
+um Befreiung von der Froschplage, die er über den Pharao gebracht hatte.
+
+<<v9>>
+9 Der Herr erfüllte Mose die Bitte und die Frösche in den Häusern, in
+den Höfen und auf den Feldern starben.
+
+<<v10>>
+10 Man sammelte sie zu riesigen Haufen und das ganze Land stank davon.
+
+<<v11>>
+11 Als der Pharao sah, dass die Not vorbei war, verschloss er sein Herz
+wieder und hörte nicht auf sie. So hatte es der Herr vorausgesagt.
+
+<<v12>>
+12 Darauf sprach der Herr zu Mose: Sag zu Aaron: Streck deinen Stab aus
+und schlag damit auf die Erde in den Staub! In ganz Ägypten sollen
+daraus Stechmücken werden.
+
+<<v13>>
+13 Sie taten es. Aaron streckte die Hand aus und schlug mit seinem Stab
+auf die Erde in den Staub. Da wurden Stechmücken daraus, die sich auf
+Mensch und Vieh setzten. In ganz Ägypten wurden aus dem Staub auf der
+Erde Stechmücken.
+
+<<v14>>
+14 Die Wahrsager versuchten mit Hilfe ihrer Zauberkunst ebenfalls
+Stechmücken hervorzubringen, konnten es aber nicht. Die Stechmücken
+saßen auf Mensch und Vieh.
+
+<<v15>>
+15 Da sagten die Wahrsager zum Pharao: Das ist der Finger Gottes. Doch
+das Herz des Pharao blieb hart und er hörte nicht auf sie. So hatte es
+der Herr vorausgesagt.
+
+<<v16>>
+16 Darauf sprach der Herr zu Mose: Steh früh auf, tritt vor den Pharao,
+wenn er an den Fluss hinuntergeht, und sag zu ihm: So spricht Jahwe:
+Lass mein Volk ziehen, damit sie mich verehren können.
+
+<<v17>>
+17 Denn wenn du mein Volk nicht ziehen lässt, lasse ich Ungeziefer auf
+dich los, auf deine Diener, dein Volk und deine Häuser. Die Häuser in
+Ägypten werden voll Ungeziefer sein; es wird sogar den Boden, auf dem
+sie stehen, bedecken.
+
+<<v18>>
+18 Das Land Goschen aber, in dem mein Volk lebt, will ich an jenem Tag
+auszeichnen: Dort wird es kein Ungeziefer geben. Daran wirst du
+erkennen, dass ich, Jahwe, Herr mitten im Land bin.
+
+<<v19>>
+19 Ich mache einen Unterschied zwischen meinem und deinem Volk. Morgen
+wird das Zeichen geschehen.
+
+<<v20>>
+20 Und so tat es der Herr. Ungeziefer kam in Massen über das Haus des
+Pharao, über das Haus seiner Diener und über ganz Ägypten. Das Land
+erlitt durch das Ungeziefer schweren Schaden.
+
+<<v21>>
+21 Da ließ der Pharao Mose und Aaron rufen und sagte: Geht, bringt eurem
+Gott hier im Land Schlachtopfer dar!
+
+<<v22>>
+22 Doch Mose erwiderte: Das können wir nicht. Denn wir müssen dem Herrn,
+unserem Gott, Schlachtopfer darbringen, die bei den Ägyptern Anstoß
+erregen. Wenn wir vor ihren Augen Schlachtopfer darbringen, die bei
+ihnen Anstoß erregen, werden sie uns dann nicht steinigen?
+
+<<v23>>
+23 Wir wollen drei Tagesmärsche weit in die Wüste ziehen und dem Herrn,
+unserem Gott, Schlachtopfer darbringen, wie er es uns gesagt hat.
+
+<<v24>>
+24 Der Pharao antwortete: Ich lasse euch ziehen. Bringt also Jahwe,
+eurem Gott, in der Wüste Schlachtopfer dar! Aber zu weit dürft ihr euch
+nicht entfernen. Betet auch für mich!
+
+<<v25>>
+25 Darauf sagte Mose: Gut, ich gehe von dir fort und bete zu Jahwe. Dann
+wird morgen das Ungeziefer vom Pharao, von seinen Dienern und seinem
+Volk ablassen. Nur darf der Pharao nicht wieder wortbrüchig werden und
+das Volk daran hindern, wegzuziehen und Jahwe zu opfern.
+
+<<v26>>
+26 Mose verließ den Pharao und betete zum Herrn.
+
+<<v27>>
+27 Der Herr erfüllte Mose die Bitte und befreite den Pharao, seine
+Diener und sein Volk von dem Ungeziefer; nichts blieb übrig.
+
+<<v28>>
+28 Der Pharao aber verschloss sein Herz auch diesmal und ließ das Volk
+nicht ziehen.

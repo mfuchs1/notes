@@ -1,0 +1,179 @@
+:PROPERTIES:
+:ID:       fd47f248-fff0-44ac-8975-aba1db8d2905
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der zweite Brief an die Korinther* --
+[[file:2.Kor_1.html][1]] ... [[file:2.Kor_3.html][3]]
+[[file:2.Kor_4.html][4]] *5* [[file:2.Kor_6.html][6]]
+[[file:2.Kor_7.html][7]] ... [[file:2.Kor_13.html][13]]
+
+--------------
+
+* 2.Kor 5
+  :PROPERTIES:
+  :CUSTOM_ID: kor-5
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Hoffnung des Apostels: 5,1-10
+     :PROPERTIES:
+     :CUSTOM_ID: die-hoffnung-des-apostels-51-10
+     :END:
+1 Wir wissen: Wenn unser irdisches Zelt abgebrochen wird, dann haben wir
+eine Wohnung von Gott, ein nicht von Menschenhand errichtetes ewiges
+Haus im Himmel. ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Im gegenwärtigen Zustand seufzen wir und sehnen uns danach, mit dem
+himmlischen Haus überkleidet zu werden. ^{[[#fn3][3]]}
+
+<<v3>>
+3 So bekleidet, werden wir nicht nackt erscheinen.
+
+<<v4>>
+4 Solange wir nämlich in diesem Zelt leben, seufzen wir unter schwerem
+Druck, weil wir nicht entkleidet, sondern überkleidet werden möchten,
+damit so das Sterbliche vom Leben verschlungen werde. ^{[[#fn4][4]]}
+
+<<v5>>
+5 Gott aber, der uns gerade dazu fähig gemacht hat, er hat uns auch als
+ersten Anteil den Geist gegeben. ^{[[#fn5][5]]}
+
+<<v6>>
+6 Wir sind also immer zuversichtlich, auch wenn wir wissen, dass wir
+fern vom Herrn in der Fremde leben, solange wir in diesem Leib zu Hause
+sind; ^{[[#fn6][6]]}
+
+<<v7>>
+7 denn als Glaubende gehen wir unseren Weg, nicht als Schauende.
+^{[[#fn7][7]]}
+
+<<v8>>
+8 Weil wir aber zuversichtlich sind, ziehen wir es vor, aus dem Leib
+auszuwandern und daheim beim Herrn zu sein. ^{[[#fn8][8]]}
+
+<<v9>>
+9 Deswegen suchen wir unsere Ehre darin, ihm zu gefallen, ob wir daheim
+oder in der Fremde sind.
+
+<<v10>>
+10 Denn wir alle müssen vor dem Richterstuhl Christi offenbar werden,
+damit jeder seinen Lohn empfängt für das Gute oder Böse, das er im
+irdischen Leben getan hat. ^{[[#fn9][9]]}\\
+\\
+
+<<v11>>
+** Die Bewährung des Apostels in seinem Dienst: 5,11 - 6,10
+   :PROPERTIES:
+   :CUSTOM_ID: die-bewährung-des-apostels-in-seinem-dienst-511---610
+   :END:
+**** Der Dienst der Versöhnung: 5,11-21
+     :PROPERTIES:
+     :CUSTOM_ID: der-dienst-der-versöhnung-511-21
+     :END:
+11 So versuchen wir, erfüllt von Ehrfurcht vor dem Herrn, Menschen zu
+gewinnen; Gott aber kennt uns durch und durch. Ich hoffe, dass auch euer
+Urteil über mich sich zur vollen Wahrheit durchgerungen hat.
+^{[[#fn10][10]]}
+
+<<v12>>
+12 Damit wollen wir uns nicht wieder vor euch rühmen, sondern wir geben
+euch Gelegenheit, rühmend auf uns hinzuweisen, damit ihr denen
+entgegentreten könnt, die sich nur rühmen, um ihr Gesicht zu wahren, ihr
+Herz aber nicht zeigen dürfen. ^{[[#fn11][11]]}
+
+<<v13>>
+13 Wenn wir nämlich von Sinnen waren, so geschah es für Gott; wenn wir
+besonnen sind, geschieht es für euch.
+
+<<v14>>
+14 Denn die Liebe Christi drängt uns, da wir erkannt haben: Einer ist
+für alle gestorben, also sind alle gestorben. ^{[[#fn12][12]]}
+
+<<v15>>
+15 Er ist aber für alle gestorben, damit die Lebenden nicht mehr für
+sich leben, sondern für den, der für sie starb und auferweckt wurde.
+^{[[#fn13][13]]}
+
+<<v16>>
+16 Also schätzen wir von jetzt an niemand mehr nur nach menschlichen
+Maßstäben ein; auch wenn wir früher Christus nach menschlichen Maßstäben
+eingeschätzt haben, jetzt schätzen wir ihn nicht mehr so ein.
+^{[[#fn14][14]][[#fn15][15]]}
+
+<<v17>>
+17 Wenn also jemand in Christus ist, dann ist er eine neue Schöpfung:
+Das Alte ist vergangen, Neues ist geworden. ^{[[#fn16][16]]}
+
+<<v18>>
+18 Aber das alles kommt von Gott, der uns durch Christus mit sich
+versöhnt und uns den Dienst der Versöhnung aufgetragen hat.
+^{[[#fn17][17]]}
+
+<<v19>>
+19 Ja, Gott war es, der in Christus die Welt mit sich versöhnt hat,
+indem er den Menschen ihre Verfehlungen nicht anrechnete und uns das
+Wort von der Versöhnung (zur Verkündigung) anvertraute. ^{[[#fn18][18]]}
+
+<<v20>>
+20 Wir sind also Gesandte an Christi statt, und Gott ist es, der durch
+uns mahnt. Wir bitten an Christi statt: Lasst euch mit Gott versöhnen!
+^{[[#fn19][19]]}
+
+<<v21>>
+21 Er hat den, der keine Sünde kannte, für uns zur Sünde gemacht, damit
+wir in ihm Gerechtigkeit Gottes würden. ^{[[#fn20][20]][[#fn21][21]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 2 Petr 1,13f
+
+^{[[#fnm2][2]]} 1-10: Paulus vergleicht den Leib mit einem Zelt, einer
+Wohnung, einem Haus oder einem Kleid; er erwartet eine Verwandlung (ein
+Überkleidet-Werden) des irdischen Leibes in den Auferstehungsleib, den
+Gott im Himmel bereithält (vgl. 1 Kor 15,44). «Nacktsein» (V. 3) ist ein
+Zustand, bei dem der Mensch nach seinem Tod als Seele ohne Leib
+existiert.
+
+^{[[#fnm3][3]]} ℘ Röm 8,23
+
+^{[[#fnm4][4]]} ℘ 1 Kor 15,53
+
+^{[[#fnm5][5]]} ℘ 1,22; Eph 1,13f
+
+^{[[#fnm6][6]]} ℘ Hebr 13,14
+
+^{[[#fnm7][7]]} ℘ Röm 8,24; 1 Petr 1,8
+
+^{[[#fnm8][8]]} ℘ Phil 1,23
+
+^{[[#fnm9][9]]} ℘ Röm 14,10; 1 Kor 4,5
+
+^{[[#fnm10][10]]} ℘ 4,2
+
+^{[[#fnm11][11]]} ℘ 3,1f; 10,12f
+
+^{[[#fnm12][12]]} ℘ Röm 6,3f; 7,4; 8,31f
+
+^{[[#fnm13][13]]} ℘ Röm 14,7f; Gal 2,20
+
+^{[[#fnm14][14]]} ℘ Röm 1,3; 9,5
+
+^{[[#fnm15][15]]} Wörtlich: Also kennen wir von jetzt an niemand mehr
+dem Fleisch nach; auch wenn wir früher Christus dem Fleisch nach gekannt
+haben, jetzt kennen wir ihn nicht mehr so. - Vgl. die Anmerkung zu 10,2.
+
+^{[[#fnm16][16]]} ℘ Röm 6,4; Gal 6,15; Offb 21,5
+
+^{[[#fnm17][17]]} ℘ Röm 5,10
+
+^{[[#fnm18][18]]} ℘ Röm 3,24f; Kol 1,19f
+
+^{[[#fnm19][19]]} ℘ Mt 10,40; Lk 10,16
+
+^{[[#fnm20][20]]} ℘ Röm 8,3f; Gal 3,13; 1 Petr 2,24
+
+^{[[#fnm21][21]]} Dieser Aussage liegt der Gedanke der Stellvertretung
+zugrunde.

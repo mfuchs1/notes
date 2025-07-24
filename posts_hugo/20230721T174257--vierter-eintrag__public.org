@@ -1,0 +1,8 @@
+#+title:      Vierter Eintrag
+#+date:       [2023-07-21 Fr 17:42]
+#+filetags:   :public:
+#+identifier: 20230721T174257
+
+#+HUGO_BASE_DIR: /home/matthias/flying-toasters/
+#+AUTHOR: Matthias Fuchs
+

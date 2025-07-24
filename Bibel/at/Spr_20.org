@@ -1,0 +1,192 @@
+#+TITLE: Spr 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-09-01 So 21:04]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 20.html
+
+* Spr 20
+
+<<verses>>
+
+<<v1>>
+1 Ein Zuchtloser ist der Wein, ein Lärmer das Bier; /\\
+ wer sich hierin verfehlt, wird nie weise. [fn:1]\\
+\\
+
+<<v2>>
+2 Wie das Knurren des Löwen ist der Grimm des Königs; /\\
+ wer ihn erzürnt, verwirkt sein Leben. [fn:2]\\
+\\
+
+<<v3>>
+3 Es ehrt den Menschen, vom Streit abzulassen, /\\
+ jeder Tor aber bricht los.\\
+\\
+
+<<v4>>
+4 Der Faule pflügt nicht im Herbst; /\\
+ sucht er in der Erntezeit, so ist nichts da.\\
+\\
+
+<<v5>>
+5 Ein tiefes Wasser sind die Pläne im Herzen des Menschen, /\\
+ doch der Verständige schöpft es herauf.\\
+\\
+
+<<v6>>
+6 Viele Menschen rühmen sich ihrer Güte, /\\
+ aber wer findet einen, auf den Verlass ist?\\
+\\
+
+<<v7>>
+7 Wer als Gerechter unbescholten seinen Weg geht: /\\
+ Wohl den Kindern, die er hinterlässt.\\
+\\
+
+<<v8>>
+8 Ein König auf dem Richterstuhl /\\
+ sondert mit seinem Scharfblick alles Böse aus. [fn:3]\\
+\\
+
+<<v9>>
+9 Wer kann sagen: Ich habe mein Herz geläutert, /\\
+ rein bin ich von meiner Sünde?\\
+\\
+
+<<v10>>
+10 Zweierlei Gewicht und zweierlei Maß, /\\
+ beide sind dem Herrn ein Gräuel. [fn:4]\\
+\\
+
+<<v11>>
+11 An seinem Treiben lässt schon der Knabe erkennen, /\\
+ ob sein Tun lauter und redlich sein wird.\\
+\\
+
+<<v12>>
+12 Das Ohr, das hört, und das Auge, das sieht, /\\
+ der Herr hat sie beide geschaffen.\\
+\\
+
+<<v13>>
+13 Liebe nicht den Schlaf, damit du nicht arm wirst; /\\
+ halte deine Augen offen und du hast Brot genug. [fn:5]\\
+\\
+
+<<v14>>
+14 Schlecht, schlecht, sagt der Käufer; /\\
+ geht er aber weg, so rühmt er sich.\\
+\\
+
+<<v15>>
+15 Gold gibt es und viele Perlen, /\\
+ ein kostbarer Schmuck aber sind verständige Lippen.\\
+\\
+
+<<v16>>
+16 Nimm ihm das Kleid, denn er hat für einen andern gebürgt, /\\
+ fremder Leute wegen pfände bei ihm! [fn:6]\\
+\\
+
+<<v17>>
+17 Süß schmeckt dem Menschen das Brot der Lüge, /\\
+ hernach aber füllt sich sein Mund mit Kieseln.\\
+\\
+
+<<v18>>
+18 Pläne kommen durch Beratung zustande. /\\
+ Darum führe den Kampf mit Überlegung!\\
+\\
+
+<<v19>>
+19 Geheimnisse verrät, wer als Verleumder umhergeht. /\\
+ Darum lass dich nicht ein mit einem Schwätzer! [fn:7]\\
+\\
+
+<<v20>>
+20 Wer seinem Vater flucht und seiner Mutter, /\\
+ dessen Lampe erlischt zur Zeit der Finsternis.\\
+\\
+
+<<v21>>
+21 Ein Besitz, schnell errafft am Anfang, /\\
+ ist nicht gesegnet an seinem Ende.\\
+\\
+
+<<v22>>
+22 Sag nicht: Ich will das Böse vergelten. /\\
+ Vertrau auf den Herrn, er wird dir helfen. [fn:8]\\
+\\
+
+<<v23>>
+23 Ein Gräuel ist dem Herrn zweierlei Gewicht, /\\
+ eine falsche Waage ist nicht recht. [fn:9]\\
+\\
+
+<<v24>>
+24 Der Herr lenkt die Schritte eines jeden. /\\
+ Wie könnte der Mensch seinen Weg verstehen?\\
+\\
+
+<<v25>>
+25 Eine Falle ist es, unbedacht zu rufen: Geweiht!, /\\
+ und erst nach dem Gelübde zu überlegen. [fn:10]\\
+\\
+
+<<v26>>
+26 Ein weiser König sondert die Frevler aus /\\
+ und vergilt ihnen ihre Untat. [fn:11]\\
+\\
+
+<<v27>>
+27 Der Herr wacht über den Atem des Menschen, /\\
+ er durchforscht alle Kammern des Leibes.\\
+\\
+
+<<v28>>
+28 Güte und Treue behüten den König, /\\
+ er stützt seinen Thron durch Güte. [fn:12]\\
+\\
+
+<<v29>>
+29 Der Ruhm der Jungen ist ihre Kraft, /\\
+ die Zier der Alten ihr graues Haar.\\
+\\
+
+<<v30>>
+30 Blutige Striemen läutern den Bösen /\\
+ und Schläge die Kammern des Leibes.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Spr_23.org::v29][23,29-35]]; [[file:Sir_31.org::v25][Sir 31,25-30]]
+
+[fn:2] [[file:Spr_16.org::v14][16,14]]; [[file:Spr_19.org::v12][19,12]]
+
+[fn:3] [[v26][20,26]]
+
+[fn:4] [[file:Spr_16.org::v11][16,11]]
+
+[fn:5] [[file:Spr_6.org::v6][6,6-11]]
+
+[fn:6] [[file:Spr_27.org::v13][27,13]]
+
+[fn:7] [[file:Spr_11.org::v13][11,13]]
+
+[fn:8] [[file:Sir_28.org::v1][Sir 28,1-6]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_12.org::v17][Röm 12,17-21]]
+
+[fn:9] [[file:Spr_16.org::v11][16,11]]
+
+[fn:10] [[file:Ri_11.org::v29][Ri 11,29-40]]
+
+[fn:11] 26b: H: und lässt über sie das Rad (des Dreschwagens?) gehen.
+
+[fn:12] [[file:Ps_61.org::v8][Ps 61,8]]

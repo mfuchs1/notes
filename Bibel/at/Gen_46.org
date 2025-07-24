@@ -1,0 +1,163 @@
+#+TITLE: Gen 46 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 46.html
+
+<<verses>>
+
+<<v1>>
+* Jakobs Familie in Ägypten: 46,1 - 47,12
+:PROPERTIES:
+:CUSTOM_ID: jakobs-familie-in-ägypten-461---4712
+:END:
+1 Israel brach auf mit allem, was ihm gehörte. Er kam nach Beerscheba
+und brachte dem Gott seines Vaters Isaak Schlachtopfer dar.
+
+<<v2>>
+2 Da sprach Gott in einer nächtlichen Vision zu Israel: Jakob! Jakob!
+Hier bin ich!, antwortete er.
+
+<<v3>>
+3 Gott sprach: Ich bin Gott, der Gott deines Vaters. Fürchte dich nicht,
+nach Ägypten hinabzuziehen; denn zu einem großen Volk mache ich dich
+dort.
+
+<<v4>>
+4 Ich selbst ziehe mit dir hinunter nach Ägypten und ich führe dich auch
+selbst wieder herauf. Josef wird dir die Augen zudrücken.
+
+<<v5>>
+5 Jakob brach von Beerscheba auf. Die Söhne Israels hoben ihren Vater
+Jakob, ihre Kinder und ihre Frauen auf die Wagen, die der Pharao
+geschickt hatte, um ihn zu holen.
+
+<<v6>>
+6 Sie nahmen ihr Vieh und ihre Habe, die sie in Kanaan erworben hatten,
+und gelangten nach Ägypten, Jakob und mit ihm alle seine Nachkommen.
+
+<<v7>>
+7 Seine Söhne und Enkel, seine Töchter und Enkelinnen, alle seine
+Nachkommen brachte er mit nach Ägypten.
+
+<<v8>>
+8 Das sind die Namen der Söhne Israels, die nach Ägypten kamen, Jakob
+und seine Söhne: der Erstgeborene Jakobs, Ruben;
+
+<<v9>>
+9 die Söhne Rubens: Henoch, Pallu, Hezron und Karmi;
+
+<<v10>>
+10 die Söhne Simeons: Jemuël, Jamin, Ohad, Jachin, Zohar und Schaul, der
+Sohn der Kanaaniterin;
+
+<<v11>>
+11 die Söhne Levis: Gerschon, Kehat und Merari;
+
+<<v12>>
+12 die Söhne Judas: Er, Onan, Schela, Perez und Serach; Er und Onan
+waren aber in Kanaan gestorben; die Söhne des Perez waren Hezron und
+Hamul;
+
+<<v13>>
+13 die Söhne Issachars: Tola, Puwa, Jaschub und Schimron;
+
+<<v14>>
+14 die Söhne Sebulons: Sered, Elon und Jachleel.
+
+<<v15>>
+15 Das waren die Söhne Leas, die sie Jakob in Paddan-Aram geboren hatte,
+dazu seine Tochter Dina, an Söhnen und Töchtern insgesamt dreiunddreißig
+Personen.
+
+<<v16>>
+16 Die Söhne Gads: Zifjon, Haggi, Schuni, Ezbon, Eri, Arod und Areli;
+
+<<v17>>
+17 die Söhne Aschers: Jimna, Jischwa, Jischwi und Beria, dazu ihre
+Schwester Serach; die Söhne Berias: Heber und Malkiël.
+
+<<v18>>
+18 Das waren die Söhne Silpas, die Laban seiner Tochter Lea mitgegeben
+hatte; sie alle hatte sie Jakob geboren, sechzehn Personen.
+
+<<v19>>
+19 Die Söhne Rahels, der Frau Jakobs: Josef und Benjamin.
+
+<<v20>>
+20 Josef hatte in Ägypten Kinder erhalten, die ihm Asenat, die Tochter
+Potiferas, des Priesters von On, geboren hatte: Manasse und Efraim.
+
+<<v21>>
+21 Die Söhne Benjamins: Bela, Becher, Aschbel, Gera, Naaman, Ehi, Rosch,
+Muppim, Huppim und Ard.
+
+<<v22>>
+22 Das waren die Söhne Rahels, die Jakob geboren worden waren, insgesamt
+vierzehn Personen.
+
+<<v23>>
+23 Die Söhne Dans: Schuham; [fn:1]
+
+<<v24>>
+24 die Söhne Naftalis: Jachzeel, Guni, Jezer und Schillem.
+
+<<v25>>
+25 Das waren die Söhne Bilhas, die Laban seiner Tochter Rahel mitgegeben
+hatte. Sie alle hatte Bilha Jakob geboren, insgesamt sieben Personen.
+
+<<v26>>
+26 Die Gesamtzahl der Personen, die mit Jakob nach Ägypten gekommen
+waren und von ihm abstammten, betrug ohne die Frauen der Söhne Jakobs
+insgesamt sechsundsechzig Personen.
+
+<<v27>>
+27 Dazu kommen die Söhne Josefs, die ihm in Ägypten geboren worden
+waren, zwei Personen. Insgesamt waren vom Haus Jakob siebzig Personen
+nach Ägypten gekommen.
+
+<<v28>>
+28 Jakob schickte Juda voraus zu Josef, um ihn zu sich nach Goschen zu
+bestellen. So kamen sie ins Gebiet von Goschen. [fn:2]
+
+<<v29>>
+29 Josef ließ seinen Wagen anschirren und zog seinem Vater Israel nach
+Goschen entgegen. Als er ihn sah, fiel er ihm um den Hals und weinte
+lange.
+
+<<v30>>
+30 Israel sagte zu Josef: Jetzt will ich gern sterben, nachdem ich dein
+Angesicht wieder sehen durfte und weiß, dass du noch am Leben bist.
+
+<<v31>>
+31 Josef sagte dann zu seinen Brüdern und zum ganzen Haus seines Vaters:
+Ich will hingehen, will den Pharao benachrichtigen und ihm sagen: Meine
+Brüder und alle vom Haus meines Vaters, die in Kanaan lebten, sind zu
+mir gekommen.
+
+<<v32>>
+32 Die Männer sind Viehhirten, ja, Viehzüchter sind sie. Ihre Schafe,
+Ziegen und Rinder und alles, was ihnen gehört, haben sie mitgebracht.
+
+<<v33>>
+33 Der Pharao wird euch rufen lassen und euch fragen, womit ihr euch
+beschäftigt. 
+
+<<v34>>
+34 Dann sagt: Deine Knechte sind von Jugend an bis jetzt Viehzüchter
+gewesen, wir waren es und unsere Väter waren es auch schon. Dann werdet
+ihr euch in Goschen niederlassen dürfen; denn die Ägypter haben gegen
+alle Viehhirten eine große Abneigung.
+
+* Footnotes
+
+[fn:1] Schuham: nach Num 26,42; H irrtümlich: Huschim.
+
+[fn:2] Der erste Satz ist in H unklar.
+

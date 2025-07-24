@@ -1,0 +1,25 @@
+:PROPERTIES:
+:CUSTOM_ID: h:41ed9350-3166-4149-ac31-d7c8daf31474
+:END:
+#+title:      Mit jedem redest du anders
+#+date:       [2024-07-19 Fr 18:35]
+#+filetags:   :02:beziehungen:
+#+identifier: 20240719T183502
+
+#+BIND: org-export-filter-timestamp-functions (tmp-f-timestamp)
+#+BIND: org-export-filter-strike-through-functions (tmp-f-strike-through)
+#+BEGIN_SRC emacs-lisp :exports results :results none
+  (defun tmp-f-timestamp (s backend info)
+    (replace-regexp-in-string "&[lg]t;\\|[][]" "" s))
+  (defun tmp-f-strike-through (s backend info) "")
+#+END_SRC
+
+* Einleitung
+:PROPERTIES:
+:CUSTOM_ID: h:d59a23a5-e374-4d47-9a81-8d5fe2ac208b
+:END:
+
+* Inhalt
+:PROPERTIES:
+:CUSTOM_ID: h:fea446be-0676-4000-bd34-3ff5039474b0
+:END:

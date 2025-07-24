@@ -1,0 +1,206 @@
+#+TITLE: 1 Kön 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-15 Mi 20:39]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 15.html
+
+<<verses>>
+
+<<v1>>
+* Abija von Juda: 15,1-8
+
+1 Im achtzehnten Jahr des Königs Jerobeam, des Sohnes Nebats, wurde
+Abija König von Juda. [fn:1]
+
+<<v2>>
+2 Er regierte drei Jahre in Jerusalem. Seine Mutter hieß Maacha und war
+eine Enkelin Abschaloms. [fn:2]
+
+<<v3>>
+3 Er verfiel allen Sünden, die sein Vater vor ihm begangen hatte, und
+sein Herz war nicht ungeteilt beim Herrn, seinem Gott, wie das Herz
+seines Vaters David.
+
+<<v4>>
+4 Nur Davids wegen ließ ihm der Herr, sein Gott, eine Leuchte in
+Jerusalem, indem er seinen Sohn als Nachfolger einsetzte und Jerusalem
+bestehen ließ.
+
+<<v5>>
+5 Denn David hatte getan, was dem Herrn gefiel. Er war sein Leben lang
+von keinem Gebot abgewichen, außer in der Sache Urijas, des Hetiters. [fn:3]
+
+<<v6>>
+6 Es war aber Krieg zwischen Rehabeam und Jerobeam, solange er lebte. [fn:4]
+
+<<v7>>
+7 Die übrige Geschichte Abijas und alle seine Taten sind aufgezeichnet
+in der Chronik der Könige von Juda. Zwischen Abija und Jerobeam
+herrschte Krieg.
+
+<<v8>>
+8 Abija entschlief zu seinen Vätern; man begrub ihn in der Davidstadt.
+Sein Sohn Asa wurde König an seiner Stelle.\\
+\\
+
+<<v9>>
+* Asa von Juda: 15,9-24
+
+9 Im zwanzigsten Jahr Jerobeams, des Königs von Israel, wurde Asa König
+von Juda. [fn:5]
+
+<<v10>>
+10 Er regierte einundvierzig Jahre in Jerusalem. Seine Großmutter hieß
+Maacha und war eine Enkelin Abschaloms.
+
+<<v11>>
+11 Asa tat, was dem Herrn gefiel, wie sein Vater David.
+
+<<v12>>
+12 Er entfernte die Hierodulen aus dem Land und beseitigte alle
+Götzenbilder, die seine Väter gemacht hatten.
+
+<<v13>>
+13 Auch seine Großmutter Maacha enthob er ihrer Stellung als Herrin,
+weil sie der Aschera ein Schandbild errichtet hatte. Er ließ ihr
+Schandbild umhauen und im Kidrontal verbrennen. [fn:6] [fn:7]
+
+<<v14>>
+14 Nur die Kulthöhen verschwanden nicht. Doch das Herz Asas war
+ungeteilt beim Herrn, solange er lebte.
+
+<<v15>>
+15 Er brachte auch die Weihegaben seines Vaters und seine eigenen
+Weihegaben in das Haus des Herrn: Silber, Gold und allerlei Geräte. [fn:8]
+
+<<v16>>
+16 Zwischen Asa und Bascha, dem König von Israel, herrschte Krieg,
+solange sie lebten. [fn:9]
+
+<<v17>>
+17 Bascha, der König von Israel, zog gegen Juda und baute Rama aus, um
+Asa, den König von Juda, daran zu hindern, in den Krieg zu ziehen. [fn:10]
+
+<<v18>>
+18 Da nahm Asa alles Silber und Gold, das in den Schatzkammern des
+Tempels noch vorhanden war, dazu alle Schätze des königlichen Palastes,
+und ließ sie durch seine Abgesandten zu Ben-Hadad bringen, dem Sohn
+Tabrimmons und Enkel Hesjons, dem König von Aram, der in Damaskus seinen
+Sitz hatte. Dabei ließ er ihm sagen:
+
+<<v19>>
+19 Zwischen mir und dir, zwischen meinem Vater und deinem Vater, soll
+ein Bündnis sein. Ich schicke dir Silber und Gold als Geschenk. Löse
+also dein Bündnis mit Bascha, dem König von Israel, damit er von mir
+abzieht.
+
+<<v20>>
+20 Ben-Hadad hörte auf König Asa. Er sandte seine Heerführer gegen die
+Städte Israels und verwüstete Ijon, Dan, Abel-Bet-Maacha, ganz Kinneret
+sowie das ganze Land Naftali. [fn:11]
+
+<<v21>>
+21 Als Bascha dies erfuhr, hörte er auf, Rama auszubauen, und zog sich
+nach Tirza zurück. [fn:12]
+
+<<v22>>
+22 König Asa aber bot ganz Juda bis zum letzten Mann auf und ließ die
+Steine und Balken wegnehmen, mit denen Bascha Rama ausgebaut hatte. Mit
+ihnen baute König Asa Geba in Benjamin und Mizpa aus.
+
+<<v23>>
+23 Die ganze übrige Geschichte Asas, alle seine Erfolge und Taten sowie
+die Städte, die er baute, sind aufgezeichnet in der Chronik der Könige
+von Juda. In seinem Alter erkrankte er an den Füßen.
+
+<<v24>>
+24 Asa entschlief zu seinen Vätern und wurde bei seinen Vätern in der
+Stadt seines Vaters David begraben. Sein Sohn Joschafat wurde König an
+seiner Stelle.\\
+\\
+
+<<v25>>
+* Nadab von Israel: 15,25-32
+
+25 Nadab, der Sohn Jerobeams, wurde König von Israel im zweiten Jahr des
+Königs Asa von Juda. Er regierte zwei Jahre über Israel
+
+<<v26>>
+26 und tat, was dem Herrn missfiel. Er folgte den Wegen seines Vaters
+und hielt an der Sünde fest, zu der dieser Israel verführt hatte.
+
+<<v27>>
+27 Bascha, der Sohn Ahijas, aus dem Stamm Issachar, zettelte eine
+Verschwörung gegen ihn an und erschlug ihn bei Gibbeton, das den
+Philistern gehörte. Nadab belagerte nämlich damals Gibbeton mit ganz
+Israel.
+
+<<v28>>
+28 Im dritten Jahr des Königs Asa von Juda tötete ihn Bascha und wurde
+König an seiner Stelle.
+
+<<v29>>
+29 Als er aber König geworden war, beseitigte er das ganze Haus
+Jerobeam. Er ließ keinen am Leben, sondern rottete es völlig aus, wie
+der Herr durch seinen Knecht Ahija von Schilo vorausgesagt hatte. [fn:13]
+
+<<v30>>
+30 Das geschah wegen der Sünden, die Jerobeam begangen und zu denen er
+Israel verführt hatte, und wegen des Ärgers, den er dem Herrn, dem Gott
+Israels, bereitet hatte.
+
+<<v31>>
+31 Die übrige Geschichte Nadabs und alle seine Taten sind aufgezeichnet
+in der Chronik der Könige von Israel.
+
+<<v32>>
+32 Zwischen Asa und Bascha, dem König von Israel, herrschte Krieg,
+solange sie lebten.\\
+\\
+
+<<v33>>
+* Bascha von Israel: 15,33 - 16,7
+
+33 Im dritten Jahr des Königs Asa von Juda wurde Bascha, der Sohn
+Ahijas, König über ganz Israel. Er regierte in Tirza vierundzwanzig
+Jahre
+
+<<v34>>
+34 und tat, was dem Herrn missfiel. Er folgte den Wegen Jerobeams und
+hielt an der Sünde fest, zu der dieser Israel verführt hatte.
+
+* Footnotes
+
+[fn:1] (1-8) [[file:2.Chr_13.org::v1][2 Chr 13,1]]-[[file:2.Chr_13.org::v2][2]].[[file:2.Chr_13.org::v22][22]]-[[file:2.Chr_13.org::v23][23]]
+
+[fn:2] Nach [[file:2.Chr_13.org::v2][2 Chr 13,2]] war seine Mutter Michaja, die Tochter Uriëls, aus Gibea.
+
+[fn:3] [[file:2.Sam_11.org::v2][2 Sam 11,2-25]]
+
+[fn:4] Der Vers wiederholt [[file:1.Kön_14.org::v30][14,30]].
+
+[fn:5] (9-12) [[file:2.Chr_14.org::v1][2 Chr 14,1-4]]
+
+[fn:6] (13-15) [[file:2.Chr_15.org::v16][2 Chr 15,16-18]]
+
+[fn:7] Zur Stellung der Königin-Mutter vgl. die Anmerkung zu [[file:1.Kön_2.org::v19][2,19f]].
+
+[fn:8] seine eigenen Weihegaben: Text korr. nach G und [[file:2.Chr_15.org::v18][2 Chr 15,18]].
+
+[fn:9] (16-22) [[file:2.Chr_16.org::v1][2 Chr 16,1-6]]
+
+[fn:10] Rama: nördlich von Jerusalem. Der Besitz der Stadt gab
+Bascha die Möglichkeit, den Truppen von Juda den Weg zu ihren nördlichen
+Grenzorten zu versperren.
+
+[fn:11] Die Städte liegen westlich des Oberlaufs des Jordan.
+
+[fn:12] zog sich zurück: Text korr. nach G und Vg.
+
+[fn:13] [[file:1.Kön_14.org::v10][14,10f]]

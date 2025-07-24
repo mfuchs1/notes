@@ -1,0 +1,72 @@
+#+TITLE: Ps 114 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-17 Sa 23:54]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 114.html
+
+* Ps 114
+
+<<verses>>
+
+<<v1>>
+* Ein Lobpreis auf die Befreiung Israels
+
+1 Als Israel aus Ägypten auszog, /\\
+ Jakobs Haus aus dem Volk mit fremder Sprache, [fn:1]\\
+\\
+
+<<v2>>
+2 da wurde Juda Gottes Heiligtum, /\\
+ Israel das Gebiet seiner Herrschaft. [fn:2]\\
+\\
+
+<<v3>>
+3 Das Meer sah es und floh, /\\
+ der Jordan wich zurück. [fn:3]\\
+\\
+
+<<v4>>
+4 Die Berge hüpften wie Widder, /\\
+ die Hügel wie junge Lämmer. [fn:4]\\
+\\
+
+<<v5>>
+5 Was ist mit dir, Meer, dass du fliehst, /\\
+ und mit dir, Jordan, dass du zurückweichst?\\
+\\
+
+<<v6>>
+6 Ihr Berge, was hüpft ihr wie Widder, /\\
+ und ihr Hügel, wie junge Lämmer? [fn:5]\\
+\\
+
+<<v7>>
+7 Vor dem Herrn erbebe, du Erde, /\\
+ vor dem Antlitz des Gottes Jakobs,\\
+\\
+
+<<v8>>
+8 der den Fels zur Wasserflut wandelt /\\
+ und Kieselgestein zu quellendem Wasser. [fn:6]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ex_12.org::v41][Ex 12,41]]
+
+[fn:2] [[file:Ex_19.org::v6][Ex 19,6]]; [[file:Jer_2.org::v3][Jer 2,3]]; [[file:Dtn_7.org::v6][Dtn 7,6]]
+
+[fn:3] [[file:Ps_66.org::v6][66,6]]
+
+[fn:4] [[file:Ps_29.org::v6][29,6]]
+
+[fn:5] (6-7) [[file:Ps_68.org::v9][68,9]]
+
+[fn:6] [[file:Ps_78.org::v15][78,15f]]; [[file:Jes_48.org::v21][Jes 48,21]]

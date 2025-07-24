@@ -1,0 +1,207 @@
+:PROPERTIES:
+:ID:       47aa5b04-d25d-4d01-8cb6-c01affcc1796
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_25.html][25]]
+[[file:Sir_26.html][26]] *27* [[file:Sir_28.html][28]]
+[[file:Sir_29.html][29]] ... [[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 27
+  :PROPERTIES:
+  :CUSTOM_ID: sir-27
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Des Geldes wegen haben schon viele gesündigt; /\\
+ wer es anzuhäufen sucht, schaut nicht genau hin. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Zwischen zwei Steine lässt sich ein Pflock stecken; /\\
+ so drängt sich zwischen Kauf und Verkauf die Sünde.\\
+\\
+
+<<v3>>
+3 Hältst du nicht fest an der Gottesfurcht, /\\
+ stürzt plötzlich und bald dein Haus zusammen.\\
+\\
+
+<<v4>>
+4 Im Sieb bleibt, wenn man es schüttelt, der Abfall zurück; /\\
+ so entdeckt man die Fehler eines Menschen, wenn man über ihn nachdenkt.
+^{[[#fn2][2]]}\\
+\\
+
+<<v5>>
+5 Töpferware wird nach der Brennhitze des Ofens eingeschätzt, /\\
+ ebenso der Mensch nach dem Urteil, das man über ihn fällt.\\
+\\
+
+<<v6>>
+6 Der Art des Baumes entspricht seine Frucht; /\\
+ so wird ein jeder nach seiner Gesinnung beurteilt.\\
+\\
+
+<<v7>>
+7 Lobe keinen Menschen, ehe du ihn beurteilt hast; /\\
+ denn das ist die Prüfung für jeden.\\
+\\
+
+<<v8>>
+8 Strebst du nach Gerechtigkeit, so erlangst du sie, /\\
+ wie ein Prachtgewand kannst du sie anlegen.\\
+\\
+
+<<v9>>
+9 Vögel lassen sich bei ihresgleichen nieder; /\\
+ Treue kommt zu denen, die sie üben.\\
+\\
+
+<<v10>>
+10 Der Löwe lauert auf Beute; /\\
+ so auch die Sünde auf alle, die Unrecht tun.\\
+\\
+
+<<v11>>
+11 Die Rede des Frommen ist immer klug, /\\
+ der Tor aber ändert sich wie der Mond. ^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+<<v12>>
+12 Im Kreis von Toren schau auf die Zeit, /\\
+ im Kreis von Verständigen aber verweile!\\
+\\
+
+<<v13>>
+13 Die Rede der Toren ist abscheulich, /\\
+ ihr Lachen schwelgt in sündhafter Lust.\\
+\\
+
+<<v14>>
+14 Beim Gerede dessen, der viel schwört, sträuben sich die Haare, /\\
+ bei seinem Gezänk hält man sich die Ohren zu. ^{[[#fn5][5]]}\\
+\\
+
+<<v15>>
+15 Zu Blutvergießen führt der Streit der Übermütigen, /\\
+ ihr Schimpfen ist unerträglich.\\
+\\
+
+<<v16>>
+**** Die Lauterkeit und die Wahrhaftigkeit: 27,16-30
+     :PROPERTIES:
+     :CUSTOM_ID: die-lauterkeit-und-die-wahrhaftigkeit-2716-30
+     :END:
+16 Wer Geheimes verrät, zerstört das Vertrauen, /\\
+ er findet keinen Freund, der zu ihm steht. ^{[[#fn6][6]][[#fn7][7]]}\\
+\\
+
+<<v17>>
+17 Liebe den Freund und sei ihm treu! /\\
+ Hast du aber seine Geheimnisse verraten, /\\
+ brauchst du ihm nicht mehr nachzugehen.\\
+\\
+
+<<v18>>
+18 Denn wie ein Mensch, der seinen Besitz vertan hat, /\\
+ so hast du die Freundschaft des Gefährten vertan.\\
+\\
+
+<<v19>>
+19 Und wie man einen Vogel aus der Hand wegfliegen lässt, /\\
+ so hast du den Freund weggehen lassen und fängst ihn nie wieder ein.
+^{[[#fn8][8]]}\\
+\\
+
+<<v20>>
+20 Lauf ihm nicht nach, denn er ist schon zu weit, /\\
+ wie eine Gazelle aus der Schlinge ist er entflohen.\\
+\\
+
+<<v21>>
+21 Eine Wunde lässt sich verbinden, ein Streit beilegen, /\\
+ doch wer ein Geheimnis verrät, hat keine Hoffnung.\\
+\\
+
+<<v22>>
+22 Wer mit dem Auge zwinkert, plant Böses, /\\
+ wer einen solchen Menschen sieht, /\\
+ hält sich von ihm fern. ^{[[#fn9][9]]}\\
+\\
+
+<<v23>>
+23 Ins Gesicht hinein macht er dir schöne Worte /\\
+ und bewundert deine Reden; nachher aber dreht er seine Worte um /\\
+ und bringt dich durch deine eigenen Worte zu Fall.\\
+\\
+
+<<v24>>
+24 Vieles ist mir verhasst, aber nichts so wie er; /\\
+ auch der Herr wird ihn hassen.\\
+\\
+
+<<v25>>
+25 Wer einen Stein hochwirft, auf den fällt er zurück, /\\
+ wer hinterlistig schlägt, verwundet sich selbst.\\
+\\
+
+<<v26>>
+26 Wer eine Grube gräbt, fällt selbst hinein, /\\
+ wer eine Schlinge legt, verfängt sich in ihr. ^{[[#fn10][10]]}\\
+\\
+
+<<v27>>
+27 Wer Unrecht tut, auf den rollt es zurück /\\
+ und er weiß nicht, woher es ihm kommt.\\
+\\
+
+<<v28>>
+28 Spott und Schimpf treffen den Übermütigen, /\\
+ wie ein Löwe lauert die Rache auf ihn.\\
+\\
+
+<<v29>>
+29 Schlingen und Netze fangen die, die sie machen, /\\
+ und lassen sie nicht los bis zum Tag ihres Todes. ^{[[#fn11][11]]}\\
+\\
+
+<<v30>>
+30 Groll und Zorn, auch diese sind abscheulich, /\\
+ nur der Sünder hält daran fest.\\
+\\
+
+^{[[#fnm1][1]]} 1b: Wörtlich: wer es anzuhäufen sucht, wendet sein Auge
+ab. - Das kann Unehrlichkeit bedeuten oder sich auf die Not des Armen
+beziehen: Er ist rücksichtslos.
+
+^{[[#fnm2][2]]} 4-7: In schwierigen Vergleichen wird genaue
+Menschenkenntnis empfohlen. Nur ein überlegtes Urteil kann den
+wirklichen Charakter des anderen entdecken.
+
+^{[[#fnm3][3]]} ℘ 5,10
+
+^{[[#fnm4][4]]} 11a: Andere Übersetzungsmöglichkeit: Die Rede des Weisen
+(S und andere).
+
+^{[[#fnm5][5]]} ℘ 23,9-11
+
+^{[[#fnm6][6]]} ℘ 19,8
+
+^{[[#fnm7][7]]} 16b: Wörtlich: keinen Freund nach seiner Seele, d. h.
+der mit ihm eins ist, oder: wie er ihn sich wünscht.
+
+^{[[#fnm8][8]]} ℘ 22,22
+
+^{[[#fnm9][9]]} ℘ Spr 6,13f
+
+^{[[#fnm10][10]]} ℘ Spr 26,27; Koh 10,8
+
+^{[[#fnm11][11]]} Vorwiegend nach S; G: In der Falle fangen sich, die
+sich freuen über den Sturz des Frommen, und Schmerz verzehrt sie vor
+ihrem Tod.

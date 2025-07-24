@@ -1,0 +1,96 @@
+:PROPERTIES:
+:ID:       954bd6e7-66f8-48f3-92d0-3da3dce762de
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Offenbarung des Johannes* --
+[[file:Offb_1.html][1]] ... [[file:Offb_13.html][13]]
+[[file:Offb_14.html][14]] *15* [[file:Offb_16.html][16]]
+[[file:Offb_17.html][17]] ... [[file:Offb_22.html][22]]
+
+--------------
+
+* Offb 15
+  :PROPERTIES:
+  :CUSTOM_ID: offb-15
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Ankündigung der sieben letzten Plagen: 15,1-8
+     :PROPERTIES:
+     :CUSTOM_ID: die-ankündigung-der-sieben-letzten-plagen-151-8
+     :END:
+1 Dann sah ich ein anderes Zeichen am Himmel, groß und wunderbar. Ich
+sah sieben Engel mit sieben Plagen, den sieben letzten; denn in ihnen
+erreicht der Zorn Gottes sein Ende. ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Dann sah ich etwas, das einem gläsernen Meer glich und mit Feuer
+durchsetzt war. Und die Sieger über das Tier, über sein Standbild und
+über die Zahl seines Namens standen auf dem gläsernen Meer und trugen
+die Harfen Gottes.\\
+\\
+
+<<v3>>
+3 Sie sangen das Lied des Mose, des Knechtes Gottes, und das Lied zu
+Ehren des Lammes: /Groß/ und /wunderbar sind deine Taten,/ /\\
+ Herr, Gott und Herrscher über die ganze Schöpfung. /Gerecht und
+zuverlässig sind deine Wege,/ /\\
+ du König der Völker. ^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+<<v4>>
+4 Wer wird dich nicht fürchten, Herr, /\\
+ wer wird /deinen Namen/ nicht /preisen/? /Denn/ du allein bist
+/heilig:/ /\\
+ /Alle Völker kommen und beten dich an;/ /\\
+ denn deine gerechten Taten sind offenbar geworden. ^{[[#fn5][5]]}\\
+\\
+
+<<v5>>
+5 Danach sah ich: Es öffnete sich der himmlische Tempel, /das Zelt des
+Zeugnisses/ im Himmel. ^{[[#fn6][6]]}
+
+<<v6>>
+6 Und die /sieben/ Engel mit den /sieben Plagen/ traten heraus; sie
+waren in reines, glänzendes /Leinen gekleidet/ und /trugen/ um ihre
+Brust /einen Gürtel aus Gold./ ^{[[#fn7][7]]}
+
+<<v7>>
+7 Und eines der vier Lebewesen reichte den sieben Engeln sieben goldene
+Schalen; sie waren gefüllt mit dem Zorn des Gottes, der in alle Ewigkeit
+lebt.
+
+<<v8>>
+8 /Und der Tempel füllte sich mit dem Rauch der Herrlichkeit/ und Macht
+Gottes. Niemand /konnte den Tempel betreten,/ bis die /sieben Plagen/
+aus der Hand der sieben Engel zu ihrem Ende gekommen waren.
+^{[[#fn8][8]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Lev 26,21 G
+
+^{[[#fnm2][2]]} 1-16,21: Zwischen die voraufgehende Gerichtsvision und
+die nachfolgenden Gerichtsschilderungen (17,1 - 20,15) schiebt Johannes
+eine dritte Reihe endzeitlicher Heimsuchungen ein: die sieben letzten
+Plagen. 1-8: Die sieben Engel mit den Schalen werden im Rahmen einer
+liturgischen Szene vorgestellt, wie zuvor auch die Engel mit den
+Posaunen (vgl. 8,2-6). - Das in V. 3 genannte Lied des Mose (Ex 15)
+feierte den Sieg über den Pharao; hier ist es auf den endzeitlichen Sieg
+bezogen, daher zugleich als «Lied des Lammes» bezeichnet.
+
+^{[[#fnm3][3]]} ℘ Ex 15,1; 14,31; 15,11; Ps 92,5f; 111,2; 139,14; Dtn
+32,4
+
+^{[[#fnm4][4]]} König der Völker, nach anderen Textzeugen: König aller
+Zeiten. - Christus, das Lamm, ist der neue Mose (vgl. Apg 3,22-26).
+
+^{[[#fnm5][5]]} ℘ Ps 145,17; 99,3; 86,9
+
+^{[[#fnm6][6]]} ℘ Ex 40,34 G
+
+^{[[#fnm7][7]]} ℘ Lev 26,21 G; Dan 10,5; Ez 9,2.11 G
+
+^{[[#fnm8][8]]} ℘ Ex 40,34f; 1 Kön 8,10; Jes 6,4; Lev 26,21

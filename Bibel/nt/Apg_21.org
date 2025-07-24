@@ -1,0 +1,261 @@
+:PROPERTIES:
+:ID:       0fbf6d03-d247-4337-964c-345f28eb49f6
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Apostelgeschichte* --
+[[file:Apg_1.html][1]] ... [[file:Apg_19.html][19]]
+[[file:Apg_20.html][20]] *21* [[file:Apg_22.html][22]]
+[[file:Apg_23.html][23]] ... [[file:Apg_28.html][28]]
+
+--------------
+
+* Apg 21
+  :PROPERTIES:
+  :CUSTOM_ID: apg-21
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Von Milet über Cäsarea nach Jerusalem: 21,1-17
+     :PROPERTIES:
+     :CUSTOM_ID: von-milet-über-cäsarea-nach-jerusalem-211-17
+     :END:
+1 Als die Zeit zur Abfahrt gekommen war, trennten wir uns von ihnen,
+fuhren auf dem kürzesten Weg nach Kos, am anderen Tag nach Rhodos und
+von dort nach Patara.
+
+<<v2>>
+2 Hier fanden wir ein Schiff, das nach Phönizien fuhr; wir gingen an
+Bord und fuhren ab.
+
+<<v3>>
+3 Als wir Zypern sichteten, ließen wir es zur Linken liegen, segelten
+nach Syrien und landeten in Tyrus; hier sollte das Schiff seine Ladung
+löschen.
+
+<<v4>>
+4 Nachdem wir die Jünger ausfindig gemacht hatten, blieben wir sieben
+Tage bei ihnen. Auf eine Eingebung des Geistes hin warnten sie Paulus
+davor, nach Jerusalem zu gehen. ^{[[#fn1][1]]}
+
+<<v5>>
+5 Als die Tage um waren, brachen wir zur Weiterreise auf, und alle, auch
+Frauen und Kinder, begleiteten uns bis vor die Stadt. Am Strand knieten
+wir nieder, beteten ^{[[#fn2][2]]}
+
+<<v6>>
+6 und nahmen Abschied voneinander. Dann gingen wir an Bord; jene aber
+kehrten nach Hause zurück.
+
+<<v7>>
+7 So fuhren wir von Tyrus ab und beendeten unsere Seereise in Ptolemaïs.
+Wir begrüßten die Brüder und blieben einen Tag bei ihnen.
+
+<<v8>>
+8 Am folgenden Tag kamen wir nach Cäsarea. Wir gingen in das Haus des
+Evangelisten Philippus, der einer von den Sieben war, und blieben bei
+ihm. ^{[[#fn3][3]]}
+
+<<v9>>
+9 Er hatte vier Töchter, prophetisch begabte Jungfrauen. ^{[[#fn4][4]]}
+
+<<v10>>
+10 Wir blieben mehrere Tage. Da kam von Judäa ein Prophet namens Agabus
+herab ^{[[#fn5][5]]}
+
+<<v11>>
+11 und besuchte uns. Er nahm den Gürtel des Paulus, band sich Füße und
+Hände und sagte: So spricht der Heilige Geist: Den Mann, dem dieser
+Gürtel gehört, werden die Juden in Jerusalem ebenso fesseln und den
+Heiden ausliefern. ^{[[#fn6][6]]}
+
+<<v12>>
+12 Als wir das hörten, redeten wir ihm zusammen mit den Einheimischen
+zu, nicht nach Jerusalem hinaufzuziehen.
+
+<<v13>>
+13 Doch Paulus antwortete: Warum weint ihr und macht mir das Herz
+schwer? Ich bin bereit, mich in Jerusalem für den Namen Jesu, des Herrn,
+fesseln zu lassen und sogar zu sterben.
+
+<<v14>>
+14 Da er sich nicht überreden ließ, gaben wir nach und sagten: Der Wille
+des Herrn geschehe.
+
+<<v15>>
+15 Nach diesen Tagen bereiteten wir uns zur Reise vor und zogen hinauf
+nach Jerusalem.
+
+<<v16>>
+16 Auch einige Jünger aus Cäsarea begleiteten uns und brachten uns zu
+einem gewissen Mnason aus Zypern, bei dem wir wohnen sollten; er war ein
+Jünger aus der Anfangszeit.
+
+<<v17>>
+17 Als wir nach Jerusalem kamen, wurden wir von den Brüdern freudig
+empfangen.\\
+\\
+
+<<v18>>
+*** Verhaftung und Gefangenschaft des Paulus: 21,18 - 28,31
+    :PROPERTIES:
+    :CUSTOM_ID: verhaftung-und-gefangenschaft-des-paulus-2118---2831
+    :END:
+**** Paulus bei Jakobus und das Nasiräatsgelübde: 21,18-26
+     :PROPERTIES:
+     :CUSTOM_ID: paulus-bei-jakobus-und-das-nasiräatsgelübde-2118-26
+     :END:
+18 Am folgenden Tag ging Paulus mit uns zu Jakobus; auch alle Ältesten
+fanden sich ein. ^{[[#fn7][7]]}
+
+<<v19>>
+19 Er begrüßte sie und berichtete im einzelnen alles, was Gott durch
+seinen Dienst unter den Heiden getan hatte.
+
+<<v20>>
+20 Als sie das hörten, priesen sie Gott und sagten zu ihm: Du siehst,
+Bruder, wie viele Tausende unter den Juden gläubig geworden sind, und
+sie alle sind Eiferer für das Gesetz.
+
+<<v21>>
+21 Nun hat man ihnen von dir erzählt: Du lehrst alle unter den Heiden
+lebenden Juden, von Mose abzufallen, und forderst sie auf, ihre Kinder
+nicht zu beschneiden und sich nicht an die Bräuche zu halten.
+^{[[#fn8][8]]}
+
+<<v22>>
+22 Was nun? Sicher werden sie hören, dass du gekommen bist.
+
+<<v23>>
+23 Tu also, was wir dir sagen: Bei uns sind vier Männer, die ein Gelübde
+auf sich genommen haben.
+
+<<v24>>
+24 Nimm sie mit und weihe dich zusammen mit ihnen; trag die Kosten für
+sie, damit sie sich das Haar abscheren lassen können. So wird jeder
+einsehen, dass an dem, was man von dir erzählt hat, nichts ist, sondern
+dass auch du das Gesetz genau beachtest. ^{[[#fn9][9]]}
+
+<<v25>>
+25 Über die gläubig gewordenen Heiden aber haben wir ja einen Beschluss
+gefasst und ihnen geschrieben, sie sollten sich vor Götzenopferfleisch,
+Blut, Ersticktem und Unzucht hüten. ^{[[#fn10][10]][[#fn11][11]]}
+
+<<v26>>
+26 Da nahm Paulus die Männer mit und weihte sich am nächsten Tag
+zusammen mit ihnen, ging dann in den Tempel und meldete das Ende der
+Weihetage an, damit für jeden von ihnen das Opfer dargebracht werde.
+^{[[#fn12][12]]}\\
+\\
+
+<<v27>>
+**** Die Verhaftung des Paulus: 21,27-40
+     :PROPERTIES:
+     :CUSTOM_ID: die-verhaftung-des-paulus-2127-40
+     :END:
+27 Als die sieben Tage zu Ende gingen, sahen ihn die Juden aus der
+Provinz Asien im Tempel. Sie brachten das ganze Volk in Aufruhr,
+ergriffen ihn
+
+<<v28>>
+28 und schrien: Israeliten! Kommt zu Hilfe! Das ist der Mensch, der in
+aller Welt Lehren verbreitet, die sich gegen das Volk und das Gesetz und
+gegen diesen Ort richten; er hat sogar Griechen in den Tempel
+mitgenommen und diesen heiligen Ort entweiht.
+^{[[#fn13][13]][[#fn14][14]]}
+
+<<v29>>
+29 Sie hatten nämlich kurz zuvor den Epheser Trophimus mit ihm zusammen
+in der Stadt gesehen und meinten, Paulus habe ihn in den Tempel
+mitgenommen. ^{[[#fn15][15]]}
+
+<<v30>>
+30 Da geriet die ganze Stadt in Aufregung und das Volk lief zusammen.
+Sie ergriffen Paulus und zerrten ihn aus dem Tempel und sofort wurden
+die Tore geschlossen.
+
+<<v31>>
+31 Schon wollten sie ihn umbringen, da brachte man dem Obersten der
+Kohorte die Meldung hinauf: Ganz Jerusalem ist in Aufruhr!
+
+<<v32>>
+32 Er eilte sofort mit Soldaten und Hauptleuten zu ihnen hinunter. Als
+sie den Obersten und die Soldaten sahen, hörten sie auf, Paulus zu
+schlagen.
+
+<<v33>>
+33 Der Oberst trat hinzu, verhaftete ihn, ließ ihn mit zwei Ketten
+fesseln und fragte, wer er sei und was er getan habe. ^{[[#fn16][16]]}
+
+<<v34>>
+34 In der Menge schrien die einen dies, die andern das. Da er bei dem
+Lärm nichts Sicheres ermitteln konnte, befahl er, ihn in die Kaserne zu
+führen.
+
+<<v35>>
+35 Als Paulus an die Freitreppe kam, mussten ihn die Soldaten wegen des
+Andrangs der Menge tragen.
+
+<<v36>>
+36 Denn das Volk lief hinterher und schrie: Weg mit ihm!
+
+<<v37>>
+37 Als man Paulus in die Kaserne bringen wollte, sagte er zum Obersten:
+Darf ich ein Wort mit dir reden? Der antwortete: Du verstehst
+Griechisch?
+
+<<v38>>
+38 Dann bist du also nicht der Ägypter, der vor einiger Zeit die
+viertausend Sikarier aufgewiegelt und in die Wüste hinausgeführt hat?
+^{[[#fn17][17]]}
+
+<<v39>>
+39 Paulus antwortete: Ich bin ein Jude aus Tarsus in Zilizien, Bürger
+einer nicht unbedeutenden Stadt. Ich bitte dich, gestatte mir, zum Volk
+zu sprechen. ^{[[#fn18][18]]}
+
+<<v40>>
+40 Als der Oberst es erlaubte, stellte sich Paulus auf die Freitreppe
+und gab dem Volk mit der Hand ein Zeichen. Alles wurde still und er
+redete sie in Hebräischer Sprache an:\\
+\\
+
+^{[[#fnm1][1]]} ℘ 20,23
+
+^{[[#fnm2][2]]} ℘ 20,36
+
+^{[[#fnm3][3]]} ℘ 8,40
+
+^{[[#fnm4][4]]} ℘ 2,17
+
+^{[[#fnm5][5]]} ℘ 11,28
+
+^{[[#fnm6][6]]} ℘ Röm 15,31
+
+^{[[#fnm7][7]]} ℘ 15,13; Gal 1,19
+
+^{[[#fnm8][8]]} ℘ 18,13; Gal 3,25
+
+^{[[#fnm9][9]]} ℘ 1 Kor 9,19-23; 10,32f
+
+^{[[#fnm10][10]]} ℘ 15,20.29
+
+^{[[#fnm11][11]]} Vgl. die Anmerkung zu 15,20.
+
+^{[[#fnm12][12]]} ℘ Num 6,1-20; 1 Kor 9,20
+
+^{[[#fnm13][13]]} ℘ 6,13; 18,13
+
+^{[[#fnm14][14]]} 28f: Heiden in die inneren, den Juden vorbehaltenen
+Vorhöfe des Tempels mitzunehmen, war bei Todesstrafe verboten.
+
+^{[[#fnm15][15]]} ℘ 20,4; 2 Tim 4,20
+
+^{[[#fnm16][16]]} ℘ 20,23; 21,11
+
+^{[[#fnm17][17]]} «Sikarier» (Dolchmänner) waren jüdische
+Freiheitskämpfer.
+
+^{[[#fnm18][18]]} ℘ 9,11

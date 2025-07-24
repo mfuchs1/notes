@@ -1,0 +1,22 @@
+#+title:      Freitag 25 April 2025
+#+date:       [2025-04-25 Fr 15:48]
+#+filetags:   :journal:
+#+identifier: 20250425T154820
+
+* [2025-04-25 Fr 15:48] Elternsprechtag
+
+[[file:~/.emacs.d/emacs-config.org::*=org-capture= configuration][=org-capture= configuration]]
+
+Ich sitze hier im Keller, neben der Umkleide der Turnlehrer, im eiskalten Gang. Mein einziges RdV war schon: der Papa von Ian, einem Schüler der 3c aus den Philippinen. Bis um 18:00 werde ich bleiben müssen, hab kein Geld für Kaffee und Kuchen.
+
+Mir taugt es, dass das die neue Version von =denote.el= so toll funktioniert.
+
+* [2025-04-25 Fr 15:53] Ein zweiter Eintrag
+
+Hier kann ich weiter schreiben...
+
+* [2025-04-25 Fr 15:57] Ein dritter Eintrag
+
+Und so weiter...
+
+

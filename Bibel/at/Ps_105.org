@@ -1,0 +1,314 @@
+#+TITLE: Ps 105 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-13 Di 22:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 105.html
+
+* Ps 105
+
+<<verses>>
+
+<<v1>>
+* Ein Loblied auf den Herrn der Geschichte
+
+1 Dankt dem Herrn! Ruft seinen Namen an! /\\
+ Macht unter den Völkern seine Taten bekannt! [fn:1]\\
+\\
+
+<<v2>>
+2 Singt ihm und spielt ihm, /\\
+ sinnt nach über all seine Wunder!\\
+\\
+
+<<v3>>
+3 Rühmt euch seines heiligen Namens! /\\
+ Alle, die den Herrn suchen, sollen sich von Herzen freuen. [fn:2]\\
+\\
+
+<<v4>>
+4 Fragt nach dem Herrn und seiner Macht; /\\
+ sucht sein Antlitz allezeit! [fn:3]\\
+\\
+
+<<v5>>
+5 Denkt an die Wunder, die er getan hat, /\\
+ an seine Zeichen und die Beschlüsse aus seinem Mund.\\
+\\
+
+<<v6>>
+6 Bedenkt es, ihr Nachkommen seines Knechtes Abraham, /\\
+ ihr Kinder Jakobs, die er erwählt hat.\\
+\\
+
+<<v7>>
+7 Er, der Herr, ist unser Gott. /\\
+ Seine Herrschaft umgreift die Erde.\\
+\\
+
+<<v8>>
+8 Ewig denkt er an seinen Bund, /\\
+ an das Wort, das er gegeben hat für tausend Geschlechter, [fn:4]\\
+\\
+
+<<v9>>
+9 an den Bund, den er mit Abraham geschlossen, /\\
+ an den Eid, den er Isaak geschworen hat. [fn:5]\\
+\\
+
+<<v10>>
+10 Er bestimmte ihn als Satzung für Jakob, /\\
+ als ewigen Bund für Israel.\\
+\\
+
+<<v11>>
+11 Er sprach: Dir will ich Kanaan geben, /\\
+ das Land, das dir als Erbe bestimmt ist. [fn:6]\\
+\\
+
+<<v12>>
+12 Als sie noch gering waren an Zahl, /\\
+ nur wenige und fremd im Land, [fn:7]\\
+\\
+
+<<v13>>
+13 und noch zogen von Volk zu Volk, /\\
+ von einem Reich zum andern,\\
+\\
+
+<<v14>>
+14 da ließ er sie von niemand bedrücken, /\\
+ wies ihretwegen Könige zurecht: [fn:8]\\
+\\
+
+<<v15>>
+15 «Tastet meine Gesalbten nicht an, /\\
+ tut meinen Propheten nichts zuleide!»\\
+\\
+
+<<v16>>
+16 Dann aber rief er den Hunger ins Land, /\\
+ entzog ihnen allen Vorrat an Brot. [fn:9]\\
+\\
+
+<<v17>>
+17 Doch hatte er ihnen einen Mann vorausgesandt: /\\
+ Josef wurde als Sklave verkauft. [fn:10]\\
+\\
+
+<<v18>>
+18 Man spannte seine Füße in Fesseln /\\
+ und zwängte seinen Hals ins Eisen [fn:11]\\
+\\
+
+<<v19>>
+19 bis zu der Zeit, als sein Wort sich erfüllte /\\
+ und der Spruch des Herrn ihm Recht gab. [fn:12]\\
+\\
+
+<<v20>>
+20 Da sandte der König einen Boten und ließ ihn frei, /\\
+ der Herrscher der Völker ließ ihn heraus.\\
+\\
+
+<<v21>>
+21 Er bestellte ihn zum Herrn über sein Haus, /\\
+ zum Gebieter über seinen ganzen Besitz.\\
+\\
+
+<<v22>>
+22 Er sollte die Fürsten lenken nach seinem Sinn /\\
+ und die Ältesten Weisheit lehren. [fn:13]\\
+\\
+
+<<v23>>
+23 Und Israel kam nach Ägypten, /\\
+ Jakob wurde Gast im Lande Hams. [fn:14]\\
+\\
+
+<<v24>>
+24 Da mehrte Gott sein Volk gewaltig, /\\
+ machte es stärker als das Volk der Bedrücker. [fn:15]\\
+\\
+
+<<v25>>
+25 Er wandelte ihren Sinn zum Hass gegen sein Volk, /\\
+ sodass sie an seinen Knechten tückisch handelten. [fn:16]\\
+\\
+
+<<v26>>
+26 Dann sandte er Mose, seinen Knecht, /\\
+ und Aaron, den Gott sich erwählte. [fn:17]\\
+\\
+
+<<v27>>
+27 Sie wirkten unter ihnen seine Zeichen, /\\
+ im Lande Hams seine Wunder. [fn:18]\\
+\\
+
+<<v28>>
+28 Er sandte Finsternis, da wurde es dunkel; /\\
+ doch achteten sie nicht auf sein Wort. [fn:19] [fn:20]\\
+\\
+
+<<v29>>
+29 Er verwandelte ihre Gewässer in Blut /\\
+ und ließ ihre Fische sterben. [fn:21]\\
+\\
+
+<<v30>>
+30 Ihr Land wimmelte von Fröschen /\\
+ bis hinein in den Palast des Königs. [fn:22]\\
+\\
+
+<<v31>>
+31 Er gebot, da kamen Schwärme von Fliegen /\\
+ und von Stechmücken über das ganze Gebiet. [fn:23]\\
+\\
+
+<<v32>>
+32 Er schickte ihnen Hagel statt Regen, /\\
+ flammendes Feuer auf ihr Land. [fn:24]\\
+\\
+
+<<v33>>
+33 Er zerschlug ihnen Weinstock und Feigenbaum /\\
+ und knickte in ihrem Gebiet die Bäume um.\\
+\\
+
+<<v34>>
+34 Er gebot, da kamen Schwärme von Grillen /\\
+ und Wanderheuschrecken in gewaltiger Zahl. [fn:25]\\
+\\
+
+<<v35>>
+35 Sie fraßen alles Grün in ihrem Land, /\\
+ sie fraßen die Frucht ihrer Felder.\\
+\\
+
+<<v36>>
+36 Er erschlug im Land jede Erstgeburt, /\\
+ die ganze Blüte der Jugend. [fn:26] [fn:27]\\
+\\
+
+<<v37>>
+37 Er führte sein Volk heraus mit Silber und Gold; /\\
+ in seinen Stämmen fand sich kein Schwächling. [fn:28]\\
+\\
+
+<<v38>>
+38 Bei ihrem Auszug waren die Ägypter froh; /\\
+ denn Schrecken vor ihnen hatte sie alle befallen. [fn:29]\\
+\\
+
+<<v39>>
+39 Eine Wolke breitete er aus, um sie zu decken, /\\
+ und Feuer, um die Nacht zu erleuchten. [fn:30]\\
+\\
+
+<<v40>>
+40 Als sie ihn baten, schickte er Wachteln /\\
+ und sättigte sie mit Brot vom Himmel. [fn:31] [fn:32]\\
+\\
+
+<<v41>>
+41 Er öffnete den Felsen und Wasser entquoll ihm, /\\
+ wie ein Strom floss es dahin in der Wüste. [fn:33]\\
+\\
+
+<<v42>>
+42 Denn er dachte an sein heiliges Wort /\\
+ und an Abraham, seinen Knecht.\\
+\\
+
+<<v43>>
+43 Er führte sein Volk heraus in Freude, /\\
+ seine Erwählten in Jubel.\\
+\\
+
+<<v44>>
+44 Er gab ihnen die Länder der Völker /\\
+ und ließ sie den Besitz der Nationen gewinnen, [fn:34]\\
+\\
+
+<<v45>>
+45 damit sie seine Satzungen hielten /\\
+ und seine Gebote befolgten. /\\
+ Halleluja!\\
+\\
+
+* Footnotes
+
+[fn:1] (1-15) [[file:1.Chr_16.org::v8][1 Chr 16,8-22]]; [[file:Ps_108.org::v4][Ps 108,4]]
+
+[fn:2] [[file:Dtn_4.org::v29][Dtn 4,29]]
+
+[fn:3] [[file:Ps_27.org::v8][27,8]]
+
+[fn:4] [[file:Ps_111.org::v5][111,5]]; [[file:Dtn_7.org::v9][Dtn 7,9]]
+
+[fn:5] [[file:Gen_17.org::v1][Gen 17,1-21]]; [[file:Gen_26.org::v3][26,3]]
+
+[fn:6] [[file:Gen_12.org::v7][Gen 12,7]]; [[file:Gen_15.org::v18][15,18]]
+
+[fn:7] [[file:Dtn_26.org::v5][Dtn 26,5]]
+
+[fn:8] [[file:Gen_12.org::v17][Gen 12,17]]; [[file:Gen_20.org::v3][20,3]].[[file:Gen_20.org::v7][7]]
+
+[fn:9] [[file:Gen_41.org::v54][Gen 41,54]]
+
+[fn:10] [[file:Gen_37.org::v28][Gen 37,28]]; [[file:Gen_45.org::v5][45,5]]
+
+[fn:11] [[file:Gen_39.org::v20][Gen 39,20]]
+
+[fn:12] (19-22) [[file:Gen_41.org::v38][Gen 41,38-45]]
+
+[fn:13] Text korr. nach G, S und Vg.
+
+[fn:14] [[file:Gen_46.org::v1][Gen 46,1-7]]; [[file:Gen_47.org::v11][47,11]]
+
+[fn:15] [[file:Ex_1.org::v7][Ex 1,7]].[[file:Ex_1.org::v12][12]]
+
+[fn:16] [[file:Ex_1.org::v9][Ex 1,9-11]].[[file:Ex_1.org::v15][15-22]]
+
+[fn:17] [[file:Ex_3.org::v10][Ex 3,10]]; [[file:Ex_4.org::v14][4,14-16]]
+
+[fn:18] Text korr. nach S.
+
+[fn:19] [[file:Ex_10.org::v21][Ex 10,21-29]]
+
+[fn:20] Text korr.; H: und sie widerstrebten nicht seinem Wort.
+
+[fn:21] [[file:Ex_7.org::v14][Ex 7,14-25]]
+
+[fn:22] [[file:Ex_7.org::v26][Ex 7,26]] - [[file:Ex_8.org::v11][8,11]]
+
+[fn:23] [[file:Ex_8.org::v12][Ex 8,12-28]]
+
+[fn:24] (32-33) [[file:Ex_9.org::v13][Ex 9,13-35]]
+
+[fn:25] (34-35) [[file:Ex_10.org::v1][Ex 10,1-20]]
+
+[fn:26] [[file:Ps_78.org::v51][78,51]]
+
+[fn:27] Wörtlich: den Erstling all ihrer Kraft.
+
+[fn:28] [[file:Ex_12.org::v35][Ex 12,35f]]
+
+[fn:29] [[file:Ex_12.org::v33][Ex 12,33]]
+
+[fn:30] [[file:Ps_78.org::v14][78,14]]
+
+[fn:31] [[file:Ps_78.org::v24][78,24]]; [[file:Ex_16.org::v2][Ex 16,2-36]]; [[file:Weish_16.org::v20][Weish 16,20]]
+
+[fn:32] Text korr.; H: Als er bat.
+
+[fn:33] [[file:Ps_78.org::v15][78,15]]; [[file:Ex_17.org::v1][Ex 17,1-7]]
+
+[fn:34] (44-45) [[file:Dtn_4.org::v37][Dtn 4,37-40]]

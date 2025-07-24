@@ -1,0 +1,124 @@
+:PROPERTIES:
+:ID:       7e5a0493-9f64-407e-8175-52a1c4b00ea5
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der zweite Brief an Timotheus* --
+[[file:2.Tim_1.html][1]] [[file:2.Tim_2.html][2]] *3*
+[[file:2.Tim_4.html][4]]
+
+--------------
+
+* 2.Tim 3
+  :PROPERTIES:
+  :CUSTOM_ID: tim-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Situation der Menschen in der Endzeit: 3,1-9
+     :PROPERTIES:
+     :CUSTOM_ID: die-situation-der-menschen-in-der-endzeit-31-9
+     :END:
+1 Das sollst du wissen: In den letzten Tagen werden schwere Zeiten
+anbrechen. ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Die Menschen werden selbstsüchtig sein, habgierig, prahlerisch,
+überheblich, bösartig, ungehorsam gegen die Eltern, undankbar, ohne
+Ehrfurcht,
+
+<<v3>>
+3 lieblos, unversöhnlich, verleumderisch, unbeherrscht, rücksichtslos,
+roh,
+
+<<v4>>
+4 heimtückisch, verwegen, hochmütig, mehr dem Vergnügen als Gott
+zugewandt.
+
+<<v5>>
+5 Den Schein der Frömmigkeit werden sie wahren, doch die Kraft der
+Frömmigkeit werden sie verleugnen. Wende dich von diesen Menschen ab.
+^{[[#fn3][3]]}
+
+<<v6>>
+6 Zu ihnen gehören die Leute, die sich in die Häuser einschleichen und
+dort gewisse Frauen auf ihre Seite ziehen, die von Sünden beherrscht und
+von Begierden aller Art umgetrieben werden, ^{[[#fn4][4]]}
+
+<<v7>>
+7 Frauen, die immer lernen und die doch nie zur Erkenntnis der Wahrheit
+gelangen können. ^{[[#fn5][5]]}
+
+<<v8>>
+8 Wie sich Jannes und Jambres dem Mose widersetzt haben, so widersetzen
+sich auch diese Leute der Wahrheit; ihr Denken ist verdorben, ihr Glaube
+bewährt sich nicht. ^{[[#fn6][6]]}
+
+<<v9>>
+9 Doch sie werden wenig Erfolg haben, denn ihr Unverstand wird allen
+offenkundig werden, wie es auch bei jenen geschehen ist.\\
+\\
+
+<<v10>>
+**** Die Aufgabe des Timotheus: 3,10-17
+     :PROPERTIES:
+     :CUSTOM_ID: die-aufgabe-des-timotheus-310-17
+     :END:
+10 Du aber bist mir gefolgt in der Lehre, im Leben und Streben, im
+Glauben, in der Langmut, der Liebe und der Ausdauer,
+
+<<v11>>
+11 in den Verfolgungen und Leiden, denen ich in Antiochia, Ikonion und
+Lystra ausgesetzt war. Welche Verfolgungen habe ich erduldet! Und aus
+allen hat der Herr mich errettet. ^{[[#fn7][7]]}
+
+<<v12>>
+12 So werden alle, die in der Gemeinschaft mit Christus Jesus ein
+frommes Leben führen wollen, verfolgt werden.
+
+<<v13>>
+13 Böse Menschen und Schwindler dagegen werden immer mehr in das Böse
+hineingeraten; sie sind betrogene Betrüger.
+
+<<v14>>
+14 Du aber bleibe bei dem, was du gelernt und wovon du dich überzeugt
+hast. Du weißt, von wem du es gelernt hast; ^{[[#fn8][8]]}
+
+<<v15>>
+15 denn du kennst von Kindheit an die heiligen Schriften, die dir
+Weisheit verleihen können, damit du durch den Glauben an Christus Jesus
+gerettet wirst.
+
+<<v16>>
+16 Jede von Gott eingegebene Schrift ist auch nützlich zur Belehrung,
+zur Widerlegung, zur Besserung, zur Erziehung in der Gerechtigkeit;
+^{[[#fn9][9]]}
+
+<<v17>>
+17 so wird der Mensch Gottes zu jedem guten Werk bereit und gerüstet
+sein.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 1 Tim 4,1
+
+^{[[#fnm2][2]]} Diese «letzten Tage» sind für Timotheus bereits
+gegenwärtige Wirklichkeit.
+
+^{[[#fnm3][3]]} ℘ Tit 1,16
+
+^{[[#fnm4][4]]} ℘ 2 Petr 2,14
+
+^{[[#fnm5][5]]} ℘ 1 Tim 2,4; Tit 1,1
+
+^{[[#fnm6][6]]} Jannes und Jambres sind in der jüdischen Überlieferung
+die Namen der ägyptischen Zauberer, die nach Ex 7,8-12 Mose und Aaron
+Widerstand geleistet haben.
+
+^{[[#fnm7][7]]} ℘ Apg 13,50; 14,5.19; 2 Kor 11,22-33; Eph 3,1; Kol 1,24
+
+^{[[#fnm8][8]]} ℘ 2 Petr 1,20; Jud 3
+
+^{[[#fnm9][9]]} Andere Übersetzungsmöglichkeiten: Die ganze von Gott
+eingegebene Schrift; oder: Jedes von Gott eingegebene Schriftwort.

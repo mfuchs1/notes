@@ -1,0 +1,98 @@
+#+TITLE: Ps 36 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-29 Fr 22:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 36.html
+
+* Ps 36
+
+<<verses>>
+
+<<v1>>
+* Gott, die Quelle des Lebens
+
+1 [Für den Chormeister. Von David, dem Knecht des Herrn.]\\
+\\
+
+<<v2>>
+2 Der Frevler spricht: «Ich bin entschlossen zum Bösen.» /\\
+ In seinen Augen gibt es kein Erschrecken vor Gott. [fn:1] [fn:2]\\
+\\
+
+<<v3>>
+3 Er gefällt sich darin, /\\
+ sich schuldig zu machen und zu hassen.\\
+\\
+
+<<v4>>
+4 Die Worte seines Mundes sind Trug und Unheil; /\\
+ er hat es aufgegeben, weise und gut zu handeln.\\
+\\
+
+<<v5>>
+5 Unheil plant er auf seinem Lager, /\\
+ er betritt schlimme Wege und scheut nicht das Böse. [fn:3]\\
+\\
+
+<<v6>>
+6 Herr, deine Güte reicht, so weit der Himmel ist, /\\
+ deine Treue, so weit die Wolken ziehn. [fn:4]\\
+\\
+
+<<v7>>
+7 Deine Gerechtigkeit steht wie die Berge Gottes, /\\
+ deine Urteile sind tief wie das Meer. Herr, du hilfst Menschen und
+Tieren. /\\
+\\
+
+<<v8>>
+8 Gott, wie köstlich ist deine Huld! Die Menschen bergen sich im
+Schatten deiner Flügel, / [fn:5]\\
+\\
+
+<<v9>>
+9 sie laben sich am Reichtum deines Hauses; /\\
+ du tränkst sie mit dem Strom deiner Wonnen. [fn:6]\\
+\\
+
+<<v10>>
+10 Denn bei dir ist die Quelle des Lebens, /\\
+ in deinem Licht schauen wir das Licht. [fn:7]\\
+\\
+
+<<v11>>
+11 Erhalte denen, die dich kennen, deine Huld /\\
+ und deine Gerechtigkeit den Menschen mit redlichem Herzen!\\
+\\
+
+<<v12>>
+12 Lass mich nicht kommen unter den Fuß der Stolzen; /\\
+ die Hand der Frevler soll mich nicht vertreiben.\\
+\\
+
+<<v13>>
+13 Dann brechen die Bösen zusammen, /\\
+ sie werden niedergestoßen und können nie wieder aufstehn.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_14.org::v1][14,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v18][Röm 3,18]]
+
+[fn:2] Text korr. nach G.
+
+[fn:3] [[file:Mi_2.org::v1][Mi 2,1]]
+
+[fn:4] [[file:Ps_57.org::v11][57,11]]; [[file:Ps_108.org::v5][108,5]]
+
+[fn:5] [[file:Ps_17.org::v7][17,7f]]
+
+[fn:6] [[file:Ps_65.org::v5][65,5]]; [[file:Ps_46.org::v5][46,5]]
+
+[fn:7] [[file:Ps_16.org::v11][16,11]]; [[file:Ps_97.org::v11][97,11]]; [[file:Jer_2.org::v13][Jer 2,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_4.org::v14][Joh 4,14]]

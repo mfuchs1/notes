@@ -1,0 +1,136 @@
+:PROPERTIES:
+:ID:       a65bf7b0-a8f6-4794-b1da-5f0f5bb2215b
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_44.html][44]] [[file:Jes_45.html][45]] *46*
+[[file:Jes_47.html][47]] [[file:Jes_48.html][48]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 46
+  :PROPERTIES:
+  :CUSTOM_ID: jes-46
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Der Sturz der Götzen Babels und die Allmacht Jahwes: 46,1-7
+     :PROPERTIES:
+     :CUSTOM_ID: der-sturz-der-götzen-babels-und-die-allmacht-jahwes-461-7
+     :END:
+1 Bel bricht zusammen, /\\
+ Nebo krümmt sich am Boden. Babels Götter werden auf Tiere geladen. /\\
+ Eine Last seid ihr, eine aufgebürdete Last für das ermüdete Vieh.
+^{[[#fn1][1]][[#fn2][2]]}\\
+\\
+
+<<v2>>
+2 Die Tiere krümmen sich und brechen zusammen, /\\
+ sie können die Lasten nicht retten; /\\
+ sie müssen selbst mit in die Gefangenschaft ziehen.\\
+\\
+
+<<v3>>
+3 Hört auf mich, ihr vom Haus Jakob, /\\
+ und ihr alle, die vom Haus Israel noch übrig sind, die mir aufgebürdet
+sind vom Mutterleib an, /\\
+ die von mir getragen wurden, seit sie den Schoß ihrer Mutter verließen.
+^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+<<v4>>
+4 Ich bleibe derselbe, so alt ihr auch werdet, /\\
+ bis ihr grau werdet, will ich euch tragen. Ich habe es getan /\\
+ und ich werde euch weiterhin tragen, /\\
+ ich werde euch schleppen und retten. ^{[[#fn5][5]]}\\
+\\
+
+<<v5>>
+5 Mit wem wollt ihr mich vergleichen, /\\
+ neben wen mich stellen? An wem wollt ihr mich messen, /\\
+ um zu sehen, ob wir uns gleichen? ^{[[#fn6][6]]}\\
+\\
+
+<<v6>>
+6 Man schüttet Gold aus dem Beutel /\\
+ und wiegt Silber ab auf der Waage. Man bezahlt einen Goldschmied, damit
+er einen Gott daraus macht. /\\
+ Man kniet nieder und wirft sich sogar zu Boden.\\
+\\
+
+<<v7>>
+7 Man trägt ihn auf der Schulter /\\
+ und schleppt ihn umher; dann stellt man ihn wieder auf seinen Platz /\\
+ und dort bleibt er stehen; /\\
+ er rührt sich nicht von der Stelle. Ruft man ihn an, so antwortet er
+nicht; /\\
+ wenn man in Not ist, kann er nicht helfen.\\
+\\
+
+<<v8>>
+**** Kyrus, das Werkzeug Jahwes: 46,8-13
+     :PROPERTIES:
+     :CUSTOM_ID: kyrus-das-werkzeug-jahwes-468-13
+     :END:
+8 Denkt daran und achtet darauf, /\\
+ ihr Treulosen, nehmt es zu Herzen!\\
+\\
+
+<<v9>>
+9 Denkt an das, was früher galt, in uralten Zeiten: /\\
+ Ich bin Gott und sonst niemand, /\\
+ ich bin Gott und niemand ist wie ich. ^{[[#fn7][7]]}\\
+\\
+
+<<v10>>
+10 Ich habe von Anfang an die Zukunft verkündet /\\
+ und lange vorher gesagt, was erst geschehen sollte. Ich sage: Mein Plan
+steht fest, /\\
+ und alles, was ich will, führe ich aus. ^{[[#fn8][8]]}\\
+\\
+
+<<v11>>
+11 Ich habe aus dem Osten einen Adler gerufen, /\\
+ aus einem fernen Land rief ich den Mann, /\\
+ den ich brauchte für meinen Plan. Ich habe es gesagt und ich lasse es
+kommen. /\\
+ Ich habe es geplant und ich führe es aus.\\
+\\
+
+<<v12>>
+12 Hört auf mich, ihr Verzagten, /\\
+ denen das Heil noch fern ist. ^{[[#fn9][9]]}\\
+\\
+
+<<v13>>
+13 Ich selbst bringe euch das Heil, /\\
+ es ist nicht mehr fern; /\\
+ meine Hilfe verzögert sich nicht. Ich bringe Hilfe für Zion /\\
+ und verleihe Israel meine strahlende Pracht.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Jer 50,2
+
+^{[[#fnm2][2]]} Bel (= Baal, Herr), genauer Bel Marduk, der Gott der
+Stadt Babylon, verkörpert die Schöpfermacht und Weltherrschaft. Nebo
+(vgl. den Namen Nebukadnezzar), der Gott der Weisheit und der
+Schreibkunst, hält die Schicksalstafeln in der Hand. - Die Übersetzung
+46,1d ist unsicher.
+
+^{[[#fnm3][3]]} ℘ (3-4) 63,9
+
+^{[[#fnm4][4]]} 3e: Wörtlich: vom Mutterschoß an.
+
+^{[[#fnm5][5]]} ℘ Ps 71,18
+
+^{[[#fnm6][6]]} ℘ 40,18
+
+^{[[#fnm7][7]]} ℘ 43,18
+
+^{[[#fnm8][8]]} ℘ 41,22f.26; 44,7f; Ps 115,3
+
+^{[[#fnm9][9]]} ihr Verzagten: Text korr. nach G.

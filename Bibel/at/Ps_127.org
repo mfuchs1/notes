@@ -1,0 +1,63 @@
+#+TITLE: Ps 127 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 14:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 127.html
+
+* Ps 127
+
+<<verses>>
+
+<<v1>>
+* Die Mühe des Menschen und der Segen Gottes
+
+1 [Ein Wallfahrtslied Salomos.] Wenn nicht der Herr das Haus baut, /\\
+ müht sich jeder umsonst, der daran baut. Wenn nicht der Herr die Stadt
+bewacht, /\\
+ wacht der Wächter umsonst. [fn:1]\\
+\\
+
+<<v2>>
+2 Es ist umsonst, dass ihr früh aufsteht /\\
+ und euch spät erst niedersetzt, um das Brot der Mühsal zu essen; /\\
+ denn der Herr gibt es den Seinen im Schlaf. [fn:2] [fn:3]\\
+\\
+
+<<v3>>
+3 Kinder sind eine Gabe des Herrn, /\\
+ die Frucht des Leibes ist sein Geschenk. [fn:4]\\
+\\
+
+<<v4>>
+4 Wie Pfeile in der Hand des Kriegers, /\\
+ so sind Söhne aus den Jahren der Jugend.\\
+\\
+
+<<v5>>
+5 Wohl dem Mann, der mit ihnen den Köcher gefüllt hat! /\\
+ Beim Rechtsstreit mit ihren Feinden scheitern sie nicht. [fn:5] [fn:6]\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:Ijob_12.org::v14][Ijob 12,14]]; (1f) [[file:~/RoamNotes/notes/Bibel/nt/Mt_6.org::v25][Mt 6,25-34]]
+
+[fn:2] [[file:Spr_3.org::v24][Spr 3,24-26]]; [[file:Spr_10.org::v22][10,22]]; [[file:Sir_11.org::v11][Sir 11,11]]
+
+[fn:3] den Seinen: Text korr.; H: seinem Geliebten; andere
+Übersetzungsmöglichkeit: zu Recht gibt der Herr den Seinen den Schlaf.
+
+[fn:4] [[file:Ps_115.org::v14][115,14]]; [[file:Ps_128.org::v3][128,3]]; [[file:Gen_33.org::v5][Gen 33,5]]
+
+[fn:5] [[file:Ijob_5.org::v4][Ijob 5,4]]
+
+[fn:6] Beim Rechtsstreit mit ihren Feinden, wörtlich: Wenn sie
+reden mit Feinden im Tor.

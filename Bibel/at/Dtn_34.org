@@ -1,0 +1,94 @@
+#+TITLE: Dtn 34 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-01 Mi 10:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 34.html
+
+<<verses>>
+
+<<v1>>
+* Der Tod des Mose: 34,1-9
+
+1 Mose stieg aus den Steppen von Moab hinauf auf den Nebo, den Gipfel
+des Pisga gegenüber Jericho, und der Herr zeigte ihm das ganze Land. Er
+zeigte ihm Gilead bis nach Dan hin, [fn:1] [fn:2]
+
+<<v2>>
+2 ganz Naftali, das Gebiet von Efraim und Manasse, ganz Juda bis zum
+Mittelmeer,
+
+<<v3>>
+3 den Negeb und die Jordangegend, den Talgraben von Jericho, der
+Palmenstadt, bis Zoar.
+
+<<v4>>
+4 Der Herr sagte zu ihm: Das ist das Land, das ich Abraham, Isaak und
+Jakob versprochen habe mit dem Schwur: Deinen Nachkommen werde ich es
+geben. Ich habe es dich mit deinen Augen schauen lassen. Hinüberziehen
+wirst du nicht.
+
+<<v5>>
+5 Danach starb Mose, der Knecht des Herrn, dort in Moab, wie es der Herr
+bestimmt hatte. [fn:3]
+
+<<v6>>
+6 Man begrub ihn im Tal, in Moab, gegenüber Bet-Pegor. Bis heute kennt
+niemand sein Grab.
+
+<<v7>>
+7 Mose war hundertzwanzig Jahre alt, als er starb. Sein Auge war noch
+nicht getrübt, seine Frische war noch nicht geschwunden. [fn:4]
+
+<<v8>>
+8 Die Israeliten beweinten Mose dreißig Tage lang in den Steppen von
+Moab. Danach war die Zeit des Weinens und der Klage um Mose beendet. [fn:5]
+
+<<v9>>
+9 Josua, der Sohn Nuns, war vom Geist der Weisheit erfüllt, denn Mose
+hatte ihm die Hände aufgelegt. Die Israeliten hörten auf ihn und taten,
+was der Herr dem Mose aufgetragen hatte. [fn:6]\\
+\\
+
+<<v10>>
+* Der Abschluss der fünf Bücher des Mose: 34,10-12
+
+10 Niemals wieder ist in Israel ein Prophet wie Mose aufgetreten. Ihn
+hat der Herr Auge in Auge berufen. [fn:7]
+
+<<v11>>
+11 Keiner ist ihm vergleichbar, wegen all der Zeichen und Wunder, die er
+in Ägypten im Auftrag des Herrn am Pharao, an seinem ganzen Hof und an
+seinem ganzen Land getan hat, [fn:8]
+
+<<v12>>
+12 wegen all der Beweise seiner starken Hand und wegen all der Furcht
+erregenden und großen Taten, die Mose vor den Augen von ganz Israel
+vollbracht hat. [fn:9]\\
+\\
+
+* Footnotes
+
+[fn:1] (1-3) [[file:Dtn_3.org::v27][3,27]]
+
+[fn:2] 1-3: Ein Teil der Textzeugen bringt eine andere, kürzere
+Landbeschreibung.
+
+[fn:3] [[file:Dtn_1.org::v37][1,37]]; [[file:Dtn_3.org::v26][3,26-28]]; [[file:Dtn_4.org::v21][4,21f]]; [[file:Dtn_31.org::v2][31,2]]
+
+[fn:4] [[file:Dtn_31.org::v2][31,2]]
+
+[fn:5] [[file:Num_20.org::v29][Num 20,29]]
+
+[fn:6] [[file:Num_27.org::v18][Num 27,18-23]]
+
+[fn:7] [[file:Ex_33.org::v11][Ex 33,11]]
+
+[fn:8] [[file:Num_12.org::v6][Num 12,6-8]]
+
+[fn:9] [[file:Dtn_4.org::v34][4,34]]

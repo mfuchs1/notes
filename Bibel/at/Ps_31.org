@@ -1,0 +1,207 @@
+#+TITLE: Ps 31 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-14 Do 21:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 31.html
+
+* Ps 31
+
+<<verses>>
+
+<<v1>>
+* Gott, die sichere Zuflucht
+
+1 [Für den Chormeister. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Herr, ich suche Zuflucht bei dir. /\\
+ Lass mich doch niemals scheitern; /\\
+ rette mich in deiner Gerechtigkeit! [fn:1]\\
+\\
+
+<<v3>>
+3 Wende dein Ohr mir zu, /\\
+ erlöse mich bald! Sei mir ein schützender Fels, /\\
+ eine feste Burg, die mich rettet. [fn:2]\\
+\\
+
+<<v4>>
+4 Denn du bist mein Fels und meine Burg; /\\
+ um deines Namens willen wirst du mich führen und leiten. [fn:3]\\
+\\
+
+<<v5>>
+5 Du wirst mich befreien aus dem Netz, das sie mir heimlich legten; /\\
+ denn du bist meine Zuflucht. [fn:4]\\
+\\
+
+<<v6>>
+6 In deine Hände lege ich voll Vertrauen meinen Geist; /\\
+ du hast mich erlöst, Herr, du treuer Gott. [fn:5]\\
+\\
+
+<<v7>>
+7 Dir sind alle verhasst, die nichtige Götzen verehren, /\\
+ ich aber verlasse mich auf den Herrn. [fn:6]\\
+\\
+
+<<v8>>
+8 Ich will jubeln und über deine Huld mich freuen; /\\
+ denn du hast mein Elend angesehn, /\\
+ du bist mit meiner Not vertraut. [fn:7]\\
+\\
+
+<<v9>>
+9 Du hast mich nicht preisgegeben der Gewalt meines Feindes, /\\
+ hast meinen Füßen freien Raum geschenkt. [fn:8]\\
+\\
+
+<<v10>>
+10 Herr, sei mir gnädig, denn mir ist angst; /\\
+ vor Gram zerfallen mir Auge, Seele und Leib. [fn:9]\\
+\\
+
+<<v11>>
+11 In Kummer schwindet mein Leben dahin, /\\
+ meine Jahre verrinnen im Seufzen. Meine Kraft ist ermattet im Elend,
+/\\
+ meine Glieder sind zerfallen. [fn:10] [fn:11]\\
+\\
+
+<<v12>>
+12 Zum Spott geworden bin ich all meinen Feinden, /\\
+ ein Hohn den Nachbarn, ein Schrecken den Freunden; /\\
+ wer mich auf der Straße sieht, der flieht vor mir. [fn:12] [fn:13]\\
+\\
+
+<<v13>>
+13 Ich bin dem Gedächtnis entschwunden wie ein Toter, /\\
+ bin geworden wie ein zerbrochenes Gefäß.\\
+\\
+
+<<v14>>
+14 Ich höre das Zischeln der Menge - Grauen ringsum. /\\
+ Sie tun sich gegen mich zusammen; /\\
+ sie sinnen darauf, mir das Leben zu rauben. [fn:14]\\
+\\
+
+<<v15>>
+15 Ich aber, Herr, ich vertraue dir, /\\
+ ich sage: «Du bist mein Gott.» [fn:15]\\
+\\
+
+<<v16>>
+16 In deiner Hand liegt mein Geschick; /\\
+ entreiß mich der Hand meiner Feinde und Verfolger! [fn:16]\\
+\\
+
+<<v17>>
+17 Lass dein Angesicht leuchten über deinem Knecht, /\\
+ hilf mir in deiner Güte! [fn:17]\\
+\\
+
+<<v18>>
+18 Herr, lass mich nicht scheitern, /\\
+ denn ich rufe zu dir. Scheitern sollen die Frevler, /\\
+ verstummen und hinabfahren ins Reich der Toten.\\
+\\
+
+<<v19>>
+19 Jeder Mund, der lügt, soll sich schließen, /\\
+ der Mund, der frech gegen den Gerechten redet, /\\
+ hochmütig und verächtlich.\\
+\\
+
+<<v20>>
+20 Wie groß ist deine Güte, Herr, /\\
+ die du bereithältst für alle, die dich fürchten und ehren; du erweist
+sie allen, /\\
+ die sich vor den Menschen zu dir flüchten. [fn:18]\\
+\\
+
+<<v21>>
+21 Du beschirmst sie im Schutz deines Angesichts /\\
+ vor dem Toben der Menschen. Wie unter einem Dach bewahrst du sie /\\
+ vor dem Gezänk der Zungen. [fn:19]\\
+\\
+
+<<v22>>
+22 Gepriesen sei der Herr, der wunderbar an mir gehandelt /\\
+ und mir seine Güte erwiesen hat zur Zeit der Bedrängnis. [fn:20]\\
+\\
+
+<<v23>>
+23 Ich aber dachte in meiner Angst: /\\
+ Ich bin aus deiner Nähe verstoßen. Doch du hast mein lautes Flehen
+gehört, /\\
+ als ich zu dir um Hilfe rief. [fn:21]\\
+\\
+
+<<v24>>
+24 Liebt den Herrn, all seine Frommen! /\\
+ Seine Getreuen behütet der Herr, /\\
+ doch den Hochmütigen vergilt er ihr Tun mit vollem Maß. [fn:22]\\
+\\
+
+<<v25>>
+25 Euer Herz sei stark und unverzagt, /\\
+ ihr alle, die ihr wartet auf den Herrn. [fn:23]\\
+\\
+
+* Footnotes
+
+[fn:1] (2-4) [[file:Ps_71.org::v1][71,1-3]]
+
+[fn:2] [[file:Ps_102.org::v3][102,3]]
+
+[fn:3] [[file:Ps_92.org::v16][92,16]]; [[file:Ps_23.org::v3][23,3]]
+
+[fn:4] [[file:Ps_25.org::v15][25,15]]; [[file:Ps_140.org::v6][140,6]]
+
+[fn:5] [[file:~/RoamNotes/notes/Bibel/nt/Lk_23.org::v46][Lk 23,46]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v59][Apg 7,59]]
+
+[fn:6] Dir sind: Text korr. nach G, S und Vg; H: Mir sind.
+
+[fn:7] [[file:Ps_9.org::v3][9,3]]
+
+[fn:8] [[file:Ps_18.org::v20][18,20]]
+
+[fn:9] [[file:Ps_6.org::v8][6,8]]; (10-11) [[file:Ps_38.org::v11][38,11]]
+
+[fn:10] [[file:Ps_6.org::v3][6,3]]
+
+[fn:11] im Elend: Text korr. nach G und S; H: in meiner
+Schuld.
+
+[fn:12] [[file:Ps_38.org::12][38,12]]; [[file:Ps_41.org::v10][41,10]]; [[file:Ps_44.org::v14][44,14f]]; [[file:Ps_55.org::v13][55,13f]]; [[file:Ps_69.org::v9][69,9]].[[file:Ps_69.org::v12][12f]]; [[file:Ps_79.org::v4][79,4]];
+[[file:Ps_88.org::v9][88,9]].[[file:Ps_88.org::v19][19]]; [[file:Ps_89.org::v42][89,42]]; [[file:Ijob_19.org::v13][Ijob 19,13-19]]
+
+[fn:13] Text korr.
+
+[fn:14] [[file:Ps_41.org::v6][41,6]]; [[file:Jer_20.org::v10][Jer 20,10]]
+
+[fn:15] [[file:Ps_140.org::v7][140,7]]
+
+[fn:16] [[file:Ps_139.org::v16][139,16]]
+
+[fn:17] [[file:Ps_4.org::v7][4,7]]
+
+[fn:18] Herr: ergänzt nach G.
+
+[fn:19] [[file:Ps_25.org::v5][27,5]]; [[file:Ijob_5.org::v21][Ijob 5,21]]
+
+[fn:20] zur Zeit der Bedrängnis: Text korr.; H: in der
+befestigten Stadt.
+
+[fn:21] [[file:Jona_2.org::v5][Jona 2,5]]
+
+[fn:22] [[file:Ps_62.org::v13][62,13]]
+
+[fn:23] [[file:Ps_27.org::v14][27,14]]

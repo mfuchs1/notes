@@ -1,0 +1,296 @@
+:PROPERTIES:
+:ID:       de90a5f3-b7d9-427a-a64a-2105f8a75aae
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Markus* --
+[[file:Mk_1.html][1]] ... [[file:Mk_6.html][6]] [[file:Mk_7.html][7]]
+*8* [[file:Mk_9.html][9]] [[file:Mk_10.html][10]] ...
+[[file:Mk_16.html][16]]
+
+--------------
+
+* Mk 8
+  :PROPERTIES:
+  :CUSTOM_ID: mk-8
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Speisung der Viertausend: 8,1-10
+     :PROPERTIES:
+     :CUSTOM_ID: die-speisung-der-viertausend-81-10
+     :END:
+1 In jenen Tagen waren wieder einmal viele Menschen um Jesus versammelt.
+Da sie nichts zu essen hatten, rief er die Jünger zu sich und sagte:
+^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 153\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Ich habe Mitleid mit diesen Menschen; sie sind schon drei Tage bei mir
+und haben nichts mehr zu essen. ^{[[#fn2][2]]}
+
+<<v3>>
+3 Wenn ich sie hungrig nach Hause schicke, werden sie unterwegs
+zusammenbrechen; denn einige von ihnen sind von weither gekommen.
+
+<<v4>>
+4 Seine Jünger antworteten ihm: Woher soll man in dieser unbewohnten
+Gegend Brot bekommen, um sie alle satt zu machen?
+
+<<v5>>
+5 Er fragte sie: Wie viele Brote habt ihr? Sie antworteten: Sieben.
+
+<<v6>>
+6 Da forderte er die Leute auf, sich auf den Boden zu setzen. Dann nahm
+er die sieben Brote, sprach das Dankgebet, brach die Brote und gab sie
+seinen Jüngern zum Verteilen; und die Jünger teilten sie an die Leute
+aus. ^{[[#fn3][3]]}
+
+<<v7>>
+7 Sie hatten auch noch ein paar Fische bei sich. Jesus segnete sie und
+ließ auch sie austeilen.
+
+<<v8>>
+8 Die Leute aßen und wurden satt. Dann sammelte man die übrig
+gebliebenen Brotstücke ein, sieben Körbe voll.
+
+<<v9>>
+9 Es waren etwa viertausend Menschen beisammen. Danach schickte er sie
+nach Hause.
+
+<<v10>>
+10 Gleich darauf stieg er mit seinen Jüngern ins Boot und fuhr in das
+Gebiet von Dalmanuta.\\
+\\
+
+<<v11>>
+**** Die Verweigerung eines Zeichens: 8,11-13
+     :PROPERTIES:
+     :CUSTOM_ID: die-verweigerung-eines-zeichens-811-13
+     :END:
+11 Da kamen die Pharisäer und begannen ein Streitgespräch mit ihm; sie
+forderten von ihm ein Zeichen vom Himmel, um ihn auf die Probe zu
+stellen. ^{[[#fn4][4]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 154\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v12>>
+12 Da seufzte er tief auf und sagte: Was fordert diese Generation ein
+Zeichen? Amen, das sage ich euch: Dieser Generation wird niemals ein
+Zeichen gegeben werden.
+
+<<v13>>
+13 Und er verließ sie, stieg in das Boot und fuhr ans andere Ufer.\\
+\\
+
+<<v14>>
+**** Warnung vor den Pharisäern und vor Herodes: 8,14-21
+     :PROPERTIES:
+     :CUSTOM_ID: warnung-vor-den-pharisäern-und-vor-herodes-814-21
+     :END:
+14 Die Jünger hatten vergessen, bei der Abfahrt Brote mitzunehmen; nur
+ein einziges hatten sie dabei. ^{[[#fn5][5]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 155\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v15>>
+15 Und er warnte sie: Gebt Acht, hütet euch vor dem Sauerteig der
+Pharisäer und dem Sauerteig des Herodes! ^{[[#fn6][6]]}
+
+<<v16>>
+16 Sie aber machten sich Gedanken, weil sie kein Brot bei sich hatten.
+
+<<v17>>
+17 Als er das merkte, sagte er zu ihnen: Was macht ihr euch darüber
+Gedanken, dass ihr kein Brot habt? Begreift und versteht ihr immer noch
+nicht? Ist denn euer Herz verstockt? ^{[[#fn7][7]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 303\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v18>>
+18 /Habt ihr denn keine Augen, um zu sehen, und keine Ohren, um zu
+hören?/ Erinnert ihr euch nicht: ^{[[#fn8][8]]}
+
+<<v19>>
+19 Als ich die fünf Brote für die Fünftausend brach, wie viele Körbe
+voll Brotstücke habt ihr da aufgesammelt? Sie antworteten ihm: Zwölf.
+^{[[#fn9][9]]}
+
+<<v20>>
+20 Und als ich die sieben Brote für die Viertausend brach, wie viele
+Körbe voll habt ihr da aufgesammelt? Sie antworteten: Sieben.
+^{[[#fn10][10]]}
+
+<<v21>>
+21 Da sagte er zu ihnen: Versteht ihr immer noch nicht?\\
+\\
+
+<<v22>>
+**** Die Heilung eines Blinden bei Betsaida: 8,22-26
+     :PROPERTIES:
+     :CUSTOM_ID: die-heilung-eines-blinden-bei-betsaida-822-26
+     :END:
+22 Sie kamen nach Betsaida. Da brachte man einen Blinden zu Jesus und
+bat ihn, er möge ihn berühren. ^{[[#fn11][11]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 156\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v23>>
+23 Er nahm den Blinden bei der Hand, führte ihn vor das Dorf hinaus,
+bestrich seine Augen mit Speichel, legte ihm die Hände auf und fragte
+ihn: Siehst du etwas? ^{[[#fn12][12]]}
+
+<<v24>>
+24 Der Mann blickte auf und sagte: Ich sehe Menschen; denn ich sehe
+etwas, das wie Bäume aussieht und umhergeht.
+
+<<v25>>
+25 Da legte er ihm nochmals die Hände auf die Augen; nun sah der Mann
+deutlich. Er war geheilt und konnte alles ganz genau sehen.
+
+<<v26>>
+26 Jesus schickte ihn nach Hause und sagte: Geh aber nicht in das Dorf
+hinein!\\
+\\
+
+<<v27>>
+** Auf dem Weg nach Jerusalem: 8,27 - 10,52
+   :PROPERTIES:
+   :CUSTOM_ID: auf-dem-weg-nach-jerusalem-827---1052
+   :END:
+**** Das Messiasbekenntnis des Petrus: 8,27-30
+     :PROPERTIES:
+     :CUSTOM_ID: das-messiasbekenntnis-des-petrus-827-30
+     :END:
+27 Jesus ging mit seinen Jüngern in die Dörfer bei Cäsarea Philippi.
+Unterwegs fragte er die Jünger: Für wen halten mich die Menschen?
+^{[[#fn13][13]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 158\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v28>>
+28 Sie sagten zu ihm: Einige für Johannes den Täufer, andere für Elija,
+wieder andere für sonst einen von den Propheten. ^{[[#fn14][14]]}
+
+<<v29>>
+29 Da fragte er sie: Ihr aber, für wen haltet ihr mich? Simon Petrus
+antwortete ihm: Du bist der Messias! ^{[[#fn15][15]]}
+
+<<v30>>
+30 Doch er verbot ihnen, mit jemand über ihn zu sprechen.\\
+\\
+
+<<v31>>
+**** Die erste Ankündigung von Leiden und Auferstehung: 8,31-33
+     :PROPERTIES:
+     :CUSTOM_ID: die-erste-ankündigung-von-leiden-und-auferstehung-831-33
+     :END:
+31 Dann begann er, sie darüber zu belehren, der Menschensohn müsse
+vieles erleiden und von den Ältesten, den Hohenpriestern und den
+Schriftgelehrten verworfen werden; er werde getötet, aber nach drei
+Tagen werde er auferstehen. ^{[[#fn16][16]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 159\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v32>>
+32 Und er redete ganz offen darüber. Da nahm ihn Petrus beiseite und
+machte ihm Vorwürfe.
+
+<<v33>>
+33 Jesus wandte sich um, sah seine Jünger an und wies Petrus mit den
+Worten zurecht: Weg mit dir, Satan, geh mir aus den Augen! Denn du hast
+nicht das im Sinn, was Gott will, sondern was die Menschen wollen.\\
+\\
+
+<<v34>>
+**** Von Nachfolge und Selbstverleugnung: 8,34 - 9,1
+     :PROPERTIES:
+     :CUSTOM_ID: von-nachfolge-und-selbstverleugnung-834---91
+     :END:
+34 Er rief die Volksmenge und seine Jünger zu sich und sagte: Wer mein
+Jünger sein will, der verleugne sich selbst, nehme sein Kreuz auf sich
+und folge mir nach. ^{[[#fn17][17]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 302\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v35>>
+35 Denn wer sein Leben retten will, wird es verlieren; wer aber sein
+Leben um meinetwillen und um des Evangeliums willen verliert, wird es
+retten. ^{[[#fn18][18]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 235\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v36>>
+36 Was nützt es einem Menschen, wenn er die ganze Welt gewinnt, dabei
+aber sein Leben einbüßt?
+
+<<v37>>
+37 Um welchen Preis könnte ein Mensch sein Leben zurückkaufen?
+
+<<v38>>
+38 Denn wer sich vor dieser treulosen und sündigen Generation meiner und
+meiner Worte schämt, dessen wird sich auch der Menschensohn schämen,
+wenn er mit den heiligen Engeln in der Hoheit seines Vaters kommt.
+^{[[#fn19][19]][[#fn20][20]][[#fn21][21]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 300\\
+$ŽG://ESyn0812/\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-10) Mt 14,13-21; Mk 6,32-44; Lk 9,10-17; Joh
+6,1-13; Mt 15,32-39 ⇨Esyn: Synopse Nr. 153
+
+^{[[#fnm2][2]]} ℘ Mt 9,36
+
+^{[[#fnm3][3]]} ℘ 8,20
+
+^{[[#fnm4][4]]} ℘ Mt 12,38f; Lk 11,16.29; Joh 6,30; 1 Kor 1,22; (11-13)
+Mt 16,1-4 ⇨Esyn: Synopse Nr. 154
+
+^{[[#fnm5][5]]} ℘ (14-21) Mt 16,5-12 ⇨Esyn: Synopse Nr. 155
+
+^{[[#fnm6][6]]} ℘ Lk 12,1
+
+^{[[#fnm7][7]]} ℘ 6,52 ⇨Esyn: Synopse Nr. 303
+
+^{[[#fnm8][8]]} ℘ Jer 5,21
+
+^{[[#fnm9][9]]} ℘ 6,41-44
+
+^{[[#fnm10][10]]} ℘ 8,6-9
+
+^{[[#fnm11][11]]} ℘ ⇨Esyn: Synopse Nr. 156
+
+^{[[#fnm12][12]]} ℘ 7,33; Joh 9,6
+
+^{[[#fnm13][13]]} ℘ (27-30) Mt 16,13-20; Lk 9,18-22 ⇨Esyn: Synopse Nr.
+158
+
+^{[[#fnm14][14]]} ℘ 6,14
+
+^{[[#fnm15][15]]} ℘ Joh 11,27
+
+^{[[#fnm16][16]]} ℘ 9,31; 10,32-34; (31-33) Mt 16,21-23; Lk 9,22 ⇨Esyn:
+Synopse Nr. 159
+
+^{[[#fnm17][17]]} ℘ Mt 10,38f; Lk 14,27; Mt 8,22; (8,34 - 9,1) Mt
+16,24-28; Lk 9,23-27 ⇨Esyn: Synopse Nr. 302
+
+^{[[#fnm18][18]]} ℘ Mt 10,39; Lk 17,33; Joh 12,25 ⇨Esyn: Synopse Nr. 235
+
+^{[[#fnm19][19]]} ℘ Mt 10,33
+
+^{[[#fnm20][20]]} Zu «treulosen» vgl. die Anmerkung zu Mt 12,39.
+
+^{[[#fnm21][21]]} ℘ ⇨Esyn: Synopse Nr. 300

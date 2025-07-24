@@ -1,0 +1,173 @@
+#+TITLE: Lev 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 15:02]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 15.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Unreinheit bei Männern: 15,1-18
+
+1 Der Herr sprach zu Mose und Aaron:
+
+<<v2>>
+2 Redet zu den Israeliten und sagt zu ihnen: Wenn ein Mann einen
+Ausfluss aus seinem Körper hat, so ist dieser Ausfluss unrein. [fn:1]
+
+<<v3>>
+3 Hat er diesen Ausfluss, so besteht seine Unreinheit, ob sein Körper
+den Ausfluss fließen lässt oder ihn zurückhält; bei ihm liegt Unreinheit
+vor.
+
+<<v4>>
+4 Jedes Lager, auf das sich dieser Mann legt, und jeder Gegenstand, auf
+den er sich setzt, ist unrein.
+
+<<v5>>
+5 Wer sein Lager berührt, muss seine Kleider waschen, sich in Wasser
+baden und ist unrein bis zum Abend.
+
+<<v6>>
+6 Wer sich auf einen Gegenstand setzt, auf dem der Leidende saß, muss
+seine Kleider waschen, sich in Wasser baden und ist unrein bis zum
+Abend.
+
+<<v7>>
+7 Wer den Körper des Leidenden berührt, muss seine Kleider waschen, sich
+in Wasser baden und ist unrein bis zum Abend.
+
+<<v8>>
+8 Wenn der Kranke eine reine Person anspuckt, muss sie ihre Kleider
+waschen, sich in Wasser baden und ist unrein bis zum Abend.
+
+<<v9>>
+9 Jeder Sattel, den der Kranke benutzt, ist unrein.
+
+<<v10>>
+10 Jeder, der irgendeinen Gegenstand berührt, der unter dem Kranken war,
+ist unrein bis zum Abend. Wer einen solchen Gegenstand trägt, muss seine
+Kleider waschen, sich in Wasser baden und ist unrein bis zum Abend.
+
+<<v11>>
+11 Jeder, den der Kranke berührt, ohne zuvor seine Hände mit Wasser
+abzuspülen, muss seine Kleider waschen, sich in Wasser baden und ist
+unrein bis zum Abend.
+
+<<v12>>
+12 Ein Tongefäß, das der Kranke berührt, muss zerbrochen und jedes
+Holzgerät mit Wasser abgespült werden.
+
+<<v13>>
+13 Wird dieser Mann von seinem Ausfluss rein, soll er sieben Tage bis zu
+seiner Reinigung zählen. Danach muss er seine Kleider waschen, seinen
+Körper in Quellwasser baden und ist dann rein.
+
+<<v14>>
+14 Am achten Tag soll er zwei Turteltauben oder zwei junge Tauben
+nehmen, vor den Herrn zum Eingang des Offenbarungszeltes kommen und sie
+dem Priester geben.
+
+<<v15>>
+15 Mit der einen soll der Priester ein Sündopfer und mit der andern ein
+Brandopfer darbringen. Der Priester soll ihn so vor dem Herrn wegen
+seines Ausflusses entsühnen.
+
+<<v16>>
+16 Hat ein Mann Samenerguss, soll er seinen ganzen Körper in Wasser
+baden und ist unrein bis zum Abend.
+
+<<v17>>
+17 Jedes Kleid und jedes Lederstück, auf das Samen gekommen ist, muss
+mit Wasser gesäubert werden und ist unrein bis zum Abend.
+
+<<v18>>
+18 Schläft ein Mann, der Samenerguss hat, mit einer Frau, müssen sie
+sich beide in Wasser baden und sind unrein bis zum Abend.\\
+\\
+
+<<v19>>
+* Die Unreinheit bei Frauen: 15,19-33
+
+19 Hat eine Frau Blutfluss und ist solches Blut an ihrem Körper, soll
+sie sieben Tage lang in der Unreinheit ihrer Regel verbleiben. Wer sie
+berührt, ist unrein bis zum Abend.
+
+<<v20>>
+20 Alles, worauf sie sich in diesem Zustand legt, ist unrein; alles,
+worauf sie sich setzt, ist unrein.
+
+<<v21>>
+21 Wer ihr Lager berührt, muss seine Kleider waschen, sich in Wasser
+baden und ist unrein bis zum Abend.
+
+<<v22>>
+22 Wer irgendeinen Gegenstand berührt, auf dem sie saß, muss seine
+Kleider waschen, sich in Wasser baden und ist unrein bis zum Abend.
+
+<<v23>>
+23 Befindet sich etwas auf dem Bett oder auf dem Gegenstand, auf dem sie
+saß, wird derjenige, der es berührt, unrein bis zum Abend.
+
+<<v24>>
+24 Schläft ein Mann mit ihr, so kommt die Unreinheit ihrer Regel auf
+ihn. Er wird für sieben Tage unrein. Jedes Lager, auf das er sich legt,
+wird unrein.
+
+<<v25>>
+25 Hat eine Frau mehrere Tage außerhalb der Zeit ihrer Regel einen
+Blutfluss oder hält ihre Regel länger an, ist sie für die ganze Dauer
+dieses Ausflusses im gleichen Zustand der Unreinheit wie während der
+Zeit ihrer Regel.
+
+<<v26>>
+26 Jedes Lager, auf das sie sich während der ganzen Dauer ihres
+Ausflusses legt, ist so wie ihr Lager, auf dem sie während ihrer Regel
+liegt. Jeder Gegenstand, auf den sie sich setzt, wird unrein wie bei der
+Unreinheit ihrer Regel.
+
+<<v27>>
+27 Jeder, der diese Gegenstände berührt, wird unrein; er muss seine
+Kleider waschen, sich in Wasser baden und ist unrein bis zum Abend.
+
+<<v28>>
+28 Ist sie von ihrem Ausfluss rein, soll sie sieben Tage zählen und dann
+rein sein.
+
+<<v29>>
+29 Am achten Tag soll sie zwei Turteltauben oder zwei junge Tauben
+nehmen und sie dem Priester zum Eingang des Offenbarungszeltes bringen.
+
+<<v30>>
+30 Der Priester soll die eine als Sündopfer und die andere als
+Brandopfer verwenden. Er soll sie so vor dem Herrn wegen ihres
+verunreinigenden Ausflusses entsühnen.
+
+<<v31>>
+31 Ihr sollt die Israeliten vor ihrer Unreinheit warnen, damit sie nicht
+in ihr sterben müssen, weil sie meine Wohnstätte in ihrer Mitte
+verunreinigen.
+
+<<v32>>
+32 Das ist das Gesetz für einen Mann, der einen Ausfluss hat, für einen,
+den ein Samenerguss unrein gemacht hat,
+
+<<v33>>
+33 und für die Frau in der Unreinheit ihrer Regel, also für den Mann
+oder die Frau mit Ausfluss und den Mann, der mit einer unreinen Frau
+schläft.\\
+\\
+
+
+* Footnotes
+
+[fn:1] «Ausfluss aus dem Körper» sind alle krankhaften
+Ausflüsse aus den natürlichen Körperöffnungen und aus ständig nässenden
+Fisteln. Dazu und zu 15,19-33 vgl. die Einleitung. 

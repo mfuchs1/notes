@@ -1,0 +1,127 @@
+#+TITLE: Ps 92 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-05 Mo 16:29]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 92.html
+
+* Ps 92
+
+<<verses>>
+
+<<v1>>
+* Ein Loblied auf die Treue Gottes
+
+1 [Ein Psalm. Ein Lied für den Sabbattag.]\\
+\\
+
+<<v2>>
+2 Wie schön ist es, dem Herrn zu danken, /\\
+ deinem Namen, du Höchster, zu singen, [fn:1]\\
+\\
+
+<<v3>>
+3 am Morgen deine Huld zu verkünden /\\
+ und in den Nächten deine Treue\\
+\\
+
+<<v4>>
+4 zur zehnsaitigen Laute, zur Harfe, /\\
+ zum Klang der Zither.\\
+\\
+
+<<v5>>
+5 Denn du hast mich durch deine Taten froh gemacht; /\\
+ Herr, ich will jubeln über die Werke deiner Hände.\\
+\\
+
+<<v6>>
+6 Wie groß sind deine Werke, o Herr, /\\
+ wie tief deine Gedanken! [fn:2]\\
+\\
+
+<<v7>>
+7 Ein Mensch ohne Einsicht erkennt das nicht, /\\
+ ein Tor kann es nicht verstehen. [fn:3]\\
+\\
+
+<<v8>>
+8 Wenn auch die Frevler gedeihen /\\
+ und alle, die Unrecht tun, wachsen, /\\
+ so nur, damit du sie für immer vernichtest. [fn:4] [fn:5]\\
+\\
+
+<<v9>>
+9 Herr, du bist der Höchste, /\\
+ du bleibst auf ewig.\\
+\\
+
+<<v10>>
+10 Doch deine Feinde, Herr, wahrhaftig, deine Feinde vergehen; /\\
+ auseinander getrieben werden alle, die Unrecht tun. [fn:6]\\
+\\
+
+<<v11>>
+11 Du machtest mich stark wie einen Stier, /\\
+ du salbtest mich mit frischem Öl. [fn:7] [fn:8]\\
+\\
+
+<<v12>>
+12 Mein Auge blickt herab auf meine Verfolger, /\\
+ auf alle, die sich gegen mich erheben; /\\
+ mein Ohr hört vom Geschick der Bösen. [fn:9]\\
+\\
+
+<<v13>>
+13 Der Gerechte gedeiht wie die Palme, /\\
+ er wächst wie die Zedern des Libanon. [fn:10]\\
+\\
+
+<<v14>>
+14 Gepflanzt im Haus des Herrn, /\\
+ gedeihen sie in den Vorhöfen unseres Gottes. [fn:11]\\
+\\
+
+<<v15>>
+15 Sie tragen Frucht noch im Alter /\\
+ und bleiben voll Saft und Frische;\\
+\\
+
+<<v16>>
+16 sie verkünden: Gerecht ist der Herr; /\\
+ mein Fels ist er, an ihm ist kein Unrecht. [fn:12]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_33.org::v1][33,1-3]]
+
+[fn:2] [[file:Ps_104.org::v24][104,24]]; [[file:Ps_139.org::v17][139,17f]]
+
+[fn:3] [[file:Weish_13.org::v1][Weish 13,1]]
+
+[fn:4] [[file:Ps_37.org::v35][37,35f]]
+
+[fn:5] Wörtlich: Wenn auch die Frevler aufsprießen wie Gras.
+
+[fn:6] [[file:Ps_68.org::v2][68,2f]]; [[file:Ps_125.org::v5][125,5]]
+
+[fn:7] [[file:Ps_23.org::v5][23,5]]
+
+[fn:8] Nach S und der aramäischen Übersetzung; H: übergossen
+werde ich mit Öl.
+
+[fn:9] [[file:Ps_54.org::v9][54,9]]
+
+[fn:10] [[file:Ps_1.org::v3][1,3]]
+
+[fn:11] [[file:Ps_52.org::v10][52,10]]
+
+[fn:12] [[file:Ps_18.org::v3][18,3]]; [[file:Ps_18.org::v47][18,47]]; [[file:Ps_19.org::v15][19,15]]; [[file:Ps_28.org::v1][28,1]]; [[file:Ps_42.org::v10][42,10]]; [[file:Ps_62.org::v8][62,8]]; [[file:Ps_78.org::v35][78,35]]; [[file:Ps_94.org::v22][94,22]];
+[[file:Ps_95.org::v1][95,1]]; [[file:Ps_144.org::v1][144,1]]; [[file:Gen_49.org::v24][Gen 49,24]]; [[file:Dtn_32.org::v4][Dtn 32,4]].[[file:Dtn_32.org::v15][15]].[[file:Dtn_32.org::v18][18]].[[file:Dtn_32.org::v37][37]]

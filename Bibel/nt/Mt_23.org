@@ -1,0 +1,282 @@
+:PROPERTIES:
+:ID:       3a14271b-21ce-4276-80c2-cc26268b5cb2
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Matthäus* --
+[[file:Mt_1.html][1]] ... [[file:Mt_21.html][21]]
+[[file:Mt_22.html][22]] *23* [[file:Mt_24.html][24]]
+[[file:Mt_25.html][25]] ... [[file:Mt_28.html][28]]
+
+--------------
+
+* Mt 23
+  :PROPERTIES:
+  :CUSTOM_ID: mt-23
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Worte gegen die Schriftgelehrten und die Pharisäer: 23,1-39
+     :PROPERTIES:
+     :CUSTOM_ID: worte-gegen-die-schriftgelehrten-und-die-pharisäer-231-39
+     :END:
+1 Darauf wandte sich Jesus an das Volk und an seine Jünger
+^{[[#fn1][1]][[#fn2][2]][[#fn3][3]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 284\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 und sagte: Die Schriftgelehrten und die Pharisäer haben sich auf den
+Stuhl des Mose gesetzt. ^{[[#fn4][4]]}
+
+<<v3>>
+3 Tut und befolgt also alles, was sie euch sagen, aber richtet euch
+nicht nach dem, was sie tun; denn sie reden nur, tun selbst aber nicht,
+was sie sagen. ^{[[#fn5][5]]}
+
+<<v4>>
+4 Sie schnüren schwere Lasten zusammen und legen sie den Menschen auf
+die Schultern, wollen selber aber keinen Finger rühren, um die Lasten zu
+tragen. ^{[[#fn6][6]]}
+
+<<v5>>
+5 Alles, was sie tun, tun sie nur, damit die Menschen es sehen: Sie
+machen ihre Gebetsriemen breit und die Quasten an ihren Gewändern lang,
+^{[[#fn7][7]]}
+
+<<v6>>
+6 bei jedem Festmahl möchten sie den Ehrenplatz und in der Synagoge die
+vordersten Sitze haben, ^{[[#fn8][8]]}
+
+<<v7>>
+7 und auf den Straßen und Plätzen lassen sie sich gern grüßen und von
+den Leuten Rabbi (Meister) nennen.
+
+<<v8>>
+8 Ihr aber sollt euch nicht Rabbi nennen lassen; denn nur einer ist euer
+Meister, ihr alle aber seid Brüder. ^{[[#fn9][9]]}
+
+<<v9>>
+9 Auch sollt ihr niemand auf Erden euren Vater nennen; denn nur einer
+ist euer Vater, der im Himmel.
+
+<<v10>>
+10 Auch sollt ihr euch nicht Lehrer nennen lassen; denn nur einer ist
+euer Lehrer, Christus.
+
+<<v11>>
+11 Der Größte von euch soll euer Diener sein.
+^{[[#fn10][10]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 313\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v12>>
+12 Denn wer sich selbst erhöht, wird erniedrigt, und wer sich selbst
+erniedrigt, wird erhöht werden. ^{[[#fn11][11]]}
+
+<<v13>>
+13 Weh euch, ihr Schriftgelehrten und Pharisäer, ihr Heuchler! Ihr
+verschließt den Menschen das Himmelreich. Ihr selbst geht nicht hinein;
+aber ihr lasst auch die nicht hinein, die hineingehen wollen.
+^{[[#fn12][12]]}
+
+<<v14>>
+14 [] ^{[[#fn13][13]]}
+
+<<v15>>
+15 Weh euch, ihr Schriftgelehrten und Pharisäer, ihr Heuchler! Ihr zieht
+über Land und Meer, um einen einzigen Menschen für euren Glauben zu
+gewinnen; und wenn er gewonnen ist, dann macht ihr ihn zu einem Sohn der
+Hölle, der doppelt so schlimm ist wie ihr selbst.
+
+<<v16>>
+16 Weh euch, ihr seid blinde Führer! Ihr sagt: Wenn einer beim Tempel
+schwört, so ist das kein Eid; wer aber beim Gold des Tempels schwört,
+der ist an seinen Eid gebunden. ^{[[#fn14][14]]}
+
+<<v17>>
+17 Ihr blinden Narren! Was ist wichtiger: das Gold oder der Tempel, der
+das Gold erst heilig macht?
+
+<<v18>>
+18 Auch sagt ihr: Wenn einer beim Altar schwört, so ist das kein Eid;
+wer aber bei dem Opfer schwört, das auf dem Altar liegt, der ist an
+seinen Eid gebunden.
+
+<<v19>>
+19 Ihr Blinden! Was ist wichtiger: das Opfer oder der Altar, der das
+Opfer erst heilig macht?
+
+<<v20>>
+20 Wer beim Altar schwört, der schwört bei ihm und bei allem, was darauf
+liegt.
+
+<<v21>>
+21 Und wer beim Tempel schwört, der schwört bei ihm und bei dem, der
+darin wohnt.
+
+<<v22>>
+22 Und wer beim Himmel schwört, der schwört beim Thron Gottes und bei
+dem, der darauf sitzt.
+
+<<v23>>
+23 Weh euch, ihr Schriftgelehrten und Pharisäer, ihr Heuchler! Ihr gebt
+den Zehnten von Minze, Dill und Kümmel und lasst das Wichtigste im
+Gesetz außer Acht: Gerechtigkeit, Barmherzigkeit und Treue. Man muss das
+eine tun, ohne das andere zu lassen. ^{[[#fn15][15]]}
+
+<<v24>>
+24 Blinde Führer seid ihr: Ihr siebt Mücken aus und verschluckt Kamele.
+
+<<v25>>
+25 Weh euch, ihr Schriftgelehrten und Pharisäer, ihr Heuchler! Ihr
+haltet Becher und Schüsseln außen sauber, innen aber sind sie voll von
+dem, was ihr in eurer Maßlosigkeit zusammengeraubt habt.
+^{[[#fn16][16]]}
+
+<<v26>>
+26 Du blinder Pharisäer! Mach den Becher zuerst innen sauber, dann ist
+er auch außen rein.
+
+<<v27>>
+27 Weh euch, ihr Schriftgelehrten und Pharisäer, ihr Heuchler! Ihr seid
+wie die Gräber, die außen weiß angestrichen sind und schön aussehen;
+innen aber sind sie voll Knochen, Schmutz und Verwesung.
+^{[[#fn17][17]]}
+
+<<v28>>
+28 So erscheint auch ihr von außen den Menschen gerecht, innen aber seid
+ihr voll Heuchelei und Ungehorsam gegen Gottes Gesetz. ^{[[#fn18][18]]}
+
+<<v29>>
+29 Weh euch, ihr Schriftgelehrten und Pharisäer, ihr Heuchler! Ihr
+errichtet den Propheten Grabstätten und schmückt die Denkmäler der
+Gerechten
+
+<<v30>>
+30 und sagt dabei: Wenn wir in den Tagen unserer Väter gelebt hätten,
+wären wir nicht wie sie am Tod der Propheten schuldig geworden.
+^{[[#fn19][19]][[#fn20][20]]}
+
+<<v31>>
+31 Damit bestätigt ihr selbst, dass ihr die Söhne der Prophetenmörder
+seid.
+
+<<v32>>
+32 Macht nur das Maß eurer Väter voll!
+
+<<v33>>
+33 Ihr Nattern, ihr Schlangenbrut! Wie wollt ihr dem Strafgericht der
+Hölle entrinnen? ^{[[#fn21][21]]}
+
+<<v34>>
+34 Darum hört: Ich sende Propheten, Weise und Schriftgelehrte zu euch;
+ihr aber werdet einige von ihnen töten, ja sogar kreuzigen, andere in
+euren Synagogen auspeitschen und von Stadt zu Stadt verfolgen.
+^{[[#fn22][22]]}
+
+<<v35>>
+35 So wird all das unschuldige Blut über euch kommen, das auf Erden
+vergossen worden ist, vom Blut Abels, des Gerechten, bis zum Blut des
+Zacharias, Barachias' Sohn, den ihr im Vorhof zwischen dem Tempelgebäude
+und dem Altar ermordet habt. ^{[[#fn23][23]][[#fn24][24]]}
+
+<<v36>>
+36 Amen, das sage ich euch: Das alles wird über diese Generation kommen.
+
+<<v37>>
+37 Jerusalem, Jerusalem, du tötest die Propheten und steinigst die
+Boten, die zu dir gesandt sind. Wie oft wollte ich deine Kinder um mich
+sammeln, so wie eine Henne ihre Küken unter ihre Flügel nimmt; aber ihr
+habt nicht gewollt. ^{[[#fn25][25]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 285\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v38>>
+38 Darum wird euer Haus (von Gott) verlassen.
+^{[[#fn26][26]][[#fn27][27]]}
+
+<<v39>>
+39 Und ich sage euch: Von jetzt an werdet ihr mich nicht mehr sehen, bis
+ihr ruft: /Gesegnet sei er,der kommt im Namen des Herrn!/
+^{[[#fn28][28]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-36) Mk 12,37b-40; Lk 20,45-47; 11,39-52
+
+^{[[#fnm2][2]]} 1-39: Die große Rede Jesu gegen die Schriftgelehrten und
+die Pharisäer verdankt ihre heutige Gestalt der Hand des Evangelisten.
+Sie ist gegliedert durch 7 Weherufe (VV. 13.15.16.23.25.27.29) und wird
+abgeschlossen durch ein Drohwort gegen Jerusalem. In V. 39 klingt die
+Hoffnung an, dass auch Israel einst Jesus als Messias anerkennen wird.
+
+^{[[#fnm3][3]]} ℘ ⇨Esyn: Synopse Nr. 284
+
+^{[[#fnm4][4]]} Als «Stuhl des Mose» wurde in den Synagogen ein
+steinerner Ehrensessel bezeichnet, auf den sich die Schriftgelehrten bei
+der Auslegung des Alten Testamentes setzten. Es war das Zeichen ihrer
+religiösen Lehrautorität.
+
+^{[[#fnm5][5]]} ℘ Mal 2,7f
+
+^{[[#fnm6][6]]} Die «schweren Lasten» sind die vielen Gebote und
+Verbote, die die Schriftgelehrten aus dem Alten Testament, vor allem aus
+dem Gesetz des Mose, ableiteten. Zur Zeit Jesu zählte man 613 solcher
+heiligen Vorschriften.
+
+^{[[#fnm7][7]]} ℘ Ex 13,9; Num 15,38f
+
+^{[[#fnm8][8]]} ℘ Lk 14,7
+
+^{[[#fnm9][9]]} ℘ Joh 13,13
+
+^{[[#fnm10][10]]} ℘ 20,26f; Mk 9,35; 10,43; Lk 9,48; 22,26 ⇨Esyn:
+Synopse Nr. 313
+
+^{[[#fnm11][11]]} ℘ Lk 14,11; 18,14
+
+^{[[#fnm12][12]]} ℘ Lk 11,52
+
+^{[[#fnm13][13]]} Spätere Textzeugen fügen aus Mk 12,40 noch hinzu: Weh
+euch, ihr Schriftgelehrten und Pharisäer, ihr Heuchler! Ihr bringt die
+Witwen um ihre Häuser und verrichtet lange, scheinheilige Gebete.
+Deshalb wird das Urteil, das euch erwartet, um so härter sein.
+
+^{[[#fnm14][14]]} ℘ 5,34; (16-22) 5,34-37
+
+^{[[#fnm15][15]]} ℘ Lev 27,30; Lk 18,12
+
+^{[[#fnm16][16]]} ℘ Mk 7,4
+
+^{[[#fnm17][17]]} ℘ Apg 23,3
+
+^{[[#fnm18][18]]} ℘ Lk 16,15
+
+^{[[#fnm19][19]]} ℘ 5,12; Apg 7,52
+
+^{[[#fnm20][20]]} am Tod, wörtlich: am Blut.
+
+^{[[#fnm21][21]]} ℘ 3,7
+
+^{[[#fnm22][22]]} ℘ 1 Thess 2,15
+
+^{[[#fnm23][23]]} ℘ Gen 4,8.10; 2 Chr 24,20-22
+
+^{[[#fnm24][24]]} Hier liegt eine Verwechslung vor zwischen Secharja
+(griech. Zacharias), dem Sohn Jojadas, der nach 2 Chr 24,20-22 ermordet
+wurde, und dem Propheten Sacharja, dem Sohn des Berechja (griech.
+Barachias), Sach 1,1.7.
+
+^{[[#fnm25][25]]} ℘ (37-39) Lk 13,34f ⇨Esyn: Synopse Nr. 285
+
+^{[[#fnm26][26]]} ℘ Jer 12,7; 22,5; Ps 69,26
+
+^{[[#fnm27][27]]} Wörtlich: Darum wird euch euer Haus überlassen.
+Zahlreiche Textzeugen haben stattdessen: . . . verödet überlassen.
+
+^{[[#fnm28][28]]} ℘ Ps 118,26; Mt 21,9

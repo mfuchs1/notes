@@ -1,0 +1,292 @@
+:PROPERTIES:
+:ID:       51a47916-250f-4124-bf8d-8c9a823750bf
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Johannes* --
+[[file:Joh_1.html][1]] ... [[file:Joh_8.html][8]] [[file:Joh_9.html][9]]
+*10* [[file:Joh_11.html][11]] [[file:Joh_12.html][12]] ...
+[[file:Joh_21.html][21]]
+
+--------------
+
+* Joh 10
+  :PROPERTIES:
+  :CUSTOM_ID: joh-10
+  :END:
+
+<<verses>>
+
+<<v1>>
+*** Die Bildworte vom Hirten und von den Schafen: 10,1-39
+    :PROPERTIES:
+    :CUSTOM_ID: die-bildworte-vom-hirten-und-von-den-schafen-101-39
+    :END:
+**** Der gute Hirt als Gegenbild zu Dieben und Räubern: 10,1-10
+     :PROPERTIES:
+     :CUSTOM_ID: der-gute-hirt-als-gegenbild-zu-dieben-und-räubern-101-10
+     :END:
+1 Amen, amen, das sage ich euch: Wer in den Schafstall nicht durch die
+Tür hineingeht, sondern anderswo einsteigt, der ist ein Dieb und ein
+Räuber. ^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 249\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Wer aber durch die Tür hineingeht, ist der Hirt der Schafe.
+
+<<v3>>
+3 Ihm öffnet der Türhüter und die Schafe hören auf seine Stimme; er ruft
+die Schafe, die ihm gehören, einzeln beim Namen und führt sie hinaus.
+
+<<v4>>
+4 Wenn er alle seine Schafe hinausgetrieben hat, geht er ihnen voraus,
+und die Schafe folgen ihm; denn sie kennen seine Stimme.
+
+<<v5>>
+5 Einem Fremden aber werden sie nicht folgen, sondern sie werden vor ihm
+fliehen, weil sie die Stimme des Fremden nicht kennen.
+
+<<v6>>
+6 Dieses Gleichnis erzählte ihnen Jesus; aber sie verstanden nicht den
+Sinn dessen, was er ihnen gesagt hatte. ^{[[#fn2][2]]}
+
+<<v7>>
+7 Weiter sagte Jesus zu ihnen: Amen, amen, ich sage euch: Ich bin die
+Tür zu den Schafen. ^{[[#fn3][3]]}
+
+<<v8>>
+8 Alle, die vor mir kamen, sind Diebe und Räuber; aber die Schafe haben
+nicht auf sie gehört. ^{[[#fn4][4]]}
+
+<<v9>>
+9 Ich bin die Tür; wer durch mich hineingeht, wird gerettet werden; er
+wird ein- und ausgehen und Weide finden. ^{[[#fn5][5]]}
+
+<<v10>>
+10 Der Dieb kommt nur, um zu stehlen, zu schlachten und zu vernichten;
+ich bin gekommen, damit sie das Leben haben und es in Fülle haben.\\
+\\
+
+<<v11>>
+**** Der gute Hirt als Gegenbild zum Tagelöhner: 10,11-21
+     :PROPERTIES:
+     :CUSTOM_ID: der-gute-hirt-als-gegenbild-zum-tagelöhner-1011-21
+     :END:
+11 Ich bin der gute Hirt. Der gute Hirt gibt sein Leben hin für die
+Schafe. ^{[[#fn6][6]]}
+
+<<v12>>
+12 Der bezahlte Knecht aber, der nicht Hirt ist und dem die Schafe nicht
+gehören, lässt die Schafe im Stich und flieht, wenn er den Wolf kommen
+sieht; und der Wolf reißt sie und jagt sie auseinander. Er flieht,
+
+<<v13>>
+13 weil er nur ein bezahlter Knecht ist und ihm an den Schafen nichts
+liegt.
+
+<<v14>>
+14 Ich bin der gute Hirt; ich kenne die Meinen und die Meinen kennen
+mich,
+
+<<v15>>
+15 wie mich der Vater kennt und ich den Vater kenne; und ich gebe mein
+Leben hin für die Schafe. ^{[[#fn7][7]]}
+
+<<v16>>
+16 Ich habe noch andere Schafe, die nicht aus diesem Stall sind; auch
+sie muss ich führen und sie werden auf meine Stimme hören; dann wird es
+nur eine Herde geben und einen Hirten.
+
+<<v17>>
+17 Deshalb liebt mich der Vater, weil ich mein Leben hingebe, um es
+wieder zu nehmen. ^{[[#fn8][8]]}
+
+<<v18>>
+18 Niemand entreißt es mir, sondern ich gebe es aus freiem Willen hin.
+Ich habe Macht, es hinzugeben, und ich habe Macht, es wieder zu nehmen.
+Diesen Auftrag habe ich von meinem Vater empfangen. ^{[[#fn9][9]]}
+
+<<v19>>
+19 Wegen dieser Rede kam es unter den Juden erneut zu einer Spaltung.
+^{[[#fn10][10]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 250\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v20>>
+20 Viele von ihnen sagten: Er ist von einem Dämon besessen und redet im
+Wahn. Warum hört ihr ihm zu? ^{[[#fn11][11]]}
+
+<<v21>>
+21 Andere sagten: So redet kein Besessener. Kann ein Dämon die Augen von
+Blinden öffnen?\\
+\\
+
+<<v22>>
+**** Das Streitgespräch beim Tempelweihfest: 10,22-39
+     :PROPERTIES:
+     :CUSTOM_ID: das-streitgespräch-beim-tempelweihfest-1022-39
+     :END:
+22 Um diese Zeit fand in Jerusalem das Tempelweihfest statt. Es war
+Winter, ^{[[#fn12][12]][[#fn13][13]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 257\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v23>>
+23 und Jesus ging im Tempel in der Halle Salomos auf und ab.
+^{[[#fn14][14]]}
+
+<<v24>>
+24 Da umringten ihn die Juden und fragten ihn: Wie lange noch willst du
+uns hinhalten? Wenn du der Messias bist, sag es uns offen!
+
+<<v25>>
+25 Jesus antwortete ihnen: Ich habe es euch gesagt, aber ihr glaubt
+nicht. Die Werke, die ich im Namen meines Vaters vollbringe, legen
+Zeugnis für mich ab; ^{[[#fn15][15]]}
+
+<<v26>>
+26 ihr aber glaubt nicht, weil ihr nicht zu meinen Schafen gehört.
+
+<<v27>>
+27 Meine Schafe hören auf meine Stimme; ich kenne sie und sie folgen
+mir.
+
+<<v28>>
+28 Ich gebe ihnen ewiges Leben. Sie werden niemals zugrunde gehen und
+niemand wird sie meiner Hand entreißen. ^{[[#fn16][16]]}
+
+<<v29>>
+29 Mein Vater, der sie mir gab, ist größer als alle und niemand kann sie
+der Hand meines Vaters entreißen. ^{[[#fn17][17]]}
+
+<<v30>>
+30 Ich und der Vater sind eins.
+
+<<v31>>
+31 Da hoben die Juden wiederum Steine auf, um ihn zu steinigen.
+^{[[#fn18][18]]}
+
+<<v32>>
+32 Jesus hielt ihnen entgegen: Viele gute Werke habe ich im Auftrag des
+Vaters vor euren Augen getan. Für welches dieser Werke wollt ihr mich
+steinigen?
+
+<<v33>>
+33 Die Juden antworteten ihm: Wir steinigen dich nicht wegen eines guten
+Werkes, sondern wegen Gotteslästerung; denn du bist nur ein Mensch und
+machst dich selbst zu Gott.
+
+<<v34>>
+34 Jesus erwiderte ihnen: Heißt es nicht in eurem Gesetz: /Ich habe
+gesagt: Ihr seid Götter?/ ^{[[#fn19][19]][[#fn20][20]]}
+
+<<v35>>
+35 Wenn er jene Menschen Götter genannt hat, an die das Wort Gottes
+ergangen ist, und wenn die Schrift nicht aufgehoben werden kann,
+
+<<v36>>
+36 dürft ihr dann von dem, den der Vater geheiligt und in die Welt
+gesandt hat, sagen: Du lästerst Gott - weil ich gesagt habe: Ich bin
+Gottes Sohn?
+
+<<v37>>
+37 Wenn ich nicht die Werke meines Vaters vollbringe, dann glaubt mir
+nicht.
+
+<<v38>>
+38 Aber wenn ich sie vollbringe, dann glaubt wenigstens den Werken, wenn
+ihr mir nicht glaubt. Dann werdet ihr erkennen und einsehen, dass in mir
+der Vater ist und ich im Vater bin. ^{[[#fn21][21]]}
+
+<<v39>>
+39 Wieder wollten sie ihn festnehmen; er aber entzog sich ihrem Zugriff.
+^{[[#fn22][22]]}\\
+\\
+
+<<v40>>
+*** Die Auferweckung des Lazarus und ihre Folgen: 10,40 - 11,57
+    :PROPERTIES:
+    :CUSTOM_ID: die-auferweckung-des-lazarus-und-ihre-folgen-1040---1157
+    :END:
+**** Jesus im Gebiet östlich des Jordan: 10,40-42
+     :PROPERTIES:
+     :CUSTOM_ID: jesus-im-gebiet-östlich-des-jordan-1040-42
+     :END:
+40 Dann ging Jesus wieder weg auf die andere Seite des Jordan, an den
+Ort, wo Johannes zuerst getauft hatte; und dort blieb er.
+^{[[#fn23][23]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 258\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v41>>
+41 Viele kamen zu ihm. Sie sagten: Johannes hat kein Zeichen getan; aber
+alles, was Johannes über diesen Mann gesagt hat, ist wahr.
+
+<<v42>>
+42 Und viele kamen dort zum Glauben an ihn.\\
+\\
+
+^{[[#fnm1][1]]} ℘ ⇨Esyn: Synopse Nr. 249
+
+^{[[#fnm2][2]]} ℘ 16,25
+
+^{[[#fnm3][3]]} ℘ Ps 118,20
+
+^{[[#fnm4][4]]} ℘ Jer 23,1f
+
+^{[[#fnm5][5]]} ℘ Jes 49,9f; Ez 34,12-15
+
+^{[[#fnm6][6]]} ℘ Ez 34,11-22; Mt 18,12-14; Lk 15,3-7
+
+^{[[#fnm7][7]]} ℘ Mt 11,25-27; Lk 10,21f
+
+^{[[#fnm8][8]]} ℘ 3,35
+
+^{[[#fnm9][9]]} ℘ 13,3
+
+^{[[#fnm10][10]]} ℘ ⇨Esyn: Synopse Nr. 250
+
+^{[[#fnm11][11]]} ℘ 7,20; 8,48.52; Mk 3,22.30
+
+^{[[#fnm12][12]]} Das Tempelweihfest wurde zur Erinnerung an die
+Reinigung des Tempels und die Errichtung eines neuen Altars nach der
+Entweihung durch den syrischen König Antiochus IV. (175-164 v. Chr.)
+gefeiert. Im Jahr 165 v. Chr. führte Judas Makkabäus diese Tempelweihe
+durch und ordnete an, das Fest jährlich acht Tage lang zu feiern. Der
+Festtermin war der 25. Kislew (im Dezember).
+
+^{[[#fnm13][13]]} ℘ ⇨Esyn: Synopse Nr. 257
+
+^{[[#fnm14][14]]} Die «Halle Salomos» war eine Säulenhalle an der
+östlichen Begrenzungsmauer des Tempels, angeblich schon von König Salomo
+erbaut. Sie diente später auch den ersten Christen in Jerusalem als
+Versammlungsort (Apg 5,12). Im Winter bot sie Schutz vor den rauen
+östlichen Winden.
+
+^{[[#fnm15][15]]} ℘ 5,36f
+
+^{[[#fnm16][16]]} ℘ 6,39; 17,12
+
+^{[[#fnm17][17]]} Nach anderen Textzeugen: Was mein Vater mir gegeben
+hat, ist größer als alles, und niemand kann es der Hand meines Vaters
+entreißen.
+
+^{[[#fnm18][18]]} ℘ 8,59
+
+^{[[#fnm19][19]]} ℘ Ps 82,6
+
+^{[[#fnm20][20]]} Das Zitat aus Ps 82,6 dient einem Schriftbeweis, der
+sich nur an den Wortlaut der Schriftstelle hält, ohne Rücksicht auf den
+Zusammenhang, aus dem das Wort stammt. Als «Götter» werden im Ps 82
+ungerechte Richter angesprochen.
+
+^{[[#fnm21][21]]} ℘ 14,10f; 17,21
+
+^{[[#fnm22][22]]} ℘ 8,59
+
+^{[[#fnm23][23]]} ℘ 1,28 ⇨Esyn: Synopse Nr. 258

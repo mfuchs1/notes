@@ -1,0 +1,263 @@
+:PROPERTIES:
+:ID:       9b15ef45-bd17-4b98-80c0-50dcdab97824
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Kolosser* -- *1*
+[[file:Kol_2.html][2]] [[file:Kol_3.html][3]] [[file:Kol_4.html][4]]
+
+--------------
+
+* Kol 1
+  :PROPERTIES:
+  :CUSTOM_ID: kol-1
+  :END:
+
+Kolossä war eine Stadt im westlichen Teil Kleinasiens (Phrygien), am
+Oberlauf des Flusses Lykos. In diesem Gebiet missionierte nicht Paulus,
+sondern in seinem Auftrag Epaphras, der im Brief lobend erwähnt wird
+(1,7f; 4,12f). Paulus ist der Gemeinde persönlich nicht bekannt (2,1).
+Der gedankliche Abstand zu den älteren Paulusbriefen macht es
+wahrscheinlich, dass der Brief spät, entweder in der Gefangenschaft des
+Apostels in Cäsarea (Apg 23,33 - 26,32) um 57-59 oder in Rom nach 59-60
+n. Chr. (Apg 28,16-31), abgefasst wurde. Manche Forscher halten den
+Brief für das Schreiben eines Paulusschülers. Den Anlass des Schreibens
+bildete eine in die Gemeinde eingedrungene Irrlehre, die eine
+merkwürdige Frömmigkeit in Verbindung mit Schicksalsglauben und
+Verehrung von Gestirnen vertrat, den Christusglauben jedoch bestehen
+ließ. Durch den Brief soll die Gemeinde zu der durch Epaphras
+vermittelten apostolischen Lehre zurückgeführt werden.\\
+\\
+Nach Dank und Fürbitte (1,3-11) erinnert der Apostel die Gemeinde mit
+einem Christuslied (1,12-20) an das verpflichtende Bekenntnis. Die
+Gedanken des Liedes werden auf die Gemeinde bezogen (1,21-23) und im
+Hinblick auf den Apostel und auf Christus vertieft (1,24 - 2,7). Es
+schließt sich die Warnung vor den Irrlehrern an, in der die Kolosser an
+die Gaben erinnert werden, die sie in der Taufe empfangen haben
+(2,8-23). Ein weiterer Teil enthält Ermahnungen für Getaufte (3,1-17),
+Belehrungen in Form einer »Haustafel«, die sich an die verschiedenen
+Stände richten (3,18 - 4,1), und Weisungen für die gesamte Gemeinde
+(4,2-6). Eine lange Liste von Grüßen und einzelnen persönlichen
+Anweisungen beendet das Schreiben (4,7-18).\\
+\\
+Für den Glauben der Kirche gewann der Brief Bedeutung wegen seiner
+Aussagen über Christus, die im Christuslied zusammengefasst sind.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Anschrift und Gruß: 1,1-2
+   :PROPERTIES:
+   :CUSTOM_ID: anschrift-und-gruß-11-2
+   :END:
+1 Paulus, durch den Willen Gottes Apostel Christi Jesu, und der Bruder
+Timotheus ^{[[#fn1][1]]}
+
+<<v2>>
+2 an die heiligen Brüder in Kolossä, die an Christus glauben. Gnade sei
+mit euch und Friede von Gott, unserem Vater. ^{[[#fn2][2]]}\\
+\\
+
+<<v3>>
+** Gottes Heilsplan: 1,3-23
+   :PROPERTIES:
+   :CUSTOM_ID: gottes-heilsplan-13-23
+   :END:
+**** Dank für die Gemeinde: 1,3-8
+     :PROPERTIES:
+     :CUSTOM_ID: dank-für-die-gemeinde-13-8
+     :END:
+3 Wir danken Gott, dem Vater Jesu Christi, unseres Herrn, jedes Mal,
+wenn wir für euch beten. ^{[[#fn3][3]]}
+
+<<v4>>
+4 Denn wir haben von eurem Glauben an Christus Jesus gehört und von der
+Liebe, die ihr zu allen Heiligen habt,
+
+<<v5>>
+5 weil im Himmel die Erfüllung eurer Hoffnung für euch bereitliegt.
+Schon früher habt ihr davon gehört durch das wahre Wort des Evangeliums,
+
+<<v6>>
+6 das zu euch gelangt ist. Wie in der ganzen Welt, so trägt es auch bei
+euch Frucht und wächst seit dem Tag, an dem ihr den Ruf der göttlichen
+Gnade vernommen und in Wahrheit erkannt habt.
+
+<<v7>>
+7 So habt ihr es von Epaphras, unserem geliebten Mitarbeiter, gelernt.
+Er ist an unserer Stelle ein treuer Diener Christi
+^{[[#fn4][4]][[#fn5][5]]}
+
+<<v8>>
+8 und er hat uns auch von der Liebe berichtet, die der Geist in euch
+bewirkt hat.\\
+\\
+
+<<v9>>
+**** Fürbitte für die Gemeinde: 1,9-11
+     :PROPERTIES:
+     :CUSTOM_ID: fürbitte-für-die-gemeinde-19-11
+     :END:
+9 Seit dem Tag, an dem wir davon erfahren haben, hören wir nicht auf,
+inständig für euch zu beten, dass ihr in aller Weisheit und Einsicht,
+die der Geist schenkt, den Willen des Herrn ganz erkennt. ^{[[#fn6][6]]}
+
+<<v10>>
+10 Denn ihr sollt ein Leben führen, das des Herrn würdig ist und in
+allem sein Gefallen findet. Ihr sollt Frucht bringen in jeder Art von
+guten Werken und wachsen in der Erkenntnis Gottes.
+
+<<v11>>
+11 Er gebe euch in der Macht seiner Herrlichkeit viel Kraft, damit ihr
+in allem Geduld und Ausdauer habt.\\
+\\
+
+<<v12>>
+**** Loblied auf Christus, das Ebenbild Gottes: 1,12-20
+     :PROPERTIES:
+     :CUSTOM_ID: loblied-auf-christus-das-ebenbild-gottes-112-20
+     :END:
+12 Dankt dem Vater mit Freude! Er hat euch fähig gemacht, Anteil zu
+haben am Los der Heiligen, die im Licht sind. ^{[[#fn7][7]]}
+
+<<v13>>
+13 Er hat uns der Macht der Finsternis entrissen und aufgenommen in das
+Reich seines geliebten Sohnes.
+
+<<v14>>
+14 Durch ihn haben wir die Erlösung, die Vergebung der Sünden.
+^{[[#fn8][8]]}\\
+\\
+
+<<v15>>
+15 Er ist das Ebenbild des unsichtbaren Gottes, /\\
+ der Erstgeborene der ganzen Schöpfung. ^{[[#fn9][9]][[#fn10][10]]}\\
+\\
+
+<<v16>>
+16 Denn in ihm wurde alles erschaffen /\\
+ im Himmel und auf Erden, /\\
+ das Sichtbare und das Unsichtbare, /\\
+ Throne und Herrschaften, Mächte und Gewalten; /\\
+ alles ist durch ihn und auf ihn hin geschaffen. ^{[[#fn11][11]]}\\
+\\
+
+<<v17>>
+17 Er ist vor aller Schöpfung, /\\
+ in ihm hat alles Bestand.\\
+\\
+
+<<v18>>
+18 Er ist das Haupt des Leibes, /\\
+ der Leib aber ist die Kirche. /\\
+ Er ist der Ursprung, /\\
+ der Erstgeborene der Toten; /\\
+ so hat er in allem den Vorrang. ^{[[#fn12][12]]}\\
+\\
+
+<<v19>>
+19 Denn Gott wollte mit seiner ganzen Fülle in ihm wohnen, /\\
+\\
+
+<<v20>>
+20 um durch ihn alles zu versöhnen. Alles im Himmel und auf Erden wollte
+er zu Christus führen, /\\
+ der Friede gestiftet hat am Kreuz durch sein Blut. ^{[[#fn13][13]]}\\
+\\
+
+<<v21>>
+**** Aufruf an die Gemeinde: 1,21-23
+     :PROPERTIES:
+     :CUSTOM_ID: aufruf-an-die-gemeinde-121-23
+     :END:
+21 Auch ihr standet ihm einst fremd und feindlich gegenüber; denn euer
+Sinn trieb euch zu bösen Taten. ^{[[#fn14][14]]}
+
+<<v22>>
+22 Jetzt aber hat er euch durch den Tod seines sterblichen Leibes
+versöhnt, um euch heilig, untadelig und schuldlos vor sich treten zu
+lassen.
+
+<<v23>>
+23 Doch müsst ihr unerschütterlich und unbeugsam am Glauben festhalten
+und dürft euch nicht von der Hoffnung abbringen lassen, die euch das
+Evangelium schenkt. In der ganzen Schöpfung unter dem Himmel wurde das
+Evangelium verkündet; ihr habt es gehört, und ich, Paulus, diene ihm.\\
+\\
+
+<<v24>>
+** Der Apostel und die Gemeinde: 1,24 - 2,23
+   :PROPERTIES:
+   :CUSTOM_ID: der-apostel-und-die-gemeinde-124---223
+   :END:
+**** Diener der Kirche für alle Menschen: 1,24-29
+     :PROPERTIES:
+     :CUSTOM_ID: diener-der-kirche-für-alle-menschen-124-29
+     :END:
+24 Jetzt freue ich mich in den Leiden, die ich für euch ertrage. Für den
+Leib Christi, die Kirche, ergänze ich in meinem irdischen Leben das, was
+an den Leiden Christi noch fehlt. ^{[[#fn15][15]]}
+
+<<v25>>
+25 Ich diene der Kirche durch das Amt, das Gott mir übertragen hat,
+damit ich euch das Wort Gottes in seiner Fülle verkündige,
+
+<<v26>>
+26 jenes Geheimnis, das seit ewigen Zeiten und Generationen verborgen
+war. Jetzt wurde es seinen Heiligen offenbart; ^{[[#fn16][16]]}
+
+<<v27>>
+27 Gott wollte ihnen zeigen, wie reich und herrlich dieses Geheimnis
+unter den Völkern ist: Christus ist unter euch, er ist die Hoffnung auf
+Herrlichkeit.
+
+<<v28>>
+28 Ihn verkündigen wir; wir ermahnen jeden Menschen und belehren jeden
+mit aller Weisheit, um dadurch alle in der Gemeinschaft mit Christus
+vollkommen zu machen. ^{[[#fn17][17]]}
+
+<<v29>>
+29 Dafür kämpfe ich unter vielen Mühen; denn seine Kraft wirkt mit
+großer Macht in mir.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Eph 1,1
+
+^{[[#fnm2][2]]} ℘ Röm 1,7
+
+^{[[#fnm3][3]]} ℘ Eph 1,15f
+
+^{[[#fnm4][4]]} ℘ Phlm 23
+
+^{[[#fnm5][5]]} Epaphras hatte als Missionar das Evangelium nach Kolossä
+gebracht.
+
+^{[[#fnm6][6]]} ℘ Eph 1,15-17
+
+^{[[#fnm7][7]]} Mit den «Heiligen» sind hier wahrscheinlich die Engel
+gemeint.
+
+^{[[#fnm8][8]]} ℘ Eph 1,7
+
+^{[[#fnm9][9]]} ℘ 2 Kor 4,4
+
+^{[[#fnm10][10]]} 15-20: Ein Hymnus, der Christus als den Mittler der
+Schöpfung und Erlösung preist. Der Hymnus wurde von Paulus vermutlich
+aus der frühchristlichen Liturgie übernommen.
+
+^{[[#fnm11][11]]} ℘ Eph 1,21
+
+^{[[#fnm12][12]]} ℘ Eph 1,22f
+
+^{[[#fnm13][13]]} ℘ Eph 1,10
+
+^{[[#fnm14][14]]} ℘ Eph 2,14-16
+
+^{[[#fnm15][15]]} Die Leiden, die der Apostel in Ausübung seines Amtes
+zu ertragen hat, werden im Blick auf den Tod Jesu als stellvertretender
+Dienst für die Kirche gedeutet.
+
+^{[[#fnm16][16]]} ℘ Röm 16,25f; 1 Kor 2,7; Eph 3,3.9
+
+^{[[#fnm17][17]]} ℘ Eph 4,13

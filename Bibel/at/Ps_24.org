@@ -1,0 +1,84 @@
+#+TITLE: Ps 24 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-11 Mo 10:04]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 24.html
+
+* Ps 24
+
+<<verses>>
+
+<<v1>>
+* Der Einzug des Herrn in sein Heiligtum
+
+1 [Ein Psalm Davids.] Dem Herrn gehört die Erde und was sie erfüllt, /\\
+ der Erdkreis und seine Bewohner. [fn:1]\\
+\\
+
+<<v2>>
+2 Denn er hat ihn auf Meere gegründet, /\\
+ ihn über Strömen befestigt.\\
+\\
+
+<<v3>>
+3 Wer darf hinaufziehn zum Berg des Herrn, /\\
+ wer darf stehn an seiner heiligen Stätte? [fn:2]\\
+\\
+
+<<v4>>
+4 Der reine Hände hat und ein lauteres Herz, /\\
+ der nicht betrügt und keinen Meineid schwört.\\
+\\
+
+<<v5>>
+5 Er wird Segen empfangen vom Herrn /\\
+ und Heil von Gott, seinem Helfer.\\
+\\
+
+<<v6>>
+6 Das sind die Menschen, die nach ihm fragen, /\\
+ die dein Antlitz suchen, Gott Jakobs. [Sela] [fn:3] [fn:4]\\
+\\
+
+<<v7>>
+7 Ihr Tore, hebt euch nach oben, /\\
+ hebt euch, ihr uralten Pforten; /\\
+ denn es kommt der König der Herrlichkeit. [fn:5]\\
+\\
+
+<<v8>>
+8 Wer ist der König der Herrlichkeit? /\\
+ Der Herr, stark und gewaltig, /\\
+ der Herr, mächtig im Kampf.\\
+\\
+
+<<v9>>
+9 Ihr Tore, hebt euch nach oben, /\\
+ hebt euch, ihr uralten Pforten; /\\
+ denn es kommt der König der Herrlichkeit.\\
+\\
+
+<<v10>>
+10 Wer ist der König der Herrlichkeit? /\\
+ Der Herr der Heerscharen, /\\
+ er ist der König der Herrlichkeit. [Sela]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_50.org::v12][50,12]]; [[file:Ps_89.org::v12][89,12]]; [[file:Ps_95.org::v5][95,5]]; [[file:Ps_136.org::v6][136,6]]; [[file:Ex_9.org::v29][Ex 9,29]]; [[file:Dtn_10.org::v14][Dtn 10,14]]; [[file:Jes_42.org::v5][Jes 42,5]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_10.org::v26][1 Kor 10,26]]
+
+[fn:2] (3-6) [[file:Ps_118.org::v19][118,19f]]
+
+[fn:3] [[file:Ps_27.org::v8][27,8]]
+
+[fn:4] Nach S.
+
+[fn:5] (7-10) [[file:Ps_10.org::v16][10,16]]; [[file:Ps_22.org::v29][22,29]]; [[file:Ps_29.org::v10][29,10]]; [[file:Ps_47.org::v8][47,8f]]; [[file:Ps_93.org::v1][93,1]]; [[file:Ps_96.org::v10][96,10]]; [[file:Ps_97.org::v1][97,1]];
+[[file:Ps_98.org::v6][98,6]]; [[file:Ps_99.org::v1][99,1]]; [[file:Ps_145.org::v11][145,11]]; [[file:Ps_146.org::v10][146,10]]; [[file:Ex_15.org::v18][Ex 15,18]]; [[file:Jes_52.org::v7][Jes 52,7]]

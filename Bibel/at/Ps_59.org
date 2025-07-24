@@ -1,0 +1,143 @@
+#+TITLE: Ps 59 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-06-03 Mo 09:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 59.html
+
+* Ps 59
+
+<<verses>>
+
+<<v1>>
+* Klage und Zuversicht eines Verfolgten
+
+1 [Für den Chormeister. Nach der Weise «Zerstöre nicht!». Ein Lied
+Davids, als Saul hinschickte und man das Haus bewachte, um ihn zu
+töten.] [fn:1]\\
+\\
+
+<<v2>>
+2 Entreiß mich den Feinden, mein Gott, /\\
+ beschütze mich vor meinen Gegnern!\\
+\\
+
+<<v3>>
+3 Entreiß mich denen, die Unrecht tun, /\\
+ rette mich vor den Mördern!\\
+\\
+
+<<v4>>
+4 Sieh her: Sie lauern mir auf, /\\
+ Mächtige stellen mir nach. Ich aber habe keinen Frevel begangen und
+keine Sünde; / [fn:2]\\
+\\
+
+<<v5>>
+5 Herr, ich bin ohne Schuld. Sie stürmen vor und stellen sich auf. /\\
+ Wach auf, komm mir entgegen, sieh her!\\
+\\
+
+<<v6>>
+6 Herr, du Gott der Heerscharen, Gott Israels, /\\
+ werde wach, suche alle Völker heim! /\\
+ Sei keinem treulosen Frevler gnädig! [Sela]\\
+\\
+
+<<v7>>
+7 Abend für Abend kommen sie wieder, /\\
+ sie kläffen wie Hunde, durchstreifen die Stadt.\\
+\\
+
+<<v8>>
+8 Ja, sie geifern mit ihrem Maul. /\\
+ Die Schwerter zwischen ihren Lippen, wer nimmt sie wahr? [fn:3]\\
+\\
+
+<<v9>>
+9 Du aber, Herr, verlachst sie; /\\
+ du spottest über alle Völker. [fn:4]\\
+\\
+
+<<v10>>
+10 Meine Stärke, an dich will ich mich halten, /\\
+ denn du, Gott, bist meine Burg. [fn:5] [fn:6]\\
+\\
+
+<<v11>>
+11 Mein huldreicher Gott kommt mir entgegen; /\\
+ Gott lässt mich herabsehen auf meine Gegner. [fn:7]\\
+\\
+
+<<v12>>
+12 Töte sie nicht, /\\
+ damit mein Volk nicht vergisst. In deiner Kraft zerstreue sie, /\\
+ wirf sie nieder, Herr, unser Schild!\\
+\\
+
+<<v13>>
+13 Wegen der Sünde ihres Mundes, wegen all ihrer Reden /\\
+ sollen sie sich in ihrem Hochmut verfangen; /\\
+ denn sie fluchen und verbreiten nur Lügen. [fn:8]\\
+\\
+
+<<v14>>
+14 Vernichte sie im Zorn, /\\
+ vernichte sie; sie sollen zugrunde gehen. Sie sollen erkennen, dass
+Gott der Herrscher in Jakob ist /\\
+ und bis an das Ende der Erde. [Sela] [fn:9]\\
+\\
+
+<<v15>>
+15 Abend für Abend kommen sie wieder, /\\
+ sie kläffen wie Hunde, durchstreifen die Stadt.\\
+\\
+
+<<v16>>
+16 Sie streunen umher, gierig nach Fraß; /\\
+ werden sie nicht satt, dann knurren sie. [fn:10]\\
+\\
+
+<<v17>>
+17 Ich aber will deine Macht besingen, /\\
+ will über deine Huld jubeln am Morgen. Denn du bist eine Burg für mich,
+/\\
+ bist meine Zuflucht am Tag der Not. [fn:11]\\
+\\
+
+<<v18>>
+18 Meine Stärke, dir will ich singen und spielen; /\\
+ denn du, Gott, bist meine Burg, mein huldreicher Gott.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_9.org::v11][1 Sam 19,11]]
+
+[fn:2] (4-5) [[file:Ps_26.org::v1][26,1]]
+
+[fn:3] [[file:Ps_52.org::v4][52,4]]; [[file:Ps_55.org::v22][55,22]]
+
+[fn:4] [[file:Ps_2.org::v4][2,4]]; [[file:Ps_37.org::v13][37,13]]; [[file:Weish_4.org::v18][Weish 4,18]]
+
+[fn:5] [[file:Ps_9.org::v10][9,10f]]
+
+[fn:6] Text korr. nach G und der aramäischen Übersetzung. Text
+korr. nach Hieronymus; H: denn Gott ist meine Burg.
+
+[fn:7] [[file:Ps_54.org::v9][54,9]]
+
+[fn:8] [[file:Spr_12.org::v13][Spr 12,13]]; [[file:Spr_18.org::v7][18,7]]
+
+[fn:9] [[file:Ps_83.org::v19][83,19]]
+
+[fn:10] Das hebräische Zeitwort ist doppeldeutig: sie
+verbringen die Nacht, oder: sie knurren.
+
+[fn:11] [[file:Ps_90.org::v14][90,14]]

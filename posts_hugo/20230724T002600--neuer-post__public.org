@@ -1,0 +1,17 @@
+#+title:      Neuer Post
+#+date:       [2023-07-24 Mo 00:26]
+#+filetags:   :public:
+#+identifier: 20230724T002600
+#+DESCRIPTION: This text was generated using the After Dark post archetype.
+#+HUGO_CATEGORIES: Emacs
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_BASE_DIR: /home/matthias/flying-toasters/
+#+AUTHOR: Matthias Fuchs
+
+* Erstens
+Wir haben uns heute Avatar Teil 2 angeschaut.
+
+* Zweitens
+Heute waren wir am Mattsee baden, und zwar nicht beim Strandbad, sondern auf der gegenüber liegenden Seite - Gerersdorf (?). Kleines Bad, aber sehr schön, sauber und das Wasser war so erfrischend.
+
+

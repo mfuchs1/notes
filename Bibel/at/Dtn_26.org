@@ -1,0 +1,162 @@
+#+TITLE: Dtn 26 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-30 Mo 15:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 26.html
+
+<<verses>>
+
+<<v1>>
+* Die Darbringung der Erstlingsfrüchte: 26,1-11
+
+1 Wenn du in das Land, das der Herr, dein Gott, dir als Erbbesitz gibt,
+hineinziehst, es in Besitz nimmst und darin wohnst, [fn:1]
+
+<<v2>>
+2 dann sollst du von den ersten Erträgen aller Feldfrüchte, die du in
+dem Land, das der Herr, dein Gott, dir gibt, eingebracht hast, etwas
+nehmen und in einen Korb legen. Dann sollst du zu der Stätte ziehen, die
+der Herr, dein Gott, auswählt, indem er dort seinen Namen wohnen lässt. [fn:2]
+
+<<v3>>
+3 Du sollst vor den Priester treten, der dann amtiert, und sollst zu ihm
+sagen: Heute bestätige ich vor dem Herrn, deinem Gott, dass ich in das
+Land gekommen bin, von dem ich weiß: Er hat unseren Vätern geschworen,
+es uns zu geben. [fn:3]
+
+<<v4>>
+4 Dann soll der Priester den Korb aus deiner Hand entgegennehmen und ihn
+vor den Altar des Herrn, deines Gottes, stellen.
+
+<<v5>>
+5 Du aber sollst vor dem Herrn, deinem Gott, folgendes Bekenntnis
+ablegen: Mein Vater war ein heimatloser Aramäer. Er zog nach Ägypten,
+lebte dort als Fremder mit wenigen Leuten und wurde dort zu einem
+großen, mächtigen und zahlreichen Volk. [fn:4]
+
+<<v6>>
+6 Die Ägypter behandelten uns schlecht, machten uns rechtlos und legten
+uns harte Fronarbeit auf. [fn:5]
+
+<<v7>>
+7 Wir schrien zum Herrn, dem Gott unserer Väter, und der Herr hörte
+unser Schreien und sah unsere Rechtlosigkeit, unsere Arbeitslast und
+unsere Bedrängnis. [fn:6]
+
+<<v8>>
+8 Der Herr führte uns mit starker Hand und hoch erhobenem Arm, unter
+großem Schrecken, unter Zeichen und Wundern aus Ägypten, [fn:7]
+
+<<v9>>
+9 er brachte uns an diese Stätte und gab uns dieses Land, ein Land, in
+dem Milch und Honig fließen. [fn:8]
+
+<<v10>>
+10 Und siehe, nun bringe ich hier die ersten Erträge von den Früchten
+des Landes, das du mir gegeben hast, Herr. Wenn du den Korb vor den
+Herrn, deinen Gott, gestellt hast, sollst du dich vor dem Herrn, deinem
+Gott, niederwerfen.
+
+<<v11>>
+11 Dann sollst du fröhlich sein und dich freuen über alles Gute, das der
+Herr, dein Gott, dir und deiner Familie gegeben hat: du, die Leviten und
+die Fremden in deiner Mitte. [fn:9]\\
+\\
+
+<<v12>>
+* Das Gebet nach der Ablieferung des Zehnten für die Armen: 26,12-15
+
+12 Wenn du im dritten Jahr, dem Zehntjahr, alle Zehntanteile von deiner
+Ernte vollständig ausgesondert und für die Leviten, Fremden, Waisen und
+Witwen abgeliefert hast und sie davon in deinen Stadtbereichen essen und
+satt werden, [fn:10]
+
+<<v13>>
+13 dann sollst du vor dem Herrn, deinem Gott, sagen: Ich habe alle
+heiligen Abgaben aus meinem Haus geschafft. Ich habe sie für die Leviten
+und die Fremden, für die Waisen und die Witwen gegeben, genau nach
+deinem Gebot, auf das du mich verpflichtet hast. Ich habe dein Gebot
+nicht übertreten und habe es nicht vergessen.
+
+<<v14>>
+14 Ich habe in der Trauerzeit nicht davon gegessen. Ich habe nichts
+davon weggeschafft, als ich unrein war. Ich habe nichts davon einem
+Toten gespendet. Ich habe auf die Stimme des Herrn, meines Gottes,
+gehört. Ich habe alles so gehalten, wie du es mir zur Pflicht gemacht
+hast.
+
+<<v15>>
+15 Blick von deiner heiligen Wohnung, vom Himmel, herab, und segne dein
+Volk Israel und das Land, das du uns gegeben hast, wie du es unseren
+Vätern geschworen hattest, das Land, wo Milch und Honig fließen. [fn:11]\\
+\\
+
+<<v16>>
+* Der Grund, das Gesetz zu halten: der Bund:
+
+16 Heute, an diesem Tag, verpflichtet dich der Herr, dein Gott, diese
+Gesetze und die Rechtsvorschriften zu halten. Du sollst auf sie achten
+und sie halten mit ganzem Herzen und mit ganzer Seele. [fn:12]
+
+<<v17>>
+17 Heute hast du der Erklärung des Herrn zugestimmt. Er hat dir erklärt:
+Er will dein Gott werden und du sollst auf seinen Wegen gehen, auf seine
+Gesetze, Gebote und Rechtsvorschriften achten und auf seine Stimme
+hören. [fn:13] [fn:14]
+
+<<v18>>
+18 Und der Herr hat heute deiner Erklärung zugestimmt. Du hast ihm
+erklärt: Du möchtest das Volk werden, das ihm persönlich gehört, wie er
+es dir zugesagt hat. Du willst auf alle seine Gebote achten; [fn:15]
+
+<<v19>>
+19 er soll dich über alle Völker, die er geschaffen hat, erheben - zum
+Lob, zum Ruhm, zur Zierde -; und du möchtest ein Volk werden, das ihm,
+dem Herrn, deinem Gott, heilig ist, wie er es zugesagt hat. [fn:16]\\
+\\
+
+* Footnotes
+
+[fn:1] (1-11) [[file:Dtn_14.org::v22][14,22-27]]; [[file:Dtn_18.org::v4][18,4]]; [[file:Ex_23.org::v19][Ex 23,19]]; [[file:Ex_34.org::v26][34,26]]
+
+[fn:2] [[file:Dtn_12.org::v10][12,10f]]
+
+[fn:3] [[file:Dtn_17.org::v9][17,9]]; [[file:Dtn_19.org::v17][19,17]]
+
+[fn:4] [[file:Gen_12.org::v10][Gen 12,10]]; [[file:Gen_18.org::v18][18,18]]; [[file:Gen_46.org::v3][46,3]]; [[file:Gen_47.org::v4][47,4]]; (5-8) [[file:Num_20.org::v15][Num 20,15f]]
+
+[fn:5] [[file:Ex_1.org::v11][Ex 1,11f]]; [[file:Ex_5.org::v9][5,9]].[[file:Ex_5.org::v23][23]]; (6-9) [[file:Ex_6.org::v21][6,21-23]]
+
+[fn:6] [[file:Ex_3.org::v7][Ex 3,7]].[[file:Ex_3.org::v9][9]]
+
+[fn:7] [[file:Ex_3.org::v19][Ex 3,19]]; [[file:Ex_4.org::v8][4,8f]].[[file:Ex_4.org::v21][21]]; [[file:Ex_8.org::v19][8,19]]; [[file:Ex_15.org::v11][15,11]].[[file:Ex_15.org::v16][16]]
+
+[fn:8] [[file:Dtn_6.org::v3][6,3]]; [[file:Ex_3.org::v8][Ex 3,8]]; [[file:Ex_23.org::v20][23,20]]
+
+[fn:9] [[file:Dtn_16.org::v14][16,14]]
+
+[fn:10] [[file:Dtn_14.org::v28][14,28f]]
+
+[fn:11] [[file:Dtn_28.org::v8][28,8]]
+
+[fn:12] [[file:Dtn_5.org::v1][5,1]]
+
+[fn:13] (17-19) [[file:Dtn_29.org::v12][29,12]]; [[file:2.Sam_7.org::v24][2 Sam 7,24]]
+
+[fn:14] 17-19: Diese in H sehr kompakten, die Gesetzessammlung
+abschließenden Sätze interpretieren das Gesetz als «Bund» zwischen Gott
+und Israel. Entsprechend der Struktur von Verträgen der damaligen Welt
+nennt jede der beiden Parteien sowohl ihre eigenen Verpflichtungen als
+auch die der Gegenseite. Hinter den Formulierungen für die Verpflichtung
+Gottes steht die Bundesformel: Ihr seid mein Volk und ich bin euer Gott
+(vgl. 29,12).
+
+[fn:15] (18-19) [[file:Dtn_7.org::v6][7,6]]
+
+[fn:16] [[file:Dtn_28.org::v1][28,1]].[[file:Dtn_28.org::v9][9]]

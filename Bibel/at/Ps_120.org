@@ -1,0 +1,69 @@
+#+TITLE: Ps 120 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 11:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 120.html
+
+* Ps 120
+
+<<verses>>
+
+<<v1>>
+* Ein Hilferuf gegen Verleumder
+
+1 [Ein Wallfahrtslied.] Ich rief zum Herrn in meiner Not /\\
+ und er hat mich erhört. [fn:1]\\
+\\
+
+<<v2>>
+2 Herr, rette mein Leben vor Lügnern, /\\
+ rette es vor falschen Zungen! [fn:2]\\
+\\
+
+<<v3>>
+3 Was soll er dir tun, was alles dir antun, /\\
+ du falsche Zunge?\\
+\\
+
+<<v4>>
+4 Scharfe Pfeile von Kriegerhand /\\
+ und glühende Ginsterkohlen dazu. [fn:3] [fn:4]\\
+\\
+
+<<v5>>
+5 Weh mir, dass ich als Fremder in Meschech bin /\\
+ und bei den Zelten von Kedar wohnen muss!\\
+\\
+
+<<v6>>
+6 Ich muss schon allzu lange wohnen /\\
+ bei Leuten, die den Frieden hassen. [fn:5]\\
+\\
+
+<<v7>>
+7 Ich verhalte mich friedlich; /\\
+ doch ich brauche nur zu reden, dann suchen sie Hader und Streit. [fn:6] [fn:7]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Jona_2.org::v3][Jona 2,3]]
+
+[fn:2] [[file:Ps_12.org::v3][12,3-5]]; [[file:Sir_51.org::v2][Sir 51,2]]
+
+[fn:3] [[file:Ps_140.org::v11][140,11]]
+
+[fn:4] Vorschlag für die Psalmodie: und glühende Kohlen dazu.
+
+[fn:5] [[file:Ps_35.org::v20][35,20]]; [[file:Ps_140.org::v3][140,3]]
+
+[fn:6] [[file:~/RoamNotes/notes/Bibel/nt/Röm_12.org::v18][Röm 12,18]]
+
+[fn:7] Text korr.; H: Ich (bin) Friede.

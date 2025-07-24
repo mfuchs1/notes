@@ -1,0 +1,199 @@
+#+TITLE: Spr 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-09-01 So 21:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 21.html
+
+* Spr 21
+
+<<verses>>
+
+<<v1>>
+1 Wie ein Wasserbach ist das Herz des Königs in der Hand des Herrn; /\\
+ er lenkt es, wohin er will.\\
+\\
+
+<<v2>>
+2 Jeder meint, sein Verhalten sei richtig, /\\
+ doch der Herr prüft die Herzen. [fn:1]\\
+\\
+
+<<v3>>
+3 Gerechtigkeit üben und Recht /\\
+ ist dem Herrn lieber als Schlachtopfer. [fn:2]\\
+\\
+
+<<v4>>
+4 Hoffart der Augen, Übermut des Herzens - /\\
+ die Leuchte der Frevler versagt.\\
+\\
+
+<<v5>>
+5 Die Pläne des Fleißigen bringen Gewinn, /\\
+ doch der hastige Mensch hat nur Mangel.\\
+\\
+
+<<v6>>
+6 Wer Schätze erwirbt mit verlogener Zunge, /\\
+ jagt nach dem Wind, er gerät in die Schlingen des Todes. [fn:3]\\
+\\
+
+<<v7>>
+7 Gewalttat reißt die Frevler hinweg, /\\
+ denn sie weigern sich, das Rechte zu tun.\\
+\\
+
+<<v8>>
+8 Der Weg des Unehrlichen ist gewunden, /\\
+ aber das Tun des Lauteren ist gerade.\\
+\\
+
+<<v9>>
+9 Besser in einer Ecke des Daches wohnen /\\
+ als eine zänkische Frau im gemeinsamen Haus. [fn:4]\\
+\\
+
+<<v10>>
+10 Das Verlangen des Frevlers geht nach dem Bösen, /\\
+ sein Nächster findet bei ihm kein Erbarmen.\\
+\\
+
+<<v11>>
+11 Muss der Zuchtlose büßen, /\\
+ so wird der Unerfahrene weise, /\\
+ belehrt man den Weisen, so nimmt er Einsicht an. [fn:5]\\
+\\
+
+<<v12>>
+12 Der Gerechte handelt klug am Haus des Frevlers, /\\
+ wenn er die Frevler ins Unheil stürzt. [fn:6]\\
+\\
+
+<<v13>>
+13 Wer sein Ohr verschließt vor dem Schreien des Armen, /\\
+ wird selbst nicht erhört, wenn er um Hilfe ruft.\\
+\\
+
+<<v14>>
+14 Eine heimliche Gabe besänftigt den Zorn, /\\
+ ein Geschenk aus dem Gewandbausch den heftigen Grimm. [fn:7]\\
+\\
+
+<<v15>>
+15 Der Gerechte freut sich, wenn Recht geschieht, /\\
+ doch den Übeltäter versetzt das in Schrecken.\\
+\\
+
+<<v16>>
+16 Wer abirrt vom Weg der Einsicht, /\\
+ wird bald in der Versammlung der Totengeister ruhen.\\
+\\
+
+<<v17>>
+17 Der Not verfällt, wer Vergnügen liebt, /\\
+ wer Wein und Salböl liebt, wird nicht reich.\\
+\\
+
+<<v18>>
+18 Für den Gerechten dient der Frevler als Lösegeld, /\\
+ anstelle des Redlichen der Treulose. [fn:8]\\
+\\
+
+<<v19>>
+19 Besser in der Wüste hausen /\\
+ als Ärger mit einer zänkischen Frau.\\
+\\
+
+<<v20>>
+20 Ein kostbarer Schatz ist in der Wohnung des Weisen, /\\
+ aber ein törichter Mensch vergeudet ihn.\\
+\\
+
+<<v21>>
+21 Wer nach Gerechtigkeit und Güte strebt, /\\
+ findet Leben und Ehre.\\
+\\
+
+<<v22>>
+22 Der Weise ersteigt die Stadt der Mächtigen /\\
+ und stürzt das Bollwerk, auf das sie vertraut. [fn:9]\\
+\\
+
+<<v23>>
+23 Wer seinen Mund und seine Zunge behütet, /\\
+ der behütet sein Leben vor Drangsal.\\
+\\
+
+<<v24>>
+24 Der Freche und Stolze, einen Zuchtlosen nennt man ihn, /\\
+ er handelt in maßlosem Übermut.\\
+\\
+
+<<v25>>
+25 Den Faulen bringt sein Begehren um, /\\
+ denn zu arbeiten weigern sich seine Hände;\\
+\\
+
+<<v26>>
+26 den ganzen Tag begehrt er voll Gier, /\\
+ der Gerechte aber gibt, ohne zu geizen.\\
+\\
+
+<<v27>>
+27 Das Opfer der Frevler ist (dem Herrn) ein Gräuel, /\\
+ zumal wenn es in schlechter Absicht dargebracht wird. [fn:10]\\
+\\
+
+<<v28>>
+28 Ein falscher Zeuge geht zugrunde, /\\
+ wer aber zu hören versteht, redet erfolgreich. [fn:11]\\
+\\
+
+<<v29>>
+29 Der Frevler zeigt Trotz in seiner Miene, /\\
+ der Redliche ordnet seine Wege.\\
+\\
+
+<<v30>>
+30 Keine Weisheit gibt es, keine Einsicht, /\\
+ keinen Rat gegenüber dem Herrn.\\
+\\
+
+<<v31>>
+31 Das Ross wird gerüstet für den Tag der Schlacht, /\\
+ doch der Sieg steht beim Herrn.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Spr_16.org::v2][16,2]]
+
+[fn:2] [[file:Ps_51.org::v18][Ps 51,18f]]; [[file:Hos_6.org::v6][Hos 6,6]]
+
+[fn:3] 6b: Text korr.; andere Übersetzungsmöglichkeit: wird wie
+ein Hauch verjagt in die Schlingen des Todes.
+
+[fn:4] [[file:Spr_25.org::v24][25,24]]
+
+[fn:5] [[file:Spr_19.org::v25][19,25]]
+
+[fn:6] 12a: Andere Übersetzungsmöglichkeit: Der Gerechte
+belehrt das Haus des Frevlers; oder: Der Gerechte gibt Acht auf ...
+
+[fn:7] [[file:Spr_17.org::v23][17,23]]
+
+[fn:8] Nach den Sprichwörtern würde schon auf dieser Erde am
+Ende alles gerecht ausgehen: Ijob und Koh bezweifeln das.
+
+[fn:9] [[file:Spr_24.org::v5][24,5]]; [[file:Koh_9.org::v14][Koh 9,14-18]]
+
+[fn:10] [[file:Spr_15.org::v8][15,8]]
+
+[fn:11] [[file:Spr_19.org::v5][19,5]].[[file:Spr_19.org::v9][9]]

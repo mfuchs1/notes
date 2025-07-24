@@ -1,0 +1,200 @@
+#+TITLE: Dtn 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-28 Sa 21:55]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 9.html
+
+
+<<verses>>
+
+<<v1>>
+* Kein Rechtsanspruch Israels auf das Land: 9,1-8
+
+1 Höre, Israel! Heute wirst du den Jordan überschreiten, um in das Land
+von Völkern, die größer und mächtiger sind als du, hineinzuziehen und
+ihren Besitz zu übernehmen. Du wirst in große Städte mit himmelhohen
+Mauern kommen, [fn:1]
+
+<<v2>>
+2 zu einem großen, hoch gewachsenen Volk, den Anakitern - du kennst ja
+die Redensart und hast sie oft gehört: Wer kann den Söhnen Anaks
+widerstehen? [fn:2]
+
+<<v3>>
+3 Heute wirst du erkennen, dass der Herr, dein Gott, wie ein
+verzehrendes Feuer selbst vor dir hinüberzieht. Er wird sie vernichten
+und er wird sie dir unterwerfen, sodass du sie unverzüglich vertreiben
+und austilgen kannst, wie es der Herr dir zugesagt hat. [fn:3]
+
+<<v4>>
+4 Wenn der Herr, dein Gott, sie vor dir herjagt, sollst du nicht meinen:
+Ich bin im Recht, daher lässt mich der Herr in das Land hineinziehen und
+es in Besitz nehmen; diese Völker sind im Unrecht, daher vertreibt sie
+der Herr vor mir. [fn:4]
+
+<<v5>>
+5 Denn nicht, weil du im Recht bist und die richtige Gesinnung hast,
+kannst du in ihr Land hineinziehen und es in Besitz nehmen. Vielmehr
+vertreibt der Herr, dein Gott, diese Völker vor dir, weil sie im Unrecht
+sind und weil der Herr die Zusage einlösen will, die er deinen Vätern
+Abraham, Isaak und Jakob mit einem Schwur bekräftigt hat. [fn:5]
+
+<<v6>>
+6 Du sollst erkennen: Du bist ein halsstarriges Volk. Daher kann dir der
+Herr, dein Gott, dieses prächtige Land nicht etwa aufgrund eines
+Rechtsanspruchs geben, damit du es in Besitz nimmst. [fn:6]
+
+<<v7>>
+7 Denk daran und vergiss nicht, dass du in der Wüste den Unwillen des
+Herrn, deines Gottes, erregt hast. Von dem Tag an, als du aus Ägypten
+auszogst, bis zur Ankunft an diesem Ort habt ihr euch dem Herrn ständig
+widersetzt. [fn:7]
+
+<<v8>>
+8 Vor allem am Horeb habt ihr den Unwillen des Herrn erregt. Damals
+grollte er euch so sehr, dass er euch vernichten wollte.\\
+\\
+
+<<v9>>
+* Der Bundesbruch und die Bundeserneuerung am Horeb: 9,9 - 10,11
+
+9 Als ich auf den Berg gestiegen war, um die Steintafeln
+entgegenzunehmen, die Tafeln des Bundes, den der Herr mit euch
+geschlossen hatte, blieb ich vierzig Tage und vierzig Nächte auf dem
+Berg, aß kein Brot und trank kein Wasser. [fn:8]
+
+<<v10>>
+10 Der Herr übergab mir die beiden Steintafeln, die mit dem Gottesfinger
+beschrieben waren. Auf den Tafeln standen alle die Worte, die der Herr
+am Tag der Versammlung auf dem Berg mitten aus dem Feuer zu euch
+gesprochen hatte. [fn:9]
+
+<<v11>>
+11 Es war am Ende der vierzig Tage und der vierzig Nächte, als mir der
+Herr die beiden Steintafeln, die Tafeln des Bundes, übergab
+
+<<v12>>
+12 und zu mir sagte: Steh auf, steig rasch hinunter, weg von hier; denn
+dein Volk, das du aus Ägypten geführt hast, läuft ins Verderben. Sie
+sind rasch von dem Weg abgewichen, den ich ihnen vorgeschrieben habe.
+Sie haben sich ein Bildnis gegossen.
+
+<<v13>>
+13 Weiter sagte der Herr zu mir: Ich habe mir dieses Volk angesehen. Ja,
+es ist ein halsstarriges Volk.
+
+<<v14>>
+14 Lass mich, damit ich sie vernichte, ihren Namen unter dem Himmel
+auslösche und dich zu einem Volk mache, das mächtiger und zahlreicher
+als dieses ist. [fn:10]
+
+<<v15>>
+15 Ich wandte mich um und stieg den Berg hinunter. Der Berg stand in
+Feuer. Ich trug die beiden Tafeln des Bundes auf meinen Armen.
+
+<<v16>>
+16 Und ich sah, was geschehen war: Ja, ihr hattet euch an dem Herrn,
+eurem Gott, versündigt, ihr hattet euch ein Kalb gegossen, ihr wart
+rasch von dem Weg abgewichen, den der Herr euch vorgeschrieben hatte.
+
+<<v17>>
+17 Ich packte die beiden Tafeln, die ich auf meinen Armen trug,
+schleuderte sie fort und zerschmetterte sie vor euren Augen.
+
+<<v18>>
+18 Dann warf ich mich vor dem Herrn nieder. Wie beim ersten Mal blieb
+ich vierzig Tage und vierzig Nächte vor ihm, aß kein Brot und trank kein
+Wasser, wegen all der Sünde, die ihr begangen hattet, indem ihr tatet,
+was in den Augen des Herrn böse ist, sodass ihr ihn erzürntet.
+
+<<v19>>
+19 Denn ich hatte Angst vor dem glühenden Zorn des Herrn. Er war voll
+Unwillen gegen euch und wollte euch vernichten. Doch der Herr erhörte
+mich auch diesmal. [fn:11]
+
+<<v20>>
+20 [Auch dem Aaron grollte der Herr sehr und er wollte ihn vernichten.
+Damals betete ich auch für Aaron.]
+
+<<v21>>
+21 Ich nahm das Kalb, die Sünde, die ihr euch gemacht hattet, verbrannte
+es im Feuer, zerstieß es und zermahlte es vollständig, bis es feiner
+Staub war; den Staub streute ich in den Bach, der vom Berg
+herunterfließt.
+
+<<v22>>
+22 Auch in Tabera, in Massa und in Kibrot-Taawa habt ihr den Unwillen
+des Herrn erregt. [fn:12]
+
+<<v23>>
+23 Als der Herr euch von Kadesch-Barnea aussandte mit dem Befehl: Zieht
+hinauf und nehmt das Land in Besitz, das ich euch gebe!, da habt ihr
+euch dem Befehl des Herrn, eures Gottes, widersetzt, ihr habt ihm nicht
+geglaubt und nicht auf seine Stimme gehört. [fn:13]
+
+<<v24>>
+24 Ihr habt euch dem Herrn widersetzt, seit er euch kennt. [fn:14]
+
+<<v25>>
+25 Ich warf mich also vor dem Herrn nieder und lag vor ihm vierzig Tage
+und vierzig Nächte lang. Ich warf mich nieder, weil der Herr gedroht
+hatte, er werde euch vernichten.
+
+<<v26>>
+26 Ich betete zum Herrn und sagte: Gott, mein Herr, bring nicht das
+Verderben über dein Volk und deinen Erbbesitz, die du in deiner Macht
+freigekauft und mit starker Hand aus Ägypten geführt hast. [fn:15]
+
+<<v27>>
+27 Denk an deine Knechte, an Abraham, Isaak und Jakob! Beachte nicht den
+Starrsinn dieses Volkes, sein Verschulden und seine Sünde,
+
+<<v28>>
+28 damit man nicht in dem Land, aus dem du uns geführt hast, sagt:
+Offenbar kann der Herr sie nicht in das Land führen, das er ihnen
+zugesagt hat, oder er liebt sie nicht; also hat er sie nur
+herausgeführt, um sie in der Wüste sterben zu lassen.
+
+<<v29>>
+29 Sie sind aber doch dein Volk und dein Erbbesitz, die du mit großer
+Kraft und hoch erhobenem Arm herausgeführt hast.
+
+
+* Footnotes
+
+[fn:1] (1-6) [[file:Dtn_18.org::v12][18,12]]; (1-2) [[file:Dtn_1.org::v28][1,28]]; [[file:Dtn_11.org::v23][11,23]]
+
+[fn:2] [[file:Num_13.org::v32][Num 13,32f]]
+
+[fn:3] [[file:Dtn_6.org::v19][6,19]]; [[file:Dtn_31.org::v3][31,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_12.org::v29][Hebr 12,29]]
+
+[fn:4] [[file:Dtn_6.org::v19][6,19]].[[file:Dtn_6.org::v25][25]]; [[file:Dtn_8.org::v17][8,17]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_10.org::v6][Röm 10,6]] (4-7) [[file:Dtn_8.org::v2][8,2-6]]; (4-6) [[file:~/RoamNotes/notes/Bibel/nt/Röm_10.org::v3][Röm 10,3]];
+[[file:~/RoamNotes/notes/Bibel/nt/Phil_3.org::v9][Phil 3,9]]
+
+[fn:5] [[file:Gen_15.org::v18][Gen 15,18]]
+
+[fn:6] [[v13][9,13]]; [[file:Ex_32.org::v9][Ex 32,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v51][Apg 7,51]]
+
+[fn:7] [[file:Dtn_1.org::v26][1,26]].[[file:Dtn_1.org::v43][43]]; [[file:Num_20.org::v10][Num 20,10]].[[file:Num_20.org::v24][24]]; [[file:Ez_20.org::v8][Ez 20,8]].[[file:Ez_20.org::v13][13]].[[file:Ez_20.org::v21][21]]; [[file:Ps_78.org::v17][Ps 78,17]].[[file:Ps_78.org::v40][40]].[[file:Ps_78.org::v56][56]]
+
+[fn:8] [[file:Dtn_5.org::v22][5,22]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_4.org::v2][Mt 4,2]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_4.org::v2][Lk 4,2]]; (9-29) [[file:Ex_32.org::v1][Ex 32]]
+
+[fn:9] [[file:Ex_31.org::v18][Ex 31,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v38][Apg 7,38]]; (10-11) [[file:~/RoamNotes/notes/Bibel/nt/2.Kor_3.org::v3][2 Kor 3,3]]
+
+[fn:10] [[file:Ex_32.org::v10][Ex 32,10]]; [[file:num 14::v12][Num 14,12]]
+
+[fn:11] [[file:~/RoamNotes/notes/Bibel/nt/Hebr_12.org::v21][Hebr 12,21]]
+
+[fn:12] [[file:Ex_17.org::v2][Ex 17,2-7]]; [[file:Num_11.org::v1][Num 11]]
+
+[fn:13] [[file:Dtn_1.org::v19][1,19-40]]; [[file:Num_13.org::v1][Num 13f]]
+
+[fn:14] Andere Lesart: seit ich euch kenne.
+
+[fn:15] (26-29) [[file:Ex_32.org::v11][Ex 32,11-13]]; [[file:Num_14.org::v13][Num 14,13-19]]

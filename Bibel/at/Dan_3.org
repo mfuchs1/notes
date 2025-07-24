@@ -1,0 +1,624 @@
+:PROPERTIES:
+:ID:       459b882e-557e-41e3-a441-5979168b268e
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Daniel* -- [[file:Dan_1.html][1]]
+[[file:Dan_2.html][2]] *3* [[file:Dan_4.html][4]] [[file:Dan_5.html][5]]
+... [[file:Dan_14.html][14]]
+
+--------------
+
+* Dan 3
+  :PROPERTIES:
+  :CUSTOM_ID: dan-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Die drei jungen Männer im Feuerofen: 3,1-97
+   :PROPERTIES:
+   :CUSTOM_ID: die-drei-jungen-männer-im-feuerofen-31-97
+   :END:
+**** Die Standhaftigkeit der drei Freunde: 3,1-23
+     :PROPERTIES:
+     :CUSTOM_ID: die-standhaftigkeit-der-drei-freunde-31-23
+     :END:
+1 König Nebukadnezzar ließ ein goldenes Standbild machen, sechzig Ellen
+hoch und sechs Ellen breit, und ließ es in der Ebene von Dura in der
+Provinz Babel aufstellen.
+
+<<v2>>
+2 Dann berief König Nebukadnezzar die Satrapen, Präfekten und
+Statthalter ein, die Räte, Schatzmeister, Richter und Polizeiobersten
+und alle anderen hohen Beamten der Provinzen; sie sollten zur Einweihung
+des Standbildes kommen, das König Nebukadnezzar errichtet hatte.
+
+<<v3>>
+3 Da versammelten sich die Satrapen, Präfekten und Statthalter, die
+Räte, Schatzmeister, Richter und Polizeiobersten und alle anderen hohen
+Beamten der Provinzen zur Einweihung des Standbildes, das König
+Nebukadnezzar errichtet hatte. Sie stellten sich vor dem Standbild auf,
+das König Nebukadnezzar errichtet hatte.
+
+<<v4>>
+4 Nun verkündete der Herold mit mächtiger Stimme: Ihr Männer aus allen
+Völkern, Nationen und Sprachen, hört den Befehl! ^{[[#fn1][1]]}
+
+<<v5>>
+5 Sobald ihr den Klang der Hörner, Pfeifen und Zithern, der Harfen,
+Lauten und Sackpfeifen und aller anderen Instrumente hört, sollt ihr
+niederfallen und das goldene Standbild anbeten, das König Nebukadnezzar
+errichtet hat.
+
+<<v6>>
+6 Wer aber nicht niederfällt und es anbetet, wird noch zur selben Stunde
+in den glühenden Feuerofen geworfen. ^{[[#fn2][2]]}
+
+<<v7>>
+7 Sobald daher alle Völker den Klang der Hörner, Pfeifen und Zithern,
+der Harfen, Lauten und Sackpfeifen und der anderen Instrumente hörten,
+fielen die Männer aus allen Völkern, Nationen und Sprachen sogleich
+nieder und beteten das goldene Standbild an, das König Nebukadnezzar
+errichtet hatte.
+
+<<v8>>
+8 Sogleich traten einige Chaldäer auf und verklagten die Juden.
+
+<<v9>>
+9 Sie sagten zum König Nebukadnezzar: O König, mögest du ewig leben.
+
+<<v10>>
+10 Du, König, hast doch selbst den Befehl erlassen: Jeder soll
+niederfallen und das goldene Standbild anbeten, wenn er den Klang der
+Hörner, Pfeifen und Zithern, der Harfen, Lauten und Sackpfeifen und
+aller anderen Instrumente hört. ^{[[#fn3][3]]}
+
+<<v11>>
+11 Wer aber nicht niederfällt und es anbetet, wird in den glühenden
+Feuerofen geworfen.
+
+<<v12>>
+12 Nun sind da einige Juden, denen du die Verwaltung der Provinz Babel
+anvertraut hast: Schadrach, Meschach und Abed-Nego. Diese Männer
+missachten dich, König. Sie verehren deine Götter nicht und beten das
+goldene Standbild, das du errichtet hast, nicht an. ^{[[#fn4][4]]}
+
+<<v13>>
+13 Da befahl Nebukadnezzar voll Zorn und Wut, Schadrach, Meschach und
+Abed-Nego herbeizuholen. Man führte die Männer also vor den König.
+
+<<v14>>
+14 Nebukadnezzar sagte zu ihnen: Ist es wahr, Schadrach, Meschach und
+Abed-Nego: Ihr verehrt meine Götter nicht und betet das goldene
+Standbild nicht an, das ich errichtet habe?
+
+<<v15>>
+15 Nun, wenn ihr bereit seid, sobald ihr den Klang der Hörner, Pfeifen
+und Zithern, der Harfen, Lauten und Sackpfeifen und aller anderen
+Instrumente hört, sofort niederzufallen und das Standbild anzubeten, das
+ich habe machen lassen, ist es gut; betet ihr es aber nicht an, dann
+werdet ihr noch zur selben Stunde in den glühenden Feuerofen geworfen.
+Welcher Gott kann euch dann aus meiner Gewalt erretten? ^{[[#fn5][5]]}
+
+<<v16>>
+16 Schadrach, Meschach und Abed-Nego erwiderten dem König Nebukadnezzar:
+Wir haben es nicht nötig, dir darauf zu antworten:
+
+<<v17>>
+17 Wenn überhaupt jemand, so kann nur unser Gott, den wir verehren, uns
+erretten; auch aus dem glühenden Feuerofen und aus deiner Hand, König,
+kann er uns retten. ^{[[#fn6][6]]}
+
+<<v18>>
+18 Tut er es aber nicht, so sollst du, König, wissen: Auch dann verehren
+wir deine Götter nicht und beten das goldene Standbild nicht an, das du
+errichtet hast. ^{[[#fn7][7]]}
+
+<<v19>>
+19 Da wurde Nebukadnezzar wütend; sein Gesicht verzerrte sich vor Zorn
+über Schadrach, Meschach und Abed-Nego. Er ließ den Ofen siebenmal
+stärker heizen, als man ihn gewöhnlich heizte.
+
+<<v20>>
+20 Dann befahl er, einige der stärksten Männer aus seinem Heer sollten
+Schadrach, Meschach und Abed-Nego fesseln und in den glühenden Feuerofen
+werfen.
+
+<<v21>>
+21 Da wurden die Männer, wie sie waren - in ihren Mänteln, Röcken und
+Mützen und den übrigen Kleidungsstücken - gefesselt und in den glühenden
+Feuerofen geworfen.
+
+<<v22>>
+22 Nach dem strengen Befehl des Königs war aber der Ofen übermäßig
+geheizt worden und die herausschlagenden Flammen töteten die Männer, die
+Schadrach, Meschach und Abed-Nego hingebracht hatten.
+
+<<v23>>
+23 Die drei Männer aber, Schadrach, Meschach und Abed-Nego, fielen
+gefesselt in den glühenden Feuerofen.\\
+\\
+
+<<v24>>
+**** Das Gebet des Asarja: 3,24-50
+     :PROPERTIES:
+     :CUSTOM_ID: das-gebet-des-asarja-324-50
+     :END:
+24 Doch sie gingen mitten in den Flammen umher, lobten Gott und priesen
+den Herrn. ^{[[#fn8][8]]}
+
+<<v25>>
+25 Asarja blieb stehen, öffnete den Mund und sprach mitten im Feuer
+folgendes Gebet:
+
+<<v26>>
+26 Gepriesen und gelobt bist du, Herr, Gott unserer Väter; herrlich ist
+dein Name in alle Ewigkeit. ^{[[#fn9][9]]}
+
+<<v27>>
+27 Denn du bist gerecht in allem, was du getan hast. All deine Taten
+sind richtig, deine Wege gerade. Alle deine Urteile sind wahr.
+^{[[#fn10][10]]}
+
+<<v28>>
+28 Du hast gerechte Strafen verhängt, in allem, was du über uns gebracht
+hast und über Jerusalem, die heilige Stadt unserer Väter. Ja, nach
+Wahrheit und Recht hast du all dies wegen unserer Sünden herbeigeführt.
+
+<<v29>>
+29 Denn wir haben gesündigt und durch Treubruch gefrevelt und haben in
+allem gefehlt. ^{[[#fn11][11]]}
+
+<<v30>>
+30 Wir haben deinen Geboten nicht gehorcht, haben weder beachtet noch
+getan, was du uns zu unserem Wohl befohlen hast. ^{[[#fn12][12]]}
+
+<<v31>>
+31 Alles, was du uns geschickt hast, alles, was du uns getan hast, das
+hast du nach deiner gerechten Entscheidung getan. ^{[[#fn13][13]]}
+
+<<v32>>
+32 Du hast uns der Gewalt gesetzloser Feinde und gehässiger Verräter
+preisgegeben und einem ungerechten König, dem schlimmsten König der
+ganzen Welt.
+
+<<v33>>
+33 Und jetzt dürfen wir nicht einmal den Mund auftun. Schande und
+Schmach kam über deine Diener und Verehrer.
+
+<<v34>>
+34 Um deines Namens willen verwirf uns nicht für immer; löse deinen Bund
+nicht auf! ^{[[#fn14][14]]}
+
+<<v35>>
+35 Versag uns nicht dein Erbarmen, deinem Freund Abraham zuliebe, deinem
+Knecht Isaak und Israel, deinem Heiligen, ^{[[#fn15][15]]}
+
+<<v36>>
+36 denen du Nachkommen verheißen hast so zahlreich wie die Sterne am
+Himmel und wie der Sand am Ufer des Meeres. ^{[[#fn16][16]]}
+
+<<v37>>
+37 Ach, Herr, wir sind geringer geworden als alle Völker. In aller Welt
+sind wir heute wegen unserer Sünden erniedrigt. ^{[[#fn17][17]]}
+
+<<v38>>
+38 Wir haben in dieser Zeit weder Vorsteher noch Propheten und keinen,
+der uns anführt, weder Brandopfer noch Schlachtopfer, weder Speiseopfer
+noch Räucherwerk, noch einen Ort, um dir die Erstlingsgaben darzubringen
+und um Erbarmen zu finden bei dir. ^{[[#fn18][18]]}
+
+<<v39>>
+39 Du aber nimm uns an! Wir kommen mit zerknirschtem Herzen und
+demütigem Sinn. ^{[[#fn19][19]]}
+
+<<v40>>
+40 Wie Brandopfer von Widdern und Stieren, wie Tausende fetter Lämmer,
+so gelte heute unser Opfer vor dir und verschaffe uns bei dir Sühne.
+Denn wer dir vertraut, wird nicht beschämt. ^{[[#fn20][20]]}
+
+<<v41>>
+41 Wir folgen dir jetzt von ganzem Herzen, fürchten dich und suchen dein
+Angesicht.
+
+<<v42>>
+42 Überlass uns nicht der Schande, sondern handle an uns nach deiner
+Milde, nach deinem überreichen Erbarmen!
+
+<<v43>>
+43 Errette uns, deinen wunderbaren Taten entsprechend; verschaff deinem
+Namen Ruhm, Herr!
+
+<<v44>>
+44 Doch alle, die deinen Dienern Böses tun, sollen beschämt werden. Sie
+sollen zuschanden werden und ihre Herrschaft verlieren. Ihre Stärke soll
+zerschlagen werden.
+
+<<v45>>
+45 Sie sollen erkennen, dass du allein der Herr und Gott bist, ruhmreich
+auf der ganzen Erde. ^{[[#fn21][21]]}
+
+<<v46>>
+46 Die Knechte des Königs, die die drei Männer in den Ofen geworfen
+hatten, hörten inzwischen nicht auf, den Ofen mit Harz und Werg, Pech
+und Reisig zu heizen.
+
+<<v47>>
+47 So schlugen die Flammen bis zu neunundvierzig Ellen hoch aus dem Ofen
+heraus.
+
+<<v48>>
+48 Sie griffen um sich und verbrannten jeden Chaldäer, den sie im
+Umkreis des Ofens erfassen konnten.
+
+<<v49>>
+49 Aber der Engel des Herrn war zusammen mit Asarja und seinen Gefährten
+in den Ofen hinabgestiegen. Er trieb die Flammen des Feuers aus dem Ofen
+hinaus
+
+<<v50>>
+50 und machte das Innere des Ofens so, als wehte ein taufrischer Wind.
+Das Feuer berührte sie gar nicht; es tat ihnen nichts zuleide und
+belästigte sie nicht.\\
+\\
+
+<<v51>>
+**** Der Lobgesang der drei jungen Männer: 3,51-90
+     :PROPERTIES:
+     :CUSTOM_ID: der-lobgesang-der-drei-jungen-männer-351-90
+     :END:
+51 Da sangen die drei im Ofen wie aus einem Mund, sie rühmten und
+priesen Gott mit den Worten:\\
+\\
+
+<<v52>>
+52 Gepriesen bist du, Herr, du Gott unserer Väter, /\\
+ gelobt und gerühmt in Ewigkeit. Gepriesen ist dein heiliger, herrlicher
+Name, /\\
+ hoch gelobt und verherrlicht in Ewigkeit. ^{[[#fn22][22]]}\\
+\\
+
+<<v53>>
+53 Gepriesen bist du im Tempel deiner heiligen Herrlichkeit, /\\
+ hoch gerühmt und verherrlicht in Ewigkeit. ^{[[#fn23][23]]}\\
+\\
+
+<<v54>>
+54 Gepriesen bist du, der in die Tiefen schaut und auf Kerubim thront,
+/\\
+ gelobt und gerühmt in Ewigkeit. ^{[[#fn24][24]]}\\
+\\
+
+<<v55>>
+55 Gepriesen bist du auf dem Thron deiner Herrschaft, /\\
+ hoch gerühmt und gefeiert in Ewigkeit.\\
+\\
+
+<<v56>>
+56 Gepriesen bist du am Gewölbe des Himmels, /\\
+ gerühmt und verherrlicht in Ewigkeit.\\
+\\
+
+<<v57>>
+57 Preist den Herrn, all ihr Werke des Herrn; /\\
+ lobt und rühmt ihn in Ewigkeit! ^{[[#fn25][25]]}\\
+\\
+
+<<v58>>
+58 Preist den Herrn, ihr Himmel; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v59>>
+59 Preist den Herrn, ihr Engel des Herrn; /\\
+ lobt und rühmt ihn in Ewigkeit! ^{[[#fn26][26]]}\\
+\\
+
+<<v60>>
+60 Preist den Herrn, all ihr Wasser über dem Himmel; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v61>>
+61 Preist den Herrn, all ihr Mächte des Herrn; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v62>>
+62 Preist den Herrn, Sonne und Mond; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v63>>
+63 Preist den Herrn, ihr Sterne am Himmel; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v64>>
+64 Preist den Herrn, aller Regen und Tau; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v65>>
+65 Preist den Herrn, all ihr Winde; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v66>>
+66 Preist den Herrn, Feuer und Glut; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v67>>
+67 Preist den Herrn, Frost und Hitze; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v68>>
+68 Preist den Herrn, Tau und Schnee; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v69>>
+69 Preist den Herrn, Eis und Kälte; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v70>>
+70 Preist den Herrn, Raureif und Schnee; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v71>>
+71 Preist den Herrn, ihr Nächte und Tage; /\\
+ lobt und rühmt ihn in Ewigkeit! ^{[[#fn27][27]]}\\
+\\
+
+<<v72>>
+72 Preist den Herrn, Licht und Dunkel; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v73>>
+73 Preist den Herrn, ihr Blitze und Wolken; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v74>>
+74 Die Erde preise den Herrn; /\\
+ sie lobe und rühme ihn in Ewigkeit.\\
+\\
+
+<<v75>>
+75 Preist den Herrn, ihr Berge und Hügel; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v76>>
+76 Preist den Herrn, all ihr Gewächse auf Erden; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v77>>
+77 Preist den Herrn, ihr Quellen; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v78>>
+78 Preist den Herrn, ihr Meere und Flüsse; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v79>>
+79 Preist den Herrn, ihr Tiere des Meeres /\\
+ und alles, was sich regt im Wasser; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v80>>
+80 Preist den Herrn, all ihr Vögel am Himmel; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v81>>
+81 Preist den Herrn, all ihr Tiere, wilde und zahme; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v82>>
+82 Preist den Herrn, ihr Menschen; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v83>>
+83 Preist den Herrn, ihr Israeliten; /\\
+ lobt und rühmt ihn in Ewigkeit! ^{[[#fn28][28]]}\\
+\\
+
+<<v84>>
+84 Preist den Herrn, ihr seine Priester; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v85>>
+85 Preist den Herrn, ihr seine Knechte; /\\
+ lobt und rühmt ihn in Ewigkeit! ^{[[#fn29][29]]}\\
+\\
+
+<<v86>>
+86 Preist den Herrn, ihr Geister und Seelen der Gerechten; /\\
+ lobt und rühmt ihn in Ewigkeit!\\
+\\
+
+<<v87>>
+87 Preist den Herrn, ihr Demütigen und Frommen; /\\
+ lobt und rühmt ihn in Ewigkeit! ^{[[#fn30][30]]}\\
+\\
+
+<<v88>>
+88 Preist den Herrn, Hananja, Asarja und Mischaël; /\\
+ lobt und rühmt ihn in Ewigkeit! Denn er hat uns der Unterwelt entrissen
+/\\
+ und aus der Gewalt des Todes errettet. Er hat uns aus dem lodernden
+Ofen befreit, /\\
+ uns mitten aus dem Feuer erlöst.\\
+\\
+
+<<v89>>
+89 Dankt dem Herrn, denn er ist gütig; /\\
+ denn seine Huld währt ewig. ^{[[#fn31][31]]}\\
+\\
+
+<<v90>>
+90 Preist alle den Herrn, ihr seine Verehrer, /\\
+ preist den Gott der Götter; singt ihm Lob und Dank; /\\
+ denn ewig währt seine Güte. ^{[[#fn32][32]]}\\
+\\
+
+<<v91>>
+**** Die Rettung der drei Freunde: 3,91-97
+     :PROPERTIES:
+     :CUSTOM_ID: die-rettung-der-drei-freunde-391-97
+     :END:
+91 Da erschrak der König Nebukadnezzar; er sprang auf und fragte seine
+Räte: Haben wir nicht drei Männer gefesselt ins Feuer geworfen? Sie
+gaben dem König zur Antwort: Gewiss, König! ^{[[#fn33][33]]}
+
+<<v92>>
+92 Er erwiderte: Ich sehe aber vier Männer frei im Feuer umhergehen. Sie
+sind unversehrt und der vierte sieht aus wie ein Göttersohn.
+^{[[#fn34][34]][[#fn35][35]]}
+
+<<v93>>
+93 Dann ging Nebukadnezzar zu der Tür des glühenden Ofens und rief:
+Schadrach, Meschach und Abed-Nego, ihr Diener des höchsten Gottes,
+steigt heraus, kommt her! Da kamen Schadrach, Meschach und Abed-Nego aus
+dem Feuer heraus.
+
+<<v94>>
+94 Nun drängten auch die Satrapen, Präfekten, Statthalter und die
+königlichen Räte herbei. Sie sahen sich die Männer an und fanden, dass
+das Feuer keine Macht über ihren Körper gehabt hatte. Kein Haar auf
+ihrem Kopf war versengt. Ihre Mäntel waren unversehrt und nicht einmal
+Brandgeruch haftete ihnen an. ^{[[#fn36][36]]}
+
+<<v95>>
+95 Da rief Nebukadnezzar aus: Gepriesen sei der Gott Schadrachs,
+Meschachs und Abed-Negos. Denn er hat seinen Engel gesandt und seine
+Diener gerettet. Im Vertrauen auf ihn haben sie lieber den Befehl des
+Königs missachtet und ihr Leben dahingegeben, als dass sie irgendeinen
+anderen als ihren eigenen Gott verehrten und anbeteten. ^{[[#fn37][37]]}
+
+<<v96>>
+96 Darum ordne ich an: Jeder, der vom Gott des Schadrach, Meschach und
+Abed-Nego verächtlich spricht, zu welcher Völkerschaft, Nation oder
+Sprache er auch gehört, soll in Stücke gerissen und sein Haus soll in
+einen Trümmerhaufen verwandelt werden. Denn es gibt keinen anderen Gott,
+der auf diese Weise retten kann.
+
+<<v97>>
+97 Darauf sorgte der König dafür, dass es Schadrach, Meschach und
+Abed-Nego in der Provinz Babel gut ging.\\
+\\
+
+<<v98>>
+** Nebukadnezzars Traum vom stolzen Baum: 3,98 - 4,34
+   :PROPERTIES:
+   :CUSTOM_ID: nebukadnezzars-traum-vom-stolzen-baum-398---434
+   :END:
+98 Der König Nebukadnezzar an alle Völker, Nationen und Sprachen auf der
+ganzen Erde: Friede sei mit euch in Fülle.
+
+<<v99>>
+99 Es ist mir eine Freude, die Zeichen und Wunder zu verkünden, die der
+höchste Gott an mir getan hat.
+
+<<v100>>
+100 Wie groß sind seine Zeichen, wie gewaltig seine Wunder! Sein Reich
+ist ein ewiges Reich; seine Herrschaft überdauert alle Generationen.
+^{[[#fn38][38]]}
+
+^{[[#fnm1][1]]} ℘ Offb 7,9; 13,7
+
+^{[[#fnm2][2]]} ℘ Jer 29,21f
+
+^{[[#fnm3][3]]} ℘ Offb 13,15
+
+^{[[#fnm4][4]]} Götter: Man kann hier und V. 18 auch Einzahl «Gott»
+lesen.
+
+^{[[#fnm5][5]]} ℘ Ex 5,2; 2 Kön 18,35; Jes 36,20
+
+^{[[#fnm6][6]]} ℘ Dtn 4,20; Ps 66,12; Jes 43,2
+
+^{[[#fnm7][7]]} ℘ Ex 20,3-5
+
+^{[[#fnm8][8]]} 24-90: Das Gebet des Asarja (VV. 24-50) und der
+Lobgesang der drei jungen Männer (VV. 51-90) sind nur griechisch
+erhalten; die Übersetzung folgt dem Text des Theodotion.
+
+^{[[#fnm9][9]]} ℘ (26-45) 9,4-19; Esra 9,6-15
+
+^{[[#fnm10][10]]} ℘ Neh 9,33
+
+^{[[#fnm11][11]]} ℘ Bar 1,17f
+
+^{[[#fnm12][12]]} ℘ Neh 1,7
+
+^{[[#fnm13][13]]} ℘ Dtn 28,15.48; Lev 26,14.39
+
+^{[[#fnm14][14]]} ℘ Ex 32,11-13
+
+^{[[#fnm15][15]]} ℘ Jes 41,8
+
+^{[[#fnm16][16]]} ℘ Gen 15,5; 22,17
+
+^{[[#fnm17][17]]} ℘ Dtn 28,62
+
+^{[[#fnm18][18]]} ℘ Hos 3,4; Klgl 2,9; Ps 51,18f
+
+^{[[#fnm19][19]]} ℘ Weish 3,6
+
+^{[[#fnm20][20]]} ℘ 2 Makk 7,37
+
+^{[[#fnm21][21]]} ℘ Ps 83,19
+
+^{[[#fnm22][22]]} ℘ 3,26
+
+^{[[#fnm23][23]]} ℘ Ps 150,1
+
+^{[[#fnm24][24]]} ℘ Ex 25,18-22
+
+^{[[#fnm25][25]]} ℘ Ps 103,22
+
+^{[[#fnm26][26]]} ℘ (59-90) Ps 148,2-12
+
+^{[[#fnm27][27]]} Vg, deren Verszählung hier zugrunde gelegt wird, hat
+in VV. 71-78 eine andere Versfolge als Theodotion (vgl. die Anmerkung zu
+3,24-90).
+
+^{[[#fnm28][28]]} ℘ Ps 135,19
+
+^{[[#fnm29][29]]} ℘ Ps 134,1
+
+^{[[#fnm30][30]]} ℘ Zef 2,3
+
+^{[[#fnm31][31]]} ℘ Ps 106,1; 136,1
+
+^{[[#fnm32][32]]} ℘ Ps 50,1
+
+^{[[#fnm33][33]]} (24) Mit V. 91 setzt wieder der in V. 23 unterbrochene
+aramäische Text ein, dessen Verszählung in Klammern steht.
+
+^{[[#fnm34][34]]} ℘ Jes 43,2
+
+^{[[#fnm35][35]]} (25) Der «Göttersohn» ist der in V. 49 genannte Engel
+des Herrn.
+
+^{[[#fnm36][36]]} ℘ Hebr 11,34
+
+^{[[#fnm37][37]]} ℘ 2,47; 6,27
+
+^{[[#fnm38][38]]} ℘ 2,44; 4,31

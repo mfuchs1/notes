@@ -1,0 +1,99 @@
+#+title:      Mensch wo bist du? (Fürbitten)
+#+date:       [2025-04-01 Di 08:58]
+#+filetags:   :schule:
+#+identifier: 20250401T085842
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Fürbitten.html
+
+* Grundlegende Überlegungen
+Fürbitten zum Thema "Mensch, wo bist du?", für den Gottesdienst kurz vor der Karwoche. Idee: der Mensch braucht keine Angst haben, sondern soll voller Hoffnung sein, Gott lässt ihn nicht allein, Gott sucht den Menschen, ... Die Karwoche und Ostern sollen in den Fürbitten vorkommen.
+
+Bibelstelle: Gott geht im Garten Eden einher und fragt: "Mensch, wo bist du?"
+
+Dunkel blauer Hintergrund (Meer, Wasser, ...?) Steine; Stolpersteine; ...
+
+Eine Schülerin ruft dann laut: "Hier bin ich!"
+
+Hanni wird mir noch die Geschichte zukommen lassen: [[denote:20250401T095121][Dienstag  1 April 2025]]
+
+
+
+* Inhalte der Fürbitten
+Diese Gedanken sind teilweise nicht ganz zutreffend, da ich die komplette Geschichte nicht kenne. Sobald ich den Text in Händen halte, werde ich die Fürbitten dementsprechend anpassen.
+
+- Wasser ::
+  - Wasser: verschmutztes Wasser / Bootsflüchtlinge
+  - Unwetter
+  - Wasser, das in Menschen gemachten Wüsten fehlt
+  - Wasser ist auch: Ursprung allen Lebens / Schöpfung Gottes; Leben; Tiefe / Sehnsucht; eine geordnete Welt; gelungenes Leben; Schmerz / Narben; Niederfallen / Aufstehen (so wie Jesus); oberflächliches oder zufriedenes Leben?
+  
+- Ring ::
+  - Sonne? perfekt, aus Gold; Gemeinschaft, Treue, Unendlichkeit?
+  - Freundschaft?
+  - Für Gott?
+  
+- Erde ::
+  - Staubig, schmutzig; und doch unser Zuhause; Garten Getsemani
+
+- 12 Steine ::
+  - 12 Jünger im Garten bei Jesus, die schlafen
+  - Stolpersteine (damit nicht alles so glatt läuft)
+  - Auch Jesus ist gefallen, gestolpert, niedergedrückt durch die Last, Spott und Hohn
+  - Mensch, ergreife die Hand (Gottes).
+
+- Haus ::
+  - ist nicht fertig; eine Seite ist offen ...
+  - ... für neue Ideen? Ankommende?
+  - alle Ungerechtigkeiten...
+  - schiefes Haus
+  - "Gott, wo bist du?"
+  - Jesus hat viel erlitten.
+  - Leidensweg für uns gegangen
+  - und wusste sich trotzdem in Gott geborgen.
+  - Wo bist du geborgen? Wohin hats du dich verirrt?
+  - Wach auf! Freunde, Familie, Zuhause!
+  - Goldener Ring; Reich Gottes; Gottes Treue; die rettende Liebe Gottes; Freundschaftsring
+
+- Antwort Gottes ::
+  - Da bist du!
+  - Leidenschaft mitzuhelfen, anzupacken, ... die Welt besser machen?
+    
+    
+* Fürbitten
+
+
+- Ich bitte Gott für jene,
+  die sich nach einem gelungenen Leben sehnen,
+  die viel Scheitern erfahren und oft hinfallen, 
+  dass Gott ihnen Kraft zum Aufstehen und eine neue Hoffnung schenkt.
+  
+- Ich bitte Gott für jene,
+  die sich nach Gott sehnen, ihn suchen,
+  dass sie besonders in diesen Tagen Jesus begegnen, der ihnen immer nahe ist.
+
+- Ich bitte Gott für jene,
+  die in Kriegsgebieten leben müssen oder Opfer von Naturkatastrophen wurden,
+  dass sie die helfende und tröstende Nähe Gottes erfahren.
+
+- Ich bitte Gott für jene,
+  die in ihrem Leben über viele Steine stolpern und fallen,
+  dass sie in Gott Kraft finden, wieder aufzustehen.
+
+- Ich bitte Gott für jene,
+  die unter Angst oder Ausgrenzung leiden,
+  dass sie Geborgenheit in ihrer Familie und Gottes Liebe erfahren und spüren.
+
+- Ich bitte Gott für jene,
+  die sich mit Leidenschaft für andere Menschen einsetzen,
+  dass Gott ihr Herz berührt und Ihnen Kraft schenkt.
+
+- Ich bitte Gott für jene,
+  die vom Frieden erzählen, die Hoffnung schenken, deren Lebensfreude ansteckend ist,
+  damit wir ein gesegnetes Osterfest feiern und uns der Glaube an den auferstandenen Christus stark und lebendig macht.
+  
+

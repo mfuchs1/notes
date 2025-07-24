@@ -1,0 +1,229 @@
+#+TITLE: 2 Chr 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 20.html
+
+<<verses>>
+
+<<v1>>
+* Joschafats Sieg über die Feinde: 20,1-30
+
+1 Danach zogen die Moabiter und Ammoniter mit einer Anzahl von Mëunitern
+zum Krieg gegen Joschafat heran. [fn:1]
+
+<<v2>>
+2 Boten kamen und meldeten Joschafat: Ein großer Heerhaufen zieht von
+jenseits des Meeres, von Edom, gegen dich. Sie stehen schon in
+Hazezon-Tamar, das ist En-Gedi. [fn:2]
+
+<<v3>>
+3 Joschafat geriet in Furcht; er beschloss, den Herrn zu befragen, und
+ließ in ganz Juda ein Fasten ausrufen.
+
+<<v4>>
+4 Die Judäer versammelten sich, um vom Herrn (Hilfe) zu erbitten. Auch
+aus allen Städten Judas kamen sie herbei, um den Herrn zu bitten.
+
+<<v5>>
+5 Joschafat aber trat im Haus des Herrn, im neuen Vorhof, vor die
+Versammlung Judas und Jerusalems
+
+<<v6>>
+6 und betete: Herr, Gott unserer Väter, bist nicht du Gott im Himmel und
+Herrscher über alle Reiche der Völker? In deiner Hand liegen Kraft und
+Stärke; niemand kann dir widerstehen. [fn:3]
+
+<<v7>>
+7 Hast nicht du, unser Gott, die Bewohner dieses Landes vor deinem Volk
+Israel vertrieben und für alle Zeiten ihr Gebiet den Nachkommen
+Abrahams, deines Freundes, gegeben?
+
+<<v8>>
+8 Sie ließen sich darin nieder, bauten deinem Namen ein Heiligtum und
+sagten:
+
+<<v9>>
+9 Wenn Unglück, Schwert, Überschwemmung, Pest oder Hunger über uns
+kommen, wollen wir vor dieses Haus und vor dein Angesicht hintreten;
+denn dein Name ist gegenwärtig in diesem Haus. Wir wollen in unserer Not
+zu dir rufen und du wirst uns dann hören und wirst helfen. [fn:4]
+
+<<v10>>
+10 Da stehen nun die Ammoniter, Moabiter und die Bewohner des Berglands
+Seïr (an unseren Grenzen). Du hast den Israeliten bei ihrem Auszug aus
+Ägypten nicht erlaubt, ihr Gebiet zu betreten. Sie haben sich von ihnen
+ferngehalten und sie nicht ausgerottet. [fn:5]
+
+<<v11>>
+11 Dafür erweisen sie uns nun Böses; sie kommen, um uns aus deinem
+Besitz zu vertreiben, den du uns verliehen hast.
+
+<<v12>>
+12 Wirst du, unser Gott, nicht über sie Gericht halten? Wir sind
+machtlos vor dieser gewaltigen Menge, die gegen uns zieht, und wissen
+nicht, was wir tun sollen. Nur auf dich sind unsere Augen gerichtet.
+
+<<v13>>
+13 Während ganz Juda, mit Kindern, Frauen und Söhnen, vor dem Herrn
+stand,
+
+<<v14>>
+14 kam mitten in der Versammlung der Geist des Herrn über Jahasiël, den
+Sohn Secharjas, des Sohnes Benajas, des Sohnes Jëiëls, des Sohnes
+Mattanjas, einen Leviten von den Söhnen Asafs.
+
+<<v15>>
+15 Er rief: Ihr Judäer alle, ihr Einwohner Jerusalems und du, König
+Joschafat, merkt auf! So spricht der Herr zu euch: Fürchtet euch nicht
+und erschreckt nicht vor diesem großen Heerhaufen; denn nicht eure,
+sondern Gottes Sache ist der Krieg.
+
+<<v16>>
+16 Zieht morgen gegen sie hinab! Sie werden die Steige von Ziz
+heraufkommen und ihr werdet am Ausgang des Tals vor der Wüste Jeruël auf
+sie stoßen.
+
+<<v17>>
+17 Doch werdet ihr nicht kämpfen müssen. Tretet an, bleibt aber stehen
+und seht zu, wie der Herr euch Rettung verschafft. Juda und Jerusalem,
+fürchtet euch nicht und habt keine Angst! Morgen sollt ihr vor ihren
+Augen ausrücken und der Herr wird mit euch sein.
+
+<<v18>>
+18 Da verneigte sich Joschafat mit dem Gesicht zur Erde. Auch alle
+Judäer und die Einwohner Jerusalems fielen vor dem Herrn nieder und
+beteten ihn an.
+
+<<v19>>
+19 Darauf erhoben sich von den Leviten die Nachkommen Kehats, und zwar
+die Nachkommen Korachs, um den Herrn, den Gott Israels, mit lauter und
+mächtiger Stimme zu preisen.
+
+<<v20>>
+20 Früh am nächsten Morgen zogen sie in die Wüste von Tekoa. Beim
+Aufbruch trat Joschafat hin und rief: Hört mir zu, Juda und ihr
+Einwohner Jerusalems! Vertraut auf den Herrn, euren Gott, dann werdet
+ihr bestehen. Vertraut auf seine Propheten, dann werdet ihr Erfolg
+haben. [fn:6]
+
+<<v21>>
+21 Nachdem er sich mit dem Volk beraten hatte, stellte er Sänger für den
+Herrn auf, die in heiligem Schmuck dem kampfbereiten Heer voranzogen,
+Loblieder sangen und riefen: Dankt dem Herrn; denn seine Huld währt
+ewig. [fn:7]
+
+<<v22>>
+22 Während sie den Jubelruf und Lobpreis anstimmten, führte der Herr
+Feinde aus dem Hinterhalt gegen die Ammoniter, Moabiter und die Bewohner
+des Berglands Seïr, die gegen Juda gezogen waren, sodass sie geschlagen
+wurden.
+
+<<v23>>
+23 Darauf stellten sich die Ammoniter und Moabiter gegen die Bewohner
+des Berglands Seïr, weihten sie dem Untergang und vernichteten sie.
+Nachdem sie die Bewohner Seïrs vollends aufgerieben hatten, gerieten sie
+selbst gegeneinander zu ihrem eigenen Verderben.
+
+<<v24>>
+24 Als daher die Judäer an die Stelle kamen, von der aus man die Wüste
+überschauen konnte, und ihren Blick auf die feindlichen Scharen
+richteten, sahen sie nur Leichen am Boden liegen; keiner war entkommen.
+
+<<v25>>
+25 Da rückte Joschafat mit seinen Leuten an, um die Beute zu sammeln.
+Sie fanden bei ihnen eine Menge Waren, Kleider, kostbare Geräte und
+nahmen so viel an sich, dass sie es nicht mehr tragen konnten. Drei Tage
+plünderten sie, denn die Beute war reichlich. [fn:8]
+
+<<v26>>
+26 Am vierten Tag sammelten sie sich im Tal Beracha und priesen dort den
+Herrn. Darum nennt man diese Gegend Tal Beracha (Preistal) bis zum
+heutigen Tag.
+
+<<v27>>
+27 Darauf wandten sich alle Männer Judas und Jerusalems mit Joschafat an
+ihrer Spitze voller Freude zur Heimkehr nach Jerusalem; denn der Herr
+hatte ihnen Freude über ihre Feinde verliehen.
+
+<<v28>>
+28 Unter dem Spiel der Harfen, Zithern und Trompeten kamen sie nach
+Jerusalem zum Haus des Herrn.
+
+<<v29>>
+29 Der Schrecken Gottes aber erfasste alle Reiche der Länder, als sie
+hörten, dass der Herr gegen die Feinde Israels gekämpft habe.
+
+<<v30>>
+30 So hatte das Reich Joschafats Frieden und sein Gott verschaffte ihm
+ringsum Ruhe.\\
+\\
+
+<<v31>>
+* Weitere Nachrichten über Joschafat: 20,31-37
+
+31 Joschafat war König von Juda. Er war fünfunddreißig Jahre alt, als er
+König wurde, und regierte fünfundzwanzig Jahre in Jerusalem. Seine
+Mutter hieß Asuba und war eine Tochter Schilhis. [fn:9]
+
+<<v32>>
+32 Er folgte den Wegen seines Vaters Asa, ohne von ihnen abzuweichen,
+und tat, was dem Herrn gefiel.
+
+<<v33>>
+33 Nur die Kulthöhen verschwanden nicht. Das Volk hatte seinen Sinn noch
+nicht auf den Gott seiner Väter gerichtet. [fn:10]
+
+<<v34>>
+34 Die übrige Geschichte Joschafats, die frühere und die spätere, ist
+aufgezeichnet in der Geschichte Jehus, des Sohnes Hananis, die in das
+Buch der Könige von Israel aufgenommen wurde.
+
+<<v35>>
+35 Zuletzt verbündete sich Joschafat, der König von Juda, mit Ahasja,
+dem König von Israel, dessen Tun frevelhaft war.
+
+<<v36>>
+36 Joschafat schloss mit ihm ein Abkommen, um Schiffe zu bauen, die nach
+Tarschisch fahren sollten. Sie bauten die Schiffe in Ezjon-Geber. [fn:11]
+
+<<v37>>
+37 Doch Eliëser, der Sohn Dodawas aus Marescha, weissagte gegen
+Joschafat: Weil du dich mit Ahasja verbündet hast, wird der Herr dein
+Werk zerstören. So zerschellten denn die Schiffe und konnten nicht nach
+Tarschisch fahren.\\
+\\
+
+* Footnotes
+
+[fn:1] Die Mëuniter sind benannt nach der Stadt Maan im Gebirge
+Seïr, südlich des Toten Meers. Der Name ist durch G bezeugt; H hat
+«Ammoniter», die unmittelbar vorher genannt waren.
+
+[fn:2] von Edom: sinngemäß korr.; H: von Aram.
+
+[fn:3] [[file:1.Chr_29.org::v12][1 Chr 29,12]]
+
+[fn:4] [[file:2.Chr_6.org::v28][6,28]]
+
+[fn:5] [[file:Dtn_2.org::v4][Dtn 2,4]]-[[file:Dtn_2.org::v19][19]]
+
+[fn:6] [[file:Jes_7.org::v9][Jes 7,9]]
+
+[fn:7] [[file:Ps_136.org::v1][Ps 136,1]]
+
+[fn:8] Kleider: Text korr.
+
+[fn:9] (31-37) [[file:1.Kön_22.org::v41][1 Kön 22,41]]-[[file:1.Kön_22.org::v50][50]]
+
+[fn:10] Der Chronist empfindet es als Mangel, dass nach der
+Erbauung des Tempels noch Opfer außerhalb Jerusalems dargebracht werden.
+
+[fn:11] Hier ist Tarschisch in Spanien ([[file:2.Chr_9.org::v21][9,21]]) mit Ofir, das
+von Ezion-Geber aus durch das Rote Meer erreicht wurde, verwechselt.

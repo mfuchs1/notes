@@ -1,0 +1,160 @@
+#+TITLE: Jdt 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 2.html
+
+<<verses>>
+
+<<v1>>
+* Der Plan Nebukadnezzars: 2,1-3
+
+1 Im achtzehnten Jahr seiner Regierung erging am zweiundzwanzigsten Tag
+des ersten Monats im Palast Nebukadnezzars, des Königs der Assyrer, der
+Befehl, an der ganzen Erde das Strafgericht zu vollstrecken, das der
+König angedroht hatte.
+
+<<v2>>
+2 Er rief alle seine Minister und Generäle zusammen, hielt mit ihnen
+eine geheime Beratung ab und verfügte mit seinem Wort alles Unheil über
+die Erde.
+
+<<v3>>
+3 Auch seine Berater waren der Meinung, dass alle zu vernichten seien,
+die dem Wort des Königs nicht gehorcht hätten.\\
+\\
+
+<<v4>>
+* Der Auftrag des Holofernes: 2,4-13
+
+4 Als Nebukadnezzar, der König der Assyrer, die Beratung beendet hatte,
+bestellte er Holofernes zu sich, den Oberbefehlshaber seiner Truppen,
+der nach ihm den höchsten Rang einnahm, und sagte zu ihm:
+
+<<v5>>
+5 So spricht der Großkönig, der Herr der ganzen Erde: Du sollst von hier
+ausziehen und Männer mit dir nehmen, die auf ihren Mut vertrauen:
+hundertzwanzigtausend Mann Fußtruppen und ein Aufgebot von zwölftausend
+Pferden und Reitern.
+
+<<v6>>
+6 Du sollst gegen alle Länder im Westen zu Feld ziehen, weil sie meinem
+Wort nicht gehorcht haben.
+
+<<v7>>
+7 Befiehl ihnen, schon Erde und Wasser bereitzuhalten. Denn ich will in
+meinem Zorn gegen sie zu Felde ziehen; die ganze Erde werde ich mit den
+Füßen meiner Truppen bedecken und den Besitz der Menschen meinen Männern
+zur Plünderung preisgeben. [fn:1]
+
+<<v8>>
+8 Ihre Täler sollen sich mit Gefallenen füllen; jeder Bach und Fluss
+soll übervoll werden von Toten.
+
+<<v9>>
+9 Ihre Gefangenen will ich bis an die Grenzen der Erde verschleppen.
+
+<<v10>>
+10 Zieh also aus und erobere mir ihr ganzes Gebiet! Alle, die sich dir
+ergeben, sollst du mir aufbewahren für den Tag ihrer Bestrafung.
+
+<<v11>>
+11 Alle aber, die Widerstand leisten, sollst du schonungslos dem Tod und
+der Plünderung preisgeben in deinem ganzen Machtbereich.
+
+<<v12>>
+12 Bei meinem Leben und bei der Macht meines Königtums - ich habe
+gesprochen und ich werde meinen Entschluss ausführen.
+
+<<v13>>
+13 Du aber wag es nicht, auch nur einen einzigen Befehl deines Herrn zu
+übertreten. Erfülle, was ich dir befohlen habe; führ es unverzüglich
+aus!\\
+\\
+
+<<v14>>
+* Die Aufstellung des Heeres: 2,14-20
+
+14 Holofernes ging von seinem Herrn weg und rief alle Befehlshaber,
+Feldherren und Hauptleute der assyrischen Truppen zusammen.
+
+<<v15>>
+15 Er hob für das Heer die besten Leute aus, wie ihm sein Herr befohlen
+hatte: hundertzwanzigtausend Mann Fußvolk und zwölftausend berittene
+Bogenschützen,
+
+<<v16>>
+16 und teilte sie in Kampftruppen ein.
+
+<<v17>>
+17 Für den Transport der Kriegsgeräte beschaffte er sich eine gewaltige
+Menge von Kamelen, Eseln und Maultieren; außerdem brachte er eine
+unübersehbare Herde von Schafen, Rindern und Ziegen für ihre Verpflegung
+zusammen,
+
+<<v18>>
+18 dazu reichlich Proviant für alle und sehr viel Gold und Silber aus
+dem Palast des Königs.
+
+<<v19>>
+19 Darauf setzte er sich mit seinem ganzen Heer in Marsch, um dem König
+Nebukadnezzar voranzuziehen und alle Länder im Westen mit seinen Wagen,
+Reitern und Elitetruppen zu überfluten.
+
+<<v20>>
+20 Eine Masse von Hilfsvölkern schloss sich ihnen an, unübersehbar wie
+ein Heuschreckenschwarm und wie der Sand der Erde; man konnte ihre Menge
+nicht zählen.\\
+\\
+
+<<v21>>
+* Der Kriegszug des Holofernes: 2,21-27
+
+21 Von Ninive zogen sie drei Tagesmärsche weit bis zur Ebene von
+Bektilet und schlugen jenseits von Bektilet in der Nähe des Gebirges,
+das im Norden von Ober-Zilizien liegt, ihr Lager auf.
+
+<<v22>>
+22 Von dort rückte Holofernes mit seiner ganzen Streitmacht, seinen
+Fußtruppen, Reitern und Wagen, gegen das Bergland vor.
+
+<<v23>>
+23 Er eroberte Put und Lud und plünderte die Rassiter und Ismaeliter
+aus, die am Rand der Wüste südlich des Chelëerlandes wohnten.
+
+<<v24>>
+24 Dann überschritt er den Eufrat und zog durch Mesopotamien; er
+zerstörte alle befestigten Städte am Fluss Habor bis hin zum Meer.
+
+<<v25>>
+25 Er eroberte das Gebiet von Zilizien und machte alle nieder, die ihm
+Widerstand leisteten. So kam er in das Gebiet von Jafet, das im Süden
+liegt und Arabien vorgelagert ist.
+
+<<v26>>
+26 Er kreiste alle Midianiter ein, steckte ihre Zeltlager in Brand und
+raubte ihr Vieh.
+
+<<v27>>
+27 Zur Zeit der Weizenernte stieg er in die Ebene von Damaskus hinab,
+brannte die Felder nieder, vernichtete die Herden, das Klein- und
+Großvieh, plünderte die Städte, verheerte die Ebenen und erschlug alle
+jungen Männer mit scharfem Schwert.\\
+\\
+
+<<v28>>
+* Die Besetzung der Reiche an der Meeresküste: 2,28 - 3,8
+
+28 Furcht und Zittern befiel alle Bewohner der Küstengebiete, in Sidon
+und Tyrus, in Sur und Okina sowie alle Einwohner von Jamnia; auch die
+Einwohner von Aschdod und Aschkelon bekamen große Angst vor ihm.
+
+* Footnotes
+
+[fn:1] Die Übergabe von Erde und Wasser ist Zeichen der Unterwerfung.

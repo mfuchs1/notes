@@ -1,0 +1,113 @@
+:PROPERTIES:
+:ID:       a5541970-9023-4d75-a807-46387fb64b6d
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Sacharja* -- [[file:Sach_1.html][1]]
+... [[file:Sach_9.html][9]] [[file:Sach_10.html][10]] *11*
+[[file:Sach_12.html][12]] [[file:Sach_13.html][13]]
+[[file:Sach_14.html][14]]
+
+--------------
+
+* Sach 11
+  :PROPERTIES:
+  :CUSTOM_ID: sach-11
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Öffne deine Tore, Libanon, damit das Feuer deine Zedern frisst.
+
+<<v2>>
+2 Klage, Zypresse! Denn die Zeder ist gefallen; ja, die Mächtigen wurden
+vernichtet. Klagt, ihr Eichen des Baschan, denn der undurchdringliche
+Wald ist dahingesunken. ^{[[#fn1][1]]}
+
+<<v3>>
+3 Horch, die Hirten klagen; denn ihre prächtige Weide ist vernichtet.
+Horch, die jungen Löwen brüllen; denn das Dickicht am Jordan ist
+vernichtet.\\
+\\
+
+<<v4>>
+**** Das Drohwort gegen die schlechten Herrscher: 11,4-17
+     :PROPERTIES:
+     :CUSTOM_ID: das-drohwort-gegen-die-schlechten-herrscher-114-17
+     :END:
+4 So spricht der Herr, mein Gott: Hüte die Schafe, die geschlachtet
+werden sollen. ^{[[#fn2][2]]}
+
+<<v5>>
+5 Ihre Käufer töten sie, ohne es zu büßen. Ihre Verkäufer sagen:
+Gepriesen sei der Herr; denn ich bin reich geworden. Ihre Hirten haben
+kein Mitleid mit ihnen.
+
+<<v6>>
+6 Wahrhaftig, ich habe kein Mitleid mehr mit den Bewohnern des Landes -
+Spruch des Herrn. Seht, jeden Menschen liefere ich seinem Nächsten aus
+und seinem König. Sie zerschlagen das Land und ich rette es nicht aus
+ihrer Hand.
+
+<<v7>>
+7 Ich hütete die Schafe, die geschlachtet werden sollten, für die
+Schafhändler und ich nahm mir zwei Ruten. Eine nannte ich Noam
+(Freundlichkeit), die andere nannte ich Hobelim (Verbindung) und ich
+hütete die Herde.
+
+<<v8>>
+8 Nach meinem Willen verschwanden in einem einzigen Monat drei Hirten.
+Ich war zornig auf sie, auch sie waren meiner überdrüssig.
+
+<<v9>>
+9 Ich sagte: Ich hüte euch nicht. Was im Sterben liegt, soll sterben;
+was sich verloren hat, sei verloren; und von den Übriggebliebenen soll
+einer des andern Fleisch fressen.
+
+<<v10>>
+10 Dann nahm ich meine Rute Noam und hieb sie in Stücke, um meinen Bund
+zu zerbrechen, den ich mit allen Völkern geschlossen hatte.
+
+<<v11>>
+11 So wurde er an diesem Tag zerbrochen. Da erkannten die Schafhändler,
+die auf mich Acht gaben, dass dies ein Wort des Herrn war.
+
+<<v12>>
+12 Ich sagte zu ihnen: Wenn es euch recht scheint, so bringt mir meinen
+Lohn; wenn nicht, so lasst es! Doch sie wogen mir meinen Lohn ab,
+dreißig Silberstücke.
+
+<<v13>>
+13 Da sagte der Herr zu mir: Wirf ihn dem Schmelzer hin! Hoch ist der
+Preis, den ich ihnen wert bin. Und ich nahm die dreißig Silberstücke und
+warf sie im Haus des Herrn dem Schmelzer hin. ^{[[#fn3][3]][[#fn4][4]]}
+
+<<v14>>
+14 Danach hieb ich meine zweite Rute, Hobelim, in Stücke, um den
+brüderlichen Bund zwischen Juda und Israel zu zerbrechen.
+
+<<v15>>
+15 Der Herr sagte zu mir: Nimm nochmals das Gerät des nichtsnutzigen
+Hirten!
+
+<<v16>>
+16 Denn ich lasse einen Hirten im Land auftreten. Um das Vermisste
+kümmert er sich nicht, das Verlorene sucht er nicht, das Gebrochene
+heilt er nicht, das Gesunde versorgt er nicht. Stattdessen isst er das
+Fleisch der gemästeten Schafe und reißt ihnen die Klauen ab.
+
+<<v17>>
+17 Weh meinem nichtsnutzigen Hirten, der die Herde im Stich lässt. Das
+Schwert über seinen Arm und über sein rechtes Auge! Sein Arm soll völlig
+verdorren, sein rechtes Auge soll gänzlich erblinden.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Jes 2,11-13
+
+^{[[#fnm2][2]]} ℘ (4-17) Ez 34
+
+^{[[#fnm3][3]]} ℘ Mt 27,9f
+
+^{[[#fnm4][4]]} Wirf ihn dem Schmelzer hin, andere
+Übersetzungsmöglichkeit nach S: Wirf ihn in das Schatzhaus!

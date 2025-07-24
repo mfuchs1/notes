@@ -1,0 +1,26 @@
+#+title:      Mittwoch 16 April 2025
+#+date:       [2025-04-16 Mi 09:47]
+#+filetags:   :journal:
+#+identifier: 20250416T094756
+
+* Heute kam endlich das große Update für =denote.el=
+
+Das lange Warten hat sich gelohnt. In den nächsten Tagen und Wochen werde ich Schritt für Schritt die neuen Funktionen testen und einbauen. Das Manual muss ich genau lesen. Hier der Link zur Ankündigung auf der Homepage von Prot: [[https://protesilaos.com/codelog/2025-04-15-emacs-denote-4-0-0/][Emacs: Denote version 4.0.0]]
+
+* [2025-04-16 Mi 09:52] Programm für heute
+
+Heute und morgen ist Liam zu Gast
+
+- Ausflug auf den Gaisberg mit Picknick
+- Einkauf im Maximarkt
+- Zuhause: Videospiele
+- Am Abend eventuell Kino von Papa und Leopold (der Minecraft-Film ist aber wirklich nicht gut). Ein anderer Vorschlag: Paddington in Peru, allerdings läuft dieser Film um 15h00 - wird sich nicht ausgehen.
+
+* [2025-04-16 Mi 16:23] Zurück vom Ausflug
+
+[[file:~/RoamNotes/notes/journal/20250416T094756--mittwoch-16-april-2025__journal.org::*\[2025-04-16 Mi 09:52\] Programm für heute][[2025-04-16 Mi 09:52] Programm für heute]]
+
+Der Ausflug war eigentlich sehr schön; leider war der Rundweg gesperrt. Deshalb sind wir zum Gipfel des Gaisbergs hinauf gegangen. War nicht so lang, aber doch recht steil. Der Rückweg war hingegen sehr angenehm. Die Zistelalm war geschlossen, also direkt nach Hause.
+
+Die drei großen Burschen (Liam, Manfred und Gabriel) spielen gemeinsam "Among Us". Leopold tanzt mit einem YouTube Kanal "Thomas K.Tze".
+

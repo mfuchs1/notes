@@ -1,0 +1,59 @@
+#+title:      Unterricht organisieren
+#+date:       [2025-07-21 Mo 10:52]
+#+filetags:   :emacs:schule:
+#+identifier: 20250721T105215
+
+* Wie organisiere ich meinen Unterricht?
+
+Das ist wieder die alte Frage: wie soll ich meine Planung, Vorbereitung, Nachbereitung, Aufzeichnung und Notengebung organisieren?
+
+** Jahresplanung
+
+Für die Jahresplanung habe ich eigentlich schon vier Dateien:
+
+#+BEGIN: denote-links :regexp "jahresplanung" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20240708T214317][Jahresplanung 02]]
+- [[denote:20240709T110253][Jahresplanung 03]]
+- [[denote:20240719T125948][Jahresplanung 01]]
+- [[denote:20240719T131544][Jahresplanung 04]]
+#+END:
+
+Hier sind alle Themen nach den Schulbüchern geordnet; aus den einzelnen Themenüberschriften kann ich eine =Denote= Datei erstellen und gleichzeitig einen Link zu dieser Datei erzeugen. Unterhalb jedes Links kann ich dann eine =deadline= / =schedule= setzen und diese erscheint dann in meiner täglichen Agenda.
+
+In diese einzelnen Dateien kommt hinein:
+- Vorbereitung
+- konkrete Umsetzung
+- Stundenplanung; und v.a. auch:
+- Nachbereitung
+
+So wird mit der Zeit eine ganze Sammlung an kompletten Themen und Stunden entstehen, die ich später wiederverwenden kann.
+
+** Klassendatei
+
+Pro Klasse lege ich dann eine Datei an - mit Links zur jeweiligen Unterrichtsvorbereitung, Klassenliste, etc. Hier kommen dann meine Aufzeichnungen zu jeder Stunde, Schüler hinein.
+
+Oder ich lege pro Schüler eine Datei an? Und wie mache ich dann die Aufzeichnungen? Wie kann ich mit =org-capture= ohne viel Aufwand eine Notiz pro Schüler anlegen? Da würde ich 100e Dateien öffnen, oder? Ich hab das kurz probiert: ich müsste die ~org-agenda-files~ auf ein ganzes Verzeichnis setzen - was die Performance mächtig beeinträchtigt. 
+
+Dieses Problem habe ich dadurch gelöst, indem ich die ~org-agenda-files~, ~org-refile-targets~ und das ~org-directory~ vom ~denote-directory~ getrennt habe. Was vieles vereinfacht. Und jetzt kann ich auch pro Schüler eine Datei anlegen und meine Aufzeichnungen pro Schüler anlegen. Daraus werden aber recht viele Dateien entstehen - wahrscheinlich an die 200. Das ist schon massiv, also eher nicht praktikabel. 
+
+Eine Datei pro Klasse und die Aufzeichnungen pro Schüler als =outline= (mit Unterpunkten und so) in diesen Klassen-Dateien klingt vernünftiger. 
+
+** Notengebung
+
+*Das* ist noch ein großes Problem für mich; wie komme ich von den Aufzeichnungen zu einer Note? Nach welchen Kriterien? Mathe, Deutsch und Englisch Lehrer haben es leichter: es gibt Schularbeiten, Tests, HÜ, ... also genug, das man mit Ziffernnoten bewerten kann. Aber in Religion? Hier gibt es v.a. (mündliche und schriftliche) Mitarbeit.  Natürlich kann ich auch LZK, etc einführen.
+
+Ich müsste also die mündliche und schriftliche Mitarbeit in "Zahlen" fassen. Wie soll das gehen? Ich könnte z.B. Mitarbeit in "Zahlen" aufzeichnen. So z.B.: 
+- sehr gute Mitarbeit: "1"
+- gute / befriedigende Mitarbeit: "2"
+- schlechte / keine Mitarbeit: "3"
+
+Daraus lässt sich dann leicht ein Mittelwert errechnen. 
+
+Wann zeichne ich auf? Am besten am selben Tag, da die Erinnerung noch frisch ist. Für die Vorbereitung der Stunden war das sog. "Stundenbild", als Marie-Luise kam, schon auch hilfreich. Auch die Nachbereitung hat mir ein wenig geholfen. Hier ein neuer test.
+
+Wie zeichne ich auf? In einer Klassen-Datei pro Schüler eine Überschrift, darunter eine kleine Tabelle: Datum, Thema, Note der Mitarbeit, ev. noch zusätzlich Bemerkungen (Verhalten).
+
+** Sokrates / Teacher Assisstent eintragen
+
+Da muss ich wirklich genau und treu sein - *jeden Tag* mein elektronisches Klassenbuch führen. Ist mühsam, mache ich äußerst ungern, muss aber sein. Es ist meine Pflicht.
+

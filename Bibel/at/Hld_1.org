@@ -1,0 +1,167 @@
+#+TITLE: Hld 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-02-13 Do 17:25]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Hld 1.html
+
+* Hld 1
+
+Das Hohelied, wörtlich übersetzt »Das Lied der Lieder«, d. h. »Das
+schönste Lied«, besingt in einer Folge von Gedichten die Liebe von Mann
+und Frau, die sich verbinden, sich verlieren, sich suchen und finden.
+Ähnlich wie das Buch der Sprichwörter und Kohelet gehört es zur
+Weisheitsliteratur und wird nach der Überlieferung König Salomo
+zugeschrieben. In der jüdischen Liturgie wurde es die Festrolle für das
+Paschafest (vgl. die Einleitung zu Rut). Als im 1. Jahrhundert n. Chr.
+in jüdischen Kreisen Zweifel an seiner kanonischen Geltung erhoben
+wurden, löste man sie durch die Berufung auf die Tradition. Die Kirche
+hat das Hohelied immer als Teil der Heiligen Schrift betrachtet.\\
+\\
+Bei keinem alttestamentlichen Buch klaffen die Auslegungen so weit
+auseinander wie hier. Neben der neuen Meinung, das Hohelied entstamme
+dem Kult der Fruchtbarkeitsgöttin Astarte und übertrage den im Alten
+Orient weit verbreiteten Ritus der heiligen Hochzeit auf die
+Jahwe-Verehrung, nimmt die Auffassung zu, es handle sich bei diesem Buch
+um eine realistische Darstellung und Verherrlichung der ehelichen Liebe
+(vgl. die Aussage von Gen 2,24). Der »Sitz im Leben« wäre dann eine
+israelitische Hochzeitsfeier. Dafür sprechen die sogenannten
+Beschreibungslieder (4,1-7; 5,10-16; 7,2-10), die die Schönheit von
+Braut und Bräutigam preisen.\\
+\\
+Älter ist jedoch die allegorische Auslegung: Die Liebe Gottes zu seinem
+Volk wird dargestellt unter dem Bild der Liebe zwischen Eheleuten (vgl.
+Hos 1 - 3). Von den christlichen Schriftstellern wurde später das
+Hohelied auf die Verbindung Christi mit der Kirche oder auf die
+mystische Einheit der Seele mit Gott ausgedeutet.\\
+\\
+Der Verfasser des Hohelieds verfügt über ursprüngliche dichterische
+Kraft und ist ein guter Kenner der Heiligen Schrift. Vielleicht ist die
+Form seiner Lieder von Ägypten her beeinflusst. Ähnlich wie in den
+ägyptischen Liebesliedern ist kein Aufbauplan festzustellen. Wegen
+sprachlicher Eigentümlichkeiten (Aramaismen, ein persisches Wort in
+4,13, ein griechisches Wort in 3,9) ist wohl an nachexilische
+Abfassungszeit in Palästina zu denken. Mit Blick auf die biblische
+Theologie ist neben der Deutung auf die gottgewollte eheliche
+Gemeinschaft die Auslegung auf die Verbindung Christus und Kirche
+durchaus zu rechtfertigen. Dafür spricht vor allem das Gewicht der
+Tradition.\\
+\\
+
+<<verses>>
+
+<<v1>>
+1 Das Hohelied Salomos.\\
+\\
+
+<<v2>>
+2 Mit Küssen seines Mundes bedecke er mich. /\\
+ Süßer als Wein ist deine Liebe. [fn:1]\\
+\\
+
+<<v3>>
+3 Köstlich ist der Duft deiner Salben, /\\
+ dein Name hingegossenes Salböl; /\\
+ darum lieben dich die Mädchen.\\
+\\
+
+<<v4>>
+4 Zieh mich her hinter dir! Lass uns eilen! /\\
+ Der König führt mich in seine Gemächer. Jauchzen lasst uns, deiner uns
+freuen, /\\
+ deine Liebe höher rühmen als Wein. /\\
+ Dich liebt man zu Recht. [fn:2]\\
+\\
+
+<<v5>>
+5 Braun bin ich, doch schön, /\\
+ ihr Töchter Jerusalems, wie die Zelte von Kedar, /\\
+ wie Salomos Decken. [fn:3]\\
+\\
+
+<<v6>>
+6 Schaut mich nicht so an, /\\
+ weil ich gebräunt bin. /\\
+ Die Sonne hat mich verbrannt. Meiner Mutter Söhne waren mir böse, /\\
+ ließen mich Weinberge hüten; /\\
+ den eigenen Weinberg konnte ich nicht hüten.\\
+\\
+
+<<v7>>
+7 Du, den meine Seele liebt, /\\
+ sag mir: Wo weidest du die Herde? /\\
+ Wo lagerst du am Mittag? Wozu soll ich erst umherirren /\\
+ bei den Herden deiner Gefährten? [fn:4]\\
+\\
+
+<<v8>>
+8 Wenn du das nicht weißt, /\\
+ du schönste der Frauen, dann folge den Spuren der Schafe, /\\
+ dann weide deine Zicklein /\\
+ dort, wo die Hirten lagern.\\
+\\
+
+<<v9>>
+9 Mit der Stute an Pharaos Wagen /\\
+ vergleiche ich dich, meine Freundin.\\
+\\
+
+<<v10>>
+10 Schön sind deine Wangen zwischen den Kettchen, /\\
+ dein Hals in der Perlenschnur.\\
+\\
+
+<<v11>>
+11 Machen wir dir noch goldene Kettchen, /\\
+ kleine Silberkugeln daran.\\
+\\
+
+<<v12>>
+12 Solange der König an der Tafel liegt, /\\
+ gibt meine Narde ihren Duft. [fn:5]\\
+\\
+
+<<v13>>
+13 Mein Geliebter ruht wie ein Beutel mit Myrrhe /\\
+ an meiner Brust.\\
+\\
+
+<<v14>>
+14 Eine Hennablüte ist mein Geliebter mir /\\
+ aus den Weinbergen von En-Gedi.\\
+\\
+
+<<v15>>
+15 Schön bist du, meine Freundin, /\\
+ ja, du bist schön. /\\
+ Zwei Tauben sind deine Augen.\\
+\\
+
+<<v16>>
+16 Schön bist du, mein Geliebter, verlockend. /\\
+ Frisches Grün ist unser Lager,\\
+\\
+
+<<v17>>
+17 Zedern sind die Balken unseres Hauses, /\\
+ Zypressen die Wände.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Hld_4.org::v10][4,10]]
+
+[fn:2] [[file:Hld_4.org::v10][4,10]]
+
+[fn:3] 5d: wie Salomos Decken, andere Lesart: wie die Decken
+von Schalma (nordarabischer Beduinenstamm).
+
+[fn:4] 7d: umherirren: Text korr.; H: wie eine verhüllte Frau.
+
+[fn:5] [[v3][1,3]]

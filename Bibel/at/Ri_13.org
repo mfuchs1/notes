@@ -1,0 +1,156 @@
+#+TITLE: Ri 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-05 So 00:26]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 13.html
+
+<<verses>>
+
+<<v1>>
+* Die Ankündigung der Geburt Simsons: 13,1-25
+
+1 Die Israeliten taten wieder, was dem Herrn missfiel. Deshalb gab sie
+der Herr vierzig Jahre lang in die Gewalt der Philister.
+
+<<v2>>
+2 Damals lebte in Zora ein Mann namens Manoach, aus der Sippe der
+Daniter; seine Frau war unfruchtbar und hatte keine Kinder.
+
+<<v3>>
+3 Der Engel des Herrn erschien der Frau und sagte zu ihr: Gewiss, du
+bist unfruchtbar und hast keine Kinder; aber du sollst schwanger werden
+und einen Sohn gebären.
+
+<<v4>>
+4 Nimm dich jedoch in Acht und trink weder Wein noch Bier und iss nichts
+Unreines! [fn:1]
+
+<<v5>>
+5 Denn siehe, du wirst schwanger werden und einen Sohn gebären. Es darf
+kein Schermesser an seine Haare kommen; denn der Knabe wird von Geburt
+an ein Gott geweihter Nasiräer sein. Er wird damit beginnen, Israel aus
+der Gewalt der Philister zu befreien. [fn:2] [fn:3]
+
+<<v6>>
+6 Die Frau ging und sagte zu ihrem Mann: Ein Gottesmann ist zu mir
+gekommen; er sah aus, wie der Engel Gottes aussieht, überaus Furcht
+erregend. Ich habe ihn nicht gefragt, woher er kam, und er hat mir auch
+seinen Namen nicht genannt.
+
+<<v7>>
+7 Er sagte zu mir: Siehe, du wirst schwanger werden und einen Sohn
+gebären. Trink jedoch keinen Wein und kein Bier und iss nichts Unreines;
+denn der Knabe wird von Geburt an ein Gott geweihter Nasiräer sein, bis
+zum Tag seines Todes.
+
+<<v8>>
+8 Da betete Manoach zum Herrn und sagte: Bitte, mein Herr, lass doch den
+Gottesmann, den du gesandt hast, noch einmal zu uns kommen und uns
+belehren, was wir mit dem Knaben machen sollen, der geboren werden soll.
+
+<<v9>>
+9 Und Gott erhörte die Bitte Manoachs. Der Engel Gottes kam noch einmal
+zu der Frau, als sie gerade auf dem Feld war; ihr Mann Manoach war nicht
+bei ihr.
+
+<<v10>>
+10 Sie lief schnell zu ihrem Mann, um es ihm mitzuteilen; sie sagte zu
+ihm: Eben ist der Mann, der damals zu mir gekommen ist, wieder
+erschienen.
+
+<<v11>>
+11 Manoach stand auf und folgte seiner Frau. Als er zu dem Mann kam,
+fragte er ihn: Bist du der Mann, der mit meiner Frau geredet hat? Er
+antwortete: Ja, ich bin es.
+
+<<v12>>
+12 Da sagte Manoach: Wenn sich nun dein Wort erfüllt, wie sollen wir es
+mit dem Knaben halten, was sollen wir mit ihm tun?
+
+<<v13>>
+13 Der Engel des Herrn antwortete Manoach: Die Frau soll sich vor all
+dem hüten, was ich ihr gesagt habe.
+
+<<v14>>
+14 Nichts, was vom Weinstock kommt, darf sie genießen; weder Wein noch
+Bier darf sie trinken und nichts Unreines essen. Alles, was ich ihr
+befohlen habe, muss sie beachten.
+
+<<v15>>
+15 Manoach sagte zum Engel des Herrn: Wir möchten dich gern einladen und
+dir ein Ziegenböckchen zubereiten.
+
+<<v16>>
+16 Aber der Engel des Herrn sagte zu Manoach: Auch wenn du mich
+einlädst, werde ich von deinem Mahl nichts essen. Wenn du aber ein
+Brandopfer herrichten willst, bring es dem Herrn dar! Manoach wusste
+nämlich nicht, dass es der Engel des Herrn war.
+
+<<v17>>
+17 Deshalb fragte Manoach den Engel des Herrn: Wie ist dein Name? Wenn
+eintrifft, was du gesagt hast, möchten wir dir gern Ehre erweisen. [fn:4]
+
+<<v18>>
+18 Der Engel des Herrn erwiderte: Warum fragst du mich nach meinem
+Namen? Er ist wunderbar.
+
+<<v19>>
+19 Da nahm Manoach das Ziegenböckchen und brachte es zusammen mit einem
+Speiseopfer auf einem Felsblock dem Herrn dar, der Wunder tut. [Manoach
+und seine Frau sahen zu.] [fn:5]
+
+<<v20>>
+20 Als die Flamme vom Altar zum Himmel aufstieg, stieg der Engel des
+Herrn in der Flamme des Altars mit empor. Als Manoach und seine Frau das
+sahen, warfen sie sich zu Boden auf ihr Gesicht.
+
+<<v21>>
+21 Von da an aber erschien der Engel des Herrn dem Manoach und seiner
+Frau nicht mehr. Da erkannte Manoach, dass es der Engel des Herrn
+gewesen war,
+
+<<v22>>
+22 und sagte zu seiner Frau: Sicher müssen wir sterben, weil wir Gott
+gesehen haben. [fn:6]
+
+<<v23>>
+23 Doch seine Frau entgegnete ihm: Wenn der Herr uns hätte töten wollen,
+hätte er nicht aus unserer Hand Brand- und Speiseopfer angenommen und er
+hätte uns nicht all das sehen und uns auch nichts Derartiges hören
+lassen.
+
+<<v24>>
+24 Die Frau gebar einen Sohn und nannte ihn Simson; der Knabe wuchs
+heran und der Herr segnete ihn.
+
+<<v25>>
+25 Dann aber begann der Geist des Herrn, ihn umherzutreiben im Lager
+Dans zwischen Zora und Eschtaol. [fn:7]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Num_6.org::v2][Num 6,2-21]]
+
+[fn:2] [[file:Jes_7.org::v14][Jes 7,14]]
+
+[fn:3] Ein Nasiräer (= Ausgesonderter, Geweihter), wie es
+Simson auf Weisung Gottes sein soll, muss verschiedene Arten von
+Enthaltsamkeit auf sich nehmen, die hier auch Simsons Mutter zu beachten
+hat (vgl. die Anmerkung zu [[file:Num_6.org::v1][Num 6,1-21]]).
+
+[fn:4] [[file:Gen_32.org::v30][Gen 32,30]]
+
+[fn:5] der Wunder tut: Text korr., vgl. G. Unter diesem Titel
+wird Gott anscheinend an diesem Heiligtum bei Zora verehrt (vgl. die VV.
+18 und 20). - Der Zusatz stammt aus V. 20.
+
+[fn:6] [[file:Ex_33.org::v20][Ex 33,20]]; [[file:Jes_6.org::v5][Jes 6,5]]
+
+[fn:7] [[file:Ri_3.org::v10][3,10]]; [[file:Ri_6.org::v34][6,34]]; [[file:Ri_11.org::v29][11,29]]; [[file:1.Sam_10.org::v6][1 Sam 10,6]]

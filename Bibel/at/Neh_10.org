@@ -1,0 +1,197 @@
+#+TITLE: Neh 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 00:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Neh 10.html
+
+<<verses>>
+
+<<v1>>
+* Die Verpflichtung auf das Gesetz: 10,1-40
+
+1 Wegen all dem schließen wir nun einen Vertrag und schreiben ihn
+nieder. Auf der gesiegelten Urkunde stehen die Namen unserer Obersten,
+Leviten und Priester.
+
+<<v2>>
+2 Auf der gesiegelten Urkunde stehen: der Statthalter Nehemia, der Sohn
+Hachaljas, und Zidkija,
+
+<<v3>>
+3 Seraja, Asarja, Jirmeja,
+
+<<v4>>
+4 Paschhur, Armarja, Malkija,
+
+<<v5>>
+5 Hattusch, Schebanja, Malluch,
+
+<<v6>>
+6 Harim, Meremot, Obadja,
+
+<<v7>>
+7 Daniel, Ginneton, Baruch,
+
+<<v8>>
+8 Meschullam, Abija, Mijamin,
+
+<<v9>>
+9 Maasja, Bilga und Schemaja; das sind die Priester.
+
+<<v10>>
+10 Dann die Leviten: Jeschua, der Sohn Asanjas, Binnui, der Nachkomme
+Henadads, und Kadmiël,
+
+<<v11>>
+11 sodann ihre Brüder Schebanja, Hodija, Kelita, Pelaja, Hanan,
+
+<<v12>>
+12 Micha, Rehob, Haschabja,
+
+<<v13>>
+13 Sakkur, Scherebja, Schebanja,
+
+<<v14>>
+14 Hodija, Bani und Beninu.
+
+<<v15>>
+15 Dann folgen die Oberhäupter des Volkes: Parosch, Pahat-Moab, Elam,
+Sattu, Bani,
+
+<<v16>>
+16 Bunni, Asgad, Bebai,
+
+<<v17>>
+17 Adonija, Bigwai, Adin,
+
+<<v18>>
+18 Ater, Hiskija, Asur,
+
+<<v19>>
+19 Hodija, Haschum, Bezai,
+
+<<v20>>
+20 Harif, Anatot, Nebai,
+
+<<v21>>
+21 Magpiasch, Meschullam, Hesir,
+
+<<v22>>
+22 Meschesabel, Zadok, Jaddua,
+
+<<v23>>
+23 Pelatja, Hanan, Anaja,
+
+<<v24>>
+24 Hoschea, Hananja, Haschub,
+
+<<v25>>
+25 Lohesch, Pilha, Schobek,
+
+<<v26>>
+26 Rehum, Haschabna, Maaseja,
+
+<<v27>>
+27 Ahija, Hanan, Anan,
+
+<<v28>>
+28 Malluch, Harim und Baana.
+
+<<v29>>
+29 Die übrigen vom Volk, von den Priestern und Leviten, die Torwächter,
+Sänger und Tempeldiener, alle, die sich von den Völkern der anderen
+Länder abgesondert und dem Gesetz Gottes zugewandt haben, ihre Frauen,
+Söhne und Töchter, alle, die das nötige Verständnis besitzen: [fn:1]
+
+<<v30>>
+30 Sie schließen sich ihren führenden Brüdern an; sie verpflichten sich
+unter Eid und Schwur, das Gesetz Gottes zu befolgen, das durch Mose, den
+Diener Gottes, gegeben wurde, und alle Gebote des Herrn, unseres Gottes,
+seine Vorschriften und Satzungen zu beachten und zu erfüllen.
+
+<<v31>>
+31 Wir werden unsere Töchter nicht den Völkern im Land zu Frauen geben,
+noch ihre Töchter für unsere Söhne nehmen. [fn:2] [fn:3]
+
+<<v32>>
+32 Wenn die Völker des Landes Waren, besonders Getreide jeder Art, am
+Sabbat zum Verkauf anbieten, werden wir ihnen am Sabbat oder an einem
+anderen heiligen Tag nichts abnehmen. Wir verzichten in jedem siebten
+Jahr auf den Ertrag des Bodens und auf jede Schuldforderung. [fn:4]
+
+<<v33>>
+33 Ferner übernehmen wir die Pflicht, jährlich ein Drittelschekel für
+den Dienst im Haus unseres Gottes zu geben, [fn:5] [fn:6]
+
+<<v34>>
+34 für die Schaubrote, das tägliche Speiseopfer und das tägliche
+Brandopfer, für die Opfer an den Sabbaten, Neumondtagen und Festen, für
+die Weiheopfer und die Sündopfer, durch die man Israel Sühne verschafft,
+und für alle Arbeiten im Haus unseres Gottes.
+
+<<v35>>
+35 Die Lieferung des Brennholzes haben wir ausgelost unter den
+Priestern, den Leviten und dem Volk. Jede Familie soll es jährlich zu
+der für sie bestimmten Zeit zum Haus unseres Gottes bringen. Es soll auf
+dem Altar des Herrn, unseres Gottes, brennen, wie es im Gesetz
+vorgeschrieben ist. [fn:7]
+
+<<v36>>
+36 Ferner bringen wir jährlich zum Haus des Herrn die ersten Erträge
+unserer Felder und die ersten Erträge aller Baumfrüchte, [fn:8]
+
+<<v37>>
+37 unsere erstgeborenen Söhne und die ersten Jungen unseres Viehs, wie
+es im Gesetz vorgeschrieben ist. Die ersten Jungen unserer Rinder und
+Schafe bringen wir zum Haus unseres Gottes für die Priester, die im Haus
+unseres Gottes Dienst tun. [fn:9]
+
+<<v38>>
+38 Den Erstanteil von unserem Brotteig und von den Früchten aller Bäume
+sowie von Wein und Öl bringen wir für die Priester in die Kammern des
+Hauses unseres Gottes. Den Leviten geben wir den Zehnten vom Ertrag
+unseres Bodens. Die Leviten selbst erheben den Zehnten an allen Orten,
+wo wir das Feld bebauen. [fn:10]
+
+<<v39>>
+39 Wenn die Leviten den Zehnten erheben, soll ein Priester, ein
+Nachkomme Aarons, die Leviten begleiten. Die Leviten bringen dann den
+Zehnten vom Zehnten zum Haus unseres Gottes in die Vorratskammern. -
+
+<<v40>>
+40 In diese Kammern nämlich bringen die Israeliten und die Leviten die
+Abgaben an Getreide, Wein und Öl. Dort sind die Vorratsbehälter des
+Heiligtums, der Priester, die Dienst tun, der Torwächter und Sänger. -
+So werden wir das Haus unseres Gottes nicht im Stich lassen. [fn:11]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Esra_6.org::v21][Esra 6,21]]; [[file:Neh_8.org::v2][Neh 8,2f]]
+
+[fn:2] [[file:Esra_9.org::v1][Esra 9,1f]]; [[file:Esra_10.org::v2][10,2]]-[[file:Esra_10.org::v11][11]]; [[file:Ex_34.org::v16][Ex 34,16]]; [[file:Dtn_7.org::v1][Dtn 7,1]]-[[file:Dtn_7.org::v3][3]]
+
+[fn:3] Die «Völker im Land» sind die heidnischen Mitbewohner
+und Nachbarn Israels (vgl. Esra 9,1f).
+
+[fn:4] [[file:Jer_17.org::v19][Jer 17,19]]-[[file:Jer_17.org::v22][22]]; [[file:Neh_13.org::v15][Neh 13,15]]-[[file:Neh_13.org::v22][22]]; [[file:Ex_23.org::v10][Ex 23,10f]]; [[file:Dtn_15.org::v1][Dtn 15,1]]-[[file:Dtn_15.org::v3][3]]
+
+[fn:5] [[file:Ex_30.org::v13][Ex 30,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_17.org::v24][Mt 17,24]]
+
+[fn:6] Ein Drittelschekel ist eine Silbermünze.
+
+[fn:7] [[file:Neh_13.org::v31][13,31]]; [[file:Lev_6.org::v5][Lev 6,5]]
+
+[fn:8] [[file:Num_18.org::v12][Num 18,12]]-[[file:Num_18.org::v32][32]]
+
+[fn:9] [[file:Ex_13.org::v2][Ex 13,2]].[[file:Ex_13.org::v13][13]]
+
+[fn:10] [[file:Num_15.org::v20][Num 15,20f]]; [[file:Dtn_14.org::v22][Dtn 14,22]]; [[file:Num_18.org::v26][Num 18,26]]-[[file:Num_18.org::v32][32]]
+
+[fn:11] [[file:Jer_40.org::v10][Jer 40,10]]

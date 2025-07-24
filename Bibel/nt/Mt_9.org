@@ -1,0 +1,319 @@
+:PROPERTIES:
+:ID:       ed5952d4-f212-4fa9-bdba-37b30063b28a
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Matthäus* --
+[[file:Mt_1.html][1]] ... [[file:Mt_7.html][7]] [[file:Mt_8.html][8]]
+*9* [[file:Mt_10.html][10]] [[file:Mt_11.html][11]] ...
+[[file:Mt_28.html][28]]
+
+--------------
+
+* Mt 9
+  :PROPERTIES:
+  :CUSTOM_ID: mt-9
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Heilung eines Gelähmten: 9,1-8
+     :PROPERTIES:
+     :CUSTOM_ID: die-heilung-eines-gelähmten-91-8
+     :END:
+1 Jesus stieg in das Boot, fuhr über den See und kam in seine Stadt.
+^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 92\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Da brachte man auf einer Tragbahre einen Gelähmten zu ihm. Als Jesus
+ihren Glauben sah, sagte er zu dem Gelähmten: Hab Vertrauen, mein Sohn,
+deine Sünden sind dir vergeben! ^{[[#fn2][2]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 99\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v3>>
+3 Da dachten einige Schriftgelehrte: Er lästert Gott.
+
+<<v4>>
+4 Jesus wusste, was sie dachten, und sagte: Warum habt ihr so böse
+Gedanken im Herzen?
+
+<<v5>>
+5 Was ist leichter, zu sagen: Deine Sünden sind dir vergeben!, oder zu
+sagen: Steh auf und geh umher?
+
+<<v6>>
+6 Ihr sollt aber erkennen, dass der Menschensohn die Vollmacht hat, hier
+auf der Erde Sünden zu vergeben. Darauf sagte er zu dem Gelähmten: Steh
+auf, nimm deine Tragbahre, und geh nach Hause!
+
+<<v7>>
+7 Und der Mann stand auf und ging heim.
+
+<<v8>>
+8 Als die Leute das sahen, erschraken sie und priesen Gott, der den
+Menschen solche Vollmacht gegeben hat.\\
+\\
+
+<<v9>>
+**** Die Berufung des Matthäus und das Mahl mit den Zöllnern: 9,9-13
+     :PROPERTIES:
+     :CUSTOM_ID: die-berufung-des-matthäus-und-das-mahl-mit-den-zöllnern-99-13
+     :END:
+9 Als Jesus weiterging, sah er einen Mann namens Matthäus am Zoll sitzen
+und sagte zu ihm: Folge mir nach! Da stand Matthäus auf und folgte ihm.
+^{[[#fn3][3]][[#fn4][4]][[#fn5][5]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 93\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v10>>
+10 Und als Jesus in seinem Haus beim Essen war, kamen viele Zöllner und
+Sünder und aßen zusammen mit ihm und seinen Jüngern.
+^{[[#fn6][6]][[#fn7][7]]}
+
+<<v11>>
+11 Als die Pharisäer das sahen, sagten sie zu seinen Jüngern: Wie kann
+euer Meister zusammen mit Zöllnern und Sündern essen?
+
+<<v12>>
+12 Er hörte es und sagte: Nicht die Gesunden brauchen den Arzt, sondern
+die Kranken.
+
+<<v13>>
+13 Darum lernt, was es heißt: /Barmherzigkeit will ich, nicht Opfer./
+Denn ich bin gekommen, um die Sünder zu rufen, nicht die Gerechten.
+^{[[#fn8][8]]}\\
+\\
+
+<<v14>>
+**** Die Frage nach dem Fasten: 9,14-17
+     :PROPERTIES:
+     :CUSTOM_ID: die-frage-nach-dem-fasten-914-17
+     :END:
+14 Da kamen die Jünger des Johannes zu ihm und sagten: Warum fasten
+deine Jünger nicht, während wir und die Pharisäer fasten?
+^{[[#fn9][9]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 94\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v15>>
+15 Jesus antwortete ihnen: Können denn die Hochzeitsgäste trauern,
+solange der Bräutigam bei ihnen ist? Es werden aber Tage kommen, da wird
+ihnen der Bräutigam genommen sein; dann werden sie fasten.
+
+<<v16>>
+16 Niemand setzt ein Stück neuen Stoff auf ein altes Kleid; denn der
+neue Stoff reißt doch wieder ab und es entsteht ein noch größerer Riss.
+^{[[#fn10][10]]}
+
+<<v17>>
+17 Auch füllt man nicht neuen Wein in alte Schläuche. Sonst reißen die
+Schläuche, der Wein läuft aus und die Schläuche sind unbrauchbar. Neuen
+Wein füllt man in neue Schläuche, dann bleibt beides erhalten.\\
+\\
+
+<<v18>>
+**** Die Auferweckung der Tochter eines Synagogenvorstehers und die
+Heilung einer kranken Frau: 9,18-26
+     :PROPERTIES:
+     :CUSTOM_ID: die-auferweckung-der-tochter-eines-synagogenvorstehers-und-die-heilung-einer-kranken-frau-918-26
+     :END:
+18 Während Jesus so mit ihnen redete, kam ein Synagogenvorsteher, fiel
+vor ihm nieder und sagte: Meine Tochter ist eben gestorben; komm doch,
+leg ihr deine Hand auf, dann wird sie wieder lebendig.
+^{[[#fn11][11]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 95\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v19>>
+19 Jesus stand auf und folgte ihm mit seinen Jüngern.
+
+<<v20>>
+20 Da trat eine Frau, die schon zwölf Jahre an Blutungen litt, von
+hinten an ihn heran und berührte den Saum seines Gewandes;
+^{[[#fn12][12]][[#fn13][13]]}
+
+<<v21>>
+21 denn sie sagte sich: Wenn ich auch nur sein Gewand berühre, werde ich
+geheilt.
+
+<<v22>>
+22 Jesus wandte sich um, und als er sie sah, sagte er: Hab keine Angst,
+meine Tochter, dein Glaube hat dir geholfen. Und von dieser Stunde an
+war die Frau geheilt. ^{[[#fn14][14]]}
+
+<<v23>>
+23 Als Jesus in das Haus des Synagogenvorstehers kam und die
+Flötenspieler und die Menge der klagenden Leute sah,
+
+<<v24>>
+24 sagte er: Geht hinaus! Das Mädchen ist nicht gestorben, es schläft
+nur. Da lachten sie ihn aus.
+
+<<v25>>
+25 Als man die Leute hinausgedrängt hatte, trat er ein und fasste das
+Mädchen an der Hand; da stand es auf. ^{[[#fn15][15]]}
+
+<<v26>>
+26 Und die Kunde davon verbreitete sich in der ganzen Gegend.\\
+\\
+
+<<v27>>
+**** Die Heilung von zwei Blinden: 9,27-31
+     :PROPERTIES:
+     :CUSTOM_ID: die-heilung-von-zwei-blinden-927-31
+     :END:
+27 Als Jesus weiterging, folgten ihm zwei Blinde und schrien: Hab
+Erbarmen mit uns, Sohn Davids!
+^{[[#fn16][16]][[#fn17][17]][[#fn18][18]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 96\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v28>>
+28 Nachdem er ins Haus gegangen war, kamen die Blinden zu ihm. Er sagte
+zu ihnen: Glaubt ihr, dass ich euch helfen kann? Sie antworteten: Ja,
+Herr.
+
+<<v29>>
+29 Darauf berührte er ihre Augen und sagte: Wie ihr geglaubt habt, so
+soll es geschehen.
+
+<<v30>>
+30 Da wurden ihre Augen geöffnet. Jesus aber befahl ihnen: Nehmt euch in
+Acht! Niemand darf es erfahren.
+
+<<v31>>
+31 Doch sie gingen weg und erzählten von ihm in der ganzen Gegend.\\
+\\
+
+<<v32>>
+**** Die Heilung eines Stummen: 9,32-34
+     :PROPERTIES:
+     :CUSTOM_ID: die-heilung-eines-stummen-932-34
+     :END:
+32 Als sie gegangen waren, brachte man zu Jesus einen Stummen, der von
+einem Dämon besessen war. ^{[[#fn19][19]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 97\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v33>>
+33 Er trieb den Dämon aus, und der Stumme konnte reden. Alle Leute
+staunten und sagten: So etwas ist in Israel noch nie geschehen.
+
+<<v34>>
+34 Die Pharisäer aber sagten: Mit Hilfe des Anführers der Dämonen treibt
+er die Dämonen aus. ^{[[#fn20][20]]}\\
+\\
+
+<<v35>>
+*** Die Aussendungsrede: 9,35 - 11,1
+    :PROPERTIES:
+    :CUSTOM_ID: die-aussendungsrede-935---111
+    :END:
+**** Von der Größe der Ernte: 9,35-38
+     :PROPERTIES:
+     :CUSTOM_ID: von-der-größe-der-ernte-935-38
+     :END:
+35 Jesus zog durch alle Städte und Dörfer, lehrte in ihren Synagogen,
+verkündete das Evangelium vom Reich und heilte alle Krankheiten und
+Leiden. ^{[[#fn21][21]][[#fn22][22]][[#fn23][23]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 98\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v36>>
+36 Als er die vielen Menschen sah, hatte er Mitleid mit ihnen; denn sie
+waren müde und erschöpft /wie Schafe, die keinen Hirten haben./
+^{[[#fn24][24]]}
+
+<<v37>>
+37 Da sagte er zu seinen Jüngern: Die Ernte ist groß, aber es gibt nur
+wenig Arbeiter. ^{[[#fn25][25]]}
+
+<<v38>>
+38 Bittet also den Herrn der Ernte, Arbeiter für seine Ernte
+auszusenden.\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-8) Mk 2,1-12; Lk 5,17-26 ⇨Esyn: Synopse Nr. 92
+
+^{[[#fnm2][2]]} ℘ Lk 7,48 ⇨Esyn: Synopse Nr. 99
+
+^{[[#fnm3][3]]} ℘ 8,22; (9-13) Mk 2,13-17; Lk 5,27-32
+
+^{[[#fnm4][4]]} 9-13: Nur das Matthäusevangelium identifiziert den
+bekehrten Beamten der Zollstelle von Kafarnaum mit Matthäus, dem
+Mitglied des Zwölferkreises und späteren Apostel (vgl. auch 10,3:
+«Matthäus, der Zöllner»). Bei Markus und Lukas fehlen diese Hinweise;
+bei ihnen hieß der Zöllner Levi (vgl. die Einführung zum
+Matthäusevangelium).
+
+^{[[#fnm5][5]]} ℘ ⇨Esyn: Synopse Nr. 93
+
+^{[[#fnm6][6]]} ℘ 11,19; Lk 15,1f; 19,7
+
+^{[[#fnm7][7]]} in seinem Haus: entweder im Haus des Matthäus oder im
+Haus Jesu.
+
+^{[[#fnm8][8]]} ℘ Hos 6,6; Mt 12,7; Lk 19,10
+
+^{[[#fnm9][9]]} ℘ 11,18; (14-17) Mk 2,18-22; Lk 5,33-38 ⇨Esyn: Synopse
+Nr. 94
+
+^{[[#fnm10][10]]} 16f: Die zwei Klugheitsregeln weisen auf die
+Unverträglichkeit von Neuem und Altem hin. - «Schläuche» waren
+zusammengenähte Ziegenfelle, die man im Altertum anstelle von
+Weinfässern verwendete. Ungewalktes Tuch zieht sich bei Nässe zusammen.
+
+^{[[#fnm11][11]]} ℘ (18-26) Mk 5,21-43; Lk 8,40-56 ⇨Esyn: Synopse Nr. 95
+
+^{[[#fnm12][12]]} ℘ 14,36; Mk 6,56
+
+^{[[#fnm13][13]]} 20-22: Blutungen machten eine Frau unrein; sie durfte
+nicht am Gottesdienst teilnehmen und musste die Berührung mit anderen
+Menschen meiden, da diese sonst ebenfalls unrein wurden. Das Vorgehen
+der Frau war deshalb ein Verstoß gegen das Gesetz (vgl. Lev 12),
+offenbart aber ihre Not und ihr Vertrauen.
+
+^{[[#fnm14][14]]} ℘ Mk 10,52; Lk 7,50; 17,19; 18,42; Apg 14,9
+
+^{[[#fnm15][15]]} ℘ Mk 1,31; 9,27
+
+^{[[#fnm16][16]]} ℘ (27-30) 20,29-34; Mk 10,46-52; Lk 18,35-43; (27)
+15,22
+
+^{[[#fnm17][17]]} Matthäus verdoppelt gern die Personen bei Heilungen,
+wie der Vergleich mit Mk 8,22-26 zeigt (vgl. auch Mt 20,29-34 mit Mk
+10,46-52 und Mt 8,28 mit Mk 5,2).
+
+^{[[#fnm18][18]]} ℘ ⇨Esyn: Synopse Nr. 96
+
+^{[[#fnm19][19]]} ℘ (32-34) 12,22-24; Lk 11,14f ⇨Esyn: Synopse Nr. 97
+
+^{[[#fnm20][20]]} ℘ 10,25; Mk 3,22
+
+^{[[#fnm21][21]]} ℘ Mk 6,6; Lk 8,1;
+
+^{[[#fnm22][22]]} 35-11,1: Aus verschiedenen Weisungen Jesu an die
+ausgesandten Jünger und anderen Worten Jesu hat Matthäus eine Rede
+gebildet, die Richtlinien gibt für die missionierende und zugleich
+verfolgte Kirche seiner Zeit. - Die Berufung der Zwölf (10,1-4) war ein
+Zeichen für den Anspruch Jesu, die zwölf Stämme Israels wieder zu
+sammeln und so das Gottesvolk der Endzeit zu schaffen.
+
+^{[[#fnm23][23]]} ℘ ⇨Esyn: Synopse Nr. 98
+
+^{[[#fnm24][24]]} ℘ 14,14; 15,32; Mk 6,34; 8,2; Num 27,17; 1 Kön 22,17;
+Ez 34,5
+
+^{[[#fnm25][25]]} ℘ (37-38) Lk 10,2

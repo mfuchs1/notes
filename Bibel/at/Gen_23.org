@@ -1,0 +1,111 @@
+#+TITLE: Gen 23 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 23.html
+
+
+<<verses>>
+
+<<v1>>
+* Saras Tod und Grabstätte: 23,1-20
+
+1 Die Lebenszeit Saras betrug hundertsiebenundzwanzig Jahre; so lange
+lebte Sara.
+
+<<v2>>
+2 Sie starb in Kirjat-Arba, das jetzt Hebron heißt, in Kanaan. Abraham
+kam, um die Totenklage über sie zu halten und sie zu beweinen.
+
+<<v3>>
+3 Danach stand Abraham auf, ging von seiner Toten weg und redete mit den
+Hetitern. Er sagte:
+
+<<v4>>
+4 Fremder und Halbbürger bin ich unter euch. Gebt mir ein Grab bei euch
+als Eigentum, damit ich meine Tote hinausbringen und begraben kann.
+
+<<v5>>
+5 Die Hetiter antworteten Abraham:
+
+<<v6>>
+6 Hör uns an, Herr! Du bist ein Gottesfürst in unserer Mitte. In der
+vornehmsten unserer Grabstätten darfst du deine Tote begraben. Keiner
+von uns wird dir seine Grabstätte versagen und deiner Toten das
+Begräbnis verweigern.
+
+<<v7>>
+7 Abraham aber stand auf, verneigte sich tief vor den Bürgern des
+Landes, den Hetitern,
+
+<<v8>>
+8 verhandelte mit ihnen und sagte: Wenn ihr damit einverstanden seid,
+dass ich meine Tote hinausbringe und begrabe, dann hört mich an und
+setzt euch für mich ein bei Efron, dem Sohn Zohars!
+
+<<v9>>
+9 Er soll mir die Höhle von Machpela überlassen, die ihm gehört, am Rand
+seines Grundstücks. Zum vollen Geldwert soll er sie mir überlassen als
+eigene Grabstätte mitten unter euch.
+
+<<v10>>
+10 Efron saß unter den Hetitern. Der Hetiter Efron antwortete Abraham,
+sodass es die Hetiter, alle, die zum Tor seiner Stadt Zutritt hatten,
+hören konnten: [fn:1]
+
+<<v11>>
+11 Nein, Herr, hör mich an: Das Grundstück überlasse ich dir und die
+Höhle darauf überlasse ich dir; in Gegenwart der Söhne meines Volkes
+überlasse ich sie dir. Begrab deine Tote!
+
+<<v12>>
+12 Da verneigte sich Abraham tief in Gegenwart der Bürger des Landes
+
+<<v13>>
+13 und sagte zu Efron, sodass es die Bürger des Landes hören konnten:
+Hör mich doch, bitte, an: Ich zahle das Geld für das Grundstück. Nimm es
+von mir an, damit ich dort meine Tote begrabe.
+
+<<v14>>
+14 Efron antwortete Abraham:
+
+<<v15>>
+15 Herr, hör mich an! Land im Wert von vierhundert Silberstücken, was
+bedeutet das schon unter uns? Begrab nur deine Tote!
+
+<<v16>>
+16 Abraham hörte auf Efron und wog ihm den Geldbetrag ab, den er in
+Gegenwart der Hetiter genannt hatte, vierhundert Silberstücke zum
+üblichen Handelswert.
+
+<<v17>>
+17 So ging das Grundstück Efrons in Machpela bei Mamre, das Feld mit der
+Höhle darauf und mit allen Bäumen auf dem Grundstück in seiner ganzen
+Ausdehnung ringsum,
+
+<<v18>>
+18 in den Besitz Abrahams über, in Gegenwart der Hetiter, aller, die zum
+Tor seiner Stadt Zutritt hatten.
+
+<<v19>>
+19 Dann begrub Abraham seine Frau Sara in der Höhle des Grundstücks von
+Machpela bei Mamre, das jetzt Hebron heißt, in Kanaan.
+
+<<v20>>
+20 Das Grundstück samt der Höhle darauf war also von den Hetitern als
+Grabstätte in den Besitz Abrahams übergegangen.\\
+\\
+
+
+* Footnotes
+
+[fn:1] die zum Tor Zutritt haben: Am Tor finden die
+Ratsversammlungen und die Gerichtsverhandlungen statt; gemeint sind also
+die Bürger, die in öffentlichen Angelegenheiten am Tor Sitz und Stimme
+haben.

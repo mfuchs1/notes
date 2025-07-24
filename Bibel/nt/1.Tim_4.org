@@ -1,0 +1,126 @@
+:PROPERTIES:
+:ID:       c6142e30-91d8-481c-af5b-1ebc68b0fd5c
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der erste Brief an Timotheus* --
+[[file:1.Tim_1.html][1]] [[file:1.Tim_2.html][2]]
+[[file:1.Tim_3.html][3]] *4* [[file:1.Tim_5.html][5]]
+[[file:1.Tim_6.html][6]]
+
+--------------
+
+* 1.Tim 4
+  :PROPERTIES:
+  :CUSTOM_ID: tim-4
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Falsche Haltungen: 4,1-5
+     :PROPERTIES:
+     :CUSTOM_ID: falsche-haltungen-41-5
+     :END:
+1 Der Geist sagt ausdrücklich: In späteren Zeiten werden manche vom
+Glauben abfallen; sie werden sich betrügerischen Geistern und den Lehren
+von Dämonen zuwenden, ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 getäuscht von heuchlerischen Lügnern, deren Gewissen gebrandmarkt ist.
+
+<<v3>>
+3 Sie verbieten die Heirat und fordern den Verzicht auf bestimmte
+Speisen, die Gott doch dazu geschaffen hat, dass die, die zum Glauben
+und zur Erkenntnis der Wahrheit gelangt sind, sie mit Danksagung zu sich
+nehmen. ^{[[#fn3][3]][[#fn4][4]]}
+
+<<v4>>
+4 Denn alles, was Gott geschaffen hat, ist gut und nichts ist
+verwerflich, wenn es mit Dank genossen wird; ^{[[#fn5][5]]}
+
+<<v5>>
+5 es wird geheiligt durch Gottes Wort und durch das Gebet.\\
+\\
+
+<<v6>>
+**** Die rechte Wertordnung: 4,6-11
+     :PROPERTIES:
+     :CUSTOM_ID: die-rechte-wertordnung-46-11
+     :END:
+6 Dies trage den Brüdern vor, dann wirst du ein guter Diener Christi
+Jesu sein, erzogen in den Worten des Glaubens und der guten Lehre, der
+du gefolgt bist. ^{[[#fn6][6]]}
+
+<<v7>>
+7 Gottlose Altweiberfabeln weise zurück! Übe dich in der Frömmigkeit!
+^{[[#fn7][7]]}
+
+<<v8>>
+8 Denn körperliche Übung nützt nur wenig, die Frömmigkeit aber ist
+nützlich zu allem: Ihr ist das gegenwärtige und das zukünftige Leben
+verheißen.
+
+<<v9>>
+9 Dieses Wort ist glaubwürdig und wert, dass man es beherzigt.
+
+<<v10>>
+10 Dafür arbeiten und kämpfen wir, denn wir haben unsere Hoffnung auf
+den lebendigen Gott gesetzt, den Retter aller Menschen, besonders der
+Gläubigen. ^{[[#fn8][8]]}
+
+<<v11>>
+11 Das sollst du anordnen und lehren.\\
+\\
+
+<<v12>>
+**** Anweisungen für Timotheus: 4,12 - 5,2
+     :PROPERTIES:
+     :CUSTOM_ID: anweisungen-für-timotheus-412---52
+     :END:
+12 Niemand soll dich wegen deiner Jugend gering schätzen. Sei den
+Gläubigen ein Vorbild in deinen Worten, in deinem Lebenswandel, in der
+Liebe, im Glauben, in der Lauterkeit.
+
+<<v13>>
+13 Lies ihnen eifrig (aus der Schrift) vor, ermahne und belehre sie, bis
+ich komme. ^{[[#fn9][9]]}
+
+<<v14>>
+14 Vernachlässige die Gnade nicht, die in dir ist und die dir verliehen
+wurde, als dir die Ältesten aufgrund prophetischer Worte gemeinsam die
+Hände auflegten. ^{[[#fn10][10]][[#fn11][11]]}
+
+<<v15>>
+15 Dafür sollst du sorgen, darin sollst du leben, damit allen deine
+Fortschritte offenbar werden.
+
+<<v16>>
+16 Achte auf dich selbst und auf die Lehre; halte daran fest! Wenn du
+das tust, rettest du dich und alle, die auf dich hören.
+
+^{[[#fnm1][1]]} ℘ 2 Tim 3,1; 2 Petr 3,3; 1 Joh 2,18
+
+^{[[#fnm2][2]]} 1-5: Gegen gnostische Irrlehren (vgl. die Einleitung zu
+den Pastoralbriefen) wird die Lehre von der einen und einzigen guten
+Schöpfung des einen Gottes bekräftigt.
+
+^{[[#fnm3][3]]} ℘ 1 Kor 7,1; Kol 2,21
+
+^{[[#fnm4][4]]} 3-5: Mit Danksagung (V. 3), Dank (V. 4) und Gebet (V. 5)
+ist wohl das Tischgebet gemeint.
+
+^{[[#fnm5][5]]} ℘ Gen 1,31
+
+^{[[#fnm6][6]]} ℘ 1,10; 6,3; 2 Tim 4,3; Tit 1,9
+
+^{[[#fnm7][7]]} ℘ 1,4; Tit 1,14
+
+^{[[#fnm8][8]]} ℘ 1,1; 2,3; Tit 1,3; 2,10; 3,4
+
+^{[[#fnm9][9]]} Schrift meint hier das Alte Testament.
+
+^{[[#fnm10][10]]} ℘ 2 Tim 1,6; Apg 14,23
+
+^{[[#fnm11][11]]} Wichtiger Hinweis auf die Einsetzung in das kirchliche
+Amt durch Handauflegung; vgl. die Anmerkung zu 1,18.

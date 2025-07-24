@@ -1,0 +1,120 @@
+#+TITLE: Hld 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-07-02 Mi 11:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Hld 8.html
+
+* Hld 8
+
+<<verses>>
+
+<<v1>>
+1 Ach, wärst du doch mein Bruder, /\\
+ genährt an der Brust meiner Mutter. Träfe ich dich dann draußen, /\\
+ ich würde dich küssen; /\\
+ niemand dürfte mich deshalb verachten.\\
+\\
+
+<<v2>>
+2 Führen wollte ich dich, /\\
+ in das Haus meiner Mutter dich bringen, /\\
+ die mich erzogen hat. Würzwein gäbe ich dir zu trinken, /\\
+ Granatapfelmost.\\
+\\
+
+<<v3>>
+3 Seine Linke liegt unter meinem Kopf, /\\
+ seine Rechte umfängt mich. [fn:1]\\
+\\
+
+<<v4>>
+4 Ich beschwöre euch, Jerusalems Töchter: /\\
+ Was stört ihr die Liebe auf, /\\
+ warum weckt ihr sie, /\\
+ ehe ihr selbst es gefällt? [fn:2]\\
+\\
+
+<<v5>>
+5 Wer ist sie, /\\
+ die aus der Steppe heraufsteigt, /\\
+ auf ihren Geliebten gestützt? Unter dem Apfelbaum hab ich dich geweckt,
+/\\
+ dort, wo deine Mutter dich empfing, /\\
+ wo deine Gebärerin in Wehen lag. [fn:3]\\
+\\
+
+<<v6>>
+6 Leg mich wie ein Siegel auf dein Herz, /\\
+ wie ein Siegel an deinen Arm! Stark wie der Tod ist die Liebe, /\\
+ die Leidenschaft ist hart wie die Unterwelt. Ihre Gluten sind
+Feuergluten, /\\
+ gewaltige Flammen.\\
+\\
+
+<<v7>>
+7 Auch mächtige Wasser können die Liebe nicht löschen; /\\
+ auch Ströme schwemmen sie nicht weg. Böte einer für die Liebe den
+ganzen Reichtum seines Hauses, /\\
+ nur verachten würde man ihn.\\
+\\
+
+<<v8>>
+8 Wir haben eine kleine Schwester, /\\
+ noch ohne Brüste. Was tun wir mit unsrer Schwester, /\\
+ wenn jemand um sie wirbt?\\
+\\
+
+<<v9>>
+9 Ist sie eine Mauer, /\\
+ bauen wir silberne Zinnen auf ihr. Ist sie eine Tür, /\\
+ versperren wir sie mit einem Zedernbrett.\\
+\\
+
+<<v10>>
+10 Ich bin eine Mauer, /\\
+ meine Brüste gleichen Türmen. Da hab ich in seinen Augen /\\
+ Gefallen gefunden.\\
+\\
+
+<<v11>>
+11 Salomo besaß einen Weinberg in Baal-Hamon; /\\
+ den Weinberg übergab er Hütern. Für seine Frucht würde jeder /\\
+ tausend Silberstücke bezahlen.\\
+\\
+
+<<v12>>
+12 Mein eigener Weinberg liegt vor mir. /\\
+ Die tausend lass ich dir, Salomo, /\\
+ und zweihundert noch denen, /\\
+ die seine Früchte hüten.\\
+\\
+
+<<v13>>
+13 Die du in den Gärten weilst, /\\
+ auf deine Stimme lauschen die Freunde; /\\
+ lass sie mich hören!\\
+\\
+
+<<v14>>
+14 Fort, fort, mein Geliebter, /\\
+ der Gazelle gleich, dem jungen Hirsch /\\
+ auf den Balsambergen. [fn:4]\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:Hld_2.org::v6][2,6]]
+
+[fn:2] [[file:Hld_2.org::v7][2,7]]; [[file:Hld_3.org::v5][3,5]]; [[file:Hld_5.org::v8][5,8]]
+
+[fn:3] [[file:Hld_3.org::v6][3,6]]
+
+[fn:4] [[file:Hld_2.org::v17][2,17]]

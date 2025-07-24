@@ -1,0 +1,74 @@
+#+title:      Und jedem Anfang wohnt ein Zauber inne
+#+date:       [2024-09-15 So 19:42]
+#+filetags:   :hugo:
+#+identifier: 20240915T194235
+#+DESCRIPTION: This text was generated using the After Dark post archetype.
+#+HUGO_CATEGORIES: Schule
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_BASE_DIR: /home/matthias/flying-toasters/
+#+AUTHOR: Matthias Fuchs
+
+* Rückblick
+Seit diesem Schuljahr (2024-2025) darf ich an einer neuen Schule als Religionslehrer dienen. Wie es dazu kam - das hat eine längere Geschichte. Das vergangene Schuljahr war für mich wohl eines des mühevollsten überhaupt. Bis jetzt weiß ich noch immer nicht, woran es lag. Dafür sind sicher mehrere Faktoren verantwortlich. Ohne vollständig zu sein zähle ich hier einige auf:
+
+- Innerer, geistlicher Kampf (der bis jetzt noch anhält)
+- wenig Rückhalt von Seiten der Schulleitung
+- mehrere, sehr "verhaltenskreative" Schüler
+- Auswirkungen der Corona Jahre bei den Schülern, Lehrern, etc
+- Antriebslosigkeit ganzer Klassen (nicht nur ich litt darunter; auch andere Kollegen)
+- die Situation an der MS in der Stadt
+
+Während des Schuljahres - es muss auf einer Heimfahrt von Hallein gewesen sein (also an einem Mittwoch) - rief mich meine Inspektorin an. Sie fragte mich, ob ich mir vorstellen könne, die Schule zu wechseln. Grundsätzlich sagte ich zu.
+
+Und Schritt für Schritt wurde der Wechsel in die Wege geleitet. Ich war dann doch sehr erstaunt, wie wenig Rückhalt ich daraufhin von meinen Kollegen erhielt. Sie erzählten mir von den "ach so schlimmen Schülern" an meiner zukünftigen Schule. "Du wirst schon sehen, wie arg die Kinder dort sind und dich nach uns zurücksehnen!" "Die Schule ist eine Bruchbude! Schrecklich!" "Die Direktorin dort verlangt sehr viel! Du wirst das niemals schaffen!"
+
+Einerseits verstand ich ihre Reaktionen - sie wollten mich überreden zu bleiben; andererseits war ich doch betrübt, dass mir nur sehr wenige (nur zwei) Mut machten. Ihre Trauer über meinen Wechsel nahm ich ihnen ab.
+
+
+* Neuer Beginn
+Je näher der konkrete Wechsel und Neubeginn kam, desto aufgeregter wurde ich. Am Freitag der letzten Ferienwoche war dann die Begrüßung an der neuen Schule. Diese kurze Zeit verlief sehr gut. Der allererste Tag, Montag <2024-09-09>, war sehr anstrengend für mich (emotional und auch sonst): früh aufstehen, längerer Arbeitsweg, ... und schließlich die sehr lange Konferenz.
+
+Der nächste Tag: meine ersten beiden Stunden, und dann der Gottesdienst. Diese Feier war wirklich wunderschön! Am Mittwoch entfiel meine einzige Stunde dieses Tages, was mir sehr gelegen kam. Donnerstag und Freitag verliefen sehr gut. Am Freitag Nachmittag war ich dann so müde, dass ich bis halb sechs am Abend schlief.
+
+Und nun stehe ich vor meiner ersten vollen Woche an dieser mir neuen Schule.
+
+Ich spüre den höheren Anspruch an den RU - und ich weiß, dass ich volle Unterstützung durch die Schulleitung habe. Das ist auch gut so. Ich darf neue Aufgaben übernehmen (Gitarre Unterricht), neue Methoden kennenlernen ("Lernschiene"). Und die Schüler sind nicht viel anders wie an meiner alten Schule; aber eines sind sie nicht: fad und "Null Bock" - das habe ich nicht gesehen. Und das macht einen großen Unterschied.
+
+
+* Geistlicher Kampf
+Das ist mein aktuelles Thema; leider werde ich manchmal von dunklen Gedanken übermannt und gehe gegen "meinen" Glauben vor, mache Jesus Vorwürfe; ich meine, der Glaube und die Hingabe an IHN mache keinen Sinn. Wo sei denn nun dieses versprochene "Leben in Fülle" (Joh 10)? Natürlich hat der finstere Geselle von unten ein großes Interesse daran, mich vom Glauben abzubringen. Da heißt es aufmerksam zu sein.
+
+Was kann ich tun? Wahrscheinlich selbst nicht viel, nur Jesus kann diesen Dämon besiegen. Doch kann ich meinen Teil dazu beitragen, meinen Glauben zu stärken - Bibel lesen, gute Literatur, Gebet, Sakramente, Gespräche mit Priestern, ...
+
+* Gedicht von Hermann Hesse
+
+#+begin_src text
+Stufen
+
+Wie jede Blüte welkt und jede Jugend
+Dem Alter weicht, blüht jede Lebensstufe,
+Blüht jede Weisheit auch und jede Tugend
+Zu ihrer Zeit und darf nicht ewig dauern.
+Es muß das Herz bei jedem Lebensrufe
+Bereit zum Abschied sein und Neubeginne,
+Um sich in Tapferkeit und ohne Trauern
+In andre, neue Bindungen zu geben.
+Und jedem Anfang wohnt ein Zauber inne,
+Der uns beschützt und der uns hilft, zu leben.
+
+Wir sollen heiter Raum um Raum durchschreiten,
+An keinem wie an einer Heimat hängen,
+Der Weltgeist will nicht fesseln uns und engen,
+Er will uns Stuf‘ um Stufe heben, weiten.
+Kaum sind wir heimisch einem Lebenskreise
+Und traulich eingewohnt, so droht Erschlaffen,
+Nur wer bereit zu Aufbruch ist und Reise,
+Mag lähmender Gewöhnung sich entraffen.
+
+Es wird vielleicht auch noch die Todesstunde
+Uns neuen Räumen jung entgegen senden,
+Des Lebens Ruf an uns wird niemals enden…
+Wohlan denn, Herz, nimm Abschied und gesunde!
+(4. Mai 1941)
+#+end_src
+

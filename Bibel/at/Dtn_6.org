@@ -1,0 +1,189 @@
+#+TITLE: Dtn 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-28 Sa 17:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 6.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Grundforderung Gottes: Liebe und Furcht:
+
+1 Und das ist das Gebot, das sind die Gesetze und Rechtsvorschriften,
+die ich euch im Auftrag des Herrn, eures Gottes, lehren soll und die ihr
+halten sollt in dem Land, in das ihr hinüberzieht, um es in Besitz zu
+nehmen.
+
+<<v2>>
+2 Wenn du den Herrn, deinen Gott, fürchtest, indem du auf alle seine
+Gesetze und Gebote, auf die ich dich verpflichte, dein ganzes Leben lang
+achtest, du, dein Sohn und dein Enkel, wirst du lange leben. [fn:1]
+
+<<v3>>
+3 Deshalb, Israel, sollst du hören und darauf achten, (alles, was der
+Herr, unser Gott, mir gesagt hat,) zu halten, damit es dir gut geht und
+ihr so unermesslich zahlreich werdet, wie es der Herr, der Gott deiner
+Väter, dir zugesagt hat, in dem Land, wo Milch und Honig fließen. [fn:2]
+
+<<v4>>
+4 Höre, Israel! Jahwe, unser Gott, Jahwe ist einzig. [fn:3] [fn:4]
+
+<<v5>>
+5 Darum sollst du den Herrn, deinen Gott, lieben mit ganzem Herzen, mit
+ganzer Seele und mit ganzer Kraft. [fn:5]
+
+<<v6>>
+6 Diese Worte, auf die ich dich heute verpflichte, sollen auf deinem
+Herzen geschrieben stehen. [fn:6] [fn:7]
+
+<<v7>>
+7 Du sollst sie deinen Söhnen wiederholen. Du sollst von ihnen reden,
+wenn du zu Hause sitzt und wenn du auf der Straße gehst, wenn du dich
+schlafen legst und wenn du aufstehst. [fn:8]
+
+<<v8>>
+8 Du sollst sie als Zeichen um das Handgelenk binden. Sie sollen zum
+Schmuck auf deiner Stirn werden. [fn:9]
+
+<<v9>>
+9 Du sollst sie auf die Türpfosten deines Hauses und in deine Stadttore
+schreiben.
+
+<<v10>>
+10 Und wenn der Herr, dein Gott, dich in das Land führt, von dem du
+weißt: er hat deinen Vätern Abraham, Isaak und Jakob geschworen, es dir
+zu geben - große und schöne Städte, die du nicht gebaut hast, [fn:10]
+
+<<v11>>
+11 mit Gütern gefüllte Häuser, die du nicht gefüllt hast, in den Felsen
+gehauene Zisternen, die du nicht gehauen hast, Weinberge und Ölbäume,
+die du nicht gepflanzt hast -, wenn du dann isst und satt wirst:
+
+<<v12>>
+12 nimm dich in Acht, dass du nicht den Herrn vergisst, der dich aus
+Ägypten, dem Sklavenhaus, geführt hat. [fn:11]
+
+<<v13>>
+13 Den Herrn, deinen Gott, sollst du fürchten; ihm sollst du dienen, bei
+seinem Namen sollst du schwören. [fn:12] [fn:13]
+
+<<v14>>
+14 Ihr sollt nicht anderen Göttern nachfolgen, keinem Gott eines Volkes,
+das in eurer Nachbarschaft wohnt. [fn:14]
+
+<<v15>>
+15 Denn der Herr, dein Gott, ist als eifersüchtiger Gott in deiner
+Mitte. Der Zorn des Herrn, deines Gottes, könnte gegen dich entbrennen,
+er könnte dich im ganzen Land vernichten.
+
+<<v16>>
+16 Ihr sollt den Herrn, euren Gott, nicht auf die Probe stellen, wie ihr
+ihn bei Massa auf die Probe gestellt habt. [fn:15]
+
+<<v17>>
+17 Ihr sollt auf die Gebote des Herrn, eures Gottes, genau achten, auf
+seine Satzungen und Gesetze, auf die er dich verpflichtet hat. [fn:16] [fn:17]
+
+<<v18>>
+18 Du sollst tun, was in seinen Augen richtig und gut ist. Dann wird es
+dir gut gehen und du kannst in das prächtige Land, das der Herr deinen
+Vätern mit einem Schwur versprochen hat, hineinziehen und es in Besitz
+nehmen. [fn:18]
+
+<<v19>>
+19 Der Herr wird alle deine Feinde vor dir herjagen, wie er es zugesagt
+hat. [fn:19]
+
+<<v20>>
+20 Wenn dich morgen dein Sohn fragt: Warum achtet ihr auf die Satzungen,
+die Gesetze und Rechtsvorschriften, auf die der Herr, unser Gott, euch
+verpflichtet hat?, [fn:20]
+
+<<v21>>
+21 dann sollst du deinem Sohn antworten: Wir waren Sklaven des Pharao in
+Ägypten und der Herr hat uns mit starker Hand aus Ägypten geführt.
+
+<<v22>>
+22 Der Herr hat vor unseren Augen gewaltige, unheilvolle Zeichen und
+Wunder an Ägypten, am Pharao und an seinem ganzen Haus getan, [fn:21]
+
+<<v23>>
+23 uns aber hat er dort herausgeführt, um uns in das Land, das er
+unseren Vätern mit einem Schwur versprochen hatte, hineinzuführen und es
+uns zu geben.
+
+<<v24>>
+24 Der Herr hat uns verpflichtet, alle diese Gesetze zu halten und den
+Herrn, unseren Gott, zu fürchten, damit es uns das ganze Leben lang gut
+geht und er uns Leben schenkt, wie wir es heute haben.
+
+<<v25>>
+25 Nur dann werden wir (vor Gott) im Recht sein, wenn wir darauf achten,
+dieses ganze Gesetz vor dem Herrn, unserem Gott, so zu halten, wie er es
+uns zur Pflicht gemacht hat.\\
+\\
+
+* Footnotes
+
+[fn:1] 2f: Die den Zusammenhang unterbrechende Erweiterung will
+die Motive von [[file:Dtn_5.org::v27][5,27-29]] noch einmal anklingen lassen.
+
+[fn:2] [[file:Ex_3.org::v8][Ex 3,8.17]]
+
+[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v30][Röm 3,30]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_8.org::v4][1 Kor 8,4]] (4-5) [[file:~/RoamNotes/notes/Bibel/nt/Mk_12.org::v29][Mk 12,29-33]];
+
+[fn:4] Andere Übersetzungsmöglichkeit: Jahwe ist unser Gott,
+Jahwe allein. - Wie man auch übersetzt, der Vers bietet keine Lehre vom
+Monotheismus, sondern besagt, dass Jahwe für Israel der einzige Gott
+ist. Nach [[file:Sach_14.org::v9][Sach 14,9]] gilt diese Aussage nicht nur für Israel, sondern für
+alle Völker. Später wird der Vers als Bekenntnis zum Monotheismus
+verstanden. Die im Text gegebene Übersetzung zeigt, dass auf die Sprache
+der Liebeslyrik angespielt wird (vgl. [[file:Hld_6.org::v8][Hld 6,8f]]).
+
+[fn:5] [[file:Dtn_5.org::v10][5,10]]; [[file:Dtn_11.org::v1][11,1]]; [[file:2.Kön_23.org::v3][2 Kön 23,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_10.org::v27][Lk 10,27]]
+
+[fn:6] (6-9) [[file:Dtn_11.org::v18][11,18-20]]; [[file:Dtn_30.org::v11][30,11-14]]
+
+[fn:7] Das Herz wird mit einer Schreibtafel verglichen. Da das
+Herz auch als Sitz des Gedächtnisses galt, ist hier gesagt, man solle
+«diese Worte» auswendig wissen.
+
+[fn:8] Du sollst von ihnen reden, andere
+Übersetzungsmöglichkeit: Du sollst sie aufsagen.
+
+[fn:9] (8-9) [[file:~/RoamNotes/notes/Bibel/nt/Mt_23.org::v5][Mt 23,5]]; [[file:Ex_13.org::v9][Ex 13,9.16]]
+
+[fn:10] (10-11) [[file:Jos_24.org::v13][Jos 24,13]]
+
+[fn:11] (12-15) [[file:Dtn_5.org::v6][5,6-9]]
+
+[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/Mt_4.org::v10][Mt 4,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_4.org::v8][Lk 4,8]]
+
+[fn:13] «fürchten» meint die Gottesverehrung in all ihren
+Formen.
+
+[fn:14] [[file:2.Kön_23.org::v3][2 Kön 23,3]]
+
+[fn:15] [[file:Ex_17.org::v2][Ex 17,2-7]]; [[file:Num_20.org::v1][Num 20,1-13]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_4.org::v7][Mt 4,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_4.org::v12][Lk 4,12]]
+
+[fn:16] [[file:Dtn_5.org::v10][5,10]]; [[file:2.Kön_23.org::v3][2 Kön 23,3]]
+
+[fn:17] Andere Lesart: Ihr sollt auf die Gebote des Herrn,
+eures Gottes, genau achten und auf seine Satzungen und Gesetze, auf die
+er dich verpflichtet hat.
+
+[fn:18] (18-19) [[file:Dtn_16.org::v20][16,20]]; [[file:Dtn_1.org::v8][1,8]]
+
+[fn:19] [[file:Dtn_2.org::v25][2,25]]; [[file:Ex_23.org::v27][Ex 23,27-31]]; [[file:Ex_34.org::v11][34,11]]
+
+[fn:20] [[file:Ex_13.org::v14][Ex 13,14]]
+
+[fn:21] Das «Haus» des Pharao ist wohl die Gesamtheit seiner
+Untertanen (vgl. [[file:Gen_41.org::v40][Gen 41,40]]).

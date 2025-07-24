@@ -1,0 +1,410 @@
+#+TITLE: Num 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-14 Sa 22:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 7.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Weihegaben der Stammesführer: 7,1-88
+
+1 An dem Tag, an dem Mose die Wohnstätte errichtet hatte, salbte und
+weihte er sie, dazu alle ihre Geräte, ebenso auch den Altar und alle
+seine Geräte. Er salbte sie und weihte alles.
+
+<<v2>>
+2 Die Anführer Israels, die Oberhäupter ihrer Großfamilien, die
+Stammesführer, die an der Spitze der Gemusterten standen, brachten ihre
+Gaben herbei.
+
+<<v3>>
+3 Sie brachten dem Herrn als ihre Gabe: sechs Planwagen und zwölf
+Rinder, jeweils für zwei Stammesführer einen Wagen und für jeden
+Stammesführer einen Stier. Das brachten sie vor die Wohnstätte.
+
+<<v4>>
+4 Der Herr sprach zu Mose:
+
+<<v5>>
+5 Nimm die Gaben von ihnen an; sie sollen für den Dienst am
+Offenbarungszelt verwendet werden. Übergib sie den Leviten, je nach
+ihrer Aufgabe.
+
+<<v6>>
+6 Da nahm Mose die Wagen und die Rinder und übergab sie den Leviten.
+
+<<v7>>
+7 Zwei Wagen und vier Rinder übergab er den Gerschonitern für ihre
+Aufgaben;
+
+<<v8>>
+8 vier Wagen und acht Rinder übergab er dem Priester Itamar, dem Sohn
+Aarons, für die Merariter und ihre Aufgaben;
+
+<<v9>>
+9 den Kehatitern übergab er nichts, weil ihnen der Dienst an den
+heiligen Gegenständen anvertraut war, die sie auf ihren Schultern tragen
+mussten.
+
+<<v10>>
+10 Die Stammesführer brachten an dem Tag, an dem man den Altar salbte,
+auch die Spende für die Altarweihe und legten ihre Gaben vor den Altar.
+
+<<v11>>
+11 Der Herr hatte zu Mose gesagt: Täglich soll jeweils ein Stammesführer
+seine Gabe als Spende für die Altarweihe bringen.
+
+<<v12>>
+12 So brachte am ersten Tag Nachschon, der Sohn Amminadabs, für den
+Stamm Juda seine Gabe herbei.
+
+<<v13>>
+13 Sie bestand aus einer silbernen Schüssel, hundertdreißig Schekel
+schwer, einer silbernen Schale zu siebzig Schekel, nach dem
+Schekelgewicht des Heiligtums, beide gefüllt mit Feinmehl, das mit Öl
+vermengt war, für das Speiseopfer,
+
+<<v14>>
+14 ferner aus einer goldenen Schale von zehn Schekel Gewicht, gefüllt
+mit Räucherwerk,
+
+<<v15>>
+15 aus einem Jungstier, einem Widder und einem einjährigen Lamm für das
+Brandopfer,
+
+<<v16>>
+16 einem Ziegenbock für das Sündopfer
+
+<<v17>>
+17 sowie aus zwei Rindern, fünf Widdern, fünf Böcken und fünf
+einjährigen Lämmern für das Heilsopfer. Das war die Gabe Nachschons, des
+Sohnes Amminadabs.
+
+<<v18>>
+18 Am zweiten Tag brachte Netanel, der Sohn Zuars, der Stammesführer von
+Issachar, seine Gabe herbei.
+
+<<v19>>
+19 Er brachte eine silberne Schüssel, hundertdreißig Schekel schwer,
+eine silberne Schale zu siebzig Schekel, nach dem Schekelgewicht des
+Heiligtums, beide gefüllt mit Feinmehl, das mit Öl vermengt war, für das
+Speiseopfer,
+
+<<v20>>
+20 ferner eine goldene Schale von zehn Schekel Gewicht, gefüllt mit
+Räucherwerk,
+
+<<v21>>
+21 dazu einen Jungstier, einen Widder und ein einjähriges Lamm für das
+Brandopfer,
+
+<<v22>>
+22 einen Ziegenbock für das Sündopfer
+
+<<v23>>
+23 sowie zwei Rinder, fünf Widder, fünf Böcke und fünf einjährige Lämmer
+für das Heilsopfer. Das war die Gabe Netanels, des Sohnes Zuars.
+
+<<v24>>
+24 Am dritten Tag kam der Stammesführer der Sebuloniter, Eliab, der Sohn
+Helons.
+
+<<v25>>
+25 Seine Gabe bestand aus einer silbernen Schüssel, hundertdreißig
+Schekel schwer, einer silbernen Schale zu siebzig Schekel, nach dem
+Schekelgewicht des Heiligtums, beide gefüllt mit Feinmehl, das mit Öl
+vermengt war, für das Speiseopfer,
+
+<<v26>>
+26 ferner aus einer goldenen Schale von zehn Schekel Gewicht, gefüllt
+mit Räucherwerk,
+
+<<v27>>
+27 aus einem Jungstier, einem Widder und einem einjährigen Lamm für das
+Brandopfer,
+
+<<v28>>
+28 einem Ziegenbock für das Sündopfer
+
+<<v29>>
+29 sowie aus zwei Rindern, fünf Widdern, fünf Böcken und fünf
+einjährigen Lämmern für das Heilsopfer. Das war die Gabe Eliabs, des
+Sohnes Helons.
+
+<<v30>>
+30 Am vierten Tag kam der Stammesführer der Rubeniter, Elizur, der Sohn
+Schedëurs.
+
+<<v31>>
+31 Seine Gabe bestand aus einer silbernen Schüssel, hundertdreißig
+Schekel schwer, einer silbernen Schale zu siebzig Schekel, nach dem
+Schekelgewicht des Heiligtums, beide gefüllt mit Feinmehl, das mit Öl
+vermengt war, für das Speiseopfer,
+
+<<v32>>
+32 ferner aus einer goldenen Schale von zehn Schekel Gewicht, gefüllt
+mit Räucherwerk,
+
+<<v33>>
+33 aus einem Jungstier, einem Widder und einem einjährigen Lamm für das
+Brandopfer,
+
+<<v34>>
+34 einem Ziegenbock für das Sündopfer
+
+<<v35>>
+35 sowie aus zwei Rindern, fünf Widdern, fünf Böcken und fünf
+einjährigen Lämmern für das Heilsopfer. Das war die Gabe Elizurs, des
+Sohnes Schedëurs.
+
+<<v36>>
+36 Am fünften Tag kam der Stammesführer der Simeoniter, Schelumiël, der
+Sohn Zurischaddais.
+
+<<v37>>
+37 Seine Gabe bestand aus einer silbernen Schüssel, hundertdreißig
+Schekel schwer, einer silbernen Schale zu siebzig Schekel, nach dem
+Schekelgewicht des Heiligtums, beide gefüllt mit Feinmehl, das mit Öl
+vermengt war, für das Speiseopfer,
+
+<<v38>>
+38 ferner aus einer goldenen Schale von zehn Schekel Gewicht, gefüllt
+mit Räucherwerk,
+
+<<v39>>
+39 aus einem Jungstier, einem Widder und einem einjährigen Lamm für das
+Brandopfer,
+
+<<v40>>
+40 einem Ziegenbock für das Sündopfer
+
+<<v41>>
+41 sowie aus zwei Rindern, fünf Widdern, fünf Böcken und fünf
+einjährigen Lämmern für das Heilsopfer. Das war die Gabe Schelumiëls,
+des Sohnes Zurischaddais.
+
+<<v42>>
+42 Am sechsten Tag kam der Stammesführer der Gaditer, Eljasaf, der Sohn
+Reguëls.
+
+<<v43>>
+43 Seine Gabe bestand aus einer silbernen Schüssel, hundertdreißig
+Schekel schwer, einer silbernen Schale zu siebzig Schekel, nach dem
+Schekelgewicht des Heiligtums, beide gefüllt mit Feinmehl, das mit Öl
+vermengt war, für das Speiseopfer,
+
+<<v44>>
+44 ferner aus einer goldenen Schale von zehn Schekel Gewicht, gefüllt
+mit Räucherwerk,
+
+<<v45>>
+45 aus einem Jungstier, einem Widder und einem einjährigen Lamm für das
+Brandopfer,
+
+<<v46>>
+46 einem Ziegenbock für das Sündopfer
+
+<<v47>>
+47 sowie aus zwei Rindern, fünf Widdern, fünf Böcken und fünf
+einjährigen Lämmern für das Heilsopfer. Das war die Gabe Eljasafs, des
+Sohnes Reguëls.
+
+<<v48>>
+48 Am siebten Tag kam der Stammesführer der Efraimiter, Elischama, der
+Sohn Ammihuds.
+
+<<v49>>
+49 Seine Gabe bestand aus einer silbernen Schüssel, hundertdreißig
+Schekel schwer, einer silbernen Schale zu siebzig Schekel, nach dem
+Schekelgewicht des Heiligtums, beide gefüllt mit Feinmehl, das mit Öl
+vermengt war, für das Speiseopfer,
+
+<<v50>>
+50 ferner aus einer goldenen Schale von zehn Schekel Gewicht, gefüllt
+mit Räucherwerk,
+
+<<v51>>
+51 aus einem Jungstier, einem Widder und einem einjährigen Lamm für das
+Brandopfer,
+
+<<v52>>
+52 einem Ziegenbock für das Sündopfer
+
+<<v53>>
+53 sowie aus zwei Rindern, fünf Widdern, fünf Böcken und fünf
+einjährigen Lämmern für das Heilsopfer. Das war die Gabe Elischamas, des
+Sohnes Ammihuds.
+
+<<v54>>
+54 Am achten Tag kam der Stammesführer der Manassiter, Gamliël, der Sohn
+Pedazurs.
+
+<<v55>>
+55 Seine Gabe bestand aus einer silbernen Schüssel, hundertdreißig
+Schekel schwer, einer silbernen Schale zu siebzig Schekel, nach dem
+Schekelgewicht des Heiligtums, beide gefüllt mit Feinmehl, das mit Öl
+vermengt war, für das Speiseopfer,
+
+<<v56>>
+56 ferner aus einer goldenen Schale von zehn Schekel Gewicht, gefüllt
+mit Räucherwerk,
+
+<<v57>>
+57 aus einem Jungstier, einem Widder und einem einjährigen Lamm für das
+Brandopfer,
+
+<<v58>>
+58 einem Ziegenbock für das Sündopfer
+
+<<v59>>
+59 sowie aus zwei Rindern, fünf Widdern, fünf Böcken und fünf
+einjährigen Lämmern für das Heilsopfer. Das war die Gabe Gamliëls, des
+Sohnes Pedazurs.
+
+<<v60>>
+60 Am neunten Tag kam der Stammesführer der Benjaminiter, Abidan, der
+Sohn Gidonis.
+
+<<v61>>
+61 Seine Gabe bestand aus einer silbernen Schüssel, hundertdreißig
+Schekel schwer, einer silbernen Schale zu siebzig Schekel, nach dem
+Schekelgewicht des Heiligtums, beide gefüllt mit Feinmehl, das mit Öl
+vermengt war, für das Speiseopfer,
+
+<<v62>>
+62 ferner aus einer goldenen Schale zu zehn Schekel Gewicht, gefüllt mit
+Räucherwerk,
+
+<<v63>>
+63 aus einem Jungstier, einem Widder und einem einjährigen Lamm für das
+Brandopfer,
+
+<<v64>>
+64 einem Ziegenbock für das Sündopfer
+
+<<v65>>
+65 sowie aus zwei Rindern, fünf Widdern, fünf Böcken und fünf
+einjährigen Lämmern für das Heilsopfer. Das war die Gabe Abidans, des
+Sohnes Gidonis.
+
+<<v66>>
+66 Am zehnten Tag kam der Stammesführer der Daniter, Ahiëser, der Sohn
+Ammischaddais.
+
+<<v67>>
+67 Seine Gabe bestand aus einer silbernen Schüssel, hundertdreißig
+Schekel schwer, einer silbernen Schale zu siebzig Schekel, nach dem
+Schekelgewicht des Heiligtums, beide gefüllt mit Feinmehl, das mit Öl
+vermengt war, für das Speiseopfer,
+
+<<v68>>
+68 ferner aus einer goldenen Schale von zehn Schekel Gewicht, gefüllt
+mit Räucherwerk,
+
+<<v69>>
+69 aus einem Jungstier, einem Widder und einem einjährigen Lamm für das
+Brandopfer,
+
+<<v70>>
+70 einem Ziegenbock für das Sündopfer
+
+<<v71>>
+71 sowie aus zwei Rindern, fünf Widdern, fünf Böcken und fünf
+einjährigen Lämmern für das Heilsopfer. Das war die Gabe Ahiësers, des
+Sohnes Ammischaddais.
+
+<<v72>>
+72 Am elften Tag kam der Stammesführer der Ascheriter, Pagiël, der Sohn
+Ochrans.
+
+<<v73>>
+73 Seine Gabe bestand aus einer silbernen Schüssel, hundertdreißig
+Schekel schwer, einer silbernen Schale zu siebzig Schekel, nach dem
+Schekelgewicht des Heiligtums, beide gefüllt mit Feinmehl, das mit Öl
+vermengt war, für das Speiseopfer,
+
+<<v74>>
+74 ferner aus einer goldenen Schale zu zehn Schekel Gewicht, gefüllt mit
+Räucherwerk,
+
+<<v75>>
+75 aus einem Jungstier, einem Widder und einem einjährigen Lamm für das
+Brandopfer,
+
+<<v76>>
+76 einem Ziegenbock für das Sündopfer
+
+<<v77>>
+77 sowie aus zwei Rindern, fünf Widdern, fünf Böcken und fünf
+einjährigen Lämmern für das Heilsopfer. Das war die Gabe Pagiëls, des
+Sohnes Ochrans.
+
+<<v78>>
+78 Am zwölften Tag kam der Stammesführer der Naftaliter, Ahira, der Sohn
+Enans.
+
+<<v79>>
+79 Seine Gabe bestand aus einer silbernen Schüssel, hundertdreißig
+Schekel schwer, einer silbernen Schale zu siebzig Schekel, nach dem
+Schekelgewicht des Heiligtums, beide gefüllt mit Feinmehl, das mit Öl
+vermengt war, für das Speiseopfer,
+
+<<v80>>
+80 ferner aus einer goldenen Schale von zehn Schekel Gewicht, gefüllt
+mit Räucherwerk,
+
+<<v81>>
+81 aus einem Jungstier, einem Widder und einem einjährigen Lamm für das
+Brandopfer,
+
+<<v82>>
+82 einem Ziegenbock für das Sündopfer
+
+<<v83>>
+83 sowie aus zwei Rindern, fünf Widdern, fünf Böcken und fünf
+einjährigen Lämmern für das Heilsopfer. Das war die Gabe Ahiras, des
+Sohnes Enans.
+
+<<v84>>
+84 Das war die Spende der Stammesführer Israels für die Weihe des
+Altars, als man den Altar salbte: zwölf silberne Schüsseln, zwölf
+silberne Schalen, zwölf goldene Schalen,
+
+<<v85>>
+85 jede silberne Schüssel hundertdreißig Schekel schwer, jede silberne
+Schale siebzig Schekel schwer, das Silber aller Gefäße zusammen also
+zweitausendvierhundert Schekel, nach dem Schekelgewicht des Heiligtums,
+
+<<v86>>
+86 ferner zwölf goldene Schalen, gefüllt mit Räucherwerk, jede Schale
+zehn Schekel schwer, nach dem Schekelgewicht des Heiligtums, das Gold
+aller Schalen zusammen also hundertzwanzig Schekel;
+
+<<v87>>
+87 dazu insgesamt zwölf Rinder, und zwar Stiere, für das Brandopfer,
+zwölf Widder, zwölf einjährige Lämmer und die dazugehörenden
+Speiseopfer, ferner zwölf Ziegenböcke für das Sündopfer,
+
+<<v88>>
+88 außerdem im Ganzen vierundzwanzig Rinder, und zwar Stiere, sechzig
+Widder, sechzig Böcke und sechzig einjährige Lämmer für das Heilsopfer.
+Das war die Spende für die Weihe des Altars, nachdem man ihn gesalbt
+hatte.\\
+\\
+
+<<v89>>
+* Die Begegnung des Herrn mit Mose: 7,89
+
+89 Wenn Mose das Offenbarungszelt betrat, um mit dem Herrn zu reden,
+hörte er die Stimme zu ihm reden. Sie sprach zu ihm von der Deckplatte
+her, die auf der Lade der Bundesurkunde lag, aus dem Raum zwischen den
+Kerubim.\\
+\\

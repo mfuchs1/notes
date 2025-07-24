@@ -1,0 +1,122 @@
+#+TITLE: Jdt 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 22:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 14.html
+
+<<verses>>
+
+<<v1>>
+* Judits Anweisungen: 14,1-5
+
+1 Da sagte Judit zu ihnen: Hört mich an, meine Brüder! Nehmt diesen Kopf
+und hängt ihn an der Zinne eurer Stadtmauer auf! [fn:1]
+
+<<v2>>
+2 Wenn dann der Morgen anbricht und die Sonne über der Erde aufgeht,
+greift alle zu den Waffen und rückt mit allen wehrfähigen Männern zum
+Stadttor hinaus! Ihr müsst einen Anführer an ihre Spitze stellen und
+dann so tun, als ob ihr hinabsteigen und die assyrischen Vorposten in
+der Ebene angreifen wollt; in Wirklichkeit aber dürft ihr nicht
+hinabgehen.
+
+<<v3>>
+3 Dann werden die feindlichen Vorposten sich kampfbereit machen, in ihr
+Lager eilen und die Anführer der assyrischen Truppen wecken. Wenn sie
+vor dem Zelt des Holofernes zusammenströmen, ihn aber nicht finden,
+werden sie, von Schrecken gepackt, vor euch flüchten.
+
+<<v4>>
+4 Ihr aber und die Bewohner des ganzen Landes Israel setzt ihnen nach
+und macht sie auf der Flucht nieder!
+
+<<v5>>
+5 Doch zuvor ruft mir noch den Ammoniter Achior, damit er sich den Mann
+ansieht und ihn wiedererkennt, der das Haus Israel verachtet und der ihn
+als einen Todgeweihten zu uns geschickt hat.\\
+\\
+
+<<v6>>
+* Achiors Lob für Judit und seine Bekehrung: 14,6-10
+
+6 Da rief man Achior aus dem Haus des Usija herbei. Als er kam und in
+der Hand eines Mannes aus der Volksmenge den Kopf des Holofernes
+erblickte, fiel er ohnmächtig zu Boden.
+
+<<v7>>
+7 Nachdem man ihn wieder aufgerichtet hatte, warf er sich Judit zu
+Füßen, verneigte sich vor ihr und sagte: Gepriesen seist du in allen
+Zelten Judas und bei allen Völkern. Wer immer deinen Namen hört, wird
+vor Schrecken erzittern.
+
+<<v8>>
+8 Doch jetzt erzähl mir, was du in diesen Tagen getan hast. Judit
+berichtete ihm vor dem ganzen Volk alles, was sie getan hatte,
+angefangen von dem Tag ihres Weggangs bis zu dem Augenblick ihres
+jetzigen Gesprächs.
+
+<<v9>>
+9 Als sie mit ihrem Bericht fertig war, brach das Volk in lauten Jubel
+aus und erhob in der Stadt ein Freudengeschrei.
+
+<<v10>>
+10 Achior aber, der begriff, dass der Gott Israels diese Tat vollbracht
+hatte, glaubte aus ganzem Herzen an Gott; er ließ sich beschneiden und
+wurde von da an dem Haus Israel zugerechnet und so ist es bis auf den
+heutigen Tag geblieben.\\
+\\
+
+<<v11>>
+* Die Verwirrung der Assyrer: 14,11-19
+
+11 Sobald der Morgen anbrach, hängte man den Kopf des Holofernes an der
+Mauer auf. Alle Männer griffen zu den Waffen und zogen in Scharen zu den
+Wegen, die in das Gebirge hinaufführten.
+
+<<v12>>
+12 Als die Assyrer sie sahen, meldeten sie es ihren Anführern; diese
+eilten zu den Feldherren, Obersten und allen Offizieren.
+
+<<v13>>
+13 Sie trafen sich beim Zelt des Holofernes und sagten zu dem Verwalter
+seines gesamten Eigentums: Weck doch unseren Herrn! Diese Sklaven wagen
+es herabzukommen und bieten uns den Kampf an, um vollends in ihr
+Verderben zu rennen.
+
+<<v14>>
+14 Da ging Bagoas hinein und klatschte vor dem Zeltvorhang; denn er war
+der Meinung, Holofernes schlafe mit Judit.
+
+<<v15>>
+15 Als niemand Gehör gab, schlug er den Vorhang zurück und trat in das
+Schlafgemach ein. Da fand er Holofernes tot ausgestreckt auf der
+Schwelle liegen und sah, dass ihm der Kopf abgeschlagen worden war.
+
+<<v16>>
+16 Er stieß einen lauten Schrei aus und zerriss unter Weinen, Stöhnen
+und lautem Klagen seine Kleider.
+
+<<v17>>
+17 Dann eilte er in das Zelt, wo Judit untergebracht war; als er sie
+nicht mehr vorfand, stürzte er unter die Soldaten hinaus und schrie:
+
+<<v18>>
+18 Diese Sklaven haben Verrat geübt! Ein einzelnes Weib der Hebräer hat
+Schande über das ganze Haus des Königs Nebukadnezzar gebracht. Seht her:
+Holofernes liegt am Boden und er hat keinen Kopf mehr.
+
+<<v19>>
+19 Als sie das hörten, zerrissen die Führer des assyrischen Heeres ihre
+Kleider; tiefe Bestürzung ergriff sie und ihr Klagegeschrei schallte
+laut durch das Lager.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:2.Makk_15.org::v35][2 Makk 15,35]]

@@ -1,0 +1,101 @@
+#+TITLE: Ex 31 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 23:50]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 31.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Beauftragung von Künstlern und Handwerkern: 31,1-11
+1 Der Herr sprach zu Mose:
+
+<<v2>>
+2 Siehe, ich habe Bezalel, den Sohn Uris, den Enkel Hurs, vom Stamm
+Juda, beim Namen gerufen
+
+<<v3>>
+3 und ihn mit dem Geist Gottes erfüllt, mit Weisheit, mit Verstand und
+mit Kenntnis für jegliche Arbeit:
+
+<<v4>>
+4 Pläne zu entwerfen und sie in Gold, Silber und Kupfer auszuführen
+
+<<v5>>
+5 und durch Schneiden und Fassen von Steinen und durch Schnitzen von
+Holz allerlei Werke herzustellen.
+
+<<v6>>
+6 Ich habe ihm Oholiab, den Sohn Ahisamachs, vom Stamm Dan, beigegeben
+und allen Kunstverständigen Weisheit verliehen, damit sie alles
+ausführen, was ich dir aufgetragen habe:
+
+<<v7>>
+7 das Offenbarungszelt, die Lade für die Bundesurkunde, die Deckplatte
+darauf und alle Geräte des Zeltes,
+
+<<v8>>
+8 den Tisch mit seinen Geräten, den Leuchter aus reinem Gold mit allen
+seinen Geräten und den Rauchopferaltar,
+
+<<v9>>
+9 den Brandopferaltar mit allen seinen Geräten und das Becken mit seinem
+Gestell,
+
+<<v10>>
+10 die gewirkten Gewänder und die heiligen Gewänder des Priesters Aaron
+sowie die Gewänder seiner Söhne für den Priesterdienst,
+
+<<v11>>
+11 das Salböl und das duftende Räucherwerk für das Heiligtum. Sie sollen
+alles so ausführen, wie ich es dir befohlen habe.\\
+\\
+
+<<v12>>
+* Die Feier des Sabbat: 31,12-17
+12 Der Herr sprach zu Mose:
+
+<<v13>>
+13 Sag den Israeliten: Ihr sollt meine Sabbate halten; denn das ist ein
+Zeichen zwischen mir und euch von Generation zu Generation, damit man
+erkennt, dass ich, der Herr, es bin, der euch heiligt.
+
+<<v14>>
+14 Darum haltet den Sabbat; denn er soll euch heilig sein. Wer ihn
+entweiht, soll mit dem Tod bestraft werden. Denn jeder, der an ihm eine
+Arbeit verrichtet, soll aus seinen Stammesgenossen ausgemerzt werden.
+
+<<v15>>
+15 Sechs Tage soll man arbeiten; der siebte Tag ist Sabbat, Ruhetag,
+heilig für den Herrn. Jeder, der am Sabbat arbeitet, soll mit dem Tod
+bestraft werden. [fn:1]
+
+<<v16>>
+16 Die Israeliten sollen also den Sabbat halten, indem sie ihn von
+Generation zu Generation als einen ewigen Bund halten.
+
+<<v17>>
+17 Für alle Zeiten wird er ein Zeichen zwischen mir und den Israeliten
+sein. Denn in sechs Tagen hat der Herr Himmel und Erde gemacht; am
+siebten Tag ruhte er und atmete auf. [fn:2]\\
+\\
+
+<<v18>>
+* Der Bruch des Bundes: das goldene Kalb:
+Nachdem der Herr zu Mose auf dem Berg Sinai alles gesagt hatte, übergab
+er ihm die beiden Tafeln der Bundesurkunde, steinerne Tafeln, auf die
+der Finger Gottes geschrieben hatte.
+
+
+* Footnotes
+
+[fn:1] 20,9f; Dtn 5,12-14
+
+[fn:2] Gen 2,2f

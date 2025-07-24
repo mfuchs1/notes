@@ -1,0 +1,344 @@
+:PROPERTIES:
+:ID:       a6edf1a8-c5ae-4473-bcd4-f59f0624d4ec
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Johannes* --
+[[file:Joh_1.html][1]] ... [[file:Joh_9.html][9]]
+[[file:Joh_10.html][10]] *11* [[file:Joh_12.html][12]]
+[[file:Joh_13.html][13]] ... [[file:Joh_21.html][21]]
+
+--------------
+
+* Joh 11
+  :PROPERTIES:
+  :CUSTOM_ID: joh-11
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Nachricht vom Tod des Lazarus: 11,1-16
+     :PROPERTIES:
+     :CUSTOM_ID: die-nachricht-vom-tod-des-lazarus-111-16
+     :END:
+1 Ein Mann war krank, Lazarus aus Betanien, dem Dorf, in dem Maria und
+ihre Schwester Marta wohnten.
+^{[[#fn1][1]][[#fn2][2]][[#fn3][3]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 259\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Maria ist die, die den Herrn mit Öl gesalbt und seine Füße mit ihrem
+Haar abgetrocknet hat; deren Bruder Lazarus war krank. ^{[[#fn4][4]]}
+
+<<v3>>
+3 Daher sandten die Schwestern Jesus die Nachricht: Herr, dein Freund
+ist krank.
+
+<<v4>>
+4 Als Jesus das hörte, sagte er: Diese Krankheit wird nicht zum Tod
+führen, sondern dient der Verherrlichung Gottes: Durch sie soll der Sohn
+Gottes verherrlicht werden.
+
+<<v5>>
+5 Denn Jesus liebte Marta, ihre Schwester und Lazarus.
+
+<<v6>>
+6 Als er hörte, dass Lazarus krank war, blieb er noch zwei Tage an dem
+Ort, wo er sich aufhielt.
+
+<<v7>>
+7 Danach sagte er zu den Jüngern: Lasst uns wieder nach Judäa gehen.
+
+<<v8>>
+8 Die Jünger entgegneten ihm: Rabbi, eben noch wollten dich die Juden
+steinigen und du gehst wieder dorthin? ^{[[#fn5][5]]}
+
+<<v9>>
+9 Jesus antwortete: Hat der Tag nicht zwölf Stunden? Wenn jemand am Tag
+umhergeht, stößt er nicht an, weil er das Licht dieser Welt sieht;
+
+<<v10>>
+10 wenn aber jemand in der Nacht umhergeht, stößt er an, weil das Licht
+nicht in ihm ist.
+
+<<v11>>
+11 So sprach er. Dann sagte er zu ihnen: Lazarus, unser Freund, schläft;
+aber ich gehe hin, um ihn aufzuwecken.
+
+<<v12>>
+12 Da sagten die Jünger zu ihm: Herr, wenn er schläft, dann wird er
+gesund werden.
+
+<<v13>>
+13 Jesus hatte aber von seinem Tod gesprochen, während sie meinten, er
+spreche von dem gewöhnlichen Schlaf.
+
+<<v14>>
+14 Darauf sagte ihnen Jesus unverhüllt: Lazarus ist gestorben.
+
+<<v15>>
+15 Und ich freue mich für euch, dass ich nicht dort war; denn ich will,
+dass ihr glaubt. Doch wir wollen zu ihm gehen.
+
+<<v16>>
+16 Da sagte Thomas, genannt Didymus (Zwilling), zu den anderen Jüngern:
+Dann lasst uns mit ihm gehen, um mit ihm zu sterben. ^{[[#fn6][6]]}\\
+\\
+
+<<v17>>
+**** Die Auferweckung des Lazarus als Zeichen: 11,17-44
+     :PROPERTIES:
+     :CUSTOM_ID: die-auferweckung-des-lazarus-als-zeichen-1117-44
+     :END:
+17 Als Jesus ankam, fand er Lazarus schon vier Tage im Grab liegen.
+
+<<v18>>
+18 Betanien war nahe bei Jerusalem, etwa fünfzehn Stadien entfernt.
+^{[[#fn7][7]]}
+
+<<v19>>
+19 Viele Juden waren zu Marta und Maria gekommen, um sie wegen ihres
+Bruders zu trösten.
+
+<<v20>>
+20 Als Marta hörte, dass Jesus komme, ging sie ihm entgegen, Maria aber
+blieb im Haus.
+
+<<v21>>
+21 Marta sagte zu Jesus: Herr, wärst du hier gewesen, dann wäre mein
+Bruder nicht gestorben.
+
+<<v22>>
+22 Aber auch jetzt weiß ich: Alles, worum du Gott bittest, wird Gott dir
+geben.
+
+<<v23>>
+23 Jesus sagte zu ihr: Dein Bruder wird auferstehen.
+
+<<v24>>
+24 Marta sagte zu ihm: Ich weiß, dass er auferstehen wird bei der
+Auferstehung am Letzten Tag.
+
+<<v25>>
+25 Jesus erwiderte ihr: Ich bin die Auferstehung und das Leben. Wer an
+mich glaubt, wird leben, auch wenn er stirbt, ^{[[#fn8][8]]}
+
+<<v26>>
+26 und jeder, der lebt und an mich glaubt, wird auf ewig nicht sterben.
+Glaubst du das?
+
+<<v27>>
+27 Marta antwortete ihm: Ja, Herr, ich glaube, dass du der Messias bist,
+der Sohn Gottes, der in die Welt kommen soll. ^{[[#fn9][9]]}
+
+<<v28>>
+28 Nach diesen Worten ging sie weg, rief heimlich ihre Schwester Maria
+und sagte zu ihr: Der Meister ist da und lässt dich rufen.
+
+<<v29>>
+29 Als Maria das hörte, stand sie sofort auf und ging zu ihm.
+
+<<v30>>
+30 Denn Jesus war noch nicht in das Dorf gekommen; er war noch dort, wo
+ihn Marta getroffen hatte.
+
+<<v31>>
+31 Die Juden, die bei Maria im Haus waren und sie trösteten, sahen, dass
+sie plötzlich aufstand und hinausging. Da folgten sie ihr, weil sie
+meinten, sie gehe zum Grab, um dort zu weinen.
+
+<<v32>>
+32 Als Maria dorthin kam, wo Jesus war, und ihn sah, fiel sie ihm zu
+Füßen und sagte zu ihm: Herr, wärst du hier gewesen, dann wäre mein
+Bruder nicht gestorben.
+
+<<v33>>
+33 Als Jesus sah, wie sie weinte und wie auch die Juden weinten, die mit
+ihr gekommen waren, war er im Innersten erregt und erschüttert.
+
+<<v34>>
+34 Er sagte: Wo habt ihr ihn bestattet? Sie antworteten ihm: Herr, komm
+und sieh!
+
+<<v35>>
+35 Da weinte Jesus.
+
+<<v36>>
+36 Die Juden sagten: Seht, wie lieb er ihn hatte!
+
+<<v37>>
+37 Einige aber sagten: Wenn er dem Blinden die Augen geöffnet hat, hätte
+er dann nicht auch verhindern können, dass dieser hier starb?
+^{[[#fn10][10]]}
+
+<<v38>>
+38 Da wurde Jesus wiederum innerlich erregt und er ging zum Grab. Es war
+eine Höhle, die mit einem Stein verschlossen war.
+
+<<v39>>
+39 Jesus sagte: Nehmt den Stein weg! Marta, die Schwester des
+Verstorbenen, entgegnete ihm: Herr, er riecht aber schon, denn es ist
+bereits der vierte Tag.
+
+<<v40>>
+40 Jesus sagte zu ihr: Habe ich dir nicht gesagt: Wenn du glaubst, wirst
+du die Herrlichkeit Gottes sehen?
+
+<<v41>>
+41 Da nahmen sie den Stein weg. Jesus aber erhob seine Augen und sprach:
+Vater, ich danke dir, dass du mich erhört hast. ^{[[#fn11][11]]}
+
+<<v42>>
+42 Ich wusste, dass du mich immer erhörst; aber wegen der Menge, die um
+mich herum steht, habe ich es gesagt; denn sie sollen glauben, dass du
+mich gesandt hast. ^{[[#fn12][12]]}
+
+<<v43>>
+43 Nachdem er dies gesagt hatte, rief er mit lauter Stimme: Lazarus,
+komm heraus!
+
+<<v44>>
+44 Da kam der Verstorbene heraus; seine Füße und Hände waren mit Binden
+umwickelt, und sein Gesicht war mit einem Schweißtuch verhüllt. Jesus
+sagte zu ihnen: Löst ihm die Binden und lasst ihn weggehen!
+^{[[#fn13][13]]}\\
+\\
+
+<<v45>>
+**** Der Tötungsbeschluss des Hohen Rates - Das prophetische Wort des
+Hohenpriesters: 11,45-53
+     :PROPERTIES:
+     :CUSTOM_ID: der-tötungsbeschluss-des-hohen-rates---das-prophetische-wort-des-hohenpriesters-1145-53
+     :END:
+45 Viele der Juden, die zu Maria gekommen waren und gesehen hatten, was
+Jesus getan hatte, kamen zum Glauben an ihn.
+^{[[#fn14][14]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 274\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v46>>
+46 Aber einige von ihnen gingen zu den Pharisäern und berichteten ihnen,
+was er getan hatte. ^{[[#fn15][15]]}
+
+<<v47>>
+47 Da beriefen die Hohenpriester und die Pharisäer eine Versammlung des
+Hohen Rates ein. Sie sagten: Was sollen wir tun? Dieser Mensch tut viele
+Zeichen. ^{[[#fn16][16]]}
+
+<<v48>>
+48 Wenn wir ihn gewähren lassen, werden alle an ihn glauben. Dann werden
+die Römer kommen und uns die heilige Stätte und das Volk nehmen.
+^{[[#fn17][17]]}
+
+<<v49>>
+49 Einer von ihnen, Kajaphas, der Hohepriester jenes Jahres, sagte zu
+ihnen: Ihr versteht überhaupt nichts. ^{[[#fn18][18]]}
+
+<<v50>>
+50 Ihr bedenkt nicht, dass es besser für euch ist, wenn ein einziger
+Mensch für das Volk stirbt, als wenn das ganze Volk zugrunde geht.
+^{[[#fn19][19]]}
+
+<<v51>>
+51 Das sagte er nicht aus sich selbst; sondern weil er der Hohepriester
+jenes Jahres war, sagte er aus prophetischer Eingebung, dass Jesus für
+das Volk sterben werde. ^{[[#fn20][20]]}
+
+<<v52>>
+52 Aber er sollte nicht nur für das Volk sterben, sondern auch, um die
+versprengten Kinder Gottes wieder zu sammeln. ^{[[#fn21][21]]}
+
+<<v53>>
+53 Von diesem Tag an waren sie entschlossen, ihn zu töten.\\
+\\
+
+<<v54>>
+**** Erneute Flucht Jesu: 11,54-57
+     :PROPERTIES:
+     :CUSTOM_ID: erneute-flucht-jesu-1154-57
+     :END:
+54 Jesus bewegte sich von nun an nicht mehr öffentlich unter den Juden,
+sondern zog sich von dort in die Gegend nahe der Wüste zurück, an einen
+Ort namens Efraim. Dort blieb er mit seinen Jüngern.
+^{[[#fn22][22]][[#fn23][23]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 261\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v55>>
+55 Das Paschafest der Juden war nahe und viele zogen schon vor dem
+Paschafest aus dem ganzen Land nach Jerusalem hinauf, um sich zu
+heiligen. ^{[[#fn24][24]][[#fn25][25]]}
+
+<<v56>>
+56 Sie fragten nach Jesus und sagten zueinander, während sie im Tempel
+zusammenstanden: Was meint ihr? Er wird wohl kaum zum Fest kommen.
+
+<<v57>>
+57 Die Hohenpriester und die Pharisäer hatten nämlich, um ihn festnehmen
+zu können, angeordnet: Wenn jemand weiß, wo er sich aufhält, soll er es
+melden.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Lk 10,38-42
+
+^{[[#fnm2][2]]} Zum Namen Lazarus vgl. die Anmerkung zu Lk 16,20. -
+Betanien, 15 Stadien (etwa 3 Kilometer) von Jerusalem entfernt (vgl.
+11,18), liegt am östlichen Abhang des Ölbergs.
+
+^{[[#fnm3][3]]} ℘ ⇨Esyn: Synopse Nr. 259
+
+^{[[#fnm4][4]]} Diese Maria (vgl. 12,3) ist zu unterscheiden von der
+Sünderin (Lk 7,37f) und von Maria aus Magdala. Es handelt sich um drei
+verschiedene Personen.
+
+^{[[#fnm5][5]]} ℘ 8,59; 10,31
+
+^{[[#fnm6][6]]} ℘ 14,5-8; 20,24-29
+
+^{[[#fnm7][7]]} 15 Stadien sind etwa 3 Kilometer.
+
+^{[[#fnm8][8]]} ℘ 5,21.26
+
+^{[[#fnm9][9]]} ℘ 20,31; 6,69; Mt 16,16
+
+^{[[#fnm10][10]]} ℘ 9,1-41
+
+^{[[#fnm11][11]]} ℘ 12,27f; 17,1
+
+^{[[#fnm12][12]]} ℘ 17,8.21.23.25
+
+^{[[#fnm13][13]]} ℘ 19,40
+
+^{[[#fnm14][14]]} ℘ ⇨Esyn: Synopse Nr. 274
+
+^{[[#fnm15][15]]} Vgl. die Anmerkung zu Mk 2,16 über die Pharisäer.
+
+^{[[#fnm16][16]]} ℘ (47-53) Mt 26,3-5; Mk 14,1f; Lk 22,1f
+
+^{[[#fnm17][17]]} Die heilige Stätte ist der Tempel.
+
+^{[[#fnm18][18]]} Zu Kajaphas vgl. die Anmerkung zu Mt 26,57.
+
+^{[[#fnm19][19]]} ℘ 2 Sam 20,14-22; Jona 1,8-16
+
+^{[[#fnm20][20]]} Für den Evangelisten ist der Hohepriester jenes
+bedeutsamen Jahres das Werkzeug Gottes, das eine tiefere Wahrheit
+verkünden muss.
+
+^{[[#fnm21][21]]} ℘ 10,11.15f
+
+^{[[#fnm22][22]]} Wahrscheinlich handelt es sich um das Efraim, das etwa
+einen Tagesmarsch von Jerusalem entfernt abseits von der Straße nach
+Norden lag.
+
+^{[[#fnm23][23]]} ℘ ⇨Esyn: Synopse Nr. 261
+
+^{[[#fnm24][24]]} ℘ Num 9,6-13; 2 Chr 30,15-19; Joh 18,28
+
+^{[[#fnm25][25]]} «Sich heiligen» bezieht sich auf die Teilnahme an den
+Reinigungsbräuchen beim Paschafest.

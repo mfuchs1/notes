@@ -1,0 +1,167 @@
+#+TITLE: Koh 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-02-13 Do 14:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Koh 9.html
+
+* Koh 9
+
+<<verses>>
+
+<<v1>>
+1 Denn ich habe über dies alles nachgedacht und dies alles überprüft,
+wobei sich ergab: Die Gesetzestreuen und Gebildeten mit ihrem Tun stehen
+unter Gottes Verfügung. Der Mensch erkennt nicht, ob er geliebt ist oder
+ob er verschmäht ist. So liegt auch bei ihnen beides offen vor ihnen. [fn:1]
+
+<<v2>>
+2 Beides - wie bei allen Menschen. Aber ein und dasselbe Geschick trifft
+den Gesetzestreuen und den Gesetzesbrecher, den Guten, den Reinen und
+den Unreinen, den Opfernden und den, der nicht opfert. Dem Guten ergeht
+es wie dem Sünder, dem Schwörenden ebenso wie dem, der den Schwur
+scheut. [fn:2]
+
+<<v3>>
+3 Das ist das Schlimme an allem, was unter der Sonne getan wurde, dass
+alle dann ein und dasselbe Geschick trifft und dass in den Menschen
+überdies die Lust zum Bösen wächst und Verblendung ihren Geist erfasst,
+während sie leben und danach, wenn sie zu den Toten müssen [fn:3] [fn:4]
+
+<<v4>>
+4 ja, wer würde da ausgenommen? Für jeden Lebenden gibt es noch
+Zuversicht. Denn: Ein lebender Hund ist besser als ein toter Löwe.
+
+<<v5>>
+5 Und: Die Lebenden erkennen, dass sie sterben werden; die Toten aber
+erkennen überhaupt nichts mehr. Sie erhalten auch keine Belohnung mehr;
+denn die Erinnerung an sie ist in Vergessenheit versunken. [fn:5] [fn:6]
+
+<<v6>>
+6 Liebe, Hass und Eifersucht gegen sie, all dies ist längst erloschen.
+Auf ewig haben sie keinen Anteil mehr an allem, was unter der Sonne
+getan wurde. [fn:7]\\
+\\
+
+<<v7>>
+* Ratschläge Kohelets: 9,7 - 12,8
+
+* Freude und kraftvolles Handeln: 9,7-10
+
+7 Also: Iss freudig dein Brot und trink vergnügt deinen Wein; denn das,
+was du tust, hat Gott längst so festgelegt, wie es ihm gefiel. [fn:8] [fn:9]
+
+<<v8>>
+8 Trag jederzeit frische Kleider und nie fehle duftendes Öl auf deinem
+Haupt.
+
+<<v9>>
+9 Mit einer Frau, die du liebst, genieß das Leben alle Tage deines
+Lebens voll Windhauch, die er dir unter der Sonne geschenkt hat, alle
+deine Tage voll Windhauch. Denn das ist dein Anteil am Leben und an dem
+Besitz, für den du dich unter der Sonne anstrengst. [fn:10]
+
+<<v10>>
+10 Alles, was deine Hand, solange du Kraft hast, zu tun vorfindet, das
+tu! Denn es gibt weder Tun noch Rechnen noch Können noch Wissen in der
+Unterwelt, zu der du unterwegs bist.\\
+\\
+
+<<v11>>
+* Zufall und Zeit: 9,11-12
+
+11 Wiederum habe ich unter der Sonne beobachtet: Nicht den Schnellen
+gehört im Wettlauf der Sieg, /\\
+ nicht den Tapferen der Sieg im Kampf, /\\
+ auch nicht den Gebildeten die Nahrung, /\\
+ auch nicht den Klugen der Reichtum, /\\
+ auch nicht den Könnern der Beifall, /\\
+ sondern jeden treffen Zufall und Zeit. [fn:11]\\
+\\
+
+<<v12>>
+12 Außerdem: Der Mensch kennt seine Zeit nicht. Wie Fische, die ins
+Unglücksnetz geraten sind, /\\
+ wie Vögel, die ins Klappnetz geraten sind, /\\
+ ebenso verfangen sich die einzelnen Menschen in ihre Unglückszeit, /\\
+ wenn sie plötzlich über sie herabfällt.\\
+\\
+
+<<v13>>
+* Wissen und Macht: 9,13-18
+
+13 Auch Folgendes habe ich unter der Sonne beobachtet, ein Beispiel von
+Wissen, das ich für bedeutsam hielt:
+
+<<v14>>
+14 Es war eine kleine Stadt. Die hatte nur wenige Einwohner. Ein
+mächtiger König zog gegen sie aus. Er schloss sie ein und baute gegen
+sie hohe Belagerungstürme.
+
+<<v15>>
+15 In der Stadt fand sich ein armer, aber gebildeter Mann. Der rettete
+die Stadt durch sein Wissen. Später aber erinnerte sich kein Mensch mehr
+an diesen armen Mann. [fn:12]\\
+\\
+
+<<v16>>
+16 Da sagte ich: Wissen ist besser als Macht, /\\
+ aber das Wissen des Armen gilt nichts /\\
+ und niemand will seine Worte hören. [fn:13]\\
+\\
+
+<<v17>>
+17 Bedächtige Worte von Gebildeten hört man sich lieber an /\\
+ als das Geschrei des Herrschers der Ungebildeten [fn:14]\\
+\\
+
+<<v18>>
+18 und Wissen ist besser als Waffen - /\\
+ aber ein Einziger, der falsch entscheidet, /\\
+ kann viele Werte zerstören.\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:Koh_7.org::v15][7,15]]; [[file:Koh_2.org::v24][2,24]]; [[file:Koh_3.org::v8][3,8]]
+
+[fn:2] [[file:Koh_2.org::v14][2,14]]; [[file:Koh_7.org::v15][7,15]]
+
+[fn:3] [[file:Koh_8.org::v11][8,11]]
+
+[fn:4] 3f: Andere Lesart: und danach müssen sie zu den Toten.
+Wer unter die Lebenden eingereiht ist, für den gibt es noch Zuversicht.
+
+[fn:5] [[file:Koh_1.org::v11][1,11]]
+
+[fn:6] 5f: Andere Übersetzungsmöglichkeit: Sie erhalten auch
+keine Belohnung mehr, ihre Erinnerung ist geschwunden, ihre Liebe, ihr
+Hass und ihre Eifersucht sind längst erloschen.
+
+[fn:7] [[file:Koh_2.org::v10][2,10]]
+
+[fn:8] [[file:Koh_2.org::v10][2,10]]
+
+[fn:9] 7-10: Dieser Abschnitt gehört zu einer Art Rahmen. VV.
+7-9 bringen schon Motive des Schlussgedichts 11,9 - 12,7. In V. 10 wird
+11,4-8, der Abschnitt vor dem Schlussgedicht, angekündigt. Innerhalb
+dieses Rahmens stehen in 9,11 - 11,3 in lockerer Folge verschiedene
+Sentenzen und Ratschläge.
+
+[fn:10] [[file:Spr_5.org::v18][Spr 5,18f]]
+
+[fn:11] [[file:Spr_16.org::v9][Spr 16,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_9.org::v6][Röm 9,6]]; (11-12) [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v1][3,1]]
+
+[fn:12] Andere Übersetzungsmöglichkeit: Der hätte die Stadt
+durch sein Wissen retten können. Aber kein Mensch dachte an diesen Mann.
+
+[fn:13] [[file:Koh_7.org::v19][7,19]]; [[file:Spr_24.org::v5][Spr 24,5]]; [[file:Sir_13.org::v22][Sir 13,22f]]
+
+[fn:14] [[file:Spr_21.org::v22][Spr 21,22]]

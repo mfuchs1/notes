@@ -1,0 +1,169 @@
+#+TITLE: Dtn 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-29 So 16:01]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 13.html
+
+<<verses>>
+
+<<v1>>
+* Das Verbot einer Änderung dieses Gesetzes: 13,1
+
+1 Ihr sollt auf den vollständigen Wortlaut dessen, worauf ich euch
+verpflichte, achten und euch daran halten. Ihr sollt nichts hinzufügen
+und nichts wegnehmen. [fn:1] [fn:2]\\
+\\
+
+<<v2>>
+* Die Anstiftung zum Abfall durch Propheten und Traumseher: 13,2-6
+     
+2 Wenn in deiner Mitte ein Prophet oder ein Traumseher auftritt und dir
+ein Zeichen oder Wunder ankündigt, [fn:3]
+
+<<v3>>
+3 wobei er sagt: Folgen wir anderen Göttern nach, die du bisher nicht
+kanntest, und verpflichten wir uns, ihnen zu dienen!, und wenn das
+Zeichen und Wunder, das er dir angekündigt hatte, eintrifft, [fn:4]
+
+<<v4>>
+4 dann sollst du nicht auf die Worte dieses Propheten oder Traumsehers
+hören; denn der Herr, euer Gott, prüft euch, um zu erkennen, ob ihr das
+Volk seid, das den Herrn, seinen Gott, mit ganzem Herzen und mit ganzer
+Seele liebt. [fn:5]
+
+<<v5>>
+5 Ihr sollt dem Herrn, eurem Gott, nachfolgen, ihn sollt ihr fürchten,
+auf seine Gebote sollt ihr achten, auf seine Stimme sollt ihr hören, ihm
+sollt ihr dienen, an ihm sollt ihr euch fest halten. [fn:6]
+
+<<v6>>
+6 Der Prophet oder Traumseher aber soll mit dem Tod bestraft werden. Er
+hat euch aufgewiegelt gegen den Herrn, euren Gott, der euch aus Ägypten
+geführt und dich aus dem Sklavenhaus freigekauft hat. Denn er wollte
+dich davon abbringen, auf dem Weg zu gehen, den der Herr, dein Gott, dir
+vorgeschrieben hat. Du sollst das Böse aus deiner Mitte wegschaffen. [fn:7] [fn:8]\\
+\\
+
+<<v7>>
+* Die geheime Anstiftung zum Abfall: 13,7-12
+
+7 Wenn dein Bruder, der dieselbe Mutter hat wie du, oder dein Sohn oder
+deine Tochter oder deine Frau, mit der du schläfst, oder dein Freund,
+den du liebst wie dich selbst, dich heimlich verführen will und sagt:
+Gehen wir und dienen wir anderen Göttern - (wobei er Götter meint,) die
+du und deine Vorfahren noch nicht kannten, [fn:9] [fn:10]
+
+<<v8>>
+8 unter den Göttern der Völker, die in eurer Nachbarschaft wohnen, in
+der Nähe oder weiter entfernt, zwischen dem einen Ende der Erde und dem
+andern Ende der Erde -,
+
+<<v9>>
+9 dann sollst du nicht nachgeben und nicht auf ihn hören. Du sollst in
+dir kein Mitleid mit ihm aufsteigen lassen, sollst keine Nachsicht für
+ihn kennen und die Sache nicht vertuschen. [fn:11]
+
+<<v10>>
+10 Sondern du sollst ihn anzeigen. Wenn er hingerichtet wird, sollst du
+als Erster deine Hand gegen ihn erheben, dann erst das ganze Volk. [fn:12] [fn:13]
+
+<<v11>>
+11 Du sollst ihn steinigen und er soll sterben; denn er hat versucht,
+dich vom Herrn, deinem Gott, abzubringen, der dich aus Ägypten geführt
+hat, aus dem Sklavenhaus.
+
+<<v12>>
+12 Ganz Israel soll davon hören, damit sie sich fürchten und nicht noch
+einmal einen solchen Frevel in deiner Mitte begehen. [fn:14]\\
+\\
+
+<<v13>>
+* Der Abfall einer Stadt: 13,13-19
+
+13 Wenn du aus einer deiner Städte, die der Herr, dein Gott, dir als
+Wohnort gibt, erfährst:
+
+<<v14>>
+14 Niederträchtige Menschen sind aus deiner Mitte herausgetreten und
+haben ihre Mitbürger vom Herrn abgebracht, indem sie sagten: Gehen wir
+und dienen wir anderen Göttern, die ihr bisher nicht kanntet!, [fn:15]
+
+<<v15>>
+15 wenn du dann durch Augenschein und Vernehmung genaue Ermittlungen
+angestellt hast und sich gezeigt hat: Ja, es ist wahr, der Tatbestand
+steht fest, dieser Gräuel ist in deiner Mitte geschehen, [fn:16]
+
+<<v16>>
+16 dann sollst du die Bürger dieser Stadt mit scharfem Schwert
+erschlagen, du sollst an der Stadt und an allem, was darin lebt, auch am
+Vieh, mit scharfem Schwert die Vernichtungsweihe vollstrecken. [fn:17]
+
+<<v17>>
+17 Alles, was du in der Stadt erbeutet hast, sollst du auf dem
+Marktplatz aufhäufen, dann sollst du die Stadt und die gesamte Beute als
+Ganzopfer für den Herrn, deinen Gott, im Feuer verbrennen. Für immer
+soll sie ein Schutthügel bleiben und nie wieder aufgebaut werden.
+
+<<v18>>
+18 Von dem, was der Vernichtung geweiht war, soll nichts in deiner Hand
+zurückbleiben, damit der Herr von seinem glühenden Zorn ablässt und dir
+wieder sein Erbarmen schenkt, sich deiner annimmt und dich wieder
+zahlreich macht, wie er es deinen Vätern geschworen hat [fn:18]
+
+<<v19>>
+19 für den Fall, dass du auf die Stimme des Herrn, deines Gottes, hörst,
+auf alle seine Gebote, auf die ich dich heute verpflichte, achtest und
+tust, was in den Augen des Herrn, deines Gottes, richtig ist.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Dtn_4.org::v2][4,2]]; [[file:~/RoamNotes/notes/Bibel/nt/offb 22::v18][Offb 22,18f]]
+
+[fn:2] Manche Bibelausgaben zählen diesen Vers als [[file:Dtn_12.org::v32][12,32]];
+entsprechend ändert sich die Verszählung in Kap. [[v1][13]].
+
+[fn:3] [[file:Jer_23.org::v25][Jer 23,25-32]]; (2-19) [[file:Jer_5.org::v6][5,6-9]]; [[file:Ex_22.org::v19][Ex 22,19]]; (2-4) [[file:~/RoamNotes/notes/Bibel/nt/Mt_24.org::24][Mt 24,24]];
+[[file:~/RoamNotes/notes/Bibel/nt/Mk_13.org::v22][Mk 13,22]]; [[file:~/RoamNotes/notes/Bibel/nt/2.Petr_2.org::v1][2 Petr 2,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_13.org::v14][Offb 13,14]]
+
+[fn:4] [[file:Dtn_7.org::v4][7,4]]; [[file:dtn 28::v14][28,14]]
+
+[fn:5] [[file:Dtn_6.org::v5][6,5]]; [[file:Dtn_8.org::v2][8,2]]; [[file:Dtn_11.org::v1][11,1;]] [[file:1.Kön_11.org::v19][1 Kor 11,19]]
+
+[fn:6] [[file:Dtn_10.org::v20][10,20]]; [[file:2.Kön_23.org::v3][2 Kön 23,3]]
+
+[fn:7] [[file:Dtn_21.org::v21][21,21]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_5.org::v13][1 Kor 5,13]]
+
+[fn:8] «Du sollst das Böse aus deiner Mitte wegschaffen» und
+ähnliche Wendungen stehen am Schluss mehrerer Gesetze, die inhaltlich
+den Zehn Geboten zuzuordnen sind. Daraus ersieht man, dass die Zehn
+Gebote ursprünglich eine Liste der todeswürdigen Verbrechen in Israel
+waren.
+
+[fn:9] [[v3][13,3]]
+
+[fn:10] dein Bruder, der dieselbe Mutter hat wie du: In einer
+polygamen Familie besteht eine besondere Zuneigung zwischen den Kindern
+der gleichen Mutter.
+
+[fn:11] [[file:Dtn_19.org::v13][19,13]]
+
+[fn:12] [[file:Dtn_17.org::v7][17,7]]
+
+[fn:13] So nach G; H: sondern du sollst ihn töten.
+
+[fn:14] [[file:Dtn_21.org::v21][21,21]]
+
+[fn:15] [[v3][13,3]]
+
+[fn:16] [[file:Dtn_19.org::v18][19,18]]
+
+[fn:17] [[file:Jos_8.org::v28][Jos 8,28]]; (16-17) [[file:Dtn_20.org::v16][20,16-18]]
+
+[fn:18] [[file:Jos_7.org::v1][Jos 7]]

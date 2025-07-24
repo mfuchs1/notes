@@ -1,0 +1,82 @@
+#+TITLE: Ps 138 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 23:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 138.html
+
+* Ps 138
+
+<<verses>>
+
+<<v1>>
+* Dank für Gottes Hilfe
+
+1 [Von David.] Ich will dir danken aus ganzem Herzen, /\\
+ dir vor den Engeln singen und spielen; [fn:1]\\
+\\
+
+<<v2>>
+2 ich will mich niederwerfen zu deinem heiligen Tempel /\\
+ hin und deinem Namen danken für deine Huld und Treue. Denn du hast die
+Worte meines Mundes gehört, /\\
+ deinen Namen und dein Wort über alles verherrlicht. [fn:2] [fn:3]\\
+\\
+
+<<v3>>
+3 Du hast mich erhört an dem Tag, als ich rief; /\\
+ du gabst meiner Seele große Kraft. [fn:4]\\
+\\
+
+<<v4>>
+4 Dich sollen preisen, Herr, alle Könige der Welt, /\\
+ wenn sie die Worte deines Mundes vernehmen. [fn:5]\\
+\\
+
+<<v5>>
+5 Sie sollen singen von den Wegen des Herrn; /\\
+ denn groß ist die Herrlichkeit des Herrn.\\
+\\
+
+<<v6>>
+6 Ja, der Herr ist erhaben; /\\
+ doch er schaut auf die Niedrigen /\\
+ und die Stolzen erkennt er von fern. [fn:6]\\
+\\
+
+<<v7>>
+7 Gehe ich auch mitten durch große Not: /\\
+ du erhältst mich am Leben. Du streckst die Hand aus gegen meine
+wütenden Feinde /\\
+ und deine Rechte hilft mir. [fn:7]\\
+\\
+
+<<v8>>
+8 Der Herr nimmt sich meiner an. /\\
+ Herr, deine Huld währt ewig. /\\
+ Lass nicht ab vom Werk deiner Hände!\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_7.org::v18][7,18]]; [[file:Ps_9.org::v2][9,2]]; [[file:Ps_111.org::v1][111,1]]
+
+[fn:2] [[file:Ps_5.org::v8][5,8]]; [[file:Dan_6.org::v11][Dan 6,11]]
+
+[fn:3] Ergänzt aus G; dort steht dieser Satz in V. 1. Text
+korr.; H etwa: du hast Versprechen gemacht, die deinen Namen
+übersteigen.
+
+[fn:4] Nach G; H: du machtest mich ungestüm.
+
+[fn:5] [[file:Ps_68.org::v33][68,33]]; [[file:Jes_2.org::v3][Jes 2,3]]
+
+[fn:6] [[file:Jes_57.org::v15][Jes 57,15]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v51][Lk 1,51f]]
+
+[fn:7] [[file:Ps_23.org::v4][23,4]]

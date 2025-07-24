@@ -1,0 +1,239 @@
+:PROPERTIES:
+:ID:       42e506ef-d238-4438-a0f2-2e63541b7cb2
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Deuteronomium* --
+[[file:Dtn_1.html][1]] ... [[file:Dtn_27.html][27]]
+[[file:Dtn_28.html][28]] *29* [[file:Dtn_30.html][30]]
+[[file:Dtn_31.html][31]] ... [[file:Dtn_34.html][34]]
+
+--------------
+
+* Dtn 29
+  :PROPERTIES:
+  :CUSTOM_ID: dtn-29
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Rückblick: 29,1-8
+     :PROPERTIES:
+     :CUSTOM_ID: rückblick-291-8
+     :END:
+1 Mose rief ganz Israel zusammen und sagte zu den Israeliten: Ihr habt
+alles gesehen, was der Herr in Ägypten vor euren Augen mit dem Pharao,
+mit seinem ganzen Hof und seinem ganzen Land getan hat. ^{[[#fn1][1]]}
+
+<<v2>>
+2 Mit eigenen Augen hast du jene schweren Prüfungen, die großen Zeichen
+und Wunder gesehen.
+
+<<v3>>
+3 Aber einen Verstand, der wirklich erkennt, Augen, die wirklich sehen,
+und Ohren, die wirklich hören, hat der Herr euch bis zum heutigen Tag
+nicht gegeben. ^{[[#fn2][2]]}
+
+<<v4>>
+4 Ich habe euch vierzig Jahre lang durch die Wüste geführt. Eure Kleider
+sind euch nicht in Lumpen vom Leib gefallen, deine Schuhe sind dir nicht
+an den Füßen zerrissen, ^{[[#fn3][3]][[#fn4][4]]}
+
+<<v5>>
+5 ihr habt kein Brot gegessen und keinen Wein und kein Bier getrunken,
+denn ihr solltet erkennen: Ich bin Jahwe, euer Gott.
+
+<<v6>>
+6 Und so kamt ihr bis an diesen Ort. Sihon, der König von Heschbon, und
+Og, der König des Baschan, sind gegen uns zum Kampf ausgerückt und wir
+haben sie geschlagen. ^{[[#fn5][5]]}
+
+<<v7>>
+7 Wir haben ihnen ihr Land genommen und es den Rubenitern, den Gaditern
+und der Hälfte des Stammes der Manassiter als Erbbesitz gegeben.
+
+<<v8>>
+8 Darum achtet auf die Bestimmungen dieses Bundes und haltet sie, damit
+euch alles, was ihr tut, gelingt. ^{[[#fn6][6]]}\\
+\\
+
+<<v9>>
+**** Partner und Inhalt des Bundes: 29,9-14
+     :PROPERTIES:
+     :CUSTOM_ID: partner-und-inhalt-des-bundes-299-14
+     :END:
+9 Ihr habt euch heute alle vor dem Herrn, eurem Gott, aufgestellt: eure
+Anführer, Stammesführer, Ältesten und Listenführer, alle Männer Israels,
+^{[[#fn7][7]][[#fn8][8]]}
+
+<<v10>>
+10 eure Kinder und Greise, eure Frauen und auch die Fremden in deinem
+Lager, vom Holzarbeiter bis zum Wasserträger. ^{[[#fn9][9]]}
+
+<<v11>>
+11 Du schreitest jetzt zwischen den Zeichen des Bundes mit dem Herrn,
+deinem Gott, hindurch, den Zeichen der Selbstverwünschung. Der Herr,
+dein Gott, schließt heute mit dir diesen Bund, ^{[[#fn10][10]]}
+
+<<v12>>
+12 um dich heute als sein Volk einzusetzen und dein Gott zu werden, wie
+er es dir zugesagt und deinen Vätern Abraham, Isaak und Jakob geschworen
+hat. ^{[[#fn11][11]]}
+
+<<v13>>
+13 Nicht mit euch allein schließe ich diesen Bund und setze diese
+Verwünschung in Kraft, ^{[[#fn12][12]]}
+
+<<v14>>
+14 sondern ich schließe ihn mit denen, die heute hier bei uns vor dem
+Herrn, unserem Gott, stehen, und mit denen, die heute nicht hier bei uns
+sind.\\
+\\
+
+<<v15>>
+**** Die Strafe für den geheimen Vorbehalt beim Bundesschwur: 29,15-20
+     :PROPERTIES:
+     :CUSTOM_ID: die-strafe-für-den-geheimen-vorbehalt-beim-bundesschwur-2915-20
+     :END:
+15 Ihr wisst noch von unserem Aufenthalt in Ägypten und von unserem Zug
+mitten durch die Völker, deren Gebiet ihr durchziehen musstet.
+
+<<v16>>
+16 Ihr habt bei ihnen Scheusale und Götzen aus Holz und Stein, aus
+Silber und Gold gesehen.
+
+<<v17>>
+17 Es soll keinen unter euch geben, weder Mann noch Frau, weder Sippe
+noch Stamm, der heute sein Herz vom Herrn, unserem Gott, abwendet und
+anfängt, den Göttern dieser Völker zu dienen. Es soll bei euch keine
+Wurzel wachsen, die Gift und Wermut hervorbringt, ^{[[#fn13][13]]}
+
+<<v18>>
+18 das heißt keinen, der beim Hören der Worte dieser Verwünschung
+insgeheim folgenden Gegensegen über sich spricht: Mir soll nichts
+geschehen, wenn ich aus eigenem Entschluss etwas tue, damit Wasserfülle
+die Dürre beendet. ^{[[#fn14][14]]}
+
+<<v19>>
+19 Der Herr wird sich weigern, ihm zu verzeihen, er wird schnauben vor
+Zorn und Eifersucht gegen einen solchen Menschen. Jede Verwünschung, die
+in dieser Urkunde aufgezeichnet ist, wird auf ihn lauern und der Herr
+wird seinen Namen unter dem Himmel auslöschen. ^{[[#fn15][15]]}
+
+<<v20>>
+20 Entsprechend den Verwünschungen, die beim Abschluss des Bundes
+gesprochen werden und in dieser Urkunde der Weisung einzeln
+aufgezeichnet sind, wird der Herr ihn von allen Stämmen Israels
+absondern, damit es ihm schlecht ergeht.\\
+\\
+
+<<v21>>
+**** Die Androhung der Vertreibung: 29,21-28
+     :PROPERTIES:
+     :CUSTOM_ID: die-androhung-der-vertreibung-2921-28
+     :END:
+21 Dann wird eine spätere Generation, also eure Söhne, die nach euch
+erstehen, und die Ausländer, die aus fernen Ländern kommen, die Schläge
+sehen, die dieses Land getroffen haben, und die Seuchen, die der Herr in
+ihm ausbrechen ließ: ^{[[#fn16][16]]}
+
+<<v22>>
+22 Schwefel und Salz bedecken es; seine Fläche ist eine einzige
+Brandstätte; es kann nicht besät werden und lässt nichts aufkeimen; kein
+Hälmchen kann wachsen; alles ist wie nach der Zerstörung von Sodom und
+Gomorra, Adma und Zebojim, die der Herr in seinem glühenden Zorn
+zerstört hat. ^{[[#fn17][17]]}
+
+<<v23>>
+23 Dann werden sie und alle Völker fragen: Warum hat der Herr diesem
+Land so etwas angetan? Warum entbrannte dieser gewaltige Zorn?
+
+<<v24>>
+24 Und man wird antworten: Weil sie den Bund verlassen haben, den Jahwe,
+der Gott ihrer Väter, mit ihnen geschlossen hatte, als er sie aus
+Ägypten führte, ^{[[#fn18][18]]}
+
+<<v25>>
+25 weil sie angefangen haben, anderen Göttern zu dienen und sich vor
+ihnen niederzuwerfen, Göttern, die sie vorher nicht einmal gekannt
+hatten und die er ihnen nicht zugewiesen hatte. ^{[[#fn19][19]]}
+
+<<v26>>
+26 Deshalb entbrannte der Zorn des Herrn gegen dieses Land. Deshalb
+brachte der Herr den ganzen Fluch, der in dieser Urkunde aufgezeichnet
+ist, über das Land,
+
+<<v27>>
+27 riss sie mit glühendem Zorn und großem Unwillen aus ihrem Land heraus
+und warf sie in ein anderes Land, in dem sie heute noch sind.
+
+<<v28>>
+28 Was noch verborgen ist, steht bei dem Herrn, unserem Gott. Was schon
+offenbar ist, gilt für uns und unsere Kinder auf ewig: dass wir alle
+Bestimmungen dieser Weisung halten sollen.
+^{[[#fn20][20]][[#fn21][21]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-8) 8,2-6; (1-3) 1,19.31; 3,21; 4,3.9.35; 5,24;
+7,18f; 10,21; 17,7; 29,16.21
+
+^{[[#fnm2][2]]} ℘ Mt 13,14; Röm 11,8
+
+^{[[#fnm3][3]]} ℘ 2,7; 8,4
+
+^{[[#fnm4][4]]} 4f: Gottesrede; vgl. die Anmerkung zu 11,13-15.
+
+^{[[#fnm5][5]]} ℘ (6-7) 2,24 - 3,13
+
+^{[[#fnm6][6]]} ℘ Jos 1,7f
+
+^{[[#fnm7][7]]} ℘ 1,13; 5,23; 16,18; 33,5
+
+^{[[#fnm8][8]]} eure Anführer, Stammesführer, Ältesten und Listenführer,
+andere Übersetzungsmöglichkeit: eure Stammesführer, Ältesten und
+Listenführer.
+
+^{[[#fnm9][9]]} ℘ Jos 9,27
+
+^{[[#fnm10][10]]} Wörtlich: Du schreitest jetzt durch in dem Bund deines
+Gottes und in seiner Verwünschung. - Diese Worte begleiteten
+wahrscheinlich eine symbolische Handlung, in der man zwischen den Teilen
+zerstückelter Tiere hindurchschritt. Man brachte dadurch zum Ausdruck,
+dass es einem so wie den Tieren ergehen soll, wenn man seine Zusage
+nicht hält (vgl. Gen 15,9f.17; Jer 34,18-20).
+
+^{[[#fnm11][11]]} ℘ 26,17-19
+
+^{[[#fnm12][12]]} ℘ (13-14) 5,3
+
+^{[[#fnm13][13]]} ℘ Apg 8,23; Hebr 12,15
+
+^{[[#fnm14][14]]} Gemeint ist, dass er insgeheim sich an einen anderen
+Gott wendet, den er als Regenspender betrachtet. Andere
+Übersetzungsmöglichkeit: keinen, der sich beim Hören deiner Worte
+insgeheim Segen verspricht, indem er sagt: Mir soll nichts geschehen,
+auch wenn ich mit verstocktem Herzen lebe, sodass das bewässerte Land
+mit dem verdorrten zusammen weggerafft wird. - Bewässertes und
+verdorrtes Land zusammen würde dann «alle» bedeuten, die Guten und die
+Sünder.
+
+^{[[#fnm15][15]]} ℘ (19-20) 28,15-68; Offb 22,18
+
+^{[[#fnm16][16]]} ℘ (21-27) 1 Kön 9,8f; Jer 5,19; 13,22; 16,10-13; 22,8f
+
+^{[[#fnm17][17]]} ℘ Gen 14,2; 19,15-29; Jer 49,18; 50,40
+
+^{[[#fnm18][18]]} ℘ 4,23; 17,2; 31,16.20; Jos 7,11.15; 23,16; Ri 2,20; 1
+Kön 11,11; 2 Kön 17,15.38; 18,12
+
+^{[[#fnm19][19]]} ℘ 4,19
+
+^{[[#fnm20][20]]} ℘ 32,34
+
+^{[[#fnm21][21]]} Andere Übersetzungsmöglichkeit: Die verhüllte Rolle
+ist das Exemplar für den Herrn, unseren Gott. Die unverhüllte Rolle ist
+für alle Zeit das Exemplar für uns und unsere Kinder. Wir sollen alle
+Bestimmungen dieser Weisung halten. - In diesem Fall würde darauf
+angespielt, dass bei Bundesschlüssen für jeden der beiden Partner eine
+Urkunde ausgestellt wurde.

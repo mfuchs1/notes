@@ -1,0 +1,74 @@
+#+TITLE: Ps 121 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 11:41]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 121.html
+
+* Ps 121
+
+<<verses>>
+
+<<v1>>
+* Der Wächter Israels
+
+1 [Ein Wallfahrtslied.] Ich hebe meine Augen auf zu den Bergen: /\\
+ Woher kommt mir Hilfe?\\
+\\
+
+<<v2>>
+2 Meine Hilfe kommt vom Herrn, /\\
+ der Himmel und Erde gemacht hat. [fn:1]\\
+\\
+
+<<v3>>
+3 Er lässt deinen Fuß nicht wanken; /\\
+ er, der dich behütet, schläft nicht. [fn:2]\\
+\\
+
+<<v4>>
+4 Nein, der Hüter Israels /\\
+ schläft und schlummert nicht. [fn:3]\\
+\\
+
+<<v5>>
+5 Der Herr ist dein Hüter, der Herr gibt dir Schatten; /\\
+ er steht dir zur Seite. [fn:4]\\
+\\
+
+<<v6>>
+6 Bei Tag wird dir die Sonne nicht schaden /\\
+ noch der Mond in der Nacht. [fn:5]\\
+\\
+
+<<v7>>
+7 Der Herr behüte dich vor allem Bösen, /\\
+ er behüte dein Leben. [fn:6]\\
+\\
+
+<<v8>>
+8 Der Herr behüte dich, wenn du fortgehst und wiederkommst, /\\
+ von nun an bis in Ewigkeit. [fn:7]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_124.org::v8][124,8]]
+
+[fn:2] [[file:Ps_66.org::v9][66,9]]; [[file:1.Sam_2.org::v9][1 Sam 2,9]]
+
+[fn:3] [[file:1.Kön_18.org::v27][1 Kön 18,27]]
+
+[fn:4] [[file:Ps_16.org::v8][16,8]]; [[file:Ps_73.org::v23][73,23]]
+
+[fn:5] [[file:Jes_25.org::v4][Jes 25,4]]; [[file:Jes_49.org::v10][49,10]]
+
+[fn:6] [[file:Ps_97.org::v10][97,10]]; (7-8) [[file:Num_6.org::v24][Num 6,24-26]]
+
+[fn:7] [[file:Dtn_28.org::v6][Dtn 28,6]]; [[file:Tob_5.org::v17][Tob 5,17]]

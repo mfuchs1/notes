@@ -1,0 +1,105 @@
+#+TITLE: Gen 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 20.html
+
+
+<<verses>>
+
+<<v1>>
+* Abraham in Gerar: 20,1-18
+
+1 Abraham brach von dort auf und zog in den Negeb. Er ließ sich zwischen
+Kadesch und Schur nieder und hielt sich in Gerar als Fremder auf. [fn:1]
+
+<<v2>>
+2 Abraham behauptete von Sara, seiner Frau: Sie ist meine Schwester. Da
+schickte Abimelech, der König von Gerar, hin und ließ Sara holen.
+
+<<v3>>
+3 Nachts kam Gott zu Abimelech und sprach zu ihm im Traum: Du musst
+sterben wegen der Frau, die du dir genommen hast; sie ist verheiratet.
+
+<<v4>>
+4 Abimelech aber war ihr noch nicht nahe gekommen. Mein Herr, sagte er,
+willst du denn auch unschuldige Leute umbringen?
+
+<<v5>>
+5 Hat er mir nicht gesagt, sie sei seine Schwester? Auch sie selbst hat
+behauptet, er sei ihr Bruder. Mit arglosem Herzen und mit reinen Händen
+habe ich das getan.
+
+<<v6>>
+6 Da sprach Gott zu ihm im Traum: Auch ich weiß, dass du es mit arglosem
+Herzen getan hast. Ich habe dich ja auch daran gehindert, dich gegen
+mich zu verfehlen. Darum habe ich nicht zugelassen, dass du sie
+anrührst.
+
+<<v7>>
+7 Jetzt aber gib die Frau dem Mann zurück; denn er ist ein Prophet. Er
+wird für dich eintreten, dass du am Leben bleibst. Gibst du sie aber
+nicht zurück, dann sollst du wissen: Du musst sterben, du und alles, was
+dir gehört.
+
+<<v8>>
+8 Am Morgen stand Abimelech auf, ließ alle seine Untergebenen rufen und
+erzählte ihnen alles, was vorgefallen war. Da gerieten die Männer in
+große Furcht.
+
+<<v9>>
+9 Nun ließ Abimelech Abraham rufen und stellte ihn zur Rede: Was hast du
+uns angetan? Womit habe ich denn gegen dich gefehlt, dass du über mich
+und mein Reich eine so große Sünde bringst? Du hast mir etwas angetan,
+was man nicht tun darf.
+
+<<v10>>
+10 Und Abimelech fragte Abraham: Was hattest du vor, als du das tatest?
+
+<<v11>>
+11 Abraham entgegnete: Ich sagte mir: Vielleicht gibt es keine
+Gottesfurcht an diesem Ort und man wird mich wegen meiner Frau
+umbringen.
+
+<<v12>>
+12 Übrigens ist sie wirklich meine Schwester, eine Tochter meines
+Vaters, nur nicht eine Tochter meiner Mutter; so konnte sie meine Frau
+werden.
+
+<<v13>>
+13 Als mich aber Gott aus dem Haus meines Vaters ins Ungewisse ziehen
+hieß, schlug ich ihr vor: Tu mir den Gefallen und sag von mir überall,
+wohin wir kommen: Er ist mein Bruder.
+
+<<v14>>
+14 Darauf nahm Abimelech Schafe, Ziegen und Rinder, Knechte und Mägde
+und schenkte sie Abraham. Auch gab er ihm seine Frau Sara zurück;
+
+<<v15>>
+15 dabei sagte Abimelech: Hier, mein Land steht dir offen. Wo es dir
+beliebt, da lass dich nieder!
+
+<<v16>>
+16 Zu Sara aber sagte er: Da, ich gebe deinem Bruder tausend
+Silberstücke. Das soll allen Leuten in deiner Umgebung die Augen
+zudecken und vor allen erfährst du Genugtuung.
+
+<<v17>>
+17 Abraham trat für ihn bei Gott ein; da heilte Gott Abimelech, auch
+seine Frau und seine Dienerinnen, sodass sie wieder gebären konnten.
+
+<<v18>>
+18 Denn der Herr hatte im Haus Abimelech jeden Mutterschoß verschlossen
+wegen Sara, der Frau Abrahams.\\
+\\
+
+
+* Footnotes
+
+[fn:1] (1-18) 12,10-20 [[file:Gen_12.org::v10][Gen 12,10-20]]; 26,1-11 [[file:Gen_26.org::v1][Gen 26,1-11]]

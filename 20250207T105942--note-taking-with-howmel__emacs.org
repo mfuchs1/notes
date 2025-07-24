@@ -1,0 +1,21 @@
+#+title:      Note taking with =howm.el=
+#+date:       [2025-02-07 Fr 10:59]
+#+filetags:   :emacs:
+#+identifier: 20250207T105942
+
+* Wieder etwas Neues
+Ich habe vor kurzem ein neues, "altes" Paket von Emacs entdeckt: =howm.el=; gibt es seit 2002 (?).
+
+[[https://github.com/kaorahi/howm]]
+
+Video: System Crafters
+[[https://www.youtube.com/watch?v=eSmTN5jynvg]]
+
+* Documentation
+[[file:~/Downloads/Howm_tutorial_eng-1.pdf]]
+
+* Wofür?
+Es gibt =denote= und wird mein hauptsächliches note-taking-tool bleiben; =howm= werde ich zuerst einmal testen.
+
+So weit ich es verstanden habe, ist =howm= für unorganisierte Personen, das Hauptaugenmerk liegt auf dem Schreiben. Das Organisieren der Notizen kann das Schreiben behindern.
+

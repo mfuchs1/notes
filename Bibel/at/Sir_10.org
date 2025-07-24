@@ -1,0 +1,211 @@
+:PROPERTIES:
+:ID:       397b56e0-31a2-4298-80d5-c822e7e1c864
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_8.html][8]] [[file:Sir_9.html][9]]
+*10* [[file:Sir_11.html][11]] [[file:Sir_12.html][12]] ...
+[[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 10
+  :PROPERTIES:
+  :CUSTOM_ID: sir-10
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Der weise Herrscher: 10,1-18
+     :PROPERTIES:
+     :CUSTOM_ID: der-weise-herrscher-101-18
+     :END:
+1 Ein weiser Herrscher festigt sein Volk, /\\
+ die Regierung eines Verständigen ist wohl geordnet.
+^{[[#fn1][1]][[#fn2][2]]}\\
+\\
+
+<<v2>>
+2 Wie der Herrscher des Volkes, so seine Beamten, /\\
+ wie das Haupt der Stadt, so ihre Bewohner. ^{[[#fn3][3]]}\\
+\\
+
+<<v3>>
+3 Ein König ohne Zucht richtet die Stadt zugrunde, /\\
+ volkreich wird die Stadt durch kluge Fürsten. ^{[[#fn4][4]]}\\
+\\
+
+<<v4>>
+4 In Gottes Hand liegt die Herrschaft über den Erdkreis; /\\
+ er setzt zur rechten Zeit den rechten Mann über ihn. ^{[[#fn5][5]]}\\
+\\
+
+<<v5>>
+5 In Gottes Hand liegt der Erfolg eines Menschen, /\\
+ er verleiht dem Gesetzgeber seine Würde.\\
+\\
+
+<<v6>>
+6 Füg dem Nächsten keinerlei Unrecht zu, /\\
+ geh nie den Weg des Übermuts!\\
+\\
+
+<<v7>>
+7 Dem Herrn und den Menschen ist Übermut verhasst, /\\
+ Unterdrückung gilt bei beiden als Untat.\\
+\\
+
+<<v8>>
+8 Die Herrschaft geht von einem Volk auf das andere über /\\
+ wegen Gewalttat und Übermut.\\
+\\
+
+<<v9>>
+9 Warum überhebt sich der Mensch aus Staub und Asche, /\\
+ dessen Leib schon zu Lebzeiten verwest?\\
+\\
+
+<<v10>>
+10 Ein wenig Krankheit bringt den Arzt in Erregung: /\\
+ Heute König, morgen tot! ^{[[#fn6][6]]}\\
+\\
+
+<<v11>>
+11 Stirbt der Mensch, so wird ihm Moder zuteil, /\\
+ Maden, Geschmeiß und Gewürm.\\
+\\
+
+<<v12>>
+12 Mit dem Trotz des Menschen fängt sein Übermut an, /\\
+ wenn sich sein Herz abkehrt von seinem Schöpfer.\\
+\\
+
+<<v13>>
+13 Ein See der Maßlosigkeit ist die Sünde, /\\
+ aus ihr quillt Unrecht hervor. Darum wirkt Gott Wunder und Plagen /\\
+ und schlägt den Sünder bis zur Vernichtung.\\
+\\
+
+<<v14>>
+14 Gott stürzt den Thron der Stolzen /\\
+ und setzt an ihre Stelle die Demütigen.\\
+\\
+
+<<v15>>
+15 ^{[[#fn7][7]]}\\
+\\
+
+<<v16>>
+16 Gott verwischt die Spuren der Völker, /\\
+ ihren Wurzelstock schlägt er ab bis auf den Grund. ^{[[#fn8][8]]}\\
+\\
+
+<<v17>>
+17 Er fegt sie aus dem Land und rottet sie aus, /\\
+ ihr Andenken lässt er von der Erde verschwinden.\\
+\\
+
+<<v18>>
+18 Maßlosigkeit ziemt dem Menschen nicht, /\\
+ frecher Zorn nicht dem von einer Frau Geborenen.\\
+\\
+
+<<v19>>
+**** Die wahre und die falsche Ehre: 10,19 - 11,9
+     :PROPERTIES:
+     :CUSTOM_ID: die-wahre-und-die-falsche-ehre-1019---119
+     :END:
+19 Welches Geschlecht ist geachtet? Das des Menschen. /\\
+ Welches Geschlecht ist geachtet? Das des Gottesfürchtigen. Welches
+Geschlecht ist verachtet? Das des Menschen. /\\
+ Welches Geschlecht ist verachtet? Das des Gesetzesübertreters.\\
+\\
+
+<<v20>>
+20 Unter Brüdern ist ihr Oberhaupt geehrt, /\\
+ aber in Gottes Augen der Gottesfürchtige.\\
+\\
+
+<<v21>>
+21 ^{[[#fn9][9]]}\\
+\\
+
+<<v22>>
+22 Gast und Fremder, Ausländer und Armer: /\\
+ ihr Ruhm ist die Gottesfurcht.\\
+\\
+
+<<v23>>
+23 Keinen verständigen Armen soll man verachten /\\
+ und keinen Gewalttätigen ehren.\\
+\\
+
+<<v24>>
+24 Fürsten, Richter und Herrscher sind geehrt, /\\
+ doch keiner ist größer als der Gottesfürchtige.\\
+\\
+
+<<v25>>
+25 Einem verständigen Sklaven müssen Freie dienen, /\\
+ doch ein kluger Mann braucht nicht zu klagen. ^{[[#fn10][10]]}\\
+\\
+
+<<v26>>
+26 Spiel nicht den Weisen, wenn du arbeiten sollst, /\\
+ tu nicht vornehm, wenn du in Not bist. ^{[[#fn11][11]]}\\
+\\
+
+<<v27>>
+27 Besser einer, der arbeitet und großen Reichtum gewinnt, /\\
+ als einer, der vornehm tut und nichts zu essen hat.\\
+\\
+
+<<v28>>
+28 Mein Sohn, in Demut ehre dich selbst, /\\
+ beurteile dich, wie du es verdienst.\\
+\\
+
+<<v29>>
+29 Wer wird den rechtfertigen, der sich selbst ins Unrecht setzt? /\\
+ Wer wird den ehren, der sich selbst die Ehre abspricht?\\
+\\
+
+<<v30>>
+30 Es gibt Arme, die wegen ihrer Klugheit geehrt sind. /\\
+ Es gibt Leute, die wegen ihres Reichtums geehrt sind.\\
+\\
+
+<<v31>>
+31 Wird einer als Armer geehrt, wie viel mehr, wenn er reich wird. /\\
+ Wird einer als Reicher verachtet, wie viel mehr, wenn er arm wird.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Spr 20,8
+
+^{[[#fnm2][2]]} 1a: G und S: erzieht sein Volk.
+
+^{[[#fnm3][3]]} ℘ Spr 29,12
+
+^{[[#fnm4][4]]} 3a: G und S: richtet sein Volk zugrunde.
+
+^{[[#fnm5][5]]} ℘ Spr 21,1
+
+^{[[#fnm6][6]]} 10a: Text unsicher; vielleicht nach G: Eine längere
+Krankheit spottet des Arztes.
+
+^{[[#fnm7][7]]} 10,15 Fehlt in H und ist wohl nur sinngemäße
+Wiederholung von VV. 16a und 14b. G: Die Wurzeln der Völker hat Gott
+ausgerissen und Demütige an ihre Stelle gepflanzt.
+
+^{[[#fnm8][8]]} 16b: Andere Übersetzungsmöglichkeit nach G: er
+vernichtet sie bis auf den Grund der Erde.
+
+^{[[#fnm9][9]]} 10,21 Schlecht bezeugter Zusatz: Anfang der Annahme
+(durch Gott) ist die Gottesfurcht; Anfang der Verwerfung sind Verhärtung
+und Überhebung.
+
+^{[[#fnm10][10]]} ℘ Spr 17,2
+
+^{[[#fnm11][11]]} ℘ Spr 12,9

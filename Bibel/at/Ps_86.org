@@ -1,0 +1,131 @@
+#+TITLE: Ps 86 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-04 So 11:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 86.html
+
+* Ps 86
+
+<<verses>>
+
+<<v1>>
+* Der Hilferuf eines Armen zu Gott
+
+1 [Ein Gebet Davids.] Wende dein Ohr mir zu, erhöre mich, Herr! /\\
+ Denn ich bin arm und gebeugt.\\
+\\
+
+<<v2>>
+2 Beschütze mich, denn ich bin dir ergeben! /\\
+ Hilf deinem Knecht, der dir vertraut!\\
+\\
+
+<<v3>>
+3 Du bist mein Gott. Sei mir gnädig, o Herr! /\\
+ Den ganzen Tag rufe ich zu dir. [fn:1]\\
+\\
+
+<<v4>>
+4 Herr, erfreue deinen Knecht; /\\
+ denn ich erhebe meine Seele zu dir. [fn:2]\\
+\\
+
+<<v5>>
+5 Herr, du bist gütig und bereit zu verzeihen, /\\
+ für alle, die zu dir rufen, reich an Gnade.\\
+\\
+
+<<v6>>
+6 Herr, vernimm mein Beten, /\\
+ achte auf mein lautes Flehen!\\
+\\
+
+<<v7>>
+7 Am Tag meiner Not rufe ich zu dir; /\\
+ denn du wirst mich erhören. [fn:3]\\
+\\
+
+<<v8>>
+8 Herr, unter den Göttern ist keiner wie du /\\
+ und nichts gleicht den Werken, die du geschaffen hast. [fn:4]\\
+\\
+
+<<v9>>
+9 Alle Völker kommen und beten dich an, /\\
+ sie geben, Herr, deinem Namen die Ehre. [fn:5]\\
+\\
+
+<<v10>>
+10 Denn du bist groß und tust Wunder; /\\
+ du allein bist Gott.\\
+\\
+
+<<v11>>
+11 Weise mir, Herr, deinen Weg; /\\
+ ich will ihn gehen in Treue zu dir. Richte mein Herz darauf hin, /\\
+ allein deinen Namen zu fürchten! [fn:6]\\
+\\
+
+<<v12>>
+12 Ich will dir danken, Herr, mein Gott, /\\
+ aus ganzem Herzen, /\\
+ will deinen Namen ehren immer und ewig.\\
+\\
+
+<<v13>>
+13 Du hast mich den Tiefen des Totenreichs entrissen. /\\
+ Denn groß ist über mir deine Huld. [fn:7]\\
+\\
+
+<<v14>>
+14 Gott, freche Menschen haben sich gegen mich erhoben, /\\
+ die Rotte der Gewalttäter trachtet mir nach dem Leben; /\\
+ doch dich haben sie nicht vor Augen. [fn:8]\\
+\\
+
+<<v15>>
+15 Du aber, Herr, bist ein barmherziger und gnädiger Gott, /\\
+ du bist langmütig, reich an Huld und Treue. [fn:9]\\
+\\
+
+<<v16>>
+16 Wende dich mir zu und sei mir gnädig, /\\
+ gib deinem Knecht wieder Kraft /\\
+ und hilf dem Sohn deiner Magd! [fn:10]\\
+\\
+
+<<v17>>
+17 Tu ein Zeichen und schenke mir Glück! /\\
+ Alle, die mich hassen, sollen es sehen und sich schämen, /\\
+ weil du, Herr, mich gerettet und getröstet hast.\\
+\\
+
+* Footnotes
+
+[fn:1] «Du bist mein Gott» wurde aus V. 2 hierher genommen.
+
+[fn:2] [[file:Ps_25.org::v1][25,1]]; [[file:Ps_143.org::v8][143,8]]
+
+[fn:3] [[file:Ps_50.org::v15][50,15]]
+
+[fn:4] «die du geschaffen hast» wurde aus V. 9 hierher
+genommen.
+
+[fn:5] [[file:Ps_22.org::v28][22,28]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_15.org::v4][Offb 15,4]]
+
+[fn:6] [[file:Ps_25.org::v4][25,4]]; [[file:Ps_26.org::v3][26,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_14.org::v6][Joh 14,6]]
+
+[fn:7] [[file:Ps_9.org::v14][9,14]]
+
+[fn:8] [[file:Ps_54.org::v5][54,5]]
+
+[fn:9] [[file:Ps_116.org::v5][116,5]]
+
+[fn:10] [[file:Ps_25.org::v16][25,16]]

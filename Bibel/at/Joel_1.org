@@ -1,0 +1,190 @@
+:PROPERTIES:
+:ID:       0ffa959e-c9d0-4df2-9c87-4c817fdb85fc
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Joel* -- *1* [[file:Joel_2.html][2]]
+[[file:Joel_3.html][3]] [[file:Joel_4.html][4]]
+
+--------------
+
+* Joel 1
+  :PROPERTIES:
+  :CUSTOM_ID: joel-1
+  :END:
+
+Die unter der Überschrift »Wort des Herrn an Joël, den Sohn Petuëls«
+überlieferte Schrift enthält Teile, die sich stark voneinander
+unterscheiden. Die beiden ersten Kapitel spiegeln eine Bußfeier wider,
+die durch eine gewaltige Heuschreckenplage und eine Dürre veranlasst
+ist, während die Kapitel 3 und 4 vom zukünftigen Heil Israels handeln.
+Die Klammer zwischen beiden Teilen bildet das Thema vom »Tag des Herrn«
+(vgl. 1,15 und 2,1-11), auf den die jetzigen Katastrophen hinweisen.
+Ihre verheißene Abwendung (2,18-27: neuer Segen) ist ein Vorausbild der
+künftigen Heilszeit, in der, nach dem Gericht über die heidnischen
+Weltmächte, Juda und Jerusalem einen dauerhaften Frieden erfahren.\\
+\\
+Die Frage, ob der jetzige Text von einem einzigen Autor stammt, wird
+heute von der Forschung zumeist bejaht. Über die Zeit der Abfassung ist
+man verschiedener Meinung. Gute Gründe sprechen für eine Datierung
+ins 5. oder 4. Jahrhundert v. Chr. Von der Person des Propheten ist
+nichts Näheres bekannt. Er zeigt sich sehr vertraut mit dem Kult am
+Tempel, ohne dass er deswegen als sog. Kultprophet gelten müsste. Öfter
+zitiert er prophetische Vorgänger, obwohl er sich in der ihm eigenen
+dichterischen Kraft als Mann von Originalität erweist. Besonders wichtig
+ist seine Verkündigung der Ausgießung des Gottesgeistes über alle
+Glieder des endzeitlichen Gottesvolkes (Kap. 3), die in der Predigt des
+Petrus am ersten christlichen Pfingstfest als erfüllt verkündigt wird
+(Apg 2,17-21).\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Überschrift: 1,1
+   :PROPERTIES:
+   :CUSTOM_ID: überschrift-11
+   :END:
+1 Das Wort des Herrn, das an Joël, den Sohn Petuëls, erging.\\
+\\
+
+<<v2>>
+** Die Bußfeier wegen der Heuschrecken-Plage: 1,2 - 2,27
+   :PROPERTIES:
+   :CUSTOM_ID: die-bußfeier-wegen-der-heuschrecken-plage-12---227
+   :END:
+**** Die Heuschreckenplage als Anlass zur Buße: 1,2-20
+     :PROPERTIES:
+     :CUSTOM_ID: die-heuschreckenplage-als-anlass-zur-buße-12-20
+     :END:
+2 Hört her, ihr Ältesten, /\\
+ horcht alle auf, ihr Bewohner des Landes! Ist so etwas jemals geschehen
+/\\
+ in euren Tagen oder in den Tagen eurer Väter?\\
+\\
+
+<<v3>>
+3 Erzählt euren Kindern davon /\\
+ und eure Kinder sollen es ihren Kindern erzählen /\\
+ und deren Kinder dem folgenden Geschlecht.\\
+\\
+
+<<v4>>
+4 Was der Grashüpfer übrig ließ, /\\
+ hat die Wanderheuschrecke gefressen; was die Wanderheuschrecke übrig
+ließ, /\\
+ hat die Larve gefressen; was die Larve übrig ließ, /\\
+ hat der Nager gefressen. ^{[[#fn1][1]]}\\
+\\
+
+<<v5>>
+5 Wacht auf, ihr Betrunkenen, und weint! /\\
+ Jammert alle, ihr Zecher! /\\
+ Euer Mund bekommt keinen Wein mehr zu trinken.\\
+\\
+
+<<v6>>
+6 Denn ein Volk zog heran gegen mein Land, /\\
+ gewaltig groß und nicht zu zählen; seine Zähne sind Zähne von Löwen,
+/\\
+ sein Gebiss ist das Gebiss einer Löwin. ^{[[#fn2][2]]}\\
+\\
+
+<<v7>>
+7 Es hat meinen Weinstock verwüstet, /\\
+ meinen Feigenbaum völlig verstümmelt. Abgeschält ließ es ihn liegen,
+/\\
+ die Zweige starren bleich in die Luft. ^{[[#fn3][3]]}\\
+\\
+
+<<v8>>
+8 Klagt wie eine Jungfrau im Trauergewand, /\\
+ die den Bräutigam ihrer Jugend beweint.\\
+\\
+
+<<v9>>
+9 Aus ist es mit dem Speiseopfer, /\\
+ mit dem Trankopfer im Haus des Herrn. /\\
+ Es trauern die Priester, die Diener des Herrn.\\
+\\
+
+<<v10>>
+10 Kahl liegt das Feld, der Acker trauert; /\\
+ denn das Korn ist vernichtet, vertrocknet der Wein, /\\
+ das Öl ist versiegt.\\
+\\
+
+<<v11>>
+11 Die Bauern sind ganz geschlagen, /\\
+ es jammern die Winzer; denn Weizen und Gerste, /\\
+ die Ernte des Feldes ist verloren.\\
+\\
+
+<<v12>>
+12 Der Weinstock ist dürr, der Feigenbaum welk. /\\
+ Granatbaum, Dattelpalme und Apfelbaum, alle Bäume auf dem Feld sind
+verdorrt; /\\
+ ja, verdorrt ist die Freude der Menschen. ^{[[#fn4][4]]}\\
+\\
+
+<<v13>>
+13 Legt Trauer an und klagt, ihr Priester! /\\
+ Jammert, ihr Diener des Altars! Kommt, verbringt die Nacht im
+Trauergewand, /\\
+ ihr Diener meines Gottes! Denn Speiseopfer und Trankopfer /\\
+ bleiben dem Haus eures Gottes versagt.\\
+\\
+
+<<v14>>
+14 Ordnet ein heiliges Fasten an, /\\
+ ruft einen Gottesdienst aus! Versammelt die Ältesten /\\
+ und alle Bewohner des Landes beim Haus des Herrn, eures Gottes, /\\
+ und schreit zum Herrn: ^{[[#fn5][5]]}\\
+\\
+
+<<v15>>
+15 Weh, was für ein Tag! /\\
+ Denn der Tag des Herrn ist nahe; /\\
+ er kommt mit der Allgewalt des Allmächtigen. ^{[[#fn6][6]]}\\
+\\
+
+<<v16>>
+16 Vor unseren Augen wurde uns die Nahrung entrissen, /\\
+ aus dem Haus unseres Gottes sind Freude und Jubel verschwunden.\\
+\\
+
+<<v17>>
+17 Die Saat liegt vertrocknet unter den Schollen; /\\
+ die Scheunen sind verödet, die Speicher zerfallen; /\\
+ denn das Korn ist verdorrt.\\
+\\
+
+<<v18>>
+18 Wie brüllt das Vieh! /\\
+ Die Rinderherden irren umher, denn sie finden kein Futter; /\\
+ selbst die Schafherden leiden Not.\\
+\\
+
+<<v19>>
+19 Zu dir rufe ich, Herr; /\\
+ denn Feuer hat das Gras der Steppe gefressen, /\\
+ die Flammen haben alle Bäume der Felder verbrannt.\\
+\\
+
+<<v20>>
+20 Auch die wilden Tiere schreien lechzend zu dir; /\\
+ denn die Bäche sind vertrocknet /\\
+ und Feuer hat das Gras der Steppe gefressen.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Dtn 28,38; Am 4,9; 7,1f; Ps 105,34f
+
+^{[[#fnm2][2]]} ℘ Offb 9,8
+
+^{[[#fnm3][3]]} ℘ Jes 5,1
+
+^{[[#fnm4][4]]} ℘ Jes 16,10; Jer 25,10; Am 4,7-9
+
+^{[[#fnm5][5]]} ℘ 2,15f
+
+^{[[#fnm6][6]]} ℘ Jes 13,6; Ez 30,2f

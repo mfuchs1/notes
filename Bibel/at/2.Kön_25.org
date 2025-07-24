@@ -1,0 +1,182 @@
+#+TITLE: 2 Kön 25 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 16:41]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 25.html
+
+* 2.Kön 25
+
+<<verses>>
+
+<<v1>>
+1 Zidkija hatte sich gegen den König von Babel empört. Im neunten
+Regierungsjahr, am zehnten Tag des zehnten Monats, rückte Nebukadnezzar,
+der König von Babel, mit seiner ganzen Streitmacht vor Jerusalem und
+belagerte es. Man errichtete ringsherum einen Belagerungswall.
+
+<<v2>>
+2 Bis zum elften Jahr des Königs Zidkija wurde die Stadt belagert.
+
+<<v3>>
+3 Am neunten Tag des vierten Monats war in der Stadt die Hungersnot groß
+geworden, und die Bürger des Landes hatten kein Brot mehr.
+
+<<v4>>
+4 Damals wurden Breschen in die Stadtmauer geschlagen. Der König und
+alle Krieger verließen die Stadt bei Nacht auf dem Weg durch das Tor
+zwischen den beiden Mauern, das zum königlichen Garten hinausführt,
+obwohl die Chaldäer rings um die Stadt lagen. Sie schlugen die Richtung
+nach der Araba ein. [fn:1]
+
+<<v5>>
+5 Aber die chaldäischen Truppen setzten dem König nach und holten ihn in
+den Niederungen von Jericho ein, nachdem alle seine Truppen ihn
+verlassen und sich zerstreut hatten.
+
+<<v6>>
+6 Man ergriff den König und brachte ihn nach Ribla, zum König von Babel,
+und dieser sprach über ihn das Urteil.
+
+<<v7>>
+7 Die Söhne Zidkijas machte man vor dessen Augen nieder. Zidkija ließ er
+blenden, in Fesseln legen und nach Babel bringen.\\
+\\
+
+<<v8>>
+* Das Ende des Reiches Juda: 25,8-26
+
+8 Am siebten Tag des fünften Monats - das ist im neunzehnten Jahr des
+Königs Nebukadnezzar, des Königs von Babel - rückte Nebusaradan, der
+Kommandant der Leibwache und Diener des Königs von Babel, in Jerusalem
+ein [fn:2]
+
+<<v9>>
+9 und steckte das Haus des Herrn, den königlichen Palast und alle Häuser
+Jerusalems in Brand. Jedes große Haus ließ er in Flammen aufgehen.
+
+<<v10>>
+10 Auch die Umfassungsmauern Jerusalems rissen die chaldäischen Truppen,
+die dem Kommandanten der Leibwache unterstanden, nieder.
+
+<<v11>>
+11 Den Rest der Bevölkerung, der noch in der Stadt geblieben war, sowie
+alle, die zum König von Babel übergelaufen waren, und den Rest der
+Handwerker schleppte Nebusaradan, der Kommandant der Leibwache, in die
+Verbannung.
+
+<<v12>>
+12 Nur von den armen Leuten im Land ließ der Kommandant der Leibwache
+einen Teil als Wein- und Ackerbauern zurück.
+
+<<v13>>
+13 Die bronzenen Säulen am Haus des Herrn, die fahrbaren Gestelle und
+das Eherne Meer beim Haus des Herrn zerschlugen die Chaldäer und nahmen
+alle Gegenstände aus Bronze mit nach Babel.
+
+<<v14>>
+14 Auch die Töpfe, Schaufeln, Messer und Becher sowie alle bronzenen
+Geräte, die man beim Tempeldienst verwendete, nahmen sie weg.
+
+<<v15>>
+15 Ebenso nahm der Kommandant der Leibwache die Kohlenpfannen und die
+Schalen weg, die sämtlich aus Gold oder aus Silber waren,
+
+<<v16>>
+16 ferner die zwei Säulen, das eine «Meer», die Gestelle, die Salomo für
+das Haus des Herrn hatte anfertigen lassen - die Bronze von all diesen
+Geräten war nicht zu wägen.
+
+<<v17>>
+17 Achtzehn Ellen betrug die Höhe der einen Säule, und oben hatte sie
+ein Kapitell aus Bronze. Die Höhe des einen Kapitells betrug fünf Ellen;
+das Kapitell umgaben Flechtwerk und Granatäpfel, alles aus Bronze.
+Ebenso war es bei der zweiten Säule auf dem Flechtwerk.
+
+<<v18>>
+18 Der Kommandant der Leibwache nahm ferner den Oberpriester Seraja, den
+zweiten Priester Zefanja und die drei Schwellenwächter mit.
+
+<<v19>>
+19 Aus der Stadt nahm er einen Hofbeamten, der Kommandant der Soldaten
+war, und fünf Leute vom persönlichen Dienst des Königs mit, die sich
+noch in der Stadt befanden, sowie den Schreiber des Heerführers, der die
+Bürger des Landes auszuheben hatte, schließlich sechzig Mann von der
+Bürgerschaft, die sich noch in der Stadt befanden.
+
+<<v20>>
+20 Nebusaradan, der Kommandant der Leibwache nahm sie fest und schickte
+sie zum König von Babel nach Ribla.
+
+<<v21>>
+21 Der König von Babel ließ sie in Ribla in der Landschaft Hamat
+hinrichten. So wurde Juda von seiner Heimat weggeführt.
+
+<<v22>>
+22 Über das Volk, das im Land Juda geblieben war und das Nebukadnezzar,
+der König von Babel, zurückgelassen hatte, setzte er Gedalja, den Sohn
+Ahikams und Enkel Schafans, als Statthalter ein. [fn:3]
+
+<<v23>>
+23 Als nun alle Truppenführer und ihre Mannschaften hörten, dass der
+König von Babel Gedalja als Statthalter eingesetzt habe, kamen sie zu
+ihm nach Mizpa. Es waren Jischmael, der Sohn Netanjas, Johanan, der Sohn
+Kareachs, Seraja, der Sohn Tanhumets aus Netofa, und Jaasanja, der Sohn
+des Maachatiters, mit ihren Leuten.
+
+<<v24>>
+24 Gedalja schwor ihnen und ihren Mannschaften und sagte ihnen: Fürchtet
+euch nicht vor den chaldäischen Beamten! Bleibt im Land und dient dem
+König von Babel; dann wird es euch gut gehen.
+
+<<v25>>
+25 Aber im siebten Monat kam Jischmael, der Sohn Netanjas, des Sohnes
+Elischamas, ein Mann aus königlichem Geschlecht, mit zehn Mann. Sie
+erschlugen Gedalja samt den Judäern und Chaldäern, die bei ihm in Mizpa
+waren.
+
+<<v26>>
+26 Dann machte sich das ganze Volk vom Kleinsten bis zum Größten mit den
+Truppenführern auf und zog nach Ägypten. Sie fürchteten sich nämlich vor
+den Chaldäern.\\
+\\
+
+<<v27>>
+* Die Begnadigung Jojachins: 25,27-30
+
+27 Im siebenunddreißigsten Jahr nach der Wegführung Jojachins, des
+Königs von Juda, am siebenundzwanzigsten Tag des zwölften Monats,
+begnadigte Ewil-Merodach, der König von Babel, im Jahr seines
+Regierungsantritts Jojachin, den König von Juda, und entließ ihn aus dem
+Kerker. [fn:4] [fn:5]
+
+<<v28>>
+28 Er söhnte sich mit ihm aus und wies ihm seinen Sitz oberhalb des
+Sitzes der anderen Könige an, die bei ihm in Babel waren.
+
+<<v29>>
+29 Er durfte seine Gefängniskleidung ablegen und ständig bei ihm
+speisen, solange er lebte.
+
+<<v30>>
+30 Sein Unterhalt - ein dauernder Unterhalt - wurde ihm vom König von
+Babel in der bestimmten Menge täglich geliefert, solange er lebte.\\
+\\
+
+* Footnotes
+
+[fn:1] Zwei in H fehlende Wörter sind aus [[file:Jer_52.org::v7][Jer 52,7]] ergänzt.
+
+[fn:2] (8-21) [[file:2.Chr_36.org::v17][2 Chr 36,17-21]]; [[file:Jer_52.org::v12][Jer 52,12-27]]
+
+[fn:3] [[file:Jer_40.org::v7][Jer 40,7]] - [[file:Jer_41.org::v18][41,18]]
+
+[fn:4] (27-30) [[file:Jer_52.org::v31][Jer 52,31-34]]
+
+[fn:5] Es ist das Jahr 561 v. Chr. Ewil-Merodach (babylonisch
+Amel-Marduk) war der Sohn und Nachfolger Nebukadnezzars.

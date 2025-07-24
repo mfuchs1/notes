@@ -1,0 +1,151 @@
+#+TITLE: Ex 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 22:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 10.html
+
+* Ex 10
+
+<<verses>>
+
+<<v1>>
+1 Der Herr sprach zu Mose: Geh zum Pharao! Ich habe sein Herz und das
+Herz seiner Diener verschlossen, damit ich diese Zeichen unter ihnen
+vollbringen konnte
+
+<<v2>>
+2 und damit du deinem Sohn und deinem Enkel erzählen kannst, was ich den
+Ägyptern angetan und welche Zeichen ich unter ihnen vollbracht habe.
+Dann werdet ihr erkennen, dass ich der Herr bin.
+
+<<v3>>
+3 Mose und Aaron gingen zum Pharao und sagten: So spricht Jahwe, der
+Gott der Hebräer: Wie lange willst du dich noch weigern, dich mir zu
+unterwerfen? Lass mein Volk ziehen, damit sie mich verehren können.
+
+<<v4>>
+4 Wenn du dich weigerst, mein Volk ziehen zu lassen, so schicke ich
+morgen Heuschrecken über dein Land.
+
+<<v5>>
+5 Sie werden die Oberfläche der Erde bedecken, sodass man den Erdboden
+nicht mehr sehen kann. Sie werden auch noch das verzehren, was der Hagel
+verschont hat, und alle Bäume kahl fressen, die auf euren Feldern
+wachsen.
+
+<<v6>>
+6 Deine Häuser, die Häuser aller deiner Diener und die aller Ägypter
+werden voll davon sein. So etwas haben deine Väter und Vorväter bis
+heute nicht gesehen, seitdem sie in diesem Land leben. Dann wandte sich
+Mose um und verließ den Pharao.
+
+<<v7>>
+7 Die Diener sagten zum Pharao: Wie lange soll uns dieser Mann noch
+Unglück bringen? Lass die Leute ziehen, damit sie Jahwe, ihren Gott,
+verehren können. Merkst du denn noch immer nicht, dass Ägypten zugrunde
+geht?
+
+<<v8>>
+8 Da holte man Mose und Aaron zum Pharao zurück und er sagte zu ihnen:
+Geht, verehrt Jahwe, euren Gott! Wer von euch will denn mitgehen?
+
+<<v9>>
+9 Mose antwortete: Wir gehen mit Jung und Alt, mit unseren Söhnen und
+Töchtern; auch die Schafe, Ziegen und Rinder nehmen wir mit. Denn wir
+feiern ein Jahwefest.
+
+<<v10>>
+10 Da sagte er zu ihnen: Dann sei Jahwe ebenso wenig mit euch, wie ich
+euch und eure Kinder ziehen lasse. Seht, ihr habt Böses im Sinn.
+
+<<v11>>
+11 Nein, nur ihr Männer dürft gehen und Jahwe verehren; denn das habt
+ihr verlangt. Und man jagte sie vom Pharao weg.
+
+<<v12>>
+12 Darauf sprach der Herr zu Mose: Streck deine Hand über Ägypten aus!
+Dann werden Heuschrecken kommen und über Ägypten herfallen. Sie werden
+den ganzen Pflanzenwuchs des Landes auffressen, alles, was der Hagel
+verschont hat.
+
+<<v13>>
+13 Da streckte Mose seinen Stab über Ägypten aus und der Herr schickte
+den Ostwind in das Land, einen ganzen Tag und eine ganze Nacht lang. Als
+es Morgen wurde, hatte der Ostwind die Heuschrecken ins Land gebracht.
+
+<<v14>>
+14 Sie fielen über ganz Ägypten her und ließen sich in Schwärmen auf dem
+Gebiet von Ägypten nieder. Niemals vorher gab es so viele Heuschrecken
+wie damals, auch wird es nie wieder so viele geben.
+
+<<v15>>
+15 Sie bedeckten die Oberfläche des ganzen Landes und das Land war
+schwarz von ihnen. Sie fraßen allen Pflanzenwuchs des Landes und alle
+Baumfrüchte auf, die der Hagel verschont hatte, und an den Bäumen und
+Feldpflanzen in ganz Ägypten blieb nichts Grünes.
+
+<<v16>>
+16 Da ließ der Pharao Mose und Aaron eiligst rufen und sagte zu ihnen:
+Ich habe gegen Jahwe, euren Gott, gesündigt und auch gegen euch.
+
+<<v17>>
+17 Nur noch diesmal nehmt meine Sünde von mir und betet zu Jahwe, eurem
+Gott, er möge mich wenigstens noch von dieser tödlichen Gefahr befreien.
+
+<<v18>>
+18 Mose verließ den Pharao wieder und betete zum Herrn.
+
+<<v19>>
+19 Der Herr ließ den Wind in einen sehr starken Westwind umschlagen, der
+die Heuschrecken forttrug und ins Schilfmeer warf. Im ganzen Gebiet von
+Ägypten blieb keine einzige Heuschrecke mehr übrig.
+
+<<v20>>
+20 Der Herr aber verhärtete das Herz des Pharao, sodass er die
+Israeliten nicht ziehen ließ.
+
+<<v21>>
+21 Da sprach der Herr zu Mose: Streck deine Hand zum Himmel aus; dann
+wird eine Finsternis über Ägypten kommen und es wird stockdunkel werden.
+
+<<v22>>
+22 Mose streckte seine Hand zum Himmel aus und schon breitete sich tiefe
+Finsternis über ganz Ägypten aus, drei Tage lang.
+
+<<v23>>
+23 Man konnte einander nicht sehen und sich nicht von der Stelle rühren,
+drei Tage lang. Wo aber die Israeliten wohnten, blieb es hell.
+
+<<v24>>
+24 Da ließ der Pharao Mose rufen und sagte: Geht und verehrt Jahwe! Nur
+eure Schafe, Ziegen und Rinder sollen bleiben. Eure Kinder dürfen
+mitziehen.
+
+<<v25>>
+25 Mose erwiderte: Selbst wenn du uns Schlacht- und Brandopfer
+mitgäbest, damit wir sie Jahwe, unserem Gott, darbringen,
+
+<<v26>>
+26 müssten unsere Herden doch mitgehen, keine Klaue darf zurückbleiben.
+Denn aus unseren Herden nehmen wir das Opfer, mit dem wir Jahwe, unseren
+Gott, verehren; aber mit welchem Opfertier wir Jahwe verehren sollen,
+wissen wir nicht, ehe wir dort angekommen sind.
+
+<<v27>>
+27 Der Herr verhärtete das Herz des Pharao, sodass er sie nicht ziehen
+lassen wollte.
+
+<<v28>>
+28 Der Pharao sagte zu Mose: Weg von mir! Hüte dich, mir jemals wieder
+unter die Augen zu treten. Denn an dem Tag, an dem du mir unter die
+Augen trittst, musst du sterben.
+
+<<v29>>
+29 Da sagte Mose: Gut, dein Wort soll gelten. Ich werde dir nie mehr
+unter die Augen treten.

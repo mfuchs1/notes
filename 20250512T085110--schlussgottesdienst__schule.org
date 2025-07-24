@@ -1,0 +1,92 @@
+#+title:      Schlussgottesdienst
+#+date:       [2025-05-12 Mo 08:51]
+#+filetags:   :schule:
+#+identifier: 20250512T085110
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Schlussgottesdienst.html
+
+* Termin
+<2025-07-04 Fr 08:00>
+
+* Thema
+Gott behütet uns, wir gehen behütet in die Ferien.
+
+* Wer liest?
+
+** 1a
+Julia und Anna (Fürbitten)
+
+** 1b
+Bastian und Noah (Fürbitten)
+
+** 1c
+Fürbitte
+Lesung
+Kyrie
+
+Anna Schefbänker
+Anna Quehenberger
+Nina
+Lana
+
+** 1d
+Katja und Laura (Kyrie)
+
+
+* Kyrietexte (?)
+Herr, du bist wie ein guter Hirte, du kennst uns alle und weißt, was wir brauchen.\\
+Herr erbarme dich unser
+
+Du beschützt uns vor allen Gefahren und gibst dein Leben für uns hin.\\
+Christus erbarme dich unser
+
+Wenn wir uns verirren, führst du uns wieder auf den richtigen Weg.\\
+Herr erbarme dich unser
+
+* Lesungen
+
+** Ps 23
+Der HERR ist mein Hirt, nichts wird mir fehlen.\\
+Er lässt mich lagern auf grünen Auen und führt mich zum Ruheplatz am Wasser.\\
+
+Meine Lebenskraft bringt er zurück. /\\
+Er führt mich auf Pfaden der Gerechtigkeit, getreu seinem Namen.\\
+
+Auch wenn ich gehe im finsteren Tal, ich fürchte kein Unheil;\\
+denn du bist bei mir, dein Stock und dein Stab, sie trösten mich.\\
+
+Du deckst mir den Tisch vor den Augen meiner Feinde.\\
+Du hast mein Haupt mit Öl gesalbt, übervoll ist mein Becher.\\
+Ja, Güte und Huld werden mir folgen mein Leben lang /\\
+und heimkehren werde ich ins Haus des HERRN für lange Zeiten.\\
+
+** Joh 10,11-15
+Ich bin der gute Hirt. Der gute Hirt gibt sein Leben hin für die Schafe.\\
+
+Der bezahlte Knecht aber, der nicht Hirt ist und dem die Schafe nicht gehören, sieht den Wolf kommen,
+lässt die Schafe im Stich und flieht; und der Wolf reißt sie und zerstreut sie. Er flieht,
+weil er nur ein bezahlter Knecht ist und ihm an den Schafen nichts liegt.\\
+
+Ich bin der gute Hirt; ich kenne die Meinen und die Meinen kennen mich,\\
+wie mich der Vater kennt und ich den Vater kenne; und ich gebe mein Leben hin für die Schafe.
+
+* Fürbitten
+- Guter Gott, wir denken heute ganz besonders an alle Schülerinnen und Schüler, an alle Lehrerinnen und Lehrer, die sich nach diesem anstrengenden Schuljahr nach einer Ruhepause und Erholung sehnen.
+
+- Guter Gott, wir denken heute ganz besonders an die Menschen, die viel mehr als sonst an ihrer Arbeitsstelle leisten mussten oder die sich in ihrer Freizeit für andere einsetzen.
+
+- Guter Gott, wir denken heute ganz besonders an unsere Familien. An alle Eltern, die uns in diesem Schuljahr beim Lernen unterstützt haben, auch wenn es für uns und sie nicht immer einfach war.
+
+- Guter Gott, wir denken heute ganz besonders an alle Menschen, die körperlich schwer erkrankt sind. Und an alle, die ihre Freunde und Familie sehr vermisst haben und an Einsamkeit gelitten haben.
+
+- Guter Gott, wir denken heute ganz besonders an alle Menschen, die verstorben sind und an deiner Seite Ruhe gefunden haben und an alle, die liebe Menschen verloren haben.
+
+* Geschenk
+Mini Ritter Sport Schokolade mit einem Aufkleber "Jesus segne dich!" oder "Jesus liebt dich!" oder ähnliches.
+

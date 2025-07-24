@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       3c47438e-8c0d-47da-9987-bd12072d337e
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_18.html][18]] [[file:Jes_19.html][19]] *20*
+[[file:Jes_21.html][21]] [[file:Jes_22.html][22]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 20
+  :PROPERTIES:
+  :CUSTOM_ID: jes-20
+  :END:
+
+<<verses>>
+
+<<v2>>
+2 V1
+**** Die Verschleppung der Ägypter und der Kuschiter: 20,1-6
+     :PROPERTIES:
+     :CUSTOM_ID: die-verschleppung-der-ägypter-und-der-kuschiter-201-6
+     :END:
+Der Herr hatte durch Jesaja, den Sohn des Amoz gesprochen und gesagt:
+Geh, leg dein Bußgewand ab und zieh deine Schuhe aus! Jesaja hatte es
+getan und war nackt und barfuß umhergegangen. ^{[[#fn1][1]]}
+
+<<v1>>
+1 V2In dem Jahr nun, in dem im Auftrag des Königs Sargon von Assur ein
+Feldherr nach Aschdod kam, es belagerte und eroberte,
+
+<<v3>>
+3 sagte der Herr: Dass mein Knecht Jesaja drei Jahre lang nackt und
+barfuß umherging, ist ein (warnendes) Zeichen und Sinnbild für Ägypten
+und Kusch:
+
+<<v4>>
+4 So werden die gefangenen Ägypter und die aus ihrer Heimat vertriebenen
+Kuschiter, Jung und Alt, vom König von Assur nackt und barfuß
+weggeführt - mit entblößtem Gesäß, zur Schande Ägyptens.
+
+<<v5>>
+5 Dann wird man erschrecken und sich schämen, weil man nach Kusch
+Ausschau gehalten und mit Ägypten geprahlt hat.
+
+<<v6>>
+6 Und die Bewohner der Küstenstädte werden an jenem Tag sagen: Seht, so
+geht es denen, nach denen wir Ausschau hielten und zu denen wir flohen,
+um Hilfe und Rettung vor dem König von Assur zu finden. Wie können dann
+wir noch entkommen? ^{[[#fn2][2]]}\\
+\\
+
+^{[[#fnm1][1]]} 1f: Der Verständlichkeit wegen sind die beiden Verse
+umgestellt.
+
+^{[[#fnm2][2]]} Die philistäische Küste mit Aschdod. Diese Stadt hatte
+sich 712 v. Chr. gegen Sargon II. empört.

@@ -1,0 +1,117 @@
+:PROPERTIES:
+:ID:       a733e9a1-414c-42d5-845f-6d3d996aa64d
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Offenbarung des Johannes* --
+[[file:Offb_1.html][1]] ... [[file:Offb_6.html][6]]
+[[file:Offb_7.html][7]] *8* [[file:Offb_9.html][9]]
+[[file:Offb_10.html][10]] ... [[file:Offb_22.html][22]]
+
+--------------
+
+* Offb 8
+  :PROPERTIES:
+  :CUSTOM_ID: offb-8
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das siebte Siegel und die sieben Engel: 8,1-5
+     :PROPERTIES:
+     :CUSTOM_ID: das-siebte-siegel-und-die-sieben-engel-81-5
+     :END:
+1 Als das Lamm das siebte Siegel öffnete, trat im Himmel Stille ein,
+etwa eine halbe Stunde lang.
+
+<<v2>>
+2 Und ich sah: Sieben Engel standen vor Gott; ihnen wurden sieben
+Posaunen gegeben. ^{[[#fn1][1]]}
+
+<<v3>>
+3 Und ein anderer Engel kam und trat mit einer goldenen Räucherpfanne an
+den Altar; ihm wurde viel /Weihrauch/ gegeben, den er auf dem goldenen
+Altar vor dem Thron verbrennen sollte, um so die Gebete aller Heiligen
+vor Gott zu bringen. ^{[[#fn2][2]][[#fn3][3]]}
+
+<<v4>>
+4 Aus der Hand des Engels stieg /der Weihrauch/ mit den Gebeten der
+Heiligen zu Gott empor.
+
+<<v5>>
+5 /Dann nahm/ der Engel /die Räucherpfanne, füllte sie mit glühenden
+Kohlen, die er vom Altar nahm,/ und warf sie auf die Erde; da begann es
+zu /donnern und/ zu dröhnen, /zu blitzen/ und zu beben. ^{[[#fn4][4]]}\\
+\\
+
+<<v6>>
+**** Die ersten vier Posaunen: 8,6-13
+     :PROPERTIES:
+     :CUSTOM_ID: die-ersten-vier-posaunen-86-13
+     :END:
+6 Dann machten sich die sieben Engel bereit, die sieben Posaunen zu
+blasen.
+
+<<v7>>
+7 Der erste Engel blies seine Posaune. Da fielen Hagel und Feuer, die
+mit Blut vermischt waren, auf das Land. Es verbrannte ein Drittel des
+Landes, ein Drittel der Bäume und alles grüne Gras. ^{[[#fn5][5]]}
+
+<<v8>>
+8 Der zweite Engel blies seine Posaune. Da wurde etwas, das einem großen
+/brennenden Berg/ glich, ins Meer geworfen. Ein Drittel des Meeres wurde
+zu /Blut./ ^{[[#fn6][6]]}
+
+<<v9>>
+9 Und ein Drittel der Geschöpfe, die im Meer leben, kam um und ein
+Drittel der Schiffe wurde vernichtet.
+
+<<v10>>
+10 Der dritte Engel blies seine Posaune. Da fiel ein großer Stern vom
+Himmel; er loderte wie eine Fackel und fiel auf ein Drittel der Flüsse
+und auf die Quellen. ^{[[#fn7][7]]}
+
+<<v11>>
+11 Der Name des Sterns ist «Wermut». Ein Drittel des Wassers wurde
+bitter und viele Menschen starben durch das Wasser, weil es bitter
+geworden war.
+
+<<v12>>
+12 Der vierte Engel blies seine Posaune. Da wurde ein Drittel der Sonne
+und ein Drittel des Mondes und ein Drittel der Sterne getroffen, sodass
+sie ein Drittel ihrer Leuchtkraft verloren und der Tag um ein Drittel
+dunkler wurde und ebenso die Nacht.
+
+<<v13>>
+13 Und ich sah und hörte: Ein Adler flog hoch am Himmel und rief mit
+lauter Stimme: Wehe! Wehe! Wehe den Bewohnern der Erde! Noch drei Engel
+werden ihre Posaunen blasen. ^{[[#fn8][8]]}\\
+\\
+
+^{[[#fnm1][1]]} 2-9,21: Die in den sieben Posaunenvisionen beschriebenen
+Vorgänge sind die Antwort auf die Gebete der Heiligen (8,3), d. h. die
+Bitten der Christen um das Gericht über die Verfolger (vgl. 6,10). Die
+Schilderung der Gerichtsvorgänge ist weithin der Überlieferung von den
+ägyptischen Plagen nachgebildet (Ex 7 - 11; Ez 7 - 10). Die
+Heimsuchungen haben kosmische Ausmaße, bewegen die ungläubige Menschheit
+aber nicht zur Umkehr (9,20f).
+
+^{[[#fnm2][2]]} ℘ Ps 141,2
+
+^{[[#fnm3][3]]} 3b: Wörtlich: ihm wurde viel Weihrauch gegeben, damit er
+ihn zusammen mit den Gebeten aller Heiligen auf dem goldenen Altar vor
+dem Thron darbringe.
+
+^{[[#fnm4][4]]} ℘ Lev 16,12; Ex 19,16
+
+^{[[#fnm5][5]]} ℘ Ex 9,23-25; Ez 38,22; Joël 3,3
+
+^{[[#fnm6][6]]} ℘ Jer 51,25 G; Ex 7,20f
+
+^{[[#fnm7][7]]} ℘ Jes 14,12
+
+^{[[#fnm8][8]]} Die vier ersten Posaunenvisionen (8,6-12) bilden wie die
+vier ersten Siegelvisionen eine Gruppe. Die letzten drei
+Posaunenvisionen, als «die drei Wehe» bezeichnet (9,12; 11,14), sind
+durch den Weheruf des Adlers von dieser Gruppe abgehoben.

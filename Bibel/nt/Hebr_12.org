@@ -1,0 +1,234 @@
+:PROPERTIES:
+:ID:       128cd699-e474-4274-aac4-375df5d8f651
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Hebräer* --
+[[file:Hebr_1.html][1]] ... [[file:Hebr_10.html][10]]
+[[file:Hebr_11.html][11]] *12* [[file:Hebr_13.html][13]]
+
+--------------
+
+* Hebr 12
+  :PROPERTIES:
+  :CUSTOM_ID: hebr-12
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Da uns eine solche Wolke von Zeugen umgibt, wollen auch wir alle Last
+und die Fesseln der Sünde abwerfen. Lasst uns mit Ausdauer in dem
+Wettkampf laufen, der uns aufgetragen ist, ^{[[#fn1][1]]}
+
+<<v2>>
+2 und dabei auf Jesus blicken, den Urheber und Vollender des Glaubens;
+er hat angesichts der vor ihm liegenden Freude das Kreuz auf sich
+genommen, ohne auf die Schande zu achten, und /sich zur Rechten/ von
+Gottes Thron /gesetzt./ ^{[[#fn2][2]]}
+
+<<v3>>
+3 Denkt an den, der von den Sündern solchen Widerstand gegen sich
+erduldet hat; dann werdet ihr nicht ermatten und den Mut nicht
+verlieren.\\
+\\
+
+<<v4>>
+*** Abschließende Mahnungen: 12,4 - 13,19
+    :PROPERTIES:
+    :CUSTOM_ID: abschließende-mahnungen-124---1319
+    :END:
+**** Die Züchtigung als Zeichen väterlicher Liebe: 12,4-13
+     :PROPERTIES:
+     :CUSTOM_ID: die-züchtigung-als-zeichen-väterlicher-liebe-124-13
+     :END:
+4 Ihr habt im Kampf gegen die Sünde noch nicht bis aufs Blut Widerstand
+geleistet\\
+\\
+
+<<v5>>
+5 und ihr habt die Mahnung vergessen, die euch als Söhne anredet: /Mein
+Sohn, verachte nicht die Zucht des Herrn,/ /\\
+ /verzage nicht, wenn er dich zurechtweist./ ^{[[#fn3][3]]}\\
+\\
+
+<<v6>>
+6 /Denn wen der Herr liebt, den züchtigt er;/ /\\
+ /er schlägt mit der Rute jeden Sohn, den er gern hat./
+
+<<v7>>
+7 Haltet aus, wenn ihr gezüchtigt werdet. Gott behandelt euch wie Söhne.
+Denn wo ist ein Sohn, den sein Vater nicht züchtigt? ^{[[#fn4][4]]}
+
+<<v8>>
+8 Würdet ihr nicht gezüchtigt, wie es doch bisher allen ergangen ist,
+dann wäret ihr nicht wirklich seine Kinder, ihr wäret nicht seine Söhne.
+^{[[#fn5][5]]}
+
+<<v9>>
+9 Ferner: An unseren leiblichen Vätern hatten wir harte Erzieher und wir
+achteten sie. Sollen wir uns dann nicht erst recht dem Vater der Geister
+unterwerfen und so das Leben haben? ^{[[#fn6][6]]}
+
+<<v10>>
+10 Jene haben uns für kurze Zeit nach ihrem Gutdünken in Zucht genommen;
+er aber tut es zu unserem Besten, damit wir Anteil an seiner Heiligkeit
+gewinnen.
+
+<<v11>>
+11 Jede Züchtigung scheint zwar für den Augenblick nicht Freude zu
+bringen, sondern Schmerz; später aber schenkt sie denen, die durch diese
+Schule gegangen sind, als Frucht den Frieden und die Gerechtigkeit.
+
+<<v12>>
+12 Darum /macht die erschlafften Hände wieder stark und die wankenden
+Knie wieder fest/ ^{[[#fn7][7]][[#fn8][8]]}
+
+<<v13>>
+13 und /ebnet die Wege für eure Füße,/ damit die lahmen Glieder nicht
+ausgerenkt, sondern geheilt werden. ^{[[#fn9][9]]}\\
+\\
+
+<<v14>>
+**** Warnung vor Leichtfertigkeit: 12,14-17
+     :PROPERTIES:
+     :CUSTOM_ID: warnung-vor-leichtfertigkeit-1214-17
+     :END:
+14 /Strebt voll Eifer nach Frieden/ mit allen und nach der Heiligung,
+ohne die keiner den Herrn sehen wird. ^{[[#fn10][10]]}
+
+<<v15>>
+15 Seht zu, dass niemand die Gnade Gottes verscherzt, /dass keine
+bittere Wurzel wächst und Schaden stiftet/ und durch sie alle vergiftet
+werden, ^{[[#fn11][11]][[#fn12][12]]}
+
+<<v16>>
+16 dass keiner unzüchtig ist oder gottlos wie /Esau,/ der für eine
+einzige Mahlzeit sein /Erstgeburtsrecht verkaufte./ ^{[[#fn13][13]]}
+
+<<v17>>
+17 Ihr wisst auch, dass er verworfen wurde, als er später den Segen
+erben wollte; denn er fand keinen Weg zur Umkehr, obgleich er unter
+Tränen danach suchte. ^{[[#fn14][14]]}\\
+\\
+
+<<v18>>
+**** Die rechte Furcht vor Gott: 12,18-29
+     :PROPERTIES:
+     :CUSTOM_ID: die-rechte-furcht-vor-gott-1218-29
+     :END:
+18 Denn ihr seid nicht zu einem sichtbaren, /lodernden Feuer/
+hingetreten, /zu dunklen Wolken, zu Finsternis und Sturmwind,/
+^{[[#fn15][15]][[#fn16][16]]}
+
+<<v19>>
+19 /zum Klang der Posaunen und zum Schall der Worte,/ bei denen die
+Hörer flehten, diese Stimme solle nicht weiter zu ihnen reden;
+^{[[#fn17][17]]}
+
+<<v20>>
+20 denn sie ertrugen nicht den Befehl: Sogar /ein Tier, das den Berg
+berührt, soll gesteinigt werden./ ^{[[#fn18][18]]}
+
+<<v21>>
+21 Ja, so furchtbar war die Erscheinung, dass Mose rief: Ich bin voll
+Angst und Schrecken. ^{[[#fn19][19]]}
+
+<<v22>>
+22 Ihr seid vielmehr zum Berg Zion hingetreten, zur Stadt des lebendigen
+Gottes, dem himmlischen Jerusalem, zu Tausenden von Engeln, zu einer
+festlichen Versammlung ^{[[#fn20][20]][[#fn21][21]]}
+
+<<v23>>
+23 und zur Gemeinschaft der Erstgeborenen, die im Himmel verzeichnet
+sind; zu Gott, dem Richter aller, zu den Geistern der schon vollendeten
+Gerechten,
+
+<<v24>>
+24 zum Mittler eines neuen Bundes, Jesus, und zum Blut der Besprengung,
+das mächtiger ruft als das Blut Abels. ^{[[#fn22][22]][[#fn23][23]]}
+
+<<v25>>
+25 Gebt Acht, dass ihr den nicht ablehnt, der redet. Jene haben ihn
+abgelehnt, als er auf Erden seine Gebote verkündete, und sind (dem
+Gericht) nicht entronnen; wie viel weniger dann wir, wenn wir uns von
+dem abwenden, der jetzt vom Himmel her spricht.
+
+<<v26>>
+26 Seine Stimme hat damals die Erde erschüttert, jetzt aber hat er
+verheißen: /Noch einmal lasse ich es beben,/ aber nicht nur /die Erde/
+erschüttere ich, sondern auch /den Himmel./ ^{[[#fn24][24]]}
+
+<<v27>>
+27 Dieses /Noch einmal/ weist auf die Umwandlung dessen hin, das, weil
+es erschaffen ist, erschüttert wird, damit das Unerschütterliche bleibt.
+
+<<v28>>
+28 Darum wollen wir dankbar sein, weil wir ein unerschütterliches Reich
+empfangen, und wollen Gott so dienen, wie es ihm gefällt, in
+ehrfürchtiger Scheu;
+
+<<v29>>
+29 denn unser /Gott ist verzehrendes Feuer./ ^{[[#fn25][25]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 1 Kor 9,24
+
+^{[[#fnm2][2]]} ℘ 2,10; Ps 110,1
+
+^{[[#fnm3][3]]} ℘ Spr 3,11f G
+
+^{[[#fnm4][4]]} ℘ Ps 73,14f
+
+^{[[#fnm5][5]]} Wörtlich: dann wäret ihr uneheliche Kinder, ihr wäret
+nicht (eheliche) Söhne.
+
+^{[[#fnm6][6]]} ℘ Num 16,22; 27,16
+
+^{[[#fnm7][7]]} ℘ Jes 35,3; Ijob 4,3f
+
+^{[[#fnm8][8]]} 12f: Die Mahnung setzt das Bild vom wandernden
+Gottesvolk voraus, das unterwegs ist in «die Stadt mit den festen
+Grundmauern, die Gott selbst geplant und gebaut hat» (11,10).
+
+^{[[#fnm9][9]]} ℘ Spr 4,26 G
+
+^{[[#fnm10][10]]} ℘ Ps 34,15
+
+^{[[#fnm11][11]]} ℘ Dtn 29,17 G
+
+^{[[#fnm12][12]]} alle, wörtlich: die vielen.
+
+^{[[#fnm13][13]]} ℘ Gen 25,33f
+
+^{[[#fnm14][14]]} ℘ Gen 27,30-40
+
+^{[[#fnm15][15]]} ℘ (18f) Ex 19,16-19; Dtn 4,11
+
+^{[[#fnm16][16]]} 18-21: Der Text erinnert an die Umstände beim
+Abschluss des Ersten Bundes am Sinai (vgl. Ex 19; 20,18-21; Dtn 5,22-27;
+9,9-25).
+
+^{[[#fnm17][17]]} ℘ Ex 20,19
+
+^{[[#fnm18][18]]} ℘ Ex 19,13
+
+^{[[#fnm19][19]]} ℘ Dtn 9,19
+
+^{[[#fnm20][20]]} ℘ Gal 4,26
+
+^{[[#fnm21][21]]} 22f: Jerusalem und vor allem der Berg Zion, auf dem
+der Tempel stand, waren von Gott auserwählt als Stätten seiner
+besonderen Gegenwart. Für die Christen sind Jerusalem und Zion
+Bezeichnungen für das neue Volk Gottes, die Kirche (vgl. Gal 4,25f; Offb
+3,12; 21,2). Die Aufnahme in die Gemeinschaft der Erstgeborenen
+geschieht durch die Taufe.
+
+^{[[#fnm22][22]]} ℘ 9,15; Gen 4,10
+
+^{[[#fnm23][23]]} Blut der Besprengung: Dem alttestamentlichen Opferblut
+(vgl. Ex 24,8; Hebr 9,15-22) entspricht im Neuen Bund das Blut Christi.
+
+^{[[#fnm24][24]]} ℘ Hag 2,6 G
+
+^{[[#fnm25][25]]} ℘ Dtn 4,24; Jes 33,14

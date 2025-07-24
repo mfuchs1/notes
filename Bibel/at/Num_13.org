@@ -1,0 +1,149 @@
+#+TITLE: Num 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-16 Mo 13:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 13.html
+
+
+<<verses>>
+
+<<v1>>
+* Der Bericht der Kundschafter: 13,1 - 14,45
+
+1 Der Herr sprach zu Mose:
+
+<<v2>>
+2 Schick einige Männer aus, die das Land Kanaan erkunden, das ich den
+Israeliten geben will. Aus jedem Väterstamm sollt ihr einen Mann
+aussenden, und zwar jeweils einen der führenden Männer.
+
+<<v3>>
+3 Da schickte Mose von der Wüste Paran die Männer aus, wie es der Herr
+befohlen hatte. Sie alle waren führende Männer unter den Israeliten
+
+<<v4>>
+4 und das sind ihre Namen: aus dem Stamm Ruben Schamua, der Sohn
+Sakkurs;
+
+<<v5>>
+5 aus dem Stamm Simeon Schafat, der Sohn Horis;
+
+<<v6>>
+6 aus dem Stamm Juda Kaleb, der Sohn Jefunnes;
+
+<<v7>>
+7 aus dem Stamm Issachar Jigal, der Sohn Josefs;
+
+<<v8>>
+8 aus dem Stamm Efraim Hoschea, der Sohn Nuns;
+
+<<v9>>
+9 aus dem Stamm Benjamin Palti, der Sohn Rafus;
+
+<<v10>>
+10 aus dem Stamm Sebulon Gadiël, der Sohn Sodis;
+
+<<v11>>
+11 aus dem Josefstamm Manasse Gadi, der Sohn Susis;
+
+<<v12>>
+12 aus dem Stamm Dan Ammiël, der Sohn Gemallis;
+
+<<v13>>
+13 aus dem Stamm Ascher Setur, der Sohn Michaels;
+
+<<v14>>
+14 aus dem Stamm Naftali Nachbi, der Sohn Wofsis;
+
+<<v15>>
+15 aus dem Stamm Gad Gëuël, der Sohn Machis.
+
+<<v16>>
+16 Das waren die Namen der Männer, die Mose zur Erkundigung des Landes
+aussandte. Hoschea aber, den Sohn Nuns, nannte Mose Josua.
+
+<<v17>>
+17 Als Mose sie ausschickte, um Kanaan erkunden zu lassen, sagte er zu
+ihnen: Zieht von hier durch den Negeb und steigt hinauf ins Gebirge!
+
+<<v18>>
+18 Seht, wie das Land beschaffen ist und ob das Volk, das darin wohnt,
+stark oder schwach ist, ob es klein oder groß ist;
+
+<<v19>>
+19 seht, wie das Land beschaffen ist, in dem das Volk wohnt, ob es gut
+ist oder schlecht und wie die Städte angelegt sind, in denen es wohnt,
+ob sie offen oder befestigt sind
+
+<<v20>>
+20 und ob das Land fett oder mager ist, ob es dort Bäume gibt oder
+nicht. Habt Mut und bringt Früchte des Landes mit! Es war gerade die
+Zeit der ersten Trauben.
+
+<<v21>>
+21 Da zogen die Männer hinauf und erkundeten das Land von der Wüste Zin
+bis Rehob bei Lebo-Hamat.
+
+<<v22>>
+22 Sie durchzogen zuerst den Negeb und kamen bis Hebron. Dort lebten
+Ahiman, Scheschai und Talmai, Söhne des Anak. Hebron war sieben Jahre
+vor der Stadt Zoan, die in Ägypten liegt, erbaut worden.
+
+<<v23>>
+23 Von dort kamen sie in das Traubental. Dort schnitten sie eine Rebe
+mit einer Weintraube ab und trugen sie zu zweit auf einer Stange, dazu
+auch einige Granatäpfel und Feigen.
+
+<<v24>>
+24 Den Ort nannte man später Traubental wegen der Traube, die die
+Israeliten dort abgeschnitten hatten.
+
+<<v25>>
+25 Vierzig Tage, nachdem man sie zur Erkundung des Landes ausgeschickt
+hatte, machten sie sich auf den Rückweg.
+
+<<v26>>
+26 Sie kamen zu Mose und Aaron und zu der ganzen Gemeinde der Israeliten
+in die Wüste Paran nach Kadesch. Sie berichteten ihnen und der ganzen
+Gemeinde und zeigten ihnen die Früchte des Landes.
+
+<<v27>>
+27 Sie erzählten Mose: Wir kamen in das Land, in das du uns geschickt
+hast: Es ist wirklich ein Land, in dem Milch und Honig fließen; das hier
+sind seine Früchte.
+
+<<v28>>
+28 Aber das Volk, das im Land wohnt, ist stark und die Städte sind
+befestigt und sehr groß. Auch haben wir die Söhne des Anak dort gesehen.
+
+<<v29>>
+29 Amalek wohnt im Gebiet des Negeb, die Hetiter, die Jebusiter und
+Amoriter wohnen im Gebirge und die Kanaaniter wohnen am Meer und am Ufer
+des Jordan.
+
+<<v30>>
+30 Kaleb beruhigte das Volk, das über Mose aufgebracht war, und sagte:
+Wir können trotzdem hinaufziehen und das Land in Besitz nehmen; wir
+werden es gewiss bezwingen.
+
+<<v31>>
+31 Die Männer aber, die mit Kaleb zusammen nach Kanaan hinaufgezogen
+waren, sagten: Wir können nichts gegen dieses Volk ausrichten; es ist
+stärker als wir.
+
+<<v32>>
+32 Und sie verbreiteten bei den Israeliten falsche Gerüchte über das
+Land, das sie erkundet hatten, und sagten: Das Land, das wir
+durchwandert und erkundet haben, ist ein Land, das seine Bewohner
+auffrisst; alle Leute, die wir dort gesehen haben, sind hochgewachsen.
+
+<<v33>>
+33 Sogar die Riesen haben wir dort gesehen - die Anakiter gehören
+nämlich zu den Riesen. Wir kamen uns selbst klein wie Heuschrecken vor
+und auch ihnen erschienen wir so.

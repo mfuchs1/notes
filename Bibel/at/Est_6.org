@@ -1,0 +1,91 @@
+#+TITLE: Est 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-25 Sa 21:29]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Est 6.html
+
+<<verses>>
+
+<<v1>>
+* Die Erhöhung Mordechais: 6,1-14
+
+1 In jener Nacht konnte der König nicht einschlafen. Darum ließ er sich
+das Buch der Denkwürdigkeiten, die Chronik, bringen und man las ihm
+daraus vor.
+
+<<v2>>
+2 Da fand man den Bericht, wie Mordechai Bigtan und Teresch anzeigte,
+die beiden königlichen Kämmerer, die zu den Türhütern gehörten und einen
+Anschlag auf den König Artaxerxes geplant hatten. [fn:1]
+
+<<v3>>
+3 Der König fragte: Welche Belohnung und Auszeichnung hat Mordechai
+dafür erhalten? Die Diener des Königs, die um ihn waren, antworteten: Er
+hat nichts erhalten.
+
+<<v4>>
+4 Da fragte der König: Wer steht draußen im Hof? Haman aber war gerade
+in den äußeren Hof des Königspalastes gekommen, um dem König zu sagen,
+man solle Mordechai an dem Galgen aufhängen, den er für ihn hatte
+aufstellen lassen.
+
+<<v5>>
+5 Die Diener antworteten dem König: Haman steht im Hof. Der König sagte:
+Er soll hereinkommen.
+
+<<v6>>
+6 Haman trat ein. Der König fragte ihn: Was soll mit einem Mann
+geschehen, den der König besonders ehren will? Haman dachte: Wen könnte
+der König wohl mehr ehren wollen als mich?
+
+<<v7>>
+7 Deshalb sagte Haman zum König: Wenn der König einen Mann besonders
+ehren will,
+
+<<v8>>
+8 lasse er ein königliches Gewand holen, das sonst der König selbst
+trägt, und ein Pferd, auf dem sonst der König reitet und dessen Kopf
+königlich geschmückt ist.
+
+<<v9>>
+9 Das Gewand und das Pferd soll man einem der vornehmsten Fürsten des
+Königs geben und er soll den Mann, den der König besonders ehren will,
+bekleiden, ihn auf dem Pferd über den Platz der Stadt führen und vor ihm
+ausrufen: So geht es einem Mann, den der König besonders ehren will.
+
+<<v10>>
+10 Darauf sagte der König zu Haman: Hol in aller Eile das Gewand und das
+Pferd und tu alles, was du gesagt hast, mit dem Juden Mordechai, der am
+Tor des Palastes sitzt. Und lass nichts von dem aus, was du
+vorgeschlagen hast.
+
+<<v11>>
+11 Haman nahm das Gewand und das Pferd, kleidete Mordechai ein, führte
+ihn auf dem Pferd über den Platz der Stadt und rief vor ihm aus: So geht
+es einem Mann, den der König besonders ehren will.
+
+<<v12>>
+12 Dann kehrte Mordechai zum Tor des Palastes zurück. Haman aber eilte
+nach Haus, traurig und mit verhülltem Kopf.
+
+<<v13>>
+13 Und er erzählte seiner Frau Seresch und seinen Freunden alles, was
+ihm zugestoßen war. Seine weisen [Ratgeber] und seine Frau Seresch
+sagten: Wenn Mordechai, der dich schon zu stürzen begonnen hat, zum Volk
+der Juden gehört, wirst du nichts gegen ihn ausrichten, sondern du wirst
+gewiss durch ihn zu Fall kommen.
+
+<<v14>>
+14 Als sie noch redeten, trafen die königlichen Kämmerer ein, um Haman
+in Eile zu dem Festmahl zu holen, das Ester vorbereitet hatte.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Est_2.org::v21][2,21]]-[[file:Est_2.org::v23][23]]

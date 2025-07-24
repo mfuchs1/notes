@@ -1,0 +1,184 @@
+:PROPERTIES:
+:ID:       ef580460-b11e-4cc1-b112-bd0f84a10d02
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_24.html][24]] [[file:Jes_25.html][25]] *26*
+[[file:Jes_27.html][27]] [[file:Jes_28.html][28]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 26
+  :PROPERTIES:
+  :CUSTOM_ID: jes-26
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das Siegeslied: 26,1-6
+     :PROPERTIES:
+     :CUSTOM_ID: das-siegeslied-261-6
+     :END:
+1 An jenem Tag singt man in Juda dieses Lied: Wir haben eine befestigte
+Stadt, /\\
+ zu unserem Schutz baute der Herr Mauern und Wälle.\\
+\\
+
+<<v2>>
+2 Öffnet die Tore, /\\
+ damit ein gerechtes Volk durch sie einzieht, /\\
+ ein Volk, das dem Herrn die Treue bewahrt. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Sein Sinn ist fest; /\\
+ du schenkst ihm Ruhe und Frieden; /\\
+ denn es verlässt sich auf dich.\\
+\\
+
+<<v4>>
+4 Verlasst euch stets auf den Herrn; /\\
+ denn der Herr ist ein ewiger Fels.\\
+\\
+
+<<v5>>
+5 Er hat die Bewohner des hohen Berges hinabgestürzt, /\\
+ die hoch aufragende Stadt; er hat sie zu Boden geworfen, /\\
+ in den Staub hat er sie gestoßen. ^{[[#fn2][2]]}\\
+\\
+
+<<v6>>
+6 Sie wird zermalmt von den Füßen der Armen, /\\
+ unter den Tritten der Schwachen.\\
+\\
+
+<<v7>>
+**** Das Lied auf die Gerechtigkeit Gottes: 26,7-19
+     :PROPERTIES:
+     :CUSTOM_ID: das-lied-auf-die-gerechtigkeit-gottes-267-19
+     :END:
+7 Der Weg des Gerechten ist gerade, /\\
+ du ebnest dem Gerechten die Bahn.\\
+\\
+
+<<v8>>
+8 Herr, auf das Kommen deines Gerichts /\\
+ vertrauen wir. Deinen Namen anzurufen und an dich zu denken /\\
+ ist unser Verlangen.\\
+\\
+
+<<v9>>
+9 Meine Seele sehnt sich nach dir in der Nacht, /\\
+ auch mein Geist ist voll Sehnsucht nach dir. Denn dein Gericht ist ein
+Licht für die Welt, /\\
+ die Bewohner der Erde lernen deine Gerechtigkeit kennen.
+^{[[#fn3][3]]}\\
+\\
+
+<<v10>>
+10 Aber der Frevler lernt nie, was gerecht ist, /\\
+ auch wenn du ihm Gnade erweist. Selbst im Land der Gerechtigkeit tut er
+noch Unrecht, /\\
+ doch er wird den erhabenen Glanz des Herrn nicht erblicken.\\
+\\
+
+<<v11>>
+11 Herr, deine Hand ist erhoben, /\\
+ doch deine Gegner sehen es nicht; aber sie werden es sehen /\\
+ und sie werden beschämt sein von deiner leidenschaftlichen Liebe zu
+deinem Volk; /\\
+ ja, Feuer wird sie verzehren. ^{[[#fn4][4]]}\\
+\\
+
+<<v12>>
+12 Herr, du wirst uns Frieden schenken; /\\
+ denn auch alles, was wir bisher erreichten, hast du für uns getan.\\
+\\
+
+<<v13>>
+13 Herr, unser Gott, es beherrschten uns andere Herren als du, /\\
+ doch nur /deinen/ Namen werden wir rühmen.\\
+\\
+
+<<v14>>
+14 Die Toten werden nicht leben, /\\
+ die Verstorbenen stehen nie wieder auf; denn du hast sie bestraft und
+vernichtet, /\\
+ jede Erinnerung an sie hast du getilgt. ^{[[#fn5][5]][[#fn6][6]]}\\
+\\
+
+<<v15>>
+15 Du hast dein Volk vermehrt, o Herr, /\\
+ du hast es vermehrt; du hast deine Herrlichkeit erwiesen, /\\
+ auf allen Seiten hast du die Grenzen des Landes erweitert.\\
+\\
+
+<<v16>>
+16 Herr, in der Not suchten wir dich; /\\
+ wir schrien in unserer Qual, als du uns straftest. ^{[[#fn7][7]]}\\
+\\
+
+<<v17>>
+17 Wie eine schwangere Frau, /\\
+ die nahe daran ist, ihr Kind zu gebären, die sich in ihren Wehen windet
+und schreit, /\\
+ so waren wir, Herr, in deinen Augen.\\
+\\
+
+<<v18>>
+18 Wir waren schwanger und lagen in Wehen; /\\
+ doch als wir gebaren, war es ein Wind. Wir brachten dem Land keine
+Rettung, /\\
+ kein Erdenbewohner wurde geboren.\\
+\\
+
+<<v19>>
+19 Deine Toten werden leben, /\\
+ die Leichen stehen wieder auf; /\\
+ wer in der Erde liegt, wird erwachen und jubeln. Denn der Tau, den du
+sendest, /\\
+ ist ein Tau des Lichts; /\\
+ die Erde gibt die Toten heraus. ^{[[#fn8][8]][[#fn9][9]]}\\
+\\
+
+<<v20>>
+**** Das Gericht über die Feinde: 26,20 - 27,1
+     :PROPERTIES:
+     :CUSTOM_ID: das-gericht-über-die-feinde-2620---271
+     :END:
+20 Auf, mein Volk, geh in deine Kammern /\\
+ und verschließ die Tür hinter dir! Verbirg dich für kurze Zeit, /\\
+ bis der Zorn vergangen ist.\\
+\\
+
+<<v21>>
+21 Denn der Herr verlässt den Ort, wo er ist, /\\
+ um die Erdenbewohner für ihre Schuld zu bestrafen. Dann deckt die Erde
+das Blut, das sie trank, wieder auf /\\
+ und verbirgt die Ermordeten nicht mehr in sich. ^{[[#fn10][10]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Ps 118,19f
+
+^{[[#fnm2][2]]} ℘ 25,12
+
+^{[[#fnm3][3]]} 9c: ein Licht: eingefügt mit G.
+
+^{[[#fnm4][4]]} ℘ Ex 15,6; Hebr 10,27
+
+^{[[#fnm5][5]]} ℘ 26,19
+
+^{[[#fnm6][6]]} Die toten Zwingherren werden sich nicht mehr erheben.
+
+^{[[#fnm7][7]]} Text korr.
+
+^{[[#fnm8][8]]} ℘ 26,14
+
+^{[[#fnm9][9]]} Im Bild von der Auferstehung wird von der
+Wiederherstellung Israels gesprochen.
+
+^{[[#fnm10][10]]} Das Blut, das nicht mit Erde bedeckt ist, schreit nach
+Rache (vgl. Gen 4,10f; Ijob 16,18).

@@ -1,0 +1,187 @@
+#+TITLE: Gen 43 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:34]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 43.html
+
+
+<<verses>>
+
+<<v1>>
+* Die zweite Reise der Brüder Josefs nach Ägypten: 43,1 - 45,28
+:PROPERTIES:
+:CUSTOM_ID: die-zweite-reise-der-brüder-josefs-nach-ägypten-431---4528
+:END:
+1 Der Hunger lastete schwer auf dem Land.
+
+<<v2>>
+2 Das Getreide, das sie aus Ägypten gebracht hatten, war aufgezehrt. Da
+sagte ihr Vater zu ihnen: Geht noch einmal hin, kauft uns etwas
+Brotgetreide!
+
+<<v3>>
+3 Juda antwortete ihm: Der Mann hat uns nachdrücklich eingeschärft:
+Kommt mir ja nicht mehr unter die Augen, wenn ihr nicht euren Bruder
+mitbringt. [fn:1]
+
+<<v4>>
+4 Wenn du bereit bist, unseren Bruder mitzuschicken, ziehen wir hinunter
+und kaufen dir Brotgetreide.
+
+<<v5>>
+5 Willst du ihn aber nicht mitschicken, gehen wir nicht. Denn der Mann
+hat uns gesagt: Kommt mir ja nicht mehr unter die Augen, wenn ihr nicht
+euren Bruder mitbringt.
+
+<<v6>>
+6 Da sagte Israel: Warum habt ihr mir so etwas Schlimmes angetan, jenem
+Mann zu sagen, dass ihr noch einen Bruder habt?
+
+<<v7>>
+7 Der Mann, entgegneten sie, hat sich bei uns eingehend nach unserer
+Verwandtschaft erkundigt und gefragt: Lebt euer Vater noch, habt ihr
+noch einen Bruder? Wir haben ihm Auskunft gegeben, wie es wirklich ist.
+Konnten wir denn wissen, dass er sagen würde: Bringt euren Bruder her! [fn:2]
+
+<<v8>>
+8 Juda schlug seinem Vater Israel vor: Lass den Knaben mit mir ziehen!
+Dann können wir aufbrechen und uns auf die Reise machen. So werden wir
+am Leben bleiben und nicht sterben, wir und du und unsere Kinder.
+
+<<v9>>
+9 Ich verbürge mich für ihn; aus meiner Hand magst du ihn zurückfordern.
+Wenn ich ihn dir nicht zurückbringe und vor dich hinstelle, will ich
+alle Tage bei dir in Schuld stehen.
+
+<<v10>>
+10 Hätten wir nicht so lange gezögert, könnten wir schon zum zweiten Mal
+zurück sein.
+
+<<v11>>
+11 Da sagte ihr Vater Israel zu ihnen: Wenn es schon sein muss, dann
+macht es so: Nehmt von den besten Erzeugnissen des Landes in eurem
+Gepäck mit und überbringt es dem Mann als Geschenk: etwas Mastix, etwas
+Honig, Tragakant und Ladanum, Pistazien und Mandeln. [fn:3]
+
+<<v12>>
+12 Nehmt den doppelten Geldbetrag mit! Das Geld, das sich wieder oben in
+euren Getreidesäcken fand, gebt mit eigenen Händen zurück! Vielleicht
+war es ein Versehen.
+
+<<v13>>
+13 So nehmt denn euren Bruder mit, brecht auf und geht wieder zu dem
+Mann zurück!
+
+<<v14>>
+14 Gott, der Allmächtige, lasse euch Erbarmen bei dem Mann finden,
+sodass er euch den anderen Bruder und Benjamin freigibt. Ich aber, ich
+verliere noch alle Kinder.
+
+<<v15>>
+15 Die Männer nahmen das Geschenk und den doppelten Geldbetrag mit und
+dazu auch Benjamin. Sie machten sich auf, zogen nach Ägypten hinab und
+traten vor Josef hin.
+
+<<v16>>
+16 Als Josef bei ihnen Benjamin sah, sagte er zu seinem Hausverwalter:
+Führe die Männer ins Haus, schlachte ein Tier und richte es her! Die
+Männer werden nämlich mit mir zu Mittag essen.
+
+<<v17>>
+17 Der Mann tat, wie Josef angeordnet hatte: Er führte die Männer in das
+Haus Josefs.
+
+<<v18>>
+18 Die Männer fürchteten sich, weil man sie in Josefs Haus führte, und
+dachten: Wegen des Geldes, das sich beim ersten Mal wieder in unseren
+Getreidesäcken fand, werden wir da hineingeführt. Man wird sich auf uns
+werfen, man wird uns überfallen und uns als Sklaven zurückhalten samt
+unseren Eseln.
+
+<<v19>>
+19 Sie traten näher an den Hausverwalter Josefs heran und begannen mit
+ihm an der Haustür ein Gespräch.
+
+<<v20>>
+20 Sie sagten: Bitte, Herr, schon früher sind wir einmal hierher
+gekommen, um Brotgetreide zu kaufen.
+
+<<v21>>
+21 Als wir aber in die Herberge kamen und unsere Getreidesäcke öffneten,
+lag das Geld eines jeden von uns oben im Sack, unser Geld im vollen
+Betrag. Wir bringen es mit eigenen Händen wieder zurück.
+
+<<v22>>
+22 Darüber hinaus haben wir noch mehr Geld mitgebracht, um Brotgetreide
+einzukaufen. Wir wissen nicht, wer das Geld in unsere Säcke gelegt hat.
+
+<<v23>>
+23 Ihr könnt beruhigt sein, antwortete er, fürchtet euch nicht! Euer
+Gott, der Gott eures Vaters, hat euch heimlich ein Geschenk in eure
+Säcke gelegt. Bei mir ist euer Geld eingegangen. Dann brachte er Simeon
+zu ihnen heraus.
+
+<<v24>>
+24 Als er die Männer ins Haus Josefs geführt hatte, gab er ihnen Wasser
+zum Füßewaschen und ließ ihre Esel füttern.
+
+<<v25>>
+25 Sie legten, bis Josef zu Mittag kam, das Geschenk zurecht; denn sie
+hatten gehört, dass sie dort essen sollten.
+
+<<v26>>
+26 Als Josef ins Haus kam, überreichten sie ihm das Geschenk, das sie
+mit hineingenommen hatten, und warfen sich vor ihm auf die Erde nieder.
+
+<<v27>>
+27 Er erkundigte sich, wie es ihnen gehe, und fragte: Geht es eurem
+alten Vater gut, von dem ihr erzählt habt? Ist er noch am Leben?
+
+<<v28>>
+28 Sie erwiderten: Deinem Knecht, unserem Vater, geht es gut; er lebt
+noch. Dann verneigten sie sich und und warfen sich nieder.
+
+<<v29>>
+29 Als er hinsah und seinen Bruder Benjamin, den Sohn seiner Mutter,
+erblickte, fragte er: Ist das euer jüngster Bruder, von dem ihr mir
+erzählt habt? Und weiter sagte er: Gottes Gnade sei mit dir, mein Sohn.
+
+<<v30>>
+30 Dann ging Josef schnell weg, denn er konnte sich vor Rührung über
+seinen Bruder nicht mehr halten; er war dem Weinen nahe. Er zog sich in
+die Kammer zurück, um sich dort auszuweinen.
+
+<<v31>>
+31 Dann wusch er sein Gesicht, kam zurück, nahm sich zusammen und
+ordnete an: Tragt das Essen auf!
+
+<<v32>>
+32 Man trug das Essen auf, getrennt für ihn, für sie und für die mit ihm
+speisenden Ägypter. Die Ägypter können nämlich nicht gemeinsam mit den
+Hebräern essen, weil das bei den Ägyptern als unschicklich gilt.
+
+<<v33>>
+33 Die Brüder kamen vor ihm so zu sitzen, dass der Erstgeborene den
+ersten und der Jüngste den letzten Platz einnahm. Da blickten die Männer
+einander verwundert an.
+
+<<v34>>
+34 Er ließ ihnen Gerichte vorsetzen, die vor ihm standen, was man aber
+Benjamin vorsetzte, übertraf das aller anderen um das Fünffache. Sie
+tranken mit ihm und waren guter Dinge.
+
+
+* Footnotes
+
+[fn:1] 42,15f.20
+
+[fn:2] 42,10-13
+
+[fn:3] Zu Mastix, Tragakant und Ladanum vgl. die Anmerkung zu
+37,25 [[file:Gen_37.org::v25][Gen 37,25]].

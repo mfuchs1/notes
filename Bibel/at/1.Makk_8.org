@@ -1,0 +1,182 @@
+#+TITLE: 1 Makk 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-27 Mo 12:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 8.html
+
+<<verses>>
+
+<<v1>>
+* Das Bündnis des Judas mit Rom: 8,1-32
+
+1 Judas hörte, wie man von den Römern erzählte, sie seien geübt im
+Kriegführen, erwiesen allen, die zu ihnen hielten, Wohlwollen und
+schlössen Freundschaft mit jedem, der sie darum bitte. Sie seien in der
+Tat kriegstüchtige Männer. [fn:1]
+
+<<v2>>
+2 Man berichtete ihm auch von ihren Feldzügen und von ihren kühnen
+Unternehmungen gegen die Galater, die sie unterworfen und
+tributpflichtig gemacht hatten, [fn:2]
+
+<<v3>>
+3 ebenso von ihren Taten in Spanien: Dort hatten sie die Silber- und
+Goldbergwerke erobert
+
+<<v4>>
+4 und durch ihre Klugheit und Ausdauer das ganze Land an sich gebracht,
+obgleich es von ihnen weit entfernt liegt. Die Könige, die vom Ende der
+Welt gegen sie herangezogen waren, hatten sie besiegt und ihnen eine
+vernichtende Niederlage beigebracht; die Übrigen mussten ihnen jährlich
+Tribut zahlen.
+
+<<v5>>
+5 Philippus und Perseus, die Könige der Kittäer, und alle anderen, die
+sich gegen sie auflehnten, hatten sie im Krieg vernichtend geschlagen
+und unterworfen.
+
+<<v6>>
+6 Als Antiochus, der Großkönig von Asien, mit hundertzwanzig Elefanten,
+mit Reiterei, Streitwagen und einem gewaltigen Heer gegen sie zum Kampf
+auszog, wurde er von ihnen vernichtend geschlagen.
+
+<<v7>>
+7 Sie nahmen ihn lebendig gefangen und erlegten ihm und seinen
+Nachfolgern einen hohen Tribut auf; er musste Geiseln stellen und einen
+Teil seines Gebietes abtreten.
+
+<<v8>>
+8 Sie nahmen ihm die Provinzen Indien, Medien und Lydien ab, einige der
+besten Länder, die er besaß, und schenkten sie dem König Eumenes.
+
+<<v9>>
+9 Als die Bewohner von Griechenland den Plan fassten, in den Krieg zu
+ziehen, um die Römer zu vernichten,
+
+<<v10>>
+10 wurde diesen die Sache bekannt. Sie schickten nur einen einzigen
+Befehlshaber aus, um gegen sie Krieg zu führen. Von den Griechen wurden
+viele verwundet und kamen um. Die Römer führten ihre Frauen und Kinder
+gefangen weg, plünderten ihre Habe und nahmen das Land in Besitz; sie
+schleiften ihre Festungen und machten sich die Griechen untertan; so ist
+es geblieben bis auf den heutigen Tag.
+
+<<v11>>
+11 Auch alle anderen Reiche und die Inseln, die sich irgendwann gegen
+sie erhoben, hatten sie besiegt und sich untertan gemacht.
+
+<<v12>>
+12 Ihren Freunden aber und allen, die sich auf sie verließen, hielten
+sie die Freundschaft. Sie unterwarfen die Könige nah und fern, und wer
+ihren Namen hörte, hatte Angst vor ihnen.
+
+<<v13>>
+13 Wem sie aber zur Herrschaft verhelfen wollen, der wird König und
+ebenso setzen sie ab, wen sie wollen. Auf diese Weise sind sie sehr groß
+geworden.
+
+<<v14>>
+14 Bei all dem setzt sich keiner von ihnen eine Krone auf oder legt
+Purpurgewänder an, um damit zu prunken.
+
+<<v15>>
+15 Vielmehr haben sie sich eine Ratsversammlung (den Senat) geschaffen
+und jeden Tag halten dreihundertundzwanzig Ratsherren darüber Rat, wie
+das Volk gut zu regieren sei.
+
+<<v16>>
+16 Einem einzigen Mann übertragen sie vertrauensvoll für ein Jahr die
+Regierung über sich und die Herrschaft über ihr ganzes Land. Alle
+gehorchen dem einen, ohne dass es Neid oder Eifersucht unter ihnen gibt.
+
+<<v17>>
+17 Judas wählte Eupolemus, den Sohn Johanans und Enkel des Koz, aus,
+sowie Jason, den Sohn Eleasars, und schickte sie nach Rom, um mit den
+Römern ein Freundschafts- und Waffenbündnis zu schließen, [fn:3]
+
+<<v18>>
+18 damit das Joch von Judäa genommen werde; denn die Römer sahen ja, wie
+die Könige der Griechen Israel in Knechtschaft hielten.
+
+<<v19>>
+19 Sie reisten also nach Rom - es war ein sehr weiter Weg -, traten vor
+den Senat und sagten:
+
+<<v20>>
+20 Judas, der Makkabäer, seine Brüder und das jüdische Volk haben uns zu
+euch geschickt. Wir wollen mit euch ein Friedensbündnis schließen und
+als eure Bundesgenossen und Freunde eingeschrieben werden.
+
+<<v21>>
+21 Der Senat war mit dem Vorschlag einverstanden.
+
+<<v22>>
+22 Dies ist eine Abschrift der Urkunde, die sie auf Bronzetafeln
+aufzeichnen und nach Jerusalem schicken ließen, damit die Erinnerung an
+das Friedensbündnis ständig gegenwärtig bleibe:
+
+<<v23>>
+23 Den Römern und dem jüdischen Volk soll es zu Wasser und zu Land immer
+wohl ergehen; Schwert und Feind mögen ihnen fern bleiben.
+
+<<v24>>
+24 Wenn Rom oder irgendeinem seiner Bundesgenossen in seinem ganzen
+Machtbereich zuerst ein Krieg droht,
+
+<<v25>>
+25 wird das jüdische Volk, je nachdem es die Lage erfordert,
+bereitwillig mit in den Kampf ziehen.
+
+<<v26>>
+26 Den Kriegführenden brauchen keine Nahrungsmittel, keine Waffen, kein
+Geld und auch keine Schiffe geliefert zu werden, wenn Rom es so für
+richtig hält. Sie werden ihren Verpflichtungen ohne Gegenleistung
+nachkommen.
+
+<<v27>>
+27 Ebenso werden die Römer, wenn das jüdische Volk zuerst in einen Krieg
+verwickelt wird, bereitwillig mitkämpfen, je nach den Umständen.
+
+<<v28>>
+28 Den Bundesgenossen brauchen keine Nahrungsmittel, Waffen, kein Geld
+und auch keine Schiffe geliefert zu werden, wenn Rom es so für richtig
+hält; sie werden ihren Verpflichtungen ohne Hinterlist nachkommen.
+
+<<v29>>
+29 Das ist der Wortlaut des Vertrags, den die Römer mit dem Volk der
+Juden geschlossen haben.
+
+<<v30>>
+30 Wenn später die beiden Parteien etwas hinzufügen oder streichen
+wollen, können sie es nach ihrem Belieben tun. Die Zusätze oder
+Streichungen werden gültig sein. [fn:4]
+
+<<v31>>
+31 Dem König Demetrius aber haben wir geschrieben wegen des Unrechts,
+das er den Juden zugefügt hat: Warum lastet dein Joch so schwer auf
+unseren Freunden und Bundesgenossen, den Juden?
+
+<<v32>>
+32 Wenn sie jetzt noch einmal deinetwegen vorstellig werden, verhelfen
+wir ihnen zu ihrem Recht und führen gegen dich Krieg zu Wasser und zu
+Land.\\
+\\
+
+* Footnotes
+
+[fn:1] 1-16: Das Lob auf die Römer steht in betontem Gegensatz
+zur Abneigung gegen die Griechen.
+
+[fn:2] Galater: jene Gallier, die um 200 v. Chr. südlich der
+Alpen wohnten.
+
+[fn:3] [[file:1.Makk_12.org::v1][12,1f]]; [[file:1.Makk_15.org::v15][15,15]]; [[file:2.Makk_4.org::v11][2 Makk 4,11]]
+
+[fn:4] Der Vertrag entspricht der Politik des römischen Senats.
+Den Juden brachte er kaum einen Vorteil.

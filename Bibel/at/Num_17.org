@@ -1,0 +1,151 @@
+#+TITLE: Num 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-23 Mo 08:52]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 17.html
+
+
+* Num 17
+
+<<verses>>
+
+<<v1>>
+1 Darauf sprach der Herr zu Mose:
+
+<<v2>>
+2 Sag zum Priester Eleasar, dem Sohn Aarons, er soll die Räucherpfannen
+aus der Asche herausnehmen, denn sie sind heilig. Die Glut aber streut
+weit auseinander!
+
+<<v3>>
+3 Die Räucherpfannen der Männer, die wegen ihrer Sünde ums Leben
+gekommen sind, soll man zu Blech hämmern und damit den Altar überziehen;
+denn sie haben die Räucherpfannen vor den Herrn gebracht und damit sind
+die Pfannen heilig geworden. Sie sollen für die Israeliten ein Zeichen
+sein.
+
+<<v4>>
+4 Da nahm der Priester Eleasar die kupfernen Räucherpfannen der Männer,
+die im Feuer umgekommen waren, und hämmerte daraus einen Überzug für den
+Altar.
+
+<<v5>>
+5 Das sollte den Israeliten ein mahnendes Zeichen dafür sein, dass kein
+Unbefugter, keiner, der nicht zu den Nachkommen Aarons gehört, sich dem
+Herrn nähern darf, um für ihn Weihrauch zu verbrennen; sonst geht es ihm
+genauso, wie es der Herr durch Mose dem Korach und seinem Anhang
+angekündigt hatte.
+
+<<v6>>
+6 Am nächsten Tag murrte die ganze Gemeinde der Israeliten über Mose und
+Aaron; sie sagten: Ihr habt das Volk des Herrn getötet.
+
+<<v7>>
+7 Als sich die Gemeinde gegen Mose und Aaron zusammenrottete und sich
+dem Offenbarungszelt zuwandte, bedeckte die Wolke das Zelt und die
+Herrlichkeit des Herrn erschien.
+
+<<v8>>
+8 Mose und Aaron gingen vor das Offenbarungszelt
+
+<<v9>>
+9 und der Herr sprach zu Mose:
+
+<<v10>>
+10 Verlasst diese Gemeinde, denn ich will sie in einem einzigen
+Augenblick vernichten. Da warfen sich Mose und Aaron auf ihr Gesicht
+nieder
+
+<<v11>>
+11 und Mose sagte zu Aaron: Nimm die Räucherpfanne, tu Feuer vom Altar
+hinein, und leg Weihrauch darauf; dann geh schnell zur Gemeinde und
+entsühne sie! Denn vom Herrn ist ein Zorngericht ausgegangen und die
+Plage hat schon begonnen.
+
+<<v12>>
+12 Da nahm Aaron die Räucherpfanne, wie Mose gesagt hatte, und lief
+mitten unter die Leute, die versammelt waren. Und wirklich, die Plage
+hatte im Volk schon begonnen. Aaron legte Weihrauch in die Pfanne und
+entsühnte das Volk.
+
+<<v13>>
+13 Er trat zwischen die Toten und die Lebenden und da hörte die Plage
+auf.
+
+<<v14>>
+14 Durch die Plage waren aber bereits vierzehntausendsiebenhundert
+Menschen gestorben, nicht gerechnet die Toten, die wegen Korach
+umgekommen waren.
+
+<<v15>>
+15 Darauf kehrte Aaron zu Mose an den Eingang des Offenbarungszeltes
+zurück; die Plage hatte aufgehört.
+
+<<v16>>
+16 Dann sprach der Herr zu Mose:
+
+<<v17>>
+17 Rede zu den Israeliten und lass dir jeweils von einer Großfamilie
+einen Stab geben, und zwar von der Großfamilie des Stammesführers, im
+Ganzen also zwölf Stäbe, und schreib ihre Namen darauf!
+
+<<v18>>
+18 Auf den Stab Levis schreib den Namen Aaron; denn auf jede Großfamilie
+eines Stammesführers kommt ein Stab.
+
+<<v19>>
+19 Dann leg die Stäbe in das Offenbarungszelt vor die Bundesurkunde,
+dort, wo ich euch begegne.
+
+<<v20>>
+20 Dann wird der Stab dessen, den ich erwähle, Blätter bekommen. So will
+ich vor mir das Murren zum Schweigen bringen, mit dem sie euch
+belästigen.
+
+<<v21>>
+21 Mose berichtete es den Israeliten. Darauf gaben ihm alle
+Stammesführer die Stäbe, jede Großfamilie eines Stammesführers einen, im
+Ganzen also zwölf Stäbe. Auch Aarons Stab war darunter.
+
+<<v22>>
+22 Mose legte die Stäbe im Offenbarungszelt vor dem Herrn nieder.
+
+<<v23>>
+23 Als Mose am nächsten Tag zum Zelt der Bundesurkunde kam, da war der
+Stab Aarons, der das Haus Levi vertrat, grün geworden; er trieb Zweige,
+blühte und trug Mandeln.
+
+<<v24>>
+24 Da nahm Mose alle Stäbe von ihrem Platz vor dem Herrn weg und brachte
+sie zu den Israeliten hinaus. Als sie die Stäbe sahen, nahm jeder den
+seinen.
+
+<<v25>>
+25 Darauf sagte der Herr zu Mose: Trag den Stab Aarons zurück vor die
+Bundesurkunde! Dort soll er aufbewahrt werden als ein Zeichen für alle
+Aufsässigen. Mach mir auf diese Weise ihrem Murren ein Ende, dann werden
+sie nicht sterben. [fn:1]
+
+<<v26>>
+26 Mose tat genau so, wie es ihm der Herr befohlen hatte. So machte er
+es.
+
+<<v27>>
+27 Die Israeliten aber sagten zu Mose: Sieh her, wir kommen um, wir
+gehen zugrunde, alle gehen wir noch zugrunde.
+
+<<v28>>
+28 Jeder, der zu nahe an die Wohnstätte des Herrn kommt, stirbt. Sollen
+wir denn alle umkommen?\\
+\\
+
+
+* Footnotes
+
+[fn:1] Hebr 9,4 [[file:~/RoamNotes/notes/Bibel/nt/Hebr_9.org::v4][Hebr 9,4]]

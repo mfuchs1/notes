@@ -1,0 +1,459 @@
+:PROPERTIES:
+:ID:       637b503e-e1be-421d-8e5d-ba1ac98160ed
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Markus* -- *1*
+[[file:Mk_2.html][2]] [[file:Mk_3.html][3]] ... [[file:Mk_16.html][16]]
+
+--------------
+
+* Mk 1
+  :PROPERTIES:
+  :CUSTOM_ID: mk-1
+  :END:
+
+Das älteste, griechisch geschriebene Evangelium wird nach altkirchlicher
+Überlieferung Markus zugeschrieben. Damit ist gemeint Johannes Markus
+aus Jerusalem, Sohn einer Maria, in deren Haus sich die Urgemeinde in
+Jerusalem versammelte; er war ein Vetter des Barnabas, Mitarbeiter des
+Paulus und später auch des Petrus (Phlm 24; Kol 4,10; Apg 12,12; 13,5;
+15,36-39; 1 Petr 5,13). Ebenfalls nach altkirchlicher Überlieferung
+schrieb er sein Evangelium in Rom. Es steht in zeitlichem Zusammenhang
+mit der Zerstörung Jerusalems (Mk 13) und ist deshalb um 70 n. Chr.
+verfasst, und zwar für Heiden und Heidenchristen (vgl. 7,3f).\\
+\\
+Markus sammelte Überlieferungen über Jesus, vor allem Wundererzählungen,
+Gleichnisse, Geschichten, die in einem Jesuswort gipfeln, Einzelworte
+und Zeugnisse über die Passion. Er ordnete diese Stoffe zeitlich und
+sachlich und verarbeitete sie so zu einem Evangelium. Der geographisch
+bestimmte Aufriss ist folgender: Wirken Jesu in Galiläa (1,14 - 5,43);
+Wanderung durch jüdisch-heidnisches Gebiet mit Belehrung der Jünger
+(6,1 - 9,50); Zug nach Jerusalem, Ringen mit den jüdischen Führern und
+Tod am Kreuz (10,1 - 15,47). Sein Evangelium beginnt mit dem Auftreten
+des Täufers (1,1-13) und endet mit dem Auffinden des leeren Grabes durch
+Frauen am Ostermorgen (16,1-8).\\
+\\
+Der Anhang (16,9-20) wurde erst im 2. Jahrhundert von unbekannter Hand
+angefügt, vermutlich weil der jähe Schluss 16,8 nicht befriedigte. Die
+Annahme, dass ein ursprünglicher Schluss verloren ging, ist wenig
+wahrscheinlich.\\
+\\
+Indem Markus vom Wirken und vom Schicksal Jesu berichtet, verkündet er,
+dass Gott durch diesen Jesus seinen Willen offenbart hat, die Menschen
+zu retten: Jesus ist der verheißene Messias, der Sohn Gottes; durch sein
+Wirken ist die Heilszeit angebrochen (1,14). Er überwindet das Unheil,
+die Herrschaft des Satan und seiner Helfer (Dämonenaustreibungen und
+Krankenheilungen), er vergibt Sünden (2,1-12), verkündet den
+unverfälschten Willen Gottes (2,27f; 7,1-23) und richtet das Reich
+Gottes auf (Kap. 4). Weil in seiner Person Gottes Vollmacht in
+menschlicher Niedrigkeit auftritt, wird sein Geheimnis nicht begriffen,
+nicht von den Juden, aber auch nicht von den Jüngern vor der
+Auferstehung Jesu (6,4-6; 8,14-21; 14,26-42; vgl. auch die
+Schweigegebote Jesu 5,43; 8,30; 9,9). Die einzig angemessene Haltung der
+Botschaft Jesu gegenüber ist unbedingter Glaube (5,36; 9,19-24;
+11,22-25). Christsein heißt, Jesus in Glaube, Selbstlosigkeit,
+Bereitschaft zum Dienen und Mut zum Leiden nachzufolgen (8,31-33;
+9,42-48; 10,17-27.41-45) und so die Kraft des Reiches Gottes zu
+erfahren. Der erste Heide, der das Geheimnis Jesu erkannte, ist der
+Hauptmann unter dem Kreuz: »Wahrhaftig, dieser Mensch war Gottes Sohn«
+(15,39). In ihm sieht Markus die Heidenkirche beim Kreuz Christi
+vertreten. Die bedrängten Heidenchristen will Markus durch sein
+Evangelium in ihrem Glauben stärken und ermutigen, Christus auch in
+Verfolgungen treu zu bleiben.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Die Vorbereitung des Wirkens Jesu: 1,1-13
+   :PROPERTIES:
+   :CUSTOM_ID: die-vorbereitung-des-wirkens-jesu-11-13
+   :END:
+**** Johannes der Täufer: 1,1-8
+     :PROPERTIES:
+     :CUSTOM_ID: johannes-der-täufer-11-8
+     :END:
+1 Anfang des Evangeliums von Jesus Christus, dem Sohn Gottes:
+^{[[#fn1][1]][[#fn2][2]]}\\
+^{[[#fn3][3]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 1\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Es begann, wie es bei dem Propheten Jesaja steht: /Ich sende meinen
+Boten vor dir her;/ /\\
+ /er soll den Weg/ für dich /bahnen./ ^{[[#fn4][4]]}\\
+^{[[#fn5][5]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 107\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v3>>
+3 /Eine Stimme ruft in der Wüste:/ /\\
+ /Bereitet dem Herrn den Weg!/ /\\
+ /Ebnet/ ihm /die Straßen!/ ^{[[#fn6][6]]}\\
+\\
+
+<<v4>>
+4 So trat Johannes der Täufer in der Wüste auf und verkündigte Umkehr
+und Taufe zur Vergebung der Sünden.
+^{[[#fn7][7]][[#fn8][8]][[#fn9][9]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 32\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v5>>
+5 Ganz Judäa und alle Einwohner Jerusalems zogen zu ihm hinaus; sie
+bekannten ihre Sünden und ließen sich im Jordan von ihm taufen.
+
+<<v6>>
+6 Johannes trug ein Gewand aus Kamelhaaren und einen ledernen Gürtel um
+seine Hüften und er lebte von Heuschrecken und wildem Honig.
+
+<<v7>>
+7 Er verkündete: Nach mir kommt einer, der ist stärker als ich; ich bin
+es nicht wert, mich zu bücken, um ihm die Schuhe aufzuschnüren.
+^{[[#fn10][10]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 16\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v8>>
+8 Ich habe euch nur mit Wasser getauft, er aber wird euch mit dem
+Heiligen Geist taufen.\\
+\\
+
+<<v9>>
+**** Die Taufe Jesu: 1,9-11
+     :PROPERTIES:
+     :CUSTOM_ID: die-taufe-jesu-19-11
+     :END:
+9 In jenen Tagen kam Jesus aus Nazaret in Galiläa und ließ sich von
+Johannes im Jordan taufen. ^{[[#fn11][11]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 18\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v10>>
+10 Und als er aus dem Wasser stieg, sah er, dass der Himmel sich öffnete
+und der Geist wie eine Taube auf ihn herabkam.
+
+<<v11>>
+11 Und eine Stimme aus dem Himmel sprach: /Du bist mein geliebter Sohn,
+an dir habe ich Gefallen gefunden./ ^{[[#fn12][12]]}\\
+^{[[#fn13][13]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 302\\
+$ŽG://ESyn0812/
+
+<<v12>>
+**** Die Versuchung Jesu: 1,12-13
+     :PROPERTIES:
+     :CUSTOM_ID: die-versuchung-jesu-112-13
+     :END:
+12 Danach trieb der Geist Jesus in die Wüste.
+^{[[#fn14][14]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 20\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v13>>
+13 Dort blieb Jesus vierzig Tage lang und wurde vom Satan in Versuchung
+geführt. Er lebte bei den wilden Tieren und die Engel dienten ihm.\\
+\\
+
+<<v14>>
+** Das Wirken Jesu in Galiläa: 1,14 - 8,26
+   :PROPERTIES:
+   :CUSTOM_ID: das-wirken-jesu-in-galiläa-114---826
+   :END:
+**** Erstes Auftreten in Galiläa: 1,14-15
+     :PROPERTIES:
+     :CUSTOM_ID: erstes-auftreten-in-galiläa-114-15
+     :END:
+14 Nachdem man Johannes ins Gefängnis geworfen hatte, ging Jesus wieder
+nach Galiläa; er verkündete das Evangelium Gottes
+^{[[#fn15][15]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 32\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v15>>
+15 und sprach: Die Zeit ist erfüllt, das Reich Gottes ist nahe. Kehrt
+um, und glaubt an das Evangelium! ^{[[#fn16][16]]}\\
+\\
+
+<<v16>>
+**** Die Berufung der ersten Jünger: 1,16-20
+     :PROPERTIES:
+     :CUSTOM_ID: die-berufung-der-ersten-jünger-116-20
+     :END:
+16 Als Jesus am See von Galiläa entlangging, sah er Simon und Andreas,
+den Bruder des Simon, die auf dem See ihr Netz auswarfen; sie waren
+nämlich Fischer. ^{[[#fn17][17]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 41\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v17>>
+17 Da sagte er zu ihnen: Kommt her, folgt mir nach! Ich werde euch zu
+Menschenfischern machen.
+
+<<v18>>
+18 Sogleich ließen sie ihre Netze liegen und folgten ihm.
+
+<<v19>>
+19 Als er ein Stück weiterging, sah er Jakobus, den Sohn des Zebedäus,
+und seinen Bruder Johannes; sie waren im Boot und richteten ihre Netze
+her.
+
+<<v20>>
+20 Sofort rief er sie und sie ließen ihren Vater Zebedäus mit seinen
+Tagelöhnern im Boot zurück und folgten Jesus nach.\\
+\\
+
+<<v21>>
+**** Jesus in der Synagoge von Kafarnaum: 1,21-28
+     :PROPERTIES:
+     :CUSTOM_ID: jesus-in-der-synagoge-von-kafarnaum-121-28
+     :END:
+21 Sie kamen nach Kafarnaum. Am folgenden Sabbat ging er in die Synagoge
+und lehrte. ^{[[#fn18][18]][[#fn19][19]][[#fn20][20]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 35\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v22>>
+22 Und die Menschen waren sehr betroffen von seiner Lehre; denn er
+lehrte sie wie einer, der (göttliche) Vollmacht hat, nicht wie die
+Schriftgelehrten.
+
+<<v23>>
+23 In ihrer Synagoge saß ein Mann, der von einem unreinen Geist besessen
+war. Der begann zu schreien: ^{[[#fn21][21]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 36\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v24>>
+24 Was haben wir mit dir zu tun, Jesus von Nazaret? Bist du gekommen, um
+uns ins Verderben zu stürzen? Ich weiß, wer du bist: der Heilige Gottes.
+^{[[#fn22][22]][[#fn23][23]]}
+
+<<v25>>
+25 Da befahl ihm Jesus: Schweig und verlass ihn!
+
+<<v26>>
+26 Der unreine Geist zerrte den Mann hin und her und verließ ihn mit
+lautem Geschrei.
+
+<<v27>>
+27 Da erschraken alle und einer fragte den andern: Was hat das zu
+bedeuten? Hier wird mit Vollmacht eine ganz neue Lehre verkündet. Sogar
+die unreinen Geister gehorchen seinem Befehl. ^{[[#fn24][24]]}
+
+<<v28>>
+28 Und sein Ruf verbreitete sich rasch im ganzen Gebiet von Galiläa.\\
+\\
+
+<<v29>>
+**** Die Heilung der Schwiegermutter des Petrus: 1,29-31
+     :PROPERTIES:
+     :CUSTOM_ID: die-heilung-der-schwiegermutter-des-petrus-129-31
+     :END:
+29 Sie verließen die Synagoge und gingen zusammen mit Jakobus und
+Johannes gleich in das Haus des Simon und Andreas.
+^{[[#fn25][25]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 37\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v30>>
+30 Die Schwiegermutter des Simon lag mit Fieber im Bett. Sie sprachen
+mit Jesus über sie,
+
+<<v31>>
+31 und er ging zu ihr, fasste sie an der Hand und richtete sie auf. Da
+wich das Fieber von ihr und sie sorgte für sie.\\
+\\
+
+<<v32>>
+**** Die Heilung von Besessenen und Kranken: 1,32-34
+     :PROPERTIES:
+     :CUSTOM_ID: die-heilung-von-besessenen-und-kranken-132-34
+     :END:
+32 Am Abend, als die Sonne untergegangen war, brachte man alle Kranken
+und Besessenen zu Jesus.
+^{[[#fn26][26]][[#fn27][27]][[#fn28][28]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 38\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v33>>
+33 Die ganze Stadt war vor der Haustür versammelt,
+
+<<v34>>
+34 und er heilte viele, die an allen möglichen Krankheiten litten, und
+trieb viele Dämonen aus. Und er verbot den Dämonen zu reden; denn sie
+wussten, wer er war.\\
+^{[[#fn29][29]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 113\\
+$ŽG://ESyn0812/
+
+<<v35>>
+**** Aufbruch aus Kafarnaum: 1,35-39
+     :PROPERTIES:
+     :CUSTOM_ID: aufbruch-aus-kafarnaum-135-39
+     :END:
+35 In aller Frühe, als es noch dunkel war, stand er auf und ging an
+einen einsamen Ort, um zu beten. ^{[[#fn30][30]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 39\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v36>>
+36 Simon und seine Begleiter eilten ihm nach,
+
+<<v37>>
+37 und als sie ihn fanden, sagten sie zu ihm: Alle suchen dich.
+
+<<v38>>
+38 Er antwortete: Lasst uns anderswohin gehen, in die benachbarten
+Dörfer, damit ich auch dort predige; denn dazu bin ich gekommen.
+
+<<v39>>
+39 Und er zog durch ganz Galiläa, predigte in den Synagogen und trieb
+die Dämonen aus. ^{[[#fn31][31]]}\\
+^{[[#fn32][32]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 40\\
+$ŽG://ESyn0812/
+
+<<v40>>
+**** Die Heilung eines Aussätzigen: 1,40-45
+     :PROPERTIES:
+     :CUSTOM_ID: die-heilung-eines-aussätzigen-140-45
+     :END:
+40 Ein Aussätziger kam zu Jesus und bat ihn um Hilfe; er fiel vor ihm
+auf die Knie und sagte: Wenn du willst, kannst du machen, dass ich rein
+werde. ^{[[#fn33][33]][[#fn34][34]][[#fn35][35]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 42\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v41>>
+41 Jesus hatte Mitleid mit ihm; er streckte die Hand aus, berührte ihn
+und sagte: Ich will es - werde rein!
+
+<<v42>>
+42 Im gleichen Augenblick verschwand der Aussatz und der Mann war rein.
+
+<<v43>>
+43 Jesus schickte ihn weg und schärfte ihm ein: ^{[[#fn36][36]]}
+
+<<v44>>
+44 Nimm dich in Acht! Erzähl niemand etwas davon, sondern geh, /zeig
+dich dem Priester/und bring das Reinigungsopfer dar, das Mose angeordnet
+hat. Das soll für sie ein Beweis (meiner Gesetzestreue) sein.
+^{[[#fn37][37]][[#fn38][38]]}
+
+<<v45>>
+45 Der Mann aber ging weg und erzählte bei jeder Gelegenheit, was
+geschehen war; er verbreitete die ganze Geschichte, sodass sich Jesus in
+keiner Stadt mehr zeigen konnte; er hielt sich nur noch außerhalb der
+Städte an einsamen Orten auf. Dennoch kamen die Leute von überallher zu
+ihm.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 15,39; (1-8) Joh 1,19-28; Mt 3,1-6.11; Lk 3,3-6.15f
+
+^{[[#fnm2][2]]} 1-8: Die ältesten Christengemeinden waren vor allem am
+öffentlichen Wirken Jesu interessiert (vgl. Apg 10,37-41). Darum bringt
+Markus, anders als Matthäus und Lukas, keine Vorgeschichte, sondern
+beginnt sein Evangelium sofort mit dem Auftreten des Täufers und der
+Taufe Jesu. «dem Sohn Gottes» fehlt bei einigen alten Textzeugen.
+
+^{[[#fnm3][3]]} ℘ ⇨Esyn: Synopse Nr. 1
+
+^{[[#fnm4][4]]} ℘ Mal 3,1; Ex 23,20; Mt 11,10; Lk 1,76; 7,27
+
+^{[[#fnm5][5]]} ℘ ⇨Esyn: Synopse Nr. 107
+
+^{[[#fnm6][6]]} ℘ Jes 40,3 G
+
+^{[[#fnm7][7]]} ℘ Apg 13,24; 19,4
+
+^{[[#fnm8][8]]} Umkehr und Taufe, wörtlich: Taufe der Umkehr.
+
+^{[[#fnm9][9]]} ℘ ⇨Esyn: Synopse Nr. 32
+
+^{[[#fnm10][10]]} ℘ ⇨Esyn: Synopse Nr. 16
+
+^{[[#fnm11][11]]} ℘ (9-11) Joh 1,29-34; Mt 3,13-17; Lk 3,21f ⇨Esyn:
+Synopse Nr. 18
+
+^{[[#fnm12][12]]} ℘ Gen 22,2; Ps 2,7; Jes 42,1; Mt 3,17
+
+^{[[#fnm13][13]]} ℘ ⇨Esyn: Synopse Nr. 302
+
+^{[[#fnm14][14]]} ℘ (12-13) Mt 4,1f.11; Lk 4,1f ⇨Esyn: Synopse Nr. 20
+
+^{[[#fnm15][15]]} ℘ (14-15) Mt 4,12.17; Lk 4,14f ⇨Esyn: Synopse Nr. 32
+
+^{[[#fnm16][16]]} In diesem programmatischen Satz fasst Markus den
+Inhalt der Botschaft Jesu zusammen.
+
+^{[[#fnm17][17]]} ℘ (16-20) Lk 5,1-11; Joh 1,35-51; Mt 4,18-22 ⇨Esyn:
+Synopse Nr. 41
+
+^{[[#fnm18][18]]} ℘ (21f) Mt 7,28f; (21-28) Lk 4,31-37
+
+^{[[#fnm19][19]]} 21-34: Mit der Beschreibung des ersten Tages des
+Wirkens Jesu in Kafarnaum zeigt der Evangelist beispielhaft Jesu
+Tätigkeit: Jesus beweist durch Wort und Tat seine Vollmacht.
+
+^{[[#fnm20][20]]} ℘ ⇨Esyn: Synopse Nr. 35
+
+^{[[#fnm21][21]]} ℘ ⇨Esyn: Synopse Nr. 36
+
+^{[[#fnm22][22]]} ℘ 5,7; Mt 8,29; Lk 8,28; Joh 2,4
+
+^{[[#fnm23][23]]} Andere Übersetzungsmöglichkeit: Du bist gekommen, um
+uns ins Verderben zu stürzen.
+
+^{[[#fnm24][24]]} ℘ Mt 7,29
+
+^{[[#fnm25][25]]} ℘ (29-31) Mt 8,14f; Lk 4,38f ⇨Esyn: Synopse Nr. 37
+
+^{[[#fnm26][26]]} ℘ (32-34) Mt 8,16; Lk 4,40f
+
+^{[[#fnm27][27]]} Die Sabbatruhe dauerte vom Sonnenuntergang des Vortags
+bis zum Sonnenuntergang am Sabbat.
+
+^{[[#fnm28][28]]} ℘ ⇨Esyn: Synopse Nr. 38
+
+^{[[#fnm29][29]]} ℘ ⇨Esyn: Synopse Nr. 113
+
+^{[[#fnm30][30]]} ℘ Lk 5,16; 9,18; (35-39) Lk 4,42-44 ⇨Esyn: Synopse Nr.
+39
+
+^{[[#fnm31][31]]} ℘ Mt 4,23
+
+^{[[#fnm32][32]]} ℘ ⇨Esyn: Synopse Nr. 40
+
+^{[[#fnm33][33]]} ℘ (40-45) Mt 8,2-4; Lk 5,12-16
+
+^{[[#fnm34][34]]} 40-44: Aussatz und verschiedene Hautkrankheiten
+schlossen vom Zusammenleben mit anderen Menschen aus. Erst wenn die
+dafür zuständigen Priester die Heilung festgestellt hatten, war die
+Rückkehr in die alte Lebensgemeinschaft wieder erlaubt (vgl. Lev 13 14).
+
+^{[[#fnm35][35]]} ℘ ⇨Esyn: Synopse Nr. 42
+
+^{[[#fnm36][36]]} ℘ (43f) 5,43
+
+^{[[#fnm37][37]]} ℘ Lev 13,49; 14,2-32; Lk 17,14
+
+^{[[#fnm38][38]]} ein Beweis (meiner Gesetzestreue): andere
+Übersetzungsmöglichkeiten: ein Beweis (meiner Vollmacht); oder: ein
+Beweis (deiner Heilung).

@@ -1,0 +1,260 @@
+#+TITLE: 1 Kön 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-17 Fr 07:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 20.html
+
+<<verses>>
+
+<<v1>>
+* Aramäerkriege: 20,1-43
+
+1 Ben-Hadad, der König von Aram, sammelte sein ganzes Heer. In seinem
+Gefolge waren zweiunddreißig Könige mit Pferden und Wagen. Er zog
+herauf, belagerte Samaria und bestürmte es. [fn:1]
+
+<<v2>>
+2 Dann schickte er Boten in die Stadt zu Ahab, dem König von Israel, [fn:2]
+
+<<v3>>
+3 und ließ ihm sagen: So spricht Ben-Hadad: Dein Silber und dein Gold
+gehören mir. Auch deine Frauen und deine edlen Söhne gehören mir.
+
+<<v4>>
+4 Der König von Israel antwortete: Ganz wie du sagst, mein Herr und
+König, soll es geschehen. Ich gehöre dir mit allem, was ich besitze.
+
+<<v5>>
+5 Aber die Boten kamen ein zweites Mal und meldeten: So spricht
+Ben-Hadad: Ich habe dir sagen lassen, dass du mir dein Silber und Gold,
+deine Frauen und Söhne ausliefern sollst.
+
+<<v6>>
+6 Doch morgen um diese Zeit werde ich meine Leute zu dir schicken, damit
+sie dein Haus und auch die Häuser deiner Diener durchsuchen und alles,
+was wertvoll ist, nehmen und forttragen.
+
+<<v7>>
+7 Da rief der König von Israel alle Ältesten des Landes zu sich und
+sagte: Seht und erkennt, dass dieser Mann Böses im Sinn hat. Er hat von
+mir meine Frauen und Söhne, mein Silber und Gold gefordert, und ich habe
+ihm nichts verweigert. [fn:3]
+
+<<v8>>
+8 Da antworteten ihm alle Ältesten und das ganze Volk: Gehorch ihm nicht
+und willige nicht ein!
+
+<<v9>>
+9 Er gab daher den Abgesandten Ben-Hadads den Bescheid: Sagt zu meinem
+Herrn, dem König: Alles, was du zuerst von deinem Knecht verlangt hast,
+will ich tun; doch diese Forderung kann ich nicht erfüllen. Die Boten
+zogen ab und meldeten es ihrem Herrn.
+
+<<v10>>
+10 Darauf sandte Ben-Hadad abermals Boten (zu Ahab) und ließ ihm sagen:
+Die Götter sollen mir dies und das antun, wenn der Staub Samarias
+ausreicht, um allen Leuten in meinem Gefolge die Hand zu füllen.
+
+<<v11>>
+11 Doch der König von Israel antwortete: Sagt zu ihm: Wer den Gürtel
+anlegt, soll sich nicht rühmen wie einer, der ihn bereits ablegt. [fn:4]
+
+<<v12>>
+12 Als Ben-Hadad diese Meldung empfing, hielt er gerade in den Zelten
+ein Gelage mit den Königen. Er befahl seinen Leuten anzugreifen und
+diese begannen den Sturm auf die Stadt.
+
+<<v13>>
+13 Doch ein Prophet kam zu Ahab, dem König von Israel, und sagte: So
+spricht der Herr: Siehst du diese gewaltige Menge? Ich gebe sie heute in
+deine Hand und du wirst erkennen, dass ich der Herr bin.
+
+<<v14>>
+14 Ahab fragte: Durch wen? Er erwiderte: So spricht der Herr: Durch die
+Truppe der Provinzstatthalter. Als dann der König weiter wissen wollte,
+wer den Kampf eröffnen solle, sprach er: Du selbst.
+
+<<v15>>
+15 Daraufhin musterte er die Truppe der Provinzstatthalter; es waren
+zweihundertzweiunddreißig Mann. Nach ihnen musterte er das ganze
+Kriegsvolk, die Gesamtheit der Israeliten; es waren siebentausend Mann.
+
+<<v16>>
+16 Als sie um die Mittagszeit ausrückten, zechte Ben-Hadad mit den
+zweiunddreißig Königen, seinen Bundesgenossen, in den Zelten.
+
+<<v17>>
+17 Die Truppe der Provinzstatthalter rückte zuerst aus. Ben-Hadad hatte
+Beobachter ausgesandt und sie meldeten ihm, dass Leute aus Samaria
+herauskommen.
+
+<<v18>>
+18 Er befahl: Wenn sie in friedlicher Absicht kommen, ergreift sie
+lebendig! Wenn sie zum Kampf ausrücken, ergreift sie ebenfalls lebendig!
+
+<<v19>>
+19 Sobald nun die Truppe der Statthalter und das Heer, das ihr folgte,
+aus der Stadt ausgerückt waren,
+
+<<v20>>
+20 gelang es jedem einzelnen, seinen Gegner zu überwinden. Die Aramäer
+mussten fliehen und die Israeliten setzten ihnen nach. Ben-Hadad, der
+König von Aram, konnte zu Pferd entkommen, ebenso einige Wagenkämpfer.
+
+<<v21>>
+21 Als dann auch der König von Israel ausrückte, vernichtete er die
+Pferde und Kriegswagen und bereitete den Aramäern eine schwere
+Niederlage.
+
+<<v22>>
+22 Da erschien der Prophet wieder beim König von Israel und sagte zu
+ihm: Sammle deine Kräfte und überleg dir gut, was du zu tun hast; denn
+um die Jahreswende wird der König von Aram abermals gegen dich ziehen.
+
+<<v23>>
+23 Zum König von Aram hatten nämlich seine Ratgeber gesagt: Ihr Gott ist
+ein Gott der Berge; darum waren sie uns überlegen. Wenn wir aber in der
+Ebene mit ihnen kämpfen, dann werden wir sie bestimmt besiegen.
+
+<<v24>>
+24 Tu also folgendes: Entfern die Könige aus ihrer Stellung und ersetze
+sie durch Statthalter!
+
+<<v25>>
+25 Dann sammle ein ebenso großes Heer, wie du es verloren hast, und
+ebenso viele Pferde und Kriegswagen, wie du zuvor hattest. Wir werden in
+der Ebene mit ihnen kämpfen und sie gewiss besiegen. Ben-Hadad befolgte
+ihren Rat.
+
+<<v26>>
+26 Um die Jahreswende musterte er die Aramäer und rückte zum Krieg gegen
+Israel bis Afek vor. [fn:5]
+
+<<v27>>
+27 Auch die Israeliten wurden gemustert und mit Lebensmitteln versehen.
+Sie zogen den Aramäern entgegen und lagerten ihnen gegenüber wie ein
+paar kleine Ziegenherden; die Aramäer aber füllten die ganze Gegend.
+
+<<v28>>
+28 Nun trat der Gottesmann zum König von Israel hin und sagte: So
+spricht der Herr: Weil die Aramäer sagen, dass der Herr ein Gott der
+Berge und nicht ein Gott der Ebenen sei, gebe ich diese ganze gewaltige
+Menge in deine Hand; und ihr werdet erkennen, dass ich der Herr bin.
+
+<<v29>>
+29 Sie lagen dann sieben Tage einander gegenüber. Am siebten Tag kam es
+zur Schlacht und die Israeliten töteten vom aramäischen Fußvolk
+hunderttausend Mann an einem Tag.
+
+<<v30>>
+30 Der Rest floh in die Stadt Afek; doch die Mauer stürzte über den
+siebenundzwanzigtausend Mann, die übrig geblieben waren, zusammen. Auch
+Ben-Hadad war in die Stadt geflohen und irrte von einem Gemach in das
+andere.
+
+<<v31>>
+31 Da sagten seine Ratgeber zu ihm: Wir haben gehört, dass die Könige
+des Hauses Israel milde Könige sind. Wir wollen daher Trauergewänder
+anlegen und mit Stricken um den Hals zum König von Israel hinausgehen.
+Vielleicht schenkt er dir das Leben.
+
+<<v32>>
+32 Sie legten also Trauergewänder an und mit Stricken um den Hals kamen
+sie zum König von Israel. Sie flehten ihn an: Dein Knecht Ben-Hadad
+bittet dich, ihm das Leben zu schenken. Er antwortete: Lebt er noch? Er
+ist mein Bruder.
+
+<<v33>>
+33 Die Männer nahmen das Wort als gutes Zeichen, gingen sogleich darauf
+ein und sagten: Ben-Hadad ist dein Bruder. Dann befahl der König von
+Israel: Geht, bringt ihn zu mir! Als Ben-Hadad kam, nahm er ihn zu sich
+auf seinen Wagen. [fn:6]
+
+<<v34>>
+34 Da erklärte Ben-Hadad: Die Städte, die mein Vater deinem Vater
+weggenommen hat, werde ich zurückgeben und in Damaskus magst du dir
+Handelsniederlassungen errichten, wie mein Vater es in Samaria getan
+hat. Der König von Israel erwiderte: Auf diese Abmachung hin werde ich
+dich freilassen. So schloss er mit ihm einen Vertrag und ließ ihn frei. [fn:7]
+
+<<v35>>
+35 Einer von den Prophetenjüngern sprach im Auftrag des Herrn zu seinem
+Gefährten: Schlag mich! Als dieser sich weigerte, ihn zu schlagen,
+
+<<v36>>
+36 sagte er zu ihm: Weil du der Stimme des Herrn nicht gehorcht hast,
+wird dich ein Löwe töten, sobald du von mir weggegangen bist. Der Mann
+hatte sich kaum von ihm entfernt, als ihn ein Löwe anfiel und tötete. [fn:8]
+
+<<v37>>
+37 Hierauf traf der Prophet einen andern und befahl ihm: Schlag mich!
+Dieser schlug auf ihn ein und verwundete ihn. [fn:9]
+
+<<v38>>
+38 Sogleich begab sich der Prophet zum König und stellte sich ihm in den
+Weg. Durch eine Binde über den Augen hatte er sich unkenntlich gemacht.
+
+<<v39>>
+39 Als der König vorbeikam, rief er ihn und sagte: Dein Knecht ist in
+den Kampf gezogen. Da kam jemand herbei, brachte mir einen Gefangenen
+und befahl: Bewach diesen Mann! Wenn er entkommt, dann musst du es mit
+deinem Leben büßen, oder du musst ein Talent Silber bezahlen. [fn:10]
+
+<<v40>>
+40 Während nun dein Knecht da und dort zu tun hatte, konnte der
+Gefangene entkommen. Da sagte der König von Israel: Du hast dir dein
+Urteil selbst gesprochen.
+
+<<v41>>
+41 Sogleich nahm der Prophet die Binde von den Augen und der König von
+Israel erkannte ihn als einen von den Propheten.
+
+<<v42>>
+42 Dieser aber sagte zu ihm: So spricht der Herr: Weil du den Mann,
+dessen Verderben ich wollte, aus deiner Hand entlassen hast, muss dein
+Leben für sein Leben, dein Volk für sein Volk einstehen.
+
+<<v43>>
+43 Missmutig und verdrossen ging der König von Israel nach Hause und kam
+nach Samaria.\\
+\\
+
+* Footnotes
+
+[fn:1] 1-43: In diesem Kapitel sind Verhältnisse vorausgesetzt,
+die unter Ahab nicht bestanden; die Vorgänge fallen in die Zeit des
+Königs Joasch von Israel, vgl. [[file:2.Kön_13.org::v3][2 Kön 13,3]].[[file:2.Kön_13.org::v7][7]].[[file:2.Kön_13.org::v17][17-19]].[[file:2.Kön_13.org::v24][24f]]. Sie werden hier
+auf Ahab übertragen. Gemeint ist Ben-Hadad III., der Zeitgenosse des
+Joasch (vgl. 2 Kön 13,24f). Unter Ahab regierte in Damaskus Hadad-Eser.
+
+[fn:2] Der Name Ahab findet sich nur noch in V. 13f.
+
+[fn:3] Zur Rettung der Stadt war der König zu den größten
+persönlichen Opfern bereit. Über das Vermögen der Untertanen wollte er
+nicht ohne deren Zustimmung verfügen.
+
+[fn:4] In einer sprichwörtlichen Redensart wird gesagt, dass
+man sich eines Erfolgs erst rühmen soll, wenn man ihn erlangt hat.
+
+[fn:5] Afek liegt östlich vom See Gennesaret; vielleicht ist
+ein Ort in der Nähe von Samaria gemeint.
+
+[fn:6] als gutes Zeichen: Text sinngemäß korr.
+
+[fn:7] Vgl. [[file:2.Kön_13.org::v25][2 Kön 13,25]]. Der König von Israel war zum Frieden
+bereit, den das Land dringend benötigte. Die Hinrichtung Ben-Hadads
+hätte seinen Nachfolger nur zur Fortsetzung des Kriegs veranlasst.
+
+[fn:8] [[file:1.Kön_13.org::v24][13,24]]
+
+[fn:9] Um beim König mit seiner Erzählung Glauben zu finden,
+will der Prophet als Verwundeter erscheinen, der vom Schlachtfeld kommt.
+
+[fn:10] 39f: Der König sollte gezwungen werden, sich selbst
+das Urteil zu sprechen (vgl. [[file:2.Sam_12.org::v1][2 Sam 12,1-7]]).

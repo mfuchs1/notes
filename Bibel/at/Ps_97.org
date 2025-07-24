@@ -1,0 +1,106 @@
+#+TITLE: Ps 97 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-05 Mo 23:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 97.html
+
+* Ps 97
+
+<<verses>>
+
+<<v1>>
+* Aufruf zur Freude über den Herrscher der Welt
+
+1 Der Herr ist König. Die Erde frohlocke. /\\
+ Freuen sollen sich die vielen Inseln. [fn:1]\\
+\\
+
+<<v2>>
+2 Rings um ihn her sind Wolken und Dunkel, /\\
+ Gerechtigkeit und Recht sind die Stützen seines Throns [fn:2]\\
+\\
+
+<<v3>>
+3 Verzehrendes Feuer läuft vor ihm her /\\
+ und frisst seine Gegner ringsum. [fn:3]\\
+\\
+
+<<v4>>
+4 Seine Blitze erhellen den Erdkreis; /\\
+ die Erde sieht es und bebt. [fn:4]\\
+\\
+
+<<v5>>
+5 Berge schmelzen wie Wachs vor dem Herrn, /\\
+ vor dem Antlitz des Herrschers aller Welt. [fn:5]\\
+\\
+
+<<v6>>
+6 Seine Gerechtigkeit verkünden die Himmel, /\\
+ seine Herrlichkeit schauen alle Völker. [fn:6]\\
+\\
+
+<<v7>>
+7 Alle, die Bildern dienen, werden zuschanden, /\\
+ alle, die sich der Götzen rühmen. /\\
+ Vor ihm werfen sich alle Götter nieder.\\
+\\
+
+<<v8>>
+8 Zion hört es und freut sich, /\\
+ Judas Töchter jubeln, Herr, über deine Gerichte. [fn:7]\\
+\\
+
+<<v9>>
+9 Denn du, Herr, bist der Höchste über der ganzen Erde, /\\
+ hoch erhaben über alle Götter. [fn:8]\\
+\\
+
+<<v10>>
+10 Ihr, die ihr den Herrn liebt, hasst das Böse! /\\
+ Er behütet das Leben seiner Frommen, /\\
+ er entreißt sie der Hand der Frevler. [fn:9]\\
+\\
+
+<<v11>>
+11 Ein Licht erstrahlt den Gerechten /\\
+ und Freude den Menschen mit redlichem Herzen. [fn:10] [fn:11]\\
+\\
+
+<<v12>>
+12 Ihr Gerechten, freut euch am Herrn /\\
+ und lobt seinen heiligen Namen! [fn:12]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_24.org::v7][24,7-10]]
+
+[fn:2] [[file:Ps_89.org::v15][89,15]]
+
+[fn:3] [[file:Ps_18.org::v9][18,9]]
+
+[fn:4] [[file:Ps_77.org::v19][77,19]]
+
+[fn:5] [[file:Ps_68.org::v3][68,3]]; [[file:Mi_1.org::v4][Mi 1,4]]
+
+[fn:6] [[file:Ps_50.org::v6][50,6]]
+
+[fn:7] [[file:Ps_48.org::v12][48,12]]
+
+[fn:8] [[file:Ps_83.org::v19][83,19]]; [[file:Ps_95.org::v3][95,3]]; [[file:Ps_136.org::v2][136,2f]]
+
+[fn:9] [[file:Ps_121.org::v7][121,7f]]
+
+[fn:10] [[file:Ps_27.org::v1][27,1]]; [[file:Ps_43.org::v3][43,3]]; [[file:Ps_112.org::v4][112,4]]; [[file:Spr_13.org::v9][Spr 13,9]]; [[file:Jes_58.org::v10][Jes 58,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v12][Joh 8,12]]
+
+[fn:11] Text korr.; H: Licht ist gesät den Gerechten.
+
+[fn:12] [[file:Ps_30.org::v5][30,5]]

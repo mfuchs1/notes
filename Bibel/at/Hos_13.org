@@ -1,0 +1,146 @@
+:PROPERTIES:
+:ID:       9afd9fdf-caaf-4911-bcfc-92f7c4262400
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Hosea* -- [[file:Hos_1.html][1]] ...
+[[file:Hos_11.html][11]] [[file:Hos_12.html][12]] *13*
+[[file:Hos_14.html][14]]
+
+--------------
+
+* Hos 13
+  :PROPERTIES:
+  :CUSTOM_ID: hos-13
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die letzte Abrechnung: 13,1 - 14,1
+     :PROPERTIES:
+     :CUSTOM_ID: die-letzte-abrechnung-131---141
+     :END:
+1 Wenn Efraim redete, zitterten alle. /\\
+ Er war in Israel mächtig. Dann aber machte er sich schuldig durch Baal
+/\\
+ und er verfiel dem Tod.\\
+\\
+
+<<v2>>
+2 Nun sündigen sie weiter /\\
+ und machen sich aus ihrem Silber gegossene Bilder, kunstfertig stellen
+sie Götzen her - /\\
+ alles nur ein Machwerk von Schmieden. Ihnen, so sagen sie, müsst ihr
+opfern. /\\
+ Menschen küssen Kälber. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Darum sollen sie werden wie die Wolken am Morgen /\\
+ und wie der Tau, der bald vergeht, wie die Spreu, die aus der Tenne
+stiebt, /\\
+ und wie Rauch, der aus der Luke zieht. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Ich aber, ich bin der Herr, dein Gott, /\\
+ seit der Zeit in Ägypten; du sollst keinen anderen Gott kennen als
+mich. /\\
+ Es gibt keinen Retter außer mir. ^{[[#fn3][3]]}\\
+\\
+
+<<v5>>
+5 Ich habe dich in der Wüste auf die Weide geführt, /\\
+ im Land der glühenden Hitze. ^{[[#fn4][4]]}\\
+\\
+
+<<v6>>
+6 Als sie ihre Weide hatten, wurden sie satt. /\\
+ Als sie satt waren, wurde ihr Herz überheblich, /\\
+ darum vergaßen sie mich. ^{[[#fn5][5]]}\\
+\\
+
+<<v7>>
+7 Deshalb wurde ich für sie zu einem Löwen, /\\
+ wie ein Panther lauere ich am Weg. ^{[[#fn6][6]]}\\
+\\
+
+<<v8>>
+8 Ich falle sie an wie eine Bärin, /\\
+ der man die Jungen geraubt hat, /\\
+ und zerreiße ihnen die Brust und das Herz. Die Hunde fressen sie dann
+/\\
+ und die wilden Tiere zerfleischen sie. ^{[[#fn7][7]]}\\
+\\
+
+<<v9>>
+9 Ich vernichte dich, Israel. /\\
+ Wer kommt dir zu Hilfe?\\
+\\
+
+<<v10>>
+10 Wo ist denn dein König, der dich retten könnte, /\\
+ dich und all deine Städte? Wo sind deine Regenten, von denen du
+sagtest: /\\
+ Gib mir einen König und Fürsten! ^{[[#fn8][8]]}\\
+\\
+
+<<v11>>
+11 In meinem Zorn gab ich dir einen König, /\\
+ in meinem Groll nahm ich ihn weg. ^{[[#fn9][9]]}\\
+\\
+
+<<v12>>
+12 Efraims Schuld wird gebündelt verwahrt, /\\
+ seine Sünden werden gespeichert. ^{[[#fn10][10]]}\\
+\\
+
+<<v13>>
+13 Es kommen die Wehen für seine Geburt; /\\
+ aber er ist ein törichtes Kind; denn wenn die Zeit da ist, /\\
+ kommt er nicht heraus aus dem Mutterschoß. ^{[[#fn11][11]]}\\
+\\
+
+<<v14>>
+14 Aus der Gewalt der Unterwelt /\\
+ sollte ich sie befreien? Vom Tod sollte ich sie erlösen? /\\
+ Tod, wo sind deine Seuchen? Unterwelt, wo ist dein Stachel? /\\
+ Meine Augen kennen kein Mitleid. ^{[[#fn12][12]]}\\
+\\
+
+<<v15>>
+15 Auch wenn Efraim im Kreis seiner Brüder prächtig gedeiht, /\\
+ es kommt ein Ostwind, ein Sturm des Herrn; er steigt aus der Wüste auf
+/\\
+ und lässt Efraims Brunnen versiegen /\\
+ und seine Quellen vertrocknen. Er plündert die Schatzkammern aus /\\
+ und raubt den ganzen kostbaren Besitz. ^{[[#fn13][13]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 1 Kön 12,28.32
+
+^{[[#fnm2][2]]} ℘ 6,4; Jes 17,13; Zef 2,2
+
+^{[[#fnm3][3]]} ℘ 12,10; Ex 20,3; Dtn 5,7; Jes 43,11; 45,21
+
+^{[[#fnm4][4]]} 5a: Text korr. nach den alten Übersetzungen und dem
+Zusammenhang; H: Ich habe dich in der Wüste erkannt.
+
+^{[[#fnm5][5]]} ℘ Dtn 32,15
+
+^{[[#fnm6][6]]} ℘ 5,14
+
+^{[[#fnm7][7]]} ℘ 2 Sam 17,8
+
+^{[[#fnm8][8]]} ℘ 1 Sam 8,5.19f
+
+^{[[#fnm9][9]]} ℘ 10,15; 1 Sam 8,7.22
+
+^{[[#fnm10][10]]} ℘ Dtn 32,34f
+
+^{[[#fnm11][11]]} ℘ Jes 26,17f; 37,3
+
+^{[[#fnm12][12]]} ℘ 6,2; 1 Kor 15,55
+
+^{[[#fnm13][13]]} ℘ 12,2

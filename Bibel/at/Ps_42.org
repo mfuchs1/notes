@@ -1,0 +1,112 @@
+#+TITLE: Ps 42 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-02 Di 22:50]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 42.html
+
+* Ps 42
+
+<<verses>>
+
+<<v1>>
+* Das zweite Buch
+
+* Sehnsucht nach dem lebendigen Gott
+
+1 [Für den Chormeister. Ein Weisheitslied der Korachiter.]\\
+\\
+
+<<v2>>
+2 Wie der Hirsch lechzt nach frischem Wasser, /\\
+ so lechzt meine Seele, Gott, nach dir. [fn:1]\\
+\\
+
+<<v3>>
+3 Meine Seele dürstet nach Gott, /\\
+ nach dem lebendigen Gott. Wann darf ich kommen /\\
+ und Gottes Antlitz schauen? [fn:2]\\
+\\
+
+<<v4>>
+4 Tränen waren mein Brot bei Tag und bei Nacht; /\\
+ denn man sagt zu mir den ganzen Tag: /\\
+ «Wo ist nun dein Gott?» [fn:3]\\
+\\
+
+<<v5>>
+5 Das Herz geht mir über, wenn ich daran denke: /\\
+ wie ich zum Haus Gottes zog in festlicher Schar, /\\
+ mit Jubel und Dank in feiernder Menge. [fn:4] [fn:5]\\
+\\
+
+<<v6>>
+6 Meine Seele, warum bist du betrübt /\\
+ und bist so unruhig in mir? Harre auf Gott; denn ich werde ihm noch
+danken, /\\
+ meinem Gott und Retter, auf den ich schaue. [fn:6] [fn:7]\\
+\\
+
+<<v7>>
+7 Betrübt ist meine Seele in mir, darum denke ich an dich /\\
+ im Jordanland, am Hermon, am Mizar-Berg.\\
+\\
+
+<<v8>>
+8 Flut ruft der Flut zu beim Tosen deiner Wasser, /\\
+ all deine Wellen und Wogen gehen über mich hin. [fn:8]\\
+\\
+
+<<v9>>
+9 Bei Tag schenke der Herr seine Huld; /\\
+ ich singe ihm nachts und flehe zum Gott meines Lebens.\\
+\\
+
+<<v10>>
+10 Ich sage zu Gott, meinem Fels: /\\
+ «Warum hast du mich vergessen? Warum muss ich trauernd umhergehen, /\\
+ von meinem Feind bedrängt?» [fn:9]\\
+\\
+
+<<v11>>
+11 Wie ein Stechen in meinen Gliedern /\\
+ ist für mich der Hohn der Bedränger; denn sie rufen mir ständig zu: /\\
+ «Wo ist nun dein Gott?» [fn:10]\\
+\\
+
+<<v12>>
+12 Meine Seele, warum bist du betrübt /\\
+ und bist so unruhig in mir? Harre auf Gott; denn ich werde ihm noch
+danken, /\\
+ meinem Gott und Retter, auf den ich schaue. [fn:11]\\
+\\
+
+* Footnotes
+
+[fn:1] (2-3) [[file:Ps_63.org::v2][63,2]]; [[file:Ps_84.org::v3][84,3]]; [[file:Ps_143.org::v6][143,6]]
+
+[fn:2] [[file:Ps_27.org::v4][27,4]]
+
+[fn:3] [[file:Ps_80.org::v6][80,6]]; [[file:Ps_102.org::v10][102,10]]; [[file:Ijob_3.org::v24][Ijob 3,24]]
+
+[fn:4] [[file:Ps_122.org::v1][122,1]]
+
+[fn:5] Übersetzung nicht ganz sicher.
+
+[fn:6] [[file:Ps_62.org::v6][62,6]]
+
+[fn:7] Text korr.
+
+[fn:8] [[file:Ps_18.org::v5][18,5]]; [[file:Ps_32.org::v6][32,6]]; [[file:Ps_69.org::v2][69,2f]].[[file:Ps_69.org::v16][16]]; [[file:Ps_88.org::v8][88,8]].[[file:Ps_88.org::v18][18]]; [[file:Ps_124.org::v4][124,4f]]; [[file:Ijob_22.org::v11][Ijob 22,11]];
+[[file:Jona_2.org::v4][Jona 2,4]].[[file:Jona_2.org::v6][6]]
+
+[fn:9] [[file:Ps_92.org::v16][92,16]]
+
+[fn:10] [[v4][42,4]]; [[file:Ps_79.org::v10][79,10]]; [[file:Ps_115.org::v2][115,2]]; [[file:Joel_2.org::v17][Joël 2,17]]; [[file:Mi_7.org::v10][Mi 7,10]]
+
+[fn:11] Text korr.

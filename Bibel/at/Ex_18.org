@@ -1,0 +1,146 @@
+#+TITLE: Ex 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 22:37]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 18.html
+
+<<verses>>
+
+<<v1>>
+* Jitros Rat: Die Berufung von Richtern:
+
+1 Jitro, der Priester von Midian, der Schwiegervater des Mose, hörte,
+was Gott alles an Mose und seinem Volk Israel getan und wie der Herr
+Israel aus Ägypten herausgeführt hatte.
+
+<<v2>>
+2 Da nahm Jitro, der Schwiegervater des Mose, Zippora mit sich, die Frau
+des Mose - Mose hatte sie wieder zurückgeschickt -,
+
+<<v3>>
+3 und ihre beiden Söhne. Der eine hieß Gerschom (Ödgast), weil Mose
+gesagt hatte: Gast bin ich in fremdem Land. [fn:1]
+
+<<v4>>
+4 Der andere hieß Eliëser (Gotthelf), weil Mose gesagt hatte: Der Gott
+meines Vaters hat mir geholfen und hat mich vor dem Schwert des Pharao
+gerettet.
+
+<<v5>>
+5 Jitro, der Schwiegervater des Mose, kam mit dessen Söhnen und dessen
+Frau in die Wüste am Gottesberg, wo Mose gerade lagerte.
+
+<<v6>>
+6 Er ließ Mose sagen: Ich, dein Schwiegervater Jitro, komme zu dir
+zusammen mit deiner Frau und ihren beiden Söhnen.
+
+<<v7>>
+7 Da ging Mose seinem Schwiegervater entgegen, fiel vor ihm nieder und
+küsste ihn. Dann fragten sie einander nach ihrem Wohlergehen und gingen
+ins Zelt.
+
+<<v8>>
+8 Mose erzählte seinem Schwiegervater alles, was der Herr dem Pharao und
+den Ägyptern um Israels willen angetan hatte, auch von allen
+Schwierigkeiten, denen sie unterwegs begegnet waren, und wie der Herr
+sie gerettet hatte.
+
+<<v9>>
+9 Jitro freute sich über alles, was der Herr an Israel Gutes getan
+hatte, als er es aus der Hand der Ägypter rettete.
+
+<<v10>>
+10 Jitro sagte: Gepriesen sei der Herr, der euch aus der Hand der
+Ägypter und des Pharao gerettet hat.
+
+<<v11>>
+11 Jetzt weiß ich: Jahwe ist größer als alle Götter. Denn die Ägypter
+haben Israel hochmütig behandelt, doch der Herr hat das Volk aus ihrer
+Hand gerettet. [fn:2]
+
+<<v12>>
+12 Dann holte Jitro, der Schwiegervater des Mose, Tiere für Brandopfer
+und Schlachtopfer zur Ehre Gottes. Aaron und alle Ältesten Israels
+kamen, um mit dem Schwiegervater des Mose vor dem Angesicht Gottes ein
+Mahl zu halten.
+
+<<v13>>
+13 Am folgenden Morgen setzte sich Mose, um für das Volk Recht zu
+sprechen. Die Leute mussten vor Mose vom Morgen bis zum Abend anstehen.
+
+<<v14>>
+14 Als der Schwiegervater des Mose sah, was er alles für das Volk zu tun
+hatte, sagte er: Was soll das, was du da für das Volk tust? Warum sitzt
+du hier allein und die vielen Leute müssen vom Morgen bis zum Abend vor
+dir anstehen?
+
+<<v15>>
+15 Mose antwortete seinem Schwiegervater: Die Leute kommen zu mir, um
+Gott zu befragen.
+
+<<v16>>
+16 Wenn sie einen Streitfall haben, kommen sie zu mir. Ich entscheide
+dann ihren Fall und teile ihnen die Gesetze und Weisungen Gottes mit.
+
+<<v17>>
+17 Da sagte der Schwiegervater zu Mose: Es ist nicht richtig, wie du das
+machst.
+
+<<v18>>
+18 So richtest du dich selbst zugrunde und auch das Volk, das bei dir
+ist. Das ist zu schwer für dich; allein kannst du es nicht bewältigen.
+
+<<v19>>
+19 Nun hör zu, ich will dir einen Rat geben und Gott wird mit dir sein.
+Vertritt du das Volk vor Gott! Bring ihre Rechtsfälle vor ihn,
+
+<<v20>>
+20 unterrichte sie in den Gesetzen und Weisungen und lehre sie, wie sie
+leben und was sie tun sollen.
+
+<<v21>>
+21 Du aber sieh dich im ganzen Volk nach tüchtigen, gottesfürchtigen und
+zuverlässigen Männern um, die Bestechung ablehnen. Gib dem Volk
+Vorsteher für je tausend, hundert, fünfzig und zehn!
+
+<<v22>>
+22 Sie sollen dem Volk jederzeit als Richter zur Verfügung stehen. Alle
+wichtigen Fälle sollen sie vor dich bringen, die leichteren sollen sie
+selber entscheiden. Entlaste dich und lass auch andere Verantwortung
+tragen!
+
+<<v23>>
+23 Wenn du das tust, sofern Gott zustimmt, bleibst du der Aufgabe
+gewachsen und die Leute hier können alle zufrieden heimgehen.
+
+<<v24>>
+24 Mose hörte auf seinen Schwiegervater und tat alles, was er vorschlug.
+
+<<v25>>
+25 Mose wählte sich tüchtige Männer in ganz Israel aus und setzte sie
+als Hauptleute über das Volk ein, als Vorsteher für je tausend, hundert,
+fünfzig und zehn.
+
+<<v26>>
+26 Sie standen dem Volk jederzeit als Richter zur Verfügung. Die
+schwierigen Fälle brachten sie vor Mose, alle leichteren entschieden sie
+selber.
+
+<<v27>>
+27 Mose verabschiedete seinen Schwiegervater und dieser kehrte in sein
+Land zurück.\\
+\\
+
+
+* Footnotes
+
+[fn:1] 2,22
+
+[fn:2] Der Satz «doch der Herr hat sein Volk aus ihrer Hand
+gerettet» steht in H schon in V. 10.

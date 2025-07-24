@@ -1,0 +1,168 @@
+#+TITLE: Ps 33 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-17 So 15:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 33.html
+
+* Ps 33
+
+<<verses>>
+
+<<v1>>
+* Ein Loblied auf den mächtigen und gütigen Gott
+
+1 Ihr Gerechten, jubelt vor dem Herrn; /\\
+ für die Frommen ziemt es sich, Gott zu loben. [fn:1]\\
+\\
+
+<<v2>>
+2 Preist den Herrn mit der Zither, /\\
+ spielt für ihn auf der zehnsaitigen Harfe! [fn:2]\\
+\\
+
+<<v3>>
+3 Singt ihm ein neues Lied, /\\
+ greift voll in die Saiten und jubelt laut! [fn:3]\\
+\\
+
+<<v4>>
+4 Denn das Wort des Herrn ist wahrhaftig, /\\
+ all sein Tun ist verlässlich.\\
+\\
+
+<<v5>>
+5 Er liebt Gerechtigkeit und Recht, /\\
+ die Erde ist erfüllt von der Huld des Herrn. [fn:4]\\
+\\
+
+<<v6>>
+6 Durch das Wort des Herrn wurden die Himmel geschaffen, /\\
+ ihr ganzes Heer durch den Hauch seines Mundes. [fn:5]\\
+\\
+
+<<v7>>
+7 Wie in einem Schlauch fasst er das Wasser des Meeres, /\\
+ verschließt die Urflut in Kammern. [fn:6] [fn:7]\\
+\\
+
+<<v8>>
+8 Alle Welt fürchte den Herrn; /\\
+ vor ihm sollen alle beben, die den Erdkreis bewohnen. [fn:8]\\
+\\
+
+<<v9>>
+9 Denn der Herr sprach und sogleich geschah es; /\\
+ er gebot und alles war da. [fn:9]\\
+\\
+
+<<v10>>
+10 Der Herr vereitelt die Beschlüsse der Heiden, /\\
+ er macht die Pläne der Völker zunichte. [fn:10]\\
+\\
+
+<<v11>>
+11 Der Ratschluss des Herrn bleibt ewig bestehen, /\\
+ die Pläne seines Herzens überdauern die Zeiten. [fn:11]\\
+\\
+
+<<v12>>
+12 Wohl dem Volk, dessen Gott der Herr ist, /\\
+ der Nation, die er sich zum Erbteil erwählt hat. [fn:12]\\
+\\
+
+<<v13>>
+13 Der Herr blickt herab vom Himmel, /\\
+ er sieht auf alle Menschen. [fn:13]\\
+\\
+
+<<v14>>
+14 Von seinem Thronsitz schaut er nieder /\\
+ auf alle Bewohner der Erde.\\
+\\
+
+<<v15>>
+15 Der ihre Herzen gebildet hat, /\\
+ er achtet auf all ihre Taten. [fn:14]\\
+\\
+
+<<v16>>
+16 Dem König hilft nicht sein starkes Heer, /\\
+ der Held rettet sich nicht durch große Stärke. [fn:15]\\
+\\
+
+<<v17>>
+17 Nichts nützen die Rosse zum Sieg, /\\
+ mit all ihrer Kraft können sie niemand retten.\\
+\\
+
+<<v18>>
+18 Doch das Auge des Herrn ruht auf allen, die ihn fürchten und ehren,
+/\\
+ die nach seiner Güte ausschaun; [fn:16]\\
+\\
+
+<<v19>>
+19 denn er will sie dem Tod entreißen /\\
+ und in der Hungersnot ihr Leben erhalten. [fn:17]\\
+\\
+
+<<v20>>
+20 Unsre Seele hofft auf den Herrn; /\\
+ er ist für uns Schild und Hilfe. [fn:18]\\
+\\
+
+<<v21>>
+21 Ja, an ihm freut sich unser Herz, /\\
+ wir vertrauen auf seinen heiligen Namen.\\
+\\
+
+<<v22>>
+22 Lass deine Güte über uns walten, o Herr, /\\
+ denn wir schauen aus nach dir. [fn:19]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_32.org::v11][32,11]]; [[file:Ps_92.org::v2][92,2]]
+
+[fn:2] [[file:Ps_92.org::v4][92,4]]
+
+[fn:3] [[file:Ps_40.org::v4][40,4]]; [[file:Ps_96.org::v1][96,1]]; [[file:Ps_98.org::v1][98,1]]; [[file:Ps_144.org::v9][144,9]]; [[file:Ps_149.org::v1][149,1]]; [[file:Jdt_16.org::v1][Jdt 16,1]].[[file:Jdt_16.org::v13][13]]; [[file:Jes_42.org::v10][Jes 42,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_5.org::v9][Offb 5,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_14.org::v3][14,3]]
+
+[fn:4] [[file:Ps_119.org::v64][119,64]]
+
+[fn:5] [[file:Gen_1.org::v6][Gen 1,6-8]].[[file:Gen_1.org::v14][14-18]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_1.org::v3][Joh 1,3]]
+
+[fn:6] [[file:Ijob_38.org::v8][Ijob 38,8-11]]
+
+[fn:7] Text korr. nach G, Vg und der aramäischen Übersetzung.
+
+[fn:8] [[file:Ps_67.org::v8][67,8]]
+
+[fn:9] [[file:Ps_148.org::v5][148,5]]; [[file:Gen_1.org::v3][Gen 1,3-26]]; [[file:Sir_39.org::v16][Sir 39,16]]; [[file:Jes_48.org::v13][Jes 48,13]]
+
+[fn:10] (10-11) [[file:Spr_19.org::v21][Spr 19,21]]
+
+[fn:11] [[file:Jes_40.org::v8][Jes 40,8]]; [[file:Jes_46.org::v10][46,10]]
+
+[fn:12] [[file:Ps_144.org::v15][144,15]]; [[file:Ex_19.org::v6][Ex 19,6]]; [[file:Dtn_7.org::v6][Dtn 7,6]]
+
+[fn:13] (13-15) [[file:Ps_14.org::v2][14,2]]; [[file:Ps_102.org::v20][102,20]]; [[file:2.Chr_16.org::v9][2 Chr 16,9]]; [[file:Ijob_34.org::v21][Ijob 34,21]]; [[file:Sir_15.org::v18][Sir 15,18f]]
+
+[fn:14] [[file:Ps_94.org::v9][94,9-11]]
+
+[fn:15] (16-17) [[file:Ps_20.org::v8][20,8]]; [[file:1.Sam_14.org::v6][1 Sam 14,6]]; [[file:1.Sam_17.org::v45][17,45-47]]
+
+[fn:16] [[file:Ps_32.org::v8][32,8]]; [[file:Ps_34.org::v16][34,16]]; [[file:Sir_34.org::v19][Sir 34,19]]
+
+[fn:17] [[file:Ps_37.org::v19][37,19]]; [[file:Ijob_5.org::v20][Ijob 5,20]]
+
+[fn:18] [[file:Ps_3.org::v4][3,4]]; [[file:Ps_115.org::v9][115,9-11]]
+
+[fn:19] [[file:Ps_90.org::v17][90,17]]

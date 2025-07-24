@@ -1,0 +1,107 @@
+#+TITLE: Ps 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-03 So 14:39]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 5.html
+
+* Ps 5
+
+<<verses>>
+
+<<v1>>
+* Ein Gebet zum Morgenopfer
+
+1 [Für den Chormeister. Zum Flötenspiel. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Höre meine Worte, Herr, /\\
+ achte auf mein Seufzen!\\
+\\
+
+<<v3>>
+3 Vernimm mein lautes Schreien, mein König und mein Gott, /\\
+ denn ich flehe zu dir. [fn:1]\\
+\\
+
+<<v4>>
+4 Herr, am Morgen hörst du mein Rufen, /\\
+ am Morgen rüst ich das Opfer zu, halte Ausschau nach dir. [fn:2]\\
+\\
+
+<<v5>>
+5 Denn du bist kein Gott, dem das Unrecht gefällt; /\\
+ der Frevler darf nicht bei dir weilen. [fn:3]\\
+\\
+
+<<v6>>
+6 Wer sich brüstet, besteht nicht vor deinen Augen; /\\
+ denn dein Hass trifft alle, die Böses tun. [fn:4]\\
+\\
+
+<<v7>>
+7 Du lässt die Lügner zugrunde gehn, /\\
+ Mörder und Betrüger sind dem Herrn ein Gräuel.\\
+\\
+
+<<v8>>
+8 Ich aber darf dein Haus betreten /\\
+ dank deiner großen Güte, ich werfe mich nieder in Ehrfurcht /\\
+ vor deinem heiligen Tempel. [fn:5]\\
+\\
+
+<<v9>>
+9 Leite mich, Herr, in deiner Gerechtigkeit, /\\
+ meinen Feinden zum Trotz; /\\
+ ebne deinen Weg vor mir! [fn:6]\
+\\
+
+<<v10>>
+10 Aus ihrem Mund kommt kein wahres Wort, /\\
+ ihr Inneres ist voll Verderben. Ihre Kehle ist ein offenes Grab, /\\
+ aalglatt ist ihre Zunge. [fn:7] [fn:8]\\
+\\
+
+<<v11>>
+11 Gott, lass sie dafür büßen; /\\
+ sie sollen fallen durch ihre eigenen Ränke. Verstoße sie wegen ihrer
+vielen Verbrechen; /\\
+ denn sie empören sich gegen dich.\\
+\\
+
+<<v12>>
+12 Doch alle sollen sich freuen, die auf dich vertrauen, /\\
+ und sollen immerfort jubeln. Beschütze alle, die deinen Namen lieben,
+/\\
+ damit sie dich rühmen.\\
+\\
+
+<<v13>>
+13 Denn du, Herr, segnest den Gerechten. /\\
+ Wie mit einem Schild deckst du ihn mit deiner Gnade.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_44.org::v5][44,5]]; [[file:Ps_84.org::v4][84,4]]
+
+[fn:2] [[file:Ps_88.org::v14][88,14]]; [[file:Weish_16.org::v28][Weish 16,28]]
+
+[fn:3] [[file:Ps_34.org::v17][34,17]]
+
+[fn:4] (6-7) [[file:Spr_6.org::v16][Spr 6,16-19]]
+
+[fn:5] [[file:Ps_26.org::v8][26,8]]; [[file:Ps_138.org::v2][138,2]]
+
+[fn:6] [[file:Ps_25.org::v4][25,4]]
+
+[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v13][Röm 3,13]]
+
+[fn:8] Text korr. nach G, S und der aramäischen Übersetzung; H:
+Aus seinem Mund.

@@ -1,0 +1,137 @@
+#+TITLE: Ijob 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 23:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 4.html
+
+<<verses>>
+
+<<v1>>
+* Die erste Rede des Elifas: 4,1 - 5,27
+
+* Die Vergeltung: 4,1-11
+
+1 Da antwortete Elifas von Teman und sprach:\\
+\\
+
+<<v2>>
+2 Versucht man ein Wort an dich, ist es dir lästig? /\\
+ Doch die Rede aufzuhalten, wer vermag es?\\
+\\
+
+<<v3>>
+3 Sieh, viele hast du unterwiesen /\\
+ und erschlaffte Hände stark gemacht.\\
+\\
+
+<<v4>>
+4 Dem Strauchelnden halfen deine Worte auf, /\\
+ wankenden Knien gabst du Halt.\\
+\\
+
+<<v5>>
+5 Nun kommt es über dich, da gibst du auf, /\\
+ nun fasst es dich an, da bist du verstört.\\
+\\
+
+<<v6>>
+6 Ist deine Gottesfurcht nicht deine Zuversicht, /\\
+ dein lauterer Lebensweg nicht deine Hoffnung?\\
+\\
+
+<<v7>>
+7 Bedenk doch! Wer geht ohne Schuld zugrunde? /\\
+ Wo werden Redliche im Stich gelassen? [fn:1]\\
+\\
+
+<<v8>>
+8 Wohin ich schaue: Wer Unrecht pflügt, /\\
+ wer Unheil sät, der erntet es auch.\\
+\\
+
+<<v9>>
+9 Durch Gottes Atem gehen sie zugrunde, /\\
+ sie schwinden hin im Hauch seines Zornes.\\
+\\
+
+<<v10>>
+10 Des Löwen Brüllen, des Leuen Knurren, /\\
+ des Junglöwen Zähne werden enttäuscht. [fn:2]\\
+\\
+
+<<v11>>
+11 Der Löwe verendet aus Mangel an Beute, /\\
+ die Jungen der Löwin zerstreuen sich.\\
+\\
+
+<<v12>>
+* Ein Traum: 4,12-21
+
+12 Zu mir hat sich ein Wort gestohlen, /\\
+ geflüstert hat es mein Ohr erreicht.\\
+\\
+
+<<v13>>
+13 Im Grübeln und bei Nachtgesichten, /\\
+ wenn tiefer Schlaf die Menschen überfällt, [fn:3]\\
+\\
+
+<<v14>>
+14 kam Furcht und Zittern über mich /\\
+ und ließ erschaudern alle meine Glieder.\\
+\\
+
+<<v15>>
+15 Ein Geist schwebt an meinem Gesicht vorüber, /\\
+ die Haare meines Leibes sträuben sich.\\
+\\
+
+<<v16>>
+16 Er steht, ich kann sein Aussehen nicht erkennen, /\\
+ eine Gestalt nur vor meinen Augen, /\\
+ ich höre eine Stimme flüstern: [fn:4]\\
+\\
+
+<<v17>>
+17 Ist wohl ein Mensch vor Gott gerecht, /\\
+ ein Mann vor seinem Schöpfer rein? [fn:5]\\
+\\
+
+<<v18>>
+18 Selbst seinen Dienern traut er nicht, /\\
+ zeiht seine Engel noch des Irrtums.\\
+\\
+
+<<v19>>
+19 Wie erst jene, die im Lehmhaus wohnen, /\\
+ die auf den Staub gegründet sind; /\\
+ schneller als eine Motte werden sie zerdrückt.\\
+\\
+
+<<v20>>
+20 Vom Morgen bis zum Abend werden sie zerschlagen, /\\
+ für immer gehen sie zugrunde, unbeachtet.\\
+\\
+
+<<v21>>
+21 Wird nicht das Zelt über ihnen abgebrochen, /\\
+ sodass sie sterben ohne Einsicht?\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Spr_12.org::v21][Spr 12,21]]
+
+[fn:2] [[file:Spr_28.org::v15][Spr 28,15]]
+
+[fn:3] [[file:Ijob_33.org::v15][33,15]]
+
+[fn:4] [[file:1.Kön_19.org::v12][1 Kön 19,12]]
+
+[fn:5] [[file:Ijob_15.org::v14][15,14]]; [[file:Ps_143.org::v2][Ps 143,2]]

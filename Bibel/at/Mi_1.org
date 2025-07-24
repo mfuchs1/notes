@@ -1,0 +1,206 @@
+:PROPERTIES:
+:ID:       f994bfd4-408a-4972-a217-762d3d3b546a
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Micha* -- *1* [[file:Mi_2.html][2]]
+[[file:Mi_3.html][3]] ... [[file:Mi_7.html][7]]
+
+--------------
+
+* Mi 1
+  :PROPERTIES:
+  :CUSTOM_ID: mi-1
+  :END:
+
+In seiner jetzigen Gestalt hat das Buch Micha mit seinen sieben Kapiteln
+insofern einen durchsichtigen Aufbau, als zweimal auf
+Gerichtsankündigungen (Kap. 1 - 3 und 6,1 - 7,7) Heilsaussagen folgen
+(4,1 - 5,14 und 7,8-20). Nach heute vorherrschender Auffassung ist diese
+Gestalt des Buches erst das Ergebnis einer mit Einschüben und Zusätzen
+arbeitenden Redaktion. In der Bestimmung der echten Michatexte gehen die
+Meinungen allerdings auseinander. Kap. 1 - 3 sind mit Ausnahme von 2,12f
+sicher Micha zuzuschreiben. In Kap. 4 - 7 stammen 4,1-5 (= Jes 2,2-5);
+5,6-8 und 7,8-20 mit hoher Wahrscheinlichkeit nicht von Micha. Von den
+übrigen Texten stammt 4,14 - 5,5 (»Der messianische Herrscher«) mit
+Ausnahme von 4b.5a mit großer Wahrscheinlichkeit von Micha; dasselbe
+gilt für 5,9-14 und 6,1 - 7,7.\\
+\\
+Da 1,2-7 gegen Samaria gesprochen ist, hat Micha seine Tätigkeit vor dem
+Untergang Samarias im Jahr 722 v. Chr. begonnen. Dafür spricht auch die
+Überschrift in 1,1. Die Klage über Juda in 1,8-16, deren Text schlecht
+erhalten ist, hat wohl die Ereignisse von 701 v. Chr., den Einfall des
+Assyrers Sanherib, zum Hintergrund. Jer 26,17-19 bezeugt, dass Micha
+unter König Hiskija (etwa 728-699 v. Chr.) den Untergang Jerusalems und
+des Tempels (vgl. 3,12) angekündigt hat. Micha ist also ein jüngerer
+Zeitgenosse Jesajas.\\
+\\
+Der Prophet stammt aus Moreschet-Gat südwestlich von Jerusalem und
+gehört augenscheinlich zur dortigen Bauernschaft. Seiner Herkunft nach
+ist er also mit Amos vergleichbar. Auch in seiner Verkündigung steht er
+dem Propheten aus Tekoa nahe. Er klagt durchweg die Oberschicht von
+Jerusalem und Juda an und zeiht sie des Rechtsbruchs (3,1 - 4.9-12) und
+auch der Besitzgier (2,1-3.6-11). Den Propheten und Priestern wirft er
+Bestechlichkeit vor (3,5-8). Die beklagten Zustände fordern das Gericht
+Gottes heraus. Dieses wird selbst den Tempel nicht verschonen (3,12).
+Aus der Kritik am Jerusalemer Königtum ist wohl der Rückgriff auf die
+Erwartung eines neuen »David aus Betlehem« (5,1-4) zu begreifen, die im
+Neuen Testament in Mt 2,6 (vgl. Joh 7,42) als in Jesus erfüllt
+verkündigt wird. In 6,8 wird in lapidarer Kürze die ideale Partnerschaft
+mit Gott gekennzeichnet als »Recht tun, Güte und Treue lieben, in
+Ehrfurcht den Weg gehen mit deinem Gott«. Hier wird die Weisung der Zehn
+Gebote und der Propheten Amos, Hosea und Jesaja zu einem großartigen
+Vermächtnis auch an das neue Gottesvolk zusammengefasst.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Überschrift: 1,1
+   :PROPERTIES:
+   :CUSTOM_ID: überschrift-11
+   :END:
+1 Das Wort des Herrn, das an Micha aus Moreschet erging in der Zeit, als
+Jotam, Ahas und Hiskija Könige von Juda waren; er hörte es in Visionen
+über Samaria und Jerusalem.\\
+\\
+
+<<v2>>
+** Die Drohreden: 1,2 - 3,12
+   :PROPERTIES:
+   :CUSTOM_ID: die-drohreden-12---312
+   :END:
+**** Gegen Samaria: 1,2-7
+     :PROPERTIES:
+     :CUSTOM_ID: gegen-samaria-12-7
+     :END:
+2 Hört, alle ihr Völker, /\\
+ horch auf, Erde, und alles, was sie erfüllt: Gott, der Herr, tritt als
+Zeuge gegen euch auf, /\\
+ der Herr tritt heraus aus seinem heiligen Palast. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Seht, der Herr verlässt seinen erhabenen Ort, /\\
+ er steigt herab und schreitet dahin /\\
+ über die Höhen der Erde. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Die Berge zerschmelzen unter ihm /\\
+ wie Wachs in der Hitze des Feuers; die Talgründe werden aufgerissen,
+/\\
+ wie wenn Wasser den Abhang herabstürzt. ^{[[#fn3][3]]}\\
+\\
+
+<<v5>>
+5 Das alles geschieht wegen Jakobs Vergehen /\\
+ und wegen der Sünde des Hauses Israel. Was ist Jakobs Vergehen? /\\
+ Ist es nicht Samaria? Und was ist die Sünde Judas? /\\
+ Ist es nicht Jerusalem?\\
+\\
+
+<<v6>>
+6 Darum mache ich Samaria zu einem Trümmerfeld, /\\
+ zu einem Acker, auf dem man Reben pflanzt. Ich stürze seine Steine zu
+Tal /\\
+ und lege seine Grundmauern bloß. ^{[[#fn4][4]]}\\
+\\
+
+<<v7>>
+7 Alle seine geschnitzten Bilder werden zerschlagen, /\\
+ alle seine Weihegaben im Feuer verbrannt, /\\
+ alle seine Götzen zerstöre ich. Denn mit Dirnenlohn wurden sie
+zusammengekauft /\\
+ und zu Dirnenlohn werden sie wieder. ^{[[#fn5][5]]}\\
+\\
+
+<<v8>>
+**** Die Klage des Propheten: 1,8-16
+     :PROPERTIES:
+     :CUSTOM_ID: die-klage-des-propheten-18-16
+     :END:
+8 Klagen muss ich und jammern, /\\
+ barfuß und nackt gehe ich umher; ich erhebe ein Geheul wie die
+Schakale, /\\
+ ein Klagegeschrei wie die Strauße. ^{[[#fn6][6]]}\\
+\\
+
+<<v9>>
+9 Denn unheilbar ist die Wunde meines Volkes; /\\
+ sie reicht bis nach Juda, bis zum Tor meines Volkes, /\\
+ bis hin nach Jerusalem.\\
+\\
+
+<<v10>>
+10 Meldet es nicht in Gat! /\\
+ Weint nicht in Akko! /\\
+ Wälzt euch im Staub in Bet-Leafra! ^{[[#fn7][7]]}\\
+\\
+
+<<v11>>
+11 Zieht fort, ihr Bewohner von Schafir! /\\
+ Die Einwohner Zaanans sind schändlich entblößt /\\
+ und können ihre Stadt nicht verlassen. Es klagt Bet-Ezel. /\\
+ Er nimmt euch jede Stütze weg.\\
+\\
+
+<<v12>>
+12 Ja, die Einwohner von Marot bangen um ihr Wohl; /\\
+ denn vom Herrn kam Unheil herab /\\
+ auf Jerusalems Tore.\\
+\\
+
+<<v13>>
+13 Spannt die Pferde vor die Wagen, /\\
+ ihr Einwohner von Lachisch! Ja, das war der Anfang der Sünde der
+Tochter Zion; /\\
+ denn in dir trat die Gottlosigkeit Israels zutage. ^{[[#fn8][8]]}\\
+\\
+
+<<v14>>
+14 Darum musst du dich trennen von Moreschet-Gat. /\\
+ Die Häuser von Achsib werden für Israels Könige eine große
+Enttäuschung.\\
+\\
+
+<<v15>>
+15 Wieder soll der Eroberer über euch herfallen, /\\
+ ihr Einwohner von Marescha; /\\
+ bis nach Adullam bringt man die Herrlichkeit Israels. ^{[[#fn9][9]]}\\
+\\
+
+<<v16>>
+16 Scher dich kahl, Tochter Zion, /\\
+ trauere über deine geliebten Kinder! Scher dir eine Glatze, /\\
+ so kahl wie die eines Geiers; /\\
+ denn man hat deine Kinder verschleppt. ^{[[#fn10][10]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Ps 49,2
+
+^{[[#fnm2][2]]} ℘ Jes 26,21; Am 4,13
+
+^{[[#fnm3][3]]} ℘ Ps 97,5
+
+^{[[#fnm4][4]]} ℘ 3,12
+
+^{[[#fnm5][5]]} Der Verdienst der Tempeldirnen wurde zur Ausstattung des
+Heiligtums verwendet.
+
+^{[[#fnm6][6]]} ℘ 2 Sam 15,30; Jes 20,2
+
+^{[[#fnm7][7]]} Der Text von VV. 10-15 ist zum Teil unklar bzw. schlecht
+überliefert. Die hebräischen Zeitwörter weisen Anklänge an die mit ihnen
+verbundenen Ortsnamen auf. So kann z. B. Bet-Leafra als «Staubhausen»
+gedeutet werden.
+
+^{[[#fnm8][8]]} 13c: In dieser vielleicht nachträglich eingefügten
+Bemerkung klingt die verbreitete prophetische Polemik gegen Pferde und
+Kriegswagen durch.
+
+^{[[#fnm9][9]]} 15c: Text unklar. David musste vor Saul in die Höhle
+Adullam fliehen (vgl. 1 Sam 22,1). Vielleicht soll hier die Flucht des
+Königs von Jerusalem angesagt werden.
+
+^{[[#fnm10][10]]} ℘ Jer 7,29

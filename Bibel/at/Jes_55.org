@@ -1,0 +1,125 @@
+:PROPERTIES:
+:ID:       6d4ffbd7-aaa3-4256-a53d-b3374a0380e3
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_53.html][53]] [[file:Jes_54.html][54]] *55*
+[[file:Jes_56.html][56]] [[file:Jes_57.html][57]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 55
+  :PROPERTIES:
+  :CUSTOM_ID: jes-55
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Teilnahme des ganzen Volkes am Heil: 55,1-5
+     :PROPERTIES:
+     :CUSTOM_ID: die-teilnahme-des-ganzen-volkes-am-heil-551-5
+     :END:
+1 Auf, ihr Durstigen, kommt alle zum Wasser! /\\
+ Auch wer kein Geld hat, soll kommen. Kauft Getreide und esst, kommt und
+kauft ohne Geld, /\\
+ kauft Wein und Milch ohne Bezahlung! ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Warum bezahlt ihr mit Geld, was euch nicht nährt, /\\
+ und mit dem Lohn eurer Mühen, /\\
+ was euch nicht satt macht? Hört auf mich, dann bekommt ihr das Beste zu
+essen /\\
+ und könnt euch laben an fetten Speisen.\\
+\\
+
+<<v3>>
+3 Neigt euer Ohr mir zu und kommt zu mir, /\\
+ hört, dann werdet ihr leben. Ich will einen ewigen Bund mit euch
+schließen /\\
+ gemäß der beständigen Huld, die ich David erwies.
+^{[[#fn2][2]][[#fn3][3]]}\\
+\\
+
+<<v4>>
+4 Seht her: Ich habe ihn zum Zeugen für die Völker gemacht, /\\
+ zum Fürsten und Gebieter der Nationen.\\
+\\
+
+<<v5>>
+5 Völker, die du nicht kennst, wirst du rufen; /\\
+ Völker, die dich nicht kennen, eilen zu dir, um des Herrn, deines
+Gottes, des Heiligen Israels willen, /\\
+ weil er dich herrlich gemacht hat.\\
+\\
+
+<<v6>>
+** Epilog: Mahnung zur Umkehr und zum Vertrauen auf Gottes Wort: 55,6-13
+   :PROPERTIES:
+   :CUSTOM_ID: epilog-mahnung-zur-umkehr-und-zum-vertrauen-auf-gottes-wort-556-13
+   :END:
+6 Sucht den Herrn, solange er sich finden lässt, /\\
+ ruft ihn an, solange er nahe ist.\\
+\\
+
+<<v7>>
+7 Der Ruchlose soll seinen Weg verlassen, /\\
+ der Frevler seine Pläne. Er kehre um zum Herrn, /\\
+ damit er Erbarmen hat mit ihm, und zu unserem Gott; /\\
+ denn er ist groß im Verzeihen.\\
+\\
+
+<<v8>>
+8 Meine Gedanken sind nicht eure Gedanken /\\
+ und eure Wege sind nicht meine Wege - /\\
+ Spruch des Herrn.\\
+\\
+
+<<v9>>
+9 So hoch der Himmel über der Erde ist, /\\
+ so hoch erhaben sind meine Wege über eure Wege /\\
+ und meine Gedanken über eure Gedanken.\\
+\\
+
+<<v10>>
+10 Denn wie der Regen und der Schnee vom Himmel fällt /\\
+ und nicht dorthin zurückkehrt, sondern die Erde tränkt und sie zum
+Keimen und Sprossen bringt, /\\
+ wie er dem Sämann Samen gibt und Brot zum Essen, ^{[[#fn4][4]]}\\
+\\
+
+<<v11>>
+11 so ist es auch mit dem Wort, /\\
+ das meinen Mund verlässt: Es kehrt nicht leer zu mir zurück, /\\
+ sondern bewirkt, was ich will, /\\
+ und erreicht all das, wozu ich es ausgesandt habe.\\
+\\
+
+<<v12>>
+12 Voll Freude werdet ihr fortziehen, /\\
+ wohlbehalten kehrt ihr zurück. Berge und Hügel brechen bei eurem
+Anblick in Jubel aus, /\\
+ alle Bäume auf dem Feld klatschen Beifall. ^{[[#fn5][5]]}\\
+\\
+
+<<v13>>
+13 Statt Dornen wachsen Zypressen, /\\
+ statt Brennnesseln Myrten. Das geschieht zum Ruhm des Herrn /\\
+ als ein ewiges Zeichen, das niemals getilgt wird. ^{[[#fn6][6]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Joh 7,37; Offb 22,17
+
+^{[[#fnm2][2]]} ℘ 61,8; 2 Chr 6,42; Apg 13,34
+
+^{[[#fnm3][3]]} 3f: Durch seine Siege hat David die Macht und Zuwendung
+Gottes zu seinem Volk bezeugt.
+
+^{[[#fnm4][4]]} ℘ 2 Kor 9,10
+
+^{[[#fnm5][5]]} ℘ 44,23
+
+^{[[#fnm6][6]]} ℘ 56,5

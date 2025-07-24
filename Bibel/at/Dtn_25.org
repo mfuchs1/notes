@@ -1,0 +1,143 @@
+#+TITLE: Dtn 25 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-30 Mo 15:35]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 25.html
+
+<<verses>>
+
+<<v1>>
+* Die Prügelstrafe: 25,1-3
+
+1 Wenn zwei Männer eine Auseinandersetzung haben, vor Gericht gehen und
+man zwischen ihnen die Entscheidung fällt, indem man dem Recht gibt, der
+im Recht ist, und den schuldig spricht, der schuldig ist,
+
+<<v2>>
+2 dann soll der Richter, falls der Schuldige zu einer Prügelstrafe
+verurteilt wurde, anordnen, dass er sich hinlegt und in seiner Gegenwart
+eine bestimmte Anzahl von Schlägen erhält, wie es seiner Schuld
+entspricht.
+
+<<v3>>
+3 Vierzig Schläge darf er ihm geben lassen, mehr nicht. Sonst könnte
+dein Bruder, wenn man ihm darüber hinaus noch viele Schläge gibt, in
+deinen Augen entehrt werden. [fn:1]\\
+\\
+
+<<v4>>
+* Der Ochse beim Dreschen: 25,4
+
+4 Du sollst dem Ochsen zum Dreschen keinen Maulkorb anlegen. [fn:2]\\
+\\
+
+<<v5>>
+* Die Schwagerehe: 25,5-10
+
+5 Wenn zwei Brüder zusammen wohnen und der eine von ihnen stirbt und
+keinen Sohn hat, soll die Frau des Verstorbenen nicht die Frau eines
+fremden Mannes außerhalb der Familie werden. Ihr Schwager soll sich
+ihrer annehmen, sie heiraten und die Schwagerehe mit ihr vollziehen.[fn:3] [fn:4]
+
+<<v6>>
+6 Der erste Sohn, den sie gebiert, soll den Namen des verstorbenen
+Bruders weiterführen. So soll dessen Name in Israel nicht erlöschen.
+
+<<v7>>
+7 Wenn der Mann aber seine Schwägerin nicht heiraten will und seine
+Schwägerin zu den Ältesten ans Tor hinaufgeht und sagt: Mein Schwager
+will dem Namen seines Bruders in Israel keinen Bestand sichern und hat
+es deshalb abgelehnt, mit mir die Schwagerehe einzugehen!,
+
+<<v8>>
+8 wenn die Ältesten seiner Stadt ihn dann vorladen und zur Rede stellen,
+er aber bei seiner Haltung bleibt und erklärt: Ich will sie nicht
+heiraten!,
+
+<<v9>>
+9 dann soll seine Schwägerin vor den Augen der Ältesten zu ihm
+hintreten, ihm den Schuh vom Fuß ziehen, ihm ins Gesicht spucken und
+ausrufen: So behandelt man einen, der seinem Bruder das Haus nicht baut.
+
+<<v10>>
+10 Ihm soll man in Israel den Namen geben: Barfüßerhaus.\\
+\\
+
+<<v11>>
+* Übergriff beim Streit: 25,11f
+     
+11 Wenn zwei Männer, ein Mann und sein Bruder, miteinander raufen und
+die Frau des einen hinzukommt, um ihren Mann aus der Gewalt des andern,
+der auf ihn einschlägt, zu befreien, und wenn sie die Hand ausstreckt
+und dessen Schamteile ergreift,
+
+<<v12>>
+12 dann sollst du ihr die Hand abhacken. Du sollst in dir kein Mitleid
+aufsteigen lassen. [fn:5]\\
+\\
+
+<<v13>>
+* Falsches Gewicht und Maß: 25,13-16
+
+13 Du sollst in deinem Beutel nicht zwei verschiedene Gewichte haben,
+ein größeres und ein kleineres.
+
+<<v14>>
+14 Du sollst in deinem Haus nicht zwei verschiedene Efa haben, ein
+größeres und ein kleineres.
+
+<<v15>>
+15 Volle und richtige Gewichte sollst du haben, volle und richtige
+Hohlmaße sollst du haben, damit du lange in dem Land lebst, das der
+Herr, dein Gott, dir gibt.
+
+<<v16>>
+16 Denn alle, die so etwas tun, alle Betrüger, sind dem Herrn ein
+Gräuel.\\
+\\
+
+<<v17>>
+* Die Vergeltung an den Amalekitern: 25,17-19
+
+17 Denk daran, was Amalek dir unterwegs angetan hat, als ihr aus Ägypten
+zogt: [fn:6]
+
+<<v18>>
+18 wie er unterwegs auf dich stieß und, als du müde und matt warst, ohne
+jede Gottesfurcht alle erschöpften Nachzügler von hinten niedermachte.
+
+<<v19>>
+19 Wenn der Herr, dein Gott, dir von allen deinen Feinden ringsum Ruhe
+verschafft hat in dem Land, das der Herr, dein Gott, dir als Erbbesitz
+gibt, damit du es in Besitz nimmst, dann lösche die Erinnerung an Amalek
+unter dem Himmel aus! Du sollst nicht vergessen. [fn:7]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/2.Kor_11.org::v24][2 Kor 11,24]]
+
+[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_9.org::v9][1 Kor 9,9]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Tim_5.org::v18][1 Tim 5,18]]
+
+[fn:3] (5-10) [[file:Dtn_19.org::v12][19,12]]; (5-6) [[file:~/RoamNotes/notes/Bibel/nt/Mt_22.org::v24][Mt 22,24]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_12.org::v19][Mk 12,19]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_20.org::v28][Lk 20,28]]
+
+[fn:4] 5-10: Die Schwagerehe war üblich, doch konnte man sie
+verweigern. Das hatte jedoch Rechtsfolgen, die in den Symbolhandlungen
+von VV. 9f deutlich werden. Beim Verkauf eines Grundstücks zog man den
+Schuh aus und gab ihn dem Käufer (vgl. [[file:Rut_4.org::v7][Rut 4,7]]). Wenn die Frau ihrem
+Schwager den Schuh auszieht, entzieht sie ihm den Erbbesitz ihres
+verstorbenen Mannes, der sonst an ihn fiele. Als Frau, der die
+Schwagerehe verweigert wurde, ist sie öffentlich entehrt. Durch Anspeien
+gibt sie die Ehrlosigkeit an den Schuldigen weiter.
+
+[fn:5] [[file:Dtn_19.org::v13][19,13]]
+
+[fn:6] (17-19) [[file:Ex_17.org::v14][Ex 17,14]]; [[file:1.Sam_15.org::v1][1 Sam 15]]
+
+[fn:7] [[file:Dtn_12.org::v10][12,10]]

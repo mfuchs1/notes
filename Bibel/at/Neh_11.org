@@ -1,0 +1,180 @@
+#+TITLE: Neh 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 09:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Neh 11.html
+
+<<verses>>
+
+<<v1>>
+* Die Liste der Einwohner Jerusalems: 11,1-19
+
+1 Die Obersten des Volkes ließen sich in Jerusalem nieder. Die übrigen
+Männer warfen das Los und veranlassten so jeden Zehnten, sich in der
+heiligen Stadt Jerusalem niederzulassen. Neun Zehntel blieben in den
+Landstädten. [fn:1]
+
+<<v2>>
+2 Das Volk aber segnete alle Männer, die sich bereit erklärten, in
+Jerusalem zu wohnen.
+
+<<v3>>
+3 Das sind die Oberhäupter des Bezirks, die in Jerusalem und in den
+Städten Judas wohnten. Alle wohnten in ihren Städten, jeder auf seinem
+Besitz: die Israeliten, die Priester, die Leviten, die Tempeldiener und
+die Nachkommen der Knechte Salomos. [fn:2]
+
+<<v4>>
+4 In Jerusalem wohnten von den Angehörigen der Stämme Juda und Benjamin
+folgende Männer: von den Angehörigen des Stammes Juda: Ataja, der Sohn
+Usijas, des Sohnes Secharjas, des Sohnes Amarjas, des Sohnes Schefatjas,
+des Sohnes Mahalels, von den Nachkommen des Perez;
+
+<<v5>>
+5 ferner Maaseja, der Sohn Baruchs, des Sohnes Kolhoses, des Sohnes
+Hasajas, des Sohnes Adajas, des Sohnes Jojaribs, des Sohnes Secharjas,
+von den Nachkommen Schelas.
+
+<<v6>>
+6 Die Gesamtzahl der Nachkommen des Perez, die in Jerusalem wohnten,
+betrug 468 kriegstüchtige Männer.
+
+<<v7>>
+7 Von den Angehörigen des Stammes Benjamin waren es folgende Männer:
+Sallu, der Sohn Mechullams, des Sohnes Joëds, des Sohnes Pedajas, des
+Sohnes Kolajas, des Sohnes Maasejas, des Sohnes Itiëls, des Sohnes
+Jeschajas,
+
+<<v8>>
+8 und seine Brüder, insgesamt 928 kriegstüchtige Männer. [fn:3]
+
+<<v9>>
+9 Ihr Vorsteher war Joël, der Sohn Sichris; Juda, der Sohn Senuas, stand
+der Stadt als zweiter vor.
+
+<<v10>>
+10 Von den Priestern: Jedaja, Jojarib, Jachin; [fn:4]
+
+<<v11>>
+11 Seraja, der Sohn Hilkijas, des Sohnes Meschullams, des Sohnes Zadoks,
+des Sohnes Merajots, des Sohnes Ahitubs, der Fürst des Hauses Gottes;
+
+<<v12>>
+12 dazu ihre Brüder, die den Dienst im Tempel versahen, insgesamt 822
+Männer; ferner Adaja, der Sohn Jerohams, des Sohnes Pelaljas, des Sohnes
+Amzis, des Sohnes Secharjas, des Sohnes Paschhurs, des Sohnes Malkijas,
+
+<<v13>>
+13 und seine Brüder, 242 Familienoberhäupter; weiter Amaschsai, der Sohn
+Asarels, des Sohnes Achsais, des Sohnes Meschillemots, des Sohnes
+Immers,
+
+<<v14>>
+14 und seine Brüder, 128 kriegstüchtige Männer. Ihr Vorsteher war
+Sabdiël, der Sohn Haggedolims.
+
+<<v15>>
+15 Von den Leviten: Schemaja, der Sohn Haschubs, des Sohnes Asrikams,
+des Sohnes Haschabjas, des Sohnes Bunnis.
+
+<<v16>>
+16 Von den Oberhäuptern der Leviten: Schabbetai und Josabad, die dem
+äußeren Dienst des Hauses Gottes vorstanden.
+
+<<v17>>
+17 Mattanja, der Sohn Michas, des Sohnes Sabdis, des Sohnes Asafs, der
+den Lobgesang leitete und beim Gebet das Danklied anstimmte; Bakbukja
+als zweiter unter seinen Brüdern; ferner Abda, der Sohn Schammuas, des
+Sohnes Galals, des Sohnes Jedutuns.
+
+<<v18>>
+18 Insgesamt wohnten 284 Leviten in der Heiligen Stadt.
+
+<<v19>>
+19 Dazu die Torwächter: Akkub, Talmon und ihre Brüder, die an den Toren
+Wache hielten, insgesamt 172 Männer.\\
+\\
+
+<<v21>>
+* Die Ansiedlungsbestimmungen: 11,20-36
+
+21 Die Tempeldiener wohnten auf dem Ofel. Ziha und Gischpa standen ihnen
+vor. [fn:5]
+
+<<v22>>
+22 Vorsteher der Leviten in Jerusalem war Usi, der Sohn Banis, des
+Sohnes Haschabjas, des Sohnes Mattanjas, des Sohnes Michas, einer der
+Nachkommen Asafs, die nach der Dienstordnung des Hauses Gottes zu singen
+hatten.
+
+<<v23>>
+23 Für sie galt nämlich eine königliche Vorschrift, die bestimmte, was
+die Sänger an den einzelnen Tagen zu singen hatten.
+
+<<v24>>
+24 Petachja, der Sohn Meschesabels, einer der Nachkommen Serachs, des
+Sohnes Judas, stand dem König in allem, was das Volk betraf, zur Seite.
+
+<<v20>>
+20 Die übrigen Israeliten, Priester und Leviten wohnten in den anderen
+Städten Judas, jeder auf seinem Besitztum,
+
+<<v25>>
+25 und in den Gehöften auf ihren Fluren. Angehörige des Stammes Juda
+wohnten in Kirjat-Arba und seinen Tochterstädten, in Dibon und seinen
+Tochterstädten, in Kabzeel und den dazugehörenden Gehöften,
+
+<<v26>>
+26 in Jeschua, Molada und Bet-Pelet,
+
+<<v27>>
+27 in Hazar-Schual sowie in Beerscheba und seinen Tochterstädten,
+
+<<v28>>
+28 in Ziklag sowie in Mechona und seinen Tochterstädten,
+
+<<v29>>
+29 in En-Rimmon, Zora, Jarmut,
+
+<<v30>>
+30 Sanoach, Adullam und den zu ihnen gehörenden Gehöften, in Lachisch
+und seiner Gemarkung sowie in Aseka und seinen Tochterstädten. Sie
+siedelten also von Beerscheba bis zum Hinnomtal.
+
+<<v31>>
+31 Angehörige des Sammes Benjamin wohnten in Geba, Michmas und Aja sowie
+in Bet-El und seinen Tochterstädten,
+
+<<v32>>
+32 ferner in Anatot, Nob, Ananeja,
+
+<<v33>>
+33 Hazor, Rama, Gittajim,
+
+<<v34>>
+34 Hadid, Zeboim, Neballat,
+
+<<v35>>
+35 Lod und Ono und im Tal der Werkleute.
+
+<<v36>>
+36 Von den Leviten kamen einige Abteilungen Judas zu Benjamin.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Neh_7.org::v4][7,4]]
+
+[fn:2] (3-19) [[file:2.Chr_9.org::v2][1 Chr 9,2]]-[[file:2.Chr_9.org::v17][17]]
+
+[fn:3] Text korr.
+
+[fn:4] (10-11) [[file:1.Chr_9.org::v10][1 Chr 9,10f]]
+
+[fn:5] VV. 21-24 passen besser vor V. 20.

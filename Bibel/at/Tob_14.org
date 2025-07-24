@@ -1,0 +1,129 @@
+#+TITLE: Tob 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 20:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 14.html
+
+<<verses>>
+
+<<v1>>
+* Letzte Ermahnungen: 14,1-11
+
+1 So beendete Tobit seinen Lobpreis.
+
+<<v2>>
+2 Er war achtundfünfzig Jahre alt, als er sein Augenlicht verlor; acht
+Jahre später konnte er wieder sehen. Er blieb immer wohltätig und hörte
+nie auf, Gott, den Herrn, zu fürchten und sich zu ihm zu bekennen.
+
+<<v3>>
+3 Er wurde sehr alt. Eines Tages rief er seinen Sohn und dessen Kinder
+zu sich und sagte: Mein Sohn, ich bin alt und werde bald aus dem Leben
+scheiden.
+
+<<v4>>
+4 Zieh mit deinen Kindern nach Medien, mein Sohn; denn ich bin
+überzeugt, dass der Prophet Jona recht hatte, als er sagte, dass Ninive
+ganz zerstört werden wird; in Medien aber wird vorläufig noch Frieden
+herrschen, bis auch für dieses Land die Zeit gekommen ist. Ich bin auch
+überzeugt davon, dass unsere Brüder, die noch in der Heimat leben, aus
+dem gesegneten Land verjagt werden; Jerusalem wird verlassen sein und
+das Haus Gottes wird niedergebrannt werden und verwüstet daliegen, bis
+eine bestimmte Zeit vergangen ist. [fn:1]
+
+<<v5>>
+5 Dann wird Gott Erbarmen mit ihnen haben und sie wieder in die Heimat
+zurückführen. Sie werden den Tempel wieder aufbauen, doch nicht so
+schön, wie der frühere war; er wird stehen, bis die Zeit dieser Welt
+abgelaufen ist. Dann werden alle aus der Gefangenschaft zurückkehren und
+Jerusalem in seiner ganzen Pracht wieder aufbauen. In seiner Mitte wird
+das Haus Gottes errichtet, ein herrlicher Bau, der für alle Zeiten
+Bestand hat bis in Ewigkeit. Das haben die Propheten über Jerusalem
+geweissagt. [fn:2]
+
+<<v6>>
+6 Und alle Völker werden sich dem Herrn, unserem Gott, zuwenden und ihm
+wahre Ehrfurcht entgegenbringen. Man wird die Götterbilder vergraben und
+alle Völker werden den Herrn preisen. [fn:3]
+
+<<v7>>
+7 Sein Volk wird sich zu Gott bekennen und der Herr wird sein Volk groß
+machen. Alle, die den Weg der Wahrheit und Gerechtigkeit gehen, werden
+sich freuen; sie werden Gott, den Herrn, lieben und ihren Brüdern Gutes
+tun.
+
+<<v8>>
+8 Zieh also fort aus Ninive, mein Sohn; denn es wird alles eintreffen,
+was der Prophet Jona gesagt hat.
+
+<<v9>>
+9 Befolge das Gesetz und die Gebote; sei immer barmherzig und gerecht,
+dann wird es dir gut gehen. Begrab mich und deine Mutter in Ehren; gib
+ihr ein Grab an meiner Seite! Doch bleibt nicht länger in Ninive!
+
+<<v10>>
+10 Mein Sohn, denk daran, wie Nadab an Achikar gehandelt hat, der ihn
+aufgezogen hatte; er hat ihn aus dem Licht in die Finsternis gestoßen
+und ihm seine Fürsorge übel vergolten. Achikar wurde gerettet; dem Nadab
+aber wurde sein übles Verhalten vergolten und er stürzte selbst in die
+Finsternis. Achikar war barmherzig und wurde aus der tödlichen Falle
+gerettet, die Nadab ihm gestellt hatte. Nadab aber geriet selber in die
+Falle und ging zugrunde.
+
+<<v11>>
+11 Daran könnt ihr sehen, meine Kinder, dass die Barmherzigkeit viel
+vermag und dass die Gerechtigkeit rettet. Als Tobit das gesagt hatte,
+verstarb er auf seinem Lager. Er war hundertachtundfünfzig Jahre alt
+geworden und Tobias begrub ihn in Ehren.\\
+\\
+
+<<v12>>
+* Abschluss: 14,12-15
+
+12 Als Hanna gestorben war, begrub er sie an der Seite seines Vaters.
+Dann zog er mit seiner Frau und seinen Kindern nach Ekbatana zu seinem
+Schwiegervater Raguël.
+
+<<v13>>
+13 Er war von allen geachtet und erreichte ein hohes Alter. Er begrub
+seine Schwiegereltern in Ehren und erbte ihren Besitz ebenso wie zuvor
+den Besitz seines Vaters Tobit.
+
+<<v14>>
+14 Im Alter von hundertsiebenundzwanzig Jahren starb er in Ekbatana in
+Medien.
+
+<<v15>>
+15 Vor seinem Tod hörte er noch vom Untergang Ninives, das von
+Nebukadnezzar und Xerxes erobert wurde. So konnte er sich noch vor
+seinem Tod über den Fall Ninives freuen. [fn:4]\\
+\\
+
+^{[[#fnm1][1]]} ℘ 
+
+^{[[#fnm2][2]]} ℘ 
+
+^{[[#fnm3][3]]} ℘ 
+
+^{[[#fnm4][4]]} 
+
+* Footnotes
+
+[fn:1] [[file:Jona_3.org::v4][Jona 3,4]]
+
+[fn:2] [[file:Esra_6.org::v14][Esra 6,14]]; [[file:Ez_40.org][Ez 40]] - [[file:Ez_48.org][48]]
+
+[fn:3] [[file:Jes_2.org::v2][Jes 2,2]]-[[file:Jes_2.org::v4][4]]
+
+[fn:4] Die Eroberung Ninives erfolgte 612 v. Chr. Als der
+Perserkönig Xerxes I. (486-465 v. Chr.) regierte, gehörte Ninive schon
+längst der Vergangenheit an. Die historisch widersprüchlichen Angaben
+(vgl. die Einleitung) haben gleichnishaften Sinn: Sie erklären sich aus
+der Situation des Erzählers, der die Weltmacht Assur mittlerweile durch
+die Weltmächte Babel und Persien abgelöst sah.

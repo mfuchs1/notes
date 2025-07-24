@@ -1,0 +1,180 @@
+#+TITLE: Spr 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-25 So 22:56]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 17.html
+
+* Spr 17
+
+<<verses>>
+
+<<v1>>
+1 Besser ein trockenes Stück Brot und Ruhe dabei /\\
+ als ein Haus voll Braten und dabei Streit. [fn:1]\\
+\\
+
+<<v2>>
+2 Ein kluger Knecht wird Herr über einen missratenen Sohn /\\
+ und mit den Brüdern teilt er das Erbe.\\
+\\
+
+<<v3>>
+3 Der Schmelztiegel ist für Silber da, der Ofen für Gold, /\\
+ die Herzen aber prüft der Herr. [fn:2]\\
+\\
+
+<<v4>>
+4 Der Übeltäter achtet auf böse Lippen, /\\
+ der Lügner horcht hin auf eine verderbte Zunge.\\
+\\
+
+<<v5>>
+5 Wer den Armen verspottet, schmäht dessen Schöpfer, /\\
+ wer sich über ein Unglück freut, bleibt nicht ungestraft. [fn:3]\\
+\\
+
+<<v6>>
+6 Eine Krone der Alten sind Kindeskinder, /\\
+ der Kinder Ruhm sind ihre Väter.\\
+\\
+
+<<v7>>
+7 Dem Toren stehen hochtönende Worte nicht an, /\\
+ noch viel weniger dem Edlen die Sprache der Lüge.\\
+\\
+
+<<v8>>
+8 Bestechungsgeld ist ein Zauberstein in den Augen des Gebers; /\\
+ wohin er sich wendet, hat er Erfolg. [fn:4]\\
+\\
+
+<<v9>>
+9 Wer Fehler zudeckt, sucht Freundschaft; /\\
+ wer eine Sache weiterträgt, trennt Freunde.\\
+\\
+
+<<v10>>
+10 Tadel erschüttert einen Verständigen mehr /\\
+ als hundert Schläge einen Toren.\\
+\\
+
+<<v11>>
+11 Der Böse trachtet nach Aufruhr, /\\
+ aber ein strenger Gerichtsbote wird gegen ihn ausgesandt.\\
+\\
+
+<<v12>>
+12 Lieber einer Bärin begegnen, der man die Jungen geraubt hat, /\\
+ als einem Toren in seinem Unverstand.\\
+\\
+
+<<v13>>
+13 Vergilt einer Gutes mit Bösem, /\\
+ weicht das Unheil nicht von seinem Haus.\\
+\\
+
+<<v14>>
+14 Wer Streit anfängt, entfesselt eine Wasserflut, /\\
+ drum halt ein, ehe der Zank ausbricht.\\
+\\
+
+<<v15>>
+15 Wer Schuldige freispricht /\\
+ und wer Unschuldige verurteilt, /\\
+ beide sind dem Herrn ein Gräuel.\\
+\\
+
+<<v16>>
+16 Wozu denn Geld in der Hand des Toren? /\\
+ Etwa um Weisheit zu kaufen, da ihm doch der Verstand fehlt?\\
+\\
+
+<<v17>>
+17 Der Freund erweist zu jeder Zeit Liebe, /\\
+ als Bruder für die Not ist er geboren. [fn:5]\\
+\\
+
+<<v18>>
+18 Ohne Verstand ist, wer Handschlag leistet, /\\
+ wer Bürgschaft übernimmt für einen andern. [fn:6]\\
+\\
+
+<<v19>>
+19 Verbrechen liebt, wer Streit liebt; /\\
+ wer seine Tür zu hoch macht, will den Einsturz.\\
+\\
+
+<<v20>>
+20 Wer ein unaufrichtiges Herz hat, findet kein Glück, /\\
+ wer sich beim Reden verstellt, stürzt ins Unheil.\\
+\\
+
+<<v21>>
+21 Wer einen Toren zeugt, dem bringt es Gram; /\\
+ der Vater eines Narren kann sich nicht freuen.\\
+\\
+
+<<v22>>
+22 Ein fröhliches Herz tut dem Leib wohl, /\\
+ ein bedrücktes Gemüt lässt die Glieder verdorren.\\
+\\
+
+<<v23>>
+23 Bestechung aus dem Gewandbausch nimmt der Frevler an, /\\
+ um die Pfade des Rechts zu verkehren. [fn:7] [fn:8]\\
+\\
+
+<<v24>>
+24 Vor dem Blick des Verständigen steht Weisheit, /\\
+ doch die Augen des Toren schweifen bis ans Ende der Erde.\\
+\\
+
+<<v25>>
+25 Ein törichter Sohn bereitet seinem Vater Verdruss /\\
+ und Kummer seiner Mutter, die ihn geboren hat. [fn:9]\\
+\\
+
+<<v26>>
+26 Schon eine Geldstrafe für den Unschuldigen ist nicht gut, /\\
+ aber Edle schlagen zu lassen ist gegen das Recht.\\
+\\
+
+<<v27>>
+27 Wer sich zurückhält beim Reden hat tiefe Einsicht, /\\
+ wer kühl überlegt, ist ein verständiger Mann. [fn:10]\\
+\\
+
+<<v28>>
+28 Auch ein Tor kann als weise gelten, wenn er schweigt, /\\
+ als einsichtig, wenn er seine Lippen verschließt.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Spr_15.org::v16][15,16f]]
+
+[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_1.org::v7][1 Petr 1,7]]
+
+[fn:3] [[file:Spr_14.org::v31][14,31]]
+
+[fn:4] [[file:Spr_18.org::v16][18,16]]
+
+[fn:5] [[file:Spr_18.org::v24][18,24]]; [[file:Sir_37.org::v5][Sir 37,5]]
+
+[fn:6] [[file:Spr_6.org::v1][6,1-5]]
+
+[fn:7] [[file:Spr_21.org::v14][21,14]]
+
+[fn:8] 23a: Die bauschigen Falten des Gewands über der Brust
+dienten als Tasche.
+
+[fn:9] [[file:Spr_19.org::v13][19,13]]; [[file:Sir_16.org::v1][Sir 16,1-3]]
+
+[fn:10] [[file:Spr_20.org::v6][Sir 20,6-8]]

@@ -1,0 +1,113 @@
+#+TITLE: Ex 27 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 23:39]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 27.html
+
+* Ex 27
+<<verses>>
+
+<<v1>>
+1 Dann mach aus Akazienholz den Altar, fünf Ellen lang und fünf Ellen
+breit - der Altar soll also quadratisch sein - und drei Ellen hoch. [fn:1]
+
+<<v2>>
+2 Mach ihm Hörner an seinen vier Ecken - seine Hörner sollen mit ihm ein
+Ganzes bilden - und überzieh ihn mit Kupfer!
+
+<<v3>>
+3 Stell auch die Gefäße her für seine Fett-Asche, seine Schaufeln und
+Schalen, seine Gabeln und Feuerpfannen! Alle seine Geräte sollst du aus
+Kupfer herstellen.
+
+<<v4>>
+4 Mach für den Altar ein Gitterwerk, ein Netzgitter aus Kupfer, und
+befestige am Netzgitter vier Kupferringe, und zwar an seinen vier Enden!
+
+<<v5>>
+5 Bring das Gitterwerk unterhalb der Altareinfassung unten an! Das
+Netzgitter soll bis zur Mitte des Altars reichen.
+
+<<v6>>
+6 Verfertige für den Altar Stangen - Stangen aus Akazienholz - und
+überzieh sie mit Kupfer!
+
+<<v7>>
+7 Man soll die Stangen in die Ringe stecken, und zwar sollen die Stangen
+an beiden Seiten des Altars angebracht sein, wenn man ihn trägt.
+
+<<v8>>
+8 Mach ihn hohl, aus Brettern! Wie man es dir auf dem Berg gezeigt hat,
+so soll man es ausführen.
+
+<<v9>>
+9 Dann mach den Vorhof der Wohnstätte: für die Südseite die Behänge des
+Vorhofs aus gezwirntem Byssus, hundert Ellen lang für eine Seite, [fn:2]
+
+<<v10>>
+10 seine zwanzig Säulen und deren zwanzig Sockel aus Kupfer, die Nägel
+der Säulen und deren Querstangen aus Silber;
+
+<<v11>>
+11 ebenso für die nördliche Längsseite Behänge, hundert Ellen lang, ihre
+zwanzig Säulen und deren zwanzig Sockel aus Kupfer, die Nägel der Säulen
+und deren Querstangen aus Silber;
+
+<<v12>>
+12 für die Breitseite des Vorhofs im Westen Behänge von fünfzig Ellen,
+ihre zehn Säulen und deren Sockel.
+
+<<v13>>
+13 Der Vorhof an der Ostseite soll fünfzig Ellen breit sein,
+
+<<v14>>
+14 und zwar fünfzehn Ellen Behänge für die eine Seitenwand mit ihren
+drei Säulen und deren drei Sockel;
+
+<<v15>>
+15 für die andere Seitenwand ebenso fünfzehn Ellen Behänge mit ihren
+drei Säulen und deren drei Sockel;
+
+<<v16>>
+16 für das Tor des Vorhofs als Buntwirkerarbeit einen Vorhang von
+zwanzig Ellen aus violettem und rotem Purpur, Karmesin und gezwirntem
+Byssus, mit ihren vier Säulen und deren vier Sockeln;
+
+<<v17>>
+17 alle Säulen des Vorhofs ringsum mit Querstangen aus Silber sowie ihre
+Nägel aus Silber und ihre Sockel aus Kupfer.
+
+<<v18>>
+18 Der Vorhof soll hundert Ellen lang, fünfzig Ellen breit und fünf
+Ellen hoch sein, die Behänge aus gezwirntem Byssus, ihre Sockel aus
+Kupfer.
+
+<<v19>>
+19 Alle Geräte der Wohnstätte, die darin zu irgendeinem Dienst verwendet
+werden, alle ihre Zeltpflöcke und alle Zeltpflöcke des Vorhofs sollen
+aus Kupfer sein.
+
+<<v20>>
+20 Du aber befiehl den Israeliten, dass sie dir reines Öl aus gestoßenen
+Oliven für den Leuchter liefern, damit immer Licht brennt. [fn:3]
+
+<<v21>>
+21 Im Offenbarungszelt außerhalb des Vorhangs vor der Bundesurkunde
+sollen es Aaron und seine Söhne zurichten; es soll vom Abend bis zum
+Morgen vor dem Herrn brennen, als eine ständig eingehaltene
+Verpflichtung bei den Israeliten von Generation zu Generation.\\
+
+
+* Footnotes
+
+[fn:1] (1-8) 38,1-7
+
+[fn:2] (9-19) 38,9-20
+
+[fn:3] (20-21) Lev 24,2f

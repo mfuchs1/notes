@@ -1,0 +1,211 @@
+#+TITLE: Jdt 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 8.html
+
+<<verses>>
+
+<<v1>>
+* Die Rettung des Gottesvolkes: 8,1 - 16,25
+
+* Herkunft und Leben der Judit: 8,1-8
+
+1 Davon hörte in jenen Tagen Judit, die Tochter Meraris, des Sohnes des
+Uz, des Sohnes Josefs, des Sohnes Usiëls, des Sohnes Hilkijas, des
+Sohnes Hananjas, des Sohnes Gideons, des Sohnes Rafains, des Sohnes
+Ahitubs, des Sohnes Elijas, des Sohnes Hilkijas, des Sohnes Eliabs, des
+Sohnes Natanaels, des Sohnes Schelumiëls, des Sohnes Zurischaddais, des
+Sohnes Simeons, des Sohnes Israels. [fn:1]
+
+<<v2>>
+2 Ihr Mann Manasse, der aus ihrem Stamm und ihrer Sippe war, hatte zur
+Zeit der Gerstenernte den Tod gefunden.
+
+<<v3>>
+3 Als er nämlich bei den Garbenbindern auf dem Feld stand, traf ihn ein
+Hitzschlag; er musste sich zu Bett legen und starb in seiner Heimatstadt
+Betulia. Man begrub ihn bei seinen Vätern auf dem Feld zwischen Dotan
+und Jibleam.
+
+<<v4>>
+4 Nun lebte Judit schon drei Jahre und vier Monate als Witwe in ihrem
+Haus.
+
+<<v5>>
+5 Sie hatte für sich auf dem flachen Dach ihres Hauses ein Zelt
+aufstellen lassen, hatte ein Trauergewand angelegt und trug die Kleider
+einer Witwe.
+
+<<v6>>
+6 Sie fastete, seit sie Witwe war, alle Tage, außer am Sabbat und am
+Vortag des Sabbats, am Neumond und am Vortag des Neumonds und an den
+Festen und Freudentagen des Hauses Israel.
+
+<<v7>>
+7 Sie hatte eine schöne Gestalt und ein blühendes Aussehen. Ihr Gatte
+Manasse hatte ihr Gold und Silber, Knechte und Mägde, Vieh und Felder
+hinterlassen, die sie in ihrem Besitz hielt.
+
+<<v8>>
+8 Niemand konnte ihr etwas Böses nachsagen, denn sie war sehr
+gottesfürchtig.\\
+\\
+
+<<v9>>
+* Judits Stellung zur Verzweiflung der Bewohner: 8,9-10
+
+9 Judit hörte von den Vorwürfen des Volkes gegen das Stadtoberhaupt, als
+es wegen des Wassermangels den Mut verlor. Ebenso erfuhr sie, was Usija
+den Leuten geantwortet hatte und dass er ihnen unter Eid versprochen
+hatte, nach Ablauf von fünf Tagen die Stadt an die Assyrer auszuliefern.
+
+<<v10>>
+10 Da ließ sie durch ihre Dienerin, die ihrem ganzen Hauswesen vorstand,
+die Ältesten ihrer Heimatstadt, Kabri und Karmi, herbeiholen.\\
+\\
+
+<<v11>>
+* Judits Gespräch mit den Ältesten der Stadt: 8,11-36
+
+11 Als sie zu ihr kamen, sagte sie zu ihnen: Hört mich an, ihr Vorsteher
+der Einwohner von Betulia! Es war nicht recht, was ihr heute vor dem
+Volk gesagt habt. Durch diesen Eid, den ihr geschworen habt, habt ihr
+Gott und euch selbst festgelegt; denn ihr habt erklärt, dass ihr die
+Stadt unseren Feinden ausliefern wollt, wenn der Herr euch nicht
+inzwischen Hilfe schickt.
+
+<<v12>>
+12 Wer seid ihr denn, dass ihr am heutigen Tag Gott auf die Probe stellt
+und euch vor allen Leuten an die Stelle Gottes setzt?
+
+<<v13>>
+13 Ihr wollt den Herrn, den Allmächtigen, auf die Probe stellen und
+kommt doch ewig zu keiner Erkenntnis.
+
+<<v14>>
+14 Nicht einmal die Tiefe des Menschenherzens könnt ihr ergründen und
+die Gedanken seines Geistes erfassen. Wie wollt ihr dann Gott
+erforschen, der das alles geschaffen hat? Wie wollt ihr seine Gedanken
+erkennen und seine Absichten verstehen? Nein, meine Brüder, reizt den
+Herrn, unseren Gott, nicht zum Zorn!
+
+<<v15>>
+15 Auch wenn er nicht gewillt ist, uns in diesen fünf Tagen Hilfe zu
+schaffen, so hat doch er zu bestimmen, zu welcher Zeit er uns helfen
+oder uns vor den Augen unserer Feinde vernichten will.
+
+<<v16>>
+16 Versucht nicht, die Entscheidungen des Herrn, unseres Gottes, zu
+erzwingen; denn Gott ist nicht wie ein Mensch, dem man drohen kann, und
+wie ein Menschenkind, das man beeinflussen kann. [fn:2]
+
+<<v17>>
+17 Darum wollen wir die Rettung von ihm erwarten und ihn um Hilfe
+anrufen. Er wird unser Flehen erhören, wenn es seinem Willen entspricht.
+
+<<v18>>
+18 Denn eines gab es bei uns nicht und gibt es auch heute nicht: Es gibt
+weder einen Stamm noch eine Familie, weder einen Gau noch eine Stadt,
+die von Menschen gemachte Götter anbeten, wie es in früherer Zeit
+geschah.
+
+<<v19>>
+19 Damals wurden unsere Väter dem Schwert und der Plünderung
+preisgegeben und mussten vor den Augen unserer Feinde schwere
+Niederlagen erleiden.
+
+<<v20>>
+20 Wir aber kennen keinen anderen Gott als ihn allein. Daher dürfen wir
+hoffen, dass er uns und unser Volk nicht im Stich lassen wird.
+
+<<v21>>
+21 Wenn wir nämlich überwältigt werden, dann wird auch ganz Judäa
+erobert und unser Heiligtum geplündert werden. Von uns aber wird Gott
+für die Entweihung des Heiligtums blutige Rechenschaft fordern.
+
+<<v22>>
+22 Uns wird er die Ermordung unserer Brüder, die Entvölkerung des
+Landes, die Verwüstung unseres Erbbesitzes zur Last legen, inmitten der
+Heiden, bei denen wir als Sklaven dienen und unseren Herren Anlass zu
+Spott und Verachtung sein werden.
+
+<<v23>>
+23 Unsere Knechtschaft wird dann nicht mehr zum Guten gewendet werden,
+sondern der Herr, unser Gott, wird sie für uns zur Schande werden
+lassen.
+
+<<v24>>
+24 Daher, liebe Brüder, wollen wir jetzt unseren Stammesbrüdern
+beweisen, dass wir für ihr Leben einstehen und dass das Heiligtum, der
+Tempel und der Altar, sich auf uns verlassen können.
+
+<<v25>>
+25 Bei alldem aber lasst uns dem Herrn, unserem Gott, danken, dass er
+uns ebenso prüft wie schon unsere Väter.
+
+<<v26>>
+26 Denkt daran, was er mit Abraham machte, wie er Isaak prüfte und was
+Jakob im syrischen Mesopotamien erlebte, als er die Schafe Labans, des
+Bruders seiner Mutter, hütete.
+
+<<v27>>
+27 Denn wie er diese Männer im Feuer geläutert hat, um ihr Herz zu
+prüfen, so hat er auch mit uns kein Strafgericht vor, sondern der Herr
+züchtigt seine Freunde, um sie zur Einsicht zu führen. [fn:3]
+
+<<v28>>
+28 Da sagte Usija zu ihr: Alles, was du gesagt hast, kam aus einem edlen
+Herzen und es gibt niemand, der deinen Worten widersprechen kann.
+
+<<v29>>
+29 Deine Weisheit wird ja nicht erst heute offenbar, sondern schon von
+deiner frühesten Jugend an kennt das ganze Volk deine Einsicht und weiß,
+wie edel die Gedanken deines Herzens sind.
+
+<<v30>>
+30 Aber das Volk leidet furchtbaren Durst; sie zwangen uns zu tun, was
+wir ihnen versprochen haben, und einen Eid auf uns zu laden, den wir
+nicht brechen dürfen.
+
+<<v31>>
+31 Doch bete du jetzt für uns, denn du bist eine gottesfürchtige Frau.
+Dann wird der Herr Regen schicken, um unsere Zisternen zu füllen, und
+wir brauchen nicht zu verschmachten.
+
+<<v32>>
+32 Da sagte Judit zu ihnen: Hört mich an! Ich will eine Tat vollbringen,
+von der man noch in fernsten Zeiten den Kindern unseres Volkes erzählen
+wird.
+
+<<v33>>
+33 Kommt diese Nacht an das Tor, wenn ich mit meiner Dienerin
+hinausgehe. Bevor die Frist abgelaufen ist, die ihr für die Übergabe der
+Stadt an unsere Feinde gesetzt habt, wird der Herr durch meine Hand
+Israel gnädig Hilfe bringen.
+
+<<v34>>
+34 Fragt nicht nach meinem Vorhaben; denn ich werde euch nichts
+mitteilen, bevor das vollendet ist, was ich tun will.
+
+<<v35>>
+35 Da sagten Usija und die Stadtältesten zu ihr: Geh in Frieden! Gott,
+der Herr, sei dein Führer bei dem Strafgericht an unseren Feinden.
+
+<<v36>>
+36 Dann verließen sie das Zelt und kehrten auf ihre Posten zurück.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Num_1.org::v6][Num 1,6]]; [[file:Num_2.org::v12][2,12]]
+
+[fn:2] [[file:Num_23.org::v19][Num 23,19]]
+
+[fn:3] [[file:Dtn_8.org::v16][Dtn 8,16]]; [[file:Jer_10.org::v24][Jer 10,24]]; [[file:Weish_3.org::v1][Weish 3,1]]-[[file:Weish_3.org::v10][10]]

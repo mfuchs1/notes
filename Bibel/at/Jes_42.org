@@ -1,0 +1,226 @@
+:PROPERTIES:
+:ID:       4b6d1675-f8fb-4784-a5ae-6cf99ad4ee3d
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_40.html][40]] [[file:Jes_41.html][41]] *42*
+[[file:Jes_43.html][43]] [[file:Jes_44.html][44]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 42
+  :PROPERTIES:
+  :CUSTOM_ID: jes-42
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Das erste Lied vom Gottesknecht: 42,1-9
+   :PROPERTIES:
+   :CUSTOM_ID: das-erste-lied-vom-gottesknecht-421-9
+   :END:
+1 Seht, das ist mein Knecht, den ich stütze; /\\
+ das ist mein Erwählter, an ihm finde ich Gefallen. Ich habe meinen
+Geist auf ihn gelegt, /\\
+ er bringt den Völkern das Recht. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Er schreit nicht und lärmt nicht /\\
+ und lässt seine Stimme nicht auf der Straße erschallen.\\
+\\
+
+<<v3>>
+3 Das geknickte Rohr zerbricht er nicht /\\
+ und den glimmenden Docht löscht er nicht aus; /\\
+ ja, er bringt wirklich das Recht.\\
+\\
+
+<<v4>>
+4 Er wird nicht müde und bricht nicht zusammen, /\\
+ bis er auf der Erde das Recht begründet hat. /\\
+ Auf sein Gesetz warten die Inseln. ^{[[#fn2][2]]}\\
+\\
+
+<<v5>>
+5 So spricht Gott, der Herr, /\\
+ der den Himmel erschaffen und ausgespannt hat, /\\
+ der die Erde gemacht hat und alles, was auf ihr wächst, der den
+Menschen auf der Erde den Atem verleiht /\\
+ und allen, die auf ihr leben, den Geist:\\
+\\
+
+<<v6>>
+6 Ich, der Herr, habe dich aus Gerechtigkeit gerufen, /\\
+ ich fasse dich an der Hand. Ich habe dich geschaffen und dazu bestimmt,
+/\\
+ der Bund für mein Volk /\\
+ und das Licht für die Völker zu sein: ^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+<<v7>>
+7 blinde Augen zu öffnen, /\\
+ Gefangene aus dem Kerker zu holen und alle, die im Dunkel sitzen, /\\
+ aus ihrer Haft zu befreien.\\
+\\
+
+<<v8>>
+8 Ich bin Jahwe, das ist mein Name; /\\
+ ich überlasse die Ehre, die mir gebührt, keinem andern, /\\
+ meinen Ruhm nicht den Götzen. ^{[[#fn5][5]]}\\
+\\
+
+<<v9>>
+9 Seht, das Frühere ist eingetroffen, /\\
+ Neues kündige ich an. Noch ehe es zum Vorschein kommt, /\\
+ mache ich es euch bekannt. ^{[[#fn6][6]]}\\
+\\
+
+<<v10>>
+** Verheißung des Auszugs aus Babel: 42,10 - 44,23
+   :PROPERTIES:
+   :CUSTOM_ID: verheißung-des-auszugs-aus-babel-4210---4423
+   :END:
+**** Der Sieg Gottes: 42,10-17
+     :PROPERTIES:
+     :CUSTOM_ID: der-sieg-gottes-4210-17
+     :END:
+10 Singt dem Herrn ein neues Lied, /\\
+ verkündet seinen Ruhm bis ans Ende der Erde! Es jauchze das Meer und
+alles, was es erfüllt, /\\
+ die Inseln und ihre Bewohner. ^{[[#fn7][7]][[#fn8][8]]}\\
+\\
+
+<<v11>>
+11 Die Wüste und ihre Städte sollen sich freuen, /\\
+ die Dörfer, die Kedar bewohnt. Die Bewohner von Sela sollen singen vor
+Freude /\\
+ und jubeln auf den Gipfeln der Berge. ^{[[#fn9][9]]}\\
+\\
+
+<<v12>>
+12 Sie sollen die Herrlichkeit des Herrn verkünden, /\\
+ seinen Ruhm auf den Inseln verbreiten.\\
+\\
+
+<<v13>>
+13 Der Herr zieht in den Kampf wie ein Held, /\\
+ er entfacht seine Leidenschaft wie ein Krieger. Er erhebt den
+Schlachtruf und schreit, /\\
+ er zeigt sich als Held gegenüber den Feinden.\\
+\\
+
+<<v14>>
+14 Ich hatte sehr lange geschwiegen, /\\
+ ich war still und hielt mich zurück. Wie eine Gebärende will ich nun
+schreien, /\\
+ ich schnaube und schnaufe.\\
+\\
+
+<<v15>>
+15 Die Berge und Hügel dörre ich aus /\\
+ und lasse ihr Gras völlig vertrocknen. Flüsse mache ich zu festem Boden
+/\\
+ und Teiche lege ich trocken.\\
+\\
+
+<<v16>>
+16 Blinde führe ich auf Wegen, die sie nicht kennen, /\\
+ auf unbekannten Pfaden lasse ich sie wandern. Die Finsternis vor ihren
+Augen mache ich zu Licht; /\\
+ was krumm ist, mache ich gerade. Das sind die Taten, die ich
+vollbrachte, /\\
+ und ich lasse davon nicht mehr ab. ^{[[#fn10][10]]}\\
+\\
+
+<<v17>>
+17 Alle müssen weichen und werden beschämt, /\\
+ die auf Götzenbilder vertrauen, die zu gegossenen Bildern sagen: /\\
+ Ihr seid unsere Götter. ^{[[#fn11][11]]}\\
+\\
+
+<<v18>>
+**** Israel, der blinde und taube Knecht Gottes: 42,18-25
+     :PROPERTIES:
+     :CUSTOM_ID: israel-der-blinde-und-taube-knecht-gottes-4218-25
+     :END:
+18 Ihr, die ihr taub seid, hört, /\\
+ ihr Blinden, blickt auf und seht her!\\
+\\
+
+<<v19>>
+19 Wer ist so blind wie mein Knecht /\\
+ und so taub wie der Bote, den ich sende? Wer ist so blind wie mein
+Vertrauter /\\
+ und so taub wie der Knecht des Herrn? ^{[[#fn12][12]]}\\
+\\
+
+<<v20>>
+20 Vieles sieht er, aber er beachtet es nicht; /\\
+ die Ohren hat er offen und hört doch nicht. ^{[[#fn13][13]]}\\
+\\
+
+<<v21>>
+21 Der Herr hatte um seiner Gerechtigkeit willen beschlossen, /\\
+ das Gesetz groß und herrlich zu machen.\\
+\\
+
+<<v22>>
+22 Doch jetzt sind sie ein beraubtes, ausgeplündertes Volk; /\\
+ alle sind in den Kerker geworfen, ins Gefängnis gesperrt. Sie wurden
+als Beute verschleppt /\\
+ und kein Retter war da; sie wurden ausgeplündert und niemand sagte: /\\
+ Gib es zurück! ^{[[#fn14][14]]}\\
+\\
+
+<<v23>>
+23 Wer von euch vernimmt diese Worte, /\\
+ wer merkt auf und hört künftig darauf?\\
+\\
+
+<<v24>>
+24 Wer lieferte Jakob den Plünderern aus /\\
+ und Israel den Räubern? Hat nicht der Herr es getan, /\\
+ gegen den wir gesündigt hatten? Sie wollten nicht auf seinen Wegen
+gehen, /\\
+ sie hörten nicht auf sein Gesetz.\\
+\\
+
+<<v25>>
+25 Da goss er über sie seinen glühenden Zorn aus /\\
+ und den Schrecken des Krieges: Ringsum hat er sie umlodert, /\\
+ doch sie merkten es nicht; du hast sie in Brand gesetzt, /\\
+ doch sie nahmen es sich nicht zu Herzen.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Mt 12,18-21; 3,17; Jes 51,4
+
+^{[[#fnm2][2]]} ℘ 51,4
+
+^{[[#fnm3][3]]} ℘ 41,9; 49,6.8; Lk 2,32
+
+^{[[#fnm4][4]]} Im Gottesknecht soll sich die Bundeszusage für das Volk
+Gottes erfüllen.
+
+^{[[#fnm5][5]]} ℘ 48,11
+
+^{[[#fnm6][6]]} ℘ 48,6
+
+^{[[#fnm7][7]]} ℘ Ps 33,3
+
+^{[[#fnm8][8]]} Es jauchze: Text korr.
+
+^{[[#fnm9][9]]} sollen sich freuen: H: sollen (ihre Stimme) erheben.
+
+^{[[#fnm10][10]]} ℘ 40,4
+
+^{[[#fnm11][11]]} ℘ Ps 97,7
+
+^{[[#fnm12][12]]} mein Vertrauter: Bedeutung des Wortes in H unklar.
+
+^{[[#fnm13][13]]} ℘ 6,9
+
+^{[[#fnm14][14]]} in den Kerker geworfen, wörtlich: gebunden in Löchern.

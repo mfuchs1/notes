@@ -1,0 +1,154 @@
+#+TITLE: Spr 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-23 Fr 17:53]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 13.html
+
+* Spr 13
+
+<<verses>>
+
+<<v1>>
+1 Ein weiser Sohn ist die Frucht der Erziehung des Vaters, /\\
+ der zuchtlose aber hört nicht auf Mahnung.\\
+\\
+
+<<v2>>
+2 Von der Frucht seiner Worte zehrt der Gute, /\\
+ aber die Verräter begehren Gewalttat.\\
+\\
+
+<<v3>>
+3 Wer seine Lippen hütet, bewahrt sein Leben, /\\
+ wer seinen Mund aufreißt, den trifft Verderben.\\
+\\
+
+<<v4>>
+4 Das Verlangen des Faulen regt sich vergebens, /\\
+ das Verlangen der Fleißigen wird befriedigt.\\
+\\
+
+<<v5>>
+5 Verlogene Worte hasst der Gerechte, /\\
+ der Frevler handelt schändlich und schimpflich.\\
+\\
+
+<<v6>>
+6 Gerechtigkeit behütet den Schuldlosen auf seinem Weg, /\\
+ Frevler bringt die Sünde zu Fall.\\
+\\
+
+<<v7>>
+7 Mancher stellt sich reich und hat doch nichts, /\\
+ ein anderer stellt sich arm und hat großen Besitz.\\
+\\
+
+<<v8>>
+8 Der Reichtum eines Mannes ist das Lösegeld für sein Leben, /\\
+ der Arme jedoch hört nichts von Loskauf.\\
+\\
+
+<<v9>>
+9 Das Licht der Gerechten strahlt auf, /\\
+ die Lampe der Frevler erlischt.\\
+\\
+
+<<v10>>
+10 Der Leichtsinnige stiftet aus Übermut Zank, /\\
+ doch wer sich beraten lässt, der ist klug.\\
+\\
+
+<<v11>>
+11 Schnell errafftes Gut schwindet schnell, /\\
+ wer Stück für Stück sammelt, wird reich.\\
+\\
+
+<<v12>>
+12 Hingehaltene Hoffnung macht das Herz krank, /\\
+ erfülltes Verlangen ist ein Lebensbaum.\\
+\\
+
+<<v13>>
+13 Wer gute Worte missachtet, erleidet Schaden, /\\
+ wer Ehrfurcht hat vor dem Gebot, bleibt unversehrt. [fn:1]\\
+\\
+
+<<v14>>
+14 Die Lehre des Weisen ist ein Lebensquell, /\\
+ um den Schlingen des Todes zu entgehen. [fn:2]\\
+\\
+
+<<v15>>
+15 Rechte Einsicht bringt Gunst, /\\
+ aber den Verrätern bringt ihr Verhalten den Untergang.\\
+\\
+
+<<v16>>
+16 Der Kluge tut alles mit Überlegung, /\\
+ der Tor verbreitet nur Dummheit.\\
+\\
+
+<<v17>>
+17 Ein gewissenloser Bote richtet Unheil an, /\\
+ ein zuverlässiger Bote bringt Heilung.\\
+\\
+
+<<v18>>
+18 Armut und Schande erntet ein Verächter der Zucht, /\\
+ doch wer Tadel beherzigt, wird geehrt.\\
+\\
+
+<<v19>>
+19 Ein erfüllter Wunsch tut dem Herzen wohl, /\\
+ vom Bösen zu lassen ist dem Toren ein Gräuel.\\
+\\
+
+<<v20>>
+20 Wer mit Weisen unterwegs ist, wird weise, /\\
+ wer mit Toren verkehrt, dem geht es übel.\\
+\\
+
+<<v21>>
+21 Unglück verfolgt die Sünder, /\\
+ den Gerechten wird mit Gutem vergolten.\\
+\\
+
+<<v22>>
+22 Der Gute hinterlässt seinen Enkeln das Erbe, /\\
+ der Besitz des Sünders wird für den Gerechten aufgespart. [fn:3]\\
+\\
+
+<<v23>>
+23 In der Hand der Vornehmen ist reichlich Nahrung, /\\
+ der Arme wird zu Unrecht dahingerafft. [fn:4]\\
+\\
+
+<<v24>>
+24 Wer die Rute spart, hasst seinen Sohn, /\\
+ wer ihn liebt, nimmt ihn früh in Zucht. [fn:5]\\
+\\
+
+<<v25>>
+25 Der Gerechte hat zu essen, bis sein Hunger gestillt ist, /\\
+ der Bauch der Frevler aber muss darben.\\
+\\
+
+* Footnotes
+
+[fn:1] Vg schiebt hier (G hinter V. 9) ein: Trügerische Seelen
+irren in Sünden; die Gerechten aber haben Mitleid und Erbarmen.
+
+[fn:2] [[file:Spr_14.org::v27][14,27]]
+
+[fn:3] [[file:Ijob_27.org::v13][Ijob 27,13-17]]
+
+[fn:4] Text unsicher.
+
+[fn:5] [[file:Spr_29.org::v17][29,17]]

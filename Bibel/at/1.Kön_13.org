@@ -1,0 +1,195 @@
+#+TITLE: 1 Kön 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-15 Mi 12:29]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 13.html
+
+<<verses>>
+
+<<v1>>
+* Der ungehorsame Gottesmann: 13,1-34
+
+1 Während Jerobeam am Altar stand, um zu opfern, kam ein Gottesmann aus
+Juda im Auftrag des Herrn nach Bet-El.
+
+<<v2>>
+2 Er rief im Auftrag des Herrn gegen den Altar: Altar, Altar! So spricht
+der Herr: Dem Haus David wird ein Sohn geboren mit Namen Joschija.
+Dieser wird auf dir die Höhenpriester hinschlachten, die auf dir opfern,
+und die Gebeine von Menschen wird man auf dir verbrennen. [fn:1]
+
+<<v3>>
+3 Er gab an jenem Tag auch ein Zeichen und sprach: Das ist das Zeichen
+dafür, dass der Herr gesprochen hat: Der Altar wird zerbersten und die
+Asche auf ihm wird zerstreut werden.
+
+<<v4>>
+4 Als der König die Worte hörte, die der Gottesmann gegen den Altar in
+Bet-El ausrief, streckte er am Altar seine Hand aus und befahl: Nehmt
+ihn fest! Doch die Hand, die er gegen ihn ausgestreckt hatte, erstarrte;
+er konnte sie nicht mehr zurückziehen.
+
+<<v5>>
+5 Der Altar aber zerbarst und die Asche auf ihm wurde zerstreut, wie es
+der Gottesmann im Auftrag des Herrn als Zeichen verkündet hatte.
+
+<<v6>>
+6 Nun ergriff der König das Wort und sagte zu dem Gottesmann: Besänftige
+doch den Herrn, deinen Gott, und bete für mich, dass ich meine Hand
+wieder an mich ziehen kann. Da besänftigte der Gottesmann den Herrn und
+der König konnte seine Hand wieder an sich ziehen; sie war wie zuvor.
+
+<<v7>>
+7 Darauf sagte der König zum Gottesmann: Komm in mein Haus und stärke
+dich! Auch möchte ich dir ein Geschenk geben.
+
+<<v8>>
+8 Der Gottesmann aber erwiderte dem König: Ich werde nicht mit dir
+gehen, auch wenn du mir die Hälfte deines Hauses gibst. Ich werde an
+diesem Ort weder essen noch trinken. [fn:2]
+
+<<v9>>
+9 Denn so wurde mir durch das Wort des Herrn befohlen: Du darfst dort
+weder essen noch trinken; und auf dem Weg, den du gekommen bist, darfst
+du nicht zurückkehren.
+
+<<v10>>
+10 Daher schlug er einen anderen Weg ein und kehrte nicht auf dem Weg
+zurück, auf dem er nach Bet-El gekommen war.
+
+<<v11>>
+11 In Bet-El aber wohnte ein alter Prophet. Als dessen Söhne heimkamen,
+erzählten sie ihm alles, was der Gottesmann an diesem Tag in Bet-El
+getan und was er zum König gesagt hatte. [fn:3]
+
+<<v12>>
+12 Darauf fragte sie der Vater: Auf welchem Weg ist er fortgezogen? Die
+Söhne hatten gesehen, welchen Weg der Gottesmann, der aus Juda gekommen
+war, eingeschlagen hatte.
+
+<<v13>>
+13 Da befahl er ihnen: Sattelt mir den Esel! Sie taten es und er stieg
+auf,
+
+<<v14>>
+14 ritt dem Gottesmann nach und traf ihn unter einer Eiche sitzend an.
+Er fragte ihn: Bist du der Gottesmann, der aus Juda gekommen ist? Jener
+antwortete: Ich bin es.
+
+<<v15>>
+15 Da bat er ihn: Komm in mein Haus und iss Brot mit mir!
+
+<<v16>>
+16 Doch jener entgegnete: Ich kann nicht mit dir zurückkehren und werde
+an diesem Ort mit dir weder essen noch trinken.
+
+<<v17>>
+17 Denn im Auftrag des Herrn ist das Wort an mich ergangen: Du darfst
+dort weder essen noch trinken und auf dem Weg, den du gekommen bist,
+darfst du nicht zurückkehren.
+
+<<v18>>
+18 Der andere aber sagte: Auch ich bin ein Prophet wie du und ein Engel
+hat mir im Auftrag des Herrn befohlen: Hol ihn zurück! Er soll in dein
+Haus kommen, um zu essen und zu trinken. So belog er ihn.
+
+<<v19>>
+19 Nun kehrte er um und aß und trank im Haus des Propheten.
+
+<<v20>>
+20 Während sie bei Tisch saßen, erging das Wort des Herrn an den
+Propheten, der ihn zurückgeholt hatte,
+
+<<v21>>
+21 und er rief es dem Gottesmann aus Juda zu: So spricht der Herr: Weil
+du gegen den Befehl des Herrn gehandelt und das Verbot übertreten hast,
+das dir der Herr, dein Gott, auferlegt hat,
+
+<<v22>>
+22 weil du zurückgekehrt bist und an dem Ort gegessen und getrunken
+hast, an dem zu essen und zu trinken er dir verboten hatte, darum soll
+deine Leiche nicht in das Grab deiner Väter kommen.
+
+<<v23>>
+23 Nachdem der Gottesmann gegessen und getrunken hatte, sattelte der
+Prophet, der ihn zurückgeholt hatte, für ihn den Esel. [fn:4]
+
+<<v24>>
+24 Er zog fort; doch unterwegs fiel ihn ein Löwe an und tötete ihn.
+Seine Leiche lag hingestreckt am Weg und der Esel stand neben ihr. Auch
+der Löwe blieb neben der Leiche stehen. [fn:5]
+
+<<v25>>
+25 Die Leute, die vorübergingen, sahen die Leiche am Weg liegen und den
+Löwen neben ihr stehen. Sie kamen und erzählten es in der Stadt, in der
+der alte Prophet wohnte.
+
+<<v26>>
+26 Als der Prophet, der ihn vom Weg zurückgeholt hatte, davon hörte,
+sagte er: Das ist der Gottesmann, der gegen den Befehl des Herrn
+gehandelt hat. Darum hat ihn der Herr dem Löwen preisgegeben und dieser
+hat ihn zerrissen und getötet, wie es der Herr ihm angekündigt hatte.
+
+<<v27>>
+27 Dann befahl er seinen Söhnen: Sattelt mir den Esel! Sie taten es
+
+<<v28>>
+28 und er machte sich auf und fand die Leiche am Weg hingestreckt; der
+Esel und der Löwe standen neben ihr. Der Löwe hatte die Leiche nicht
+gefressen und den Esel nicht zerrissen.
+
+<<v29>>
+29 Der Prophet hob nun die Leiche auf, legte sie auf den Esel und kam
+mit ihr in die Stadt zurück, um dem Gottesmann die Totenklage zu halten
+und ihn zu begraben.
+
+<<v30>>
+30 Er bestattete ihn in seinem eigenen Grab und man klagte um ihn: Ach,
+mein Bruder!
+
+<<v31>>
+31 Nachdem er ihn begraben hatte, sagte er zu seinen Söhnen: Wenn ich
+gestorben bin, bringt mich in das Grab, in dem der Gottesmann beigesetzt
+ist, und legt meine Gebeine neben die seinen!
+
+<<v32>>
+32 Denn das Wort, das er im Auftrag des Herrn gegen den Altar in Bet-El
+und gegen alle Höhentempel in den Städten Samariens gesprochen hat, wird
+in Erfüllung gehen.
+
+<<v33>>
+33 Jerobeam kehrte auch nach diesem Ereignis von seinem bösen Weg nicht
+um. Er bestellte weiterhin aus allen Teilen des Volkes Priester für die
+Kulthöhen; jeden, der es wünschte, setzte er als Höhenpriester ein.
+
+<<v34>>
+34 Das aber wurde dem Haus Jerobeam als Sünde angerechnet, sodass es
+vernichtet und vom Erdboden vertilgt wurde.\\
+\\
+
+* Footnotes
+
+[fn:1] Über die Erfüllung der Weissagung berichtet [[file:2.Kön_23.org::v15][2 Kön 23,15-18]].
+Der Name Joschija wurde erst aufgrund des Geschehenen
+eingefügt. - Die Totengebeine bewirkten die größte Verunreinigung des
+Altars.
+
+[fn:2] Der Gottesmann sollte durch sein Verhalten ausdrücken,
+dass zwischen Gott und dem Nordreich keine Verbindung besteht.
+
+[fn:3] Söhne: H hat Einzahl.
+
+[fn:4] H wörtlich: sattelte er ihm, dem Propheten, den er
+zurückgeholt hatte, den Esel.
+
+[fn:5] Der Auftrag Gottes ist für den Gottesmann ein Schicksal,
+dem er sich nicht entziehen kann. Weil er sich weigerte, das Fehlen
+jeglicher Gemeinschaft zwischen Gott und dem Nordreich darzustellen,
+muss er es in seinem Tod zum Ausdruck bringen, indem er von der
+Grabesgemeinschaft mit seinen Verwandten ausgeschlossen wird.

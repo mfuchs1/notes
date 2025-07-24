@@ -1,0 +1,46 @@
+#+TITLE: Ps 133 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 22:21]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 133.html
+
+* Ps 133
+
+<<verses>>
+
+<<v1>>
+* Ein Lob der brüderlichen Eintracht
+
+1 [Ein Wallfahrtslied Davids.] Seht doch, wie gut und schön ist es, /\\
+ wenn Brüder miteinander in Eintracht wohnen. [fn:1]\\
+\\
+
+<<v2>>
+2 Das ist wie köstliches Salböl, /\\
+ das vom Kopf hinabfließt auf den Bart, auf Aarons Bart, /\\
+ das auf sein Gewand hinabfließt. [fn:2] [fn:3]\\
+\\
+
+<<v3>>
+3 Das ist wie der Tau des Hermon, /\\
+ der auf den Berg Zion niederfällt. /\\
+ Denn dort spendet der Herr Segen und Leben in Ewigkeit. [fn:4]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Gen_13.org::v8][Gen 13,8]]
+
+[fn:2] [[file:Ex_29.org::v7][Ex 29,7]]; [[file:Ex_30.org::v25][30,25]].[[file:Ex_30.org::v30][30]]
+
+[fn:3] Andere Übersetzungsmöglichkeit: in den Bart Aarons, der
+hinuntergeht bis zum Saum seines Gewandes.
+
+[fn:4] [[file:Dtn_28.org::v8][Dtn 28,8]]

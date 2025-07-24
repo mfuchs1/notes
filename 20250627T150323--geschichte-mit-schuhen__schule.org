@@ -1,0 +1,55 @@
+#+title:      Geschichte mit Schuhen
+#+date:       [2025-06-27 Fr 15:03]
+#+filetags:   :schule:
+#+identifier: 20250627T150323
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Geschichte mit Schuhen.html
+
+* Unterwegs in alten Schuhen
+
+David stand frühmorgens vor dem Spiegel und betrachtete seine abgewetzten Wanderschuhe. Die Oberfläche war rissig, die Sohlen abgelaufen – Zeugnis vieler Wege, die er bereits gegangen war. Ein leises Seufzen entwich ihm, doch dann legte er die Schuhe auf den Boden und senkte den Blick.
+
+„Herr“, flüsterte er, „du kennst jeden einzelnen Schritt, den ich mit diesen Schuhen getan habe.“ Erinnerungen stiegen auf: Der beschwerliche Aufstieg durch steinige Täler, das fröhliche Wandern über blühende Wiesen, die Begegnung mit Fremden, die ihm halfen…
+
+Im vergangenen Jahr hatte Gott ihn zuverlässig begleitet – er hatte Wege gefunden, wo keiner war, hatte Licht geschenkt in schweren Zeiten, hatte Mut zugesprochen, wenn Zweifel aufkamen. David streifte die alten Schuhe an und spürte, wie sich etwas in ihm bewegte. Nicht nur der Fuß, auch sein Herz war gewachsen.
+
+„Danke“, sagte er laut. „Danke für das Wachsen – in Vertrauen, Geduld und Treue.“ Mit jedem Schritt spürte er Gottes Gegenwart: der Wind, der ihn sanft berührte, ein Vogel, der ihn mit seinem Gesang begleitete. Die alten Schuhe trugen ihn weiter – ein Symbol seiner bisherigen Reise und zugleich Zeichen: Gott geht mit, auch wenn wir glauben, kaum mehr tragen zu können.
+
+
+* Spuren des Vertrauens
+
+Am Anfang waren es Babyschuhe – klein, weich und voller Hoffnung. Ich konnte noch nicht selbst gehen, aber ich war getragen. In Gottes Armen lernte ich, dass ich geliebt bin, bevor ich irgendetwas leiste. Jeder Schritt war wackelig, aber begleitet von sanften Händen und geduldiger Nähe.
+
+Dann wuchs ich hinein in Kinderschuhe – leicht, bunt, bereit zu rennen, zu spielen, die Welt zu entdecken. Ich begann, eigene Wege zu gehen, manchmal abseits, manchmal mitten durchs Herz Gottes hindurch. Ich stellte Fragen, fiel hin, stand auf – und entdeckte: Gott ist auch dort, wo ich stolpere.
+
+Später kamen Turnschuhe. Ich wollte Leistung bringen, schneller sein, höher springen, alles wissen. Ich rannte viel – manchmal Gott davon, oft mir selbst hinterher. Doch immer wieder hörte ich leise Schritte neben mir. Gott ging nicht weg, auch wenn ich ihn nicht sah. Er war da – nicht nur als Ziel, sondern als Wegbegleiter.
+
+Dann kamen die Wanderschuhe. Fester, robuster – gemacht für lange Wege, für steinige Pfade und steile Anstiege. Ich hatte gelernt: Reife wächst nicht im Sprint, sondern im Durchhalten. Manchmal schien der Weg endlos, manchmal einsam. Aber je höher ich stieg, desto klarer wurde der Blick. Und ich spürte: Gott ist nicht nur in den Gipfelmomenten, sondern auch im mühsamen Schritt davor.
+
+Heute weiß ich: Es geht nicht um die Schuhe, sondern um die Reise. Jeder Abschnitt braucht sein eigenes Paar, seinen eigenen Rhythmus. Und immer bleibt eine Wahrheit:
+
+Ich bin unterwegs mit Gott – und Gott ist unterwegs mit mir.
+
+* Mit welchen Schuhen werde ich weitergehen?
+
+Ich erinnere mich noch gut an meine ersten Schuhe – kleine bunte Turnschuhe. Mit ihnen lernte ich zu laufen, zu stolpern, wieder aufzustehen. Damals hielt ich Gottes Hand, auch wenn ich sie kaum verstand.
+
+Dann kamen die Stiefel meiner Jugend – manchmal zu groß, oft unbequem. Ich wollte schnell vorwärts, Grenzen testen. Aber auch auf holprigem Gelände spürte ich: Gott war da. Nicht immer laut, aber treu wie ein fester Tritt.
+
+In der Schulzeit trug ich Sneakers – ausgelatscht, voller Geschichten. Lachen auf dem Pausenhof, Zweifel in langen Nächten, Freundschaften, Prüfungen. Ich wuchs – innerlich, äußerlich. Und Gott ging mit, Schritt für Schritt, oft unbemerkt.
+
+Jetzt stehe ich in schicken Schuhen – Abschlussklasse. Poliert, bereit für den großen Auftritt. Applaus, Fotos, Abschiede. Ich blicke zurück – und sehe: Jeder Schuh war nötig. Jeder Schritt Teil meines Weges.
+
+Und morgen? Morgen packe ich meinen Rucksack, schlüpfe in neue, unbekannte Schuhe. Vielleicht Wanderschuhe für weite Wege. Vielleicht Sandalen für Leichtigkeit. Vielleicht barfuß, wenn ich den Boden wieder spüren muss.
+
+Mit welchen Schuhen ich weitergehe, weiß ich noch nicht.
+Aber ich weiß, mit wem ich weitergehe.
+
+Gott geht mit.
+Und das gibt mir festen Halt – ganz gleich, welche Schuhe ich trage.

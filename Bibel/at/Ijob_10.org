@@ -1,0 +1,160 @@
+#+TITLE: Ijob 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 21:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 10.html
+
+<<verses>>
+
+<<v1>>
+* Ijobs Klage: 10,1-22
+
+1 Zum Ekel ist mein Leben mir geworden, /\\
+ ich lasse meiner Klage freien Lauf, /\\
+ reden will ich in meiner Seele Bitternis.\\
+\\
+
+<<v2>>
+2 Ich sage zu Gott: Sprich mich nicht schuldig, /\\
+ lass mich wissen, warum du mich befehdest.\\
+\\
+
+<<v3>>
+3 Nützt es dir, dass du Gewalt verübst, /\\
+ dass du das Werk deiner Hände verwirfst, /\\
+ doch über dem Plan der Frevler aufstrahlst?\\
+\\
+
+<<v4>>
+4 Hast du die Augen eines Sterblichen, /\\
+ siehst du, wie Menschen sehen? [fn:1]\\
+\\
+
+<<v5>>
+5 Sind Menschentagen deine Tage gleich /\\
+ und deine Jahre wie des Mannes Tage,\\
+\\
+
+<<v6>>
+6 dass du Schuld an mir suchst, /\\
+ nach meiner Sünde fahndest,\\
+\\
+
+<<v7>>
+7 obwohl du weißt, dass ich nicht schuldig bin /\\
+ und keiner mich deiner Hand entreißt? [fn:2]\\
+\\
+
+<<v8>>
+8 Deine Hände haben mich gebildet, mich gemacht; /\\
+ dann hast du dich umgedreht und mich vernichtet. [fn:3] [fn:4]\\
+\\
+
+<<v9>>
+9 Denk daran, dass du wie Ton mich geschaffen hast. /\\
+ Zum Staub willst du mich zurückkehren lassen.\\
+\\
+
+<<v10>>
+10 Hast du mich nicht ausgegossen wie Milch, /\\
+ wie Käse mich gerinnen lassen? [fn:5] [fn:6]\\
+\\
+
+<<v11>>
+11 Mit Haut und Fleisch hast du mich umkleidet, /\\
+ mit Knochen und Sehnen mich durchflochten.\\
+\\
+
+<<v12>>
+12 Leben und Huld hast du mir verliehen, /\\
+ deine Obhut schützte meinen Geist.\\
+\\
+
+<<v13>>
+13 Doch verbirgst du dies in deinem Herzen; /\\
+ ich weiß, das hattest du im Sinn.\\
+\\
+
+<<v14>>
+14 Sündige ich, wirst du mich bewachen, /\\
+ mich nicht freisprechen von meiner Schuld.\\
+\\
+
+<<v15>>
+15 Wenn ich schuldig werde, dann wehe mir! /\\
+ Bin ich aber im Recht, darf ich das Haupt nicht erheben, /\\
+ bin gesättigt mit Schmach und geplagt mit Kummer. [fn:7]\\
+\\
+
+<<v16>>
+16 Erhebe ich es doch, jagst du mich wie ein Löwe /\\
+ und verhältst dich wieder wunderbar gegen mich. [fn:8]\\
+\\
+
+<<v17>>
+17 Neue Zeugen stellst du gegen mich, /\\
+ häufst deinen Unwillen gegen mich, /\\
+ immer neue Heere führst du gegen mich. [fn:9]\\
+\\
+
+<<v18>>
+18 Warum ließest du mich aus dem Mutterschoß kommen, /\\
+ warum verschied ich nicht, ehe mich ein Auge sah? [fn:10]\\
+\\
+
+<<v19>>
+19 Wie nie gewesen wäre ich dann, /\\
+ vom Mutterleib zum Grab getragen.\\
+\\
+
+<<v20>>
+20 Sind wenig nicht die Tage meines Lebens? /\\
+ Lass ab von mir, damit ich ein wenig heiter blicken kann, [fn:11] [fn:12]\\
+\\
+
+<<v21>>
+21 bevor ich fortgehe ohne Wiederkehr /\\
+ ins Land des Dunkels und des Todesschattens, [fn:13]\\
+\\
+
+<<v22>>
+22 ins Land, so finster wie die Nacht, /\\
+ wo Todesschatten herrscht und keine Ordnung, /\\
+ und wenn es leuchtet, ist es wie tiefe Nacht.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_16.org::v7][1 Sam 16,7]]
+
+[fn:2] [[file:Ijob_33.org::v9][33,9]]
+
+[fn:3] [[file:Gen_22.org::v7][Gen 2,7]]
+
+[fn:4] dann hast du dich umgedreht: Text korr. nach G.
+
+[fn:5] [[file:Ps_139.org::v13][Ps 139,13]].[[file:Ps_139.org::v15][15]]
+
+[fn:6] Nach der hier ausgesprochenen Vorstellung entsteht das
+Kind im Mutterleib durch die Gerinnung des Mutterblutes unter dem
+Einfluss des männlichen Samens.
+
+[fn:7] geplagt mit Kummer: Text korr.; H: sieh mein Elend!
+
+[fn:8] [[file:Jes_38.org::v13][Jes 38,13]]
+
+[fn:9] H ist unsicher überliefert.
+
+[fn:10] [[file:Ijob_3.org::v11][3,11]]-[[file:Ijob_3.org::v16][16]]; [[file:Koh_4.org::v2][Koh 4,2]]
+
+[fn:11] [[file:Ijob_7.org::v7][7,7]]; [[file:Ijob_14.org::v1][14,1]]; [[file:Ps_39.org::v14][Ps 39,14]]
+
+[fn:12] Tage meines Lebens: Text korr. nach G.
+
+[fn:13] [[file:Ijob_16.org::v22][16,22]]; [[file:Ps_49.org::v20][Ps 49,20]]

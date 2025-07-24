@@ -1,0 +1,98 @@
+:PROPERTIES:
+:ID:       524d8d77-62e9-49c7-9553-6db70216f13c
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jona* -- [[file:Jona_1.html][1]] *2*
+[[file:Jona_3.html][3]] [[file:Jona_4.html][4]]
+
+--------------
+
+* Jona 2
+  :PROPERTIES:
+  :CUSTOM_ID: jona-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Die Rettung des Propheten: 2,1-11
+   :PROPERTIES:
+   :CUSTOM_ID: die-rettung-des-propheten-21-11
+   :END:
+1 Der Herr aber schickte einen großen Fisch, der Jona verschlang. Jona
+war drei Tage und drei Nächte im Bauch des Fisches
+
+<<v2>>
+2 und er betete im Bauch des Fisches zum Herrn, seinem Gott:\\
+\\
+
+<<v3>>
+3 In meiner Not rief ich zum Herrn /\\
+ und er erhörte mich. Aus der Tiefe der Unterwelt schrie ich um Hilfe
+/\\
+ und du hörtest mein Rufen. ^{[[#fn1][1]]}\\
+\\
+
+<<v4>>
+4 Du hast mich in die Tiefe geworfen, /\\
+ in das Herz der Meere; mich umschlossen die Fluten, /\\
+ all deine Wellen und Wogen schlugen über mir zusammen. ^{[[#fn2][2]]}\\
+\\
+
+<<v5>>
+5 Ich dachte: Ich bin aus deiner Nähe verstoßen. /\\
+ Wie kann ich deinen heiligen Tempel wieder erblicken? ^{[[#fn3][3]]}\\
+\\
+
+<<v6>>
+6 Das Wasser reichte mir bis an die Kehle, /\\
+ die Urflut umschloss mich; /\\
+ Schilfgras umschlang meinen Kopf. ^{[[#fn4][4]]}\\
+\\
+
+<<v7>>
+7 Bis zu den Wurzeln der Berge, /\\
+ tief in die Erde kam ich hinab; /\\
+ ihre Riegel schlossen mich ein für immer. Doch du holtest mich lebendig
+aus dem Grab herauf, /\\
+ Herr, mein Gott. ^{[[#fn5][5]]}\\
+\\
+
+<<v8>>
+8 Als mir der Atem schwand, dachte ich an den Herrn /\\
+ und mein Gebet drang zu dir, /\\
+ zu deinem heiligen Tempel. ^{[[#fn6][6]]}\\
+\\
+
+<<v9>>
+9 Wer nichtige Götzen verehrt, /\\
+ der handelt treulos. ^{[[#fn7][7]]}\\
+\\
+
+<<v10>>
+10 Ich aber will dir opfern /\\
+ und laut dein Lob verkünden. Was ich gelobt habe, will ich erfüllen.
+/\\
+ Vom Herrn kommt die Rettung. ^{[[#fn8][8]]}\\
+\\
+
+<<v11>>
+11 Da befahl der Herr dem Fisch, Jona ans Land zu speien.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Ps 130,1; Klgl 3,55
+
+^{[[#fnm2][2]]} ℘ Ps 42,8
+
+^{[[#fnm3][3]]} ℘ Ps 31,23
+
+^{[[#fnm4][4]]} ℘ Ps 69,2f
+
+^{[[#fnm5][5]]} ℘ Ps 40,3; 30,4
+
+^{[[#fnm6][6]]} ℘ Ps 18,7
+
+^{[[#fnm7][7]]} ℘ Ps 31,7
+
+^{[[#fnm8][8]]} ℘ Ps 22,26; 116,17f

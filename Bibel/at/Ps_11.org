@@ -1,0 +1,70 @@
+#+TITLE: Ps 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-04 Mo 21:01]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 11.html
+
+* Ps 11
+
+<<verses>>
+
+<<v1>>
+* Gottes Blick auf den Menschen
+
+1 [Für den Chormeister. Von David.] Beim Herrn finde ich Zuflucht. /\\
+ Wie könnt ihr mir sagen: «In die Berge flieh wie ein Vogel»? [fn:1]\\
+\\
+
+<<v2>>
+2 Schon spannen die Frevler den Bogen, /\\
+ sie legen den Pfeil auf die Sehne, um aus dem Dunkel zu treffen /\\
+ die Menschen mit redlichem Herzen. [fn:2]\\
+\\
+
+<<v3>>
+3 Gerät alles ins Wanken, /\\
+ was kann da der Gerechte noch tun? [fn:3]\\
+\\
+
+<<v4>>
+4 Der Herr weilt in seinem heiligen Tempel, /\\
+ der Thron des Herrn ist im Himmel. Seine Augen schauen herab, /\\
+ seine Blicke prüfen die Menschen. [fn:4]\\
+\\
+
+<<v5>>
+5 Der Herr prüft Gerechte und Frevler; /\\
+ wer Gewalttat liebt, den hasst er aus tiefster Seele.\\
+\\
+
+<<v6>>
+6 Auf die Frevler lasse er Feuer und Schwefel regnen; /\\
+ sengender Wind sei ihr Anteil. [fn:5] [fn:6]\\
+\\
+
+<<v7>>
+7 Denn der Herr ist gerecht, er liebt gerechte Taten; /\\
+ wer rechtschaffen ist, darf sein Angesicht schauen.\\
+\\
+
+* Footnotes
+
+[fn:1] Nach G und Hieronymus.
+
+[fn:2] [[file:Ps_7.org::v13][7,13]]; [[file:Ps_10.org::v8][10,8]]; [[file:Ps_37.org::v14][37,14]].[[file:Ps_37.org::v32][32]]; [[file:Ps_64.org::v4][64,4f]]; [[file:Ps_119.org::v95][119,95]]
+
+[fn:3] Wörtlich: Wenn die Grundfesten eingerissen werden.
+
+[fn:4] [[file:Hab_2.org::v20][Hab 2,20]]
+
+[fn:5] [[file:Ps_140.org::v11][140,11]]; [[file:Gen_19.org::v24][Gen 19,24]]; [[file:Ijob_18.org::v15][Ijob 18,15]]
+
+[fn:6] H fügt nach «Schwefel» hinzu: «Schlinge (Verhängnis)»,
+vielleicht eine weitere göttliche Waffe. Text korr.; H: sei der Anteil
+ihres Bechers.

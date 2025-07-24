@@ -1,0 +1,130 @@
+#+TITLE: Ps 144 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-20 Di 19:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 144.html
+
+* Ps 144
+
+<<verses>>
+
+<<v1>>
+* Danklied auf das Glück des Gottesvolkes
+
+1 [Von David] Gelobt sei der Herr, der mein Fels ist, /\\
+ der meine Hände den Kampf gelehrt hat, meine Finger den Krieg. [fn:1]\\
+\\
+
+<<v2>>
+2 Du bist meine Huld und Burg, /\\
+ meine Festung, mein Retter, mein Schild, dem ich vertraue. /\\
+ Er macht mir Völker untertan. [fn:2] [fn:3]\\
+\\
+
+<<v3>>
+3 Herr, was ist der Mensch, dass du dich um ihn kümmerst, /\\
+ des Menschen Kind, dass du es beachtest? [fn:4]\\
+\\
+
+<<v4>>
+4 Der Mensch gleicht einem Hauch, /\\
+ seine Tage sind wie ein flüchtiger Schatten. [fn:5]\\
+\\
+
+<<v5>>
+5 Herr, neig deinen Himmel und steig herab, /\\
+ rühre die Berge an, so- dass sie rauchen. [fn:6]\\
+\\
+
+<<v6>>
+6 Schleudre Blitze und zerstreue die Feinde, /\\
+ schieß deine Pfeile ab und jag sie dahin!\\
+\\
+
+<<v7>>
+7 Streck deine Hände aus der Höhe herab und befreie mich; /\\
+ reiß mich heraus aus gewaltigen Wassern, /\\
+ aus der Hand der Fremden!\\
+\\
+
+<<v8>>
+8 Alles, was ihr Mund sagt, ist Lüge, /\\
+ Meineide schwört ihre Rechte.\\
+\\
+
+<<v9>>
+9 Ein neues Lied will ich, o Gott, dir singen, /\\
+ auf der zehnsaitigen Harfe will ich dir spielen, [fn:7]\\
+\\
+
+<<v10>>
+10 der du den Königen den Sieg verleihst /\\
+ und David, deinen Knecht, errettest. Vor dem bösen Schwert [fn:8] [fn:9]\\
+\\
+
+<<v11>>
+11 errette mich, /\\
+ entreiß mich der Hand der Fremden! Alles, was ihr Mund sagt, ist Lüge,
+/\\
+ Meineide schwört ihre Rechte.\\
+\\
+
+<<v12>>
+12 Unsre Söhne seien wie junge Bäume, /\\
+ hoch gewachsen in ihrer Jugend, unsre Töchter wie schlanke Säulen, /\\
+ die geschnitzt sind für den Tempel. [fn:10]\\
+\\
+
+<<v13>>
+13 Unsre Speicher seien gefüllt, /\\
+ überquellend von vielerlei Vorrat; unsre Herden mögen sich tausendfach
+mehren, /\\
+ vieltausendfach auf unsren Fluren. [fn:11]\\
+\\
+
+<<v14>>
+14 Unsre Kühe mögen tragen, ohne zu verwerfen und ohne Unfall; /\\
+ kein Wehgeschrei werde laut auf unsern Straßen. [fn:12]\\
+\\
+
+<<v15>>
+15 Wohl dem Volk, dem es so ergeht, /\\
+ glücklich das Volk, dessen Gott der Herr ist! [fn:13]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_18.org::v35][18,35]]; [[file:Ps_92.org::v16][92,16]]
+
+[fn:2] [[file:Ps_3.org::v4][3,4]]; [[file:Ps_18.org::v3][18,3]].[[file:Ps_18.org::v48][48]]
+
+[fn:3] mir Völker: Text korr.; H: mein Volk.
+
+[fn:4] [[file:Ps_8.org::v5][8,5]]; [[file:Ijob_7.org::v17][Ijob 7,17]]
+
+[fn:5] [[file:Ps_39.org::v6][39,6f]]; [[file:Ps_90.org::v9][90,9]]
+
+[fn:6] [[file:Ps_104.org::v32][104,32]]; [[file:Jes_63.org::v19][Jes 63,19]]; (5-7) [[file:Ps_18.org::v10][18,10-17]]
+
+[fn:7] [[file:Ps_33.org::v3][33,3]]
+
+[fn:8] [[file:Ps_18.org::v51][18,51]]
+
+[fn:9] Text korr.; H: David, seinen Knecht.
+
+[fn:10] [[file:Ps_128.org::v3][128,3]]; [[file:Ijob_42.org::v15][Ijob 42,15]]
+
+[fn:11] [[file:Ps_107.org::v37][107,37f]]
+
+[fn:12] Andere Übersetzungsmöglichkeit: Unsere Gaue ohne
+Lasten, kein Durchbruch und kein Auszug, kein Geschrei auf unseren
+Plätzen.
+
+[fn:13] [[file:Ps_33.org::v12][33,12]]

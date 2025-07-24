@@ -1,0 +1,82 @@
+#+TITLE: Ps 111 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-17 Sa 23:38]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 111.html
+
+* Ps 111
+
+<<verses>>
+
+<<v1>>
+* Ein Preislied auf die Wundertaten des Herrn
+
+1 Halleluja! Den Herrn will ich preisen von ganzem Herzen /\\
+ im Kreis der Frommen, inmitten der Gemeinde. [fn:1]\\
+\\
+
+<<v2>>
+2 Groß sind die Werke des Herrn, /\\
+ kostbar allen, die sich an ihnen freuen.\\
+\\
+
+<<v3>>
+3 Er waltet in Hoheit und Pracht, /\\
+ seine Gerechtigkeit hat Bestand für immer.\\
+\\
+
+<<v4>>
+4 Er hat ein Gedächtnis an seine Wunder gestiftet, /\\
+ der Herr ist gnädig und barmherzig. [fn:2]\\
+\\
+
+<<v5>>
+5 Er gibt denen Speise, die ihn fürchten, /\\
+ an seinen Bund denkt er auf ewig. [fn:3]\\
+\\
+
+<<v6>>
+6 Er hat seinem Volk seine machtvollen Taten kundgetan, /\\
+ um ihm das Erbe der Völker zu geben.\\
+\\
+
+<<v7>>
+7 Die Werke seiner Hände sind gerecht und beständig, /\\
+ all seine Gebote sind verlässlich.\\
+\\
+
+<<v8>>
+8 Sie stehen fest für immer und ewig, /\\
+ geschaffen in Treue und Redlichkeit.\\
+\\
+
+<<v9>>
+9 Er gewährte seinem Volk Erlösung /\\
+ und bestimmte seinen Bund für ewige Zeiten. /\\
+ Furcht gebietend ist sein Name und heilig. [fn:4]\\
+\\
+
+<<v10>>
+10 Die Furcht des Herrn ist der Anfang der Weisheit; /\\
+ alle, die danach leben, sind klug. /\\
+ Sein Ruhm hat Bestand für immer. [fn:5]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_22.org::v23][22,23]]
+
+[fn:2] [[file:Ex_12.org::v1][Ex 12,1-28]]; [[file:Ps_116.org::v5][Ps 116,5]]
+
+[fn:3] [[file:Ps_145.org::v15][145,15]]; [[file:Ps_105.org::v8][105,8]]
+
+[fn:4] [[file:Ps_130.org::v8][130,8]]; [[file:Jer_32.org::v40][Jer 32,40]]
+
+[fn:5] [[file:Spr_1.org::v7][Spr 1,7]]; [[file:Spr_9.org::v10][9,10]]

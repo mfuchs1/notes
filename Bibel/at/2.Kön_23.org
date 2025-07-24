@@ -1,0 +1,285 @@
+#+TITLE: 2 Kön 23 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 16:26]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 23.html
+
+<<verses>>
+
+<<v1>>
+* Die Beseitigung von Missständen: 23,1-27
+
+1 Der König ließ alle Ältesten Judas und Jerusalems bei sich
+zusammenkommen. [fn:1]
+
+<<v2>>
+2 Er ging zum Haus des Herrn hinauf mit allen Männern Judas und allen
+Einwohnern Jerusalems, den Priestern und Propheten und allem Volk, Jung
+und Alt. Er ließ ihnen alle Worte des Bundesbuches vorlesen, das im Haus
+des Herrn gefunden worden war.
+
+<<v3>>
+3 Dann trat der König an die Säule und schloss vor dem Herrn diesen
+Bund: Er wolle dem Herrn folgen, auf seine Gebote, Satzungen und Gesetze
+von ganzem Herzen und ganzer Seele achten und die Vorschriften des
+Bundes einhalten, die in diesem Buch niedergeschrieben sind. Das ganze
+Volk trat dem Bund bei. [fn:2]
+
+<<v4>>
+4 Hierauf befahl der König dem Hohenpriester Hilkija, den Priestern des
+zweiten Ranges und den Wächtern an den Schwellen, alle Gegenstände aus
+dem Tempel des Herrn hinauszuschaffen, die für den Baal, die Aschera und
+das ganze Heer des Himmels angefertigt worden waren. Er ließ sie
+außerhalb Jerusalems bei den Terrassen des Kidrontals verbrennen und die
+Asche nach Bet-El bringen.
+
+<<v5>>
+5 Auch setzte er die Götzenpriester ab, die von den Königen von Juda
+bestellt worden waren und die auf den Kulthöhen, in den Städten Judas
+und in der Umgebung Jerusalems Opfer verbrannt sowie dem Baal, der
+Sonne, dem Mond, den Bildern des Tierkreises und dem ganzen Heer des
+Himmels geopfert hatten.
+
+<<v6>>
+6 Den Kultpfahl schaffte er aus dem Haus des Herrn und aus Jerusalem
+hinaus in das Kidrontal und verbrannte ihn dort; er zermalmte ihn zu
+Staub und streute diesen auf die Gräber des einfachen Volkes.
+
+<<v7>>
+7 Ferner riss er die Gemächer der Hierodulen am Tempel nieder, in denen
+die Frauen Schleier für die Aschera webten. [fn:3]
+
+<<v8>>
+8 Er holte alle Priester aus den Städten Judas weg und machte die
+Kulthöhen von Geba bis Beerscheba, auf denen die Priester geopfert
+hatten, unrein. Er zerstörte die Torhöhen, die am Eingang zum Tor des
+Stadtobersten Josua auf der linken Seite dessen waren, der das Stadttor
+betrat. [fn:4]
+
+<<v9>>
+9 Doch durften die Höhenpriester nicht an den Altar des Herrn in
+Jerusalem treten, sondern nur von den ungesäuerten Broten inmitten ihrer
+Brüder essen. [fn:5]
+
+<<v10>>
+10 Ebenso machte er das Tofet im Tal der Söhne Hinnoms unrein, damit
+niemand mehr seinen Sohn oder seine Tochter für den Moloch durch das
+Feuer gehen ließ. [fn:6]
+
+<<v11>>
+11 Er entfernte die Pferde, die die Könige von Juda zu Ehren der Sonne
+am Eingang zum Haus des Herrn bei der Zelle des Kämmerers Netan-Melech
+am Parwar aufgestellt hatten, und verbrannte die Sonnenwagen im Feuer. [fn:7]
+
+<<v12>>
+12 Auch die Altäre, die die Könige von Juda auf dem Dach über dem
+Obergemach des Ahas errichtet hatten, sowie die Altäre, die Manasse in
+den beiden Höfen des Tempels aufgestellt hatte, ließ der König
+abbrechen. Er schlug sie dort in Trümmer und warf ihren Schutt in das
+Kidrontal. [fn:8]
+
+<<v13>>
+13 Desgleichen entweihte der König die Kulthöhen östlich von Jerusalem,
+südlich vom Berg des Verderbens, die Salomo, der König von Israel, für
+Astarte, die Göttin der Sidonier, für Kemosch, den Götzen der Moabiter,
+und für Milkom, den Gräuel der Ammoniter, erbaut hatte. [fn:9]
+
+<<v14>>
+14 Er zerbrach die Steinmale, hieb die Kultpfähle um und füllte ihre
+Stätten mit Menschenknochen.
+
+<<v15>>
+15 Auch den Altar von Bet-El, die Kulthöhe, die Jerobeam, der Sohn
+Nebats, der Verführer Israels, errichtet hatte, auch diesen Altar
+zerstörte er samt der Kulthöhe. Er steckte das Höhenheiligtum in Brand,
+zermalmte die Steine zu Staub und verbrannte den Kultpfahl.
+
+<<v16>>
+16 Als Joschija sich umwandte und die Gräber sah, die dort auf dem Berg
+waren, ließ er die Gebeine aus ihnen nehmen und auf dem Altar
+verbrennen. So machte er ihn unrein gemäß dem Wort des Herrn, das der
+Gottesmann ausgerufen hatte, der diese Drohung aussprach. [fn:10]
+
+<<v17>>
+17 Und als dann der König fragte: Was ist das für ein Denkmal, das ich
+hier sehe?, antworteten ihm die Männer der Stadt: Das ist das Grab des
+Gottesmannes, der aus Juda gekommen war und vorausgesagt hatte, was du
+am Altar von Bet-El getan hast.
+
+<<v18>>
+18 Da befahl er: Lasst ihn ruhen! Niemand soll seine Gebeine berühren.
+So ließ man seine Gebeine samt den Gebeinen des Propheten, der aus
+Samaria stammte, ungestört.
+
+<<v19>>
+19 Auch beseitigte Joschija alle Höhentempel in den Städten Samariens,
+die die Könige von Israel errichtet und durch die sie den Herrn erzürnt
+hatten. Er verfuhr mit ihnen so, wie er es in Bet-El getan hatte. [fn:11]
+
+<<v20>>
+20 Alle Höhenpriester, die dort waren, ließ er auf den Altären
+niedermachen und Menschengebeine auf den Altären verbrennen. Darauf
+kehrte er nach Jerusalem zurück.
+
+<<v21>>
+21 Nun befahl der König dem ganzen Volk: Feiert das Paschafest zur Ehre
+des Herrn, eures Gottes, wie es in diesem Bundesbuch vorgeschrieben ist. [fn:12]
+
+<<v22>>
+22 Ein solches Pascha war nämlich nicht gefeiert worden seit den Tagen
+der Richter, die Israel regierten, auch nicht in der ganzen Zeit der
+Könige von Israel und Juda. [fn:13]
+
+<<v23>>
+23 Erst im achtzehnten Jahr des Königs Joschija wurde dieses Pascha zur
+Ehre des Herrn in Jerusalem begangen.
+
+<<v24>>
+24 Auch die Totenbeschwörer und Zeichendeuter, die Hausgötter, Götzen
+und alle Gräuel, die im Land Juda und in Jerusalem zu sehen waren, fegte
+Joschija hinweg. So führte er die Worte des Gesetzes aus, die in dem
+Buch niedergeschrieben waren, das der Priester Hilkija im Haus des Herrn
+gefunden hatte.
+
+<<v25>>
+25 Es gab vor ihm keinen König, der so mit ganzem Herzen, mit ganzer
+Seele und mit all seinen Kräften zum Herrn umkehrte und so getreu das
+Gesetz des Mose befolgte, und auch nach ihm war keiner wie er. [fn:14]
+
+<<v26>>
+26 Doch der Herr ließ von der gewaltigen Glut seines Zornes nicht ab.
+Sein Zorn war über Juda entbrannt wegen all der Kränkungen, die Manasse
+ihm zugefügt hatte.
+
+<<v27>>
+27 Darum sprach der Herr: Auch Juda will ich von meinem Angesicht
+entfernen, wie ich Israel entfernt habe. Ich verwerfe diese Stadt
+Jerusalem, die ich erwählt habe, und das Haus, von dem ich gesagt habe:
+Hier wird mein Name sein.\\
+\\
+
+<<v28>>
+* Das Ende Joschijas: 23,28-30
+
+28 Die übrige Geschichte Joschijas und alle seine Taten sind
+aufgezeichnet in der Chronik der Könige von Juda. [fn:15]
+
+<<v29>>
+29 In seinen Tagen unternahm der Pharao Necho, der König von Ägypten,
+einen Kriegszug gegen den König von Assur an den Eufrat. König Joschija
+stellte sich ihm entgegen. Doch der Pharao tötete ihn bei Megiddo,
+sobald er ihn sah. [fn:16]
+
+<<v30>>
+30 Die Diener Joschijas hoben den Toten auf einen Wagen, brachten ihn
+von Megiddo weg nach Jerusalem und begruben ihn in seinem Grab. Dann
+nahmen die Bürger des Landes Joahas, den Sohn Joschijas, salbten ihn und
+machten ihn zum König an seines Vaters Stelle.\\
+\\
+
+<<v31>>
+* Joahas: 23,31-35
+
+31 Joahas war dreiundzwanzig Jahre alt, als er König wurde, und regierte
+drei Monate in Jerusalem. Seine Mutter hieß Hamutal und war eine Tochter
+Jirmejas aus Libna.
+
+<<v32>>
+32 Genau wie seine Väter tat er, was dem Herrn missfiel. [fn:17]
+
+<<v33>>
+33 Doch der Pharao Necho setzte ihn zu Ribla im Land Hamat als König von
+Jerusalem ab und legte dem Land eine Geldbuße von hundert Talenten
+Silber und einem Talent Gold auf. [fn:18]
+
+<<v34>>
+34 Dann machte der Pharao Necho Eljakim, den Sohn Joschijas, anstelle
+seines Vaters Joschija zum König und änderte seinen Namen in Jojakim.
+Joahas aber nahm er fest und brachte ihn nach Ägypten, wo er starb. [fn:19]
+
+<<v35>>
+35 Jojakim lieferte dem Pharao das Silber und das Gold ab. Doch musste
+er das Land besteuern, um das Geld aufbringen zu können, das der Pharao
+forderte. Nach dem Vermögen eines jeden Bürgers trieb er von den Bürgern
+des Landes das Silber und das Gold ein, um es an den Pharao Necho
+abzuliefern. [fn:20]\\
+\\
+
+<<v36>>
+* Jojakim: 23,36 - 24,7
+
+36 Jojakim war fünfundzwanzig Jahre alt, als er König wurde, und
+regierte elf Jahre in Jerusalem. Seine Mutter hieß Sebuda und war eine
+Tochter Pedajas aus Ruma. [fn:21]
+
+<<v37>>
+37 Wie seine Väter tat er, was dem Herrn missfiel.
+
+* Footnotes
+
+[fn:1] (1-3) [[file:2.Chr_34.org::v29][2 Chr 34,29-33]]
+
+[fn:2] schloss diesen Bund: Er verpflichtete das Volk zur
+Befolgung der im Buch verzeichneten Gebote.
+
+[fn:3] Hierodulen: Tempeldirnen (vgl. die Anmerkung zu 1 Kön
+14,24). Die Bedeutung der Schleier ist unbekannt.
+
+[fn:4] Es sind Jahwepriester, die auf den Kulthöhen außerhalb
+Jerusalems Dienst taten (vgl. die Anmerkung zu [[file:1.Kön_3.org::v2][1 Kön 3,2]]). Durch ihre
+Abberufung hörten die Opfer an jenen Orten auf und der Tempel wurde zur
+einzigen Kultstätte gemäß [[file:Dtn_12.org::v15][Dtn 12,5-18]]. - Torhöhen sind Opferstätten, die
+nach dem Vorbild der Kulthöhen an den Stadttoren errichtet wurden.
+
+[fn:5] Missstände, die sich an den Kulthöhen eingestellt
+hatten, konnten zu Zweifeln an der Eignung dieser Priester führen. Erst
+[[file:Dtn_18.org::v6][Dtn 18,6-8]] brachte ihnen die volle Gleichberechtigung.
+
+[fn:6] Tofet: eine heidnische Kultstätte zu Ehren des Gottes
+Moloch im Hinnomtal südlich von Jerusalem (vgl. [[file:Jes_30.org::v33][Jes 30,33]]; [[file:Jer_7.org::v32][Jer 7,32]];
+[[file:Jer_19.org::v6][19,6]].[[file:Jer_19.org::v11][11-14]]). Zu Moloch vgl. die Anmerkung zu Lev 18,21.
+
+[fn:7] Die Sonne wurde in der Umwelt Israels als Gottheit
+verehrt. Die hier gemachte Aussage ist dunkel. Parwar ist wahrscheinlich
+ein Hof oder Platz an der Westseite des Tempels.
+
+[fn:8] Die Altäre auf dem Dach des Obergemachs haben wohl dem
+Gestirnkult gedient.
+
+[fn:9] [[file:1.Kön_11.org::v7][1 Kön 11,7]]
+
+[fn:10] [[file:1.Kön_13.org::v2][1 Kön 13,2]]
+
+[fn:11] Joschija hatte demnach Teile des ehemaligen Nordreichs
+unter seine Herrschaft gebracht und so das Reich Davids in kleinerem
+Umfang wiederhergestellt. Durch die Zerstörung von Bet-El war zugleich
+das Heiligtum beseitigt, das die religiöse Spaltung des Volkes begründet
+hatte.
+
+[fn:12] [[file:2.Chr_35.org::v1][2 Chr 35,1-19]]
+
+[fn:13] Vgl. die Anmerkung zu [[file:2.Chr_35.org::v18][2 Chr 35,18]].
+
+[fn:14] [[file:Dtn_6.org::v5][Dtn 6,5]]
+
+[fn:15] (28-30) [[file:2.Chr_35.org::v20][2 Chr 35,20-24]]; [[file:2.Chr_36.org::v1][36,1]]
+
+[fn:16] Vgl. die Anmerkung zu [[file:2.Chr_35.org::v20][2 Chr 35,20]].
+
+[fn:17] (32-35) [[file:2.Chr_36.org::v2][2 Chr 36,2-4]]
+
+[fn:18] setzte ihn als König ab: Text korr. nach G.
+
+[fn:19] brachte ihn: Text korr. nach [[file:2.Chr_36.org::v4][2 Chr 36,4]]. Durch die
+Verleihung eines neuen Namens drückt der Pharao aus, dass Jojakim sein
+Untertan ist.
+
+[fn:20] Das Gleiche wird von Menahem berichtet (vgl. [[file:2.Kön_15.org::v20][15,20]]).
+
+[fn:21] (36-24,6) [[file:2.Chr_36.org::v5][2 Chr 36,5-8]]

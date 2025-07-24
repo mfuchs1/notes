@@ -1,0 +1,320 @@
+#+TITLE: Lev 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 14:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 13.html
+
+
+<<verses>>
+
+<<v1>>
+* Der Aussatz an Menschen: 13,1-46
+
+1 Der Herr sprach zu Mose und Aaron: [fn:1]
+
+<<v2>>
+2 Wenn sich auf der Haut eines Menschen eine Schwellung, ein Ausschlag
+oder ein heller Fleck bildet, liegt Verdacht auf Hautaussatz vor. Man
+soll ihn zum Priester Aaron oder zu einem seiner Söhne, den Priestern,
+führen.
+
+<<v3>>
+3 Der Priester soll das Übel auf der Haut untersuchen. Wenn das Haar an
+der kranken Stelle weiß wurde und die Stelle tiefer als die übrige Haut
+liegt, ist es Aussatz. Nachdem der Priester das Übel untersucht hat,
+soll er den Erkrankten für unrein erklären.
+
+<<v4>>
+4 Wenn aber auf der Haut ein weißer Fleck besteht, der nicht merklich
+tiefer als die übrige Haut liegt, und das Haar nicht weiß geworden ist,
+soll der Priester den Befallenen für sieben Tage absondern.
+
+<<v5>>
+5 Am siebten Tag untersuche er ihn wieder. Wenn er mit seinen eigenen
+Augen feststellt, dass das Übel gleich geblieben ist und sich auf der
+Haut nicht ausgebreitet hat, soll er ihn noch einmal für sieben Tage
+absondern
+
+<<v6>>
+6 und ihn am siebten Tag abermals untersuchen. Wenn er dann feststellt,
+dass das Übel nachgelassen und sich auf der Haut nicht ausgebreitet hat,
+soll ihn der Priester für rein erklären. Es handelt sich um einen
+Ausschlag. Der Kranke soll seine Kleider waschen, dann ist er rein.
+
+<<v7>>
+7 Breitet sich jedoch der Ausschlag auf der Haut aus, nachdem der Kranke
+vom Priester untersucht und für rein erklärt wurde, soll er sich ihm
+noch einmal zeigen.
+
+<<v8>>
+8 Stellt der Priester fest, dass der Ausschlag sich auf der Haut
+ausgebreitet hat, soll der Priester ihn für unrein erklären: Es handelt
+sich um Aussatz.
+
+<<v9>>
+9 Wenn sich also an jemandem ein Übel von der Art des Aussatzes zeigt,
+soll man ihn zum Priester bringen.
+
+<<v10>>
+10 Stellt der Priester fest, dass sich auf der Haut eine weiße
+Schwellung zeigt, dass die Haare heller geworden sind und dass sich an
+der Schwellung wildes Fleisch gebildet hat,
+
+<<v11>>
+11 dann ist es ein veralteter Aussatz auf der Haut. Der Priester soll
+ihn für unrein erklären, ohne ihn erst abzusondern, denn er ist unrein.
+
+<<v12>>
+12 Wenn aber der Aussatz auf der Haut ausbricht, sie völlig ergreift und
+sich vom Kopf bis zu den Füßen erstreckt, überall, wohin der Priester
+schaut,
+
+<<v13>>
+13 so soll er den Kranken untersuchen und, falls er feststellt, dass der
+Aussatz den ganzen Körper bedeckt, den Kranken für rein erklären. Da er
+völlig weiß geworden ist, ist er rein.
+
+<<v14>>
+14 An dem Tag jedoch, an dem an ihm wildes Fleisch sichtbar wird, ist er
+unrein.
+
+<<v15>>
+15 Hat der Priester das wilde Fleisch untersucht, soll er ihn für unrein
+erklären. Das wilde Fleisch ist etwas Unreines; es ist Aussatz.
+
+<<v16>>
+16 Wenn aber das wilde Fleisch verschwindet und die befallene Stelle
+weiß wird, soll der Mann den Priester aufsuchen.
+
+<<v17>>
+17 Dieser soll ihn untersuchen, und wenn er feststellt, dass die
+betroffene Stelle tatsächlich weiß geworden ist, soll er den Kranken für
+rein erklären: Er ist rein.
+
+<<v18>>
+18 Wenn sich auf der Haut eines Menschen ein Furunkel bildet und wieder
+abheilt,
+
+<<v19>>
+19 sich aber dann an der Stelle des Furunkels eine weiße Schwellung oder
+ein hellroter Fleck bildet, soll er sich dem Priester zeigen;
+
+<<v20>>
+20 dieser soll ihn untersuchen. Wenn er eine merkliche Vertiefung der
+Haut und heller gewordenes Haar feststellt, soll der Priester ihn für
+unrein erklären; es ist ein Fall von Aussatz, der im Furunkel
+ausgebrochen ist.
+
+<<v21>>
+21 Wenn der Priester bei der Untersuchung weder weiße Haare noch eine
+Vertiefung der Haut, vielmehr ein Abklingen des Übels feststellt, soll
+er den Kranken sieben Tage lang absondern.
+
+<<v22>>
+22 Wenn sich das Übel dann doch auf der Haut ausbreitet, soll er ihn für
+unrein erklären: Es ist ein Fall von Aussatz.
+
+<<v23>>
+23 Wenn aber der helle Fleck unverändert bleibt, ohne sich auszubreiten,
+so ist es eine Narbe vom Furunkel; der Priester soll diesen Menschen für
+rein erklären.
+
+<<v24>>
+24 Wenn jemand auf der Haut eine Brandwunde hat und sich eine Wucherung
+als hellroter oder weißer Fleck bildet,
+
+<<v25>>
+25 soll ihn der Priester untersuchen. Wenn er heller gewordenes Haar
+oder eine merkliche Vertiefung des Fleckes in der Haut feststellt, ist
+es Aussatz, der in der Brandwunde ausgebrochen ist. Der Priester soll
+den Menschen für unrein erklären; es ist ein Fall von Aussatz.
+
+<<v26>>
+26 Untersucht ihn der Priester und stellt kein weißes Haar auf dem
+Fleck, keine Vertiefung der Haut, sondern ein Abklingen fest, so soll er
+ihn sieben Tage lang absondern.
+
+<<v27>>
+27 Am siebten Tag soll er ihn wieder untersuchen. Hat sich das Übel auf
+der Haut ausgebreitet, soll er ihn für unrein erklären; es ist ein Fall
+von Aussatz.
+
+<<v28>>
+28 Wenn der helle Fleck unverändert geblieben ist, ohne sich auf der
+Haut auszubreiten, vielmehr abgeblasst ist, so ist es nur eine
+angeschwollene Brandnarbe. Der Priester soll den Kranken für rein
+erklären, denn es ist nur eine Brandnarbe.
+
+<<v29>>
+29 Zeigt sich bei einem Mann oder bei einer Frau an Kopf oder Kinn eine
+kranke Stelle,
+
+<<v30>>
+30 soll der Priester sie untersuchen. Stellt er dort eine merkliche
+Hautvertiefung mit rötlich gelb glänzendem, schütter gewordenem Haar
+fest, soll er den Kranken für unrein erklären. Es ist eine Flechte, ein
+Aussatz des Kopfes oder des Kinns.
+
+<<v31>>
+31 Stellt der Priester bei der Untersuchung dieses Falls von Flechte
+weder eine merkliche Hautvertiefung noch schwarzes Haar fest, soll er
+den mit Flechte Behafteten sieben Tage lang absondern.
+
+<<v32>>
+32 Am siebten Tag soll er das Übel untersuchen. Stellt er fest, dass
+sich die Flechte nicht ausgebreitet hat, an ihr kein rötlich gelb
+glänzendes Haar aufgetreten ist und auch keine merkliche Hautvertiefung
+besteht,
+
+<<v33>>
+33 soll sich der Kranke rasieren, dabei aber die befallene Stelle
+aussparen und der Priester soll ihn noch einmal sieben Tage lang
+absondern.
+
+<<v34>>
+34 Am siebten Tag soll er das Übel wieder untersuchen. Stellt er fest,
+dass es sich auf der Haut nicht ausgebreitet hat und dass keine
+merkliche Hautvertiefung besteht, soll er den Kranken für rein erklären.
+Dieser soll seine Kleider waschen, dann ist er rein.
+
+<<v35>>
+35 Hat sich aber die Flechte nach der Reinerklärung doch auf der Haut
+ausgebreitet,
+
+<<v36>>
+36 soll ihn der Priester wieder untersuchen. Stellt er fest, dass sich
+die Flechte auf der Haut ausbreitet, braucht der Priester nicht erst
+festzustellen, ob das Haar rötlich gelb glänzend ist; er ist unrein.
+
+<<v37>>
+37 Scheint aber dem Priester die Flechte gleich zu bleiben und wächst an
+ihr schwarzes Haar, so heilt sie ab; er ist rein und der Priester soll
+ihn für rein erklären.
+
+<<v38>>
+38 Zeigen sich bei einem Mann oder bei einer Frau Flecken, weiße Flecken
+auf der Haut,
+
+<<v39>>
+39 so soll der Priester sie untersuchen. Stellt er fest, dass diese
+Flecken auf der Haut verblassen, so handelt es sich um einen Ausschlag,
+der auf der Haut ausgebrochen ist; der Kranke ist rein.
+
+<<v40>>
+40 Verliert ein Mann auf seinem Kopf die Haare, so ist es eine
+Hinterkopfglatze; er ist rein.
+
+<<v41>>
+41 Geschieht es an der Schädelvorderseite, so ist es eine Stirnglatze;
+er ist rein.
+
+<<v42>>
+42 Entsteht aber auf der Glatze des Hinterkopfes oder über der Stirn ein
+hellroter Fleck, so ist es Aussatz, der auf dem Kopf oder auf der Stirn
+dieses Menschen ausbricht.
+
+<<v43>>
+43 Der Priester soll ihn untersuchen. Stellt er auf der Hinterkopf- oder
+auf der Stirnglatze eine hellrote Aussatzschwellung fest, die wie
+Hautaussatz aussieht,
+
+<<v44>>
+44 so ist der Mensch aussätzig; er ist unrein. Der Priester muss ihn für
+unrein erklären; er ist an seinem Kopf von Aussatz befallen.
+
+<<v45>>
+45 Der Aussätzige, der von diesem Übel betroffen ist, soll eingerissene
+Kleider tragen und das Kopfhaar ungepflegt lassen; er soll den
+Schnurrbart verhüllen und ausrufen: Unrein! Unrein!
+
+<<v46>>
+46 Solange das Übel besteht, bleibt er unrein; er ist unrein. Er soll
+abgesondert wohnen, außerhalb des Lagers soll er sich aufhalten.\\
+\\
+
+<<v47>>
+* Der Aussatz an Kleidern: 13,47-59
+
+47 Zeigt sich Aussatz auf einem Kleidungsstück, sei es ein Woll- oder
+Leinenkleid, [fn:2]
+
+<<v48>>
+48 ein Gewebe oder Gewirke aus Leinen oder Wolle, oder auf Leder oder
+auf irgendeinem Ledergegenstand,
+
+<<v49>>
+49 so ist das ein Fall von Aussatz, der dem Priester dann zu zeigen ist,
+wenn der Fleck auf dem Kleid, dem Leder, dem Gewebe, dem Gewirke oder
+irgendeinem Ledergerät grüngelblich oder rötlich erscheint.
+
+<<v50>>
+50 Der Priester soll das Übel untersuchen und den befallenen Gegenstand
+sieben Tage lang absondern.
+
+<<v51>>
+51 Wenn er am siebten Tage beobachtet, dass sich das Übel auf dem Kleid,
+dem Gewebe, dem Gewirke, dem Leder oder Ledergegenstand, was immer es
+auch sein mag, ausgebreitet hat, so ist es ein Fall von bösartigem
+Aussatz: Der befallene Gegenstand ist unrein.
+
+<<v52>>
+52 Man soll dieses Kleid, dieses Gewebe, dieses Gewirke aus Wolle oder
+Leinen oder das Ledergerät, was es auch sein mag, auf dem sich das Übel
+zeigt, verbrennen; denn es ist bösartiger Aussatz, der im Feuer
+verbrannt werden muss.
+
+<<v53>>
+53 Wenn aber der Priester bei der Untersuchung feststellt, dass das Übel
+sich auf diesem Kleid, Gewebe, Gewirke oder Ledergerät nicht
+ausgebreitet hat,
+
+<<v54>>
+54 soll er den befallenen Gegenstand waschen lassen und ihn noch einmal
+sieben Tage lang absondern.
+
+<<v55>>
+55 Nach dem Abwaschen soll er das Übel untersuchen, und wenn er
+feststellt, dass sich sein Aussehen nicht verändert hat, so ist der
+Gegenstand unrein, auch wenn sich das Übel nicht ausbreitet; du sollst
+ihn im Feuer verbrennen. Es liegt eine ausgefressene Vertiefung an
+seiner Vorder- oder Rückseite vor.
+
+<<v56>>
+56 Stellt aber der Priester bei der Untersuchung fest, dass das Übel
+nach dem Abwaschen abgeblasst ist, so soll er die befallene Stelle von
+dem Kleid, dem Leder, dem Gewebe oder dem Gewirke abreißen.
+
+<<v57>>
+57 Sollte aber das Übel auf diesem Kleid, Gewebe, Gewirke oder
+Ledergerät wieder erscheinen, so greift das Übel weiter um sich und du
+sollst den befallenen Gegenstand im Feuer verbrennen.
+
+<<v58>>
+58 Aber das Kleid, das Gewebe, das Gewirke oder das Ledergerät, auf dem
+das Übel nach dem Abwaschen verschwunden ist, soll noch einmal gewaschen
+werden und ist dann rein.
+
+<<v59>>
+59 Das ist das Gesetz für den Fall von Aussatz auf einem Woll- oder
+Leinenkleid, einem Gewebe, Gewirke oder Ledergerät, wenn es gilt, sie
+für rein oder unrein zu erklären.\\
+\\
+
+
+* Footnotes
+
+[fn:1] 1-46: Das mit «Aussatz» wiedergegebene hebräische Wort
+meint nicht immer die Lepra in unserem Sinn, sondern dürfte auch andere
+Ekel erregende Hautkrankheiten bezeichnen, die man mit Lepra
+verwechselte.
+
+[fn:2] 47-59: Da man nur vom äußeren Anschein ausging, galten
+auch Veränderungen an Kleidern durch Fäulnis oder Verrottung, die
+entsprechenden Krankheitserscheinungen auf der menschlichen Haut
+ähnelten, als lepraverdächtig und ansteckend.

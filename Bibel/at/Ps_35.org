@@ -1,0 +1,217 @@
+#+TITLE: Ps 35 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-28 Do 21:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 35.html
+
+* Ps 35
+
+<<verses>>
+
+<<v1>>
+* Bitte um Rettung vor falschen Anklägern
+
+1 [Von David.] Streite, Herr, gegen alle, die gegen mich streiten, /\\
+ bekämpfe alle, die mich bekämpfen!\\
+\\
+
+<<v2>>
+2 Ergreife Schild und Waffen; /\\
+ steh auf, um mir zu helfen!\\
+\\
+
+<<v3>>
+3 Schwing den Speer und die Lanze gegen meine Verfolger! /\\
+ Sag zu mir: «Ich bin deine Hilfe.»\\
+\\
+
+<<v4>>
+4 In Schmach und Schande sollen alle fallen, /\\
+ die mir nach dem Leben trachten. Zurückweichen sollen sie und vor Scham
+erröten, /\\
+ die auf mein Unglück sinnen. [fn:1]\\
+\\
+
+<<v5>>
+5 Sie sollen werden wie Spreu vor dem Wind; /\\
+ der Engel des Herrn stoße sie fort. [fn:2]\\
+\\
+
+<<v6>>
+6 Ihr Weg soll finster und schlüpfrig sein; /\\
+ der Engel des Herrn verfolge sie. [fn:3]\\
+\\
+
+<<v7>>
+7 Denn sie haben mir ohne Grund ein Netz gelegt, /\\
+ mir ohne Grund eine Grube gegraben. [fn:4]\\
+\\
+
+<<v8>>
+8 Unvermutet ereile ihn das Verderben; /\\
+ er fange sich selbst in seinem Netz, /\\
+ er falle in die eigene Grube. [fn:5]\\
+\\
+
+<<v9>>
+9 Meine Seele aber wird jubeln über den Herrn /\\
+ und sich über seine Hilfe freuen.\\
+\\
+
+<<v10>>
+10 Mit Leib und Seele will ich sagen: /\\
+ Herr, wer ist wie du? Du entreißt den Schwachen dem, der stärker ist,
+/\\
+ den Schwachen und Armen dem, der ihn ausraubt. [fn:6] [fn:7]\\
+\\
+
+<<v11>>
+11 Da treten ruchlose Zeugen auf. /\\
+ Man wirft mir Dinge vor, von denen ich nichts weiß. [fn:8]\\
+\\
+
+<<v12>>
+12 Sie vergelten mir Gutes mit Bösem; /\\
+ ich bin verlassen und einsam. [fn:9] [fn:10]\\
+\\
+
+<<v13>>
+13 Ich aber zog ein Bußkleid an, als sie erkrankten, /\\
+ und quälte mich ab mit Fasten. /\\
+ Nun kehre mein Gebet zurück in meine Brust. [fn:11]\\
+\\
+
+<<v14>>
+14 Als wäre es ein Freund oder ein Bruder, /\\
+ so ging ich betrübt umher, wie man Leid trägt um die Mutter, /\\
+ trauernd und tief gebeugt.\\
+\\
+
+<<v15>>
+15 Doch als ich stürzte, lachten sie /\\
+ und taten sich zusammen. Sie taten sich gegen mich zusammen /\\
+ wie Fremde, die ich nicht kenne. Sie hören nicht auf, mich zu schmähen;
+/ [fn:12]\\
+\\
+
+<<v16>>
+16 sie verhöhnen und verspotten mich, /\\
+ knirschen gegen mich mit den Zähnen. [fn:13]\\
+\\
+
+<<v17>>
+17 Herr, wie lange noch wirst du das ansehn? /\\
+ Rette mein Leben vor den wilden Tieren, /\\
+ mein einziges Gut vor den Löwen! [fn:14]\\
+\\
+
+<<v18>>
+18 Ich will dir danken in großer Gemeinde, /\\
+ vor zahlreichem Volk dich preisen. [fn:15]\\
+\\
+
+<<v19>>
+19 Über mich sollen die sich nicht freuen, /\\
+ die mich ohne Grund befeinden. Sie sollen nicht mit den Augen zwinkern,
+/\\
+ die mich grundlos hassen. [fn:16]\\
+\\
+
+<<v20>>
+20 Denn was sie reden, dient nicht dem Frieden; /\\
+ gegen die Stillen im Land ersinnen sie listige Pläne.\\
+\\
+
+<<v21>>
+21 Sie reißen den Mund gegen mich auf und sagen: /\\
+ «Dir geschieht recht. Jetzt sehen wir's mit eigenen Augen.» [fn:17]\\
+\\
+
+<<v22>>
+22 Du hast es gesehen, Herr. So schweig doch nicht! /\\
+ Herr, bleib mir nicht fern! [fn:18]\\
+\\
+
+<<v23>>
+23 Wach auf, tritt ein für mein Recht, /\\
+ verteidige mich, mein Gott und mein Herr!\\
+\\
+
+<<v24>>
+24 Verschaff mir Recht nach deiner Gerechtigkeit, Herr, mein Gott! /\\
+ Sie sollen sich über mich nicht freuen.\\
+\\
+
+<<v25>>
+25 Lass sie nicht denken: «Recht so! Das freut uns.» /\\
+ Sie sollen nicht sagen: «Wir haben ihn verschlungen.»\\
+\\
+
+<<v26>>
+26 In Schmach und Schande sollen alle fallen, /\\
+ die sich über mein Unglück freuen, in Schimpf und Schande sich kleiden,
+/\\
+ die gegen mich prahlen. [fn:19]\\
+\\
+
+<<v27>>
+27 Alle sollen sich freuen und jubeln, /\\
+ die wünschen, dass ich im Recht bin. Sie sollen jederzeit sagen: «Groß
+ist der Herr, /\\
+ er will das Heil seines Knechtes.» [fn:20]\\
+\\
+
+<<v28>>
+28 Meine Zunge soll deine Gerechtigkeit verkünden, /\\
+ dein Lob alle Tage. [fn:21]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_40.org::v15][40,15]]
+
+[fn:2] [[file:Ps_1.org::v4][1,4]]; [[file:Ps_83.org::v14][83,14]]; [[file:Ps_34.org::v8][34,8]]
+
+[fn:3] [[file:Ps_73.org::v18][73,18]]; [[file:Jer_23.org::v12][Jer 23,12]]
+
+[fn:4] [[file:Jer_18.org::v20][Jer 18,20]]; (7-8) [[file:Ps_7.org::v16][7,16]]; [[file:Ijob_18.org::v8][Ijob 18,8f]]
+
+[fn:5] Wörtlich: er falle hinein zum Verderben.
+
+[fn:6] [[file:Ps_71.org::v19][71,19]]; [[file:Ps_77.org::v14][77,14]]; [[file:Ps_89.org::v7][89,7f]]; [[file:Ps_113.org::v5][113,5]]; [[file:Ex_15.org::v11][Ex 15,11]]
+
+[fn:7] Wörtlich: Alle meine Knochen sollen sagen.
+
+[fn:8] [[file:Ps_27.org::v12][27,12]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_26.org::v59][Mt 26,59f]]
+
+[fn:9] [[file:Ps_38.org::v21][38,21]]; [[file:Ps_109.org::v5][109,5]]; [[file:Jer_18.org::v20][Jer 18,20]]
+
+[fn:10] ich bin . . . einsam, wörtlich: Kinderlosigkeit meiner Seele.
+
+[fn:11] [[file:Ps_109.org::v4][109,4]]
+
+[fn:12] H ist unverständlich.
+
+[fn:13] Text korr.
+
+[fn:14] [[file:Ps_17.org::v12][17,12]]
+
+[fn:15] [[file:Ps_22.org::v23][22,23]]
+
+[fn:16] [[file:Ps_25.org::v19][25,19]]; [[file:Ps_69.org::v5][69,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_15.org::v25][Joh 15,25]]
+
+[fn:17] [[file:Ps_40.org::v16][40,16]]; [[file:Klgl_2.org::v16][Klgl 2,16]]
+
+[fn:18] [[file:Ps_38.org::v22][38,22]]; [[file:Hab_1.org::v13][Hab 1,13]]; [[file:Ps_22.org::v12][Ps 22,12]]
+
+[fn:19] [[file:Ps_40.org::v15][40,15]]
+
+[fn:20] [[file:Ps_40.org::v17][40,17]]
+
+[fn:21] [[file:Ps_71.org::v15][71,15]]

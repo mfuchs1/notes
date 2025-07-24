@@ -1,0 +1,195 @@
+#+TITLE: Ex 25 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 23:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 25.html
+
+<<verses>>
+
+<<v1>>
+* Die Anordnungen für Heiligtum und Kult: 25,1 - 31,17
+
+* Das Heiligtum und seine Geräte:
+1 Der Herr sprach zu Mose: [fn:1]
+
+<<v2>>
+2 Sag zu den Israeliten, sie sollen für mich eine Abgabe erheben. Von
+jedem, den sein Sinn dazu bewegt, sollt ihr die Abgabe erheben.
+
+<<v3>>
+3 Das ist die Abgabe, die ihr von ihnen erheben sollt: Gold, Silber,
+Kupfer,
+
+<<v4>>
+4 violetten und roten Purpur, Karmesin, Byssus, Ziegenhaare,
+
+<<v5>>
+5 rötliche Widderfelle, Tahaschhäute und Akazienholz; [fn:2]
+
+<<v6>>
+6 Öl für den Leuchter, Balsame für das Salböl und für duftendes
+Räucherwerk;
+
+<<v7>>
+7 Karneolsteine und Ziersteine für Efod und Lostasche. [fn:3]
+
+<<v8>>
+8 Macht mir ein Heiligtum! Dann werde ich in ihrer Mitte wohnen.
+
+<<v9>>
+9 Genau nach dem Muster der Wohnstätte und aller ihrer Gegenstände, das
+ich dir zeige, sollt ihr es herstellen. [fn:4]
+
+<<v10>>
+10 Macht eine Lade aus Akazienholz, zweieinhalb Ellen lang, anderthalb
+Ellen breit und anderthalb Ellen hoch! [fn:5]
+
+<<v11>>
+11 Überzieh sie innen und außen mit purem Gold und bring daran
+ringsherum eine Goldleiste an!
+
+<<v12>>
+12 Gieß für sie vier Goldringe und befestige sie an ihren vier Füßen,
+zwei Ringe an der einen Seite und zwei Ringe an der anderen Seite!
+
+<<v13>>
+13 Fertige Stangen aus Akazienholz an und überzieh sie mit Gold!
+
+<<v14>>
+14 Steck die Stangen durch die Ringe an den Seiten der Lade, sodass man
+die Lade damit tragen kann.
+
+<<v15>>
+15 Die Stangen sollen in den Ringen der Lade bleiben; man soll sie nicht
+herausziehen.
+
+<<v16>>
+16 In die Lade sollst du die Bundesurkunde legen, die ich dir gebe.
+
+<<v17>>
+17 Verfertige auch eine Deckplatte aus purem Gold zweieinhalb Ellen lang
+und anderthalb Ellen breit!
+
+<<v18>>
+18 Mach zwei Kerubim aus getriebenem Gold und arbeite sie an den beiden
+Enden der Deckplatte heraus!
+
+<<v19>>
+19 Mach je einen Kerub an dem einen und dem andern Ende; auf der
+Deckplatte macht die Kerubim an den beiden Enden!
+
+<<v20>>
+20 Die Kerubim sollen die Flügel nach oben ausbreiten, mit ihren Flügeln
+die Deckplatte beschirmen und sie sollen ihre Gesichter einander
+zuwenden; der Deckplatte sollen die Gesichter der Kerubim zugewandt
+sein.
+
+<<v21>>
+21 Setz die Deckplatte oben auf die Lade und in die Lade leg die
+Bundesurkunde, die ich dir gebe.
+
+<<v22>>
+22 Dort werde ich mich dir zu erkennen geben und dir über der Deckplatte
+zwischen den beiden Kerubim, die auf der Lade der Bundesurkunde sind,
+alles sagen, was ich dir für die Israeliten auftragen werde.
+
+<<v23>>
+23 Fertige auch einen Tisch aus Akazienholz an, zwei Ellen lang, eine
+Elle breit und anderthalb Ellen hoch! [fn:6]
+
+<<v24>>
+24 Überzieh ihn mit purem Gold und bring daran ringsherum eine
+Goldleiste an!
+
+<<v25>>
+25 Mach ihm ringsherum eine handbreite Einfassung und verfertige um
+diese Einfassung eine goldene Leiste!
+
+<<v26>>
+26 Mach ihm vier Goldringe und befestige die Ringe an den vier Ecken,
+die von seinen vier Füßen gebildet werden.
+
+<<v27>>
+27 Die Ringe sollen dicht unter der Einfassung die Stangen aufnehmen,
+mit denen man den Tisch trägt.
+
+<<v28>>
+28 Mach die Stangen aus Akazienholz und überzieh sie mit Gold! Mit ihnen
+soll man den Tisch tragen.
+
+<<v29>>
+29 Dazu mach Schüsseln, Schalen, Kannen und Krüge für die Trankopfer!
+Aus purem Gold sollst du sie anfertigen.
+
+<<v30>>
+30 Auf dem Tisch sollst du ständig Schaubrote vor mir auflegen.
+
+<<v31>>
+31 Verfertige auch einen Leuchter aus purem Gold! Der Leuchter, sein
+Gestell, sein Schaft, seine Kelche, Knospen und Blüten sollen aus einem
+Stück getrieben sein. [fn:7]
+
+<<v32>>
+32 Von seinen Seiten sollen sechs Arme ausgehen, drei Leuchterarme auf
+der einen Seite und drei auf der anderen Seite.
+
+<<v33>>
+33 Der erste Arm soll drei mandelblütenförmige Kelche mit je einer
+Knospe und einer Blüte aufweisen und der zweite Arm soll drei
+mandelblütenförmige Kelche mit je einer Knospe und einer Blüte
+aufweisen; so alle sechs Arme, die von dem Leuchter ausgehen.
+
+<<v34>>
+34 Auf dem Schaft des Leuchters sollen vier mandelblütenförmige Kelche,
+Knospen und Blüten sein,
+
+<<v35>>
+35 je eine Knospe unten zwischen zwei Armen, entsprechend den sechs
+Armen, die vom Leuchter ausgehen.
+
+<<v36>>
+36 Seine Knospen und die Arme sollen ein Ganzes mit dem Schaft bilden;
+das Ganze soll ein Stück aus getriebenem purem Gold sein.
+
+<<v37>>
+37 Dann mach für den Leuchter sieben Lampen und setze seine Lampen so
+auf, dass sie das Licht nach vorn fallen lassen;
+
+<<v38>>
+38 dazu Dochtscheren und Pfannen aus purem Gold.
+
+<<v39>>
+39 Aus einem Talent puren Goldes soll man den Leuchter und alle diese
+Geräte machen.
+
+<<v40>>
+40 Sieh zu, dass du ihn nach dem Muster ausführst, das du auf dem Berg
+gesehen hast.
+
+
+* Footnotes
+
+[fn:1] (1-9) 35,4-10
+
+[fn:2] Was Tahaschhäute sind, wissen wir nicht; man vermutet,
+dass es Haut von Meerestieren (Delphinen?) war.
+
+[fn:3] Das Efod ist hier ein Kleidungsstück des Priesters.
+Seine Form hat sich im Lauf der Zeit geändert. In Ri 8,24-27 und
+18,14-20 scheint es eher ein Kultobjekt, ein Gottesbild, gewesen zu
+sein.
+
+[fn:4] «Wohnstätte» ist in der P-Schicht Ausdruck für das
+Zeltheiligtum, das als Wohnstätte Gottes unter dem wandernden Volk galt.
+
+[fn:5] (10-22) 37,1-9
+
+[fn:6] (23-30) 37,10-16
+
+[fn:7] (31-40) 37,17-24

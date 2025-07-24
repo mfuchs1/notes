@@ -1,0 +1,126 @@
+#+TITLE: Ex 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 22:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/Ex 5.html
+
+
+<<v1>>
+* Die erfolglosen Verhandlungen mit dem Pharao: 5,1-19
+
+1 Danach gingen Mose und Aaron zum Pharao und sagten: So spricht Jahwe,
+der Gott Israels: Lass mein Volk ziehen, damit sie mir in der Wüste ein
+Fest feiern können.
+
+<<v2>>
+2 Der Pharao erwiderte: Wer ist Jahwe, dass ich auf ihn hören und Israel
+ziehen lassen sollte? Ich kenne Jahwe nicht und denke auch nicht daran,
+Israel ziehen zu lassen.
+
+<<v3>>
+3 Da sagten sie: Der Gott der Hebräer ist uns begegnet und jetzt wollen
+wir drei Tagesmärsche weit in die Wüste ziehen und Jahwe, unserem Gott,
+Schlachtopfer darbringen, damit er uns nicht mit Pest oder Schwert
+straft.
+
+<<v4>>
+4 Der König von Ägypten entgegnete ihnen: Warum, Mose und Aaron, wollt
+ihr die Leute zum Nichtstun verleiten? Fort mit euch, tut euren
+Frondienst!
+
+<<v5>>
+5 Der Pharao fuhr fort: So viele Leute sind jetzt im Land und ihr wollt
+sie vom Frondienst abhalten?
+
+<<v6>>
+6 Am selben Tag noch gab der Pharao den Antreibern der Leute und den
+Listenführern die Anweisung:
+
+<<v7>>
+7 Gebt den Leuten nicht mehr, wie bisher, Stroh zum Ziegelmachen! Sie
+sollen selber gehen und sich Stroh besorgen. [fn:1]
+
+<<v8>>
+8 Legt ihnen aber das gleiche Soll an Ziegeln auf, das sie bisher
+erfüllen mussten. Lasst ihnen davon nichts nach! Denn sie sind faul, und
+deshalb schreien sie: Wir wollen gehen und unserem Gott Schlachtopfer
+darbringen.
+
+<<v9>>
+9 Erschwert man den Leuten die Arbeit, dann sind sie beschäftigt und
+kümmern sich nicht um leeres Geschwätz.
+
+<<v10>>
+10 Da gingen die Antreiber der Leute und die Listenführer zu den Leuten
+und sagten: So spricht der Pharao: Ich gebe euch kein Stroh mehr.
+
+<<v11>>
+11 Geht selbst und besorgt euch Stroh, wo ihr es findet. Von eurem
+Arbeitssoll aber wird euch nichts erlassen.
+
+<<v12>>
+12 Die Leute verteilten sich also über ganz Ägypten, um sich Stroh zu
+besorgen.
+
+<<v13>>
+13 Die Antreiber drängten und sagten: Ihr müsst euer tägliches Soll
+erfüllen wie bisher, als euch noch Stroh geliefert wurde.
+
+<<v14>>
+14 Die Antreiber des Pharao schlugen die israelitischen Listenführer,
+die sie eingesetzt hatten, und sagten: Warum habt ihr heute nicht wie
+neulich noch das festgesetzte Soll an Ziegeln erfüllt?
+
+<<v15>>
+15 Da gingen die israelitischen Listenführer zum Pharao und erhoben vor
+ihm Klage: Warum tust du deinen Sklaven das an?
+
+<<v16>>
+16 Man gibt deinen Sklaven kein Stroh, aber man sagt uns: Macht Ziegel!
+Schau, man hat deine Sklaven geschlagen; die Schuld aber liegt bei
+deinen Leuten.
+
+<<v17>>
+17 Er entgegnete: Faul seid ihr, faul. Nur deshalb sagt ihr: Wir wollen
+gehen und Jahwe Schlachtopfer darbringen.
+
+<<v18>>
+18 Jetzt aber fort mit euch und tut eure Arbeit! Stroh bekommt ihr
+nicht, aber euer Soll an Ziegeln müsst ihr erfüllen.
+
+<<v19>>
+19 Da sahen sich die israelitischen Listenführer in einer üblen Lage,
+weil man ihnen sagte: Nichts von eurem täglichen Soll an Ziegeln wird
+euch erlassen.\\
+\\
+
+<<v20>>
+* Die Klage des Mose und die Verheißung Gottes: 5,20 - 6,13
+
+20 Als sie vom Pharao kamen, stießen sie auf Mose und Aaron, die ihnen
+entgegenkamen.
+
+<<v21>>
+21 Die Listenführer sagten zu ihnen: Der Herr soll euch erscheinen und
+euch richten; denn ihr habt uns beim Pharao und seinen Dienern in Verruf
+gebracht und ihnen ein Schwert in die Hand gegeben, mit dem sie uns
+umbringen können.
+
+<<v22>>
+22 Da wandte sich Mose an den Herrn und sagte: Mein Herr, warum
+behandelst du dieses Volk so schlecht? Wozu hast du mich denn gesandt?
+
+<<v23>>
+23 Seit ich zum Pharao gegangen bin, um in deinem Namen zu reden,
+behandelt er dieses Volk noch schlechter, aber du hast dein Volk nicht
+gerettet.
+
+
+* Footnotes
+
+[fn:1] Stroh, zu Häcksel geschnitten, dient bei der Ziegelherstellung als Bindemittel für den Lehm.

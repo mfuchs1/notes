@@ -1,0 +1,203 @@
+#+TITLE: Spr 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-24 Sa 00:09]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 11.html
+
+* Spr 11
+
+<<verses>>
+
+<<v1>>
+1 Falsche Waage ist dem Herrn ein Gräuel, /\\
+ volles Gewicht findet sein Gefallen. [fn:1]\\
+\\
+
+<<v2>>
+2 Kommt Übermut, kommt auch Schande, /\\
+ doch bei den Bescheidenen ist die Weisheit zu Hause.\\
+\\
+
+<<v3>>
+3 Die Redlichen leitet ihre Lauterkeit, /\\
+ die Verräter richtet ihre Falschheit zugrunde.\\
+\\
+
+<<v4>>
+4 Reichtum hilft nicht am Tag des Zorns, /\\
+ Gerechtigkeit aber rettet vor dem Tod.\\
+\\
+
+<<v5>>
+5 Dem Lauteren ebnet seine Gerechtigkeit den Weg, /\\
+ der Frevler aber kommt durch seine Bosheit zu Fall.\\
+\\
+
+<<v6>>
+6 Die Redlichen rettet ihre Gerechtigkeit, /\\
+ die Verräter schlägt ihre eigene Gier in Fesseln.\\
+\\
+
+<<v7>>
+7 Beim Tod des Frevlers wird sein Hoffen zunichte, /\\
+ die falsche Erwartung schwindet dahin. [fn:2]\\
+\\
+
+<<v8>>
+8 Der Gerechte wird aus der Not gerettet, /\\
+ an seine Stelle tritt der Böse.\\
+\\
+
+<<v9>>
+9 Vom Mund des Ruchlosen droht dem Nächsten Verderben, /\\
+ die Gerechten befreien sich durch ihre Umsicht.\\
+\\
+
+<<v10>>
+10 Wenn es dem Gerechten gut geht, freut sich die Stadt; /\\
+ sie jubelt beim Untergang der Frevler.\\
+\\
+
+<<v11>>
+11 Eine Stadt kommt hoch durch den Segen der Redlichen, /\\
+ durch den Mund der Frevler wird sie niedergerissen.\\
+\\
+
+<<v12>>
+12 Wer den Nächsten verächtlich macht, /\\
+ ist ohne Verstand, /\\
+ doch ein kluger Mensch schweigt.\\
+\\
+
+<<v13>>
+13 Wer als Verleumder umhergeht, /\\
+ gibt Geheimnisse preis, /\\
+ der Verlässliche behält eine Sache für sich. [fn:3]\\
+\\
+
+<<v14>>
+14 Fehlt es an Führung, kommt ein Volk zu Fall, /\\
+ Rettung ist dort, wo viele Ratgeber sind. [fn:4]\\
+\\
+
+<<v15>>
+15 Wer für einen Fremden bürgt, ist übel daran; /\\
+ wer den Handschlag ablehnt, geht sicher. [fn:5]\\
+\\
+
+<<v16>>
+16 Eine liebenswerte Frau kommt zu Ehren, /\\
+ Sitz der Schande ist ein Weib, das gute Sitten hasst. /\\
+ Die Faulen bringen es zu nichts, /\\
+ wer fleißig ist, kommt zu Reichtum. [fn:6]\\
+\\
+
+<<v17>>
+17 Die Güte eines Menschen kommt ihm selbst zugute, /\\
+ der Hartherzige schneidet sich ins eigene Fleisch. [fn:7]\\
+\\
+
+<<v18>>
+18 Der Frevler erzielt trügerischen Gewinn, /\\
+ wer Gerechtigkeit sät, hat beständigen Ertrag.\\
+\\
+
+<<v19>>
+19 Wer in der Gerechtigkeit fest steht, erlangt das Leben, /\\
+ wer dem Bösen nachjagt, den Tod. [fn:8]\\
+\\
+
+<<v20>>
+20 Verkehrte Menschen sind dem Herrn ein Gräuel, /\\
+ er hat Gefallen an denen, die den rechten Weg gehen.\\
+\\
+
+<<v21>>
+21 Gewiss, der Böse bleibt nicht ungestraft, /\\
+ doch die Söhne der Gerechten werden gerettet. [fn:9]\\
+\\
+
+<<v22>>
+22 Ein goldener Ring im Rüssel eines Schweins /\\
+ ist ein Weib, schön, aber sittenlos.\\
+\\
+
+<<v23>>
+23 Das Begehren der Gerechten führt zu vollem Glück, /\\
+ die Hoffnung der Frevler endet im Zorngericht.\\
+\\
+
+<<v24>>
+24 Mancher teilt aus und bekommt immer mehr, /\\
+ ein anderer kargt übers Maß und wird doch ärmer. [fn:10]\\
+\\
+
+<<v25>>
+25 Wer wohltätig ist, wird reich gesättigt, /\\
+ wer andere labt, wird selbst gelabt.\\
+\\
+
+<<v26>>
+26 Wer Getreide zurückhält, den verwünschen die Leute, /\\
+ wer Korn auf den Markt bringt, auf dessen Haupt kommt Segen.\\
+\\
+
+<<v27>>
+27 Wer Gutes erstrebt, sucht das Gefallen Gottes; /\\
+ wer nach dem Bösen trachtet, den trifft es.\\
+\\
+
+<<v28>>
+28 Wer auf seinen Reichtum vertraut, der fällt, /\\
+ die Gerechten aber sprossen wie grünes Laub.\\
+\\
+
+<<v29>>
+29 Wer sein Haus verkommen lässt, erntet Wind, /\\
+ und der Tor wird Sklave des Weisen. [fn:11]\\
+\\
+
+<<v30>>
+30 Die Frucht der Gerechtigkeit ist ein Lebensbaum, /\\
+ Gewalttat raubt die Lebenskraft. [fn:12]\\
+\\
+
+<<v31>>
+31 Wird dem Gerechten vergolten auf der Erde, /\\
+ dann erst recht dem Frevler und Sünder. [fn:13]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Dtn_25.org::v13][Dtn 25,13-16]]
+
+[fn:2] Text unsicher, da in G abweichend.
+
+[fn:3] [[file:Spr_20.org::v19][20,19]]; [[file:Sir_27.org::v17][Sir 27,17]]
+
+[fn:4] [[file:Spr_13.org::v10][13,10]]; [[file:Sir_37.org::v7][Sir 37,7-14]]
+
+[fn:5] [[file:Spr_6.org::v1][6,1-5]]
+
+[fn:6] So nach G
+
+[fn:7] [[file:Spr_9.org::v12][9,12]]
+
+[fn:8] [[file:Spr_12.org::v28][12,28]]; [[file:Dtn_30.org::v15][Dtn 30,15f]]
+
+[fn:9] [[file:Spr_16.org::v5][16,5]]; [[file:Ps_112.org::v2][Ps 112,2]]
+
+[fn:10] [[file:Ps_37.org::v21][Ps 37,21f]]
+
+[fn:11] [[file:Koh_2.org::v11][Koh 2,11]]
+
+[fn:12] 30b: So nach G.
+
+[fn:13] [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_4.org::v18][1 Petr 4,18]]

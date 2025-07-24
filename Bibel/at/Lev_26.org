@@ -1,0 +1,262 @@
+#+TITLE: Lev 26 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-13 Fr 09:44]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 26.html
+
+<<verses>>
+
+<<v1>>
+* Segen und Fluch: 26,1-46
+
+* Die Grundforderungen Gottes: 26,1-2
+
+1 Ihr sollt euch keine Götzen machen, euch weder ein Gottesbild noch ein
+Steinmal aufstellen und in eurem Land keine Steine mit Bildwerken
+aufrichten, um euch vor ihnen niederzuwerfen; denn ich bin der Herr,
+euer Gott. [fn:1]
+
+<<v2>>
+2 Ihr sollt auf meine Sabbate achten und mein Heiligtum fürchten; ich
+bin der Herr.\\
+\\
+
+<<v3>>
+* Die Segenszusage für Gehorsam: 26,3-13
+
+3 Wenn ihr nach meinen Satzungen handelt, auf meine Gebote achtet und
+sie befolgt, [fn:2] [fn:3]
+
+<<v4>>
+4 so gebe ich euch Regen zur rechten Zeit; die Erde liefert ihren
+Ertrag, und der Baum des Feldes gibt seine Früchte;
+
+<<v5>>
+5 die Dreschzeit reicht bei euch bis zur Weinlese und die Weinlese bis
+zur Aussaat. Ihr esst euch satt an eurem Brot und wohnt in eurem Land in
+Sicherheit.
+
+<<v6>>
+6 Ich schaffe Frieden im Land: Ihr legt euch nieder und niemand schreckt
+euch auf. Ich lasse die Raubtiere aus dem Land verschwinden. Kein
+Schwert kommt über euer Land.
+
+<<v7>>
+7 Verfolgt ihr eure Feinde, so werden sie vor euren Augen dem Schwert
+verfallen.
+
+<<v8>>
+8 Fünf von euch werden hundert verfolgen, hundert von euch werden
+zehntausend verfolgen und eure Feinde werden vor euren Augen dem Schwert
+verfallen.
+
+<<v9>>
+9 Euch wende ich mich zu, mache euch fruchtbar und zahlreich und halte
+meinen Bund mit euch aufrecht.
+
+<<v10>>
+10 Ihr werdet noch von der alten Ernte zu essen haben und das Alte
+hinausschaffen müssen, um Platz für das Neue zu haben.
+
+<<v11>>
+11 Ich schlage meine Wohnstätte in eurer Mitte auf und habe gegen euch
+keine Abneigung.
+
+<<v12>>
+12 Ich gehe in eurer Mitte; ich bin euer Gott und ihr seid mein Volk.
+
+<<v13>>
+13 Ich bin der Herr, euer Gott, der euch aus dem Land der Ägypter
+herausgeführt hat, sodass ihr nicht mehr ihre Sklaven zu sein braucht.
+Ich habe eure Jochstangen zerbrochen und euch wieder aufrecht gehen
+lassen.\\
+\\
+
+<<v14>>
+* Strafandrohung und Fluch für Ungehorsam: 26,14-38
+
+14 Aber wenn ihr auf mich nicht hört und alle diese Gebote nicht
+befolgt, [fn:4]
+
+<<v15>>
+15 wenn ihr meine Satzungen missachtet, meine Vorschriften verabscheut
+und meinen Bund brecht, indem ihr keines meiner Gebote befolgt,
+
+<<v16>>
+16 so tue auch ich euch Folgendes an: Ich biete gegen euch Bestürzung
+auf, Schwindsucht und Fieber, die das Augenlicht zum Verlöschen bringen
+und den Atem ersticken. Ihr sät euer Saatgut vergeblich; eure Feinde
+werden es verzehren.
+
+<<v17>>
+17 Ich wende mein Angesicht gegen euch und ihr werdet von euren Feinden
+geschlagen. Eure Gegner treten euch nieder; ihr flieht, selbst wenn euch
+niemand verfolgt.
+
+<<v18>>
+18 Wenn ihr dann immer noch nicht auf mich hört, fahre ich fort, euch zu
+züchtigen; siebenfach züchtige ich euch für eure Sünden.
+
+<<v19>>
+19 Ich breche eure stolze Macht und mache euren Himmel wie Eisen und
+euer Land wie Bronze.
+
+<<v20>>
+20 Eure Kraft verbraucht sich vergeblich, euer Land liefert keinen
+Ertrag mehr und die Bäume im Land tragen keine Früchte mehr.
+
+<<v21>>
+21 Wenn ihr mir feindlich begegnet und nicht auf mich hören wollt, werde
+ich noch weitere Schläge über euch kommen lassen, siebenfach, wie es
+euren Sünden entspricht.
+
+<<v22>>
+22 Ich lasse auf euch die wilden Tiere los, die euer Land entvölkern,
+euer Vieh vernichten und euch an Zahl so verringern, dass eure Wege
+veröden.
+
+<<v23>>
+23 Wenn ihr euch dadurch noch nicht warnen lasst und mir weiterhin
+feindlich begegnet,
+
+<<v24>>
+24 begegne auch ich euch feindlich und schlage auch ich euch siebenfach
+für eure Sünden.
+
+<<v25>>
+25 Ich lasse über euch das Schwert kommen, das Rache für den Bund nehmen
+wird. Zieht ihr euch in eure Städte zurück, so sende ich die Pest in
+eure Mitte und ihr geratet in Feindeshand.
+
+<<v26>>
+26 Ich entziehe euch dann euren Vorrat an Brot, sodass zehn Frauen euer
+Brot in einem einzigen Backofen backen, dass man euch das Brot abgewogen
+zuteilt und ihr euch nicht satt essen könnt. [fn:5]
+
+<<v27>>
+27 Und wenn ihr daraufhin noch immer nicht auf mich hört und mir immer
+noch feindlich begegnet,
+
+<<v28>>
+28 begegne auch ich euch im Zorn und züchtige euch siebenfach für eure
+Sünden.
+
+<<v29>>
+29 Ihr esst das Fleisch eurer Söhne und Töchter.
+
+<<v30>>
+30 Ich vernichte eure Kulthöhen, zerstöre eure Räucheraltäre, häufe eure
+Leichen über die Leichen eurer Götzen und verabscheue euch.
+
+<<v31>>
+31 Ich mache eure Städte zu Ruinen, verwüste eure Heiligtümer und will
+den beruhigenden Duft eurer Opfer nicht mehr riechen.
+
+<<v32>>
+32 Ich selbst verwüste das Land; eure Feinde, die sich darin
+niederlassen, werden darüber entsetzt sein.
+
+<<v33>>
+33 Euch aber zerstreue ich unter die Völker und zücke hinter euch das
+Schwert. Euer Land wird zur Wüste und eure Städte werden zu Ruinen.
+
+<<v34>>
+34 Dann erhält das Land seine Sabbate ersetzt, in der ganzen Zeit der
+Verwüstung, während ihr im Land eurer Feinde seid. Dann hat das Land
+Ruhe und erhält Ersatz für seine Sabbate. [fn:6]
+
+<<v35>>
+35 Während der ganzen Zeit der Verwüstung hat es Sabbatruhe, die es an
+euren Sabbaten nicht hatte, als ihr noch darin wohntet.
+
+<<v36>>
+36 In das Herz derer, die von euch überleben, bringe ich Angst in den
+Ländern ihrer Feinde; das bloße Rascheln verwelkter Blätter jagt sie auf
+und sie fliehen, wie man vor dem Schwert flieht; sie fallen, ohne dass
+jemand sie verfolgt.
+
+<<v37>>
+37 Sie stürzen übereinander wie vor dem Schwert, ohne dass jemand sie
+verfolgt. Ihr könnt vor euren Feinden nicht standhalten,
+
+<<v38>>
+38 ihr geht unter den Völkern zugrunde und das Land eurer Feinde frisst
+euch.\\
+\\
+
+<<v39>>
+* Umkehr und Vergebung: 26,39-45
+
+39 Diejenigen von euch, die dann noch überleben, siechen dahin in den
+Ländern eurer Feinde wegen ihrer Sünden, auch wegen der Sünden ihrer
+Väter, sodass sie, gleich ihnen, dahinsiechen.
+
+<<v40>>
+40 Dann werden sie die Schuld eingestehen, die sie selbst und ihre Väter
+begangen haben durch ihren Treubruch und auch dadurch, dass sie mir
+feindlich begegnet sind,
+
+<<v41>>
+41 sodass auch ich ihnen feindlich begegnete und sie in das Land ihrer
+Feinde führte. Ihr unbeschnittenes Herz muss sich dann beugen und ihre
+Sünden müssen sie sühnen.
+
+<<v42>>
+42 Dann werde ich meines Bundes mit Jakob gedenken, meines Bundes mit
+Isaak und meines Bundes mit Abraham und ich werde meines Landes
+gedenken.
+
+<<v43>>
+43 Das Land aber muss von ihnen verlassen werden und seine Sabbate
+ersetzt bekommen, indem es ohne seine Bewohner verödet daliegt. Sie
+sollen ihre Schuld sühnen, weil sie immer wieder meine Vorschriften
+missachtet und meine Satzungen verabscheut haben.
+
+<<v44>>
+44 Aber selbst wenn sie im Land ihrer Feinde sind, werde ich sie nicht
+missachten und sie nicht verabscheuen, um ihnen etwa ein Ende zu machen
+und meinen Bund mit ihnen zu widerrufen; denn ich bin der Herr, ihr
+Gott.
+
+<<v45>>
+45 Ich werde zu ihren Gunsten des Bundes mit den früheren Generationen
+gedenken, die ich vor den Augen der Völker aus Ägypten herausgeführt
+habe, um ihr Gott zu sein, ich, der Herr.\\
+\\
+
+<<v46>>
+* Schluss des Heiligkeitsgesetzes: 26,46
+
+46 Das sind die Satzungen, Vorschriften und Gesetze, die der Herr
+zwischen sich und den Israeliten auf dem Sinai durch die Vermittlung des
+Mose erlassen hat.\\
+\\
+
+
+* Footnotes
+
+[fn:1] 19,4 [[file:Lev_19.org::v4][Lev 19,4]]; Ex 20,4 [[file:Ex_20.org::v4][Ex 20,4]]; Dtn 5,8 [[file:Dtn_5.org::v8][Dtn 5,8]]
+
+[fn:2] (3-13) Dtn 28,1-14 [[file:Dtn_28.org::v1][Dtn 28,1-14]]
+
+[fn:3] 3-38: Im Alten Orient war es Brauch, Gesetzbücher und
+Verträge mit Flüchen und Segenssprüchen abzuschließen, um vor
+Missachtung der Gesetze oder vor Vertragsbruch abzuschrecken und zur
+Befolgung der Gesetze oder zur Vertragstreue anzuspornen. So schließt
+auch das «Heiligkeitsgesetz» hier und das ursprüngliche Deuteronomium in
+Dtn 28 mit Segen und Fluch.
+
+[fn:4] (14-38) Dtn 28,15-68 [[file:Dtn_28.org::v15][Dtn 28,15-68]]
+
+[fn:5] Ich entziehe ihnen ihren Vorrat an Brot, wörtlich: Ich
+zerbreche ihnen den Brotstab; gemeint ist der Holzpflock an der Wand,
+auf dem die ringförmigen Brote hängen.
+
+[fn:6] Der Vers bezieht sich auf das Sabbatjahr, in dem das
+Ackerland brachliegen, also Ruhe haben sollte (vgl. 25,2-7 [[file:Lev_25.org::v2][Lev 25,2-7]]).

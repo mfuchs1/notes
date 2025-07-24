@@ -1,0 +1,182 @@
+#+TITLE: Ps 136 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 22:37]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 136.html
+
+* Ps 136
+
+<<verses>>
+
+<<v1>>
+* Danklitanei für Gottes ewige Huld
+
+1 Dankt dem Herrn, denn er ist gütig, /\\
+ denn seine Huld währt ewig! [fn:1]\\
+\\
+
+<<v2>>
+2 Dankt dem Gott aller Götter, /\\
+ denn seine Huld währt ewig! [fn:2]\\
+\\
+
+<<v3>>
+3 Dankt dem Herrn aller Herren, /\\
+ denn seine Huld währt ewig!\\
+\\
+
+<<v4>>
+4 Der allein große Wunder tut, /\\
+ denn seine Huld währt ewig, [fn:3]\\
+\\
+
+<<v5>>
+5 der den Himmel geschaffen hat in Weisheit, /\\
+ denn seine Huld währt ewig, [fn:4]\\
+\\
+
+<<v6>>
+6 der die Erde über den Wassern gegründet hat, /\\
+ denn seine Huld währt ewig, [fn:5]\\
+\\
+
+<<v7>>
+7 der die großen Leuchten gemacht hat, /\\
+ denn seine Huld währt ewig, [fn:6]\\
+\\
+
+<<v8>>
+8 die Sonne zur Herrschaft über den Tag, /\\
+ denn seine Huld währt ewig,\\
+\\
+
+<<v9>>
+9 Mond und Sterne zur Herrschaft über die Nacht, /\\
+ denn seine Huld währt ewig.\\
+\\
+
+<<v10>>
+10 Der die Erstgeburt der Ägypter schlug, /\\
+ denn seine Huld währt ewig, [fn:7]\\
+\\
+
+<<v11>>
+11 und Israel herausführte aus ihrer Mitte, /\\
+ denn seine Huld währt ewig, [fn:8]\\
+\\
+
+<<v12>>
+12 mit starker Hand und erhobenem Arm, /\\
+ denn seine Huld währt ewig,\\
+\\
+
+<<v13>>
+13 der das Schilfmeer zerschnitt in zwei Teile, /\\
+ denn seine Huld währt ewig,\\
+\\
+
+<<v14>>
+14 und Israel hindurchführte zwischen den Wassern, /\\
+ denn seine Huld währt ewig, [fn:9]\\
+\\
+
+<<v15>>
+15 und den Pharao ins Meer stürzte samt seinem Heer, /\\
+ denn seine Huld währt ewig. [fn:10]\\
+\\
+
+<<v16>>
+16 Der sein Volk durch die Wüste führte, /\\
+ denn seine Huld währt ewig,\\
+\\
+
+<<v17>>
+17 der große Könige schlug, /\\
+ denn seine Huld währt ewig, [fn:11]\\
+\\
+
+<<v18>>
+18 und mächtige Könige tötete, /\\
+ denn seine Huld währt ewig,\\
+\\
+
+<<v19>>
+19 Sihon, den König der Amoriter, /\\
+ denn seine Huld währt ewig,\\
+\\
+
+<<v20>>
+20 und Og, den König von Baschan, /\\
+ denn seine Huld währt ewig,\\
+\\
+
+<<v21>>
+21 und der ihr Land zum Erbe gab, /\\
+ denn seine Huld währt ewig, [fn:12]\\
+\\
+
+<<v22>>
+22 der es Israel gab, seinem Knecht, /\\
+ denn seine Huld währt ewig. [fn:13]\\
+\\
+
+<<v23>>
+23 Der an uns dachte in unsrer Erniedrigung, /\\
+ denn seine Huld währt ewig, [fn:14]\\
+\\
+
+<<v24>>
+24 und uns den Feinden entriss, /\\
+ denn seine Huld währt ewig, [fn:15]\\
+\\
+
+<<v25>>
+25 der allen Geschöpfen Nahrung gibt, /\\
+ denn seine Huld währt ewig. [fn:16]\\
+\\
+
+<<v26>>
+26 Dankt dem Gott des Himmels, /\\
+ denn seine Huld währt ewig.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_107.org::v1][107,1]]
+
+[fn:2] [[file:Ps_82.org::v1][82,1]]; [[file:Ps_86.org::v8][86,8]]; [[file:Ps_89.org::v7][89,7-9]]; [[file:Ps_95.org::v3][95,3]]; [[file:Ps_97.org::v9][97,9]]; [[file:Ps_135.org::v5][135,5]]; [[file:Ex_18.org::v11][Ex 18,11]]; [[file:Dtn_10.org::v17][Dtn 10,17]]; [[file:Dan_2.org::v47][Dan 2,47]]
+
+[fn:3] [[file:Ps_72.org::v18][72,18]]; [[file:Ex_15.org::v11][Ex 15,11]]
+
+[fn:4] [[file:Spr_3.org::v19][Spr 3,19]]; [[file:Jer_10.org::v12][Jer 10,12]]
+
+[fn:5] [[file:Ps_24.org::v2][24,2]]
+
+[fn:6] (7-9) [[file:Gen_1.org::v14][Gen 1,14-18]]; [[file:Jer_31.org::v35][Jer 31,35]]
+
+[fn:7] [[file:Ps_78.org::v51][78,51]]
+
+[fn:8] (11-15) [[file:Ps_78.org::v52][78,52f]]
+
+[fn:9] Wörtlich: und Israel hindurchführte durch seine Mitte.
+
+[fn:10] Wörtlich: und den Pharao ins Schilfmeer stürzte.
+
+[fn:11] (17-22) [[file:Ps_135.org::v10][135,10-12]]
+
+[fn:12] [[file:Ps_44.org::v3][44,3]]
+
+[fn:13] Wörtlich: als Erbe für Israel, seinen Knecht.
+
+[fn:14] [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v48][Lk 1,48]]
+
+[fn:15] [[file:Ps_106.org::v43][106,43f]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v71][Lk 1,71]]
+
+[fn:16] [[file:Ps_145.org::v15][145,15f]]

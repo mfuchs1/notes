@@ -1,0 +1,76 @@
+#+title:      Gabriel Diary
+#+date:       [2023-08-07 Mo 11:17]
+#+filetags:   :gabriel:Project:
+#+identifier: 20230807T111759
+
+* 2023
+
+** 2023-08 August
+
+*** 2023-08-07 Montag
+**** Träume                                                        :traum:
+Entered on [2023-08-07 Mo 11:25]
+
+Gestern hat mir Gabriel am Abend von seinen Alpträumen erzählt. Es gibt zwei Monster, die ihn verfolgen - und nicht nur im Traum. Er sagt: "Nein, auch außerhalb des Traums."
+
+Eines heißt "Bloodwither" und hat drei Köpfe. Dieses Monster zerstört seine Träume.
+
+Das Andere heißt "Destorted Gabriel" und attackiert seinen Leib.
+
+Beide Namen kommen aus dem Spiel "MINECRAFT".
+
+Ich hab mit ihm einen Tee getrunken und ihm dabei erklärt, dass er am Samstag <2023-08-05 Sa> sehr viel Gutes, va Heilsames erlebt hat. Da ist es normal, dass es ihm danach nicht so toll geht. Er ist noch immer innerlich aufgewühlt. Und dann gibt es nicht nur das Gute, Gott, es gibt auch das, den Bösen. Und der will Gabriel Angst machen. Also hab ich ihm einen Rosenkranz gegeben, mit ihm und für ihn gebetet.
+
+**** Arbeit, Schule, Konzentration                                :schule:
+Entered on [2023-08-07 Mo 11:30]
+
+Auf diesem Gebiet hat Gabriel sehr viele Fortschritte gemacht. Jeder bemerkt es. Ab heute Vormittag wird Gabriel (fast) jeden Tag ein wenig Schule machen (immer Mathe, abwechselnd Deutsch und Englisch). Heute Vormittag war und ist er sehr konzentriert - auch dank der Übungen von Agnes.
+
+**** Allgemeines                                                 :gabriel:
+Entered on [2023-08-07 Mo 11:37]
+
+Dieses 'capture-template' funktioniert super. Mit den verschiedenen tags kann ich später die einzelnen Einträge suchen und filtern. Hier trage ich alles über Gabriel ein: persönliche Entwicklung, Vorkommnisse in der Schule, Träume, etc.
+
+**** Zweiter Eintrag                                             :gabriel:
+Entered on [2023-08-07 Mo 11:42]
+
+noch ein Eintrag
+
+**** Dritter Eintrag
+Entered on [2023-08-07 Mo 11:46]
+
+Jetzt klappt's. Ich werde es noch einmal mit einem tag probieren.
+
+**** Vierter Eintrag                                               :traum:
+Entered on [2023-08-07 Mo 11:48]
+
+Mal schauen, was jetzt passiert. Das passt schon - unmittelbar nach dem Eintrag schaut das org-file ein wenig komisch aus. Aber wenn ich Emacs wieder öffne ist alles okay. Also tags bleiben.
+
+*** 2023-08-08 Dienstag
+**** Flugzeugabsturz                                               :traum:
+Entered on [2023-08-08 Di 23:40]
+
+Gabriel hat heute Abend wieder von einem aktuellen Alptraum erzählt: er sitzt in einem Flugzeug, dass über dem Meer abstürzt.
+
+*** 2023-08-11 Freitag
+**** Geld                                                        :gabriel:
+Entered on [2023-08-11 Fr 15:24]
+
+Gabriel stand sehr früh auf und ist zum Skaterpark gefahren. Als Isabelle aufstand, entdeckte sie, dass ca 3 Euros in ihrer Geldtasche fehlten. Gabriel hat es vehement bestritten; wir haben ihn zum Bäcker für ein Roggenbrot geschickt.
+
+Es dauerte lange, bis Gabriel endlich zugab, dass er das Geld genommen hatte. Isabelle und Gabriel haben sich schnell wieder versöhnt.
+
+**** Alpträume                                                     :traum:
+:PROPERTIES:
+:CAPTURED: [2023-08-11 Fr 15:31]
+:END:
+
+Gabriel muss mir noch von den Alpträumen dieser Nacht erzählen; so weit ich Isabelle gehört habe, geht es fast immer um den Tod - seine große Angst.
+
+**** Spielen                                                     :gabriel:
+:PROPERTIES:
+:CAPTURED: [2023-08-11 Fr 15:34]
+:END:
+
+Gabriel muss lernen, nicht von Geld und PC Spielen abhängig zu werden. ADHS Kinder könnten zB viel Poker und viel Geld spielen und dabei große Schulden machen.
+

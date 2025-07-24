@@ -1,0 +1,209 @@
+#+TITLE: 1 Kön 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-15 Mi 21:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 16.html
+
+* 1.Kön 16
+
+<<verses>>
+
+<<v1>>
+1 Da erging das Wort des Herrn an Jehu, den Sohn Hananis, gegen Bascha:
+
+<<v2>>
+2 Ich habe dich aus dem Staub emporgehoben und zum Fürsten meines Volkes
+Israel gemacht. Du aber bist den Wegen Jerobeams gefolgt und hast mein
+Volk Israel zur Sünde verleitet, sodass sie mich durch ihre Sünden
+erzürnten.
+
+<<v3>>
+3 Darum werde ich Bascha und sein Haus wegfegen und sein Haus dem Haus
+Jerobeams, des Sohnes Nebats, gleichmachen.
+
+<<v4>>
+4 Wer vom Haus Bascha in der Stadt stirbt, den werden die Hunde fressen;
+und wer auf dem freien Feld stirbt, den werden die Vögel des Himmels
+fressen. [fn:1]
+
+<<v5>>
+5 Die übrige Geschichte Baschas, seine Taten und Erfolge, sind
+aufgezeichnet in der Chronik der Könige von Israel.
+
+<<v6>>
+6 Bascha entschlief zu seinen Vätern und wurde in Tirza begraben. Sein
+Sohn Ela wurde König an seiner Stelle.
+
+<<v7>>
+7 Das Wort des Herrn war durch den Propheten Jehu, den Sohn Hananis, an
+Bascha und sein Haus ergangen, weil er tat, was dem Herrn missfiel, weil
+er ihn durch das Werk seiner Hände erzürnte und es dem Haus Jerobeam
+gleichtat, aber auch weil er dieses ausgerottet hatte.\\
+\\
+
+<<v8>>
+* Ela von Israel: 16,8-14
+
+8 Im sechsundzwanzigsten Jahr des Königs Asa von Juda wurde Ela, der
+Sohn Baschas, König von Israel. Er regierte in Tirza zwei Jahre.
+
+<<v9>>
+9 Gegen ihn zettelte sein Knecht Simri, der Befehlshaber der einen
+Hälfte der Kriegswagen, eine Verschwörung an. Ela war in Tirza und hatte
+sich im Haus Arzas, des Palastvorstehers in Tirza, völlig betrunken.
+
+<<v10>>
+10 Simri drang ein und erschlug ihn im siebenundzwanzigsten Jahr des
+Königs Asa von Juda und wurde König an seiner Stelle.
+
+<<v11>>
+11 Als er aber König geworden war und den Thron bestiegen hatte,
+beseitigte er das ganze Haus Bascha. Er ließ nichts am Leben, was
+männlich war, keinen Verwandten und keinen Freund.
+
+<<v12>>
+12 So rottete Simri das ganze Haus Bascha aus, wie es der Herr durch den
+Propheten Jehu über Bascha vorausgesagt hatte.
+
+<<v13>>
+13 Dies geschah wegen aller Sünden, die Bascha und sein Sohn Ela
+begangen und zu denen sie Israel verführt hatten. Durch ihre Götzen
+erzürnten sie den Herrn, den Gott Israels.
+
+<<v14>>
+14 Die übrige Geschichte Elas und alle seine Taten sind aufgezeichnet in
+der Chronik der Könige von Israel.\\
+\\
+
+<<v15>>
+* Simri von Israel: 16,15-20
+
+15 Im siebenundzwanzigsten Jahr des Königs Asa von Juda war Simri sieben
+Tage König in Tirza. Das Volk belagerte damals Gibbeton, das den
+Philistern gehörte. [fn:2]
+
+<<v16>>
+16 Als das Kriegsvolk während der Belagerung hörte, dass Simri eine
+Verschwörung angezettelt und den König erschlagen hatte, rief ganz
+Israel Omri, den Befehlshaber des Heeres, noch am gleichen Tag im Lager
+zum König von Israel aus.
+
+<<v17>>
+17 Omri zog nun mit ganz Israel von Gibbeton hinauf und schloss Tirza
+ein.
+
+<<v18>>
+18 Als Simri sah, dass die Stadt genommen war, zog er sich in den
+Wohnturm des königlichen Palastes zurück, steckte den Palast über sich
+in Brand und fand den Tod.
+
+<<v19>>
+19 Dies traf ihn zur Strafe für die Sünden, die er begangen hatte; denn
+er hatte getan, was dem Herrn missfiel. Er war den Wegen Jerobeams
+gefolgt und hatte an der Sünde festgehalten, die dieser begangen und zu
+der er Israel verführt hatte.
+
+<<v20>>
+20 Die übrige Geschichte Simris und die Verschwörung, die er angezettelt
+hat, sind aufgezeichnet in der Chronik der Könige von Israel.\\
+\\
+
+<<v21>>
+* Omri von Israel: 16,21-28
+     :PROPERTIES:
+     :CUSTOM_ID: omri-von-israel-1621-28
+     :END:
+21 Damals spaltete sich das Volk Israel in zwei Parteien. Die eine
+Hälfte des Volkes stand hinter Tibni, dem Sohn Ginats, und machte ihn
+zum König; die andere Hälfte schloss sich Omri an.
+
+<<v22>>
+22 Doch die Anhänger Omris waren stärker als die Gefolgschaft Tibnis,
+des Sohnes Ginats, und als Tibni starb, wurde Omri König.
+
+<<v23>>
+23 Im einunddreißigsten Jahr des Königs Asa von Juda wurde Omri König
+von Israel. Er regierte zwölf Jahre, davon sechs in Tirza.
+
+<<v24>>
+24 Dann kaufte er von Schemer für zwei Talente Silber den Berg Samaria,
+errichtete Bauten auf ihm und nannte die Stadt, die er baute, Samaria,
+nach dem Namen Schemers, des Besitzers des Berges. [fn:3]
+
+<<v25>>
+25 Omri tat, was dem Herrn missfiel, und trieb es noch schlimmer als
+alle seine Vorgänger.
+
+<<v26>>
+26 Er folgte ganz den Wegen Jerobeams, des Sohnes Nebats, und hielt an
+der Sünde fest, zu der dieser die Israeliten verführt hatte, sodass sie
+den Herrn, den Gott Israels, durch ihre Götzen erzürnten.
+
+<<v27>>
+27 Die übrige Geschichte Omris, seine Taten und die Erfolge, die er
+errang, sind aufgezeichnet in der Chronik der Könige von Israel. [fn:4]
+
+<<v28>>
+28 Omri entschlief zu seinen Vätern und wurde in Samaria begraben. Sein
+Sohn Ahab wurde König an seiner Stelle.\\
+\\
+
+<<v29>>
+* Ahab von Israel: 16,29-34
+     :PROPERTIES:
+     :CUSTOM_ID: ahab-von-israel-1629-34
+     :END:
+29 Ahab, der Sohn Omris, wurde König von Israel im achtunddreißigsten
+Jahr des Königs Asa von Juda. Er regierte in Samaria zweiundzwanzig
+Jahre über Israel
+
+<<v30>>
+30 und tat, was dem Herrn missfiel, mehr als alle seine Vorgänger.
+
+<<v31>>
+31 Es war noch das wenigste, dass er an den Sünden Jerobeams, des Sohnes
+Nebats, festhielt. Er nahm Isebel, die Tochter Etbaals, des Königs der
+Sidonier, zur Frau, ging hin, diente dem Baal und betete ihn an.
+
+<<v32>>
+32 Im Baalstempel, den er in Samaria baute, errichtete er einen Altar
+für den Baal.
+
+<<v33>>
+33 Auch stellte er einen Kultpfahl auf und tat noch vieles andere, womit
+er den Herrn, den Gott Israels, mehr erzürnte als alle Könige Israels
+vor ihm.
+
+<<v34>>
+34 In seinen Tagen baute Hiël aus Bet-El Jericho wieder auf. Um den
+Preis seines Erstgeborenen Abiram legte er die Fundamente und um den
+Preis seines jüngsten Sohnes Segub setzte er die Tore ein, wie es der
+Herr durch Josua, den Sohn Nuns, vorausgesagt hatte. [fn:5] [fn:6]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Kön_14.org::v10][14,10f]]; [[file:1.Kön_21.org::v21][21,21-24]]; [[file:2.Kön_9.org::v8][2 Kön 9,8]]
+
+[fn:2] [[file:1.Kön_15.org::v27][15,27]]
+
+[fn:3] Das wichtigste Ereignis in der Geschichte Omris ist die
+Gründung einer neuen Hauptstadt Samaria. Die Palastanlagen Omris
+(Umrisse sind zum Teil noch erkennbar) wurden erst unter Ahab zu Ende
+geführt. Schemer war vielleicht der Name des Berges und des
+Familienverbands, dem er gehörte. Nach ihm erhielt die Stadt den Namen
+Schomron, griechisch Samaria.
+
+[fn:4] Von der Bedeutung und dem Ansehen Omris zeugt die
+Bezeichnung «Haus Omri» für das Nordreich in assyrischen Inschriften.
+
+[fn:5] [[file:Jos_6.org::v26][Jos 6,26]]
+
+[fn:6] Der Tod der beiden Söhne mag auf einem Unglücksfall
+beruhen; man sah aber darin die Erfüllung des Fluchs.

@@ -1,0 +1,93 @@
+#+TITLE: Ps 75 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-02 Fr 16:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 75.html
+
+* Ps 75
+
+<<verses>>
+
+<<v1>>
+* Gott, der gerechte Richter
+
+1 [Für den Chormeister. Nach der Weise «Zerstöre nicht!». Ein Psalm
+Asafs. Ein Lied.]\\
+\\
+
+<<v2>>
+2 Wir preisen dich, Gott, wir preisen dich; /\\
+ dein Name ist denen nahe, die deine Wunder erzählen.\\
+\\
+
+<<v3>>
+3 «Ja, zu der Zeit, die ich selbst bestimme, /\\
+ halte ich Gericht nach meinem Recht.\\
+\\
+
+<<v4>>
+4 Die Erde mit allen, die auf ihr wohnen, mag wanken; /\\
+ doch ich selbst habe ihre Säulen auf festen Grund gestellt.» [Sela] [fn:1]\\
+\\
+
+<<v5>>
+5 Ich sage zu den Stolzen: Seid nicht so vermessen!, /\\
+ und zu den Frevlern: Brüstet euch nicht mit eurer Macht! [fn:2]\\
+\\
+
+<<v6>>
+6 Brüstet euch nicht stolz mit eurer Macht, /\\
+ redet nicht so überheblich daher! [fn:3]\\
+\\
+
+<<v7>>
+7 Denn weder vom Osten noch vom Westen /\\
+ noch aus der Wüste kommt die Erhöhung. [fn:4] [fn:5]\\
+\\
+
+<<v8>>
+8 Nein, der Richter ist Gott; /\\
+ den einen erniedrigt er, den andern erhöht er. [fn:6]\\
+\\
+
+<<v9>>
+9 Ja, in der Hand des Herrn ist ein Becher, /\\
+ herben, gärenden Wein reicht er dar; ihn müssen alle Frevler der Erde
+trinken, /\\
+ müssen ihn samt der Hefe schlürfen. [fn:7]\\
+\\
+
+<<v10>>
+10 Ich aber werde jubeln für immer; /\\
+ dem Gott Jakobs will ich singen und spielen. [fn:8]\\
+\\
+
+<<v11>>
+11 «Ich schlage die ganze Macht der Frevler nieder; /\\
+ doch das Haupt des Gerechten wird hoch erhoben.»\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_24.org::v2][24,2]]; [[file:Ps_104.org::v5][104,5]]; [[file:1.Sam_2.org::v8][1 Sam 2,8]]
+
+[fn:2] [[file:1.Sam_2.org::v3][1 Sam 2,3]]
+
+[fn:3] [[file:Ps_94.org::v4][94,4]]
+
+[fn:4] [[file:Jer_3.org::v23][Jer 3,23]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_24.org::v23][Mt 24,23-28]]
+
+[fn:5] Text korr.
+
+[fn:6] [[file:1.Sam_2.org::v7][1 Sam 2,7]]; [[file:Dan_2.org::v21][Dan 2,21]]
+
+[fn:7] [[file:Ps_60.org::v5][60,5]]; [[file:Ijob_21.org::v20][Ijob 21,20]]; [[file:Jer_25.org::v15][Jer 25,15f]]; [[file:Hab_2.org::v16][Hab 2,16]]
+
+[fn:8] jubeln: Text korr. nach G; H: verkünden.

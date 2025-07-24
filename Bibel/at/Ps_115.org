@@ -1,0 +1,134 @@
+#+TITLE: Ps 115 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-17 Sa 23:59]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 115.html
+
+* Ps 115
+
+<<verses>>
+
+<<v1>>
+* Der Gott Israels und die Götter der anderen Völker
+
+1 Nicht uns, o Herr, bring zu Ehren, /\\
+ nicht uns, sondern deinen Namen, /\\
+ in deiner Huld und Treue! [fn:1]\\
+\\
+
+<<v2>>
+2 Warum sollen die Völker sagen: /\\
+ «Wo ist denn ihr Gott?» [fn:2]\\
+\\
+
+<<v3>>
+3 Unser Gott ist im Himmel; /\\
+ alles, was ihm gefällt, das vollbringt er. [fn:3]\\
+\\
+
+<<v4>>
+4 Die Götzen der Völker sind nur Silber und Gold, /\\
+ ein Machwerk von Menschenhand. [fn:4] [fn:5]\\
+\\
+
+<<v5>>
+5 Sie haben einen Mund und reden nicht, /\\
+ Augen und sehen nicht;\\
+\\
+
+<<v6>>
+6 sie haben Ohren und hören nicht, /\\
+ eine Nase und riechen nicht;\\
+\\
+
+<<v7>>
+7 mit ihren Händen können sie nicht greifen, /\\
+ mit den Füßen nicht gehen, /\\
+ sie bringen keinen Laut hervor aus ihrer Kehle.\\
+\\
+
+<<v8>>
+8 Die sie gemacht haben, sollen ihrem Machwerk gleichen, /\\
+ alle, die den Götzen vertrauen.\\
+\\
+
+<<v9>>
+9 Israel, vertrau auf den Herrn! /\\
+ Er ist für euch Helfer und Schild. [fn:6]\\
+\\
+
+<<v10>>
+10 Haus Aaron, vertrau auf den Herrn! /\\
+ Er ist für euch Helfer und Schild.\\
+\\
+
+<<v11>>
+11 Alle, die ihr den Herrn fürchtet, vertraut auf den Herrn! /\\
+ Er ist für euch Helfer und Schild.\\
+\\
+
+<<v12>>
+12 Der Herr denkt an uns, er wird uns segnen, /\\
+ er wird das Haus Israel segnen, /\\
+ er wird das Haus Aaron segnen.\\
+\\
+
+<<v13>>
+13 Der Herr wird alle segnen, die ihn fürchten, /\\
+ segnen Kleine und Große.\\
+\\
+
+<<v14>>
+14 Es mehre euch der Herr, /\\
+ euch und eure Kinder. [fn:7]\\
+\\
+
+<<v15>>
+15 Seid gesegnet vom Herrn, /\\
+ der Himmel und Erde gemacht hat. [fn:8]\\
+\\
+
+<<v16>>
+16 Der Himmel ist der Himmel des Herrn, /\\
+ die Erde aber gab er den Menschen. [fn:9]\\
+\\
+
+<<v17>>
+17 Tote können den Herrn nicht mehr loben, /\\
+ keiner, der ins Schweigen hinabfuhr. [fn:10]\\
+\\
+
+<<v18>>
+18 Wir aber preisen den Herrn /\\
+ von nun an bis in Ewigkeit. /\\
+ Halleluja!\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ez_36.org::v22][Ez 36,22f]]
+
+[fn:2] [[file:Ps_42.org::v11][42,11]]
+
+[fn:3] [[file:Ps_135.org::v6][135,6]]; [[file:Ijob_23.org::v13][Ijob 23,13]]; [[file:Weish_12.org::v18][Weish 12,18]]
+
+[fn:4] (4-8) [[file:Ps_135.org::v15][135,15-18]]; [[file:Dtn_4.org::v28][Dtn 4,28]]; [[file:Weish_15.org::v15][Weish 15,15]]; [[file:Jes_44.org::v9][Jes 44,9-11]]; [[file:Bar_6.org::v3][Bar 6,3]].[[file:Bar_6.org::v7][7]]
+
+[fn:5] Wörtlich: Ihre Götzen sind nur Silber und Gold.
+
+[fn:6] (9-11) [[file:Ps_33.org::v20][33,20]]; [[file:Ps_3.org::v4][3,4]]; [[file:Ps_118.org::v2][118,2-4]]
+
+[fn:7] [[file:Ps_127.org::v3][127,3]]; [[file:Dtn_1.org::v11][Dtn 1,11]]
+
+[fn:8] [[file:Ps_134.org::v3][134,3]]
+
+[fn:9] [[file:Ps_8.org::v7][8,7]]; [[file:Gen_1.org::v28][Gen 1,28]]
+
+[fn:10] [[file:Ps_6.org::v6][6,6]]; [[file:Ps_94.org::v17][94,17]]

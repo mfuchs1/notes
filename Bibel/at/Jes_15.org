@@ -1,0 +1,98 @@
+:PROPERTIES:
+:ID:       3e31cb11-cb6f-4fab-bcec-06ed63336e5e
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_13.html][13]] [[file:Jes_14.html][14]] *15*
+[[file:Jes_16.html][16]] [[file:Jes_17.html][17]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 15
+  :PROPERTIES:
+  :CUSTOM_ID: jes-15
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Ankündigung des Gerichts über Moab: 15,1 - 16,14
+     :PROPERTIES:
+     :CUSTOM_ID: ankündigung-des-gerichts-über-moab-151---1614
+     :END:
+1 Ausspruch über Moab: Über Nacht wurde Ar verwüstet, /\\
+ ging Moab zugrunde. Über Nacht wurde Kir verwüstet, /\\
+ ging Moab zugrunde. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Die Tochter Dibon steigt zu den Kulthöhen hinauf, /\\
+ um dort zu klagen. Über Nebo und Medeba jammert Moab. /\\
+ Jeder Kopf ist kahl geschoren, /\\
+ alle Bärte hat man abgeschnitten. ^{[[#fn2][2]][[#fn3][3]]}\\
+\\
+
+<<v3>>
+3 Auf den Gassen geht man in Trauergewändern, /\\
+ alle weinen auf den Dächern und Plätzen /\\
+ und zerfließen in Tränen. ^{[[#fn4][4]]}\\
+\\
+
+<<v4>>
+4 Heschbon schreit und Elale, /\\
+ bis nach Jahaz ist ihre Stimme zu hören. Darum zittern die Krieger von
+Moab, /\\
+ ihre Seele verzagt. ^{[[#fn5][5]]}\\
+\\
+
+<<v5>>
+5 Mein Herz schreit auf wegen Moab; /\\
+ bis nach Zoar fliehen die Menschen [bis Eglat-Schelischija]. Die Steige
+von Luhit steigt man weinend hinauf. /\\
+ Auf dem Weg nach Horonajim schreien die Leute über das Unglück.
+^{[[#fn6][6]]}\\
+\\
+
+<<v6>>
+6 Die Quellen von Nimrim versiegen; /\\
+ das Gras ist verwelkt; verdorrt sind die Wiesen; /\\
+ alles Grün ist verschwunden.\\
+\\
+
+<<v7>>
+7 Darum schleppen sie ihre letzte Habe /\\
+ und ihre Vorräte über den Weidenbach fort. ^{[[#fn7][7]]}\\
+\\
+
+<<v8>>
+8 Überallhin dringt das Klagegeschrei, /\\
+ bis an die Grenzen von Moab. Bis nach Eglajim hört man das Jammern, /\\
+ man hört es bis Beer-Elim.\\
+\\
+
+<<v9>>
+9 Voll Blut sind die Bäche von Dibon. /\\
+ Doch ich bringe über Dibon noch größeres Unglück: Löwen über die aus
+Moab Entronnenen, /\\
+ über den Rest von Adama. ^{[[#fn8][8]]}\\
+\\
+
+^{[[#fnm1][1]]} 1f: Kir, auch Kir-Heres (16,7.11), ist die Hauptstadt
+Moabs, südlich des Arnon. Die in Jes 15f genannten Orte liegen alle
+östlich des Toten Meers.
+
+^{[[#fnm2][2]]} ℘ 16,12; Jer 48,37
+
+^{[[#fnm3][3]]} Tochter Dibon: Text korr. nach Jer 48,18.
+
+^{[[#fnm4][4]]} ℘ Jer 48,38
+
+^{[[#fnm5][5]]} ℘ Jer 48,34
+
+^{[[#fnm6][6]]} ℘ Jer 48,4f
+
+^{[[#fnm7][7]]} Der Weidenbach liegt im Süden Moabs.
+
+^{[[#fnm8][8]]} Text und Übersetzung unsicher.

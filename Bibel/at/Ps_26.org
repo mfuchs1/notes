@@ -1,0 +1,98 @@
+#+TITLE: Ps 26 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-11 Mo 12:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 26.html
+
+* Ps 26
+
+<<verses>>
+
+<<v1>>
+* Die Bitte eines unschuldig Verfolgten
+
+1 [Von David.] Verschaff mir Recht, o Herr; denn ich habe ohne Schuld
+gelebt. /\\
+ Dem Herrn habe ich vertraut, ohne zu wanken. [fn:1]\\
+\\
+
+<<v2>>
+2 Erprobe mich, Herr, und durchforsche mich, /\\
+ prüfe mich auf Herz und Nieren! [fn:2]\\
+\\
+
+<<v3>>
+3 Denn mir stand deine Huld vor Augen, /\\
+ ich ging meinen Weg in Treue zu dir. [fn:3]\\
+\\
+
+<<v4>>
+4 Ich saß nicht bei falschen Menschen, /\\
+ mit Heuchlern hatte ich keinen Umgang. [fn:4]\\
+\\
+
+<<v5>>
+5 Verhasst ist mir die Schar derer, die Unrecht tun; /\\
+ ich sitze nicht bei den Frevlern.\\
+\\
+
+<<v6>>
+6 Ich wasche meine Hände in Unschuld; /\\
+ ich umschreite, Herr, deinen Altar, [fn:5]\\
+\\
+
+<<v7>>
+7 um laut dein Lob zu verkünden /\\
+ und all deine Wunder zu erzählen.\\
+\\
+
+<<v8>>
+8 Herr, ich liebe den Ort, wo dein Tempel steht, /\\
+ die Stätte, wo deine Herrlichkeit wohnt. [fn:6]\\
+\\
+
+<<v9>>
+9 Raff mich nicht hinweg mit den Sündern, /\\
+ nimm mir nicht das Leben zusammen mit dem der Mörder! [fn:7]\\
+\\
+
+<<v10>>
+10 An ihren Händen klebt Schandtat, /\\
+ ihre Rechte ist voll von Bestechung. [fn:8]\\
+\\
+
+<<v11>>
+11 Ich aber gehe meinen Weg ohne Schuld. /\\
+ Erlöse mich und sei mir gnädig!\\
+\\
+
+<<v12>>
+12 Mein Fuß steht auf festem Grund. /\\
+ Den Herrn will ich preisen in der Gemeinde. [fn:9]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_59.org::v4][59,4f]]
+
+[fn:2] [[file:Ps_7.org::v10][7,10]]; [[file:Ps_17.org::v3][17,3]]; [[file:Ps_139.org::v23][139,23]]
+
+[fn:3] [[file:Ps_119.org::v1][119,1]]; [[file:Ps_86.org::v11][86,11]]
+
+[fn:4] (4-5) [[file:Ps_1.org::v1][1,1]]
+
+[fn:5] [[file:Ps_73.org::v13][73,13]]; [[file:Dtn_21.org::v6][Dtn 21,6f]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v24][Mt 27,24]]
+
+[fn:6] [[file:Ps_27.org::v4][27,4]]
+
+[fn:7] [[file:Ps_28.org::v3][28,3]]
+
+[fn:8] [[file:Ex_23.org::v8][Ex 23,8]]
+
+[fn:9] [[file:Ps_22.org::v23][22,23]]

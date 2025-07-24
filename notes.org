@@ -1,0 +1,62 @@
+#+TITLE: notes 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-03-28 Do 17:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+startup: content
+#+REVEAL_ROOT: /home/matthias/reveal.js
+#+REVEAL_EXTRA_CSS: ./local.css
+#+REVEAL_INIT_OPTIONS: width:1920, height:1080
+#+REVEAL_PLUGINS: (notes)
+#+export_file_name: ~/RoamNotes/exports/notes.html
+
+* Idee von diesem Interview mit prot
+[[https://protesilaos.com/codelog/2024-03-22-re-advice-emacs-note-taking/]]
+
+* Eine erste Notiz
+:PROPERTIES:
+:CAPTURED: [2024-03-28 Do 17:03]
+:END:
+Mit meinen Gedanken.
+
+* eine weitere Notiz
+:PROPERTIES:
+:CAPTURED: [2024-03-28 Do 17:04]
+:END:
+mit meinen Gedanken...
+
+* noch ein Eintrag
+:PROPERTIES:
+:CAPTURED: [2024-04-10 Mi 13:10]
+:END:
+Warum hab ich diese ~capture-template~? 
+
+* Use ~org-coursepack~ to create teaching material
+:PROPERTIES:
+:CAPTURED: [2024-04-17 Mi 14:28]
+:END:
+- source :: https://github.com/joonro/Org-Coursepack
+- documentation :: https://joonro.github.io/Org-Coursepack/index.html
+
+Vielleicht kann dies hilfreich für meine neue Stelle in Abtenau sein?
+
+* Note taking
+:PROPERTIES:
+:CAPTURED: [2024-04-23 Di 10:37]
+:END:
+Wie macht das ~note-taking~ am ehesten Sinn? Das ~diary~ hat einen anderen Zweck als Notizen. ~diary~ ist ein Tagebuch (Was passierte an diesem Tag? Gefühle, Ereignisse, Gedanken, ...).
+
+Notizen verfolgen ein komplett anderes Ziel: was hier notiert wird, dient einer späteren Weiterverarbeitung, dem Aufbau einer "Wissensdatenbank", in der die vesrchiedenen Notizen untereinander verbunden sind. Einige sammeln alle Notizen in einem einzigen file, andere legen pro Notiz ein eigenen file an.
+
+Der Beginn sollte einfach und klar sein. Beginne mit einem einzelnen file. Später wird es von selbst konplexer. 
+
+* Ein neuer Eintrag
+:PROPERTIES:
+:CAPTURED: [2024-06-18 Di 21:25]
+:END:
+

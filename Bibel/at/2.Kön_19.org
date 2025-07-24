@@ -1,0 +1,272 @@
+#+TITLE: 2 Kön 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 00:59]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 19.html
+
+<<verses>>
+
+<<v1>>
+* Die Reaktion des Königs Hiskija: 19,1-7
+
+1 Als König Hiskija das hörte, zerriss er seine Kleider, legte ein
+Trauergewand an und ging in das Haus des Herrn. [fn:1]
+
+<<v2>>
+2 Dann sandte er den Palastvorsteher Eljakim, den Staatsschreiber
+Schebna und die Ältesten der Priester in Trauergewändern zu dem
+Propheten Jesaja, dem Sohn des Amoz.
+
+<<v3>>
+3 Sie sagten zu ihm: So spricht Hiskija: Heute ist ein Tag der Not, der
+Strafe und der Schande. Die Kinder sind bis an die Öffnung des
+Mutterschoßes gelangt, doch den Frauen fehlt die Kraft zum Gebären. [fn:2]
+
+<<v4>>
+4 Aber vielleicht hört der Herr, dein Gott, alle Worte des Rabschake,
+den sein Herr, der König von Assur, hergesandt hat, damit er den
+lebendigen Gott beschimpft, und vielleicht schickt der Herr, dein Gott,
+eine Strafe für die Worte, die er gehört hat. Darum bete für den Rest,
+der noch übrig ist.
+
+<<v5>>
+5 Jesaja antwortete den Abgesandten des Königs Hiskija, die zu ihm
+gekommen waren:
+
+<<v6>>
+6 Sagt zu eurem Herrn Folgendes: So spricht der Herr: Fürchte dich nicht
+wegen der Worte, die du gehört hast und mit denen die Knechte des Königs
+von Assur mich verhöhnt haben.
+
+<<v7>>
+7 Seht, ich lege einen Geist in ihn, sodass er ein Gerücht hört und in
+sein Land zurückkehrt; dort bringe ich ihn durch das Schwert zu Fall.\\
+\\
+
+<<v8>>
+* Die zweite Gesandtschaft Sanheribs: 19,8-13
+
+8 Der Rabschake trat den Rückweg an und fand den König von Assur im
+Kampf gegen die Stadt Libna. Sanherib war inzwischen, wie der Rabschake
+gehört hatte, von Lachisch abgezogen. [fn:3]
+
+<<v9>>
+9 Dann erfuhr Sanherib, dass Tirhaka, der König von Kusch, zum Kampf
+gegen ihn heranzog. Er schickte wiederum Boten zu Hiskija mit dem
+Auftrag: [fn:4]
+
+<<v10>>
+10 So sollt ihr zu Hiskija, dem König von Juda, sagen: Lass dir nicht
+von deinem Gott, auf den du vertraust, einreden, Jerusalem werde dem
+König von Assur nicht in die Hände fallen.
+
+<<v11>>
+11 Du hast doch gehört, was die Könige von Assur mit allen anderen
+Ländern gemacht haben. Sie haben sie dem Untergang geweiht. Und du
+meinst, du wirst gerettet?
+
+<<v12>>
+12 Sind denn die Völker, die von meinen Vätern vernichtet wurden, von
+ihren Göttern gerettet worden, die Völker von Gosan, Haran und Rezef,
+die Söhne von Eden, die in Telassar wohnten?
+
+<<v13>>
+13 Wo ist der König von Hamat, der König von Arpad, der König der Stadt
+Sefarwajim, wo sind die Könige von Hena und Awa?\\
+\\
+
+<<v14>>
+* Das Gebet des Königs: 19,14-19
+     :PROPERTIES:
+     :CUSTOM_ID: das-gebet-des-königs-1914-19
+     :END:
+14 Hiskija nahm das Schreiben von den Boten in Empfang und las es. Dann
+ging er zum Haus des Herrn hinauf, breitete das Schreiben vor dem Herrn
+aus [fn:5]
+
+<<v15>>
+15 und betete vor dem Herrn; er sagte: Herr, Gott Israels, der über den
+Kerubim thront, du allein bist der Gott aller Reiche der Erde. Du hast
+den Himmel und die Erde gemacht.
+
+<<v16>>
+16 Wende mir dein Ohr zu, Herr, und höre! Öffne, Herr, deine Augen und
+sieh her! Hör alles, was Sanherib sagt, der seinen Boten hergesandt hat,
+um den lebendigen Gott zu verhöhnen.
+
+<<v17>>
+17 Es ist wahr, Herr, die Könige von Assur haben die Völker vernichtet,
+ihre Länder verwüstet
+
+<<v18>>
+18 und ihre Götter ins Feuer geworfen. Aber das waren keine Götter,
+sondern Werke von Menschenhand, aus Holz und Stein; darum konnte man sie
+vernichten.
+
+<<v19>>
+19 Nun aber, Herr, unser Gott, rette uns aus seiner Hand, damit alle
+Reiche der Erde erkennen, dass du, Jahwe, Gott bist, du allein.\\
+\\
+
+<<v20>>
+* Die Verheißung der göttlichen Hilfe durch Jesaja: 19,20-34
+
+20 Jesaja, der Sohn des Amoz, schickte zu Hiskija (einen Boten) und ließ
+ihm sagen: So spricht der Herr, der Gott Israels: Ich habe gehört, wie
+du wegen des Königs Sanherib von Assur zu mir gebetet hast. [fn:6]\\
+\\
+
+<<v21>>
+21 Das ist das Wort des Herrn gegen ihn: Dich verachtet, dich verspottet
+/\\
+ die Jungfrau, die Tochter Zion. Die Tochter Jerusalem /\\
+ schüttelt spöttisch den Kopf über dich. [fn:7]\\
+\\
+
+<<v22>>
+22 Wen hast du beschimpft und verhöhnt, /\\
+ gegen wen die Stimme erhoben, /\\
+ auf wen voll Hochmut herabgeblickt? /\\
+ Auf den Heiligen Israels.\\
+\\
+
+<<v23>>
+23 Durch deine Gesandten hast du den Herrn verhöhnt; /\\
+ du hast gesagt: /\\
+ Mit meinen zahlreichen Wagen fuhr ich /\\
+ auf die Höhen der Berge, /\\
+ in die fernsten Winkel des Libanon. /\\
+ Ich fällte seine hohen Zedern, /\\
+ seine schönsten Zypressen, /\\
+ kam bis zu seinen entlegensten Hütten, /\\
+ in das Dickicht seiner Wälder.\\
+\\
+
+<<v24>>
+24 Ich habe Brunnen gegraben /\\
+ und fremdes Wasser getrunken. /\\
+ Ich ließ unter dem Schritt meiner Füße /\\
+ alle Ströme Ägyptens vertrocknen.\\
+\\
+
+<<v25>>
+25 Hast du nicht gehört: /\\
+ Schon vor langer Zeit habe ich es so gefügt, /\\
+ seit den Tagen der Vorzeit habe ich es so geplant; /\\
+ jetzt ließ ich es kommen. /\\
+ So konntest du befestigte Städte zerstören /\\
+ und in Trümmer verwandeln.\\
+\\
+
+<<v26>>
+26 Ihre Bewohner waren machtlos, /\\
+ in Schrecken und Schande gestoßen. /\\
+ Sie glichen den Pflanzen auf dem Feld /\\
+ und dem frischen Grün, /\\
+ dem Gras auf den Dächern, /\\
+ das im Ostwind verdorrt. [fn:8] [fn:9]\\
+\\
+
+<<v27>>
+27 Ich weiß, ob du ruhst, ob du gehst oder kommst, /\\
+ ob du dich gegen mich auflehnst.\\
+\\
+
+<<v28>>
+28 Weil du gegen mich wütest /\\
+ und dein Lärm meine Ohren erreicht hat, /\\
+ ziehe ich dir einen Ring durch die Nase /\\
+ und lege dir einen Zaum in das Maul. /\\
+ Auf dem Weg, auf dem du herankamst, /\\
+ treibe ich dich wieder zurück. [fn:10] [fn:11]\\
+\\
+
+<<v29>>
+29 Und das soll für dich (Hiskija) ein Vorzeichen sein: In diesem Jahr
+isst man, was von selbst nachwächst, im nächsten Jahr, was wild wächst;
+im dritten Jahr aber sollt ihr wieder säen und ernten, die Weinberge
+bepflanzen und ihre Früchte genießen. [fn:12]
+
+<<v30>>
+30 Wer vom Haus Juda entronnen und übrig geblieben ist, wird wieder
+unten Wurzeln treiben und oben Frucht tragen. [fn:13]
+
+<<v31>>
+31 Denn von Jerusalem wird ein Rest ausziehen, vom Berg Zion ziehen die
+Geretteten hinaus. Der leidenschaftliche Eifer des Herrn wird das
+vollbringen.
+
+<<v32>>
+32 Darum - so spricht der Herr über den König von Assur: Er wird nicht
+in diese Stadt eindringen; er wird keinen einzigen Pfeil hineinschießen,
+er wird nicht unter dem Schutz seines Schildes gegen sie anrennen und
+keinen Damm gegen sie aufschütten.
+
+<<v33>>
+33 Auf dem Weg, auf dem er gekommen ist, wird er wieder zurückkehren.
+Aber in diese Stadt wird er nicht eindringen - Spruch des Herrn.
+
+<<v34>>
+34 Ich werde diese Stadt beschützen und retten, um meinetwillen und um
+meines Knechtes David willen.\\
+\\
+
+<<v35>>
+* Die Rettung der Stadt: 19,35-37
+
+35 In jener Nacht zog der Engel des Herrn aus und erschlug im Lager der
+Assyrer hundertfünfundachtzigtausend Mann. Als man am nächsten Morgen
+aufstand, fand man sie alle als Leichen. [fn:14]
+
+<<v36>>
+36 Da brach Sanherib, der König von Assur, auf und kehrte in sein Land
+zurück. Er blieb in Ninive.
+
+<<v37>>
+37 Als er eines Tages im Tempel seines Gottes Nisroch betete, erschlugen
+ihn seine Söhne Adrammelech und Sarezer mit dem Schwert. Darauf mussten
+sie in das Land Ararat fliehen und Sanheribs Sohn Asarhaddon wurde König
+an seiner Stelle. [fn:15]\\
+\\
+
+* Footnotes
+
+[fn:1] (1-7) [[file:Jes_37.org::v1][Jes 37,1-7]]
+
+[fn:2] [[file:Hos_13.org::v13][Hos 13,13]]
+
+[fn:3] (8-13) [[file:Jes_37.org::v8][Jes 37,8-13]]
+
+[fn:4] Tirhaka, der 690-664 v. Chr. als dritter Pharao der 25.,
+nubischen Dynastie regierte, war 701 für seinen Bruder Schebitku
+Oberbefehlshaber des ägyptischen Heeres in Palästina.
+
+[fn:5] (14-19) [[file:Jes_37.org::v14][Jes 37,14-20]]
+
+[fn:6] (20-34) [[file:Jes_37.org::v21][Jes 37,21-35]]
+
+[fn:7] «Jungfrau» und «Tochter» sind bei den Propheten
+Bezeichnungen für die Bevölkerung von Ländern oder Städten.
+
+[fn:8] [[file:Ps_129.org::v6][Ps 129,6]]
+
+[fn:9] Ostwind: Text korr. nach dem Jesaja-Text von Qumran.
+
+[fn:10] [[file:Ez_38.org::v4][Ez 38,4]]
+
+[fn:11] dein Lärm: Text sinngemäß korr.; H: deine Sorglosigkeit.
+
+[fn:12] 29f: Der Spruch setzt voraus, dass zwei Jahre hindurch
+keine Aussaat, aber eine kärgliche Ernte möglich ist.
+
+[fn:13] [[file:Ps_80.org::v10][Ps 80,10]]
+
+[fn:14] (35-37) [[file:Jes_37.org::v36][Jes 37,36-38]]
+
+[fn:15] seine Söhne: ergänzt nach [[file:Jes_37.org::v38][Jes 37,38]].

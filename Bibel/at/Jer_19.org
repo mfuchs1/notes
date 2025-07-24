@@ -1,0 +1,115 @@
+:PROPERTIES:
+:ID:       ab36a40e-9394-417b-99de-7314485e08d7
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jeremia* -- [[file:Jer_1.html][1]] ...
+[[file:Jer_17.html][17]] [[file:Jer_18.html][18]] *19*
+[[file:Jer_20.html][20]] [[file:Jer_21.html][21]] ...
+[[file:Jer_52.html][52]]
+
+--------------
+
+* Jer 19
+  :PROPERTIES:
+  :CUSTOM_ID: jer-19
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Drohreden und ihre Folgen: 19,1 - 20,6
+     :PROPERTIES:
+     :CUSTOM_ID: drohreden-und-ihre-folgen-191---206
+     :END:
+1 Der Herr sprach zu mir: Geh und kauf dir einen irdenen Krug, und nimm
+einige Älteste des Volkes und der Priester mit dir!
+
+<<v2>>
+2 Dann geh hinaus zum Tal Ben-Hinnom am Eingang des Scherbentors! Dort
+verkünde die Worte, die ich dir sage. ^{[[#fn1][1]]}
+
+<<v3>>
+3 Du sollst sagen: Hört das Wort des Herrn, ihr Könige und ihr Einwohner
+Jerusalems! So spricht der Herr der Heere, der Gott Israels: Seht, ich
+bringe solches Unheil über diesen Ort, dass jedem, der davon hört, die
+Ohren gellen.
+
+<<v4>>
+4 Denn sie haben mich verlassen, mir diesen Ort entfremdet und an ihm
+anderen Göttern geopfert, die ihnen, ihren Vätern und den Königen von
+Juda früher unbekannt waren. Mit dem Blut Unschuldiger haben sie diesen
+Ort angefüllt.
+
+<<v5>>
+5 Sie haben dem Baal eine Kulthöhe gebaut, um ihre Söhne als Brandopfer
+für den Baal im Feuer zu verbrennen, was ich nie befohlen oder
+angeordnet habe und was mir niemals in den Sinn gekommen ist.
+^{[[#fn2][2]]}
+
+<<v6>>
+6 Seht, darum werden Tage kommen - Spruch des Herrn -, da wird man
+diesen Ort nicht mehr Tofet oder Tal Ben-Hinnom nennen, sondern Mordtal.
+
+<<v7>>
+7 Dann vereitle ich die Pläne Judas und Jerusalems an diesem Ort. Ich
+bringe sie vor den Augen ihrer Feinde durch das Schwert zu Fall und
+durch die Hand derer, die ihnen nach dem Leben trachten. Ich gebe ihre
+Leichen den Vögeln des Himmels und den Tieren des Feldes zum Fraß.
+
+<<v8>>
+8 Ich mache diese Stadt zu einem Ort des Entsetzens und zum Gespött;
+jeder, der dort vorbeikommt, wird sich entsetzen und spotten über alle
+Schläge, die sie getroffen haben. ^{[[#fn3][3]]}
+
+<<v9>>
+9 Ich gebe ihnen das Fleisch ihrer Söhne und Töchter zu essen; einer
+wird das Fleisch des andern verzehren in der Not und Bedrängnis, mit der
+ihre Feinde und alle, die ihnen nach dem Leben trachten, sie
+bedrängen. - ^{[[#fn4][4]]}
+
+<<v10>>
+10 Dann zerbrich den Krug vor den Augen der Männer, die mit dir gehen.
+
+<<v11>>
+11 Sag ihnen: So spricht der Herr der Heere: Ebenso zerbreche ich dieses
+Volk und diese Stadt, wie man Töpfergeschirr zerbricht, sodass es nie
+wieder heil werden kann. Im Tofet wird man Tote bestatten, weil sonst
+kein Platz ist zum Begraben. ^{[[#fn5][5]]}
+
+<<v12>>
+12 So werde ich mit diesem Ort verfahren - Spruch des Herrn - und mit
+seinen Bewohnern, um diese Stadt dem Tofet gleich zu machen.
+
+<<v13>>
+13 Die Häuser Jerusalems und die Häuser der Könige von Juda sollen
+unrein werden wie der Ort des Tofet, alle Häuser, auf deren Dächern man
+dem ganzen Heer des Himmels Rauchopfer und anderen Göttern Trankopfer
+dargebracht hat. - ^{[[#fn6][6]][[#fn7][7]]}
+
+<<v14>>
+14 Als nun Jeremia vom Tofet zurückkam, wohin der Herr ihn zum Weissagen
+gesandt hatte, begab er sich in den Vorhof beim Haus des Herrn und sagte
+zu allem Volk:
+
+<<v15>>
+15 So spricht der Herr der Heere, der Gott Israels: Seht, ich bringe
+über diese Stadt und über alle ihre Nachbarstädte all das Unheil, das
+ich ihr angedroht habe, weil sie ihren Nacken versteift haben und nicht
+auf meine Worte hören wollen.
+
+^{[[#fnm1][1]]} 2.6.11f: Zum Tal Ben-Hinnom und zum Tofet vgl. die
+Anmerkung zu 7,31.
+
+^{[[#fnm2][2]]} ℘ (5-6) 7,31-33
+
+^{[[#fnm3][3]]} ℘ 18,16
+
+^{[[#fnm4][4]]} ℘ Lev 26,29; Dtn 28,53; Bar 2,3
+
+^{[[#fnm5][5]]} ℘ 7,32
+
+^{[[#fnm6][6]]} ℘ 32,29
+
+^{[[#fnm7][7]]} Das «Heer des Himmels» sind die Gestirngottheiten; man
+verehrte sie auf den flachen Hausdächern.

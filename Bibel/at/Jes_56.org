@@ -1,0 +1,132 @@
+:PROPERTIES:
+:ID:       ae338a13-a3b4-43ef-a175-7235c2aa39c8
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_54.html][54]] [[file:Jes_55.html][55]] *56*
+[[file:Jes_57.html][57]] [[file:Jes_58.html][58]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 56
+  :PROPERTIES:
+  :CUSTOM_ID: jes-56
+  :END:
+
+<<verses>>
+
+<<v1>>
+** III. Teil Der dritte Jesaja (Tritojesaja): 56,1 - 66,24
+   :PROPERTIES:
+   :CUSTOM_ID: iii.-teil-der-dritte-jesaja-tritojesaja-561---6624
+   :END:
+*** Verheißung an die Fremden und die Kinderlosen: 56,1-8
+    :PROPERTIES:
+    :CUSTOM_ID: verheißung-an-die-fremden-und-die-kinderlosen-561-8
+    :END:
+1 So spricht der Herr: Wahrt das Recht und sorgt für Gerechtigkeit; /\\
+ denn bald kommt von mir das Heil, /\\
+ meine Gerechtigkeit wird sich bald offenbaren. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Wohl dem Mann, der so handelt, /\\
+ wohl dem Menschen, der daran fest hält, den Sabbat zu halten und nie zu
+entweihen /\\
+ und seine Hand vor jeder bösen Tat zu bewahren. ^{[[#fn2][2]]}\\
+\\
+
+<<v3>>
+3 Der Fremde, der sich dem Herrn angeschlossen hat, soll nicht sagen:
+/\\
+ Sicher wird der Herr mich ausschließen aus seinem Volk. Der
+Verschnittene soll nicht sagen: /\\
+ Ich bin nur ein dürrer Baum.\\
+\\
+
+<<v4>>
+4 Denn so spricht der Herr: /\\
+ Den Verschnittenen, die meine Sabbate halten, die gerne tun, was mir
+gefällt, /\\
+ und an meinem Bund fest halten,\\
+\\
+
+<<v5>>
+5 ihnen allen errichte ich in meinem Haus /\\
+ und in meinen Mauern ein Denkmal, ich gebe ihnen einen Namen, /\\
+ der mehr wert ist als Söhne und Töchter: Einen ewigen Namen gebe ich
+ihnen, /\\
+ der niemals ausgetilgt wird. ^{[[#fn3][3]]}\\
+\\
+
+<<v6>>
+6 Die Fremden, die sich dem Herrn angeschlossen haben, /\\
+ die ihm dienen und seinen Namen lieben, um seine Knechte zu sein, /\\
+ alle, die den Sabbat halten und ihn nicht entweihen, /\\
+ die an meinem Bund fest halten,\\
+\\
+
+<<v7>>
+7 sie bringe ich zu meinem heiligen Berg /\\
+ und erfülle sie in meinem Bethaus mit Freude. Ihre Brandopfer und
+Schlachtopfer finden Gefallen auf meinem Altar, /\\
+ denn mein Haus wird ein Haus des Gebets für alle Völker genannt.
+^{[[#fn4][4]]}\\
+\\
+
+<<v8>>
+8 Spruch Gottes, des Herrn, /\\
+ der die verstoßenen Israeliten sammelt: Noch mehr, als ich schon von
+ihnen gesammelt habe, /\\
+ will ich dort versammeln. ^{[[#fn5][5]]}\\
+\\
+
+<<v9>>
+** Eine Drohung gegen die Führer des Volkes: 56,9 - 57,13
+   :PROPERTIES:
+   :CUSTOM_ID: eine-drohung-gegen-die-führer-des-volkes-569---5713
+   :END:
+9 Ihr Tiere auf dem Feld, kommt alle und fresst, /\\
+ kommt alle, ihr Tiere im Wald! ^{[[#fn6][6]][[#fn7][7]]}\\
+\\
+
+<<v10>>
+10 Die Wächter des Volkes sind blind, /\\
+ sie merken allesamt nichts. Es sind lauter stumme Hunde, /\\
+ sie können nicht bellen. Träumend liegen sie da /\\
+ und haben gern ihre Ruhe.\\
+\\
+
+<<v11>>
+11 Aber gierig sind diese Hunde, sie sind unersättlich. /\\
+ So sind die Hirten: Sie verstehen nicht aufzumerken. Jeder geht seinen
+eigenen Weg /\\
+ und ist ausschließlich auf seinen eigenen Vorteil bedacht;
+^{[[#fn8][8]]}\\
+\\
+
+<<v12>>
+12 (er sagt:) Kommt her, ich hole Wein. /\\
+ Wir trinken uns voll mit Bier. Und wie heute, so soll es auch morgen
+sein; /\\
+ hoch soll es hergehen.\\
+\\
+
+^{[[#fnm1][1]]} 1-66,24: Vgl. die Einleitung zu Jes.
+
+^{[[#fnm2][2]]} ℘ 58,13
+
+^{[[#fnm3][3]]} ℘ 55,13
+
+^{[[#fnm4][4]]} ℘ Mk 11,17
+
+^{[[#fnm5][5]]} ℘ Ps 147,2
+
+^{[[#fnm6][6]]} ℘ Jer 12,9
+
+^{[[#fnm7][7]]} Die wilden Tiere sättigen sich an den Leichen derer, die
+im Strafgericht Gottes umgekommen sind.
+
+^{[[#fnm8][8]]} ℘ 53,6

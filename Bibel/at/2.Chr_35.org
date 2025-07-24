@@ -1,0 +1,185 @@
+#+TITLE: 2 Chr 35 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 35.html
+
+<<verses>>
+
+<<v1>>
+* Die Feier des Paschafestes: 35,1-19
+
+1 Joschija feierte in Jerusalem ein Pascha zur Ehre des Herrn. Man
+schlachtete das Pascha am vierzehnten Tag des ersten Monats. [fn:1]
+
+<<v2>>
+2 Er ließ die Priester zu ihrem Dienst antreten und ermunterte sie zu
+ihrer Tätigkeit im Haus des Herrn.
+
+<<v3>>
+3 Zu den Leviten, die ganz Israel zu unterweisen hatten und dem Herrn
+heilig waren, sagte er: Die heilige Lade hat man in das Haus gebracht,
+das Salomo, der Sohn Davids, der König von Israel, gebaut hat. Ihr
+braucht sie nicht mehr auf euren Schultern zu tragen. Dient nun dem
+Herrn, eurem Gott, und seinem Volk Israel! [fn:2]
+
+<<v4>>
+4 Haltet euch bereit nach euren Großfamilien und euren Abteilungen gemäß
+der Vorschrift Davids, des Königs von Israel, und der Weisung seines
+Sohnes Salomo.
+
+<<v5>>
+5 Seid den Familiengruppen eurer Brüder, den Leuten des Volkes, im
+Heiligtum zu Diensten; ein Teil einer levitischen Großfamilie (soll
+jeweils bereitstehen).
+
+<<v6>>
+6 Schlachtet das Pascha und heiligt euch! Bereitet es auch für eure
+Brüder, damit alles geschieht, was der Herr durch Mose gesagt hat.
+
+<<v7>>
+7 Joschija spendete den Leuten aus dem Volk, die sich eingefunden
+hatten, 30000 Stück Kleinvieh, Lämmer und junge Ziegen zu Paschaopfern
+und 3000 Rinder. Sie stammten aus dem Besitz des Königs.
+
+<<v8>>
+8 Auch seine hohen Beamten gaben freiwillige Spenden für das Volk, die
+Priester und die Leviten. Hilkija, Secharja und Jehiël, die Vorsteher
+des Gotteshauses, gaben den Priestern 2600 Stück Kleinvieh zu
+Paschaopfern und 300 Rinder.
+
+<<v9>>
+9 Konanja und seine Brüder Schemaja und Netanel, ferner Haschabja, Jëiël
+und Josabad, die Vorsteher der Leviten, spendeten für die Leviten 5000
+Tiere zu Paschaopfern und 500 Rinder.
+
+<<v10>>
+10 Als man so zum Dienst gerüstet war, traten die Priester an ihren
+Platz und die Leviten zu ihren Abteilungen gemäß dem Befehl des Königs.
+
+<<v11>>
+11 Die Leviten schlachteten die Paschaopfer und die Priester sprengten
+das Blut aus, das sie aus ihrer Hand empfingen. Darauf enthäuteten die
+Leviten die Tiere.
+
+<<v12>>
+12 Die zum Brandopfer bestimmten Stücke legten sie beiseite und gaben
+sie den Familiengruppen des Volkes, damit sie dem Herrn dargebracht
+würden, wie es im Buch des Mose vorgeschrieben war. Ebenso machten sie
+es mit den Rindern. [fn:3] [fn:4]
+
+<<v13>>
+13 Dann brieten sie das Pascha der Vorschrift gemäß am Feuer. Die
+heiligen Gaben kochten sie in Kesseln, Töpfen und Schüsseln und brachten
+sie eilends zu allen Angehörigen des Volkes. [fn:5]
+
+<<v14>>
+14 Hierauf besorgten sie das Pascha für sich selbst und für die
+Priester; denn die Priester, die Nachkommen Aarons, waren mit der
+Darbringung der Brandopfer und der Fettstücke bis in die Nacht hinein
+beschäftigt. Darum bereiteten es die Leviten für sich und die Priester,
+die Nachkommen Aarons.
+
+<<v15>>
+15 Die Sänger, die Nachkommen Asafs, waren an ihrem Platz gemäß der
+Vorschrift Davids, Asafs, Hemans und Jedutuns, des königlichen Sehers.
+Ebenso standen die Torwächter an den einzelnen Toren. Sie brauchten
+ihren Dienst nicht zu verlassen; denn ihre Amtsbrüder, die Leviten,
+bereiteten für sie das Pascha.
+
+<<v16>>
+16 So war der gesamte Dienst für den Herrn an jenem Tag gut geordnet.
+Man feierte das Pascha und brachte auf dem Altar des Herrn Brandopfer
+dar, wie es König Joschija befohlen hatte.
+
+<<v17>>
+17 Sieben Tage lang begingen damals die Israeliten, die sich eingefunden
+hatten, das Pascha und das Fest der Ungesäuerten Brote.
+
+<<v18>>
+18 Ein Pascha wie dieses war seit den Tagen des Propheten Samuel in
+Israel nicht mehr gefeiert worden. Keiner von den Königen Israels hat
+ein Pascha veranstaltet, wie es Joschija mit den Priestern und Leviten,
+mit ganz Juda und den anwesenden Israeliten und den Einwohnern
+Jerusalems feierte. [fn:6]
+
+<<v19>>
+19 Im achtzehnten Jahr der Regierung Joschijas wurde dieses Pascha
+begangen.\\
+\\
+
+<<v20>>
+* Das Ende Joschijas: 35,20-27
+
+20 Nachdem Joschija all dies zur Instandsetzung des Hauses getan hatte,
+zog Necho, der König von Ägypten, herauf, um bei Karkemisch am Eufrat zu
+kämpfen. Joschija stellte sich ihm entgegen. [fn:7]
+
+<<v21>>
+21 Necho aber sandte Boten zu ihm und ließ ihm sagen: Was habe ich mit
+dir zu tun, König von Juda? Nicht gegen dich ziehe ich heute, sondern
+gegen das Herrscherhaus, das mit mir im Krieg steht. Gott hat mir Eile
+geboten; lass daher ab von Gott, der auf meiner Seite steht; sonst wird
+er dich verderben.
+
+<<v22>>
+22 Doch Joschija zog sich nicht vor Necho zurück, sondern wagte es, ihn
+anzugreifen. Er hörte nicht auf die Worte Nechos, die aus dem Mund
+Gottes kamen, sondern trat in der Ebene von Megiddo zum Kampf gegen ihn
+an. [fn:8]
+
+<<v23>>
+23 Aber die Bogenschützen trafen den König Joschija, der nun seinen
+Dienern zurief: Bringt mich weg, denn ich bin schwer verwundet.
+
+<<v24>>
+24 Sie hoben ihn vom Kriegswagen, setzten ihn auf seinen zweiten Wagen
+und brachten ihn nach Jerusalem. Dort starb er und wurde in den Gräbern
+seiner Väter beigesetzt. Ganz Juda und Jerusalem trauerten um Joschija.
+
+<<v25>>
+25 Jeremia aber hielt Klage über Joschija und alle Sänger und
+Sängerinnen singen auf ihn Klagelieder bis zum heutigen Tag. Es wurde
+dies zu einem festen Brauch in Israel. Sie sind aufgezeichnet in den
+Klageliedern. [fn:9]
+
+<<v26>>
+26 Die übrige Geschichte Joschijas und seine frommen Taten, die ganz dem
+entsprachen, was im Gesetz des Herrn vorgeschrieben ist,
+
+<<v27>>
+27 seine frühere und spätere Geschichte, all das ist aufgezeichnet im
+Buch der Könige von Israel und Juda.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-19) [[file:2.Kön_23.org::v21][2 Kön 23,21]]-[[file:2.Kön_23.org::v23][23]]
+
+[fn:2] hat man . . . gebracht: Text korr. nach G; H: bringt.
+
+[fn:3] [[file:Lev_3.org::v8][Lev 3,8]]-[[file:Lev_3.org::v11][11]]
+
+[fn:4] Der Bemerkung ist zu entnehmen, dass Teile des
+Paschalamms wie beim Friedopfer auf dem Altar verbrannt wurden.
+
+[fn:5] [[file:Ex_12.org::v8][Ex 12,8]]
+
+[fn:6] Im Unterschied zum Pascha Hiskijas, bei dem das
+erstrebte Ziel nur teilweise erreicht wurde (30,10), war diesmal das
+ganze Volk vertreten. Das war zum letzten Mal zur Zeit Samuels, nach 2
+Kön 23,22 zur Zeit der Richter, der Fall gewesen. Jos 5,10 erwähnt die
+letzte gemeinsame Paschafeier am Ende der Wüstenwanderung.
+
+[fn:7] (20-24) [[file:2.Kön_23.org::v28][2 Kön 23,28]]-[[file:2.Kön_23.org::v30][30]]
+
+[fn:8] wagte es: Text korr. nach G.
+
+[fn:9] Das biblische Buch der Klagelieder trauert über den
+Untergang Jerusalems, ist daher von dem hier genannten verschieden.

@@ -1,0 +1,218 @@
+#+TITLE: 1 Kön 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-15 Mi 09:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 12.html
+
+<<verses>>
+
+<<v1>>
+* Die Geschichte der getrennten Reiche: Erster Teil: 12,1 - 22,54
+   
+* Der Abfall der zehn Nordstämme: 12,1-19
+
+1 Rehabeam begab sich nach Sichem; denn dorthin war ganz Israel
+gekommen, um ihn zum König zu machen. [fn:1] [fn:2]
+
+<<v2>>
+2 Jerobeam, der Sohn Nebats, hörte davon, während er noch in Ägypten
+war, wohin er vor dem König Salomo hatte fliehen müssen; er kehrte jetzt
+aus Ägypten zurück. [fn:3]
+
+<<v3>>
+3 Man sandte zu ihm und ließ ihn rufen. So kamen also Jerobeam und die
+ganze Versammlung Israels (nach Sichem) und sie sagten zu Rehabeam:
+
+<<v4>>
+4 Dein Vater hat uns ein hartes Joch auferlegt. Erleichtere du jetzt den
+harten Dienst deines Vaters und das schwere Joch, das er uns auferlegt
+hat. Dann wollen wir dir dienen.
+
+<<v5>>
+5 Er antwortete ihnen: Geht weg und kommt nach drei Tagen wieder zu mir!
+Als sich das Volk entfernt hatte,
+
+<<v6>>
+6 beriet sich König Rehabeam mit den älteren Männern, die zu Lebzeiten
+seines Vaters Salomo in dessen Dienst gestanden hatten. Er fragte sie:
+Welchen Rat gebt ihr mir? Was soll ich diesem Volk antworten?
+
+<<v7>>
+7 Sie sagten zu ihm: Wenn du dich heute zum Diener dieses Volkes machst,
+ihnen zu Willen bist, auf sie hörst und freundlich mit ihnen redest,
+dann werden sie immer deine Diener sein.
+
+<<v8>>
+8 Doch er verwarf den Rat, den die Älteren ihm gegeben hatten, und
+beriet sich mit den jungen Leuten, die mit ihm groß geworden waren und
+jetzt in seinem Dienst standen.
+
+<<v9>>
+9 Er fragte sie: Welchen Rat gebt ihr mir? Was sollen wir diesem Volk
+antworten, das zu mir sagt: Erleichtere das Joch, das dein Vater uns
+auferlegt hat?
+
+<<v10>>
+10 Die jungen Leute, die mit ihm groß geworden waren, sagten zu ihm: So
+sollst du diesem Volk antworten, das zu dir sagt: Dein Vater hat uns ein
+schweres Joch auferlegt; erleichtere es uns! So sollst du zu ihnen
+sagen: Mein kleiner Finger ist stärker als die Lenden meines Vaters.
+
+<<v11>>
+11 Hat mein Vater euch ein schweres Joch aufgebürdet, so werde ich es
+noch schwerer machen. Mein Vater hat euch mit Peitschen gezüchtigt, ich
+werde euch mit Skorpionen züchtigen. [fn:4]
+
+<<v12>>
+12 Am dritten Tag kamen Jerobeam und das ganze Volk zu Rehabeam; denn
+der König hatte ihnen gesagt: Kommt am dritten Tag wieder zu mir!
+
+<<v13>>
+13 Der König gab nun dem Volk eine harte Antwort. Er verwarf den Rat,
+den die Älteren ihm erteilt hatten,
+
+<<v14>>
+14 und antwortete ihnen nach dem Rat der jungen Leute: Mein Vater hat
+euer Joch schwer gemacht. Ich werde es noch schwerer machen. Mein Vater
+hat euch mit Peitschen gezüchtigt, ich werde euch mit Skorpionen
+züchtigen.
+
+<<v15>>
+15 Der König hörte also nicht auf das Volk; denn der Herr hatte es so
+bestimmt, um das Wort wahr zu machen, das er durch Ahija von Schilo zu
+Jerobeam, dem Sohn Nebats, gesprochen hatte. [fn:5]\\
+\\
+
+<<v16>>
+16 Als die Israeliten sahen, dass der König nicht auf sie hörte, gaben
+sie ihm zur Antwort: Welchen Anteil haben wir an David? /\\
+ Wir haben keinen Erbbesitz beim Sohn Isais. /\\
+ In deine Zelte, Israel! /\\
+ Nun kümmere dich um dein Haus, David! So begab sich Israel zu seinen
+Zelten. [fn:6]\\
+\\
+
+<<v17>>
+17 Nur über die Israeliten, die in den Städten Judas wohnten, blieb
+Rehabeam König. [fn:7]
+
+<<v18>>
+18 Und als er den Fronaufseher Adoniram hinschickte, steinigte ihn ganz
+Israel zu Tode. Dem König Rehabeam gelang es, den Wagen zu besteigen und
+nach Jerusalem zu entkommen.
+
+<<v19>>
+19 So fiel Israel vom Haus David ab und ist abtrünnig bis zum heutigen
+Tag.\\
+\\
+
+<<v20>>
+* Jerobeam I. von Israel: 12,20-25
+
+20 Als die Israeliten erfuhren, dass Jerobeam zurückgekehrt war, ließen
+sie ihn zur Versammlung rufen und machten ihn zum König über ganz
+Israel. Der Stamm Juda allein hielt noch zum Haus David.
+
+<<v21>>
+21 Rehabeam kam nach Jerusalem und versammelte das ganze Haus Juda und
+den Stamm Benjamin, hundertachtzigtausend auserlesene Krieger, um gegen
+das Haus Israel zu kämpfen und das Königtum für Rehabeam, den Sohn
+Salomos, zurückzugewinnen. [fn:8]
+
+<<v22>>
+22 Doch das Wort Gottes erging an Schemaja, den Mann Gottes:
+
+<<v23>>
+23 Sag zu Rehabeam, dem Sohn Salomos, dem König von Juda, und zum ganzen
+Haus Juda und Benjamin und zum übrigen Volk:
+
+<<v24>>
+24 So spricht der Herr: Zieht nicht in den Krieg gegen eure Brüder, die
+Israeliten! Jeder kehre in sein Haus zurück; denn ich habe es so
+verfügt. Sie hörten auf das Wort des Herrn und kehrten heim, wie der
+Herr es befohlen hatte.
+
+<<v25>>
+25 Jerobeam baute Sichem im Gebirge Efraim aus und ließ sich dort
+nieder. Von Sichem zog er nach Penuël und baute auch diese Stadt aus. [fn:9]\\
+\\
+
+<<v26>>
+* Die religiöse Trennung: 12,26-33
+
+26 Jerobeam dachte bei sich: Das Königtum könnte wieder an das Haus
+David fallen.
+
+<<v27>>
+27 Wenn dieses Volk hinaufgeht, um im Haus des Herrn in Jerusalem Opfer
+darzubringen, wird sich sein Herz wieder seinem Herrn, dem König
+Rehabeam von Juda, zuwenden. Mich werden sie töten und zu Rehabeam, dem
+König von Juda, zurückkehren.
+
+<<v28>>
+28 So ging er mit sich zu Rate, ließ zwei goldene Kälber anfertigen und
+sagte zum Volk: Ihr seid schon zu viel nach Jerusalem hinaufgezogen.
+Hier ist dein Gott, Israel, der dich aus Ägypten heraufgeführt hat. [fn:10] [fn:11]
+
+<<v29>>
+29 Er stellte das eine Kalb in Bet-El auf, das andere brachte er nach
+Dan.
+
+<<v30>>
+30 Dies wurde Anlass zur Sünde. Das Volk zog sogar bis nach Dan, vor das
+eine Kalb. [fn:12]
+
+<<v31>>
+31 Auch errichtete er Kulthöhen und setzte Priester ein, die aus allen
+Teilen des Volkes stammten und nicht zu den Söhnen Levis gehörten.
+
+<<v32>>
+32 Für den fünfzehnten Tag des achten Monats stiftete Jerobeam ein Fest,
+das dem Fest in Juda entsprach. Er stieg in Bet-El zum Altar hinauf, um
+den Kälbern zu opfern, die er hatte anfertigen lassen. In Bet-El ließ er
+auch die Priester, die er für die Kulthöhen bestellt hatte, Dienst tun. [fn:13]
+
+<<v33>>
+33 Am fünfzehnten Tag des achten Monats stieg er zum Altar hinauf, den
+er in Bet-El errichtet hatte. Er hatte sich diesen Monat eigens
+ausgedacht und diesen Tag zu einem Fest für die Israeliten bestimmt. An
+ihm stieg er zum Altar hinauf, um zu opfern.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-19) [[file:2.Chr_10.org::v1][2 Chr 10,1-19]]
+
+[fn:2] Mit «Israel» ist in den Königsbüchern bald das
+ungeteilte Volk, bald nur die Nordstämme, bald das nach dem Tod Salomos
+entstandene Nordreich gemeint.
+
+[fn:3] kehrte . . . zurück: Text korr. nach [[file:2.Chr_10.org::v2][2 Chr 10,2]]; H: blieb in Ägypten.
+
+[fn:4] «Skorpione» sind hier Geißeln mit Knoten und Stacheln.
+
+[fn:5] [[file:1.Kön_11.org::v29][11,29-39]]
+
+[fn:6] [[file:2.Sam_20.org::v1][2 Sam 20,1]]
+
+[fn:7] Israeliten, die in den Städten Judas wohnten: Angehörige
+der Nordstämme, die sich in Juda niedergelassen hatten.
+
+[fn:8] (21-24) [[file:2.Chr_11.org::v1][2 Chr 11,1-5]]
+
+[fn:9] Sichem blieb nur kurze Zeit Hauptstadt des Nordreichs. -
+Penuël lag im Ostjordanland am Mittellauf des Jabbok.
+
+[fn:10] [[file:Ex_32.org::v4][Ex 32,4]]
+
+[fn:11] zum Volk: Text korr. nach G; H: zu ihnen.
+
+[fn:12] vor das eine Kalb: H unklar.
+
+[fn:13] Das Fest entsprach dem Laubhüttenfest.

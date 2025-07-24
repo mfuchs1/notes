@@ -1,0 +1,121 @@
+#+TITLE: Ijob 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 22:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 17.html
+
+<<verses>>
+
+<<v1>>
+* Die Klage des Verhöhnten: 17,1-10
+
+1 Mein Geist ist verwirrt, /\\
+ meine Tage sind ausgelöscht, /\\
+ nur Gräber bleiben mir. [fn:1]\\
+\\
+
+<<v2>>
+2 Wahrhaftig, nur Spott begleitet mich. /\\
+ In Bitterkeit verbringt mein Auge die Nacht.\\
+\\
+
+<<v3>>
+3 Hinterleg die Bürgschaft für mich bei dir! /\\
+ Wer würde sonst den Handschlag für mich leisten?\\
+\\
+
+<<v4>>
+4 Ihr Herz hast du der Einsicht verschlossen, /\\
+ darum lässt du sie nicht triumphieren.\\
+\\
+
+<<v5>>
+5 Zum Teilen lädt einer die Freunde ein, /\\
+ während die Augen seiner Kinder verschmachten.\\
+\\
+
+<<v6>>
+6 Zum Spott für die Leute stellte er mich hin, /\\
+ ich wurde einer, dem man ins Gesicht spuckt. [fn:2] [fn:3]\\
+\\
+
+<<v7>>
+7 Vor Kummer ist mein Auge matt, /\\
+ all meine Glieder schwinden wie Schatten dahin. [fn:4]\\
+\\
+
+<<v8>>
+8 Darüber entsetzen sich die Redlichen, /\\
+ der Reine empört sich über den Ruchlosen. [fn:5]\\
+\\
+
+<<v9>>
+9 Doch der Gerechte hält fest an seinem Weg, /\\
+ wer reine Hände hat, gewinnt an Kraft.\\
+\\
+
+<<v10>>
+10 Ihr alle, kehrt um, kommt wieder her, /\\
+ ich finde ja noch keinen Weisen bei euch.\\
+\\
+
+<<v11>>
+* Die Not des Verzweifelten: 17,11-16
+
+11 Dahin sind meine Tage, /\\
+ zunichte meine Pläne, meine Herzenswünsche.\\
+\\
+
+<<v12>>
+12 Sie machen mir die Nacht zum Tag, /\\
+ das Licht nähert sich dem Dunkel. [fn:6]\\
+\\
+
+<<v13>>
+13 Ich habe keine Hoffnung. /\\
+ Die Unterwelt wird mein Haus, /\\
+ in der Finsternis breite ich mein Lager aus. [fn:7]\\
+\\
+
+<<v14>>
+14 Zur Grube rufe ich: Mein Vater bist du!, /\\
+ Meine Mutter, meine Schwester!, zum Wurm. [fn:8]\\
+\\
+
+<<v15>>
+15 Wo ist dann meine Hoffnung /\\
+ und wo mein Glück? Wer kann es schauen? [fn:9] [fn:10]\\
+\\
+
+<<v16>>
+16 Fahren sie zur Unterwelt mit mir hinab, /\\
+ sinken wir vereint in den Staub?\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_143.org::v4][Ps 143,4]]
+
+[fn:2] [[file:Ijob_30.org::v9][30,9]]
+
+[fn:3] Zum Spott: Text korr.
+
+[fn:4] schwinden dahin: Text korr.
+
+[fn:5] [[file:Jes_52.org::v15][Jes 52,15]]
+
+[fn:6] [[file:Ijob_11.org::v17][11,17]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v12][Joh 8,12]]
+
+[fn:7] [[file:Ps_88.org::v19][Ps 88,19]]
+
+[fn:8] [[file:Sir_10.org::v11][Sir 10,11]]
+
+[fn:9] [[file:Ijob_19.org::v10][19,10]]
+
+[fn:10] mein Glück: Text korr. nach G; H: meine Hoffnung.

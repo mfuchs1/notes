@@ -1,0 +1,121 @@
+#+TITLE: Gen 39 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:31]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 39.html
+
+<<verses>>
+
+<<v1>>
+* Josef als Sklave in Ägypten: 39,1-21
+:PROPERTIES:
+:CUSTOM_ID: josef-als-sklave-in-ägypten-391-21
+:END:
+1 Josef hatte man nach Ägypten gebracht. Ein Hofbeamter des Pharao, ein
+Ägypter namens Potifar, der Oberste der Leibwache, hatte ihn den
+Ismaelitern abgekauft, die ihn dorthin gebracht hatten.
+
+<<v2>>
+2 Der Herr war mit Josef und so glückte ihm alles. Er blieb im Haus
+seines ägyptischen Herrn.
+
+<<v3>>
+3 Dieser sah, dass der Herr mit Josef war und dass der Herr alles, was
+er unternahm, unter seinen Händen gelingen ließ.
+
+<<v4>>
+4 So fand Josef sein Wohlwollen und er durfte ihn bedienen. Er bestellte
+ihn zum Verwalter seines Hauses und vertraute ihm alles an, was er
+besaß.
+
+<<v5>>
+5 Seit er ihm sein Haus und alles, was ihm gehörte, anvertraut hatte,
+segnete der Herr das Haus des Ägypters um Josefs willen. Der Segen des
+Herrn ruhte auf allem, was ihm gehörte im Haus und auf dem Feld.
+
+<<v6>>
+6 Er ließ seinen ganzen Besitz in Josefs Hand und kümmerte sich, wenn
+Josef da war, um nichts als nur um sein Essen. Josef war schön von
+Gestalt und Aussehen.
+
+<<v7>>
+7 Nach einiger Zeit warf die Frau seines Herrn ihren Blick auf Josef und
+sagte: Schlaf mit mir!
+
+<<v8>>
+8 Er weigerte sich und entgegnete der Frau seines Herrn: Du siehst doch,
+mein Herr kümmert sich, wenn ich da bin, um nichts im Haus; alles, was
+ihm gehört, hat er mir anvertraut.
+
+<<v9>>
+9 Er ist in diesem Haus nicht größer als ich und er hat mir nichts
+vorenthalten als nur dich, denn du bist seine Frau. Wie könnte ich da
+ein so großes Unrecht begehen und gegen Gott sündigen?
+
+<<v10>>
+10 Obwohl sie Tag für Tag auf Josef einredete, bei ihr zu schlafen und
+ihr zu Willen zu sein, hörte er nicht auf sie.
+
+<<v11>>
+11 An einem solchen Tag kam er ins Haus, um seiner Arbeit nachzugehen.
+Niemand vom Hausgesinde war anwesend.
+
+<<v12>>
+12 Da packte sie ihn an seinem Gewande und sagte: Schlaf mit mir! Er
+ließ sein Gewand in ihrer Hand und lief hinaus.
+
+<<v13>>
+13 Als sie sah, dass er sein Gewand in ihrer Hand zurückgelassen hatte
+und hinausgelaufen war,
+
+<<v14>>
+14 rief sie nach ihrem Hausgesinde und sagte zu den Leuten: Seht nur! Er
+hat uns einen Hebräer ins Haus gebracht, der seinen Mutwillen mit uns
+treibt. Er ist zu mir gekommen und wollte mit mir schlafen; da habe ich
+laut geschrien.
+
+<<v15>>
+15 Als er hörte, dass ich laut aufschrie und rief, ließ er sein Gewand
+bei mir liegen und floh ins Freie.
+
+<<v16>>
+16 Sein Kleid ließ sie bei sich liegen, bis sein Herr nach Hause kam.
+
+<<v17>>
+17 Ihm erzählte sie die gleiche Geschichte: Der hebräische Sklave, den
+du uns gebracht hast, ist zu mir gekommen, um mit mir seinen Mutwillen
+zu treiben.
+
+<<v18>>
+18 Als ich laut aufschrie und rief, ließ er sein Gewand bei mir liegen
+und lief hinaus.
+
+<<v19>>
+19 Als sein Herr hörte, wie ihm seine Frau erzählte: So hat es dein
+Sklave mit mir getrieben!, packte ihn der Zorn.
+
+<<v20>>
+20 Er ließ Josef ergreifen und in den Kerker bringen, wo die Gefangenen
+des Königs in Haft gehalten wurden. Dort blieb er im Gefängnis.
+
+<<v21>>
+21 Aber der Herr war mit Josef. Er wandte ihm das Wohlwollen und die
+Gunst des Gefängnisleiters zu.\\
+\\
+
+<<v22>>
+* Josef im Gefängnis: 39,22 - 40,23
+
+22 Der Gefängnisleiter vertraute der Hand Josefs alle Gefangenen im
+Kerker an. Alles, was dort zu besorgen war, musste er tun.
+
+<<v23>>
+23 Der Gefängnisleiter brauchte sich um nichts zu sorgen, was Josef in
+seine Hand nahm, denn der Herr war mit ihm. Was er auch unternahm, der
+Herr ließ es ihm gelingen.

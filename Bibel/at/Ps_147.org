@@ -1,0 +1,159 @@
+#+TITLE: Ps 147 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-20 Di 23:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 147.html
+
+* Ps 147
+
+<<verses>>
+
+<<v1>>
+* Bekenntnis zu Gott, dem Retter Israels
+
+1 Halleluja! Gut ist es, unserm Gott zu singen; /\\
+ schön ist es, ihn zu loben. [fn:1]\\
+\\
+
+<<v2>>
+2 Der Herr baut Jerusalem wieder auf, /\\
+ er sammelt die Versprengten Israels. [fn:2]\\
+\\
+
+<<v3>>
+3 Er heilt die gebrochenen Herzen /\\
+ und verbindet ihre schmerzenden Wunden. [fn:3]\\
+\\
+
+<<v4>>
+4 Er bestimmt die Zahl der Sterne /\\
+ und ruft sie alle mit Namen. [fn:4]\\
+\\
+
+<<v5>>
+5 Groß ist unser Herr und gewaltig an Kraft, /\\
+ unermesslich ist seine Weisheit. [fn:5]\\
+\\
+
+<<v6>>
+6 Der Herr hilft den Gebeugten auf /\\
+ und erniedrigt die Frevler. [fn:6] [fn:7]\\
+\\
+
+<<v7>>
+7 Stimmt dem Herrn ein Danklied an, /\\
+ spielt unserm Gott auf der Harfe!\\
+\\
+
+<<v8>>
+8 Er bedeckt den Himmel mit Wolken, /\\
+ spendet der Erde Regen /\\
+ und lässt Gras auf den Bergen sprießen. [fn:8]\\
+\\
+
+<<v9>>
+9 Er gibt dem Vieh seine Nahrung, /\\
+ gibt den jungen Raben, wonach sie schreien. [fn:9]\\
+\\
+
+<<v10>>
+10 Er hat keine Freude an der Kraft des Pferdes, /\\
+ kein Gefallen am schnellen Lauf des Mannes. [fn:10]\\
+\\
+
+<<v11>>
+11 Gefallen hat der Herr an denen, die ihn fürchten und ehren, /\\
+ die voll Vertrauen warten auf seine Huld.\\
+\\
+
+<<v12>>
+* Dank für Gottes Güte
+
+12 Jerusalem, preise den Herrn, /\\
+ lobsinge, Zion, deinem Gott! [fn:11]\\
+\\
+
+<<v13>>
+13 Denn er hat die Riegel deiner Tore fest gemacht, /\\
+ die Kinder in deiner Mitte gesegnet;\\
+\\
+
+<<v14>>
+14 er verschafft deinen Grenzen Frieden /\\
+ und sättigt dich mit bestem Weizen. [fn:12]\\
+\\
+
+<<v15>>
+15 Er sendet sein Wort zur Erde, /\\
+ rasch eilt sein Befehl dahin. [fn:13]\\
+\\
+
+<<v16>>
+16 Er spendet Schnee wie Wolle, /\\
+ streut den Reif aus wie Asche. [fn:14]\\
+\\
+
+<<v17>>
+17 Eis wirft er herab in Brocken, /\\
+ vor seiner Kälte erstarren die Wasser. [fn:15] [fn:16]\\
+\\
+
+<<v18>>
+18 Er sendet sein Wort aus und sie schmelzen, /\\
+ er lässt den Wind wehen, dann rieseln die Wasser.\\
+\\
+
+<<v19>>
+19 Er verkündet Jakob sein Wort, /\\
+ Israel seine Gesetze und Rechte. [fn:17]\\
+\\
+
+<<v20>>
+20 An keinem andern Volk hat er so gehandelt, /\\
+ keinem sonst seine Rechte verkündet. Halleluja! [fn:18]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_92.org;;v2][92,2]]
+
+[fn:2] [[file:Ps_51.org::v20][51,20]]; [[file:Jes_11.org::v12][Jes 11,12]]; [[file:Jer_31.org::v10][Jer 31,10]]
+
+[fn:3] [[file:Ijob_5.org::v18][Ijob 5,18]]; [[file:Ps_61.org::v1][Jes 61,1]]; [[file:Jer_33.org::v6][Jer 33,6]]
+
+[fn:4] [[file:Jes_40.org::v26][Jes 40,26]]; [[file:Bar_3.org::v34][Bar 3,34f]]
+
+[fn:5] [[file:Ps_145.org::v3][145,3]]; [[file:Jes_40.org::v28][Jes 40,28]]
+
+[fn:6] [[file:Ps_145.org::v14][145,14]]; [[file:Ps_75.org::v8][75,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v52][Lk 1,52]]
+
+[fn:7] erniedrigt die Frevler: H fügt hinzu: bis zum Boden.
+
+[fn:8] [[file:Ps_104.org::v11][104,11-14]]; [[file:Ijob_5.org::v10][Ijob 5,10]]; [[file:Jer_14.org::v22][Jer 14,22]]; [[file:Joel_2.org::v23][Joël 2,23]]
+
+[fn:9] [[file:Ijob_38.org::v41][Ijob 38,41]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_12.org::v24][Lk 12,24]]
+
+[fn:10] (10-11) [[file:Ps_20.org::v8][20,8]]; [[file:1.Sam_16.org::v7][1 Sam 16,7]]
+
+[fn:11] [[file:Jer_33.org::v10][Jer 33,10f]]
+
+[fn:12] [[file:Ps_81.org::v17][81,17]]
+
+[fn:13] [[file:Ps_33.org::v9][33,9]]; [[file:Weish_18.org::v15][Weish 18,15]]
+
+[fn:14] (15-18) [[file:Ijob_38.org::v20][Ijob 38,20-30]]
+
+[fn:15] [[file:Ijob_37.org::v10][Ijob 37,10]]
+
+[fn:16] Text korr.; H: Wer wird bestehen vor seinem Frost?
+
+[fn:17] [[file:Ps_78.org::v5][78,5]]; (19-20) [[file:Dtn_4.org::v8][Dtn 4,8]]
+
+[fn:18] Text korr.; H: und seine Rechte lernten sie nicht kennen.

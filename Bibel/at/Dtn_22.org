@@ -1,0 +1,222 @@
+#+TITLE: Dtn 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-29 So 23:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 22.html
+
+<<verses>>
+
+<<v1>>
+* Gefundenes Gut: 22,1-3
+
+1 Du sollst nicht untätig zusehen, wie ein Stier oder ein Lamm deines
+Bruders sich verläuft. Du sollst dann nicht so tun, als gingen sie dich
+nichts an, sondern sie deinem Bruder zurückbringen. [fn:1]
+
+<<v2>>
+2 Wenn dein Bruder nicht in der Nähe wohnt oder wenn du ihn nicht
+kennst, sollst du das Tier in deinen Stall tun und es soll dir zur
+Verfügung stehen, bis dein Bruder es sucht und du es ihm zurückgeben
+kannst.
+
+<<v3>>
+3 Ebenso sollst du es mit einem Esel halten, ebenso mit einem Gewand,
+ebenso mit allem anderen, was dein Bruder verloren hat: was er verloren
+hat und was du findest. Du kannst gar nicht so tun, als ginge dich das
+nichts an.\\
+\\
+
+<<v4>>
+* Die nachbarschaftliche Hilfe: 22,4
+
+4 Du sollst nicht untätig zusehen, wie ein Esel oder ein Ochse deines
+Bruders auf dem Weg zusammenbricht. Du sollst dann nicht so tun, als
+gingen sie dich nichts an, sondern ihm helfen, sie wieder aufzurichten. [fn:2]\\
+\\
+
+<<v5>>
+* Kleidung und Geschlecht: 22,5
+
+5 Eine Frau soll nicht die Ausrüstung eines Mannes tragen und ein Mann
+soll kein Frauenkleid anziehen; denn jeder, der das tut, ist dem Herrn,
+deinem Gott, ein Gräuel. [fn:3]\\
+\\
+
+<<v6>>
+* Die Aushebung von Vogelnestern: 22,6f
+
+6 Wenn du unterwegs auf einem Baum oder auf der Erde zufällig ein
+Vogelnest mit Jungen oder mit Eiern darin findest und die Mutter auf den
+Jungen oder auf den Eiern sitzt, sollst du die Mutter nicht zusammen mit
+den Jungen herausnehmen.
+
+<<v7>>
+7 Sondern du sollst die Mutter fliegen lassen und nur die Jungen nehmen,
+damit es dir gut geht und du lange lebst. [fn:4]\\
+\\
+
+<<v8>>
+* Schutzgeländer an Dachterrassen: 22,8
+
+8 Wenn du ein neues Haus baust, sollst du um die Dachterrasse eine
+Brüstung ziehen. Du sollst nicht dadurch, dass jemand herunterfällt,
+Blutschuld auf dein Haus legen. [fn:5]\\
+\\
+
+<<v9>>
+* Das Verbot von Vermischung: 22,9-11
+
+9 Du sollst in deinem Weinberg keine anderen Pflanzen anbauen, sonst
+verfällt das Ganze dem Heiligtum, sowohl was du zusätzlich angebaut hast
+als auch was der Weinberg trägt.
+
+<<v10>>
+10 Du sollst nicht Ochse und Esel zusammen vor den Pflug spannen.
+
+<<v11>>
+11 Du sollst für deine Kleidung kein Mischgewebe aus Wolle und Flachs
+verwenden.\\
+\\
+
+<<v12>>
+* Die Quasten: 22,12
+
+12 Du sollst an den vier Zipfeln des Überwurfs, den du trägst, Quasten
+anbringen. [fn:6]\\
+\\
+
+<<v13>>
+* Die Beschuldigung der Ehefrau wegen vorehelichen Verkehrs: 22,13-21
+
+13 Wenn ein Mann eine Frau geheiratet und mit ihr Verkehr gehabt hat,
+sie aber später nicht mehr liebt [fn:7]
+
+<<v14>>
+14 und ihr Anrüchiges vorwirft, sie in Verruf bringt und behauptet:
+Diese Frau habe ich geheiratet, aber als ich mich ihr näherte, entdeckte
+ich, dass sie nicht mehr unberührt war!,
+
+<<v15>>
+15 wenn Vater und Mutter des Mädchens dann das Beweisstück ihrer
+Unberührtheit holen und zu den Ältesten der Stadt ans Tor bringen [fn:8]
+
+<<v16>>
+16 und der Vater des Mädchens den Ältesten erklärt: Ich habe diesem Mann
+meine Tochter zur Frau gegeben, aber er liebt sie nicht mehr,
+
+<<v17>>
+17 ja er wirft ihr jetzt Anrüchiges vor, indem er sagt: Ich habe
+entdeckt, dass deine Tochter nicht mehr unberührt war!; aber hier ist
+das Beweisstück für die Unberührtheit meiner Tochter!, und wenn sie das
+Gewand (aus der Hochzeitsnacht) vor den Ältesten der Stadt ausbreiten,
+
+<<v18>>
+18 dann sollen die Ältesten dieser Stadt den Mann packen und züchtigen
+lassen.
+
+<<v19>>
+19 Sie sollen ihm eine Geldbuße von hundert Silberschekel auferlegen und
+sie dem Vater des Mädchens übergeben, weil der Mann eine unberührte
+Israelitin in Verruf gebracht hat. Sie soll seine Frau bleiben. Er darf
+sie niemals entlassen.
+
+<<v20>>
+20 Wenn der Vorwurf aber zutrifft, wenn sich keine Beweisstücke für die
+Unberührtheit des Mädchens beibringen lassen,
+
+<<v21>>
+21 soll man das Mädchen hinausführen und vor die Tür ihres Vaterhauses
+bringen. Dann sollen die Männer ihrer Stadt sie steinigen und sie soll
+sterben; denn sie hat eine Schandtat in Israel begangen, indem sie in
+ihrem Vaterhaus Unzucht trieb. Du sollst das Böse aus deiner Mitte
+wegschaffen. [fn:9]\\
+\\
+
+<<v22>>
+* Der Ehebruch mit einer verheirateten Frau: 22,22
+
+22 Wenn ein Mann dabei ertappt wird, wie er bei einer verheirateten Frau
+liegt, dann sollen beide sterben, der Mann, der bei der Frau gelegen
+hat, und die Frau. Du sollst das Böse aus Israel wegschaffen. [fn:10]\\
+\\
+
+<<v23>>
+* Der Beischlaf mit der Verlobten eines anderen: 22,23-27
+
+23 Wenn ein unberührtes Mädchen mit einem Mann verlobt ist und ein
+anderer Mann ihr in der Stadt begegnet und sich mit ihr hinlegt, [fn:11]
+
+<<v24>>
+24 dann sollt ihr beide zum Tor dieser Stadt führen. Ihr sollt sie
+steinigen und sie sollen sterben, das Mädchen, weil es in der Stadt
+nicht um Hilfe geschrien hat, und der Mann, weil er sich die Frau eines
+andern gefügig gemacht hat. Du sollst das Böse aus deiner Mitte
+wegschaffen. [fn:12]
+
+<<v25>>
+25 Wenn der Mann dem verlobten Mädchen aber auf freiem Feld begegnet,
+sie fest hält und sich mit ihr hinlegt, dann soll nur der Mann sterben,
+der bei ihr gelegen hat,
+
+<<v26>>
+26 dem Mädchen aber sollst du nichts tun. Bei dem Mädchen handelt es
+sich nicht um ein Verbrechen, auf das der Tod steht; denn dieser Fall
+ist so zu beurteilen, wie wenn ein Mann einen andern überfällt und ihn
+tötet.
+
+<<v27>>
+27 Auf freiem Feld ist er ihr begegnet, das verlobte Mädchen mag um
+Hilfe geschrien haben, aber es ist kein Helfer da gewesen.\\
+\\
+
+<<v28>>
+* Der Beischlaf mit einer noch nicht Verlobten: 22,28f
+
+28 Wenn ein Mann einem unberührten Mädchen, das noch nicht verlobt ist,
+begegnet, sie packt und sich mit ihr hinlegt und sie ertappt werden, [fn:13]
+
+<<v29>>
+29 soll der Mann, der bei ihr gelegen hat, dem Vater des Mädchens
+fünfzig Silberschekel zahlen und sie soll seine Frau werden, weil er sie
+sich gefügig gemacht hat. Er darf sie niemals entlassen.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-3) [[file:Ex_23.org::v4][Ex 23,4]]
+
+[fn:2] [[file:Ex_23.org::v5][Ex 23,5]]
+
+[fn:3] Kleidertausch spielte in kanaanäischen Kulten eine Rolle.
+
+[fn:4] [[file:Dtn_5.org::v16][5,16]]
+
+[fn:5] [[file:Dtn_19.org::v10][19,10]]
+
+[fn:6] [[file:~/RoamNotes/notes/Bibel/nt/Mt_23.org::v5][Mt 23,5]]
+
+[fn:7] (13-29) [[file:Dtn_5.org::v18][5,18]].[[file:Dtn_5.org::v21][21]]; (13-21) [[file:Dtn_19.org::v12][19,12]]
+
+[fn:8] das Beweisstück ihrer Unberührtheit, wörtlich: ihre
+Unberührtheit. Es gehörte wohl zu den Hochzeitsbräuchen, dass nach dem
+ersten Verkehr den Eltern das letzte vorhochzeitliche Gewand ihrer
+Tochter, das als Betttuch gedient hatte und nun Blutspuren aufwies,
+überreicht wurde. Es konnte deshalb in einem Prozess als Beweisstück
+dafür dienen, dass die Frau unberührt in die Ehe gekommen war.
+
+[fn:9] [[file:Dtn_21.org::v21][21,21]]; [[file:Gen_34.org::v7][Gen 34,7]]; [[file:Jos_7.org::v15][Jos 7,15]]; [[file:Ri_20.org::v6][Ri 20,6]].[[file:Ri_20.org::v10][10]]; [[file:2.Sam_13.org::v12][2 Sam 13,12]]; [[file:1.Kön_5.org::v13][1 Kor 5,13]]
+
+[fn:10] [[file:Dtn_21.org::v21][21,21]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v5][Joh 8,5]]
+
+[fn:11] Durch die «Verlobung» erwarb der Bräutigam das Anrecht
+auf die Frau.
+
+[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_5.org::v13][1 Kor 5,13]]
+
+[fn:13] (28-29) [[file:Ex_22.org::v15][Ex 22,15f]]

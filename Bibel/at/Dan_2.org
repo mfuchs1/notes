@@ -1,0 +1,295 @@
+:PROPERTIES:
+:ID:       09015bf8-973e-43fa-a6c8-b4e3ec17e756
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Daniel* -- [[file:Dan_1.html][1]] *2*
+[[file:Dan_3.html][3]] [[file:Dan_4.html][4]] ...
+[[file:Dan_14.html][14]]
+
+--------------
+
+* Dan 2
+  :PROPERTIES:
+  :CUSTOM_ID: dan-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Nebukadnezzars Traum von den Weltreichen: 2,1-49
+   :PROPERTIES:
+   :CUSTOM_ID: nebukadnezzars-traum-von-den-weltreichen-21-49
+   :END:
+1 Im zweiten Jahr der Herrschaft Nebukadnezzars hatte dieser einen
+Traum. Sein Geist wurde davon so beunruhigt, dass er nicht mehr schlafen
+konnte. ^{[[#fn1][1]]}
+
+<<v2>>
+2 Da ließ der König die Zeichendeuter und Wahrsager, die Beschwörer und
+Chaldäer zusammenrufen; sie sollten ihm Aufschluss geben über seinen
+Traum. Sie kamen und traten vor den König. ^{[[#fn2][2]][[#fn3][3]]}
+
+<<v3>>
+3 Der König sagte zu ihnen: Ich habe einen Traum gehabt; mein Geist ist
+voll Unruhe und ich möchte den Traum verstehen.
+
+<<v4>>
+4 Die Chaldäer sagten zu ihm [aramäisch]: O König, mögest du ewig leben.
+Erzähl deinen Knechten den Traum, dann geben wir dir die Deutung.
+^{[[#fn4][4]]}
+
+<<v5>>
+5 Der König antwortete den Chaldäern: Das ist mein unwiderruflicher
+Entschluss: Wenn ihr mir nicht den Traum und seine Deutung sagen könnt,
+dann werdet ihr in Stücke gerissen und eure Häuser werden in
+Schutthaufen verwandelt.
+
+<<v6>>
+6 Sagt ihr mir aber den Traum und seine Deutung, dann empfangt ihr von
+mir Geschenke, Gaben und hohe Ehrungen. Gebt mir also den Traum und
+seine Deutung an!
+
+<<v7>>
+7 Sie antworteten zum zweiten Mal: Der König erzähle seinen Knechten den
+Traum, dann geben wir ihm die Deutung.
+
+<<v8>>
+8 Da erwiderte der König: Nun bin ich sicher, dass ihr nur Zeit gewinnen
+wollt; denn ihr seht, dass mein Entschluss unwiderruflich ist.
+
+<<v9>>
+9 Wenn ihr mir den Traum nicht sagen könnt, gibt es nur ein Urteil über
+euch, nämlich: Ihr habt euch verabredet, mir einen erlogenen und
+verkehrten Spruch vorzutragen, in der Hoffnung, dass sich die Lage
+ändert. Erzählt mir also den Traum; daran werde ich erkennen, dass ihr
+ihn auch deuten könnt.
+
+<<v10>>
+10 Die Chaldäer hielten dem König entgegen: Es gibt keinen Menschen auf
+der Welt, der sagen könnte, was der König verlangt. Auch hat noch nie
+ein König, mag er noch so groß und mächtig gewesen sein, ein solches
+Ansinnen an irgendeinen Zeichendeuter, Wahrsager oder Chaldäer gestellt.
+
+<<v11>>
+11 Was der König verlangt, ist zu schwierig. Es gibt auch sonst niemand,
+der es dem König sagen könnte, außer den Göttern; doch diese wohnen
+nicht bei den Sterblichen.
+
+<<v12>>
+12 Darüber wurde der König so wütend und zornig, dass er befahl, alle
+Weisen in Babel umzubringen.
+
+<<v13>>
+13 Als der Befehl erging, die Weisen zu töten, waren auch Daniel und
+seine Freunde in Gefahr, getötet zu werden.
+
+<<v14>>
+14 Aber Daniel, klug und rechtskundig, wandte sich an Arjoch, den
+Obersten der königlichen Leibwache, der schon unterwegs war, um die
+Weisen Babels zu töten.
+
+<<v15>>
+15 Daniel fragte den Bevollmächtigten des Königs, warum der König einen
+so harten Befehl gegeben habe. Da erklärte ihm Arjoch die Sache.
+
+<<v16>>
+16 Daniel ging darauf zum König und bat ihn, er möge ihm eine Frist
+bewilligen, damit er ihm die Deutung des Traumes geben könne.
+
+<<v17>>
+17 Dann eilte Daniel nach Hause, teilte seinen Gefährten Hananja,
+Mischaël und Asarja alles mit
+
+<<v18>>
+18 und sagte, sie sollten wegen dieses Geheimnisses den Gott des Himmels
+um Erbarmen bitten, damit nicht Daniel und seine Gefährten samt den
+anderen Weisen Babels umkämen.
+
+<<v19>>
+19 Darauf wurde ihm das Geheimnis in einer nächtlichen Vision enthüllt
+und Daniel pries den Gott des Himmels dafür.
+
+<<v20>>
+20 Er betete: Der Name Gottes sei gepriesen von Ewigkeit zu Ewigkeit.
+Denn er hat die Weisheit und die Macht. ^{[[#fn5][5]]}
+
+<<v21>>
+21 Er bestimmt den Wechsel der Zeiten und Fristen; er setzt Könige ab
+und setzt Könige ein. Er gibt den Weisen die Weisheit und den
+Einsichtigen die Erkenntnis.
+
+<<v22>>
+22 Er enthüllt tief verborgene Dinge; er weiß, was im Dunkeln ist, und
+bei ihm wohnt das Licht. ^{[[#fn6][6]]}
+
+<<v23>>
+23 Dich, Gott meiner Väter, preise und rühme ich; denn du hast mir
+Weisheit und Macht verliehen und jetzt hast du mich wissen lassen, was
+wir von dir erfleht haben: Du hast uns die Sache des Königs wissen
+lassen.
+
+<<v24>>
+24 Darauf ging Daniel zu Arjoch, dem der König aufgetragen hatte, die
+Weisen Babels umzubringen; er trat ein und sagte zu ihm: Bring die
+Weisen Babels nicht um! Führe mich vor den König! Ich werde dem König
+die Deutung seines Traumes geben.
+
+<<v25>>
+25 In aller Eile brachte Arjoch Daniel vor den König und meldete ihm:
+Ich habe unter den verschleppten Juden einen Mann gefunden, der dem
+König die Deutung des Traums geben will.
+
+<<v26>>
+26 Darauf sagte der König zu Daniel, den man auch Beltschazzar nannte:
+Bist du wirklich imstande, mir das Traumgesicht, das ich hatte, und
+seine Deutung zu sagen?
+
+<<v27>>
+27 Daniel antwortete dem König: Weise und Wahrsager, Zeichendeuter und
+Astrologen vermögen dem König das Geheimnis, nach dem er fragt, nicht zu
+enthüllen.
+
+<<v28>>
+28 Aber es gibt im Himmel einen Gott, der Geheimnisse offenbart; er ließ
+den König Nebukadnezzar wissen, was am Ende der Tage geschehen wird. Der
+Traum, den dein Geist auf deinem Lager hatte, war so: ^{[[#fn7][7]]}
+
+<<v29>>
+29 Auf deinem Lager kamen dir, König, Gedanken darüber, was dereinst
+geschehen werde; da ließ er, der die Geheimnisse enthüllt, dich wissen,
+was geschehen wird. ^{[[#fn8][8]]}
+
+<<v30>>
+30 Dieses Geheimnis wurde mir enthüllt, nicht durch eine Weisheit, die
+ich vor allen anderen Lebenden voraus hätte, sondern nur, damit du,
+König, die Deutung erfährst und die Gedanken deines Herzens verstehst.
+
+<<v31>>
+31 Du, König, hattest eine Vision: Du sahst ein gewaltiges Standbild. Es
+war groß und von außergewöhnlichem Glanz; es stand vor dir und war
+furchtbar anzusehen.
+
+<<v32>>
+32 An diesem Standbild war das Haupt aus reinem Gold; Brust und Arme
+waren aus Silber, der Körper und die Hüften aus Bronze.
+
+<<v33>>
+33 Die Beine waren aus Eisen, die Füße aber zum Teil aus Eisen, zum Teil
+aus Ton.
+
+<<v34>>
+34 Du sahst, wie ohne Zutun von Menschenhand sich ein Stein von einem
+Berg löste, gegen die eisernen und tönernen Füße des Standbildes schlug
+und sie zermalmte.
+
+<<v35>>
+35 Da wurden Eisen und Ton, Bronze, Silber und Gold mit einem Mal zu
+Staub. Sie wurden wie Spreu auf dem Dreschplatz im Sommer. Der Wind trug
+sie fort und keine Spur war mehr von ihnen zu finden. Der Stein aber,
+der das Standbild getroffen hatte, wurde zu einem großen Berg und
+erfüllte die ganze Erde.
+
+<<v36>>
+36 Das war der Traum. Nun wollen wir dem König sagen, was er bedeutet.
+
+<<v37>>
+37 Du, König, bist der König der Könige; dir hat der Gott des Himmels
+Herrschaft und Macht, Stärke und Ruhm verliehen. ^{[[#fn9][9]]}
+
+<<v38>>
+38 Und in der ganzen bewohnten Welt hat er die Menschen, die Tiere auf
+dem Feld und die Vögel am Himmel in deine Hand gegeben; dich hat er zum
+Herrscher über sie alle gemacht: Du bist das goldene Haupt.
+^{[[#fn10][10]]}
+
+<<v39>>
+39 Nach dir kommt ein anderes Reich, geringer als deines; dann ein
+drittes Reich, von Bronze, das die ganze Erde beherrschen wird.
+
+<<v40>>
+40 Ein viertes endlich wird hart wie Eisen sein; Eisen zerschlägt und
+zermalmt ja alles; und wie Eisen alles zerschmettert, so wird dieses
+Reich alle anderen zerschlagen und zerschmettern. ^{[[#fn11][11]]}
+
+<<v41>>
+41 Die Füße und Zehen waren, wie du gesehen hast, teils aus Töpferton,
+teils aus Eisen; das bedeutet: Das Reich wird geteilt sein; es wird aber
+etwas von der Härte des Eisens haben, darum hast du das Eisen mit Ton
+vermischt gesehen.
+
+<<v42>>
+42 Dass aber die Zehen teils aus Eisen, teils aus Ton waren, bedeutet:
+Zum Teil wird das Reich hart sein, zum Teil brüchig.
+
+<<v43>>
+43 Wenn du das Eisen mit Ton vermischt gesehen hast, so heißt das: Sie
+werden sich zwar durch Heiraten miteinander verbinden; doch das eine
+wird nicht am anderen haften, wie sich Eisen nicht mit Ton verbindet.
+^{[[#fn12][12]]}
+
+<<v44>>
+44 Zur Zeit jener Könige wird aber der Gott des Himmels ein Reich
+errichten, das in Ewigkeit nicht untergeht; dieses Reich wird er keinem
+anderen Volk überlassen. Es wird alle jene Reiche zermalmen und
+endgültig vernichten; es selbst aber wird in alle Ewigkeit bestehen.
+^{[[#fn13][13]]}
+
+<<v45>>
+45 Du hast ja gesehen, dass ohne Zutun von Menschenhand ein Stein vom
+Berg losbrach und Eisen, Bronze und Ton, Silber und Gold zermalmte. Der
+große Gott hat den König wissen lassen, was dereinst geschehen wird. Der
+Traum ist sicher und die Deutung zuverlässig.
+
+<<v46>>
+46 Da warf sich König Nebukadnezzar auf sein Gesicht nieder, huldigte
+Daniel und befahl, man sollte ihm Opfer und Weihrauch darbringen.
+^{[[#fn14][14]]}
+
+<<v47>>
+47 Und der König sagte zu Daniel: Es ist wahr: Euer Gott ist der Gott
+der Götter und der Herr der Könige und er kann Geheimnisse offenbaren;
+nur deshalb konntest du dieses Geheimnis enthüllen. ^{[[#fn15][15]]}
+
+<<v48>>
+48 Dann verlieh der König dem Daniel einen hohen Rang und gab ihm viele,
+reiche Geschenke; er machte ihn zum Gebieter über die ganze Provinz
+Babel und zum obersten Präfekten aller Weisen von Babel.
+
+<<v49>>
+49 Auf Daniels Bitte betraute der König Schadrach, Meschach und
+Abed-Nego mit der Verwaltung der Provinz Babel; Daniel selbst aber blieb
+am königlichen Hof.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Gen 40,8.16; 41
+
+^{[[#fnm2][2]]} ℘ Jes 47,12
+
+^{[[#fnm3][3]]} Chaldäer: Gemeint sind die chaldäischen (babylonischen)
+Zeichenund Sterndeuter.
+
+^{[[#fnm4][4]]} Aramäisch: An dieser Stelle wechselt der Urtext vom
+Hebräischen zum Aramäischen (vgl. die Einleitung).
+
+^{[[#fnm5][5]]} ℘ Neh 9,5; Ijob 12,13; Spr 2,6
+
+^{[[#fnm6][6]]} ℘ Ijob 12,22
+
+^{[[#fnm7][7]]} ℘ Gen 41,16
+
+^{[[#fnm8][8]]} ℘ Offb 4,1
+
+^{[[#fnm9][9]]} ℘ Ez 26,7
+
+^{[[#fnm10][10]]} ℘ Jer 27,6; Jdt 11,7
+
+^{[[#fnm11][11]]} ℘ 7,7
+
+^{[[#fnm12][12]]} ℘ 11,6
+
+^{[[#fnm13][13]]} ℘ 7,14.27; Jes 9,6; 1 Kor 15,24
+
+^{[[#fnm14][14]]} ℘ Apg 14,13.18
+
+^{[[#fnm15][15]]} ℘ 3,90; Dtn 10,17; Ps 50,1

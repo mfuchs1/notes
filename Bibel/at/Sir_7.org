@@ -1,0 +1,242 @@
+:PROPERTIES:
+:ID:       ea82f91a-9fd2-4bd3-8035-232add3929f4
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_5.html][5]] [[file:Sir_6.html][6]]
+*7* [[file:Sir_8.html][8]] [[file:Sir_9.html][9]] ...
+[[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 7
+  :PROPERTIES:
+  :CUSTOM_ID: sir-7
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Gefahren für den Weisen: 7,1-17
+     :PROPERTIES:
+     :CUSTOM_ID: gefahren-für-den-weisen-71-17
+     :END:
+1 Tu nichts Böses, so trifft dich nichts Böses. /\\
+\\
+
+<<v2>>
+2 Bleib der Sünde fern, so meidet sie dich.\\
+\\
+
+<<v3>>
+3 Säe nicht in Furchen des Unrechts, /\\
+ damit du es nicht siebenfach erntest. ^{[[#fn1][1]]}\\
+\\
+
+<<v4>>
+4 Begehr von Gott kein Herrscheramt /\\
+ und vom König keinen Ehrenplatz!\\
+\\
+
+<<v5>>
+5 Halte dich nicht für gerecht vor Gott, /\\
+ nicht für klug vor dem König!\\
+\\
+
+<<v6>>
+6 Begehr nicht, Herrscher zu werden, /\\
+ wenn dir die Kraft fehlt, dem Übermut zu steuern; du würdest sonst den
+Vornehmen fürchten /\\
+ und deine Ehre beflecken.\\
+\\
+
+<<v7>>
+7 Setz dich nicht ins Unrecht bei der Versammlung am Tor, /\\
+ bring dich nicht selbst zu Fall vor der Gemeinde! ^{[[#fn2][2]]}\\
+\\
+
+<<v8>>
+8 Sinne nicht darauf, die Sünde zu wiederholen; /\\
+ schon bei einer bleibst du nicht straflos. ^{[[#fn3][3]]}\\
+\\
+
+<<v9>>
+9 Sag nicht: Auf die Menge meiner Gaben wird Gott sehen, /\\
+ und wenn ich dem Höchsten opfere, nimmt er es an.\\
+\\
+
+<<v10>>
+10 Sei nicht kleinmütig beim Gebet /\\
+ und nicht säumig beim Wohltun!\\
+\\
+
+<<v11>>
+11 Blick nicht geringschätzig auf einen Verbitterten; /\\
+ bedenk, dass einer da ist, der erhöht und erniedrigt.\\
+\\
+
+<<v12>>
+12 Sinne nicht auf Unrecht gegen deinen Bruder, /\\
+ auch nicht gegen den Freund und Gefährten.\\
+\\
+
+<<v13>>
+13 Jede Lüge missfalle dir; /\\
+ denn sie hat nichts Gutes zu erhoffen.\\
+\\
+
+<<v14>>
+14 Rede nicht heimlich in der Versammlung der Fürsten /\\
+ und wiederhol nicht die Worte beim Gebet! ^{[[#fn4][4]]}\\
+\\
+
+<<v15>>
+15 Sei nicht leichtfertig bei der schweren Arbeit auf dem Acker, /\\
+ denn von Gott ist sie zugewiesen. ^{[[#fn5][5]]}\\
+\\
+
+<<v16>>
+16 Überschätz dich nicht vor dem Volk; /\\
+ bedenk, dass der Zorn nicht ausbleibt. ^{[[#fn6][6]]}\\
+\\
+
+<<v17>>
+17 Demütige deinen Stolz ganz tief, /\\
+ denn was den Menschen erwartet, ist die Verwesung. [Sag nicht
+vorschnell: Welch ein Widersinn! /\\
+ Überlass es Gott und willige ein in seinen Weg!]
+^{[[#fn7][7]][[#fn8][8]]}\\
+\\
+
+<<v18>>
+**** Das rechte Verhalten im häuslichen Kreis: 7,18-28
+     :PROPERTIES:
+     :CUSTOM_ID: das-rechte-verhalten-im-häuslichen-kreis-718-28
+     :END:
+18 Wechsle keinen Freund für Geld, /\\
+ einen treuen Bruder nicht für Gold aus Ofir!\\
+\\
+
+<<v19>>
+19 Verachte nicht eine kluge Frau; /\\
+ liebenswürdige Güte ist mehr wert als Perlen.\\
+\\
+
+<<v20>>
+20 Misshandle einen Sklaven nicht, der dir treu dient, /\\
+ auch nicht einen Tagelöhner, der sich willig einsetzt.\\
+\\
+
+<<v21>>
+21 Einen klugen Sklaven liebe wie dich selbst, /\\
+ verweigere ihm die Freilassung nicht!\\
+\\
+
+<<v22>>
+22 Hast du Vieh, so schau darauf; /\\
+ ist es brauchbar, so behalt es!\\
+\\
+
+<<v23>>
+23 Hast du Söhne, nimm sie in Zucht /\\
+ und gib ihnen Frauen in jungen Jahren! ^{[[#fn9][9]]}\\
+\\
+
+<<v24>>
+24 Hast du Töchter, so behüte ihren Leib; /\\
+ zeig dich ihnen nicht allzu freundlich!\\
+\\
+
+<<v25>>
+25 Bring die Tochter aus dem Haus, dann zieht die Sorge aus; /\\
+ doch verheirate sie nur mit einem verständigen Mann!\\
+\\
+
+<<v26>>
+26 Hast du eine Frau, so verstoße sie nicht /\\
+ und schenk dein Vertrauen keiner Geschiedenen! ^{[[#fn10][10]]}\\
+\\
+
+<<v27>>
+27 Ehre deinen Vater von ganzem Herzen, /\\
+ vergiss niemals die Schmerzen deiner Mutter! ^{[[#fn11][11]]}\\
+\\
+
+<<v28>>
+28 Denk daran, dass sie dir das Leben gaben. /\\
+ Wie kannst du ihnen vergelten, was sie für dich taten?\\
+\\
+
+<<v29>>
+**** Die Erfüllung heiliger Pflichten: 7,29-36
+     :PROPERTIES:
+     :CUSTOM_ID: die-erfüllung-heiliger-pflichten-729-36
+     :END:
+29 Fürchte Gott von ganzem Herzen, /\\
+ seine Priester halt in Ehren!\\
+\\
+
+<<v30>>
+30 Liebe deinen Schöpfer mit aller Kraft /\\
+ und lass seine Diener nie im Stich!\\
+\\
+
+<<v31>>
+31 Ehre Gott und achte den Priester, /\\
+ entrichte ihm den Anteil, wie es dir geboten ist: den Speiseanteil vom
+Schuldopfer und die freiwillige Abgabe, /\\
+ die gesetzlichen Schlachtopfer und die heilige Abgabe.\\
+\\
+
+<<v32>>
+32 Streck deine Hand auch dem Armen entgegen, /\\
+ damit dein Segen vollkommen sei.\\
+\\
+
+<<v33>>
+33 Schenk jedem Lebenden deine Gaben /\\
+ und auch dem Toten versag deine Liebe nicht!\\
+\\
+
+<<v34>>
+34 Entzieh dich nicht den Weinenden, /\\
+ vielmehr trauere mit den Trauernden!\\
+\\
+
+<<v35>>
+35 Säume nicht, den Kranken zu besuchen, /\\
+ dann wirst du von ihm geliebt.\\
+\\
+
+<<v36>>
+36 Bei allem, was du tust, denk an das Ende, /\\
+ so wirst du niemals sündigen.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Spr 22,8; Ijob 4,8
+
+^{[[#fnm2][2]]} Vor Parteilichkeit, besonders bei den Gerichtssitzungen
+am Tor der Stadt, wird im AT oft gewarnt (vgl. Lev 19,15; Spr 17,15;
+24,23f; Jes 1,17.23).
+
+^{[[#fnm3][3]]} ℘ 5,5f
+
+^{[[#fnm4][4]]} ℘ 11,8
+
+^{[[#fnm5][5]]} Die Landwirtschaft ist dem Menschen von Gott aufgetragen
+(vgl. Gen 2,15; 3,23; Jes 28,24-26).
+
+^{[[#fnm6][6]]} ℘ Spr 16,18
+
+^{[[#fnm7][7]]} ℘ Weish 15,10
+
+^{[[#fnm8][8]]} 17cd: Fehlt in G und S.
+
+^{[[#fnm9][9]]} 23b: Im Orient verheiratet der Vater seine Söhne und
+Töchter.
+
+^{[[#fnm10][10]]} Im AT waren Polygamie und Ehescheidung möglich (vgl.
+25,14; Dtn 24,1; Spr 30,23; Mt 19,7f; Mk 10,4f).
+
+^{[[#fnm11][11]]} ℘ 3,1-16; (27-28) Tob 4,3f

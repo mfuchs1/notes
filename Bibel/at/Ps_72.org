@@ -1,0 +1,159 @@
+#+TITLE: Ps 72 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-02 Fr 12:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 72.html
+
+* Ps 72
+
+<<verses>>
+
+<<v1>>
+* Der Friedenskönig und sein Reich
+
+1 [Von Salomo.] Verleih dein Richteramt, o Gott, dem König, /\\
+ dem Königssohn gib dein gerechtes Walten!\\
+\\
+
+<<v2>>
+2 Er regiere dein Volk in Gerechtigkeit /\\
+ und deine Armen durch rechtes Urteil. [fn:1]\\
+\\
+
+<<v3>>
+3 Dann tragen die Berge Frieden für das Volk /\\
+ und die Höhen Gerechtigkeit.\\
+\\
+
+<<v4>>
+4 Er wird Recht verschaffen den Gebeugten im Volk, /\\
+ Hilfe bringen den Kindern der Armen, /\\
+ er wird die Unterdrücker zermalmen. [fn:2]\\
+\\
+
+<<v5>>
+5 Er soll leben, solange die Sonne bleibt und der Mond, /\\
+ bis zu den fernsten Geschlechtern. [fn:3] [fn:4]\\
+\\
+
+<<v6>>
+6 Er ströme wie Regen herab auf die Felder, /\\
+ wie Regenschauer, die die Erde benetzen. [fn:5]\\
+\\
+
+<<v7>>
+7 Die Gerechtigkeit blühe auf in seinen Tagen /\\
+ und großer Friede, bis der Mond nicht mehr da ist. [fn:6]\\
+\\
+
+<<v8>>
+8 Er herrsche von Meer zu Meer, /\\
+ vom Strom bis an die Enden der Erde. [fn:7]\\
+\\
+
+<<v9>>
+9 Vor ihm sollen seine Gegner sich beugen, /\\
+ Staub sollen lecken all seine Feinde. [fn:8] [fn:9]\\
+\\
+
+<<v10>>
+10 Die Könige von Tarschisch und von den Inseln bringen Geschenke, /\\
+ die Könige von Saba und Seba kommen mit Gaben. [fn:10]\\
+\\
+
+<<v11>>
+11 Alle Könige müssen ihm huldigen, /\\
+ alle Völker ihm dienen. [fn:11]\\
+\\
+
+<<v12>>
+12 Denn er rettet den Gebeugten, der um Hilfe schreit, /\\
+ den Armen und den, der keinen Helfer hat. [fn:12]\\
+\\
+
+<<v13>>
+13 Er erbarmt sich des Gebeugten und Schwachen, /\\
+ er rettet das Leben der Armen.\\
+\\
+
+<<v14>>
+14 Von Unterdrückung und Gewalttat befreit er sie, /\\
+ ihr Blut ist in seinen Augen kostbar. [fn:13]\\
+\\
+
+<<v15>>
+15 Er lebe und Gold von Saba soll man ihm geben! /\\
+ Man soll für ihn allezeit beten, /\\
+ stets für ihn Segen erflehen. [fn:14]\\
+\\
+
+<<v16>>
+16 Im Land gebe es Korn in Fülle. /\\
+ Es rausche auf dem Gipfel der Berge. Seine Frucht wird sein wie die
+Bäume des Libanon. /\\
+ Menschen blühn in der Stadt wie das Gras der Erde. [fn:15]\\
+\\
+
+<<v17>>
+17 Sein Name soll ewig bestehen; /\\
+ solange die Sonne bleibt, sprosse sein Name. Glücklich preisen sollen
+ihn alle Völker /\\
+ und in ihm sich segnen. [fn:16]\\
+\\
+
+<<v18>>
+18 Gepriesen sei der Herr, der Gott Israels! /\\
+ Er allein tut Wunder. [fn:17]\\
+\\
+
+<<v19>>
+19 Gepriesen sei sein herrlicher Name in Ewigkeit! /\\
+ Seine Herrlichkeit erfülle die ganze Erde. /\\
+ Amen, ja amen. [Ende der Gebete Davids, des Sohnes Isais.] [fn:18]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:2.Sam_23.org::v3][2 Sam 23,3]]; [[file:Spr_31.org::v8][Spr 31,8f]]
+
+[fn:2] [[file:Ps_10.org::v18][10,18]]
+
+[fn:3] [[file:Ps_61.org::v7][61,7]]; [[file:Ps_89.org::v37][89,37f]]
+
+[fn:4] Text korr. nach G.
+
+[fn:5] benetzen: Text unsicher.
+
+[fn:6] H unklar.
+
+[fn:7] [[file:Sach_9.org::v10][Sach 9,10]]
+
+[fn:8] [[file:Jes_49.org::v23][Jes 49,23]]; [[file:Mi_7.org::v17][Mi 7,17]]
+
+[fn:9] seine Gegner: Text korr.; H: Schiffe, oder: Dämonen; G:
+Äthiopier; S: Inseln.
+
+[fn:10] [[file:Ps_68.org::v32][68,32]]; [[file:1.Kön_10.org::v1][1 Kön 10,1-13]]; [[file:Jes_60.org::v9][Jes 60,9]]
+
+[fn:11] [[file:Ps_2.org::v8][2,8]]; [[file:Ps_47.org::v9][47,9]]
+
+[fn:12] (12-13) [[file:Ijob_29.org::v12][Ijob 29,12]]
+
+[fn:13] [[file:Ps_9.org::v13][9,13]]; [[file:Ps_116.org::v15][116,15]]
+
+[fn:14] [[file:Ps_61.org::v7][61,7f]]
+
+[fn:15] [[file:Jes_27.org::v6][Jes 27,6]]; [[file:Am_9.org::v13][Am 9,13]]
+
+[fn:16] [[file:Ps_21.org::v7][21,7]]; [[file:Gen_12.org::v3][Gen 12,3]]; [[file:Gen_22.org::v18][22,18]]
+
+[fn:17] [[file:Ps_41.org::v14][41,14]]; [[file:Ps_136.org::v4][136,4]]
+
+[fn:18] [[file:Jes_6.org::v3][Jes 6,3]]; [[file:Num_14.org::v21][Num 14,21]]

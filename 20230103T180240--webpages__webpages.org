@@ -1,0 +1,156 @@
+#+title:      Webpages
+#+date:       [2023-01-03 Di 18:02]
+#+filetags:   :webpages:
+#+identifier: 20230103T180240
+#+CATEGORY: webpages
+
+* Ein neues Ja! | Rubikon-Magazin 
+
+Source: [[https://www.rubikon.news/artikel/ein-neues-ja][Ein neues Ja! | Rubikon-Magazin]]
+
+Created: [2023-01-05 Do 13:44]
+
+Unweigerlich geht das alte Jahr zu Ende. Etwas Neues beginnt. Wir wissen nicht, was es uns bringen wird. Doch wir sind dem Kommenden nicht hilflos ausgeliefert. Wir können es mitgestalten.
+
+* Peacemakers | After Dark
+Source: [[https://greatsilence.github.io/post/peacemakers/][Peacemakers | After Dark]]
+
+#+BEGIN_QUOTE
+Hier beginnt nach einer längeren Pause ein neuer Eintrag. Auf grund einiger Erfahrungen und Gespräche der letzten Zeit habe ich mir vermehrt die Frage gestellt: “Wie kann ich sowohl innerlich wie äußerlich im Frieden sein?” Die aktuelle Situation ist für viele von uns sehr anstrengend, sie zehrt an den Nerven.
+#+END_QUOTE
+
+* Peacemakers | After Dark
+Source: [[https://greatsilence.github.io/post/peacemakers/][Peacemakers | After Dark]]
+Created: [2023-01-05 Do 13:49]
+
+#+BEGIN_QUOTE
+Hier beginnt nach einer längeren Pause ein neuer Eintrag. Auf grund einiger Erfahrungen und Gespräche der letzten Zeit habe ich mir vermehrt die Frage gestellt: “Wie kann ich sowohl innerlich wie äußerlich im Frieden sein?” Die aktuelle Situation ist für viele von uns sehr anstrengend, sie zehrt an den Nerven.
+#+END_QUOTE
+
+* Peacemakers | After Dark 
+Source: [[https://greatsilence.github.io/post/peacemakers/][Peacemakers | After Dark]]
+Created: [2023-01-05 Do 13:51]
+
+Hier beginnt nach einer längeren Pause ein neuer Eintrag. Auf grund einiger Erfahrungen und Gespräche der letzten Zeit habe ich mir vermehrt die Frage gestellt: “Wie kann ich sowohl innerlich wie äußerlich im Frieden sein?” Die aktuelle Situation ist für viele von uns sehr anstrengend, sie zehrt an den Nerven.
+
+* DuckDuckGo — Privatsphäre, vereinfacht. 
+Source: [[https://duckduckgo.com/][DuckDuckGo — Privatsphäre, vereinfacht.]]
+Created: [2023-01-26 Do 12:49]
+
+aha...
+
+* „Wir werden dem ein Ende setzen“ - 
+Source: [[https://multipolar-magazin.de/artikel/wir-werden-dem-ein-ende-setzen][„Wir werden dem ein Ende setzen“ -]]
+Created: [2023-02-14 Di 10:22]
+
+#+BEGIN_QUOTE
+Nach Recherchen des Journalisten Seymour Hersh wurde die Sprengung der Nord-Stream-Pipelines von US-Präsident Joe Biden persönlich angeordnet. Amerikanische Marinetaucher hätten sie mit Hilfe des norwegischen Militärs durchgeführt. Große Medien zweifeln diese Darstellung an. Hershs Schilderung wird jedoch durch weitere Belege und Indizien gestützt. Die AfD bringt nun den „Abzug aller US-Truppen“ aus Deutschland ins Gespräch.
+#+END_QUOTE
+
+Dies ist mir dem 'org-protocol'-Lesezeichen im Firefox.
+
+* „Wir werden dem ein Ende setzen“ -
+Source: [[https://multipolar-magazin.de/artikel/wir-werden-dem-ein-ende-setzen][„Wir werden dem ein Ende setzen“ -]]
+Created: [2023-02-14 Di 10:23]
+
+#+BEGIN_QUOTE
+Nach Recherchen des Journalisten Seymour Hersh wurde die Sprengung der Nord-Stream-Pipelines von US-Präsident Joe Biden persönlich angeordnet. Amerikanische Marinetaucher hätten sie mit Hilfe des norwegischen Militärs durchgeführt. Große Medien zweifeln diese Darstellung an. Hershs Schilderung wird jedoch durch weitere Belege und Indizien gestützt. Die AfD bringt nun den „Abzug aller US-Truppen“ aus Deutschland ins Gespräch.
+#+END_QUOTE
+
+
+Und dies mit der org-capture-Erweiterung (rechts oben), wenn ich einen Text markiere.
+
+* [[https://multipolar-magazin.de/artikel/wir-werden-dem-ein-ende-setzen][„Wir werden dem ein Ende setzen“ -]] 
+Captured On: [2023-02-14 Di 10:24]
+
+org-capture Erweiterung, wenn ich *keinen* Text markiere. Hier verwendet die Erweiterung eine andere org-capture-Template (jene für Links).
+
+* Die Öffentlich-Schrecklichen | Rubikon-Magazin
+Source: [[https://www.rubikon.news/artikel/die-offentlich-schrecklichen][Die Öffentlich-Schrecklichen | Rubikon-Magazin]]
+Created: [2023-02-14 Di 10:26]
+
+#+BEGIN_QUOTE
+Im Rubikon-Exklusivgespräch diskutiert Walter van Rossum mit dem Filmproduzenten Jimmy Gerum, dem Medienforscher Michael Meyen und der Medienkritikerin Maren Müller über den öffentlich-rechtlichen Rundfunk und seine geschundenen Ideale.
+#+END_QUOTE
+
+Also, der komische "-" am Ende des Links ist nur typisch bei multipolar; ist in der Titelleite des FF sichtbar. Kann man das abstellen?
+
+* How America Took Out The Nord Stream Pipeline 
+Source: [[https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream][How America Took Out The Nord Stream Pipeline]]
+Created: [2023-02-16 Do 17:35]
+
+#+BEGIN_QUOTE
+The New York Times called it a “mystery,” but the United States executed a covert sea operation that was kept secret - until now
+#+END_QUOTE
+
+Das ist der jetzt schon berühmte Artikel des großartigen Journalisten Seymour Hersh über die Sprengung der Nordtream 2 Pipelines.
+
+Dazu passend ein Interview von Fabian Scheidler mit Seymour Hersh:
+[[https://www.berliner-zeitung.de/politik-gesellschaft/seymour-hersh-im-interview-joe-biden-sprengte-nord-stream-weil-er-deutschland-nicht-traut-li.317700]]
+
+* „Wir müssen die Wahrheit sagen“ - 
+Source: [[https://multipolar-magazin.de/artikel/wir-muessen-die-wahrheit-sagen][„Wir müssen die Wahrheit sagen“ -]]
+Created: [2023-02-26 So 10:40]
+
+#+BEGIN_QUOTE
+Auf der Demonstration „Aufstand für Frieden“ am 25. Februar in Berlin sprach neben Sahra Wagenknecht, Alice Schwarzer und Bundeswehrgeneral a.D. Erich Vad auch der US-Ökonom Jeffrey Sachs, dessen Botschaft per Video zugeschaltet wurde. Multipolar hat seine Rede übersetzt.
+#+END_QUOTE
+
+* [[https://multipolar-magazin.de/artikel/faktencheck-15-millionen-corona-tote][Faktencheck: 15 Millionen Corona-Tote? -]] 
+Captured On: [2023-05-23 Di 14:21]
+
+*
+
+* [[https://multipolar-magazin.de/artikel/gebaeudeenergiegesetz][Gebäudeenergiegesetz auf der Kippe: Die große Milchmädchenrechnung -]] 
+Captured On: [2023-05-23 Di 14:24]
+
+*
+
+* [[https://multipolar-magazin.de/artikel/who-pandemievertrag][Was steckt hinter dem Pandemievertrag? -]] 
+Captured On: [2023-05-24 Mi 08:39]
+
+Juhuu, das klappt super mit prot-eww.
+
+* Gebäudeenergiegesetz auf der Kippe: Die große Milchmädchenrechnung - 
+Source: [[https://multipolar-magazin.de/artikel/gebaeudeenergiegesetz][Gebäudeenergiegesetz auf der Kippe: Die große Milchmädchenrechnung -]]
+Created: [2023-05-24 Mi 10:19]
+
+#+BEGIN_QUOTE
+Die Bundesregierung treibt die Installation von Wärmepumpen massiv
+voran. Doch der Widerstand wächst, zuletzt auch beim Koalitionspartner
+FDP. Eine der Fragen: Ist diese Heiztechnologie im Vergleich zu
+modernen Gasheizungen überhaupt rentabel und senkt sie effektiv den
+Verbrauch von fossilen Energieträgern? Multipolar hat nachgerechnet
+und kommt auf erstaunliche Ergebnisse.
+#+END_QUOTE
+
+* Gebäudeenergiegesetz auf der Kippe: Die große Milchmädchenrechnung -
+Source: [[https://multipolar-magazin.de/artikel/gebaeudeenergiegesetz][Gebäudeenergiegesetz auf der Kippe: Die große Milchmädchenrechnung -]]
+Created: [2023-05-24 Mi 10:22]
+
+#+BEGIN_QUOTE
+Die Bundesregierung treibt die Installation von Wärmepumpen massiv voran. Doch der Widerstand wächst, zuletzt auch beim Koalitionspartner FDP. Eine der Fragen: Ist diese Heiztechnologie im Vergleich zu modernen Gasheizungen überhaupt rentabel und senkt sie effektiv den Verbrauch von fossilen Energieträgern? Multipolar hat nachgerechnet und kommt auf erstaunliche Ergebnisse. 
+#+END_QUOTE
+
+* Olymp der Kunstfreiheit | Manova-Magazin 
+Source: [[https://www.manova.news/artikel/olymp-der-kunstfreiheit][Olymp der Kunstfreiheit | Manova-Magazin]]
+Created: [2023-05-24 Mi 10:23]
+
+#+BEGIN_QUOTE
+Beim Roger-Waters-Konzert in München wurden die Fans von einer Gegendemonstration empfangen, die vor allem eines demonstrierte ― die Antreiber der Cancel Culture sind eine kleine, extremistische Minderheit.
+#+END_QUOTE
+
+* Olymp der Kunstfreiheit | Manova-Magazin 
+Source: [[https://www.manova.news/artikel/olymp-der-kunstfreiheit][Olymp der Kunstfreiheit | Manova-Magazin]]
+Created: [2023-05-24 Mi 10:25]
+
+#+BEGIN_QUOTE
+Beim Roger-Waters-Konzert in München wurden die Fans von einer
+Gegendemonstration empfangen, die vor allem eines demonstrierte ― die
+Antreiber der Cancel Culture sind eine kleine, extremistische
+Minderheit.
+#+END_QUOTE
+
+* [[https://orgmode.org/manual/The-capture-protocol.html][The capture protocol (The Org Manual)]]
+
+  Source: [2024-05-09 Do], [[%:link][%:description]]

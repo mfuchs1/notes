@@ -1,0 +1,129 @@
+#+TITLE: 2 Sam 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 17:57]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 10.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Geschichte von Davids Thronfolge: 10,1 - 20,26; 1 Kön 1,1 - 2,46
+
+* Der Krieg mit den Ammonitern und den Aramäern: 10,1-19
+
+1 Als darauf der König der Ammoniter starb und sein Sohn Hanun an seiner
+Stelle König wurde, [fn:1]
+
+<<v2>>
+2 sagte David: Ich will Hanun, dem Sohn des Nahasch, mein Wohlwollen
+zeigen, so wie sein Vater mir sein Wohlwollen gezeigt hat. Und David
+schickte eine Gesandtschaft zu ihm und ließ ihm durch seine Diener sein
+Beileid zum Tod seines Vaters aussprechen. Als die Diener in das Land
+der Ammoniter kamen, [fn:2]
+
+<<v3>>
+3 sagten die Fürsten der Ammoniter zu Hanun, ihrem Herrn: Will David
+wirklich deinen Vater vor deinen Augen ehren, weil er Leute schickt, die
+dir sein Beileid aussprechen sollen? Hat David seine Diener nicht viel
+eher zu dir geschickt, um die Stadt zu durchforschen und
+auszukundschaften und sie dann verwüsten zu lassen?
+
+<<v4>>
+4 Darauf ließ Hanun die Diener Davids festnehmen, ihnen die Hälfte des
+Bartes abscheren und ihnen die Kleider zur Hälfte abschneiden, bis zum
+Gesäß herauf. So schickte er sie weg.
+
+<<v5>>
+5 Als man David das meldete, schickte er ihnen jemand entgegen und ließ
+ihnen, weil sie so schwer geschändet waren, sagen: Bleibt in Jericho und
+kehrt erst zurück, wenn euer Bart wieder gewachsen ist.
+
+<<v6>>
+6 Als die Ammoniter merkten, dass sie sich bei David verhasst gemacht
+hatten, schickten sie (Boten) und warben die Aramäer von Bet-Rehob und
+von Zoba an, zwanzigtausend Mann Fußvolk, außerdem den König von Maacha
+mit tausend Mann und die Leute von Tob mit zwölftausend Mann. [fn:3]
+
+<<v7>>
+7 David erfuhr davon und schickte Joab mit dem ganzen Heer, allen
+kriegstüchtigen Männern, hin.
+
+<<v8>>
+8 Die Ammoniter rückten aus und stellten sich vor dem Stadttor zum Kampf
+auf, während die Aramäer von Zoba und Rehob und die Leute von Tob und
+Maacha jeweils für sich draußen auf dem freien Feld standen.
+
+<<v9>>
+9 Als Joab sah, dass ihm ein Angriff von vorn und von hinten drohte,
+traf er eine Auswahl aus den Kerntruppen Israels und stellte sie gegen
+die Aramäer auf.
+
+<<v10>>
+10 Den Rest des Heeres unterstellte er seinem Bruder Abischai, damit er
+sie den Ammonitern gegenüber aufstelle.
+
+<<v11>>
+11 Joab sagte: Wenn die Aramäer stärker sind als ich, dann komm du mir
+zu Hilfe! Wenn die Ammoniter stärker sind als du, dann werde ich dir zu
+Hilfe kommen.
+
+<<v12>>
+12 Sei tapfer! Wir wollen mutig für unser Volk und für die Städte
+unseres Gottes kämpfen. Der Herr aber möge tun, was er für recht hält.
+
+<<v13>>
+13 Da griff Joab mit seinen Leuten die Aramäer an und diese ergriffen
+die Flucht vor ihm.
+
+<<v14>>
+14 Als die Ammoniter sahen, dass die Aramäer flohen, ergriffen auch sie
+die Flucht vor Abischai und zogen sich in die Stadt zurück. Joab kehrte
+nach dem Kampf gegen die Ammoniter nach Jerusalem zurück.
+
+<<v15>>
+15 Die Aramäer sahen, dass sie von Israel geschlagen waren, aber sie
+sammelten sich wieder.
+
+<<v16>>
+16 Hadad-Eser schickte Boten und ließ die Aramäer, die diesseits des
+Stroms wohnten, ausrücken. Sie kamen nach Helam, an ihrer Spitze
+Schobach, der Oberbefehlshaber Hadad-Esers. [fn:4]
+
+<<v17>>
+17 Als man das David meldete, versammelte er ganz Israel, überschritt
+den Jordan und kam nach Helam. Die Aramäer nahmen David gegenüber
+Aufstellung und eröffneten den Kampf gegen ihn.
+
+<<v18>>
+18 Doch sie mussten vor den Israeliten fliehen. David vernichtete
+siebenhundert aramäische Kriegswagen und tötete vierzigtausend Reiter.
+Auch Schobach, den Oberbefehlshaber des Heeres, schlug er nieder, sodass
+er an Ort und Stelle starb.
+
+<<v19>>
+19 Die Könige, die Hadad-Esers Vasallen waren, sahen nun ein, dass sie
+von den Israeliten besiegt waren. Sie schlossen Frieden mit den
+Israeliten und unterwarfen sich ihnen. Von da an fürchteten sich die
+Aramäer, den Ammonitern noch weiter zu helfen.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-19) [[file:1.Chr_19.org::v1][1 Chr 19,1-19]]
+
+[fn:2] [[file:1.Sam_11.org::v1][1 Sam 11,1]]
+
+[fn:3] Die aramäischen Städte liegen nördlich der Jordanquellen
+und im nördlichen Ostjordanland.
+
+[fn:4] diesseits, wörtlich: jenseits; gemeint ist das Gebiet
+westlich des Eufrat (vgl. [[file:1.Kön_5.org::v4][1 Kön 5,4]]). «Jenseits des Stroms» ist in
+assyrischen Texten, vor allem in der Perserzeit, das Gebiet der
+westlichen Provinzen.

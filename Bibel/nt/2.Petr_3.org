@@ -1,0 +1,163 @@
+:PROPERTIES:
+:ID:       15c7621c-a507-4068-bd65-6603eb01d666
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der zweite Brief des Petrus* --
+[[file:2.Petr_1.html][1]] [[file:2.Petr_2.html][2]] *3*
+
+--------------
+
+* 2.Petr 3
+  :PROPERTIES:
+  :CUSTOM_ID: petr-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Das erwartete Kommen Christi: 3,1-16
+   :PROPERTIES:
+   :CUSTOM_ID: das-erwartete-kommen-christi-31-16
+   :END:
+**** Die Gewissheit der Ankunft: 3,1-7
+     :PROPERTIES:
+     :CUSTOM_ID: die-gewissheit-der-ankunft-31-7
+     :END:
+1 Das ist schon der zweite Brief, den ich euch schreibe, liebe Brüder.
+In beiden will ich eure klare Einsicht wachrufen und euch erinnern:
+^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Denkt an die Worte, die von den heiligen Propheten im Voraus verkündet
+worden sind, und an das Gebot des Herrn und Retters, das eure Apostel
+euch überliefert haben. ^{[[#fn3][3]]}
+
+<<v3>>
+3 Vor allem sollt ihr eines wissen: Am Ende der Tage werden Spötter
+kommen, die sich nur von ihren Begierden leiten lassen und höhnisch
+sagen: ^{[[#fn4][4]]}
+
+<<v4>>
+4 Wo bleibt denn seine verheißene Ankunft? Seit die Väter entschlafen
+sind, ist alles geblieben, wie es seit Anfang der Schöpfung war.
+^{[[#fn5][5]]}
+
+<<v5>>
+5 Wer das behauptet, übersieht, dass es einst einen Himmel gab und eine
+Erde, die durch das Wort Gottes aus Wasser entstand und durch das Wasser
+Bestand hatte. ^{[[#fn6][6]]}
+
+<<v6>>
+6 Durch beides ging die damalige Welt zugrunde, als sie vom Wasser
+überflutet wurde. ^{[[#fn7][7]]}
+
+<<v7>>
+7 Der jetzige Himmel aber und die jetzige Erde sind durch dasselbe Wort
+für das Feuer aufgespart worden. Sie werden bewahrt bis zum Tag des
+Gerichts, an dem die Gottlosen zugrunde gehen.\\
+\\
+
+<<v8>>
+**** Die Verzögerung der Ankunft: 3,8-13
+     :PROPERTIES:
+     :CUSTOM_ID: die-verzögerung-der-ankunft-38-13
+     :END:
+8 Das eine aber, liebe Brüder, dürft ihr nicht übersehen: dass beim
+Herrn ein Tag wie tausend Jahre und tausend Jahre wie ein Tag sind.
+^{[[#fn8][8]]}
+
+<<v9>>
+9 Der Herr zögert nicht mit der Erfüllung der Verheißung, wie einige
+meinen, die von Verzögerung reden; er ist nur geduldig mit euch, weil er
+nicht will, dass jemand zugrunde geht, sondern dass alle sich bekehren.
+^{[[#fn9][9]]}
+
+<<v10>>
+10 Der Tag des Herrn wird aber kommen wie ein Dieb. Dann wird der Himmel
+prasselnd vergehen, die Elemente werden verbrannt und aufgelöst, die
+Erde und alles, was auf ihr ist, werden (nicht mehr) gefunden.
+^{[[#fn10][10]][[#fn11][11]]}
+
+<<v11>>
+11 Wenn sich das alles in dieser Weise auflöst: wie heilig und fromm
+müsst ihr dann leben,
+
+<<v12>>
+12 den Tag Gottes erwarten und seine Ankunft beschleunigen! An jenem Tag
+wird sich der Himmel im Feuer auflösen und die Elemente werden im Brand
+zerschmelzen.
+
+<<v13>>
+13 Dann erwarten wir, seiner Verheißung gemäß, /einen neuen Himmel/ und
+/eine neue Erde,/ in denen die Gerechtigkeit wohnt. ^{[[#fn12][12]]}\\
+\\
+
+<<v14>>
+**** Das Zeugnis der Paulusbriefe: 3,14-16
+     :PROPERTIES:
+     :CUSTOM_ID: das-zeugnis-der-paulusbriefe-314-16
+     :END:
+14 Weil ihr das erwartet, liebe Brüder, bemüht euch darum, von ihm ohne
+Makel und Fehler und in Frieden angetroffen zu werden.
+
+<<v15>>
+15 Seid überzeugt, dass die Geduld unseres Herrn eure Rettung ist. Das
+hat euch auch unser geliebter Bruder Paulus mit der ihm geschenkten
+Weisheit geschrieben;
+
+<<v16>>
+16 es steht in allen seinen Briefen, in denen er davon spricht. In ihnen
+ist manches schwer zu verstehen und die Unwissenden, die noch nicht
+gefestigt sind, verdrehen diese Stellen ebenso wie die übrigen Schriften
+zu ihrem eigenen Verderben. ^{[[#fn13][13]]}\\
+\\
+
+<<v17>>
+** Der Schluss des Briefes: Wunsch und Lobpreis: 3,17-18
+   :PROPERTIES:
+   :CUSTOM_ID: der-schluss-des-briefes-wunsch-und-lobpreis-317-18
+   :END:
+17 Ihr aber, liebe Brüder, sollt das im Voraus wissen und Acht geben,
+dass ihr euch nicht von dem Irrtum der Gottesverächter mitreißen lasst,
+euren Halt verliert und zu Fall kommt.
+
+<<v18>>
+18 Wachset in der Gnade und Erkenntnis unseres Herrn und Retters Jesus
+Christus! Ihm gebührt die Herrlichkeit, jetzt und bis zum Tag der
+Ewigkeit. Amen. ^{[[#fn14][14]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 1 Petr 1,1
+
+^{[[#fnm2][2]]} der zweite Brief: Anspielung auf den 1. Petrusbrief.
+
+^{[[#fnm3][3]]} ℘ Jud 17
+
+^{[[#fnm4][4]]} ℘ Jud 18
+
+^{[[#fnm5][5]]} Die Väter: die Christen der ersten Generation.
+
+^{[[#fnm6][6]]} ℘ Gen 1,3-31
+
+^{[[#fnm7][7]]} ℘ Gen 7,10-24
+
+^{[[#fnm8][8]]} ℘ Ps 90,4
+
+^{[[#fnm9][9]]} ℘ 1 Tim 2,4
+
+^{[[#fnm10][10]]} ℘ Mt 24,43; 1 Thess 5,2
+
+^{[[#fnm11][11]]} die Erde und alles, was auf ihr ist, wörtlich: die
+Erde und die Werke auf ihr. - Die eingeklammerten Worte «nicht mehr»
+finden sich nur bei wenigen Textzeugen, sind aber für den Sinn des
+Satzes notwendig.
+
+^{[[#fnm12][12]]} ℘ Jes 65,17; 66,22; Offb 21,1
+
+^{[[#fnm13][13]]} Die Paulusbriefe werden hier bereits zu den Heiligen
+Schriften gerechnet. Mit den «übrigen Schriften» sind wahrscheinlich die
+Schriften des Alten Testaments gemeint; es können aber auch
+urchristliche Schriften sein.
+
+^{[[#fnm14][14]]} ℘ Jud 25; 1 Petr 4,11

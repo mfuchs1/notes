@@ -1,0 +1,229 @@
+#+TITLE: 2 Sam 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 18:19]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 13.html
+
+<<verses>>
+
+<<v1>>
+* Amnon und Tamar: 13,1-22
+
+1 Danach geschah folgendes: Abschalom, der Sohn Davids, hatte eine
+schöne Schwester namens Tamar und Amnon, der Sohn Davids, verliebte sich
+in sie. [fn:1]
+
+<<v2>>
+2 Amnon war sehr bedrückt und wurde fast krank wegen seiner Schwester
+Tamar; denn sie war Jungfrau und es schien Amnon unmöglich, ihr etwas
+anzutun.
+
+<<v3>>
+3 Nun hatte Amnon einen Freund namens Jonadab, einen Sohn des Schima,
+des Bruders Davids. Jonadab war ein sehr kluger Mann.
+
+<<v4>>
+4 Er sagte zu Amnon: Warum bist du jeden Morgen so bedrückt, Sohn des
+Königs? Willst du es mir nicht erzählen? Amnon antwortete ihm: Ich liebe
+Tamar, die Schwester meines Bruders Abschalom.
+
+<<v5>>
+5 Da sagte Jonadab zu ihm: Leg dich ins Bett und stell dich krank! Wenn
+dann dein Vater kommt, um nach dir zu sehen, sag zu ihm: Lass doch meine
+Schwester Tamar zu mir kommen und mir etwas zu essen machen; sie soll
+die Krankenkost vor meinen Augen zubereiten, sodass ich zusehen und aus
+ihrer Hand essen kann.
+
+<<v6>>
+6 Amnon legte sich also hin und stellte sich krank. Als der König kam,
+um nach ihm zu sehen, sagte Amnon zum König: Meine Schwester Tamar möge
+doch zu mir kommen; sie soll mir vor meinen Augen zwei Kuchen backen und
+ich will die Krankenkost aus ihrer Hand essen.
+
+<<v7>>
+7 David schickte jemand ins Haus der Tamar und ließ ihr sagen: Geh doch
+in das Haus deines Bruders Amnon und mach ihm etwas zu essen!
+
+<<v8>>
+8 Tamar ging in das Haus ihres Bruders Amnon, der im Bett lag. Sie nahm
+Teig, knetete vor seinen Augen die Kuchen und backte sie.
+
+<<v9>>
+9 Dann nahm sie die Pfanne und legte ihm (das Gericht) vor. Amnon aber
+wollte nichts essen, sondern sagte: Schickt alle hinaus! Als alle aus
+dem Zimmer hinausgegangen waren,
+
+<<v10>>
+10 sagte Amnon zu Tamar: Bring das Essen in die (innere) Kammer, ich
+möchte sie aus deiner Hand essen. Tamar nahm die Kuchen, die sie
+zubereitet hatte, und brachte sie ihrem Bruder Amnon in die Kammer.
+
+<<v11>>
+11 Als sie ihm aber die Kuchen zum Essen reichte, griff er nach ihr und
+sagte zu ihr: Komm, leg dich zu mir, Schwester!
+
+<<v12>>
+12 Sie antwortete ihm: Nein, mein Bruder, entehre mich nicht! So etwas
+tut man in Israel nicht. Begeh keine solche Schandtat!
+
+<<v13>>
+13 Wohin sollte ich denn in meiner Schande gehen? Du würdest als einer
+der niederträchtigsten Menschen in Israel dastehen. Rede doch mit dem
+König, er wird mich dir nicht verweigern. [fn:2]
+
+<<v14>>
+14 Doch Amnon wollte nicht auf sie hören, sondern packte sie und zwang
+sie, mit ihm zu schlafen.
+
+<<v15>>
+15 Hinterher aber empfand Amnon eine sehr große Abneigung gegen sie; ja,
+der Hass, mit dem er sie nun hasste, war größer als die Liebe, mit der
+er sie geliebt hatte. Amnon sagte zu ihr: Steh auf, geh weg!
+
+<<v16>>
+16 Sie erwiderte ihm: Nicht doch! Wenn du mich wegschickst, wäre das ein
+noch größeres Unrecht als das, das du mir schon angetan hast. Er aber
+wollte nicht auf sie hören,
+
+<<v17>>
+17 sondern rief den jungen Mann, der in seinen Diensten stand, und
+sagte: Bringt dieses Mädchen da von mir weg auf die Straße hinaus und
+schließt die Tür hinter ihr ab!
+
+<<v18>>
+18 Sein Diener brachte sie hinaus und schloss die Tür hinter ihr zu. Sie
+hatte ein Ärmelkleid an; denn solche Obergewänder trugen die
+Königstöchter, solange sie Jungfrauen waren. [fn:3]
+
+<<v19>>
+19 Tamar aber streute sich Asche auf das Haupt und zerriss das
+Ärmelkleid, das sie anhatte, sie legte ihre Hand auf den Kopf und ging
+schreiend weg.
+
+<<v20>>
+20 Ihr Bruder Abschalom fragte sie: War dein Bruder Amnon mit dir
+zusammen? Sprich nicht darüber, meine Schwester, er ist ja dein Bruder.
+Nimm dir die Sache nicht so zu Herzen! Von da an lebte Tamar einsam im
+Haus ihres Bruders Abschalom.
+
+<<v21>>
+21 Doch der König David erfuhr von der ganzen Sache und wurde darüber
+sehr zornig.
+
+<<v22>>
+22 Abschalom aber redete nicht mehr mit Amnon, weder im Guten noch im
+Bösen; er hasste Amnon, weil dieser seine Schwester Tamar vergewaltigt
+hatte.\\
+\\
+
+<<v23>>
+* Abschaloms Rache an Amnon: 13,23-37
+
+23 Zwei Jahre später ließ Abschalom in Baal-Hazor, das bei Efraim liegt,
+seine Schafe scheren und lud alle Söhne des Königs ein. [fn:4]
+
+<<v24>>
+24 Er ging zum König und sagte: Dein Knecht lässt gerade seine Schafe
+scheren. Der König möge doch samt seinen Dienern seinen Knecht dorthin
+begleiten.
+
+<<v25>>
+25 Der König antwortete Abschalom: Nein, mein Sohn, wir können doch
+nicht alle kommen; wir wollen dir nicht zur Last fallen. Obwohl
+Abschalom ihn dringend bat, wollte er nicht mitgehen, sondern wollte ihn
+mit dem Segensgruß verabschieden.
+
+<<v26>>
+26 Da sagte Abschalom: Kann nicht wenigstens mein Bruder Amnon mit uns
+gehen? Der König fragte ihn: Warum soll er mit dir gehen?
+
+<<v27>>
+27 Abschalom aber drängte ihn (noch mehr) und der König ließ Amnon und
+seine anderen Söhne mit ihm gehen.
+
+<<v28>>
+28 Abschalom befahl seinen jungen Leuten: Gebt Acht: Wenn Amnon vom Wein
+guter Laune ist, werde ich zu euch sagen: Schlagt Amnon tot! Dann tötet
+ihn! Habt keine Angst! Ich selbst habe es euch ja befohlen. Seid mutig
+und tapfer!
+
+<<v29>>
+29 Die jungen Leute Abschaloms machten mit Amnon, was ihnen Abschalom
+befohlen hatte. Da sprangen alle Söhne des Königs auf, stiegen auf ihre
+Maultiere und flohen.
+
+<<v30>>
+30 Sie waren noch auf dem Weg, als zu David das Gerücht gelangte:
+Abschalom hat alle Söhne des Königs erschlagen; nicht einer von ihnen
+ist übrig geblieben.
+
+<<v31>>
+31 Da stand der König auf, zerriss seine Kleider und warf sich zu Boden.
+Auch alle seine Diener, die um ihn herumstanden, zerrissen ihre Kleider.
+
+<<v32>>
+32 Jonadab aber, der Sohn Schimas, des Bruders Davids, sagte: Mein Herr
+soll nicht glauben, dass alle jungen Männer, alle Söhne des Königs, tot
+sind. Nur Amnon ist tot; denn Abschalom war verbittert seit dem Tag, an
+dem Amnon seine Schwester vergewaltigte. [fn:5]
+
+<<v33>>
+33 Mein Herr, der König, nehme sich die Sache nicht so zu Herzen und
+denke nicht: Alle Söhne des Königs sind tot. Nur Amnon ist tot.
+
+<<v34>>
+34 Abschalom aber war geflohen. Der junge Mann jedoch, der Wache hielt,
+schaute aus und sah plötzlich, dass eine Menge Leute auf dem hinter ihm
+liegenden Weg von der Seite des Berges herabkamen.
+
+<<v35>>
+35 Da sagte Jonadab zum König: Sieh, da kommen die Söhne des Königs. Es
+ist so, wie dein Knecht gesagt hat.
+
+<<v36>>
+36 Kaum hatte er das gesagt, da kamen die Söhne des Königs. Sie begannen
+laut zu weinen und auch der König und alle seine Diener brachen in
+heftiges Weinen aus.
+
+<<v37>>
+37 Abschalom aber floh und ging zu Talmai, dem Sohn des Königs Ammihud
+von Geschur und David trauerte lange Zeit um seinen Sohn. [fn:6] [fn:7]\\
+\\
+
+<<v38>>
+* Abschaloms Rückkehr: 13,38 - 14,33
+
+38 Abschalom war also geflohen und nach Geschur gegangen; dort blieb er
+drei Jahre.
+
+<<v39>>
+39 Dann aber hörte der König allmählich auf, gegen Abschalom zu hadern;
+denn er hatte sich damit abgefunden, dass Amnon tot war. [fn:8]
+
+
+* Footnotes
+
+[fn:1] Abschaloms und Tamars Mutter war Maacha; Amnons Mutter
+war Ahinoam.
+
+[fn:2] Demnach waren Ehen zwischen Halbgeschwistern möglich;
+nach [[file:Lev_18.org::v11][Lev 18,11]]; [[file:Lev_20.org::v17][20,17]] und [[file:Dtn_27.org::v22][Dtn 27,22]] sind sie streng verboten.
+
+[fn:3] Die beiden Sätze sind sinngemäß umgestellt.
+
+[fn:4] Baal-Hazor: nordöstlich von Bet-El.
+
+[fn:5] Abschalom war verbittert, wörtlich: es lag über
+Abschaloms Mund.
+
+[fn:6] [[file:2.Sam_14.org::v23][14,23]]
+
+[fn:7] Abschaloms Mutter war eine Königstochter aus Geschur ([[file:2.Sam_3.org::v3][3,3]]).
+
+[fn:8] zu hadern: Text korr., vgl. G.

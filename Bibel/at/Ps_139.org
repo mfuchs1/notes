@@ -1,0 +1,190 @@
+#+TITLE: Ps 139 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 23:18]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 139.html
+
+<<verses>>
+
+<<v1>>
+* Der Mensch vor dem allwissenden Gott
+1 [Für den Chormeister. Ein Psalm Davids.] Herr, du hast mich erforscht
+und du kennst mich. / [fn:1]\\
+\\
+
+<<v2>>
+2 Ob ich sitze oder stehe, du weißt von mir. /\\
+ Von fern erkennst du meine Gedanken. [fn:2]\\
+\\
+
+<<v3>>
+3 Ob ich gehe oder ruhe, es ist dir bekannt; /\\
+ du bist vertraut mit all meinen Wegen. [fn:3]\\
+\\
+
+<<v4>>
+4 Noch liegt mir das Wort nicht auf der Zunge - /\\
+ du, Herr, kennst es bereits.\\
+\\
+
+<<v5>>
+5 Du umschließt mich von allen Seiten /\\
+ und legst deine Hand auf mich. [fn:4] [fn:5]\\
+\\
+
+<<v6>>
+6 Zu wunderbar ist für mich dieses Wissen, /\\
+ zu hoch, ich kann es nicht begreifen. [fn:6]\\
+\\
+
+<<v7>>
+7 Wohin könnte ich fliehen vor deinem Geist, /\\
+ wohin mich vor deinem Angesicht flüchten? [fn:7]\\
+\\
+
+<<v8>>
+8 Steige ich hinauf in den Himmel, so bist du dort; /\\
+ bette ich mich in der Unterwelt, bist du zugegen. [fn:8]\\
+\\
+
+<<v9>>
+9 Nehme ich die Flügel des Morgenrots /\\
+ und lasse mich nieder am äußersten Meer, [fn:9]\\
+\\
+
+<<v10>>
+10 auch dort wird deine Hand mich ergreifen /\\
+ und deine Rechte mich fassen. [fn:10]\\
+\\
+
+<<v11>>
+11 Würde ich sagen: «Finsternis soll mich bedecken, /\\
+ statt Licht soll Nacht mich umgeben», / [fn:11] [fn:12]\\
+\\
+
+<<v12>>
+12 auch die Finsternis wäre für dich nicht finster, die Nacht würde
+leuchten wie der Tag, /\\
+ die Finsternis wäre wie Licht.\\
+\\
+
+<<v13>>
+13 Denn du hast mein Inneres geschaffen, /\\
+ mich gewoben im Schoß meiner Mutter. [fn:13]\\
+\\
+
+<<v14>>
+14 Ich danke dir, dass du mich so wunderbar gestaltet hast. /\\
+ Ich weiß: Staunenswert sind deine Werke. [fn:14]\\
+\\
+
+<<v15>>
+15 Als ich geformt wurde im Dunkeln, /\\
+ kunstvoll gewirkt in den Tiefen der Erde, /\\
+ waren meine Glieder dir nicht verborgen. [fn:15]\\
+\\
+
+<<v16>>
+16 Deine Augen sahen, wie ich entstand, /\\
+ in deinem Buch war schon alles verzeichnet; meine Tage waren schon
+gebildet, /\\
+ als noch keiner von ihnen da war. [fn:16] [fn:17]\\
+\\
+
+<<v17>>
+17 Wie schwierig sind für mich, o Gott, deine Gedanken, /\\
+ wie gewaltig ist ihre Zahl! [fn:18]\\
+\\
+
+<<v18>>
+18 Wollte ich sie zählen, es wären mehr als der Sand. /\\
+ Käme ich bis zum Ende, wäre ich noch immer bei dir. [fn:19] [fn:20]\\
+\\
+
+<<v19>>
+19 Wolltest du, Gott, doch den Frevler töten! /\\
+ Ihr blutgierigen Menschen, lasst ab von mir! [fn:21]\\
+\\
+
+<<v20>>
+20 Sie reden über dich voll Tücke /\\
+ und missbrauchen deinen Namen. [fn:22]\\
+\\
+
+<<v21>>
+21 Soll ich die nicht hassen, Herr, die dich hassen, /\\
+ die nicht verabscheuen, die sich gegen dich erheben?\\
+\\
+
+<<v22>>
+22 Ich hasse sie mit glühendem Hass; /\\
+ auch mir sind sie zu Feinden geworden.\\
+\\
+
+<<v23>>
+23 Erforsche mich, Gott, und erkenne mein Herz, /\\
+ prüfe mich und erkenne mein Denken! [fn:23]\\
+\\
+
+<<v24>>
+24 Sieh her, ob ich auf dem Weg bin, der dich kränkt, /\\
+ und leite mich auf dem altbewährten Weg! [fn:24]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_33.org::v15][33,15]]; [[file:Ps_44.org::v22][44,22]]; [[file:Jer_12.org::v3][Jer 12,3]]
+
+[fn:2] [[file:2.Kön_19.org::v27][2 Kön 19,27]]; [[file:Ijob_31.org::v4][Ijob 31,4]]
+
+[fn:3] es ist dir bekannt, wörtlich: du prüfst es; oder: du misst es.
+
+[fn:4] [[file:Ijob_1.org::v10][Ijob 1,10]]
+
+[fn:5] Wörtlich: Du umschließt mich von hinten und von vorn
+
+[fn:6] [[file:Ps_92.org::v6][92,6]]; [[file:Ps_131.org::v1][131,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_11.org::v33][Röm 11,33]]
+
+[fn:7] (7-10) [[file:Ijob_23.org::v8][Ijob 23,8f]]; [[file:Sir_16.org::v17][Sir 16,17f]]; [[file:Jer_23.org::v23][Jer 23,23f]]; [[file:Am_9.org::v2][Am 9,2f]]
+
+[fn:8] [[file:Ijob_11.org::v8][Ijob 11,8]]
+
+[fn:9] [[file:Jona_1.org::v3][Jona 1,3]]
+
+[fn:10] mich ergreifen: Text korr.; H: mich leiten.
+
+[fn:11] (11-12) [[file:Ijob_26.org::v6][Ijob 26,6]]; [[file:Ijob_34.org::v22][34,22]]; [[file:Dan_2.org::v22][Dan 2,22]]
+
+[fn:12] Text korr. nach den Übersetzungen von Symmachus und
+Hieronymus; H: Finsternis soll mich zermalmen.
+
+[fn:13] (13-15) [[file:Ijob_10.org::v8][Ijob 10,8-11]]; [[file:Weish_7.org::v1][Weish 7,1f]]
+
+[fn:14] Text korr. nach G, S und Hieronymus.
+
+[fn:15] [[file:Ijob_1.org::v21][Ijob 1,21]]
+
+[fn:16] [[file:Ps_69.org::v29][69,29]]; [[file:Ijob_14.org::v5][Ijob 14,5]]
+
+[fn:17] Text korr.; H ist unklar.
+
+[fn:18] [[file:Ps_92.org::v6][92,6]]; [[file:Ijob_11.org::v7][Ijob 11,7]]
+
+[fn:19] [[file:Ps_40.org::v6][40,6]]; [[file:Sir_18.org::v5][Sir 18,5-7]]
+
+[fn:20] Käme ich bis zum Ende: Text korr.; H: Erwachte ich.
+
+[fn:21] [[file:Ps_119.org::v115][119,115]]
+
+[fn:22] deinen Namen: Text korr.; H: deine Städte; oder: deine Feinde.
+
+[fn:23] [[file:Ps_17.org::v3][17,3]]; [[file:Ps_26.org::v2][26,2]]
+
+[fn:24] [[file:Ps_25.org::v4][25,4]]

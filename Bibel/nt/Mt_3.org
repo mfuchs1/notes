@@ -1,0 +1,157 @@
+:PROPERTIES:
+:ID:       087338ba-fc14-4068-bdcf-330e0dd41094
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Matthäus* --
+[[file:Mt_1.html][1]] [[file:Mt_2.html][2]] *3* [[file:Mt_4.html][4]]
+[[file:Mt_5.html][5]] ... [[file:Mt_28.html][28]]
+
+--------------
+
+* Mt 3
+  :PROPERTIES:
+  :CUSTOM_ID: mt-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Die Vorbereitung des Wirkens Jesu: 3,1 - 4,11
+   :PROPERTIES:
+   :CUSTOM_ID: die-vorbereitung-des-wirkens-jesu-31---411
+   :END:
+**** Johannes der Täufer: 3,1-12
+     :PROPERTIES:
+     :CUSTOM_ID: johannes-der-täufer-31-12
+     :END:
+1 In jenen Tagen trat Johannes der Täufer auf und verkündete in der
+Wüste von Judäa: ^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 13\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Kehrt um! Denn das Himmelreich ist nahe. ^{[[#fn2][2]]}\\
+\\
+
+<<v3>>
+3 Er war es, von dem der Prophet Jesaja gesagt hat: /Eine Stimme ruft in
+der Wüste:/ /\\
+ /Bereitet dem Herrn den Weg!/ /\\
+ /Ebnet/ ihm /die Straßen!/ ^{[[#fn3][3]]}\\
+\\
+
+<<v4>>
+4 Johannes trug ein Gewand aus Kamelhaaren und einen ledernen Gürtel um
+seine Hüften; Heuschrecken und wilder Honig waren seine Nahrung.
+^{[[#fn4][4]][[#fn5][5]]}
+
+<<v5>>
+5 Die Leute von Jerusalem und ganz Judäa und aus der ganzen Jordangegend
+zogen zu ihm hinaus;
+
+<<v6>>
+6 sie bekannten ihre Sünden und ließen sich im Jordan von ihm taufen.
+
+<<v7>>
+7 Als Johannes sah, dass viele Pharisäer und Sadduzäer zur Taufe kamen,
+sagte er zu ihnen: Ihr Schlangenbrut, wer hat euch denn gelehrt, dass
+ihr dem kommenden Gericht entrinnen könnt?
+^{[[#fn6][6]][[#fn7][7]][[#fn8][8]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 14\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v8>>
+8 Bringt Frucht hervor, die eure Umkehr zeigt,
+
+<<v9>>
+9 und meint nicht, ihr könntet sagen: Wir haben ja Abraham zum Vater.
+Denn ich sage euch: Gott kann aus diesen Steinen Kinder Abrahams machen.
+^{[[#fn9][9]]}
+
+<<v10>>
+10 Schon ist die Axt an die Wurzel der Bäume gelegt; jeder Baum, der
+keine gute Frucht hervorbringt, wird umgehauen und ins Feuer geworfen.
+^{[[#fn10][10]]}
+
+<<v11>>
+11 Ich taufe euch nur mit Wasser (zum Zeichen) der Umkehr. Der aber, der
+nach mir kommt, ist stärker als ich und ich bin es nicht wert, ihm die
+Schuhe auszuziehen. Er wird euch mit dem Heiligen Geist und mit Feuer
+taufen. ^{[[#fn11][11]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 16\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v12>>
+12 Schon hält er die Schaufel in der Hand; er wird die Spreu vom Weizen
+trennen und den Weizen in seine Scheune bringen; die Spreu aber wird er
+in nie erlöschendem Feuer verbrennen. ^{[[#fn12][12]]}\\
+\\
+
+<<v13>>
+**** Die Taufe Jesu: 3,13-17
+     :PROPERTIES:
+     :CUSTOM_ID: die-taufe-jesu-313-17
+     :END:
+13 Zu dieser Zeit kam Jesus von Galiläa an den Jordan zu Johannes, um
+sich von ihm taufen zu lassen. ^{[[#fn13][13]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 18\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v14>>
+14 Johannes aber wollte es nicht zulassen und sagte zu ihm: Ich müsste
+von dir getauft werden, und du kommst zu mir?
+
+<<v15>>
+15 Jesus antwortete ihm: Lass es nur zu! Denn nur so können wir die
+Gerechtigkeit (die Gott fordert) ganz erfüllen. Da gab Johannes nach.
+
+<<v16>>
+16 Kaum war Jesus getauft und aus dem Wasser gestiegen, da öffnete sich
+der Himmel, und er sah den Geist Gottes wie eine Taube auf sich
+herabkommen.
+
+<<v17>>
+17 Und eine Stimme aus dem Himmel sprach: /Das ist mein geliebter Sohn,
+an dem ich Gefallengefunden habe./ ^{[[#fn14][14]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-6) Mk 1,2-6; Lk 3,3-6; Joh 1,19-23 ⇨Esyn: Synopse
+Nr. 13
+
+^{[[#fnm2][2]]} ℘ Apg 13,24; 19,4
+
+^{[[#fnm3][3]]} ℘ Jes 40,3 G
+
+^{[[#fnm4][4]]} ℘ 2 Kön 1,8
+
+^{[[#fnm5][5]]} Nahrung und Kleidung weisen auf den Prophetenberuf und
+auf die asketische Lebensweise des Täufers hin. Er wird nach dem Vorbild
+des Propheten Elija gezeichnet, der ebenfalls am Unterlauf des Jordan
+wirkte (vgl. 2 Kön 1,8; 2,1-18).
+
+^{[[#fnm6][6]]} ℘ 12,34; 23,33; (7-10) Lk 3,7-9; (11-12) Mk 1,7f; Lk
+3,15-17
+
+^{[[#fnm7][7]]} Gericht, wörtlich: Zorn.
+
+^{[[#fnm8][8]]} ℘ ⇨Esyn: Synopse Nr. 14
+
+^{[[#fnm9][9]]} ℘ Joh 8,39; Röm 4,12
+
+^{[[#fnm10][10]]} ℘ 7,19
+
+^{[[#fnm11][11]]} ℘ Joh 1,15.24.25-28.30f.33; Apg 13,25; 1,5; 11,16
+⇨Esyn: Synopse Nr. 16
+
+^{[[#fnm12][12]]} ℘ 13,30
+
+^{[[#fnm13][13]]} ℘ (13-17) Mk 1,9-11; Lk 3,21f; Joh 1,29-34 ⇨Esyn:
+Synopse Nr. 18
+
+^{[[#fnm14][14]]} ℘ Gen 22,2; Ps 2,7; Jes 42,1; Mt 12,18; 17,5; Mk 1,11;
+9,7; Lk 3,22; 9,35

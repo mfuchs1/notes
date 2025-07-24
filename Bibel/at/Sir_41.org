@@ -1,0 +1,184 @@
+:PROPERTIES:
+:ID:       1c422ed5-9307-4a26-979b-a1f0cd3dbfe0
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_39.html][39]]
+[[file:Sir_40.html][40]] *41* [[file:Sir_42.html][42]]
+[[file:Sir_43.html][43]] ... [[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 41
+  :PROPERTIES:
+  :CUSTOM_ID: sir-41
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Der Tod: 41,1-13
+     :PROPERTIES:
+     :CUSTOM_ID: der-tod-411-13
+     :END:
+1 Tod, wie bitter ist es, an dich zu denken, /\\
+ für den, der ruhig sein Heim bewohnt, für den, der ohne Sorge ist und
+in allem Erfolg hat /\\
+ und noch kräftig genug ist, die Lust zu genießen.\\
+\\
+
+<<v2>>
+2 Tod, wie gut ist es, dass du auferlegt bist, /\\
+ für den betrübten und kraftlosen Menschen, für den, der strauchelt und
+überall anstößt, /\\
+ der verzweifelt ist und die Hoffnung verloren hat. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Fürchte dich nicht vor dem Tod, /\\
+ weil er dir auferlegt ist. Denk daran: /\\
+ Vorfahren und Nachkommen trifft es wie dich. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Er ist das Los, das allen Sterblichen von Gott bestimmt ist. /\\
+ Was sträubst du dich gegen das Gesetz des Höchsten? Ob tausend Jahre,
+ob hundert oder zehn, /\\
+ im Totenreich gibt es keine Beschwerde über die Lebensdauer.\\
+\\
+
+<<v5>>
+5 Eine verächtliche Brut ist das Geschlecht der Bösen, /\\
+ ein törichtes Gezücht haust in der Wohnung des Frevlers.\\
+\\
+
+<<v6>>
+6 Dem Sohn des Verbrechers geht die Herrschaft verloren, /\\
+ seine Nachkommen leben für immer in Schande. ^{[[#fn3][3]]}\\
+\\
+
+<<v7>>
+7 Einen schlechten Vater verfluchen die Kinder, /\\
+ denn seinetwegen werden sie verachtet.\\
+\\
+
+<<v8>>
+8 Weh euch, ihr ruchlosen Männer, /\\
+ die ihr das Gesetz des Höchsten verlassen habt.\\
+\\
+
+<<v9>>
+9 Wenn ihr euch vermehrt, ist es zum Unglück, /\\
+ wenn ihr Kinder zeugt, ist es zur Trauer; wenn ihr strauchelt, ist es
+zur dauernden Freude, /\\
+ wenn ihr sterbt, ist es zum Fluch.\\
+\\
+
+<<v10>>
+10 Alles, was aus dem Nichts kommt, /\\
+ kehrt in das Nichts zurück; /\\
+ so auch der Ruchlose aus dem Leeren ins Leere. ^{[[#fn4][4]]}\\
+\\
+
+<<v11>>
+11 Ein Hauch ist der Mensch dem Leibe nach, /\\
+ doch der Name des Frommen wird nicht getilgt. ^{[[#fn5][5]]}\\
+\\
+
+<<v12>>
+12 Sei besorgt um deinen Namen; denn er begleitet dich /\\
+ treuer als tausend kostbare Schätze.\\
+\\
+
+<<v13>>
+13 Das Gut des Lebens währt zählbare Tage, /\\
+ das Gut des Namens unzählige Tage.\\
+\\
+
+<<v14>>
+**** Das Verbergen der Weisheit: 41,14-15
+     :PROPERTIES:
+     :CUSTOM_ID: das-verbergen-der-weisheit-4114-15
+     :END:
+14 Verborgene Weisheit und versteckter Schatz, /\\
+ was nützen sie beide? ^{[[#fn6][6]]}\\
+\\
+
+<<v15>>
+15 Besser ist einer, der seine Torheit verbirgt, /\\
+ als einer, der seine Weisheit verbirgt.\\
+\\
+
+<<v16>>
+**** Die rechte und die falsche Scham: 41,16 - 42,8
+     :PROPERTIES:
+     :CUSTOM_ID: die-rechte-und-die-falsche-scham-4116---428
+     :END:
+16 Hört, Söhne, die Lehre von der Scham, /\\
+ lernt, was Scham ist nach meinem Urteil. Nicht jede Scham ziemt sich,
+/\\
+ nicht jedes Schamempfinden ist empfehlenswert. ^{[[#fn7][7]]}\\
+\\
+
+<<v17>>
+17 Schäme dich vor Vater und Mutter der Unzucht, /\\
+ vor Fürst und Herrscher der Lüge,\\
+\\
+
+<<v18>>
+18 vor dem Herrn und der Herrin des Betrugs, /\\
+ vor Gemeinde und Volk der Sünde, /\\
+ vor dem Gefährten und Freund der Untreue,\\
+\\
+
+<<v19>>
+19 vor dem Ort, an dem du wohnst, der Unterschlagung. /\\
+ (Schäme dich,) Eid und Vertrag zu verletzen, den Ellbogen aufzustemmen
+beim Mahl, /\\
+ eine erbetene Gabe zu verweigern, ^{[[#fn8][8]]}\\
+\\
+
+<<v21>>
+21 deinen Bruder abzuweisen, /\\
+ die Verteilung der Opferanteile zu unterlassen, ^{[[#fn9][9]]}\\
+\\
+
+<<v20>>
+20 einen Gruß nicht zu erwidern, /\\
+ einer Verheirateten nachzuschauen, /\\
+ den Blick auf eine fremde Frau zu werfen, ^{[[#fn10][10]]}\\
+\\
+
+<<v22>>
+22 mit deiner Magd dich abzugeben /\\
+ und dich ihrem Bett zu nähern. (Schäme dich) der üblen Nachrede
+gegenüber dem Freund, /\\
+ und wenn du geschenkt hast, zu schimpfen, ^{[[#fn11][11]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 30,17
+
+^{[[#fnm2][2]]} Das allgemeine Todesschicksal auch in 14,17-19; 38,22.
+
+^{[[#fnm3][3]]} ℘ 23,25f
+
+^{[[#fnm4][4]]} ℘ 40,11
+
+^{[[#fnm5][5]]} ℘ Spr 10,7; 22,1
+
+^{[[#fnm6][6]]} 14f: Vgl. die Anmerkung zu 20,30f.
+
+^{[[#fnm7][7]]} ℘ 4,20-26
+
+^{[[#fnm8][8]]} 19a: der Unterschlagung; nach dem Masada-Text; andere
+H-Überlieferung: des Übermuts; G: des Diebstahls. 19c: Die
+griechisch-römische Sitte, sich beim Mahl auf den linken Ellenbogen zu
+stützen, galt den Juden als unanständig (vgl. 9,9).
+
+^{[[#fnm9][9]]} 21a: deinen Bruder, wörtlich: dein Fleisch.
+
+^{[[#fnm10][10]]} 20-22: Umstellung und Übersetzung nach dem
+Masada-Text.
+
+^{[[#fnm11][11]]} ℘ 31,31; 18,15

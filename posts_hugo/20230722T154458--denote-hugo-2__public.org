@@ -1,0 +1,15 @@
+#+title:      Denote Hugo 2
+#+date:       [2023-07-22 Sa 15:44]
+#+filetags:   :public:
+#+identifier: 20230722T154458
+#+hugo_categories: Emacs
+#+DESCRIPTION: This text was generated using the After Dark post archetype.
+#+HUGO_BASE_DIR: /home/matthias/flying-toasters/
+#+AUTHOR: Matthias Fuchs
+
+* Erstens
+Ich probiere die `#+hugo_categories:` aus.
+
+* Zweitens
+schau ma mal...
+

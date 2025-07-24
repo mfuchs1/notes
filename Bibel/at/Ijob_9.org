@@ -1,0 +1,229 @@
+#+TITLE: Ijob 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 14:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 9.html
+
+<<verses>>
+
+<<v1>>
+* Ijobs Gegenrede: 9,1 - 10,22
+
+* Gottes Macht: 9,1-13
+
+1 Da antwortete Ijob und sprach:\\
+\\
+
+<<v2>>
+2 Wahrhaftig weiß ich, dass es so ist: /\\
+ Wie wäre ein Mensch bei Gott im Recht! [fn:1]\\
+\\
+
+<<v3>>
+3 Wenn er mit ihm rechten wollte, /\\
+ nicht auf eins von tausend könnt er ihm Rede stehen.\\
+\\
+
+<<v4>>
+4 Weisen Sinnes und stark an Macht - /\\
+ wer böte ihm Trotz und bliebe heil?\\
+\\
+
+<<v5>>
+5 Er versetzt Berge; sie merken es nicht, /\\
+ dass er in seinem Zorn sie umstürzt. [fn:2]\\
+\\
+
+<<v6>>
+6 Er erschüttert die Erde an ihrem Ort, /\\
+ sodass ihre Säulen erzittern. [fn:3]\\
+\\
+
+<<v7>>
+7 Er spricht zur Sonne, sodass sie nicht strahlt, /\\
+ er versiegelt die Sterne. [fn:4]\\
+\\
+
+<<v8>>
+8 Er spannt allein den Himmel aus /\\
+ und schreitet einher auf den Höhen des Meeres.\\
+\\
+
+<<v9>>
+9 Er schuf das Sternbild des Bären, den Orion, /\\
+ das Siebengestirn, die Kammern des Südens. [fn:5]\\
+\\
+
+<<v10>>
+10 Er schuf so Großes, es ist nicht zu erforschen, /\\
+ Wunderdinge, sie sind nicht zu zählen. [fn:6]\\
+\\
+
+<<v11>>
+11 Zieht er an mir vorüber, ich seh ihn nicht, /\\
+ fährt er daher, ich merk ihn nicht. [fn:7]\\
+\\
+
+<<v12>>
+12 Rafft er hinweg, wer hält ihn zurück? /\\
+ Wer darf zu ihm sagen: Was tust du da? [fn:8]\\
+\\
+
+<<v13>>
+13 Gott hält seinen Zorn nicht zurück, /\\
+ unter ihm mussten selbst Rahabs Helfer sich beugen. [fn:9] [fn:10]\\
+\\
+
+<<v14>>
+* Die Ohnmacht des Menschen: 9,14-35
+
+14 Wie sollte denn ich ihm entgegnen, /\\
+ wie meine Worte gegen ihn wählen?\\
+\\
+
+<<v15>>
+15 Und wär ich im Recht, ich könnte nichts entgegnen, /\\
+ um Gnade müsste ich bei meinem Richter flehen.\\
+\\
+
+<<v16>>
+16 Wollte ich rufen, würde er mir Antwort geben? /\\
+ Ich glaube nicht, dass er auf meine Stimme hört.\\
+\\
+
+<<v17>>
+17 Er, der im Sturm mich niedertritt, /\\
+ ohne Grund meine Wunden mehrt,\\
+\\
+
+<<v18>>
+18 er lässt mich nicht zu Atem kommen, /\\
+ er sättigt mich mit Bitternis.\\
+\\
+
+<<v19>>
+19 Geht es um Kraft, er ist der Starke, /\\
+ geht es um Recht, wer lädt mich vor?\\
+\\
+
+<<v20>>
+20 Wär ich im Recht, mein eigener Mund spräche mich schuldig, /\\
+ wäre ich gerade, er machte mich krumm.\\
+\\
+
+<<v21>>
+21 Schuldlos bin ich, doch achte ich nicht auf mich, /\\
+ mein Leben werfe ich hin.\\
+\\
+
+<<v22>>
+22 Einerlei; so sag ich es denn: /\\
+ Schuldlos wie schuldig bringt er um. [fn:11]\\
+\\
+
+<<v23>>
+23 Wenn die Geißel plötzlich tötet, /\\
+ spottet er über der Schuldlosen Angst.\\
+\\
+
+<<v24>>
+24 Die Erde ist in Frevlerhand gegeben, /\\
+ das Gesicht ihrer Richter deckt er zu. /\\
+ Ist er es nicht, wer ist es dann?\\
+\\
+
+<<v25>>
+25 Schneller als ein Läufer eilen meine Tage, /\\
+ sie fliehen dahin und schauen kein Glück. [fn:12]\\
+\\
+
+<<v26>>
+26 Sie gleiten vorbei wie Kähne aus Schilf, /\\
+ dem Adler gleich, der auf Beute stößt.\\
+\\
+
+<<v27>>
+27 Sage ich: Ich will meine Klage vergessen, /\\
+ meine Miene ändern und heiter blicken!,\\
+\\
+
+<<v28>>
+28 so graut mir vor all meinen Schmerzen; /\\
+ ich weiß, du sprichst mich nicht frei.\\
+\\
+
+<<v29>>
+29 Ich muss nun einmal schuldig sein, /\\
+ wozu müh ich mich umsonst?\\
+\\
+
+<<v30>>
+30 Wollte ich auch mit Schnee mich waschen, /\\
+ meine Hände mit Lauge reinigen, [fn:13]\\
+\\
+
+<<v31>>
+31 du würdest mich doch in die Grube tauchen, /\\
+ sodass meinen Kleidern vor mir ekelt.\\
+\\
+
+<<v32>>
+32 Denn du bist kein Mensch wie ich, /\\
+ dem ich entgegnen könnte: /\\
+ Lasst uns zusammen zum Gericht gehen! [fn:14]\\
+\\
+
+<<v33>>
+33 Gäbe es doch einen Schiedsmann zwischen uns! /\\
+ Er soll seine Hand auf uns beide legen.\\
+\\
+
+<<v34>>
+34 Er nehme von mir seine Rute, /\\
+ sein Schrecken soll mich weiter nicht ängstigen; [fn:15]\\
+\\
+
+<<v35>>
+35 dann will ich reden, ohne ihn zu fürchten. /\\
+ Doch so ist es nicht um mich bestellt.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_143.org::v2][Ps 143,2]]
+
+[fn:2] [[file:Ps_46.org::v3][Ps 46,3]]; [[file:Jes_13.org::v13][Jes 13,13]]
+
+[fn:3] Die Erde steht nach israelitischer Anschauung auf Säulen
+(vgl. [[file:Ps_75.org::v4][Ps 75,4]]).
+
+[fn:4] [[file:Bar_3.org::v34][Bar 3,34f]]
+
+[fn:5] [[file:Am_5.org::v8][Am 5,8]]
+
+[fn:6] [[file:Ijob_5.org::v9][5,9]]
+
+[fn:7] [[file:Ijob_23.org::v8][23,8f]]
+
+[fn:8] [[file:Weish_12.org::v12][Weish 12,12]]
+
+[fn:9] [[file:Ijob_26.org::v12][26,12]]; [[file:Ps_89.org::v11][Ps 89,11]]
+
+[fn:10] Rahab ist Name für das Urchaos oder für das mythische
+Chaosmeer.
+
+[fn:11] [[file:Koh_9.org::v2][Koh 9,2]]
+
+[fn:12] [[file:Weish_5.org::v9][Weish 5,9]]
+
+[fn:13] [[file:Ps_51.org::v9][Ps 51,9]]; [[file:Jes_1.org::v18][Jes 1,18]]; [[file:Jer_2.org::v22][Jer 2,22]]
+
+[fn:14] [[file:Koh_6.org::v10][Koh 6,10]]
+
+[fn:15] [[file:Ijob_13.org::v21][13,21]]

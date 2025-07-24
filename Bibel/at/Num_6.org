@@ -1,0 +1,156 @@
+#+TITLE: Num 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-14 Sa 22:42]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 6.html
+
+<<verses>>
+
+<<v1>>
+* Das Nasiräergelübde: 6,1-21
+
+1 Der Herr sprach zu Mose: [fn:1]
+
+<<v2>>
+2 Rede zu den Israeliten und sag zu ihnen: Wenn ein Mann oder eine Frau
+etwas Besonderes tun will und das Nasiräergelübde ablegt, sodass er ein
+dem Herrn geweihter Nasiräer ist,
+
+<<v3>>
+3 dann soll er auf Wein und Bier verzichten; er soll keinen gegorenen
+Wein und kein gegorenes Bier trinken, auch keinen Traubensaft, er soll
+weder frische noch getrocknete Trauben essen.
+
+<<v4>>
+4 Solange er Nasiräer ist, soll er nichts essen, was von Weinreben
+stammt, von den unreifen Trauben angefangen bis zu den Trebern.
+
+<<v5>>
+5 Solange das Nasiräergelübde in Kraft ist, soll auch kein Schermesser
+sein Haupt berühren, bis die Zeit abgelaufen ist, für die er sich dem
+Herrn als Nasiräer geweiht hat. Er ist heilig, er muss sein Haar ganz
+frei wachsen lassen.
+
+<<v6>>
+6 Solange er sich dem Herrn als Nasiräer geweiht hat, soll er auch nicht
+in die Nähe eines Toten kommen.
+
+<<v7>>
+7 Nicht einmal an Vater oder Mutter, an Bruder oder Schwester soll er
+sich verunreinigen, wenn sie sterben; denn er trägt an seinem Haupt das
+Zeichen dafür, dass er sich seinem Gott als Nasiräer geweiht hat.
+
+<<v8>>
+8 Solange er Nasiräer ist, ist er dem Herrn heilig.
+
+<<v9>>
+9 Wenn aber jemand in seiner Nähe ganz plötzlich stirbt und er dabei
+sein geweihtes Haupt unrein macht, dann soll er sein Haar an dem Tag
+abschneiden, an dem er wieder rein wird: Am siebten Tag soll er sein
+Haar abschneiden,
+
+<<v10>>
+10 am achten Tag aber soll er zwei Turteltauben oder zwei junge Tauben
+zum Priester an den Eingang des Offenbarungszeltes bringen.
+
+<<v11>>
+11 Der Priester richtet die eine zum Sündopfer, die andere zum
+Brandopfer her und entsühnt den, der an der Leiche eine Sünde auf sich
+geladen hat; am selben Tag erklärt der Priester sein Haupt wieder für
+heilig.
+
+<<v12>>
+12 Er soll sich dann dem Herrn für die Zeit, für die er sich als
+Nasiräer verpflichtet hatte, von neuem weihen und ein einjähriges Lamm
+als Schuldopfer darbringen. Die schon abgeleistete Zeit aber ist
+verfallen, da das vorige Weihegelübde ungültig geworden ist.
+
+<<v13>>
+13 Das ist das Nasiräergesetz. Am Tag, an dem die Zeit seiner
+Nasiräerweihe abgelaufen ist, soll man den Mann zum Eingang des
+Offenbarungszeltes führen.
+
+<<v14>>
+14 Er bringt seine Opfergabe für den Herrn mit: ein fehlerloses
+einjähriges männliches Lamm als Brandopfer, ein fehlerloses einjähriges
+weibliches Lamm als Sühnopfer, einen fehlerlosen Widder als Heilsopfer,
+
+<<v15>>
+15 ferner einen Korb voll ungesäuerter Kuchen aus Feinmehl, das mit Öl
+vermengt ist, sowie voll ungesäuerter Brotfladen, die mit Öl bestrichen
+sind, ferner das dazugehörende Speiseopfer und die dazugehörenden
+Trankopfer.
+
+<<v16>>
+16 Der Priester bringt alles vor den Herrn und richtet für den
+Betreffenden das Sündopfer und das Brandopfer her.
+
+<<v17>>
+17 Auch richtet er den Widder für das Heilsopfer zur Ehre des Herrn her,
+zusammen mit dem Korb voll ungesäuertem Gebäck; dann richtet der
+Priester für den Betreffenden das Speiseopfer und das Trankopfer her.
+
+<<v18>>
+18 Der Nasiräer schneidet am Eingang des Offenbarungszeltes sein
+geweihtes Haupthaar ab, nimmt das geweihte Haar und wirft es in das
+Feuer, das unter dem Heilsopfer brennt.
+
+<<v19>>
+19 Nachdem der Nasiräer sich das Nasiräerhaar abgeschnitten hat, nimmt
+der Priester den gekochten Vorderschenkel des Widders, einen
+ungesäuerten Kuchen aus dem Korb und einen ungesäuerten Brotfladen und
+legt es dem Nasiräer auf die Hände.
+
+<<v20>>
+20 Dann schwingt sie der Priester vor dem Herrn hin und her und bringt
+sie so dar. Das ist eine heilige Gabe für den Priester, zusätzlich zur
+Widderbrust für den Darbringungsritus und zur Schenkelkeule für den
+Erhebungsritus. Danach darf der Nasiräer wieder Wein trinken.
+
+<<v21>>
+21 Das ist das Gesetz für den Nasiräer, der aufgrund seines
+Weihegelübdes dem Herrn eine Opfergabe gelobt, abgesehen von dem, was er
+sonst noch leisten kann. Wie es den Worten des Gelübdes entspricht, das
+er abgelegt hat, so muss er handeln, nach dem Nasiräergesetz, das für
+seinen Fall gilt.\\
+\\
+
+<<v22>>
+* Der Priestersegen: 6,22-27
+
+22 Der Herr sprach zu Mose:
+
+<<v23>>
+23 Sag zu Aaron und seinen Söhnen: So sollt ihr die Israeliten segnen;
+sprecht zu ihnen:
+
+<<v24>>
+24 Der Herr segne dich und behüte dich.
+
+<<v25>>
+25 Der Herr lasse sein Angesicht über dich leuchten und sei dir gnädig.
+
+<<v26>>
+26 Der Herr wende sein Angesicht dir zu und schenke dir Heil.
+
+<<v27>>
+27 So sollen sie meinen Namen auf die Israeliten legen und ich werde sie
+segnen.\\
+\\
+
+* Footnotes
+
+[fn:1] 1-21: Berühmte Nasiräer waren Simson (Ri 13,4f.14) und
+Samuel (1 Sam 1,11). Beide, anscheinend auch Johannes der Täufer (Lk
+1,15; vgl. Mt 11,18), wurden bereits vor ihrer Geburt Gott als Nasiräer
+geweiht. Das Gesetz von Num 6,1-21 sieht Nasiräergelübde von Eltern
+nicht vor. Zu den Nasiräern vgl. ferner 1 Makk 3,49 und Am 2,11. Selbst
+Paulus legt nach seiner Bekehrung das Nasiräergelübde auf Zeit ab (Apg
+18,18) und unterstützt andere, damit sie die nach Num 6 vorgeschriebenen
+Nasiräeropfer aufbringen können (Apg 21,24-26).

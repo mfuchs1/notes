@@ -1,0 +1,190 @@
+#+TITLE: Ijob 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 23:31]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 6.html
+
+<<verses>>
+
+<<v1>>
+* Ijobs Gegenrede: 6,1 - 7,21
+
+* Das unerträgliche Los: 6,1-13
+
+1 Da antwortete Ijob und sprach:\\
+\\
+
+<<v2>>
+2 Ach, würde doch mein Gram gewogen, /\\
+ legte man auf die Waage auch mein Leid!\\
+\\
+
+<<v3>>
+3 Denn nun ist es schwerer als der Sand des Meeres, /\\
+ darum reden meine Worte irr.\\
+\\
+
+<<v4>>
+4 Die Pfeile des Allmächtigen stecken in mir, /\\
+ mein Geist hat ihr Gift getrunken, /\\
+ Gottes Schrecken stellen sich gegen mich. [fn:1]\\
+\\
+
+<<v5>>
+5 Schreit denn der Wildesel beim Gras /\\
+ oder brüllt der Stier bei seinem Futter?\\
+\\
+
+<<v6>>
+6 Isst man denn ungesalzene Speise? /\\
+ Wer hat Geschmack an fadem Schleim?\\
+\\
+
+<<v7>>
+7 Ich sträube mich, daran zu rühren, /\\
+ das alles ist mir wie verdorbenes Brot. [fn:2]\\
+\\
+
+<<v8>>
+8 Käme doch, was ich begehre, /\\
+ und gäbe Gott, was ich erhoffe.\\
+\\
+
+<<v9>>
+9 Und wollte Gott mich doch zermalmen, /\\
+ seine Hand erheben, um mich abzuschneiden.\\
+\\
+
+<<v10>>
+10 Das wäre noch ein Trost für mich; /\\
+ ich hüpfte auf im Leid, mit dem er mich nicht schont. /\\
+ Denn ich habe die Worte des Heiligen nicht verleugnet.\\
+\\
+
+<<v11>>
+11 Was ist meine Kraft, dass ich aushalten könnte, /\\
+ wann kommt mein Ende, dass ich mich gedulde?\\
+\\
+
+<<v12>>
+12 Ist meine Kraft denn Felsenkraft, /\\
+ ist mein Fleisch denn aus Erz?\\
+\\
+
+<<v13>>
+13 Gibt es keine Hilfe mehr für mich, /\\
+ ist mir jede Rettung entschwunden?\\
+\\
+
+<<v14>>
+* Die Enttäuschung über die Freunde: 6,14-30
+
+14 Des Freundes Liebe gehört dem Verzagten, /\\
+ auch wenn er den Allmächtigen nicht mehr fürchtet. [fn:3]\\
+\\
+
+<<v15>>
+15 Meine Brüder sind trügerisch wie ein Bach, /\\
+ wie Wasserläufe, die verrinnen; [fn:4]\\
+\\
+
+<<v16>>
+16 trüb sind sie vom Eis, /\\
+ wenn über ihnen der Schnee schmilzt. [fn:5]\\
+\\
+
+<<v17>>
+17 Zur Zeit der Hitze versiegen sie; /\\
+ wenn es heiß wird, verdunsten sie in ihrem Bett.\\
+\\
+
+<<v18>>
+18 Karawanen biegen ab vom Weg, /\\
+ folgen ihnen in die Wüste und kommen um. [fn:6]\\
+\\
+
+<<v19>>
+19 Nach ihnen spähen Karawanen aus Tema, /\\
+ auf sie vertrauen Handelszüge aus Saba. [fn:7]\\
+\\
+
+<<v20>>
+20 In ihrer Hoffnung werden sie betrogen, /\\
+ kommen hin und sind enttäuscht.\\
+\\
+
+<<v21>>
+21 So seid ihr jetzt ein Nein geworden: /\\
+ Ihr schaut das Entsetzliche und schaudert.\\
+\\
+
+<<v22>>
+22 Habe ich denn gesagt: Gebt mir etwas, /\\
+ von eurem Vermögen zahlt für mich?\\
+\\
+
+<<v23>>
+23 Rettet mich aus dem Griff des Bedrängers, /\\
+ kauft mich los aus der Hand der Tyrannen!\\
+\\
+
+<<v24>>
+24 Belehrt mich, so werde ich schweigen; /\\
+ worin ich fehlte, macht mir klar!\\
+\\
+
+<<v25>>
+25 Wie wurden redliche Worte verhöhnt, /\\
+ was kann euer Tadel rügen? [fn:8]\\
+\\
+
+<<v26>>
+26 Gedenkt ihr, Worte zu tadeln? /\\
+ Spricht der Verzweifelte in den Wind?\\
+\\
+
+<<v27>>
+27 Selbst um ein Waisenkind würdet ihr würfeln, /\\
+ sogar euren Freund verschachern.\\
+\\
+
+<<v28>>
+28 Habt endlich die Güte, wendet euch mir zu, /\\
+ ich lüge euch nicht ins Gesicht.\\
+\\
+
+<<v29>>
+29 Kehrt um, kein Unrecht soll geschehen, /\\
+ kehrt um, noch bin ich im Recht.\\
+\\
+
+<<v30>>
+30 Ist denn Unrecht auf meiner Zunge /\\
+ oder schmeckt mein Gaumen das Schlechte nicht?\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_38.org::v3][Ps 38,3]]; [[file:Ps_88.org::v16][88,16]]
+
+[fn:2] Text korr.; H: Diese sind wie die Krankheit meines Brotes.
+
+[fn:3] Übersetzung unsicher.
+
+[fn:4] [[file:Jer_15.org::v18][Jer 15,18]]
+
+[fn:5] schmilzt, wörtlich: sich verbirgt.
+
+[fn:6] Karawanen biegen ab vom Weg: Text korr.; H: Es werden
+abgebogen die Pfade ihres (= der Bäche) Weges.
+
+[fn:7] [[file:Jes_21.org::v14][Jes 21,14]]
+
+[fn:8] Andere Übersetzungsmöglichkeit: Wie können redliche
+Worte kränkend sein?

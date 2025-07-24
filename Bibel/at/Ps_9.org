@@ -1,0 +1,144 @@
+#+TITLE: Ps 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-03 So 21:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 9.html
+
+* Ps 9
+
+<<verses>>
+
+<<v1>>
+* Gott, der Retter der Armen und Bedrängten
+
+1 [Für den Chormeister. Nach der Weise «Stirb für den Sohn!» Ein Psalm
+Davids.]\\
+\\
+
+<<v2>>
+2 Ich will dir danken, Herr, aus ganzem Herzen, /\\
+ verkünden will ich all deine Wunder. [fn:1]\\
+\\
+
+<<v3>>
+3 Ich will jauchzen und an dir mich freuen, /\\
+ für dich, du Höchster, will ich singen und spielen.\\
+\\
+
+<<v4>>
+4 Denn zurückgewichen sind meine Feinde, /\\
+ gestürzt und vergangen vor deinem Angesicht.\\
+\\
+
+<<v5>>
+5 Du hast mir Recht verschafft und für mich entschieden, /\\
+ dich auf den Thron gesetzt als ein gerechter Richter.\\
+\\
+
+<<v6>>
+6 Du hast die Völker bedroht, die Frevler vernichtet, /\\
+ ihren Namen gelöscht für immer und ewig.\\
+\\
+
+<<v7>>
+7 Die Feinde sind dahin, zerschlagen für immer. /\\
+ Du hast Städte entvölkert, ihr Ruhm ist versunken.\\
+\\
+
+<<v8>>
+8 Der Herr aber thront für ewig; /\\
+ er stellt seinen Thron auf zum Gericht.\\
+\\
+
+<<v9>>
+9 Er richtet den Erdkreis gerecht, /\\
+ er spricht den Völkern das Urteil, das sie verdienen. [fn:2]\\
+\\
+
+<<v10>>
+10 So wird der Herr für den Bedrückten zur Burg, /\\
+ zur Burg in Zeiten der Not.\\
+\\
+
+<<v11>>
+11 Darum vertraut dir, wer deinen Namen kennt; /\\
+ denn du, Herr, verlässt keinen, der dich sucht.\\
+\\
+
+<<v12>>
+12 Singt dem Herrn, der thront auf dem Zion, /\\
+ verkündet unter den Völkern seine Taten! [fn:3]\\
+\\
+
+<<v13>>
+13 Denn er, der jede Blutschuld rächt, denkt an die Armen /\\
+ und ihren Notschrei vergisst er nicht. [fn:4]\\
+\\
+
+<<v14>>
+14 Sei mir gnädig in meiner Not; /\\
+ Herr, sieh doch, wie sie mich hassen! Führ mich herauf von den Pforten
+des Todes, / [fn:5]\\
+\\
+
+<<v15>>
+15 damit ich all deinen Ruhm verkünde in den Toren von Zion /\\
+ und frohlocke, weil du mir hilfst. [fn:6]\\
+\\
+
+<<v16>>
+16 Völker versanken in der Grube, die sie selber gegraben; /\\
+ im Netz, das sie heimlich gelegt, hat ihr Fuß sich verfangen. [fn:7]\\
+\\
+
+<<v17>>
+17 Kundgetan hat sich der Herr: Er hielt sein Gericht; /\\
+ im eigenen Werk hat sich der Frevler verstrickt. [Zwischenspiel. Sela] [fn:8]\\
+\\
+
+<<v18>>
+18 Hinabfahren müssen die Frevler zum Totenreich, /\\
+ alle Heiden, die Gott vergessen.\\
+\\
+
+<<v19>>
+19 Doch der Arme ist nicht auf ewig vergessen, /\\
+ des Elenden Hoffnung ist nicht für immer verloren.\\
+\\
+
+<<v20>>
+20 Erheb dich, Herr, damit nicht der Mensch triumphiert, /\\
+ damit die Völker gerichtet werden vor deinem Angesicht. [fn:9]\\
+\\
+
+<<v21>>
+21 Wirf Schrecken auf sie, o Herr! /\\
+ Erkennen sollen die Völker: Sie sind nur Menschen. [Sela]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_138.org::v1][138,1]]
+
+[fn:2] [[file:Ps_96.org::v13][96,13]]
+
+[fn:3] [[file:Ps_108.org::v4][108,4]]
+
+[fn:4] [[file:Ijob_34.org::v28][Ijob 34,28]]
+
+[fn:5] [[file:Ps_30.org::v4][30,4]]; [[file:Ps_49.org::v16][49,16]]; [[file:Ps_56.org::v14][56,14]]; [[file:Ps_68.org::v21][68,21]]; [[file:Ps_71.org::v20][71,20]]; [[file:Ps_86.org::v13][86,13]]; [[file:Ps_116.org::v8][116,8]];
+[[file:Weish_16.org::v13][Weish 16,13]]; [[file:Jona_2.org::v7][Jona 2,7]]
+
+[fn:6] Wörtlich: in den Toren der Tochter Zion.
+
+[fn:7] [[file:Ps_7.org::v16][7,16]]
+
+[fn:8] Wörtlich: im Werk seiner Hände, er fängt den Frevler.
+
+[fn:9] [[file:Ps_7.org::v7][7,7]]

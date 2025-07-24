@@ -1,0 +1,174 @@
+#+TITLE: Ex 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 22:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 9.html
+
+* Ex 9
+
+<<verses>>
+
+<<v1>>
+1 Wieder sprach der Herr zu Mose: Geh zum Pharao und sag zu ihm: So
+spricht Jahwe, der Gott der Hebräer: Lass mein Volk ziehen, damit sie
+mich verehren können.
+
+<<v2>>
+2 Wenn du dich weigerst, sie ziehen zu lassen, und sie immer noch
+festhältst,
+
+<<v3>>
+3 wird die Hand Jahwes dein Vieh auf dem Feld, die Pferde und Esel, die
+Kamele und Rinder, die Schafe und Ziegen, überfallen und über sie eine
+sehr schwere Seuche bringen.
+
+<<v4>>
+4 Aber Jahwe wird einen Unterschied zwischen dem Vieh Israels und dem
+Vieh der Ägypter machen; nichts von dem, was den Israeliten gehört, wird
+eingehen.
+
+<<v5>>
+5 Auch den Zeitpunkt hat Jahwe schon festgesetzt: Morgen wird Jahwe das
+im Lande tun.
+
+<<v6>>
+6 Am folgenden Tag tat es der Herr. Alles Vieh der Ägypter ging ein, vom
+Vieh der Israeliten aber ging kein einziges Stück ein.
+
+<<v7>>
+7 Der Pharao erkundigte sich, und wirklich: Vom Vieh Israels war kein
+einziges Stück eingegangen. Doch der Pharao verschloss sein Herz und
+ließ das Volk nicht ziehen.
+
+<<v8>>
+8 Da sprach der Herr zu Mose und Aaron: Holt euch eine Hand voll Ofenruß
+und Mose soll ihn vor den Augen des Pharao in die Höhe werfen.
+
+<<v9>>
+9 Er wird als Staub auf ganz Ägypten niedergehen und an Mensch und Vieh
+Geschwüre mit aufplatzenden Blasen hervorrufen, in ganz Ägypten.
+
+<<v10>>
+10 Sie holten den Ofenruß, traten vor den Pharao und Mose warf ihn in
+die Höhe. Da bildeten sich an Mensch und Vieh Geschwüre mit
+aufplatzenden Blasen.
+
+<<v11>>
+11 Die Wahrsager konnten wegen der Geschwüre Mose nicht gegenübertreten,
+sie waren wie alle Ägypter von Geschwüren befallen.
+
+<<v12>>
+12 Aber der Herr verhärtete das Herz des Pharao, sodass er nicht auf sie
+hörte. So hatte es der Herr dem Mose vorausgesagt.
+
+<<v13>>
+13 Darauf sprach der Herr zu Mose: Steh früh am Morgen auf, tritt vor
+den Pharao hin und sag zu ihm: So spricht Jahwe, der Gott der Hebräer:
+Lass mein Volk ziehen, damit sie mich verehren können.
+
+<<v14>>
+14 Denn diesmal will ich alle meine Plagen loslassen auf dich, deine
+Diener und dein Volk. Daran wirst du erkennen, dass mir keiner im ganzen
+Land gleichkommt.
+
+<<v15>>
+15 Denn schon jetzt hätte ich meine Hand ausstrecken und dich und dein
+Volk mit der Pest schlagen können und du wärst vom Erdboden
+verschwunden.
+
+<<v16>>
+16 Ich habe dich aber am Leben gelassen, um meine Macht zu zeigen und
+meinen Namen auf der ganzen Erde bekannt zu machen.
+
+<<v17>>
+17 Wenn du dich weiterhin als den großen Herrn über mein Volk aufspielst
+und sie nicht ziehen lässt,
+
+<<v18>>
+18 dann lasse ich morgen um diese Zeit ein sehr schweres Hagelwetter
+niedergehen, wie es in Ägypten seit seiner Gründung bis auf den heutigen
+Tag noch keines gegeben hat.
+
+<<v19>>
+19 Und nun schick Leute aus, bring dein Vieh in Sicherheit und alles,
+was dir auf dem Feld gehört. Auf alle Menschen und auf das Vieh, das auf
+dem Feld bleibt und nicht unter Dach gebracht wird, geht der Hagel
+nieder und erschlägt sie.
+
+<<v20>>
+20 Wer sich von den Dienern des Pharao vor der Drohung des Herrn
+fürchtete, ließ seine Knechte und sein Vieh unter Dach bringen.
+
+<<v21>>
+21 Wer aber das Wort des Herrn nicht ernst nahm, ließ seine Knechte und
+sein Vieh auf dem Feld.
+
+<<v22>>
+22 Und der Herr sprach zu Mose: Streck deine Hand zum Himmel empor! Dann
+wird Hagel auf ganz Ägypten niedergehen, auf Mensch und Vieh und auf
+alle Feldpflanzen in Ägypten.
+
+<<v23>>
+23 Mose streckte seinen Stab zum Himmel empor und der Herr ließ es
+donnern und hageln. Blitze fuhren auf die Erde herab und der Herr ließ
+Hagel über Ägypten niedergehen.
+
+<<v24>>
+24 Schwerer Hagel prasselte herab und in den sehr schweren Hagel hinein
+zuckten Blitze. Ähnliches hatte es im ganzen Land der Ägypter noch nicht
+gegeben, seit sie ein Volk geworden waren.
+
+<<v25>>
+25 Der Hagel erschlug in ganz Ägypten alles, was auf dem Feld war.
+Menschen, Vieh und alle Feldpflanzen erschlug der Hagel und alle
+Feldbäume zerbrach er.
+
+<<v26>>
+26 Nur in Goschen, wo sich die Israeliten aufhielten, hagelte es nicht.
+
+<<v27>>
+27 Da ließ der Pharao Mose und Aaron rufen und sagte zu ihnen: Diesmal
+bekenne ich mich schuldig. Jahwe ist im Recht; ich aber und mein Volk,
+wir sind im Unrecht.
+
+<<v28>>
+28 Betet zu Jahwe! Die Donnerstimme Gottes und der Hagel, das ist zu
+viel. Ich will euch jetzt ziehen lassen; ihr müsst nicht länger bleiben.
+
+<<v29>>
+29 Mose antwortete ihm: Sobald ich außerhalb der Stadt bin, werde ich
+meine Hände vor Jahwe ausbreiten; der Donner wird aufhören und es wird
+kein Hagel mehr fallen. So wirst du erkennen, dass das Land Jahwe
+gehört.
+
+<<v30>>
+30 Du und Deine Diener aber, das weiß ich, ihr fürchtet euch noch immer
+nicht vor dem Gott Jahwe.
+
+<<v31>>
+31 Der Flachs und die Gerste waren zerschlagen; denn die Gerste hatte
+gerade Ähren angesetzt und der Flachs stand in Blüte.
+
+<<v32>>
+32 Der Weizen und der Spelt wurden nicht zerschlagen, denn sie kommen
+später heraus.
+
+<<v33>>
+33 Mose verließ den Pharao, ging vor die Stadt hinaus und breitete seine
+Hände vor dem Herrn aus. Da hörte der Donner auf und kein Hagel und kein
+Regen fiel mehr auf die Erde.
+
+<<v34>>
+34 Doch als der Pharao sah, dass Regen, Hagel und Donner aufgehört
+hatten, blieb er bei seiner Sünde; er und seine Diener verschlossen
+wieder ihr Herz.
+
+<<v35>>
+35 Das Herz des Pharao blieb hart und er ließ die Israeliten nicht
+ziehen. So hatte es der Herr durch Mose vorausgesagt.

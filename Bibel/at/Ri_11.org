@@ -1,0 +1,232 @@
+#+TITLE: Ri 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-04 Sa 23:18]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 11.html
+
+* Ri 11
+
+<<verses>>
+
+<<v1>>
+1 Jiftach, der Gileaditer, war ein tapferer Held; er war der Sohn einer
+Dirne und Gilead war sein Vater.
+
+<<v2>>
+2 Auch Gileads Ehefrau gebar ihm Söhne. Als nun die Söhne der Ehefrau
+herangewachsen waren, jagten sie Jiftach fort und sagten zu ihm: Du
+sollst im Haus unseres Vaters nicht erben; denn du bist der Sohn einer
+anderen Frau.
+
+<<v3>>
+3 Da floh Jiftach vor seinen Brüdern. Er ließ sich im Land Tob nieder,
+und Männer, die nichts zu verlieren hatten, scharten sich um ihn und
+zogen mit ihm (zu Streifzügen) aus.
+
+<<v4>>
+4 Nach einiger Zeit begannen die Ammoniter Krieg mit Israel.
+
+<<v5>>
+5 Als nun die Ammoniter mit Israel Krieg begannen, machten sich die
+Ältesten Gileads auf den Weg, um Jiftach aus dem Land Tob zu holen.
+
+<<v6>>
+6 Sie sagten zu Jiftach: Komm, sei unser Anführer, dann können wir gegen
+die Ammoniter kämpfen.
+
+<<v7>>
+7 Jiftach erwiderte den Ältesten Gileads: Habt ihr mich nicht gehasst
+und aus dem Haus meines Vaters verjagt? Warum kommt ihr jetzt zu mir, da
+ihr in Bedrängnis seid?
+
+<<v8>>
+8 Die Ältesten Gileads antworteten Jiftach: Eben darum haben wir uns
+jetzt dir wieder zugewandt. Du sollst mit uns gehen und gegen die
+Ammoniter kämpfen; du sollst unser Oberhaupt und der Anführer aller
+Bewohner Gileads werden.
+
+<<v9>>
+9 Jiftach entgegnete den Ältesten Gileads: Wenn ihr mich zum Kampf gegen
+die Ammoniter zurückholt und der Herr sie vor meinen Augen preisgibt,
+werde ich dann wirklich euer Oberhaupt sein?
+
+<<v10>>
+10 Die Ältesten Gileads antworteten Jiftach: Der Herr soll unser Zeuge
+sein: Wirklich, so wie du es eben gesagt hast, so werden wir es machen.
+
+<<v11>>
+11 Daraufhin ging Jiftach mit den Ältesten Gileads und die Leute machten
+ihn zu ihrem Oberhaupt und Anführer. Jiftach aber brachte in Mizpa alle
+seine Angelegenheiten vor den Herrn.\\
+\\
+
+<<v12>>
+* Die Verhandlung mit den Ammonitern: 11,12-28
+
+12 Danach schickte Jiftach Boten zum König der Ammoniter und ließ ihn
+fragen: Was haben wir gegeneinander, dass du herangerückt bist, um in
+meinem Land Krieg zu führen?
+
+<<v13>>
+13 Der König der Ammoniter antwortete den Boten Jiftachs: Israel hat mir
+mein Land zwischen dem Arnon und dem Jabbok, bis hin zum Jordan,
+weggenommen, als es aus Ägypten heraufzog. Gib es jetzt freiwillig
+wieder zurück!
+
+<<v14>>
+14 Darauf schickte Jiftach noch einmal Boten zum König der Ammoniter
+
+<<v15>>
+15 und ließ ihm sagen: So spricht Jiftach: Israel hat das Land Moabs und
+das Land der Ammoniter nicht weggenommen.
+
+<<v16>>
+16 Als Israel aus Ägypten heraufzog, wanderte es durch die Wüste bis zum
+Schilfmeer und kam nach Kadesch.
+
+<<v17>>
+17 Da schickte Israel Boten zum König von Edom und ließ ihm sagen: Ich
+möchte durch dein Land ziehen. Aber der König von Edom hörte nicht
+darauf. Auch zum König von Moab schickten sie, aber auch er wollte nicht
+(hören). Deshalb blieb Israel in Kadesch.
+
+<<v18>>
+18 Es zog dann durch die Wüste, umging das Land Edoms und das Land Moabs
+und kam so in das Gebiet östlich vom Land Moabs. Sie schlugen jenseits
+des Arnon ihr Lager auf, kamen also gar nicht in das Gebiet Moabs; denn
+der Arnon ist die Grenze Moabs. [fn:1]
+
+<<v19>>
+19 Dann sandte Israel Boten zu Sihon, dem König der Amoriter, dem König
+von Heschbon, und ließ ihm sagen: Wir möchten durch dein Gebiet in unser
+Land ziehen. [fn:2]
+
+<<v20>>
+20 Sihon aber glaubte nicht, dass Israel nur durch sein Gebiet
+durchziehen wollte. Er sammelte daher seine Männer, schlug in Jahaz sein
+Lager auf und eröffnete den Kampf gegen Israel.
+
+<<v21>>
+21 Der Herr, der Gott Israels, aber gab Sihon und alle seine Männer in
+die Gewalt Israels. Israel schlug sie und eroberte das ganze Land, das
+die Amoriter bewohnten.
+
+<<v22>>
+22 So nahmen sie das ganze Land der Amoriter vom Arnon bis zum Jabbok
+und von der Wüste bis zum Jordan in Besitz.
+
+<<v23>>
+23 Der Herr, der Gott Israels, hat also die Amoriter vor den Augen
+seines Volkes Israel vertrieben. Und du willst es nun aus seinem Besitz
+vertreiben?
+
+<<v24>>
+24 Ist es nicht so: Wen Kemosch, dein Gott, vertreibt, dessen Besitz
+nimmst du, und wen immer der Herr, unser Gott, vor unseren Augen
+vertreibt, dessen Besitz nehmen wir.
+
+<<v25>>
+25 Bist du denn wirklich besser als der Moabiterkönig Balak, der Sohn
+Zippors? Hat er denn mit Israel einen Streit oder einen Krieg
+angefangen? [fn:3]
+
+<<v26>>
+26 Israel saß dreihundert Jahre lang in Heschbon und seinen
+Tochterstädten, in Aroër und seinen Tochterstädten und in allen Städten,
+die zu beiden Seiten des Arnon liegen. Warum habt ihr diese Städte nicht
+in jener Zeit an euch gerissen?
+
+<<v27>>
+27 Was mich betrifft, so habe ich dir kein Unrecht getan, aber du willst
+mir Böses antun, indem du den Kampf gegen mich eröffnest. Der Herr soll
+unser Richter sein; er möge heute im Streit zwischen den Israeliten und
+den Ammonitern entscheiden.
+
+<<v28>>
+28 Doch der König der Ammoniter hörte nicht auf die Botschaft, die ihm
+Jiftach schickte.\\
+\\
+
+<<v29>>
+* Jiftachs Sieg: 11,29-40
+
+29 Da kam der Geist des Herrn über Jiftach und Jiftach zog durch Gilead
+und Manasse nach Mizpa in Gilead und von Mizpa in Gilead zog er gegen
+die Ammoniter. [fn:4]
+
+<<v30>>
+30 Jiftach legte dem Herrn ein Gelübde ab und sagte: Wenn du die
+Ammoniter wirklich in meine Gewalt gibst
+
+<<v31>>
+31 und wenn ich wohlbehalten von den Ammonitern zurückkehre, dann soll,
+was immer mir (als Erstes) aus der Tür meines Hauses entgegenkommt, dem
+Herrn gehören und ich will es ihm als Brandopfer darbringen.
+
+<<v32>>
+32 Darauf zog Jiftach gegen die Ammoniter in den Kampf und der Herr gab
+sie in seine Gewalt.
+
+<<v33>>
+33 Er schlug sie im ganzen Gebiet zwischen Aroër und Minnit bis hin nach
+Abel-Keramim vernichtend (und nahm) zwanzig Städte (ein). So wurden die
+Ammoniter vor den Augen der Israeliten gedemütigt.
+
+<<v34>>
+34 Als Jiftach nun nach Mizpa zu seinem Haus zurückkehrte, da kam ihm
+seine Tochter entgegen; sie tanzte zur Pauke. Sie war sein einziges
+Kind; er hatte weder einen Sohn noch eine andere Tochter.
+
+<<v35>>
+35 Als er sie sah, zerriss er seine Kleider und sagte: Weh, meine
+Tochter! Du machst mich niedergeschlagen und stürzt mich ins Unglück.
+Ich habe dem Herrn mit eigenem Mund etwas versprochen und kann nun nicht
+mehr zurück.
+
+<<v36>>
+36 Sie erwiderte ihm: Mein Vater, wenn du dem Herrn mit eigenem Mund
+etwas versprochen hast, dann tu mit mir, was du versprochen hast,
+nachdem dir der Herr Rache an deinen Feinden, den Ammonitern, verschafft
+hat.
+
+<<v37>>
+37 Und sie sagte zu ihrem Vater: Nur das eine möge mir gewährt werden:
+Lass mir noch zwei Monate Zeit, damit ich in die Berge gehe und zusammen
+mit meinen Freundinnen meine Jugend beweine. [fn:5]
+
+<<v38>>
+38 Er entgegnete: Geh nur!, und ließ sie für zwei Monate fort. Sie aber
+ging mit ihren Freundinnen hin und beweinte ihre Jugend in den Bergen.
+
+<<v39>>
+39 Als zwei Monate zu Ende waren, kehrte sie zu ihrem Vater zurück und
+er tat mit ihr, was er gelobt hatte; sie aber hatte noch mit keinem Mann
+Verkehr gehabt. So wurde es Brauch in Israel,
+
+<<v40>>
+40 dass Jahr für Jahr die Töchter Israels (in die Berge) gehen und die
+Tochter des Gileaditers Jiftach beklagen, vier Tage lang, jedes Jahr. [fn:6]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Num_21.org::v13][Num 21,13]]
+
+[fn:2] [[file:Num_21.org::v21][Num 21,21-31]]
+
+[fn:3] [[file:Num_22.org::v22][Num 22,2]]; [[file:Jos_24.org::v9][Jos 24,9]]
+
+[fn:4] [[file:Ri_3.org::v10][3,10]]; [[file:Ri_6.org::v34][6,34]]; [[file:Ri_13.org::v25][13,25]]
+
+[fn:5] meine Jugend, wörtlich: meine Jungfrauschaft. - Jiftachs
+Tochter klagt, dass sie sterben muss, noch ehe sie Frau und Mutter
+werden konnte.
+
+[fn:6] Der Brauch wird mit der Vollstreckung des Gelübdes
+Jiftachs erklärt.

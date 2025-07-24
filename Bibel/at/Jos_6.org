@@ -1,0 +1,174 @@
+#+TITLE: Jos 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-02 Do 00:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 6.html
+
+<<verses>>
+
+<<v1>>
+* Die Eroberung Jerichos: 6,1-27
+
+1 Jericho hielt wegen der Israeliten die Tore fest verschlossen. Niemand
+konnte heraus und niemand konnte hinein. [fn:1]
+
+<<v2>>
+2 Da sagte der Herr zu Josua: Sieh her, ich gebe Jericho und seinen
+König samt seinen Kriegern in deine Gewalt.
+
+<<v3>>
+3 Ihr sollt mit allen Kriegern um die Stadt herumziehen und sie einmal
+umkreisen. Das sollst du sechs Tage lang tun.
+
+<<v4>>
+4 Sieben Priester sollen sieben Widderhörner vor der Lade hertragen. Am
+siebten Tag sollt ihr siebenmal um die Stadt herumziehen und die
+Priester sollen die Hörner blasen.
+
+<<v5>>
+5 Wenn das Widderhorn geblasen wird und ihr den Hörnerschall hört, soll
+das ganze Volk in lautes Kriegsgeschrei ausbrechen. Darauf wird die
+Mauer der Stadt in sich zusammenstürzen; dann soll das Volk
+hinübersteigen, jeder an der nächstbesten Stelle.
+
+<<v6>>
+6 Da rief Josua, der Sohn Nuns, die Priester und sagte: Nehmt die
+Bundeslade und lasst sieben Priester sieben Widderhörner vor der Lade
+des Herrn hertragen.
+
+<<v7>>
+7 Und zum Volk sagte er: Zieht rings um die Stadt herum und lasst die
+bewaffneten Männer vor der Lade des Herrn herziehen!
+
+<<v8>>
+8 Und es geschah so, wie Josua es dem Volk gesagt hatte: Sieben Priester
+trugen die sieben Widderhörner vor dem Herrn her und bliesen im Gehen
+die Hörner und die Bundeslade des Herrn zog hinter ihnen her.
+
+<<v9>>
+9 Die bewaffneten Männer gingen vor den Priestern her, die die Hörner
+bliesen, die Nachhut folgte der Lade und man blies ständig die Hörner.
+
+<<v10>>
+10 Dem Volk aber befahl Josua: Erhebt kein Kriegsgeschrei und lasst eure
+Stimmen nicht hören! Kein Wort komme aus eurem Mund bis zu dem Tag, an
+dem ich zu euch sage: Erhebt das Kriegsgeschrei! Dann sollt ihr
+losschreien.
+
+<<v11>>
+11 Darauf ließ er die Lade des Herrn um die Stadt herumziehen und sie
+einmal umkreisen. Dann kam man zum Lager zurück und übernachtete im
+Lager.
+
+<<v12>>
+12 Früh am anderen Morgen brach Josua auf und die Priester trugen die
+Lade des Herrn.
+
+<<v13>>
+13 Sieben Priester trugen die sieben Widderhörner der Lade des Herrn
+voraus und bliesen ständig die Hörner. Die bewaffneten Männer zogen vor
+ihnen her und die Nachhut folgte der Lade des Herrn. Man blies ständig
+die Hörner.
+
+<<v14>>
+14 So zogen sie auch am zweiten Tag einmal um die Stadt herum und
+kehrten wieder ins Lager zurück. Das machten sie sechs Tage lang.
+
+<<v15>>
+15 Am siebten Tag aber brachen sie beim Anbruch der Morgenröte auf und
+zogen, wie gewohnt, um die Stadt, siebenmal; nur an diesem Tag zogen sie
+siebenmal um die Stadt.
+
+<<v16>>
+16 Als die Priester beim siebten Mal die Hörner bliesen, sagte Josua zum
+Volk: Erhebt das Kriegsgeschrei! Denn der Herr hat die Stadt in eure
+Gewalt gegeben.
+
+<<v17>>
+17 Die Stadt mit allem, was in ihr ist, soll zu Ehren des Herrn dem
+Untergang geweiht sein. Nur die Dirne Rahab und alle, die bei ihr im
+Haus sind, sollen am Leben bleiben, weil sie die Boten versteckt hat,
+die wir ausgeschickt hatten.
+
+<<v18>>
+18 Hütet euch aber davor, von dem, was dem Untergang geweiht ist, etwas
+zu begehren und wegzunehmen; sonst weiht ihr das Lager Israels dem
+Untergang und stürzt es ins Unglück. [fn:2] [fn:3]
+
+<<v19>>
+19 Alles Gold und Silber und die Geräte aus Bronze und Eisen sollen dem
+Herrn geweiht sein und in den Schatz des Herrn kommen.
+
+<<v20>>
+20 Darauf erhob das Volk das Kriegsgeschrei und die Widderhörner wurden
+geblasen. Als das Volk den Hörnerschall hörte, brach es in lautes
+Kriegsgeschrei aus. Die Stadtmauer stürzte in sich zusammen, und das
+Volk stieg in die Stadt hinein, jeder an der nächstbesten Stelle. So
+eroberten sie die Stadt. [fn:4]
+
+<<v21>>
+21 Mit scharfem Schwert weihten sie alles, was in der Stadt war, dem
+Untergang, Männer und Frauen, Kinder und Greise, Rinder, Schafe und
+Esel. [fn:5]
+
+<<v22>>
+22 Zu den beiden Männern, die das Land erkundet hatten, sagte Josua:
+Geht zu dem Haus der Dirne und holt von dort die Frau und alles, was ihr
+gehört, wie ihr es ihr geschworen habt. [fn:6]
+
+<<v23>>
+23 Da gingen die jungen Männer, die Kundschafter, und holten Rahab,
+ihren Vater, ihre Mutter, ihre Brüder und alles, was ihr gehörte; sie
+führten ihre ganze Verwandtschaft (aus der Stadt) heraus und wiesen
+ihnen einen Platz außerhalb des Lagers Israels an.
+
+<<v24>>
+24 Die Stadt aber und alles, was darin war, brannte man nieder; nur das
+Silber und Gold und die Geräte aus Bronze und Eisen brachte man in den
+Schatz im Haus des Herrn.
+
+<<v25>>
+25 Die Dirne Rahab und die Familie ihres Vaters und alles, was ihr
+gehörte, ließ Josua am Leben. So wohnt ihre Familie bis heute mitten in
+Israel; denn Rahab hatte die Boten versteckt, die Josua ausgesandt
+hatte, um Jericho auskundschaften zu lassen. [fn:7]
+
+<<v26>>
+26 Damals schwor Josua: Verflucht beim Herrn sei der Mann, der es
+unternimmt, diese Stadt Jericho wieder aufzubauen. Seinen Erstgeborenen
+soll es ihn kosten, wenn er sie neu gründet, und seinen Jüngsten, wenn
+er ihre Tore wieder aufrichtet. [fn:8]
+
+<<v27>>
+27 Der Herr war mit Josua und sein Ruhm verbreitete sich im ganzen
+Land.\\
+\\
+
+* Footnotes
+
+[fn:1] Jericho ist eine bis ins 7. Jahrtausend v. Chr.
+zurückreichende Stadt; die Eroberung durch Josua ist bisher
+archäologisch nicht nachgewiesen. Ihre Einnahme wird nach Art einer
+Prozession mit der Bundeslade geschildert.
+
+[fn:2] [[file:Lev_27.org::v28][Lev 27,28]]
+
+[fn:3] begehren: Text korr. nach G. - Von der Beute, die Gott
+geweiht war und vernichtet werden musste, durfte nichts weggenommen
+werden.
+
+[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v30][Hebr 11,30]]
+
+[fn:5] [[file:Jos_8.org::v2][8,2]]
+
+[fn:6] [[file:Jos_2.org::v14][2,14]]
+
+[fn:7] [[file:Jos_2.org::v13][2,13]]
+
+[fn:8] Der Fluch deutet auf [[file:1.Kön_16.org::v34][1 Kön 16,34]] hin.

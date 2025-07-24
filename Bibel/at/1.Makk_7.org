@@ -1,0 +1,256 @@
+#+TITLE: 1 Makk 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-26 So 23:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 7.html
+
+<<verses>>
+
+<<v1>>
+* Neue Angriffe auf Israel nach der Thronbesteigung des Demetrius I.: 7,1-25
+
+1 Im Jahr 151 floh Demetrius, der Sohn des Seleukus, aus Rom, landete
+mit nur wenigen Männern in einer Stadt am Meer und rief sich dort zum
+König aus. [fn:1]
+
+<<v2>>
+2 Als er in den Palast seiner Väter einzog, nahmen die Truppen Antiochus
+und Lysias fest, um sie ihm auszuliefern.
+
+<<v3>>
+3 Das wurde ihm mitgeteilt; er aber sagte: Ich will ihr Gesicht nicht
+sehen.
+
+<<v4>>
+4 Da brachten die Truppen die beiden um und Demetrius setzte sich auf
+den Thron seines Reiches.
+
+<<v5>>
+5 Alle Gesetzlosen und Frevler aus Israel kamen zu ihm. Ihr Anführer war
+Alkimus, der Hoherpriester werden wollte.
+
+<<v6>>
+6 Sie verklagten das Volk beim König und sagten: Judas und seine Brüder
+haben alle deine Freunde umgebracht und uns aus unserer Heimat
+vertrieben.
+
+<<v7>>
+7 Schick darum einen Mann, dem du vertraust, er soll kommen und sich das
+ganze Unheil ansehen, das sie uns und dem Land des Königs zugefügt
+haben. Dann soll er sie und alle, die sie unterstützen, bestrafen.
+
+<<v8>>
+8 Der König wählte Bakchides, einen der Freunde des Königs; er hatte den
+Befehl jenseits des Stroms, galt viel im Reich und war dem König treu
+ergeben. [fn:2]
+
+<<v9>>
+9 Mit ihm schickte er den ruchlosen Alkimus, den er als Hohenpriester
+einsetzte, und gab ihm den Auftrag, an den Israeliten Vergeltung zu
+üben.
+
+<<v10>>
+10 Sie brachen mit einem großen Heer auf und zogen nach Judäa. Er
+schickte Boten an Judas und seine Brüder und bot ihnen mit
+hinterlistigen Worten Frieden.
+
+<<v11>>
+11 Doch diese glaubten ihnen nicht; denn sie sahen, dass sie mit einem
+großen Heer gekommen waren.
+
+<<v12>>
+12 Eine Gruppe von Schriftgelehrten ging indessen gemeinsam zu Alkimus
+und Bakchides, um eine gerechte Lösung zu suchen.
+
+<<v13>>
+13 Auch bemühten sich die Hasidäer, als erste von den Israeliten, bei
+ihnen um Frieden. [fn:3]
+
+<<v14>>
+14 Sie sagten sich nämlich: Ein Priester aus der Familie des Aaron ist
+zusammen mit den Truppen hergekommen; er wird uns nichts Böses tun.
+
+<<v15>>
+15 Alkimus unterhielt sich auch friedlich mit ihnen, ja, er schwor
+ihnen: Wir werden euch und euren Freunden kein Leid zufügen.
+
+<<v16>>
+16 Sie glaubten ihm; er aber ließ sechzig von ihnen festnehmen und noch
+am selben Tag hinrichten, genau wie geschrieben steht:
+
+<<v17>>
+17 Die Leichen deiner Frommen haben sie rings um Jerusalem zerstreut und
+ihr Blut haben sie vergossen und keiner hat sie begraben. [fn:4]
+
+<<v18>>
+18 Da begann das ganze Volk, sich vor ihnen zu fürchten und zu zittern.
+Man sagte: Bei ihnen gibt es weder Treue noch Recht; denn sie haben den
+Vertrag gebrochen trotz des Eides, den sie geschworen haben.
+
+<<v19>>
+19 Bakchides marschierte von Jerusalem nach Bet-Sajit und schlug dort
+sein Lager auf. Er ließ viele von den Männern, die zu ihm übergelaufen
+waren, festnehmen, dazu auch einige Männer aus dem Volk, und befahl, sie
+an der großen Zisterne niederzumetzeln.
+
+<<v20>>
+20 Er übergab das Land dem Alkimus und ließ zu seiner Unterstützung
+einen Teil der Truppen zurück. Dann kehrte Bakchides zum König zurück.
+
+<<v21>>
+21 Alkimus aber kämpfte um das Hohepriesteramt.
+
+<<v22>>
+22 Alle Unruhestifter im Volk sammelten sich um ihn; sie rissen die
+Macht über Judäa an sich und stürzten Israel tief ins Unglück.
+
+<<v23>>
+23 Judas sah all das Unheil, das Alkimus und seine Anhänger bei den
+Israeliten anrichteten; sie waren schlimmer als die Ausländer.
+
+<<v24>>
+24 Da brach er auf, zog durch das Gebiet von ganz Judäa und übte an den
+Überläufern Vergeltung, sodass sie sich nicht mehr frei im Land bewegen
+konnten.
+
+<<v25>>
+25 Alkimus merkte, dass Judas und seine Leute an Macht gewannen, und da
+er einsah, dass er ihnen nicht gewachsen war, wandte er sich wieder an
+den König und brachte schwere Anklagen gegen sie vor.\\
+\\
+
+<<v26>>
+* Der Angriff und die Niederlage des Nikanor: 7,26-50
+
+26 Da schickte der König einen seiner bedeutendsten Anführer, Nikanor,
+der ein erbitterter Gegner Israels war; er trug ihm auf, das Volk zu
+vernichten. [fn:5]
+
+<<v27>>
+27 Nikanor kam mit einem großen Heer nach Jerusalem. Er schickte Boten
+zu Judas und seinen Brüdern und sprach hinterlistig von Frieden. Er
+sagte:
+
+<<v28>>
+28 Ich will keinen Krieg mit euch. Darum will ich mich in Begleitung von
+nur ein paar Leuten in aller Freundschaft mit euch treffen, um über den
+Frieden zu reden.
+
+<<v29>>
+29 Er kam auch zu Judas und sie begrüßten einander freundschaftlich.
+Seine Soldaten hielten sich indessen bereit, den Judas zu verschleppen.
+
+<<v30>>
+30 Judas aber erfuhr, dass er in böser Absicht gekommen war. Da wurde er
+vorsichtig und wollte nicht mehr mit ihm zusammenkommen.
+
+<<v31>>
+31 Nun merkte Nikanor, dass sein Plan entdeckt worden war, und er zog
+aus, um Judas bei Kafar-Salama zum Kampf zu stellen.
+
+<<v32>>
+32 Aber fast fünfhundert von den Leuten des Nikanor fielen und seine
+Soldaten mussten sich in die Davidstadt flüchten.
+
+<<v33>>
+33 Nach diesen Ereignissen ging Nikanor zum Berg Zion hinauf. Aus dem
+Tempelbezirk kamen ihm Priester und Älteste des Volkes entgegen, um ihn
+friedlich zu begrüßen und ihm das Opfer zu zeigen, das man für den König
+darbrachte.
+
+<<v34>>
+34 Er aber verhöhnte und verspottete sie und machte sie unrein. Er
+prahlte
+
+<<v35>>
+35 und schwor voller Zorn: Wenn Judas und sein Heer mir nicht sofort
+ausgeliefert werden, dann stecke ich dieses Haus in Brand, sobald ich
+heil zurück bin. Dann ging er wütend weg.
+
+<<v36>>
+36 Die Priester gingen wieder hinein, stellten sich vor den Altar und
+den Tempel, weinten und sagten: [fn:6]
+
+<<v37>>
+37 Du hast dieses Haus erwählt, damit dein Name darüber ausgerufen
+werde; es sollte für dein Volk ein Haus des Betens und Flehens sein.
+
+<<v38>>
+38 Übe Vergeltung an diesem Menschen und an seinem Heer! Sie sollen
+unter dem Schwert fallen. Denk an ihre Lästerungen und lass sie nicht
+weiterleben!
+
+<<v39>>
+39 Nikanor verließ Jerusalem und schlug in Bet-Horon sein Lager auf;
+dort stieß eine Abteilung Soldaten aus Syrien zu ihm.
+
+<<v40>>
+40 Judas dagegen hatte mit dreitausend Mann sein Lager bei Hadascha und
+er betete:
+
+<<v41>>
+41 Damals, als die Leute des Königs von Assur über dich gelästert
+hatten, kam dein Engel und erschlug hundertfünfundachtzigtausend von
+ihnen. [fn:7]
+
+<<v42>>
+42 Schlag heute dieses Heer vor unseren Augen genauso, damit die, die
+von ihnen übrig bleiben, erkennen, dass Nikanor schlimme Worte gegen
+dein Heiligtum ausgestoßen hat. Richte ihn, wie es sein Verbrechen
+verdient.
+
+<<v43>>
+43 Am Dreizehnten des Monats Adar stießen die Heere aufeinander und das
+Heer des Nikanor wurde vernichtend geschlagen; er selbst fiel als erster
+im Kampf.
+
+<<v44>>
+44 Als sein Heer sah, dass Nikanor gefallen war, warfen sie die Waffen
+weg und flohen.
+
+<<v45>>
+45 Die Juden verfolgten sie einen Tagesmarsch weit, von Hadascha bis
+nach Geser, und bliesen mit den Signaltrompeten hinter ihnen her.
+
+<<v46>>
+46 Aus allen umliegenden Dörfern Judäas kamen die Männer heraus und
+umzingelten die Flüchtenden. Da wandten sich die Feinde gegeneinander
+und alle fielen unter dem Schwert; nicht einer von ihnen blieb übrig.
+
+<<v47>>
+47 Die Juden nahmen ihnen ihre Ausrüstungen weg und machten reiche
+Beute. Dem Nikanor schlugen sie den Kopf ab und ebenso die rechte Hand,
+die er so vermessen ausgestreckt hatte; sie brachten beides nach
+Jerusalem und hängten es dort öffentlich auf.
+
+<<v48>>
+48 Im Volk herrschte große Freude; sie begingen diesen Tag als einen
+großen Festtag
+
+<<v49>>
+49 und beschlossen, den dreizehnten Adar künftig jedes Jahr zu feiern.
+Danach hatte Judäa für kurze Zeit Ruhe.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-25) [[file:2.Makk_14.org::v1][2 Makk 14,1]]-[[file:2.Makk_14.org::v10][10]]
+
+[fn:2] jenseits des Stroms: das Gebiet, das sich vom Eufrat bis
+an die Grenze Ägyptens erstreckt.
+
+[fn:3] [[file:1.Makk_2.org::v42][2,42]]
+
+[fn:4] [[file:Ps_79.org::v2][Ps 79,2f]]
+
+[fn:5] [[file:1.Makk_3.org::v38][3,38]]; (26-50) [[file:2.Makk_14.org::v11][2 Makk 14,11]] - [[file:1.Makk_15.org::v36][15,36]]
+
+[fn:6] [[file:Joel_2.org::v17][Joël 2,17]]
+
+[fn:7] [[file:2.Kön_18.org::v17][2 Kön 18,17]]-[[file:2.Kön_18.org::v35][35]]; [[file:2.Kön_19.org::v35][19,35]]

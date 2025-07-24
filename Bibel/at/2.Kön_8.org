@@ -1,0 +1,206 @@
+#+TITLE: 2 Kön 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 17:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 8.html
+
+<<verses>>
+
+<<v1>>
+* Die Sorge für die Frau aus Schunem: 8,1-6
+
+1 Elischa sagte zu der Frau, deren Sohn er zum Leben erweckt hatte: Mach
+dich auf, zieh mit deiner Familie fort und halte dich irgendwo in der
+Fremde auf; denn der Herr hat eine Hungersnot verhängt. Schon kommt sie
+über das Land und sie wird sieben Jahre dauern. [fn:1]
+
+<<v2>>
+2 Da machte sich die Frau auf den Weg und tat, was ihr der Gottesmann
+geraten hatte. Sie zog mit ihren Angehörigen fort und hielt sich sieben
+Jahre im Land der Philister auf.
+
+<<v3>>
+3 Nach Ablauf von sieben Jahren kehrte sie aus dem Land der Philister
+zurück und ging zum König, um wegen ihres Hauses und ihrer Felder seine
+Hilfe zu erbitten.
+
+<<v4>>
+4 Der König war gerade im Gespräch mit Gehasi, dem Diener des
+Gottesmannes, und hatte ihn aufgefordert: Erzähl mir alles Große, das
+Elischa vollbracht hat.
+
+<<v5>>
+5 Während dieser dem König erzählte, wie Elischa den Toten zum Leben
+erweckt hatte, kam die Frau, deren Sohn er zum Leben erweckt hatte, um
+wegen ihres Hauses und ihrer Felder die Hilfe des Königs zu erbitten. Da
+sagte Gehasi: Das, mein Herr und König, ist die Frau und das ist ihr
+Sohn, den Elischa zum Leben erweckt hat.
+
+<<v6>>
+6 Nun fragte der König die Frau selbst und sie erzählte ihm alles.
+Darauf gab ihr der König einen Beamten mit und trug ihm auf: Verschaff
+ihr alles wieder, was ihr gehört, auch den ganzen Ertrag ihrer Felder
+von dem Tag an, da sie das Land verlassen hat, bis heute.\\
+\\
+
+<<v7>>
+* Elischa in Damaskus: 8,7-15
+
+7 Elischa kam nach Damaskus, wo Ben-Hadad, der König von Damaskus, krank
+daniederlag. Man meldete ihm, dass der Gottesmann gekommen sei. [fn:2]
+
+<<v8>>
+8 Darauf befahl der König dem Hasaël: Nimm ein Geschenk, geh dem
+Gottesmann entgegen und befrag durch ihn Jahwe, ob ich von dieser
+Krankheit wieder genesen werde.
+
+<<v9>>
+9 Hasaël ging Elischa entgegen; als Geschenk nahm er allerlei
+Kostbarkeiten von Damaskus mit, so viel, wie vierzig Kamele tragen
+konnten. Er kam zu Elischa, trat vor ihn hin und sagte: Dein Sohn
+Ben-Hadad, der König von Aram, hat mich zu dir gesandt und lässt fragen:
+Werde ich von dieser Krankheit wieder genesen?
+
+<<v10>>
+10 Elischa antwortete ihm: Geh und sag ihm: Du wirst genesen. - Doch der
+Herr hat mir gezeigt, dass er sterben muss. [fn:3]
+
+<<v11>>
+11 Hasaël verzog keine Miene und blickte ihn scharf an. Der Gottesmann
+aber weinte.
+
+<<v12>>
+12 Als Hasaël dann fragte: Warum weint mein Herr?, gab er zur Antwort:
+Weil ich weiß, wie viel Leid du den Israeliten bringen wirst. Du wirst
+ihre Festungen in Brand stecken, ihre jungen Männer mit dem Schwert
+töten, ihre Kinder zerschmettern, ihren schwangeren Frauen den Leib
+aufschlitzen. [fn:4]
+
+<<v13>>
+13 Hasaël entgegnete: Was ist denn dein Knecht, dieser Hund, dass er so
+gewaltige Dinge tun könnte? Elischa antwortete: Der Herr hat dich mir
+als König von Aram gezeigt.
+
+<<v14>>
+14 Hasaël verließ Elischa und kehrte zu seinem Herrn zurück. Dieser
+fragte ihn: Was hat Elischa zu dir gesagt? Und er gab zur Antwort: Er
+hat zu mir gesagt, dass du genesen wirst.
+
+<<v15>>
+15 Am folgenden Tag aber nahm er eine Decke, tauchte sie ins Wasser und
+legte sie ihm über das Gesicht, sodass er starb. Hasaël wurde König an
+seiner Stelle. [fn:5]\\
+\\
+
+<<v16>>
+* Joram von Juda: 8,16-24
+
+16 Im fünften Jahr Jorams, des Sohnes Ahabs, des Königs von Israel,
+während Joschafat noch König von Juda war, wurde Joram, der Sohn
+Joschafats, König von Juda. [fn:6] [fn:7]
+
+<<v17>>
+17 Er war zweiunddreißig Jahre alt, als er König wurde, und regierte
+acht Jahre in Jerusalem.
+
+<<v18>>
+18 Er folgte den Wegen der Könige von Israel, wie es das Haus Ahab getan
+hatte; denn er hatte eine Tochter Ahabs zur Frau und er tat, was dem
+Herrn missfiel.
+
+<<v19>>
+19 Doch der Herr wollte Juda nicht verderben wegen seines Knechtes
+David, dem er versprochen hatte, er werde ihm für immer eine Leuchte vor
+seinen Augen geben. [fn:8]
+
+<<v20>>
+20 In den Tagen Jorams fiel Edom von Juda ab und setzte einen eigenen
+König ein.
+
+<<v21>>
+21 Joram zog daher mit all seinen Kriegswagen nach Zaïr. Während der
+Nacht griff er an und schlug die Edomiter, die ihn und die Obersten der
+Kriegswagen umzingelt hatten; seine Leute aber waren in die Zelte
+geflohen. [fn:9]
+
+<<v22>>
+22 Doch Edom fiel von Juda ab und ist abtrünnig bis zum heutigen Tag.
+Damals, zur gleichen Zeit, fiel auch Libna ab.
+
+<<v23>>
+23 Die übrige Geschichte Jorams und alle seine Taten sind aufgezeichnet
+in der Chronik der Könige von Juda.
+
+<<v24>>
+24 Joram entschlief zu seinen Vätern und wurde bei seinen Vätern in der
+Davidstadt begraben. Sein Sohn Ahasja wurde König an seiner Stelle.\\
+\\
+
+<<v25>>
+* Ahasja von Juda: 8,25-29
+
+25 Im zwölften Jahr Jorams, des Sohnes Ahabs, des Königs von Israel,
+wurde Ahasja, der Sohn Jorams, König von Juda. [fn:10]
+
+<<v26>>
+26 Er war zweiundzwanzig Jahre alt, als er König wurde, und regierte ein
+Jahr in Jerusalem. Seine Mutter hieß Atalja; sie war eine Enkelin Omris,
+des Königs von Israel.
+
+<<v27>>
+27 Er folgte den Wegen des Hauses Ahab und tat, was dem Herrn missfiel,
+wie das Haus Ahab; denn er war mit dem Haus Ahab verschwägert.
+
+<<v28>>
+28 Er zog auch mit Joram, dem Sohn Ahabs, gegen Hasaël, den König von
+Aram, nach Ramot-Gilead in den Krieg. Dabei verwundeten die Aramäer
+Joram. [fn:11]
+
+<<v29>>
+29 König Joram musste heimkehren, um in Jesreel von den Wunden Heilung
+zu suchen, die ihm die Aramäer geschlagen hatten, als er in Ramot gegen
+ihren König Hasaël kämpfte. Ahasja, der Sohn Jorams, der König von Juda,
+kam hinab, um Joram, den Sohn Ahabs, in Jesreel zu besuchen, als er
+krank daniederlag.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:2.Kön_4.org::v32][4,32-37]]
+
+[fn:2] Ben-Hadad II., der Vorgänger Hasaëls.
+
+[fn:3] Der Bescheid des Propheten besteht aus zwei scheinbar
+sich widersprechenden Sätzen. Der erste wird von manchen so verstanden:
+Du könntest genesen, aber der Tod wird durch andere Ursachen
+herbeigeführt werden. Hasaël täuscht den kranken König, indem er ihm den
+zweiten Teil des Bescheids vorenthält und dadurch auch den Sinn des
+ersten Teils verfälscht.
+
+[fn:4] [[file:2.Kön_10.org::v32][10,32f]]; [[file:Am_1.org::v3][Am 1,3]]
+
+[fn:5] Das Subjekt des Satzes wird nicht ausdrücklich genannt.
+Wahrscheinlich wurde der König von Hasaël ermordet.
+
+[fn:6] (16-24) [[file:2.Chr_21.org::v5][2 Chr 21,5-10]]
+
+[fn:7] Das fünfte Jahr Jorams von Israel war erst das 22./23.
+Jahr Joschafats. Sein Sohn übernahm also die Regierung zu Lebzeiten
+seines Vaters vgl. [[file:2.Chr_21.org::v4][2 Chr 21,4]].
+
+[fn:8] [[file:1.Kön_11.org::v36][1 Kön 11,36]]
+
+[fn:9] Joram und die Hauptleute seiner Wagentruppe waren von
+den Edomitern eingeschlossen, nachdem die Mannschaften geflohen waren.
+Doch gelang ihnen der Durchbruch und die Flucht.
+
+[fn:10] (25-29) [[file:2.Chr_22.org::v2][2 Chr 22,2-6]]
+
+[fn:11] Joram nahm den Versuch, Ramot-Gilead zu erobern,
+wieder auf (vgl. [[file:1.Kön_22.org::v1][1 Kön 22]]).

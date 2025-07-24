@@ -1,0 +1,73 @@
+#+TITLE: Ps 82 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-03 Sa 23:21]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 82.html
+
+* Ps 82
+
+<<verses>>
+
+<<v1>>
+* Bitte um Gottes Eingreifen als Richter
+
+1 [Ein Psalm Asafs.] Gott steht auf in der Versammlung der Götter, /\\
+ im Kreis der Götter hält er Gericht. [fn:1]\\
+\\
+
+<<v2>>
+2 «Wie lange noch wollt ihr ungerecht richten /\\
+ und die Frevler begünstigen? [Sela] [fn:2]\\
+\\
+
+<<v3>>
+3 Verschafft Recht den Unterdrückten und Waisen, /\\
+ verhelft den Gebeugten und Bedürftigen zum Recht! [fn:3]\\
+\\
+
+<<v4>>
+4 Befreit die Geringen und Armen, /\\
+ entreißt sie der Hand der Frevler!»\\
+\\
+
+<<v5>>
+5 Sie aber haben weder Einsicht noch Verstand, /\\
+ sie tappen dahin im Finstern. /\\
+ Alle Grundfesten der Erde wanken.\\
+\\
+
+<<v6>>
+6 «Wohl habe ich gesagt: Ihr seid Götter, /\\
+ ihr alle seid Söhne des Höchsten. [fn:4]\\
+\\
+
+<<v7>>
+7 Doch nun sollt ihr sterben wie Menschen, /\\
+ sollt stürzen wie jeder der Fürsten.»\\
+\\
+
+<<v8>>
+8 Erheb dich, Gott, und richte die Erde! /\\
+ Denn alle Völker werden dein Erbteil sein. [fn:5] [fn:6]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_136.org::v2][136,2f]]; [[file:1.Kön_22.org::v19][1 Kön 22,19]]
+
+[fn:2] [[file:Ps_58.org::v3][58,3]]
+
+[fn:3] [[file:Ex_23.org::v6][Ex 23,6]]; [[file:Dtn_1.org::v17][Dtn 1,17]]; [[file:Jes_1.org::v17][Jes 1,17]]
+
+[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/Joh_10.org::v34][Joh 10,34]]
+
+[fn:5] [[file:Ps_67.org::v5][67,5]]
+
+[fn:6] Wörtlich: Denn du besitzt Erbteil an den Völkern.

@@ -1,0 +1,106 @@
+#+TITLE: Ijob 26 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 18:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 26.html
+
+<<verses>>
+
+<<v1>>
+* Ijobs Gegenrede: 26,1 - 27,23
+
+* Leere Worte ohne Wahrheit: 26,1-4
+
+1 Da antwortete Ijob und sprach:\\
+\\
+
+<<v2>>
+2 Wie hilfst du doch dem Schwachen auf, /\\
+ stehst du bei dem kraftlosen Arm!\\
+\\
+
+<<v3>>
+3 Wie gut rätst du dem, der nicht weise ist, /\\
+ tust ihm Wissen in Fülle kund!\\
+\\
+
+<<v4>>
+4 Wem trägst du die Reden vor /\\
+ und wessen Atem geht von dir aus?\\
+\\
+
+<<v5>>
+* Die Größe der Allmacht Gottes: 26,5-14
+
+5 Die Totengeister zittern drunten, /\\
+ die Wasser mit ihren Bewohnern. [fn:1]\\
+\\
+
+<<v6>>
+6 Nackt liegt die Unterwelt vor ihm, /\\
+ keine Hülle deckt den Abgrund. [fn:2]\\
+\\
+
+<<v7>>
+7 Er spannt über dem Leeren den Norden, /\\
+ hängt die Erde auf am Nichts.\\
+\\
+
+<<v8>>
+8 Er bindet das Wasser in sein Gewölk; /\\
+ doch birst darunter die Wolke nicht.\\
+\\
+
+<<v9>>
+9 Er verschließt den Anblick seines Throns /\\
+ und breitet darüber sein Gewölk.\\
+\\
+
+<<v10>>
+10 Eine Grenze zieht er rund um die Wasser /\\
+ bis an den Rand von Licht und Finsternis. [fn:3]\\
+\\
+
+<<v11>>
+11 Die Säulen des Himmels erzittern, /\\
+ sie erschrecken vor seinem Drohen.\\
+\\
+
+<<v12>>
+12 Durch seine Kraft stellt still er das Meer, /\\
+ durch seine Klugheit zerschmettert er Rahab. [fn:4]\\
+\\
+
+<<v13>>
+13 Durch seinen Hauch wird heiter der Himmel, /\\
+ seine Hand durchbohrt die flüchtige Schlange. [fn:5]\\
+\\
+
+<<v14>>
+14 Siehe, das sind nur die Säume seines Waltens; /\\
+ wie ein Flüstern ist das Wort, /\\
+ das wir von ihm vernehmen. Doch das Donnern seiner Macht, /\\
+ wer kann es begreifen? [fn:6]\\
+\\
+
+* Footnotes
+
+[fn:1] 5-14: Dritte Rede Zofars: [[file:Ijob_27.org::v7][27,7]]-[[file:Ijob_27.org::v23][23]] / [[file:Ijob_24.org::v18][24,18]]-[[file:Ijob_24.org::v25][25]]. Die
+Abschnitte [[v1][26,1]]-[[v4][4]] / [[file:Ijob_27.org::v1][27,1]]-[[file:Ijob_27.org::v6][6]] gehören wohl zu Ijobs Schlussrede und sind
+also vor 29,1 einzuordnen.
+
+[fn:2] [[file:Ps_139.org::v8][Ps 139,8]].[[file:Ps_139.org::v11][11f]]; [[file:Spr_15.org::v11][Spr 15,11]]
+
+[fn:3] [[file:Gen_1.org::v7][Gen 1,7]].[[file:Gen_1.org::v14][14]]
+
+[fn:4] [[file:Ijob_7.org::v12][7,12]]; [[file:Ijob_9.org::v13][9,13]]; [[file:Jes_51.org::v9][Jes 51,9f]]
+
+[fn:5] [[file:Jes_27.org::v1][Jes 27,1]]
+
+[fn:6] [[file:Sir_43.org::v32][Sir 43,32]]

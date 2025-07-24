@@ -1,0 +1,94 @@
+#+TITLE: Tob 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 10:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 2.html
+
+<<verses>>
+
+<<v1>>
+* Tobits Erblindung: 2,1-10
+
+1 Als ich heimkehrte und meine Frau Hanna und mein Sohn Tobias mir
+wiedergeschenkt waren, veranstaltete man mir zu Ehren am Pfingsttag dem
+Fest der Sieben Wochen - ein Festmahl.
+
+<<v2>>
+2 Ich setzte mich zu Tisch; als ich aber die vielen Speisen sah, sagte
+ich zu meinem Sohn: Geh zu unseren Brüdern, und wenn du einen Armen
+findest, der dem Herrn treu geblieben ist, bring ihn her; ich warte auf
+dich.
+
+<<v3>>
+3 Er kam zurück und sagte: Auf dem Marktplatz liegt einer von unserem
+Volk, den man erdrosselt hat.
+
+<<v4>>
+4 Ich sprang auf, noch ehe ich etwas gegessen hatte, und verbarg den
+Toten bis zum Sonnenuntergang in einer Hütte.
+
+<<v5>>
+5 Nach meiner Rückkehr wusch ich mich und aß voll Trauer mein Mahl.
+
+<<v6>>
+6 Ich erinnerte mich an das Wort des Propheten Amos: Eure Feste sollen
+sich in Trauer verwandeln und alle eure Freudenlieder in Totenklage. Und
+ich begann zu weinen. [fn:1]
+
+<<v7>>
+7 Nach Sonnenuntergang ging ich hinaus, um ein Grab zu schaufeln, und
+begrub den Toten.
+
+<<v8>>
+8 Meine Nachbarn aber sagten hämisch: Er hat schon gar keine Angst mehr,
+wegen dieser Tat hingerichtet zu werden. Eben erst hat er fliehen müssen
+und schon begräbt er wieder die Toten.
+
+<<v9>>
+9 Als ich ihn begraben hatte und in der Nacht nach Hause kam, legte ich
+mich an der Hofmauer zum Schlafen nieder, weil ich unrein geworden war.
+Mein Gesicht ließ ich unbedeckt,
+
+<<v10>>
+10 ohne auf die Sperlinge zu achten, die in der Mauer nisteten. Da
+ließen die Sperlinge ihren warmen Kot in meine offenen Augen fallen, und
+es bildeten sich weiße Flecke in meinen Augen. Ich ging zu den Ärzten,
+doch sie konnten mir nicht helfen. Achikar sorgte für meinen Unterhalt,
+bis er in die Provinz Elymaïs zog.\\
+\\
+
+<<v11>>
+* Tobits Verhöhnung durch seine Frau: 2,11-14
+
+11 Meine Frau Hanna fertigte zu Hause Webarbeiten an, wie sie Frauen zu
+machen pflegen,
+
+<<v12>>
+12 und lieferte sie dann bei den Bestellern ab. Einmal geschah es, dass
+sie ihr nicht nur den Lohn zahlten, sondern auch noch ein Ziegenböckchen
+dazuschenkten.
+
+<<v13>>
+13 Als sie heimkam, fing das Tier an zu meckern. Ich fragte sie: Wo hast
+du das Böckchen her? Es ist doch nicht etwa gestohlen? Dann gib es
+seinen Eigentümern zurück! Denn was gestohlen ist, darf man nicht essen.
+
+<<v14>>
+14 Sie erwiderte: Es wurde mir zusätzlich zu meinem Lohn geschenkt. Aber
+ich glaubte ihr nicht und verlangte, dass sie es seinen Eigentümern
+zurückbrachte, und ich schämte mich ihretwegen. Doch sie antwortete: Wo
+ist denn der Lohn für deine Barmherzigkeit und Gerechtigkeit? Jeder
+weiß, was sie dir eingebracht haben. [fn:2]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Am_8.org::v10][Am 8,10]]
+
+[fn:2] [[file:Ijob_2.org::v9][Ijob 2,9]]

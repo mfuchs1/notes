@@ -1,0 +1,160 @@
+#+TITLE: Ps 25 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-11 Mo 10:11]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 25.html
+
+* Ps 25
+
+<<verses>>
+
+<<v1>>
+* Die Bitte um Vergebung und Leitung
+
+1 [Von David.] Zu dir, Herr, erhebe ich meine Seele. / [fn:1]\\
+\\
+
+<<v2>>
+2 Mein Gott, auf dich vertraue ich. Lass mich nicht scheitern, /\\
+ lass meine Feinde nicht triumphieren!\\
+\\
+
+<<v3>>
+3 Denn niemand, der auf dich hofft, wird zuschanden; /\\
+ zuschanden wird, wer dir schnöde die Treue bricht. [fn:2]\\
+\\
+
+<<v4>>
+4 Zeige mir, Herr, deine Wege, /\\
+ lehre mich deine Pfade! [fn:3]\\
+\\
+
+<<v5>>
+5 Führe mich in deiner Treue und lehre mich; /\\
+ denn du bist der Gott meines Heiles. /\\
+ Auf dich hoffe ich allezeit.\\
+\\
+
+<<v6>>
+6 Denk an dein Erbarmen, Herr, /\\
+ und an die Taten deiner Huld; /\\
+ denn sie bestehen seit Ewigkeit.\\
+\\
+
+<<v7>>
+7 Denk nicht an meine Jugendsünden und meine Frevel! /\\
+ In deiner Huld denk an mich, Herr, denn du bist gütig. [fn:4]\\
+\\
+
+<<v8>>
+8 Gut und gerecht ist der Herr, /\\
+ darum weist er die Irrenden auf den rechten Weg.\\
+\\
+
+<<v9>>
+9 Die Demütigen leitet er nach seinem Recht, /\\
+ die Gebeugten lehrt er seinen Weg.\\
+\\
+
+<<v10>>
+10 Alle Pfade des Herrn sind Huld und Treue /\\
+ denen, die seinen Bund und seine Gebote bewahren. [fn:5]\\
+\\
+
+<<v11>>
+11 Um deines Namens willen, Herr, verzeih mir; /\\
+ denn meine Schuld ist groß.\\
+\\
+
+<<v12>>
+12 Wer ist der Mann, der Gott fürchtet? /\\
+ Ihm zeigt er den Weg, den er wählen soll. [fn:6]\\
+\\
+
+<<v13>>
+13 Dann wird er wohnen im Glück, /\\
+ seine Kinder werden das Land besitzen. [fn:7]\\
+\\
+
+<<v14>>
+14 Die sind Vertraute des Herrn, die ihn fürchten; /\\
+ er weiht sie ein in seinen Bund.\\
+\\
+
+<<v15>>
+15 Meine Augen schauen stets auf den Herrn; /\\
+ denn er befreit meine Füße aus dem Netz. [fn:8]\\
+\\
+
+<<v16>>
+16 Wende dich mir zu und sei mir gnädig; /\\
+ denn ich bin einsam und gebeugt. [fn:9]\\
+\\
+
+<<v17>>
+17 Befrei mein Herz von der Angst, /\\
+ führe mich heraus aus der Bedrängnis! [fn:10]\\
+\\
+
+<<v18>>
+18 Sieh meine Not und Plage an /\\
+ und vergib mir all meine Sünden!\\
+\\
+
+<<v19>>
+19 Sieh doch, wie zahlreich meine Feinde sind, /\\
+ mit welch tödlichem Hass sie mich hassen! [fn:11]\\
+\\
+
+<<v20>>
+20 Erhalte mein Leben und rette mich, /\\
+ lass mich nicht scheitern! /\\
+ Denn ich nehme zu dir meine Zuflucht. [fn:12]\\
+\\
+
+<<v21>>
+21 Unschuld und Redlichkeit mögen mich schützen, /\\
+ denn ich hoffe auf dich, o Herr. [fn:13]\\
+\\
+
+<<v22>>
+22 O Gott, erlöse Israel /\\
+ aus all seinen Nöten! [fn:14]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_86.org::v4][86,4]]; [[file:Ps_143.org::v8][143,8]]
+
+[fn:2] [[file:Jes_49.org::v23][Jes 49,23]]
+
+[fn:3] [[file:Ps_5.org::v9][5,9]]; [[file:Ps_16.org::v11][16,11]]; [[file:Ps_27.org::v11][27,11]]; [[file:Ps_86.org::v11][86,11]]; [[file:Ps_119.org::v30][119,30]].[[file:Ps_119.org::v35][35]]; [[file:Ps_128.org::v1][128,1]]; [[file:Ps_139.org::v24][139,24]];
+[[file:Ps_143.org::v8][143,8]]; [[file:Ijob_21.org::v14][Ijob 21,14]]
+
+[fn:4] [[file:Ijob_13.org::v26][Ijob 13,26]]
+
+[fn:5] [[file:Tob_3.org::v2][Tob 3,2]]
+
+[fn:6] [[file:Ps_32.org::v8][32,8]]
+
+[fn:7] [[file:Ps_37.org::v9][37,9]].[[file:Ps_37.org::v29][29]]
+
+[fn:8] [[file:Ps_123.org::v1][123,1f]]; [[file:Ps_141.org::v8][141,8f]]
+
+[fn:9] [[file:Ps_86.org::v16][86,16]]; [[file:Ps_119.org::v132][119,132]]
+
+[fn:10] Text korr.; H: Nöte haben mein Herz weit (einsichtig?) gemacht.
+
+[fn:11] [[file:Ps_3.org::v2][3,2]]
+
+[fn:12] [[file:Ps_86.org::v2][86,2]]
+
+[fn:13] Herr: ergänzt nach G.
+
+[fn:14] [[file:Ps_130.org::v8][130,8]]

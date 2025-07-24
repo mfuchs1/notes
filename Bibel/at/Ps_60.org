@@ -1,0 +1,112 @@
+#+TITLE: Ps 60 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-06-03 Mo 09:26]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 60.html
+
+* Ps 60
+
+<<verses>>
+
+<<v1>>
+* Bitte um Hilfe nach einer Niederlage
+
+1 [Für den Chormeister. Nach der Weise «Lilie des Zeugnisses». Ein Lied
+Davids zum Lehren,
+
+<<v2>>
+2 als er mit den Aramäern Mesopotamiens und den Aramäern von Zoba
+kämpfte und als Joab umkehrte und die Edomiter im Salztal schlug,
+zwölftausend Mann.] [fn:1]\\
+\\
+
+<<v3>>
+3 Du hast uns verworfen, o Gott, und zerschlagen. /\\
+ Du hast uns gezürnt. Richte uns wieder auf!\\
+\\
+
+<<v4>>
+4 Erschüttert hast du das Land und gespalten. /\\
+ Heile seine Risse! Denn es kam ins Wanken.\\
+\\
+
+<<v5>>
+5 Du hast dein Volk hart geprüft, /\\
+ du gabst uns betäubenden Wein zu trinken. [fn:2]\\
+\\
+
+<<v6>>
+6 Für alle, die dich fürchten, hast du ein Zeichen aufgestellt, /\\
+ zu dem sie fliehen können vor dem Bogen. [Sela] [fn:3]\\
+\\
+
+<<v7>>
+7 Hilf mit deiner Rechten, erhöre uns, /\\
+ damit die gerettet werden, die du so sehr liebst. [fn:4]\\
+\\
+
+<<v8>>
+8 Gott hat in seinem Heiligtum gesprochen: /\\
+ «Ich will triumphieren, will Sichem verteilen /\\
+ und das Tal von Sukkot vermessen.\\
+\\
+
+<<v9>>
+9 Mein ist Gilead, mein auch Manasse, /\\
+ Efraim ist der Helm auf meinem Haupt, /\\
+ Juda mein Herrscherstab. [fn:5]\\
+\\
+
+<<v10>>
+10 Doch Moab ist mein Waschbecken, /\\
+ auf Edom werfe ich meinen Schuh, /\\
+ ich triumphiere über das Land der Philister.» [fn:6] [fn:7]\\
+\\
+
+<<v11>>
+11 Wer führt mich hin zu der befestigten Stadt, /\\
+ wer wird mich nach Edom geleiten?\\
+\\
+
+<<v12>>
+12 Gott, hast denn du uns verworfen? /\\
+ Du ziehst ja nicht aus, o Gott, mit unseren Heeren. [fn:8]\\
+\\
+
+<<v13>>
+13 Bring uns doch Hilfe im Kampf mit dem Feind! /\\
+ Denn die Hilfe von Menschen ist nutzlos.\\
+\\
+
+<<v14>>
+14 Mit Gott werden wir Großes vollbringen; /\\
+ er selbst wird unsere Feinde zertreten. [fn:9]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:2.Sam_8.org::v3][2 Sam 8,3]].[[file:2.Sam_8.org::v13][13]]
+
+[fn:2] [[file:Ps_75.org::v9][75,9]]; [[file:Jes_51.org::v17][Jes 51,17]]
+
+[fn:3] dem Bogen: Text durch Änderung der Vokale korr. nach G
+und S; H: der Wahrheit.
+
+[fn:4] (7-14) [[file:Ps_108.org::v7][108,7-14]]
+
+[fn:5] [[file:Gen_49.org::v10][Gen 49,10]]
+
+[fn:6] [[file:Jes_11.org::v14][Jes 11,14]]
+
+[fn:7] Text korr.; H: über mich jauchze (vgl. 108,10).
+
+[fn:8] [[file:Ps_44.org::v10][44,10]]
+
+[fn:9] [[file:Ps_44.org::v6][44,6]]

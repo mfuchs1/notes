@@ -1,0 +1,95 @@
+#+TITLE: Ijob 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 21:59]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 2.html
+
+<<verses>>
+
+<<v1>>
+* Der Verlust der Gesundheit: 2,1-10
+
+1 Nun geschah es eines Tages, da kamen die Gottessöhne, um vor den Herrn
+hinzutreten; unter ihnen kam auch der Satan, um vor den Herrn
+hinzutreten.
+
+<<v2>>
+2 Da sprach der Herr zum Satan: Woher kommst du? Der Satan antwortete
+dem Herrn: Die Erde habe ich durchstreift, hin und her.
+
+<<v3>>
+3 Der Herr sprach zum Satan: Hast du auf meinen Knecht Ijob geachtet?
+Seinesgleichen gibt es nicht auf der Erde, so untadelig und
+rechtschaffen; er fürchtet Gott und meidet das Böse. Noch immer hält er
+fest an seiner Frömmigkeit, obwohl du mich gegen ihn aufgereizt hast,
+ihn ohne Grund zu verderben.
+
+<<v4>>
+4 Der Satan antwortete dem Herrn und sagte: Haut um Haut! Alles, was der
+Mensch besitzt, gibt er hin für sein Leben. [fn:1]
+
+<<v5>>
+5 Doch streck deine Hand aus und rühr an sein Gebein und Fleisch;
+wahrhaftig, er wird dir ins Angesicht fluchen. [fn:2]
+
+<<v6>>
+6 Da sprach der Herr zum Satan: Gut, er ist in deiner Hand. Nur schone
+sein Leben!
+
+<<v7>>
+7 Der Satan ging weg vom Angesicht Gottes und schlug Ijob mit bösartigem
+Geschwür von der Fußsohle bis zum Scheitel.
+
+<<v8>>
+8 Ijob setzte sich mitten in die Asche und nahm eine Scherbe, um sich
+damit zu schaben.
+
+<<v9>>
+9 Da sagte seine Frau zu ihm: Hältst du immer noch fest an deiner
+Frömmigkeit? Lästere Gott und stirb! [fn:3]
+
+<<v10>>
+10 Er aber sprach zu ihr: Wie eine Törin redet, so redest du. Nehmen wir
+das Gute an von Gott, sollen wir dann nicht auch das Böse annehmen? Bei
+all dem sündigte Ijob nicht mit seinen Lippen.\\
+\\
+
+<<v11>>
+* Die Streitreden: 2,11 - 31,40
+
+* Der Besuch der Freunde: 2,11-13
+
+11 Die drei Freunde Ijobs hörten von all dem Bösen, das über ihn
+gekommen war. Und sie kamen, jeder aus seiner Heimat: Elifas aus Teman,
+Bildad aus Schuach und Zofar aus Naama. Sie vereinbarten hinzugehen, um
+ihm ihre Teilnahme zu bezeigen und um ihn zu trösten. [fn:4] [fn:5]
+
+<<v12>>
+12 Als sie von fern aufblickten, erkannten sie ihn nicht; sie schrien
+auf und weinten. Jeder zerriss sein Gewand; sie streuten Asche über ihr
+Haupt gegen den Himmel.
+
+<<v13>>
+13 Sie saßen bei ihm auf der Erde sieben Tage und sieben Nächte; keiner
+sprach ein Wort zu ihm. Denn sie sahen, dass sein Schmerz sehr groß
+war.\\
+\\
+
+* Footnotes
+
+[fn:1] «Haut für Haut» ist vielleicht eine sprichwörtliche
+Redewendung aus dem Tauschhandel.
+
+[fn:2] Vgl. die Anmerkung zu [[file:Ijob_1.org::v11][1,11]].
+
+[fn:3] Vgl. die Anmerkung zu [[file:Ijob_1.org::v5][1,5]].
+
+[fn:4] [[file:Bar_3.org::v23][Bar 3,23]]
+
+[fn:5] Die drei Städte liegen in Arabien.

@@ -1,0 +1,191 @@
+#+TITLE: Ex 34 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 00:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 34.html
+
+* Ex 34
+<<verses>>
+
+<<v1>>
+1 Weiter sprach der Herr zu Mose: Hau dir zwei steinerne Tafeln zurecht
+wie die ersten! Ich werde darauf die Worte schreiben, die auf den ersten
+Tafeln standen, die du zerschmettert hast.
+
+<<v2>>
+2 Halte dich für morgen früh bereit! Steig am Morgen auf den Sinai und
+dort auf dem Gipfel des Berges stell dich vor mich hin!
+
+<<v3>>
+3 Niemand soll mit dir hinaufsteigen; auch soll sich kein Mensch auf dem
+ganzen Berg sehen lassen und kein Schaf oder Rind soll am Abhang des
+Berges weiden.
+
+<<v4>>
+4 Da hieb Mose zwei Tafeln aus Stein zurecht wie die ersten. Am Morgen
+stand Mose zeitig auf und ging auf den Sinai hinauf, wie es ihm der Herr
+aufgetragen hatte. Die beiden steinernen Tafeln nahm er mit.
+
+<<v5>>
+5 Der Herr aber stieg in der Wolke herab und stellte sich dort neben ihn
+hin. Er rief den Namen Jahwe aus.
+
+<<v6>>
+6 Der Herr ging an ihm vorüber und rief: Jahwe ist ein barmherziger und
+gnädiger Gott, langmütig, reich an Huld und Treue: [fn:1]
+
+<<v7>>
+7 Er bewahrt Tausenden Huld, nimmt Schuld, Frevel und Sünde weg, lässt
+aber (den Sünder) nicht ungestraft; er verfolgt die Schuld der Väter an
+den Söhnen und Enkeln, an der dritten und vierten Generation.
+
+<<v8>>
+8 Sofort verneigte sich Mose bis zur Erde und warf sich zu Boden.
+
+<<v9>>
+9 Er sagte: Wenn ich deine Gnade gefunden habe, mein Herr, dann ziehe
+doch mein Herr mit uns. Es ist zwar ein störrisches Volk, doch vergib
+uns unsere Schuld und Sünde und lass uns dein Eigentum sein!
+
+<<v10>>
+10 Da sprach der Herr: Hiermit schließe ich einen Bund: Vor deinem
+ganzen Volk werde ich Wunder wirken, wie sie auf der ganzen Erde und
+unter allen Völkern nie geschehen sind. Das ganze Volk, in dessen Mitte
+du bist, wird die Taten des Herrn sehen; denn was ich mit dir vorhabe,
+wird Furcht erregen.
+
+<<v11>>
+11 Halte dich an das, was ich dir heute auftrage. Ich werde die
+Amoriter, Kanaaniter, Hetiter, Perisiter, Hiwiter und Jebusiter vor dir
+vertreiben.
+
+<<v12>>
+12 Du hüte dich aber, mit den Bewohnern des Landes, in das du kommst,
+einen Bund zu schließen; sie könnten dir sonst, wenn sie in deiner Mitte
+leben, zu einer Falle werden.
+
+<<v13>>
+13 Ihre Altäre sollt ihr vielmehr niederreißen, ihre Steinmale
+zerschlagen, ihre Kultpfähle umhauen.
+
+<<v14>>
+14 Du darfst dich nicht vor einem andern Gott niederwerfen. Denn Jahwe
+trägt den Namen «der Eifersüchtige»; ein eifersüchtiger Gott ist er.
+
+<<v15>>
+15 Hüte dich, einen Bund mit den Bewohnern des Landes zu schließen.
+Sonst werden sie dich einladen, wenn sie mit ihren Göttern Unzucht
+treiben und ihren Göttern Schlachtopfer darbringen, und du wirst von
+ihren Schlachtopfern essen.
+
+<<v16>>
+16 Du wirst von ihren Töchtern für deine Söhne Frauen nehmen; sie werden
+mit ihren Göttern Unzucht treiben und auch deine Söhne zur Unzucht mit
+ihren Göttern verführen.
+
+<<v17>>
+17 Du sollst dir keine Götter aus Metall gießen.
+
+<<v18>>
+18 Du sollst das Fest der ungesäuerten Brote halten. Im Monat Abib
+sollst du zur festgesetzten Zeit sieben Tage lang ungesäuertes Brot
+essen, wie ich es dir geboten habe. Denn im Monat Abib bist du aus
+Ägypten ausgezogen. [fn:2]
+
+<<v19>>
+19 Das Erste, was den Mutterschoß durchbricht, jeder männliche Erstling
+beim Vieh, bei deinen Rindern und Schafen, gehört mir. [fn:3]
+
+<<v20>>
+20 Den Erstling vom Esel aber sollst du durch ein Schaf auslösen. Willst
+du ihn nicht auslösen, dann brich ihm das Genick! Jeden Erstgeborenen
+deiner Söhne musst du auslösen. Man soll vor mir nicht mit leeren Händen
+erscheinen.
+
+<<v21>>
+21 Sechs Tage sollst du arbeiten, am siebten Tag sollst du ruhen; selbst
+zur Zeit des Pflügens und des Erntens sollst du ruhen. [fn:4]
+
+<<v22>>
+22 Du sollst das Wochenfest feiern, das Fest der Erstlingsfrüchte von
+der Weizenernte und das Fest der Lese an der Jahreswende.
+
+<<v23>>
+23 Dreimal im Jahr sollen alle deine Männer vor dem Herrn, dem Gott
+Israels, erscheinen.
+
+<<v24>>
+24 Wenn ich die Völker vor dir vertrieben und deine Grenzen weiter
+vorgeschoben habe, wird niemand in dein Land einfallen, während du
+dreimal im Jahr hinaufziehst, um vor dem Herrn, deinem Gott, zu
+erscheinen.
+
+<<v25>>
+25 Beim Schlachten sollst du das Blut meines Opfers nicht über
+gesäuertes Brot fließen lassen und vom Schlachttier des Paschafestes
+darf nichts bis zum Morgen liegen bleiben. [fn:5]
+
+<<v26>>
+26 Von den Erstlingsfrüchten deines Ackers sollst du die besten in das
+Haus des Herrn, deines Gottes, bringen. Das Junge einer Ziege sollst du
+nicht in der Milch seiner Mutter kochen.
+
+<<v27>>
+27 Dann sprach der Herr zu Mose: Schreib diese Worte auf! Denn aufgrund
+dieser Worte schließe ich mit dir und mit Israel einen Bund.
+
+<<v28>>
+28 Mose blieb dort beim Herrn vierzig Tage und vierzig Nächte. Er aß
+kein Brot und trank kein Wasser. Er schrieb die Worte des Bundes, die
+zehn Worte, auf Tafeln.
+
+<<v29>>
+29 Als Mose vom Sinai herunterstieg, hatte er die beiden Tafeln der
+Bundesurkunde in der Hand. Während Mose vom Berg herunterstieg, wusste
+er nicht, dass die Haut seines Gesichtes Licht ausstrahlte, weil er mit
+dem Herrn geredet hatte.
+
+<<v30>>
+30 Als Aaron und alle Israeliten Mose sahen, strahlte die Haut seines
+Gesichtes Licht aus und sie fürchteten sich, in seine Nähe zu kommen.
+
+<<v31>>
+31 Erst als Mose sie rief, kamen Aaron und alle Sippenhäupter der
+Gemeinde zu ihm zurück und Mose redete mit ihnen.
+
+<<v32>>
+32 Dann kamen alle Israeliten herbei und er übergab ihnen alle Gebote,
+die der Herr ihm auf dem Sinai mitgeteilt hatte.
+
+<<v33>>
+33 Als Mose aufhörte, mit ihnen zu reden, legte er über sein Gesicht
+einen Schleier.
+
+<<v34>>
+34 Wenn Mose zum Herrn hineinging, um mit ihm zu reden, nahm er den
+Schleier ab, bis er wieder herauskam. Wenn er herauskam, trug er den
+Israeliten alles vor, was ihm aufgetragen worden war.
+
+<<v35>>
+35 Wenn die Israeliten das Gesicht des Mose sahen und merkten, dass die
+Haut seines Gesichtes Licht ausstrahlte, legte er den Schleier über sein
+Gesicht, bis er wieder hineinging, um mit dem Herrn zu reden.\\
+
+
+* Footnotes
+
+[fn:1] (6f) 20,5f; Num 14,18; Dtn 5,9f
+
+[fn:2] 23,15
+
+[fn:3] 13,12f; 22,28f
+
+[fn:4] 20,9f; 23,12
+
+[fn:5] 23,18f

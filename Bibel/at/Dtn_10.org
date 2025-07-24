@@ -1,0 +1,176 @@
+#+TITLE: Dtn 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-29 So 13:41]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 10.html
+
+
+* Dtn 10
+
+<<verses>>
+
+<<v1>>
+1 Damals sagte der Herr zu mir: Hau zwei Steintafeln zurecht, so wie die
+ersten, und steig zu mir auf den Berg! Fertige auch eine hölzerne Lade
+an! [fn:1]
+
+<<v2>>
+2 Ich will auf die Tafeln die gleichen Worte schreiben wie auf die
+ersten, die du zerschmettert hast; diese Tafeln sollst du dann in die
+Lade legen.
+
+<<v3>>
+3 Ich fertigte eine Lade aus Akazienholz an, hieb zwei Steintafeln
+zurecht, so wie die ersten, und stieg auf den Berg. Ich hielt die beiden
+Tafeln in der Hand. [fn:2]
+
+<<v4>>
+4 Wie bei der ersten Inschrift schrieb der Herr auf die Tafeln die Zehn
+Worte, die er am Tag der Versammlung auf dem Berg mitten aus dem Feuer
+zu euch gesprochen hatte, und der Herr übergab sie mir.
+
+<<v5>>
+5 Ich wandte mich um, stieg den Berg hinunter und legte die Tafeln in
+die Lade, die ich angefertigt hatte. Dort blieben sie, wie der Herr es
+mir befohlen hatte.
+
+<<v6>>
+6 [Die Israeliten zogen von Beerot-Bene-Jaakan nach Moser. Dort starb
+Aaron, dort wurde er auch begraben. Sein Sohn Eleasar wurde an seiner
+Stelle Priester. [fn:3] [fn:4]
+
+<<v7>>
+7 Von dort zogen sie nach Hor-Gidgad, von Hor-Gidgad nach Jotbata, einer
+Gegend, wo es Bäche gab, die immer Wasser führten.]
+
+<<v8>>
+8 Damals sonderte der Herr den Stamm Levi aus, damit er die Lade des
+Bundes des Herrn trage, vor dem Herrn stehe, vor ihm Dienst tue und in
+seinem Namen den Segen spreche. So geschieht es noch heute. [fn:5]
+
+<<v9>>
+9 Deshalb erhielt Levi nicht wie seine Brüder Landanteil und Erbbesitz.
+Der Herr ist sein Erbbesitz, wie es der Herr, dein Gott, ihm zugesagt
+hat. [fn:6]
+
+<<v10>>
+10 Zu mir aber, als ich wie beim ersten Mal vierzig Tage und vierzig
+Nächte lang auf dem Berg blieb und als der Herr mich auch diesmal
+erhörte, weil er dich nicht dem Verderben preisgeben wollte,
+
+<<v11>>
+11 sprach der Herr: Steh auf und tritt zum Aufbruch an die Spitze des
+Volkes! Sie sollen in das Land hineinziehen und es in Besitz nehmen, das
+Land, von dem du weißt: Ich habe ihren Vätern geschworen, es ihnen zu
+geben. [fn:7]\\
+\\
+
+<<v12>>
+* Bundestreue und Ernte: 10,12 - 11,21
+
+12 Und nun, Israel, was fordert der Herr, dein Gott, von dir außer dem
+einen: dass du den Herrn, deinen Gott, fürchtest, indem du auf allen
+seinen Wegen gehst, ihn liebst und dem Herrn, deinem Gott, mit ganzem
+Herzen und mit ganzer Seele dienst; [fn:8] [fn:9]
+
+<<v13>>
+13 dass du ihn fürchtest, indem du auf die Gebote des Herrn und seine
+Gesetze achtest, auf die ich dich heute verpflichte. Dann wird es dir
+gut gehen.
+
+<<v14>>
+14 Sieh, dem Herrn, deinem Gott, gehören der Himmel, der Himmel über den
+Himmeln, die Erde und alles, was auf ihr lebt. [fn:10]
+
+<<v15>>
+15 Doch nur deine Väter hat der Herr ins Herz geschlossen, nur sie hat
+er geliebt. Und euch, ihre Nachkommen, hat er später unter allen Völkern
+ausgewählt, wie es sich heute zeigt. [fn:11]
+
+<<v16>>
+16 Ihr sollt die Vorhaut eures Herzens beschneiden und nicht länger
+halsstarrig sein. [fn:12]
+
+<<v17>>
+17 Denn der Herr, euer Gott, ist der Gott über den Göttern und der Herr
+über den Herren. Er ist der große Gott, der Held und der
+Furchterregende. Er lässt kein Ansehen gelten und nimmt keine Bestechung
+an. [fn:13] [fn:14]
+
+<<v18>>
+18 Er verschafft Waisen und Witwen ihr Recht. Er liebt die Fremden und
+gibt ihnen Nahrung und Kleidung -
+
+<<v19>>
+19 auch ihr sollt die Fremden lieben, denn ihr seid Fremde in Ägypten
+gewesen. [fn:15]
+
+<<v20>>
+20 Du sollst den Herrn, deinen Gott, fürchten. Ihm sollst du dienen, an
+ihm sollst du dich festhalten, bei seinem Namen sollst du schwören. [fn:16] [fn:17]
+
+<<v21>>
+21 Er ist dein Lobgesang, er ist dein Gott. Für dich hat er all das
+Große und Furchterregende getan, das du mit eigenen Augen gesehen hast. [fn:18]
+
+<<v22>>
+22 Als deine Vorfahren nach Ägypten zogen, waren sie nur siebzig an der
+Zahl; jetzt aber hat der Herr, dein Gott, dich so zahlreich gemacht wie
+die Sterne am Himmel. [fn:19]
+
+
+* Footnotes
+
+[fn:1] [[file:Ex_34.org::v1][Ex 34,1]]
+
+[fn:2] (3-5) [[file:~/RoamNotes/notes/Bibel/nt/Hebr_9.org::v4][Hebr 9,4]]
+
+[fn:3] (6-7) [[file:Num_33.org::v31][Num 33,31-33]]; [[file:Num_20.org::v22][Num 20,22-29]]
+
+[fn:4] 6f: Erklärender Zusatz (vgl. die Anmerkung zu [[file:Dtn_1.org::v1][1,1-5]]).
+
+[fn:5] [[file:Dtn_17.org::v9][17,9]].[[file:Dtn_17.org::v18][18]]; [[file:Dtn_18.org::v1][18,1]].[[file:Dtn_18.org::v5][5]]; [[file:Dtn_21.org::v5][21,5]]; [[file:Dtn_24.org::v8][24,8]]; [[file:Dtn_27.org::v9][27,9]]; [[file:dtn 31::v9][31,9]]
+
+[fn:6] [[file:Dtn_12.org::v12][12,12]]; [[file:dtn 14::v27][14,27]].[[file:Dtn_12.org::v29][29]]; [[file:Dtn_18.org::v1][18,1f]]
+
+[fn:7] [[file:Ex_32.org::v34][Ex 32,34]]; [[file:Ex_33.org::v1][33,1]]
+
+[fn:8] [[file:Mi_6.org::v8][Mi 6,8]]; (12f) [[file:Dtn_6.org::v4][6,4-25]]; [[file:Dtn_11.org::v1][11,1]]
+
+[fn:9] [[file:Dtn_11.org::v12][12]]-[[file:Dtn_11.org::v12][11,12]]: In diesem Stück wechseln immer wieder Gebot
+und Begründung. In den Begründungen stehen der Reihe nach die
+wichtigsten Elemente der Heilsgeschichte. Zugleich wird der Gott Israels
+als Schöpfergott und Spender der Fruchtbarkeit gezeichnet.
+
+[fn:10] Andere Übersetzungsmöglichkeit: Sieh, dem Herrn,
+deinem Gott, gehören der Himmel, ja, der hohe Himmel, und die Erde mit
+allem, was auf ihr lebt.
+
+[fn:11] [[file:Dtn_7.org::v6][7,6-8]]
+
+[fn:12] [[file:Dtn_9.org::v6][9,6]].[[file:Dtn_9.org::v13][13]]; [[file:Jer_4.org::v4][Jer 4,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_2.org::v29][Röm 2,29]]
+
+[fn:13] [[file:Dtn_19.org::v16][19,16]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_10.org::v34][Apg 10,34]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_2.org::v11][Röm 2,11]]; [[file:~/RoamNotes/notes/Bibel/nt/Gal_2.org::v6][Gal 2,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Eph_6.org::v9][Eph 6,9]];
+[[file:~/RoamNotes/notes/Bibel/nt/Kol_3.org::v25][Kol 3,25]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Tim_6.org::15][1 Tim 6,15]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_1.org::v17][1 Petr 1,17]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_17.org::v14][Offb 17,14]]
+
+[fn:14] 17f: Hier werden die wichtigsten Elemente des
+altorientalischen Königsideals auf Gott übertragen. Andere
+Übersetzungsmöglichkeit: Denn der Herr, euer Gott, ist der wahre Gott
+und der wahre Herrscher.
+
+[fn:15] [[file:Ex_22.org::v20][Ex 22,20]]; [[file:Ex_23.org::v9][23,9]]
+
+[fn:16] [[file:Dtn_6.org::v13][6,13]]; (20-22) [[file:Dtn_8.org::v2][8,2-6]]
+
+[fn:17] «Sich fest halten», meint die Loyalität gegenüber
+einem Oberherrn (vgl. 2 Sam 20,2).
+
+[fn:18] [[file:Dtn_29.org::v1][29,1]]
+
+[fn:19] [[file:Gen_46.org::v27][Gen 46,27]]; [[file:Ex_1.org::v5][Ex 1,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v14][Apg 7,14]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v12][Hebr 11,12]]

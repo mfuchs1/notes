@@ -1,0 +1,85 @@
+#+TITLE: Tob 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 10:26]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 10.html
+
+<<verses>>
+
+<<v1>>
+* Tobit und Hanna in Sorge: 10,1-7
+
+1 Inzwischen zählte sein Vater Tobit die Tage. Als die Zeit um war, die
+für die Reise vorgesehen war, und die beiden nicht zurückkamen,
+
+<<v2>>
+2 dachte er: Vielleicht hat man sie abgewiesen oder Gabaël ist gestorben
+und niemand ist da, der Tobias das Geld gibt.
+
+<<v3>>
+3 Und er machte sich große Sorgen.
+
+<<v4>>
+4 Seine Frau sagte zu ihm: Unserem Sohn ist etwas zugestoßen; deshalb
+kommt er nicht. Sie begann schon, ihn zu beweinen, und klagte:
+
+<<v5>>
+5 Alles ist mir gleichgültig geworden, mein Kind, seit ich dich, das
+Licht meiner Augen, weggehen ließ.
+
+<<v6>>
+6 Tobit sagte zu ihr: Sei ruhig, mach dir keine Sorgen; es geht ihm gut.
+
+<<v7>>
+7 Sie aber antwortete: Schweig, du kannst mich nicht täuschen. Meinem
+Sohn ist etwas zugestoßen. Und sie lief jeden Tag hinaus auf den Weg,
+auf dem er fortgezogen war. Tagsüber aß sie nichts und in der Nacht
+hörte sie nicht auf, um ihren Sohn Tobias zu klagen, bis schließlich die
+vierzehn Tage der Hochzeitsfeierlichkeiten um waren, die Tobias auf die
+beschwörenden Bitten Raguëls hin in Ekbatana verbrachte.\\
+\\
+
+<<v8>>
+* Tobias auf der Heimreise: 10,8-14
+
+8 Nun aber bat Tobias den Raguël: Lass mich heimreisen, sonst geben mein
+Vater und meine Mutter die Hoffnung auf, mich je wieder zu sehen. [fn:1]
+
+<<v9>>
+9 Sein Schwiegervater bat ihn: Bleib bei mir; ich will jemand zu deinem
+Vater schicken und ihm sagen lassen, wie es dir geht. Doch Tobias
+erwiderte: Nein, lass mich zu meinem Vater zurückkehren!
+
+<<v10>>
+10 Da stand Raguël auf, vertraute ihm Sara als seine Frau an und gab ihm
+die Hälfte seines Vermögens: Sklaven, Vieh und Geld.
+
+<<v11>>
+11 Zum Abschied segnete er sie und sagte: Meine Kinder, der Gott des
+Himmels möge euch mit Kindern segnen, ehe ich sterbe.
+
+<<v12>>
+12 Und zu seiner Tochter sagte er: Halte deine Schwiegereltern in Ehren;
+von jetzt an sind sie deine Eltern. Ich möchte immer nur Gutes von dir
+hören. Und er küsste sie.
+
+<<v13>>
+13 Edna sagte zu Tobias: Lieber Bruder, der Herr des Himmels geleite
+dich nach Hause. Er schenke mir das Glück, dass ich von dir und meiner
+Tochter Sara noch Kinder sehe; dann will ich mich freuen und dem Herrn
+danken. Ich vertraue dir meine Tochter an. Mach ihr keinen Kummer!
+
+<<v14>>
+14 Dann reiste Tobias ab. Er dankte Gott, dass er seiner Reise so viel
+Erfolg beschieden hatte, und segnete Raguël und seine Frau Edna.\\
+\\
+
+* Footnotes
+
+[fn:1] (8-9) [[file:Gen_24.org::v54][Gen 24,54f]]

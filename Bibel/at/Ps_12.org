@@ -1,0 +1,76 @@
+#+TITLE: Ps 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-04 Mo 21:06]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 12.html
+
+* Ps 12
+
+<<verses>>
+
+<<v1>>
+* Die Falschheit der Menschen - die Treue Gottes
+
+1 [Für den Chormeister. Nach der Achten. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Hilf doch, o Herr, die Frommen schwinden dahin, /\\
+ unter den Menschen gibt es keine Treue mehr. [fn:1]\\
+\\
+
+<<v3>>
+3 Sie lügen einander an, einer den andern, /\\
+ mit falscher Zunge und zwiespältigem Herzen reden sie. [fn:2]\\
+\\
+
+<<v4>>
+4 Der Herr vertilge alle falschen Zungen, /\\
+ jede Zunge, die vermessen redet.\\
+\\
+
+<<v5>>
+5 Sie sagen: «Durch unsre Zunge sind wir mächtig; /\\
+ unsre Lippen sind unsre Stärke. Wer ist uns überlegen?»\\
+\\
+
+<<v6>>
+6 Die Schwachen werden unterdrückt, die Armen seufzen. /\\
+ Darum spricht der Herr: «Jetzt stehe ich auf, /\\
+ dem Verachteten bringe ich Heil.» [fn:3]\\
+\\
+
+<<v7>>
+7 Die Worte des Herrn sind lautere Worte, /\\
+ Silber, geschmolzen im Ofen, /\\
+ von Schlacken geschieden, geläutert siebenfach. [fn:4] [fn:5]\\
+\\
+
+<<v8>>
+8 Du, Herr, wirst uns behüten /\\
+ und uns vor diesen Leuten für immer erretten,\\
+\\
+
+<<v9>>
+9 auch wenn die Frevler frei umhergehen /\\
+ und unter den Menschen die Gemeinheit groß wird.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_14.org::v3][14,3]]; [[file:Mi_7.org::v2][Mi 7,2]]
+
+[fn:2] (3-5) [[file:Ps_15.org::v2][15,2f]]; [[file:Ps_28.org::v3][28,3]]; [[file:Ps_52.org::v4][52,4-6]]; [[file:Ps_55.org::v22][55,22]]; [[file:Ps_116.org::v11][116,11]]; [[file:Ps_120.org::v2][120,2f]];
+[[file:Ijob_5.org::v21][Ijob 5,21]]; [[file:Jes_59.org::v3][Jes 59,3f]]; [[file:Jer_9.org::v7][Jer 9,7]]
+
+[fn:3] dem Verachteten, wörtlich: dem, gegen den man schnaubt.
+
+[fn:4] [[file:Ps_18.org::v31][18,31]]; [[file:Ps_19.org::v8][19,8f]]; [[file:Ps_119.org::v140][119,140]]; [[file:Spr_30.org::v5][Spr 30,5]]
+
+[fn:5] Nach Hieronymus.

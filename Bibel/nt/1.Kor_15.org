@@ -1,0 +1,406 @@
+:PROPERTIES:
+:ID:       f304dd42-a1a5-4ce4-bb89-e1562c2583bf
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der erste Brief an die Korinther* --
+[[file:1.Kor_1.html][1]] ... [[file:1.Kor_13.html][13]]
+[[file:1.Kor_14.html][14]] *15* [[file:1.Kor_16.html][16]]
+
+--------------
+
+* 1.Kor 15
+  :PROPERTIES:
+  :CUSTOM_ID: kor-15
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Die Auferweckung Christi und der Christen: 15,1-58
+   :PROPERTIES:
+   :CUSTOM_ID: die-auferweckung-christi-und-der-christen-151-58
+   :END:
+**** Die Auferweckung Christi und das Heil: 15,1-34
+     :PROPERTIES:
+     :CUSTOM_ID: die-auferweckung-christi-und-das-heil-151-34
+     :END:
+1 Ich erinnere euch, Brüder, an das Evangelium, das ich euch verkündet
+habe. Ihr habt es angenommen; es ist der Grund, auf dem ihr steht.
+^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Durch dieses Evangelium werdet ihr gerettet, wenn ihr an dem Wortlaut
+festhaltet, den ich euch verkündet habe. Oder habt ihr den Glauben
+vielleicht unüberlegt angenommen?\\
+\\
+
+<<v3>>
+3 Denn vor allem habe ich euch überliefert, was auch ich empfangen habe:
+Christus ist für unsere Sünden gestorben, /\\
+ gemäß der Schrift, ^{[[#fn3][3]]}\\
+^{[[#fn4][4]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 361\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v4>>
+4 und ist begraben worden. /\\
+ Er ist am dritten Tag auferweckt worden, /\\
+ gemäß der Schrift, ^{[[#fn5][5]]}\\
+\\
+
+<<v5>>
+5 und erschien dem Kephas, dann den Zwölf. ^{[[#fn6][6]]}
+
+<<v6>>
+6 Danach erschien er mehr als fünfhundert Brüdern zugleich; die meisten
+von ihnen sind noch am Leben, einige sind entschlafen.
+
+<<v7>>
+7 Danach erschien er dem Jakobus, dann allen Aposteln.
+
+<<v8>>
+8 Als Letztem von allen erschien er auch mir, dem Unerwarteten, der
+«Missgeburt». ^{[[#fn7][7]]}
+
+<<v9>>
+9 Denn ich bin der geringste von den Aposteln; ich bin nicht wert,
+Apostel genannt zu werden, weil ich die Kirche Gottes verfolgt habe.
+^{[[#fn8][8]]}
+
+<<v10>>
+10 Doch durch Gottes Gnade bin ich, was ich bin, und sein gnädiges
+Handeln an mir ist nicht ohne Wirkung geblieben. Mehr als sie alle habe
+ich mich abgemüht - nicht ich, sondern die Gnade Gottes zusammen mit
+mir. ^{[[#fn9][9]]}
+
+<<v11>>
+11 Ob nun ich verkündige oder die anderen: das ist unsere Botschaft, und
+das ist der Glaube, den ihr angenommen habt. ^{[[#fn10][10]]}
+
+<<v12>>
+12 Wenn aber verkündigt wird, dass Christus von den Toten auferweckt
+worden ist, wie können dann einige von euch sagen: Eine Auferstehung der
+Toten gibt es nicht? ^{[[#fn11][11]][[#fn12][12]]}
+
+<<v13>>
+13 Wenn es keine Auferstehung der Toten gibt, ist auch Christus nicht
+auferweckt worden.
+
+<<v14>>
+14 Ist aber Christus nicht auferweckt worden, dann ist unsere
+Verkündigung leer und euer Glaube sinnlos.
+
+<<v15>>
+15 Wir werden dann auch als falsche Zeugen Gottes entlarvt, weil wir im
+Widerspruch zu Gott das Zeugnis abgelegt haben: Er hat Christus
+auferweckt. Er hat ihn eben nicht auferweckt, wenn Tote nicht auferweckt
+werden.
+
+<<v16>>
+16 Denn wenn Tote nicht auferweckt werden, ist auch Christus nicht
+auferweckt worden.
+
+<<v17>>
+17 Wenn aber Christus nicht auferweckt worden ist, dann ist euer Glaube
+nutzlos und ihr seid immer noch in euren Sünden;
+
+<<v18>>
+18 und auch die in Christus Entschlafenen sind dann verloren.
+^{[[#fn13][13]]}
+
+<<v19>>
+19 Wenn wir unsere Hoffnung nur in diesem Leben auf Christus gesetzt
+haben, sind wir erbärmlicher daran als alle anderen Menschen.
+
+<<v20>>
+20 Nun aber *ist* Christus von den Toten auferweckt worden als der Erste
+der Entschlafenen. ^{[[#fn14][14]]}
+
+<<v21>>
+21 Da nämlich durch *einen* Menschen der Tod gekommen ist, kommt durch
+*einen* Menschen auch die Auferstehung der Toten. ^{[[#fn15][15]]}
+
+<<v22>>
+22 Denn wie in Adam alle sterben, so werden in Christus alle lebendig
+gemacht werden.
+
+<<v23>>
+23 Es gibt aber eine bestimmte Reihenfolge: Erster ist Christus; dann
+folgen, wenn Christus kommt, alle, die zu ihm gehören. ^{[[#fn16][16]]}
+
+<<v24>>
+24 Danach kommt das Ende, wenn er jede Macht, Gewalt und Kraft
+vernichtet hat und seine Herrschaft Gott, dem Vater, übergibt.
+
+<<v25>>
+25 Denn er muss herrschen, bis Gott /ihm/ alle /Feinde unter die Füße
+gelegt hat./ ^{[[#fn17][17]]}
+
+<<v26>>
+26 Der letzte Feind, der entmachtet wird, ist der Tod. ^{[[#fn18][18]]}
+
+<<v27>>
+27 Sonst hätte er /ihm/ nicht /alles zu Füßen gelegt./ Wenn es aber
+heißt, alles sei unterworfen, ist offenbar der ausgenommen, der ihm
+alles unterwirft. ^{[[#fn19][19]]}
+
+<<v28>>
+28 Wenn ihm dann alles unterworfen ist, wird auch er, der Sohn, sich dem
+unterwerfen, der ihm alles unterworfen hat, damit Gott herrscht über
+alles und in allem. ^{[[#fn20][20]][[#fn21][21]]}
+
+<<v29>>
+29 Wie kämen sonst einige dazu, sich für die Toten taufen zu lassen?
+Wenn Tote gar nicht auferweckt werden, warum lässt man sich dann taufen
+für sie? ^{[[#fn22][22]]}
+
+<<v30>>
+30 Warum setzen dann auch wir uns stündlich der Gefahr aus?
+^{[[#fn23][23]]}
+
+<<v31>>
+31 Täglich sehe ich dem Tod ins Auge, so wahr ihr, Brüder, mein Ruhm
+seid, den ich in Christus Jesus, unserem Herrn, empfangen habe.
+^{[[#fn24][24]]}
+
+<<v32>>
+32 Was habe ich dann davon, dass ich in Ephesus, wie man so sagt, mit
+wilden Tieren gekämpft habe? Wenn Tote nicht auferweckt werden, dann
+/lasst uns essen und trinken; denn morgen sind wir tot./
+^{[[#fn25][25]]}
+
+<<v33>>
+33 Lasst euch nicht irreführen! Schlechter Umgang verdirbt gute Sitten.
+^{[[#fn26][26]]}
+
+<<v34>>
+34 Werdet nüchtern, wie es sich gehört, und sündigt nicht! Einige Leute
+wissen nichts von Gott; ich sage das, damit ihr euch schämt.
+^{[[#fn27][27]]}\\
+\\
+
+<<v35>>
+**** Die Vollendung des Heils bei der Auferstehung: 15,35-58
+     :PROPERTIES:
+     :CUSTOM_ID: die-vollendung-des-heils-bei-der-auferstehung-1535-58
+     :END:
+35 Nun könnte einer fragen: Wie werden die Toten auferweckt, was für
+einen Leib werden sie haben?
+
+<<v36>>
+36 Was für eine törichte Frage! Auch das, was du säst, wird nicht
+lebendig, wenn es nicht stirbt.
+
+<<v37>>
+37 Und was du säst, hat noch nicht die Gestalt, die entstehen wird; es
+ist nur ein nacktes Samenkorn, zum Beispiel ein Weizenkorn oder ein
+anderes. ^{[[#fn28][28]]}
+
+<<v38>>
+38 Gott gibt ihm die Gestalt, die er vorgesehen hat, jedem Samen eine
+andere. ^{[[#fn29][29]]}
+
+<<v39>>
+39 Auch die Lebewesen haben nicht alle die gleiche Gestalt. Die Gestalt
+der Menschen ist anders als die der Haustiere, die Gestalt der Vögel
+anders als die der Fische.
+
+<<v40>>
+40 Auch gibt es Himmelskörper und irdische Körper. Die Schönheit der
+Himmelskörper ist anders als die der irdischen Körper.
+
+<<v41>>
+41 Der Glanz der Sonne ist anders als der Glanz des Mondes, anders als
+der Glanz der Sterne; denn auch die Gestirne unterscheiden sich durch
+ihren Glanz.
+
+<<v42>>
+42 So ist es auch mit der Auferstehung der Toten. Was gesät wird, ist
+verweslich, was auferweckt wird, unverweslich.
+
+<<v43>>
+43 Was gesät wird, ist armselig, was auferweckt wird, herrlich. Was
+gesät wird, ist schwach, was auferweckt wird, ist stark.
+^{[[#fn30][30]]}
+
+<<v44>>
+44 Gesät wird ein irdischer Leib, auferweckt ein überirdischer Leib.
+Wenn es einen irdischen Leib gibt, gibt es auch einen überirdischen.
+^{[[#fn31][31]]}
+
+<<v45>>
+45 So steht es auch in der Schrift: Adam, der Erste /Mensch, wurde ein/
+irdisches /Lebewesen./ Der Letzte Adam wurde lebendig machender Geist.
+^{[[#fn32][32]][[#fn33][33]]}
+
+<<v46>>
+46 Aber zuerst kommt nicht das Überirdische; zuerst kommt das Irdische,
+dann das Überirdische.
+
+<<v47>>
+47 Der Erste /Mensch/ stammt /von der Erde/ und ist /Erde;/ der Zweite
+Mensch stammt vom Himmel. ^{[[#fn34][34]]}
+
+<<v48>>
+48 Wie der von der Erde irdisch war, so sind es auch seine Nachfahren.
+Und wie der vom Himmel himmlisch ist, so sind es auch seine Nachfahren.
+^{[[#fn35][35]]}
+
+<<v49>>
+49 Wie wir nach dem Bild des Irdischen gestaltet wurden, so werden wir
+auch nach dem Bild des Himmlischen gestaltet werden. ^{[[#fn36][36]]}
+
+<<v50>>
+50 Damit will ich sagen, Brüder: Fleisch und Blut können das Reich
+Gottes nicht erben; das Vergängliche erbt nicht das Unvergängliche.
+^{[[#fn37][37]]}
+
+<<v51>>
+51 Seht, ich enthülle euch ein Geheimnis: Wir werden nicht alle
+entschlafen, aber wir werden alle verwandelt werden -
+^{[[#fn38][38]][[#fn39][39]]}
+
+<<v52>>
+52 plötzlich, in einem Augenblick, beim letzten Posaunenschall. Die
+Posaune wird erschallen, die Toten werden zur Unvergänglichkeit
+auferweckt, wir aber werden verwandelt werden. ^{[[#fn40][40]]}
+
+<<v53>>
+53 Denn dieses Vergängliche muss sich mit Unvergänglichkeit bekleiden
+und dieses Sterbliche mit Unsterblichkeit. ^{[[#fn41][41]]}
+
+<<v54>>
+54 Wenn sich aber dieses Vergängliche mit Unvergänglichkeit bekleidet
+und dieses Sterbliche mit Unsterblichkeit, dann erfüllt sich das Wort
+der Schrift: /Verschlungen ist der Tod vom Sieg./ ^{[[#fn42][42]]}\\
+\\
+
+<<v55>>
+55 /Tod, wo ist dein Sieg?/ /\\
+ /Tod, wo ist dein Stachel?/ ^{[[#fn43][43]]}\\
+\\
+
+<<v56>>
+56 Der Stachel des Todes aber ist die Sünde, die Kraft der Sünde ist das
+Gesetz. ^{[[#fn44][44]]}
+
+<<v57>>
+57 Gott aber sei Dank, der uns den Sieg geschenkt hat durch Jesus
+Christus, unseren Herrn. ^{[[#fn45][45]]}
+
+<<v58>>
+58 Daher, geliebte Brüder, seid standhaft und unerschütterlich, nehmt
+immer eifriger am Werk des Herrn teil und denkt daran, dass im Herrn
+eure Mühe nicht vergeblich ist. ^{[[#fn46][46]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Gal 1,11
+
+^{[[#fnm2][2]]} 1-5: Paulus weist hier auf die urchristliche
+Glaubensformel hin, die er selbst übernommen hat und die in knapper Form
+all das enthält, was er in seinen Briefen «das Evangelium» nennt, die
+Botschaft vom Heil. Diese Glaubensformel gilt es auch dem Wortlaut nach
+festzuhalten, damit das Glaubensgut unverfälscht bewahrt wird (vgl.
+15,3.11).
+
+^{[[#fnm3][3]]} ℘ 11,23; Jes 53,4f; Röm 4,25; 1 Petr 2,24
+
+^{[[#fnm4][4]]} ℘ ⇨Esyn: Synopse Nr. 361
+
+^{[[#fnm5][5]]} ℘ Hos 6,2
+
+^{[[#fnm6][6]]} ℘ Lk 24,34.36
+
+^{[[#fnm7][7]]} ℘ 9,1; Apg 9,3-5
+
+^{[[#fnm8][8]]} ℘ Apg 8,1-3; 9,1-3; Gal 1,13; 1 Tim 1,15; Eph 3,8
+
+^{[[#fnm9][9]]} ℘ 3,10; 2 Kor 11,23; 1 Tim 1,14
+
+^{[[#fnm10][10]]} ℘ 3,5
+
+^{[[#fnm11][11]]} ℘ 2 Tim 2,18
+
+^{[[#fnm12][12]]} 12-14: Anstelle der in den VV. 12-14 dreimal
+begegnenden Übersetzung: «ist (nicht) auferweckt worden» kann auch
+übersetzt werden: «ist (nicht) auferstanden». Die erste Fassung ist
+deswegen vorzuziehen, weil in Kap. 15 mehrmals das Handeln Gottes an dem
+toten Jesus wie auch an den verstorbenen Gläubigen hervorgehoben wird
+(vgl. 15,15.51f).
+
+^{[[#fnm13][13]]} ℘ 1 Thess 4,14
+
+^{[[#fnm14][14]]} ℘ Apg 26,23; Kol 1,18
+
+^{[[#fnm15][15]]} ℘ Gen 3,17-19; Röm 5,12.18
+
+^{[[#fnm16][16]]} ℘ 1 Thess 4,15f
+
+^{[[#fnm17][17]]} ℘ Ps 110,1
+
+^{[[#fnm18][18]]} ℘ Offb 20,14; 21,4
+
+^{[[#fnm19][19]]} ℘ Ps 8,7; Hebr 2,8
+
+^{[[#fnm20][20]]} ℘ 8,6; Röm 11,36
+
+^{[[#fnm21][21]]} Wörtlich: damit Gott alles in allem sei.
+
+^{[[#fnm22][22]]} Anspielung auf die in Korinth gelegentlich vollzogene
+stellvertretende Taufe zugunsten ungetauft Verstorbener.
+
+^{[[#fnm23][23]]} ℘ Röm 8,36
+
+^{[[#fnm24][24]]} ℘ 2 Kor 4,10f
+
+^{[[#fnm25][25]]} ℘ Jes 22,13; Apg 19,29f; 20,3; 2 Kor 1,8
+
+^{[[#fnm26][26]]} Schlechter Umgang . . .: Geflügeltes Wort, das auf den
+griechischen Dichter Menander (4. Jh. v. Chr.) zurückgeht.
+
+^{[[#fnm27][27]]} ℘ 6,5; 1 Thess 5,6-8
+
+^{[[#fnm28][28]]} ℘ Joh 12,24
+
+^{[[#fnm29][29]]} ℘ Gen 1,11
+
+^{[[#fnm30][30]]} ℘ Phil 3,20f; Kol 3,4
+
+^{[[#fnm31][31]]} ein überirdischer Leib, wörtlich: ein pneumatischer
+(«geistlicher») Leib.
+
+^{[[#fnm32][32]]} ℘ Gen 2,7
+
+^{[[#fnm33][33]]} Wörtlich: Adam, der Erste Mensch, wurde ein lebendiges
+Wesen (vgl. Gen 2,7; 3,19).
+
+^{[[#fnm34][34]]} ℘ Gen 2,7
+
+^{[[#fnm35][35]]} Wörtlich: Wie der Irdische, so auch die Irdischen, und
+wie der Himmlische, so auch die Himmlischen.
+
+^{[[#fnm36][36]]} ℘ Gen 5,3; Röm 8,29
+
+^{[[#fnm37][37]]} ℘ Joh 3,5f
+
+^{[[#fnm38][38]]} ℘ 1 Thess 4,15-17
+
+^{[[#fnm39][39]]} Die Erwartung, bei der Wiederkunft Christi noch am
+Leben zu sein, drückt Paulus auch 1 Thess 4,15.17 aus. Ohne einen
+Umwandlungsprozess ist aber Unsterblichkeit nicht zu erlangen.
+
+^{[[#fnm40][40]]} ℘ Mt 24,31
+
+^{[[#fnm41][41]]} ℘ 2 Kor 5,4
+
+^{[[#fnm42][42]]} ℘ Jes 25,8
+
+^{[[#fnm43][43]]} ℘ Hos 13,14 G
+
+^{[[#fnm44][44]]} ℘ Röm 5,12f; 7,7-9.13
+
+^{[[#fnm45][45]]} ℘ Röm 7,25
+
+^{[[#fnm46][46]]} ℘ 16,13

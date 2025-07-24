@@ -1,0 +1,199 @@
+#+TITLE: Ijob 30 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 21:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 30.html
+
+<<verses>>
+
+<<v1>>
+* Die schreckliche Gegenwart: 30,1-31
+
+1 Jetzt aber lachen über mich, /\\
+ die jünger sind als ich an Tagen, /\\
+ deren Väter ich nicht für wert geachtet, /\\
+ sie bei den Hunden meiner Herde anzustellen.\\
+\\
+
+<<v2>>
+2 Was sollte mir auch ihrer Hände Kraft? /\\
+ Geschwunden war ihre Rüstigkeit\\
+\\
+
+<<v3>>
+3 durch Mangel und durch harten Hunger; /\\
+ Leute, die das dürre Land abnagen, /\\
+ das Gras der Wüste und der Wüstenei.\\
+\\
+
+<<v4>>
+4 Sie pflücken Salzmelde im Gesträuch /\\
+ und Ginsterwurzeln sind ihr Brot. [fn:1]\\
+\\
+
+<<v5>>
+5 Aus der Gemeinschaft wurden sie verjagt; /\\
+ man schreit ihnen nach wie einem Dieb.\\
+\\
+
+<<v6>>
+6 Am Hang der Täler müssen sie wohnen, /\\
+ in Erdhöhlen und in Felsgeklüft.\\
+\\
+
+<<v7>>
+7 Zwischen Sträuchern schreien sie kläglich, /\\
+ drängen sich zusammen unter wildem Gestrüpp.\\
+\\
+
+<<v8>>
+8 Blödes Gesindel, Volk ohne Namen, /\\
+ wurden sie aus dem Land hinausgepeitscht.\\
+\\
+
+<<v9>>
+9 Jetzt aber bin ich ihr Spottlied, /\\
+ bin zum Klatsch für sie geworden. [fn:2]\\
+\\
+
+<<v10>>
+10 Sie verabscheuen mich, rücken weit von mir weg, /\\
+ scheuen sich nicht, mir ins Gesicht zu speien.\\
+\\
+
+<<v11>>
+11 Denn Gott löste mein Seil und beugte mich nieder, /\\
+ sie aber ließen die Zügel vor mir schießen.\\
+\\
+
+<<v12>>
+12 Zur rechten Seite erhebt sich eine Schar, /\\
+ treibt meine Füße weg, /\\
+ wirft gegen mich ihre Unheilsdämme auf. [fn:3]\\
+\\
+
+<<v13>>
+13 Meinen Pfad reißen sie auf, helfen zu meinem Verderben /\\
+ und niemand wehrt ihnen. [fn:4]\\
+\\
+
+<<v14>>
+14 Wie durch eine breite Bresche kommen sie heran, /\\
+ wälzen sich unter Trümmern her.\\
+\\
+
+<<v15>>
+15 Schrecken stürzen auf mich ein, /\\
+ verjagt wie vom Wind ist mein Adel, /\\
+ wie eine Wolke entschwand mein Heil.\\
+\\
+
+<<v16>>
+16 Und nun zerfließt die Seele in mir, /\\
+ des Elends Tage packen mich an.\\
+\\
+
+<<v17>>
+17 Des Nachts durchbohrt es mir die Knochen, /\\
+ mein nagender Schmerz kommt nicht zur Ruh.\\
+\\
+
+<<v18>>
+18 Mit Allgewalt packt er mich am Kleid, /\\
+ schnürt wie der Gürtel des Rocks mich ein. [fn:5]\\
+\\
+
+<<v19>>
+19 Er warf mich in den Lehm, /\\
+ sodass ich Staub und Asche gleiche. [fn:6]\\
+\\
+
+<<v20>>
+20 Ich schreie zu dir und du erwiderst mir nicht; /\\
+ ich stehe da, doch du achtest nicht auf mich. [fn:7]\\
+\\
+
+<<v21>>
+21 Du wandelst dich zum grausamen Feind gegen mich, /\\
+ mit deiner starken Hand befehdest du mich. [fn:8]\\
+\\
+
+<<v22>>
+22 Du hebst mich in den Wind, fährst mich dahin, /\\
+ lässt mich zergehen im Sturmgebraus. [fn:9]\\
+\\
+
+<<v23>>
+23 Ja, ich weiß, du führst mich zum Tod, /\\
+ zur Sammelstätte aller Lebenden.\\
+\\
+
+<<v24>>
+24 Doch nicht an Trümmer legt er die Hand. - /\\
+ Schreit man nicht um Hilfe beim Untergang? [fn:10]\\
+\\
+
+<<v25>>
+25 Weinte ich nicht um den, der harte Tage hatte, /\\
+ grämte sich nicht meine Seele über den Armen?\\
+\\
+
+<<v26>>
+26 Ja, ich hoffte auf Gutes, doch Böses kam, /\\
+ ich harrte auf Licht, doch Finsternis kam.\\
+\\
+
+<<v27>>
+27 Mein Inneres kocht und kommt nicht zur Ruhe, /\\
+ mich haben die Tage des Elends erreicht.\\
+\\
+
+<<v28>>
+28 Geschwärzt, doch nicht von der Sonne gebrannt, /\\
+ stehe ich auf in der Gemeinde, schreie laut.\\
+\\
+
+<<v29>>
+29 Den Schakalen wurde ich zum Bruder, /\\
+ den Straußenhennen zum Freund.\\
+\\
+
+<<v30>>
+30 Die Haut an mir ist schwarz, /\\
+ von Fieberglut brennen meine Knochen. [fn:11]\\
+\\
+
+<<v31>>
+31 Zur Trauer wurde mein Harfenspiel, /\\
+ mein Flötenspiel zum Klagelied.\\
+\\
+
+* Footnotes
+
+[fn:1] Die Salzmelde ist ein salzig schmeckendes Kraut.
+
+[fn:2] [[file:Ps_69.org::v13][Ps 69,13]]; [[file:Klgl_3.org::v14][Klgl 3,14]]
+
+[fn:3] [[file:Ps_109.org::v6][Ps 109,6]]
+
+[fn:4] wehrt: Text korr.; H: hilft.
+
+[fn:5] packt er: Text korr.
+
+[fn:6] Er warf mich: Text korr.
+
+[fn:7] nicht: Text korr.
+
+[fn:8] [[file:Ijob_34.org::v6][34,6]]
+
+[fn:9] [[file:Ps_109.org::v23][Ps 109,23]]
+
+[fn:10] Übersetzung unsicher.
+
+[fn:11] [[file:Ps_119.org::v83][Ps 119,83]]; [[file:Klgl_3.org::v4][Klgl 3,4]]

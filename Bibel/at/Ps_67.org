@@ -1,0 +1,73 @@
+#+TITLE: Ps 67 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-07-31 Mi 16:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 67.html
+
+* Ps 67
+
+<<verses>>
+
+<<v1>>
+* Dank für den Segen Gottes
+
+1 [Für den Chormeister. Mit Saitenspiel. Ein Psalm. Ein Lied.]\\
+\\
+
+<<v2>>
+2 Gott sei uns gnädig und segne uns. /\\
+ Er lasse über uns sein Angesicht leuchten, [Sela] [fn:1]\\
+\\
+
+<<v3>>
+3 damit auf Erden sein Weg erkannt wird /\\
+ und unter allen Völkern sein Heil. [fn:2]\\
+\\
+
+<<v4>>
+4 Die Völker sollen dir danken, o Gott, /\\
+ danken sollen dir die Völker alle.\\
+\\
+
+<<v5>>
+5 Die Nationen sollen sich freuen und jubeln. /\\
+ Denn du richtest den Erdkreis gerecht. Du richtest die Völker nach
+Recht /\\
+ und regierst die Nationen auf Erden. [Sela] [fn:3] [fn:4]\\
+\\
+
+<<v6>>
+6 Die Völker sollen dir danken, o Gott, /\\
+ danken sollen dir die Völker alle.\\
+\\
+
+<<v7>>
+7 Das Land gab seinen Ertrag. /\\
+ Es segne uns Gott, unser Gott. [fn:5]\\
+\\
+
+<<v8>>
+8 Es segne uns Gott. /\\
+ Alle Welt fürchte und ehre ihn. [fn:6]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_4.org::v7][4,7]]
+
+[fn:2] sein Weg: Text korr.; H: dein Weg.
+
+[fn:3] [[file:Ps_98.org::v9][98,9]]
+
+[fn:4] Mit G ergänzt.
+
+[fn:5] [[file:Ps_85.org::v13][85,13]]
+
+[fn:6] Alle Welt, wörtlich: Alle Enden der Erde.

@@ -1,0 +1,242 @@
+#+TITLE: Lev 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 20:39]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 19.html
+
+
+<<verses>>
+
+<<v1>>
+* Kultische und soziale Gebote: 19,1-37
+
+* Einleitung: 19,1-2
+
+1 Der Herr sprach zu Mose:
+
+<<v2>>
+2 Rede zur ganzen Gemeinde der Israeliten und sag zu ihnen: Seid heilig,
+denn ich, der Herr, euer Gott, bin heilig.\\
+\\
+
+<<v3>>
+* Die Ehrfurcht gegenüber den Eltern: 19,3-4
+
+3 Jeder von euch soll Mutter und Vater fürchten und auf meine Sabbate
+achten; ich bin der Herr, euer Gott. [fn:1]
+
+<<v4>>
+4 Ihr sollt euch nicht anderen Göttern zuwenden und euch nicht
+Götterbilder aus Metall gießen; ich bin der Herr, euer Gott.\\
+\\
+
+<<v5>>
+* Die rechte Einstellung zum Heilsopfer: 19,5-8
+
+5 Wenn ihr für den Herrn ein Heilsopfer schlachtet, opfert es so, dass
+ihr Annahme findet. [fn:2]
+
+<<v6>>
+6 An dem Tag, an dem ihr es schlachtet, oder am folgenden Tag soll es
+gegessen werden; was davon am dritten Tag noch übrig ist, soll im Feuer
+verbrannt werden.
+
+<<v7>>
+7 Isst man davon am dritten Tag, so ist das Opfer untauglich und findet
+keine Annahme mehr.
+
+<<v8>>
+8 Wer davon isst, muss die Folgen seiner Schuld tragen; denn er hat die
+Heiligkeit des Herrn entweiht. Ein solcher Mensch soll aus seinen
+Stammesgenossen ausgemerzt werden.\\
+\\
+
+<<v9>>
+* Das Verbot der Nachlese: 19,9-10
+
+9 Wenn ihr die Ernte eures Landes einbringt, sollt ihr das Feld nicht
+bis zum äußersten Rand abernten. Du sollst keine Nachlese von deiner
+Ernte halten.
+
+<<v10>>
+10 In deinem Weinberg sollst du keine Nachlese halten und die
+abgefallenen Beeren nicht einsammeln. Du sollst sie dem Armen und dem
+Fremden überlassen. Ich bin der Herr, euer Gott.\\
+\\
+
+<<v11>>
+* Soziales Verhalten und Nächstenliebe: 19,11-18
+
+11 Ihr sollt nicht stehlen, nicht täuschen und einander nicht betrügen. [fn:3]
+
+<<v12>>
+12 Ihr sollt nicht falsch bei meinem Namen schwören; du würdest sonst
+den Namen deines Gottes entweihen. Ich bin der Herr.
+
+<<v13>>
+13 Du sollst deinen Nächsten nicht ausbeuten und ihn nicht um das Seine
+bringen. Der Lohn des Tagelöhners soll nicht über Nacht bis zum Morgen
+bei dir bleiben.
+
+<<v14>>
+14 Du sollst einen Tauben nicht verfluchen und einem Blinden kein
+Hindernis in den Weg stellen; vielmehr sollst du deinen Gott fürchten.
+Ich bin der Herr.
+
+<<v15>>
+15 Ihr sollt in der Rechtsprechung kein Unrecht tun. Du sollst weder für
+einen Geringen noch für einen Großen Partei nehmen; gerecht sollst du
+deinen Stammesgenossen richten. [fn:4]
+
+<<v16>>
+16 Du sollst deinen Stammesgenossen nicht verleumden und dich nicht
+hinstellen und das Leben deines Nächsten fordern. Ich bin der Herr.
+
+<<v17>>
+17 Du sollst in deinem Herzen keinen Hass gegen deinen Bruder tragen.
+Weise deinen Stammesgenossen zurecht, so wirst du seinetwegen keine
+Schuld auf dich laden.
+
+<<v18>>
+18 An den Kindern deines Volkes sollst du dich nicht rächen und ihnen
+nichts nachtragen. Du sollst deinen Nächsten lieben wie dich selbst. Ich
+bin der Herr. [fn:5]\\
+\\
+
+<<v19>>
+* Das Verbot von Mischungen: 19,19
+
+19 Ihr sollt auf meine Satzungen achten: Unter deinem Vieh sollst du
+nicht zwei Tiere verschiedener Art sich begatten lassen. Dein Feld
+sollst du nicht mit zweierlei Arten besäen. Du sollst kein aus zweierlei
+Fäden gewebtes Kleid anlegen.\\
+\\
+
+<<v20>>
+* Unzucht mit der Nebenfrau eines anderen: 19,20-22
+
+20 Wohnt ein Mann einer Frau bei, die einem andern Mann als Sklavin zur
+Nebenfrau bestimmt ist und die weder losgekauft noch freigelassen ist,
+dann soll der Fall untersucht werden; sterben sollen sie nicht, da sie
+nicht freigelassen war. [fn:6]
+
+<<v21>>
+21 Er soll als sein Schuldopfer für den Herrn einen Widder zum Eingang
+des Offenbarungszeltes bringen.
+
+<<v22>>
+22 Mit diesem Widder soll der Priester ihn vor dem Herrn von der
+begangenen Sünde entsühnen; so wird ihm die Sünde, die er begangen hat,
+vergeben.\\
+\\
+
+<<v23>>
+* Die Erstlingsfrüchte: 19,23-25
+
+23 Wenn ihr in das Land kommt und einen Fruchtbaum pflanzt, sollt ihr
+seine Früchte behandeln, als ob sie seine Vorhaut wären. Drei Jahre lang
+sollen sie für euch etwas Unbeschnittenes sein, das man nicht essen
+darf.
+
+<<v24>>
+24 Im vierten Jahr sollen alle Früchte als Festgabe für den Herrn
+geheiligt sein.
+
+<<v25>>
+25 Erst im fünften Jahr dürft ihr die Früchte essen und den Ertrag für
+euch ernten. Ich bin der Herr, euer Gott.\\
+\\
+
+<<v26>>
+* Das Verbot fremder Kultbräuche: 19,26-31
+
+26 Ihr sollt nichts mit Blut essen. Wahrsagerei und Zauberei sollt ihr
+nicht treiben. [fn:7]
+
+<<v27>>
+27 Ihr sollt euer Kopfhaar nicht rundum abschneiden. Du sollst deinen
+Bart nicht stutzen.
+
+<<v28>>
+28 Für einen Toten dürft ihr keine Einschnitte auf eurem Körper
+anbringen und ihr dürft euch keine Zeichen einritzen lassen. Ich bin der
+Herr.
+
+<<v29>>
+29 Entweih nicht deine Tochter, indem du sie der Unzucht preisgibst,
+damit das Land nicht der Unzucht verfällt und voller Schandtat wird.
+
+<<v30>>
+30 Ihr sollt auf meine Sabbate achten und mein Heiligtum fürchten. Ich
+bin der Herr. [fn:8]
+
+<<v31>>
+31 Wendet euch nicht an die Totenbeschwörer und sucht nicht die
+Wahrsager auf; sie verunreinigen euch. Ich bin der Herr, euer Gott.\\
+\\
+
+<<v32>>
+* Die Ehrfurcht vor dem Alter: 19,32
+
+32 Du sollst vor grauem Haar aufstehen, das Ansehen eines Greises ehren
+und deinen Gott fürchten. Ich bin der Herr.\\
+\\
+
+<<v33>>
+* Verhalten gegen Fremde: 19,33-34
+
+33 Wenn bei dir ein Fremder in eurem Land lebt, sollt ihr ihn nicht
+unterdrücken.
+
+<<v34>>
+34 Der Fremde, der sich bei euch aufhält, soll euch wie ein
+Einheimischer gelten und du sollst ihn lieben wie dich selbst; denn ihr
+seid selbst Fremde in Ägypten gewesen. Ich bin der Herr, euer Gott.\\
+\\
+
+<<v35>>
+* Übervorteilung: 19,35-36
+
+35 Ihr sollt kein Unrecht begehen bei Gericht, mit Längenmaß, Gewicht
+und Hohlmaß.
+
+<<v36>>
+36 Ihr sollt richtige Waagen, richtige Gewichtsteine, richtiges Efa und
+richtiges Hin haben. Ich bin der Herr, euer Gott, der euch aus Ägypten
+geführt hat.\\
+\\
+
+<<v37>>
+* Schlussmahnung: 19,37
+
+37 Ihr sollt auf alle meine Satzungen und alle meine Vorschriften achten
+und sie befolgen. Ich bin der Herr.\\
+\\
+
+
+* Footnotes
+
+[fn:1] (3-4) Ex 20,1-12 [[file:Ex_20.org::v1][Ex 20,1-12]]; 23,12 [[file:Ex_23.org::v12][Ex 23,12]]; 34,14-17.21 [[file:Ex_34.org::v14][Ex 34,14-17.21]]; Dtn 5,6-16 [[file:Dtn_5.org::v6][Dtn 5,6-16]]
+
+[fn:2] (5-8) 7,14-18 [[file:Lev_7.org::v14][Lev 7,14-18]]
+
+[fn:3] (11-12) Ex 20,7.15f [[file:Ex_20.org::v7][Ex 20,7.15f]]; 23,7 [[file:Ex_23.org::v7][Ex 23,7]]; Dtn 5,11.19f [[file:Dtn_5.org::v11][Dtn 5,11.19f]]
+
+[fn:4] (15-16) Ex 23,3-7 [[file:Ex_23.org::v3][Ex 23,3-7]]
+
+[fn:5] Unter dem «Nächsten» verstand Israel vor allem den
+Volks- und Glaubensgenossen; doch sind nach V. 34 auch alle Fremden, die
+Gastrecht genießen, in das Gebot der Nächstenliebe mit eingeschlossen.
+Jesus hat es nach Mt 5,43 [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v43][Mt 5,43]] und Lk 10,27-37 [[file:~/RoamNotes/notes/Bibel/nt/Lk_10.org::v27][Lk 10,27-37]] auf alle Menschen ausgedehnt.
+
+[fn:6] Ex 21,7-9 [[file:Ex_21.org::v7][Ex 21,7-9]]
+
+[fn:7] 17,10-12 [[file:Lev_17.org::v10][Lev 17,10-12]]
+
+[fn:8] Ex 20,8 [[file:Ex_20.org::v8][Ex 20,8]]; Dtn 5,12 [[file:Dtn_5.org::v12][Dtn 5,12]]

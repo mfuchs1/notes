@@ -1,0 +1,214 @@
+#+TITLE: Ijob 36 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 23:18]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 36.html
+
+<<verses>>
+
+<<v1>>
+* Die vierte Rede Elihus: 36,1 - 37,24
+
+* Über die Vergeltung Gottes: 36,1-14
+
+1 Dann fuhr Elihu fort und sprach:\\
+\\
+
+<<v2>>
+2 Wart ein wenig, ich will es dir künden, /\\
+ ich hab für Gott noch mehr zu sagen.\\
+\\
+
+<<v3>>
+3 Ich rufe mein Wissen weit hinaus, /\\
+ meinem Schöpfer verschaff ich Recht.\\
+\\
+
+<<v4>>
+4 Denn wahrhaftig, meine Worte sind kein Trug, /\\
+ ein Mann vollkommenen Wissens steht vor dir.\\
+\\
+
+<<v5>>
+5 Denn Gott ist gewaltig, doch verwirft er nicht, /\\
+ gewaltig an Kraft und an Weisheit.\\
+\\
+
+<<v6>>
+6 Den Frevler lässt er nicht am Leben, /\\
+ doch den Gebeugten schafft er Recht.\\
+\\
+
+<<v7>>
+7 Er wendet seine Augen nicht von dem Gerechten; /\\
+ Könige auf dem Thron: /\\
+ für immer setzt er sie ein, sie werden groß. [fn:1]\\
+\\
+
+<<v8>>
+8 Doch sind in Fesseln sie geschlagen, /\\
+ gefangen in des Elends Stricken, [fn:2]\\
+\\
+
+<<v9>>
+9 so hält er ihnen ihr Tun vor /\\
+ und ihr Vergehen, weil sie stolz geworden.\\
+\\
+
+<<v10>>
+10 Er öffnet ihr Ohr zur Warnung, /\\
+ fordert sie auf, vom Bösen zu lassen.\\
+\\
+
+<<v11>>
+11 Wenn sie gehorchen und ihm dienen, /\\
+ vollenden sie im Glück ihre Tage, /\\
+ in Wonnen ihre Jahre.\\
+\\
+
+<<v12>>
+12 Hören sie nicht, so fahren sie zum Todesschacht hinab, /\\
+ verscheiden im Unverstand.\\
+\\
+
+<<v13>>
+13 Ruchlos Gesinnte hegen Groll, /\\
+ schreien nicht um Hilfe, wenn er sie fesselt.\\
+\\
+
+<<v14>>
+14 Jung schon muss ihre Seele sterben, /\\
+ wie das Leben der Lustknaben ist ihr Leben. [fn:3]\\
+\\
+
+<<v15>>
+* Über das Leid: 36,15-21
+
+15 Den Geplagten rettet Gott durch seine Plage /\\
+ und öffnet durch Bedrängnis sein Ohr.\\
+\\
+
+<<v16>>
+16 Auch dich entreißt er dem Rachen der Bedrängnis, /\\
+ in Weite stehst du, nicht in Enge, /\\
+ voll ist deine Tafel von fetten Speisen.\\
+\\
+
+<<v17>>
+17 Doch wenn du wie ein Frevler richtest, /\\
+ wird Recht und Gericht dich treffen.\\
+\\
+
+<<v18>>
+18 Zornglut verleite dich nicht beim Schicksalsschlag /\\
+ und reiches Lösegeld verführe dich nicht.\\
+\\
+
+<<v19>>
+19 Wird dein Schreien aus der Not dich führen /\\
+ und alle Anstrengungen voll Kraft? [fn:4]\\
+\\
+
+<<v20>>
+20 Sehne nicht die Nacht herbei, /\\
+ die Völker von ihrer Stätte vertreibt.\\
+\\
+
+<<v21>>
+21 Hüte dich und wende dich nicht zum Bösen! /\\
+ Denn darum wirst du durch Leid geprüft.\\
+\\
+
+<<v22>>
+* Über Gottes Größe: 36,22-33
+
+22 Sieh, groß ist Gott in seiner Macht. /\\
+ Wer ist ein Lehrer wie er? [fn:5]\\
+\\
+
+<<v23>>
+23 Wer will ihm weisen seinen Weg? /\\
+ Wer kann ihm sagen: Du tust Unrecht? [fn:6]\\
+\\
+
+<<v24>>
+24 Denk daran, hoch sein Werk zu preisen, /\\
+ von dem die Menschen Lieder singen.\\
+\\
+
+<<v25>>
+25 Alle Welt schaut es voll Staunen, /\\
+ von ferne nur erblickt es der Mensch.\\
+\\
+
+<<v26>>
+26 Sieh, Gott ist groß, nicht zu begreifen, /\\
+ unerforschlich ist die Zahl seiner Jahre. [fn:7]\\
+\\
+
+<<v27>>
+27 Denn er zieht die Wassertropfen herauf, /\\
+ als Regen ergießen sie sich aus der Flut. [fn:8]\\
+\\
+
+<<v28>>
+28 Durch ihn rieseln die Wolken, /\\
+ träufeln nieder auf die vielen Menschen.\\
+\\
+
+<<v29>>
+29 Wer gar versteht der Wolke Schweben, /\\
+ den Donnerhall aus seinem Zelt? [fn:9] [fn:10]\\
+\\
+
+<<v30>>
+30 Sieh, darüber breitet er sein Licht /\\
+ und deckt des Meeres Wurzeln zu.\\
+\\
+
+<<v31>>
+31 Denn damit richtet er die Völker, /\\
+ gibt Speise in reicher Fülle. [fn:11]\\
+\\
+
+<<v32>>
+32 Mit leuchtenden Blitzen füllt er beide Hände, /\\
+ bietet sie auf gegen den, der angreift.\\
+\\
+
+<<v33>>
+33 Ihn kündigt an sein Donnerhall, /\\
+ wenn er im Zorn gegen den Frevel eifert. [fn:12]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Dan_4.org::v14][Dan 4,14]]
+
+[fn:2] [[file:2.Chr_33.org::v11][2 Chr 33,11]]-[[file:2.Chr_33.org::v13][13]]; [[file:Ps_107.org::v10][Ps 107,10]]
+
+[fn:3] Anspielung an die sakrale Prostitution im kanaanäischen Kult.
+
+[fn:4] 19f: Sinn unklar.
+
+[fn:5] [[file:Ps_95.org::v3][Ps 95,3]]; [[file:Dan_2.org::v47][Dan 2,47]]
+
+[fn:6] [[file:Jes_40.org::v13][Jes 40,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_11.org::v33][Röm 11,33f]]
+
+[fn:7] [[file:Ps_145.org::v3][Ps 145,3]]
+
+[fn:8] [[file:Ijob_28.org::v25][28,25f]]
+
+[fn:9] [[file:Ps_18.org::v10][Ps 18,10]]-[[file:Ps_18.org::v15][15]]
+
+[fn:10] Wer: Text korr. - Schweben: Text korr.
+
+[fn:11] [[file:Ps_104.org::v13][Ps 104,13f]]
+
+[fn:12] Text korr.

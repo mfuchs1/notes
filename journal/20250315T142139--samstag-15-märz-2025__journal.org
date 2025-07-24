@@ -1,0 +1,17 @@
+#+title:      Samstag 15 März 2025
+#+date:       [2025-03-15 Sa 14:21]
+#+filetags:   :journal:
+#+identifier: 20250315T142139
+
+
+Juhuu das klappt
+
+* [2025-03-15 Sa 14:24] Aha jetzt klappt das
+
+[[denote:20250315T142356::#h:648c8ae3-9b94-438b-8a8b-863fde3616af][Samstag 15 März 2025::nil]]
+
+* [2025-03-15 Sa 14:35] Aha warum klappt das so?
+Und ein Text...
+
+* [2025-03-15 Sa 14:43] Zusätzlicher Eintrag
+

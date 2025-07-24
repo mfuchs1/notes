@@ -1,0 +1,169 @@
+#+TITLE: Gen 34 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:27]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 34.html
+
+<<v1>>
+* Die Rache der Jakobssöhne an den Sichemiten: 34,1-31
+1 Dina, die Tochter, die Lea Jakob geboren hatte, ging aus, um sich die
+Töchter des Landes anzusehen. [fn:1]
+
+<<v2>>
+2 Sichem, der Sohn des Hiwiters Hamor, des Landesfürsten, erblickte sie;
+er ergriff sie, legte sich zu ihr und vergewaltigte sie.
+
+<<v3>>
+3 Er fasste Zuneigung zu Dina, der Tochter Jakobs, er liebte das Mädchen
+und redete ihm gut zu.
+
+<<v4>>
+4 Zu seinem Vater Hamor sagte Sichem: Nimm mir dieses Mädchen zur Frau!
+
+<<v5>>
+5 Jakob hörte, dass man seine Tochter Dina entehrt hatte. Seine Söhne
+waren gerade auf dem Feld bei seiner Herde und so behielt Jakob die
+Sache für sich bis zu ihrer Rückkehr.
+
+<<v6>>
+6 Inzwischen kam Hamor, der Vater Sichems, zu Jakob heraus, um mit ihm
+darüber zu reden.
+
+<<v7>>
+7 Als Jakobs Söhne vom Feld kamen und davon erfuhren, empfanden sie das
+als Beleidigung und wurden sehr zornig; eine Schandtat hatte Sichem an
+Israel begangen, weil er der Tochter Jakobs beiwohnte; so etwas darf man
+nicht tun.
+
+<<v8>>
+8 Hamor redete mit ihnen und sagte: Mein Sohn Sichem hat zu eurer
+Tochter Zuneigung gefasst. Gebt sie ihm doch zur Frau!
+
+<<v9>>
+9 Verschwägern wir uns; gebt uns eure Töchter und nehmt die unseren!
+
+<<v10>>
+10 Ihr könnt euch bei uns ansiedeln und das Land steht euch offen.
+Bleibt da, geht hier euren Geschäften nach und macht euch im Land
+ansässig!
+
+<<v11>>
+11 Sichem sagte zu Dinas Vater und zu ihren Brüdern: Finde ich euer
+Wohlwollen, dann will ich geben, was ihr auch von mir verlangt.
+
+<<v12>>
+12 Legt mir ruhig ein sehr hohes Heiratsgeld und eine hohe Brautgabe
+auf! Ich will geben, was ihr von mir verlangt. Nur gebt mir das Mädchen
+zur Frau!
+
+<<v13>>
+13 Die Söhne Jakobs gaben Sichem und seinem Vater Hamor, als sie die
+Verhandlungen aufnahmen, eine hinterhältige Antwort, weil er ihre
+Schwester entehrt hatte.
+
+<<v14>>
+14 Sie sagten zu ihnen: Wir können uns nicht darauf einlassen, unsere
+Schwester einem Unbeschnittenen zu geben; denn das gilt bei uns als
+Schande.
+
+<<v15>>
+15 Nur unter der Bedingung gehen wir auf euren Vorschlag ein, dass ihr
+euch uns anpasst und alle männlichen Personen beschneiden lasst.
+
+<<v16>>
+16 Dann würden wir euch unsere Töchter geben und wir könnten eure
+Töchter nehmen; wir könnten mit euch zusammen wohnen und ein einziges
+Volk werden.
+
+<<v17>>
+17 Wollt ihr aber von der Beschneidung nichts wissen, so nehmen wir
+unsere Tochter zurück und ziehen fort.
+
+<<v18>>
+18 Hamor und sein Sohn Sichem waren mit ihrem Vorschlag einverstanden.
+
+<<v19>>
+19 Der junge Mann verlor keine Zeit, die Angelegenheit zu regeln; denn
+er hatte die Tochter Jakobs lieb und er war der Einflussreichste von
+allen im Hause seines Vaters.
+
+<<v20>>
+20 Hamor und sein Sohn Sichem gingen an das Tor ihrer Stadt und sprachen
+zu ihren Mitbürgern:
+
+<<v21>>
+21 Jene Leute sind uns friedlich gesinnt. Sie könnten sich im Land
+ansiedeln und ihren Geschäften nachgehen. Das Land hat ja nach allen
+Seiten Platz genug für sie. Wir könnten ihre Töchter zu Frauen nehmen
+und unsere Töchter ihnen geben.
+
+<<v22>>
+22 Allerdings wollen die Männer bloß unter der Bedingung auf unseren
+Vorschlag eingehen, mit uns zusammen zu wohnen und ein einziges Volk zu
+werden, dass sich bei uns alle Männer beschneiden lassen, so wie sie
+beschnitten sind.
+
+<<v23>>
+23 Ihre Herden, ihr Besitz, ihr Vieh, könnte das nicht alles uns
+gehören? Gehen wir also auf ihren Vorschlag ein, dann werden sie bei uns
+bleiben.
+
+<<v24>>
+24 Alle, die durch das Tor der Stadt ausziehen, hörten auf Hamor und
+seinen Sohn Sichem; und alle Männer, alle, die durch das Tor seiner
+Stadt ausziehen, ließen sich beschneiden. [fn:2]
+
+<<v25>>
+25 Am dritten Tag aber, als sie an Wundfieber litten, griffen zwei Söhne
+Jakobs, Simeon und Levi, die Brüder Dinas, zum Schwert, überfielen
+ungefährdet die Stadt und brachten alles Männliche um.
+
+<<v26>>
+26 Hamor und seinen Sohn Sichem machten sie mit dem Schwert nieder,
+holten Dina aus dem Hause Sichems und gingen davon.
+
+<<v27>>
+27 Dann machten sich die Söhne Jakobs über die Erschlagenen her und
+plünderten die Stadt, weil man ihre Schwester entehrt hatte.
+
+<<v28>>
+28 Ihre Schafe und Rinder, ihre Esel und was es sonst in der Stadt oder
+auf dem Feld gab, nahmen sie mit.
+
+<<v29>>
+29 Ihre ganze Habe, all ihre Kinder und Frauen führten sie fort und
+raubten alles, was sich in den Häusern fand.
+
+<<v30>>
+30 Jakob sagte darauf zu Simeon und Levi: Ihr stürzt mich ins Unglück.
+Ihr habt mich in Verruf gebracht bei den Bewohnern des Landes, den
+Kanaanitern und Perisitern. Meine Männer kann man an den Fingern
+abzählen. Jene werden sich gegen mich zusammentun und mich niedermachen.
+Dann ist es vorbei mit mir und meinem Haus. [fn:3]
+
+<<v31>>
+31 Die Söhne aber sagten: Durfte er unsere Schwester wie eine Dirne
+behandeln?\\
+\\
+
+
+* Footnotes
+
+[fn:1] 1-31: Vergewaltigung einer Frau gilt noch heute bei den
+Beduinen als ein dem Mord gleichwertiges Verbrechen und löst Blutrache
+aus. Das Verwerfliche der Tat der Jakobsöhne an den Sichemiten ist nicht
+die Blutrache an sich, sondern der Vollzug der Blutrache, obwohl bereits
+Ausgleichsverhandlungen zum erfolgreichen Abschluss gekommen sind, die
+einem Verzicht auf Blutrache gleichkommen. Zur Blutrache nach
+Vergewaltigung einer Frau vgl. auch 2 Sam 13 [[id:9da3a382-b98d-409f-9571-3a46f654ba31][2 Sam 13]].
+
+[fn:2] die durch das Tor der Stadt ausziehen: die wehrfähigen
+Männer.
+
+[fn:3] 49,5-7 [[file:Gen_49.org::v5][Gen 49,5-7]]

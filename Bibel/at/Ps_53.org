@@ -1,0 +1,66 @@
+#+TITLE: Ps 53 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-02-27 Di 17:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 53.html
+
+* Ps 53
+<<verses>>
+
+<<v1>>
+* Die Torheit der Gottesleugner
+
+1 [Für den Chormeister. Nach der Weise «Krankheit». Ein Weisheitslied
+Davids.] [fn:1]\\
+\\
+
+<<v2>>
+2 Die Toren sagen in ihrem Herzen: /\\
+ «Es gibt keinen Gott.» Sie handeln verwerflich und schnöde; /\\
+ da ist keiner, der Gutes tut.\\
+\\
+
+<<v3>>
+3 Gott blickt vom Himmel herab auf die Menschen, /\\
+ ob noch ein Verständiger da ist, der Gott sucht.\\
+\\
+
+<<v4>>
+4 Alle sind sie abtrünnig und verdorben, /\\
+ keiner tut Gutes, auch nicht ein Einziger. [fn:2]\\
+\\
+
+<<v5>>
+5 Haben denn die Übeltäter keine Einsicht? /\\
+ Sie verschlingen mein Volk. Sie essen Gottes Brot, /\\
+ doch seinen Namen rufen sie nicht an.\\
+\\
+
+<<v6>>
+6 Es trifft sie Furcht und Schrecken, /\\
+ obwohl doch nichts zu fürchten ist. Deinen Bedrängern hat Gott die
+Glieder zerschlagen. /\\
+ Gott lässt sie scheitern, denn er hat sie verworfen. [fn:3]\\
+\\
+
+<<v7>>
+7 Ach käme doch vom Zion Hilfe für Israel! /\\
+ Wenn Gott einst das Geschick seines Volkes wendet, /\\
+ dann jubelt Jakob, dann freut sich Israel.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-7) [[file:Ps_14.org][Ps 14]]
+
+[fn:2] Text korr. nach G und der aramäischen Übersetzung; vgl. auch [[file:Ps_14.org::v3][14,3]].
+
+[fn:3] Wörtlich: Gott zerstreut die Gebeine deines Belagerers.
+Text korr. nach G.

@@ -1,0 +1,119 @@
+#+TITLE: Ps 140 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-20 Di 18:35]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 140.html
+
+* Ps 140
+
+<<verses>>
+
+<<v1>>
+* Hilferuf zu Gott, dem Anwalt des Armen
+
+1 [Für den Chormeister. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Rette mich, Herr, vor bösen Menschen, /\\
+ vor gewalttätigen Leuten schütze mich! [fn:1]\\
+\\
+
+<<v3>>
+3 Denn sie sinnen in ihrem Herzen auf Böses, /\\
+ jeden Tag schüren sie Streit.\\
+\\
+
+<<v4>>
+4 Wie die Schlangen haben sie scharfe Zungen /\\
+ und hinter den Lippen Gift wie die Nattern. [Sela] [fn:2]\\
+\\
+
+<<v5>>
+5 Behüte mich, Herr, vor den Händen der Frevler, /\\
+ vor gewalttätigen Leuten schütze mich, /\\
+ die darauf sinnen, mich zu Boden zu stoßen. [fn:3]\\
+\\
+
+<<v6>>
+6 Hochmütige legen mir heimlich Schlingen, /\\
+ Böse spannen ein Netz aus, /\\
+ stellen mir Fallen am Wegrand. [Sela] [fn:4] [fn:5]\\
+\\
+
+<<v7>>
+7 Ich sage zum Herrn: Du bist mein Gott. /\\
+ Vernimm, o Herr, mein lautes Flehen! [fn:6]\\
+\\
+
+<<v8>>
+8 Herr, mein Gebieter, meine starke Hilfe, /\\
+ du beschirmst mein Haupt am Tag des Kampfes.\\
+\\
+
+<<v9>>
+9 Herr, erfülle nicht die Wünsche des Frevlers, /\\
+ lass seine Pläne nicht gelingen! [Sela] [fn:7]\\
+\\
+
+<<v10>>
+10 Die mich umzingeln, sollen das Haupt nicht erheben; /\\
+ die Bosheit ihrer Lippen treffe sie selbst. [fn:8]\\
+\\
+
+<<v11>>
+11 Er lasse glühende Kohlen auf sie regnen, /\\
+ er stürze sie hinab in den Abgrund, /\\
+ sodass sie nie wieder aufstehn. [fn:9]\\
+\\
+
+<<v12>>
+12 Der Verleumder soll nicht bestehen im Land, /\\
+ den Gewalttätigen treffe das Unglück Schlag auf Schlag.\\
+\\
+
+<<v13>>
+13 Ich weiß, der Herr führt die Sache des Armen, /\\
+ er verhilft den Gebeugten zum Recht. [fn:10] [fn:11]\\
+\\
+
+<<v14>>
+14 Deinen Namen preisen nur die Gerechten; /\\
+ vor deinem Angesicht dürfen nur die Redlichen bleiben. [fn:12]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_71.org::v4][71,4]]
+
+[fn:2] [[file:Ps_55.org::v22][55,22]]; [[file:Ps_58.org::v5][58,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v13][Röm 3,13]]
+
+[fn:3] Wörtlich: darauf sinnen, meine Schritte zu Fall zu
+bringen.
+
+[fn:4] [[file:Ps_57.org::v7][57,7]]; [[file:Ps_141.org::v9][141,9]]; [[file:Ps_142.org::v4][142,4]]; [[file:Ijob_18.org::v8][Ijob 18,8]]
+
+[fn:5] Text korr.
+
+[fn:6] [[file:Ps_31.org::v15][31,15]]
+
+[fn:7] 9f: Text korr. durch Verschiebung der Versgrenze und
+Wiederholung der Negation von V. 9 in V. 10.
+
+[fn:8] [[file:Ps_7.org::v17][7,17]]
+
+[fn:9] [[file:Ps_11.org::v6][11,6]]; [[file:Ps_120.org::v4][120,4]]; [[file:Num_16.org::v31][Num 16,31f]]
+
+[fn:10] [[file:Ps_9.org::v19][9,19]]; [[file:Ps_34.org::v7][34,7]]
+
+[fn:11] Wörtlich: er richtet den Gebeugten nach dem
+Armenrecht.
+
+[fn:12] [[file:Ps_11.org::v7][11,7]]

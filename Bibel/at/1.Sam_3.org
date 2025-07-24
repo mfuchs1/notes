@@ -1,0 +1,116 @@
+#+TITLE: 1 Sam 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 10:01]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 3.html
+
+
+<<verses>>
+
+<<v1>>
+* Die erste Offenbarung an Samuel: 3,1-21
+
+1 Der junge Samuel versah den Dienst des Herrn unter der Aufsicht Elis.
+In jenen Tagen waren Worte des Herrn selten; Visionen waren nicht
+häufig.
+
+<<v2>>
+2 Eines Tages geschah es: Eli schlief auf seinem Platz; seine Augen
+waren schwach geworden und er konnte nicht mehr sehen. [fn:1]
+
+<<v3>>
+3 Die Lampe Gottes war noch nicht erloschen und Samuel schlief im Tempel
+des Herrn, wo die Lade Gottes stand.
+
+<<v4>>
+4 Da rief der Herr den Samuel und Samuel antwortete: Hier bin ich.
+
+<<v5>>
+5 Dann lief er zu Eli und sagte: Hier bin ich, du hast mich gerufen. Eli
+erwiderte: Ich habe dich nicht gerufen. Geh wieder schlafen! Da ging er
+und legte sich wieder schlafen.
+
+<<v6>>
+6 Der Herr rief noch einmal: Samuel! Samuel stand auf und ging zu Eli
+und sagte: Hier bin ich, du hast mich gerufen. Eli erwiderte: Ich habe
+dich nicht gerufen, mein Sohn. Geh wieder schlafen!
+
+<<v7>>
+7 Samuel kannte den Herrn noch nicht und das Wort des Herrn war ihm noch
+nicht offenbart worden.
+
+<<v8>>
+8 Da rief der Herr den Samuel wieder, zum dritten Mal. Er stand auf und
+ging zu Eli und sagte: Hier bin ich, du hast mich gerufen. Da merkte
+Eli, dass der Herr den Knaben gerufen hatte.
+
+<<v9>>
+9 Eli sagte zu Samuel: Geh, leg dich schlafen! Wenn er dich (wieder)
+ruft, dann antworte: Rede, Herr; denn dein Diener hört. Samuel ging und
+legte sich an seinem Platz nieder.
+
+<<v10>>
+10 Da kam der Herr, trat (zu ihm) heran und rief wie die vorigen Male:
+Samuel, Samuel! Und Samuel antwortete: Rede, denn dein Diener hört.
+
+<<v11>>
+11 Der Herr sagte zu Samuel: Fürwahr, ich werde in Israel etwas tun,
+sodass jedem, der davon hört, beide Ohren gellen.
+
+<<v12>>
+12 An jenem Tag werde ich an Eli vom Anfang bis zum Ende alles
+verwirklichen, was ich seinem Haus angedroht habe.
+
+<<v13>>
+13 Ich habe ihm angekündigt, dass ich über sein Haus für immer das
+Urteil gesprochen habe wegen seiner Schuld; denn er wusste, wie seine
+Söhne Gott lästern, und gebot ihnen nicht Einhalt. [fn:2]
+
+<<v14>>
+14 Darum habe ich dem Haus Eli geschworen: Die Schuld des Hauses Eli
+kann durch Opfer und durch Gaben in Ewigkeit nicht gesühnt werden.
+
+<<v15>>
+15 Samuel blieb bis zum Morgen liegen, dann öffnete er die Türen zum
+Haus des Herrn. Er fürchtete sich aber, Eli von der Vision zu berichten.
+
+<<v16>>
+16 Da rief Eli Samuel und sagte: Samuel, mein Sohn! Er antwortete: Hier
+bin ich.
+
+<<v17>>
+17 Eli fragte: Was war es, das er zu dir gesagt hat? Verheimliche mir
+nichts! Gott möge dir dies und das antun, wenn du mir auch nur eines von
+all den Worten verheimlichst, die er zu dir gesprochen hat.
+
+<<v18>>
+18 Da teilte ihm Samuel alle Worte mit und verheimlichte ihm nichts.
+Darauf sagte Eli: Es ist der Herr. Er tue, was ihm gefällt.
+
+<<v19>>
+19 Samuel wuchs heran und der Herr war mit ihm und ließ keines von all
+seinen Worten unerfüllt. [fn:3]
+
+<<v20>>
+20 Ganz Israel von Dan bis Beerscheba erkannte, dass Samuel als Prophet
+des Herrn beglaubigt war.
+
+<<v21>>
+21 Auch weiterhin erschien der Herr in Schilo: Der Herr offenbarte sich
+Samuel in Schilo durch sein Wort.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_4.org::v15][4,15]]
+
+[fn:2] Gott lästern: Text korr. nach G; H: sich Fluch zuziehen.
+
+[fn:3] und ließ . . . unerfüllt, wörtlich: und ließ keines
+seiner Worte zu Boden fallen.

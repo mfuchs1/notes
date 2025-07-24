@@ -1,0 +1,115 @@
+#+TITLE: Gen 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 7.html
+
+* Gen 7
+<<verses>>
+
+<<v1>>
+1 Darauf sprach der Herr zu Noach: Geh in die Arche, du und dein ganzes
+Haus, denn ich habe gesehen, dass du unter deinen Zeitgenossen vor mir
+gerecht bist.
+
+<<v2>>
+2 Von allen reinen Tieren nimm dir je sieben Paare mit und von allen
+unreinen Tieren je ein Paar,
+
+<<v3>>
+3 auch von den Vögeln des Himmels je sieben Männchen und Weibchen, um
+Nachwuchs auf der ganzen Erde am Leben zu erhalten.
+
+<<v4>>
+4 Denn noch sieben Tage dauert es, dann lasse ich es vierzig Tage und
+vierzig Nächte lang auf die Erde regnen und tilge vom Erdboden alle
+Wesen, die ich gemacht habe.
+
+<<v5>>
+5 Noach tat alles, was ihm der Herr aufgetragen hatte.
+
+<<v6>>
+6 Noach war sechshundert Jahre alt, als die Flut über die Erde kam.
+
+<<v7>>
+7 Noach ging also mit seinen Söhnen, seiner Frau und den Frauen seiner
+Söhne in die Arche, bevor das Wasser der Flut kam.
+
+<<v8>>
+8 Von den reinen und unreinen Tieren, von den Vögeln und allem, was sich
+auf dem Erdboden regt,
+
+<<v9>>
+9 kamen immer zwei zu Noach in die Arche, Männchen und Weibchen, wie
+Gott dem Noach aufgetragen hatte.
+
+<<v10>>
+10 Als die sieben Tage vorbei waren, kam das Wasser der Flut über die
+Erde,
+
+<<v11>>
+11 im sechshundertsten Lebensjahr Noachs, am siebzehnten Tag des zweiten
+Monats. An diesem Tag brachen alle Quellen der gewaltigen Urflut auf und
+die Schleusen des Himmels öffneten sich.
+
+<<v12>>
+12 Der Regen ergoss sich vierzig Tage und vierzig Nächte lang auf die
+Erde.
+
+<<v13>>
+13 Genau an jenem Tag waren Noach, die Söhne Noachs, Sem, Ham und Jafet,
+Noachs Frau und mit ihnen die drei Frauen seiner Söhne in die Arche
+gegangen,
+
+<<v14>>
+14 sie und alle Arten der Tiere, alle Arten des Viehs und alle Arten der
+Kriechtiere, die sich auf der Erde regen, und alle Arten der Vögel, des
+fliegenden Getiers.
+
+<<v15>>
+15 Sie waren zu Noach in die Arche gekommen, immer zwei von allen Wesen
+aus Fleisch, in denen Lebensgeist ist.
+
+<<v16>>
+16 Von allen Tieren waren Männchen und Weibchen gekommen, wie Gott ihm
+aufgetragen hatte. Dann schloss der Herr hinter ihm zu.\\
+\\
+
+<<v17>>
+* Die große Flut: 7,17 - 8,22
+17 Die Flut auf der Erde dauerte vierzig Tage. Das Wasser stieg und hob
+die Arche immer höher über die Erde.
+
+<<v18>>
+18 Das Wasser schwoll an und stieg immer mehr auf der Erde, die Arche
+aber trieb auf dem Wasser dahin.
+
+<<v19>>
+19 Das Wasser war auf der Erde gewaltig angeschwollen und bedeckte alle
+hohen Berge, die es unter dem ganzen Himmel gibt.
+
+<<v20>>
+20 Das Wasser war fünfzehn Ellen über die Berge hinaus angeschwollen und
+hatte sie zugedeckt.
+
+<<v21>>
+21 Da verendeten alle Wesen aus Fleisch, die sich auf der Erde geregt
+hatten, Vögel, Vieh und sonstige Tiere, alles, wovon die Erde gewimmelt
+hatte, und auch alle Menschen.
+
+<<v22>>
+22 Alles, was auf der Erde durch die Nase Lebensgeist atmete, kam um.
+
+<<v23>>
+23 Gott vertilgte also alle Wesen auf dem Erdboden, Menschen, Vieh,
+Kriechtiere und die Vögel des Himmels; sie alle wurden vom Erdboden
+vertilgt. Übrig blieb nur Noach und was mit ihm in der Arche war.
+
+<<v24>>
+24 Das Wasser aber schwoll hundertfünfzig Tage lang auf der Erde an.

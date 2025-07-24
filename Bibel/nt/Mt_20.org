@@ -1,0 +1,238 @@
+:PROPERTIES:
+:ID:       da3d88fd-ee44-4403-a7c7-c3a42bae5976
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Matthäus* --
+[[file:Mt_1.html][1]] ... [[file:Mt_18.html][18]]
+[[file:Mt_19.html][19]] *20* [[file:Mt_21.html][21]]
+[[file:Mt_22.html][22]] ... [[file:Mt_28.html][28]]
+
+--------------
+
+* Mt 20
+  :PROPERTIES:
+  :CUSTOM_ID: mt-20
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das Gleichnis von den Arbeitern im Weinberg: 20,1-16
+     :PROPERTIES:
+     :CUSTOM_ID: das-gleichnis-von-den-arbeitern-im-weinberg-201-16
+     :END:
+1 Denn mit dem Himmelreich ist es wie mit einem Gutsbesitzer, der früh
+am Morgen sein Haus verließ, um Arbeiter für seinen Weinberg anzuwerben.
+^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 256\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Er einigte sich mit den Arbeitern auf einen Denar für den Tag und
+schickte sie in seinen Weinberg.
+
+<<v3>>
+3 Um die dritte Stunde ging er wieder auf den Markt und sah andere
+dastehen, die keine Arbeit hatten.
+
+<<v4>>
+4 Er sagte zu ihnen: Geht auch ihr in meinen Weinberg! Ich werde euch
+geben, was recht ist.
+
+<<v5>>
+5 Und sie gingen. Um die sechste und um die neunte Stunde ging der
+Gutsherr wieder auf den Markt und machte es ebenso.
+
+<<v6>>
+6 Als er um die elfte Stunde noch einmal hinging, traf er wieder einige,
+die dort herumstanden. Er sagte zu ihnen: Was steht ihr hier den ganzen
+Tag untätig herum?
+
+<<v7>>
+7 Sie antworteten: Niemand hat uns angeworben. Da sagte er zu ihnen:
+Geht auch ihr in meinen Weinberg!
+
+<<v8>>
+8 Als es nun Abend geworden war, sagte der Besitzer des Weinbergs zu
+seinem Verwalter: Ruf die Arbeiter, und zahl ihnen den Lohn aus,
+angefangen bei den letzten, bis hin zu den ersten. ^{[[#fn2][2]]}
+
+<<v9>>
+9 Da kamen die Männer, die er um die elfte Stunde angeworben hatte, und
+jeder erhielt einen Denar.
+
+<<v10>>
+10 Als dann die ersten an der Reihe waren, glaubten sie, mehr zu
+bekommen. Aber auch sie erhielten nur einen Denar.
+
+<<v11>>
+11 Da begannen sie, über den Gutsherrn zu murren,
+
+<<v12>>
+12 und sagten: Diese letzten haben nur eine Stunde gearbeitet, und du
+hast sie uns gleichgestellt; wir aber haben den ganzen Tag über die Last
+der Arbeit und die Hitze ertragen.
+
+<<v13>>
+13 Da erwiderte er einem von ihnen: Mein Freund, dir geschieht kein
+Unrecht. Hast du nicht einen Denar mit mir vereinbart?
+
+<<v14>>
+14 Nimm dein Geld und geh! Ich will dem letzten ebenso viel geben wie
+dir. ^{[[#fn3][3]]}
+
+<<v15>>
+15 Darf ich mit dem, was mir gehört, nicht tun, was ich will? Oder bist
+du neidisch, weil ich (zu anderen) gütig bin?
+
+<<v16>>
+16 So werden die Letzten die Ersten sein und die Ersten die Letzten.
+^{[[#fn4][4]][[#fn5][5]]}\\
+\\
+
+<<v17>>
+**** Die dritte Ankündigung von Leiden und Auferstehung: 20,17-19
+     :PROPERTIES:
+     :CUSTOM_ID: die-dritte-ankündigung-von-leiden-und-auferstehung-2017-19
+     :END:
+17 Als Jesus nach Jerusalem hinaufzog, nahm er unterwegs die zwölf
+Jünger beiseite und sagte zu ihnen: ^{[[#fn6][6]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 262\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v18>>
+18 Wir gehen jetzt nach Jerusalem hinauf; dort wird der Menschensohn den
+Hohenpriestern und Schriftgelehrten ausgeliefert; sie werden ihn zum Tod
+verurteilen ^{[[#fn7][7]]}
+
+<<v19>>
+19 und den Heiden übergeben, damit er verspottet, gegeißelt und
+gekreuzigt wird; aber am dritten Tag wird er auferstehen.
+^{[[#fn8][8]]}\\
+\\
+
+<<v20>>
+**** Vom Herrschen und vom Dienen: 20,20-28
+     :PROPERTIES:
+     :CUSTOM_ID: vom-herrschen-und-vom-dienen-2020-28
+     :END:
+20 Damals kam die Frau des Zebedäus mit ihren Söhnen zu Jesus und fiel
+vor ihm nieder, weil sie ihn um etwas bitten wollte.
+^{[[#fn9][9]][[#fn10][10]][[#fn11][11]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 263\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v21>>
+21 Er fragte sie: Was willst du? Sie antwortete: Versprich, dass meine
+beiden Söhne in deinem Reich rechts und links neben dir sitzen dürfen.
+
+<<v22>>
+22 Jesus erwiderte: Ihr wisst nicht, um was ihr bittet. Könnt ihr den
+Kelch trinken, den ich trinken werde? Sie sagten zu ihm: Wir können es.
+^{[[#fn12][12]][[#fn13][13]]}
+
+<<v23>>
+23 Da antwortete er ihnen: Ihr werdet meinen Kelch trinken; doch den
+Platz zu meiner Rechten und zu meiner Linken habe nicht ich zu vergeben;
+dort werden die sitzen, für die mein Vater diese Plätze bestimmt hat.
+
+<<v24>>
+24 Als die zehn anderen Jünger das hörten, wurden sie sehr ärgerlich
+über die beiden Brüder. ^{[[#fn14][14]]}
+
+<<v25>>
+25 Da rief Jesus sie zu sich und sagte: Ihr wisst, dass die Herrscher
+ihre Völker unterdrücken und die Mächtigen ihre Macht über die Menschen
+missbrauchen.
+
+<<v26>>
+26 Bei euch soll es nicht so sein, sondern wer bei euch groß sein will,
+der soll euer Diener sein, ^{[[#fn15][15]]}
+
+<<v27>>
+27 und wer bei euch der Erste sein will, soll euer Sklave sein.
+
+<<v28>>
+28 Denn auch der Menschensohn ist nicht gekommen, um sich dienen zu
+lassen, sondern um zu dienen und sein Leben hinzugeben als Lösegeld für
+viele. ^{[[#fn16][16]]}\\
+\\
+
+<<v29>>
+**** Die Heilung von zwei Blinden bei Jericho: 20,29-34
+     :PROPERTIES:
+     :CUSTOM_ID: die-heilung-von-zwei-blinden-bei-jericho-2029-34
+     :END:
+29 Als sie Jericho verließen, folgte ihm eine große Zahl von Menschen.
+^{[[#fn17][17]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 264\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v30>>
+30 An der Straße aber saßen zwei Blinde, und als sie hörten, dass Jesus
+vorbeikam, riefen sie laut: Herr, Sohn Davids, hab Erbarmen mit uns!
+^{[[#fn18][18]]}
+
+<<v31>>
+31 Die Leute aber wurden ärgerlich und befahlen ihnen zu schweigen. Sie
+aber schrien noch lauter: Herr, Sohn Davids, hab Erbarmen mit uns!
+
+<<v32>>
+32 Jesus blieb stehen, rief sie zu sich und sagte: Was soll ich euch
+tun?
+
+<<v33>>
+33 Sie antworteten: Herr, wir möchten, dass unsere Augen geöffnet
+werden.
+
+<<v34>>
+34 Da hatte Jesus Mitleid mit ihnen und berührte ihre Augen. Im gleichen
+Augenblick konnten sie wieder sehen, und sie folgten ihm.\\
+\\
+
+^{[[#fnm1][1]]} ℘ ⇨Esyn: Synopse Nr. 256
+
+^{[[#fnm2][2]]} ℘ Lev 19,13; Dtn 24,15
+
+^{[[#fnm3][3]]} »Ebenso viel« ist hier zu verstehen im Sinne von »im
+gleichen Maße«.
+
+^{[[#fnm4][4]]} ℘ 19,30; Mk 10,31; Lk 13,30
+
+^{[[#fnm5][5]]} Spätere Textzeugen fügen am Ende des Verses entsprechend
+Mt 22,14 hinzu: Denn viele sind gerufen, aber nur wenige auserwählt.
+
+^{[[#fnm6][6]]} ℘ (17-19) Mk 10,32-34; Lk 18,31-34 ⇨Esyn: Synopse Nr.
+262
+
+^{[[#fnm7][7]]} ℘ (18f) 16,21; 17,22f
+
+^{[[#fnm8][8]]} ℘ 27,63; 28,6; Lk 9,22; 24,7.46; Apg 10,40; 1 Kor 15,4
+
+^{[[#fnm9][9]]} ℘ (20-23) Mk 10,35-40
+
+^{[[#fnm10][10]]} die Frau des Zebedäus, wörtlich: die Mutter der Söhne
+des Zebedäus.
+
+^{[[#fnm11][11]]} ℘ ⇨Esyn: Synopse Nr. 263
+
+^{[[#fnm12][12]]} ℘ 26,39; Joh 18,11
+
+^{[[#fnm13][13]]} 22f: «Jemandes Kelch trinken» bedeutet so viel wie «an
+jemandes Schicksal teilhaben».
+
+^{[[#fnm14][14]]} ℘ (24-28) Mk 10,41-45; Lk 22,24-27
+
+^{[[#fnm15][15]]} ℘ 23,11; Mk 9,35; Lk 9,48
+
+^{[[#fnm16][16]]} ℘ Jes 53,12; 1 Tim 2,6
+
+^{[[#fnm17][17]]} ℘ (29-34) 9,27-30; Mk 10,46-52; Lk 18,35-43 ⇨Esyn:
+Synopse Nr. 264
+
+^{[[#fnm18][18]]} ℘ 15,22

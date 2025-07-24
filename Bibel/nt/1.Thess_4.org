@@ -1,0 +1,155 @@
+:PROPERTIES:
+:ID:       15f88248-9626-4cc9-a9e9-3657029486a0
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der erste Brief an die Thessalonicher* --
+[[file:1.Thess_1.html][1]] [[file:1.Thess_2.html][2]]
+[[file:1.Thess_3.html][3]] *4* [[file:1.Thess_5.html][5]]
+
+--------------
+
+* 1.Thess 4
+  :PROPERTIES:
+  :CUSTOM_ID: thess-4
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Weisungen für das christliche Leben: 4,1 - 5,22
+   :PROPERTIES:
+   :CUSTOM_ID: weisungen-für-das-christliche-leben-41---522
+   :END:
+**** Aufforderung zur Heiligung des Lebens: 4,1-12
+     :PROPERTIES:
+     :CUSTOM_ID: aufforderung-zur-heiligung-des-lebens-41-12
+     :END:
+1 Im Übrigen, Brüder, bitten und ermahnen wir euch im Namen Jesu, des
+Herrn: Ihr habt von uns gelernt, wie ihr leben müsst, um Gott zu
+gefallen, und ihr lebt auch so; werdet darin noch vollkommener!
+
+<<v2>>
+2 Ihr wisst ja, welche Ermahnungen wir euch im Auftrag Jesu, des Herrn,
+gegeben haben.
+
+<<v3>>
+3 Das ist es, was Gott will: eure Heiligung. Das bedeutet, dass ihr die
+Unzucht meidet,
+
+<<v4>>
+4 dass jeder von euch lernt, mit seiner Frau in heiliger und
+achtungsvoller Weise zu verkehren, ^{[[#fn1][1]]}
+
+<<v5>>
+5 nicht in leidenschaftlicher Begierde wie /die Heiden, die Gott nicht
+kennen,/ ^{[[#fn2][2]]}
+
+<<v6>>
+6 und dass keiner seine Rechte überschreitet und seinen Bruder bei
+Geschäften betrügt, denn all das rächt der Herr, wie wir euch schon
+früher gesagt und bezeugt haben. ^{[[#fn3][3]][[#fn4][4]]}
+
+<<v7>>
+7 Denn Gott hat uns nicht dazu berufen, unrein zu leben, sondern heilig
+zu sein. ^{[[#fn5][5]]}
+
+<<v8>>
+8 Wer das verwirft, der verwirft also nicht Menschen, sondern Gott, der
+euch /seinen/ Heiligen /Geist schenkt./ ^{[[#fn6][6]]}
+
+<<v9>>
+9 Über die Bruderliebe brauche ich euch nicht zu schreiben; Gott selbst
+hat euch schon gelehrt, einander zu lieben;
+
+<<v10>>
+10 und danach handelt ihr auch an allen Brüdern in ganz Mazedonien. Wir
+ermuntern euch aber, Brüder, darin noch vollkommener zu werden.
+
+<<v11>>
+11 Setzt eure Ehre darein, ruhig zu leben, euch um die eigenen Aufgaben
+zu kümmern und mit euren Händen zu arbeiten, wie wir euch aufgetragen
+haben. ^{[[#fn7][7]]}
+
+<<v12>>
+12 So sollt ihr vor denen, die nicht zu euch gehören, ein
+rechtschaffenes Leben führen und auf niemand angewiesen sein.
+^{[[#fn8][8]]}\\
+\\
+
+<<v13>>
+**** Die Hoffnung der Christen: 4,13-18
+     :PROPERTIES:
+     :CUSTOM_ID: die-hoffnung-der-christen-413-18
+     :END:
+13 Brüder, wir wollen euch über die Verstorbenen nicht in Unkenntnis
+lassen, damit ihr nicht trauert wie die anderen, die keine Hoffnung
+haben. ^{[[#fn9][9]][[#fn10][10]]}
+
+<<v14>>
+14 Wenn Jesus - und das ist unser Glaube - gestorben und auferstanden
+ist, dann wird Gott durch Jesus auch die Verstorbenen zusammen mit ihm
+zur Herrlichkeit führen. ^{[[#fn11][11]][[#fn12][12]]}
+
+<<v15>>
+15 Denn dies sagen wir euch nach einem Wort des Herrn: Wir, die
+Lebenden, die noch übrig sind, wenn der Herr kommt, werden den
+Verstorbenen nichts voraushaben. ^{[[#fn13][13]][[#fn14][14]]}
+
+<<v16>>
+16 Denn der Herr selbst wird vom Himmel herabkommen, wenn der Befehl
+ergeht, der Erzengel ruft und die Posaune Gottes erschallt. Zuerst
+werden die in Christus Verstorbenen auferstehen;
+
+<<v17>>
+17 dann werden wir, die Lebenden, die noch übrig sind, zugleich mit
+ihnen auf den Wolken in die Luft entrückt, dem Herrn entgegen. Dann
+werden wir immer beim Herrn sein.
+
+<<v18>>
+18 Tröstet also einander mit diesen Worten!\\
+\\
+
+^{[[#fnm1][1]]} Andere Übersetzungsmöglichkeit: dass jeder von euch
+seinen Leib in heiliger und ehrbarer Weise bewahrt. - Das hier im
+Griechischen verwendete Wort für «Gefäß» (skenos) kann in übertragener
+Bedeutung sowohl den Leib des Menschen als auch (in rabbinischer
+Ausdrucksweise) die Ehefrau bezeichnen.
+
+^{[[#fnm2][2]]} ℘ Jer 10,25; Ps 79,6
+
+^{[[#fnm3][3]]} ℘ Ps 94,1
+
+^{[[#fnm4][4]]} Andere Übersetzungsmöglichkeit: und dass keiner sich
+gegen seinen Bruder in der betreffenden Sache Übergriffe erlaubt. - In
+diesem Fall wäre vom Ehebruch die Rede.
+
+^{[[#fnm5][5]]} ℘ 2 Thess 2,13f
+
+^{[[#fnm6][6]]} ℘ Ez 36,27; 37,14
+
+^{[[#fnm7][7]]} 11f: Die an die Müßiggänger gerichtete Mahnung wird in 2
+Thess 3,6-12 wieder aufgenommen.
+
+^{[[#fnm8][8]]} vor denen, die nicht zu euch gehören, wörtlich: vor den
+Außenstehenden (vgl. 1 Kor 5,12f).
+
+^{[[#fnm9][9]]} ℘ (13-17) 2 Thess 2,1-12
+
+^{[[#fnm10][10]]} Wie der Zusammenhang 4,13-18 zeigt, entsprang die
+Sorge der Thessalonicher um ihre Toten nicht einem Zweifel an der
+Auferstehung überhaupt, sondern der Ungewissheit, ob die bereits
+Verstorbenen ebenfalls am nahe erwarteten Tag des Herrn teilnehmen
+würden.
+
+^{[[#fnm11][11]]} ℘ 1 Kor 15,3f.20f
+
+^{[[#fnm12][12]]} Andere Übersetzungsmöglichkeit: dann wird Gott auch
+die im Glauben an Jesus Verstorbenen zusammen mit ihm zur Herrlichkeit
+führen; vgl. 4,16: die in Christus Verstorbenen.
+
+^{[[#fnm13][13]]} ℘ 1 Kor 15,23.51f; Joh 17,24
+
+^{[[#fnm14][14]]} 15 17: Aus diesen Versen spricht die starke Hoffnung
+des Paulus und der Gemeinde, die Ankunft des Herrn noch zu erleben (vgl.
+5,1f; 2 Thess 1,1-12; 1 Kor 15,5f).

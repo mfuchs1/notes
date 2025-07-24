@@ -1,0 +1,91 @@
+#+TITLE: Ps 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-04 Mo 22:11]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 16.html
+
+* Ps 16
+
+<<verses>>
+
+<<v1>>
+* Gott, der Anteil seiner Getreuen
+
+1 [Ein Lied Davids.] Behüte mich, Gott, denn ich vertraue dir. /\\
+\\
+
+<<v2>>
+2 Ich sage zum Herrn: «Du bist mein Herr; /\\
+ mein ganzes Glück bist du allein.» [fn:1] [fn:2]\\
+\\
+
+<<v3>>
+3 An den Heiligen im Lande, den Herrlichen, /\\
+ an ihnen nur hab ich mein Gefallen.\\
+\\
+
+<<v4>>
+4 Viele Schmerzen leidet, wer fremden Göttern folgt. /\\
+ Ich will ihnen nicht opfern, /\\
+ ich nehme ihre Namen nicht auf meine Lippen.\\
+\\
+
+<<v5>>
+5 Du, Herr, gibst mir das Erbe und reichst mir den Becher; /\\
+ du hältst mein Los in deinen Händen. [fn:3]\\
+\\
+
+<<v6>>
+6 Auf schönem Land fiel mir mein Anteil zu. /\\
+ Ja, mein Erbe gefällt mir gut. [fn:4] [fn:5]\\
+\\
+
+<<v7>>
+7 Ich preise den Herrn, der mich beraten hat. /\\
+ Auch mahnt mich mein Herz in der Nacht.\\
+\\
+
+<<v8>>
+8 Ich habe den Herrn beständig vor Augen. /\\
+ Er steht mir zur Rechten, ich wanke nicht. [fn:6]\\
+\\
+
+<<v9>>
+9 Darum freut sich mein Herz und frohlockt meine Seele; /\\
+ auch mein Leib wird wohnen in Sicherheit.\\
+\\
+
+<<v10>>
+10 Denn du gibst mich nicht der Unterwelt preis; /\\
+ du lässt deinen Frommen das Grab nicht schauen. [fn:7]\\
+\\
+
+<<v11>>
+11 Du zeigst mir den Pfad zum Leben. /\\
+ Vor deinem Angesicht herrscht Freude in Fülle, /\\
+ zu deiner Rechten Wonne für alle Zeit. [fn:8]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_73.org::v25][73,25]]
+
+[fn:2] 2-4: Sinn von H ist nicht ganz klar.
+
+[fn:3] [[file:Ps_23.org::v5][23,5]]
+
+[fn:4] [[file:Ps_73.org::v26][73,26]]
+
+[fn:5] mein: ergänzt nach G und S.
+
+[fn:6] (8-11) [[file:~/RoamNotes/notes/Bibel/nt/Apg_2.org::v25][Apg 2,25-28]]
+
+[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Apg_2.org::v31][Apg 2,31]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v35][13,35]]
+
+[fn:8] [[file:Ps_25.org::v4][25,4]]

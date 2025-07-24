@@ -1,0 +1,210 @@
+#+TITLE: 2 Chr 34 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:47]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 34.html
+
+<<verses>>
+
+<<v1>>
+* Joschijas Kampf gegen den Götzendienst: 34,1-7
+
+1 Joschija war acht Jahre alt, als er König wurde, und regierte
+einunddreißig Jahre in Jerusalem. [fn:1]
+
+<<v2>>
+2 Er tat, was dem Herrn gefiel, und folgte den Wegen seines Vaters
+David, ohne nach rechts oder links abzuweichen.
+
+<<v3>>
+3 Im achten Jahr seiner Regierung, als er noch jung war, begann er, den
+Gott seines Vaters David zu suchen. Im zwölften Jahr fing er an, Juda
+und Jerusalem von den Kulthöhen, den Kultpfählen, den Schnitzund
+Gussbildern zu reinigen.
+
+<<v4>>
+4 Vor seinen Augen riss man die Altäre der Baale nieder. Er ließ die
+Rauchopferaltäre, die auf ihnen standen, zerschlagen, die Kultpfähle
+zerstören, die Schnitz- und Gussbilder zermalmen, ihren Staub auf die
+Gräber derer streuen, die ihnen geopfert hatten,
+
+<<v5>>
+5 und Gebeine von Priestern auf ihren Altären verbrennen. So reinigte er
+Juda und Jerusalem. [fn:2]
+
+<<v6>>
+6 Auch in den Städten von Manasse, Efraim, Simeon bis nach Naftali
+
+<<v7>>
+7 riss er überall auf ihren Plätzen die Altäre nieder, zerstörte die
+Kultpfähle, zermalmte die Götzenbilder und zertrümmerte die
+Rauchopferaltäre im ganzen Land Israel. Dann kehrte er nach Jerusalem
+zurück.\\
+\\
+
+<<v8>>
+* Die Auffindung des Gesetzbuchs: 34,8-28
+
+8 Im achtzehnten Jahr seiner Regierung, während der Säuberung des Landes
+und des Tempels, sandte König Joschija Schafan, den Sohn Azaljas, den
+Stadtobersten Maaseja und den Sprecher des Königs, Joach, den Sohn des
+Joahas, in das Haus des Herrn, seines Gottes, um es instand setzen zu
+lassen. [fn:3] [fn:4]
+
+<<v9>>
+9 Sie kamen zum Hohenpriester Hilkija und man gab das Geld heraus, das
+in das Haus Gottes gebracht worden war und das die Leviten, die Wächter
+an den Schwellen, von Manasse, Efraim und dem ganzen übrigen Israel, von
+ganz Juda, Benjamin und den Einwohnern Jerusalems gesammelt hatten.
+
+<<v10>>
+10 Sie gaben es den Werkmeistern, die im Haus des Herrn angestellt
+waren, und diese verwendeten es für die Arbeiter, die im Haus des Herrn
+tätig waren, um seine Schäden auszubessern und das Haus instand zu
+setzen.
+
+<<v11>>
+11 Sie gaben es den Zimmerleuten und Bauarbeitern zum Ankauf von
+Bruchsteinen und Holz zur Beschaffung der Klammern und zur Erneuerung
+des Gebälks in den Gebäuden, die von den Königen von Juda vernachlässigt
+worden waren.
+
+<<v12>>
+12 Die Männer handelten bei ihrer Arbeit auf Treu und Glauben. Zu ihrer
+Leitung waren die Leviten Jahat und Obadja von den Nachkommen Meraris
+sowie Secharja und Meschullam von den Nachkommen Kehats bestellt. Die
+Leviten, die sich auf die Musikinstrumente verstanden,
+
+<<v13>>
+13 befehligten die Lastträger und hatten die Aufsicht über alle Arbeiter
+bei verschiedenen Dienstleistungen. Einzelne Leviten waren Schreiber,
+Listenführer und Torwächter.
+
+<<v14>>
+14 Als man das Geld herausnahm, das in das Haus des Herrn gebracht
+worden war, fand der Priester Hilkija das Buch des Gesetzes des Herrn,
+das durch Mose verkündet worden war.
+
+<<v15>>
+15 Hilkija berichtete darüber dem Staatsschreiber Schafan und sagte: Ich
+habe im Haus des Herrn das Gesetzbuch gefunden. Hilkija übergab Schafan
+das Buch
+
+<<v16>>
+16 und dieser brachte es zum König mit der Meldung: Deine Knechte haben
+alles ausgeführt, was ihnen aufgetragen wurde.
+
+<<v17>>
+17 Sie haben das Geld ausgeschüttet, das sich im Haus des Herrn vorfand,
+und es den Aufsehern und Arbeitern gegeben.
+
+<<v18>>
+18 Dann sagte der Staatsschreiber zum König: Der Priester Hilkija hat
+mir ein Buch gegeben. Schafan las dem König daraus vor.
+
+<<v19>>
+19 Als der König die Worte des Gesetzes hörte, zerriss er seine Kleider
+
+<<v20>>
+20 und befahl dem Priester Hilkija sowie Ahikam, dem Sohn Schafans,
+Abdon, dem Sohn Michas, dem Staatsschreiber Schafan und Asaja, dem
+Diener des Königs: [fn:5]
+
+<<v21>>
+21 Geht und befragt den Herrn für mich und den Rest Israels und Judas
+wegen des Buches, das aufgefunden wurde. Denn der Zorn des Herrn, der
+sich über uns ergossen hat, muss groß sein, weil unsere Väter auf das
+Wort des Herrn nicht geachtet und weil sie nicht getan haben, was in
+diesem Buch niedergeschrieben ist.
+
+<<v22>>
+22 Da ging Hilkija mit den Männern, die der König bestimmt hatte, zur
+Prophetin Hulda. Sie war die Frau Schallums, des Sohnes Tokhats, des
+Sohnes Hasras, des Verwalters der Kleiderkammer, und wohnte in Jerusalem
+in der Neustadt. Die Abgesandten trugen ihr die Angelegenheit vor [fn:6]
+
+<<v23>>
+23 und sie gab ihnen diese Antwort: So spricht der Herr, der Gott
+Israels: Sagt zu dem Mann, der euch zu mir geschickt hat:
+
+<<v24>>
+24 So spricht der Herr: Ich bringe Unheil über diesen Ort und seine
+Bewohner, alle Flüche, die im Buch geschrieben stehen, das man dem König
+von Juda vorgelesen hat.
+
+<<v25>>
+25 Denn sie haben mich verlassen, anderen Göttern geopfert und mich
+durch alle Werke ihrer Hände erzürnt. Darum hat sich mein Zorn über
+diesen Ort ergossen und er wird nicht erlöschen.
+
+<<v26>>
+26 Sagt aber zum König von Juda, der euch hergesandt hat, um den Herrn
+zu befragen: So spricht der Herr, der Gott Israels: Durch die Worte, die
+du gehört hast,
+
+<<v27>>
+27 wurde dein Herz erweicht. Du hast dich vor Gott gedemütigt, als du
+seine Drohungen gegen diesen Ort und seine Bewohner vernommen hast. Du
+hast dich vor mir gedemütigt, deine Kleider zerrissen und hast vor mir
+geweint. Darum habe ich dich erhört - Spruch des Herrn.
+
+<<v28>>
+28 Ich werde dich mit deinen Vätern vereinen und du sollst in Frieden in
+deinem Grab beigesetzt werden. Deine Augen sollen all das Unheil nicht
+mehr sehen, das ich über diesen Ort und seine Bewohner bringen werde. -
+Sie berichteten das dem König.\\
+\\
+
+<<v29>>
+* Die Erneuerung des Bundes: 34,29-33
+
+29 Der König ließ alle Ältesten Judas und Jerusalems bei sich
+zusammenkommen. [fn:7]
+
+<<v30>>
+30 Er ging zum Haus des Herrn hinauf mit allen Männern Judas und den
+Einwohnern Jerusalems, den Priestern und Leviten und allem Volk, alt und
+jung. Er ließ ihnen alle Worte des Bundesbuches vorlesen, das im Haus
+des Herrn gefunden worden war.
+
+<<v31>>
+31 Dann trat der König an seinen Platz und schloss vor dem Herrn diesen
+Bund: Er wolle dem Herrn folgen, auf seine Gebote, Satzungen und Gesetze
+von ganzem Herzen und ganzer Seele achten und die Vorschriften des
+Bundes durchführen, die in diesem Buch niedergeschrieben sind.
+
+<<v32>>
+32 Er ließ auch alle, die sich in Jerusalem und Benjamin befanden, dem
+Bund beitreten und die Einwohner Jerusalems hielten sich an den Bund
+Gottes, des Gottes ihrer Väter.
+
+<<v33>>
+33 Joschija entfernte alle Gräuel aus allen Gebieten der Israeliten und
+veranlasste alle, die in Israel lebten, dem Herrn, ihrem Gott, zu
+dienen. Solange er lebte, fielen sie nicht mehr vom Herrn, dem Gott
+ihrer Väter, ab.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-2) [[file:2.Kön_22.org::v1][2 Kön 22,1]]-[[file:2.Kön_22.org::v2][2]]
+
+[fn:2] Die Berührung mit Totengebeinen zieht die größte
+Verunreinigung nach sich.
+
+[fn:3] (8-28) [[file:2.Kön_22.org::v3][2 Kön 22,3]]-[[file:2.Kön_22.org::v20][20]]
+
+[fn:4] 8-28: Vgl. die Anmerkungen zu [[file:2.Kön_22.org][2 Kön 22]].
+
+[fn:5] Abdon: In [[file:2.Kön_22.org::v12][2 Kön 22,12]] lautet der Name Achbor.
+
+[fn:6] Statt Tokhat und Hasra stehen in [[file:2.Kön_22.org::v14][2 Kön 22,14]] die Namen
+Tikwa und Harhas.
+
+[fn:7] (29-33) [[file:2.Kön_23.org::v1][2 Kön 23,1]]-[[file:2.Kön_23.org::v3][3]]

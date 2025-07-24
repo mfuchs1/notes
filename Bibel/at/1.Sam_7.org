@@ -1,0 +1,115 @@
+#+TITLE: 1 Sam 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 10:09]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 7.html
+
+
+* 1.Sam 7
+
+<<verses>>
+
+<<v1>>
+1 Da kamen die Leute von Kirjat-Jearim und holten die Lade des Herrn zu
+sich hinauf. Sie brachten sie in das Haus Abinadabs auf der Anhöhe. Und
+seinen Sohn Eleasar weihten sie, dass er die Lade des Herrn bewache.\\
+\\
+
+<<v2>>
+* Samuel und Saul: 7,2 - 15,35
+
+* Samuel als Richter: 7,2-17
+
+2 Seit dem Tag, an dem die Lade in Kirjat-Jearim ihre Wohnung nahm, war
+eine lange Zeit vergangen, zwanzig Jahre. Als sich das ganze Haus Israel
+klagend an den Herrn wandte,
+
+<<v3>>
+3 sagte Samuel zum ganzen Haus Israel: Wenn ihr von ganzem Herzen zum
+Herrn zurückkehren wollt, dann schafft die fremden Götter mitsamt den
+Astarten aus eurer Mitte fort! Wendet euer Herz wieder dem Herrn zu, und
+dient ihm allein; dann wird er euch aus der Gewalt der Philister
+befreien.
+
+<<v4>>
+4 Da entfernten die Israeliten die Baale und Astarten und dienten nur
+noch dem Herrn.
+
+<<v5>>
+5 Darauf sagte Samuel: Versammelt ganz Israel in Mizpa; ich will für
+euch zum Herrn beten. [fn:1]
+
+<<v6>>
+6 Da versammelten sie sich in Mizpa, sie schöpften Wasser und gossen es
+vor dem Herrn aus. Dort fasteten sie an diesem Tag und sagten: Wir haben
+uns gegen den Herrn versündigt. Samuel sprach den Israeliten Recht in
+Mizpa. [fn:2]
+
+<<v7>>
+7 Die Philister erfuhren, dass sich die Israeliten in Mizpa versammelt
+hatten, und ihre Fürsten zogen gegen Israel heran. Als die Israeliten
+das hörten, bekamen sie Angst vor den Philistern.
+
+<<v8>>
+8 Sie sagten zu Samuel: Kehr dich nicht schweigend von uns ab und hör
+nicht auf, zum Herrn, unserem Gott, zu rufen, damit er uns aus der Hand
+der Philister befreit.
+
+<<v9>>
+9 Da nahm Samuel ein junges Lamm und brachte es dem Herrn als Ganzopfer
+dar. Er rief zum Herrn für Israel und der Herr erhörte ihn.
+
+<<v10>>
+10 Als Samuel das Brandopfer darbrachte, rückten die Philister schon zum
+Kampf gegen Israel heran. Da ließ der Herr mit gewaltigem Krachen noch
+am gleichen Tag einen Donner gegen die Philister erschallen und brachte
+sie so in Verwirrung, dass sie von den Israeliten geschlagen wurden. [fn:3]
+
+<<v11>>
+11 Nun zogen die Israeliten von Mizpa aus, verfolgten die Philister bis
+unterhalb von Bet-Kar und schlugen sie.
+
+<<v12>>
+12 Samuel nahm einen Stein und stellte ihn zwischen Mizpa und Jeschana
+auf. Er nannte ihn Eben-Eser (Stein der Hilfe) und sagte: Bis hierher
+hat uns der Herr geholfen. [fn:4]
+
+<<v13>>
+13 So wurden die Philister gedemütigt und drangen nicht mehr in das
+Gebiet Israels ein; und die Hand des Herrn lastete auf den Philistern,
+solange Samuel lebte.
+
+<<v14>>
+14 Die Städte von Ekron bis Gat, die die Philister Israel weggenommen
+hatten, kamen an Israel zurück; das ganze Gebiet dieser Städte entriss
+Israel den Philistern wieder. Aber zwischen Israel und den Amoritern war
+Friede.
+
+<<v15>>
+15 Samuel war Richter in Israel, solange er lebte.
+
+<<v16>>
+16 Jahr für Jahr zog er umher und machte die Runde durch Bet-El, Gilgal
+und Mizpa und sprach an all diesen Orten Israel Recht.
+
+<<v17>>
+17 Dann kehrte er jeweils nach Rama zurück, denn dort hatte er sein
+Haus. Auch dort sprach er Israel Recht und er baute dort einen Altar für
+den Herrn.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_10.org::v17][10,17]]; [[file:Ri_20.org::v1][Ri 20,1]]
+
+[fn:2] Der Wasser-Ritus ist wohl ein Bußakt.
+
+[fn:3] [[file:1.Sam_14.org::v15][14,15]]; [[file:Ex_14.org::v24][Ex 14,24]]; [[file:Ex_23.org::v27][23,27]]; [[file:Jos_10.org::v10][Jos 10,10]]; [[file:Ri_4.org::v15][Ri 4,15]]
+
+[fn:4] Jeschana: Text korr., vgl. G.

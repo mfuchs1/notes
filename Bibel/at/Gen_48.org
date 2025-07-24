@@ -1,0 +1,148 @@
+:PROPERTIES:
+:ID:       b9b53a3e-9f33-47ea-982a-b1d072d9d4b4
+:END:
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+OPTIONS: broken-links:t H:6
+#+filetags: :hide:
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+TITLE: Gen_48
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Gen 48
+:PROPERTIES:
+:CUSTOM_ID: gen-48
+:END:
+
+<<verses>>
+
+<<v1>>
+1 Einige Zeit danach ließ Jakob Josef sagen: Dein Vater ist krank. Da
+nahm Josef seine beiden Söhne mit, Manasse und Efraim,
+
+<<v2>>
+2 und ließ Jakob melden: Dein Sohn Josef ist zu dir gekommen. Israel
+nahm sich zusammen und setzte sich im Bett auf.
+
+<<v3>>
+3 Dann sagte Jakob zu Josef: Gott, der Allmächtige, ist mir zu Lus in
+Kanaan erschienen und hat mich gesegnet. [fn:1]
+
+<<v4>>
+4 Er hat zu mir gesagt: Ich mache dich fruchtbar und vermehre dich, ich
+mache dich zu einer Schar von Völkern und gebe dieses Land deinen
+Nachkommen zu ewigem Besitz.
+
+<<v5>>
+5 Jetzt sollen deine beiden Söhne, die dir in Ägypten geboren wurden,
+bevor ich zu dir nach Ägypten kam, mir gehören. Efraim und Manasse
+sollen mir so viel gelten wie Ruben und Simeon.
+
+<<v6>>
+6 Die Nachkommen aber, die du erst nach ihnen gezeugt hast, sollen dir
+gehören; nach dem Namen ihrer Brüder soll man sie in ihrem Erbteil
+benennen.
+
+<<v7>>
+7 Als ich aus Paddan-Aram kam, starb mir unterwegs Rahel in Kanaan; nur
+noch ein kleines Stück war es bis Efrata. Ich begrub sie dort auf dem
+Weg nach Efrata, das jetzt Betlehem heißt. [fn:2]
+
+<<v8>>
+8 Als Israel die Söhne Josefs sah, fragte er: Wer sind diese?
+
+<<v9>>
+9 Josef sagte zu seinem Vater: Meine Söhne sind es, die mir Gott hier
+geschenkt hat. Da sagte Israel: Bring sie her zu mir, ich will sie
+segnen.
+
+<<v10>>
+10 Israels Augen waren vor Alter schwer geworden, er konnte nicht mehr
+recht sehen. Er zog die Söhne Josefs an sich heran, küsste und umarmte
+sie.
+
+<<v11>>
+11 Dann sagte Israel zu Josef: Ich hatte nicht mehr geglaubt, dich
+jemals wieder zu sehen. Nun aber hat mich Gott sogar noch deine
+Nachkommen sehen lassen.
+
+<<v12>>
+12 Josef holte sie von seinen Knien weg und sie warfen sich mit ihrem
+Gesicht zur Erde nieder.
+
+<<v13>>
+13 Dann nahm Josef beide, Efraim an seine Rechte, zur Linken Israels,
+und Manasse an seine Linke, zur Rechten Israels, und führte sie zu ihm
+hin.
+
+<<v14>>
+14 Israel streckte seine Rechte aus und legte sie Efraim auf den Kopf,
+obwohl er der jüngere war, seine Linke aber legte er Manasse auf den
+Kopf, wobei er seine Hände überkreuzte, obwohl Manasse der Erstgeborene
+war.\\
+\\
+
+<<v15>>
+15 Er segnete Josef und sprach: Gott, vor dem meine Väter Abraham und
+Isaak /\\
+ ihren Weg gegangen sind, /\\
+ Gott, der mein Hirt war mein Lebtag bis heute,\\
+\\
+
+<<v16>>
+16 der Engel, der mich erlöst hat /\\
+ von jeglichem Unheil, /\\
+ er segne die Knaben. /\\
+ Weiterleben soll mein Name durch sie, /\\
+ auch der Name meiner Väter /\\
+ Abraham und Isaak. /\\
+ Im Land sollen sie sich tummeln, /\\
+ zahlreich wie die Fische im Wasser.\\
+\\
+
+<<v17>>
+17 Als Josef sah, dass sein Vater seine Rechte Efraim auf den Kopf
+legte, gefiel ihm das nicht. Josef ergriff die Hand seines Vaters, um
+sie von Efraims Kopf auf den Kopf Manasses hinüberzuziehen,
+
+<<v18>>
+18 und er sagte zu seinem Vater: Nicht so, Vater, sondern der ist der
+Erstgeborene; leg deine Rechte ihm auf den Kopf!
+
+<<v19>>
+19 Aber sein Vater wollte nicht. Ich weiß, mein Sohn, ich weiß, sagte
+er, auch er wird zu einem Volk, auch er wird groß sein; aber sein
+jüngerer Bruder wird größer als er und seine Nachkommen werden zu einer
+Fülle von Völkern.
+
+<<v20>>
+20 Er segnete sie an jenem Tag mit den Worten: Mit deinem Namen wird
+Israel segnen und sagen: Gott mache dich wie Efraim und Manasse.
+
+<<v21>>
+21 So setzte Israel Efraim vor Manasse und er sagte zu Josef: Sieh, ich
+muss sterben. Gott wird mit euch sein und euch in das Land eurer Väter
+zurückbringen.
+
+<<v22>>
+22 Ich gebe dir einen Bergrücken schulterhoch über deinen Brüdern, den
+ich der Hand der Amoriter mit Schwert und Bogen entrissen habe. [fn:3]
+\\
+\\
+
+* Footnotes
+
+[fn:1] 28,13f [[file:Gen_28.org::v13][Gen 28,13f]] ; 35,11f [[file:Gen_35.org::v11][Gen 35,11f]]
+
+[fn:2] 35,16-20 [[file:Gen_35.org::v16][Gen 35,16-28]]
+
+[fn:3] Wortspiel mit dem Ortsnamen Sichem, der «Schulter»
+bedeutet und auch das Bergland bezeichnet, in dem die Stämme Efraim und
+Manasse ihr Siedlungsgebiet haben.

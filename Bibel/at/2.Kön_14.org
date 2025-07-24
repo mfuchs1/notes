@@ -1,0 +1,176 @@
+#+TITLE: 2 Kön 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 23:44]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 14.html
+
+<<verses>>
+
+<<v1>>
+* Amazja von Juda: 14,1-22
+
+1 Im zweiten Jahr des Joasch, des Sohnes des Joahas, des Königs von
+Israel, wurde Amazja, der Sohn des Joasch, König von Juda. [fn:1]
+
+<<v2>>
+2 Er war fünfundzwanzig Jahre alt, als er König wurde, und regierte
+neunundzwanzig Jahre in Jerusalem. Seine Mutter hieß Joaddan und stammte
+aus Jerusalem.
+
+<<v3>>
+3 Er tat, was dem Herrn gefiel, wenn auch nicht in der Weise seines
+Ahnherrn David; sein Verhalten glich dem seines Vaters Joasch.
+
+<<v4>>
+4 Die Kulthöhen verschwanden nicht; das Volk brachte noch Schlachtund
+Rauchopfer auf ihnen dar.
+
+<<v5>>
+5 Sobald die Herrschaft fest in seiner Hand war, ließ er die Diener
+hinrichten, die seinen Vater, den König, erschlagen hatten.
+
+<<v6>>
+6 Die Söhne der Mörder aber verschonte er, wie der Herr es geboten hatte
+und wie es im Gesetzbuch des Mose niedergeschrieben ist: Die Väter
+sollen nicht für ihre Söhne und die Söhne nicht für ihre Väter mit dem
+Tod bestraft werden, sondern jeder soll nur für sein eigenes Verbrechen
+sterben. [fn:2]
+
+<<v7>>
+7 Er besiegte die Edomiter, zehntausend Mann, im Salztal, nahm Sela im
+Kampf und nannte es Jokteel, wie es bis heute genannt wird.
+
+<<v8>>
+8 Damals sandte Amazja Boten an Joasch, den Sohn des Joahas, des Sohnes
+Jehus, den König von Israel, und ließ ihm sagen: Komm, wir wollen (im
+Kampf) einander gegenübertreten.
+
+<<v9>>
+9 Doch Joasch, der König von Israel ließ dem König Amazja von Juda
+sagen: Der Dornstrauch auf dem Libanon ließ der Zeder auf dem Libanon
+sagen: Gib deine Tochter meinem Sohn zur Frau! Aber die Tiere des
+Libanon liefen über den Dornstrauch und zertraten ihn.
+
+<<v10>>
+10 Du hast Edom besiegt und bist übermütig geworden. Wahre doch deinen
+Ruhm und bleib zu Hause! Wozu willst du das Unglück herausfordern und zu
+Fall kommen, du und Juda mit dir?
+
+<<v11>>
+11 Doch Amazja wollte nicht hören. Daraufhin rückte Joasch, der König
+von Israel, aus. Er und Amazja, der König von Juda, traten bei
+Bet-Schemesch, das zu Juda gehört, einander gegenüber.
+
+<<v12>>
+12 Die Judäer wurden von den Israeliten geschlagen und flohen zu ihren
+Zelten.
+
+<<v13>>
+13 Den König Amazja von Juda, den Sohn des Joasch, des Sohnes Ahasjas,
+nahm König Joasch von Israel bei Bet-Schemesch gefangen und brachte ihn
+nach Jerusalem. Dort riss er die Mauer der Stadt vom Efraimtor bis zum
+Ecktor auf einer Strecke von vierhundert Ellen nieder, [fn:3]
+
+<<v14>>
+14 nahm alles Gold und Silber sowie alle Geräte, die sich im Haus des
+Herrn und in den Schatzkammern des königlichen Palastes befanden, ließ
+sich Geiseln stellen und kehrte nach Samaria zurück.
+
+<<v15>>
+15 Die übrige Geschichte des Joasch, seine Taten und Erfolge, auch wie
+er mit Amazja, dem König von Juda, Krieg führte, all das ist
+aufgezeichnet in der Chronik der Könige von Israel. [fn:4]
+
+<<v16>>
+16 Joasch entschlief zu seinen Vätern und wurde in Samaria bei den
+Königen von Israel begraben. Sein Sohn Jerobeam wurde König an seiner
+Stelle.
+
+<<v17>>
+17 Amazja, der Sohn des Joasch, der König von Juda, lebte nach dem Tod
+des Joasch, des Sohnes des Joahas, des Königs von Israel, noch fünfzehn
+Jahre.
+
+<<v18>>
+18 Die übrige Geschichte Amazjas ist aufgezeichnet in der Chronik der
+Könige von Juda.
+
+<<v19>>
+19 Gegen ihn zettelte man in Jerusalem eine Verschwörung an. Er floh
+nach Lachisch; aber man sandte Verfolger hinter ihm her nach Lachisch,
+die ihn dort erschlugen.
+
+<<v20>>
+20 Man brachte ihn auf Pferden nach Jerusalem; dort wurde er bei seinen
+Vätern in der Davidstadt begraben.
+
+<<v21>>
+21 Das ganze Volk von Juda nahm nun Asarja, der damals sechzehn Jahre
+alt war, und machte ihn zum König anstelle seines Vaters Amazja. [fn:5] [fn:6]
+
+<<v22>>
+22 Er baute Elat aus, das er für Juda zurückgewonnen hatte, nachdem der
+König zu seinen Vätern entschlafen war.\\
+\\
+
+<<v23>>
+* Jerobeam II. von Israel: 14,23-29
+
+23 Im fünfzehnten Jahr Amazjas, des Sohnes des Joasch, des Königs von
+Juda, wurde Jerobeam, der Sohn des Joasch, König von Israel. Er regierte
+einundvierzig Jahre in Samaria
+
+<<v24>>
+24 und tat, was dem Herrn missfiel; er ließ nicht von all den Sünden ab,
+zu denen Jerobeam, der Sohn Nebats, Israel verführt hatte.
+
+<<v25>>
+25 Er stellte die Grenzen Israels wieder her von Lebo-Hamat bis zum Meer
+der Araba, wie es der Herr, der Gott Israels, durch seinen Knecht, den
+Propheten Jona, den Sohn Amittais aus Gat-Hefer, vorhergesagt hatte. [fn:7]
+
+<<v26>>
+26 Denn der Herr sah die bittere Not Israels: dass bis zum letzten Mann
+alle dahinschwanden und dass es für Israel keinen Retter gab.
+
+<<v27>>
+27 Er hatte nicht im Sinn, den Namen Israels unter dem Himmel
+auszutilgen. Darum half er ihnen durch Jerobeam, den Sohn des Joasch.
+
+<<v28>>
+28 Die übrige Geschichte Jerobeams, alle seine Taten und Erfolge, wie er
+Krieg führte, . . . all das ist aufgezeichnet in der Chronik der Könige
+von Israel. [fn:8]
+
+<<v29>>
+29 Jerobeam entschlief zu seinen Vätern, den Königen von Israel, und
+sein Sohn Secharja wurde König an seiner Stelle.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-20) [[file:2.Chr_25.org::v1][2 Chr 25,1]]-[[file:2.Chr_25.org::v4][4]].[[file:2.Chr_25.org::v17][17]]-[[file:2.Chr_25.org::v28][28]]
+
+[fn:2] [[file:Dtn_24.org::v16][Dtn 24,16]]; [[file:Ex_18.org::v10][Ez 18,10-23]]
+
+[fn:3] und brachte ihn: Text korr. nach [[file:2.Chr_25.org::v23][2 Chr 25,23]]; H: und kam.
+
+[fn:4] (15-16) [[file:2.Kön_13.org::v12][13,12f]]
+
+[fn:5] (21-22) [[file:2.Chr_26.org::v1][2 Chr 26,1f]]
+
+[fn:6] 21f: V. 21 und vielleicht auch 22 gehören in den
+Zusammenhang von V. 14.
+
+[fn:7] Zu Lebo-Hamat vgl. die Anmerkung zu [[file:1.Kön_8.org::v65][1 Kön 8,65]]. Das
+«Meer der Araba» ist das Tote Meer. Auch [[file:Am_6.org::13][Am 6,13]] erwähnt Eroberungen im
+Ostjordanland. Eine entsprechende Weissagung findet sich nicht im AT.
+
+[fn:8] H: und wie er Damaskus und Hamat für Juda in Israel
+zurückbrachte. Sinn unklar.

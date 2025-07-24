@@ -1,0 +1,339 @@
+:PROPERTIES:
+:ID:       214195f8-47ec-4f99-998c-623c9f45b554
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Matthäus* -- *1*
+[[file:Mt_2.html][2]] [[file:Mt_3.html][3]] ... [[file:Mt_28.html][28]]
+
+--------------
+
+* Mt 1
+  :PROPERTIES:
+  :CUSTOM_ID: mt-1
+  :END:
+
+B+1
+** Die Evangelien
+   :PROPERTIES:
+   :CUSTOM_ID: die-evangelien
+   :END:
+Vier Evangelienbücher fanden Aufnahme in das Neue Testament. Sie
+bezeugen, jedes auf seine Weise, das eine Evangelium von Jesus Christus.
+Ihre literarische Form zeigt an, dass die Evangelien sog. Sammelwerke
+sind; ursprünglich einzeln weitergegebene Überlieferungsstücke über
+Worte und Taten Jesu sind von den Evangelisten gesammelt und durch
+redaktionelle Überleitungen zu einem Ganzen zusammengefügt worden. Diese
+Bücher wurden von der frühen Kirche wahrscheinlich nach der damals
+angenommenen Abfassungszeit geordnet. Das Wort »Evangelium« stammt aus
+dem Griechischen (euangélion) und bedeutet »gute Nachricht«, »frohe
+Botschaft«. Mit diesem Wort benannten die Christen ihre Verkündigung von
+dem endgültigen Heil, das Gott durch Jesus Christus allen Menschen
+anbietet. Markus verwendete als erster dieses Wort als Überschrift
+seines Berichts über die Worte, die Taten und das Schicksal Jesu (1,1).
+Damit entstand eine neue Form religiöser Schriften, die Evangelien.\\
+\\
+Die Überschriften der kanonischen Evangelien lauten seit dem 2.
+Jahrhundert: Das Evangelium nach Matthäus, nach Markus, nach Lukas, nach
+Johannes. Die ersten drei Evangelien sind untereinander nach Inhalt,
+Aufbau und Sprache eng verknüpft; darum werden sie »synoptische«
+Evangelien genannt (synopsis, das heißt Zusammenschau).\\
+\\
+B+0Die Überschrift des ersten Evangeliums nennt einen Matthäus als
+Verfasser und will wohl auf den Zöllner von Kafarnaum verweisen, den
+Jesus nach Mt 9,9 und 10,3 in den Kreis der Zwölf berief. Matthäus setzt
+ihn mit dem Levi des Markus- und des Lukasevangeliums gleich (vgl. Mk
+2,13-17; Lk 5,27-32). Nach alter kirchlicher Überlieferung soll Matthäus
+als erster ein Evangelium in hebräischer Sprache verfasst haben. Es sind
+aber keine Texte von einem solchen hebräischen Evangelium erhalten.\\
+\\
+Das uns überlieferte Evangelium wurde in griechischer Sprache abgefasst,
+und es benutzt das griechisch geschriebene Markusevangelium als Vorlage.
+Es schöpft außerdem aus einer anderen griechischen Vorlage, die auch
+Lukas verwertet hat, einer heute verloren gegangenen Sammlung von Worten
+Jesu (sog. Spruch- oder Redequelle). Daraus sind die Bergpredigt, das
+Vaterunser und eine Reihe von Gleichnissen genommen, die sich bei
+Matthäus und Lukas, nicht aber bei Markus finden. Außerdem bietet
+Matthäus Überlieferungen, die weder bei Markus noch bei Lukas begegnen
+(sog. Sondergut).\\
+\\
+Das Evangelium setzt den Untergang Jerusalems (70 n. Chr.) voraus; es
+ist wohl um 80 n. Chr. verfasst worden, und zwar vermutlich in Syrien
+(eher als in Palästina). Seinem Inhalt ist zu entnehmen, dass es in
+einem Gebiet entstanden sein muss, in dem Christen und Juden
+zusammenlebten. Als Verfasser nimmt man heute einen uns nicht näher
+bekannten judenchristlichen Lehrer an, der noch Schüler der Apostel
+war.\\
+\\
+Matthäus sammelt Überlieferungen über Jesus, vor allem Worte Jesu, und
+ordnet sie zeitlich und thematisch in den dreistufigen Aufbau ein, den
+das Markusevangelium bietet: Anfang in Galiläa; Unterweisung der Jünger
+und Zug nach Jerusalem; Leiden und Tod in dieser Stadt. An den Anfang
+stellt er die Vorgeschichte Jesu, an das Ende einen Bericht von der
+abschließenden Erscheinung des Auferstandenen in Galiläa.\\
+\\
+Im Einzelnen lässt sich folgender Aufbau feststellen: Die Herkunft und
+Kindheit Jesu (1,1 - 2,23). Das Wirken Jesu in Galiläa (3,1 - 18,35) mit
+den Abschnitten: Vorbereitung (3,1 - 4,11: Taufe, Versuchung), erstes
+Auftreten in Galiläa und Berufung der ersten Jünger (4,12-25), die
+Verkündigung des Messias (5,1 - 7,29) und seine Taten (8,1 - 9,34),
+Aussendungsrede (9,35 - 11,1), Beginn der Entscheidung (11,2 - 12,50),
+die Rede über das Himmelreich (13,1-53), Belehrung der Jünger (13,54 -
+17,27), die Rede über das Leben in der Gemeinde (18,1-35). Das Wirken
+Jesu in Judäa und Jerusalem (19,1 - 25,46) mit den Abschnitten: der Weg
+nach Jerusalem (19,1 - 20,34), die Auseinandersetzung mit den Gegnern
+(21,1 - 23,39) und die Rede über die Endereignisse (24,1 - 25,46).
+Darauf folgen das Leiden Jesu (26,1 - 27,66) und die Ostergeschichte
+(28,1-20).\\
+\\
+Der Evangelist wollte offenbar seiner Kirche eine Art Handbuch über
+Jesus und seine Lehre bieten. Seine Darstellung ist von der Absicht
+geprägt, Jesus als den Erben Abrahams zu erweisen, den verheißenen
+Messias Israels, der von Anfang an von den religiösen Führern seines
+Volkes abgelehnt und verfolgt, von Sündern und Heiden aber anerkannt
+wurde (vgl. 1,1.17.22f; 8,11f; 23,34-39). Diesem Zweck dienen auch die
+vielen Zitate aus dem Alten Testament. An die Stelle Israels ist nun die
+Kirche getreten als das wahre Volk Gottes, bestehend aus Juden und
+Heiden, aufgebaut auf dem Fels Petrus (22,1-14; 21,43; 27,42; 23,38;
+16,13-20). Jesus ist als der Sohn des lebendigen Gottes (16,16;
+11,25-27) der endgültige Offenbarer, Gesetzgeber und Lehrer (1,21;
+11,25-27; 28,16-20). Das zeigen vor allem die fünf großen Reden: die
+Bergpredigt (Kap. 5 - 7), die Aussendungsrede (9,35 - 11,1), die
+Reich-Gottes-Rede (Kap. 13), die Rede über die rechte Ordnung in der
+Gemeinde (18,1-35), die Gerichtsrede über die Schriftgelehrten und
+Pharisäer und über die letzten Dinge (Kap. 23 - 25). Die Mitte der
+Forderungen Gottes bildet das Liebesgebot (22,34-40), das nicht nur dem
+Nächsten, sondern auch dem Feind gegenüber gilt (5,43-48); als Goldene
+Regel steht es auch an zentraler Stelle der Bergpredigt (7,12; vgl.
+18,23-35 und 19,19). Mit der Auferstehung Jesu ist der Weg des Heils zu
+allen Menschen offen, alle sollen Jünger Jesu und Kinder des Vaters im
+Himmel werden (28,18-20).\\
+\\
+In der Alten Kirche wurde das erste Evangelium am meisten gelesen und
+beachtet und wurde so zu *dem* Evangelium der Kirche.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Die Vorgeschichte: 1,1 - 2,23
+   :PROPERTIES:
+   :CUSTOM_ID: die-vorgeschichte-11---223
+   :END:
+**** Der Stammbaum Jesu: 1,1-17
+     :PROPERTIES:
+     :CUSTOM_ID: der-stammbaum-jesu-11-17
+     :END:
+1 Stammbaum Jesu Christi, des Sohnes Davids, des Sohnes Abrahams:
+^{[[#fn1][1]][[#fn2][2]]}\\
+^{[[#fn3][3]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 1\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Abraham war der Vater von Isaak, /\\
+ Isaak von Jakob, /\\
+ Jakob von Juda und seinen Brüdern. ^{[[#fn4][4]]}\\
+^{[[#fn5][5]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 6\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v3>>
+3 Juda war der Vater von Perez und Serach; ihre Mutter war Tamar. /\\
+ Perez war der Vater von Hezron, /\\
+ Hezron von Aram, ^{[[#fn6][6]]}\\
+\\
+
+<<v4>>
+4 Aram von Amminadab, /\\
+ Amminadab von Nachschon, /\\
+ Nachschon von Salmon.\\
+\\
+
+<<v5>>
+5 Salmon war der Vater von Boas; dessen Mutter war Rahab. /\\
+ Boas war der Vater von Obed; dessen Mutter war Rut. /\\
+ Obed war der Vater von Isai,\\
+\\
+
+<<v6>>
+6 Isai der Vater des Königs David. /\\
+ David war der Vater von Salomo, dessen Mutter die Frau des Urija war.
+^{[[#fn7][7]]}\\
+\\
+
+<<v7>>
+7 Salomo war der Vater von Rehabeam, /\\
+ Rehabeam von Abija, /\\
+ Abija von Asa, ^{[[#fn8][8]]}\\
+\\
+
+<<v8>>
+8 Asa von Joschafat, /\\
+ Joschafat von Joram, /\\
+ Joram von Usija.\\
+\\
+
+<<v9>>
+9 Usija war der Vater von Jotam, /\\
+ Jotam von Ahas, /\\
+ Ahas von Hiskija,\\
+\\
+
+<<v10>>
+10 Hiskija von Manasse, /\\
+ Manasse von Amos, /\\
+ Amos von Joschija.\\
+\\
+
+<<v11>>
+11 Joschija war der Vater von Jojachin und seinen Brüdern; das war zur
+Zeit der Babylonischen Gefangenschaft.\\
+\\
+
+<<v12>>
+12 Nach der Babylonischen Gefangenschaft war Jojachin der Vater von
+Schealtiël, /\\
+ Schealtiël von Serubbabel,\\
+\\
+
+<<v13>>
+13 Serubbabel von Abihud, /\\
+ Abihud von Eljakim, /\\
+ Eljakim von Azor.\\
+\\
+
+<<v14>>
+14 Azor war der Vater von Zadok, /\\
+ Zadok von Achim, /\\
+ Achim von Eliud,\\
+\\
+
+<<v15>>
+15 Eliud von Eleasar, /\\
+ Eleasar von Mattan, /\\
+ Mattan von Jakob.\\
+\\
+
+<<v16>>
+16 Jakob war der Vater von Josef, dem Mann Marias; /\\
+ von ihr wurde Jesus geboren, /\\
+ der der Christus (der Messias) genannt wird.
+^{[[#fn9][9]][[#fn10][10]]}\\
+\\
+
+<<v17>>
+17 Im Ganzen sind es also von Abraham bis David vierzehn Generationen,
+von David bis zur Babylonischen Gefangenschaft vierzehn Generationen und
+von der Babylonischen Gefangenschaft bis zu Christus vierzehn
+Generationen. ^{[[#fn11][11]]}\\
+\\
+
+<<v18>>
+**** Die Geburt Jesu: 1,18-25
+     :PROPERTIES:
+     :CUSTOM_ID: die-geburt-jesu-118-25
+     :END:
+18 Mit der Geburt Jesu Christi war es so: Maria, seine Mutter, war mit
+Josef verlobt; noch bevor sie zusammengekommen waren, zeigte sich, dass
+sie ein Kind erwartete - durch das Wirken des Heiligen Geistes.
+^{[[#fn12][12]][[#fn13][13]][[#fn14][14]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 7\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v19>>
+19 Josef, ihr Mann, der gerecht war und sie nicht bloßstellen wollte,
+beschloss, sich in aller Stille von ihr zu trennen.
+
+<<v20>>
+20 Während er noch darüber nachdachte, erschien ihm ein Engel des Herrn
+im Traum und sagte: Josef, Sohn Davids, fürchte dich nicht, Maria als
+deine Frau zu dir zu nehmen; denn das Kind, das sie erwartet, ist vom
+Heiligen Geist.
+
+<<v21>>
+21 Sie wird einen Sohn gebären; ihm sollst du den Namen Jesus geben;
+denn er wird sein Volk von seinen Sünden erlösen.
+^{[[#fn15][15]][[#fn16][16]]}
+
+<<v22>>
+22 Dies alles ist geschehen, damit sich erfüllte, was der Herr durch den
+Propheten gesagt hat:\\
+\\
+
+<<v23>>
+23 /Seht, die Jungfrau wird ein Kind empfangen,/ /\\
+ /einen Sohn wird sie gebären,/ /\\
+ /und man wird ihm den Namen Immanuel geben,/ /\\
+ das heißt übersetzt: Gott ist mit uns. ^{[[#fn17][17]]}\\
+\\
+
+<<v24>>
+24 Als Josef erwachte, tat er, was der Engel des Herrn ihm befohlen
+hatte, und nahm seine Frau zu sich.
+
+<<v25>>
+25 Er erkannte sie aber nicht, bis sie ihren Sohn gebar. Und er gab ihm
+den Namen Jesus. ^{[[#fn18][18]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-17) Lk 3,23-38
+
+^{[[#fnm2][2]]} 1-17: Der Stammbaum dient dem Nachweis, dass Jesus der
+Erbe der Verheißungen ist, die an Abraham und David ergingen. Die Namen
+des ersten Abschnitts (Abraham-David) sind Rut 4,18-22, die des zweiten
+(David bis Exil) 1 Chr 3,10-19 entnommen. An Eigentümlichkeiten finden
+sich: Zwischen Joram und Usija fehlen drei Könige: Ahasja, Joasch und
+Amazja (vgl. 2 Kön 8,25; 14,21; 1 Chr 3,11f). Statt Amos (1,10) steht 1
+Chr 3,14 Amon. Im dritten Abschnitt fehlt ein Name (nur 13 Generationen
+statt 14). Auffällig ist die Nennung von vier Frauen (1,3.5.6), die
+Heidinnen waren (Rahab, Rut) oder als Sünderinnen galten (Tamar, Frau
+des Urija).
+
+^{[[#fnm3][3]]} ℘ ⇨Esyn: Synopse Nr. 1
+
+^{[[#fnm4][4]]} ℘ Gen 21,2f; 25,26; 29,32 - 30,24
+
+^{[[#fnm5][5]]} ℘ ⇨Esyn: Synopse Nr. 6
+
+^{[[#fnm6][6]]} ℘ Gen 38,29f; (3-6) Rut 4,18-22
+
+^{[[#fnm7][7]]} ℘ 2 Sam 12,24
+
+^{[[#fnm8][8]]} ℘ (7-12) 1 Chr 3,10-19
+
+^{[[#fnm9][9]]} ℘ Lk 1,27
+
+^{[[#fnm10][10]]} Es wird vorausgesetzt, dass Jesus durch Adoption in
+das Geschlecht Davids eingegliedert wurde (vgl. 1,24).
+
+^{[[#fnm11][11]]} In dem Stammbaum mit den 3-mal 14 Generationen
+verbirgt sich eine Zahlensymbolik: Die Buchstaben dienen im Hebräischen
+zugleich als Ziffern; zählt man die Buchstaben des Namens David
+zusammen, so ergibt sich die Zahl 14. Die Generationenfolge soll
+veranschaulichen, dass sich in Jesus die an David ergangene messianische
+Verheißung erfüllt hat (2 Sam 7,12-16; vgl. Jes 11,1).
+
+^{[[#fnm12][12]]} ℘ (18-20) Lk 1,35
+
+^{[[#fnm13][13]]} Die jüdische «Verlobung» stellte ein
+rechtsverbindliches Eheversprechen dar; die eheliche Gemeinschaft wurde
+aber erst nach der Heimholung der Braut durch den Ehegatten, meist ein
+oder eineinhalb Jahre später, aufgenommen. Die jüdischen Mädchen
+heirateten gewöhnlich nach Eintritt der Geschlechtsreife mit 13 bis 14
+Jahren. Vgl. noch Lk 1,26-38; 2,5.
+
+^{[[#fnm14][14]]} ℘ ⇨Esyn: Synopse Nr. 7
+
+^{[[#fnm15][15]]} ℘ Lk 1,31; 2,21
+
+^{[[#fnm16][16]]} Der Name Jesus (Jeschua) wird hier als «Retter»,
+«Erlöser» gedeutet.
+
+^{[[#fnm17][17]]} ℘ Jes 7,14 G
+
+^{[[#fnm18][18]]} «Erkennen» wird im Alten Orient auch als Umschreibung
+des ehelichen Verkehrs gebraucht.

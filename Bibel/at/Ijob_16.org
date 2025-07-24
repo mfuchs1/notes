@@ -1,0 +1,160 @@
+#+TITLE: Ijob 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 22:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 16.html
+
+<<verses>>
+
+<<v1>>
+* Ijobs Gegenrede: 16,1 - 17,16
+
+* Die leidigen Tröster: 16,1-5
+
+1 Da antwortete Ijob und sprach:\\
+\\
+
+<<v2>>
+2 Ähnliches habe ich schon viel gehört; /\\
+ leidige Tröster seid ihr alle.\\
+\\
+
+<<v3>>
+3 Sind nun zu Ende die windigen Worte, /\\
+ oder was sonst reizt dich zum Widerspruch?\\
+\\
+
+<<v4>>
+4 Auch ich könnte reden wie ihr, /\\
+ wenn ihr an meiner Stelle wäret, /\\
+ schöne Worte über euch machen /\\
+ und meinen Kopf über euch schütteln.\\
+\\
+
+<<v5>>
+5 Ich könnte euch stärken mit meinem Mund, /\\
+ nicht sparen das Beileid meiner Lippen. [fn:1]\\
+\\
+
+<<v6>>
+* Gottes ungerechter Angriff: 16,6-17
+
+6 Rede ich, hört doch mein Schmerz nicht auf; /\\
+ schweige ich, so weicht er nicht vor mir.\\
+\\
+
+<<v7>>
+7 Jetzt aber hat er mich erschöpft. /\\
+ Den Kreis der Freunde hast du mir verstört\\
+\\
+
+<<v8>>
+8 und mich gepackt. /\\
+ Mein Verfall erhebt sich /\\
+ und tritt als Zeuge gegen mich auf; /\\
+ er widerspricht mir ins Gesicht.\\
+\\
+
+<<v9>>
+9 Sein Zorn zerreißt, befehdet mich, /\\
+ knirscht gegen mich mit den Zähnen, /\\
+ mein Gegner schärft die Augen gegen mich. [fn:2]\\
+\\
+
+<<v10>>
+10 Sie sperren ihr Maul gegen mich auf, /\\
+ schlagen voll Hohn mich auf die Wangen, /\\
+ scharen sich gegen mich zusammen.\\
+\\
+
+<<v11>>
+11 Gott gibt mich dem Bösen preis, /\\
+ in die Hand der Frevler stößt er mich.\\
+\\
+
+<<v12>>
+12 In Ruhe lebte ich, da hat er mich erschüttert, /\\
+ mich im Nacken gepackt, mich zerschmettert, /\\
+ mich als Zielscheibe für sich aufgestellt. [fn:3]\\
+\\
+
+<<v13>>
+13 Seine Pfeile umschwirren mich, /\\
+ schonungslos durchbohrt er mir die Nieren, /\\
+ schüttet meine Galle zur Erde. [fn:4]\\
+\\
+
+<<v14>>
+14 Bresche über Bresche bricht er mir, /\\
+ stürmt wie ein Krieger gegen mich an.\\
+\\
+
+<<v15>>
+15 Ein Trauergewand hab ich meiner Haut genäht, /\\
+ mein Horn in den Staub gesenkt.\\
+\\
+
+<<v16>>
+16 Mein Gesicht ist vom Weinen rot /\\
+ und Dunkel liegt auf meinen Wimpern.\\
+\\
+
+<<v17>>
+17 Doch kein Unrecht klebt an meinen Händen /\\
+ und mein Gebet ist lauter. [fn:5]\\
+\\
+
+<<v18>>
+* Der Zeuge im Himmel: 16,18-22
+
+18 O Erde, deck mein Blut nicht zu /\\
+ und ohne Ruhstatt sei mein Hilfeschrei! [fn:6] [fn:7]\\
+\\
+
+<<v19>>
+19 Nun aber, seht, im Himmel ist mein Zeuge, /\\
+ mein Bürge in den Höhen. [fn:8]\\
+\\
+
+<<v20>>
+20 Da meine Freunde mich verspotten, /\\
+ tränt zu Gott hin mein Auge.\\
+\\
+
+<<v21>>
+21 Recht schaffe er dem Mann bei Gott /\\
+ und zwischen Mensch und Mensch.\\
+\\
+
+<<v22>>
+22 Denn nur noch wenig Jahre werden kommen, /\\
+ dann muss ich den Pfad beschreiten, /\\
+ auf dem man nicht wiederkehrt. [fn:9]\\
+\\
+
+* Footnotes
+
+[fn:1] nicht: Text korr. nach G.
+
+[fn:2] [[file:Ijob_18.org::v4][18,4]]
+
+[fn:3] [[file:Klgl_3.org::v11][Klgl 3,11]]
+
+[fn:4] [[file:Ijob_6.org::v4][6,4]]
+
+[fn:5] [[file:Ijob_33.org::v9][33,9]]
+
+[fn:6] [[file:Ps_9.org::v13][Ps 9,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_6.org::v10][Offb 6,10]]
+
+[fn:7] Anspielung an die Blutrache: Das nicht von Erde bedeckte
+Blut schreit nach Rache (vgl. Gen 4,10).
+
+[fn:8] [[file:Ijob_19.org::v25][19,25]]
+
+[fn:9] [[file:Ijob_10.org::v21][10,21]]

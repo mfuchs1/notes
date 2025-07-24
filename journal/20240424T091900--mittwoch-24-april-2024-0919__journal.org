@@ -1,0 +1,26 @@
+#+title:      Mittwoch 24 April 2024 09:19
+#+date:       [2024-04-24 Mi 09:19]
+#+filetags:   :journal:
+#+identifier: 20240424T091900
+
+* Wie kann ich ~denote-journal-extras-new-entry~ in org-capture einbauen?
+:PROPERTIES:
+:CUSTOM_ID: h:9174a41e-579e-496e-b145-bb7ed9d4be3f
+:END:
+Ich hab folgenden Code:
+
+#+begin_src elisp
+  ("j" "journal (with denote.el)" plain
+         (file denote-last-path)
+         #'denote-journal-extras-new-entry
+         :no-save t
+         :immediate-finish nil
+         :kill-buffer t
+         :jump-to-captured t)
+#+end_src
+
+Das erzeugt diese Meldung:
+"org-capture-expand-file: Invalid file location: nil"
+
+
+

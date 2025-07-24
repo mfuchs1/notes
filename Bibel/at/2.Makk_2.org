@@ -1,0 +1,205 @@
+#+TITLE: 2 Makk 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-27 Mo 22:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Makk 2.html
+
+* 2.Makk 2
+
+<<verses>>
+
+<<v1>>
+1 In den Schriften steht, Jeremia, der Prophet sei es gewesen, der
+befohlen habe, etwas von dem Feuer - wie schon gesagt - zu nehmen, als
+sie in die Verbannung geführt wurden. [fn:1]
+
+<<v2>>
+2 Der Prophet habe ferner den Verbannten das Gesetz übergeben und ihnen
+eingeschärft, die Gebote des Herrn nicht zu vergessen noch im Herzen
+irre zu werden, wenn sie die goldenen und silbernen Götzen und ihren
+Prunk sähen. [fn:2]
+
+<<v3>>
+3 Mit manchen Reden solcher Art ermahnte er sie, das Gesetz nicht aus
+ihrem Herzen schwinden zu lassen.
+
+<<v4>>
+4 In dem Buch stand weiter zu lesen, dass der Prophet einen Gottesspruch
+empfangen habe und daraufhin das Zelt und die Lade hinter sich hertragen
+ließ. Er sei hinausgegangen zu dem Berg, auf den Mose gestiegen war, um
+das von Gott verheißene Erbteil zu sehen. [fn:3]
+
+<<v5>>
+5 Dort fand Jeremia eine Höhle wie ein Haus. Er trug das Zelt, die Lade
+und den Rauchopferaltar hinein; dann verschloss er den Eingang.
+
+<<v6>>
+6 Einige von seinen Begleitern gingen hin, um sich den Weg zu markieren;
+aber sie konnten ihn nicht finden.
+
+<<v7>>
+7 Als Jeremia davon hörte, schalt er sie und sagte: Die Stelle soll
+unbekannt bleiben, bis Gott sein Volk wieder sammelt und ihm wieder
+gnädig ist. [fn:4]
+
+<<v8>>
+8 Dann aber bringt der Herr dies alles wieder ans Licht und die
+Herrlichkeit des Herrn wird erscheinen und auch die Wolke, genauso wie
+sie sich in den Tagen des Mose gezeigt hat und in der Zeit, als Salomo
+betete, dass der Ort hochheilig werden möge. [fn:5]
+
+<<v9>>
+9 Es wurde ferner erzählt, wie jener Weise bei der Einweihung und bei
+der Vollendung des Tempels opferte.
+
+<<v10>>
+10 So wie Mose zum Herrn gebetet hatte - und dann war Feuer vom Himmel
+gefallen und hatte die Opferstücke verzehrt -, so betete auch Salomo und
+das Feuer fiel herab und verzehrte die Brandopfer. [fn:6]
+
+<<v11>>
+11 Mose sagte: Weil man das Sündopfer nicht gegessen hat, wurde es
+verbrannt. [fn:7]
+
+<<v12>>
+12 Ebenso hat auch Salomo acht Tage lang gefeiert. [fn:8]
+
+<<v13>>
+13 Das gleiche wird auch in den Schriften und in den Erinnerungen
+Nehemias erzählt; dort steht auch, wie er eine Bücherei anlegte und die
+Bücher der Könige und der Propheten und die (Lieder) Davids sammelte,
+auch königliche Urkunden über Weihegaben. [fn:9]
+
+<<v14>>
+14 Genauso hat auch Judas alle Bücher wieder gesammelt, die in dem
+Krieg, den wir führen mussten, zerstreut worden waren. Sie befinden sich
+heute bei uns. [fn:10]
+
+<<v15>>
+15 Sollten euch einige davon fehlen, so lasst sie durch Boten holen!
+
+<<v16>>
+16 Wir haben euch geschrieben, weil wir nun die Tempelreinigung begehen
+wollen. Ihr werdet gut daran tun, diese Tage mitzufeiern. [fn:11]
+
+<<v17>>
+17 Gott hat sein ganzes Volk gerettet und allen das Erbe und die
+Königsherrschaft und das Priestertum und die Heiligung verliehen, [fn:12]
+
+<<v18>>
+18 wie er es durch das Gesetz verheißen hat. Darum hoffen wir nun, dass
+Gott bald mit uns Erbarmen hat und uns aus der ganzen Welt an seinen
+heiligen Ort zusammenführt. Denn er hat uns schon aus großen Gefahren
+gerettet und hat den heiligen Ort gereinigt.\\
+\\
+
+<<v19>>
+* Das Vorwort des Verfassers: 2,19-32
+
+19 Die Ereignisse um den Makkabäer Judas und seine Brüder - wie sie den
+erhabenen Tempel reinigten und den Altar wieder einweihten;
+
+<<v20>>
+20 ferner die Kriege, die sie gegen Antiochus Epiphanes und seinen Sohn
+Eupator führten;
+
+<<v21>>
+21 die himmlischen Erscheinungen, die den ruhmreichen und tapferen
+Verteidigern des Judentums halfen, sodass es ihnen, obschon sie nur
+wenige waren, gelang, das ganze Land zurückzuerobern, die Massen der
+Barbaren zu verjagen,
+
+<<v22>>
+22 auch das auf der ganzen Welt hochberühmte Heiligtum wiederzugewinnen,
+die Stadt zu befreien, die Gesetze, die abgeschafft werden sollten,
+wieder in Kraft zu setzen - denn der Herr war ihnen in seiner großen
+Güte gnädig -,
+
+<<v23>>
+23 all das hat Jason aus Zyrene in fünf Büchern genau beschrieben. Wir
+nun wollen versuchen, es hier in einem einzigen Buch kurz
+zusammenzufassen. [fn:13]
+
+<<v24>>
+24 Wir bemerkten nämlich die Flut der Zahlen und wie schwierig es wegen
+der Menge des Stoffes ist, sich in die geschichtliche Darstellung
+einzuarbeiten.
+
+<<v25>>
+25 So nahmen wir uns vor, die, die gern lesen, zu unterhalten, denen,
+die mit Eifer auswendig lernen, zu helfen, allen aber, die das Buch auf
+irgendeine Weise in die Hand bekommen, zu nützen.
+
+<<v26>>
+26 Uns ist es allerdings nicht leicht gefallen, in mühseliger Arbeit
+diesen Auszug anzufertigen; es hat vielmehr Schweiß und durchwachte
+Nächte gekostet.
+
+<<v27>>
+27 Wer ein Gastmahl anordnet und den Nutzen anderer sucht, hat es ja
+auch nicht leicht. Dennoch haben wir die Mühe gern auf uns genommen, um
+uns viele zu Dank zu verpflichten.
+
+<<v28>>
+28 Die Einzelheiten genau zu untersuchen, überließen wir dem
+Geschichtsschreiber. Wir haben uns nur darum bemüht, einen ordentlichen
+Auszug anzufertigen.
+
+<<v29>>
+29 Wenn man ein neues Haus baut, muss sich der Architekt um das ganze
+Gebäude kümmern; Dekorateur und Maler dagegen müssen nur das prüfen, was
+zur Ausschmückung nötig ist. Ähnlich beurteile ich auch unsere Aufgabe.
+
+<<v30>>
+30 Sich daran zu machen, die überlieferten Nachrichten kritisch zu
+beurteilen und bis ins einzelne genau zu untersuchen, ist Sache des
+Historikers.
+
+<<v31>>
+31 Wer aber nur nacherzählen will, darf die Darstellung straffen, auch
+wenn die genaue Ausarbeitung nach den Regeln der Geschichtsschreibung
+dabei zu kurz kommt.
+
+<<v32>>
+32 Nun aber wollen wir sofort mit unserer Erzählung beginnen; wir haben
+uns schon allzu lang mit dem Vorwort aufgehalten und es wäre ja
+unsinnig, vor der Erzählung viele Worte zu machen, die Erzählung selbst
+aber zu kürzen.\\
+\\
+
+* Footnotes
+
+[fn:1] Diese Schriften sind, ebenso wie die Erinnerungen des
+Nehemia (V. 13), verloren gegangen.
+
+[fn:2] [[file:Bar_6.org][Bar 6]]
+
+[fn:3] [[file:Dtn_34.org][Dtn 34]]
+
+[fn:4] [[file:Jer_3.org::v16][Jer 3,16]]
+
+[fn:5] [[file:Ex_24.org::v16][Ex 24,16]]; [[file:Ex_40.org::v34][40,34]]-[[file:Ex_40.org::v38][38]]; [[file:1.Kön_8.org::v10][1 Kön 8,10f]]
+
+[fn:6] [[file:Lev_9.org::v23][Lev 9,23f]]; [[file:2.Chr_7.org::v1][2 Chr 7,1]]
+
+[fn:7] [[file:Lev_10.org::v16][Lev 10,16f]]
+
+[fn:8] [[file:1.Kön_8.org::v65][1 Kön 8,65f]]
+
+[fn:9] Erinnerungen Nehemias: ein sonst unbekanntes,
+nicht-kanonisches Werk.
+
+[fn:10] [[file:1.Makk_1.org::v56][1 Makk 1,56]]
+
+[fn:11] [[file:1.Makk_4.org::v59][1 Makk 4,59]]
+
+[fn:12] [[file:Ex_19.org::v5][Ex 19,5f]]
+
+[fn:13] Jason war ein Gelehrter und gehörte der bedeutenden
+jüdischen Gemeinde in Zyrene an.

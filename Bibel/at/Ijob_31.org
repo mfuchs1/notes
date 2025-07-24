@@ -1,0 +1,248 @@
+#+TITLE: Ijob 31 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 22:11]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 31.html
+
+<<verses>>
+
+<<v1>>
+* Erneute Unschuldsbeteuerung vor Gott: 31,1-34
+
+1 Einen Bund schloss ich mit meinen Augen, /\\
+ nie eine Jungfrau lüstern anzusehen. [fn:1]\\
+\\
+
+<<v2>>
+2 Was wäre sonst mein Teil von Gott dort oben, /\\
+ mein Erbe vom Allmächtigen in der Höhe?\\
+\\
+
+<<v3>>
+3 Ist nicht Verderben dem Frevler bestimmt /\\
+ und Missgeschick den Übeltätern?\\
+\\
+
+<<v4>>
+4 Sieht er denn meine Wege nicht, /\\
+ zählt er nicht alle meine Schritte? [fn:2]\\
+\\
+
+<<v5>>
+5 Wenn ich in Falschheit einherging, /\\
+ wenn zum Betrug mein Fuß eilte,\\
+\\
+
+<<v6>>
+6 dann wäge Gott mich auf gerechter Waage, /\\
+ so wird er meine Unschuld anerkennen.\\
+\\
+
+<<v7>>
+7 Wenn mein Schritt vom Wege wich, /\\
+ mein Herz meinen Augen folgte, /\\
+ an meinen Händen Makel klebte,\\
+\\
+
+<<v8>>
+8 dann esse ein anderer, was ich säe, /\\
+ entwurzelt werde, was mir sprosst.\\
+\\
+
+<<v9>>
+9 Wenn sich mein Herz von einer Frau betören ließ /\\
+ und ich an der Tür meines Nachbarn lauerte, [fn:3]\\
+\\
+
+<<v10>>
+10 dann mahle meine Frau einem andern /\\
+ und andere sollen sich beugen über sie.\\
+\\
+
+<<v11>>
+11 Denn das wäre eine Schandtat /\\
+ und ein Verbrechen, von Richtern zu strafen. [fn:4]\\
+\\
+
+<<v12>>
+12 Denn das wäre Feuer, das zum Abgrund frisst /\\
+ und meine ganze Habe entwurzelt.\\
+\\
+
+<<v13>>
+13 Wenn ich das Recht meines Knechts missachtet /\\
+ und das meiner Magd im Streit mit mir, [fn:5]\\
+\\
+
+<<v14>>
+14 was könnt ich tun, wenn Gott sich erhöbe, /\\
+ was ihm entgegnen, wenn er mich prüfte?\\
+\\
+
+<<v15>>
+15 Hat nicht mein Schöpfer auch ihn im Mutterleib geschaffen, /\\
+ hat nicht der Eine uns im Mutterschoß gebildet? [fn:6]\\
+\\
+
+<<v16>>
+16 Wenn ich der Armen Wunsch versagte, /\\
+ verschmachten ließ der Witwe Augen, [fn:7]\\
+\\
+
+<<v17>>
+17 wenn ganz allein ich meinen Bissen aß, /\\
+ das Waisenkind aber nicht davon aß -\\
+\\
+
+<<v18>>
+18 von Jugend an hat wie ein Vater er mich großgezogen, /\\
+ vom Mutterschoß an mich geleitet -,\\
+\\
+
+<<v19>>
+19 wenn ich den Verlorenen sah ohne Kleid /\\
+ und ohne Decke den Verarmten,\\
+\\
+
+<<v20>>
+20 wenn nicht seine Lenden mir dankten, /\\
+ er nicht von der Schur meiner Lämmer sich wärmte,\\
+\\
+
+<<v21>>
+21 wenn meine Hand der Waise drohte, /\\
+ weil ich am Tor Helfer für mich sah,\\
+\\
+
+<<v22>>
+22 dann falle die Schulter mir vom Nacken, /\\
+ breche der Arm mir aus dem Gelenk.\\
+\\
+
+<<v23>>
+23 Ja, Schrecken träfe mich, Gottes Verderben, /\\
+ vor seiner Hoheit hielte ich nicht stand.\\
+\\
+
+<<v24>>
+24 Wenn ich auf Gold meine Hoffnung setzte, /\\
+ zum Feingold sprach: Du meine Zuversicht!, [fn:8]\\
+\\
+
+<<v25>>
+25 wenn ich mich freute, dass groß mein Vermögen, /\\
+ dass viel erreicht hat meine Hand,\\
+\\
+
+<<v26>>
+26 wenn ich die leuchtende Sonne sah, wie sie strahlte, /\\
+ den Mond, wie er herrlich dahinzog, [fn:9]\\
+\\
+
+<<v27>>
+27 wenn heimlich sich mein Herz betören ließ /\\
+ und meine Hand dem Mund zum Kuss sich bot,\\
+\\
+
+<<v28>>
+28 auch das wäre ein Verbrechen, vom Richter zu strafen, /\\
+ denn Gott da droben hätte ich verleugnet.\\
+\\
+
+<<v29>>
+29 Wenn ich am Unglück meines Feinds mich freute /\\
+ und triumphierte, dass Unheil ihn traf - [fn:10] [fn:11]\\
+\\
+
+<<v30>>
+30 habe ich doch meinem Mund zu sündigen verboten, /\\
+ sein Leben mit Fluch zu verwünschen.\\
+\\
+
+<<v31>>
+31 Wenn meine Zeltgenossen nicht gestanden: /\\
+ Wer wurde von seinem Fleisch nicht gesättigt?\\
+\\
+
+<<v32>>
+32 Kein Fremder musste draußen übernachten, /\\
+ dem Wanderer tat meine Tür ich auf. [fn:12]\\
+\\
+
+<<v33>>
+33 Wenn ich nach Menschenart meine Frevel verhehlte, /\\
+ meine Schuld verbarg in meiner Brust, [fn:13]\\
+\\
+
+<<v34>>
+34 weil ich die große Menge scheute /\\
+ und die Verachtung der Sippen mich schreckte, /\\
+ so schwiege ich still und ginge nicht zur Tür hinaus.\\
+\\
+
+<<v35>>
+* Ijobs Warten auf Gottes Antwort: 31,35-40
+
+35 Gäbe es doch einen, der mich hört. /\\
+ Das ist mein Begehr, dass der Allmächtige mir Antwort gibt: /\\
+ Hier ist das Schriftstück, das mein Gegner geschrieben.\\
+\\
+
+<<v36>>
+36 Auf meine Schulter wollte ich es heben, /\\
+ als Kranz es um den Kopf mir winden.\\
+\\
+
+<<v37>>
+37 Ich täte die Zahl meiner Schritte ihm kund, /\\
+ ich nahte mich ihm wie ein Fürst.\\
+\\
+
+<<v38>>
+38 Wenn über mich mein Acker schrie, /\\
+ seine Furchen miteinander weinten,\\
+\\
+
+<<v39>>
+39 wenn seinen Ertrag ich verzehrte, ohne zu bezahlen, /\\
+ das Verlangen seines Herrn ich unerfüllt ließ,\\
+\\
+
+<<v40>>
+40 sollen Dornen wachsen statt Weizen, /\\
+ statt Gerste stinkendes Kraut. Zu Ende sind die Worte Ijobs.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Sir_9.org::v5][Sir 9,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v27][Mt 5,27]]-[[file:Sir_9.org::v29][29]]; (1-34) [[file:Ps_26.org][Ps 26]]
+
+[fn:2] [[file:Ps_132.org::v2][Ps 139,2]]
+
+[fn:3] [[file:Spr_7.org][Spr 7]]
+
+[fn:4] [[file:Dtn_22.org::v22][Dtn 22,22]]-[[file:Dtn_22.org::v24][24]]; [[file:Spr_6.org::v32][Spr 6,32]]-[[file:Spr_6.org::v35][35]]
+
+[fn:5] [[file:Ex_21.org::v2][Ex 21,2f]]; [[file:Lev_25.org::v39][Lev 25,39f]]; [[file:Jer_34.org::v8][Jer 34,8f]]
+
+[fn:6] [[file:Spr_17.org::v5][Spr 17,5]]
+
+[fn:7] [[file:Ijob_22.org::v9][22,9]]; [[file:Tob_4.org::v7][Tob 4,7]]-[[file:Tob_4.org::v11][11]]; [[file:Jes_58.org::v7][Jes 58,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_25.org::v35][Mt 25,35f]]
+
+[fn:8] [[file:Ps_49.org::v7][Ps 49,7]]; [[file:Ps_52.org::v9][52,9]]; [[file:Spr_11.org::v28][Spr 11,28]]; [[file:Sir_31.org::v5][Sir 31,5]]-[[file:Sir_31.org::v10][10]]
+
+[fn:9] [[file:Dtn_4.org::v19][Dtn 4,19]]; [[file:Jer_8.org::v2][Jer 8,2]]; [[file:Ez_8.org::v16][Ez 8,16]]
+
+[fn:10] [[file:Spr_24.org::v17][Spr 24,17f]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v43][Mt 5,43]]-[[file:Spr_24.org::v48][48]]
+
+[fn:11] triumphierte: Text korr.
+
+[fn:12] Wanderer: Text korr.; H hat eine andere Vokalisierung.
+
+[fn:13] [[file:Ps_32.org::v5][Ps 32,5]]

@@ -1,0 +1,129 @@
+#+TITLE: 2 Chr 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 10.html
+
+<<verses>>
+
+<<v1>>
+* Die Geschichte Judas bis zum Untergang: 10,1 - 36,23
+
+* Der Abfall der zehn Nordstämme: 10,1 - 11,5
+
+1 Rehabeam begab sich nach Sichem; denn dorthin war ganz Israel
+gekommen, um ihn zum König zu machen. [fn:1] [fn:2]
+
+<<v2>>
+2 Jerobeam, der Sohn Nebats, hörte davon, während er in Ägypten war,
+wohin er vor dem König Salomo hatte fliehen müssen; er kehrte jetzt aus
+Ägypten zurück. [fn:3]
+
+<<v3>>
+3 Man sandte zu ihm und ließ ihn rufen. So kamen also Jerobeam und ganz
+Israel (nach Sichem) und sie sagten zu Rehabeam:
+
+<<v4>>
+4 Dein Vater hat uns ein hartes Joch auferlegt. Erleichtere jetzt den
+harten Dienst deines Vaters und das schwere Joch, das er uns auferlegt
+hat. Dann wollen wir dir dienen.
+
+<<v5>>
+5 Er antwortete ihnen: Kommt nach drei Tagen wieder zu mir! Als sich das
+Volk entfernt hatte,
+
+<<v6>>
+6 beriet sich König Rehabeam mit den älteren Männern, die zu Lebzeiten
+seines Vaters Salomo in dessen Dienst gestanden hatten. Er fragte sie:
+Welchen Rat gebt ihr mir? Was soll ich diesem Volk antworten?
+
+<<v7>>
+7 Sie sagten zu ihm: Wenn du gut gegen dieses Volk bist, ihnen zu Willen
+bist und freundlich mit ihnen redest, dann werden sie immer deine Diener
+sein.
+
+<<v8>>
+8 Doch er verwarf den Rat, den die Älteren ihm gegeben hatten, und
+beriet sich mit den jungen Leuten, die mit ihm groß geworden waren und
+jetzt in seinem Dienst standen.
+
+<<v9>>
+9 Er fragte sie: Welchen Rat gebt ihr mir? Was sollen wir diesem Volk
+antworten, das zu mir sagt: Erleichtere das Joch, das dein Vater uns
+auferlegt hat.
+
+<<v10>>
+10 Die jungen Leute, die mit ihm groß geworden waren, sagten zu ihm: So
+sollst du dem Volk antworten, das zu dir sagt: Dein Vater hat uns ein
+schweres Joch auferlegt. Erleichtere es uns! So sollst du zu ihnen
+sagen: Mein kleiner Finger ist stärker als die Lenden meines Vaters.
+
+<<v11>>
+11 Hat mein Vater euch ein schweres Joch aufgebürdet, so werde ich es
+noch schwerer machen. Mein Vater hat euch mit Peitschen gezüchtigt, ich
+werde euch mit Skorpionen züchtigen. [fn:4]
+
+<<v12>>
+12 Am dritten Tag kamen Jerobeam und das ganze Volk zu Rehabeam; denn
+der König hatte ihnen gesagt: Kommt am dritten Tag wieder zu mir!
+
+<<v13>>
+13 Der König gab ihnen nun eine harte Antwort. Er verwarf den Rat der
+Älteren
+
+<<v14>>
+14 und antwortete ihnen nach dem Rat der jungen Leute: Mein Vater hat
+euer Joch schwer gemacht. Ich werde es noch schwerer machen. Mein Vater
+hat euch mit Peitschen gezüchtigt, ich werde euch mit Skorpionen
+züchtigen. [fn:5]
+
+<<v15>>
+15 Der König hörte also nicht auf das Volk; denn Gott hatte es so
+bestimmt, um das Wort wahr zu machen, das er durch Ahija von Schilo zu
+Jerobeam, dem Sohn Nebats, gesprochen hatte. [fn:6]\\
+\\
+
+<<v16>>
+16 Als alle Israeliten sahen, dass der König nicht auf sie hörte, gaben
+sie ihm zur Antwort: Welchen Anteil haben wir an David? /\\
+ Wir haben keinen Erbbesitz beim Sohn Isais. /\\
+ In deine Zelte, Israel! /\\
+ Nun kümmere dich um dein Haus, David! So begab sich ganz Israel zu
+seinen Zelten.\\
+\\
+
+<<v17>>
+17 Nur über die Israeliten, die in den Städten Judas wohnten, blieb
+Rehabeam König.
+
+<<v18>>
+18 Und als er den Fronaufseher Hadoram hinschickte, steinigten ihn die
+Israeliten zu Tode. Dem König Rehabeam gelang es, den Wagen zu besteigen
+und nach Jerusalem zu entkommen.
+
+<<v19>>
+19 So fiel Israel vom Haus David ab und ist abtrünnig bis zum heutigen
+Tag.
+
+* Footnotes
+
+[fn:1] (1-11,5) [[file:1.Kön_12.org::v1][1 Kön 12,1-24]]
+
+[fn:2] «Israel» bezeichnet hier und öfter die Angehörigen der
+Nordstämme, die nach dem Abfall von der Dynastie Davids das Nordreich
+Israel bildeten. Daneben kann in Chr mit «Israel» das Gesamtvolk der
+zwölf Stämme oder auch die Bevölkerung des Südreichs Juda gemeint sein.
+
+[fn:3] [[file:1.Kön_11.org::v26][1 Kön 11,26-40]]
+
+[fn:4] Vgl. die Anmerkung zu [[file:1.Kön_12.org::v11][1 Kön 12,11]].
+
+[fn:5] Mein Vater: Text korr. nach G und [[file:1.Kön_12.org::v14][1 Kön 12,14]].
+
+[fn:6] [[file:1.Kön_11.org::v30][1 Kön 11,30-39]]

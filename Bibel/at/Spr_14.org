@@ -1,0 +1,217 @@
+#+TITLE: Spr 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-23 Fr 17:56]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 14.html
+
+* Spr 14
+
+<<verses>>
+
+<<v1>>
+1 Frau Weisheit hat ihr Haus gebaut, /\\
+ die Torheit reißt es nieder mit eigenen Händen.\\
+\\
+
+<<v2>>
+2 Wer geradeaus seinen Weg geht, fürchtet den Herrn, /\\
+ wer krumme Wege geht, verachtet ihn.\\
+\\
+
+<<v3>>
+3 Im Mund des Toren ist eine Rute für seinen Rücken, /\\
+ den Weisen behüten seine Lippen. [fn:1]\\
+\\
+
+<<v4>>
+4 Wo keine Ochsen sind, bleibt die Krippe leer, /\\
+ reicher Ertrag kommt durch die Kraft des Stieres.\\
+\\
+
+<<v5>>
+5 Ein zuverlässiger Zeuge lügt nicht, /\\
+ aber ein falscher Zeuge flüstert Lügen zu.\\
+\\
+
+<<v6>>
+6 Der Zuchtlose sucht Weisheit, doch vergebens, /\\
+ dem Verständigen fällt die Erkenntnis leicht.\\
+\\
+
+<<v7>>
+7 Tritt einem törichten Mann gegenüber /\\
+ und du erfährst keine verständigen Worte.\\
+\\
+
+<<v8>>
+8 Die Weisheit des Klugen gibt ihm Einsicht in seinen Weg, /\\
+ aber die Dummheit der Toren führt zu Täuschung.\\
+\\
+
+<<v9>>
+9 In den Zelten der Toren wohnt Schuld, /\\
+ das Haus der Rechtschaffenen findet Gefallen. [fn:2]\\
+\\
+
+<<v10>>
+10 Das Herz allein kennt seinen Kummer, /\\
+ auch in seine Freude mischt sich kein Fremder.\\
+\\
+
+<<v11>>
+11 Das Haus der Frevler wird zertrümmert, /\\
+ das Zelt der Redlichen gedeiht.\\
+\\
+
+<<v12>>
+12 Manch einem scheint sein Weg der rechte, /\\
+ aber am Ende sind es Wege des Todes. [fn:3]\\
+\\
+
+<<v13>>
+13 Auch beim Lachen kann ein Herz leiden, /\\
+ das Ende der Freude ist Gram.\\
+\\
+
+<<v14>>
+14 Dem Untreuen werden seine Vergehen vergolten, /\\
+ dem guten Menschen seine edlen Taten.\\
+\\
+
+<<v15>>
+15 Der Unerfahrene traut jedem Wort, /\\
+ der Kluge achtet auf seinen Schritt.\\
+\\
+
+<<v16>>
+16 Der Weise hat Scheu und meidet das Böse, /\\
+ der Tor lässt sich gehen und ist vermessen.\\
+\\
+
+<<v17>>
+17 Der Zornige handelt töricht, /\\
+ der Ränkeschmied ist verhasst. [fn:4]\\
+\\
+
+<<v18>>
+18 Die Unerfahrenen verfallen der Torheit, /\\
+ die Klugen krönen sich mit Erkenntnis.\\
+\\
+
+<<v19>>
+19 Die Bösen müssen sich bücken vor den Guten /\\
+ und die Frevler an der Tür des Gerechten. [fn:5]\\
+\\
+
+<<v20>>
+20 Selbst seinem Nächsten ist der Arme verhasst, /\\
+ der Reiche aber hat viele Freunde. [fn:6]\\
+\\
+
+<<v21>>
+21 Wer seinen Nächsten verachtet, sündigt; /\\
+ wohl dem, der Erbarmen hat mit den Notleidenden. [fn:7]\\
+\\
+
+<<v22>>
+22 Gewiss geht in die Irre, wer Böses plant; /\\
+ Liebe und Treue erlangt, wer Gutes plant.\\
+\\
+
+<<v23>>
+23 Jede Arbeit bringt Erfolg, /\\
+ leeres Geschwätz führt nur zu Mangel.\\
+\\
+
+<<v24>>
+24 Die Krone der Weisen ist ihre Klugheit, /\\
+ der Kranz der Toren ist ihre Narrheit. [fn:8]\\
+\\
+
+<<v25>>
+25 Ein verlässlicher Zeuge rettet Leben, /\\
+ wer Lügen zuflüstert, der täuscht.\\
+\\
+
+<<v26>>
+26 Der Gottesfürchtige hat feste Zuversicht, /\\
+ noch seine Söhne haben eine Zuflucht.\\
+\\
+
+<<v27>>
+27 Die Gottesfurcht ist ein Lebensquell, /\\
+ um den Schlingen des Todes zu entgehen. [fn:9]\\
+\\
+
+<<v28>>
+28 Viel Volk ist der Glanz des Königs, /\\
+ wenig Leute sind des Fürsten Untergang.\\
+\\
+
+<<v29>>
+29 Der Langmütige ist immer der Klügere, /\\
+ der Jähzornige treibt die Torheit auf die Spitze.\\
+\\
+
+<<v30>>
+30 Ein gelassenes Herz bedeutet Leben für den Leib, /\\
+ doch Knochenfraß ist die Leidenschaft.\\
+\\
+
+<<v31>>
+31 Wer den Geringen bedrückt, schmäht dessen Schöpfer, /\\
+ ihn ehrt, wer Erbarmen hat mit dem Bedürftigen. [fn:10]\\
+\\
+
+<<v32>>
+32 Durch seine Bosheit wird der Frevler gestürzt, /\\
+ der Gerechte findet Zuflucht in seiner Redlichkeit. [fn:11]\\
+\\
+
+<<v33>>
+33 Im Herzen des Verständigen ruht Weisheit, /\\
+ im Innern der Toren ist sie nicht bekannt.\\
+\\
+
+<<v34>>
+34 Gerechtigkeit erhöht ein Volk, /\\
+ der Völker Schmach ist die Sünde.\\
+\\
+
+<<v35>>
+35 Die Gunst des Königs ruht auf dem klugen Diener, /\\
+ den schändlichen aber trifft sein Zorn.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Spr_23.org::v3][26,3]]
+
+[fn:2] Text unsicher; korr. nach G.
+
+[fn:3] [[file:Spr_16.org::v25][16,25]]; [[file:Sir_21.org::v10][Sir 21,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_7.org::v13][Mt 7,13]]
+
+[fn:4] 17b: Nach S wäre die Antithese zu lesen: der Besonnene
+aber bleibt ruhig.
+
+[fn:5] [[file:~/RoamNotes/notes/Bibel/nt/Lk_16.org::v24][Lk 16,24-31]]
+
+[fn:6] [[file:Spr_19.org::v4][19,4]]; [[file:Sir_13.org::v21][Sir 13,21-23]]
+
+[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v7][Mt 5,7]]
+
+[fn:8] Text und Übersetzung unsicher.
+
+[fn:9] [[file:Spr_13.org::v14][13,14]]
+
+[fn:10] [[file:Spr_17.org::v5][17,5]]
+
+[fn:11] 32b: Redlichkeit: nach G; H und Vg kaum richtig: in
+seinem Tod.

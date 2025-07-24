@@ -1,0 +1,220 @@
+:PROPERTIES:
+:ID:       80479edd-e229-462e-ae65-37b27120177c
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_29.html][29]]
+[[file:Sir_30.html][30]] *31* [[file:Sir_32.html][32]]
+[[file:Sir_33.html][33]] ... [[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 31
+  :PROPERTIES:
+  :CUSTOM_ID: sir-31
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Schlaflosigkeit wegen des Reichtums zehrt am Fleisch, /\\
+ die Sorge um ihn nimmt der Schlummer. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Die Sorge um den Lebensunterhalt verscheucht den Schlummer, /\\
+ mehr als schwere Krankheit vertreibt sie ihn.\\
+\\
+
+<<v3>>
+3 Der Reiche müht sich ab, um ein Vermögen zu sammeln; /\\
+ ist er zur Ruhe gekommen, frönt er dem Genuss. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Der Arme plagt sich und verbraucht seine Kraft; /\\
+ wenn er ruht, muss er hungern.\\
+\\
+
+<<v5>>
+5 Wer das Gold liebt, bleibt nicht ungestraft, /\\
+ wer dem Geld nachjagt, versündigt sich.\\
+\\
+
+<<v6>>
+6 Viele sind es, die sich vom Gold fesseln lassen, /\\
+ die ihr Vertrauen auf Perlen setzen. ^{[[#fn3][3]]}\\
+\\
+
+<<v7>>
+7 Eine Falle ist das für den Toren, /\\
+ jeder Einfältige lässt sich damit fangen.\\
+\\
+
+<<v8>>
+8 Wohl dem Mann, der schuldlos befunden wird, /\\
+ der sich nicht aus Habgier versündigt. ^{[[#fn4][4]]}\\
+\\
+
+<<v9>>
+9 Wo gibt es den? Wir wollen ihn preisen. /\\
+ Denn Staunenswertes hat er in seinem Volk vollbracht.\\
+\\
+
+<<v10>>
+10 Wo gibt es einen, der sich in solcher Prüfung bewährt hat? /\\
+ Das wird ihm zur Ehre gereichen. Wer konnte sündigen und sündigte
+nicht, /\\
+ Böses tun, tat es aber nicht? ^{[[#fn5][5]]}\\
+\\
+
+<<v11>>
+11 Darum ist sein Glück von Dauer, /\\
+ die Gemeinde verkündet sein Lob. ^{[[#fn6][6]]}\\
+\\
+
+<<v12>>
+**** Das Benehmen bei Tisch: 31,12 - 32,13
+     :PROPERTIES:
+     :CUSTOM_ID: das-benehmen-bei-tisch-3112---3213
+     :END:
+12 Mein Sohn, sitzt du am Tisch eines Großen, /\\
+ dann reiß den Rachen nicht auf!\\
+\\
+
+<<v13>>
+13 Sag nicht: Es ist reichlich da. /\\
+ Denk daran, wie hässlich ein gieriges Auge ist. Schlimmeres als das
+Auge hat Gott nicht erschaffen; /\\
+ darum muss es bei jeder Gelegenheit weinen.\\
+\\
+
+<<v14>>
+14 Wohin schon ein anderer blickt, /\\
+ dahin streck deine Hand nicht aus, /\\
+ sonst triffst du mit ihm in der Schüssel zusammen.\\
+\\
+
+<<v15>>
+15 Sorge für einen Nächsten wie für dich selbst /\\
+ und denk an all das, was auch dir zuwider ist.\\
+\\
+
+<<v16>>
+16 Iss wie ein gesitteter Mann, was vor dir liegt, /\\
+ und sei nicht gierig, sonst verabscheut man dich. ^{[[#fn7][7]]}\\
+\\
+
+<<v17>>
+17 Hör als Erster auf, wie es der Anstand verlangt, /\\
+ und schlürfe nicht, sonst erregst du Anstoß.\\
+\\
+
+<<v18>>
+18 Auch wenn du unter vielen sitzt, /\\
+ streck die Hand nicht vor dem Nachbarn aus!\\
+\\
+
+<<v19>>
+19 Hat ein wohlerzogener Mensch nicht mit wenig genug? /\\
+ So wird es ihm in seinem Bett nicht übel.\\
+\\
+
+<<v20>>
+20 Schmerz, Schlaflosigkeit und Qual /\\
+ und Magendrücken hat der törichte Mensch. Gesunden Schlaf hat einer,
+der den Magen nicht überlädt; /\\
+ steht er am Morgen auf, fühlt er sich wohl.\\
+\\
+
+<<v21>>
+21 Hast du dich dennoch von Leckerbissen verführen lassen, /\\
+ steh auf, erbrich sie und du hast Ruhe.\\
+\\
+
+<<v22>>
+22 Höre, mein Sohn, und verachte mich nicht /\\
+ und du wirst schließlich meine Worte begreifen. Bei all deinem Tun sei
+bescheiden, /\\
+ so wird dich kein Schaden treffen.\\
+\\
+
+<<v23>>
+23 Wer bei Tisch anständig ist, wird gelobt, /\\
+ sein guter Ruf steht fest.\\
+\\
+
+<<v24>>
+24 Wer sich bei Tisch schlecht benimmt, /\\
+ wird öffentlich beschimpft, /\\
+ sein schlechter Ruf steht fest.\\
+\\
+
+<<v25>>
+25 Auch beim Wein spiel nicht den starken Mann! /\\
+ Schon viele hat der Rebensaft zu Fall gebracht. ^{[[#fn8][8]]}\\
+\\
+
+<<v26>>
+26 Wie der Ofen das Werk des Schmiedes prüft, /\\
+ so ist der Wein eine Probe für die Zuchtlosen.\\
+\\
+
+<<v27>>
+27 Wie ein Lebenswasser ist der Wein für den Menschen, /\\
+ wenn er ihn mäßig trinkt. Was ist das für ein Leben, wenn man keinen
+Wein hat, /\\
+ der doch von Anfang an zur Freude geschaffen wurde? ^{[[#fn9][9]]}\\
+\\
+
+<<v28>>
+28 Frohsinn, Wonne und Lust bringt Wein, /\\
+ zur rechten Zeit und genügsam getrunken.\\
+\\
+
+<<v29>>
+29 Kopfweh, Hohn und Schimpf /\\
+ bringt Wein, getrunken in Erregung und Zorn.\\
+\\
+
+<<v30>>
+30 Zu viel Wein ist eine Falle für den Toren, /\\
+ er schwächt die Kraft und schlägt viele Wunden. ^{[[#fn10][10]]}\\
+\\
+
+<<v31>>
+31 Beim Weingelage nörgle nicht am Nachbarn herum, /\\
+ verspotte ihn nicht, wenn er heiter ist. Sag zu ihm kein schmähendes
+Wort /\\
+ und streite mit ihm nicht vor den Leuten! ^{[[#fn11][11]]}\\
+\\
+
+^{[[#fnm1][1]]} 1-36,13: G hat 33,16 - 36,13 hinter 30,25 eingereiht;
+vgl. Anm. zu 33,16-33 und zu 36,16. Vg stimmt in der Kapitelzählung mit
+H und S überein, hat aber infolge von Doppelübersetzungen und Einschüben
+eine abweichende Verszählung. Hier wird die Kapitelzählung nach H und
+Vg, die Verszählung aber nach G beibehalten.
+
+^{[[#fnm2][2]]} ℘ 11,18f
+
+^{[[#fnm3][3]]} Übersetzung unsicher. Andere Übersetzungsmöglichkeit:
+Zahlreich sind die Schlingen des Goldes und die Stricke an den Perlen.
+
+^{[[#fnm4][4]]} 8a: Andere Übersetzungsmöglichkeit: Wohl dem Reichen.
+8b: aus Habgier, wörtlich: hinter dem Gold her (G), oder: hinter dem
+Mammon her (H und S); das Wort «Mammon» begegnet hier zum ersten Mal.
+
+^{[[#fnm5][5]]} 10a: Text korrigiert nach G und Vg.
+
+^{[[#fnm6][6]]} ℘ 39,10; 44,15
+
+^{[[#fnm7][7]]} ℘ Spr 23,1f
+
+^{[[#fnm8][8]]} ℘ Spr 20,1
+
+^{[[#fnm9][9]]} ℘ Ps 104,15; Koh 10,19
+
+^{[[#fnm10][10]]} ℘ Spr 23,29-35
+
+^{[[#fnm11][11]]} ℘ 22,22

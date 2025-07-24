@@ -1,0 +1,98 @@
+:PROPERTIES:
+:ID:       8fe14880-397c-41e9-8169-a0059f4b8425
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Daniel* -- [[file:Dan_1.html][1]] ...
+[[file:Dan_10.html][10]] [[file:Dan_11.html][11]] *12*
+[[file:Dan_13.html][13]] [[file:Dan_14.html][14]]
+
+--------------
+
+* Dan 12
+  :PROPERTIES:
+  :CUSTOM_ID: dan-12
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 In jener Zeit tritt Michael auf, der große Engelfürst, der für die
+Söhne deines Volkes eintritt. Dann kommt eine Zeit der Not, wie noch
+keine da war, seit es Völker gibt, bis zu jener Zeit. Doch dein Volk
+wird in jener Zeit gerettet, jeder, der im Buch verzeichnet ist.
+^{[[#fn1][1]]}
+
+<<v2>>
+2 Von denen, die im Land des Staubes schlafen, werden viele erwachen,
+die einen zum ewigen Leben, die anderen zur Schmach, zu ewigem Abscheu.
+^{[[#fn2][2]]}
+
+<<v3>>
+3 Die Verständigen werden strahlen, wie der Himmel strahlt; und die
+Männer, die viele zum rechten Tun geführt haben, werden immer und ewig
+wie die Sterne leuchten. ^{[[#fn3][3]]}
+
+<<v4>>
+4 Du, Daniel, halte diese Worte geheim und versiegle das Buch bis zur
+Zeit des Endes! Viele werden nachforschen und die Erkenntnis wird groß
+sein. ^{[[#fn4][4]]}
+
+<<v5>>
+5 Als ich, Daniel, aufblickte, standen noch zwei andere Männer da, der
+eine diesseits des Flussufers, der andere jenseits.
+
+<<v6>>
+6 Einer fragte den Mann, der in Leinen gekleidet war und über dem Wasser
+des Flusses stand: Wie lange dauert es noch bis zum Ende der
+unbegreiflichen Geschehnisse? ^{[[#fn5][5]]}
+
+<<v7>>
+7 Darauf hörte ich die Stimme des Mannes, der in Leinen gekleidet war
+und über dem Wasser des Flusses stand; er erhob seine rechte und seine
+linke Hand zum Himmel, schwor bei dem, der ewig lebt, und sagte: Es
+dauert noch eine Zeit, zwei Zeiten und eine halbe Zeit. Wenn der am Ende
+ist, der die Macht des heiligen Volkes zerschlägt, dann wird sich das
+alles vollenden. ^{[[#fn6][6]]}
+
+<<v8>>
+8 Ich hörte es, verstand es aber nicht. Darum fragte ich: Mein Herr, was
+wird das letzte von all dem sein?
+
+<<v9>>
+9 Er erwiderte: Geh, Daniel! Diese Worte bleiben verschlossen und
+versiegelt bis zur Zeit des Endes.
+
+<<v10>>
+10 Viele werden geläutert, gereinigt und geprüft. Doch die ruchlosen
+Sünder sündigen weiter. Von den Sündern wird es keiner verstehen; aber
+die Verständigen verstehen es. ^{[[#fn7][7]]}
+
+<<v11>>
+11 Von der Zeit an, in der man das tägliche Opfer abschafft und den
+unheilvollen Gräuel aufstellt, sind es zwölfhundertneunzig Tage.
+
+<<v12>>
+12 Wohl dem, der aushält und dreizehnhundertfünfunddreißig Tage
+erreicht! ^{[[#fn8][8]]}
+
+<<v13>>
+13 Du aber geh nun dem Ende zu! Du wirst ruhen und am Ende der Tage
+wirst du auferstehen, um dein Erbteil zu empfangen.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 10,13; Offb 12,7; Mt 24,21
+
+^{[[#fnm2][2]]} ℘ 2 Makk 7,9; Jes 66,24; Joh 5,29
+
+^{[[#fnm3][3]]} ℘ 11,33; Spr 4,18; Mt 13,43
+
+^{[[#fnm4][4]]} ℘ 8,26; Offb 10,4
+
+^{[[#fnm5][5]]} ℘ Offb 10,5f
+
+^{[[#fnm6][6]]} ℘ 7,25
+
+^{[[#fnm7][7]]} ℘ 11,35
+
+^{[[#fnm8][8]]} ℘ (11-12) 8,14

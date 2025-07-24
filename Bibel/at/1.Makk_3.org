@@ -1,0 +1,335 @@
+#+TITLE: 1 Makk 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-26 So 14:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 3.html
+
+<<verses>>
+
+<<v1>>
+* Die Taten des Judas: 3,1 - 9,22
+
+* Das Loblied auf Judas: 3,1-9
+
+1 An die Stelle des Mattatias trat sein Sohn Judas mit dem Beinamen der
+Makkabäer. [fn:1]
+
+<<v2>>
+2 Alle seine Brüder unterstützten ihn, wie auch alle, die sich seinem
+Vater angeschlossen hatten. Freudig kämpften sie für Israel.\\
+\\
+
+<<v3>>
+3 Er machte sein Volk weithin berühmt. /\\
+ Als Kriegsheld zog er seinen Panzer an, /\\
+ legte seine Waffen um und führte Krieg; /\\
+ sein Schwert war der Schutz seines Heeres.\\
+\\
+
+<<v4>>
+4 Er glich im Kampf einem Löwen, /\\
+ einem jungen Löwen, der sich brüllend auf die Beute stürzt.\\
+\\
+
+<<v5>>
+5 Er verfolgte die Sünder und spürte sie auf; /\\
+ er vertilgte alle, die sein Volk verwirrten.\\
+\\
+
+<<v6>>
+6 Aus Furcht vor ihm verloren die Sünder den Mut, /\\
+ alle Übeltäter vergingen vor Angst. /\\
+ Seiner Hand gelang die Befreiung.\\
+\\
+
+<<v7>>
+7 Vielen Königen schaffte er großen Verdruss, /\\
+ doch Jakob erfreute er mit seinen Taten. /\\
+ Sein Andenken sei ewig gepriesen.\\
+\\
+
+<<v8>>
+8 Er zog durch die Städte Judäas, /\\
+ vernichtete die Frevler im Land /\\
+ und wandte Gottes Zorn von Israel ab.\\
+\\
+
+<<v9>>
+9 Man sprach von ihm bis ans Ende der Welt; /\\
+ er sammelte wieder, was verloren war.\\
+\\
+
+<<v10>>
+* Abwehr heidnischer Angriffe: 3,10-26
+
+10 Apollonius sammelte Truppen aus den fremden Völkern und dazu ein
+großes Heer aus Samarien, um gegen Israel Krieg zu führen. [fn:2]
+
+<<v11>>
+11 Als Judas davon erfuhr, zog er ihm entgegen und besiegte und erschlug
+ihn. Viele kamen in diesem Kampf um; die Übrigen flohen.
+
+<<v12>>
+12 Danach holte man sich die Beute. Judas nahm das Schwert des
+Apollonius an sich; er gebrauchte es in jedem Kampf, solange er lebte.
+
+<<v13>>
+13 Seron, der Befehlshaber der Streitkräfte in Syrien, hörte, dass Judas
+eine Gemeinschaft von Getreuen um sich geschart hatte, die mit ihm in
+den Kampf auszogen.
+
+<<v14>>
+14 Da dachte er: Ich will mir einen Namen machen und im Reich berühmt
+werden: Ich werde einen Feldzug unternehmen gegen Judas und seine Leute,
+die das Wort des Königs verachten.
+
+<<v15>>
+15 Ein großes Heer ruchloser Männer schloss sich ihm an und zog zu
+seiner Unterstützung mit ihm hinauf, um an den Israeliten Rache zu
+nehmen.
+
+<<v16>>
+16 Er kam bis zur Steige von Bet-Horon. Judas zog ihm mit ganz wenigen
+Männern entgegen.
+
+<<v17>>
+17 Als diese das Heer sahen, das gegen sie ausgerückt war, sagten sie zu
+Judas: Wie können wir mit so wenigen Leuten gegen eine solche Übermacht
+kämpfen? Außerdem sind wir ganz erschöpft; denn wir haben heute noch
+nichts gegessen.
+
+<<v18>>
+18 Judas antwortete: Es kann leicht sein, dass viele wenigen in die
+Hände fallen; für den Himmel macht es keinen Unterschied, ob er durch
+viele oder wenige Rettung bringt. [fn:3]
+
+<<v19>>
+19 Denn der Sieg im Kampf liegt nicht an der Größe des Heeres, sondern
+an der Kraft, die vom Himmel kommt.
+
+<<v20>>
+20 Diese Leute da ziehen voll Hochmut und Bosheit gegen uns in den
+Kampf, um uns mit unseren Frauen und Kindern auszurotten und unsere Habe
+zu plündern.
+
+<<v21>>
+21 Wir aber kämpfen für unser Leben und für unsere Gesetze.
+
+<<v22>>
+22 Der Himmel wird sie vor unseren Augen vernichtend schlagen. Darum
+habt keine Angst vor ihnen!
+
+<<v23>>
+23 Kaum hatte er das gesagt, da stürzte er sich überraschend auf die
+Feinde und Seron und sein Heer wurden vor seinen Augen aufgerieben.
+
+<<v24>>
+24 Sie verfolgten ihn von der Steige von Bet-Horon bis in die Ebene
+hinab und es fielen gegen achthundert Mann von ihnen; die Übrigen flohen
+ins Land der Philister. [fn:4]\\
+\\
+
+<<v25>>
+25 Da begann man, sich vor Judas und seinen Brüdern zu fürchten, /\\
+ Schrecken befiel die Völker ringsum.\\
+\\
+
+<<v26>>
+26 Selbst der König hörte seinen Namen; /\\
+ die ganze Welt erzählte von den Kämpfen des Judas.\\
+\\
+
+<<v27>>
+* Die Kriegsvorbereitungen des Antiochus Epiphanes: 3,27-37
+
+27 Als König Antiochus von diesen Ereignissen hörte, wurde er sehr
+zornig. Er schickte Boten aus und zog alle Streitkräfte seines Reiches
+zusammen: ein gewaltig großes Heer.
+
+<<v28>>
+28 Dann öffnete er seine Schatzkammer, gab seinen Truppen Sold für ein
+Jahr und befahl ihnen, sich für jeden Fall bereitzuhalten.
+
+<<v29>>
+29 Doch merkte er, dass das Geld im Staatsschatz ausging. Auch kamen nur
+noch wenig Steuern aus dem Land ein, weil er Streit und Unglück über das
+Land gebracht hatte, als er die uralten Bräuche aufhob.
+
+<<v30>>
+30 Er war also besorgt, dass er, wie es schon einige Male vorgekommen
+war, nicht mehr so aufwendig wie früher leben und keine Geschenke mehr
+verteilen könnte. Er war nämlich bisher besonders freigebig gewesen,
+mehr als die Könige vor ihm.
+
+<<v31>>
+31 In seiner großen Verlegenheit beschloss er, nach Persien zu ziehen,
+um in jenen Provinzen die Steuern einzutreiben und auf diese Weise viel
+Geld zusammenzubringen.
+
+<<v32>>
+32 Als seinen Statthalter über das Gebiet zwischen dem Eufrat und der
+Grenze Ägyptens ließ er Lysias zurück, einen Mann, der sehr angesehen
+war und aus königlicher Familie stammte.
+
+<<v33>>
+33 Ihm übertrug er auch bis zu seiner Rückkehr die Erziehung seines
+Sohnes Antiochus.
+
+<<v34>>
+34 Ferner überließ er ihm die Hälfte der Truppen und die Kriegselefanten
+und gab ihm Anweisungen über alle anstehenden Maßnahmen, auch gegen die
+Bewohner von Judäa und Jerusalem.
+
+<<v35>>
+35 Er sagte, er solle ein Heer gegen Israel schicken, um seine Macht zu
+brechen, um alles zu vernichten, was von Jerusalem noch übrig sei, und
+sogar die Erinnerung an die Juden auslöschen.
+
+<<v36>>
+36 Er solle Menschen aus fremden Völkern in ihrem ganzen Gebiet
+ansiedeln und das Land an sie verlosen.
+
+<<v37>>
+37 Die andere Hälfte der Truppen nahm der König mit sich; er brach im
+Jahr 147 von seiner Hauptstadt Antiochia auf, überquerte den Eufrat und
+marschierte in die östlichen Provinzen. [fn:5]\\
+\\
+
+<<v38>>
+* Der Angriff des Gorgias und des Nikanor: 3,38-45
+
+38 Lysias aber wählte Ptolemäus aus, den Sohn des Dorymenes, außerdem
+Nikanor und Gorgias, tapfere Männer, die zu den Freunden des Königs
+gehörten, [fn:6]
+
+<<v39>>
+39 und schickte sie mit vierzigtausend Mann und siebentausend Reitern
+auf den Weg. Sie sollten in Judäa einmarschieren und das Land verwüsten,
+wie es der König befohlen hatte.
+
+<<v40>>
+40 Sie brachen also mit ihrem ganzen Heer auf, zogen bis Emmaus und
+schlugen dort in der Ebene ihr Lager auf.
+
+<<v41>>
+41 Als die Händler in jener Gegend von ihnen hörten, kamen sie mit viel
+Silber und Gold und mit Fußfesseln zum Lager, um die Israeliten als
+Sklaven aufzukaufen. Dem Heer schlossen sich auch noch Truppen aus
+Syrien und aus dem Land der Philister an.
+
+<<v42>>
+42 Als Judas und seine Brüder sahen, dass großes Unheil drohte und die
+feindlichen Truppen schon auf ihrem Gebiet ihr Lager aufschlugen, und
+als sie erfuhren, welche Befehle der König gegeben hatte, um das Volk
+völlig zu vernichten,
+
+<<v43>>
+43 sagten sie zueinander: Wir wollen die Trümmer unseres Volkes
+wiederaufbauen und für unser Volk und das Heiligtum kämpfen.
+
+<<v44>>
+44 Und sie kamen zusammen, um sich zum Kampf zu rüsten, aber auch, um zu
+beten und Gnade und Mitleid zu erflehen.\\
+\\
+
+<<v45>>
+45 Jerusalem war menschenleer wie eine Wüste, /\\
+ von den Kindern der Stadt /\\
+ ging keines mehr ein oder aus. /\\
+ Die heilige Stätte war entweiht. /\\
+ Ausländer hausten in der Burg, /\\
+ sie war ein Gasthaus für fremde Völker. /\\
+ Die Freude war aus Jakob verschwunden, /\\
+ Flöte und Harfe waren verstummt.\\
+\\
+
+<<v46>>
+* Der Bittgottesdienst in Mizpa: 3,46-60
+
+46 Sie versammelten sich also und gingen nach Mizpa. Das ist ein Ort,
+der Jerusalem gegenüber liegt und an dem die Israeliten früher eine
+Gebetsstätte hatten. [fn:7]
+
+<<v47>>
+47 Sie fasteten an jenem Tag, zogen Bußkleider an, streuten sich Staub
+auf das Haupt und zerrissen ihre Gewänder.
+
+<<v48>>
+48 Sie breiteten die Gesetzesrolle aus, um eine Entscheidung zu
+erhalten, so wie die fremden Völker ihre Götterbilder befragen.
+
+<<v49>>
+49 Auch brachten sie die priesterlichen Gewänder, die Erstlingsfrüchte
+und den Zehnten herbei, befahlen den Nasiräern, deren Zeit abgelaufen
+war, sich zu versammeln, [fn:8]
+
+<<v50>>
+50 und schrien laut zum Himmel: Was sollen wir mit diesen Dingen und
+diesen Menschen tun, wo sollen wir sie hinbringen?
+
+<<v51>>
+51 Man entweiht und schändet dein Heiligtum; deine Priester leben in
+Trauer und Elend.
+
+<<v52>>
+52 Sieh her: Man führt fremde Völker zusammen, um uns auszurotten. Du
+weißt, was sie mit uns vorhaben.
+
+<<v53>>
+53 Wie können wir ihrem Angriff standhalten, wenn du uns nicht hilfst?
+
+<<v54>>
+54 Dabei ließen sie die Trompeten blasen und schrien laut.
+
+<<v55>>
+55 Danach setzte Judas Heerführer ein, jeweils über tausend, hundert,
+fünfzig und zehn.
+
+<<v56>>
+56 Alle, die (kurz zuvor) ein Haus gebaut, eine Frau geheiratet oder
+Weinberge angelegt hatten oder die Angst hatten, ließ er nach Hause
+zurückkehren, wie es das Gesetz vorschreibt. [fn:9]
+
+<<v57>>
+57 Danach brach das Heer auf und schlug südlich von Emmaus sein Lager
+auf.
+
+<<v58>>
+58 Judas sagte: Legt eure Waffen an und seid tapfer! Macht euch bereit,
+morgen früh mit diesen fremden Völkern zu kämpfen, die man
+zusammengeführt hat, um uns und unser Heiligtum zu vernichten.
+
+<<v59>>
+59 Denn wir wollen lieber im Kampf fallen, als zusehen, wie Unglück über
+unser Volk und über das Heiligtum kommt.
+
+<<v60>>
+60 Doch wie der Himmel will, so soll es geschehen.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-9) [[file:2.Makk_8.org::v1][2 Makk 8,1]]-[[file:2.Makk_8.org::v7][7]]
+
+[fn:2] Nach Josephus Flavius war Apollonius Gouverneur von Samaria.
+
+[fn:3] [[file:1.Sam_14.org::v6][1 Sam 14,6]]
+
+[fn:4] «Land der Philister» ist altertümliche Redeweise für das
+Küstengebiet am Mittelmeer. Davon ist der Name Palästina abgeleitet.
+
+[fn:5] die östlichen Provinzen: die Hochebene des Iran.
+
+[fn:6] [[file:2.Makk_4.org::v45][2 Makk 4,45]]; [[file:1.Makk_7.org::v26][1 Makk 7,26]]; [[file:2.Makk_10.org::v14][2 Makk 10,14]]; (38-45) [[file:2.Makk_8.org::v8][2 Makk 8,8]]-[[file:2.Makk_8.org::v15][15]]
+
+[fn:7] [[file:Ri_20.org::v1][Ri 20,1]]-[[file:Ri_20.org::v3][3]]; [[file:1.Sam_7.org::v5][1 Sam 7,5f]]; (46-60) [[file:2.Makk_8.org::v16][2 Makk 8,16]]-[[file:2.Makk_8.org::v23][23]]
+
+[fn:8] [[file:Dtn_26.org][Dtn 26]]; [[file:Num_6.org][Num 6]]
+
+[fn:9] [[file:Dtn_20.org::v5][Dtn 20,5]]-[[file:Dtn_20.org::v9][9]]

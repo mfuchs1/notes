@@ -1,0 +1,99 @@
+#+TITLE: Ps 46 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-03 Mi 22:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 46.html
+
+* Ps 46
+
+<<verses>>
+
+<<v1>>
+* Gott, unsre Burg
+
+1 [Für den Chormeister. Von den Korachitern. Nach der Weise «Mädchen».
+Ein Lied.]\\
+\\
+
+<<v2>>
+2 Gott ist uns Zuflucht und Stärke, /\\
+ ein bewährter Helfer in allen Nöten. [fn:1]\\
+\\
+
+<<v3>>
+3 Darum fürchten wir uns nicht, wenn die Erde auch wankt, /\\
+ wenn Berge stürzen in die Tiefe des Meeres, [fn:2]\\
+\\
+
+<<v4>>
+4 wenn seine Wasserwogen tosen und schäumen /\\
+ und vor seinem Ungestüm die Berge erzittern. Der Herr der Heerscharen
+ist mit uns, /\\
+ der Gott Jakobs ist unsre Burg. [Sela] [fn:3]\\
+\\
+
+<<v5>>
+5 Die Wasser eines Stromes erquicken die Gottesstadt, /\\
+ des Höchsten heilige Wohnung.\\
+\\
+
+<<v6>>
+6 Gott ist in ihrer Mitte, darum wird sie niemals wanken; /\\
+ Gott hilft ihr, wenn der Morgen anbricht. [fn:4]\\
+\\
+
+<<v7>>
+7 Völker toben, Reiche wanken, /\\
+ es dröhnt sein Donner, da zerschmilzt die Erde.\\
+\\
+
+<<v8>>
+8 Der Herr der Heerscharen ist mit uns, /\\
+ der Gott Jakobs ist unsre Burg. [Sela]\\
+\\
+
+<<v9>>
+9 Kommt und schaut die Taten des Herrn, /\\
+ der Furchtbares vollbringt auf der Erde. [fn:5]\\
+\\
+
+<<v10>>
+10 Er setzt den Kriegen ein Ende /\\
+ bis an die Grenzen der Erde; er zerbricht die Bogen, zerschlägt die
+Lanzen, /\\
+ im Feuer verbrennt er die Schilde. [fn:6] [fn:7]\\
+\\
+
+<<v11>>
+11 «Lasst ab und erkennt, dass ich Gott bin, /\\
+ erhaben über die Völker, erhaben auf Erden.» [fn:8]\\
+\\
+
+<<v12>>
+12 Der Herr der Heerscharen ist mit uns, /\\
+ der Gott Jakobs ist unsre Burg. [Sela]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_37.org::v39][37,39]]; [[file:Ps_61.org::v4][61,4]]
+
+[fn:2] [[file:Ps_75.org::v4][75,4]]; [[file:Ijob_9.org::v5][Ijob 9,5f]]
+
+[fn:3] Der Kehrvers von V. 8 und V. 12 wurde auch hier eingefügt.
+
+[fn:4] [[file:Ps_90.org::v14][90,14]]; [[file:2.Kön_19.org::v35][2 Kön 19,35]]
+
+[fn:5] [[file:Ps_66.org::v5][66,5]]
+
+[fn:6] [[file:Ps_76.org::v4][76,4]]; [[file:Jes_2.org::v4][Jes 2,4]]; [[file:Ez_39.org::v9][Ez 39,9f]]
+
+[fn:7] Andere Übersetzungsmöglichkeit: verbrennt er die Wagen.
+
+[fn:8] [[file:Ps_83.org::v19][83,19]]

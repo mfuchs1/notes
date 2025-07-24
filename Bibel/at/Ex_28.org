@@ -1,0 +1,215 @@
+#+TITLE: Ex 28 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 23:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 28.html
+
+* Ex 28
+<<verses>>
+
+<<v1>>
+* Die Priestergewänder: 28,1-43
+1 Lass aus der Mitte der Israeliten deinen Bruder Aaron und mit ihm auch
+seine Söhne zu dir kommen, damit sie mir als Priester dienen, Aaron mit
+Nadab, Abihu, Eleasar und Itamar, den Söhnen Aarons. [fn:1]
+
+<<v2>>
+2 Lass für deinen Bruder Aaron heilige Gewänder anfertigen, die ihm zur
+Ehre und zum Schmuck gereichen.
+
+<<v3>>
+3 Rede mit allen Sachverständigen, die ich mit dem Geist der Weisheit
+erfüllt habe; sie sollen Aarons Gewänder anfertigen, damit er geheiligt
+sei und mir als Priester dient.
+
+<<v4>>
+4 Das sind die Gewänder, die sie anfertigen sollen: Lostasche, Efod,
+Obergewand, Leibrock aus gewirktem Stoff, Turban und Gürtel. Sie sollen
+also für deinen Bruder Aaron und für seine Söhne heilige Gewänder
+anfertigen, damit er mir als Priester dient.
+
+<<v5>>
+5 Sie sollen dazu Gold, violetten und roten Purpur, Karmesin und Byssus
+verwenden.
+
+<<v6>>
+6 Das Efod sollen sie als Kunstweberarbeit herstellen, aus Gold,
+violettem und rotem Purpur, Karmesin und gezwirntem Byssus. [fn:2]
+
+<<v7>>
+7 Es soll zwei miteinander verbundene Schulterstücke haben, und zwar an
+seinen beiden Enden sollen sie miteinander verbunden sein.
+
+<<v8>>
+8 Die Schärpe am Efod soll von derselben Machart sein und mit ihm ein
+einziges Stück bilden, aus Gold, violettem und rotem Purpur, Karmesin
+und gezwirntem Byssus.
+
+<<v9>>
+9 Nimm die beiden Karneolsteine und schneide die Namen der Söhne Israels
+ein:
+
+<<v10>>
+10 sechs von den Namen in den einen Stein und die übrigen sechs Namen in
+den andern Stein, in der Reihenfolge, wie sie geboren wurden.
+
+<<v11>>
+11 In Steinschneidearbeit wie Siegelgravierung sollst du in die beiden
+Steine die Namen der Söhne Israels schneiden, in Goldfassungen
+eingesetzt sollst du sie herstellen.
+
+<<v12>>
+12 Befestige die beiden Steine an den Schulterstücken des Efod als
+Steine, die den Herrn an die Israeliten erinnern. Aaron soll ihre Namen
+auf beiden Schulterstücken vor dem Herrn zur Erinnerung tragen.
+
+<<v13>>
+13 Du sollst also die Fassung aus Gold
+
+<<v14>>
+14 und zwei Kettchen aus purem Gold machen; dreh sie wie eine Schnur,
+und befestige die schnurartigen Kettchen an den Fassungen!
+
+<<v15>>
+15 Mach eine Lostasche für den Schiedsspruch; als Kunstweberarbeit wie
+das Efod sollst du sie herstellen; aus Gold, violettem und rotem Purpur,
+Karmesin und gezwirntem Byssus sollst du sie herstellen.
+
+<<v16>>
+16 Sie soll quadratisch sein, zusammengefaltet, eine Spanne lang und
+eine Spanne breit.
+
+<<v17>>
+17 Besetze sie mit gefassten Edelsteinen in vier Reihen: die erste Reihe
+mit Rubin, Topas und Smaragd;
+
+<<v18>>
+18 die zweite Reihe mit Karfunkel, Saphir und Jaspis;
+
+<<v19>>
+19 die dritte Reihe mit Achat, Hyazinth und Amethyst;
+
+<<v20>>
+20 die vierte Reihe mit Chrysolith, Karneol und Onyx; sie sollen in Gold
+gefasst und eingesetzt sein.
+
+<<v21>>
+21 Die Steine sollen auf die Namen der Söhne Israels lauten, zwölf
+Steine auf ihre Namen - in Siegelgravierung. Jeder laute auf einen Namen
+der zwölf Stämme.
+
+<<v22>>
+22 Befestige an der Lostasche schnurartige, gedrehte Kettchen aus purem
+Gold!
+
+<<v23>>
+23 An der Lostasche bring zwei goldene Ringe an und befestige die Ringe
+an den Enden der Lostasche!
+
+<<v24>>
+24 Sodann verbinde die beiden Goldschnüre mit den beiden Ringen an den
+Enden der Lostasche;
+
+<<v25>>
+25 die zwei andern Enden der Schnüre befestige an den beiden
+Einfassungen und häng sie an die Vorderseite der Schulterstücke des
+Efod!
+
+<<v26>>
+26 Mach noch zwei Goldringe und befestige sie an den beiden Enden der
+Lostasche, und zwar am inneren Rand, der dem Efod zugekehrt ist.
+
+<<v27>>
+27 Mach zwei weitere Goldringe und befestige sie unten an den beiden
+Schulterstücken des Efod, und zwar an der Vorderseite, nahe ihrer Naht,
+aber oberhalb der Efodschärpe.
+
+<<v28>>
+28 Man soll die Lostasche mit ihren Ringen an die Ringe des Efod mit
+einer violetten Purpurschnur binden, damit sie über der Efodschärpe
+bleibt und sich die Lostasche nicht vom Efod verschiebt.
+
+<<v29>>
+29 Aaron soll die Namen der Söhne Israels in der Lostasche für den
+Schiedsspruch über seinem Herzen tragen, wenn er zum Heiligtum kommt,
+zur immer währenden Erinnerung vor dem Herrn.
+
+<<v30>>
+30 In die Lostasche für den Schiedsspruch steck die Lose Urim und
+Tummim; sie sollen sich über dem Herzen Aarons befinden, wenn er vor den
+Herrn kommt; Aaron trage den Schiedsspruch für die Israeliten über
+seinem Herzen ständig vor dem Herrn.
+
+<<v31>>
+31 Verfertige den Efodmantel ganz aus violettem Purpur;
+
+<<v32>>
+32 in seiner Mitte soll sich eine Öffnung für den Kopf befinden; an
+seiner Öffnung ringsum soll wie bei der Öffnung eines Panzerhemds ein
+gewebter, unzerreißbarer Rand angebracht sein.
+
+<<v33>>
+33 An seinem unteren Saum mach Granatäpfel aus violettem und rotem
+Purpur und aus Karmesin, an seinem Saum ringsum, und dazwischen goldene
+Glöckchen ringsum:
+
+<<v34>>
+34 ein Goldglöckchen und ein Granatapfel abwechselnd ringsum am Saum des
+Mantels.
+
+<<v35>>
+35 Aaron soll ihn beim Dienst tragen; sein Ton soll zu hören sein, wenn
+er in das Heiligtum vor den Herrn hintritt und wenn er wieder
+herauskommt; sonst muss er sterben.
+
+<<v36>>
+36 Mach eine Rosette aus purem Gold und bring darauf nach Art der
+Siegelgravierung die Inschrift an: Heilig dem Herrn.
+
+<<v37>>
+37 Befestige die Rosette an einer Schnur aus violettem Purpur und bring
+sie am Turban an; sie soll an der Vorderseite des Turbans angebracht
+werden.
+
+<<v38>>
+38 Sie soll auf Aarons Stirn sein, denn Aaron ist verantwortlich für die
+Verfehlungen an den Weihegaben, die die Israeliten weihen, für alle
+heiligen Abgaben; sie soll ständig auf Aarons Stirn sein, damit sie dem
+Herrn genehm sind.
+
+<<v39>>
+39 Web den Leibrock aus Byssus; mach einen Turban aus Byssus und einen
+Gürtel in Buntwirkerarbeit!
+
+<<v40>>
+40 Für die Söhne Aarons verfertige Leibröcke und mach ihnen Gürtel! Mach
+für sie auch Kopfbünde, die ihnen zur Ehre und zum Schmuck gereichen.
+
+<<v41>>
+41 Dann bekleide damit deinen Bruder Aaron und zusammen mit ihm auch
+seine Söhne und salbe sie, setze sie ins Priesteramt ein und weihe sie,
+damit sie mir als Priester dienen.
+
+<<v42>>
+42 Mach ihnen Beinkleider aus Leinen, damit sie ihre Scham bedecken; von
+den Hüften bis zu den Schenkeln sollen sie reichen.
+
+<<v43>>
+43 Aaron und seine Söhne sollen sie tragen, wenn sie zum
+Offenbarungszelt kommen oder sich dem Altar nähern, um den Dienst am
+Heiligtum zu verrichten; so werden sie keine Schuld auf sich laden und
+nicht sterben. Als ständig einzuhaltende Verpflichtung gelte dies für
+ihn und seine Nachkommen.\\
+
+
+* Footnotes
+
+[fn:1] (1-43) 39,1-31
+
+[fn:2] Zum Efod vgl. die Anmerkung zu 25,7.

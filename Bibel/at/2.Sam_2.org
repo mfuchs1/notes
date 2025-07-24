@@ -1,0 +1,182 @@
+#+TITLE: 2 Sam 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-07 Di 23:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 2.html
+
+<<verses>>
+
+<<v1>>
+* David wird König von Juda: 2,1-11
+
+1 Danach befragte David den Herrn: Soll ich in eine der Städte Judas
+hinaufziehen? Der Herr antwortete ihm: Zieh hinauf! David fragte: Wohin
+soll ich ziehen? Er antwortete: Nach Hebron.
+
+<<v2>>
+2 David zog also nach Hebron mit seinen beiden Frauen, Ahinoam aus
+Jesreel und Abigajil, der (früheren) Frau Nabals aus Karmel. [fn:1]
+
+<<v3>>
+3 Auch die Männer, die bei ihm waren, führte David hinauf, jeden mit
+seiner Familie, und sie ließen sich in den Städten um Hebron nieder.
+
+<<v4>>
+4 Dann kamen die Männer Judas (nach Hebron) und salbten David dort zum
+König über das Haus Juda. Als man David berichtete, dass die Einwohner
+von Jabesch-Gilead Saul begraben hatten, [fn:2]
+
+<<v5>>
+5 schickte er Boten zu den Männern von Jabesch-Gilead und ließ ihnen
+sagen: Ihr sollt vom Herrn gesegnet sein, weil ihr Saul, eurem Herrn,
+dieses Wohlwollen erwiesen und ihn begraben habt.
+
+<<v6>>
+6 Möge der Herr euch jetzt auch sein Wohlwollen und seine Treue
+erweisen; auch ich will euch dafür Gutes tun, dass ihr das getan habt.
+
+<<v7>>
+7 Nun aber zeigt euren Mut und seid tapfer; denn Saul, euer Herr, ist
+tot, mich aber hat das Haus Juda zu seinem König gesalbt.
+
+<<v8>>
+8 Doch Abner, der Sohn Ners, der Heerführer Sauls, hatte Ischbaal, den
+Sohn Sauls, mit sich nach Mahanajim genommen [fn:3] [fn:4]
+
+<<v9>>
+9 und ihn (dort) zum König über Gilead, Ascher, Jesreel, Efraim und
+Benjamin und über ganz Israel gemacht.
+
+<<v10>>
+10 Sauls Sohn Ischbaal war vierzig Jahre alt, als er König von Israel
+wurde, und er war zwei Jahre König; nur das Haus Juda stand hinter
+David. [fn:5]
+
+<<v11>>
+11 Die Zeit, die David in Hebron König über das Haus Juda war, betrug
+sieben Jahre und sechs Monate.\\
+\\
+
+<<v12>>
+* Der Krieg zwischen David und Ischbaal: 2,12 - 3,1
+
+12 Abner, der Sohn Ners, zog mit den Knechten Ischbaals, des Sohnes
+Sauls, von Mahanajim nach Gibeon.
+
+<<v13>>
+13 Auch Joab, der Sohn der Zeruja, und die Knechte Davids waren
+ausgezogen; sie trafen mit ihnen am Teich von Gibeon zusammen. Die einen
+blieben diesseits, die anderen jenseits des Teiches. [fn:6]
+
+<<v14>>
+14 Da sagte Abner zu Joab: Die jungen Männer könnten doch zu einem
+Kampfspiel vor uns antreten. Joab erwiderte: Sie sollen antreten.
+
+<<v15>>
+15 Sie stellten sich also auf und es wurde abgezählt: zwölf für Benjamin
+und Ischbaal, den Sohn Sauls, und zwölf von den Leuten Davids.
+
+<<v16>>
+16 Jeder fasste seinen Gegner am Kopf und stieß ihm das Schwert in die
+Seite, sodass alle miteinander fielen. Deshalb nannte man diesen Ort bei
+Gibeon: Helkat-Hazzurim (Feld der Steinmesser).
+
+<<v17>>
+17 Der Kampf wurde an jenem Tag sehr hart. Abner und die Israeliten
+wurden von den Leuten Davids geschlagen.
+
+<<v18>>
+18 Auch die drei Söhne der Zeruja waren dabei: Joab, Abischai und Asaël.
+Asaël war so flink auf den Beinen wie eine Gazelle im Gelände.
+
+<<v19>>
+19 Asaël jagte Abner nach, ohne nach rechts oder links abzuweichen.
+
+<<v20>>
+20 Da wandte sich Abner um und sagte: Bist du es, Asaël? Asaël
+antwortete: Ja, ich bin es.
+
+<<v21>>
+21 Abner sagte zu ihm: Bieg doch nach rechts oder links ab, greif dir
+einen von den jungen Männern und nimm dir seine Rüstung! Asaël aber
+wollte nicht von ihm ablassen.
+
+<<v22>>
+22 Abner sagte noch einmal zu Asaël: Lass von mir ab! Warum soll ich
+dich zu Boden schlagen? Wie könnte ich dann noch deinem Bruder Joab in
+die Augen blicken?
+
+<<v23>>
+23 Als Asaël sich weigerte, von ihm abzulassen, stieß ihm Abner das
+(stumpfe) Ende des Speers in den Bauch, sodass der Speer hinten wieder
+herauskam. Asaël stürzte zu Boden und starb auf der Stelle. Alle aber,
+die an den Ort kamen, wo Asaël niedergestürzt und gestorben war, blieben
+stehen.
+
+<<v24>>
+24 Joab und Abischai jedoch jagten Abner nach. Als die Sonne unterging,
+waren sie bis Gibeat-Amma gelangt, das Giach gegenüber am Weg in die
+Steppe von Gibeon liegt.
+
+<<v25>>
+25 Die Benjaminiter in der Gefolgschaft Abners sammelten sich, bildeten
+eine geschlossene Gruppe und stellten sich auf dem Gipfel eines Hügels
+auf.
+
+<<v26>>
+26 Abner rief Joab zu: Soll denn das Schwert unaufhörlich um sich
+fressen? Weißt du nicht, dass das zu einem bitteren Ende führen wird?
+Wann endlich wirst du deinen Leuten befehlen, die Verfolgung ihrer
+Brüder aufzugeben?
+
+<<v27>>
+27 Joab antwortete: So wahr Gott lebt: Wenn du nichts gesagt hättest,
+dann hätten die Leute erst am Morgen den Rückzug angetreten und
+aufgehört, ihre Brüder zu verfolgen.
+
+<<v28>>
+28 Dann ließ Joab das Widderhorn blasen und alle (seine) Leute machten
+Halt; sie setzten den Kampf nicht mehr fort und verfolgten die
+Israeliten nicht mehr.
+
+<<v29>>
+29 Abner und seine Männer durchzogen während jener Nacht die Araba,
+überschritten den Jordan, gingen durch die Schlucht und kamen nach
+Mahanajim zurück.
+
+<<v30>>
+30 Als Joab aufhörte, Abner zu verfolgen, und seine Leute wieder
+sammelte, fehlten außer Asaël von den Leuten Davids neunzehn Mann.
+
+<<v31>>
+31 Davids Leute aber hatten von den Benjaminitern und von den Männern
+Abners dreihundertsechzig Mann erschlagen [die waren tot].
+
+<<v32>>
+32 Sie nahmen Asaël mit und begruben ihn im Grab seines Vaters in
+Betlehem. Dann marschierte Joab mit seinen Männern die ganze Nacht
+hindurch in Richtung Hebron, das sie bei Tagesanbruch erreichten.
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_25.org::v42][1 Sam 25,42f]]
+
+[fn:2] [[file:2.Sam_5.org::v3][5,3]]; [[file:1.Sam_16.org::v13][1 Sam 16,13]]; [[file:1.Sam_31.org::v12][1 Sam 31,12f]]
+
+[fn:3] [[file:1.Sam_14.org::v50][1 Sam 14,50]]
+
+[fn:4] Ischbaal: so lautet der Name richtig (vgl. [[file:1.Chr_8.org::v39][1 Chr 8,39]]; [[file:1.Chr_9.org::v33][9,33]]);
+H verändert den Namen, um den darin enthaltenen Gottesnamen Baal
+verächtlich zu machen, in Isch-Boschet (Mann der Schande);
+vgl. auch [[file:2.Sam_4.org::v4][4,4]].
+
+[fn:5] [[file:2.Sam_4.org::v5][4,5]]
+
+[fn:6] Joab, der Sohn Zerujas, der Schwester Davids ([[file:1.Chr_2.org::v16][1 Chr 2,16]]),
+war der Heerführer Davids (vgl. [[file:2.Sam_8.org::v16][8,16]]).

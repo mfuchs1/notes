@@ -1,0 +1,8 @@
+#+title:      Der Menschensohn
+#+date:       [2024-07-21 So 17:51]
+#+filetags:   :bib:jesus:
+#+identifier: 20240721T175125
+#+reference:  Men2006
+
+Und diese Notiz hab ich mit ~citar-denote~ erstellt. Klappt alles wunderbar. Vielleicht hat es deshalb nicht geklappt, weil das =reference= Verzeichnis außerhalb des =denote= Verzeichnisses lag und schon voller anderer Notizen war? Wer weiß es schon. Oder klappt es jetzt, weil ich ~citar-denote~ und ~citar~ neu installiert habe? 
+

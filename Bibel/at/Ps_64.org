@@ -1,0 +1,92 @@
+#+TITLE: Ps 64 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-06-03 Mo 10:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 64.html
+
+* Ps 64
+
+<<verses>>
+
+<<v1>>
+* Bitte um Schutz vor den Feinden
+
+1 [Für den Chormeister. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Höre, o Gott, mein lautes Klagen, /\\
+ schütze mein Leben vor dem Schrecken des Feindes!\\
+\\
+
+<<v3>>
+3 Verbirg mich vor der Schar der Bösen, /\\
+ vor dem Toben derer, die Unrecht tun. [fn:1]\\
+\\
+
+<<v4>>
+4 Sie schärfen ihre Zunge wie ein Schwert, /\\
+ schießen giftige Worte wie Pfeile, [fn:2]\\
+\\
+
+<<v5>>
+5 um den Schuldlosen von ihrem Versteck aus zu treffen. /\\
+ Sie schießen auf ihn, plötzlich und ohne Scheu. [fn:3]\\
+\\
+
+<<v6>>
+6 Sie sind fest entschlossen zu bösem Tun. /\\
+ Sie planen, Fallen zu stellen, /\\
+ und sagen: «Wer sieht uns schon?» [fn:4] [fn:5]\\
+\\
+
+<<v7>>
+7 Sie haben Bosheit im Sinn, /\\
+ doch halten sie ihre Pläne geheim. Ihr Inneres ist heillos verdorben,
+/\\
+ ihr Herz ist ein Abgrund. [fn:6]\\
+\\
+
+<<v8>>
+8 Da trifft sie Gott mit seinem Pfeil; /\\
+ sie werden jählings verwundet.\\
+\\
+
+<<v9>>
+9 Ihre eigene Zunge bringt sie zu Fall. /\\
+ Alle, die es sehen, schütteln den Kopf. [fn:7]\\
+\\
+
+<<v10>>
+10 Dann fürchten sich alle Menschen; /\\
+ sie verkünden Gottes Taten /\\
+ und bedenken sein Wirken.\\
+\\
+
+<<v11>>
+11 Der Gerechte freut sich am Herrn und sucht bei ihm Zuflucht. /\\
+ Und es rühmen sich alle Menschen mit redlichem Herzen.\\
+\\
+
+* Footnotes
+
+[fn:1] Andere Übersetzungsmöglichkeit: vor der Verschwörung derer, ...
+
+[fn:2] [[file:Ps_55.org::v22][55,22]]
+
+[fn:3] [[file:Ps_11.org::v2][11,2]]
+
+[fn:4] [[file:Spr_1.org::v11][Spr 1,11f]]; [[file:Ps_10.org::v11][Ps 10,11]]
+
+[fn:5] Text korr.
+
+[fn:6] Text korr.
+
+[fn:7] Text korr.

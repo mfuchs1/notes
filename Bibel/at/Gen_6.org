@@ -1,0 +1,149 @@
+#+TITLE: Gen 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 6.html
+
+<<verses>>
+
+<<v1>>
+* Noach und die Sintflut: 6,1 - 9,29
+
+* Die Bosheit der Menschen: 6,1-8
+
+1 Als sich die Menschen über die Erde hin zu vermehren begannen und
+ihnen Töchter geboren wurden, [fn:1]
+
+<<v2>>
+2 sahen die Gottessöhne, wie schön die Menschentöchter waren, und sie
+nahmen sich von ihnen Frauen, wie es ihnen gefiel.
+
+<<v3>>
+3 Da sprach der Herr: Mein Geist soll nicht für immer im Menschen
+bleiben, weil er auch Fleisch ist; daher soll seine Lebenszeit
+hundertzwanzig Jahre betragen.
+
+<<v4>>
+4 In jenen Tagen gab es auf der Erde die Riesen, und auch später noch,
+nachdem sich die Gottessöhne mit den Menschentöchtern eingelassen und
+diese ihnen Kinder geboren hatten. Das sind die Helden der Vorzeit, die
+berühmten Männer.
+
+<<v5>>
+5 Der Herr sah, dass auf der Erde die Schlechtigkeit des Menschen zunahm
+und dass alles Sinnen und Trachten seines Herzens immer nur böse war. [fn:2] [fn:3]
+
+<<v6>>
+6 Da reute es den Herrn, auf der Erde den Menschen gemacht zu haben, und
+es tat seinem Herzen weh.
+
+<<v7>>
+7 Der Herr sagte: Ich will den Menschen, den ich erschaffen habe, vom
+Erdboden vertilgen, mit ihm auch das Vieh, die Kriechtiere und die Vögel
+des Himmels, denn es reut mich, sie gemacht zu haben.
+
+<<v8>>
+8 Nur Noach fand Gnade in den Augen des Herrn.\\
+\\
+
+<<v9>>
+* Gottes Sorge um Noach: 6,9 - 7,16
+
+9 Das ist die Geschlechterfolge nach Noach: Noach war ein gerechter,
+untadeliger Mann unter seinen Zeitgenossen; er ging seinen Weg mit Gott.
+
+<<v10>>
+10 Noach zeugte drei Söhne, Sem, Ham und Jafet.
+
+<<v11>>
+11 Die Erde aber war in Gottes Augen verdorben, sie war voller
+Gewalttat.
+
+<<v12>>
+12 Gott sah sich die Erde an: Sie war verdorben, denn alle Wesen aus
+Fleisch auf der Erde lebten verdorben.
+
+<<v13>>
+13 Da sprach Gott zu Noach: Ich sehe, das Ende aller Wesen aus Fleisch
+ist da; denn durch sie ist die Erde voller Gewalttat. Nun will ich sie
+zugleich mit der Erde verderben. [fn:4]
+
+<<v14>>
+14 Mach dir eine Arche aus Zypressenholz! Statte sie mit Kammern aus,
+und dichte sie innen und außen mit Pech ab!
+
+<<v15>>
+15 So sollst du die Arche bauen: Dreihundert Ellen lang, fünfzig Ellen
+breit und dreißig Ellen hoch soll sie sein.
+
+<<v16>>
+16 Mach der Arche ein Dach und hebe es genau um eine Elle nach oben an!
+Den Eingang der Arche bring an der Seite an! Richte ein unteres, ein
+zweites und ein drittes Stockwerk ein! [fn:5]
+
+<<v17>>
+17 Ich will nämlich die Flut über die Erde bringen, um alle Wesen aus
+Fleisch unter dem Himmel, alles, was Lebensgeist in sich hat, zu
+verderben. Alles auf Erden soll verenden.
+
+<<v18>>
+18 Mit dir aber schließe ich meinen Bund. Geh in die Arche, du, deine
+Söhne, deine Frau und die Frauen deiner Söhne!
+
+<<v19>>
+19 Von allem, was lebt, von allen Wesen aus Fleisch, führe je zwei in
+die Arche, damit sie mit dir am Leben bleiben; je ein Männchen und ein
+Weibchen sollen es sein.
+
+<<v20>>
+20 Von allen Arten der Vögel, von allen Arten des Viehs, von allen Arten
+der Kriechtiere auf dem Erdboden sollen je zwei zu dir kommen, damit sie
+am Leben bleiben.
+
+<<v21>>
+21 Nimm dir von allem Essbaren mit und leg dir einen Vorrat an! Dir und
+ihnen soll es zur Nahrung dienen.
+
+<<v22>>
+22 Noach tat alles genau so, wie ihm Gott aufgetragen hatte.
+
+
+* Footnotes
+
+[fn:1] 1-4: Der letzte Überarbeiter des Pentateuch fügt hier
+eine alte Tradition über die Entstehung der Riesen ein. Ursprünglich
+waren die «Gottessöhne» als überirdische Wesen gedacht, die nach den
+Sagen vieler Völker mit menschlichen Frauen verkehrten und so die Riesen
+oder die Helden der Vorzeit zeugten. Im heutigen Zusammenhang, für den
+die alte Erzählung stark gekürzt wurde, werden die Gottessöhne entweder
+als Engel gedeutet (vgl. Ijob 1,6; 2,1; 38,7; Dan 3,92), die aus ihrer
+Ordnung gefallen sind, oder als die Nachkommen Sets, die als fromm
+galten und darum als «Gottessöhne» bezeichnet werden konnten, aber nun
+Ehen mit den weiblichen Nachkommen Kains eingingen, mit den
+«Menschentöchtern», sodass die Laster der Kainiten auch auf die Setiten
+übergriffen. Der Bearbeiter greift diese Tradition auf, um das
+auffällige Absinken des Lebensalters der Urväter vor der Flut auf das
+viel niedrigere Lebensalter nach der Flut zu erklären.
+
+[fn:2] 8,21 [[file:Gen_8.org::v21][Gen 8,21]]
+
+[fn:3] 5-9,29: In der Sintfluterzählung werden alte Traditionen
+und wahrscheinlich bereits zwei schriftliche Quellen verarbeitet, um die
+verhängnisvollen Folgen der Sünde zu veranschaulichen. Sintflutsagen
+finden sich bei vielen Völkern; am nächsten stehen der Bibel
+babylonische Sintfluterzählungen, die sich aber durch das mythische
+Beiwerk und durch das Schweigen von einer Schuld des Menschen wesentlich
+unterscheiden.
+
+[fn:4] durch sie: durch die Menschen, die mit den «Wesen aus
+Fleisch» neben den Tieren vor allem gemeint sind.
+
+[fn:5] hebe es an: H unklar; vielleicht ist gemeint: Das Dach
+soll in der Mitte eine Elle höher sein als an den Seiten, damit das
+Wasser abfließen kann.

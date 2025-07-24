@@ -1,0 +1,230 @@
+#+TITLE: Spr 23 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-09-03 Di 22:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 23.html
+
+* Spr 23
+
+<<verses>>
+
+<<v1>>
+1 Wenn du zu Tisch sitzt bei einem Herrscher, /\\
+ so achte nur auf das, was vor dir steht. [fn:1]\\
+\\
+
+<<v2>>
+2 Setz ein Messer an deine Kehle, /\\
+ wenn du ein gieriger Mensch bist.\\
+\\
+
+<<v3>>
+3 Sei nicht begierig auf seine Leckerbissen, /\\
+ sie sind eine trügerische Speise.\\
+\\
+
+<<v4>>
+4 Müh dich nicht ab, um Reichtum zu erwerben /\\
+ und dabei deine Einsicht aufzugeben.\\
+\\
+
+<<v5>>
+5 Flüchtig ist er; schaust du nach ihm, ist er weg; /\\
+ plötzlich macht er sich Flügel und fliegt wie ein Adler zum Himmel.\\
+\\
+
+<<v6>>
+6 Iss nicht das Brot des Geizigen, /\\
+ sei nicht begierig auf seine Leckerbissen!\\
+\\
+
+<<v7>>
+7 Denn sie schmecken in der Kehle wie etwas Ekliges. /\\
+ Er sagt zu dir: Iss und trink!, /\\
+ doch sein Herz ist dir nicht zugetan.\\
+\\
+
+<<v8>>
+8 Den Bissen, den du gegessen hast, musst du erbrechen /\\
+ und deine freundlichen Worte hast du vergeudet.\\
+\\
+
+<<v9>>
+9 Rede nicht vor den Ohren eines Törichten, /\\
+ denn er missachtet deine klugen Worte.\\
+\\
+
+<<v10>>
+10 Verschieb nicht die alte Grenze, /\\
+ dring nicht in die Felder der Waisen vor! [fn:2]\\
+\\
+
+<<v11>>
+11 Denn ihr Anwalt ist mächtig, /\\
+ er wird ihre Sache gegen dich führen.\\
+\\
+
+<<v12>>
+* Mahnungen: 23,12-35
+
+12 Öffne dein Herz für die Zucht, /\\
+ dein Ohr für verständige Reden! [fn:3]\\
+\\
+
+<<v13>>
+13 Erspar dem Knaben die Züchtigung nicht; /\\
+ wenn du ihn schlägst mit dem Stock, wird er nicht sterben. [fn:4]\\
+\\
+
+<<v14>>
+14 Du schlägst ihn mit dem Stock, /\\
+ bewahrst aber sein Leben vor der Unterwelt.\\
+\\
+
+<<v15>>
+15 Mein Sohn, wenn dein Herz weise ist, /\\
+ so freut sich auch mein eigenes Herz.\\
+\\
+
+<<v16>>
+16 Mein Inneres ist voll Jubel, /\\
+ wenn deine Lippen reden, was recht ist.\\
+\\
+
+<<v17>>
+17 Dein Herz ereifere sich nicht wegen der Sünder, /\\
+ sondern eifere stets nach Gottesfurcht!\\
+\\
+
+<<v18>>
+18 Denn sicher gibt es eine Zukunft, /\\
+ deine Hoffnung wird nicht zerschlagen. [fn:5]\\
+\\
+
+<<v19>>
+19 Höre, mein Sohn, und sei weise, /\\
+ lenk dein Herz auf geraden Weg!\\
+\\
+
+<<v20>>
+20 Gesell dich nicht zu den Weinsäufern, /\\
+ zu solchen, die im Fleischgenuß schlemmen;\\
+\\
+
+<<v21>>
+21 denn Säufer und Schlemmer werden arm, /\\
+ Schläfrigkeit kleidet in Lumpen. [fn:6]\\
+\\
+
+<<v22>>
+22 Hör auf deinen Vater, der dich gezeugt hat, /\\
+ verachte deine Mutter nicht, wenn sie alt wird. [fn:7]\\
+\\
+
+<<v23>>
+23 Erwirb dir Wahrheit und verkauf sie nicht mehr: /\\
+ Weisheit, Zucht und Einsicht! [fn:8] [fn:9]\\
+\\
+
+<<v24>>
+24 Laut jubelt der Vater des Gerechten; /\\
+ wer einen weisen Sohn hat, kann sich über ihn freuen.\\
+\\
+
+<<v25>>
+25 Deine Eltern mögen sich freuen; /\\
+ jubeln möge die Mutter, die dich gebar.\\
+\\
+
+<<v26>>
+26 Gib mir dein Herz, mein Sohn, /\\
+ deine Augen mögen an meinen Wegen Gefallen finden;\\
+\\
+
+<<v27>>
+27 denn die Ehebrecherin ist eine tiefe Grube, /\\
+ die fremde Frau ein enger Brunnen. [fn:10]\\
+\\
+
+<<v28>>
+28 Ja, wie ein Räuber lauert sie auf /\\
+ und mehrt die Verräter unter den Menschen. [fn:11]\\
+\\
+
+<<v29>>
+29 Wer hat Ach? Wer hat Weh? /\\
+ Wer Gezänk? Wer Klage? /\\
+ Wer hat Wunden wegen nichts? /\\
+ Wer trübe Augen?\\
+\\
+
+<<v30>>
+30 Jene, die bis in die Nacht beim Wein sitzen, /\\
+ die kommen, um den Mischwein zu probieren. [fn:12]\\
+\\
+
+<<v31>>
+31 Schau nicht nach dem Wein, /\\
+ wie er rötlich schimmert, /\\
+ wie er funkelt im Becher: /\\
+ Er trinkt sich so leicht!\\
+\\
+
+<<v32>>
+32 Zuletzt beißt er wie eine Schlange, /\\
+ verspritzt Gift gleich einer Viper.\\
+\\
+
+<<v33>>
+33 Deine Augen sehen seltsame Dinge, /\\
+ dein Herz redet wirres Zeug.\\
+\\
+
+<<v34>>
+34 Du bist wie einer, der auf hoher See schläft, /\\
+ der einschläft über dem Steuer des Schiffes.\\
+\\
+
+<<v35>>
+35 Man hat mich geschlagen, doch es tat mir nicht weh, /\\
+ man hat mich gehauen, aber ich habe nichts gespürt. Wann wache ich auf?
+/\\
+ Von neuem will ich zum Wein greifen.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-13) [[file:Sir_31.org::v12][Sir 31,12-21]]
+
+[fn:2] [[file:Spr_22.org::v28][22,28]]
+
+[fn:3] 12-35: Nach Mahnungen, die vom ägyptischen Weisheitsbuch
+abhängig sind (vgl. die Anmerkung zu [[file:Spr_22.org::v17][22,17]] und die Einleitung), folgt
+ein Abschnitt mit väterlichen Lehren; er endet mit einem sarkastischen
+Spottlied auf den Trunkenbold in VV. 29-35.
+
+[fn:4] [[file:Spr_13.org::v24][13,24]]; [[file:Spr_19.org::v18][19,18]]; [[file:Spr_22.org::v15][22,15]]; [[file:Spr_29.org::v15][29,15]].[[file:Spr_29.org::v17][17]]; [[file:Sir_30.org::v1][Sir 30,1-13]]
+
+[fn:5] [[file:Spr_24.org::v14][24,14]]
+
+[fn:6] [[file:Sir_18.org::v33][Sir 18,33]]
+
+[fn:7] [[file:Spr_1.org::v8][1,8]]; [[file:Spr_30.org::v17][30,17]]; [[file:Sir_3.org::v1][Sir 3,1-16]]
+
+[fn:8] [[file:Spr_4.org::v7][4,7]]
+
+[fn:9] Fehlt in G und unterbricht den Zusammenhang, ist also
+wohl ein Zusatz.
+
+[fn:10] [[file:Spr_22.org::v14][22,14]]
+
+[fn:11] [[file:Spr_7.org::v12][7,12]]
+
+[fn:12] [[file:Spr_20.org::v1][20,1]]

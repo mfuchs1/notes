@@ -1,0 +1,130 @@
+#+TITLE: 2 Chr 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-21 Di 16:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 1.html
+
+<<verses>>
+
+<<v1>>
+* Die Geschichte Salomos: 1,1 - 9,31
+
+* Salomos Bitte um Weisheit: 1,1-13
+
+1 Salomo, der Sohn Davids, gewann Macht in seinem Königtum, der Herr,
+sein Gott, war mit ihm und ließ ihn überaus stark werden. [fn:1]
+
+<<v2>>
+2 Er sprach mit ganz Israel, den Obersten der Tausend- und
+Hundertschaften, den Richtern, mit allen Fürsten aus ganz Israel und mit
+den Häuptern der Großfamilien.
+
+<<v3>>
+3 Dann ging er mit der ganzen Versammlung, die bei ihm war, zur Kulthöhe
+von Gibeon; denn hier war das Offenbarungszelt Gottes, das Mose, der
+Knecht des Herrn, in der Wüste angefertigt hatte. [fn:2]
+
+<<v4>>
+4 Die Lade Gottes jedoch hatte David aus Kirjat-Jearim an den Ort
+bringen lassen, den er für sie hergerichtet hatte. Er hatte nämlich in
+Jerusalem ein Zelt für sie aufgestellt. [fn:3]
+
+<<v5>>
+5 Der bronzene Altar, den Bezalel, der Sohn Uris und Enkel Hurs, gemacht
+hatte, stand in Gibeon vor der Wohnstätte des Herrn. Ihn suchten Salomo
+und die ganze Versammlung Israels auf. [fn:4]
+
+<<v6>>
+6 Salomo stieg dort auf den bronzenen Altar vor dem Herrn beim
+Offenbarungszelt und brachte auf ihm tausend Brandopfer dar.
+
+<<v7>>
+7 In jener Nacht erschien Gott dem Salomo und forderte ihn auf: Sprich
+eine Bitte aus, die ich dir gewähren soll.
+
+<<v8>>
+8 Salomo antwortete Gott: Du hast meinem Vater David große Huld erwiesen
+und mich an seiner Stelle zum König gemacht. [fn:5]
+
+<<v9>>
+9 So möge sich nun, mein Herr und Gott, dein Wort an meinen Vater David
+als wahr erweisen; denn du hast mich zum König gemacht über ein Volk,
+das zahlreich ist wie der Staub der Erde. [fn:6]
+
+<<v10>>
+10 Verleih mir daher Weisheit und Einsicht, damit ich weiß, wie ich mich
+vor diesem Volk verhalten soll. Denn wer könnte sonst dieses mächtige
+Volk regieren?
+
+<<v11>>
+11 Gott antwortete Salomo: Weil dir das am Herzen liegt, weil du nicht
+um Reichtum, Vermögen, Ehre oder um den Tod deiner Feinde, auch nicht um
+langes Leben gebeten hast, sondern weil du um Weisheit und Einsicht
+gebeten hast, um mein Volk zu regieren, zu dessen König ich dich
+bestellt habe,
+
+<<v12>>
+12 sollen dir Weisheit und Einsicht zuteil werden. Aber auch Reichtum,
+Vermögen und Ehre will ich dir geben, wie sie kein König vor dir erlangt
+hat und auch nach dir keiner haben wird.
+
+<<v13>>
+13 Darauf ging Salomo von der Kulthöhe in Gibeon, vom Offenbarungszelt,
+weg nach Jerusalem und herrschte über Israel. [fn:7]\\
+\\
+
+<<v14>>
+* Salomos Reichtum: 1,14-17
+
+14 Salomo beschaffte sich Wagen und die Besatzung dazu. Er hatte
+vierzehnhundert Wagen und zwölftausend Mann als Besatzung und brachte
+sie in die Wagenstädte sowie in die Umgebung des Königs nach Jerusalem. [fn:8]
+
+<<v15>>
+15 Der König machte das Silber und das Gold in Jerusalem so häufig wie
+die Steine und die Zedern so zahlreich wie die Maulbeerfeigenbäume in
+der Schefela.
+
+<<v16>>
+16 Man bezog die Pferde für Salomo aus Ägypten und Koë. Die Händler des
+Königs kauften sie in Koë. [fn:9]
+
+<<v17>>
+17 Einen Wagen brachten sie aus Ägypten für sechshundert und ein Pferd
+für hundertfünfzig Silberschekel. Ebenso trieb man Handel mit allen
+hetitischen und aramäischen Königen.\\
+\\
+
+<<v18>>
+* Die Vorbereitungen zum Tempelbau: 1,18 - 2,17
+
+18 Salomo beschloss, einen Tempel für den Namen des Herrn und eine
+königliche Residenz für sich zu bauen.
+
+* Footnotes
+
+[fn:1] (1-13) [[file:1.Kön_3.org::v4][1 Kön 3,4-15]]
+
+[fn:2] Der Chronist hält das Opfer auf dem alten Brandopferaltar
+vor dem heiligen Zelt in Gibeon für rechtmäßig (vgl. [[file:1.Chr_16.org::v39][1 Chr 16,39f]]; [[file:1.Chr_21.org::v29][21,29]]);
+anders [[file:1.Kön_3.org::v2][1 Kön 3,2f]].
+
+[fn:3] [[file:1.Chr_15.org][1 Chr 15]]
+
+[fn:4] [[file:Ex_38.org::v1][Ex 38,1-7]]
+
+[fn:5] [[file:1.Chr_17.org][1 Chr 17]]
+
+[fn:6] [[file:Gen_13.org::v16][Gen 13,16]]
+
+[fn:7] von der Kulthöhe: Text korr. nach G.
+
+[fn:8] (14-17) [[file:1.Kön_10.org::v26][1 Kön 10,26-29]]
+
+[fn:9] Vgl. die Anmerkung zu [[file:1.Kön_10.org::v28][1 Kön 10,28]].

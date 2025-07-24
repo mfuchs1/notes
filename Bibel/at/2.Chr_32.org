@@ -1,0 +1,204 @@
+#+TITLE: 2 Chr 32 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:34]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 32.html
+
+<<verses>>
+
+<<v1>>
+* Sanheribs Feldzug gegen Jerusalem: 32,1-23
+
+1 Nach diesen Maßnahmen und diesen Beweisen der Treue Hiskijas zog
+Sanherib, der König von Assur, heran. Er fiel in Juda ein, belagerte die
+festen Städte und gedachte, sie für sich zu erobern. [fn:1]
+
+<<v2>>
+2 Als Hiskija sah, dass Sanherib herankam und sich zum Krieg gegen
+Jerusalem anschickte,
+
+<<v3>>
+3 überlegte er mit seinen Obersten und Helden, ob man nicht die
+Wasserquellen außerhalb der Stadt verstopfen solle. Sie unterstützten
+sein Vorhaben.
+
+<<v4>>
+4 Man holte viel Volk zusammen und verstopfte alle Quellen und den Bach,
+der mitten durch das Tal fließt; denn man sagte sich: Wozu sollen die
+Könige von Assur bei ihrer Ankunft reichlich Wasser finden?
+
+<<v5>>
+5 Auch unternahm der König Anstrengungen, um die ganze Mauer
+auszubessern, in der Risse entstanden waren. Er erhöhte die Türme, baute
+draußen die andere Mauer, befestigte den Millo in der Davidstadt und
+ließ viele Wurfspieße und Schilde anfertigen.
+
+<<v6>>
+6 Dann setzte er Kriegsoberste über das Volk und versammelte sie vor
+sich am Platz vor dem Stadttor. Dort sprach er ihnen Mut zu und sagte:
+
+<<v7>>
+7 Seid mutig und tapfer! Fürchtet euch nicht und erschreckt nicht vor
+dem König von Assur und dem großen Heer, das bei ihm ist; denn bei uns
+ist mehr als bei ihm.
+
+<<v8>>
+8 Bei ihm sind Arme aus Fleisch, bei uns aber ist der Herr, unser Gott,
+der uns hilft und unsere Kriege führt. Das Volk wurde durch die Worte
+Hiskijas, des Königs von Juda, ermutigt.
+
+<<v9>>
+9 Als dann Sanherib, der König von Assur, später mit seiner ganzen
+Streitmacht vor Lachisch stand, sandte er seine Diener nach Jerusalem zu
+Hiskija, dem König von Juda, und zu allen Judäern, die in Jerusalem
+wohnten. Er ließ ihnen sagen: [fn:2]
+
+<<v10>>
+10 So spricht Sanherib, der König von Assur: Worauf vertraut ihr denn,
+dass ihr im belagerten Jerusalem bleibt?
+
+<<v11>>
+11 Hiskija führt euch nur irre, um euch durch Hunger und Durst umkommen
+zu lassen, wenn er sagt: Der Herr, unser Gott, wird uns aus der Hand des
+Königs von Assur retten.
+
+<<v12>>
+12 Hat nicht gerade Hiskija seine Kulthöhen und Altäre beseitigt und in
+Juda und Jerusalem angeordnet: Nur vor einem einzigen Altar dürft ihr
+euch niederwerfen und auf ihm Opfer anzünden?
+
+<<v13>>
+13 Wisst ihr denn nicht, was ich und meine Väter mit allen Völkern in
+anderen Ländern gemacht haben? Konnten denn die Götter der Völker in
+diesen Ländern ihr Land aus meiner Hand retten?
+
+<<v14>>
+14 Wer von all den Göttern dieser Völker, die meine Väter dem Untergang
+geweiht haben, konnte sein Volk aus meiner Hand retten? Wie sollte dann
+euer Gott euch aus meiner Hand retten?
+
+<<v15>>
+15 Lasst euch jetzt nicht von Hiskija betören und euch nicht auf diese
+Weise irreführen! Glaubt ihm nicht! Denn kein Gott irgendeines anderen
+Volkes oder Reiches konnte sein Volk aus meiner Hand und aus der Hand
+meiner Väter retten. Wie viel weniger wird euer Gott euch aus meiner
+Hand retten!
+
+<<v16>>
+16 Noch vieles andere redeten die Abgesandten Sanheribs gegen Gott, den
+Herrn, und seinen Knecht Hiskija.
+
+<<v17>>
+17 Sanherib schrieb auch einen Brief, in dem er den Herrn, den Gott
+Israels, verhöhnte. Er schrieb darin über ihn: Wie die Götter der Völker
+in anderen Ländern ihr Volk nicht aus meiner Hand gerettet haben, so
+wird auch der Gott Hiskijas sein Volk nicht aus meiner Hand retten.
+
+<<v18>>
+18 Der Bevölkerung Jerusalems, die auf der Mauer stand, riefen die
+Abgesandten ihren Auftrag mit lauter Stimme auf Judäisch zu, um sie in
+Furcht und Schrecken zu versetzen und so die Stadt erobern zu können.
+
+<<v19>>
+19 Sie redeten vom Gott Jerusalems wie von den Göttern der anderen
+Völker auf der Erde, die nur ein Werk von Menschen sind.
+
+<<v20>>
+20 Doch König Hiskija und der Prophet Jesaja, der Sohn des Amoz, beteten
+in dieser Angelegenheit zum Herrn und riefen zum Himmel.
+
+<<v21>>
+21 Da sandte der Herr einen Engel, der alle Kriegshelden, Fürsten und
+Hauptleute im Lager des Königs von Assur vernichtete. Sanherib musste,
+mit Schande bedeckt, in sein Land zurückkehren. Als er in den Tempel
+seines Gottes kam, machten ihn dort seine eigenen Söhne mit dem Schwert
+nieder.
+
+<<v22>>
+22 So befreite der Herr den Hiskija und die Einwohner Jerusalems aus der
+Hand Sanheribs, des Königs von Assur, und aus der Hand aller Feinde. Er
+verlieh ihnen ringsum Ruhe. [fn:3]
+
+<<v23>>
+23 Viele brachten Gaben für den Herrn nach Jerusalem und kostbare
+Geschenke für Hiskija, den König von Juda. Er war seitdem hochgeehrt in
+den Augen aller Völker.\\
+\\
+
+<<v24>>
+* Weitere Nachrichten über Hiskija: 32,24-33
+
+24 In jenen Tagen wurde Hiskija schwer krank und war dem Tod nahe. Er
+betete zum Herrn und dieser erhörte ihn und gab ihm ein Wunderzeichen. [fn:4] [fn:5]
+
+<<v25>>
+25 Doch Hiskija zeigte keine Dankbarkeit für die empfangene Wohltat und
+wurde hochmütig. Da kam ein Zorngericht über ihn und über Juda und
+Jerusalem.
+
+<<v26>>
+26 Nun aber demütigte sich Hiskija mit den Einwohnern Jerusalems in
+seinem Stolz und so kam das Zorngericht des Herrn nicht schon in den
+Tagen Hiskijas über sie.
+
+<<v27>>
+27 Hiskija wurden Reichtum und Ehre in hohem Maß zuteil. Er erwarb
+Schätze an Silber, Gold, Edelsteinen, Balsam, Schilden und allerlei
+kostbaren Geräten.
+
+<<v28>>
+28 Auch hatte er Speicher für Getreide, Most und Öl, dazu Ställe für
+jede Art von Vieh und Hürden für die Herden. [fn:6]
+
+<<v29>>
+29 Er hatte sich nämlich Esel und einen reichen Besitz an Schafen und
+Rindern verschafft, denn Gott hatte ihm ein sehr großes Vermögen
+verliehen. [fn:7]
+
+<<v30>>
+30 Hiskija war es auch, der den oberen Abfluss des Gihonwassers
+verstopfte und es nach Westen in die Davidstadt hinableitete. Bei allem,
+was er unternahm, hatte er Erfolg.
+
+<<v31>>
+31 So war es auch, als die babylonischen Obersten ihre Unterhändler zu
+ihm sandten, um Auskunft über das Zeichen zu erlangen, das im Land
+erschienen war. Da überließ ihn Gott sich selbst, um zu erproben, wie er
+wirklich gesinnt war. [fn:8]
+
+<<v32>>
+32 Die übrige Geschichte Hiskijas und seine frommen Taten sind
+aufgezeichnet in der Vision des Propheten Jesaja, des Sohnes des Amoz,
+und im Buch der Könige von Juda und Israel.
+
+<<v33>>
+33 Hiskija entschlief zu seinen Vätern und man begrub ihn beim Aufgang
+zu den Gräbern der Nachkommen Davids. Bei seinem Tod erwiesen ihm ganz
+Juda und die Einwohner Jerusalems die Ehre. Sein Sohn Manasse wurde
+König an seiner Stelle.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-23) [[file:2.Kön_18.org::v13][2 Kön 18,13]] - [[file:2.Kön_19.org::v27][19,37]]; [[file:Jes_36.org][Jes 36]] und [[file:Jes_37.org][37]]
+
+[fn:2] 9-22: Vgl. die Anmerkungen zu [[file:2.Kön_18.org][2 Kön 18]] und [[file:2.Kön_19.org][19]].
+
+[fn:3] verlieh ihnen Ruhe: Text korr. nach G.
+
+[fn:4] (24-26) [[file:2.Kön_20.org::v1][2 Kön 20,1]]-[[file:2.Kön_20.org::v11][11]]
+
+[fn:5] erhörte ihn: Text korr. nach G. 2 Kön 20,1-11 berichtet
+ausführlich über die Heilung und das Wunderzeichen.
+
+[fn:6] Hürden für die Herden: Text korr. nach G und Vg.
+
+[fn:7] Esel: Text korr.; H: Städte.
+
+[fn:8] [[file:2.Kön_20.org::v10][2 Kön 20,10]]-[[file:2.Kön_20.org::v19][19]]

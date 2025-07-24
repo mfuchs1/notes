@@ -1,0 +1,183 @@
+#+TITLE: Weish 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-07-02 Mi 11:53]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Weish 2.html
+
+* Weish 2
+
+<<verses>>
+
+<<v1>>
+1 Sie tauschen ihre verkehrten Gedanken aus und sagen: Kurz und traurig
+ist unser Leben; /\\
+ für das Ende des Menschen gibt es keine Arznei /\\
+ und man kennt keinen, der aus der Welt des Todes befreit.\\
+\\
+
+<<v2>>
+2 Durch Zufall sind wir geworden /\\
+ und danach werden wir sein, als wären wir nie gewesen. /\\
+ Der Atem in unserer Nase ist Rauch /\\
+ und das Denken ist ein Funke, /\\
+ der vom Schlag des Herzens entfacht wird;\\
+\\
+
+<<v3>>
+3 verlöscht er, dann zerfällt der Leib zu Asche /\\
+ und der Geist verweht wie dünne Luft.\\
+\\
+
+<<v4>>
+4 Unser Name wird bald vergessen, /\\
+ niemand denkt mehr an unsere Taten. /\\
+ Unser Leben geht vorüber wie die Spur einer Wolke /\\
+ und löst sich auf wie ein Nebel, /\\
+ der von den Strahlen der Sonne verscheucht /\\
+ und von ihrer Wärme zu Boden gedrückt wird. [fn:1]\\
+\\
+
+<<v5>>
+5 Unsere Zeit geht vorüber wie ein Schatten, /\\
+ unser Ende wiederholt sich nicht; /\\
+ es ist versiegelt und keiner kommt zurück. [fn:2]\\
+\\
+
+<<v6>>
+6 Auf, lasst uns die Güter des Lebens genießen /\\
+ und die Schöpfung auskosten, /\\
+ wie es der Jugend zusteht. [fn:3]\\
+\\
+
+<<v7>>
+7 Erlesener Wein und Salböl sollen uns reichlich fließen, /\\
+ keine Blume des Frühlings darf uns entgehen.
+
+<<v8>>
+8 Bekränzen wir uns mit Rosen, ehe sie verwelken;\\
+\\
+
+<<v9>>
+9 keine Wiese bleibe unberührt /\\
+ von unserem ausgelassenen Treiben. /\\
+ Überall wollen wir Zeichen der Fröhlichkeit zurücklassen; /\\
+ das ist unser Anteil, das fällt uns zu.\\
+\\
+
+<<v10>>
+10 Lasst uns den Gerechten unterdrücken, /\\
+ der in Armut lebt, /\\
+ die Witwe nicht schonen /\\
+ und das graue Haar des betagten Greises nicht scheuen! [fn:4]\\
+\\
+
+<<v11>>
+11 Unsere Stärke soll bestimmen, was Gerechtigkeit ist; /\\
+ denn das Schwache erweist sich als unnütz.\\
+\\
+
+<<v12>>
+12 Lasst uns dem Gerechten auflauern! /\\
+ Er ist uns unbequem und steht unserem Tun im Weg. /\\
+ Er wirft uns Vergehen gegen das Gesetz vor /\\
+ und beschuldigt uns des Verrats an unserer Erziehung.\\
+\\
+
+<<v13>>
+13 Er rühmt sich, die Erkenntnis Gottes zu besitzen, /\\
+ und nennt sich einen Knecht des Herrn. [fn:5]\\
+\\
+
+<<v14>>
+14 Er ist unserer Gesinnung ein lebendiger Vorwurf, /\\
+ schon sein Anblick ist uns lästig;\\
+\\
+
+<<v15>>
+15 denn er führt ein Leben, /\\
+ das dem der andern nicht gleicht, /\\
+ und seine Wege sind grundverschieden.\\
+\\
+
+<<v16>>
+16 Als falsche Münze gelten wir ihm; /\\
+ von unseren Wegen hält er sich fern wie von Unrat. /\\
+ Das Ende der Gerechten preist er glücklich /\\
+ und prahlt, Gott sei sein Vater.\\
+\\
+
+<<v17>>
+17 Wir wollen sehen, ob seine Worte wahr sind, /\\
+ und prüfen, wie es mit ihm ausgeht.\\
+\\
+
+<<v18>>
+18 Ist der Gerechte wirklich Sohn Gottes, /\\
+ dann nimmt sich Gott seiner an /\\
+ und entreißt ihn der Hand seiner Gegner. [fn:6]\\
+\\
+
+<<v19>>
+19 Roh und grausam wollen wir mit ihm verfahren, /\\
+ um seine Sanftmut kennen zu lernen, /\\
+ seine Geduld zu erproben.\\
+\\
+
+<<v20>>
+20 Zu einem ehrlosen Tod wollen wir ihn verurteilen; /\\
+ er behauptet ja, es werde ihm Hilfe gewährt. [fn:7]\\
+\\
+
+<<v21>>
+21 So denken sie, aber sie irren sich; /\\
+ denn ihre Schlechtigkeit macht sie blind.\\
+\\
+
+<<v22>>
+22 Sie verstehen von Gottes Geheimnissen nichts, /\\
+ sie hoffen nicht auf Lohn für die Frömmigkeit /\\
+ und erwarten keine Auszeichnung für untadelige Seelen.\\
+\\
+
+<<v23>>
+23 Gott hat den Menschen zur Unvergänglichkeit erschaffen /\\
+ und ihn zum Bild seines eigenen Wesens gemacht. [fn:8] [fn:9]\\
+\\
+
+<<v24>>
+24 Doch durch den Neid des Teufels kam der Tod in die Welt /\\
+ und ihn erfahren alle, die ihm angehören. [fn:10]\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:Koh_9.org::v5][Koh 9,5]]
+
+[fn:2] [[file:Ijob_8.org::v9][Ijob 8,9]]; [[file:Ijob_7.org::v9][7,9]]
+
+[fn:3] [[file:Koh_9.org::v7][Koh 9,7-10]]
+
+[fn:4] [[file:Hab_1.org::v4][Hab 1,4]]; [[file:Ex_22.org::v21][Ex 22,21]]; [[file:Lev_19.org::v32][Lev 19,32]]
+
+[fn:5] Der Verfasser hat bei der Verfolgung des Gerechten den
+Gottesknecht von Deuterojesaja (vgl. die Einleitung zu Jes) und Ps 22
+vor Augen. Das griechische Wort für Kind (pais) ist in G Übersetzung des
+hebräischen Wortes für Knecht (ebed).
+
+[fn:6] [[file:Ps_22.org::v9][Ps 22,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v42][Mt 27,42f]]
+
+[fn:7] [[file:Weish_5.org::v4][5,4]]
+
+[fn:8] [[file:Weish_1.org::v14][1,14]]; [[file:Weish_3.org::v4][3,4]]; [[file:gen1::v26][Gen 1,26f]]
+
+[fn:9] seines eigenen Wesens: nach anderen Textzeugen: seiner Ewigkeit.
+
+[fn:10] [[file:Gen_3.org::v1][Gen 3,1-5]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v44][Joh 8,44]]; [[file:Weish_1.org::v16][Weish 1,16]]

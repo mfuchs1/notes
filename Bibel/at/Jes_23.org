@@ -1,0 +1,150 @@
+:PROPERTIES:
+:ID:       52b5beb4-9504-4339-ba1b-60eb9b6a0bbb
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_21.html][21]] [[file:Jes_22.html][22]] *23*
+[[file:Jes_24.html][24]] [[file:Jes_25.html][25]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 23
+  :PROPERTIES:
+  :CUSTOM_ID: jes-23
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Das Gericht über Tyrus und Sidon: 23,1-18
+   :PROPERTIES:
+   :CUSTOM_ID: das-gericht-über-tyrus-und-sidon-231-18
+   :END:
+1 Ausspruch über Tyrus. Jammert, ihr Tarschisch-Schiffe; /\\
+ denn euer Hafen wurde zerstört. Bei der Heimfahrt aus dem Land der
+Kittäer /\\
+ wurde es ihnen bekannt. ^{[[#fn1][1]][[#fn2][2]]}\\
+\\
+
+<<v2>>
+2 Verstummt, ihr Bewohner der Küste, /\\
+ ihr Kaufleute von Sidon, die ihr über das Meer fahrt /\\
+ und deren Boten das große Wasser überqueren.\\
+\\
+
+<<v3>>
+3 Die Saaten am Fluss, die Ernten am Nil brachten reichen Ertrag; /\\
+ Sidon wurde zum Handelsplatz für die Völker.\\
+\\
+
+<<v4>>
+4 Schäme dich, Sidon; /\\
+ denn zu dir sagt das Meer [die Festung am Meer]: Ich lag nicht in Wehen
+und habe nicht geboren /\\
+ und ich zog weder Söhne noch Töchter groß. ^{[[#fn3][3]]}\\
+\\
+
+<<v5>>
+5 Wenn das die Ägypter erfahren, /\\
+ zittern sie wie einst bei der Nachricht aus Tyrus.\\
+\\
+
+<<v6>>
+6 Fahrt nach Tarschisch hinüber; /\\
+ jammert, ihr Bewohner der Küste!\\
+\\
+
+<<v7>>
+7 Ist das eure fröhliche Stadt, /\\
+ in den Tagen der Vorzeit gegründet, /\\
+ die Stadt, die ihre Siedler aussandte in weiteste Fernen?\\
+\\
+
+<<v8>>
+8 Wer hat das über Tyrus beschlossen, /\\
+ das einst Kronen verschenkte, dessen Kaufleute wie Fürsten auftraten
+/\\
+ und dessen Händler die vornehmsten Herren der Erde waren?
+^{[[#fn4][4]]}\\
+\\
+
+<<v9>>
+9 Der Herr der Heere hat beschlossen, /\\
+ die ganze Pracht zuschanden zu machen /\\
+ und den Stolz aller vornehmen Herren der Erde zu brechen.\\
+\\
+
+<<v10>>
+10 Bebau dein Land [wie am Nil], Tochter Tarschisch, /\\
+ es gibt keinen Hafen mehr. ^{[[#fn5][5]]}\\
+\\
+
+<<v11>>
+11 Der Herr hat seine Hand ausgestreckt über das Meer, /\\
+ er hat die Königreiche erschüttert. Er hat den Befehl erlassen, /\\
+ Kanaans Burgen in Trümmer zu legen.\\
+\\
+
+<<v12>>
+12 Er sagte: Nie mehr sollst du fröhlich sein, /\\
+ Tochter Sidon, du vergewaltigte Jungfrau. Steh auf, fahr zu den
+Kittäern - /\\
+ auch dort findest du keine Ruhe.\\
+\\
+
+<<v13>>
+13 [Denn die Chaldäer waren das Volk - nicht Assur ist es gewesen -, die
+Sidon zum Aufenthalt der Wüstentiere machen wollten. Sie stellten ihre
+Belagerungstürme auf, zerstörten die Paläste und machten sie zu einem
+Trümmerhaufen.] ^{[[#fn6][6]]}\\
+\\
+
+<<v14>>
+14 Jammert, ihr Tarschisch-Schiffe, /\\
+ denn euer Hafen wurde zerstört. ^{[[#fn7][7]]}\\
+\\
+
+<<v15>>
+15 Dann wird Tyrus siebzig Jahre lang - solange wie ein König lebt
+vergessen sein. Nach siebzig Jahren aber wird es Tyrus gehen, wie es im
+Lied von der Dirne heißt:\\
+\\
+
+<<v16>>
+16 Nimm die Zither, /\\
+ durchstreife die Stadt, /\\
+ vergessene Dirne! Spiele schön /\\
+ und singe viel, /\\
+ damit man an dich denkt.\\
+\\
+
+<<v17>>
+17 Nach siebzig Jahren wird sich der Herr wieder um Tyrus kümmern: Die
+Stadt wird wieder ihren Dirnenlohn erhalten und mit allen Königreichen
+der Welt, die es auf Erden gibt, Unzucht treiben. ^{[[#fn8][8]]}
+
+<<v18>>
+18 Aber ihr Gewinn und ihr Dirnenlohn wird dem Herrn als heilige Gabe
+gehören. Er wird nicht angesammelt und gehortet, sondern wird denen, die
+in der Nähe des Herrn wohnen, als reiche Nahrung und prächtige Kleidung
+dienen.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 23,14; 2,16
+
+^{[[#fnm2][2]]} 1-3: Übersetzung unsicher. Das «Land der Kittäer» ist
+Zypern.
+
+^{[[#fnm3][3]]} ℘ 1,2
+
+^{[[#fnm4][4]]} ℘ Offb 18,23
+
+^{[[#fnm5][5]]} Bebau: Text korr. nach G und dem Qumran-Text.
+
+^{[[#fnm6][6]]} Text durch spätere Zusätze völlig entstellt.
+
+^{[[#fnm7][7]]} ℘ 23,1; 2,16
+
+^{[[#fnm8][8]]} ℘ Offb 17,2

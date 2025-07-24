@@ -1,0 +1,131 @@
+#+TITLE: Jdt 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:44]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 6.html
+
+<<verses>>
+
+<<v1>>
+* Die Rede des Holofernes an Achior: 6,1-9
+
+1 Als sich der Lärm bei den Männern, die um den Kriegsrat herumstanden,
+gelegt hatte, sagte Holofernes, der Oberbefehlshaber der assyrischen
+Streitmacht, in Gegenwart des ganzen Söldnerheeres zu Achior und zu
+allen Moabitern:
+
+<<v2>>
+2 Wer bist du denn, Achior, und was bedeuten schon diese Söldner
+Efraims, dass du dich heute in unserer Mitte als Prophet aufspielst und
+erklärst, man dürfe das Volk Israel nicht bekriegen, weil sein Gott ihm
+Hilfe leiste? Gibt es denn überhaupt einen Gott außer Nebukadnezzar? Er
+wird seine Macht aufbieten und sie vom Erdboden vertilgen, ohne dass ihr
+Gott sie rettet. [fn:1]
+
+<<v3>>
+3 Wir aber, seine Knechte, werden sie schlagen wie einen einzigen Mann.
+Sie werden dem Ansturm unserer Reiterei nicht widerstehen können;
+
+<<v4>>
+4 mit ihr werden wir sie vernichten, sodass die Berge von ihrem Blut
+getränkt und die Felder mit ihren Leichen übersät sein werden. Sie
+werden uns nicht standhalten, sondern restlos untergehen. Das sagt der
+König Nebukadnezzar, der Herr der ganzen Erde; er hat es so bestimmt und
+seine Worte können nicht zurückgenommen werden.
+
+<<v5>>
+5 Aber du, Achior, Söldner aus Ammon, hast diese Worte an deinem
+Unglückstag gesprochen. Du sollst mir von heute an nicht mehr unter die
+Augen treten, bis ich die Rache an diesem Volk aus Ägypten vollstreckt
+habe.
+
+<<v6>>
+6 Wenn ich dann zurückkomme, soll das Schwert meines Heeres und die
+Lanze meiner Gefolgsleute auch deine Rippen durchbohren und du wirst
+zusammen mit ihren Toten dahinsinken.
+
+<<v7>>
+7 Meine Diener werden dich auf das Bergland schaffen und dich in einen
+der Orte an den Gebirgspässen bringen.
+
+<<v8>>
+8 Dort sollst du gemeinsam mit ihnen umkommen.
+
+<<v9>>
+9 Wenn du aber in deinem Herzen die Hoffnung hegst, dass sie nicht
+überwältigt werden, dann brauchst du nicht vor Angst zu zittern. Ich
+habe gesprochen und keines meiner Worte wird unerfüllt bleiben.\\
+\\
+
+<<v10>>
+* Die Auslieferung Achiors: 6,10-13
+
+10 Darauf befahl Holofernes den Dienern, die in seinem Zelt
+bereitstanden, Achior festzunehmen, ihn nach Betulia zu bringen und an
+die Israeliten auszuliefern.
+
+<<v11>>
+11 Seine Diener ergriffen ihn, führten ihn aus dem Lager in die Ebene
+hinaus und brachten ihn in das Bergland hinauf. So gelangten sie zu den
+Quellen unterhalb von Betulia.
+
+<<v12>>
+12 Als die Männer in der Stadt sie erblickten, griffen sie zu den Waffen
+und liefen aus der Stadt hinaus auf den Gipfel des Berges; die mit
+Schleudern bewaffneten Männer versperrten den Gegnern den Aufstieg,
+indem sie Steine hinabschleuderten.
+
+<<v13>>
+13 Die Feinde suchten Deckung im Schutz der Bergwand; dann fesselten sie
+Achior, ließen ihn am Fuß des Abhangs liegen und kehrten zu ihrem Herrn
+zurück.\\
+\\
+
+<<v14>>
+* Achior in Betulia: 6,14-21
+
+14 Die Israeliten kamen aus ihrer Stadt herunter zu Achior und banden
+ihn los; sie führten ihn nach Betulia und brachten ihn vor die leitenden
+Männer ihrer Stadt.
+
+<<v15>>
+15 Das waren in jenen Tagen Usija, der Sohn Michas, aus dem Stamm
+Simeon, Kabri, der Sohn Otniëls, und Karmi, der Sohn Malkiëls.
+
+<<v16>>
+16 Sie beriefen alle Ältesten der Stadt zu einer Versammlung; auch alle
+jungen Männer und die Frauen liefen herbei. Sie stellten Achior in die
+Mitte der versammelten Menge und Usija fragte ihn, was vorgefallen sei.
+
+<<v17>>
+17 Achior berichtete ihnen über die Verhandlungen im Kriegsrat des
+Holofernes und teilte ihnen alles mit, was er im Kreis der assyrischen
+Heerführer gesagt hatte, aber auch, was Holofernes prahlerisch gegen das
+Haus Israel geäußert hatte.
+
+<<v18>>
+18 Da warf sich das Volk nieder, betete zu Gott und rief:
+
+<<v19>>
+19 Herr, Gott des Himmels, blick herab und sieh ihre Überheblichkeit,
+hab Erbarmen mit unserem gedemütigten Volk und schau heute gnädig auf
+die Schar derer, die dir geweiht sind.
+
+<<v20>>
+20 Dann sprachen sie Achior Mut zu und lobten ihn sehr.
+
+<<v21>>
+21 Usija nahm ihn aus der Versammlung mit nach Hause und gab ein
+Gastmahl für die Ältesten. Während der ganzen Nacht aber riefen sie den
+Gott Israels um Hilfe an.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:2.Kön_18.org::v28][2 Kön 18,28]]-[[file:2.Kön_18.org::v35][35]]

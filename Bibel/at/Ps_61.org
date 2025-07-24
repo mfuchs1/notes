@@ -1,0 +1,81 @@
+#+TITLE: Ps 61 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-06-03 Mo 09:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 61.html
+
+* Ps 61
+
+<<verses>>
+
+<<v1>>
+* Fürbitte für den König
+
+1 [Für den Chormeister. Mit Saitenspiel. Von David.]\\
+\\
+
+<<v2>>
+2 Gott, höre mein Flehen, /\\
+ achte auf mein Beten!\\
+\\
+
+<<v3>>
+3 Vom Ende der Erde rufe ich zu dir; /\\
+ denn mein Herz ist verzagt. /\\
+ Führe mich auf den Felsen, der mir zu hoch ist! [fn:1]\\
+\\
+
+<<v4>>
+4 Du bist meine Zuflucht, /\\
+ ein fester Turm gegen die Feinde. [fn:2]\\
+\\
+
+<<v5>>
+5 In deinem Zelt möchte ich Gast sein auf ewig, /\\
+ mich bergen im Schutz deiner Flügel. [Sela] [fn:3]\\
+\\
+
+<<v6>>
+6 Denn du, o Gott, hast meine Gelübde gehört /\\
+ und denen das Erbe gegeben, /\\
+ die deinen Namen fürchten.\\
+\\
+
+<<v7>>
+7 Füge den Tagen des Königs noch viele hinzu! /\\
+ Seine Jahre mögen dauern /\\
+ von Geschlecht zu Geschlecht. [fn:4]\\
+\\
+
+<<v8>>
+8 Er throne ewig vor Gottes Angesicht. /\\
+ Huld und Treue mögen ihn behüten. [fn:5] [fn:6]\\
+\\
+
+<<v9>>
+9 Dann will ich allzeit deinem Namen singen und spielen /\\
+ und Tag für Tag meine Gelübde erfüllen. [fn:7]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_27.org::v4][27,4f]]
+
+[fn:2] [[file:Ps_71.org::v3][71,3]]; [[file:Spr_18.org::v10][Spr 18,10]]
+
+[fn:3] [[file:Ps_17.org::v7][17,7f]]
+
+[fn:4] [[file:Ps_21.org::v5][21,5]]; [[file:Ps_72.org::v5][72,5]]
+
+[fn:5] [[file:Ps_89.org::v5][89,5]].[[file:Ps_89.org::v30][30]].[[file:Ps_89.org::v34][34]].[[file:Ps_89.org::v37][37]]
+
+[fn:6] Text korr.
+
+[fn:7] [[file:Ps_7.org::v18][7,18]]; [[file:Ps_66.org::v13][66,13]]

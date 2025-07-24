@@ -1,0 +1,91 @@
+#+TITLE: Ps 141 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-20 Di 18:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 141.html
+
+* Ps 141
+
+<<verses>>
+
+<<v1>>
+* Bitte um Bewahrung vor Sünde
+
+1 [Ein Psalm Davids.] Herr, ich rufe zu dir. Eile mir zu Hilfe; /\\
+ höre auf meine Stimme, wenn ich zu dir rufe.\\
+\\
+
+<<v2>>
+2 Wie ein Rauchopfer steige mein Gebet vor dir auf; /\\
+ als Abendopfer gelte vor dir, wenn ich meine Hände erhebe. [fn:1]\\
+\\
+
+<<v3>>
+3 Herr, stell eine Wache vor meinen Mund, /\\
+ eine Wehr vor das Tor meiner Lippen! [fn:2]\\
+\\
+
+<<v4>>
+4 Gib, dass mein Herz sich bösen Worten nicht zuneigt, /\\
+ dass ich nichts tue, was schändlich ist, zusammen mit Menschen, die
+Unrecht tun. /\\
+ Von ihren Leckerbissen will ich nicht kosten.\\
+\\
+
+<<v5>>
+5 Der Gerechte mag mich schlagen aus Güte: /\\
+ Wenn er mich bessert, ist es Salböl für mein Haupt; da wird sich mein
+Haupt nicht sträuben. /\\
+ Ist er in Not, will ich stets für ihn beten. [fn:3] [fn:4]\\
+\\
+
+<<v6>>
+6 Haben ihre Richter sich auch die Felsen hinabgestürzt, /\\
+ sie sollen hören, dass mein Wort für sie freundlich ist. [fn:5]\\
+\\
+
+<<v7>>
+7 Wie wenn man Furchen zieht und das Erdreich aufreißt, /\\
+ so sind unsre Glieder hingestreut an den Rand der Unterwelt.\\
+\\
+
+<<v8>>
+8 Mein Herr und Gott, meine Augen richten sich auf dich; /\\
+ bei dir berge ich mich. Gieß mein Leben nicht aus! [fn:6]\\
+\\
+
+<<v9>>
+9 Vor der Schlinge, die sie mir legten, bewahre mich, /\\
+ vor den Fallen derer, die Unrecht tun! [fn:7]\\
+\\
+
+<<v10>>
+10 Die Frevler sollen sich in ihren eigenen Netzen fangen, /\\
+ während ich heil entkomme. [fn:8]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_134.org::v2][134,2]]; [[file:Ex_30.org::v7][Ex 30,7f]]; [[file:Jdt_9.org::v1][Jdt 9,1]]; [[file:Num_28.org::v4][Num 28,4]]
+
+[fn:2] [[file:Ps_39.org::v2][39,2]]; [[file:~/RoamNotes/notes/Bibel/nt/Jak_3.org::v5][Jak 3,5f]]
+
+[fn:3] [[file:Spr_9.org::v8][Spr 9,8]]; [[file:Spr_27.org::v5][27,5f]]
+
+[fn:4] Andere Übersetzungsmöglichkeit: Denn stets (wird laut)
+mein Gebet trotz ihrer Bosheit, oder: wenn es ihnen schlecht geht ...
+
+[fn:5] H ist unverständlich.
+
+[fn:6] (8-9) [[file:Ps_25.org::v15][25,15]]
+
+[fn:7] [[file:Ps_140.org::v6][140,6]]
+
+[fn:8] [[file:Ps_7.org::v16][7,16]]

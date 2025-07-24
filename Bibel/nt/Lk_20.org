@@ -1,0 +1,313 @@
+:PROPERTIES:
+:ID:       f8255f7c-0754-42f7-bd91-7b0bdaffc3c5
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Lukas* --
+[[file:Lk_1.html][1]] ... [[file:Lk_18.html][18]]
+[[file:Lk_19.html][19]] *20* [[file:Lk_21.html][21]]
+[[file:Lk_22.html][22]] ... [[file:Lk_24.html][24]]
+
+--------------
+
+* Lk 20
+  :PROPERTIES:
+  :CUSTOM_ID: lk-20
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Frage nach der Vollmacht Jesu: 20,1-8
+     :PROPERTIES:
+     :CUSTOM_ID: die-frage-nach-der-vollmacht-jesu-201-8
+     :END:
+1 Als er eines Tages im Tempel das Volk lehrte und das Evangelium
+verkündete, kamen die Hohenpriester und die Schriftgelehrten mit den
+Ältesten hinzu ^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 276\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 und fragten ihn: Sag uns: Mit welchem Recht tust du das alles? Wer hat
+dir dazu die Vollmacht gegeben?
+
+<<v3>>
+3 Er antwortete ihnen: Auch ich will euch eine Frage stellen. Sagt mir:
+
+<<v4>>
+4 Stammte die Taufe des Johannes vom Himmel oder von den Menschen?
+
+<<v5>>
+5 Da überlegten sie und sagten zueinander: Wenn wir antworten: Vom
+Himmel!, so wird er sagen: Warum habt ihr ihm dann nicht geglaubt?
+
+<<v6>>
+6 Wenn wir aber antworten: Von den Menschen!, dann wird das ganze Volk
+uns steinigen; denn sie sind überzeugt, dass Johannes ein Prophet
+gewesen ist.
+
+<<v7>>
+7 Darum antworteten sie: Wir wissen nicht, woher.
+
+<<v8>>
+8 Jesus erwiderte: Dann sage auch ich euch nicht, mit welchem Recht ich
+das alles tue.\\
+\\
+
+<<v9>>
+**** Das Gleichnis von den bösen Winzern: 20,9-19
+     :PROPERTIES:
+     :CUSTOM_ID: das-gleichnis-von-den-bösen-winzern-209-19
+     :END:
+9 Er erzählte dem Volk dieses Gleichnis: Ein Mann legte einen Weinberg
+an, verpachtete ihn an Winzer und reiste für längere Zeit in ein anderes
+Land. ^{[[#fn2][2]][[#fn3][3]][[#fn4][4]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 278\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v10>>
+10 Als nun die Zeit dafür gekommen war, schickte er einen Knecht zu den
+Winzern, damit sie ihm seinen Anteil am Ertrag des Weinbergs
+ablieferten. Die Winzer aber prügelten ihn und jagten ihn mit leeren
+Händen fort.
+
+<<v11>>
+11 Darauf schickte er einen anderen Knecht; auch ihn prügelten und
+beschimpften sie und jagten ihn mit leeren Händen fort.
+
+<<v12>>
+12 Er schickte noch einen dritten Knecht; aber auch ihn schlugen sie
+blutig und warfen ihn hinaus.
+
+<<v13>>
+13 Da sagte der Besitzer des Weinbergs: Was soll ich tun? Ich will
+meinen geliebten Sohn zu ihnen schicken. Vielleicht werden sie vor ihm
+Achtung haben. ^{[[#fn5][5]]}
+
+<<v14>>
+14 Als die Winzer den Sohn sahen, überlegten sie und sagten zueinander:
+Das ist der Erbe; wir wollen ihn töten, damit das Erbgut uns gehört.
+
+<<v15>>
+15 Und sie warfen ihn aus dem Weinberg hinaus und brachten ihn um. Was
+wird nun der Besitzer des Weinbergs mit ihnen tun?
+
+<<v16>>
+16 Er wird kommen und diese Winzer töten und den Weinberg anderen geben.
+Als sie das hörten, sagten sie: Das darf nicht geschehen!\\
+\\
+
+<<v17>>
+17 Da sah Jesus sie an und sagte: Was bedeutet das Schriftwort: /Der
+Stein, den die Bauleute verworfen haben,/ /\\
+ /er ist zum Eckstein geworden/? ^{[[#fn6][6]]}\\
+\\
+
+<<v18>>
+18 Jeder, der auf diesen Stein fällt, wird zerschellen; auf wen der
+Stein aber fällt, den wird er zermalmen.
+
+<<v19>>
+19 Die Schriftgelehrten und die Hohenpriester hätten ihn gern noch in
+derselben Stunde festgenommen; aber sie fürchteten das Volk. Denn sie
+hatten gemerkt, dass er sie mit diesem Gleichnis meinte.
+^{[[#fn7][7]]}\\
+\\
+
+<<v20>>
+**** Die Frage nach der kaiserlichen Steuer: 20,20-26
+     :PROPERTIES:
+     :CUSTOM_ID: die-frage-nach-der-kaiserlichen-steuer-2020-26
+     :END:
+20 Daher lauerten sie ihm auf und schickten Spitzel, die sich fromm
+stellen und ihn bei einer (unüberlegten) Antwort ertappen sollten. Denn
+sie wollten ihn der Gerichtsbarkeit des Statthalters übergeben.
+^{[[#fn8][8]][[#fn9][9]][[#fn10][10]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 280\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v21>>
+21 Die Spitzel fragten ihn: Meister, wir wissen, dass du aufrichtig
+redest und lehrst und nicht auf die Person siehst, sondern wirklich den
+Weg Gottes lehrst.
+
+<<v22>>
+22 Ist es uns erlaubt, dem Kaiser Steuer zu zahlen, oder nicht?
+
+<<v23>>
+23 Er aber durchschaute ihre Hinterlist und sagte zu ihnen:
+
+<<v24>>
+24 Zeigt mir einen Denar! Wessen Bild und Aufschrift sind darauf? Sie
+antworteten: Die des Kaisers.
+
+<<v25>>
+25 Da sagte er zu ihnen: Dann gebt dem Kaiser, was dem Kaiser gehört,
+und Gott, was Gott gehört!
+
+<<v26>>
+26 So gelang es ihnen nicht, ihn öffentlich bei einem (unüberlegten)
+Wort zu ertappen. Sie waren von seiner Antwort sehr überrascht und
+schwiegen.\\
+\\
+
+<<v27>>
+**** Die Frage nach der Auferstehung der Toten: 20,27-40
+     :PROPERTIES:
+     :CUSTOM_ID: die-frage-nach-der-auferstehung-der-toten-2027-40
+     :END:
+27 Von den Sadduzäern, die die Auferstehung leugnen, kamen einige zu
+Jesus und fragten ihn:
+^{[[#fn11][11]][[#fn12][12]][[#fn13][13]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 281\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v28>>
+28 Meister, Mose hat uns vorgeschrieben: /Wenn ein Mann, der einen
+Bruder hat, stirbt/ und eine Frau /hinterlässt, ohne Kinder zu haben,
+dann soll sein Bruder die Frau heiraten und/ seinem /Bruder Nachkommen
+verschaffen./ ^{[[#fn14][14]]}
+
+<<v29>>
+29 Nun lebten einmal sieben Brüder. Der erste nahm sich eine Frau, starb
+aber kinderlos.
+
+<<v30>>
+30 Da nahm sie der zweite,
+
+<<v31>>
+31 danach der dritte und ebenso die anderen bis zum siebten; sie alle
+hinterließen keine Kinder, als sie starben.
+
+<<v32>>
+32 Schließlich starb auch die Frau.
+
+<<v33>>
+33 Wessen Frau wird sie nun bei der Auferstehung sein? Alle sieben haben
+sie doch zur Frau gehabt.
+
+<<v34>>
+34 Da sagte Jesus zu ihnen: Nur in dieser Welt heiraten die Menschen.
+^{[[#fn15][15]]}
+
+<<v35>>
+35 Die aber, die Gott für würdig hält, an jener Welt und an der
+Auferstehung von den Toten teilzuhaben, werden dann nicht mehr heiraten.
+
+<<v36>>
+36 Sie können auch nicht mehr sterben, weil sie den Engeln gleich und
+durch die Auferstehung zu Söhnen Gottes geworden sind.
+
+<<v37>>
+37 Dass aber die Toten auferstehen, hat schon Mose in der Geschichte vom
+Dornbusch angedeutet, in der er den Herrn /den Gott Abrahams, den Gott
+Isaaks und den Gott Jakobs/ nennt. ^{[[#fn16][16]]}
+
+<<v38>>
+38 Er ist doch kein Gott von Toten, sondern von Lebenden; denn für ihn
+sind alle lebendig.
+
+<<v39>>
+39 Da sagten einige Schriftgelehrte: Meister, du hast gut geantwortet.
+^{[[#fn17][17]]}
+
+<<v40>>
+40 Und man wagte nicht mehr, ihn etwas zu fragen. ^{[[#fn18][18]]}\\
+^{[[#fn19][19]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 283\\
+$ŽG://ESyn0812/
+
+<<v41>>
+**** Die Frage nach dem Messias: 20,41-44
+     :PROPERTIES:
+     :CUSTOM_ID: die-frage-nach-dem-messias-2041-44
+     :END:
+41 Da fragte er sie: Wie kann man behaupten, der Messias sei der Sohn
+Davids? ^{[[#fn20][20]]}
+
+<<v42>>
+42 Denn David selbst sagt im Buch der Psalmen: /Der Herr sprach zu
+meinem Herrn: Setze dich mir zur Rechten,/ ^{[[#fn21][21]]}
+
+<<v43>>
+43 /und ich lege dir deine Feinde als Schemel unter die Füße./
+
+<<v44>>
+44 David nennt ihn also «Herr». Wie kann er dann Davids Sohn sein?\\
+\\
+
+<<v45>>
+**** Worte gegen die Schriftgelehrten: 20,45-47
+     :PROPERTIES:
+     :CUSTOM_ID: worte-gegen-die-schriftgelehrten-2045-47
+     :END:
+45 Jesus sagte vor dem ganzen Volk zu seinen Jüngern:
+^{[[#fn22][22]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 284\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v46>>
+46 Hütet euch vor den Schriftgelehrten! Sie gehen gern in langen
+Gewändern umher, lieben es, wenn man sie auf den Straßen und Plätzen
+grüßt, und wollen in der Synagoge die vordersten Sitze und bei jedem
+Festmahl die Ehrenplätze haben. ^{[[#fn23][23]]}
+
+<<v47>>
+47 Sie bringen die Witwen um ihre Häuser und verrichten in ihrer
+Scheinheiligkeit lange Gebete. Aber um so härter wird das Urteil sein,
+das sie erwartet.\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-8) Mt 21,23-27; Mk 11,27-33 ⇨Esyn: Synopse Nr. 276
+
+^{[[#fnm2][2]]} ℘ Jes 5,1f G; (9-19) Mt 21,33-46; Mk 12,1-12
+
+^{[[#fnm3][3]]} 9-19: Vgl. die Anmerkung zu Mt 21,33-46.
+
+^{[[#fnm4][4]]} ℘ ⇨Esyn: Synopse Nr. 278
+
+^{[[#fnm5][5]]} ℘ 3,22
+
+^{[[#fnm6][6]]} ℘ Ps 118,22
+
+^{[[#fnm7][7]]} ℘ 19,47f; 22,2
+
+^{[[#fnm8][8]]} ℘ 11,54; (20-26) Mt 22,15-22; Mk 12,13-17
+
+^{[[#fnm9][9]]} 20-26: Vgl. die Anmerkung zu Mt 22,15-22.
+
+^{[[#fnm10][10]]} ℘ ⇨Esyn: Synopse Nr. 280
+
+^{[[#fnm11][11]]} ℘ Apg 23,8; (27-38) Mt 22,23-33; Mk 12,18-27
+
+^{[[#fnm12][12]]} 27-40: Vgl. die Anmerkung zu Mt 22,23-33.
+
+^{[[#fnm13][13]]} ℘ ⇨Esyn: Synopse Nr. 281
+
+^{[[#fnm14][14]]} ℘ Dtn 25,5f; Gen 38,8
+
+^{[[#fnm15][15]]} Wörtlich: Nur in dieser Welt heiraten sie (nämlich die
+Männer) und werden geheiratet (nämlich die Frauen). Ähnlich im V. 35.
+
+^{[[#fnm16][16]]} ℘ Ex 3,6
+
+^{[[#fnm17][17]]} ℘ Mk 12,32
+
+^{[[#fnm18][18]]} ℘ Mt 22,46; Mk 12,34
+
+^{[[#fnm19][19]]} ℘ ⇨Esyn: Synopse Nr. 283
+
+^{[[#fnm20][20]]} ℘ (41-44) Mt 22,41-45; Mk 12,35-37a
+
+^{[[#fnm21][21]]} ℘ Ps 110,1
+
+^{[[#fnm22][22]]} ℘ (45-47) Mt 23,1.5-7.14; Mk 12,37b-40 ⇨Esyn: Synopse
+Nr. 284
+
+^{[[#fnm23][23]]} ℘ 11,43; 14,7

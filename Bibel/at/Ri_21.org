@@ -1,0 +1,149 @@
+#+TITLE: Ri 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-05 So 22:35]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 21.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Sorge um den Rest von Benjamin: 21,1-9
+
+1 Die Israeliten hatten in Mizpa geschworen: Keiner von uns darf seine
+Tochter einem Benjaminiter zur Frau geben. [fn:1]
+
+<<v2>>
+2 Nun kam das Volk nach Bet-El; sie saßen dort bis zum Abend vor Gott,
+jammerten laut und klagten sehr.
+
+<<v3>>
+3 Sie sagten: Warum, Herr, Gott Israels, musste das in Israel geschehen,
+dass heute ein ganzer Stamm Israels fehlt?
+
+<<v4>>
+4 Am anderen Morgen in aller Frühe erbaute das Volk dort einen Altar und
+brachte Brandopfer und Heilsopfer dar.
+
+<<v5>>
+5 Und die Israeliten fragten: Wer aus allen Stämmen Israels ist nicht zu
+der Versammlung zum Herrn heraufgekommen? Man hatte nämlich gegen den,
+der nicht zum Herrn nach Mizpa hinaufziehen würde, einen feierlichen
+Schwur getan und gesagt: Er wird mit dem Tod bestraft.
+
+<<v6>>
+6 Nun aber hatten die Israeliten Mitleid mit ihrem Bruder Benjamin und
+sagten: Heute ist ein ganzer Stamm von Israel abgehauen worden.
+
+<<v7>>
+7 Wie können wir denen, die übrig geblieben sind, Frauen verschaffen?
+Wir haben doch beim Herrn geschworen, ihnen keine von unseren Töchtern
+zur Frau zu geben.
+
+<<v8>>
+8 Darum fragten sie: Ist etwa einer von den Stämmen Israels nicht zum
+Herrn nach Mizpa hinaufgezogen? Und tatsächlich war niemand aus
+Jabesch-Gilead zur Versammlung ins Heerlager gekommen.
+
+<<v9>>
+9 Denn als man die Leute musterte, zeigte es sich, dass keiner der
+Einwohner von Jabesch-Gilead da war.\\
+\\
+
+<<v10>>
+* Der Feldzug gegen Jabesch-Gilead: 21,10-14
+
+10 Die Gemeinde schickte deshalb zwölftausend Mann von den Kriegsleuten
+nach Jabesch-Gilead mit dem Befehl: Geht hin und erschlagt die Einwohner
+von Jabesch-Gilead mit scharfem Schwert, auch Frauen und Kinder.
+
+<<v11>>
+11 So sollt ihr es machen: Alles, was männlich ist, und alle Frauen, die
+schon Verkehr mit einem Mann hatten, sollt ihr dem Untergang weihen.
+
+<<v12>>
+12 Sie fanden aber unter den Einwohnern von Jabesch-Gilead vierhundert
+jungfräuliche Mädchen, die noch keinen Verkehr mit einem Mann hatten.
+Diese brachten sie ins Lager nach Schilo im Land Kanaan.
+
+<<v13>>
+13 Darauf schickte die ganze Gemeinde Boten und verhandelte mit den
+Benjaminitern, die in Sela-Rimmon waren, und bot ihnen Frieden an. [fn:2]
+
+<<v14>>
+14 So kehrten die Benjaminiter damals zurück und die Israeliten gaben
+ihnen die Frauen aus Jabesch-Gilead, die sie dort am Leben gelassen
+hatten. Aber diese reichten für sie nicht aus.\\
+\\
+
+<<v15>>
+* Der Frauenraub in Schilo: 21,15-25
+
+15 Das Volk hatte Mitleid mit Benjamin; denn der Herr hatte eine Lücke
+in die Stämme Israels gerissen.
+
+<<v16>>
+16 Die Ältesten der Gemeinde sagten: Wie können wir den übrigen Männern
+Frauen verschaffen, da in Benjamin die Frauen ausgerottet sind?
+
+<<v17>>
+17 Und sie sagten: Der Besitz der übrig gebliebenen Benjaminiter ist ja
+noch immer da. Kein Stamm darf in Israel ausgelöscht werden.
+
+<<v18>>
+18 Von unseren Töchtern können wir ihnen jedoch keine als Frauen geben;
+denn die Israeliten haben geschworen: Verflucht sei, wer den
+Benjaminitern eine Frau gibt.
+
+<<v19>>
+19 Sie sagten also: Da ist doch Jahr für Jahr ein Fest des Herrn in
+Schilo nördlich von Bet-El, östlich der Straße, die von Bet-El nach
+Sichem führt, südlich von Lebona. [fn:3]
+
+<<v20>>
+20 Und sie forderten die Benjaminiter auf: Geht hin und legt euch in den
+Weinbergen dort auf die Lauer!
+
+<<v21>>
+21 Wenn ihr dann seht, wie die Töchter Schilos herauskommen, um im
+Reigen zu tanzen, dann kommt aus den Weinbergen hervor und jeder von
+euch soll sich von den Töchtern Schilos eine Frau rauben. Dann geht heim
+ins Land Benjamin!
+
+<<v22>>
+22 Wenn dann ihre Väter oder Brüder kommen und bei uns Klage erheben,
+werden wir zu ihnen sagen: Vergebt ihnen; denn wir konnten im Kampf
+(gegen Jabesch) nicht für jeden eine Frau gewinnen und ihr selbst
+konntet sie ihnen nicht geben; sonst hättet ihr euch schuldig gemacht. [fn:4]
+
+<<v23>>
+23 Die Benjaminiter machten es so und jeder nahm sich eines von den
+tanzenden Mädchen, die sie raubten. Dann kehrten sie in ihren Erbbesitz
+zurück, bauten die Städte wieder auf und wohnten darin.
+
+<<v24>>
+24 Auch die Israeliten gingen dann in Bet-El wieder auseinander, jeder
+zu seinem Stamm und zu seiner Sippe. Jeder zog heim in seinen Erbbesitz.
+
+<<v25>>
+25 In jenen Tagen gab es noch keinen König in Israel; jeder tat, was ihm
+gefiel. [fn:5]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ri_20.org::v1][20,1]]
+
+[fn:2] [[file:Ri_20.org::v47][20,47]]
+
+[fn:3] Wahrscheinlich ist an das Laubhüttenfest gedacht.
+
+[fn:4] Vergebt: Text korr.; H: Vergebt uns.
+
+[fn:5] [[file:Ri_17.org::v6][17,6]]

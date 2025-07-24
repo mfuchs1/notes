@@ -1,0 +1,151 @@
+:PROPERTIES:
+:ID:       d1d66a69-5fc5-43ba-b3f4-0e9a25e5ffe6
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_50.html][50]] [[file:Jes_51.html][51]] *52*
+[[file:Jes_53.html][53]] [[file:Jes_54.html][54]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 52
+  :PROPERTIES:
+  :CUSTOM_ID: jes-52
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das neue Heil für Zion: 52,1-12
+     :PROPERTIES:
+     :CUSTOM_ID: das-neue-heil-für-zion-521-12
+     :END:
+1 Wach auf, Zion, wach auf, /\\
+ zieh das Gewand deiner Macht an! Zieh deine Prunkkleider an, /\\
+ Jerusalem, du heilige Stadt! /\\
+ Denn Unbeschnittene und Unreine werden dich nicht mehr betreten.
+^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Schüttle den Staub von dir ab, /\\
+ steh auf, du gefangenes Jerusalem! Löse die Fesseln von deinem Hals,
+/\\
+ gefangene Tochter Zion!\\
+\\
+
+<<v3>>
+3 Denn so spricht der Herr: /\\
+ Umsonst wurdet ihr verkauft /\\
+ und ihr sollt nicht mit Geld losgekauft werden. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Denn so spricht Gott, der Herr: /\\
+ Nach Ägypten zog mein Volk einst hinab, /\\
+ um dort in der Fremde zu leben. /\\
+ Auch von Assur wurde es ohne Grund unterdrückt.\\
+\\
+
+<<v5>>
+5 Aber was erlebe ich jetzt - Spruch des Herrn -? /\\
+ Man nahm mein Volk, ohne zu bezahlen, und nun prahlen seine
+Beherrscher - Spruch des Herrn -; /\\
+ ständig, jeden Tag wird mein Name gelästert. ^{[[#fn3][3]]}\\
+\\
+
+<<v6>>
+6 Darum soll mein Volk an jenem Tag meinen Namen erkennen /\\
+ und wissen, dass ich es bin, der sagt: Ich bin da.\\
+\\
+
+<<v7>>
+7 Wie willkommen sind auf den Bergen /\\
+ die Schritte des Freudenboten, der Frieden ankündigt, /\\
+ der eine frohe Botschaft bringt und Rettung verheißt, /\\
+ der zu Zion sagt: Dein Gott ist König.\\
+\\
+
+<<v8>>
+8 Horch, deine Wächter erheben die Stimme, /\\
+ sie beginnen alle zu jubeln. Denn sie sehen mit eigenen Augen, /\\
+ wie der Herr nach Zion zurückkehrt. ^{[[#fn4][4]]}\\
+\\
+
+<<v9>>
+9 Brecht in Jubel aus, jauchzt alle zusammen, /\\
+ ihr Trümmer Jerusalems! Denn der Herr tröstet sein Volk, /\\
+ er erlöst Jerusalem.\\
+\\
+
+<<v10>>
+10 Der Herr macht seinen heiligen Arm frei /\\
+ vor den Augen aller Völker. Alle Enden der Erde /\\
+ sehen das Heil unseres Gottes. ^{[[#fn5][5]][[#fn6][6]]}\\
+\\
+
+<<v11>>
+11 Fort, fort! Zieht von dort weg! /\\
+ Fasst nichts Unreines an! Zieht von dort weg! /\\
+ Haltet euch rein; /\\
+ denn ihr tragt die Geräte des Herrn. ^{[[#fn7][7]][[#fn8][8]]}\\
+\\
+
+<<v12>>
+12 Doch zieht nicht weg in Hast, /\\
+ geht nicht fort in Eile; denn der Herr geht vor euch her /\\
+ und er, Israels Gott, beschließt auch euren Zug. ^{[[#fn9][9]]}\\
+\\
+
+<<v13>>
+** Das vierte Lied vom Gottesknecht: 52,13 - 53,12
+   :PROPERTIES:
+   :CUSTOM_ID: das-vierte-lied-vom-gottesknecht-5213---5312
+   :END:
+13 Seht, mein Knecht hat Erfolg, /\\
+ er wird groß sein und hoch erhaben. ^{[[#fn10][10]]}\\
+\\
+
+<<v14>>
+14 Viele haben sich über ihn entsetzt, /\\
+ so entstellt sah er aus, nicht mehr wie ein Mensch, /\\
+ seine Gestalt war nicht mehr die eines Menschen. ^{[[#fn11][11]]}\\
+\\
+
+<<v15>>
+15 Jetzt aber setzt er viele Völker in Staunen, /\\
+ Könige müssen vor ihm verstummen. Denn was man ihnen noch nie erzählt
+hat, /\\
+ das sehen sie nun; was sie niemals hörten, /\\
+ das erfahren sie jetzt. ^{[[#fn12][12]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 51,9; Offb 21,27
+
+^{[[#fnm2][2]]} ℘ 45,13; 1 Petr 1,18
+
+^{[[#fnm3][3]]} ℘ Röm 2,24
+
+^{[[#fnm4][4]]} ℘ Num 14,14
+
+^{[[#fnm5][5]]} ℘ Ps 98,1-3
+
+^{[[#fnm6][6]]} Gott will eingreifen und für sein Volk kämpfen.
+
+^{[[#fnm7][7]]} ℘ 48,20; 2 Kor 6,17
+
+^{[[#fnm8][8]]} Befehl zum Auszug aus Babel, der wie in einer Prozession
+erfolgen soll.
+
+^{[[#fnm9][9]]} ℘ Ex 12,11; Dtn 16,3; Jes 58,8
+
+^{[[#fnm10][10]]} 13-53,12: Zusammengesetzt aus Gottesworten (52,13-15;
+53,11d.12), einem Bericht über das Leiden des «Knechts» (53,1-9) und der
+Ankündigung der Erhöhung des «Knechts» (53,10.11a-c). Im Einzelnen ist
+der hebräische Text gelegentlich unklar.
+
+^{[[#fnm11][11]]} ℘ Weish 5,2
+
+^{[[#fnm12][12]]} ℘ Röm 15,21

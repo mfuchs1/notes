@@ -1,0 +1,85 @@
+#+TITLE: Ps 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-05 Di 17:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 20.html
+
+* Ps 20
+
+<<verses>>
+
+<<v1>>
+* Bitte für den König
+
+1 [Für den Chormeister. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Der Herr erhöre dich am Tag der Not, /\\
+ der Name von Jakobs Gott möge dich schützen. [fn:1]\\
+\\
+
+<<v3>>
+3 Er sende dir Hilfe vom Heiligtum /\\
+ und stehe dir bei vom Zion her.\\
+\\
+
+<<v4>>
+4 An all deine Speiseopfer denke er, /\\
+ nehme dein Brandopfer gnädig an. [Sela] [fn:2]\\
+\\
+
+<<v5>>
+5 Er schenke dir, was dein Herz begehrt, /\\
+ und lasse all deine Pläne gelingen. [fn:3]\\
+\\
+
+<<v6>>
+6 Dann wollen wir jubeln über deinen Sieg, /\\
+ im Namen unsres Gottes das Banner erheben. /\\
+ All deine Bitten erfülle der Herr.\\
+\\
+
+<<v7>>
+7 Nun bin ich gewiss: /\\
+ der Herr schenkt seinem Gesalbten den Sieg; er erhört ihn von seinem
+heiligen Himmel her /\\
+ und hilft ihm mit der Macht seiner Rechten. [fn:4]\\
+\\
+
+<<v8>>
+8 Die einen sind stark durch Wagen, die andern durch Rosse, /\\
+ wir aber sind stark im Namen des Herrn, unsres Gottes. [fn:5]\\
+\\
+
+<<v9>>
+9 Sie sind gestürzt und gefallen; /\\
+ wir bleiben aufrecht und stehen.\\
+\\
+
+<<v10>>
+10 Herr, verleihe dem König den Sieg! /\\
+ Erhör uns am Tag, da wir rufen! [fn:6]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Spr_18.org::v10][Spr 18,10]]
+
+[fn:2] Wörtlich: er erkläre dein Brandopfer für fett.
+
+[fn:3] [[file:Ps_21.org::v3][21,3]]; [[file:Ps_37.org::v4][37,4]]
+
+[fn:4] [[file:Ps_18.org::v51][18,51]]
+
+[fn:5] [[file:Ps_33.org::v16][33,16f]]; [[file:Ps_147.org::v10][147,10f]]; [[file:Dtn_20.org::v1][Dtn 20,1]]; [[file:Jdt_9.org::v7][Jdt 9,7]]; [[file:Spr_21.org::v31][Spr 21,31]];
+[[file:Jes_31.org::v1][Jes 31,1]]; [[file:Hos_1.org::v7][Hos 1,7]]
+
+[fn:6] Nach G; H: Herr, gib den Sieg! Der König wird uns
+antworten am Tag, da wir ihn rufen.

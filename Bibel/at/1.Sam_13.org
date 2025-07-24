@@ -1,0 +1,161 @@
+#+TITLE: 1 Sam 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 14:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 13.html
+
+<<verses>>
+
+<<v1>>
+* Die Herrschaft Sauls: 13,1-22
+
+1 Saul war . . . Jahre alt, als er König wurde, und er regierte
+zwei . . . Jahre über Israel. [fn:1]
+
+<<v2>>
+2 Saul wählte sich dreitausend Mann aus Israel aus; zweitausend davon
+waren bei Saul in Michmas und auf dem Berg von Bet-El und tausend waren
+bei Jonatan in Gibea-Benjamin. Den Rest des Volkes entließ er, jeden zu
+seinem Zelt. [fn:2]
+
+<<v3>>
+3 Jonatan erschlug den Vogt der Philister, der in Geba saß; die
+Philister hörten davon. Saul aber ließ im ganzen Land das Widderhorn
+blasen und ausrufen: Die Hebräer sollen es hören. [fn:3]
+
+<<v4>>
+4 Und ganz Israel hörte die Kunde: Saul hat den Vogt der Philister
+erschlagen und dadurch hat sich Israel bei den Philistern verhasst
+gemacht. Das Volk wurde aufgeboten, Saul nach Gilgal zu folgen.
+
+<<v5>>
+5 Die Philister versammelten sich zum Kampf gegen Israel; sie hatten
+dreitausend Wagen und sechstausend Wagenkämpfer und ein Heer so
+zahlreich wie der Sand am Ufer des Meeres. Sie zogen herauf und schlugen
+bei Michmas, östlich von Bet-Awen, ihr Lager auf. [fn:4]
+
+<<v6>>
+6 Als die Israeliten sahen, dass sie in Gefahr gerieten und dass das
+Volk bedrängt wurde, versteckten sie sich in Höhlen, Schlupflöchern,
+Felsspalten, Gruben und Zisternen.
+
+<<v7>>
+7 Viele gingen über den Jordan in das Land Gad und Gilead. Saul war noch
+in Gilgal und das ganze Volk, das ihm gefolgt war, hatte große Angst. [fn:5]
+
+<<v8>>
+8 Er wartete in Gilgal sieben Tage auf Samuel, wie vereinbart, aber
+Samuel kam nicht. Als ihm nun das Volk davonlief, [fn:6]
+
+<<v9>>
+9 sagte Saul: Bringt das Brandopfer und die Heilsopfer zu mir her! Und
+er brachte das Opfer dar.
+
+<<v10>>
+10 Gerade als er mit der Darbringung des Opfers fertig war, kam Samuel.
+Saul ging ihm entgegen, um ihn zu begrüßen.
+
+<<v11>>
+11 Samuel aber fragte: Was hast du getan? Saul antwortete: Weil ich sah,
+dass mir das Volk davonlief und du nicht zu dem vereinbarten Zeitpunkt
+gekommen bist und die Philister sich bei Michmas versammelt haben,
+
+<<v12>>
+12 dachte ich: Jetzt werden die Philister gegen mich nach Gilgal
+herabziehen, noch ehe ich den Herrn gnädig gestimmt habe. Darum habe ich
+es gewagt, das Brandopfer darzubringen.
+
+<<v13>>
+13 Samuel erwiderte Saul: Du hast töricht gehandelt: Hättest du den
+Befehl befolgt, den dir der Herr, dein Gott, gegeben hat, dann hätte er
+jetzt deine Herrschaft über Israel für immer gefestigt. [fn:7]
+
+<<v14>>
+14 Nun aber wird deine Herrschaft keinen Bestand haben. Der Herr hat
+sich einen Mann nach seinem Herzen gesucht und ihn zum Fürsten seines
+Volkes gemacht. Denn du hast nicht befolgt, was der Herr dir befohlen
+hat. [fn:8]
+
+<<v15>>
+15 Danach brach Samuel auf und ging von Gilgal nach Gibea-Benjamin
+hinauf. Saul musterte das Volk, das noch bei ihm war; es waren etwa
+sechshundert Mann.
+
+<<v16>>
+16 Saul, sein Sohn Jonatan und die Leute, die noch bei ihnen waren,
+standen bei Geba-Benjamin, während die Philister ihr Lager bei Michmas
+hatten.
+
+<<v17>>
+17 Da zogen aus dem Lager der Philister drei Abteilungen aus, um zu
+plündern. Eine Abteilung wandte sich in Richtung Ofra im Gebiet von
+Schual; [fn:9]
+
+<<v18>>
+18 die zweite Abteilung zog in Richtung Bet-Horon, und die dritte
+Abteilung wandte sich in Richtung auf den Hügel, der über das Hyänental
+weg in die Wüste hinüberschaut. [fn:10]
+
+<<v19>>
+19 Damals war im ganzen Land kein Schmied zu finden. Denn die Philister
+hatten sich gesagt: Die Hebräer sollen sich keine Schwerter und Lanzen
+machen können. [fn:11]
+
+<<v20>>
+20 Alle Israeliten mussten zu den Philistern hinabgehen, wenn jemand
+sich eine Pflugschar, eine Hacke, eine Axt oder eine Sichel schmieden
+lassen wollte.
+
+<<v21>>
+21 Der Preis für das Schärfen der Pflugscharen, der Hacken, des
+Dreizacks und der Äxte und das Einsetzen des Ochsenstachels betrug ein
+Pim. [fn:12]
+
+<<v22>>
+22 Als es nun zum Krieg kam, fand sich im ganzen Volk, das bei Saul und
+Jonatan war, weder ein Schwert noch ein Speer. Nur Saul und sein Sohn
+Jonatan hatten (solche Waffen).\\
+\\
+
+<<v23>>
+* Jonatans Heldentat: 13,23 - 14,15
+
+23 Ein Posten der Philister rückte gegen den Pass von Michmas vor.
+
+* Footnotes
+
+[fn:1] Die Zahlen sind nicht überliefert.
+
+[fn:2] Michmas: nordöstlich von Jerusalem.
+
+[fn:3] Geba: nordöstlich von Jerusalem.
+
+[fn:4] dreitausend: Text korr., vgl. G und S; H: dreißigtausend. -
+Zu Bet-Awen vgl. Jos 7,2 und Hos 4,15 und die dortigen Anmerkungen.
+
+[fn:5] Viele: Text korr.; H: Hebräer.
+
+[fn:6] [[file:1.Sam_10.org::v8][10,8]]
+
+[fn:7] [[file:1.Sam_10.org::v8][10,8]]
+
+[fn:8] [[file:1.Sam_16.org::v1][16,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v22][Apg 13,22]]
+
+[fn:9] Ofra: nordöstlich von Jerusalem.
+
+[fn:10] den Hügel: Text korr., vgl. G; H: das Gebiet. -
+Bet-Horon: westlich von Michmas (vgl. die Anmerkung zu V. 2). - Das
+Hyänental verläuft wohl in Richtung Jericho.
+
+[fn:11] [[file:Ri_5.org::v8][Ri 5,8]]
+
+[fn:12] ein Pim: eine Gewichtseinheit, zwei Drittel eines
+Schekels. Der Vers ist verderbt und unklar. Die hebräischen
+Bezeichnungen für die eisernen Geräte werden wie die in V. 20
+verschieden gedeutet.

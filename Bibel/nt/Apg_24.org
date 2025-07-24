@@ -1,0 +1,184 @@
+:PROPERTIES:
+:ID:       f739c6e2-b309-4378-88a5-3d0f6ea74f0b
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Apostelgeschichte* --
+[[file:Apg_1.html][1]] ... [[file:Apg_22.html][22]]
+[[file:Apg_23.html][23]] *24* [[file:Apg_25.html][25]]
+[[file:Apg_26.html][26]] ... [[file:Apg_28.html][28]]
+
+--------------
+
+* Apg 24
+  :PROPERTIES:
+  :CUSTOM_ID: apg-24
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Paulus vor dem römischen Statthalter Felix: 24,1-27
+     :PROPERTIES:
+     :CUSTOM_ID: paulus-vor-dem-römischen-statthalter-felix-241-27
+     :END:
+1 Nach fünf Tagen kam der Hohepriester Hananias mit einigen Ältesten und
+dem Anwalt Tertullus herab und sie brachten beim Statthalter ihre Klage
+gegen Paulus vor.
+
+<<v2>>
+2 Er wurde herbeigeholt und Tertullus erhob Anklage mit folgenden
+Worten: Tiefen Frieden genießen wir durch dich, und durch deine Umsicht
+hat sich für dieses Volk vieles gebessert.
+
+<<v3>>
+3 Das erkennen wir immer und überall mit großer Dankbarkeit an,
+erlauchter Felix.
+
+<<v4>>
+4 Um dich aber nicht länger bemühen zu müssen, bitte ich dich, uns in
+deiner Milde kurz anzuhören.
+
+<<v5>>
+5 Wir finden nämlich, dieser Mann ist eine Pest, ein Unruhestifter bei
+allen Juden in der Welt und ein Rädelsführer der Nazoräersekte.
+^{[[#fn1][1]]}
+
+<<v6>>
+6 Er hat sogar versucht, den Tempel zu entweihen. Wir haben ihn
+festgenommen
+
+<<v6b>>
+6b [] ^{[[#fn2][2]]}
+
+<<v7>>
+7 [] ^{[[#fn3][3]]}
+
+<<v8a>>
+8a [] ^{[[#fn4][4]]}
+
+<<v8b>>
+8b Wenn du ihn verhörst, wirst du selbst alles ermitteln können, wessen
+wir ihn anklagen.
+
+<<v9>>
+9 Und die Juden unterstützten ihn, indem sie behaupteten, so sei es.
+
+<<v10>>
+10 Auf einen Wink des Statthalters erwiderte Paulus: Da ich dich seit
+vielen Jahren als Richter für dieses Volk kenne, verteidige ich meine
+Sache voll Zuversicht.
+
+<<v11>>
+11 Wie du feststellen kannst, sind erst zwölf Tage vergangen, seit ich
+nach Jerusalem hinaufgezogen bin, um Gott anzubeten. ^{[[#fn5][5]]}
+
+<<v12>>
+12 Sie haben mich weder im Tempel noch in den Synagogen noch anderswo in
+der Stadt dabei angetroffen, dass ich ein Streitgespräch mit jemand
+geführt oder einen Aufruhr im Volk erregt hätte.
+
+<<v13>>
+13 Sie können dir auch nichts von dem beweisen, was sie mir jetzt
+vorwerfen.
+
+<<v14>>
+14 Das allerdings bekenne ich dir: Dem (neuen) Weg entsprechend, den sie
+eine Sekte nennen, diene ich dem Gott meiner Väter. Ich glaube an alles,
+was im Gesetz und in den Propheten steht, ^{[[#fn6][6]]}
+
+<<v15>>
+15 und ich habe dieselbe Hoffnung auf Gott, die auch diese hier haben:
+dass es eine Auferstehung der Gerechten und Ungerechten geben wird.
+^{[[#fn7][7]]}
+
+<<v16>>
+16 Deshalb bemühe auch ich mich, vor Gott und den Menschen immer ein
+reines Gewissen zu haben. ^{[[#fn8][8]]}
+
+<<v17>>
+17 Nach mehreren Jahren bin ich nun zu meinem Volk gekommen, um Spenden
+zu überbringen und zu opfern. ^{[[#fn9][9]]}
+
+<<v18>>
+18 Als ich mich zu diesem Zweck im Tempel hatte weihen lassen, trafen
+mich - nicht mit einer Volksmenge und nicht bei einem Tumult -
+^{[[#fn10][10]]}
+
+<<v19>>
+19 einige Juden aus der Provinz Asien; sie müssten vor dir erscheinen
+und Anklage erheben, wenn sie etwas gegen mich vorzubringen haben.
+
+<<v20>>
+20 Oder diese hier sollen doch selbst sagen, was für ein Vergehen sie
+herausgefunden haben, als ich vor dem Hohen Rat stand,
+
+<<v21>>
+21 es sei denn der eine Satz, den ich in ihrer Mitte ausgerufen habe:
+Wegen der Auferstehung der Toten stehe ich heute vor eurem Gericht.
+^{[[#fn11][11]]}
+
+<<v22>>
+22 Felix, der den (neuen) Weg genau kannte, vertagte den Fall mit den
+Worten: Sobald der Oberst Lysias herabkommt, werde ich eure Sache
+entscheiden. ^{[[#fn12][12]]}
+
+<<v23>>
+23 Den Hauptmann wies er an, Paulus weiter in Gewahrsam zu halten,
+jedoch in leichter Haft, und niemand von den Seinen daran zu hindern,
+für ihn zu sorgen. ^{[[#fn13][13]]}
+
+<<v24>>
+24 Einige Tage darauf erschien Felix mit seiner Gemahlin Drusilla, einer
+Jüdin, ließ Paulus rufen und hörte an, was er ihm über den Glauben an
+Christus Jesus berichtete.
+
+<<v25>>
+25 Als aber die Rede auf Gerechtigkeit, Enthaltsamkeit und das
+bevorstehende Gericht kam, erschrak Felix und unterbrach ihn: Für jetzt
+kannst du gehen; wenn ich Zeit finde, werde ich dich wieder rufen.
+
+<<v26>>
+26 Dabei hoffte er, von Paulus Geld zu erhalten. Deshalb ließ er ihn
+auch häufig kommen und unterhielt sich mit ihm.
+
+<<v27>>
+27 Nach zwei Jahren aber wurde Porzius Festus Nachfolger des Felix; und
+weil Felix den Juden einen Gefallen erweisen wollte, ließ er Paulus in
+der Haft zurück. ^{[[#fn14][14]][[#fn15][15]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 17,6
+
+^{[[#fnm2][2]]} Einige Textzeugen fügen ein: . . . und nach unserem
+Gesetz richten wollen.
+
+^{[[#fnm3][3]]} Einige Textzeugen fügen ein: . . . Aber der Oberst
+Lysias kam herzu und entriss ihn mit Gewalt unseren Händen und befahl,
+dass seine Ankläger zu dir kommen sollen.
+
+^{[[#fnm4][4]]} Einige Textzeugen fügen ein: . . . und befahl, dass
+seine Ankläger zu dir kommen sollen.
+
+^{[[#fnm5][5]]} ℘ 21,17
+
+^{[[#fnm6][6]]} ℘ 9,2
+
+^{[[#fnm7][7]]} ℘ Dan 12,2; 2 Makk 7,9; Joh 5,28f
+
+^{[[#fnm8][8]]} ℘ 23,1
+
+^{[[#fnm9][9]]} ℘ Röm 15,25f; Gal 2,10
+
+^{[[#fnm10][10]]} ℘ 21,27
+
+^{[[#fnm11][11]]} ℘ 23,6
+
+^{[[#fnm12][12]]} ℘ 23,26
+
+^{[[#fnm13][13]]} ℘ 27,3
+
+^{[[#fnm14][14]]} ℘ 25,9
+
+^{[[#fnm15][15]]} Porzius Festus war von etwa 58 n. Chr. an Statthalter
+von Judäa.

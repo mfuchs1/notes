@@ -1,0 +1,139 @@
+#+TITLE: Spr 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-21 Mi 14:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 2.html
+
+* Spr 2
+
+<<verses>>
+
+<<v1>>
+1 Mein Sohn, wenn du meine Worte annimmst /\\
+ und meine Gebote beherzigst,\\
+\\
+
+<<v2>>
+2 der Weisheit Gehör schenkst, /\\
+ dein Herz der Einsicht zuneigst,\\
+\\
+
+<<v3>>
+3 wenn du nach Erkenntnis rufst, /\\
+ mit lauter Stimme um Einsicht bittest,\\
+\\
+
+<<v4>>
+4 wenn du sie suchst wie Silber, /\\
+ nach ihr forschst wie nach Schätzen,\\
+\\
+
+<<v5>>
+5 dann wirst du die Gottesfurcht begreifen /\\
+ und Gotteserkenntnis finden.\\
+\\
+
+<<v6>>
+6 Denn der Herr gibt Weisheit, /\\
+ aus seinem Mund kommen Erkenntnis und Einsicht.\\
+\\
+
+<<v7>>
+7 Für die Redlichen hält er Hilfe bereit, /\\
+ den Rechtschaffenen ist er ein Schild. [fn:1]\\
+\\
+
+<<v8>>
+8 Er hütet die Pfade des Rechts /\\
+ und bewacht den Weg seiner Frommen.\\
+\\
+
+<<v9>>
+9 Dann begreifst du, was Recht und Gerechtigkeit ist, /\\
+ Redlichkeit und jedes gute Verhalten;\\
+\\
+
+<<v10>>
+10 denn Weisheit zieht ein in dein Herz, /\\
+ Erkenntnis beglückt deine Seele.\\
+\\
+
+<<v11>>
+11 Besonnenheit wacht über dir /\\
+ und Einsicht behütet dich.\\
+\\
+
+<<v12>>
+12 Sie bewahrt dich vor dem Weg des Bösen, /\\
+ vor Leuten, die Verkehrtes reden,\\
+\\
+
+<<v13>>
+13 die den rechten Weg verlassen, /\\
+ um auf dunklen Pfaden zu gehen,\\
+\\
+
+<<v14>>
+14 die sich freuen am bösen Tun /\\
+ und jubeln über die Verkehrtheit des Schlechten,\\
+\\
+
+<<v15>>
+15 deren Pfade krumm verlaufen /\\
+ und deren Straßen in die Irre führen.\\
+\\
+
+<<v16>>
+16 Sie bewahrt dich vor der Frau des andern, /\\
+ vor der Fremden, die verführerisch redet, [fn:2]\\
+\\
+
+<<v17>>
+17 die den Gefährten ihrer Jugend verlässt /\\
+ und den Bund ihres Gottes vergisst; [fn:3]\\
+\\
+
+<<v18>>
+18 ihr Haus sinkt hinunter zur Totenwelt, /\\
+ ihre Straße führt zu den Totengeistern hinab. [fn:4]\\
+\\
+
+<<v19>>
+19 Wer zu ihr geht, kehrt nie zurück, /\\
+ findet nie wieder die Pfade des Lebens.\\
+\\
+
+<<v20>>
+20 Darum geh auf dem Weg der Guten, /\\
+ halte dich an die Pfade der Gerechten;\\
+\\
+
+<<v21>>
+21 denn die Redlichen werden das Land bewohnen, /\\
+ wer rechtschaffen ist, wird darin bleiben. [fn:5]\\
+\\
+
+<<v22>>
+22 Die Frevler aber werden aus dem Land verstoßen, /\\
+ die Verräter aus ihm weggerissen.
+
+* Footnotes
+
+[fn:1] [[file:Ps_3.org::v4][Ps 3,4]]
+
+[fn:2] [[file:Spr_6.org::v24][6,24-35]]; [[file:Spr_7.org::v5][7,5]]
+
+[fn:3] Im AT ist die Ehe ein Bund vor Gott (vgl. [[file:Mal_2.org::v14][Mal 2,14]]); sie
+ist auch Symbol für den Bund Gottes mit dem Volk (vgl. [[file:Hos_2.org][Hos 2]]; [[file:Jer_2.org::v2][Jer 2,2]];
+[[file:Jer_3.org::v1][3,1-13]]).
+
+[fn:4] [[file:Spr_5.org::v5][5,5]]
+
+[fn:5] [[file:Ps_37.org::v11][Ps 37,11]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v5][Mt 5,5]]

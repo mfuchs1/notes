@@ -1,0 +1,212 @@
+:PROPERTIES:
+:ID:       e553dd22-ac28-43be-a8c7-1a949cc8ed85
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jeremia* -- *1* [[file:Jer_2.html][2]]
+[[file:Jer_3.html][3]] ... [[file:Jer_52.html][52]]
+
+--------------
+
+* Jer 1
+  :PROPERTIES:
+  :CUSTOM_ID: jer-1
+  :END:
+
+Das Buch Jeremia hat eine klare Gliederung, die sich jedoch in der
+griechischen Bibel von der der hebräischen stark unterscheidet. Der
+hebräische Text hat folgende Anordnung: Prophetenworte gegen Juda und
+Jerusalem von der Zeit Joschijas bis Zidkija (1,1 - 25,14); vorwiegend
+Prosatexte über den Propheten und sein Wirken (Kap. 26 45); hier kann
+man wieder Prosareden über Israel und Juda, zumeist drohenden Inhalts
+(Kap. 26 - 29), Heilsworte (Kap. 32 - 35) und Berichte Baruchs über
+Jeremia (Kap. 36 - 45) unterscheiden; eingeschoben sind die sog.
+Trostschrift (Kap. 30f), Drohreden gegen fremde Völker (Kap. 46 - 51;
+die Einleitung dazu steht bereits in 25,15-38) und ein geschichtlicher
+Anhang, der weitgehend mit 2 Kön 24,18 - 25,21 übereinstimmt (Kap. 52).
+Der griechische Text bringt die Drohreden gegen die fremden Völker in
+anderer Reihenfolge nach Kap. 25 und ordnet erst danach die
+Prosaberichte ein, die jetzt Kap. 52 nicht mehr als Anhang erkennen
+lassen. Der griechische Text ist etwa um ein Achtel kürzer als der
+hebräische, da einzelne Verse oder Versteile, aber auch einige längere
+Abschnitte fehlen.\\
+\\
+Der Prophet selbst hat im Jahr 605 v. Chr. seinem Sekretär und Jünger
+Baruch eine erste Sammlung von »Worten über Jerusalem und Juda und alle
+Völker von den Tagen Joschijas an bis heute« (36,2) diktiert. Baruch hat
+die Buchrolle im Tempelhof vorgelesen; sie wurde beschlagnahmt und von
+König Jojakim verbrannt. Darauf diktierte der Prophet den Inhalt der
+Rolle noch einmal seinem Sekretär und dieser Niederschrift »wurden noch
+viele ähnliche Worte hinzugefügt« (36,32). Demnach hat Jeremia selbst
+eine erste Sammlung seiner Verkündigung vorgenommen, die später, teils
+vielleicht von ihm selbst, teils von Baruch und vielleicht von noch
+späteren Bearbeitern, ergänzt wurde. Als nachexilische Erweiterungen
+gelten heute allgemein 10,1-16; 17,19-27; 32,29-35.37-41; 33 sowie die
+meisten Drohreden gegen fremde Völker (Kap. 46 - 51) und der Anhang
+(Kap. 52). Ob die sogenannte Trostschrift (Kap. 30f) von Jeremia selbst
+stammt, ist umstritten; sie dürfte aber einen echten Kern haben.\\
+\\
+Jeremia ist der Prophet, über dessen Leben und Gotteserfahrung wir am
+besten unterrichtet sind. Das verdanken wir seinen von
+leidenschaftlichem Mitgefühl mit seinem Volk geprägten Klagen, seinen
+»Konfessionen« (Bekenntnissen: 11,18-23; 12,1-6; 15,10-21; 16,1-9;
+17,12-18; 18,18-23; 20,7-18; 23,9-19) und den Aufzeichnungen Baruchs.
+Jeremia stammt aus einer Priesterfamilie in Anatot unweit von Jerusalem.
+Seine Berufung erfährt er als junger Mann um 628 v. Chr. unter König
+Joschija (641-609). Zunächst wendet er sich gegen die aus der Zeit des
+ruchlosen Königs Manasse noch nachwirkenden religiösen und sittlichen
+Missstände. Als Joschija sich um 622 v. Chr. von dem zerbrechenden
+Assyrerreich unabhängig macht und eine tief greifende Reform des
+Jahweglaubens durchführt, schweigt Jeremia. Joschija fällt 609 v. Chr.
+in der Schlacht gegen die Ägypter bei Megiddo. Als unter seinem
+Nachfolger Jojakim (609-597) die Reform teilweise rückgängig gemacht
+wird und wieder heidnische Sitten eindringen, kämpft der Prophet
+leidenschaftlich dagegen an; er überwirft sich mit dem König und wird
+von ihm verfolgt. In tiefer Enttäuschung über den Misserfolg seiner
+Verkündigung, über die Verfolgung durch Jojakim und über die
+Nachstellungen durch seine eigenen Verwandten und Landsleute ist er der
+Verzweiflung nahe und wird an Gott fast irre. Aus dieser qualvollen Not
+entstehen die »Konfessionen«. Von der Verschleppung Jojachins und eines
+Teils der Einwohner Jerusalems durch Nebukadnezzar 597 v. Chr. bleibt er
+verschont. In Briefen warnt und tröstet er die nach Babylonien
+verschleppten Landsleute und versucht Zidkija (597-586) vergeblich von
+einer antibabylonischen Politik abzuhalten. Während der Belagerung
+Jerusalems 587/86 v. Chr. wird der Prophet des Verrates verdächtigt,
+verhaftet und im Wachhof des Königspalastes gefangen gehalten. Selbst
+dort schweigt er nicht. Nach dem Fall der Stadt 586 v. Chr. wird er von
+der Verschleppung ausgenommen. Nun versucht er sein Volk zu trösten. Als
+aber gegen seinen Rat die Zurückgebliebenen nach der Ermordung des
+Statthalters Gedalja (vgl. 40,7 - 41,15) nach Ägypten fliehen, zwingt
+man ihn und Baruch mitzugehen. In Ägypten stirbt der Prophet. Seine
+Botschaft aber wirkt weiter, nicht zuletzt durch die Verheißung des
+»neuen Bundes« (31,31-34).\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Die Gerichtsworte über Jerusalem und Juda: 1,1 - 25,14
+   :PROPERTIES:
+   :CUSTOM_ID: die-gerichtsworte-über-jerusalem-und-juda-11---2514
+   :END:
+**** Überschrift: 1,1-3
+     :PROPERTIES:
+     :CUSTOM_ID: überschrift-11-3
+     :END:
+1 Die Worte Jeremias, des Sohnes Hilkijas, aus der Priesterschaft zu
+Anatot im Land Benjamin. ^{[[#fn1][1]]}
+
+<<v2>>
+2 An ihn erging das Wort des Herrn zur Zeit des Königs Joschija von
+Juda, des Sohnes Amons, im dreizehnten Jahr seiner Regierung,
+
+<<v3>>
+3 ebenso zur Zeit des Königs Jojakim von Juda, des Sohnes Joschijas, bis
+das elfte Jahr des Königs Zidkija von Juda, des Sohnes Joschijas, zu
+Ende ging, als im fünften Monat Jerusalem in die Verbannung ziehen
+musste.\\
+\\
+
+<<v4>>
+**** Die Berufung Jeremias zum Propheten: 1,4-10
+     :PROPERTIES:
+     :CUSTOM_ID: die-berufung-jeremias-zum-propheten-14-10
+     :END:
+4 Das Wort des Herrn erging an mich:
+
+<<v5>>
+5 Noch ehe ich dich im Mutterleib formte, habe ich dich ausersehen, noch
+ehe du aus dem Mutterschoß hervorkamst, habe ich dich geheiligt, zum
+Propheten für die Völker habe ich dich bestimmt. ^{[[#fn2][2]]}
+
+<<v6>>
+6 Da sagte ich: Ach, mein Gott und Herr, ich kann doch nicht reden, ich
+bin ja noch so jung.
+
+<<v7>>
+7 Aber der Herr erwiderte mir: Sag nicht: Ich bin noch so jung. Wohin
+ich dich auch sende, dahin sollst du gehen, und was ich dir auftrage,
+das sollst du verkünden.
+
+<<v8>>
+8 Fürchte dich nicht vor ihnen; denn ich bin mit dir, um dich zu
+retten - Spruch des Herrn. ^{[[#fn3][3]]}
+
+<<v9>>
+9 Dann streckte der Herr seine Hand aus, berührte meinen Mund und sagte
+zu mir: Hiermit lege ich meine Worte in deinen Mund.
+
+<<v10>>
+10 Sieh her! Am heutigen Tag setze ich dich über Völker und Reiche; du
+sollst ausreißen und niederreißen, vernichten und einreißen, aufbauen
+und einpflanzen. ^{[[#fn4][4]]}\\
+\\
+
+<<v11>>
+**** Zwei Visionen: 1,11-19
+     :PROPERTIES:
+     :CUSTOM_ID: zwei-visionen-111-19
+     :END:
+11 Das Wort des Herrn erging an mich: Was siehst du, Jeremia? Ich
+antwortete: Einen Mandelzweig sehe ich.
+
+<<v12>>
+12 Da sprach der Herr zu mir: Du hast richtig gesehen; denn ich wache
+über mein Wort und führe es aus. ^{[[#fn5][5]]}
+
+<<v13>>
+13 Abermals erging an mich das Wort des Herrn: Was siehst du? Ich
+antwortete: Einen dampfenden Kessel sehe ich; sein Rand neigt sich von
+Norden her.
+
+<<v14>>
+14 Da sprach der Herr zu mir: Von Norden her ergießt sich das Unheil
+über alle Bewohner des Landes. ^{[[#fn6][6]]}
+
+<<v15>>
+15 Ja, ich rufe alle Stämme der Nordreiche - Spruch des Herrn -, damit
+sie kommen und ihre Richterstühle an den Toreingängen Jerusalems
+aufstellen, gegen all seine Mauern ringsum und gegen alle Städte von
+Juda.
+
+<<v16>>
+16 Dann werde ich mein Urteil über sie sprechen und sie strafen für
+alles Böse, das sie getan haben, weil sie mich verlassen, anderen
+Göttern geopfert und das Werk ihrer eigenen Hände angebetet haben.
+
+<<v17>>
+17 Du aber gürte dich, tritt vor sie hin und verkünde ihnen alles, was
+ich dir auftrage. Erschrick nicht vor ihnen, sonst setze ich dich vor
+ihren Augen in Schrecken.
+
+<<v18>>
+18 Ich selbst mache dich heute zur befestigten Stadt, zur eisernen Säule
+und zur ehernen Mauer gegen das ganze Land, gegen die Könige, Beamten
+und Priester von Juda und gegen die Bürger des Landes. ^{[[#fn7][7]]}
+
+<<v19>>
+19 Mögen sie dich bekämpfen, sie werden dich nicht bezwingen; denn ich
+bin mit dir, um dich zu retten - Spruch des Herrn.\\
+\\
+
+^{[[#fnm1][1]]} 1-3: Joschija regiert 641-609 v. Chr., die Berufung
+Jeremias erfolgt somit etwa 628. Jojakim regiert 609-597 v. Chr.; dessen
+Sohn Jojachin wird 597 v. Chr. von Nebukadnezzar gefangen genommen.
+Zidkija regiert 597-586 v. Chr. Der «fünfte Monat» (V. 3) ist der
+Juli/August des Jahres 586.
+
+^{[[#fnm2][2]]} ℘ Jes 49,1; Gal 1,15
+
+^{[[#fnm3][3]]} ℘ 1,19; 30,11
+
+^{[[#fnm4][4]]} Der Prophet soll, je nach dem Verhalten des Volkes
+gegenüber seinem Gott, Unheil oder Heil ansagen und seine Worte werden
+so in Erfüllung gehen, als ob sie das Angekündigte selbst bewirkt
+hätten.
+
+^{[[#fnm5][5]]} Wortspiel mit den hebräischen Ausdrücken für Mandelbaum
+(schaked) und wachen (schakad).
+
+^{[[#fnm6][6]]} ℘ 4,6; 6,1.22; 10,22; 50,41
+
+^{[[#fnm7][7]]} ℘ 15,20

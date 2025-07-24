@@ -1,0 +1,206 @@
+:PROPERTIES:
+:ID:       8afa6cb6-e490-445e-9528-6783f5af7a8f
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Ezechiel* -- [[file:Ez_1.html][1]] ...
+[[file:Ez_15.html][15]] [[file:Ez_16.html][16]] *17*
+[[file:Ez_18.html][18]] [[file:Ez_19.html][19]] ...
+[[file:Ez_48.html][48]]
+
+--------------
+
+* Ez 17
+  :PROPERTIES:
+  :CUSTOM_ID: ez-17
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das Lied von der Untreue des Königs: 17,1-24
+     :PROPERTIES:
+     :CUSTOM_ID: das-lied-von-der-untreue-des-königs-171-24
+     :END:
+1 Das Wort des Herrn erging an mich:
+
+<<v2>>
+2 Menschensohn, trag dem Haus Israel ein Rätsel vor, erzähl ihm ein
+Gleichnis!\\
+\\
+
+<<v3>>
+3 Sag: So spricht Gott, der Herr: Ein mächtiger Adler mit gewaltigen
+Flügeln, /\\
+ mit weiten Schwingen, mit dichtem, buntem Gefieder kam zum Libanon /\\
+ und nahm den Wipfel der Zeder weg. ^{[[#fn1][1]]}\\
+\\
+
+<<v4>>
+4 Den obersten Zweig riss er ab. /\\
+ Ins Land der Krämer brachte er ihn, /\\
+ in die Stadt der Händler legte er ihn.\\
+\\
+
+<<v5>>
+5 Dann nahm er vom Samen des Landes /\\
+ und streute ihn auf ein Saatfeld. Er setzte ihn an reichlich strömendes
+Wasser, /\\
+ als Uferpflanze pflanzte er ihn\\
+\\
+
+<<v6>>
+6 und er wuchs heran /\\
+ und wurde zum üppigen Weinstock /\\
+ von niedrigem Wuchs. Er sollte seine Ranken dem Adler zuwenden, /\\
+ seine Wurzeln sollten in die Tiefe wachsen. Und er wurde zum Weinstock,
+/\\
+ bildete Triebe, entfaltete Zweige. ^{[[#fn2][2]]}\\
+\\
+
+<<v7>>
+7 Doch es kam noch ein anderer mächtiger Adler /\\
+ mit gewaltigen Flügeln und dichtem Gefieder. Da drehte jener Weinstock
+seine Wurzeln ihm zu, /\\
+ trieb ihm seine Ranken entgegen: Der Adler sollte ihn tränken, /\\
+ mehr als das Beet, in das der Weinstock gepflanzt war. ^{[[#fn3][3]]}\\
+\\
+
+<<v8>>
+8 Er war doch auf guten Boden gepflanzt, /\\
+ an reichlich fließendem Wasser, um Zweige zu treiben und Früchte zu
+tragen /\\
+ und ein herrlicher Weinstock zu werden.\\
+\\
+
+<<v9>>
+9 Sag: So spricht Gott, der Herr: /\\
+ Wird das gelingen? Wird der Adler nicht seine Wurzeln ausreißen /\\
+ und seine Früchte vernichten, /\\
+ sodass all seine grünenden Triebe verdorren? Man braucht keinen starken
+Arm und nicht viele Menschen, /\\
+ um ihn von den Wurzeln zu reißen.\\
+\\
+
+<<v10>>
+10 Wohl ist er gepflanzt, /\\
+ doch wird er gedeihen? Wird er nicht völlig verdorren, /\\
+ wenn der Ostwind ihn trifft? /\\
+ Auf dem Beet, wo er wuchs, wird er verdorren.\\
+\\
+
+<<v11>>
+11 Und das Wort des Herrn erging an mich:\\
+\\
+
+<<v12>>
+12 Sag doch dem widerspenstigen Volk: /\\
+ Merkt ihr denn nicht, was all das bedeutet? Sag ihnen: /\\
+ Seht, nach Jerusalem kam der König von Babel; er nahm ihren König und
+ihre Beamten gefangen /\\
+ und führte sie mit sich nach Babel.\\
+\\
+
+<<v13>>
+13 Und er nahm einen Mann aus königlichem Stamm /\\
+ und schloss mit ihm einen Bund und er ließ ihn schwören. /\\
+ Doch die Mächtigen des Landes nahm er gefangen,\\
+\\
+
+<<v14>>
+14 damit das Königreich klein blieb /\\
+ und keinen Aufstand begann, damit es den Bund auch hielt, /\\
+ sodass er Bestand haben konnte.\\
+\\
+
+<<v15>>
+15 Doch jener erhob sich gegen den König von Babel /\\
+ und schickte seine Boten ins Land der Ägypter, /\\
+ damit man ihm Pferde und viele Krieger entsandte. Aber wird es
+gelingen? /\\
+ Kommt er davon, wenn er das unternimmt? /\\
+ Wenn er den Bund bricht, kommt er dann noch davon?\\
+\\
+
+<<v16>>
+16 So wahr ich lebe - Spruch Gottes, des Herrn: In der Residenz des
+Königs, der ihn zum König gemacht hat, dessen Eid er missachtet und
+dessen Bund er gebrochen hat, in Babel wird er sterben.
+
+<<v17>>
+17 Denn der Pharao wird ihn nicht mit einer starken Streitmacht und mit
+einem großen Heer im Kampf unterstützen, sondern man wird einen Damm
+aufschütten, einen Belagerungswall bauen und viele Menschen umbringen.
+
+<<v18>>
+18 Er hat den Eid missachtet und den Bund gebrochen. Obwohl er sich mit
+Handschlag verpflichtet hatte, hat er all das getan. Er kommt nicht
+davon.\\
+\\
+
+<<v19>>
+19 Darum - so spricht Gott, der Herr: So wahr ich lebe - /\\
+ meinen Eid, den er missachtet, und meinen Bund, den er gebrochen hat,
+/\\
+ ich lasse sie auf ihn selbst zurückfallen.\\
+\\
+
+<<v20>>
+20 Ich werfe mein Netz über ihn, er gerät in mein Garn. /\\
+ Nach Babel führe ich ihn und gehe dort mit ihm ins Gericht, /\\
+ denn er hat mir die Treue gebrochen. ^{[[#fn4][4]]}\\
+\\
+
+<<v21>>
+21 Die tapfersten Krieger in all seinen Truppen /\\
+ fallen unter dem Schwert. Die Übriggebliebenen aber /\\
+ werden in alle Winde zerstreut. Dann werdet ihr erkennen, /\\
+ dass ich, der Herr, gesprochen habe. ^{[[#fn5][5]]}\\
+\\
+
+<<v22>>
+22 So spricht Gott, der Herr: Ich selbst nehme ein Stück /\\
+ vom hohen Wipfel der Zeder /\\
+ und pflanze es ein. Einen zarten Zweig aus den obersten Ästen breche
+ich ab, /\\
+ ich pflanze ihn auf einen hoch aufragenden Berg.
+^{[[#fn6][6]][[#fn7][7]]}\\
+\\
+
+<<v23>>
+23 Auf die Höhe von Israels Bergland pflanze ich ihn. /\\
+ Dort treibt er dann Zweige, /\\
+ er trägt Früchte und wird zur prächtigen Zeder. Allerlei Vögel wohnen
+darin; /\\
+ alles, was Flügel hat, wohnt im Schatten ihrer Zweige.\\
+\\
+
+<<v24>>
+24 Dann werden alle Bäume auf den Feldern erkennen, /\\
+ dass ich der Herr bin. Ich mache den hohen Baum niedrig, /\\
+ den niedrigen mache ich hoch. Ich lasse den grünenden Baum verdorren,
+/\\
+ den verdorrten erblühen. /\\
+ Ich, der Herr, habe gesprochen und ich führe es aus.\\
+\\
+
+^{[[#fnm1][1]]} 3f: In der bildhaften Rede bezeichnet der Adler den
+Großkönig Nebukadnezzar, die Zeder das davidische Königshaus, der
+Libanon Juda und Jerusalem. Die «Stadt der Händler» ist Babylon, der
+«oberste Zweig» der 597 v. Chr. deportierte König Jojachin.
+
+^{[[#fnm2][2]]} 6f: Der «Weinstock» ist König Zidkija, der «andere
+Adler» der Pharao Psammetich II.
+
+^{[[#fnm3][3]]} ein anderer: Text korr. nach G; H: einer. - das Beet:
+Einzahl nach G und anderen Textzeugen; ebenso V. 10.
+
+^{[[#fnm4][4]]} ℘ 32,3
+
+^{[[#fnm5][5]]} Die tapfersten Krieger: Text korr. nach S und der
+aramäischen Übersetzung; vgl. G; H: Seine Flüchtlinge.
+
+^{[[#fnm6][6]]} ℘ Jes 11,1; Ez 20,40; Dan 4,9; Mt 13,32
+
+^{[[#fnm7][7]]} 22-24: Das Heilswort spricht unter Verwendung der
+vorausgehenden Bilder von der Wiederherstellung durch Gott.

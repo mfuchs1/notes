@@ -1,0 +1,442 @@
+:PROPERTIES:
+:ID:       6e39b3f4-84c6-4bf2-814c-086ec4918ab4
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Lukas* --
+[[file:Lk_1.html][1]] ... [[file:Lk_10.html][10]]
+[[file:Lk_11.html][11]] *12* [[file:Lk_13.html][13]]
+[[file:Lk_14.html][14]] ... [[file:Lk_24.html][24]]
+
+--------------
+
+* Lk 12
+  :PROPERTIES:
+  :CUSTOM_ID: lk-12
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Warnung vor der Heuchelei der Pharisäer: 12,1-3
+     :PROPERTIES:
+     :CUSTOM_ID: warnung-vor-der-heuchelei-der-pharisäer-121-3
+     :END:
+1 Unterdessen strömten Tausende von Menschen zusammen, sodass es ein
+gefährliches Gedränge gab. Jesus wandte sich zuerst an seine Jünger und
+sagte: Hütet euch vor dem Sauerteig der Pharisäer, das heißt vor der
+Heuchelei. ^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 195\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Nichts ist verhüllt, was nicht enthüllt wird, und nichts ist
+verborgen, was nicht bekannt wird. ^{[[#fn2][2]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 196\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v3>>
+3 Deshalb wird man alles, was ihr im Dunkeln redet, am hellen Tag hören,
+und was ihr einander hinter verschlossenen Türen ins Ohr flüstert, das
+wird man auf den Dächern verkünden. ^{[[#fn3][3]]}\\
+\\
+
+<<v4>>
+**** Aufforderung zum furchtlosen Bekenntnis: 12,4-12
+     :PROPERTIES:
+     :CUSTOM_ID: aufforderung-zum-furchtlosen-bekenntnis-124-12
+     :END:
+4 Euch aber, meinen Freunden, sage ich: Fürchtet euch nicht vor denen,
+die den Leib töten, euch aber sonst nichts tun können. ^{[[#fn4][4]]}
+
+<<v5>>
+5 Ich will euch zeigen, wen ihr fürchten sollt: Fürchtet euch vor dem,
+der nicht nur töten kann, sondern die Macht hat, euch auch noch in die
+Hölle zu werfen. Ja, das sage ich euch: Ihn sollt ihr fürchten.
+
+<<v6>>
+6 Verkauft man nicht fünf Spatzen für ein paar Pfennig? Und doch
+vergisst Gott nicht einen von ihnen. ^{[[#fn5][5]]}
+
+<<v7>>
+7 Bei euch aber sind sogar die Haare auf dem Kopf alle gezählt. Fürchtet
+euch nicht! Ihr seid mehr wert als viele Spatzen.
+
+<<v8>>
+8 Ich sage euch: Wer sich vor den Menschen zu mir bekennt, zu dem wird
+sich auch der Menschensohn vor den Engeln Gottes bekennen.
+
+<<v9>>
+9 Wer mich aber vor den Menschen verleugnet, der wird auch vor den
+Engeln Gottes verleugnet werden. ^{[[#fn6][6]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 160\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v10>>
+10 Jedem, der etwas gegen den Menschensohn sagt, wird vergeben werden;
+wer aber den Heiligen Geist lästert, dem wird nicht vergeben.
+^{[[#fn7][7]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 197\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v11>>
+11 Wenn man euch vor die Gerichte der Synagogen und vor die Herrscher
+und Machthaber schleppt, dann macht euch keine Sorgen, wie ihr euch
+verteidigen oder was ihr sagen sollt. ^{[[#fn8][8]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 198\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v12>>
+12 Denn der Heilige Geist wird euch in der gleichen Stunde eingeben, was
+ihr sagen müsst.\\
+\\
+
+<<v13>>
+**** Das Beispiel von der falschen Selbstsicherheit des reichen Mannes:
+12,13-21
+     :PROPERTIES:
+     :CUSTOM_ID: das-beispiel-von-der-falschen-selbstsicherheit-des-reichen-mannes-1213-21
+     :END:
+13 Einer aus der Volksmenge bat Jesus: Meister, sag meinem Bruder, er
+soll das Erbe mit mir teilen. ^{[[#fn9][9]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 199\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v14>>
+14 Er erwiderte ihm: Mensch, wer hat mich zum Richter oder Schlichter
+bei euch gemacht? ^{[[#fn10][10]]}
+
+<<v15>>
+15 Dann sagte er zu den Leuten: Gebt Acht, hütet euch vor jeder Art von
+Habgier. Denn der Sinn des Lebens besteht nicht darin, dass ein Mensch
+aufgrund seines großen Vermögens im Überfluss lebt.
+
+<<v16>>
+16 Und er erzählte ihnen folgendes Beispiel: Auf den Feldern eines
+reichen Mannes stand eine gute Ernte. ^{[[#fn11][11]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 200\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v17>>
+17 Da überlegte er hin und her: Was soll ich tun? Ich weiß nicht, wo ich
+meine Ernte unterbringen soll.
+
+<<v18>>
+18 Schließlich sagte er: So will ich es machen: Ich werde meine Scheunen
+abreißen und größere bauen; dort werde ich mein ganzes Getreide und
+meine Vorräte unterbringen.
+
+<<v19>>
+19 Dann kann ich zu mir selber sagen: Nun hast du einen großen Vorrat,
+der für viele Jahre reicht. Ruh dich aus, iss und trink und freu dich
+des Lebens!
+
+<<v20>>
+20 Da sprach Gott zu ihm: Du Narr! Noch in dieser Nacht wird man dein
+Leben von dir zurückfordern. Wem wird dann all das gehören, was du
+angehäuft hast?
+
+<<v21>>
+21 So geht es jedem, der nur für sich selbst Schätze sammelt, aber vor
+Gott nicht reich ist.\\
+\\
+
+<<v22>>
+**** Von der falschen und der rechten Sorge: 12,22-32
+     :PROPERTIES:
+     :CUSTOM_ID: von-der-falschen-und-der-rechten-sorge-1222-32
+     :END:
+22 Und er sagte zu seinen Jüngern: Deswegen sage ich euch: Sorgt euch
+nicht um euer Leben und darum, dass ihr etwas zu essen habt, noch um
+euren Leib und darum, dass ihr etwas anzuziehen habt.
+^{[[#fn12][12]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 201\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v23>>
+23 Das Leben ist wichtiger als die Nahrung und der Leib wichtiger als
+die Kleidung.
+
+<<v24>>
+24 Seht auf die Raben: Sie säen nicht und ernten nicht, sie haben keinen
+Speicher und keine Scheune; denn Gott ernährt sie. Wie viel mehr seid
+ihr wert als die Vögel!
+
+<<v25>>
+25 Wer von euch kann mit all seiner Sorge sein Leben auch nur um eine
+kleine Zeitspanne verlängern? ^{[[#fn13][13]]}
+
+<<v26>>
+26 Wenn ihr nicht einmal etwas so Geringes könnt, warum macht ihr euch
+dann Sorgen um all das übrige?
+
+<<v27>>
+27 Seht euch die Lilien an: Sie arbeiten nicht und spinnen nicht. Doch
+ich sage euch: Selbst Salomo war in all seiner Pracht nicht gekleidet
+wie eine von ihnen.
+
+<<v28>>
+28 Wenn aber Gott schon das Gras so prächtig kleidet, das heute auf dem
+Feld steht und morgen ins Feuer geworfen wird, wie viel mehr dann euch,
+ihr Kleingläubigen!
+
+<<v29>>
+29 Darum fragt nicht, was ihr essen und was ihr trinken sollt, und
+ängstigt euch nicht!
+
+<<v30>>
+30 Denn um all das geht es den Heiden in der Welt. Euer Vater weiß, dass
+ihr das braucht.
+
+<<v31>>
+31 Euch jedoch muss es um sein Reich gehen; dann wird euch das andere
+dazugegeben.
+
+<<v32>>
+32 Fürchte dich nicht, du kleine Herde! Denn euer Vater hat beschlossen,
+euch das Reich zu geben.\\
+\\
+
+<<v33>>
+**** Vom wahren Schatz: 12,33-34
+     :PROPERTIES:
+     :CUSTOM_ID: vom-wahren-schatz-1233-34
+     :END:
+33 Verkauft eure Habe und gebt den Erlös den Armen! Macht euch
+Geldbeutel, die nicht zerreißen. Verschafft euch einen Schatz, der nicht
+abnimmt, droben im Himmel, wo kein Dieb ihn findet und keine Motte ihn
+frisst. ^{[[#fn14][14]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 202\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v34>>
+34 Denn wo euer Schatz ist, da ist auch euer Herz.\\
+\\
+
+<<v35>>
+**** Das Gleichnis vom treuen und vom schlechten Knecht: 12,35-48
+     :PROPERTIES:
+     :CUSTOM_ID: das-gleichnis-vom-treuen-und-vom-schlechten-knecht-1235-48
+     :END:
+35 Legt euren Gürtel nicht ab und lasst eure Lampen brennen!
+^{[[#fn15][15]][[#fn16][16]][[#fn17][17]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 298\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v36>>
+36 Seid wie Menschen, die auf die Rückkehr ihres Herrn warten, der auf
+einer Hochzeit ist, und die ihm öffnen, sobald er kommt und anklopft.
+
+<<v37>>
+37 Selig die Knechte, die der Herr wach findet, wenn er kommt! Amen, ich
+sage euch: Er wird sich gürten, sie am Tisch Platz nehmen lassen und sie
+der Reihe nach bedienen. ^{[[#fn18][18]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 309\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v38>>
+38 Und kommt er erst in der zweiten oder dritten Nachtwache und findet
+sie wach - selig sind sie.
+
+<<v39>>
+39 Bedenkt: Wenn der Herr des Hauses wüsste, in welcher Stunde der Dieb
+kommt, so würde er verhindern, dass man in sein Haus einbricht.
+^{[[#fn19][19]]}
+
+<<v40>>
+40 Haltet auch ihr euch bereit! Denn der Menschensohn kommt zu einer
+Stunde, in der ihr es nicht erwartet.
+
+<<v41>>
+41 Da sagte Petrus: Herr, meinst du mit diesem Gleichnis nur uns oder
+auch all die anderen?
+
+<<v42>>
+42 Der Herr antwortete: Wer ist denn der treue und kluge Verwalter, den
+der Herr einsetzen wird, damit er seinem Gesinde zur rechten Zeit die
+Nahrung zuteilt?
+
+<<v43>>
+43 Selig der Knecht, den der Herr damit beschäftigt findet, wenn er
+kommt!
+
+<<v44>>
+44 Wahrhaftig, das sage ich euch: Er wird ihn zum Verwalter seines
+ganzen Vermögens machen. ^{[[#fn20][20]]}
+
+<<v45>>
+45 Wenn aber der Knecht denkt: Mein Herr kommt noch lange nicht zurück!,
+und anfängt, die Knechte und Mägde zu schlagen; wenn er isst und trinkt
+und sich berauscht,
+
+<<v46>>
+46 dann wird der Herr an einem Tag kommen, an dem der Knecht es nicht
+erwartet, und zu einer Stunde, die er nicht kennt; und der Herr wird ihn
+in Stücke hauen und ihm seinen Platz unter den Ungläubigen zuweisen.
+
+<<v47>>
+47 Der Knecht, der den Willen seines Herrn kennt, sich aber nicht darum
+kümmert und nicht danach handelt, der wird viele Schläge bekommen.
+
+<<v48>>
+48 Wer aber, ohne den Willen des Herrn zu kennen, etwas tut, was Schläge
+verdient, der wird wenig Schläge bekommen. Wem viel gegeben wurde, von
+dem wird viel zurückgefordert werden, und wem man viel anvertraut hat,
+von dem wird man um so mehr verlangen.\\
+\\
+
+<<v49>>
+**** Von Frieden und Zwietracht: 12,49-53
+     :PROPERTIES:
+     :CUSTOM_ID: von-frieden-und-zwietracht-1249-53
+     :END:
+49 Ich bin gekommen, um Feuer auf die Erde zu werfen. Wie froh wäre ich,
+es würde schon brennen! ^{[[#fn21][21]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 204\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v50>>
+50 Ich muss mit einer Taufe getauft werden und ich bin sehr bedrückt,
+solange sie noch nicht vollzogen ist. ^{[[#fn22][22]]}
+
+<<v51>>
+51 Meint ihr, ich sei gekommen, um Frieden auf die Erde zu bringen?
+Nein, sage ich euch, nicht Frieden, sondern Spaltung.
+
+<<v52>>
+52 Denn von nun an wird es so sein: Wenn fünf Menschen im gleichen Haus
+leben, wird Zwietracht herrschen: Drei werden gegen zwei stehen und zwei
+gegen drei,
+
+<<v53>>
+53 der Vater gegen den Sohn und /der Sohn gegen den Vater,/ die Mutter
+gegen die Tochter und /die Tochter gegen die Mutter,/ die
+Schwiegermutter gegen ihre Schwiegertochter und /die Schwiegertochter
+gegen die Schwiegermutter./ ^{[[#fn23][23]]}\\
+\\
+
+<<v54>>
+**** Von den Zeichen der Zeit: 12,54-57
+     :PROPERTIES:
+     :CUSTOM_ID: von-den-zeichen-der-zeit-1254-57
+     :END:
+54 Außerdem sagte Jesus zu den Leuten: Sobald ihr im Westen Wolken
+aufsteigen seht, sagt ihr: Es gibt Regen. Und es kommt so.
+^{[[#fn24][24]][[#fn25][25]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 205\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v55>>
+55 Und wenn der Südwind weht, dann sagt ihr: Es wird heiß. Und es trifft
+ein. ^{[[#fn26][26]]}
+
+<<v56>>
+56 Ihr Heuchler! Das Aussehen der Erde und des Himmels könnt ihr deuten.
+Warum könnt ihr dann die Zeichen dieser Zeit nicht deuten?
+^{[[#fn27][27]]}
+
+<<v57>>
+57 Warum findet ihr nicht schon von selbst das rechte Urteil?\\
+^{[[#fn28][28]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 206\\
+$ŽG://ESyn0812/
+
+<<v58>>
+**** Von der Versöhnung: 12,58-59
+     :PROPERTIES:
+     :CUSTOM_ID: von-der-versöhnung-1258-59
+     :END:
+58 Wenn du mit deinem Gegner vor Gericht gehst, bemüh dich noch auf dem
+Weg, dich mit ihm zu einigen. Sonst wird er dich vor den Richter
+schleppen und der Richter wird dich dem Gerichtsdiener übergeben, und
+der Gerichtsdiener wird dich ins Gefängnis werfen. ^{[[#fn29][29]]}
+
+<<v59>>
+59 Ich sage dir: Du kommst von dort nicht heraus, bis du auch den
+letzten Pfennig bezahlt hast. ^{[[#fn30][30]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Mt 16,6; Mk 8,15 ⇨Esyn: Synopse Nr. 195
+
+^{[[#fnm2][2]]} ℘ Mk 4,22; (2-3) Mt 10,26f ⇨Esyn: Synopse Nr. 196
+
+^{[[#fnm3][3]]} hinter verschlossenen Türen, wörtlich: in den Kammern.
+
+^{[[#fnm4][4]]} ℘ (4-12) Mt 10,28-33
+
+^{[[#fnm5][5]]} ein paar Pfennig, wörtlich: zwei As. Das As war die
+zweitkleinste römische Münze.
+
+^{[[#fnm6][6]]} ℘ ⇨Esyn: Synopse Nr. 160
+
+^{[[#fnm7][7]]} ℘ Mt 12,32; Mk 3,29 ⇨Esyn: Synopse Nr. 197
+
+^{[[#fnm8][8]]} ℘ Mt 10,19; Mk 13,11; (11f) 21,12-15 ⇨Esyn: Synopse Nr.
+198
+
+^{[[#fnm9][9]]} ℘ ⇨Esyn: Synopse Nr. 199
+
+^{[[#fnm10][10]]} ℘ Ex 2,14
+
+^{[[#fnm11][11]]} ℘ ⇨Esyn: Synopse Nr. 200
+
+^{[[#fnm12][12]]} ℘ (22-31) Mt 6,25-33 ⇨Esyn: Synopse Nr. 201
+
+^{[[#fnm13][13]]} Andere Übersetzungsmöglichkeit: kann . . . seiner
+Körpergröße auch nur eine Elle hinzufügen.
+
+^{[[#fnm14][14]]} ℘ Mt 19,21; Lk 18,22; (33-34) Mt 6,19-21 ⇨Esyn:
+Synopse Nr. 202
+
+^{[[#fnm15][15]]} ℘ Mt 25,1
+
+^{[[#fnm16][16]]} 35.38: Bei Nacht ließ man gern eine Öllampe brennen,
+da das Feuermachen schwierig war. - Die Nacht teilte man in vier
+Abschnitte von je drei Stunden ein («Nachtwachen»); vgl. die Anmerkung
+zu Mt 27,45.
+
+^{[[#fnm17][17]]} ℘ ⇨Esyn: Synopse Nr. 298
+
+^{[[#fnm18][18]]} ℘ ⇨Esyn: Synopse Nr. 309
+
+^{[[#fnm19][19]]} ℘ 1 Thess 5,2; 2 Petr 3,10; (39-46) Mt 24,43-51; Mk
+13,33-37
+
+^{[[#fnm20][20]]} ℘ Mt 25,21.23
+
+^{[[#fnm21][21]]} ℘ (49-53) Mt 10,34-36 ⇨Esyn: Synopse Nr. 204
+
+^{[[#fnm22][22]]} ℘ Mk 10,38f
+
+^{[[#fnm23][23]]} ℘ Mi 7,6
+
+^{[[#fnm24][24]]} 54f: Die Verse setzen die geographischen und
+klimatischen Verhältnisse von Palästina voraus. Im Westen liegt das
+Mittelmeer, im Süden die Wüste Sinai.
+
+^{[[#fnm25][25]]} ℘ ⇨Esyn: Synopse Nr. 205
+
+^{[[#fnm26][26]]} ℘ Mt 16,2f
+
+^{[[#fnm27][27]]} Wörtlich: Warum könnt ihr dann diese Zeit nicht
+deuten?
+
+^{[[#fnm28][28]]} ℘ ⇨Esyn: Synopse Nr. 206
+
+^{[[#fnm29][29]]} ℘ (58-59) Mt 5,25f
+
+^{[[#fnm30][30]]} den letzten Pfennig, wörtlich: das letzte Leptón. Das
+Leptón war die kleinste griechische Münze.

@@ -1,0 +1,200 @@
+#+title:      Jahresplanung 01
+#+date:       [2024-07-19 Fr 12:59]
+#+filetags:   :Project:topic01:
+#+identifier: 20240719T125948
+#+CATEGORY: topic 01
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Jahresplanung 01.html
+
+* Gemeinschaft | Zusammenleben – ein gutes Miteinander erleben (Kapitel 1)
+September bis November
+
+** Thema/Inhalt
+- Gefühle zu Schulbeginn
+- Was mich ausmacht
+- Selbstvertrauen und Vertrauen in andere
+- Eine gute Gemeinschaft bilden
+- Gemeinsam Entscheidungen treffen
+    
+** Kompetenz laut Lehrplan
+Die Schüler*innen können sich in ihrer gottgeschenkten Einzigartigkeit wahrnehmen und wissen um die Bedeutung von (Selbst-) Vertrauen für ein gelingendes (Zusammen-) Leben.
+
+** Hinweis/Alternativen
+
+** Basisseiten und Empfehlungen
+*** [[denote:20240911T093358][Die Welt der Gefühle]]
+*** [[denote:20240911T093423][Was ich mir zutraue]]
+*** [[denote:20240911T093444][Kann ich dir vertrauen?]]
+*** Impuls: Ich – und du?
+*** Ich bin einzigartig
+*** Wir sind eine Gemeinschaft
+*** Das große Durcheinander
+*** Eine gute Gemeinschaft
+*** Handeln: Gemeinsam entscheiden
+*** Übungsteil: Und jetzt ich!
+
+
+
+* Fragen | Philosophieren – die großen Fragen des Lebens stellen (Kapitel 2)
+November bis Dezember
+
+** Thema/Inhalt
+- Große Fragen – und große Antworten?
+- „Objektiv“ und „subjektiv“: harte Fakten und gute Gedanken
+- Philosophieren und Theologisieren anhand von Fragen der Schüler*innen
+
+** Kompetenz laut Lehrplan
+Die Schüler*innen können für sie bedeutsame Fragen diskutieren und über existentielle Lebensfragen philosophieren und theologisieren.
+
+** Hinweis/Alternativen
+- Der Lauf des Jahres (Kap. 5.4, S. 90)
+- Das Kirchenjahr (Kap. 5.5, S. 91)
+- Feste im Jahreskreis (Kap. 5.8, S. 98)
+- Der Weihnachtsfestkreis (5.6, S. 92)
+- Ein Weihnachtsbild erschließen (Methode „Bilder erschließen“, S. 94)
+
+** Basisseiten und Empfehlungen
+*** Die großen Fragen unseres Lebens
+*** Impuls: Unterwegs im Land der Fragen
+*** Große Fragen
+*** Große Antworten?
+*** Harte Fakten
+*** Gute Gedanken
+*** Philosophieren: Fragen stellen
+*** Eine gute Frage
+*** Ist da jemand?
+*** Übungsteil: Und jetzt ich!
+
+* Glaube | Heilige Schrift – die Welt der Bibel entdecken (Kapitel 3)
+Jänner bis Februar
+
+** Thema/Inhalt
+- Geschichten im eigenen Leben
+- Wovon die Bibel erzählt
+- Welt und Umwelt der Bibel
+- Mit der Bibel arbeiten
+- Historischer Jesus – Christus des Glaubens
+
+** Kompetenz laut Lehrplan
+Die Schüler*innen verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten
+
+** Hinweis/Alternativen
+
+** Basisseiten und Empfehlungen
+*** Geschichten des Lebens
+*** Impuls: Der Turmbau zu Babel
+*** Kannst du dich noch erinnern?
+*** Die Bibel erzählt
+*** Die Entstehung der Bibel
+*** Die Welt der Bibel
+*** Palästina, das Land der Bibel
+*** Das Leben zur Zeit Jesu
+*** Jesus ein Phänomen
+*** Jesus, der Mensch
+*** Jesus, der Christus
+*** Evangelium, die frohe Botschaft
+*** Bibel: Mit der Bibel arbeiten
+*** Übungsteil: Und jetzt ich!
+
+
+* Kirche | Kirche – die Gemeinschaft der Glaubenden erfahren (Kapitel 4)
+März bis April
+
+** Thema/Inhalt
+- Arten und Weisen des Betens
+- Gebete entwickeln und formulieren
+- Die Gemeinschaft der Glaubenden
+- Taufe und Eucharistie
+- Das Glaubensbekenntnis verstehen lernen
+  
+** Kompetenz laut Lehrplan
+Die Schüler*innen kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten.
+
+** Hinweis/Alternativen
+- Kirchenjahr ::
+  - Fastenzeit – die Durststrecken des Lebens (Kap. 5.2, S. 88)
+  - Der Osterfestkreis (Kap. 5.7, S. 96)
+  
+- Liturgische (Mit)Gestaltung ::
+  - Ostergottesdienst: Der Ablauf der Hl. Messe (Kap. 4.14, S. 80) und „Religion für mich“ (S. 125)
+     
+** Basisseiten und Empfehlungen
+*** Menschen beten
+*** Über mein Leben nachdenken
+*** Impuls: Dankbar sein
+*** Arten von Gebeten
+*** Mit dem Körper beten
+*** Die Vielfalt des Betens
+*** Wie wir beten können
+*** Die Bitten unseres Lebens
+*** Das Vaterunser
+*** Die Gemeinschaft der Glaubenden
+*** Gemeinsam Kirche sein
+*** Ich gehöre dazu!
+*** Ein gemeinsamer Glaube
+*** Verstehen: Glaubensaussagen deuten
+*** Gottes Gegenwart feiern
+*** Übungsteil: Und jetzt ich...!
+
+* Welt | Feste – das Leben feiern (Kapitel 5)
+April bis Mai
+
+** Thema/Inhalt
+- Ostergottesdienst: Der Ablauf der Hl. Messe (Kap. 4.14, S. 80) und „Religion für mich“ (S. 125)
+- „Alles hat seine Zeit“ – Fastenzeiten und Feste
+- Der Lauf des Jahres und das Kirchenjahr
+- Festkreise im Kirchenjahr
+- Feste im Kirchenjahr
+
+** Kompetenz laut Lehrplan
+Die Schüler*innen können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
+
+** Hinweis/Alternativen
+
+** Basisseiten und Empfehlungen
+*** Die Feste unserer Welt
+*** Impuls: Alles hat seine Zeit
+*** Die Durststrecken des Lebens
+*** Wir haben Grund zu feiern
+*** Der Lauf des Jahres
+*** Das Kirchenjahr
+*** Der Weihnachtsfestkreis
+*** Kunst: Bilder erschließen
+*** [[denote:20250506T213451][Der Osterfestkreis]]
+*** Feste im Kirchenjahr
+*** Übungsteil: Und jetzt ich...!
+
+* Vielfalt | Religionen – die Vielfalt leben (Kapitel 6)
+Mai bis Juni
+
+** Thema/Inhalt
+- Ich und die anderen – Toleranz und Wertschätzung
+- Vielfalt des Christentums und der Religionen
+- Religionen im Überblick
+- Konfessionen im Überblick
+  
+** Kompetenz laut Lehrplan
+Die Schüler*innen können Gemeinsames und Unterscheidendes, Verbindendes und Trennendes von Konfessionen und Religionen benennen und sich damit respektvoll auseinandersetzen.
+
+** Hinweis/Alternativen
+- Liturgische (Mit)Gestaltung ::
+  - Schlussgottesdienst: Der Ablauf der Hl. Messe (Kap. 4.14, S. 80) und „Religion für mich“ (S. 125)
+  
+** Basisseiten und Empfehlungen
+*** Wo ich zuhause bin
+*** Impuls: Ich und die anderen
+*** Unsere Vielfalt macht uns aus
+*** Vielfalt des Christentums
+*** Vielfalt der Religionen
+*** Eine Religion, was ist das?
+*** Vier Religionen stellen sich vor
+*** Drei Konfessionen stellen sich vor
+*** Arbeitstechniken: Verschaffe dir einen Überblick!
+*** Einheit in Vielfalt
+*** Übungsteil: Und jetzt ich...!

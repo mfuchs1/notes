@@ -1,0 +1,87 @@
+#+TITLE: Ps 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-03 So 14:29]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 3.html
+
+* Ps 3
+
+<<verses>>
+
+<<v1>>
+* Hilferuf in Feindesnot
+
+1 [Ein Psalm Davids, als er vor seinem Sohn Abschalom floh.] [fn:1] [fn:2]\\
+\\
+
+<<v2>>
+2 Herr, wie zahlreich sind meine Bedränger; /\\
+ so viele stehen gegen mich auf. [fn:3]\\
+\\
+
+<<v3>>
+3 Viele gibt es, die von mir sagen: /\\
+ «Er findet keine Hilfe bei Gott.» [Sela] [fn:4]\\
+\\
+
+<<v4>>
+4 Du aber, Herr, bist ein Schild für mich, /\\
+ du bist meine Ehre und richtest mich auf. [fn:5]\\
+\\
+
+<<v5>>
+5 Ich habe laut zum Herrn gerufen; /\\
+ da erhörte er mich von seinem heiligen Berg. [Sela]\\
+\\
+
+<<v6>>
+6 Ich lege mich nieder und schlafe ein, /\\
+ ich wache wieder auf, denn der Herr beschützt mich. [fn:6]\\
+\\
+
+<<v7>>
+7 Viele Tausende von Kriegern fürchte ich nicht, /\\
+ wenn sie mich ringsum belagern. [fn:7]\\
+\\
+
+<<v8>>
+8 Herr, erhebe dich, /\\
+ mein Gott, bring mir Hilfe! Denn all meinen Feinden hast du den Kiefer
+zerschmettert, /\\
+ hast den Frevlern die Zähne zerbrochen.\\
+\\
+
+<<v9>>
+9 Beim Herrn findet man Hilfe. /\\
+ Auf dein Volk komme dein Segen! [Sela] [fn:8]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:2.Sam_15.org][2 Sam 15]]
+
+[fn:2] Die sog. Psalmenüberschriften, die in dieser Übersetzung
+in eckigen Klammern stehen, sind späte Zusätze. Sie enthalten
+musikalische Hinweise, deren Bedeutung wir nicht kennen, und Vermutungen
+über Verfasser und Entstehungsverhältnisse, die der jüdischen Tradition
+entnommen sind.
+
+[fn:3] [[file:Ps_25.org::v19][25,19]]
+
+[fn:4] Das hier und oft in den Psalmen stehende Wort «Sela» ist
+ebenfalls ein musikalischer Hinweis unbekannter Bedeutung.
+
+[fn:5] [[file:Ps_7.org::v11][7,11]]; [[file:Ps_18.org::v3][18,3]]; [[file:Ps_33.org::v20][33,20]]; [[file:Ps_84.org::v12][84,12]]; [[file:Ps_115.org::v9][115,9-11]]; [[file:Gen_15.org::v1][Gen 15,1]]; [[file:Dtn_33.org::v29][Dtn 33,29]];
+[[file:Spr_30.org::v5][Spr 30,5]]; [[file:Sir_34.org::v16][Sir 34,16]]
+
+[fn:6] [[file:Ps_4.org::v9][4,9]]
+
+[fn:7] [[file:Ps_27.org::v3][27,3]]
+
+[fn:8] [[file:Jona_2.org::v10][Jona 2,10]]

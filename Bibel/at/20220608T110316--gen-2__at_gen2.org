@@ -1,0 +1,195 @@
+:PROPERTIES:
+:ID:       e0d6b425-76ad-4935-96f3-97f37eb1e6ee
+:END:
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+OPTIONS: broken-links:t H:6
+#+filetags:   :at:gen2:
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+title:      Gen 2
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+* Gen 2
+:PROPERTIES:
+:CUSTOM_ID: gen-2
+:ID:       Gen-2
+:END:
+
+<<verses>>
+
+<<v1>>
+1 So wurden Himmel und Erde vollendet und ihr ganzes Gefüge.
+
+<<v2>>
+2 Am siebten Tag vollendete Gott das Werk, das er geschaffen hatte, und
+er ruhte am siebten Tag, nachdem er sein ganzes Werk vollbracht hatte. [fn:1]
+
+<<v3>>
+3 Und Gott segnete den siebten Tag und erklärte ihn für heilig; denn an
+ihm ruhte Gott, nachdem er das ganze Werk der Schöpfung vollendet hatte.
+
+<<v4a>>
+4a Das ist die Entstehungsgeschichte von Himmel und Erde, als sie
+erschaffen wurden.
+
+<<v4b>>
+** Das Paradies: 2,4b-25
+:PROPERTIES:
+:CUSTOM_ID: das-paradies-24b-25
+:ID:       das-paradies-24b-25
+:END:
+4b Zur Zeit, als Gott, der Herr, Erde und Himmel machte, [fn:2] [fn:3]
+
+<<v5>>
+5 gab es auf der Erde noch keine Feldsträucher und wuchsen noch keine
+Feldpflanzen; denn Gott, der Herr, hatte es auf die Erde noch nicht
+regnen lassen und es gab noch keinen Menschen, der den Ackerboden
+bestellte;
+
+<<v6>>
+6 aber Feuchtigkeit stieg aus der Erde auf und tränkte die ganze Fläche
+des Ackerbodens. [fn:4]
+
+<<v7>>
+7 Da formte Gott, der Herr, den Menschen aus Erde vom Ackerboden und
+blies in seine Nase den Lebensatem. So wurde der Mensch zu einem
+lebendigen Wesen. [fn:5] [fn:6]
+
+<<v8>>
+8 Dann legte Gott, der Herr, in Eden, im Osten, einen Garten an und
+setzte dorthin den Menschen, den er geformt hatte.
+
+<<v9>>
+9 Gott, der Herr, ließ aus dem Ackerboden allerlei Bäume wachsen,
+verlockend anzusehen und mit köstlichen Früchten, in der Mitte des
+Gartens aber den Baum des Lebens und den Baum der Erkenntnis von Gut und
+Böse.
+
+<<v10>>
+10 Ein Strom entspringt in Eden, der den Garten bewässert; dort teilt er
+sich und wird zu vier Hauptflüssen.
+
+<<v11>>
+11 Der eine heißt Pischon; er ist es, der das ganze Land Hawila
+umfließt, wo es Gold gibt. [fn:7]
+
+<<v12>>
+12 Das Gold jenes Landes ist gut; dort gibt es auch Bdelliumharz und
+Karneolsteine. [fn:8]
+
+<<v13>>
+13 Der zweite Strom heißt Gihon; er ist es, der das ganze Land Kusch
+umfließt.
+
+<<v14>>
+14 Der dritte Strom heißt Tigris; er ist es, der östlich an Assur
+vorbeifließt. Der vierte Strom ist der Eufrat.
+
+<<v15>>
+15 Gott, der Herr, nahm also den Menschen und setzte ihn in den Garten
+von Eden, damit er ihn bebaue und hüte.
+
+<<v16>>
+16 Dann gebot Gott, der Herr, dem Menschen: Von allen Bäumen des Gartens
+darfst du essen,
+
+<<v17>>
+17 doch vom Baum der Erkenntnis von Gut und Böse darfst du nicht essen;
+denn sobald du davon isst, wirst du sterben.
+
+<<v18>>
+18 Dann sprach Gott, der Herr: Es ist nicht gut, dass der Mensch allein
+bleibt. Ich will ihm eine Hilfe machen, die ihm entspricht.
+
+<<v19>>
+19 Gott, der Herr, formte aus dem Ackerboden alle Tiere des Feldes und
+alle Vögel des Himmels und führte sie dem Menschen zu, um zu sehen, wie
+er sie benennen würde. Und wie der Mensch jedes lebendige Wesen
+benannte, so sollte es heißen.
+
+<<v20>>
+20 Der Mensch gab Namen allem Vieh, den Vögeln des Himmels und allen
+Tieren des Feldes. Aber eine Hilfe, die dem Menschen entsprach, fand er
+nicht.
+
+<<v21>>
+21 Da ließ Gott, der Herr, einen tiefen Schlaf auf den Menschen fallen,
+sodass er einschlief, nahm eine seiner Rippen und verschloss ihre Stelle
+mit Fleisch. [fn:9]
+
+<<v22>>
+22 Gott, der Herr, baute aus der Rippe, die er vom Menschen genommen
+hatte, eine Frau und führte sie dem Menschen zu.\\
+\\
+
+<<v23>>
+23 Und der Mensch sprach: Das endlich ist Bein von meinem Bein /\\
+ und Fleisch von meinem Fleisch. /\\
+ Frau soll sie heißen, /\\
+ denn vom Mann ist sie genommen. [fn:10]\\
+\\
+
+<<v24>>
+24 Darum verlässt der Mann Vater und Mutter und bindet sich an seine
+Frau und sie werden /ein/ Fleisch. [fn:11]
+
+<<v25>>
+25 Beide, Adam und seine Frau, waren nackt, aber sie schämten sich nicht
+voreinander.\\
+\\
+
+
+* Footnotes
+
+[fn:1] Ex 20,8-11 [[file:Ex_20.org::v8][Ex 20,8-11]]
+
+[fn:2] 1,1 [[file:Gen_1.org::v1][Gen 1,1]]
+
+[fn:3] 4b-24: Hier liegt eine ältere Schöpfungsdarstellung vor,
+in der der Schwerpunkt auf der Erschaffung des Menschen und seiner
+Lebensordnung (Ehe, Familie, mitmenschliche Gemeinschaft) liegt. Der
+Mensch scheint noch vor den Pflanzen und Tieren erschaffen zu sein und
+wird so als Haupt der Schöpfung herausgehoben. - Dadurch, dass der
+letzte Pentateuchüberarbeiter so verschiedene Schöpfungsdarstellungen
+miteinander verbindet, zeigt er, dass es ihm nicht auf die
+naturwissenschaftlichen Gegebenheiten, sondern auf die religiösen
+Aussagen der beiden Texte ankommt: Alles ist von Gott erschaffen; der
+Mensch ist nicht das Produkt der Natur, sondern der von Gott in die Welt
+gesetzte Partner Gottes; der Mensch ist auf Gemeinschaft hin erschaffen;
+der Mensch hat als Ebenbild Gottes Anteil an der Herrschaft Gottes über
+die Welt.
+
+[fn:4] Feuchtigkeit: in H ein Wort unbekannter Bedeutung.
+
+[fn:5] 1,26f [[file:Gen_1.org::v26][Gen 1,26f]]
+
+[fn:6] In H Wortspiel mit den Ausdrücken für Ackerboden
+(adamáh) und Mensch (adám).
+
+[fn:7] 11-14: Die Flüsse Pischon und Gihon sowie das Land
+Hawila lassen sich geographisch nicht bestimmen. Kusch ist etwa der
+heutige Sudan mit Teilen Äthiopiens; Assur ist die alte Hauptstadt des
+Assyrerreichs.
+
+[fn:8] Bdellium ist ein Harz zur Salbenherstellung.
+
+[fn:9] 21-23: Da sich Israel die Vielheit der Menschen nicht
+ohne eine gemeinsame Abstammung vorstellen kann, andererseits keinen
+doppelgeschlechtlichen Urmenschen kennt wie andere Völker, stellt man
+sich vor, die Frau sei irgendwie aus dem Mann entstanden. Bei der in
+Israel geläufigen Redensart «ein Bein und ein Fleisch» für enge
+Verwandtschaft und Gemeinschaft - man kannte keine Verwandtschaft dem
+Blut nach - lag es nahe, an die Entstehung der Frau aus dem «Bein und
+Fleisch» des Mannes zu denken. Nur Gott konnte die Frau auf diese Weise
+entstehen lassen.
+
+[fn:10] denn . . .: Die Ausdrücke für Mann (isch) und Frau
+(ischáh) sind im Hebräischen ähnlich.
+
+[fn:11] Mt 19,5 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Mt_19.org::v5][Mt 19,5]]; Mk 10,8 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Mk_10.org::v8][Mk 10,8]]; Eph 5,31 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Eph_5.org::v31][Eph 5,31]]; 1 Kor 6,16 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/1.Kor_6.org::v16][1. Kor 6,16]]

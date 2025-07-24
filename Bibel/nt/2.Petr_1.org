@@ -1,0 +1,187 @@
+:PROPERTIES:
+:ID:       36ef7c13-2094-4985-bc93-a616beb0f43c
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der zweite Brief des Petrus* -- *1*
+[[file:2.Petr_2.html][2]] [[file:2.Petr_3.html][3]]
+
+--------------
+
+* 2.Petr 1
+  :PROPERTIES:
+  :CUSTOM_ID: petr-1
+  :END:
+
+Der 2. Petrusbrief richtet sich an alle, die an Christus glauben (1,1),
+genauer gesagt, an die Adressaten des 1. Petrusbriefs (vgl. 2 Petr 3,1),
+bei denen er auch Briefe des Paulus als bekannt voraussetzt (3,15f). Im
+zweiten Kapitel lehnt er sich an Ausführungen des Judasbriefs an.
+Deshalb wird oft angenommen, das Schreiben sei erst nach dem Tod des
+Apostels entstanden. Es ist in der Form eines Briefs abgefasst, wie die
+Anschrift zeigt (1,1f); auch einige persönliche Äußerungen entsprechen
+dem Briefcharakter. Es fehlt aber ein Briefschluss; das Schreiben endet
+mit einem Lobpreis auf Christus (3,18; vgl. 1 Petr 4,11). Nach Inhalt
+und Form will es als Testament des Apostels verstanden sein (1,12-15).\\
+\\
+Der 2. Petrusbrief will die Leser im Glauben und in der Hoffnung stärken
+und sie vor falschen Lehrern warnen. Diese spotten über den Glauben an
+die Wiederkunft des Herrn (3,4) und leugnen seine göttliche Herrlichkeit
+(2,1.10). Entsprechend ist ihre Lebensweise (vgl. Kap. 2). Das Schreiben
+verteidigt demgegenüber nachdrücklich die Erwartung der Wiederkunft
+Christi und erinnert an die Herrlichkeit Jesu, die bei der Verklärung
+sichtbar wurde (1,16-18). Wichtig sind die Aussagen über die heiligen
+Schriften und ihre richtige Auslegung (1,19-21).\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Anschrift und Gruß: 1,1-2
+   :PROPERTIES:
+   :CUSTOM_ID: anschrift-und-gruß-11-2
+   :END:
+1 Simon Petrus, Knecht und Apostel Jesu Christi, an alle, die durch die
+Gerechtigkeit unseres Gottes und Retters Jesus Christus den gleichen
+kostbaren Glauben erlangt haben wie wir. ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Gnade sei mit euch und Friede in Fülle durch die Erkenntnis Gottes und
+Jesu, unseres Herrn. ^{[[#fn3][3]]}\\
+\\
+
+<<v3>>
+** Die überlieferte Wahrheit: 1,3-21
+   :PROPERTIES:
+   :CUSTOM_ID: die-überlieferte-wahrheit-13-21
+   :END:
+**** Glaube und Leben: 1,3-11
+     :PROPERTIES:
+     :CUSTOM_ID: glaube-und-leben-13-11
+     :END:
+3 Alles, was für unser Leben und unsere Frömmigkeit gut ist, hat seine
+göttliche Macht uns geschenkt; sie hat uns den erkennen lassen, der uns
+durch seine Herrlichkeit und Kraft berufen hat. ^{[[#fn4][4]]}
+
+<<v4>>
+4 Durch sie wurden uns die kostbaren und überaus großen Verheißungen
+geschenkt, damit ihr der verderblichen Begierde, die in der Welt
+herrscht, entflieht und an der göttlichen Natur Anteil erhaltet.
+^{[[#fn5][5]][[#fn6][6]]}
+
+<<v5>>
+5 Darum setzt allen Eifer daran, mit eurem Glauben die Tugend zu
+verbinden, mit der Tugend die Erkenntnis, ^{[[#fn7][7]]}
+
+<<v6>>
+6 mit der Erkenntnis die Selbstbeherrschung, mit der Selbstbeherrschung
+die Ausdauer, mit der Ausdauer die Frömmigkeit,
+
+<<v7>>
+7 mit der Frömmigkeit die Brüderlichkeit und mit der Brüderlichkeit die
+Liebe. ^{[[#fn8][8]]}
+
+<<v8>>
+8 Wenn dies alles bei euch vorhanden ist und wächst, dann nimmt es euch
+die Trägheit und Unfruchtbarkeit, sodass ihr Jesus Christus, unseren
+Herrn, immer tiefer erkennt.
+
+<<v9>>
+9 Wem dies aber fehlt, der ist blind und kurzsichtig; er hat vergessen,
+dass er gereinigt worden ist von seinen früheren Sünden.
+
+<<v10>>
+10 Deshalb, meine Brüder, bemüht euch noch mehr darum, dass eure
+Berufung und Erwählung Bestand hat. Wenn ihr das tut, werdet ihr niemals
+scheitern.
+
+<<v11>>
+11 Dann wird euch in reichem Maß gewährt, in das ewige Reich unseres
+Herrn und Retters Jesus Christus einzutreten. ^{[[#fn9][9]]}\\
+\\
+
+<<v12>>
+**** Das Zeugnis der Propheten und der Apostel: 1,12-21
+     :PROPERTIES:
+     :CUSTOM_ID: das-zeugnis-der-propheten-und-der-apostel-112-21
+     :END:
+12 Darum will ich euch immer an das alles erinnern, obwohl ihr es schon
+wisst und in der Wahrheit gefestigt seid, die ihr empfangen habt.
+^{[[#fn10][10]]}
+
+<<v13>>
+13 Ich halte es nämlich für richtig, euch daran zu erinnern, solange ich
+noch in diesem Zelt lebe, und euch dadurch wach zu halten;
+^{[[#fn11][11]]}
+
+<<v14>>
+14 denn ich weiß, dass mein Zelt bald abgebrochen wird, wie mir auch
+Jesus Christus, unser Herr, offenbart hat.
+
+<<v15>>
+15 Ich will aber dafür sorgen, dass ihr auch nach meinem Tod euch
+jederzeit daran erinnern könnt.
+
+<<v16>>
+16 Denn wir sind nicht irgendwelchen klug ausgedachten Geschichten
+gefolgt, als wir euch die machtvolle Ankunft Jesu Christi, unseres
+Herrn, verkündeten, sondern wir waren Augenzeugen seiner Macht und
+Größe.
+
+<<v17>>
+17 Er hat von Gott, dem Vater, Ehre und Herrlichkeit empfangen; denn er
+hörte die Stimme der erhabenen Herrlichkeit, die zu ihm sprach: Das ist
+mein geliebter Sohn, an dem ich Gefallen gefunden habe. ^{[[#fn12][12]]}
+
+<<v18>>
+18 Diese Stimme, die vom Himmel kam, haben wir gehört, als wir mit ihm
+auf dem heiligen Berg waren. ^{[[#fn13][13]]}
+
+<<v19>>
+19 Dadurch ist das Wort der Propheten für uns noch sicherer geworden und
+ihr tut gut daran, es zu beachten; denn es ist ein Licht, das an einem
+finsteren Ort scheint, bis der Tag anbricht und der Morgenstern aufgeht
+in eurem Herzen. ^{[[#fn14][14]]}
+
+<<v20>>
+20 Bedenkt dabei vor allem dies: Keine Weissagung der Schrift darf
+eigenmächtig ausgelegt werden;
+
+<<v21>>
+21 denn niemals wurde eine Weissagung ausgesprochen, weil ein Mensch es
+wollte, sondern vom Heiligen Geist getrieben haben Menschen im Auftrag
+Gottes geredet. ^{[[#fn15][15]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 1 Petr 1,1
+
+^{[[#fnm2][2]]} Andere Übersetzungsmöglichkeit: unseres Gottes und des
+Retters Jesus Christus.
+
+^{[[#fnm3][3]]} ℘ Jud 2
+
+^{[[#fnm4][4]]} ℘ Eph 1,3; Tit 1,2f; Joh 17,3
+
+^{[[#fnm5][5]]} ℘ Eph 1,18f
+
+^{[[#fnm6][6]]} Es sind die Verheißungen gemeint, die sich auf den Tag
+Christi beziehen; vgl. 3,4.9.
+
+^{[[#fnm7][7]]} ℘ 1 Tim 6,3; Tit 2,11-13
+
+^{[[#fnm8][8]]} ℘ 1 Joh 3,17f
+
+^{[[#fnm9][9]]} ℘ 2 Tim 4,18; Tit 2,13
+
+^{[[#fnm10][10]]} ℘ Jud 5
+
+^{[[#fnm11][11]]} ℘ Joh 21,18f; 2 Kor 5,1; 2 Tim 4,5
+
+^{[[#fnm12][12]]} ℘ Mt 17,5; Mk 9,7; Lk 9,35
+
+^{[[#fnm13][13]]} wir: Petrus, Jakobus und Johannes, die Zeugen der
+Verklärung Jesu (Mt 17,1).
+
+^{[[#fnm14][14]]} ℘ Röm 13,12
+
+^{[[#fnm15][15]]} ℘ 2 Tim 3,16; 1 Petr 1,11

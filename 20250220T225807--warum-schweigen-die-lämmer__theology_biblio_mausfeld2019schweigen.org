@@ -1,0 +1,13 @@
+#+title:      Warum schweigen die Lämmer
+#+date:       [2025-02-20 Do 22:58]
+#+filetags:   :theology:biblio:mausfeld2019schweigen:
+#+identifier: 20250220T225807
+
+#+begin_src bibtex
+@book{mausfeld2019schweigen,
+  title={Warum schweigen die L{\"a}mmer?: wie Elitendemokratie und Neoliberalismus unsere Gesellschaft und unsere Lebensgrundlagen zerst{\"o}ren},
+  author={Mausfeld, Rainer},
+  year={2019},
+  publisher={Westend Verlag GmbH}
+}
+#+end_src

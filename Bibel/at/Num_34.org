@@ -1,0 +1,143 @@
+#+TITLE: Num 34 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-26 Do 21:35]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 34.html
+
+
+* Num 34
+
+<<verses>>
+
+<<v1>>
+1 Der Herr sprach zu Mose:
+
+<<v2>>
+2 Befiehl den Israeliten und sag ihnen, wenn ihr nach Kanaan kommt: Das
+ist das Land, das euch als erblicher Besitz zufällt, Kanaan in seinen
+jetzigen Grenzen.
+
+<<v3>>
+3 Eure Südgrenze soll von der Wüste Zin aus an Edom entlang verlaufen,
+und zwar soll sie vom Ende des Salzmeers im Osten ausgehen. [fn:1]
+
+<<v4>>
+4 Dann soll eure Grenze südlich des Skorpionenpasses sich bis Zin
+erstrecken. Ihre Ausläufer sollen bis südlich von Kadesch-Barnea
+reichen. Von dort soll sie sich bis Hazar-Addar und bis Azmon hinziehen.
+
+<<v5>>
+5 Von Azmon soll die Grenze zum Grenzbach Ägyptens abbiegen und die
+Ausläufer der Grenze sollen bis zum Meer reichen.
+
+<<v6>>
+6 Eure Grenze im Westen soll das Große Meer mit seinem Strand sein. Das
+sei eure Westgrenze.
+
+<<v7>>
+7 Das sei eure Nordgrenze: Vom Großen Meer sollt ihr euch eine Linie bis
+zum Berg Hor abstecken,
+
+<<v8>>
+8 und vom Berg Hor eine Linie bis Lebo-Hamat. Die Ausläufer dieser
+Grenze sollen bis Zedad reichen.
+
+<<v9>>
+9 Dann soll die Grenze weitergehen bis Sifron und ihre Ausläufer sollen
+bis Hazar-Enan reichen. Das sei eure Nordgrenze.
+
+<<v10>>
+10 Als Ostgrenze sollt ihr eine Linie von Hazar-Enan bis Schefam
+abstecken.
+
+<<v11>>
+11 Von Schefam soll die Grenze nach Ribla östlich von Ajin
+hinuntersteigen. Dann soll die Grenze zum Rand des Gebirges östlich des
+Sees von Kinneret hinuntergehen. [fn:2]
+
+<<v12>>
+12 Dann soll die Grenze zum Jordan hinunterführen und ihre Ausläufer
+sollen bis zum Salzmeer reichen. Das seien die Grenzen rings um euer
+Land. [fn:3]
+
+<<v13>>
+13 Da befahl Mose den Israeliten: Das ist das Land, das ihr durch das
+Los als Erbbesitz verteilen sollt. Der Herr hat befohlen, es den
+neuneinhalb Stämmen zu geben;
+
+<<v14>>
+14 denn der Stamm der Rubeniter mit seinen Sippen und der Stamm der
+Gaditer mit seinen Sippen und der halbe Stamm Manasse haben ihren
+Erbbesitz schon erhalten. [fn:4]
+
+<<v15>>
+15 Diese zweieinhalb Stämme haben ihren Erbbesitz jenseits des Jordan
+erhalten, östlich von Jericho.
+
+<<v16>>
+16 Der Herr sprach zu Mose:
+
+<<v17>>
+17 Das sind die Namen der Männer, die das Land unter euch verteilen
+sollen: der Priester Eleasar und Josua, der Sohn Nuns.
+
+<<v18>>
+18 Außerdem nehmt zur Verteilung des Landes je einen führenden Mann aus
+jedem Stamm hinzu!
+
+<<v19>>
+19 Das sind die Namen dieser Männer: für den Stamm Juda Kaleb, der Sohn
+Jefunnes;
+
+<<v20>>
+20 für den Stamm der Simeoniter Schemuël, der Sohn Ammihuds;
+
+<<v21>>
+21 für den Stamm Benjamin Elidad, der Sohn Kislons;
+
+<<v22>>
+22 für den Stamm der Daniter der Anführer Bukki, der Sohn Joglis;
+
+<<v23>>
+23 bei den Josefstämmen für den Stamm der Manassiter der Anführer
+Hanniël, der Sohn Efods,
+
+<<v24>>
+24 und für den Stamm der Efraimiter der Anführer Kemuël, der Sohn
+Schiftans;
+
+<<v25>>
+25 für den Stamm der Sebuloniter der Anführer Elizafan, der Sohn
+Parnachs;
+
+<<v26>>
+26 für den Stamm der Issachariter der Anführer Paltiël, der Sohn Asans;
+
+<<v27>>
+27 für den Stamm der Ascheriter der Anführer Ahihud, der Sohn Schelomis;
+
+<<v28>>
+28 für den Stamm der Naftaliter der Anführer Pedahel, der Sohn Ammihuds.
+
+<<v29>>
+29 Das waren die Männer, die der Herr dazu verpflichtete, in Kanaan den
+Israeliten ihren Erbanteil zuzuteilen.\\
+\\
+
+
+* Footnotes
+
+[fn:1] 3-6: Salzmeer wird das Tote Meer wegen seines hohen
+Salzgehalts genannt; das Große Meer ist das Mittelmeer.
+
+[fn:2] Der See von Kinneret ist der See Gennesaret.
+
+[fn:3] Zum Salzmeer vgl. die Anmerkung zu VV. 3-6.
+
+[fn:4] (14f) 32,1-42 [[file:Num_32.org::v1][Num 32,1-42]]

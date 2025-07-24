@@ -1,0 +1,139 @@
+#+TITLE: Ps 116 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-18 So 00:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 116.html
+
+* Ps 116
+
+<<verses>>
+
+<<v1>>
+* Der Dank für Rettung aus Todesnot
+
+1 Ich liebe den Herrn; /\\
+ denn er hat mein lautes Flehen gehört\\
+\\
+
+<<v2>>
+2 und sein Ohr mir zugeneigt /\\
+ an dem Tag, als ich zu ihm rief. [fn:1]\\
+\\
+
+<<v3>>
+3 Mich umfingen die Fesseln des Todes, /\\
+ mich befielen die Ängste der Unterwelt, /\\
+ mich trafen Bedrängnis und Kummer. [fn:2]\\
+\\
+
+<<v4>>
+4 Da rief ich den Namen des Herrn an: /\\
+ «Ach Herr, rette mein Leben!»\\
+\\
+
+<<v5>>
+5 Der Herr ist gnädig und gerecht, /\\
+ unser Gott ist barmherzig. [fn:3]\\
+\\
+
+<<v6>>
+6 Der Herr behütet die schlichten Herzen; /\\
+ ich war in Not und er brachte mir Hilfe.\\
+\\
+
+<<v7>>
+7 Komm wieder zur Ruhe, mein Herz! /\\
+ Denn der Herr hat dir Gutes getan.\\
+\\
+
+<<v8>>
+8 Ja, du hast mein Leben dem Tod entrissen, /\\
+ meine Tränen (getrocknet), /\\
+ meinen Fuß (bewahrt vor) dem Gleiten. [fn:4]\\
+\\
+
+<<v9>>
+9 So gehe ich meinen Weg vor dem Herrn /\\
+ im Land der Lebenden. [fn:5]\\
+\\
+
+<<v10>>
+* Ein Lied zum Dankopfer
+
+10 Voll Vertrauen war ich, auch wenn ich sagte: /\\
+ Ich bin so tief gebeugt.\\
+\\
+
+<<v11>>
+11 In meiner Bestürzung sagte ich: /\\
+ Die Menschen lügen alle. [fn:6]\\
+\\
+
+<<v12>>
+12 Wie kann ich dem Herrn all das vergelten, /\\
+ was er mir Gutes getan hat?\\
+\\
+
+<<v13>>
+13 Ich will den Kelch des Heils erheben /\\
+ und anrufen den Namen des Herrn.\\
+\\
+
+<<v14>>
+14 Ich will dem Herrn meine Gelübde erfüllen /\\
+ offen vor seinem ganzen Volk. [fn:7]\\
+\\
+
+<<v15>>
+15 Kostbar ist in den Augen des Herrn /\\
+ das Sterben seiner Frommen. [fn:8]\\
+\\
+
+<<v16>>
+16 Ach Herr, ich bin doch dein Knecht, /\\
+ dein Knecht bin ich, der Sohn deiner Magd. /\\
+ Du hast meine Fesseln gelöst.\\
+\\
+
+<<v17>>
+17 Ich will dir ein Opfer des Dankes bringen /\\
+ und anrufen den Namen des Herrn.\\
+\\
+
+<<v18>>
+18 Ich will dem Herrn meine Gelübde erfüllen /\\
+ offen vor seinem ganzen Volk, [fn:9]\\
+\\
+
+<<v19>>
+19 in den Vorhöfen am Haus des Herrn, /\\
+ in deiner Mitte, Jerusalem. /\\
+ Halleluja!\\
+\\
+
+* Footnotes
+
+[fn:1] an dem Tag: H: in meinen Tagen (im Sinn von: mein Leben lang).
+
+[fn:2] (3-4) [[file:Ps_18.org::v5][18,5-7]]; [[file:Jona_2.org::v3][Jona 2,3]]
+
+[fn:3] [[file:Ps_86.org::v15][86,15]]; [[file:Ps_103.org::v8][103,8]]; [[file:Ps_111.org::v4][111,4]]; [[file:Ps_112.org::v4][112,4]]; [[file:Ps_145.org::v8][145,8]]; [[file:Ex_34.org::v6][Ex 34,6]]; [[file:Mi_7.org::v18][Mi 7,18]]
+
+[fn:4] [[file:Ps_9.org::v14][9,14]]; [[file:Ps_56.org::v14][56,14]]
+
+[fn:5] [[file:Ps_27.org::v13][27,13]]
+
+[fn:6] [[file:Ps_12.org::v3][12,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v4][Röm 3,4]]
+
+[fn:7] [[file:Ps_66.org::v13][66,13]]
+
+[fn:8] [[file:Ps_72.org::v14][72,14]]
+
+[fn:9] [[file:Ps_66.org::v13][66,13]]

@@ -1,0 +1,136 @@
+#+TITLE: Hld 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-02-13 Do 17:34]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Hld 2.html
+
+* Hld 2
+
+<<verses>>
+
+<<v1>>
+1 Ich bin eine Blume auf den Wiesen des Scharon, /\\
+ eine Lilie der Täler.\\
+\\
+
+<<v2>>
+2 Eine Lilie unter Disteln /\\
+ ist meine Freundin unter den Mädchen. [fn:1]\\
+\\
+
+<<v3>>
+3 Ein Apfelbaum unter Waldbäumen /\\
+ ist mein Geliebter unter den Burschen. In seinem Schatten begehre ich
+zu sitzen. /\\
+ Wie süß schmeckt seine Frucht meinem Gaumen! [fn:2]\\
+\\
+
+<<v4>>
+4 In das Weinhaus hat er mich geführt. /\\
+ Sein Zeichen über mir heißt Liebe.\\
+\\
+
+<<v5>>
+5 Stärkt mich mit Traubenkuchen, /\\
+ erquickt mich mit Äpfeln; /\\
+ denn ich bin krank vor Liebe.\\
+\\
+
+<<v6>>
+6 Seine Linke liegt unter meinem Kopf, /\\
+ seine Rechte umfängt mich. [fn:3]\\
+\\
+
+<<v7>>
+7 Bei den Gazellen und Hirschen auf der Flur /\\
+ beschwöre ich euch, Jerusalems Töchter: Stört die Liebe nicht auf, /\\
+ weckt sie nicht, /\\
+ bis es ihr selbst gefällt. [fn:4]\\
+\\
+
+<<v8>>
+8 Horch! Mein Geliebter! /\\
+ Sieh da, er kommt. Er springt über die Berge, /\\
+ hüpft über die Hügel.\\
+\\
+
+<<v9>>
+9 Der Gazelle gleicht mein Geliebter, /\\
+ dem jungen Hirsch. Ja, draußen steht er /\\
+ an der Wand unsres Hauses; er blickt durch die Fenster, /\\
+ späht durch die Gitter.\\
+\\
+
+<<v10>>
+10 Der Geliebte spricht zu mir: /\\
+ Steh auf, meine Freundin, /\\
+ meine Schöne, so komm doch!\\
+\\
+
+<<v11>>
+11 Denn vorbei ist der Winter, /\\
+ verrauscht der Regen. [fn:5]\\
+\\
+
+<<v12>>
+12 Auf der Flur erscheinen die Blumen; /\\
+ die Zeit zum Singen ist da. Die Stimme der Turteltaube /\\
+ ist zu hören in unserem Land.\\
+\\
+
+<<v13>>
+13 Am Feigenbaum reifen die ersten Früchte; /\\
+ die blühenden Reben duften. Steh auf, meine Freundin, /\\
+ meine Schöne, so komm doch!\\
+\\
+
+<<v14>>
+14 Meine Taube im Felsennest, /\\
+ versteckt an der Steilwand, dein Gesicht lass mich sehen, /\\
+ deine Stimme hören! Denn süß ist deine Stimme, /\\
+ lieblich dein Gesicht.\\
+\\
+
+<<v15>>
+15 Fangt uns die Füchse, /\\
+ die kleinen Füchse! Sie verwüsten die Weinberge, /\\
+ unsre blühenden Reben.\\
+\\
+
+<<v16>>
+16 Der Geliebte ist mein /\\
+ und ich bin sein; /\\
+ er weidet in den Lilien. [fn:6]\\
+\\
+
+<<v17>>
+17 Wenn der Tag verweht /\\
+ und die Schatten wachsen, komm du, mein Geliebter, /\\
+ der Gazelle gleich, dem jungen Hirsch /\\
+ auf den Balsambergen. [fn:7] [fn:8]\\
+\\
+
+* Footnotes
+
+[fn:1] 2a: Wörtlich: Wie eine Lilie
+
+[fn:2] 3a: Wörtlich: Wie ein Apfelbaum.
+
+[fn:3] [[file:Hld_8.org::v3][8,3]]
+
+[fn:4] [[file:Hld_3.org::v5][3,5]]; [[file:Hld_5.org::v8][5,8]]; [[file:Hld_8.org::v4][8,4]]
+
+[fn:5] [[file:Hld_7.org::v13][7,13]]
+
+[fn:6] [[file:Hld_6.org::v3][6,3]]
+
+[fn:7] [[file:Hld_8.org::v14][8,14]]
+
+[fn:8] Balsambergen: Text korr.; H: Beter-Bergen (ein hebräischer Ortsname, vgl. 8,14).

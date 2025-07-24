@@ -1,0 +1,278 @@
+#+TITLE: Neh 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 00:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Neh 9.html
+
+<<verses>>
+
+<<v1>>
+* Der Bußgottesdienst: 9,1-5
+
+1 Am vierundzwanzigsten Tag dieses Monats kamen die Israeliten zu einem
+Fasten zusammen, in Bußgewänder gehüllt und das Haupt mit Staub bedeckt.
+
+<<v2>>
+2 Die, die ihrer Abstammung nach Israeliten waren, sonderten sich von
+allen Fremden ab; sie traten vor und bekannten ihre Sünden und die
+Vergehen ihrer Väter. [fn:1]
+
+<<v3>>
+3 Sie erhoben sich von ihren Plätzen und man las drei Stunden lang aus
+dem Buch des Gesetzes des Herrn, ihres Gottes, vor. Dann bekannten sie
+drei Stunden lang ihre Schuld und warfen sich vor dem Herrn, ihrem Gott,
+nieder. [fn:2]
+
+<<v4>>
+4 Auf der Tribüne der Leviten erhoben sich Jeschua, Bani, Kadmiël,
+Schebanja, Bunni, Scherebja, Bani und Kenani und riefen laut zum Herrn,
+ihrem Gott.
+
+<<v5>>
+5 Die Leviten Jeschua, Kadmiël, Bani, Haschabneja, Scherebja, Hodija,
+Schebanja und Petachja sagten: Erhebt euch und preist den Herrn, euren
+Gott, von Ewigkeit zu Ewigkeit! Man preise deinen herrlichen Namen,
+obwohl er erhaben ist über allen Preis und Ruhm. [fn:3]\\
+\\
+
+<<v6>>
+* Das Bußgebet: 9,6-37
+
+6 Du, Herr, bist der Einzige. Du hast den Himmel geschaffen und den
+Himmel der Himmel und sein ganzes Heer, die Erde und alles, was auf ihr
+ist, die Meere und alles, was darin lebt. Ihnen allen gibst du das
+Leben. Das Heer des Himmels betet dich an. [fn:4] [fn:5]
+
+<<v7>>
+7 Du, Herr, bist der Gott, der Abraham auserwählt hat. Du hast ihn aus
+Ur in Chaldäa herausgeführt und ihm den Namen Abraham verliehen. [fn:6]
+
+<<v8>>
+8 Du hast sein Herz getreu befunden; deshalb hast du mit ihm den Bund
+geschlossen (und ihm versprochen), seinen Nachkommen das Land der
+Kanaaniter, Hetiter, Amoriter, Perisiter, Jebusiter und Girgaschiter zu
+geben, und du hast dein Wort gehalten, denn du bist gerecht. [fn:7]
+
+<<v9>>
+9 Du hast das Elend unserer Väter in Ägypten gesehen und du hast ihren
+Notschrei am Schilfmeer gehört. [fn:8]
+
+<<v10>>
+10 Du hast Zeichen und Wunder getan am Pharao, an all seinen Dienern und
+am ganzen Volk in seinem Land; denn du wusstest, dass sie mit Israel
+ihren Übermut getrieben hatten. So hast du dir einen Namen gemacht, der
+gerühmt wird bis zum heutigen Tag. [fn:9]
+
+<<v11>>
+11 Du hast das Meer vor ihnen zerteilt und sie schritten auf trockenem
+Boden mitten durchs Meer; doch ihre Verfolger hast du in die Tiefe
+gestürzt wie einen Stein, der in reißendem Wasser versinkt. [fn:10]
+
+<<v12>>
+12 Durch eine Wolkensäule hast du sie bei Tag geleitet und durch eine
+Feuersäule bei Nacht, um ihnen den Weg zu erhellen, den sie gehen
+sollten. [fn:11]
+
+<<v13>>
+13 Du bist auf den Berg Sinai herabgestiegen und hast vom Himmel her mit
+ihnen gesprochen; du hast ihnen klare Ordnungen und zuverlässige Gesetze
+gegeben, gute Satzungen und Gebote. [fn:12]
+
+<<v14>>
+14 Deinen heiligen Sabbat hast du ihnen bekannt gemacht und hast ihnen
+durch deinen Diener Mose Gebote, Satzungen und Anweisungen gegeben. [fn:13]
+
+<<v15>>
+15 Du hast ihnen Brot vom Himmel gegeben, als sie Hunger hatten, und
+hast Wasser aus dem Felsen sprudeln lassen, als sie Durst litten.
+Endlich hast du ihnen befohlen, in das Land, das du ihnen unter einem
+Eid zugesagt hattest, hineinzuziehen und es in Besitz zu nehmen. [fn:14]
+
+<<v16>>
+16 Unsere Väter aber wurden hochmütig; sie waren trotzig und hörten
+nicht auf seine Gebote. [fn:15]
+
+<<v17>>
+17 Sie weigerten sich zu gehorchen und dachten nicht mehr an die Wunder,
+die du an ihnen getan hattest. Hartnäckig setzten sie sich in den Kopf,
+als Sklaven nach Ägypten zurückzukehren. Doch du bist ein Gott, der
+verzeiht, du bist gnädig und barmherzig, langmütig und reich an Huld;
+darum hast du sie nicht verlassen. [fn:16] [fn:17]
+
+<<v18>>
+18 Sie machten sich sogar ein gegossenes Kalb und sagten: Das ist dein
+Gott, der dich aus Ägypten herausgeführt hat!, und sie verübten schwere
+Frevel. [fn:18]
+
+<<v19>>
+19 Du aber hast sie in deinem großen Erbarmen nicht in der Wüste
+verlassen. Die Wolkensäule wich nicht von ihnen bei Tag, sondern führte
+sie auf ihrem Weg; ebenso erhellte die Feuersäule bei Nacht den Weg, den
+sie gehen sollten.
+
+<<v20>>
+20 Du gabst ihnen deinen guten Geist, um sie zur Einsicht zu bringen. Du
+entzogst ihnen dein Manna nicht und gabst ihnen Wasser für ihren Durst.
+
+<<v21>>
+21 Vierzig Jahre lang hast du für sie in der Wüste gesorgt. Sie litten
+keinen Mangel; ihre Kleider zerfielen nicht, ihre Füße schwollen nicht
+an. [fn:19]
+
+<<v22>>
+22 Du hast ihnen ganze Reiche und Völker ausgeliefert und als Randgebiet
+zugeteilt. So nahmen sie das Land des Königs Sihon von Heschbon in
+Besitz und das Land des Königs Og des Baschan. [fn:20]
+
+<<v23>>
+23 Du hast ihre Nachkommen so zahlreich gemacht wie die Sterne am Himmel
+und hast sie in das Land geführt, von dem du ihren Vätern versprochen
+hattest, sie würden dort hineinziehen und es in Besitz nehmen. [fn:21]
+
+<<v24>>
+24 Und die Nachkommen zogen in das Land und nahmen es in Besitz. Du hast
+ihnen die Kanaaniter, die Bewohner des Landes, unterworfen. Du gabst sie
+in ihre Gewalt, die Völker des Landes samt ihren Königen, und sie
+durften mit ihnen machen, was sie wollten.
+
+<<v25>>
+25 Sie eroberten befestigte Städte und fruchtbares Ackerland. Häuser mit
+all ihrem Reichtum nahmen sie in Besitz, ausgehauene Zisternen,
+Weinberge, Ölbäume und Obstbäume in Menge. Sie aßen sich satt, wurden
+fett und lebten gut von deinen reichen Gaben. [fn:22]
+
+<<v26>>
+26 Dann aber wurden sie trotzig; sie empörten sich gegen dich und
+kehrten deinem Gesetz den Rücken. Deine Propheten warnten sie zwar und
+wollten sie zu dir zurückführen; doch man tötete sie und verübte schwere
+Frevel.
+
+<<v27>>
+27 Da gabst du unsere Väter in die Gewalt ihrer Feinde, die sie hart
+bedrängten. Wenn sie dann bedrängt wurden, schrien sie zu dir und du
+erhörtest sie im Himmel. In deinem großen Erbarmen schicktest du ihnen
+Retter, die sie aus der Gewalt ihrer Feinde befreiten. [fn:23]
+
+<<v28>>
+28 Doch sobald sie Ruhe hatten, taten sie wieder Dinge, die dir
+missfielen. Da liefertest du sie wieder der Gewalt ihrer Feinde aus, die
+sie unterdrückten. Nun schrien sie wieder zu dir und du erhörtest sie im
+Himmel; oft hast du sie befreit in deinem großen Erbarmen. [fn:24]
+
+<<v29>>
+29 Du warntest sie, um sie zu deinem Gesetz zurückzuführen. Sie aber
+waren stolz; sie hörten nicht auf deine Gebote und versündigten sich
+gegen deine Vorschriften; und doch lebt durch sie der Mensch, der sie
+befolgt. Sie kehrten dir trotzig den Rücken zu, waren starrsinnig und
+gehorchten dir nicht. [fn:25]
+
+<<v30>>
+30 Viele Jahre hast du mit ihnen Geduld gehabt, hast sie gewarnt durch
+deinen Geist, durch deine Propheten; doch sie hörten nicht. Da gabst du
+sie in die Gewalt der benachbarten Völker. [fn:26] [fn:27]
+
+<<v31>>
+31 In deinem großen Erbarmen hast du sie aber nicht ausgerottet; du hast
+sie nicht verlassen, denn du bist ein gnädiger und barmherziger Gott.
+
+<<v32>>
+32 Und jetzt, unser Gott, du großer, starker, furchtgebietender Gott,
+der den Bund hält und uns seine Gnade bewahrt: Achte nicht gering all
+die Mühsal, die uns getroffen hat, unsere Könige und Vorsteher, unsere
+Priester und Propheten, unsere Väter und dein ganzes Volk seit den Tagen
+der Könige von Assur bis heute. [fn:28]
+
+<<v33>>
+33 Du warst gerecht bei allem, was über uns gekommen ist. Du hast uns
+deine Treue bewiesen; wir aber haben gesündigt.
+
+<<v34>>
+34 Unsere Könige, Vorsteher und Priester und unsere Väter befolgten dein
+Gesetz nicht; sie missachteten deine Gebote und die Warnungen, die du an
+sie gerichtet hast.
+
+<<v35>>
+35 Sie lebten in ihrem eigenen Königreich, in der Fülle des Reichtums,
+den du ihnen gewährt hast, in dem weiten, fruchtbaren Land, das du vor
+sie hingebreitet hast; sie aber haben dir trotzdem nicht gedient und
+sich nicht von ihrem bösen Treiben abgewandt.
+
+<<v36>>
+36 Darum sind wir heute Knechte. Du hast unseren Vätern dieses Land
+gegeben, damit sie seine Früchte und seinen Reichtum genießen; wir aber
+leben darin als Knechte.
+
+<<v37>>
+37 Sein reicher Ertrag geht an die Könige, die du wegen unserer Sünden
+über uns gesetzt hast. Sie verfügen über uns selbst und unser Vieh nach
+ihrem Belieben. Darum sind wir in großer Not. [fn:29]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Esra_10.org::v11][Esra 10,11f]]
+
+[fn:2] drei Stunden lang, wörtlich: ein Viertel des Tags.
+
+[fn:3] [[file:Dan_3.org::v26][Dan 3,26]]
+
+[fn:4] [[file:Dtn_6.org::v4][Dtn 6,4]]; [[file:Dtn_10.org::v14][10,14]]
+
+[fn:5] «Der Himmel der Himmel» ist nach dem damaligen Weltbild
+der oberste Himmel.
+
+[fn:6] [[file:Gen_11.org::v31][Gen 11,31]]; [[file:Gen_12.org::v1][12,1]]-[[file:Gen_12.org::v3][3]]
+
+[fn:7] [[file:Gen_15.org::v18][Gen 15,18]]-[[file:Gen_15.org::v21][21]]
+
+[fn:8] [[file:Ex_3.org::v7][Ex 3,7]]
+
+[fn:9] [[file:Ex_18.org::v11][Ex 18,11]]; [[file:Dtn_6.org::v22][Dtn 6,22]]
+
+[fn:10] [[file:Ex_14.org][Ex 14f]]
+
+[fn:11] [[file:Ex_13.org::v21][Ex 13,21f]]
+
+[fn:12] [[file:Ex_19.org::v18][Ex 19,18]]
+
+[fn:13] [[file:Ex_20.org::v8][Ex 20,8]]-[[file:Ex_20.org::v11][11]]
+
+[fn:14] [[file:Ex_16.org::v4][Ex 16,4]]; [[file:Ex_17.org::v6][17,6]]
+
+[fn:15] [[file:Num_14.org::v1][Num 14,1]]-[[file:Num_14.org::v4][4]]
+
+[fn:16] [[file:Ex_34.org::v6][Ex 34,6]]
+
+[fn:17] Übersetzung nach G.
+
+[fn:18] [[file:Ex_32.org::v4][Ex 32,4]]
+
+[fn:19] [[file:Dtn_8.org::v4][Dtn 8,4]]
+
+[fn:20] [[file:Num_21.org::v21][Num 21,21]]-[[file:Num_21.org::v35][35]]
+
+[fn:21] [[file:Dtn_1.org::v10][Dtn 1,10]]; [[file:Jos_12.org][Jos 12]]
+
+[fn:22] [[file:Dtn_6.org::v10][Dtn 6,10f]]; [[file:Dtn_32.org::v15][32,15]]
+
+[fn:23] [[file:Ri_2.org::v14][Ri 2,14]]-[[file:Ri_2.org::v19][19]]; [[file:Ri_3.org::v9][3,9]]
+
+[fn:24] [[file:Ps_106.org::v43][Ps 106,43]]
+
+[fn:25] [[file:Sach_7.org::v11][Sach 7,11f]]; [[file:Lev_18.org::v5][Lev 18,5]]
+
+[fn:26] [[file:Jer_7.org::v25][Jer 7,25f]]; [[file:Jer_44.org::v4][44,4]]-[[file:Jer_44.org::v6][6]]
+
+[fn:27] Wörtlich: Da gabst du sie in die Gewalt der Völker der
+(anderen) Länder. Gemeint sind die heidnischen Nachbarn Israels
+(vgl. [[file:Neh_10.org::v29][10,29]]; [[file:Esra_3.org::v3][Esra 3,3]]).
+
+[fn:28] [[file:2.Makk_1.org::v24][2 Makk 1,24]]; [[file:Bar_2.org::v11][Bar 2,11]]; [[file:Dan_9.org::v4][Dan 9,4]]
+
+[fn:29] [[file:Dtn_28.org::v31][Dtn 28,31]]; [[file:Jes_1.org::v7][Jes 1,7]]; [[file:Klgl_5.org::v4][Klgl 5,4]].[[file:Klgl_5.org::v13][13]]-[[file:Klgl_5.org::v15][15]]

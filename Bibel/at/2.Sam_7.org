@@ -1,0 +1,184 @@
+#+TITLE: 2 Sam 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 15:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 7.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Verheißung an David: 7,1-29
+
+1 Als nun der König in seinem Haus wohnte und der Herr ihm Ruhe vor
+allen seinen Feinden ringsum verschafft hatte, [fn:1] [fn:2]
+
+<<v2>>
+2 sagte er zu dem Propheten Natan: Ich wohne in einem Haus aus
+Zedernholz, die Lade Gottes aber wohnt in einem Zelt. [fn:3]
+
+<<v3>>
+3 Natan antwortete dem König: Geh nur und tu alles, was du im Sinn hast;
+denn der Herr ist mit dir.
+
+<<v4>>
+4 Aber in jener Nacht erging das Wort des Herrn an Natan:
+
+<<v5>>
+5 Geh zu meinem Knecht David und sag zu ihm: So spricht der Herr: Du
+willst mir ein Haus bauen, damit ich darin wohne? [fn:4]
+
+<<v6>>
+6 Seit dem Tag, als ich die Israeliten aus Ägypten heraufgeführt habe,
+habe ich bis heute nie in einem Haus gewohnt, sondern bin in einer
+Zeltwohnung umhergezogen.
+
+<<v7>>
+7 Habe ich in der Zeit, als ich bei den Israeliten von Ort zu Ort zog,
+jemals zu einem der Richter Israels, die ich als Hirten über mein Volk
+Israel eingesetzt hatte, ein Wort gesagt und sie gefragt: Warum habt ihr
+mir kein Haus aus Zedernholz gebaut? [fn:5]
+
+<<v8>>
+8 Sag also jetzt meinem Knecht David: So spricht der Herr der Heere: Ich
+habe dich von der Weide und von der Herde weggeholt, damit du Fürst über
+mein Volk Israel wirst, [fn:6]
+
+<<v9>>
+9 und ich bin überall mit dir gewesen, wohin du auch gegangen bist. Ich
+habe alle deine Feinde vor deinen Augen vernichtet und ich will dir
+einen großen Namen machen, der dem Namen der Großen auf der Erde gleich
+ist. [fn:7]
+
+<<v10>>
+10 Ich will meinem Volk Israel einen Platz zuweisen und es einpflanzen,
+damit es an seinem Ort (sicher) wohnen kann und sich nicht mehr
+ängstigen muss und schlechte Menschen es nicht mehr unterdrücken wie
+früher
+
+<<v11>>
+11 und auch von dem Tag an, an dem ich Richter in meinem Volk Israel
+eingesetzt habe. Ich verschaffe dir Ruhe vor allen deinen Feinden. Nun
+verkündet dir der Herr, dass der Herr dir ein Haus bauen wird. [fn:8]
+
+<<v12>>
+12 Wenn deine Tage erfüllt sind und du dich zu deinen Vätern legst,
+werde ich deinen leiblichen Sohn als deinen Nachfolger einsetzen und
+seinem Königtum Bestand verleihen.
+
+<<v13>>
+13 Er wird für meinen Namen ein Haus bauen und ich werde seinem
+Königsthron ewigen Bestand verleihen. [fn:9]
+
+<<v14>>
+14 Ich will für ihn Vater sein und er wird für mich Sohn sein. Wenn er
+sich verfehlt, werde ich ihn nach Menschenart mit Ruten und mit Schlägen
+züchtigen. [fn:10]
+
+<<v15>>
+15 Meine Huld aber soll nicht von ihm weichen, wie sie von Saul gewichen
+ist, den ich vor deinen Augen verstoßen habe. [fn:11]
+
+<<v16>>
+16 Dein Haus und dein Königtum sollen durch mich auf ewig bestehen
+bleiben; dein Thron soll auf ewig Bestand haben.
+
+<<v17>>
+17 Natan sprach zu David genauso, wie es (ihm) gesagt und offenbart
+worden war.
+
+<<v18>>
+18 Da ging König David hin und setzte sich vor dem Herrn nieder und
+sagte: Wer bin ich, mein Herr und Gott, und was ist mein Haus, dass du
+mich bis hierher geführt hast?
+
+<<v19>>
+19 Weil das in deinen Augen noch zu wenig war, mein Herr und Gott, hast
+du dem Haus deines Knechtes sogar Zusagen für die ferne Zukunft gemacht.
+Ist das eine Weisung, wie sie einem (schwachen) Menschen zukommt, mein
+Herr und Gott?
+
+<<v20>>
+20 Was soll David noch weiter zu dir sagen? Du kennst deinen Knecht,
+mein Herr und Gott.
+
+<<v21>>
+21 Um deines Wortes willen und nach der Absicht deines Herzens hast du
+alle diese großen Taten getan und deinem Knecht offenbart.
+
+<<v22>>
+22 Darum bist du groß, mein Herr und Gott. Ja, keiner ist dir gleich,
+und außer dir gibt es keinen Gott nach allem, was wir mit unseren Ohren
+gehört haben.
+
+<<v23>>
+23 Welches andere Volk auf der Erde ist wie dein Volk Israel? Wo wäre
+ein Gott hingegangen, um ein Volk für sich als sein Volk freizukaufen
+und ihm einen Namen zu machen und für dieses Volk große und erstaunliche
+Taten zu vollbringen, so wie du ganze Völker und ihre Götter vertrieben
+hast vor den Augen deines Volkes, das du dir von den Ägyptern
+freigekauft hast? [fn:12]
+
+<<v24>>
+24 Du hast Israel auf ewig zu deinem Volk bestimmt und du, Herr, bist
+sein Gott geworden.
+
+<<v25>>
+25 Doch nun, Herr und Gott, verleih dem Wort, das du über deinen Knecht
+und über sein Haus gesprochen hast, für immer Geltung und tu, was du
+gesagt hast.
+
+<<v26>>
+26 Dann wird dein Name groß sein für ewige Zeiten und man wird sagen:
+Der Herr der Heere ist Israels Gott!, und das Haus deines Knechtes David
+wird vor deinen Augen Bestand haben.
+
+<<v27>>
+27 Denn du, Herr der Heere, Gott Israels, hast deinem Knecht offenbart:
+Ich will dir ein Haus bauen. Darum fand dein Knecht den Mut, so zu dir
+zu beten:
+
+<<v28>>
+28 Ja, mein Herr und Gott, du bist der einzige Gott und deine Worte sind
+wahr. Du hast deinem Knecht ein solches Glück zugesagt.
+
+<<v29>>
+29 So segne jetzt gnädig das Haus deines Knechtes, damit es ewig vor
+deinen Augen Bestand hat. Denn du, mein Herr und Gott, hast es
+versprochen und mit deinem Segen wird das Haus deines Knechtes für immer
+gesegnet sein.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-29) [[file:1.Chr_17.org::v1][1 Chr 17,1-27]]
+
+[fn:2] 1-17: Die Natan-Verheißung bildet die Grundlage für das
+dauernde Bestehen der Daviddynastie und damit für die messianische
+Erwartung.
+
+[fn:3] [[file:Ps_132.org::v1][Ps 132,1-5]]
+
+[fn:4] (5-6) [[file:1.Kön_5.org::v17][1 Kön 5,17]]; [[file:1.Kön_8.org::v16][8,16]].[[file:1.Kön_8.org::v27][27]]; [[file:1.Chr_22.org::v8][1 Chr 22,8]]; [[file:Jes_66.org::v1][Jes 66,1]]
+
+[fn:5] Richter: Text korr. mit [[file:1.Chr_17.org::v6][1 Chr 17,6]]; H: Stämme.
+
+[fn:6] [[file:2.Sam_5.org::v2][5,2]]; [[file:1.Sam_16.org::v11][1 Sam 16,11-13]]
+
+[fn:7] [[file:Gen_12.org::v2][Gen 12,2]]
+
+[fn:8] [[file:1.Kön_8.org::v20][1 Kön 8,20]]
+
+[fn:9] [[file:1.Kön_5.org::v19][1 Kön 5,19]]; [[file:1.Kön_6.org::v12][6,12]]; [[file:Ps_89.org::v4][Ps 89,4f]]; [[file:Jes_9.org::v6][Jes 9,6]]
+
+[fn:10] [[file:Ps_89.org::v27][Ps 89,27]]; [[file:Ps_2.org::v7][Ps 2,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_1.org::v5][Hebr 1,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v32][Lk 1,32]]
+
+[fn:11] [[file:1.Sam_15.org::v23][1 Sam 15,23]].[[file:1.Sam_15.org::v26][26]]
+
+[fn:12] Text korr.; vgl. die alten Übersetzungen und [[file:1.Chr_17.org::v21][1 Chr 17,21]].

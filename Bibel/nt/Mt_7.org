@@ -1,0 +1,252 @@
+:PROPERTIES:
+:ID:       cccaef08-3a88-4f02-accc-c4501f930e27
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Matthäus* --
+[[file:Mt_1.html][1]] ... [[file:Mt_5.html][5]] [[file:Mt_6.html][6]]
+*7* [[file:Mt_8.html][8]] [[file:Mt_9.html][9]] ...
+[[file:Mt_28.html][28]]
+
+--------------
+
+* Mt 7
+  :PROPERTIES:
+  :CUSTOM_ID: mt-7
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Vom Richten: 7,1-5
+     :PROPERTIES:
+     :CUSTOM_ID: vom-richten-71-5
+     :END:
+1 Richtet nicht, damit ihr nicht gerichtet werdet!
+^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 68\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Denn wie ihr richtet, so werdet ihr gerichtet werden, und nach dem
+Maß, mit dem ihr messt und zuteilt, wird euch zugeteilt werden.
+
+<<v3>>
+3 Warum siehst du den Splitter im Auge deines Bruders, aber den Balken
+in deinem Auge bemerkst du nicht? ^{[[#fn2][2]]}
+
+<<v4>>
+4 Wie kannst du zu deinem Bruder sagen: Lass mich den Splitter aus
+deinem Auge herausziehen! - und dabei steckt in deinem Auge ein Balken?
+
+<<v5>>
+5 Du Heuchler! Zieh zuerst den Balken aus deinem Auge, dann kannst du
+versuchen, den Splitter aus dem Auge deines Bruders herauszuziehen.\\
+\\
+
+<<v6>>
+**** Von der Entweihung des Heiligen: 7,6
+     :PROPERTIES:
+     :CUSTOM_ID: von-der-entweihung-des-heiligen-76
+     :END:
+6 Gebt das Heilige nicht den Hunden und werft eure Perlen nicht den
+Schweinen vor, denn sie könnten sie mit ihren Füßen zertreten und sich
+umwenden und euch zerreißen. ^{[[#fn3][3]]}\\
+^{[[#fn4][4]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 69\\
+$ŽG://ESyn0812/
+
+<<v7>>
+**** Vom Vertrauen beim Beten: 7,7-11
+     :PROPERTIES:
+     :CUSTOM_ID: vom-vertrauen-beim-beten-77-11
+     :END:
+7 Bittet, dann wird euch gegeben; sucht, dann werdet ihr finden; klopft
+an, dann wird euch geöffnet. ^{[[#fn5][5]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 70\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v8>>
+8 Denn wer bittet, der empfängt; wer sucht, der findet; und wer
+anklopft, dem wird geöffnet.
+
+<<v9>>
+9 Oder ist einer unter euch, der seinem Sohn einen Stein gibt, wenn er
+um Brot bittet,
+
+<<v10>>
+10 oder eine Schlange, wenn er um einen Fisch bittet?
+
+<<v11>>
+11 Wenn nun schon ihr, die ihr böse seid, euren Kindern gebt, was gut
+ist, wie viel mehr wird euer Vater im Himmel denen Gutes geben, die ihn
+bitten.\\
+\\
+
+<<v12>>
+**** Die Goldene Regel: 7,12
+     :PROPERTIES:
+     :CUSTOM_ID: die-goldene-regel-712
+     :END:
+12 Alles, was ihr also von anderen erwartet, das tut auch ihnen! Darin
+besteht das Gesetz und die Propheten. ^{[[#fn6][6]]}\\
+^{[[#fn7][7]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 71\\
+$ŽG://ESyn0812/
+
+<<v13>>
+**** Von den zwei Wegen: 7,13-14
+     :PROPERTIES:
+     :CUSTOM_ID: von-den-zwei-wegen-713-14
+     :END:
+13 Geht durch das enge Tor! Denn das Tor ist weit, das ins Verderben
+führt, und der Weg dahin ist breit und viele gehen auf ihm.
+^{[[#fn8][8]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 72\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v14>>
+14 Aber das Tor, das zum Leben führt, ist eng und der Weg dahin ist
+schmal und nur wenige finden ihn.\\
+\\
+
+<<v15>>
+**** Von den falschen Propheten: 7,15-23
+     :PROPERTIES:
+     :CUSTOM_ID: von-den-falschen-propheten-715-23
+     :END:
+15 Hütet euch vor den falschen Propheten; sie kommen zu euch wie
+(harmlose) Schafe, in Wirklichkeit aber sind sie reißende Wölfe.
+^{[[#fn9][9]][[#fn10][10]][[#fn11][11]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 73\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v16>>
+16 An ihren Früchten werdet ihr sie erkennen. Erntet man etwa von Dornen
+Trauben oder von Disteln Feigen? ^{[[#fn12][12]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 118\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v17>>
+17 Jeder gute Baum bringt gute Früchte hervor, ein schlechter Baum aber
+schlechte. ^{[[#fn13][13]]}
+
+<<v18>>
+18 Ein guter Baum kann keine schlechten Früchte hervorbringen und ein
+schlechter Baum keine guten.
+
+<<v19>>
+19 Jeder Baum, der keine guten Früchte hervorbringt, wird umgehauen und
+ins Feuer geworfen. ^{[[#fn14][14]]}
+
+<<v20>>
+20 An ihren Früchten also werdet ihr sie erkennen.
+
+<<v21>>
+21 Nicht jeder, der zu mir sagt: Herr! Herr!, wird in das Himmelreich
+kommen, sondern nur, wer den Willen meines Vaters im Himmel erfüllt.
+^{[[#fn15][15]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 74\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v22>>
+22 Viele werden an jenem Tag zu mir sagen: Herr, Herr, sind wir nicht in
+deinem Namen als Propheten aufgetreten und haben wir nicht mit deinem
+Namen Dämonen ausgetrieben und mit deinem Namen viele Wunder vollbracht?
+^{[[#fn16][16]]}
+
+<<v23>>
+23 Dann werde ich ihnen antworten: Ich kenne euch nicht. /Weg von mir,
+ihr Übertreter des Gesetzes!/ ^{[[#fn17][17]]}\\
+\\
+
+<<v24>>
+**** Vom Haus auf dem Felsen: 7,24-27
+     :PROPERTIES:
+     :CUSTOM_ID: vom-haus-auf-dem-felsen-724-27
+     :END:
+24 Wer diese meine Worte hört und danach handelt, ist wie ein kluger
+Mann, der sein Haus auf Fels baute. ^{[[#fn18][18]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 75\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v25>>
+25 Als nun ein Wolkenbruch kam und die Wassermassen heranfluteten, als
+die Stürme tobten und an dem Haus rüttelten, da stürzte es nicht ein;
+denn es war auf Fels gebaut.
+
+<<v26>>
+26 Wer aber meine Worte hört und nicht danach handelt, ist wie ein
+unvernünftiger Mann, der sein Haus auf Sand baute.
+
+<<v27>>
+27 Als nun ein Wolkenbruch kam und die Wassermassen heranfluteten, als
+die Stürme tobten und an dem Haus rüttelten, da stürzte es ein und wurde
+völlig zerstört.\\
+\\
+
+<<v28>>
+**** Die Wirkung der Bergpredigt: 7,28-29
+     :PROPERTIES:
+     :CUSTOM_ID: die-wirkung-der-bergpredigt-728-29
+     :END:
+28 Als Jesus diese Rede beendet hatte, war die Menge sehr betroffen von
+seiner Lehre; ^{[[#fn19][19]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 76\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v29>>
+29 denn er lehrte sie wie einer, der (göttliche) Vollmacht hat, und
+nicht wie ihre Schriftgelehrten.\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-2) Mk 4,24f; Lk 6,37f; Röm 2,1; 1 Kor 4,5 ⇨Esyn:
+Synopse Nr. 68
+
+^{[[#fnm2][2]]} ℘ (3-5) Lk 6,41f
+
+^{[[#fnm3][3]]} Der Ausdruck «das Heilige» bezeichnete ursprünglich
+wahrscheinlich Opferfleisch, dann im übertragenen Sinn bei den Juden die
+Tora (das Gesetz) und hier die Lehre Jesu.
+
+^{[[#fnm4][4]]} ℘ ⇨Esyn: Synopse Nr. 69
+
+^{[[#fnm5][5]]} ℘ 18,19; 21,22; Mk 11,24; Joh 14,13f; 15,7; 16,24; 1 Joh
+5,14f; (7-11) Lk 11,9-13 ⇨Esyn: Synopse Nr. 70
+
+^{[[#fnm6][6]]} ℘ 22,40; Röm 13,8-10; Gal 5,14; Lk 6,31
+
+^{[[#fnm7][7]]} ℘ ⇨Esyn: Synopse Nr. 71
+
+^{[[#fnm8][8]]} ℘ (13f) Lk 13,24 ⇨Esyn: Synopse Nr. 72
+
+^{[[#fnm9][9]]} ℘ 24,11.24; 1 Joh 4,1; Joh 10,12
+
+^{[[#fnm10][10]]} Wörtlich: sie kommen zu euch in Schafspelzen, innen
+aber sind sie reißende Wölfe.
+
+^{[[#fnm11][11]]} ℘ ⇨Esyn: Synopse Nr. 73
+
+^{[[#fnm12][12]]} ℘ Jak 3,12; (16-20) Lk 6,43f ⇨Esyn: Synopse Nr. 118
+
+^{[[#fnm13][13]]} ℘ (17f) 12,33
+
+^{[[#fnm14][14]]} ℘ 3,10; Lk 3,9; Mt 12,33
+
+^{[[#fnm15][15]]} ℘ Jak 1,22; 1 Joh 2,17; Lk 6,46 ⇨Esyn: Synopse Nr. 74
+
+^{[[#fnm16][16]]} ℘ (22-23) Lk 13,25-27
+
+^{[[#fnm17][17]]} ℘ 25,12; Ps 6,9 G
+
+^{[[#fnm18][18]]} ℘ (24-27) Lk 6,47-49 ⇨Esyn: Synopse Nr. 75
+
+^{[[#fnm19][19]]} ℘ Mk 1,22f; Lk 4,32 ⇨Esyn: Synopse Nr. 76

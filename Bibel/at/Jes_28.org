@@ -1,0 +1,270 @@
+:PROPERTIES:
+:ID:       b5b71fa6-a400-4d64-9282-8ee2c0d28f0d
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_26.html][26]] [[file:Jes_27.html][27]] *28*
+[[file:Jes_29.html][29]] [[file:Jes_30.html][30]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 28
+  :PROPERTIES:
+  :CUSTOM_ID: jes-28
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Worte über Israel und Juda aus der späteren Zeit des Propheten:
+28,1 - 35,10
+   :PROPERTIES:
+   :CUSTOM_ID: worte-über-israel-und-juda-aus-der-späteren-zeit-des-propheten-281---3510
+   :END:
+**** Der Untergang Samarias: 28,1-4
+     :PROPERTIES:
+     :CUSTOM_ID: der-untergang-samarias-281-4
+     :END:
+1 Weh der stolzen Krone der betrunkenen Efraimiter, /\\
+ ihrem verwelkten Kranz von prächtigen Blumen, auf dem Gipfel über dem
+fruchtbaren Tal /\\
+ derer, die der Wein überwältigt hat. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Seht, der Herr schickt einen gewaltigen Helden: /\\
+ Wie ein Hagelschlag, wie ein verheerender Sturm, wie ein Wolkenbruch
+mit seinen mächtigen Fluten /\\
+ wirft er alles mit Macht zu Boden.\\
+\\
+
+<<v3>>
+3 Mit seinen Füßen zertritt er die stolze Krone /\\
+ der betrunkenen Efraimiter.\\
+\\
+
+<<v4>>
+4 Dann geht es dem verwelkten Kranz von prächtigen Blumen, /\\
+ auf dem Gipfel über dem fruchtbaren Tal, /\\
+ wie einer frühreifen Feige vor der Ernte: Wer sie erblickt, der
+verschlingt sie, /\\
+ kaum dass er sie in der Hand hat.\\
+\\
+
+<<v5>>
+**** Der heilige Rest: 28,5-6
+     :PROPERTIES:
+     :CUSTOM_ID: der-heilige-rest-285-6
+     :END:
+5 An jenem Tag wird der Herr der Heere für den Rest seines Volkes /\\
+ zu einer herrlichen Krone und einem prächtigen Kranz;\\
+\\
+
+<<v6>>
+6 er verleiht dem, der zu Gericht sitzt, den Geist des Rechts /\\
+ und gibt denen Kraft, die den Feind zum Stadttor hinausdrängen.
+^{[[#fn2][2]]}\\
+\\
+
+<<v7>>
+**** Die untreuen Priester und Propheten in Jerusalem: 28,7-15
+     :PROPERTIES:
+     :CUSTOM_ID: die-untreuen-priester-und-propheten-in-jerusalem-287-15
+     :END:
+7 Sogar diese hier schwanken, berauscht vom Wein, /\\
+ und taumeln, betäubt vom Bier. Priester und Propheten schwanken vom
+Bier, /\\
+ sind überwältigt vom Wein. Sie taumeln vom Bier, /\\
+ sie schwanken bei ihren Visionen, /\\
+ sie torkeln, wenn sie ihr Urteil verkünden. ^{[[#fn3][3]]}\\
+\\
+
+<<v8>>
+8 Alle Tische sind voll von Erbrochenem, /\\
+ sind voll von Kot bis auf den letzten Fleck.\\
+\\
+
+<<v9>>
+9 Wen will der Mann denn Erkenntnis lehren, /\\
+ wem das Gehörte erklären? Kindern, die man eben von der Milch
+entwöhnte, /\\
+ die man gerade von der Brust nahm?\\
+\\
+
+<<v10>>
+10 Was soll sein Gestammel, sein Papperlapapp, /\\
+ sein Geschwätz bald hier, /\\
+ sein Geschwätz bald dort? ^{[[#fn4][4]]}\\
+\\
+
+<<v11>>
+11 Ja, mit stammelnder Lippe und fremder Zunge /\\
+ redet er künftig zu diesem Volk. ^{[[#fn5][5]]}\\
+\\
+
+<<v12>>
+12 Er hatte zu ihnen gesagt: So findet ihr Ruhe; /\\
+ gönnt doch den Müden die Rast, /\\
+ hier ist der Ort der Erholung. /\\
+ Sie aber wollten nicht hören. ^{[[#fn6][6]]}\\
+\\
+
+<<v13>>
+13 Darum ergeht das Wort des Herrn an sie /\\
+ in Form von Gestammel, von Papperlapapp, von Geschwätz bald hier /\\
+ und Geschwätz bald dort, damit sie gehen und hintenüberfallen, /\\
+ damit sie sich verfangen und verstricken /\\
+ und schließlich zerschellen. ^{[[#fn7][7]]}\\
+\\
+
+<<v14>>
+14 Darum hört das Wort des Herrn, ihr Spötter, /\\
+ ihr Sprüchemacher bei diesem Volk in Jerusalem. ^{[[#fn8][8]]}\\
+\\
+
+<<v15>>
+15 Ihr habt gesagt: Wir haben mit dem Tod ein Bündnis geschlossen, /\\
+ wir haben mit der Unterwelt einen Vertrag gemacht. Wenn die Flut
+heranbraust, /\\
+ erreicht sie uns nicht; denn wir haben unsere Zuflucht zur Lüge
+genommen /\\
+ und uns hinter der Täuschung versteckt. ^{[[#fn9][9]]}\\
+\\
+
+<<v16>>
+**** Die ungläubigen Spötter: 28,16-22
+     :PROPERTIES:
+     :CUSTOM_ID: die-ungläubigen-spötter-2816-22
+     :END:
+16 Darum - so spricht Gott, der Herr: Seht her, ich lege einen
+Grundstein in Zion, /\\
+ einen harten und kostbaren Eckstein, ein Fundament, das sicher und fest
+ist: /\\
+ Wer glaubt, der braucht nicht zu fliehen.
+^{[[#fn10][10]][[#fn11][11]]}\\
+\\
+
+<<v17>>
+17 Als Senkblei nehme ich das Recht /\\
+ und als Wasserwaage die Gerechtigkeit. Aber der Hagelsturm fegt eure
+Lügenzuflucht hinweg /\\
+ und das Wasser schwemmt euer Versteck fort;\\
+\\
+
+<<v18>>
+18 euer Bündnis mit dem Tod ist dann gelöst, /\\
+ euer Vertrag mit der Unterwelt hat keinen Bestand. Wenn die Flut
+heranbraust, /\\
+ werdet ihr wie zertrampeltes Weideland.\\
+\\
+
+<<v19>>
+19 Sooft sie heranbraust, reißt sie euch mit. /\\
+ Morgen für Morgen braust sie heran, /\\
+ sie kommt bei Tag und bei Nacht. /\\
+ Dann wird man nur noch mit Entsetzen das Gehörte erklären.
+^{[[#fn12][12]]}\\
+\\
+
+<<v20>>
+20 Das Bett ist zu kurz, /\\
+ man kann sich nicht ausstrecken, die Decke ist zu schmal, /\\
+ man kann sich nicht einhüllen. ^{[[#fn13][13]]}\\
+\\
+
+<<v21>>
+21 Denn der Herr wird sich erheben wie am Berg Perazim, /\\
+ wie im Tal bei Gibeon wird er toben und seine Tat vollbringen, seine
+seltsame Tat, /\\
+ sein Werk vollenden, sein befremdliches Werk. ^{[[#fn14][14]]}\\
+\\
+
+<<v22>>
+22 Darum lasst jetzt euren Spott, /\\
+ sonst werden eure Fesseln noch fester. Denn ich habe es von Gott, dem
+Herrn der Heere, gehört: /\\
+ Die Vernichtung der ganzen Welt ist beschlossen. ^{[[#fn15][15]]}\\
+\\
+
+<<v23>>
+**** Das Gleichnis vom Bauern: 28,23-29
+     :PROPERTIES:
+     :CUSTOM_ID: das-gleichnis-vom-bauern-2823-29
+     :END:
+23 Horcht auf, hört meine Stimme, /\\
+ gebt Acht, hört auf mein Wort!\\
+\\
+
+<<v24>>
+24 Pflügt denn der Bauer jeden Tag, um zu säen, /\\
+ beackert und eggt er denn jeden Tag seine Felder?\\
+\\
+
+<<v25>>
+25 Nein, wenn er die Äcker geebnet hat, /\\
+ streut er Kümmel und Dill aus, sät Weizen und Gerste /\\
+ und an den Rändern den Dinkel.\\
+\\
+
+<<v26>>
+26 So unterweist und belehrt ihn sein Gott, /\\
+ damit er es recht macht.\\
+\\
+
+<<v27>>
+27 Auch fährt man nicht mit dem Dreschschlitten über den Dill /\\
+ und mit den Wagenrädern über den Kümmel, sondern man klopft den Dill
+mit dem Stock aus /\\
+ und den Kümmel mit Stecken.\\
+\\
+
+<<v28>>
+28 Zermalmt man etwa das Getreide (beim Dreschen)? /\\
+ Nein, man drischt es nicht endlos, man lässt die Wagenräder und die
+Hufe der Tiere /\\
+ nicht darüber gehen, bis es zermalmt ist.\\
+\\
+
+<<v29>>
+29 Auch dies lehrt der Herr der Heere; /\\
+ sein Rat ist wunderbar, er schenkt großen Erfolg. ^{[[#fn16][16]]}\\
+\\
+
+^{[[#fnm1][1]]} 1-4: Die «Krone auf dem Berg» ist Samaria. Dieses Bild
+und das vom Blumenkranz durchdringen sich.
+
+^{[[#fnm2][2]]} 6b: den Feind, wörtlich: den Kampf.
+
+^{[[#fnm3][3]]} ℘ 29,9
+
+^{[[#fnm4][4]]} 10-13: Papperlapapp: H: zaw lazaw, zaw lazaw, qaw laqaw,
+qaw laqaw, verächtliche Nachäffung der Propheten. - «Er» in VV. 11f ist
+Jahwe.
+
+^{[[#fnm5][5]]} ℘ 33,19; 1 Kor 14,21
+
+^{[[#fnm6][6]]} ℘ 30,15; Jer 6,16
+
+^{[[#fnm7][7]]} ℘ 8,15
+
+^{[[#fnm8][8]]} 14b: Sprüchemacher, andere Übersetzungsmöglichkeit:
+Herrscher.
+
+^{[[#fnm9][9]]} ℘ Am 9,10
+
+^{[[#fnm10][10]]} ℘ 7,9; Röm 9,33; 10,11; 1 Petr 2,6
+
+^{[[#fnm11][11]]} 16f: ich lege: Text korr. nach G. V.16.17ab
+unterbrechen den Text; V. 17cd schließt an V. 15 an.
+
+^{[[#fnm12][12]]} ℘ 28,9
+
+^{[[#fnm13][13]]} Anscheinend ein Sprichwort.
+
+^{[[#fnm14][14]]} ℘ 2 Sam 5,17-25; Jos 10,10-14
+
+^{[[#fnm15][15]]} ℘ 10,23
+
+^{[[#fnm16][16]]} ℘ 9,5

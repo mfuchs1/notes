@@ -1,0 +1,1020 @@
+#+TITLE: Ps 119 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-18 So 21:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 119.html
+
+* Ps 119
+
+<<verses>>
+
+<<v1>>
+* Ein Lobgesang auf Gottes Wort
+
+1 (Alef) Wohl denen, deren Weg ohne Tadel ist, /\\
+ die leben nach der Weisung des Herrn. [fn:1]\\
+\\
+
+<<v2>>
+2 Wohl denen, die seine Vorschriften befolgen /\\
+ und ihn suchen von ganzem Herzen,\\
+\\
+
+<<v3>>
+3 die kein Unrecht tun /\\
+ und auf seinen Wegen gehn.\\
+\\
+
+<<v4>>
+4 Du hast deine Befehle gegeben, /\\
+ damit man sie genau beachtet.\\
+\\
+
+<<v5>>
+5 Wären doch meine Schritte fest darauf gerichtet, /\\
+ deinen Gesetzen zu folgen!\\
+\\
+
+<<v6>>
+6 Dann werde ich niemals scheitern, /\\
+ wenn ich auf all deine Gebote schaue.\\
+\\
+
+<<v7>>
+7 Mit lauterem Herzen will ich dir danken, /\\
+ wenn ich deine gerechten Urteile lerne.\\
+\\
+
+<<v8>>
+8 Deinen Gesetzen will ich immer folgen. /\\
+ Lass mich doch niemals im Stich! (Bet)\\
+\\
+
+<<v9>>
+9 Wie geht ein junger Mann seinen Pfad ohne Tadel? /\\
+ Wenn er sich hält an dein Wort.\\
+\\
+
+<<v10>>
+10 Ich suche dich von ganzem Herzen. /\\
+ Lass mich nicht abirren von deinen Geboten!\\
+\\
+
+<<v11>>
+11 Ich berge deinen Spruch im Herzen, /\\
+ damit ich gegen dich nicht sündige.\\
+\\
+
+<<v12>>
+12 Gepriesen seist du, Herr. /\\
+ Lehre mich deine Gesetze!\\
+\\
+
+<<v13>>
+13 Mit meinen Lippen verkünde ich /\\
+ alle Urteile deines Mundes.\\
+\\
+
+<<v14>>
+14 Nach deinen Vorschriften zu leben /\\
+ freut mich mehr als großer Besitz.\\
+\\
+
+<<v15>>
+15 Ich will nachsinnen über deine Befehle /\\
+ und auf deine Pfade schauen.\\
+\\
+
+<<v16>>
+16 Ich habe meine Freude an deinen Gesetzen, /\\
+ dein Wort will ich nicht vergessen. (Gimel)\\
+\\
+
+<<v17>>
+17 Tu deinem Knecht Gutes, erhalt mich am Leben! /\\
+ Dann will ich dein Wort befolgen.\\
+\\
+
+<<v18>>
+18 Öffne mir die Augen /\\
+ für das Wunderbare an deiner Weisung! [fn:2]\\
+\\
+
+<<v19>>
+19 Ich bin nur Gast auf Erden. /\\
+ Verbirg mir nicht deine Gebote! [fn:3]\\
+\\
+
+<<v20>>
+20 In Sehnsucht nach deinem Urteil /\\
+ verzehrt sich allezeit meine Seele.\\
+\\
+
+<<v21>>
+21 Du drohst den Stolzen. /\\
+ Verflucht sei, wer abirrt von deinen Geboten. [fn:4]\\
+\\
+
+<<v22>>
+22 Nimm von mir Schmach und Verachtung! /\\
+ Denn was du vorschreibst, befolge ich.\\
+\\
+
+<<v23>>
+23 Wenn auch Fürsten gegen mich beraten: /\\
+ dein Knecht sinnt nach über deine Gesetze.\\
+\\
+
+<<v24>>
+24 Deine Vorschriften machen mich froh; /\\
+ sie sind meine Berater. (Dalet)\\
+\\
+
+<<v25>>
+25 Meine Seele klebt am Boden. /\\
+ Durch dein Wort belebe mich! [fn:5] [fn:6]\\
+\\
+
+<<v26>>
+26 Ich habe dir mein Geschick erzählt und du erhörtest mich. /\\
+ Lehre mich deine Gesetze!\\
+\\
+
+<<v27>>
+27 Lass mich den Weg begreifen, den deine Befehle mir zeigen, /\\
+ dann will ich nachsinnen über deine Wunder.\\
+\\
+
+<<v28>>
+28 Meine Seele zerfließt vor Kummer. /\\
+ Richte mich auf durch dein Wort!\\
+\\
+
+<<v29>>
+29 Halte mich fern vom Weg der Lüge; /\\
+ begnade mich mit deiner Weisung! [fn:7]\\
+\\
+
+<<v30>>
+30 Ich wählte den Weg der Wahrheit; /\\
+ nach deinen Urteilen hab ich Verlangen. [fn:8]\\
+\\
+
+<<v31>>
+31 Ich halte an deinen Vorschriften fest. /\\
+ Herr, lass mich niemals scheitern!\\
+\\
+
+<<v32>>
+32 Ich eile voran auf dem Weg deiner Gebote, /\\
+ denn mein Herz machst du weit. (He)\\
+\\
+
+<<v33>>
+33 Herr, weise mir den Weg deiner Gesetze! /\\
+ Ich will ihn einhalten bis ans Ende.\\
+\\
+
+<<v34>>
+34 Gib mir Einsicht, damit ich deiner Weisung folge /\\
+ und mich an sie halte aus ganzem Herzen.\\
+\\
+
+<<v35>>
+35 Führe mich auf dem Pfad deiner Gebote! /\\
+ Ich habe an ihm Gefallen. [fn:9]\\
+\\
+
+<<v36>>
+36 Deinen Vorschriften neige mein Herz zu, /\\
+ doch nicht der Habgier!\\
+\\
+
+<<v37>>
+37 Wende meine Augen ab von eitlen Dingen; /\\
+ durch dein Wort belebe mich! [fn:10]\\
+\\
+
+<<v38>>
+38 Erfülle deinem Knecht die Verheißung, /\\
+ die allen gilt, die dich fürchten und ehren.\\
+\\
+
+<<v39>>
+39 Wende die Schande ab, vor der mir graut; /\\
+ denn deine Entscheide sind gut.\\
+\\
+
+<<v40>>
+40 Nach deinen Befehlen hab ich Verlangen. /\\
+ Gib mir neue Kraft durch deine Gerechtigkeit! (Waw)\\
+\\
+
+<<v41>>
+41 Herr, deine Huld komme auf mich herab /\\
+ und deine Hilfe, wie du es verheißen hast.\\
+\\
+
+<<v42>>
+42 Dann kann ich dem, der mich schmäht, erwidern; /\\
+ denn ich vertraue auf dein Wort.\\
+\\
+
+<<v43>>
+43 Entziehe meinem Mund nicht das Wort der Wahrheit! /\\
+ Ich hoffe so sehr auf deine Entscheide.\\
+\\
+
+<<v44>>
+44 Ich will deiner Weisung beständig folgen, /\\
+ auf immer und ewig.\\
+\\
+
+<<v45>>
+45 Dann schreite ich aus auf freier Bahn; /\\
+ denn ich frage nach deinen Befehlen.\\
+\\
+
+<<v46>>
+46 Deine Gebote will ich vor Königen bezeugen /\\
+ und mich nicht vor ihnen schämen. [fn:11]\\
+\\
+
+<<v47>>
+47 An deinen Geboten habe ich meine Freude, /\\
+ ich liebe sie von Herzen. [fn:12]\\
+\\
+
+<<v48>>
+48 Ich erhebe meine Hände zu deinen Geboten; /\\
+ nachsinnen will ich über deine Gesetze. (Sajin) [fn:13]\\
+\\
+
+<<v49>>
+49 Denk an das Wort für deinen Knecht, /\\
+ durch das du mir Hoffnung gabst.\\
+\\
+
+<<v50>>
+50 Das ist mein Trost im Elend: /\\
+ Deine Verheißung spendet mir Leben.\\
+\\
+
+<<v51>>
+51 Frech verhöhnen mich die Stolzen; /\\
+ ich aber weiche nicht ab von deiner Weisung.\\
+\\
+
+<<v52>>
+52 Denke ich an deine Urteile seit alter Zeit, /\\
+ Herr, dann bin ich getröstet.\\
+\\
+
+<<v53>>
+53 Zorn packt mich wegen der Frevler, /\\
+ weil sie deine Weisung missachten.\\
+\\
+
+<<v54>>
+54 Zum Lobgesang wurden mir deine Gesetze /\\
+ im Haus meiner Pilgerschaft.\\
+\\
+
+<<v55>>
+55 In der Nacht denke ich, Herr, an deinen Namen; /\\
+ ich will deine Weisung beachten. [fn:14]\\
+\\
+
+<<v56>>
+56 Deine Befehle zu befolgen /\\
+ ist das Glück, das mir zufiel. (Chet)\\
+\\
+
+<<v57>>
+57 Mein Anteil ist der Herr; /\\
+ ich habe versprochen, dein Wort zu beachten.\\
+\\
+
+<<v58>>
+58 Ich suche deine Gunst von ganzem Herzen. /\\
+ Sei mir gnädig nach deiner Verheißung!\\
+\\
+
+<<v59>>
+59 Ich überdenke meine Wege, /\\
+ zu deinen Vorschriften lenke ich meine Schritte.\\
+\\
+
+<<v60>>
+60 Ich eile und säume nicht, /\\
+ deine Gebote zu halten.\\
+\\
+
+<<v61>>
+61 Auch wenn mich die Stricke der Frevler fesseln, /\\
+ vergesse ich deine Weisung nicht.\\
+\\
+
+<<v62>>
+62 Um Mitternacht stehe ich auf, um dich zu preisen /\\
+ wegen deiner gerechten Entscheide. [fn:15]\\
+\\
+
+<<v63>>
+63 Ich bin ein Freund all derer, die dich fürchten und ehren, /\\
+ und aller, die deine Befehle befolgen.\\
+\\
+
+<<v64>>
+64 Von deiner Güte, Herr, ist die Erde erfüllt. /\\
+ Lehre mich deine Gesetze! (Tet) [fn:16]\\
+\\
+
+<<v65>>
+65 Du hast deinem Knecht Gutes erwiesen, /\\
+ o Herr, nach deinem Wort.\\
+\\
+
+<<v66>>
+66 Lehre mich Erkenntnis und rechtes Urteil! /\\
+ Ich vertraue auf deine Gebote. [fn:17]\\
+\\
+
+<<v67>>
+67 Ehe ich gedemütigt wurde, ging mein Weg in die Irre; /\\
+ nun aber halte ich mich an deine Verheißung.\\
+\\
+
+<<v68>>
+68 Du bist gut und wirkst Gutes. /\\
+ Lehre mich deine Gesetze!\\
+\\
+
+<<v69>>
+69 Stolze verbreiten über mich Lügen, /\\
+ ich aber halte mich von ganzem Herzen an deine Befehle.\\
+\\
+
+<<v70>>
+70 Abgestumpft und satt ist ihr Herz, /\\
+ ich aber ergötze mich an deiner Weisung. [fn:18]\\
+\\
+
+<<v71>>
+71 Dass ich gedemütigt wurde, war für mich gut; /\\
+ denn so lernte ich deine Gesetze. [fn:19]\\
+\\
+
+<<v72>>
+72 Die Weisung deines Mundes ist mir lieb, /\\
+ mehr als große Mengen von Gold und Silber. (Jod) [fn:20]\\
+\\
+
+<<v73>>
+73 Deine Hände haben mich gemacht und geformt. /\\
+ Gib mir Einsicht, damit ich deine Gebote lerne. [fn:21]\\
+\\
+
+<<v74>>
+74 Wer dich fürchtet, wird mich sehen und sich freuen; /\\
+ denn ich warte auf dein Wort.\\
+\\
+
+<<v75>>
+75 Herr, ich weiß, dass deine Entscheide gerecht sind; /\\
+ du hast mich gebeugt, weil du treu für mich sorgst.\\
+\\
+
+<<v76>>
+76 Tröste mich in deiner Huld, /\\
+ wie du es deinem Knecht verheißen hast.\\
+\\
+
+<<v77>>
+77 Dein Erbarmen komme über mich, damit ich lebe; /\\
+ denn deine Weisung macht mich froh.\\
+\\
+
+<<v78>>
+78 Schande über die Stolzen, die mich zu Unrecht bedrücken! /\\
+ Ich aber sinne nach über deine Befehle.\\
+\\
+
+<<v79>>
+79 Mir sollen sich alle zuwenden, die dich fürchten und ehren /\\
+ und die deine Vorschriften kennen.\\
+\\
+
+<<v80>>
+80 Mein Herz richte sich ganz nach deinen Gesetzen; /\\
+ dann werde ich nicht zuschanden. (Kaf)\\
+\\
+
+<<v81>>
+81 Nach deiner Hilfe sehnt sich meine Seele; /\\
+ ich warte auf dein Wort. [fn:22]\\
+\\
+
+<<v82>>
+82 Meine Augen sehnen sich nach deiner Verheißung, /\\
+ sie fragen: Wann wirst du mich trösten? [fn:23]\\
+\\
+
+<<v83>>
+83 Ich bin wie ein Schlauch voller Risse, /\\
+ doch deine Gesetze habe ich nicht vergessen. [fn:24] [fn:25]\\
+\\
+
+<<v84>>
+84 Wie viele Tage noch bleiben deinem Knecht? /\\
+ Wann wirst du meine Verfolger richten?\\
+\\
+
+<<v85>>
+85 Stolze stellen mir Fallen, /\\
+ sie handeln nicht nach deiner Weisung.\\
+\\
+
+<<v86>>
+86 Zuverlässig sind all deine Gebote. /\\
+ Zu Unrecht verfolgt man mich. Komm mir zu Hilfe!\\
+\\
+
+<<v87>>
+87 Fast hätte man mich von der Erde ausgetilgt; /\\
+ dennoch halte ich fest an deinen Befehlen.\\
+\\
+
+<<v88>>
+88 In deiner großen Huld lass mich leben /\\
+ und ich will beachten, was dein Mund mir gebietet. (Lamed)\\
+\\
+
+<<v89>>
+89 Herr, dein Wort bleibt auf ewig, /\\
+ es steht fest wie der Himmel. [fn:26]\\
+\\
+
+<<v90>>
+90 Deine Treue währt von Geschlecht zu Geschlecht; /\\
+ du hast die Erde gegründet, sie bleibt bestehen.\\
+\\
+
+<<v91>>
+91 Nach deiner Ordnung bestehen sie bis heute /\\
+ und dir ist alles dienstbar. [fn:27]\\
+\\
+
+<<v92>>
+92 Wäre nicht dein Gesetz meine Freude, /\\
+ ich wäre zugrunde gegangen in meinem Elend.\\
+\\
+
+<<v93>>
+93 Nie will ich deine Befehle vergessen; /\\
+ denn durch sie schenkst du mir Leben.\\
+\\
+
+<<v94>>
+94 Ich bin dein, errette mich! /\\
+ Ich frage nach deinen Befehlen.\\
+\\
+
+<<v95>>
+95 Frevler lauern mir auf, um mich zu vernichten; /\\
+ doch mein Sinn achtet auf das, was du gebietest. [fn:28]\\
+\\
+
+<<v96>>
+96 Ich sah, dass alles Vollkommene Grenzen hat; /\\
+ doch dein Gebot kennt keine Schranken. (Mem)\\
+\\
+
+<<v97>>
+97 Wie lieb ist mir deine Weisung; /\\
+ ich sinne über sie nach den ganzen Tag. [fn:29]\\
+\\
+
+<<v98>>
+98 Dein Gebot macht mich weiser als all meine Feinde; /\\
+ denn immer ist es mir nahe.\\
+\\
+
+<<v99>>
+99 Ich wurde klüger als all meine Lehrer; /\\
+ denn über deine Vorschriften sinne ich nach.\\
+\\
+
+<<v100>>
+100 Mehr Einsicht habe ich als die Alten; /\\
+ denn ich beachte deine Befehle. [fn:30]\\
+\\
+
+<<v101>>
+101 Von jedem bösen Weg halte ich meinen Fuß zurück; /\\
+ denn ich will dein Wort befolgen. [fn:31]\\
+\\
+
+<<v102>>
+102 Ich weiche nicht ab von deinen Entscheiden, /\\
+ du hast mich ja selbst unterwiesen.\\
+\\
+
+<<v103>>
+103 Wie köstlich ist für meinen Gaumen deine Verheißung, /\\
+ süßer als Honig für meinen Mund. [fn:32]\\
+\\
+
+<<v104>>
+104 Aus deinen Befehlen gewinne ich Einsicht, /\\
+ darum hasse ich alle Pfade der Lüge. (Nun) [fn:33]\\
+\\
+
+<<v105>>
+105 Dein Wort ist meinem Fuß eine Leuchte, /\\
+ ein Licht für meine Pfade. [fn:34]\\
+\\
+
+<<v106>>
+106 Ich tat einen Schwur und ich will ihn halten: /\\
+ Ich will deinen gerechten Entscheidungen folgen.\\
+\\
+
+<<v107>>
+107 Herr, ganz tief bin ich gebeugt. /\\
+ Durch dein Wort belebe mich! [fn:35]\\
+\\
+
+<<v108>>
+108 Herr, nimm mein Lobopfer gnädig an /\\
+ und lehre mich deine Entscheide! [fn:36]\\
+\\
+
+<<v109>>
+109 Mein Leben ist ständig in Gefahr, /\\
+ doch ich vergesse nie deine Weisung. [fn:37]\\
+\\
+
+<<v110>>
+110 Frevler legen mir Schlingen, /\\
+ aber ich irre nicht ab von deinen Befehlen. [fn:38]\\
+\\
+
+<<v111>>
+111 Deine Vorschriften sind auf ewig mein Erbteil; /\\
+ denn sie sind die Freude meines Herzens.\\
+\\
+
+<<v112>>
+112 Mein Herz ist bereit, dein Gesetz zu erfüllen /\\
+ bis ans Ende und ewig. (Samech)\\
+\\
+
+<<v113>>
+113 Zwiespältige Menschen sind mir von Grund auf verhasst, /\\
+ doch dein Gesetz ist mir lieb. [fn:39]\\
+\\
+
+<<v114>>
+114 Du bist mein Schutz und mein Schild, /\\
+ ich warte auf dein Wort.\\
+\\
+
+<<v115>>
+115 Weicht zurück von mir, ihr Bösen! /\\
+ Ich will die Gebote meines Gottes befolgen. [fn:40]\\
+\\
+
+<<v116>>
+116 Stütze mich, damit ich lebe, wie du es verheißen hast. /\\
+ Lass mich in meiner Hoffnung nicht scheitern!\\
+\\
+
+<<v117>>
+117 Gib mir Halt, dann finde ich Rettung; /\\
+ immer will ich auf deine Gesetze schauen.\\
+\\
+
+<<v118>>
+118 Alle, die sich von deinen Gesetzen entfernen, verwirfst du; /\\
+ denn ihr Sinnen und Trachten ist Lüge.\\
+\\
+
+<<v119>>
+119 Alle Frevler im Land sind für dich wie Schlacken, /\\
+ darum liebe ich, was du gebietest. [fn:41] [fn:42]\\
+\\
+
+<<v120>>
+120 Aus Ehrfurcht vor dir erschauert mein Leib, /\\
+ vor deinen Urteilen empfinde ich heilige Scheu. (Ajin) [fn:43]\\
+\\
+
+<<v121>>
+121 Ich tue, was recht und gerecht ist. /\\
+ Gib mich meinen Bedrückern nicht preis!\\
+\\
+
+<<v122>>
+122 Verbürg dich für das Wohl deines Knechtes, /\\
+ damit die Stolzen mich nicht unterdrücken.\\
+\\
+
+<<v123>>
+123 Meine Augen sehnen sich nach deiner Hilfe, /\\
+ nach deiner gerechten Verheißung.\\
+\\
+
+<<v124>>
+124 Handle an deinem Knecht nach deiner Huld /\\
+ und lehre mich deine Gesetze!\\
+\\
+
+<<v125>>
+125 Ich bin dein Knecht. Gib mir Einsicht, /\\
+ damit ich verstehe, was du gebietest.\\
+\\
+
+<<v126>>
+126 Herr, es ist Zeit zu handeln; /\\
+ man hat dein Gesetz gebrochen.\\
+\\
+
+<<v127>>
+127 Darum liebe ich deine Gebote /\\
+ mehr als Rotgold und Weißgold. [fn:44]\\
+\\
+
+<<v128>>
+128 Darum lebe ich genau nach deinen Befehlen; /\\
+ ich hasse alle Pfade der Lüge. (Pe) [fn:45] [fn:46]\\
+\\
+
+<<v129>>
+129 Deine Vorschriften sind der Bewunderung wert; /\\
+ darum bewahrt sie mein Herz.\\
+\\
+
+<<v130>>
+130 Die Erklärung deiner Worte bringt Erleuchtung, /\\
+ den Unerfahrenen schenkt sie Einsicht.\\
+\\
+
+<<v131>>
+131 Weit öffne ich meinen Mund /\\
+ und lechze nach deinen Geboten; /\\
+ denn nach ihnen hab ich Verlangen.\\
+\\
+
+<<v132>>
+132 Wende dich mir zu, sei mir gnädig, /\\
+ wie es denen gebührt, die deinen Namen lieben. [fn:47]\\
+\\
+
+<<v133>>
+133 Festige meine Schritte, wie du es verheißen hast. /\\
+ Lass kein Unrecht über mich herrschen!\\
+\\
+
+<<v134>>
+134 Erlöse mich aus der Gewalt der Menschen; /\\
+ dann will ich deine Befehle halten. [fn:48]\\
+\\
+
+<<v135>>
+135 Lass dein Angesicht leuchten über deinem Knecht /\\
+ und lehre mich deine Gesetze! [fn:49]\\
+\\
+
+<<v136>>
+136 Tränenbäche strömen aus meinen Augen, /\\
+ weil man dein Gesetz nicht befolgt. (Zade) [fn:50]\\
+\\
+
+<<v137>>
+137 Herr, du bist gerecht /\\
+ und deine Entscheide sind richtig.\\
+\\
+
+<<v138>>
+138 Du hast deine Vorschriften erlassen in Gerechtigkeit /\\
+ und in großer Treue.\\
+\\
+
+<<v139>>
+139 Der Eifer für dich verzehrt mich; /\\
+ denn meine Gegner vergessen deine Worte. [fn:51]\\
+\\
+
+<<v140>>
+140 Deine Worte sind rein und lauter; /\\
+ dein Knecht hat sie lieb. [fn:52]\\
+\\
+
+<<v141>>
+141 Ich bin gering und verachtet, /\\
+ doch ich vergesse nie deine Befehle.\\
+\\
+
+<<v142>>
+142 Deine Gerechtigkeit bleibt ewig Gerechtigkeit, /\\
+ deine Weisung ist Wahrheit.\\
+\\
+
+<<v143>>
+143 Mich trafen Not und Bedrängnis, /\\
+ doch deine Gebote machen mich froh.\\
+\\
+
+<<v144>>
+144 Deine Vorschriften sind auf ewig gerecht. /\\
+ Gib mir Einsicht, damit ich lebe. (Qof)\\
+\\
+
+<<v145>>
+145 Erhöre mich, Herr, ich rufe von ganzem Herzen; /\\
+ deine Gesetze will ich halten.\\
+\\
+
+<<v146>>
+146 Ich rufe zu dir; errette mich, /\\
+ dann will ich deinen Vorschriften folgen.\\
+\\
+
+<<v147>>
+147 Schon beim Morgengrauen komme ich und flehe; /\\
+ ich warte auf dein Wort.\\
+\\
+
+<<v148>>
+148 Meine Augen eilen den Nachtwachen voraus; /\\
+ denn ich sinne nach über deine Verheißung. [fn:53]\\
+\\
+
+<<v149>>
+149 Höre auf meine Stimme in deiner Huld; /\\
+ belebe mich, Herr, durch deine Entscheide!\\
+\\
+
+<<v150>>
+150 Mir nähern sich tückische Verfolger; /\\
+ sie haben sich weit von deiner Weisung entfernt.\\
+\\
+
+<<v151>>
+151 Doch du bist nahe, Herr, /\\
+ und alle deine Gebote sind Wahrheit.\\
+\\
+
+<<v152>>
+152 Aus deinen Vorschriften weiß ich seit langem, /\\
+ dass du sie für ewig bestimmt hast. (Resch)\\
+\\
+
+<<v153>>
+153 Sieh mein Elend an und rette mich; /\\
+ denn ich habe deine Weisung nicht vergessen.\\
+\\
+
+<<v154>>
+154 Verschaff mir Recht und erlöse mich; /\\
+ nach deiner Weisung erhalte mein Leben!\\
+\\
+
+<<v155>>
+155 Fern bleibt den Frevlern das Heil; /\\
+ denn sie fragen nicht nach deinen Gesetzen.\\
+\\
+
+<<v156>>
+156 Herr, groß ist dein Erbarmen; /\\
+ durch deine Entscheide belebe mich!\\
+\\
+
+<<v157>>
+157 Viele verfolgen und quälen mich, /\\
+ doch von deinen Vorschriften weich ich nicht ab.\\
+\\
+
+<<v158>>
+158 Wenn ich Abtrünnige sehe, empfinde ich Abscheu, /\\
+ weil sie dein Wort nicht befolgen. [fn:54]\\
+\\
+
+<<v159>>
+159 Sieh an, wie sehr ich deine Vorschriften liebe; /\\
+ Herr, in deiner Huld belebe mich!\\
+\\
+
+<<v160>>
+160 Das Wesen deines Wortes ist Wahrheit, /\\
+ deine gerechten Urteile haben alle auf ewig Bestand. (Schin) [fn:55]\\
+\\
+
+<<v161>>
+161 Fürsten verfolgen mich ohne Grund, /\\
+ doch mein Herz fürchtet nur dein Wort.\\
+\\
+
+<<v162>>
+162 Ich freue mich über deine Verheißung /\\
+ wie einer, der reiche Beute gemacht hat.\\
+\\
+
+<<v163>>
+163 Ich hasse die Lüge, sie ist mir ein Gräuel, /\\
+ doch deine Weisung habe ich lieb.\\
+\\
+
+<<v164>>
+164 Siebenmal am Tag singe ich dein Lob /\\
+ wegen deiner gerechten Entscheide.\\
+\\
+
+<<v165>>
+165 Alle, die deine Weisung lieben, empfangen Heil in Fülle; /\\
+ es trifft sie kein Unheil.\\
+\\
+
+<<v166>>
+166 Herr, ich hoffe auf deine Hilfe /\\
+ und befolge deine Gebote. [fn:56]\\
+\\
+
+<<v167>>
+167 Meine Seele beachtet, was du gebietest, /\\
+ und liebt es von Herzen.\\
+\\
+
+<<v168>>
+168 Ich folge deinen Vorschriften und Befehlen; /\\
+ denn alle meine Wege (liegen offen) vor dir. (Taw) [fn:57]\\
+\\
+
+<<v169>>
+169 Herr, zu dir dringe mein Rufen. /\\
+ Gib mir Einsicht, getreu deinem Wort!\\
+\\
+
+<<v170>>
+170 Mein Flehen komme vor dein Angesicht. /\\
+ Reiß mich heraus getreu deiner Verheißung! [fn:58]\\
+\\
+
+<<v171>>
+171 Meine Lippen sollen überströmen von Lobpreis; /\\
+ denn du lehrst mich deine Gesetze.\\
+\\
+
+<<v172>>
+172 Meine Zunge soll deine Verheißung besingen; /\\
+ denn deine Gebote sind alle gerecht.\\
+\\
+
+<<v173>>
+173 Deine Hand sei bereit, mir zu helfen; /\\
+ denn ich habe mir deine Befehle erwählt.\\
+\\
+
+<<v174>>
+174 Ich sehne mich, Herr, nach deiner Hilfe /\\
+ und deine Weisung macht mich froh.\\
+\\
+
+<<v175>>
+175 Lass meine Seele leben, damit sie dich preisen kann. /\\
+ Deine Entscheidungen mögen mir helfen.\\
+\\
+
+<<v176>>
+176 Ich bin verirrt wie ein verlorenes Schaf. /\\
+ Suche deinen Knecht! /\\
+ Denn deine Gebote habe ich nicht vergessen. [fn:59]\\
+\\
+
+* Footnotes
+
+[fn:1] (1-3) [[file:Ps_1.org::v1][1,1f]].[[file:Ps_1.org::v6][6]]; [[file:Ps_26.org::v3][26,3]]; [[file:Ps_32.org::v8][32,8]]; [[file:Ps_37.org::v5][37,5]]; [[file:Ps_139.org::v3][139,3]]; [[file:Ps_142.org::v4][142,4]]; [[file:Ps_143.org::v10][143,10]]; [[file:Tob_4.org::v19][Tob 4,19]]; [[file:Spr_4.org::v11][Spr 4,11]]
+
+[fn:2] Wörtlich: Öffne mir die Augen, damit ich sehe.
+
+[fn:3] [[file:Ps_39.org::v13][39,13]]
+
+[fn:4] [[file:Dtn_27.org::v26][Dtn 27,26]]; [[file:Jer_11.org::v3][Jer 11,3]]
+
+[fn:5] [[file:Ps_44.org::v26][44,26]]
+
+[fn:6] Wörtlich: klebt am Staub. Text korr. mit einigen Handschriften; H: gemäß deinem Wort.
+
+[fn:7] [[v104][119,104]]
+
+[fn:8] [[file:Ps_25.org::v4][25,4]]
+
+[fn:9] [[file:Ps_25.org::v4][25,4]]
+
+[fn:10] durch dein Wort: Text korr.; H: durch deine Wege.
+
+[fn:11] [[file:~/RoamNotes/notes/Bibel/nt/Mt_10.org::v18][Mt 10,18]]
+
+[fn:12] von Herzen: ergänzt aus G.
+
+[fn:13] H fügt hinzu: die ich liebe.
+
+[fn:14] [[v62][119,62]].[[v148][148]]; [[file:Ps_63.org::v7][63,7]]
+
+[fn:15] [[v55][119,55]]
+
+[fn:16] [[file:Ps_33.org::v5][33,5]]
+
+[fn:17] H fügt vor «Erkenntnis» ein: Gutes.
+
+[fn:18] [[file:Ps_17.org::v10][17,10]]
+
+[fn:19] [[file:Ps_94.org::v12][94,12]]
+
+[fn:20] [[v103][119,103]].[[v127][127]]; [[file:Ps_19.org::v11][19,11]]
+
+[fn:21] [[file:Ijob_10.org::v8][Ijob 10,8]]
+
+[fn:22] [[file:Ps_130.org::v5][130,5]]
+
+[fn:23] [[file:Ps_123.org::v2][123,2]]
+
+[fn:24] [[file:Ijob_30.org::v30][Ijob 30,30]]
+
+[fn:25] Text korr.; H: Ich bin wie ein Schlauch im Rauch.
+
+[fn:26] [[file:Jes_40.org::v8][Jes 40,8]]
+
+[fn:27] [[file:Ps_148.org::v6][148,6]]
+
+[fn:28] [[file:Ps_11.org::v2][11,2]]
+
+[fn:29] [[file:Ps_1.org::v2][1,2]]
+
+[fn:30] [[file:Weish_4.org::v8][Weish 4,8f]]
+
+[fn:31] [[file:Spr_1.org::v15][Spr 1,15]]; [[file:Spr_4.org::v27][4,27]]
+
+[fn:32] [[v72][119,72]]
+
+[fn:33] [[v29][119,29]].[[v128][128]]
+
+[fn:34] [[file:Spr_6.org::v23][Spr 6,23]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v12][Joh 8,12]]; [[file:~/RoamNotes/notes/Bibel/nt/2.Petr_1.org::v19][2 Petr 1,19]]
+
+[fn:35] Text korr., vgl. V. 25b
+
+[fn:36] [[file:Ps_19.org::v15][19,15]]; [[file:Ps_50.org::v14][50,14]].[[file:Ps_50.org::v23][23]]
+
+[fn:37] Wörtlich: Mein Leben halte ich ständig in der Hand.
+
+[fn:38] [[file:Ps_140.org::v6][140,6]]
+
+[fn:39] [[file:1.Kön_18.org::v21][1 Kön 18,21]]
+
+[fn:40] [[file:Ps_6.org::v9][6,9]]; [[file:Ps_139.org::v19][139,19]]
+
+[fn:41] [[file:Jes_1.org::v25][Jes 1,25]]
+
+[fn:42] sind für dich wie Schlacken: so nach mehreren alten Übersetzungen; H und andere Übersetzungen: schaffst du fort wie Schlacken.
+
+[fn:43] [[file:Ijob_4.org::v14][Ijob 4,14f]]; [[file:Ijob_23.org::v15][23,15]]
+
+[fn:44] [[v72][119,72]]
+
+[fn:45] [[v104][119,104]]
+
+[fn:46] Text geringfügig korr.
+
+[fn:47] [[file:Ps_25.org::v16][25,16]]; [[file:Ps_86.org::v16][86,16]]; [[file:Ps_91.org::v14][91,14]]
+
+[fn:48] [[file:Ps_125.org::v3][125,3]]
+
+[fn:49] [[file:Ps_4.org::v7][4,7]]
+
+[fn:50] [[file:Esra_9.org::v3][Esra 9,3f]]
+
+[fn:51] [[file:Ps_69.org::v10][69,10]]
+
+[fn:52] [[file:Ps_12.org::v7][12,7]]
+
+[fn:53] [[v55][119,55]]
+
+[fn:54] [[file:Ps_139.org::v21][139,21]]
+
+[fn:55] [[file:~/RoamNotes/notes/Bibel/nt/Joh_17.org::v17][Joh 17,17]]
+
+[fn:56] [[file:Gen_49.org::v18][Gen 49,18]]
+
+[fn:57] [[file:Spr_5.org::v21][Spr 5,21]]
+
+[fn:58] [[file:Ps_88.org::v3][88,3]]; [[file:Ps_79.org::v11][79,11]]
+
+[fn:59] [[file:Jes_53.org::v6][Jes 53,6]]; [[file:Jer_50.org::v6][Jer 50,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_15.org::v4][Lk 15,4-7]]

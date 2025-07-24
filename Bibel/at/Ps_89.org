@@ -1,0 +1,360 @@
+#+TITLE: Ps 89 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-04 So 23:38]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 89.html
+
+* Ps 89
+
+<<verses>>
+
+<<v1>>
+* Das Klagelied über die Verwerfung des Hauses David
+
+1 [Ein Weisheitslied Etans, des Esrachiters.]\\
+\\
+
+<<v2>>
+2 Von den Taten deiner Huld, Herr, will ich ewig singen, /\\
+ bis zum fernsten Geschlecht laut deine Treue verkünden. [fn:1]\\
+\\
+
+<<v3>>
+3 Denn ich bekenne: Deine Huld besteht für immer und ewig; /\\
+ deine Treue steht fest im Himmel. [fn:2]\\
+\\
+
+<<v4>>
+4 «Ich habe einen Bund geschlossen mit meinem Erwählten /\\
+ und David, meinem Knecht, geschworen: [fn:3]\\
+\\
+
+<<v5>>
+5 Deinem Haus gebe ich auf ewig Bestand /\\
+ und von Geschlecht zu Geschlecht richte ich deinen Thron auf.» [Sela] [fn:4]\\
+\\
+
+<<v6>>
+6 Die Himmel preisen, Herr, deine Wunder /\\
+ und die Gemeinde der Heiligen deine Treue.\\
+\\
+
+<<v7>>
+7 Denn wer über den Wolken ist wie der Herr, /\\
+ wer von den Göttern ist dem Herrn gleich? [fn:5]\\
+\\
+
+<<v8>>
+8 Gewaltig ist Gott im Rat der Heiligen, /\\
+ für alle rings um ihn her ist er groß und furchtbar. [fn:6]\\
+\\
+
+<<v9>>
+9 Herr, Gott der Heerscharen, wer ist wie du? /\\
+ Mächtig bist du, Herr, und von Treue umgeben.\\
+\\
+
+<<v10>>
+10 Du beherrschst die Empörung des Meeres; /\\
+ wenn seine Wogen toben - du glättest sie. [fn:7]\\
+\\
+
+<<v11>>
+11 Rahab hast du durchbohrt und zertreten, /\\
+ deine Feinde zerstreut mit starkem Arm. [fn:8] [fn:9]\\
+\\
+
+<<v12>>
+12 Dein ist der Himmel, dein auch die Erde; /\\
+ den Erdkreis und was ihn erfüllt hast du gegründet. [fn:10]\\
+\\
+
+<<v13>>
+13 Nord und Süd hast du geschaffen, /\\
+ Tabor und Hermon jauchzen bei deinem Namen.\\
+\\
+
+<<v14>>
+14 Dein Arm ist voll Kraft, /\\
+ deine Hand ist stark, deine Rechte hoch erhoben.\\
+\\
+
+<<v15>>
+15 Recht und Gerechtigkeit sind die Stützen deines Thrones, /\\
+ Huld und Treue schreiten vor deinem Antlitz her. [fn:11]\\
+\\
+
+<<v16>>
+16 Wohl dem Volk, das dich als König zu feiern weiß! /\\
+ Herr, sie gehen im Licht deines Angesichts. [fn:12]\\
+\\
+
+<<v17>>
+17 Sie freuen sich über deinen Namen zu jeder Zeit, /\\
+ über deine Gerechtigkeit jubeln sie. [fn:13]\\
+\\
+
+<<v18>>
+18 Denn du bist ihre Schönheit und Stärke, /\\
+ du erhöhst unsre Kraft in deiner Güte.\\
+\\
+
+<<v19>>
+19 Ja, unser Schild gehört dem Herrn, /\\
+ unser König dem heiligen Gott Israels. [fn:14]\\
+\\
+
+<<v20>>
+20 Einst hast du in einer Vision zu deinen Frommen gesprochen: /\\
+ «Einen Helden habe ich zum König gekrönt, /\\
+ einen jungen Mann aus dem Volk erhöht. [fn:15] [fn:16]\\
+\\
+
+<<v21>>
+21 Ich habe David, meinen Knecht, gefunden /\\
+ und ihn mit meinem heiligen Öl gesalbt. [fn:17]\\
+\\
+
+<<v22>>
+22 Beständig wird meine Hand ihn halten /\\
+ und mein Arm ihn stärken. [fn:18]\\
+\\
+
+<<v23>>
+23 Kein Feind soll ihn täuschen, /\\
+ kein ruchloser Mensch kann ihn bezwingen.\\
+\\
+
+<<v24>>
+24 Vor ihm will ich die Feinde zerschmettern /\\
+ und alle, die ihn hassen, schlage ich nieder.\\
+\\
+
+<<v25>>
+25 Meine Treue und meine Huld begleiten ihn /\\
+ und in meinem Namen erhebt er sein Haupt. [fn:19]\\
+\\
+
+<<v26>>
+26 Ich lege seine Hand auf das Meer, /\\
+ über die Ströme herrscht seine Rechte. [fn:20]\\
+\\
+
+<<v27>>
+27 Er wird zu mir rufen: Mein Vater bist du, /\\
+ mein Gott, der Fels meines Heiles. [fn:21]\\
+\\
+
+<<v28>>
+28 Ich mache ihn zum erstgeborenen Sohn, /\\
+ zum Höchsten unter den Herrschern der Erde. [fn:22]\\
+\\
+
+<<v29>>
+29 Auf ewig werde ich ihm meine Huld bewahren, /\\
+ mein Bund mit ihm bleibt allzeit bestehen. [fn:23]\\
+\\
+
+<<v30>>
+30 Sein Geschlecht lasse ich dauern für immer /\\
+ und seinen Thron, solange der Himmel währt. [fn:24]\\
+\\
+
+<<v31>>
+31 Wenn seine Söhne meine Weisung verlassen, /\\
+ nicht mehr leben nach meiner Ordnung,\\
+\\
+
+<<v32>>
+32 wenn sie meine Gesetze entweihen, /\\
+ meine Gebote nicht mehr halten,\\
+\\
+
+<<v33>>
+33 dann werde ich ihr Vergehen mit der Rute strafen /\\
+ und ihre Sünde mit Schlägen. [fn:25]\\
+\\
+
+<<v34>>
+34 Doch ich entziehe ihm nicht meine Huld, /\\
+ breche ihm nicht die Treue. [fn:26] [fn:27]\\
+\\
+
+<<v35>>
+35 Meinen Bund werde ich nicht entweihen; /\\
+ was meine Lippen gesprochen haben, /\\
+ will ich nicht ändern.\\
+\\
+
+<<v36>>
+36 Eines hab ich geschworen, so wahr ich heilig bin, /\\
+ und niemals werde ich David belügen:\\
+\\
+
+<<v37>>
+37 Sein Geschlecht soll bleiben auf ewig, /\\
+ sein Thron habe Bestand vor mir wie die Sonne;\\
+\\
+
+<<v38>>
+38 er soll ewig bestehen wie der Mond, /\\
+ der verlässliche Zeuge über den Wolken.» [Sela] [fn:28]\\
+\\
+
+<<v39>>
+39 Nun aber hast du deinen Gesalbten verstoßen, /\\
+ ihn verworfen und mit Zorn überschüttet,\\
+\\
+
+<<v40>>
+40 hast den Bund mit deinem Knecht zerbrochen, /\\
+ zu Boden getreten seine Krone.\\
+\\
+
+<<v41>>
+41 Eingerissen hast du all seine Mauern, /\\
+ in Trümmer gelegt seine Burgen. [fn:29]\\
+\\
+
+<<v42>>
+42 Alle, die des Weges kommen, plündern ihn aus, /\\
+ er wird zum Gespött seiner Nachbarn. [fn:30]\\
+\\
+
+<<v43>>
+43 Du hast die Hand seiner Bedränger hoch erhoben, /\\
+ hast all seine Feinde erfreut.\\
+\\
+
+<<v44>>
+44 Du hast die Spitze seines Schwertes umgekehrt, /\\
+ hast im Kampf ihm den Sieg verweigert. [fn:31]\\
+\\
+
+<<v45>>
+45 Du hast ein Ende gemacht seinem Glanz /\\
+ und seinen Thron zu Boden geworfen.\\
+\\
+
+<<v46>>
+46 Du hast ihm die Tage der Jugend verkürzt /\\
+ und ihn bedeckt mit Schande. [Sela]\\
+\\
+
+<<v47>>
+47 Wie lange noch, Herr? Verbirgst du dich ewig? /\\
+ Soll dein Zorn wie Feuer brennen? [fn:32]\\
+\\
+
+<<v48>>
+48 Bedenke, Herr: Was ist unser Leben, /\\
+ wie vergänglich hast du alle Menschen erschaffen! [fn:33]\\
+\\
+
+<<v49>>
+49 Wo ist der Mann, der ewig lebt und den Tod nicht schaut, /\\
+ der sich retten kann vor dem Zugriff der Unterwelt? [Sela]\\
+\\
+
+<<v50>>
+50 Herr, wo sind die Taten deiner Huld geblieben, /\\
+ die du David in deiner Treue geschworen hast?\\
+\\
+
+<<v51>>
+51 Herr, denk an die Schmach deines Knechtes! /\\
+ Im Herzen brennt mir der Hohn der Völker, [fn:34] [fn:35]\\
+\\
+
+<<v52>>
+52 mit dem deine Feinde mich schmähen, Herr, /\\
+ und die Schritte deines Gesalbten verhöhnen. [fn:36]\\
+\\
+
+<<v53>>
+53 Gepriesen sei der Herr in Ewigkeit. /\\
+ Amen, ja amen.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Jes_63.org::v7][Jes 63,7]]
+
+[fn:2] deine Treue steht fest: Text korr.; H: du befestigst
+deine Treue.
+
+[fn:3] [[file:Ps_132.org::v11][132,11]]; [[file:2.Sam_7.org::v8][2 Sam 7,8-16]]
+
+[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/Apg_2.org::v30][Apg 2,30]]
+
+[fn:5] [[file:Ps_29.org::v1][29,1]]; (7-9) [[file:Ps_35.org::v10][35,10]]; [[file:Ps_136.org::v2][136,2f]]
+
+[fn:6] [[file:Ijob_1.org::v6][Ijob 1,6]]
+
+[fn:7] [[file:Ps_65.org::v8][65,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_8.org::v26][Mt 8,26]]
+
+[fn:8] [[file:Ps_74.org::v13][74,13f]]; [[file:Ijob_26.org::v12][Ijob 26,12]]
+
+[fn:9] Text korr.
+
+[fn:10] [[file:Ps_24.org::v1][24,1]]
+
+[fn:11] [[file:Ps_97.org::v2][97,2]]; [[file:Ps_85.org::v11][85,11]]
+
+[fn:12] [[file:Ps_47.org::v2][47,2]]
+
+[fn:13] jubeln sie: Text korr.; H: erheben sie sich.
+
+[fn:14] [[file:Ps_84.org::v10][84,10]]
+
+[fn:15] (20-21) [[file:1.Sam_13.org::v14][1 Sam 13,14]]; [[file:1.Sam_16.org::v13][16,13]]
+
+[fn:16] gekrönt: Text korr.
+
+[fn:17] [[file:Ps_78.org::v70][78,70]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v22][Apg 13,22]]
+
+[fn:18] [[file:Jes_42.org::v1][Jes 42,1]]
+
+[fn:19] [[file:1.Sam_2.org::v10][1 Sam 2,10]]
+
+[fn:20] [[file:Ps_72.org::v8][72,8]]
+
+[fn:21] (27-28) [[file:Ps_2.org::v7][2,7]]; [[file:2.Sam_7.org::v14][2 Sam 7,14]]
+
+[fn:22] [[file:~/RoamNotes/notes/Bibel/nt/Kol_1.org::v15][Kol 1,15]].[[file:~/RoamNotes/notes/Bibel/nt/Kol_1.org::v18][18]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_1.org::v5][Offb 1,5]]
+
+[fn:23] [[file:Ps_18.org::v51][18,51]]; [[file:Jes_55.org::v3][Jes 55,3]]
+
+[fn:24] [[file:Ps_61.org::v8][61,8]]; [[file:2.Sam_7.org::v16][2 Sam 7,16]]
+
+[fn:25] [[file:2.Sam_7.org::v14][2 Sam 7,14]]
+
+[fn:26] [[file:Jer_31.org::v36][Jer 31,36f]]
+
+[fn:27] Text korr.; H: ich breche ihm nicht.
+
+[fn:28] [[file:Ps_72.org::v7][72,7]]; [[file:Sir_43.org::v6][Sir 43,6]]
+
+[fn:29] (41-42) [[file:Ps_80.org::v13][80,13]]
+
+[fn:30] [[file:Ps_31.org::v12][31,12]]
+
+[fn:31] Übersetzung unsicher.
+
+[fn:32] [[file:Ps_77.org::v8][77,8]]; [[file:Ps_79.org::v5][79,5]]; (47-48) [[file:Ps_90.org::v9][90,9f]]
+
+[fn:33] Text korr.
+
+[fn:34] [[file:Ps_41.org::v6][41,6]]
+
+[fn:35] deines Knechtes: Text korr.; H: deiner Knechte. Text
+korr.; H: Im Herzen trage ich alle die vielen Völker.
+
+[fn:36] [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v26][Hebr 11,26]]

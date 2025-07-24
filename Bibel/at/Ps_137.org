@@ -1,0 +1,90 @@
+#+TITLE: Ps 137 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 22:54]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 137.html
+
+* Ps 137
+
+<<verses>>
+
+<<v1>>
+* Heimweh nach dem Zion in der Verbannung
+
+1 An den Strömen von Babel, /\\
+ da saßen wir und weinten, /\\
+ wenn wir an Zion dachten. [fn:1]\\
+\\
+
+<<v2>>
+2 Wir hängten unsere Harfen /\\
+ an die Weiden in jenem Land. [fn:2]\\
+\\
+
+<<v3>>
+3 Dort verlangten von uns die Zwingherren Lieder, /\\
+ unsere Peiniger forderten Jubel: /\\
+ «Singt uns Lieder vom Zion!»\\
+\\
+
+<<v4>>
+4 Wie könnten wir singen die Lieder des Herrn, /\\
+ fern, auf fremder Erde?\\
+\\
+
+<<v5>>
+5 Wenn ich dich je vergesse, Jerusalem, /\\
+ dann soll mir die rechte Hand verdorren. [fn:3] [fn:4]\\
+\\
+
+<<v6>>
+6 Die Zunge soll mir am Gaumen kleben, /\\
+ wenn ich an dich nicht mehr denke, /\\
+ wenn ich Jerusalem nicht zu meiner höchsten Freude erhebe. [fn:5]\\
+\\
+
+<<v7>>
+7 Herr, vergiss den Söhnen Edoms nicht den Tag von Jerusalem; /\\
+ sie sagten: «Reißt nieder, bis auf den Grund reißt es nieder!» [fn:6] [fn:7]\\
+\\
+
+<<v8>>
+8 Tochter Babel, du Zerstörerin! /\\
+ Wohl dem, der dir heimzahlt, was du uns getan hast! [fn:8] [fn:9]\\
+\\
+
+<<v9>>
+9 Wohl dem, der deine Kinder packt /\\
+ und sie am Felsen zerschmettert! [fn:10]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ez_3.org::v15][Ez 3,15]]; [[file:Klgl_3.org::v48][Klgl 3,48]]
+
+[fn:2] [[file:Klgl_5.org::v14][Klgl 5,14]]
+
+[fn:3] [[file:Jer_51.org::v50][Jer 51,50]]
+
+[fn:4] Text korr.; H: dann soll meine rechte Hand (die Kunst
+des Spielens) vergessen.
+
+[fn:5] [[file:Ps_22.org::v16][22,16]]
+
+[fn:6] [[file:Klgl_4.org::v21][Klgl 4,21f]]; [[file:Ez_25.org::v12][Ez 25,12-14]]; [[file:Ez_35.org][35]]; [[file:Obd_1.org::v8][Obd 8-15]]
+
+[fn:7] 7-9: Zu diesem Fluch vgl. die Anmerkung zu 109,1-31.
+Hier geht es aber um übermächtige feindliche Völker.
+
+[fn:8] [[file:Jes_14.org::v22][Jes 14,22]]; [[file:Jer_50.org][Jer 50]]; [[file:Jer_51.org][51]]
+
+[fn:9] du Zerstörerin: H: du zu Verwüstende.
+
+[fn:10] [[file:Jes_13.org::v16][Jes 13,16]].[[file:Jes_13.org::v18][18]]; [[file:Hos_14.org::v1][Hos 14,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_12.org::v19][Röm 12,19]]

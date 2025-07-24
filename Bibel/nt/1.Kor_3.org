@@ -1,0 +1,149 @@
+:PROPERTIES:
+:ID:       529b76b7-8268-46c8-97b0-3470e9f6af36
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der erste Brief an die Korinther* --
+[[file:1.Kor_1.html][1]] [[file:1.Kor_2.html][2]] *3*
+[[file:1.Kor_4.html][4]] [[file:1.Kor_5.html][5]] ...
+[[file:1.Kor_16.html][16]]
+
+--------------
+
+* 1.Kor 3
+  :PROPERTIES:
+  :CUSTOM_ID: kor-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Vor euch, Brüder, konnte ich aber nicht wie vor Geisterfüllten reden;
+ihr wart noch irdisch eingestellt, unmündige Kinder in Christus.
+
+<<v2>>
+2 Milch gab ich euch zu trinken statt fester Speise; denn diese konntet
+ihr noch nicht vertragen. Ihr könnt es aber auch jetzt noch nicht;
+^{[[#fn1][1]]}
+
+<<v3>>
+3 denn ihr seid immer noch irdisch eingestellt. Oder seid ihr nicht
+irdisch eingestellt, handelt ihr nicht sehr menschlich, wenn Eifersucht
+und Streit unter euch herrschen? ^{[[#fn2][2]]}
+
+<<v4>>
+4 Denn wenn einer sagt: Ich halte zu Paulus!, ein anderer: Ich zu
+Apollos!, seid ihr da nicht Menschen?\\
+\\
+
+<<v5>>
+**** Die Verantwortung des Apostels und seiner Mitarbeiter: 3,5 - 4,16
+     :PROPERTIES:
+     :CUSTOM_ID: die-verantwortung-des-apostels-und-seiner-mitarbeiter-35---416
+     :END:
+5 Was ist denn Apollos? Und was ist Paulus? Ihr seid durch sie zum
+Glauben gekommen. Sie sind also Diener, jeder, wie der Herr es ihm
+gegeben hat: ^{[[#fn3][3]]}
+
+<<v6>>
+6 Ich habe gepflanzt, Apollos hat begossen, Gott aber ließ wachsen.
+
+<<v7>>
+7 So ist weder der etwas, der pflanzt, noch der, der begießt, sondern
+nur Gott, der wachsen lässt.
+
+<<v8>>
+8 Wer pflanzt und wer begießt: Beide arbeiten am gleichen Werk, jeder
+aber erhält seinen besonderen Lohn, je nach der Mühe, die er aufgewendet
+hat.
+
+<<v9>>
+9 Denn wir sind Gottes Mitarbeiter; ihr seid Gottes Ackerfeld, Gottes
+Bau. ^{[[#fn4][4]]}
+
+<<v10>>
+10 Der Gnade Gottes entsprechend, die mir geschenkt wurde, habe ich wie
+ein guter Baumeister den Grund gelegt; ein anderer baut darauf weiter.
+Aber jeder soll darauf achten, wie er weiterbaut. ^{[[#fn5][5]]}
+
+<<v11>>
+11 Denn einen anderen Grund kann niemand legen als den, der gelegt ist:
+Jesus Christus. ^{[[#fn6][6]]}
+
+<<v12>>
+12 Ob aber jemand auf dem Grund mit Gold, Silber, kostbaren Steinen, mit
+Holz, Heu oder Stroh weiterbaut:
+
+<<v13>>
+13 das Werk eines jeden wird offenbar werden; jener Tag wird es sichtbar
+machen, weil es im Feuer offenbart wird. Das Feuer wird prüfen, was das
+Werk eines jeden taugt. ^{[[#fn7][7]]}
+
+<<v14>>
+14 Hält das stand, was er aufgebaut hat, so empfängt er Lohn.
+
+<<v15>>
+15 Brennt es nieder, dann muss er den Verlust tragen. Er selbst aber
+wird gerettet werden, doch so wie durch Feuer hindurch. ^{[[#fn8][8]]}
+
+<<v16>>
+16 wisst ihr nicht, dass ihr Gottes Tempel seid und der Geist Gottes in
+euch wohnt? ^{[[#fn9][9]][[#fn10][10]]}
+
+<<v17>>
+17 Wer den Tempel Gottes verdirbt, den wird Gott verderben. Denn Gottes
+Tempel ist heilig, und der seid ihr.
+
+<<v18>>
+18 Keiner täusche sich selbst. Wenn einer unter euch meint, er sei weise
+in dieser Welt, dann werde er töricht, um weise zu werden.
+^{[[#fn11][11]]}
+
+<<v19>>
+19 Denn die Weisheit dieser Welt ist Torheit vor Gott. In der Schrift
+steht nämlich: /Er fängt die Weisen in ihrer eigenen List./
+^{[[#fn12][12]]}
+
+<<v20>>
+20 Und an einer anderen Stelle: /Der Herr kennt die Gedanken/ der
+Weisen; /er weiß, sie sind nichtig./ ^{[[#fn13][13]]}
+
+<<v21>>
+21 Daher soll sich niemand eines Menschen rühmen. Denn alles gehört
+euch;
+
+<<v22>>
+22 Paulus, Apollos, Kephas, Welt, Leben, Tod, Gegenwart und Zukunft:
+alles gehört euch; ^{[[#fn14][14]]}
+
+<<v23>>
+23 ihr aber gehört Christus und Christus gehört Gott.
+
+^{[[#fnm1][1]]} ℘ 1 Petr 2,2
+
+^{[[#fnm2][2]]} ℘ 1,11f; 11,18; Gal 5,19f
+
+^{[[#fnm3][3]]} ℘ 1,12
+
+^{[[#fnm4][4]]} ℘ Mt 13,3-9; Eph 2,20
+
+^{[[#fnm5][5]]} ℘ 15,10; Röm 15,20
+
+^{[[#fnm6][6]]} ℘ Eph 2,20; 1 Petr 2,4-6; Apg 4,11f
+
+^{[[#fnm7][7]]} ℘ 4,5; 2 Thess 1,7f
+
+^{[[#fnm8][8]]} ℘ Jud 23
+
+^{[[#fnm9][9]]} ℘ 6,19; 2 Kor 6,16; Eph 2,21f
+
+^{[[#fnm10][10]]} Vgl. 6,19, wo nicht die Gemeinde als ganze, sondern
+der einzelne Christ als «Tempel des Heiligen Geistes» bezeichnet wird.
+
+^{[[#fnm11][11]]} ℘ 4,10
+
+^{[[#fnm12][12]]} ℘ Ijob 5,13; 1 Kor 1,20; Röm 1,22
+
+^{[[#fnm13][13]]} ℘ Ps 94,11 G
+
+^{[[#fnm14][14]]} ℘ 1,12; Röm 8,38

@@ -1,0 +1,127 @@
+#+TITLE: Jdt 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:59]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 13.html
+
+<<verses>>
+
+<<v1>>
+* Judits Rettungstat: 13,1-10
+
+1 Als es dann Nacht geworden war, brachen seine Diener eilig auf. Bagoas
+schloss von außen das Zelt und trennte so die Diener von seinem Herrn.
+Sie suchten ihr Nachtlager auf, denn sie waren alle von dem ausgedehnten
+Mahl ermüdet.
+
+<<v2>>
+2 Judit allein blieb in dem Zelt zurück, wo Holofernes, vom Wein
+übermannt, vornüber auf sein Lager gesunken war.
+
+<<v3>>
+3 Judit hatte ihrer Dienerin befohlen, draußen vor ihrem Schlafgemach
+stehen zu bleiben und wie alle Tage zu warten, bis sie herauskäme; sie
+werde nämlich zum Gebet hinausgehen. Im gleichen Sinne hatte sie auch
+mit Bagoas gesprochen.
+
+<<v4>>
+4 Inzwischen hatte sich die ganze Gesellschaft entfernt und es befand
+sich kein Mensch mehr im Schlafgemach des Holofernes. Judit trat an das
+Lager des Holofernes und betete still: Herr, du Gott aller Macht, sieh
+in dieser Stunde gnädig auf das, was meine Hände zur Verherrlichung
+Jerusalems tun werden.
+
+<<v5>>
+5 Jetzt ist der Augenblick gekommen, dass du dich deines Erbbesitzes
+annimmst und dass ich mein Vorhaben ausführe, zum Verderben der Feinde,
+die sich gegen uns erhoben haben.
+
+<<v6>>
+6 Dann ging sie zum Bettpfosten am Kopf des Holofernes und nahm von dort
+sein Schwert herab.
+
+<<v7>>
+7 Sie ging ganz nahe zu seinem Lager hin, ergriff sein Haar und sagte:
+Mach mich stark, Herr, du Gott Israels, am heutigen Tag!
+
+<<v8>>
+8 Und sie schlug zweimal mit ihrer ganzen Kraft auf seinen Nacken und
+hieb ihm den Kopf ab.
+
+<<v9>>
+9 Dann wälzte sie seinen Rumpf von dem Lager und riss das Mückennetz von
+den Tragstangen herunter.
+
+<<v10>>
+10 Kurz danach ging sie hinaus und übergab den Kopf des Holofernes ihrer
+Dienerin, die ihn in einen Sack steckte. Sie machten sich dann beide wie
+gewöhnlich auf den Weg, als wollten sie zum Beten gehen. Sie gingen
+jedoch, nachdem sie das Lager durchquert hatten, um die Schlucht herum,
+stiegen den Berg nach Betulia hinauf und gelangten vor das Stadttor.\\
+\\
+
+<<v11>>
+* Judits Rückkehr nach Betulia und der Jubel des Volkes:
+
+11 Schon von weitem rief Judit den Wächtern am Tor zu: Öffnet, öffnet
+schnell das Tor! Gott ist mit uns, ja, unser Gott ist mit uns. Er
+offenbart in Israel seine segensreiche Macht, an unseren Feinden aber
+seine strafende Gewalt. Das hat er auch heute bewiesen.
+
+<<v12>>
+12 Als die Männer in der Stadt ihre Stimme hörten, eilten sie zum
+Stadttor hinunter und riefen die Ältesten der Stadt zusammen.
+
+<<v13>>
+13 Alle liefen herbei, vom Kleinsten bis zum Größten, denn sie konnten
+es nicht fassen, dass Judit zurückgekommen war. Sie öffneten das Tor und
+ließen die beiden Frauen herein. Dann zündeten sie ein Feuer an, um den
+Platz zu beleuchten, und umringten sie.
+
+<<v14>>
+14 Judit aber rief ihnen laut zu: Lobt Gott, ja, lobt ihn! Lobt Gott! Er
+hat dem Haus Israel sein Erbarmen nicht entzogen, sondern er hat in
+dieser Nacht unsere Feinde durch meine Hand vernichtend getroffen.
+
+<<v15>>
+15 Dann zog sie den Kopf aus dem Sack und zeigte ihn den Männern mit den
+Worten: Seht, das ist der Kopf des Holofernes, des Oberbefehlshabers der
+assyrischen Truppen, und hier ist das Mückennetz, unter dem er in seinem
+Rausch lag. Der Herr hat ihn durch die Hand einer Frau erschlagen.
+
+<<v16>>
+16 So wahr der Herr lebt, der mich auf dem Weg beschützt hat, den ich
+gegangen bin: Zwar hat ihn mein Anblick verführt und in das Verderben
+gestürzt, aber er hat mich durch keine Sünde befleckt oder geschändet.
+
+<<v17>>
+17 Das Volk war zutiefst ergriffen; sie verneigten sich, warfen sich vor
+Gott nieder und riefen einmütig: Gepriesen seist du, unser Gott, der du
+am heutigen Tag die Feinde deines Volkes vernichtet hast.\\
+\\
+
+<<v18>>
+* Usijas Lob für Judit: 13,18-20
+
+18 Usija aber sagte: Meine Tochter, du bist von Gott, dem Allerhöchsten,
+mehr gesegnet als alle anderen Frauen auf der Erde. Gepriesen sei der
+Herr, unser Gott, der Himmel und Erde geschaffen hat. Durch seine Hilfe
+ist es dir gelungen, dem Anführer unserer Feinde den Kopf abzuschlagen.
+
+<<v19>>
+19 Die Erinnerung an dein Vertrauen soll in Ewigkeit nicht aus den
+Herzen der Menschen entschwinden, die sich an die Macht Gottes erinnern.
+
+<<v20>>
+20 Gott möge dir ewigen Ruhm schenken und dich reich mit seinem Segen
+belohnen. Denn in der Not unseres Volkes hast du dein Leben nicht
+geschont; nein, du hast entschlossen unseren Untergang von uns
+abgewehrt, du bist vor unserem Gott auf geradem Weg gegangen. Und alles
+Volk rief: Amen, amen.\\
+\\

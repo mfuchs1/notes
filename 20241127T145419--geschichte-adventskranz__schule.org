@@ -1,0 +1,34 @@
+#+title:      Geschichte Adventskranz
+#+date:       [2024-11-27 Mi 14:54]
+#+filetags:   :schule:
+#+identifier: 20241127T145419
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Geschichte.html
+
+Vier Kerzen brannten am Adventskranz. Es war ganz still. So still, dass man hörte, wie die Kerzen zu reden begannen.
+
+
+Die *erste Kerze* seufzte und sagte: "Ich heiße Frieden. Mein Licht leuchtet, aber die Menschen halten keinen Frieden, sie wollen mich nicht." Ihr Licht wurde immer kleiner und verlosch schließlich ganz.
+
+
+Die *zweite Kerze* flackerte und sagte: "Ich heiße Glauben. Aber ich bin überflüssig. Die Menschen wollen von Gott nichts wissen. Es hat keinen Sinn mehr, dass ich brenne." Ein Luftzug wehte durch den Raum und die zweite Kerze war aus.
+
+
+Leise und sehr traurig meldete sich nun die *dritte Kerze* zu Wort: "Ich heiße Liebe. Ich habe keine Kraft mehr zu brennen. Die Menschen stellen mich an die Seite. Sie sehen nur sich selbst und nicht die anderen, die sie lieb haben sollen." Und mit einem letzten Aufflackern war auch dieses Licht ausgelöscht.
+
+
+Da kam ein Kind in das Zimmer. Es schaute die Kerzen an und sagte: "Aber, aber ihr sollt doch brennen und nicht aus sein!" Und fast fing es das Weinen an.
+
+
+Da meldete sich auch die *vierte Kerze* zu Wort.
+Sie sagte: "Hab keine Angst! Solange ich brenne, können wir auch die anderen Kerzen wieder anzünden.
+Ich heiße Hoffnung!"
+
+
+Mit einem Streichholz nahm das Kind das Licht dieser Kerze und zündete die anderen Kerzen wieder an!

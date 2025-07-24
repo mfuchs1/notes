@@ -1,0 +1,199 @@
+#+TITLE: 2 Makk 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 17:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Makk 6.html
+
+<<verses>>
+
+<<v1>>
+* Die Verfolgung der jüdischen Religion: 6,1-11
+
+1 Nicht lange darauf schickte der König einen alten Athener; der sollte
+die Juden zwingen, die Gesetze ihrer Väter aufzugeben und ihr Leben
+nicht mehr durch Gottes Gesetze lenken zu lassen. [fn:1]
+
+<<v2>>
+2 Auch sollte er den Tempel zu Jerusalem schänden und ihn Zeus, dem
+Herrscher des Olymp, weihen; ähnlich sollte er den Tempel auf dem Berg
+Garizim nach Zeus, dem Hüter des Gastrechts, benennen, was der
+(gastfreundlichen) Art der Einwohner jenes Ortes entgegenkam. [fn:2]
+
+<<v3>>
+3 Der Ansturm der Bosheit war kaum zu ertragen und allen zuwider.
+
+<<v4>>
+4 Denn die Heiden erfüllten das Heiligtum mit wüstem Treiben und mit
+Gelagen. Sie gaben sich mit Dirnen ab und ließen sich in den heiligen
+Vorhöfen mit Frauen ein. Auch brachten sie vieles hinein, was nicht
+hineingehörte.
+
+<<v5>>
+5 Auf den Brandopferaltar häuften sie unerlaubte und vom Gesetz
+verbotene Dinge.
+
+<<v6>>
+6 Man konnte weder den Sabbat halten noch die alten Feste begehen, ja,
+man durfte sich überhaupt nicht mehr als Jude bekennen.
+
+<<v7>>
+7 Zu ihrer Erbitterung mussten die Einwohner sich jeden Monat am
+Geburtstag des Königs zum Opfermahl führen lassen und am Fest der
+Dionysien zwang man sie, zu Ehren des Dionysos mit Efeu bekränzt in der
+Prozession mitzugehen. [fn:3]
+
+<<v8>>
+8 Auf Vorschlag der Einwohner von Ptolemaïs wurde in den benachbarten
+griechischen Städten ein Beschluss bekannt gegeben, sie sollten mit den
+Juden ebenso verfahren und Opfermahlzeiten veranstalten. [fn:4]
+
+<<v9>>
+9 Wer sich aber nicht entschließen wolle, zur griechischen Lebensweise
+überzugehen, sei hinzurichten. Da konnte man nun das Elend sehen, das
+hereinbrach.
+
+<<v10>>
+10 Man führte nämlich zwei Frauen vor, die ihre Kinder beschnitten
+hatten. Darauf hängte man ihnen die Säuglinge an die Brüste, führte sie
+öffentlich in der Stadt umher und stürzte sie dann von der Mauer. [fn:5]
+
+<<v11>>
+11 Andere waren in der Nähe zusammengekommen, um heimlich in Höhlen den
+Sabbat zu begehen. Sie wurden an Philippus verraten, und da sie sich
+wegen der Würde des heiligen Tages scheuten, sich zu wehren, wurden sie
+alle zusammen verbrannt. [fn:6]\\
+\\
+
+<<v12>>
+* Eine Geschichtsbetrachtung des Verfassers: 6,12-17
+
+12 An dieser Stelle möchte ich die Leser des Buches ermahnen, sich durch
+die schlimmen Ereignisse nicht entmutigen zu lassen. Sie mögen bedenken,
+dass die Strafen unser Volk nicht vernichten, sondern erziehen sollen. [fn:7]
+
+<<v13>>
+13 Denn wenn die Sünder nicht lange geschont, sondern sofort bestraft
+werden, ist das ein Zeichen großer Güte. [fn:8]
+
+<<v14>>
+14 Bei den anderen Völkern wartet der Herr geduldig, bis das Maß ihrer
+Sünden voll ist; dann erst schlägt er zu. Mit uns aber beschloss er,
+anders zu verfahren,
+
+<<v15>>
+15 damit er uns nicht am Ende verurteilen müsse, wenn wir es mit unseren
+Sünden bis zum Äußersten getrieben hätten.
+
+<<v16>>
+16 Daher entzieht er uns nie sein Erbarmen, sondern er erzieht sein Volk
+durch Unglück und lässt es nicht im Stich.
+
+<<v17>>
+17 Das soll uns zur Beherzigung gesagt sein. Nach dieser kurzen
+Abschweifung aber wollen wir mit der Erzählung fortfahren.\\
+\\
+
+<<v18>>
+* Das Martyrium des Eleasar: 6,18-31
+
+18 Unter den angesehensten Schriftgelehrten war Eleasar, ein Mann von
+hohem Alter und edlen Gesichtszügen. Man sperrte ihm den Mund auf und
+wollte ihn zwingen, Schweinefleisch zu essen. [fn:9] [fn:10]
+
+<<v19>>
+19 Er aber zog den ehrenvollen Tod einem Leben voll Schande vor, ging
+freiwillig auf die Folterbank zu
+
+<<v20>>
+20 und spuckte das Fleisch wieder aus. In solcher Haltung mussten alle
+herantreten, die sich standhaft wehrten zu essen, was man nicht essen
+darf - nicht einmal um des geliebten Lebens willen.
+
+<<v21>>
+21 Die Leute, die bei dem gesetzwidrigen Opfermahl Dienst taten und die
+den Mann von früher her kannten, nahmen ihn heimlich beiseite und
+redeten ihm zu, er solle sich doch Fleisch holen lassen, das er essen
+dürfe, und es selbst zubereiten. Dann solle er tun, als ob er von dem
+Opferfleisch esse, wie es der König befohlen habe.
+
+<<v22>>
+22 Wenn er es so mache, entgehe er dem Tod; weil sie alte Freunde seien,
+würden sie ihn mit Nachsicht behandeln.
+
+<<v23>>
+23 Er aber fasste einen edlen Entschluss, wie es sich gehörte für einen
+Mann, der so alt und wegen seines Alters angesehen war, in Würde
+ergraut, der von Jugend an vorbildlich gelebt und - was noch wichtiger
+ist - den heiligen, von Gott gegebenen Gesetzen gehorcht hatte. So
+erklärte er ohne Umschweife, man solle ihn ruhig zur Unterwelt schicken.
+
+<<v24>>
+24 Wer so alt ist wie ich, soll sich nicht verstellen. Viele jungen
+Leute könnten sonst glauben, Eleasar sei mit seinen neunzig Jahren noch
+zu der fremden Lebensart übergegangen.
+
+<<v25>>
+25 Wenn ich jetzt heucheln würde, um eine geringe, kurze Zeit länger zu
+leben, würde ich sie irreleiten, meinem Alter aber Schimpf und Schande
+bringen.
+
+<<v26>>
+26 Vielleicht könnte ich mich für den Augenblick der Bestrafung durch
+die Menschen entziehen; doch nie, weder lebendig noch tot, werde ich den
+Händen des Allherrschers entfliehen.
+
+<<v27>>
+27 Darum will ich jetzt wie ein Mann sterben und mich so meines Alters
+würdig zeigen.
+
+<<v28>>
+28 Der Jugend aber hinterlasse ich ein leuchtendes Beispiel, wie man
+mutig und mit Haltung für die ehrwürdigen und heiligen Gesetze eines
+schönen Todes stirbt. Nach diesen Worten ging er geradewegs zur
+Folterbank.
+
+<<v29>>
+29 Da schlug die Freundlichkeit, die ihm seine Begleiter eben noch
+erwiesen hatten, in Feindschaft um; denn was er gesagt hatte, hielten
+sie für Wahnsinn.
+
+<<v30>>
+30 Als man ihn zu Tod prügelte, sagte er stöhnend: Der Herr mit seiner
+heiligen Erkenntnis weiß, dass ich dem Tod hätte entrinnen können. Mein
+Körper leidet qualvoll unter den Schlägen, meine Seele aber erträgt sie
+mit Freuden, weil ich ihn fürchte.
+
+<<v31>>
+31 So starb er; durch seinen Tod hinterließ er nicht nur der Jugend,
+sondern den meisten aus dem Volk ein Beispiel für edle Gesinnung und ein
+Denkmal der Tugend.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-11) [[file:1.Makk_1.org::v45][1 Makk 1,45]]-[[file:1.Makk_1.org::v59][59]]
+
+[fn:2] Auf dem Garizim hatten die Samariter ihren Tempel errichtet.
+
+[fn:3] Dionysos war der griechische Gott des Weins.
+
+[fn:4] der Einwohner von Ptolemaïs: Text korr. nach Vg.
+
+[fn:5] [[file:1.Makk_1.org::v60][1 Makk 1,60]]
+
+[fn:6] [[file:1.Makk_2.org::v29][1 Makk 2,29]]-[[file:1.Makk_2.org::v38][38]]
+
+[fn:7] (12-16) [[file:2.Makk_5.org::v17][5,17]]-[[file:2.Makk_5.org::v20][20]]; [[file:1.Makk_7.org::v18][7,18f]].[[file:1.Makk_7.org::v32][32f]].[[file:1.Makk_7.org::v38][38]]
+
+[fn:8] [[file:Weish_11.org::v9][Weish 11,9f]]; [[file:Weish_12.org::v2][12,2]].[[file:Weish_12.org::v22][22]]
+
+[fn:9] [[file:1.Makk_1.org::v62][1 Makk 1,62]]-[[file:1.Makk_1.org::v64][64]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v35][Hebr 11,35]]; [[file:Lev_11.org::v7][Lev 11,7f]]
+
+[fn:10] Viele Kirchenväter haben Eleasar als einen
+vorchristlichen Märtyrer gepriesen.

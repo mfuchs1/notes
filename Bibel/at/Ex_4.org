@@ -1,0 +1,175 @@
+#+TITLE: Ex 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 12:47]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 4.html
+
+
+* Ex 4
+
+<<verses>>
+
+<<v1>>
+1 Mose antwortete: Was aber, wenn sie mir nicht glauben und nicht auf
+mich hören, sondern sagen: Jahwe ist dir nicht erschienen?
+
+<<v2>>
+2 Der Herr entgegnete ihm: Was hast du da in der Hand? Er antwortete:
+Einen Stab.
+
+<<v3>>
+3 Da sagte der Herr: Wirf ihn auf die Erde! Mose warf ihn auf die Erde.
+Da wurde der Stab zu einer Schlange und Mose wich vor ihr zurück.
+
+<<v4>>
+4 Der Herr aber sprach zu Mose: Streck deine Hand aus und fasse sie am
+Schwanz! Er streckte seine Hand aus und packte sie. Da wurde sie in
+seiner Hand wieder zu einem Stab.
+
+<<v5>>
+5 So sollen sie dir glauben, dass dir Jahwe erschienen ist, der Gott
+ihrer Väter, der Gott Abrahams, der Gott Isaaks und der Gott Jakobs.
+
+<<v6>>
+6 Weiter sprach der Herr zu ihm: Leg deine Hand in deinen Gewandbausch!
+Er legte seine Hand hinein. Als er sie herauszog, war seine Hand von
+Aussatz weiß wie Schnee.
+
+<<v7>>
+7 Darauf sagte der Herr: Leg deine Hand noch einmal in deinen
+Gewandbausch! Er legte seine Hand noch einmal hinein. Als er sie wieder
+herauszog, sah sie wieder aus wie der übrige Leib.
+
+<<v8>>
+8 Wenn sie dir nicht glauben und sich durch das erste Zeichen nicht
+überzeugen lassen, werden sie auf das zweite Zeichen hin glauben.
+
+<<v9>>
+9 Glauben sie aber selbst nach diesen beiden Zeichen nicht und lassen
+sie sich nicht überzeugen, dann nimm etwas Nilwasser und schütt es auf
+trockenen Boden! Das Wasser, das du aus dem Nil geholt hast, wird auf
+dem Boden zu Blut werden.
+
+<<v10>>
+10 Doch Mose sagte zum Herrn: Aber bitte, Herr, ich bin keiner, der gut
+reden kann, weder gestern noch vorgestern, noch seitdem du mit deinem
+Knecht sprichst. Mein Mund und meine Zunge sind nämlich schwerfällig.
+
+<<v11>>
+11 Der Herr entgegnete ihm: Wer hat dem Menschen den Mund gegeben und
+wer macht taub oder stumm, sehend oder blind? Doch wohl ich, der Herr!
+
+<<v12>>
+12 Geh also! Ich bin mit deinem Mund und weise dich an, was du reden
+sollst.
+
+<<v13>>
+13 Doch Mose antwortete: Aber bitte, Herr, schick doch einen andern! [fn:1]
+
+<<v14>>
+14 Da entbrannte der Zorn des Herrn über Mose und er sprach: Hast du
+nicht noch einen Bruder, den Leviten Aaron? Ich weiß, er kann reden;
+außerdem bricht er gerade auf und wird dir begegnen. Wenn er dich sieht,
+wird er sich von Herzen freuen.
+
+<<v15>>
+15 Sprich mit ihm und leg ihm die Worte in den Mund! Ich aber werde mit
+deinem und seinem Mund sein, ich werde euch anweisen, was ihr tun sollt,
+
+<<v16>>
+16 und er wird für dich zum Volk reden. Er wird für dich der Mund sein
+und du wirst für ihn Gott sein.
+
+<<v17>>
+17 Diesen Stab nimm in deine Hand! Mit ihm wirst du die Zeichen
+vollbringen.\\
+\\
+
+<<v18>>
+* Die Rückkehr des Mose nach Ägypten: 4,18-31
+
+18 Darauf kehrte Mose zu seinem Schwiegervater Jitro zurück. Er sagte zu
+ihm: Ich will zu meinen Brüdern nach Ägypten zurückkehren. Ich will
+sehen, ob sie noch am Leben sind. Jitro antwortete Mose: Geh in Frieden! [fn:2]
+
+<<v19>>
+19 Der Herr sprach zu Mose in Midian: Mach dich auf und kehr nach
+Ägypten zurück; denn alle, die dir nach dem Leben getrachtet haben, sind
+tot.
+
+<<v20>>
+20 Da holte Mose seine Frau und seine Söhne, setzte sie auf einen Esel
+und trat den Rückweg nach Ägypten an. Den Gottesstab hielt er in der
+Hand. [fn:3]
+
+<<v21>>
+21 Der Herr sprach zu Mose: Wenn du gehst und nach Ägypten zurückkehrst,
+halte dir alle Wunder vor Augen, die ich in deine Hand gelegt habe, und
+vollbring sie vor dem Pharao! Ich will sein Herz verhärten, sodass er
+das Volk nicht ziehen lässt.
+
+<<v22>>
+22 Dann sag zum Pharao: So spricht Jahwe: Israel ist mein erstgeborener
+Sohn.
+
+<<v23>>
+23 Ich sage dir: Lass meinen Sohn ziehen, damit er mich verehren kann.
+Wenn du dich weigerst, ihn ziehen zu lassen, bringe ich deinen
+erstgeborenen Sohn um.
+
+<<v24>>
+24 Unterwegs am Rastplatz trat der Herr dem Mose entgegen und wollte ihn
+töten. [fn:4]
+
+<<v25>>
+25 Zippora ergriff einen Feuerstein und schnitt ihrem Sohn die Vorhaut
+ab. Damit berührte sie die Beine des Mose und sagte: Ein Blutbräutigam
+bist du mir.
+
+<<v26>>
+26 Da ließ der Herr von ihm ab. «Blutbräutigam», sagte sie damals wegen
+der Beschneidung.
+
+<<v27>>
+27 Der Herr sprach zu Aaron: Geh hinaus in die Wüste, Mose entgegen! Da
+ging er. Am Gottesberg traf er ihn und küsste ihn.
+
+<<v28>>
+28 Mose erzählte Aaron von dem Auftrag, mit dem der Herr ihn gesandt
+hatte, und von allen Zeichen, zu denen er ihn ermächtigt hatte.
+
+<<v29>>
+29 Mose und Aaron gingen und versammelten alle Ältesten der Israeliten.
+
+<<v30>>
+30 Aaron wiederholte vor ihnen alle Worte, die der Herr zu Mose
+gesprochen hatte, und Mose vollbrachte die Zeichen vor den Augen des
+Volkes.
+
+<<v31>>
+31 Da glaubte das Volk, und als sie hörten, dass der Herr sich der
+Israeliten angenommen und ihr Elend gesehen habe, verneigten sie sich
+und warfen sich vor ihm nieder.\\
+\\
+
+
+* Footnotes
+
+[fn:1] Wörtlich: Schicke, wen du schickst!
+
+[fn:2] Zu Jitro vgl. die Anmerkung zu 2,18 [[file:Ex_2.org][Ex 2,18]]
+
+[fn:3] 18,3f [[file:Ex_18.org::v3][Ex 18,3]]
+
+[fn:4] 24-26: Eine ähnlich geheimnisvolle Szene wie Gen 32,23-33 [[file:Gen_32.org::v23][Gen 32,23-33]]
+Wahrscheinlich betont diese Erzählung die religiöse Bedeutung
+der Beschneidung. Der schwer kranke Mose konnte nicht beschnitten
+werden, weil bei den damaligen hygienischen Verhältnissen die
+Beschneidung fast immer Wundfieber zur Folge hatte (vgl. Gen 34,25 und
+Jos 5,8f); daher nimmt seine Frau einen Ersatzritus an ihrem Sohn vor.

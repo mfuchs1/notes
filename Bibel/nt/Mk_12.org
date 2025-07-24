@@ -1,0 +1,355 @@
+:PROPERTIES:
+:ID:       53069935-dfb6-4fce-8787-9f17d0c87fff
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Markus* --
+[[file:Mk_1.html][1]] ... [[file:Mk_10.html][10]]
+[[file:Mk_11.html][11]] *12* [[file:Mk_13.html][13]]
+[[file:Mk_14.html][14]] ... [[file:Mk_16.html][16]]
+
+--------------
+
+* Mk 12
+  :PROPERTIES:
+  :CUSTOM_ID: mk-12
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das Gleichnis von den bösen Winzern: 12,1-12
+     :PROPERTIES:
+     :CUSTOM_ID: das-gleichnis-von-den-bösen-winzern-121-12
+     :END:
+1 Jesus begann zu ihnen (wieder) in Form von Gleichnissen zu reden. (Er
+sagte:) Ein Mann /legte einen Weinberg an, zog ringsherum einen Zaun,
+hob eine Kelter aus und baute einen Turm./ Dann verpachtete er den
+Weinberg an Winzer und reiste in ein anderes Land.
+^{[[#fn1][1]][[#fn2][2]][[#fn3][3]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 278\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Als nun die Zeit dafür gekommen war, schickte er einen Knecht zu den
+Winzern, um bei ihnen seinen Anteil an den Früchten des Weinbergs holen
+zu lassen.
+
+<<v3>>
+3 Sie aber packten und prügelten ihn und jagten ihn mit leeren Händen
+fort.
+
+<<v4>>
+4 Darauf schickte er einen anderen Knecht zu ihnen; auch ihn
+misshandelten und beschimpften sie.
+
+<<v5>>
+5 Als er einen dritten schickte, brachten sie ihn um. Ähnlich ging es
+vielen anderen; die einen wurden geprügelt, die andern umgebracht.
+
+<<v6>>
+6 Schließlich blieb ihm nur noch einer: sein geliebter Sohn. Ihn sandte
+er als letzten zu ihnen, denn er dachte: Vor meinem Sohn werden sie
+Achtung haben. ^{[[#fn4][4]]}
+
+<<v7>>
+7 Die Winzer aber sagten zueinander: Das ist der Erbe. Auf, wir wollen
+ihn töten, dann gehört sein Erbgut uns.
+
+<<v8>>
+8 Und sie packten ihn und brachten ihn um und warfen ihn aus dem
+Weinberg hinaus.
+
+<<v9>>
+9 Was wird nun der Besitzer des Weinbergs tun? Er wird kommen und die
+Winzer töten und den Weinberg anderen geben.\\
+\\
+
+<<v10>>
+10 Habt ihr nicht das Schriftwort gelesen: /Der Stein, den die Bauleute
+verworfen haben,/ /\\
+ /er ist zum Eckstein geworden;/ ^{[[#fn5][5]][[#fn6][6]]}\\
+\\
+
+<<v11>>
+11 /das hat der Herr vollbracht,/ /\\
+ /vor unseren Augen geschah dieses Wunder?/
+
+<<v12>>
+12 Daraufhin hätten sie Jesus gern verhaften lassen; aber sie fürchteten
+die Menge. Denn sie hatten gemerkt, dass er mit diesem Gleichnis sie
+meinte. Da ließen sie ihn stehen und gingen weg. ^{[[#fn7][7]]}\\
+\\
+
+<<v13>>
+**** Die Frage nach der kaiserlichen Steuer: 12,13-17
+     :PROPERTIES:
+     :CUSTOM_ID: die-frage-nach-der-kaiserlichen-steuer-1213-17
+     :END:
+13 Einige Pharisäer und einige Anhänger des Herodes wurden zu Jesus
+geschickt, um ihn mit einer Frage in eine Falle zu locken.
+^{[[#fn8][8]][[#fn9][9]][[#fn10][10]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 280\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v14>>
+14 Sie kamen zu ihm und sagten: Meister, wir wissen, dass du immer die
+Wahrheit sagst und dabei auf niemand Rücksicht nimmst; denn du siehst
+nicht auf die Person, sondern lehrst wirklich den Weg Gottes. Ist es
+erlaubt, dem Kaiser Steuer zu zahlen, oder nicht? Sollen wir sie zahlen
+oder nicht zahlen?
+
+<<v15>>
+15 Er aber durchschaute ihre Heuchelei und sagte zu ihnen: Warum stellt
+ihr mir eine Falle? Bringt mir einen Denar, ich will ihn sehen.
+
+<<v16>>
+16 Man brachte ihm einen. Da fragte er sie: Wessen Bild und Aufschrift
+ist das? Sie antworteten ihm: Des Kaisers.
+
+<<v17>>
+17 Da sagte Jesus zu ihnen: So gebt dem Kaiser, was dem Kaiser gehört,
+und Gott, was Gott gehört! Und sie waren sehr erstaunt über ihn.\\
+\\
+
+<<v18>>
+**** Die Frage nach der Auferstehung der Toten: 12,18-27
+     :PROPERTIES:
+     :CUSTOM_ID: die-frage-nach-der-auferstehung-der-toten-1218-27
+     :END:
+18 Von den Sadduzäern, die behaupten, es gebe keine Auferstehung, kamen
+einige zu Jesus und fragten ihn:
+^{[[#fn11][11]][[#fn12][12]][[#fn13][13]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 281\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v19>>
+19 Meister, Mose hat uns vorgeschrieben: /Wenn ein Mann, der einen
+Bruder hat, stirbt und/ eine Frau hinterlässt, /aber kein Kind, dann
+soll sein Bruder die Frau heiraten und/ seinem /Bruder Nachkommen
+verschaffen./ ^{[[#fn14][14]]}
+
+<<v20>>
+20 Es lebten einmal sieben Brüder. Der erste nahm sich eine Frau, und
+als er starb, hinterließ er keine Nachkommen.
+
+<<v21>>
+21 Da nahm sie der zweite; auch er starb, ohne Nachkommen zu
+hinterlassen, und ebenso der dritte.
+
+<<v22>>
+22 Keiner der sieben hatte Nachkommen. Als letzte von allen starb die
+Frau.
+
+<<v23>>
+23 Wessen Frau wird sie nun bei der Auferstehung sein? Alle sieben haben
+sie doch zur Frau gehabt.
+
+<<v24>>
+24 Jesus sagte zu ihnen: Ihr irrt euch, ihr kennt weder die Schrift noch
+die Macht Gottes.
+
+<<v25>>
+25 Wenn nämlich die Menschen von den Toten auferstehen, werden sie nicht
+mehr heiraten, sondern sie werden sein wie die Engel im Himmel.
+
+<<v26>>
+26 Dass aber die Toten auferstehen, habt ihr das nicht im Buch des Mose
+gelesen, in der Geschichte vom Dornbusch, in der Gott zu Mose spricht:
+/Ich bin der Gott Abrahams, der Gott Isaaks und der Gott Jakobs?/
+^{[[#fn15][15]]}
+
+<<v27>>
+27 Er ist doch nicht ein Gott von Toten, sondern von Lebenden. Ihr irrt
+euch sehr.\\
+\\
+
+<<v28>>
+**** Die Frage nach dem wichtigsten Gebot: 12,28-34
+     :PROPERTIES:
+     :CUSTOM_ID: die-frage-nach-dem-wichtigsten-gebot-1228-34
+     :END:
+28 Ein Schriftgelehrter hatte ihrem Streit zugehört; und da er bemerkt
+hatte, wie treffend Jesus ihnen antwortete, ging er zu ihm hin und
+fragte ihn: Welches Gebot ist das erste von allen?
+^{[[#fn16][16]][[#fn17][17]][[#fn18][18]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 282\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v29>>
+29 Jesus antwortete: Das erste ist: /Höre, Israel, der Herr, unser Gott,
+ist der einzige Herr./ ^{[[#fn19][19]]}
+
+<<v30>>
+30 /Darum sollst du den Herrn, deinen Gott, lieben mit ganzem Herzen und
+ganzer Seele,/ mit all deinen Gedanken /und all deiner Kraft./
+
+<<v31>>
+31 Als zweites kommt hinzu: /Du sollst deinen Nächsten lieben wie dich
+selbst./ Kein anderes Gebot ist größer als diese beiden.
+^{[[#fn20][20]]}
+
+<<v32>>
+32 Da sagte der Schriftgelehrte zu ihm: Sehr gut, Meister! Ganz richtig
+hast du gesagt: Er allein ist der Herr, und es gibt keinen anderen außer
+ihm, ^{[[#fn21][21]]}
+
+<<v33>>
+33 und ihn mit ganzem Herzen, ganzem Verstand und ganzer Kraft zu lieben
+und den Nächsten zu lieben wie sich selbst, ist weit mehr als alle
+Brandopfer und anderen Opfer. ^{[[#fn22][22]]}
+
+<<v34>>
+34 Jesus sah, dass er mit Verständnis geantwortet hatte, und sagte zu
+ihm: Du bist nicht fern vom Reich Gottes. Und keiner wagte mehr, Jesus
+eine Frage zu stellen. ^{[[#fn23][23]]}\\
+\\
+
+<<v35>>
+**** Die Frage nach dem Messias: 12,35-37a
+     :PROPERTIES:
+     :CUSTOM_ID: die-frage-nach-dem-messias-1235-37a
+     :END:
+35 Als Jesus im Tempel lehrte, sagte er: Wie können die Schriftgelehrten
+behaupten, der Messias sei der Sohn Davids?
+^{[[#fn24][24]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 283\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v36>>
+36 Denn David hat, vom Heiligen Geist erfüllt, selbst gesagt: /Der Herr
+sprach zu meinem Herrn: Setze dich mir zur Rechten und ich lege dir
+deine Feinde unter die Füße./ ^{[[#fn25][25]]}
+
+<<v37a>>
+37a David selbst also nennt ihn «Herr». Wie kann er dann Davids Sohn
+sein?
+
+<<v37b>>
+**** Worte gegen die Schriftgelehrten: 12,37b-40
+     :PROPERTIES:
+     :CUSTOM_ID: worte-gegen-die-schriftgelehrten-1237b-40
+     :END:
+37b Es war eine große Menschenmenge versammelt und hörte ihm mit Freude
+zu. ^{[[#fn26][26]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 284\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v38>>
+38 Er lehrte sie und sagte: Nehmt euch in Acht vor den Schriftgelehrten!
+Sie gehen gern in langen Gewändern umher, lieben es, wenn man sie auf
+den Straßen und Plätzen grüßt, ^{[[#fn27][27]]}
+
+<<v39>>
+39 und sie wollen in der Synagoge die vordersten Sitze und bei jedem
+Festmahl die Ehrenplätze haben.
+
+<<v40>>
+40 Sie bringen die Witwen um ihre Häuser und verrichten in ihrer
+Scheinheiligkeit lange Gebete. Aber um so härter wird das Urteil sein,
+das sie erwartet.\\
+^{[[#fn28][28]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 294\\
+$ŽG://ESyn0812/
+
+<<v41>>
+**** Das Opfer der Witwe: 12,41-44
+     :PROPERTIES:
+     :CUSTOM_ID: das-opfer-der-witwe-1241-44
+     :END:
+41 Als Jesus einmal dem Opferkasten gegenübersaß, sah er zu, wie die
+Leute Geld in den Kasten warfen. Viele Reiche kamen und gaben viel.
+^{[[#fn29][29]][[#fn30][30]][[#fn31][31]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 286\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v42>>
+42 Da kam auch eine arme Witwe und warf zwei kleine Münzen hinein.
+^{[[#fn32][32]]}
+
+<<v43>>
+43 Er rief seine Jünger zu sich und sagte: Amen, ich sage euch: Diese
+arme Witwe hat mehr in den Opferkasten hineingeworfen als alle andern.
+
+<<v44>>
+44 Denn sie alle haben nur etwas von ihrem Überfluss hergegeben; diese
+Frau aber, die kaum das Nötigste zum Leben hat, sie hat alles gegeben,
+was sie besaß, ihren ganzen Lebensunterhalt.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Jes 5,1f G; (1-12) Mt 21,33-46; Lk 20,9-19
+
+^{[[#fnm2][2]]} 1f: Vgl. die Anmerkung zu Mt 21,33-46.
+
+^{[[#fnm3][3]]} ℘ ⇨Esyn: Synopse Nr. 278
+
+^{[[#fnm4][4]]} ℘ 1,11; 9,7
+
+^{[[#fnm5][5]]} ℘ Ps 118,22f G
+
+^{[[#fnm6][6]]} 10f: Vgl. die Anmerkung zu Mt 21,42.
+
+^{[[#fnm7][7]]} ℘ 11,18; 14,1f
+
+^{[[#fnm8][8]]} ℘ (13-17) Mt 22,15-22; Lk 20,20-26
+
+^{[[#fnm9][9]]} 13-17: Vgl. die Anmerkung zu Mt 22,15-22.
+
+^{[[#fnm10][10]]} ℘ ⇨Esyn: Synopse Nr. 280
+
+^{[[#fnm11][11]]} ℘ Apg 23,8; (18-27) Mt 22,23-33; Lk 20,27-38
+
+^{[[#fnm12][12]]} 18-27: Vgl. die Anmerkung zu Mt 22,23-33.
+
+^{[[#fnm13][13]]} ℘ ⇨Esyn: Synopse Nr. 281
+
+^{[[#fnm14][14]]} ℘ Dtn 25,5f; Gen 38,8
+
+^{[[#fnm15][15]]} ℘ Ex 3,6
+
+^{[[#fnm16][16]]} ℘ (28-34) Mt 22,34-40; Lk 10,25-28
+
+^{[[#fnm17][17]]} 28-34: Vgl. die Anmerkung zu Mt 22,34-40.
+
+^{[[#fnm18][18]]} ℘ ⇨Esyn: Synopse Nr. 282
+
+^{[[#fnm19][19]]} ℘ (29f) Dtn 6,4f
+
+^{[[#fnm20][20]]} ℘ Lev 19,18
+
+^{[[#fnm21][21]]} ℘ Lk 20,39; Dtn 4,35; 6,4f
+
+^{[[#fnm22][22]]} ℘ 1 Sam 15,22
+
+^{[[#fnm23][23]]} ℘ Mt 22,46; Lk 20,40
+
+^{[[#fnm24][24]]} ℘ (35-37a) Mt 22,41-45; Lk 20,41-44 ⇨Esyn: Synopse Nr.
+283
+
+^{[[#fnm25][25]]} ℘ Ps 110,1
+
+^{[[#fnm26][26]]} ℘ (37b-40) Mt 23,1.5-7.14; Lk 20,46f ⇨Esyn: Synopse
+Nr. 284
+
+^{[[#fnm27][27]]} ℘ (38-39) Lk 11,43
+
+^{[[#fnm28][28]]} ℘ ⇨Esyn: Synopse Nr. 294
+
+^{[[#fnm29][29]]} ℘ (41-44) Lk 21,1-4
+
+^{[[#fnm30][30]]} Im Vorhof der Frauen, zu dem beide Geschlechter
+Zutritt hatten, befand sich die Schatzkammer mit dreizehn
+trompetenförmigen Opferstöcken. Die Opfermünzen wurden von einem
+Priester überprüft und dann in den Opferstock geworfen.
+
+^{[[#fnm31][31]]} ℘ ⇨Esyn: Synopse Nr. 286
+
+^{[[#fnm32][32]]} Wörtlich: und warf zwei Leptá hinein, das ist ein
+Quadrans.

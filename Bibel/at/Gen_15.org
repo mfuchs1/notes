@@ -1,0 +1,128 @@
+:PROPERTIES:
+:ID:       4dfec29e-7fdd-4814-865f-32fb92e8c21a
+:END:
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+OPTIONS: broken-links:t H:6
+#+filetags: :hide:
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+TITLE: Gen_15
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+
+<<verses>>
+
+<<v1>>
+* Gottes Bund mit Abraham: 15,1-21
+
+1 Nach diesen Ereignissen erging das Wort des Herrn in einer Vision an
+Abram: Fürchte dich nicht, Abram, ich bin dein Schild; dein Lohn wird
+sehr groß sein.
+
+<<v2>>
+2 Abram antwortete: Herr, mein Herr, was willst du mir schon geben? Ich
+gehe doch kinderlos dahin und Erbe meines Hauses ist Eliëser aus
+Damaskus. [fn:1]
+
+<<v3>>
+3 Und Abram sagte: Du hast mir ja keine Nachkommen gegeben; also wird
+mich mein Haussklave beerben.
+
+<<v4>>
+4 Da erging das Wort des Herrn an ihn: Nicht er wird dich beerben,
+sondern dein leiblicher Sohn wird dein Erbe sein.
+
+<<v5>>
+5 Er führte ihn hinaus und sprach: Sieh doch zum Himmel hinauf und zähl
+die Sterne, wenn du sie zählen kannst. Und er sprach zu ihm: So
+zahlreich werden deine Nachkommen sein. [fn:2]
+
+<<v6>>
+6 Abram glaubte dem Herrn und der Herr rechnete es ihm als Gerechtigkeit
+an. [fn:3]
+
+<<v7>>
+7 Er sprach zu ihm: Ich bin der Herr, der dich aus Ur in Chaldäa
+herausgeführt hat, um dir dieses Land zu Eigen zu geben.
+
+<<v8>>
+8 Da sagte Abram: Herr, mein Herr, woran soll ich erkennen, dass ich es
+zu Eigen bekomme?
+
+<<v9>>
+9 Der Herr antwortete ihm: Hol mir ein dreijähriges Rind, eine
+dreijährige Ziege, einen dreijährigen Widder, eine Turteltaube und eine
+Haustaube!
+
+<<v10>>
+10 Abram brachte ihm alle diese Tiere, zerteilte sie und legte je eine
+Hälfte der andern gegenüber; die Vögel aber zerteilte er nicht.
+
+<<v11>>
+11 Da stießen Raubvögel auf die Fleischstücke herab, doch Abram
+verscheuchte sie.
+
+<<v12>>
+12 Bei Sonnenuntergang fiel auf Abram ein tiefer Schlaf; große,
+unheimliche Angst überfiel ihn.
+
+<<v13>>
+13 Gott sprach zu Abram: Du sollst wissen: Deine Nachkommen werden als
+Fremde in einem Land wohnen, das ihnen nicht gehört. Sie werden dort als
+Sklaven dienen und man wird sie vierhundert Jahre lang hart behandeln.
+
+<<v14>>
+14 Aber auch über das Volk, dem sie als Sklaven dienen, werde ich
+Gericht halten und nachher werden sie mit reicher Habe ausziehen. [fn:4]
+
+<<v15>>
+15 Du aber wirst in Frieden zu deinen Vätern heimgehen; in hohem Alter
+wirst du begraben werden.
+
+<<v16>>
+16 Erst die vierte Generation wird hierher zurückkehren; denn noch hat
+die Schuld der Amoriter nicht ihr volles Maß erreicht.
+
+<<v17>>
+17 Die Sonne war untergegangen und es war dunkel geworden. Auf einmal
+waren ein rauchender Ofen und eine lodernde Fackel da; sie fuhren
+zwischen jenen Fleischstücken hindurch.
+
+<<v18>>
+18 An diesem Tag schloss der Herr mit Abram folgenden Bund: Deinen
+Nachkommen gebe ich dieses Land vom Grenzbach Ägyptens bis zum großen
+Strom Eufrat, [fn:5]
+
+<<v19>>
+19 (das Land) der Keniter, der Kenasiter, der Kadmoniter,
+
+<<v20>>
+20 der Hetiter, der Perisiter, der Rafaïter,
+
+<<v21>>
+21 der Amoriter, der Kanaaniter, der Girgaschiter, der Hiwiter und der
+Jebusiter. [fn:6]\\
+\\
+
+
+* Footnotes
+
+[fn:1] Schluss des Verses in H unklar, daher Übersetzung
+unsicher.
+
+[fn:2] 13,16 [[file:Gen_13.org::v16][Gen 13,16]]; 22,15-18 [[file:Gen_22.org::v15][Gen 22,15-18]]; 26,4 [[file:Gen_26.org::v4][Gen 26,4]]; 28,14 [[file:Gen_28.org::v14][Gen 28,14]]
+
+[fn:3] Röm 4,3.9.22 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Röm_4.org::v3][Röm 4,3.9.22]]; Gal 3,6 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Gal_3.org::v6][Gal 3,6]]; Jak 2,23 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Jak_2.org::v23][Jak 2,23]]
+
+[fn:4] Ex 12,35f [[file:Ex_12.org::v35][Ex 12,35f]]
+
+[fn:5] 13,15 [[file:Gen_13.org::v15][Gen 13,15]]
+
+[fn:6] Hiwiter: ergänzt nach einigen alten Übersetzungen.

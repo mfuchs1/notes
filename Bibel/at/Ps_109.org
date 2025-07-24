@@ -1,0 +1,230 @@
+#+TITLE: Ps 109 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-17 Sa 22:27]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 109.html
+
+* Ps 109
+
+<<verses>>
+
+<<v1>>
+* Bitte um Hilfe gegen erbarmungslose Feinde
+
+1 [Für den Chormeister. Ein Psalm Davids.] Gott, den ich lobe, schweig
+doch nicht! / [fn:1] [fn:2]\\
+\\
+
+<<v2>>
+2 Denn ein Mund voll Frevel, ein Lügenmaul hat sich gegen mich aufgetan.
+Sie reden zu mir mit falscher Zunge, / [fn:3]\\
+\\
+
+<<v3>>
+3 umgeben mich mit Worten voll Hass /\\
+ und bekämpfen mich ohne Grund.\\
+\\
+
+<<v4>>
+4 Sie befeinden mich, während ich für sie bete, / [fn:4]\\
+\\
+
+<<v5>>
+5 sie vergelten mir Gutes mit Bösem, /\\
+ mit Hass meine Liebe. [fn:5]\\
+\\
+
+<<v6>>
+6 Sein Frevel stehe gegen ihn auf als Zeuge, /\\
+ ein Ankläger trete an seine Seite.\\
+\\
+
+<<v7>>
+7 Aus dem Gericht gehe er verurteilt hervor, /\\
+ selbst sein Gebet werde zur Sünde.\\
+\\
+
+<<v8>>
+8 Nur gering sei die Zahl seiner Tage, /\\
+ sein Amt soll ein andrer erhalten. [fn:6]\\
+\\
+
+<<v9>>
+9 Seine Kinder sollen zu Waisen werden /\\
+ und seine Frau zur Witwe. [fn:7]\\
+\\
+
+<<v10>>
+10 Unstet sollen seine Kinder umherziehen und betteln, /\\
+ aus den Trümmern ihres Hauses vertrieben. [fn:8] [fn:9]\\
+\\
+
+<<v11>>
+11 Sein Gläubiger reiße all seinen Besitz an sich, /\\
+ Fremde sollen plündern, was er erworben hat. [fn:10]\\
+\\
+
+<<v12>>
+12 Niemand sei da, der ihm die Gunst bewahrt, /\\
+ keiner, der sich der Waisen erbarmt. [fn:11]\\
+\\
+
+<<v13>>
+13 Seine Nachkommen soll man vernichten, /\\
+ im nächsten Geschlecht schon erlösche sein Name. [fn:12] [fn:13]\\
+\\
+
+<<v14>>
+14 Der Herr denke an die Schuld seiner Väter, /\\
+ ungetilgt bleibe die Sünde seiner Mutter. [fn:14]\\
+\\
+
+<<v15>>
+15 Ihre Schuld stehe dem Herrn allzeit vor Augen, /\\
+ ihr Andenken lösche er aus auf Erden. [fn:15]\\
+\\
+
+<<v16>>
+16 Denn dieser Mensch dachte nie daran, Gnade zu üben; /\\
+ er verfolgte den Gebeugten und Armen /\\
+ und wollte den Verzagten töten.\\
+\\
+
+<<v17>>
+17 Er liebte den Fluch - der komme über ihn; /\\
+ er verschmähte den Segen der bleibe ihm fern.\\
+\\
+
+<<v18>>
+18 Er zog den Fluch an wie ein Gewand; /\\
+ der dringe wie Wasser in seinen Leib, /\\
+ wie Öl in seine Glieder. [fn:16]\\
+\\
+
+<<v19>>
+19 Er werde für ihn wie das Kleid, in das er sich hüllt, /\\
+ wie der Gürtel, der ihn allzeit umschließt.\\
+\\
+
+<<v20>>
+20 So lohne der Herr es denen, die mich verklagen, /\\
+ und denen, die Böses gegen mich reden.\\
+\\
+
+<<v21>>
+21 Du aber, Herr und Gebieter, /\\
+ handle an mir, wie es deinem Namen entspricht, /\\
+ reiß mich heraus in deiner gütigen Huld!\\
+\\
+
+<<v22>>
+22 Denn ich bin arm und gebeugt, /\\
+ mir bebt das Herz in der Brust.\\
+\\
+
+<<v23>>
+23 Wie ein flüchtiger Schatten schwinde ich dahin; /\\
+ sie schütteln mich wie eine Heuschrecke ab. [fn:17]\\
+\\
+
+<<v24>>
+24 Mir wanken die Knie vom Fasten, /\\
+ mein Leib nimmt ab und wird mager.\\
+\\
+
+<<v25>>
+25 Ich wurde für sie zum Spott und zum Hohn, /\\
+ sie schütteln den Kopf, wenn sie mich sehen. [fn:18]\\
+\\
+
+<<v26>>
+26 Hilf mir, Herr, mein Gott, /\\
+ in deiner Huld errette mich!\\
+\\
+
+<<v27>>
+27 Sie sollen erkennen, dass deine Hand dies vollbracht hat, /\\
+ dass du, o Herr, es getan hast. [fn:19]\\
+\\
+
+<<v28>>
+28 Mögen sie fluchen - du wirst segnen. /\\
+ Meine Gegner sollen scheitern, dein Knecht aber darf sich freuen. [fn:20] [fn:21]\\
+\\
+
+<<v29>>
+29 Meine Ankläger sollen sich bedecken mit Schmach, /\\
+ wie in einen Mantel sich in Schande hüllen. [fn:22]\\
+\\
+
+<<v30>>
+30 Ich will den Herrn preisen mit lauter Stimme, /\\
+ in der Menge ihn loben. [fn:23]\\
+\\
+
+<<v31>>
+31 Denn er steht dem Armen zur Seite, /\\
+ um ihn vor falschen Richtern zu retten.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_35.org::v22][35,22]]; [[file:Ps_83.org::v2][83,2]]
+
+[fn:2] Dieser Psalm ist ein so genannter Fluchpsalm. Er ist für
+Fromme gedacht, die, vielleicht wegen Bestechlichkeit der Richter, nicht
+hoffen können, in einem Gerichtsverfahren Recht zu bekommen. VV. 2-5 und
+21-31 setzen mehrere, VV. 6-20 nur einen Prozessgegner voraus; das
+deutet darauf hin, dass der Verfasser in VV. 6-20 einen bereits
+vorgeformten Text eingearbeitet hat. Die schrecklichen Flüche erklären
+sich als äußerstes Mittel der Notwehr gegen übermächtige Feinde, die nur
+durch einen Appell an Gottes Gerechtigkeit abgewehrt werden können.
+
+[fn:3] [[file:Ps_31.org::v19][31,19]]
+
+[fn:4] Sie befeinden mich: H fügt hinzu: für meine Liebe.
+
+[fn:5] (4-5) [[file:Spr_17.org::v13][Spr 17,13]]; [[file:Ps_35.org::v12][Ps 35,12f]]
+
+[fn:6] [[file:~/RoamNotes/notes/Bibel/nt/Apg_1.org::v20][Apg 1,20]]
+
+[fn:7] [[file:Ex_22.org::v23][Ex 22,23]]; [[file:Jer_18.org::v21][Jer 18,21]]
+
+[fn:8] [[file:Ijob_5.org::v4][Ijob 5,4f]]
+
+[fn:9] Text korr.
+
+[fn:10] [[file:Ijob_20.org::v18][Ijob 20,18]]
+
+[fn:11] (12-13) [[file:Jes_14.org::v21][Jes 14,21]]
+
+[fn:12] [[file:Ps_21.org::v11][21,11]]
+
+[fn:13] sein Name: Text korr.; H: ihr Name.
+
+[fn:14] [[file:Ex_20.org::v5][Ex 20,5]]
+
+[fn:15] [[file:Ps_90.org::v8][90,8]]; [[file:Ps_34.org::v17][34,17]]
+
+[fn:16] [[file:Num_5.org::v24][Num 5,24]]
+
+[fn:17] [[file:Ps_39.org::v6][39,6f]]
+
+[fn:18] [[file:Ps_41.org::v6][41,6]]
+
+[fn:19] [[file:Ps_64.org::v10][64,10]]
+
+[fn:20] [[file:Jes_65.org::v13][Jes 65,13f]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_6.org::v27][Lk 6,27f]]
+
+[fn:21] Text korr.; H: Sie treten auf, aber sie scheitern.
+
+[fn:22] [[file:Jer_20.org::v11][Jer 20,11]]
+
+[fn:23] [[file:Ps_22.org::v23][22,23]]

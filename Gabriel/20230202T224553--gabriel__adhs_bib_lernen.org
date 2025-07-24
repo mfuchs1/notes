@@ -1,0 +1,69 @@
+#+title:      Gabriel
+#+date:       [2023-02-02 Do 22:45]
+#+filetags:   :adhs:bib:lernen:
+#+identifier: 20230202T224553
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+reference:  Rietzler.2016
+
+* Internetseiten zum Thema "Prüfungsangst"
+
+** Prüfungsängste reduzieren durch eine konstruktive Sichtweise 
+Source: [[https://www.mit-kindern-lernen.ch/lernen-kinder/pruefungsaengste-und-schulaengste-bewaeltigen/152-pruefungsaengste-reduzieren-durch-eine-konstruktive-sichtweise][Prüfungsängste reduzieren durch eine konstruktive Sichtweise]]
+Created: [2023-02-02 Do 20:16]
+
+** Auswirkungen von Prüfungsangst 
+Source: [[https://www.mit-kindern-lernen.ch/lernen-kinder/pruefungsaengste-und-schulaengste-bewaeltigen/146-auswirkungen-von-pruefungsangst][Auswirkungen von Prüfungsangst]]
+Created: [2023-02-02 Do 20:16]
+
+** „Wir machen keinen Druck, wir machen uns nur Sorgen...“ 
+Source: [[https://www.mit-kindern-lernen.ch/lernen-kinder/pruefungsaengste-und-schulaengste-bewaeltigen/341-wir-machen-keinen-druck-elterliche-sorgen][„Wir machen keinen Druck, wir machen uns nur Sorgen...“]]
+Created: [2023-02-02 Do 20:17]
+
+** Noten: Ist das wirklich nötig? 
+Source: [[https://www.mit-kindern-lernen.ch/lernen-kinder/pruefungsaengste-und-schulaengste-bewaeltigen/414-noten-in-der-schule-noetig-oder-nicht][Noten: Ist das wirklich nötig?]]
+Created: [2023-02-02 Do 20:17]
+
+** Prüfungsangst: Einleitung 
+Source: [[https://www.mit-kindern-lernen.ch/lernen-kinder/pruefungsaengste-und-schulaengste-bewaeltigen/144-pruefungsangst-einleitung][Prüfungsangst: Einleitung]]
+Created: [2023-02-02 Do 20:18]
+
+** Umgang mit Druck, Prüfungsangst und Schulangst 
+Source: [[https://www.mit-kindern-lernen.ch/lernen-kinder/pruefungsaengste-und-schulaengste-bewaeltigen][Umgang mit Druck, Prüfungsangst und Schulangst]]
+Created: [2023-02-02 Do 20:19]
+
+** Prüfungsangst: Tipps gegen Blackouts 
+Source: [[https://www.mit-kindern-lernen.ch/lernen-kinder/pruefungsaengste-und-schulaengste-bewaeltigen/151-pruefungsangst-tipps-gegen-blackouts][Prüfungsangst: Tipps gegen Blackouts]]
+Created: [2023-02-02 Do 20:25]
+
+Enttäuscht kommt Thomas von der Mathematikprüfung nach Hause. Zu Hause konnte er es doch -- aber an der Prüfung, erzählt er, sei ihm plötzlich nichts mehr eingefallen. Er hatte ein „richtiges Blackout“.
+
+Solche Berichte hören wir immer wieder. Es will ihnen an der Prüfung einfach nicht gelingen, das Gelernte abzurufen. Was kann man dagegen tun?
+
+** Prüfungsangst: Tipps gegen Blackouts 
+Source: [[https://www.mit-kindern-lernen.ch/lernen-kinder/pruefungsaengste-und-schulaengste-bewaeltigen/151-pruefungsangst-tipps-gegen-blackouts][Prüfungsangst: Tipps gegen Blackouts]]
+Created: [2023-02-02 Do 20:36]
+
+#+BEGIN_QUOTE
+Enttäuscht kommt Thomas von der Mathematikprüfung nach Hause. Zu Hause konnte er es doch -- aber an der Prüfung, erzählt er, sei ihm plötzlich nichts mehr eingefallen. Er hatte ein „richtiges Blackout“.
+#+END_QUOTE
+
+** Prüfungsangst: Einleitung 
+Source: [[https://www.mit-kindern-lernen.ch/lernen-kinder/pruefungsaengste-und-schulaengste-bewaeltigen/144-pruefungsangst-einleitung][Prüfungsangst: Einleitung]]
+Created: [2023-02-02 Do 20:36]
+
+#+BEGIN_QUOTE
+Dafür gibt es viele Gründe:
+
+1. Angst und Scham liegen nahe beieinander und die Scham sagt den Schülern, dass sie ihre Angst verstecken sollen -- was vielen gelingt.
+2. Angst ist oft irrational -- und was irrational ist, wird von Aussenstehenden nur schwer nachvollzogen: „was soll denn bei so einem Vortrag schon schreckliches passieren?!“
+3. Angst motiviert und führt nicht selten zu guten Noten -- und wer in der Schule gut ist, der hat doch keine Lernprobleme?
+4. Und schliesslich verwechseln viele Menschen ihre normale Prüfungsnervosität - die Aufgeregheit kurz vor dem Vortrag, die schlecht geschlafene Nacht vor der Prüfung - mit der Prüfungsangst von Schüler/innen, die wirklich betroffen sind und beim Gedanken an das Abitur in zwei Monaten bereits Herzklopfen bekommen, vor einer Prüfung wochenlang nicht richtig schlafen können, sich beim Lernen kaum konzentrieren können, mit Bauchweh zur Schule gehen oder sogar das Studium abbrechen und sich dauernd dumm und wertlos fühlen.
+#+END_QUOTE
+
+* Bücher
+
+(org-capture "B" + und den bibkey eingeben - bib-note mit denote; mit diesem Code kann ich ein Literatur.bib-File erzeugen, ausgehend von denote files)
+[[denote:20230202T230835][Erfolgreich lernen mit ADHS]]
+
+(citar-denote; create a note; dieses Paket erstellt u.a. Notizen zu existierenden Einträgen im *.bib-File)
+[[denote:20230202T230111][Erfolgreich lernen mit ADHS]]

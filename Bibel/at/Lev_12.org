@@ -1,0 +1,63 @@
+#+TITLE: Lev 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 14:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 12.html
+
+<<verses>>
+
+<<v1>>
+* Die Reinigung der Wöchnerin: 12,1-8
+
+1 Der Herr sprach zu Mose: [fn:1]
+
+<<v2>>
+2 Sag zu den Israeliten: Wenn eine Frau niederkommt und einen Knaben
+gebiert, ist sie sieben Tage unrein, wie sie in der Zeit ihrer Regel
+unrein ist.
+
+<<v3>>
+3 Am achten Tag soll man die Vorhaut des Kindes beschneiden [fn:2]
+
+<<v4>>
+4 und dreiunddreißig Tage soll die Frau wegen ihrer Reinigungsblutung zu
+Hause bleiben. Sie darf nichts Geweihtes berühren und nicht zum
+Heiligtum kommen, bis die Zeit ihrer Reinigung vorüber ist.
+
+<<v5>>
+5 Wenn sie ein Mädchen gebiert, ist sie zwei Wochen unrein wie während
+ihrer Regel. Sechsundsechzig Tage soll sie wegen ihrer Reinigungsblutung
+zu Hause bleiben.
+
+<<v6>>
+6 Wenn die Zeit ihrer Reinigung vorüber ist, soll sie, für einen Sohn
+ebenso wie für eine Tochter, ein einjähriges Schaf als Brandopfer und
+eine junge Taube oder eine Turteltaube als Sündopfer zum Priester an den
+Eingang des Offenbarungszeltes bringen.
+
+<<v7>>
+7 Er soll es vor dem Herrn darbringen und sie entsühnen; so wird sie von
+ihrem Blutfluss gereinigt. Das ist das Gesetz für eine Frau, die einen
+Knaben oder ein Mädchen gebiert.
+
+<<v8>>
+8 Wenn sie die Mittel für ein Schaf nicht aufbringen kann, soll sie zwei
+Turteltauben oder zwei junge Tauben nehmen, eine als Brandopfer und die
+andere als Sündopfer; der Priester soll sie entsühnen und so wird sie
+gereinigt. [fn:3]\\
+\\
+
+
+* Footnotes
+
+[fn:1] 1-8: Zur Unreinheit der Wöchnerin vgl. die Einleitung.
+
+[fn:2] Gen 17,12 [[file:Gen_17.org::v12][Gen 17,12]]
+
+[fn:3] Lk 2,24 [[file:~/RoamNotes/notes/Bibel/nt/Lk_2.org::v24][Lk 2,24]]

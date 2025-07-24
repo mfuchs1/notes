@@ -1,0 +1,125 @@
+:PROPERTIES:
+:ID:       844d90e4-8bd7-402e-b946-b55f55380b16
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der zweite Brief an die Korinther* --
+[[file:2.Kor_1.html][1]] ... [[file:2.Kor_7.html][7]]
+[[file:2.Kor_8.html][8]] *9* [[file:2.Kor_10.html][10]]
+[[file:2.Kor_11.html][11]] ... [[file:2.Kor_13.html][13]]
+
+--------------
+
+* 2.Kor 9
+  :PROPERTIES:
+  :CUSTOM_ID: kor-9
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Erneuter Aufruf zur Sammlung für Jerusalem: 9,1-15
+   :PROPERTIES:
+   :CUSTOM_ID: erneuter-aufruf-zur-sammlung-für-jerusalem-91-15
+   :END:
+**** Empfehlung der Beauftragten: 9,1-5
+     :PROPERTIES:
+     :CUSTOM_ID: empfehlung-der-beauftragten-91-5
+     :END:
+1 Eigentlich ist es unnötig, euch über das Hilfswerk für die Heiligen zu
+schreiben. ^{[[#fn1][1]]}
+
+<<v2>>
+2 Denn ich kenne euren guten Willen und rühme euch vor den Mazedoniern,
+indem ich ihnen sage: Achaia ist seit einem Jahr gerüstet. Und euer
+Eifer hat viele andere angespornt. ^{[[#fn2][2]]}
+
+<<v3>>
+3 Trotzdem habe ich die Brüder zu euch geschickt; denn unser Lob für
+euch könnte in dieser Hinsicht verfrüht gewesen sein. Ihr solltet also
+jetzt wirklich, wie ich sagte, gerüstet sein. ^{[[#fn3][3]]}
+
+<<v4>>
+4 Wenn nämlich Mazedonier mit mir kämen und euch noch nicht gerüstet
+fänden, dann könnte es geschehen, dass wir uns wegen dieser unserer
+Erwartung zu schämen hätten - um nicht zu sagen, ihr hättet euch zu
+schämen.
+
+<<v5>>
+5 Ich hielt es also für notwendig, die Brüder zu bitten, sie möchten
+vorausreisen und eure in Aussicht gestellte Spende schon jetzt
+einsammeln, damit sie dann verfügbar ist, und zwar als großzügige
+Spende, nicht als Gabe des Geizes. ^{[[#fn4][4]]}\\
+\\
+
+<<v6>>
+**** Der Segen des Hilfswerks: 9,6-15
+     :PROPERTIES:
+     :CUSTOM_ID: der-segen-des-hilfswerks-96-15
+     :END:
+6 Denkt daran: Wer kärglich sät, wird auch kärglich ernten; wer
+reichlich sät, wird reichlich ernten. ^{[[#fn5][5]]}
+
+<<v7>>
+7 Jeder gebe, wie er es sich in seinem Herzen vorgenommen hat, nicht
+verdrossen und nicht unter Zwang; denn Gott liebt /einen fröhlichen
+Geber./ ^{[[#fn6][6]]}
+
+<<v8>>
+8 In seiner Macht kann Gott alle Gaben über euch ausschütten, sodass
+euch allezeit in allem alles Nötige ausreichend zur Verfügung steht und
+ihr noch genug habt, um allen Gutes zu tun,\\
+\\
+
+<<v9>>
+9 wie es in der Schrift heißt: /Reichlich gibt er den Armen;/ /\\
+ /seine Gerechtigkeit hat Bestand für immer./ ^{[[#fn7][7]]}\\
+\\
+
+<<v10>>
+10 Gott, der /Samen gibt für die Aussaat und Brot zur Nahrung,/ wird
+auch euch das Saatgut geben und die Saat aufgehen lassen; er wird /die
+Früchte eurer Gerechtigkeit/ wachsen lassen. ^{[[#fn8][8]]}
+
+<<v11>>
+11 In allem werdet ihr reich genug sein, um selbstlos schenken zu
+können; und wenn wir diese Gabe überbringen, wird sie Dank an Gott
+hervorrufen. ^{[[#fn9][9]]}
+
+<<v12>>
+12 Denn euer Dienst und eure Opfergabe füllen nicht nur die leeren Hände
+der Heiligen, sondern werden weiterwirken als vielfältiger Dank an Gott.
+^{[[#fn10][10]]}
+
+<<v13>>
+13 Vom Zeugnis eines solchen Dienstes bewegt, werden sie Gott dafür
+preisen, dass ihr euch gehorsam zum Evangelium Christi bekannt und dass
+ihr ihnen und allen selbstlos geholfen habt.
+
+<<v14>>
+14 In ihrem Gebet für euch werden sie sich angesichts der übergroßen
+Gnade, die Gott euch geschenkt hat, eng mit euch verbunden fühlen.
+
+<<v15>>
+15 Dank sei Gott für sein unfassbares Geschenk.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 8,4
+
+^{[[#fnm2][2]]} ℘ 8,11
+
+^{[[#fnm3][3]]} ℘ 8,22.24
+
+^{[[#fnm4][4]]} als großzügige Spende, wörtlich: als Segen.
+
+^{[[#fnm5][5]]} ℘ Spr 11,24
+
+^{[[#fnm6][6]]} ℘ Spr 22,9 G
+
+^{[[#fnm7][7]]} ℘ Ps 112,9
+
+^{[[#fnm8][8]]} ℘ Jes 55,10; Hos 10,12 G
+
+^{[[#fnm9][9]]} ℘ 4,15; 8,7
+
+^{[[#fnm10][10]]} ℘ 8,14

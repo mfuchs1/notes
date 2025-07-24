@@ -1,0 +1,157 @@
+#+TITLE: Ps 38 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-02 Di 21:59]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 38.html
+
+* Ps 38
+
+<<verses>>
+
+<<v1>>
+* Die Klage eines Kranken
+
+1 [Ein Psalm Davids. Zum Weihrauchopfer.]\\
+\\
+
+<<v2>>
+2 Herr, strafe mich nicht in deinem Zorn /\\
+ und züchtige mich nicht in deinem Grimm! [fn:1]\\
+\\
+
+<<v3>>
+3 Denn deine Pfeile haben mich getroffen, /\\
+ deine Hand lastet schwer auf mir. [fn:2]\\
+\\
+
+<<v4>>
+4 Nichts blieb gesund an meinem Leib, weil du mir grollst; /\\
+ weil ich gesündigt, blieb an meinen Gliedern nichts heil.\\
+\\
+
+<<v5>>
+5 Denn meine Sünden schlagen mir über dem Kopf zusammen, /\\
+ sie erdrücken mich wie eine schwere Last. [fn:3]\\
+\\
+
+<<v6>>
+6 Mir schwären, mir eitern die Wunden /\\
+ wegen meiner Torheit.\\
+\\
+
+<<v7>>
+7 Ich bin gekrümmt und tief gebeugt, /\\
+ den ganzen Tag geh ich traurig einher.\\
+\\
+
+<<v8>>
+8 Denn meine Lenden sind voller Brand, /\\
+ nichts blieb gesund an meinem Leib.\\
+\\
+
+<<v9>>
+9 Kraftlos bin ich und ganz zerschlagen, /\\
+ ich schreie in der Qual meines Herzens.\\
+\\
+
+<<v10>>
+10 All mein Sehnen, Herr, liegt offen vor dir, /\\
+ mein Seufzen ist dir nicht verborgen.\\
+\\
+
+<<v11>>
+11 Mein Herz pocht heftig, mich hat die Kraft verlassen, /\\
+ geschwunden ist mir das Licht der Augen. [fn:4] [fn:5]\\
+\\
+
+<<v12>>
+12 Freunde und Gefährten bleiben mir fern in meinem Unglück /\\
+ und meine Nächsten meiden mich. [fn:6]\\
+\\
+
+<<v13>>
+13 Die mir nach dem Leben trachten, legen mir Schlingen; /\\
+ die mein Unheil suchen, planen Verderben, /\\
+ Den ganzen Tag haben sie Arglist im Sinn. [fn:7]\\
+\\
+
+<<v14>>
+14 Ich bin wie ein Tauber, der nicht hört, /\\
+ wie ein Stummer, der den Mund nicht auftut.\\
+\\
+
+<<v15>>
+15 Ich bin wie einer, der nicht mehr hören kann, /\\
+ aus dessen Mund keine Entgegnung kommt.\\
+\\
+
+<<v16>>
+16 Doch auf dich, Herr, harre ich; /\\
+ du wirst mich erhören, Herr, mein Gott.\\
+\\
+
+<<v17>>
+17 Denn ich sage: Über mich sollen die sich nicht freuen, /\\
+ die gegen mich prahlen, wenn meine Füße straucheln. [fn:8]\\
+\\
+
+<<v18>>
+18 Ich bin dem Fallen nahe, /\\
+ mein Leid steht mir immer vor Augen.\\
+\\
+
+<<v19>>
+19 Ja, ich bekenne meine Schuld, /\\
+ ich bin wegen meiner Sünde in Angst. [fn:9]\\
+\\
+
+<<v20>>
+20 Die mich ohne Grund befehden, sind stark; /\\
+ viele hassen mich wegen nichts. [fn:10]\\
+\\
+
+<<v21>>
+21 Sie vergelten mir Gutes mit Bösem, /\\
+ sie sind mir Feind; denn ich trachte nach dem Guten. [fn:11]\\
+\\
+
+<<v22>>
+22 Herr, verlass mich nicht, bleib mir nicht fern, mein Gott! / [fn:12]
+
+<<v23>>
+23 Eile mir zu Hilfe, Herr, du mein Heil!\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_6.org::v2][6,2]]
+
+[fn:2] [[file:Ps_32.org::v4][32,4]]; [[file:Ijob_6.org::v4][Ijob 6,4]]
+
+[fn:3] [[file:Ps_40.org::v13][40,13]]; [[file:Esra_9.org::v6][Esra 9,6]]
+
+[fn:4] [[file:Ps_31.org::v10][31,10]]
+
+[fn:5] Der sinnstörende Einschub «auch sie» in H, der nach
+«Licht der Augen» steht, bleibt wie in einigen G-Handschriften und S
+unübersetzt.
+
+[fn:6] [[file:Ps_31.org::v12][31,12]]
+
+[fn:7] [[file:Ps_35.org::v20][35,20]]
+
+[fn:8] [[file:Ps_13.org::v5][13,5]]; [[file:Ps_35.org::v19][35,19]]
+
+[fn:9] [[file:Ps_32.org::v5][32,5]]; [[file:Ps_51.org::v5][51,5]]; [[file:2.Sam_12.org::v13][2 Sam 12,13]]; [[file:Ijob_31.org::v33][Ijob 31,33]]; [[file:Spr_28.org::v13][Spr 28,13]]; [[file:Hos_14.org::v3][Hos 14,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Jak_5.org::v16][Jak 5,16]]
+
+[fn:10] Text korr.
+
+[fn:11] [[file:Ps_35.org::v12][35,12]]
+
+[fn:12] (22-23) [[file:Ps_22.org::v12][22,12]]

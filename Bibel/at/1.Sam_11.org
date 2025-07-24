@@ -1,0 +1,107 @@
+#+TITLE: 1 Sam 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 13:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 11.html
+
+
+<<verses>>
+
+<<v1>>
+* Hilfe für Jabesch: 11,1-13
+
+1 Da zog der Ammoniter Nahasch heran und belagerte Jabesch-Gilead. Die
+Männer von Jabesch sagten zu Nahasch: Schließ einen Vertrag mit uns,
+dann wollen wir dir dienen.
+
+<<v2>>
+2 Der Ammoniter Nahasch erwiderte ihnen: Unter einer Bedingung will ich
+mit euch einen Vertrag schließen: Ich steche euch allen das rechte Auge
+aus und bringe damit Schande über ganz Israel.
+
+<<v3>>
+3 Die Ältesten von Jabesch sagten: Lass uns sieben Tage Zeit! Wir wollen
+Boten durch das ganze Gebiet von Israel schicken. Wenn sich niemand
+findet, der uns retten kann, werden wir uns dir ergeben.
+
+<<v4>>
+4 Als die Boten nach Gibea-Saul kamen und die Sache dem Volk vortrugen,
+brach das ganze Volk in lautes Weinen aus. [fn:1]
+
+<<v5>>
+5 Saul kam gerade hinter seinen Rindern vom Feld her und fragte: Was
+haben denn die Leute, dass sie weinen? Sie erzählten ihm, was die Männer
+von Jabesch berichtet hatten.
+
+<<v6>>
+6 Als Saul das hörte, kam der Geist Gottes über ihn und sein Zorn
+entbrannte heftig. [fn:2]
+
+<<v7>>
+7 Er ergriff ein Gespann Rinder und hieb es in Stücke, schickte die
+Stücke durch Boten in das ganze Gebiet von Israel und ließ sagen: Wer
+nicht hinter Saul und Samuel in den Kampf zieht, dessen Rindern soll es
+ebenso gehen. Da fiel der Schrecken des Herrn auf das ganze Volk und sie
+rückten aus wie ein Mann.
+
+<<v8>>
+8 Als Saul sie in Besek musterte, waren es dreihunderttausend Männer aus
+Israel und dreißigtausend Männer aus Juda.
+
+<<v9>>
+9 Sie sagten zu den Boten, die gekommen waren: Folgendes sollt ihr den
+Männern von Jabesch-Gilead sagen: Morgen, wenn die Sonne am heißesten
+brennt, bekommt ihr Hilfe. Die Boten gingen heim und berichteten alles
+und die Männer von Jabesch freuten sich.
+
+<<v10>>
+10 Sie ließen Nahasch sagen: Morgen werden wir zu euch hinauskommen.
+Dann könnt ihr mit uns machen, was euch gefällt.
+
+<<v11>>
+11 Am nächsten Morgen stellte Saul das Volk in drei Abteilungen auf. Um
+die Zeit der Morgenwache drangen sie mitten in das Lager ein und zur
+Zeit der Mittagshitze hatten sie die Ammoniter geschlagen. Nur wenige
+blieben übrig; sie wurden zerstreut, sodass nicht einmal zwei von ihnen
+beieinander blieben.
+
+<<v12>>
+12 Da sagte das Volk zu Samuel: Wer hat damals gesagt: Soll etwa Saul
+als König über uns herrschen? Gebt diese Männer heraus, damit wir sie
+töten. [fn:3]
+
+<<v13>>
+13 Saul aber sagte: An diesem Tag soll niemand getötet werden; denn
+heute hat der Herr Israel Hilfe gebracht. [fn:4]\\
+\\
+
+<<v14>>
+* Samuels Abschied: 11,14 - 12,25
+
+14 Samuel sagte zum Volk: Kommt, wir wollen nach Gilgal gehen und dort
+das Königtum erneuern. [fn:5]
+
+<<v15>>
+15 Da ging das ganze Volk nach Gilgal. Sie machten dort in Gilgal Saul
+vor dem Herrn zum König, schlachteten dem Herrn Heilsopfer und Saul und
+alle Männer Israels waren voll Freude.
+
+* Footnotes
+
+[fn:1] Gibea-Saul liegt nördlich von Jerusalem. Ausgrabungen
+haben eine Burg aus der Zeit um 1000 v. Chr. freigelegt, die man mit
+Saul in Verbindung bringt.
+
+[fn:2] [[file:Ri_13.org::v25][Ri 13,25]]
+
+[fn:3] [[file:1.Sam_10.org::v27][10,27]]
+
+[fn:4] [[file:1.Sam_14.org::v45][14,45]]
+
+[fn:5] [[file:1.Sam_10.org::v8][10,8]]

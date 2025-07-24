@@ -1,0 +1,200 @@
+#+TITLE: Ps 118 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-18 So 00:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 118.html
+
+* Ps 118
+
+<<verses>>
+
+<<v1>>
+* Eine Dankliturgie
+
+1 Danket dem Herrn, denn er ist gütig, /\\
+ denn seine Huld währt ewig. [fn:1]\\
+\\
+
+<<v2>>
+2 So soll Israel sagen: /\\
+ Denn seine Huld währt ewig. [fn:2]\\
+\\
+
+<<v3>>
+3 So soll das Haus Aaron sagen: /\\
+ Denn seine Huld währt ewig.\\
+\\
+
+<<v4>>
+4 So sollen alle sagen, die den Herrn fürchten und ehren: /\\
+ Denn seine Huld währt ewig.\\
+\\
+
+<<v5>>
+5 In der Bedrängnis rief ich zum Herrn; /\\
+ der Herr hat mich erhört und mich frei gemacht.\\
+\\
+
+<<v6>>
+6 Der Herr ist bei mir, ich fürchte mich nicht. /\\
+ Was können Menschen mir antun? [fn:3]\\
+\\
+
+<<v7>>
+7 Der Herr ist bei mir, er ist mein Helfer; /\\
+ ich aber schaue auf meine Hasser herab. [fn:4]\\
+\\
+
+<<v8>>
+8 Besser, sich zu bergen beim Herrn, /\\
+ als auf Menschen zu bauen. [fn:5]\\
+\\
+
+<<v9>>
+9 Besser, sich zu bergen beim Herrn, /\\
+ als auf Fürsten zu bauen.\\
+\\
+
+<<v10>>
+10 Alle Völker umringen mich; /\\
+ ich wehre sie ab im Namen des Herrn.\\
+\\
+
+<<v11>>
+11 Sie umringen, ja, sie umringen mich; /\\
+ ich wehre sie ab im Namen des Herrn.\\
+\\
+
+<<v12>>
+12 Sie umschwirren mich wie Bienen, /\\
+ wie ein Strohfeuer verlöschen sie; /\\
+ ich wehre sie ab im Namen des Herrn. [fn:6]\\
+\\
+
+<<v13>>
+13 Sie stießen mich hart, sie wollten mich stürzen; /\\
+ der Herr aber hat mir geholfen. [fn:7]\\
+\\
+
+<<v14>>
+14 Meine Stärke und mein Lied ist der Herr; /\\
+ er ist für mich zum Retter geworden. [fn:8] [fn:9]\\
+\\
+
+<<v15>>
+15 Frohlocken und Jubel erschallt in den Zelten der Gerechten: /\\
+ «Die Rechte des Herrn wirkt mit Macht!\\
+\\
+
+<<v16>>
+16 Die Rechte des Herrn ist erhoben, /\\
+ die Rechte des Herrn wirkt mit Macht!»\\
+\\
+
+<<v17>>
+17 Ich werde nicht sterben, sondern leben, /\\
+ um die Taten des Herrn zu verkünden. [fn:10]\\
+\\
+
+<<v18>>
+18 Der Herr hat mich hart gezüchtigt, /\\
+ doch er hat mich nicht dem Tod übergeben. [fn:11]\\
+\\
+
+<<v19>>
+19 Öffnet mir die Tore zur Gerechtigkeit, /\\
+ damit ich eintrete, um dem Herrn zu danken. [fn:12]\\
+\\
+
+<<v20>>
+20 Das ist das Tor zum Herrn, /\\
+ nur Gerechte treten hier ein.\\
+\\
+
+<<v21>>
+21 Ich danke dir, dass du mich erhört hast; /\\
+ du bist für mich zum Retter geworden.\\
+\\
+
+<<v22>>
+22 Der Stein, den die Bauleute verwarfen, /\\
+ er ist zum Eckstein geworden. [fn:13]\\
+\\
+
+<<v23>>
+23 Das hat der Herr vollbracht, /\\
+ vor unseren Augen geschah dieses Wunder.\\
+\\
+
+<<v24>>
+24 Dies ist der Tag, den der Herr gemacht hat; /\\
+ wir wollen jubeln und uns an ihm freuen.\\
+\\
+
+<<v25>>
+25 Ach, Herr, bring doch Hilfe! /\\
+ Ach, Herr, gib doch Gelingen!\\
+\\
+
+<<v26>>
+26 Gesegnet sei er, der kommt im Namen des Herrn. /\\
+ Wir segnen euch vom Haus des Herrn her. / [fn:14]\\
+\\
+
+<<v27>>
+27 Gott, der Herr, erleuchte uns. Mit Zweigen in den Händen /\\
+ schließt euch zusammen zum Reigen /\\
+ bis zu den Hörnern des Altars! [fn:15]\\
+\\
+
+<<v28>>
+28 Du bist mein Gott, dir will ich danken; /\\
+ mein Gott, dich will ich rühmen.\\
+\\
+
+<<v29>>
+29 Dankt dem Herrn, denn er ist gütig, /\\
+ denn seine Huld währt ewig. [fn:16]\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:Ps_107.org::v1][107,1]]
+
+[fn:2] (2-4) [[file:Ps_115.org::v9][115,9-13]]; [[file:Ps_135.org::v19][135,19f]]
+
+[fn:3] [[file:Ps_56.org::v5][56,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_13.org::v6][Hebr 13,6]]
+
+[fn:4] [[file:Ps_54.org::v6][54,6]].[[file:Ps_54.org::v9][9]]
+
+[fn:5] (8-9) [[file:Ps_62.org::v6][62,6]]; [[file:Ps_146.org::v3][146,3]]; [[file:Jer_17.org::v5][Jer 17,5]]
+
+[fn:6] [[file:Dtn_1.org::v44][Dtn 1,44]]
+
+[fn:7] [[file:Ps_129.org::v1][129,1f]]
+
+[fn:8] [[file:Ex_15.org::v2][Ex 15,2]]; [[file:Jes_12.org::v2][Jes 12,2]]
+
+[fn:9] Text korr.; «mein» ist ergänzt.
+
+[fn:10] [[file:Ps_6.org::v6][6,6]]
+
+[fn:11] [[file:~/RoamNotes/notes/Bibel/nt/2.Kor_6.org::v9][2 Kor 6,9]]
+
+[fn:12] (19-20) [[file:Jes_26.org::v2][Jes 26,2]]
+
+[fn:13] [[file:Jes_28.org::v16][Jes 28,16]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_4.org::v11][Apg 4,11]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v7][1 Petr 2,7]]; (22-23) [[file:Neh_6.org::v16][Neh 6,16]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_21.org::v42][Mt 21,42]]
+
+[fn:14] [[file:~/RoamNotes/notes/Bibel/nt/Mt_21.org::v9][Mt 21,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_23.org::v39][23,39]]
+
+[fn:15] Nach G.
+
+[fn:16] [[file:Ps_107.org::v1][107,1]]

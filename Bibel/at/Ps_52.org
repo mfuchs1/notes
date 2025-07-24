@@ -1,0 +1,97 @@
+#+TITLE: Ps 52 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-12 Fr 23:41]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 52.html
+
+* Ps 52
+
+<<verses>>
+
+<<v1>>
+* Die Überheblichkeit des Bösen - das Vertrauen des Frommen
+
+1 [Für den Chormeister. Ein Weisheitslied Davids,
+
+<<v2>>
+2 als der Edomiter Doëg zu Saul kam und ihm meldete: David ist in das
+Haus des Ahimelech gegangen.] [fn:1]\\
+\\
+
+<<v3>>
+3 Was rühmst du dich deiner Bosheit, du Mann der Gewalt, /\\
+ was prahlst du allzeit vor dem Frommen? [fn:2]\\
+\\
+
+<<v4>>
+4 Du Ränkeschmied, du planst Verderben; /\\
+ deine Zunge gleicht einem scharfen Messer. [fn:3]\\
+\\
+
+<<v5>>
+5 Du liebst das Böse mehr als das Gute /\\
+ und Lüge mehr als wahrhaftige Rede. [Sela] [fn:4]\\
+\\
+
+<<v6>>
+6 Du liebst lauter verderbliche Worte, /\\
+ du tückische Zunge.\\
+\\
+
+<<v7>>
+7 Darum wird Gott dich verderben für immer, /\\
+ dich packen und herausreißen aus deinem Zelt, /\\
+ dich entwurzeln aus dem Land der Lebenden. [Sela] [fn:5]\\
+\\
+
+<<v8>>
+8 Gerechte werden es sehen und sich fürchten; /\\
+ sie werden über ihn lachen und sagen: [fn:6]\\
+\\
+
+<<v9>>
+9 «Seht, das ist der Mann, /\\
+ der nicht zu Gott seine Zuflucht nahm; auf seinen großen Reichtum hat
+er sich verlassen /\\
+ und auf seinen Frevel gebaut.» [fn:7]\\
+\\
+
+<<v10>>
+10 Ich aber bin im Haus Gottes wie ein grünender Ölbaum; /\\
+ auf Gottes Huld vertraue ich immer und ewig. [fn:8]\\
+\\
+
+<<v11>>
+11 Ich danke dir, Herr, in Ewigkeit; /\\
+ denn du hast das alles vollbracht. Ich hoffe auf deinen Namen im Kreis
+der Frommen; /\\
+ denn du bist gütig. [fn:9]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_22.org::v9][1 Sam 22,9f]]
+
+[fn:2] Text korr. nach S; H erlaubt auch die Übersetzung: Was
+rühmst du dich, dass Gottes Huld allezeit (auf deiner Seite) ist.
+
+[fn:3] [[file:Ps_59.org::v8][59,8]]; (4-6) [[file:Ps_12.org::v3][12,3-5]]
+
+[fn:4] [[file:Jer_9.org::v4][Jer 9,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_3.org::v19][Joh 3,19f]]
+
+[fn:5] [[file:Ps_27.org::v13][27,13]]; [[file:Ijob_18.org::v14][Ijob 18,14]]
+
+[fn:6] [[file:Ps_58.org::v11][58,11]]; [[file:Ps_91.org::v8][91,8]]; [[file:Ijob_22.org::v19][Ijob 22,19]]
+
+[fn:7] [[file:Ps_49.org::v7][49,7]]
+
+[fn:8] [[file:Ps_92.org::v13][92,13-16]]
+
+[fn:9] [[file:Ps_54.org::v8][54,8]]

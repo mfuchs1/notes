@@ -1,0 +1,244 @@
+#+TITLE: Dtn 31 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-30 Mo 21:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 31.html
+
+<<verses>>
+
+<<v1>>
+* Die Einsetzung Josuas durch Mose: 31,1-8
+
+1 Mose trat vor ganz Israel hin und sprach diese Worte. [fn:1]
+
+<<v2>>
+2 Er sagte zu ihnen: Ich bin jetzt hundertzwanzig Jahre alt. Ich kann
+nicht mehr in den Kampf ziehen. Auch hat der Herr zu mir gesagt: Du
+wirst den Jordan hier nicht überschreiten. [fn:2]
+
+<<v3>>
+3 Der Herr, dein Gott, zieht selbst vor dir hinüber, er selbst
+vernichtet diese Völker bei deinem Angriff, sodass du ihren Besitz
+übernehmen kannst. Josua zieht vor dir hinüber, wie es der Herr zugesagt
+hat. [fn:3]
+
+<<v4>>
+4 Der Herr wird an ihnen tun, was er an Sihon und Og, den
+Amoriterkönigen, die er vernichtete, und an ihrem Land getan hat. [fn:4]
+
+<<v5>>
+5 Der Herr wird sie euch ausliefern: Dann sollt ihr an ihnen genau nach
+dem Gebot handeln, auf das ich euch verpflichtet habe.
+
+<<v6>>
+6 Empfangt Macht und Stärke: Fürchtet euch nicht und weicht nicht
+erschreckt zurück, wenn sie angreifen; denn der Herr, dein Gott, zieht
+mit dir. Er lässt dich nicht fallen und verlässt dich nicht.
+
+<<v7>>
+7 Mose rief Josua herbei und sagte vor den Augen ganz Israels zu ihm:
+Empfange Macht und Stärke: Du sollst mit diesem Volk in das Land
+hineinziehen, von dem du weißt: Der Herr hat ihren Vätern geschworen, es
+ihnen zu geben. Du sollst es an sie als Erbbesitz verteilen. [fn:5] [fn:6]
+
+<<v8>>
+8 Der Herr selbst zieht vor dir her. Er ist mit dir. Er lässt dich nicht
+fallen und verlässt dich nicht. Du sollst dich nicht fürchten und keine
+Angst haben. [fn:7]\\
+\\
+
+<<v9>>
+* Die Verlesung des Gesetzes im Sabbatjahr: 31,9-13
+
+9 Mose schrieb diese Weisung auf und übergab sie den Priestern, den
+Nachkommen Levis, die die Lade des Bundes des Herrn trugen, und allen
+Ältesten Israels. [fn:8]
+
+<<v10>>
+10 Mose schrieb ihnen vor: In jedem siebten Jahr, in einer der
+Festzeiten des Brachjahres, beim Laubhüttenfest,
+
+<<v11>>
+11 wenn ganz Israel zusammenkommt, um an der Stätte, die der Herr
+auswählt, das Angesicht des Herrn, deines Gottes zu schauen, sollst du
+diese Weisung vor ganz Israel laut vortragen. [fn:9]
+
+<<v12>>
+12 Versammle das Volk - die Männer und Frauen, Kinder und Greise, dazu
+die Fremden, die in deinen Stadtbereichen Wohnrecht haben -, damit sie
+zuhören und auswendig lernen und den Herrn, euren Gott, fürchten und
+darauf achten, dass sie alle Bestimmungen dieser Weisung halten.
+
+<<v13>>
+13 Vor allem ihre Kinder, die das alles noch nicht kennen, sollen
+zuhören und lernen, den Herrn, euren Gott, zu fürchten. Das sollt ihr so
+lange tun, wie ihr in dem Land lebt, in das ihr jetzt über den Jordan
+hinüberzieht, um es in Besitz zu nehmen. [fn:10]\\
+\\
+
+<<v14>>
+* Die Erscheinung Gottes: 31,14f
+     
+14 Der Herr sagte zu Mose: Sieh, deine Zeit ist gekommen: Du wirst
+sterben. Ruf Josua und tritt mit ihm in das Offenbarungszelt, damit ich
+ihn einsetzen kann. Mose und Josua gingen hin und traten in das
+Offenbarungszelt hinein. [fn:11] [fn:12]
+
+<<v15>>
+15 Der Herr erschien ihnen am Zelt in einer Wolkensäule. Die Wolkensäule
+stand über dem Eingang des Zeltes.\\
+\\
+
+<<v16>>
+* Die Offenbarung des Moseliedes: 31,16-22
+
+16 Und der Herr sagte zu Mose: Sieh, du wirst jetzt bald zu deinen
+Vätern gebettet werden. Dann wird dieses Volk sich erheben; man wird in
+seiner Mitte Unzucht treiben, indem man den fremden Göttern des Landes
+nachfolgt, in das es jetzt hineinzieht, es wird mich verlassen und den
+Bund brechen, den ich mit ihm geschlossen habe. [fn:13] [fn:14]
+
+<<v17>>
+17 An jenem Tag wird mein Zorn gegen sie entbrennen. Ich werde sie
+verlassen und mein Angesicht vor ihnen verbergen. Dann wird dieses Volk
+verzehrt werden. Not und Zwang jeder Art werden es treffen. An jenem Tag
+wird es sich fragen: Hat mich diese Not nicht deshalb getroffen, weil
+mein Gott nicht mehr in meiner Mitte ist? [fn:15]
+
+<<v18>>
+18 Aber ich werde an jenem Tag mein Angesicht nur noch mehr verbergen
+wegen all des Bösen, das dieses Volk getan hat; denn es hat sich anderen
+Göttern zugewandt.
+
+<<v19>>
+19 Doch jetzt schreibt dieses Lied auf! Lehre es die Israeliten! Lass es
+sie auswendig lernen, damit dieses Lied mein Zeuge gegen die Israeliten
+werde. [fn:16]
+
+<<v20>>
+20 Wenn ich dieses Volk in das Land geführt habe, das ich seinen Vätern
+mit einem Schwur versprochen habe, in das Land, wo Milch und Honig
+fließen, und wenn es gegessen hat und satt und fett geworden ist und
+sich anderen Göttern zugewandt hat, wenn sie ihnen gedient und mich
+verworfen haben und es so meinen Bund gebrochen hat, [fn:17]
+
+<<v21>>
+21 dann wird, wenn Not und Zwang jeder Art es treffen, dieses Lied vor
+ihm als Zeuge aussagen; denn seine Nachkommen werden es nicht vergessen,
+sondern es auswendig wissen. Ich kenne seine Neigung, die sich schon
+heute regt, noch ehe ich es in das Land gebracht habe, das ich mit einem
+Schwur versprochen habe. [fn:18]
+
+<<v22>>
+22 An jenem Tag schrieb Mose dieses Lied auf und lehrte es die
+Israeliten.\\
+\\
+
+<<v23>>
+* Die Einsetzung Josuas durch Gott: 31,23
+
+23 Der Herr aber setzte Josua, den Sohn Nuns, in sein Amt ein und sagte:
+Empfange Macht und Stärke: Du sollst die Israeliten in das Land führen,
+das ich ihnen mit einem Schwur versprochen habe. Ich werde bei dir sein. [fn:19]\\
+\\
+
+<<v24>>
+* Die Hinterlegung des Gesetzes: 31,24-29
+
+24 Als Mose damit zu Ende war, den Text dieser Weisung in eine Urkunde
+einzutragen, ohne irgendetwas auszulassen,
+
+<<v25>>
+25 befahl Mose den Leviten, die die Lade des Bundes des Herrn trugen: [fn:20]
+
+<<v26>>
+26 Nehmt diese Urkunde der Weisung entgegen und legt sie neben die Lade
+des Bundes des Herrn, eures Gottes! Dort diene sie als Zeuge gegen euch. [fn:21]
+
+<<v27>>
+27 Denn ich kenne deine Widersetzlichkeit und deine Halsstarrigkeit.
+Seht, schon jetzt, wo ich noch unter euch lebe, habt ihr euch dem Herrn
+widersetzt. Was wird erst nach meinem Tod geschehen? [fn:22]
+
+<<v28>>
+28 Versammelt um mich alle Ältesten eurer Stämme und alle eure
+Listenführer, damit ich ihnen diesen Text vortragen und Himmel und Erde
+gegen sie als Zeugen anrufen kann. [fn:23]
+
+<<v29>>
+29 Denn ich weiß: Nach meinem Tod werdet ihr ins Verderben laufen und
+von dem Weg abweichen, den ich euch vorgeschrieben habe. Dann, in
+künftigen Tagen, wird euch die Not begegnen, weil ihr tut, was in den
+Augen des Herrn böse ist, und weil ihr ihn durch euer Machwerk erzürnt. [fn:24]\\
+\\
+
+<<v30>>
+* Das Lied des Mose: 31,30 - 32,44
+
+30 Und Mose trug der vollzähligen Versammlung Israels den Wortlaut
+dieses Liedes vor, ohne irgendetwas auszulassen:\\
+\\
+
+* Footnotes
+
+[fn:1] 1f: Andere Lesart: Als Mose damit zu Ende war, diese
+Worte ganz Israel vorzutragen, sagte er zu ihnen.
+
+[fn:2] [[file:Dtn_1.org::v37][1,37]]; [[file:Dtn_34.org::v7][34,7]]; (2-6) [[file:Dtn_20.org::v2][20,2-4]]
+
+[fn:3] [[file:Dtn_1.org::v38][1,38]]; [[file:Dtn_9.org::v3][9,3]]
+
+[fn:4] [[file:Dtn_7.org::v1][7,1-4]]; [[file:Dtn_20.org::v16][20,16-18]]
+
+[fn:5] (7-8) [[file:Dtn_1.org::v38][1,38]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_4.org::v8][Hebr 4,8]]
+
+[fn:6] Du sollst mit diesem Volk in das Land hineinziehen,
+andere Lesart: Du sollst dieses Volk in das Land führen.
+
+[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Hebr_13.org::v5][Hebr 13,5]]
+
+[fn:8] [[file:Dtn_5.org::v23][5,23]]; [[file:Dtn_10.org::v8][10,8]]; [[file:Dtn_17.org::v18][17,18]]; [[v26][31,26]]
+
+[fn:9] Vgl. die Anmerkung zu 16,16.
+
+[fn:10] [[file:Dtn_4.org::v5][4,5]]; [[file:Dtn_12.org::v1][12,1]]; [[file:Dtn_32.org::v46][32,46]]
+
+[fn:11] [[file:Ex_33.org::v7][Ex 33,7-11]]
+
+[fn:12] 14f.23: Nachdem Mose Josua in das Amt des Heerführers
+bei der Landnahme und des Landverteilers nach der Landnahme eingesetzt
+hat (VV. 7f), bestätigt Gott hier das erste der beiden Ämter; die
+Bestätigung des zweiten findet sich in [[file:Jos_1.org::v6][Jos 1,6-9]].
+
+[fn:13] [[file:Dtn_29.org::v24][29,24]]; [[file:Dtn_32.org::v12][32,12]]; [[file:Ex_34.org::v15][Ex 34,15f]]; [[file:Ri_2.org::v17][Ri 2,17]]; [[file:Ri_8.org::v27][8,27]].[[file:Ri_8.org::v33][33]]
+
+[fn:14] 16-21: Diese erste Überleitung zum Moselied spielt nur
+auf die erste Hälfte des Lieds an, die von Israels Abfall und Bestrafung
+handelt. Offenbar soll vor allem dieser Teil des Lieds vom Leser
+beachtet werden. Ähnliches gilt von der zweiten Überleitung in VV. 28f.
+
+[fn:15] [[file:Dtn_32.org::v20][32,20-30]]
+
+[fn:16] [[file:Dtn_32.org::v1][32,1-43]]
+
+[fn:17] [[file:Dtn_29.org::v24][29,24]]; [[file:Dtn_32.org::v13][32,13-18]];
+
+[fn:18] [[v26][31,26]]; [[file:Dtn_32.org::v23][32,23-25]]
+
+[fn:19] [[file:Dtn_1.org::v38][1,38]]
+
+[fn:20] (25-26) [[file:Dtn_17.org::v18][17,18]]; [[v9][31,9]]
+
+[fn:21] (26-27) [[file:~/RoamNotes/notes/Bibel/nt/Joh_5.org::v45][Joh 5,45]]; [[file:Dtn_32.org::v12][Dtn 31,12]]
+
+[fn:22] [[file:Dtn_9.org::v6][9,6f]].[[file:Dtn_9.org::v24][24]]
+
+[fn:23] [[file:Dtn_4.org::v26][4,26]]; [[file:Dtn_5.org::v23][5,23]]; [[file:Dtn_16.org::v18][16,18]]; [[file:Dtn_30.org::v19][30,19]]; [[file:Dtn_32.org::v1][32,1]]
+
+[fn:24] [[file:Dtn_4.org::v16][4,16]].[[file:Dtn_4.org::v25][25]]; [[file:Dtn_9.org::v12][9,12f]]; [[file:Dtn_27.org::v15][27,15]]; [[file:Dtn_32.org::v5][32,5]].[[file:Dtn_32.org::v20][20]].[[file:Dtn_32.org::v23][23]]

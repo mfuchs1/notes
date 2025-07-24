@@ -1,0 +1,233 @@
+:PROPERTIES:
+:ID:       4ebbd370-8984-4d66-bb4b-58ee1a31fc68
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_38.html][38]]
+[[file:Sir_39.html][39]] *40* [[file:Sir_41.html][41]]
+[[file:Sir_42.html][42]] ... [[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 40
+  :PROPERTIES:
+  :CUSTOM_ID: sir-40
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das Übel in der Welt: 40,1-11
+     :PROPERTIES:
+     :CUSTOM_ID: das-übel-in-der-welt-401-11
+     :END:
+1 Große Mühsal hat Gott den Menschen zugeteilt, /\\
+ ein schweres Joch ihnen auferlegt von dem Tag, an dem sie aus dem Schoß
+ihrer Mutter hervorgehen, /\\
+ bis zum Tag ihrer Rückkehr zur Mutter aller Lebenden: ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 ihr Grübeln und die Angst ihres Herzens, /\\
+ der Gedanke an die Zukunft, an den Tag ihres Todes.\\
+\\
+
+<<v3>>
+3 Von dem, der auf hohem Thron sitzt, /\\
+ bis zu dem, der in Staub und Asche sitzt,\\
+\\
+
+<<v4>>
+4 von dem, der Krone und Stirnreif trägt, /\\
+ bis zu dem, der ein Kleid aus Fellen trägt:\\
+\\
+
+<<v5>>
+5 Zorn, Eifersucht, Sorge und Schrecken, /\\
+ Todesangst, Zank und Streit. Noch auf dem Bett zur Ruhezeit /\\
+ verwirrt der nächtliche Schlaf ihm den Sinn.\\
+\\
+
+<<v6>>
+6 Bald wird er, nach einem Augenblick der Ruhe, /\\
+ von schrecklichen Träumen aufgejagt, bald in die Irre getrieben durch
+Vorspiegelungen seiner Seele, /\\
+ wie ein Flüchtling, der dem Verfolger entrinnt;
+^{[[#fn2][2]][[#fn3][3]]}\\
+\\
+
+<<v7>>
+7 gerade während er sich rettet, wacht er auf /\\
+ und wundert sich über die Angst um nichts. ^{[[#fn4][4]]}\\
+\\
+
+<<v8>>
+8 Hinzu kommt über alles Lebende, vom Menschen bis zum Vieh, /\\
+ und über die Sünder siebenfach:\\
+\\
+
+<<v9>>
+9 Pest und Blut, Fieber und Schwert, /\\
+ Untergang und Verderben, Hunger und Tod.\\
+\\
+
+<<v10>>
+10 Für den Frevler ist das Übel erschaffen /\\
+ und seinetwegen kommt die Vernichtung. ^{[[#fn5][5]]}\\
+\\
+
+<<v11>>
+11 Alles, was von der Erde stammt, /\\
+ kehrt zur Erde zurück, /\\
+ was aus der Höhe stammt, zur Höhe. ^{[[#fn6][6]][[#fn7][7]]}\\
+\\
+
+<<v12>>
+**** Der Wert der Treue: 40,12-17
+     :PROPERTIES:
+     :CUSTOM_ID: der-wert-der-treue-4012-17
+     :END:
+12 Jede Bestechung und Ungerechtigkeit wird ausgerottet, /\\
+ Treue aber besteht für immer.\\
+\\
+
+<<v13>>
+13 Der Reichtum des Frevlers ist wie ein reißender Bach, /\\
+ wie ein mächtiger Fluss beim Gewitterregen. ^{[[#fn8][8]]}\\
+\\
+
+<<v14>>
+14 Schwillt er an, dann werden Felsen bewegt, /\\
+ doch plötzlich versiegt er für immer. ^{[[#fn9][9]]}\\
+\\
+
+<<v15>>
+15 Der Schössling des Gewalttätigen treibt keinen Spross; /\\
+ denn die Wurzel des Ruchlosen liegt auf einem Felsenriff,\\
+\\
+
+<<v16>>
+16 wie Riedgras am Bachrand, /\\
+ das schneller als jedes Gras verdorrt.\\
+\\
+
+<<v17>>
+17 Liebe aber wird in Ewigkeit nicht ausgetilgt, /\\
+ Barmherzigkeit besteht für immer. ^{[[#fn10][10]][[#fn11][11]]}\\
+\\
+
+<<v18>>
+**** Die höchsten Güter: 40,18-27
+     :PROPERTIES:
+     :CUSTOM_ID: die-höchsten-güter-4018-27
+     :END:
+18 Überfluss und Verdienst machen das Leben angenehm, /\\
+ doch mehr als beide, einen Schatz zu finden.\\
+\\
+
+<<v19>>
+19 Nachkommenschaft und Städtebau geben dem Namen Bestand, /\\
+ doch mehr als beide, Weisheit zu finden. Viehzucht und Ackerbau lassen
+den Leib gedeihen, /\\
+ doch mehr als beide eine treue Frau. ^{[[#fn12][12]]}\\
+\\
+
+<<v20>>
+20 Wein und Bier erfreuen das Herz, /\\
+ doch mehr als beide die Freundesliebe.\\
+\\
+
+<<v21>>
+21 Flöte und Harfe verschönern das Lied, /\\
+ doch mehr als beide eine reine Stimme.\\
+\\
+
+<<v22>>
+22 Anmut und Schönheit entzücken das Auge, /\\
+ doch mehr als beide die Blumen des Feldes.\\
+\\
+
+<<v23>>
+23 Freund und Gefährte leiten zur rechten Zeit, /\\
+ doch mehr als beide eine verständige Frau. ^{[[#fn13][13]]}\\
+\\
+
+<<v24>>
+24 Bruder und Helfer nützen in der Zeit der Not, /\\
+ doch mehr als beide eine rettende Liebesgabe.\\
+\\
+
+<<v25>>
+25 Gold und Silber stützen den Fuß, /\\
+ doch mehr als beide ein guter Rat.\\
+\\
+
+<<v26>>
+26 Reichtum und Macht erheben das Herz, /\\
+ doch mehr als beide die Gottesfurcht. Hat man Gottesfurcht, so gibt es
+keine Not, /\\
+ neben ihr braucht man keine Stütze zu suchen; ^{[[#fn14][14]]}\\
+\\
+
+<<v27>>
+27 die Gottesfurcht ist wie ein gesegnetes Paradies, /\\
+ über seine ganze Pracht (breitet sich) ihr schirmendes Dach.\\
+\\
+
+<<v28>>
+**** Das Betteln: 40,28-30
+     :PROPERTIES:
+     :CUSTOM_ID: das-betteln-4028-30
+     :END:
+28 Mein Sohn, lebe nicht vom Betteln! /\\
+ Besser sterben, als aufdringlich sein.\\
+\\
+
+<<v29>>
+29 Wer nach dem Tisch anderer schauen muss, /\\
+ dessen Leben ist nicht als Leben zu rechnen. Geschenkte Leckerbissen
+beschmutzen die Kehle, /\\
+ dem verständigen Mann bereiten sie Magenschmerzen.\\
+\\
+
+<<v30>>
+30 Im Mund des Frechen ist Betteln süß, /\\
+ doch in seinem Innern brennt es wie Feuer.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Ijob 1,21; Ps 139,15
+
+^{[[#fnm2][2]]} ℘ (6-7) Ijob 7,13-15
+
+^{[[#fnm3][3]]} 6f: Text unsicher.
+
+^{[[#fnm4][4]]} 7a: Andere Übersetzungsmöglichkeit: noch schlafbedürftig
+wacht er auf.
+
+^{[[#fnm5][5]]} ℘ 39,28-30
+
+^{[[#fnm6][6]]} ℘ 17,1
+
+^{[[#fnm7][7]]} Gott schenkt den Lebensatem (Gen 2,7), den er beim Tod
+wieder zurücknimmt. Die Unterscheidung von Leib und Geist setzt sich
+erst allmählich durch.
+
+^{[[#fnm8][8]]} Sinn des Vergleichs: Je wilder der Sturzbach bei
+Gewitterregen anschwillt, desto rascher vertrocknet er wieder. G: Der
+Reichtum des Frevlers versiegt wie ein Bach, wie ein starker Donner beim
+Gewitter erschallt.
+
+^{[[#fnm9][9]]} 14a: H und G sind verderbt.
+
+^{[[#fnm10][10]]} ℘ 3,30
+
+^{[[#fnm11][11]]} 17a: Diese Lesart wird durch die Fragmente aus Masada
+bestätigt. G: Liebe aber ist ein Paradies in Segnungen (vgl. V. 27a).
+
+^{[[#fnm12][12]]} 19cd: In G zu Unrecht ausgefallen. Die Reihe erreicht
+die Zehnzahl. «Leib» nach dem Masada-Text gibt einen guten Sinn.
+
+^{[[#fnm13][13]]} ℘ 25,1
+
+^{[[#fnm14][14]]} ℘ 25,11; Ps 34,10

@@ -1,0 +1,158 @@
+#+TITLE: Jos 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 11:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 18.html
+
+
+<<verses>>
+
+<<v1>>
+* Das Gebiet der übrigen Stämme: 18,1 - 19,51
+
+1 Die ganze Gemeinde der Israeliten versammelte sich in Schilo. Dort
+schlugen sie das Offenbarungszelt auf; das ganze Land lag unterworfen
+vor ihnen. [fn:1]
+
+<<v2>>
+2 Aber noch waren von den Israeliten sieben Stämme übrig, die ihren
+Erbbesitz nicht zugeteilt bekommen hatten.
+
+<<v3>>
+3 Da sagte Josua zu den Israeliten: Wie lange wollt ihr noch zögern,
+hinzugehen und das Land in Besitz zu nehmen, das der Herr, der Gott
+eurer Väter, euch gegeben hat?
+
+<<v4>>
+4 Bestimmt drei Männer aus jedem Stamm; ich will sie aussenden. Sie
+sollen sich auf den Weg machen, durch das ganze Land ziehen und es im
+Hinblick auf ihren Erbbesitz schriftlich aufnehmen. Dann sollen sie
+(wieder) zu mir kommen.
+
+<<v5>>
+5 Ihr sollt es unter euch in sieben Teile aufteilen. Juda soll auf
+seinem Gebiet im Süden bleiben und das Haus Josef soll auf seinem Gebiet
+im Norden bleiben.
+
+<<v6>>
+6 Ihr also sollt das Land in sieben Teilen schriftlich aufnehmen und
+(die Aufzeichnung) zu mir hierher bringen. Ich werde dann hier vor dem
+Herrn, unserem Gott, das Los für euch werfen.
+
+<<v7>>
+7 Doch Levi bekommt keinen Anteil unter euch, denn sein Erbbesitz ist
+das Priestertum des Herrn. Und Gad, Ruben und der halbe Stamm Manasse
+haben bereits ihren Erbbesitz erhalten; ihn hat Mose, der Knecht des
+Herrn, ihnen gegeben, jenseits des Jordan im Osten. [fn:2] [fn:3]
+
+<<v8>>
+8 Da machten sich die Männer auf den Weg und zogen fort. Josua hatte
+denen, die fortzogen, befohlen, das Land schriftlich aufzunehmen, und
+gesagt: Geht, zieht durch das Land und nehmt es schriftlich auf! Dann
+kommt zu mir zurück und ich will hier in Schilo vor dem Herrn das Los
+für euch werfen.
+
+<<v9>>
+9 Die Männer gingen fort, durchquerten das Land und zeichneten es in
+einem Buch auf, geordnet nach Städten und in sieben Teile gegliedert.
+Dann kamen sie wieder zu Josua ins Lager nach Schilo.
+
+<<v10>>
+10 Und Josua warf in Schilo vor den Augen des Herrn das Los für die
+Israeliten. So verteilte Josua das Land an sie, entsprechend ihren
+Abteilungen.
+
+<<v11>>
+11 Das (erste) Los fiel auf den Stamm der Benjaminiter und ihre Sippen.
+Als ihr Anteil ergab sich das Gebiet zwischen den Judäern und den
+Nachkommen Josefs.
+
+<<v12>>
+12 Ihre Grenze im Norden beginnt am Jordan. Dann steigt sie hinauf zum
+Bergrücken nördlich von Jericho und weiter nach Westen ins Gebirge und
+läuft sodann ins Weidegebiet von Bet-Awen hinaus.
+
+<<v13>>
+13 Von dort zieht sie sich hinüber nach Lus, südlich am Bergrücken von
+Lus, das ist Bet-El, vorbei; dann steigt sie nach Atrot-Addar hinab zu
+dem Berg, der südlich von Unter-Bet-Horon liegt.
+
+<<v14>>
+14 Darauf biegt sie ab und wendet sich auf der Westseite nach Süden, von
+dem Berg aus, der Bet-Horon südlich gegenüberliegt. Sie läuft aus bei
+Kirjat-Baal, das ist Kirjat-Jearim, eine Stadt der Judäer. Das ist die
+Westseite.
+
+<<v15>>
+15 Die Südseite (der Grenze) beginnt am Rand von Kirjat-Jearim. Sie
+verläuft dann westwärts hin zur Neftoach-Quelle.
+
+<<v16>>
+16 Dann zieht sie sich hinab zum Rand des Berges, der dem Ben-Hinnom-Tal
+gegenüber im Norden der Rafaïter-Ebene liegt. Sie steigt in das
+Ben-Hinnom-Tal hinab südlich des Bergrückens der Jebusiter und führt zur
+Rogel-Quelle hinunter.
+
+<<v17>>
+17 Dann biegt sie nach Norden ab, geht weiter nach En-Schemesch und nach
+Gelilot, gegenüber der Steige von Adummim, und steigt dann zum Stein des
+Bohan, des Sohnes Rubens, hinab.
+
+<<v18>>
+18 Sie geht nördlich am Bergrücken von Bet-Araba vorbei und führt weiter
+in die Araba hinunter. [fn:4]
+
+<<v19>>
+19 Dann führt die Grenze nördlich am Bergrücken von Bet-Hogla vorbei und
+läuft nördlich der Landzunge des Salzmeers aus, am südlichen Ende des
+Jordan. Das ist die Südgrenze.
+
+<<v20>>
+20 Der Jordan bildet die Grenze auf der Ostseite. Das ist der Erbbesitz
+der Benjaminiter mit seinen Grenzen ringsum, entsprechend ihren Sippen.
+
+<<v21>>
+21 Das sind die Städte des Stammes der Benjaminiter, entsprechend ihren
+Sippen: Jericho, Bet-Hogla, Emek-Keziz,
+
+<<v22>>
+22 Bet-Araba, Zemarajim, Bet-El,
+
+<<v23>>
+23 Awim, Para, Ofra,
+
+<<v24>>
+24 Kefar-Ammoni, Ofni und Geba: zwölf Städte mit den dazugehörenden
+Gehöften;
+
+<<v25>>
+25 ferner Gibeon, Rama, Beerot,
+
+<<v26>>
+26 Mizpe, Kefira, Moza,
+
+<<v27>>
+27 Rekem, Jirpeel, Tarala,
+
+<<v28>>
+28 Zela, Elef, Jebus, das ist Jerusalem, Gibea und Kirjat: vierzehn
+Städte mit den dazugehörenden Gehöften. Das ist der Erbbesitz der
+Benjaminiter, entsprechend ihren Sippen.
+
+* Footnotes
+
+[fn:1] Nicht mehr Gilgal ([[file:Jos_14.org::v6][14,6]]), sondern Schilo, ein zentrales
+Heiligtum nach [[file:1.Sam_1.org::v1][1 Sam 1]] - [[file:1.Sam_4.org::v1][4]] und [[file:Jer_7.org::v12][Jer 7,12]], ist jetzt Mittelpunkt aller
+Stämme Israels.
+
+[fn:2] [[file:Jos_13.org::v14][13,14]].[[file:Jos_13.org::v33][33]]
+
+[fn:3] Levi: Text korr.; H: die Leviten.
+
+[fn:4] Bet-Araba: Text korr. (vgl. [[v22][V. 22]]; [[file:Jos_15.org::v6][15,6]].[[file:Jos_15.org::v61][61]]); H: Araba.

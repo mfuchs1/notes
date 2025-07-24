@@ -1,0 +1,154 @@
+#+TITLE: Ps 40 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-02 Di 22:27]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 40.html
+
+* Ps 40
+
+<<verses>>
+
+<<v1>>
+* Dank, Hingabe und Bitte
+
+1 [Für den Chormeister. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Ich hoffte, ja ich hoffte auf den Herrn. /\\
+ Da neigte er sich mir zu und hörte mein Schreien.\\
+\\
+
+<<v3>>
+3 Er zog mich herauf aus der Grube des Grauens, /\\
+ aus Schlamm und Morast. Er stellte meine Füße auf den Fels, /\\
+ machte fest meine Schritte. [fn:1]\\
+\\
+
+<<v4>>
+4 Er legte mir ein neues Lied in den Mund, /\\
+ einen Lobgesang auf ihn, unsern Gott. Viele werden es sehen, sich in
+Ehrfurcht neigen /\\
+ und auf den Herrn vertrauen. [fn:2]\\
+\\
+
+<<v5>>
+5 Wohl dem Mann, der auf den Herrn sein Vertrauen setzt, /\\
+ sich nicht zu den Stolzen hält /\\
+ noch zu treulosen Lügnern. [fn:3]\\
+\\
+
+<<v6>>
+6 Zahlreich sind die Wunder, die du getan hast, /\\
+ und deine Pläne mit uns; /\\
+ Herr, mein Gott, nichts kommt dir gleich. Wollte ich von ihnen künden
+und reden, /\\
+ es wären mehr, als man zählen kann. [fn:4]\\
+\\
+
+<<v7>>
+7 An Schlacht- und Speiseopfern hast du kein Gefallen, /\\
+ Brand- und Sündopfer forderst du nicht. Doch das Gehör hast du mir
+eingepflanzt; / [fn:5]\\
+\\
+
+<<v8>>
+8 darum sage ich: Ja, ich komme. /\\
+ In dieser Schriftrolle steht, was an mir geschehen ist.\\
+\\
+
+<<v9>>
+9 Deinen Willen zu tun, mein Gott, macht mir Freude, /\\
+ deine Weisung trag ich im Herzen. [fn:6]\\
+\\
+
+<<v10>>
+10 Gerechtigkeit verkünde ich in großer Gemeinde, /\\
+ meine Lippen verschließe ich nicht; Herr, du weißt es. [fn:7]\\
+\\
+
+<<v11>>
+11 Deine Gerechtigkeit verberge ich nicht im Herzen, /\\
+ ich spreche von deiner Treue und Hilfe, ich schweige nicht über deine
+Huld und Wahrheit /\\
+ vor der großen Gemeinde.\\
+\\
+
+<<v12>>
+12 Du, Herr, verschließ mir nicht dein Erbarmen, /\\
+ deine Huld und Wahrheit mögen mich immer behüten!\\
+\\
+
+<<v13>>
+13 Denn Leiden ohne Zahl umfangen mich, /\\
+ meine Sünden holen mich ein, /\\
+ ich vermag nicht mehr aufzusehn. Zahlreicher sind sie als die Haare auf
+meinem Kopf, /\\
+ der Mut hat mich ganz verlassen. [fn:8]\\
+\\
+
+<<v14>>
+14 Gewähre mir die Gunst, Herr, und reiß mich heraus; /\\
+ Herr, eile mir zu Hilfe! [fn:9]\\
+\\
+
+<<v15>>
+15 In Schmach und Schande sollen alle fallen, /\\
+ die mir nach dem Leben trachten. Zurückweichen sollen sie und vor Scham
+erröten, /\\
+ die sich über mein Unglück freuen. [fn:10] [fn:11]\\
+\\
+
+<<v16>>
+16 Vor Schande sollen alle schaudern, /\\
+ die zu mir sagen: «Dir geschieht recht.» [fn:12]\\
+\\
+
+<<v17>>
+17 Alle, die dich suchen, frohlocken; /\\
+ sie mögen sich freuen in dir. Die dein Heil lieben, sollen immer sagen:
+/\\
+ Groß ist Gott, der Herr. [fn:13]\\
+\\
+
+<<v18>>
+18 Ich bin arm und gebeugt; /\\
+ der Herr aber sorgt für mich. Meine Hilfe und mein Retter bist du. /\\
+ Mein Gott, säume doch nicht!\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_65.org::v15][69,15f]]
+
+[fn:2] [[file:Ps_33.org::v3][33,3]]
+
+[fn:3] [[file:Ps_1.org::v1][1,1]]; [[file:Jer_17.org::v7][Jer 17,7]]
+
+[fn:4] [[file:Ps_139.org::v17][139,17f]]
+
+[fn:5] [[file:Ps_50.org::v7][50,7-15]]; [[file:Ps_51.org::v18][51,18f]]; [[file:Ps_69.org::v31][69,31f]]; [[file:1.Sam_15.org::v22][1 Sam 15,22]]; [[file:Jes_1.org::v11][Jes 1,11]];
+[[file:Jer_6.org::v20][Jer 6,20]]; [[file:Am_5.org::v22][Am 5,22]]; (7-9) [[file:~/RoamNotes/notes/Bibel/nt/Hebr_10.org::v5][Hebr 10,5-7]]
+
+[fn:6] [[file:Ps_37.org::v31][37,31]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_4.org::v34][Joh 4,34]]
+
+[fn:7] [[file:Ps_22.org::v23][22,23]]
+
+[fn:8] [[file:Ps_38.org::v5][38,5]]
+
+[fn:9] [[file:Ps_22.org::v12][22,12]]; (14-18) [[file:Ps_70.org::v1][Ps 70,1-6]]
+
+[fn:10] [[file:Ps_35.org::v4][35,4]]
+
+[fn:11] Text korr. nach 70,3; H fügt hinzu: um es
+hinwegzuraffen.
+
+[fn:12] [[file:Ps_35.org::v21][35,21]]
+
+[fn:13] [[file:Ps_35.org::v27][35,27]]

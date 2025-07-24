@@ -1,0 +1,122 @@
+:PROPERTIES:
+:ID:       5e1aa43f-1806-41b8-8193-38f010516f2a
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief des Jakobus* --
+[[file:Jak_1.html][1]] [[file:Jak_2.html][2]] *3* [[file:Jak_4.html][4]]
+[[file:Jak_5.html][5]]
+
+--------------
+
+* Jak 3
+  :PROPERTIES:
+  :CUSTOM_ID: jak-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Macht der Zunge: 3,1-12
+     :PROPERTIES:
+     :CUSTOM_ID: die-macht-der-zunge-31-12
+     :END:
+1 Nicht so viele von euch sollen Lehrer werden, meine Brüder. Ihr wisst,
+dass wir im Gericht strenger beurteilt werden.
+
+<<v2>>
+2 Denn wir alle verfehlen uns in vielen Dingen. Wer sich in seinen
+Worten nicht verfehlt, ist ein vollkommener Mann und kann auch seinen
+Körper völlig im Zaum halten.
+
+<<v3>>
+3 Wenn wir den Pferden den Zaum anlegen, damit sie uns gehorchen, lenken
+wir damit das ganze Tier.
+
+<<v4>>
+4 Oder denkt an die Schiffe: Sie sind groß und werden von starken Winden
+getrieben und doch lenkt sie der Steuermann mit einem ganz kleinen
+Steuer, wohin er will.
+
+<<v5>>
+5 So ist auch die Zunge nur ein kleines Körperglied und rühmt sich doch
+großer Dinge. Und wie klein kann ein Feuer sein, das einen großen Wald
+in Brand steckt.
+
+<<v6>>
+6 Auch die Zunge ist ein Feuer, eine Welt voll Ungerechtigkeit. Die
+Zunge ist der Teil, der den ganzen Menschen verdirbt und das Rad des
+Lebens in Brand setzt; sie selbst aber ist von der Hölle in Brand
+gesetzt. ^{[[#fn1][1]]}
+
+<<v7>>
+7 Denn jede Art von Tieren, auf dem Land und in der Luft, was am Boden
+kriecht und was im Meer schwimmt, lässt sich zähmen und ist vom Menschen
+auch gezähmt worden;
+
+<<v8>>
+8 doch die Zunge kann kein Mensch zähmen, dieses ruhelose Übel, voll von
+tödlichem Gift.
+
+<<v9>>
+9 Mit ihr preisen wir den Herrn und Vater und mit ihr verfluchen wir die
+Menschen, die /als Abbild Gottes/ erschaffen sind. ^{[[#fn2][2]]}
+
+<<v10>>
+10 Aus ein und demselben Mund kommen Segen und Fluch. Meine Brüder, so
+darf es nicht sein.
+
+<<v11>>
+11 Läßt etwa eine Quelle aus derselben Öffnung süßes und bitteres Wasser
+hervorsprudeln?
+
+<<v12>>
+12 Kann denn, meine Brüder, ein Feigenbaum Oliven tragen oder ein
+Weinstock Feigen? So kann auch eine salzige Quelle kein Süßwasser
+hervorbringen.\\
+\\
+
+<<v13>>
+**** Die Weisheit von oben: 3,13-18
+     :PROPERTIES:
+     :CUSTOM_ID: die-weisheit-von-oben-313-18
+     :END:
+13 Wer von euch ist weise und verständig? Er soll in weiser
+Bescheidenheit die Taten eines rechtschaffenen Lebens vorweisen.
+
+<<v14>>
+14 Wenn aber euer Herz voll ist von bitterer Eifersucht und von Ehrgeiz,
+dann prahlt nicht und verfälscht nicht die Wahrheit!
+
+<<v15>>
+15 Das ist nicht die Weisheit, die von oben kommt, sondern eine
+irdische, eigennützige, teuflische Weisheit. ^{[[#fn3][3]]}
+
+<<v16>>
+16 Wo nämlich Eifersucht und Ehrgeiz herrschen, da gibt es Unordnung und
+böse Taten jeder Art.
+
+<<v17>>
+17 Doch die Weisheit von oben ist erstens heilig, sodann friedlich,
+freundlich, gehorsam, voll Erbarmen und reich an guten Früchten, sie ist
+unparteiisch, sie heuchelt nicht.
+
+<<v18>>
+18 Wo Frieden herrscht, wird (von Gott) für die Menschen, die Frieden
+stiften, die Saat der Gerechtigkeit ausgestreut.
+^{[[#fn4][4]][[#fn5][5]]}\\
+\\
+
+^{[[#fnm1][1]]} Mit «Rad des Lebens» (oder: «Kreis des Werdens») ist
+wohl der ganze Lauf des Lebens und der Umkreis der menschlichen Existenz
+gemeint.
+
+^{[[#fnm2][2]]} ℘ Gen 1,26f
+
+^{[[#fnm3][3]]} ℘ 1,5.17
+
+^{[[#fnm4][4]]} ℘ Hebr 12,11
+
+^{[[#fnm5][5]]} Wörtlich: Frucht der Gerechtigkeit wird in Frieden gesät
+für die (oder: von denen), die Frieden schaffen. Die Deutung dieses
+Verses ist unsicher.

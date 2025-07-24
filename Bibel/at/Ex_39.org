@@ -1,0 +1,207 @@
+#+TITLE: Ex 39 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 08:57]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 39.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Anfertigung der Priestergewänder: 39,1-31
+1 Aus violettem und rotem Purpur und aus Karmesin verfertigten sie die
+gewirkten Gewänder für den Dienst im Heiligtum und verfertigten die
+heiligen Gewänder für Aaron, wie es der Herr dem Mose befohlen hatte. [fn:1]
+
+<<v2>>
+2 Sie stellten das Efod her aus Gold, violettem und rotem Purpur,
+Karmesin und gezwirntem Byssus.
+
+<<v3>>
+3 Sie schlugen goldene Plättchen breit, schnitten sie in Fäden, um sie
+zwischen violettem und rotem Purpur, Karmesin und Byssus als
+Kunstweberarbeit einzuwirken.
+
+<<v4>>
+4 Für das Efod machten sie miteinander verbundene Schulterstücke und
+befestigten sie an ihren beiden Enden.
+
+<<v5>>
+5 Eine Efodschärpe daran bildete mit ihm ein einziges Stück und war von
+derselben Machart, aus Gold, violettem und rotem Purpur, Karmesin und
+gezwirntem Byssus, wie es der Herr dem Mose befohlen hatte.
+
+<<v6>>
+6 Sie bearbeiteten die in Goldfassungen eingesetzten Karneolsteine und
+schnitten nach Siegelart die Namen der Söhne Israels ein.
+
+<<v7>>
+7 Man setzte sie dann auf die Schulterstücke des Efod als Steine, die
+den Herrn an die Israeliten erinnern, wie es der Herr dem Mose befohlen
+hatte.
+
+<<v8>>
+8 Die Lostasche verfertigte man als Kunstweberarbeit wie das Efod, aus
+Gold, violettem und rotem Purpur, Karmesin und gezwirntem Byssus.
+
+<<v9>>
+9 Sie machten die Lostasche quadratisch, zusammengefaltet, eine Spanne
+lang und eine Spanne breit.
+
+<<v10>>
+10 Sie besetzten sie mit Edelsteinen in vier Reihen: die erste Reihe mit
+Rubin, Topas und Smaragd,
+
+<<v11>>
+11 die zweite Reihe mit Karfunkel, Saphir und Jaspis,
+
+<<v12>>
+12 die dritte Reihe mit Achat, Hyazinth und Amethyst,
+
+<<v13>>
+13 die vierte Reihe mit Chrysolith, Karneol und Onyx; sie waren in Gold
+gefasst.
+
+<<v14>>
+14 Die Steine lauteten auf die Namen der Söhne Israels, zwölf auf ihre
+Namen - in Siegelgravierung. Jeder lautete auf den Namen eines der zwölf
+Stämme.
+
+<<v15>>
+15 Sie befestigten an der Lostasche schnurartige, gedrehte Kettchen aus
+purem Gold.
+
+<<v16>>
+16 Sie machten zwei goldene Einfassungen und zwei Goldringe und
+befestigten die beiden Ringe an den beiden Enden der Lostasche.
+
+<<v17>>
+17 Die beiden goldenen Schnüre verbanden sie mit den beiden Ringen an
+den Enden der Lostasche;
+
+<<v18>>
+18 die zwei anderen Enden der Schnüre befestigten sie an den beiden
+Einfassungen und hängten sie an die Vorderseite der Schulterstücke des
+Efod.
+
+<<v19>>
+19 Sie machten noch zwei Goldringe und befestigten sie an den beiden
+Enden der Lostasche, und zwar am inneren Rand, der dem Efod zugekehrt
+ist.
+
+<<v20>>
+20 Sie machten zwei weitere Goldringe und befestigten sie unten an den
+beiden Schulterstücken des Efod, und zwar an der Vorderseite, nahe ihrer
+Naht, aber oberhalb der Efodschärpe.
+
+<<v21>>
+21 Sie banden die Lostasche mit ihren Ringen an die Ringe des Efod mit
+einer violetten Purpurschnur, sodass sie über der Efodschärpe blieb und
+sich die Lostasche nicht vom Efod verschob, wie es der Herr dem Mose
+befohlen hatte.
+
+<<v22>>
+22 Er machte den Efodmantel als Weberarbeit gänzlich aus violettem
+Purpur.
+
+<<v23>>
+23 In seiner Mitte war die Mantelöffnung, wie die Öffnung eines
+Panzerhemds; die Öffnung hatte ringsum einen gewebten unzerreißbaren
+Rand.
+
+<<v24>>
+24 An seinem unteren Saum machten sie Granatäpfel aus violettem und
+rotem Purpur und aus gezwirntem Karmesin.
+
+<<v25>>
+25 Sie machten Glöckchen aus reinem Gold und befestigten die Glöckchen
+zwischen den Granatäpfeln am Saum des Mantels, ringsum zwischen den
+Granatäpfeln:
+
+<<v26>>
+26 ein Glöckchen und ein Granatapfel abwechselnd ringsum am Saum des
+Mantels für den Dienst, wie es der Herr dem Mose befohlen hatte.
+
+<<v27>>
+27 Danach machten sie die Leibröcke aus Byssus als Weberarbeit für Aaron
+und seine Söhne,
+
+<<v28>>
+28 den Turban aus Byssus, den Schmuck der Kopfbünde aus Byssus, die
+leinenen Beinkleider aus gezwirntem Byssus
+
+<<v29>>
+29 und den Gürtel aus gezwirntem Byssus, violettem und rotem Purpur und
+Karmesin, als Buntwirkerarbeit, wie es der Herr dem Mose befohlen hatte.
+
+<<v30>>
+30 Sie machten eine Rosette aus purem Gold, das heilige Diadem, und
+brachten darauf die Inschrift nach Art der Siegelgravierung an: Heilig
+dem Herrn.
+
+<<v31>>
+31 Sie befestigten sie an einer Schnur aus violettem Purpur, um sie oben
+am Turban anzubringen, wie es der Herr dem Mose befohlen hatte.\\
+\\
+
+<<v32>>
+* Der Abschluss der Arbeiten: 39,32-43
+
+32 So wurde das ganze Werk für die Wohnstätte des Offenbarungszeltes
+vollendet; die Israeliten taten genau so, wie es der Herr dem Mose
+befohlen hatte. So machten sie es.
+
+<<v33>>
+33 Sie brachten die Wohnstätte zu Mose: das Zelt mit allen seinen
+Geräten, seinen Haken, Brettern, Querlatten, Säulen und Sockeln,
+
+<<v34>>
+34 die Decke aus rötlichen Widderfellen, die Decke aus Tahaschhäuten und
+die Vorhangdecke,
+
+<<v35>>
+35 die Lade der Bundesurkunde mit ihren Stangen und der Deckplatte,
+
+<<v36>>
+36 den Tisch und alle dazugehörigen Geräte sowie die Schaubrote,
+
+<<v37>>
+37 den Leuchter aus purem Gold, seine Lampen - die Lampen der Reihe nach
+aufgestellt - und alle seine Geräte sowie das Öl für den Leuchter,
+
+<<v38>>
+38 den goldenen Altar, das Salböl, das duftende Räucherwerk und den
+Vorhang für den Eingang des Zeltes,
+
+<<v39>>
+39 den kupfernen Altar und das zugehörige kupferne Gitterwerk mit seinen
+Stangen und allen seinen Geräten, das Becken und sein Gestell,
+
+<<v40>>
+40 die Behänge des Vorhofs, seine Säulen und Sockel sowie den Vorhang
+für das Tor des Vorhofs, seine Schnüre und Zeltpflöcke und alle Geräte
+für den Dienst an der Wohnstätte, am Offenbarungszelt,
+
+<<v41>>
+41 die gewirkten Gewänder für den Dienst im Heiligtum, die heiligen
+Gewänder für den Priester Aaron und die Gewänder seiner Söhne für den
+Priesterdienst.
+
+<<v42>>
+42 Genau so, wie es der Herr dem Mose befohlen hatte, führten die
+Israeliten die gesamte Arbeit aus.
+
+<<v43>>
+43 Mose besichtigte das ganze Werk: Sie hatten es gemacht, wie der Herr
+es befohlen hatte. So hatten sie es gemacht und Mose segnete sie.
+
+
+* Footnotes
+
+[fn:1] (1-31) 28,1-43 [[file:Ex_28.org::v1][Ex 28,1-43]]

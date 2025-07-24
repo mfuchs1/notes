@@ -1,0 +1,240 @@
+#+TITLE: Dtn 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-29 So 14:39]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 11.html
+
+
+* Dtn 11
+
+<<verses>>
+
+<<v1>>
+1 Darum sollst du den Herrn, deinen Gott, lieben und dein Leben lang auf
+seine Dienstordnung, auf seine Gesetze, Rechtsvorschriften und Gebote
+achten. [fn:1]
+
+<<v2.7>>
+2.7 Heute sollt ihr erkennen, dass der Herr euch erzogen hat. Denn nicht
+eure Kinder, die die Erziehung durch den Herrn, euren Gott, nicht kennen
+gelernt und nicht miterlebt haben, sondern ihr selbst habt alle großen
+Taten, die der Herr getan hat, mit eigenen Augen gesehen, seine Macht,
+seine starke Hand und seinen hoch erhobenen Arm, [fn:2] [fn:3]
+
+<<v3>>
+3 seine Zeichen und seine Taten: was er in Ägypten mit dem Pharao, dem
+König von Ägypten, und mit seinem ganzen Land getan hat; [fn:4]
+
+<<v4>>
+4 was er mit dem ägyptischen Heer, den Rossen und Streitwagen getan
+hat - das Wasser des Schilfmeers ließ der Herr über ihnen
+zusammenschlagen, als sie euch nachsetzten, und er riss sie in die
+Tiefe, sodass sie heute nicht mehr sind -; [fn:5]
+
+<<v5>>
+5 was er mit euch in der Wüste getan hat, bis ihr an diesen Ort gekommen
+seid; [fn:6]
+
+<<v6>>
+6 was er mit Datan und Abiram getan hat, den Söhnen Eliabs, des Sohnes
+Rubens - die Erde riss ihren Rachen auf und verschlang sie mit ihren
+Familien, ihren Zelten und ihrem ganzen Tross in der Mitte von ganz
+Israel. [fn:7]
+
+<<v8>>
+8 Daher sollt ihr auf das ganze Gebot, auf das ich dich heute
+verpflichte, achten, damit ihr stark seid und in das Land, in das ihr
+jetzt hinüberzieht, um es in Besitz zu nehmen, hineinziehen und es in
+Besitz nehmen könnt. [fn:8]
+
+<<v9>>
+9 Ihr sollt darauf achten, damit ihr lange lebt in dem Land, von dem ihr
+wisst: Der Herr hat euren Vätern geschworen, es ihnen und ihren
+Nachkommen zu geben, ein Land, in dem Milch und Honig fließen. [fn:9]
+
+<<v10>>
+10 Denn das Land, in das du hineinziehst, um es in Besitz zu nehmen, ist
+nicht wie das Land Ägypten, aus dem ihr ausgezogen seid. Dort musstest
+du, wenn der Same gesät war, den Boden künstlich bewässern wie in einem
+Gemüsegarten.
+
+<<v11>>
+11 Das Land, in das ihr jetzt hinüberzieht, um es in Besitz zu nehmen,
+ist ein Land mit Bergen und Tälern und es trinkt das Wasser, das als
+Regen vom Himmel fällt.
+
+<<v12>>
+12 Es ist ein Land, um das der Herr, dein Gott, sich kümmert. Stets
+ruhen auf ihm die Augen des Herrn, deines Gottes, vom Anfang des Jahres
+bis zum Ende des Jahres.
+
+<<v13>>
+13 Und wenn ihr auf meine Gebote hört, auf die ich euch heute
+verpflichte, wenn ihr also den Herrn, euren Gott, liebt und ihm mit
+ganzem Herzen und mit ganzer Seele dient, [fn:10] [fn:11]
+
+<<v14>>
+14 dann gebe ich eurem Land seinen Regen zur rechten Zeit, den Regen im
+Herbst und den Regen im Frühjahr, und du kannst Korn, Most und Öl
+ernten; [fn:12]
+
+<<v15>>
+15 dann gebe ich deinem Vieh sein Gras auf dem Feld und du kannst essen
+und satt werden.
+
+<<v16>>
+16 Aber nehmt euch in Acht! Lasst euer Herz nicht verführen, weicht
+nicht vom Weg ab, dient nicht anderen Göttern und werft euch nicht vor
+ihnen nieder!
+
+<<v17>>
+17 Sonst wird der Zorn des Herrn gegen euch entbrennen; er wird den
+Himmel zuschließen, es wird kein Regen fallen, der Acker wird keinen
+Ertrag bringen und ihr werdet unverzüglich aus dem prächtigen Land
+getilgt sein, das der Herr euch geben will. [fn:13]
+
+<<v18>>
+18 Diese meine Worte sollt ihr auf euer Herz und auf eure Seele
+schreiben. Ihr sollt sie als Zeichen um das Handgelenk binden. Sie
+sollen zum Schmuck auf eurer Stirn werden. [fn:14] [fn:15]
+
+<<v19>>
+19 Ihr sollt sie eure Söhne lehren, indem ihr von ihnen redet, wenn du
+zu Hause sitzt und wenn du auf der Straße gehst, wenn du dich schlafen
+legst und wenn du aufstehst.
+
+<<v20>>
+20 Du sollst sie auf die Türpfosten deines Hauses und in deine Stadttore
+schreiben.
+
+<<v21>>
+21 So sollen die Tage, die ihr und eure Söhne in dem Land lebt, von dem
+ihr wisst: der Herr hat euren Vätern geschworen, es ihnen zu geben, so
+zahlreich werden wie die Tage, die der Himmel sich über der Erde
+wölbt.\\
+\\
+
+<<v22>>
+* Die Verheißung der Eroberung des Landes: 11,22-25
+
+22 Wenn ihr auf dieses ganze Gebot, auf das ich euch heute verpflichte,
+genau achtet und es haltet, wenn ihr den Herrn, euren Gott, liebt, auf
+allen seinen Wegen geht und euch an ihm fest haltet, [fn:16]
+
+<<v23>>
+23 dann wird der Herr alle diese Völker vor euch vertreiben und ihr
+werdet den Besitz von Völkern übernehmen, die größer und mächtiger sind
+als ihr. [fn:17]
+
+<<v24>>
+24 Jede Stelle, die euer Fuß berührt, soll euch gehören, von der Wüste
+an. Dazu soll der Libanon euer Gebiet sein, vom Strom, dem Eufrat, bis
+zum Meer im Westen. [fn:18] [fn:19]
+
+<<v25>>
+25 Keiner wird eurem Angriff standhalten können. Dem ganzen Land, das
+ihr betretet, wird der Herr, euer Gott, Schrecken und Furcht vor euch
+ins Gesicht zeichnen, wie er es euch zugesagt hat. [fn:20]\\
+\\
+
+<<v26>>
+* Überleitung: 11,26-32
+
+26 Seht, heute werde ich euch den Segen und den Fluch vorlegen: [fn:21]
+
+<<v27>>
+27 den Segen, weil ihr auf die Gebote des Herrn, eures Gottes, auf die
+ich euch heute verpflichte, hört,
+
+<<v28>>
+28 und den Fluch für den Fall, dass ihr nicht auf die Gebote des Herrn,
+eures Gottes, hört, sondern von dem Weg abweicht, den ich euch heute
+vorschreibe, und anderen Göttern nachfolgt, die ihr früher nicht gekannt
+habt.
+
+<<v29>>
+29 Und wenn der Herr, dein Gott, dich in das Land geführt hat, in das du
+jetzt hineinziehst, um es in Besitz zu nehmen, dann sollst du auf dem
+Berg Garizim den Segen und auf dem Berg Ebal den Fluch verkünden. [fn:22]
+
+<<v30>>
+30 [Liegen denn beide nicht jenseits des Jordan, hinter der Straße, im
+Westen, im Gebiet der Kanaaniter, die in der Araba wohnen, gegenüber
+Gilgal bei den Orakel-Eichen?] [fn:23]
+
+<<v31>>
+31 Wenn ihr jetzt den Jordan überschreitet, um in das Land, das der
+Herr, euer Gott, euch gibt, hineinzuziehen und es in Besitz zu nehmen,
+und wenn ihr es in Besitz genommen habt und es bewohnt, [fn:24]
+
+<<v32>>
+32 dann sollt ihr auf alle Gesetze und Rechtsvorschriften, die ich euch
+heute vorlege, achten und sie halten. [fn:25]\\
+\\
+
+
+* Footnotes
+
+[fn:1] [[file:Dtn_5.org::v10][5,10]]; [[file:Dtn_6.org::v5][6,5]]; [[file:dtn 7::v9][7,9]]; [[file:Dtn_10.org::v12][10,12]]; 11,13.[[v22][22]]; [[file:Dtn_13.org::v4][13,4]]; [[file:Dtn_19.org::v9][19,9]];
+[[file:Dtn_30.org::v6][30,6]].[[file:Dtn_6.org::v16][16]].[[file:Dtn_6.org::v20][20]]; (1-7) [[file:Dtn_8.org::v2][8,2-6]]
+
+[fn:2] (2/7) [[file:Dtn_29.org::v1][29,1]]
+
+[fn:3] 2/7: In V. 2 scheint ein Stück des ursprünglichen Textes
+durch ein Abschreibversehen verloren gegangen zu sein. Deshalb ist der
+erste Satz entsprechend dem ähnlichen Vers 8,5 ergänzt. Die deutsche
+Sprache erfordert es, V. 7 zu V. 2 vorzuziehen.
+
+[fn:4] [[file:Ex_7.org::v1][Ex 7]]-[[file:Ex_15.org::v1][15]]
+
+[fn:5] [[file:Ex_14.org::v1][Ex 14f]]
+
+[fn:6] [[file:Ex_16.org::v1][Ex 16]]; [[file:Num_21.org::v1][Num 21]]
+
+[fn:7] [[file:Num_16.org::v1][Num 16]]
+
+[fn:8] [[file:Dtn_16.org::v20][16,20]]
+
+[fn:9] [[file:Dtn_6.org::v3][6,3]]
+
+[fn:10] [[v1][11,1]]; (13-17) [[file:Dtn_28.org::v1][28]]
+
+[fn:11] 13-15: Mose gebraucht teilweise das Ich der
+Gottesrede. Vielleicht spielt er auf einen bekannten Text an.
+
+[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/Jak_5.org::v7][Jak 5,7]]
+
+[fn:13] [[file:Dtn_28.org::v23][28,23]]
+
+[fn:14] (18-20) [[file:Dtn_6.org::v6][6,6-9]]; [[file:Dtn_30.org::v11][30,11-14]]
+
+[fn:15] Andere Übersetzungsmöglichkeit: Diese meine Worte
+sollt ihr auf euren Herzen und auf euren Seelen anbringen.
+
+[fn:16] [[v1][11,1]]; (22-25) [[file:Dtn_18.org::v12][18,12]]; [[file:Jos_1.org::v1][Jos 1,1-9]]
+
+[fn:17] [[file:Dtn_7.org::v1][7,1]]; [[file:Dtn_1.org::v28][1,28]]; [[file:Dtn_9.org::v1][9,1]]
+
+[fn:18] [[file:Dtn_1.org::v7][1,7]]; [[file:Dtn_19.org::v8][19,8]]
+
+[fn:19] Im Hintergrund steht der Rechtsbrauch, zum Zeichen des
+Besitzantritts ein Grundstück zu betreten (vgl. [[file:Ps_60.org::v10][Ps 60,10]]).
+
+[fn:20] [[file:Dtn_2.org::v25][2,25]]; [[file:Dtn_28.org::v10][28,10]]
+
+[fn:21] (26-28) [[file:Dtn_28.org::v1][28]]
+
+[fn:22] [[file:Dtn_27.org::v2][27,2-26]]
+
+[fn:23] Dieser späte Zusatz verlegt Garizim und Ebal in die
+Nähe von Gilgal. Vermutlich stammt er aus antisamaritanischer Tendenz.
+
+[fn:24] (31-32) [[file:Dtn_12.org::v1][12]]-[[file:Dtn_26.org::v1][26]]
+
+[fn:25] [[file:Dtn_5.org::v1][5,1]]

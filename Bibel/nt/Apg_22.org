@@ -1,0 +1,188 @@
+:PROPERTIES:
+:ID:       2b5993a6-19a0-4741-b288-05b0766dfa6c
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Apostelgeschichte* --
+[[file:Apg_1.html][1]] ... [[file:Apg_20.html][20]]
+[[file:Apg_21.html][21]] *22* [[file:Apg_23.html][23]]
+[[file:Apg_24.html][24]] ... [[file:Apg_28.html][28]]
+
+--------------
+
+* Apg 22
+  :PROPERTIES:
+  :CUSTOM_ID: apg-22
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Rede des Paulus im Tempelvorhof: 22,1-21
+     :PROPERTIES:
+     :CUSTOM_ID: die-rede-des-paulus-im-tempelvorhof-221-21
+     :END:
+1 Brüder und Väter! Hört, was ich euch zu meiner Verteidigung zu sagen
+habe. ^{[[#fn1][1]]}
+
+<<v2>>
+2 Als sie hörten, dass er in Hebräischer Sprache zu ihnen redete, waren
+sie noch ruhiger. Und er sagte:
+
+<<v3>>
+3 Ich bin ein Jude, geboren in Tarsus in Zilizien, hier in dieser Stadt
+erzogen, zu Füßen Gamaliëls genau nach dem Gesetz der Väter ausgebildet,
+ein Eiferer für Gott, wie ihr alle es heute seid. ^{[[#fn2][2]]}
+
+<<v4>>
+4 Ich habe den (neuen) Weg bis auf den Tod verfolgt, habe Männer und
+Frauen gefesselt und in die Gefängnisse eingeliefert. ^{[[#fn3][3]]}
+
+<<v5>>
+5 Das bezeugen mir der Hohepriester und der ganze Rat der Ältesten. Von
+ihnen erhielt ich auch Briefe an die Brüder und zog nach Damaskus, um
+dort ebenfalls die Anhänger (der neuen Lehre) zu fesseln und zur
+Bestrafung nach Jerusalem zu bringen.
+
+<<v6>>
+6 Als ich nun unterwegs war und mich Damaskus näherte, da geschah es,
+dass mich um die Mittagszeit plötzlich vom Himmel her ein helles Licht
+umstrahlte.
+
+<<v7>>
+7 Ich stürzte zu Boden und hörte eine Stimme zu mir sagen: Saul, Saul,
+warum verfolgst du mich?
+
+<<v8>>
+8 Ich antwortete: Wer bist du, Herr? Er sagte zu mir: Ich bin Jesus, der
+Nazoräer, den du verfolgst.
+
+<<v9>>
+9 Meine Begleiter sahen zwar das Licht, die Stimme dessen aber, der zu
+mir sprach, hörten sie nicht.
+
+<<v10>>
+10 Ich sagte: Herr, was soll ich tun? Der Herr antwortete: Steh auf, und
+geh nach Damaskus, dort wird dir alles gesagt werden, was du nach Gottes
+Willen tun sollst.
+
+<<v11>>
+11 Da ich aber vom Glanz jenes Lichtes geblendet war, sodass ich nicht
+mehr sehen konnte, wurde ich von meinen Begleitern an der Hand geführt
+und gelangte so nach Damaskus.
+
+<<v12>>
+12 Ein gewisser Hananias, ein frommer und gesetzestreuer Mann, der bei
+allen Juden dort in gutem Ruf stand,
+
+<<v13>>
+13 kam zu mir, trat vor mich und sagte: Bruder Saul, du sollst wieder
+sehen! Und im gleichen Augenblick konnte ich ihn sehen.
+
+<<v14>>
+14 Er sagte: Der Gott unserer Väter hat dich dazu erwählt, seinen Willen
+zu erkennen, den Gerechten zu sehen und die Stimme seines Mundes zu
+hören;
+
+<<v15>>
+15 denn du sollst vor allen Menschen sein Zeuge werden für das, was du
+gesehen und gehört hast.
+
+<<v16>>
+16 Was zögerst du noch? Steh auf, lass dich taufen und deine Sünden
+abwaschen und rufe seinen Namen an!
+
+<<v17>>
+17 Als ich später nach Jerusalem zurückgekehrt war und im Tempel betete,
+da geriet ich in eine Verzückung. ^{[[#fn4][4]]}
+
+<<v18>>
+18 Und ich sah ihn, wie er zu mir sagte: Beeil dich, verlasse sofort
+Jerusalem; denn sie werden dein Zeugnis über mich nicht annehmen.
+
+<<v19>>
+19 Da sagte ich: Herr, sie wissen doch, dass ich es war, der deine
+Gläubigen ins Gefängnis werfen und in den Synagogen auspeitschen ließ.
+^{[[#fn5][5]]}
+
+<<v20>>
+20 Auch als das Blut deines Zeugen Stephanus vergossen wurde, stand ich
+dabei; ich stimmte zu und passte auf die Kleider derer auf, die ihn
+umbrachten. ^{[[#fn6][6]]}
+
+<<v21>>
+21 Aber er sagte zu mir: Brich auf, denn ich will dich in die Ferne zu
+den Heiden senden. ^{[[#fn7][7]]}\\
+\\
+
+<<v22>>
+**** Paulus und der römische Oberst: 22,22-29
+     :PROPERTIES:
+     :CUSTOM_ID: paulus-und-der-römische-oberst-2222-29
+     :END:
+22 Bis zu diesem Wort hörten sie ihm zu, dann fingen sie an zu schreien:
+Weg mit so einem Menschen! Er darf nicht am Leben bleiben.
+^{[[#fn8][8]]}
+
+<<v23>>
+23 Sie lärmten, zerrissen ihre Kleider und warfen Staub in die Luft.
+
+<<v24>>
+24 Da befahl der Oberst, ihn in die Kaserne zu führen, und ordnete an,
+ihn unter Geißelschlägen zu verhören. Auf diese Weise wollte er
+herausfinden, warum sie derart gegen ihn tobten.
+
+<<v25>>
+25 Als sie ihn aber für die Geißelung festbanden, sagte Paulus zu dem
+Hauptmann, der dabeistand: Dürft ihr jemand, der das römische
+Bürgerrecht besitzt, geißeln, noch dazu ohne Verurteilung?
+^{[[#fn9][9]]}
+
+<<v26>>
+26 Als der Hauptmann das hörte, ging er zum Obersten, meldete es und
+sagte: Was hast du vor? Der Mann ist ein Römer.
+
+<<v27>>
+27 Der Oberst kam zu Paulus und fragte ihn: Sag mir, bist du ein Römer?
+Er antwortete: Ja.
+
+<<v28>>
+28 Da antwortete der Oberst: Ich habe für dieses Bürgerrecht ein
+Vermögen gezahlt. Paulus sagte: Ich bin sogar als Römer geboren.
+
+<<v29>>
+29 Sofort ließen die, die ihn verhören sollten, von ihm ab. Und der
+Oberst erschrak, als er erfuhr, dass es ein Römer war, den er hatte
+fesseln lassen. ^{[[#fn10][10]]}\\
+\\
+
+<<v30>>
+**** Paulus vor dem Hohen Rat: 22,30 - 23,11
+     :PROPERTIES:
+     :CUSTOM_ID: paulus-vor-dem-hohen-rat-2230---2311
+     :END:
+30 Weil er genau wissen wollte, was die Juden ihm vorwarfen, ließ er ihn
+am nächsten Tag aus dem Gefängnis holen und befahl, die Hohenpriester
+und der ganze Hohe Rat sollten sich versammeln. Und er ließ Paulus
+hinunterführen und ihnen gegenüberstellen.
+
+^{[[#fnm1][1]]} ℘ 7,2; 13,26
+
+^{[[#fnm2][2]]} ℘ (3-21) 9,1-29; 26,9-23; 5,34; 2 Kor 11,22; Phil 3,5;
+Röm 10,2; Gal 1,14
+
+^{[[#fnm3][3]]} ℘ 8,3
+
+^{[[#fnm4][4]]} ℘ 9,26; Gal 1,18f
+
+^{[[#fnm5][5]]} ℘ 22,4
+
+^{[[#fnm6][6]]} ℘ 7,58; 8,1
+
+^{[[#fnm7][7]]} ℘ 9,15; 13,2; 26,16-18; Röm 1,5; Gal 2,7
+
+^{[[#fnm8][8]]} ℘ 1 Kor 4,13
+
+^{[[#fnm9][9]]} ℘ 16,37; 23,27
+
+^{[[#fnm10][10]]} ℘ 16,38f

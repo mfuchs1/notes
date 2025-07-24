@@ -1,0 +1,229 @@
+:PROPERTIES:
+:ID:       21837b61-9860-459b-9ebf-53340d32f683
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Philipper* -- *1*
+[[file:Phil_2.html][2]] [[file:Phil_3.html][3]] [[file:Phil_4.html][4]]
+
+--------------
+
+* Phil 1
+  :PROPERTIES:
+  :CUSTOM_ID: phil-1
+  :END:
+
+Paulus gründete die Gemeinde von Philippi (Ostmazedonien) als erste
+christliche Gemeinde auf europäischem Boden bei seiner zweiten
+Missionsreise um das Jahr 50. Die Gemeinde wuchs ihm besonders ans Herz.
+Nur von ihr ließ er sich unterstützen, auch finanziell. Den Brief an die
+Philipper schrieb er im Gefängnis, wahrscheinlich in Ephesus, um 55 n.
+Chr. Die Auffassung, der Brief sei erst in der römischen Gefangenschaft
+des Apostels abgefasst worden, ist heute weithin aufgegeben. Zwar
+erfahren wir aus der Apostelgeschichte nichts über eine Gefangenschaft
+in Ephesus, aber Andeutungen in den Briefen des Apostels Paulus lassen
+darauf schließen (1 Kor 15,32; vor allem 2 Kor 1,8-10; vgl. auch 2 Kor
+11,22-33). Den Anlass des Briefs bildete der Wunsch der Christen in
+Philippi, von ihrem Apostel, der im Gefängnis saß, Näheres über sein
+Schicksal zu erfahren, sowie eine Geldspende, die sie durch Epaphroditus
+überbringen ließen. Auch das Eindringen von Irrlehren bewog Paulus zur
+Abfassung dieses Schreibens.\\
+\\
+Nach Dank und Fürbitte (1,3-11) spricht Paulus von seinem Schicksal. Er
+tut dies so, dass er sein Los mit dem des Evangeliums verknüpft
+(1,12-26). Er mahnt zur Einheit und stellt in einem hymnischen Text der
+Gemeinde den Weg Christi, des Gottessohnes und erhöhten Herrn, vor
+Augen. An ihm hat sie durch den Glauben Anteil gewonnen (1,27 - 2,18).
+Sodann spricht er über seine persönlichen Pläne (2,19-30). Im 3. Kapitel
+nimmt er mit außerordentlich scharfen Worten Stellung gegen christliche
+Wanderprediger, die Irrlehren verbreiten, und weist auf die Gefahr hin,
+die dadurch der Kirche droht. Abschließend wendet er sich an einzelne
+Gemeindeglieder, die ihm Sorge bereiten, und bedankt sich für die
+empfangene Gabe (Kap. 4).\\
+\\
+Der besondere Wert des Briefs liegt darin, dass er uns Einblick
+verschafft in das persönliche Wollen und Denken des Menschen und
+Christen Paulus. Der bekannteste und wichtigste Text ist das
+Christuslied in 2,6-11. Theologisch bedeutsam ist daneben die Erwartung
+des Paulus im Hinblick auf sein Ergehen nach dem Tod (1,19-26) und auf
+seine Gemeinschaft mit Christus (3,7-21).\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Anschrift und Gruß: 1,1-2
+   :PROPERTIES:
+   :CUSTOM_ID: anschrift-und-gruß-11-2
+   :END:
+1 Paulus und Timotheus, Knechte Christi Jesu, an alle Heiligen in
+Christus Jesus, die in Philippi sind, mit ihren Bischöfen und Diakonen.
+^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn
+Jesus Christus. ^{[[#fn3][3]]}\\
+\\
+
+<<v3>>
+** Der Apostel und sein Evangelium: 1,3-26
+   :PROPERTIES:
+   :CUSTOM_ID: der-apostel-und-sein-evangelium-13-26
+   :END:
+**** Dank und Fürbitte: 1,3-11
+     :PROPERTIES:
+     :CUSTOM_ID: dank-und-fürbitte-13-11
+     :END:
+3 Ich danke meinem Gott jedes Mal, wenn ich an euch denke;
+
+<<v4>>
+4 immer, wenn ich für euch alle bete, tue ich es mit Freude
+
+<<v5>>
+5 und danke Gott dafür, dass ihr euch gemeinsam für das Evangelium
+eingesetzt habt vom ersten Tag an bis jetzt.
+
+<<v6>>
+6 Ich vertraue darauf, dass er, der bei euch das gute Werk begonnen hat,
+es auch vollenden wird bis zum Tag Christi Jesu.
+
+<<v7>>
+7 Es ist nur recht, dass ich so über euch alle denke, weil ich euch ins
+Herz geschlossen habe. Denn ihr alle habt Anteil an der Gnade, die mir
+durch meine Gefangenschaft und die Verteidigung und Bekräftigung des
+Evangeliums gewährt ist.
+
+<<v8>>
+8 Gott ist mein Zeuge, wie ich mich nach euch allen sehne mit der
+herzlichen Liebe, die Christus Jesus zu euch hat. ^{[[#fn4][4]]}
+
+<<v9>>
+9 Und ich bete darum, dass eure Liebe immer noch reicher an Einsicht und
+Verständnis wird,
+
+<<v10>>
+10 damit ihr beurteilen könnt, worauf es ankommt. Dann werdet ihr rein
+und ohne Tadel sein für den Tag Christi,
+
+<<v11>>
+11 reich an der Frucht der Gerechtigkeit, die Jesus Christus gibt, zur
+Ehre und zum Lob Gottes.\\
+\\
+
+<<v12>>
+**** Paulus, Verkünder der Frohen Botschaft: 1,12-26
+     :PROPERTIES:
+     :CUSTOM_ID: paulus-verkünder-der-frohen-botschaft-112-26
+     :END:
+12 Ihr sollt wissen, Brüder, dass alles, was mir zugestoßen ist, die
+Verbreitung des Evangeliums gefördert hat.
+
+<<v13>>
+13 Denn im ganzen Prätorium und bei allen Übrigen ist offenbar geworden,
+dass ich um Christi willen im Gefängnis bin. ^{[[#fn5][5]]}
+
+<<v14>>
+14 Und die meisten der Brüder sind durch meine Gefangenschaft
+zuversichtlich geworden im Glauben an den Herrn und wagen umso kühner,
+das Wort Gottes furchtlos zu sagen.
+
+<<v15>>
+15 Einige verkündigen Christus zwar aus Neid und Streitsucht, andere
+aber in guter Absicht.
+
+<<v16>>
+16 Die einen predigen Christus aus Liebe, weil sie wissen, dass ich zur
+Verteidigung des Evangeliums bestimmt bin,
+
+<<v17>>
+17 die andern aus Ehrgeiz, nicht in redlicher Gesinnung; sie möchten die
+Last meiner Ketten noch schwerer machen. ^{[[#fn6][6]]}
+
+<<v18>>
+18 Aber was liegt daran? Auf jede Weise, ob in unlauterer oder lauterer
+Absicht, wird Christus verkündigt und darüber freue ich mich. Aber ich
+werde mich auch in Zukunft freuen.
+
+<<v19>>
+19 Denn ich weiß: /Das wird zu meiner Rettung führen/ durch euer Gebet
+und durch die Hilfe des Geistes Jesu Christi. ^{[[#fn7][7]]}
+
+<<v20>>
+20 Darauf warte und hoffe ich, dass ich in keiner Hinsicht beschämt
+werde, dass vielmehr Christus in aller Öffentlichkeit - wie immer, so
+auch jetzt - durch meinen Leib verherrlicht wird, ob ich lebe oder
+sterbe.
+
+<<v21>>
+21 Denn für mich ist Christus das Leben und Sterben Gewinn.
+
+<<v22>>
+22 Wenn ich aber weiterleben soll, bedeutet das für mich fruchtbare
+Arbeit. Was soll ich wählen? Ich weiß es nicht.
+
+<<v23>>
+23 Es zieht mich nach beiden Seiten: Ich sehne mich danach, aufzubrechen
+und bei Christus zu sein - um wie viel besser wäre das!
+^{[[#fn8][8]][[#fn9][9]]}
+
+<<v24>>
+24 Aber euretwegen ist es notwendiger, dass ich am Leben bleibe.
+
+<<v25>>
+25 Im Vertrauen darauf weiß ich, dass ich bleiben und bei euch allen
+ausharren werde, um euch im Glauben zu fördern und zu erfreuen,
+
+<<v26>>
+26 damit ihr euch in Christus Jesus umso mehr meiner rühmen könnt, wenn
+ich wieder zu euch komme.\\
+\\
+
+<<v27>>
+** Verschiedene Mahnungen: 1,27 - 2,18
+   :PROPERTIES:
+   :CUSTOM_ID: verschiedene-mahnungen-127---218
+   :END:
+**** Aufruf zur Eintracht: 1,27 - 2,4
+     :PROPERTIES:
+     :CUSTOM_ID: aufruf-zur-eintracht-127---24
+     :END:
+27 Vor allem: Lebt als Gemeinde so, wie es dem Evangelium Christi
+entspricht. Ob ich komme und euch sehe oder ob ich fern bin, ich möchte
+hören, dass ihr in dem einen Geist feststeht, einmütig für den Glauben
+an das Evangelium kämpft
+
+<<v28>>
+28 und euch in keinem Fall von euren Gegnern einschüchtern lasst. Das
+wird für sie ein Zeichen dafür sein, dass sie verloren sind und ihr
+gerettet werdet, ein Zeichen, das von Gott kommt.
+
+<<v29>>
+29 Denn euch wurde die Gnade zuteil, für Christus da zu sein, also nicht
+nur an ihn zu glauben, sondern auch seinetwegen zu leiden.
+
+<<v30>>
+30 Denn ihr habt den gleichen Kampf zu bestehen, den ihr früher an mir
+gesehen habt und von dem ihr auch jetzt hört.
+
+^{[[#fnm1][1]]} ℘ 2 Kor 1,1
+
+^{[[#fnm2][2]]} Die «Bischöfe» und «Diakone» sind Männer, die innerhalb
+der Gemeinde wichtige Dienste übernommen haben. Sie treten als Kollegium
+auf; ihre Stellung und ihre Aufgabe entsprechen noch nicht den Ämtern,
+die später mit diesen Titeln bezeichnet werden.
+
+^{[[#fnm3][3]]} ℘ Röm 1,7f
+
+^{[[#fnm4][4]]} ℘ Röm 1,9
+
+^{[[#fnm5][5]]} Das «Prätorium» ist der Sitz des römischen Statthalters
+und Ort des Gefängnisses für Paulus.
+
+^{[[#fnm6][6]]} 17f: In der christlichen Gemeinde des Ortes, wo Paulus
+gefangen sitzt, haben sich einige aus Furcht von ihm distanziert.
+
+^{[[#fnm7][7]]} ℘ Ijob 13,16 G
+
+^{[[#fnm8][8]]} ℘ 2 Kor 5,8
+
+^{[[#fnm9][9]]} aufbrechen: Umschreibung für «sterben».

@@ -1,0 +1,151 @@
+#+TITLE: Ri 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 16:42]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 2.html
+
+<<verses>>
+
+<<v1>>
+* Die Erscheinung des Engels des Herrn: 2,1-5
+
+1 Der Engel des Herrn kam von Gilgal nach Bochim hinauf und sagte: Ich
+habe euch aus Ägypten heraufgeführt und euch in das Land gebracht, das
+ich euren Vätern mit einem Eid zugesichert hatte. Ich hatte gesagt: Ich
+werde meinen Bund mit euch niemals aufheben;
+
+<<v2>>
+2 aber ihr dürft keinen Bund mit den Bewohnern dieses Landes schließen
+und ihre Altäre sollt ihr niederreißen. Doch ihr habt auf meine Stimme
+nicht gehört. Warum habt ihr das getan? [fn:1]
+
+<<v3>>
+3 Deshalb sage ich euch jetzt: Ich werde sie nicht vor euren Augen
+vertreiben, sondern sie sollen euch Widerstand leisten und ihre Götter
+sollen euch zu Fall bringen. [fn:2] [fn:3]
+
+<<v4>>
+4 Als der Engel des Herrn das zum Volk gesagt hatte, brachen alle
+Israeliten in lautes Weinen aus.
+
+<<v5>>
+5 Darum nannten sie jenen Ort Bochim (Ort des Weinens). Und sie brachten
+dort dem Herrn Opfer dar.\\
+\\
+
+<<v6>>
+* Josuas Tod: 2,6-10
+
+6 Als Josua das Volk ziehen ließ, machten sich die Israeliten auf den
+Weg, um das Land in Besitz zu nehmen; jeder (ging) zu seinem Erbbesitz.
+
+<<v7>>
+7 Und das Volk diente dem Herrn, solange Josua lebte und solange die
+Ältesten am Leben waren, die Josua überlebten und all die großen Taten
+des Herrn gesehen hatten, die er für Israel getan hatte. [fn:4]
+
+<<v8>>
+8 Josua, der Sohn Nuns, der Knecht des Herrn, starb im Alter von
+hundertzehn Jahren
+
+<<v9>>
+9 und man begrub ihn in Timnat-Heres, im Gebiet seines Erbbesitzes auf
+dem Gebirge Efraim, nördlich vom Berg Gaasch. [fn:5]
+
+<<v10>>
+10 Auch seine ganze Generation wurde mit ihren Vätern vereint und nach
+ihnen kam eine andere Generation, die den Herrn und die Taten, die er
+für Israel vollbracht hatte, nicht mehr kannte.\\
+\\
+
+<<v11>>
+* Die Berufung von Richtern: 2,11-23
+
+11 Die Israeliten taten, was dem Herrn missfiel, und dienten den Baalen. [fn:6]
+
+<<v12>>
+12 Sie verließen den Herrn, den Gott ihrer Väter, der sie aus Ägypten
+herausgeführt hatte, und liefen anderen Göttern nach, den Göttern der
+Völker, die rings um sie wohnen. Sie warfen sich vor ihnen nieder und
+erzürnten dadurch den Herrn.
+
+<<v13>>
+13 Als sie den Herrn verließen und dem Baal und den Astarten dienten,
+
+<<v14>>
+14 entbrannte der Zorn des Herrn gegen Israel. Er gab sie in die Gewalt
+von Räubern, die sie ausplünderten, und lieferte sie der Gewalt ihrer
+Feinde ringsum aus, sodass sie ihren Feinden keinen Widerstand mehr
+leisten konnten. [fn:7]
+
+<<v15>>
+15 Sooft sie auch in den Krieg zogen, war die Hand des Herrn gegen sie,
+und sie hatten kein Glück, wie der Herr gesagt und ihnen geschworen
+hatte. So gerieten sie in große Not.
+
+<<v16>>
+16 Der Herr aber setzte Richter ein, die sie aus der Gewalt der Räuber
+befreiten. [fn:8]
+
+<<v17>>
+17 Doch sie gehorchten auch ihren Richtern nicht, sondern gaben sich
+anderen Göttern hin und warfen sich vor ihnen nieder. Rasch wichen sie
+von dem Weg ab, den ihre Väter, den Geboten des Herrn gehorsam, gegangen
+waren. Sie handelten nicht so (wie ihre Väter).
+
+<<v18>>
+18 Wenn aber der Herr bei ihnen Richter einsetzte, dann war der Herr mit
+dem Richter und rettete die Israeliten aus der Gewalt ihrer Feinde,
+solange der Richter lebte; denn der Herr hatte Mitleid mit ihnen, wenn
+sie über ihre Feinde und Unterdrücker klagten.
+
+<<v19>>
+19 Sobald aber der Richter gestorben war, wurden sie rückfällig und
+trieben es noch schlimmer als ihre Väter, liefen anderen Göttern nach,
+dienten ihnen und warfen sich vor ihnen nieder. Sie ließen nicht ab von
+ihrem bösen Treiben und von ihrem störrischen Verhalten.
+
+<<v20>>
+20 Da entbrannte der Zorn des Herrn gegen Israel. Er sagte: Weil dieses
+Volk meinen Bund übertreten hat, zu dem ich ihre Väter verpflichtet
+habe, und weil es nicht auf meine Stimme hört,
+
+<<v21>>
+21 werde auch ich kein einziges der Völker mehr vor ihren Augen
+vertreiben, die Josua bei seinem Tod noch übrig gelassen hat.
+
+<<v22>>
+22 Israel soll durch sie auf die Probe gestellt werden, ob es daran fest
+hält, den Weg des Herrn zu gehen, wie es seine Väter taten, oder nicht.
+
+<<v23>>
+23 Darum ließ der Herr diese Völker (im Land) und vertrieb sie vorerst
+nicht. Er hatte sie auch nicht in die Gewalt Josuas gegeben.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Dtn_7.org::v2][Dtn 7,2-5]]
+
+[fn:2] [[file:Jos_23.org::v13][Jos 23,13]]
+
+[fn:3] Widerstand leisten: Text korr., vgl. G.
+
+[fn:4] [[file:Jos_24.org::v31][Jos 24,31]]
+
+[fn:5] [[file:Jos_24.org::v30][Jos 24,30]]
+
+[fn:6] 11.13: Baal ist der Gott der Fruchtbarkeit und
+Gegenspieler Jahwes; Astarte ist eine Fruchtbarkeitsgöttin. Die Baale
+und Astarten sind die lokalen Ausprägungen dieser Gottheiten.
+
+[fn:7] [[file:Lev_26.org::v17][Lev 26,17]]
+
+[fn:8] Diese Richter sind Männer, die dem Volk zu seinem Recht
+verhelfen, also Retter aus der Not und insofern Führer des Volkes.

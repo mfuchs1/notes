@@ -1,0 +1,196 @@
+:PROPERTIES:
+:ID:       0fd23392-55e9-4efc-a39e-5f194f690186
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Apostelgeschichte* --
+[[file:Apg_1.html][1]] ... [[file:Apg_16.html][16]]
+[[file:Apg_17.html][17]] *18* [[file:Apg_19.html][19]]
+[[file:Apg_20.html][20]] ... [[file:Apg_28.html][28]]
+
+--------------
+
+* Apg 18
+  :PROPERTIES:
+  :CUSTOM_ID: apg-18
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Paulus in Korinth: 18,1-17
+     :PROPERTIES:
+     :CUSTOM_ID: paulus-in-korinth-181-17
+     :END:
+1 Hierauf verließ Paulus Athen und ging nach Korinth. ^{[[#fn1][1]]}
+
+<<v2>>
+2 Dort traf er einen aus Pontus stammenden Juden namens Aquila, der vor
+kurzem aus Italien gekommen war, und dessen Frau Priszilla. Klaudius
+hatte nämlich angeordnet, dass alle Juden Rom verlassen müssten. Diesen
+beiden schloss er sich an, ^{[[#fn2][2]]}
+
+<<v3>>
+3 und da sie das gleiche Handwerk betrieben, blieb er bei ihnen und
+arbeitete dort. Sie waren Zeltmacher von Beruf. ^{[[#fn3][3]]}
+
+<<v4>>
+4 An jedem Sabbat lehrte er in der Synagoge und suchte Juden und
+Griechen zu überzeugen.
+
+<<v5>>
+5 Als aber Silas und Timotheus aus Mazedonien eingetroffen waren,
+widmete sich Paulus ganz der Verkündigung und bezeugte den Juden, dass
+Jesus der Messias sei.
+
+<<v6>>
+6 Als sie sich dagegen auflehnten und Lästerungen ausstießen, schüttelte
+er seine Kleider aus und sagte zu ihnen: Euer Blut komme über euer
+Haupt! Ich bin daran unschuldig. Von jetzt an werde ich zu den Heiden
+gehen. ^{[[#fn4][4]]}
+
+<<v7>>
+7 Und er ging von da in das Haus eines gewissen Titius Justus hinüber,
+eines Gottesfürchtigen, dessen Haus an die Synagoge grenzte.
+
+<<v8>>
+8 Krispus aber, der Synagogenvorsteher, kam mit seinem ganzen Haus zum
+Glauben an den Herrn; und viele Korinther, die (Paulus) hörten, wurden
+gläubig und ließen sich taufen. ^{[[#fn5][5]]}
+
+<<v9>>
+9 Der Herr aber sagte nachts in einer Vision zu Paulus: Fürchte dich
+nicht! Rede nur, schweige nicht! ^{[[#fn6][6]]}
+
+<<v10>>
+10 Denn ich bin mit dir, niemand wird dir etwas antun. Viel Volk nämlich
+gehört mir in dieser Stadt.
+
+<<v11>>
+11 So blieb Paulus ein Jahr und sechs Monate und lehrte bei ihnen das
+Wort Gottes.
+
+<<v12>>
+12 Als aber Gallio Prokonsul von Achaia war, traten die Juden einmütig
+gegen Paulus auf, brachten ihn vor den Richterstuhl ^{[[#fn7][7]]}
+
+<<v13>>
+13 und sagten: Dieser verführt die Menschen zu einer Gottesverehrung,
+die gegen das Gesetz verstößt.
+
+<<v14>>
+14 Als Paulus etwas erwidern wollte, sagte Gallio zu den Juden: Läge
+hier ein Vergehen oder Verbrechen vor, ihr Juden, so würde ich eure
+Klage ordnungsgemäß behandeln. ^{[[#fn8][8]]}
+
+<<v15>>
+15 Streitet ihr jedoch über Lehre und Namen und euer Gesetz, dann seht
+selber zu! Darüber will ich nicht Richter sein.
+
+<<v16>>
+16 Und er wies sie vom Richterstuhl weg.
+
+<<v17>>
+17 Da ergriffen alle den Synagogenvorsteher Sosthenes und verprügelten
+ihn vor dem Richterstuhl. Gallio aber kümmerte sich nicht darum.
+^{[[#fn9][9]]}\\
+\\
+
+<<v18>>
+**** Die Rückkehr des Paulus über Ephesus nach Antiochia: 18,18-22
+     :PROPERTIES:
+     :CUSTOM_ID: die-rückkehr-des-paulus-über-ephesus-nach-antiochia-1818-22
+     :END:
+18 Paulus blieb noch längere Zeit. Dann verabschiedete er sich von den
+Brüdern und segelte zusammen mit Priszilla und Aquila nach Syrien ab. In
+Kenchreä hatte er sich aufgrund eines Gelübdes den Kopf kahl scheren
+lassen. ^{[[#fn10][10]][[#fn11][11]]}
+
+<<v19>>
+19 Sie gelangten nach Ephesus. Dort trennte er sich von den beiden; er
+selbst ging in die Synagoge und redete zu den Juden.
+
+<<v20>>
+20 Sie baten ihn, noch länger zu bleiben; aber er wollte nicht,
+
+<<v21>>
+21 sondern verabschiedete sich und sagte: Ich werde wieder zu euch
+kommen, wenn Gott es will. So fuhr er von Ephesus ab, ^{[[#fn12][12]]}
+
+<<v22>>
+22 landete in Cäsarea, zog (nach Jerusalem) hinauf, begrüßte dort die
+Gemeinde und ging dann nach Antiochia hinab.\\
+\\
+
+<<v23>>
+*** Die dritte Missionsreise des Paulus: 18,23 - 21,17
+    :PROPERTIES:
+    :CUSTOM_ID: die-dritte-missionsreise-des-paulus-1823---2117
+    :END:
+23 Nachdem er dort einige Zeit geblieben war, zog er weiter,
+durchwanderte zuerst das galatische Land, dann Phrygien und stärkte alle
+Jünger.\\
+\\
+
+<<v24>>
+**** Die Missionsarbeit des Apollos in Ephesus: 18,24-28
+     :PROPERTIES:
+     :CUSTOM_ID: die-missionsarbeit-des-apollos-in-ephesus-1824-28
+     :END:
+24 Ein Jude namens Apollos kam nach Ephesus. Er stammte aus Alexandria,
+war redekundig und in der Schrift bewandert. ^{[[#fn13][13]]}
+
+<<v25>>
+25 Er war unterwiesen im Weg des Herrn. Er sprach mit glühendem Geist
+und trug die Lehre von Jesus genau vor; doch kannte er nur die Taufe des
+Johannes. ^{[[#fn14][14]]}
+
+<<v26>>
+26 Er begann, offen in der Synagoge zu sprechen. Priszilla und Aquila
+hörten ihn, nahmen ihn zu sich und legten ihm den Weg Gottes noch
+genauer dar.
+
+<<v27>>
+27 Als er nach Achaia gehen wollte, ermunterten ihn die Brüder dazu und
+schrieben den Jüngern, sie möchten ihn freundlich aufnehmen. Nach seiner
+Ankunft wurde er den Gläubigen durch die Gnade eine große Hilfe.
+
+<<v28>>
+28 Denn mit Nachdruck widerlegte er die Juden, indem er öffentlich aus
+der Schrift nachwies, dass Jesus der Messias sei. ^{[[#fn15][15]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 18,18.26
+
+^{[[#fnm2][2]]} ℘ Röm 16,3; 1 Kor 16,19; 2 Tim 4,19
+
+^{[[#fnm3][3]]} ℘ 1 Kor 4,12; 9,12
+
+^{[[#fnm4][4]]} ℘ Mt 27,24f
+
+^{[[#fnm5][5]]} ℘ 1 Kor 1,14
+
+^{[[#fnm6][6]]} ℘ 1 Kor 2,3; 2 Kor 10,10
+
+^{[[#fnm7][7]]} Die Amtszeit des Gallio in Achaia (Griechenland) fiel in
+die Zeit 51/52 n. Chr. oder 52/53 n. Chr., wie aus der in Delphi
+gefundenen «Gallio-Inschrift» hervorgeht.
+
+^{[[#fnm8][8]]} ℘ 25,18-20; Joh 18,31
+
+^{[[#fnm9][9]]} ℘ 1 Kor 1,1
+
+^{[[#fnm10][10]]} ℘ Röm 16,1
+
+^{[[#fnm11][11]]} Es handelt sich dabei um das sogenannte
+Nasiräatsgelübde (vgl. auch 21,23-26), das auf Num 6,1-21 zurückgeht
+(vgl. auch 1 Makk 3,49); es war zeitlich begrenzt und wurde durch ein
+Opfer eingelöst, bei dem das geschorene Haar mitverbrannt wurde.
+
+^{[[#fnm12][12]]} ℘ Röm 1,10; 1 Kor 4,19; Jak 4,15
+
+^{[[#fnm13][13]]} ℘ 1 Kor 1,12; 3,4-6
+
+^{[[#fnm14][14]]} ℘ 19,3f
+
+^{[[#fnm15][15]]} ℘ 9,22; 17,3; 18,5

@@ -1,0 +1,152 @@
+#+TITLE: 1 Sam 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 21:55]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 16.html
+
+<<verses>>
+
+<<v1>>
+* Saul und David: 16,1 - 31,13
+
+* Davids Salbung zum König: 16,1-13
+
+1 Der Herr sagte zu Samuel: Wie lange willst du noch um Saul trauern?
+Ich habe ihn doch verworfen; er soll nicht mehr als König über Israel
+herrschen. Fülle dein Horn mit Öl und mach dich auf den Weg! Ich schicke
+dich zu dem Betlehemiter Isai; denn ich habe mir einen von seinen Söhnen
+als König ausersehen. [fn:1]
+
+<<v2>>
+2 Samuel erwiderte: Wie kann ich da hingehen? Saul wird es erfahren und
+mich umbringen. Der Herr sagte: Nimm ein junges Rind mit und sag: Ich
+bin gekommen, um dem Herrn ein Schlachtopfer darzubringen.
+
+<<v3>>
+3 Lade Isai zum Opfer ein! Ich selbst werde dich dann erkennen lassen,
+was du tun sollst: Du sollst mir nur den salben, den ich dir nennen
+werde. [fn:2]
+
+<<v4>>
+4 Samuel tat, was der Herr befohlen hatte. Als er nach Betlehem kam,
+gingen ihm die Ältesten der Stadt zitternd entgegen und fragten:
+Bedeutet dein Kommen Frieden?
+
+<<v5>>
+5 Er antwortete: Frieden. Ich bin gekommen, um dem Herrn ein
+Schlachtopfer darzubringen. Heiligt euch und kommt mit mir zum Opfer!
+Dann heiligte er Isai und seine Söhne und lud sie zum Opfer ein.
+
+<<v6>>
+6 Als sie kamen und er den Eliab sah, dachte er: Gewiss steht nun vor
+dem Herrn sein Gesalbter.
+
+<<v7>>
+7 Der Herr aber sagte zu Samuel: Sieh nicht auf sein Aussehen und seine
+stattliche Gestalt, denn ich habe ihn verworfen; Gott sieht nämlich
+nicht auf das, worauf der Mensch sieht. Der Mensch sieht, was vor den
+Augen ist, der Herr aber sieht das Herz. [fn:3]
+
+<<v8>>
+8 Nun rief Isai den Abinadab und ließ ihn vor Samuel treten. Dieser
+sagte: Auch ihn hat der Herr nicht erwählt.
+
+<<v9>>
+9 Isai ließ Schima kommen. Samuel sagte: Auch ihn hat der Herr nicht
+erwählt.
+
+<<v10>>
+10 So ließ Isai sieben seiner Söhne vor Samuel treten, aber Samuel sagte
+zu Isai: Diese hat der Herr nicht erwählt. [fn:4]
+
+<<v11>>
+11 Und er fragte Isai: Sind das alle deine Söhne? Er antwortete: Der
+jüngste fehlt noch, aber der hütet gerade die Schafe. Samuel sagte zu
+Isai: Schick jemand hin und lass ihn holen; wir wollen uns nicht zum
+Mahl hinsetzen, bevor er hergekommen ist.
+
+<<v12>>
+12 Isai schickte also jemand hin und ließ ihn kommen. David war blond,
+hatte schöne Augen und eine schöne Gestalt. Da sagte der Herr: Auf,
+salbe ihn! Denn er ist es. [fn:5]
+
+<<v13>>
+13 Samuel nahm das Horn mit dem Öl und salbte David mitten unter seinen
+Brüdern. Und der Geist des Herrn war über David von diesem Tag an.
+Samuel aber brach auf und kehrte nach Rama zurück. [fn:6]\\
+\\
+
+<<v14>>
+* David im Dienst Sauls: 16,14-23
+
+14 Der Geist des Herrn war von Saul gewichen; jetzt quälte ihn ein böser
+Geist, der vom Herrn kam. [fn:7] [fn:8]
+
+<<v15>>
+15 Da sagten die Diener Sauls zu ihm: Du siehst, ein böser Geist Gottes
+quält dich.
+
+<<v16>>
+16 Darum möge unser Herr seinen Knechten, die vor ihm stehen, befehlen,
+einen Mann zu suchen, der die Zither zu spielen versteht. Sobald dich
+der böse Geist Gottes überfällt, soll er auf der Zither spielen; dann
+wird es dir wieder gut gehen.
+
+<<v17>>
+17 Saul sagte zu seinen Dienern: Seht euch für mich nach einem Mann um,
+der gut spielen kann, und bringt ihn her zu mir!
+
+<<v18>>
+18 Einer der jungen Männer antwortete: Ich kenne einen Sohn des
+Betlehemiters Isai, der Zither zu spielen versteht. Und er ist tapfer
+und ein guter Krieger, wortgewandt, von schöner Gestalt, und der Herr
+ist mit ihm.
+
+<<v19>>
+19 Da schickte Saul Boten zu Isai und ließ ihm sagen: Schick mir deinen
+Sohn David, der bei den Schafen ist.
+
+<<v20>>
+20 Isai nahm einen Esel, dazu Brot, einen Schlauch Wein und ein
+Ziegenböckchen und schickte seinen Sohn David damit zu Saul.
+
+<<v21>>
+21 So kam David zu Saul und trat in seinen Dienst; Saul gewann ihn sehr
+lieb, und David wurde sein Waffenträger.
+
+<<v22>>
+22 Darum schickte Saul zu Isai und ließ ihm sagen: David soll in meinem
+Dienst bleiben; denn er hat mein Wohlwollen gefunden. [fn:9]
+
+<<v23>>
+23 Sooft nun ein Geist Gottes Saul überfiel, nahm David die Zither und
+spielte darauf. Dann fühlte sich Saul erleichtert, es ging ihm wieder
+gut und der böse Geist wich von ihm.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_13.org::v14][13,14]]; [[file:1.Sam_15.org::v23][15,23]]
+
+[fn:2] [[file:1.Chr_11.org::v3][1 Chr 11,3]]
+
+[fn:3] Gott sieht: Text ergänzt nach G.
+
+[fn:4] [[file:1.Sam_17.org::v12][17,12]]; [[file:1.Chr_2.org::v13][1 Chr 2,13-15]]
+
+[fn:5] [[file:1.Sam_17.org::v42][17,42]]
+
+[fn:6] [[file:2.Sam_2.org::v4][2 Sam 2,4]]; [[file:1.Sam_5.org::v3][5,3;]] [[file:Ps_89.org::v21][Ps 89,21]]
+
+[fn:7] [[file:1.Sam_18.org::v10][18,10]]; [[file:1.Sam_19.org::v9][19,9]]
+
+[fn:8] Die von Gott verliehene Begabung zum Führertum ging Saul
+verloren; er litt an einer psychischen Störung.
+
+[fn:9] [[file:1.Sam_18.org::v2][18,2]]

@@ -1,0 +1,143 @@
+#+TITLE: 2 Kön 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 16:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 22.html
+
+<<verses>>
+
+<<v1>>
+* Joschija, Einleitung: 22,1-2
+
+1 Joschija war acht Jahre alt, als er König wurde, und regierte
+einunddreißig Jahre in Jerusalem. Seine Mutter hieß Jedida und war eine
+Tochter Adajas aus Bozkat. [fn:1]
+
+<<v2>>
+2 Er tat, was dem Herrn gefiel, und folgte ganz den Wegen seines Vaters
+David, ohne nach rechts oder links abzuweichen.\\
+\\
+
+<<v3>>
+* Die Auffindung des Gesetzbuches: 22,3-20
+
+3 Im achtzehnten Jahr seiner Regierung sandte König Joschija den
+Staatsschreiber Schafan, den Sohn Azaljas, des Sohnes Meschullams, in
+das Haus des Herrn mit dem Auftrag: [fn:2] [fn:3]
+
+<<v4>>
+4 Geh zum Hohenpriester Hilkija! Er soll das Geld ausschütten, das in
+das Haus des Herrn gebracht worden ist und das die Wächter an den
+Schwellen vom Volk gesammelt haben. [fn:4]
+
+<<v5>>
+5 Man soll es den Werkmeistern geben, die im Haus des Herrn angestellt
+sind, und diese sollen es für die Arbeiter verwenden, die im Tempel die
+Schäden des Hauses zu beseitigen haben,
+
+<<v6>>
+6 für die Zimmerleute, Bauarbeiter, Maurer, sowie zum Ankauf von Holz
+und Bruchsteinen, die man zur Beseitigung der Schäden am Haus des Herrn
+benötigt.
+
+<<v7>>
+7 Doch soll man über das Geld, das ihnen übergeben wird, nicht
+abrechnen. Sie sollen auf Treu und Glauben handeln.
+
+<<v8>>
+8 Damals teilte der Hohepriester Hilkija dem Staatsschreiber Schafan
+mit: Ich habe im Haus des Herrn das Gesetzbuch gefunden. Hilkija übergab
+Schafan das Buch und dieser las es. [fn:5]
+
+<<v9>>
+9 Darauf begab sich der Staatsschreiber Schafan zum König und meldete
+ihm: Deine Knechte haben das Geld ausgeschüttet, das sich im Haus
+vorfand, und es den Werkmeistern übergeben, die im Haus des Herrn
+angestellt sind.
+
+<<v10>>
+10 Dann sagte der Staatsschreiber Schafan zum König: Der Priester
+Hilkija hat mir ein Buch gegeben. Schafan las es dem König vor.
+
+<<v11>>
+11 Als der König die Worte des Gesetzbuches hörte, zerriss er seine
+Kleider
+
+<<v12>>
+12 und befahl dem Priester Hilkija sowie Ahikam, dem Sohn Schafans,
+Achbor, dem Sohn Michas, dem Staatsschreiber Schafan und Asaja, dem
+Diener des Königs:
+
+<<v13>>
+13 Geht und befragt den Herrn für mich, für das Volk und für ganz Juda
+wegen dieses Buches, das aufgefunden wurde. Der Zorn des Herrn muss
+heftig gegen uns entbrannt sein, weil unsere Väter auf die Worte dieses
+Buches nicht gehört und weil sie nicht getan haben, was in ihm
+niedergeschrieben ist. [fn:6]
+
+<<v14>>
+14 Da gingen der Priester Hilkija, Ahikam, Achbor, Schafan und Asaja zur
+Prophetin Hulda. Sie war die Frau Schallums, des Sohnes Tikwas, des
+Sohnes des Harhas, des Verwalters der Kleiderkammer, und wohnte in
+Jerusalem in der Neustadt. Die Abgesandten trugen ihr alles vor
+
+<<v15>>
+15 und sie gab ihnen diese Antwort: So spricht der Herr, der Gott
+Israels: Sagt zu dem Mann, der euch zu mir geschickt hat:
+
+<<v16>>
+16 So spricht der Herr: Ich bringe Unheil über diesen Ort und seine
+Bewohner, alle Drohungen des Buches, das der König von Juda gelesen hat.
+
+<<v17>>
+17 Denn sie haben mich verlassen, anderen Göttern geopfert und mich
+durch alle Werke ihrer Hände erzürnt. Darum ist mein Zorn gegen diesen
+Ort entbrannt und er wird nicht erlöschen.
+
+<<v18>>
+18 Sagt aber zum König von Juda, der euch hergesandt hat, um den Herrn
+zu befragen: So spricht der Herr, der Gott Israels: Durch die Worte, die
+du gehört hast,
+
+<<v19>>
+19 wurde dein Herz erweicht. Du hast dich vor dem Herrn gedemütigt, als
+du vernahmst, was ich über diesen Ort und seine Bewohner gesprochen
+habe: dass sie zu einem Bild des Entsetzens und zum Fluch werden sollen.
+Du hast deine Kleider zerrissen und vor mir geweint. Darum habe ich dich
+erhört - Spruch des Herrn.
+
+<<v20>>
+20 Ich werde dich mit deinen Vätern vereinen und du sollst in Frieden in
+deinem Grab beigesetzt werden. Deine Augen sollen all das Unheil nicht
+mehr sehen, das ich über diesen Ort bringen werde. - Sie berichteten
+dies dem König. [fn:7]\\
+\\
+
+* Footnotes
+
+[fn:1] (1-2) 2 Chr 34,1-2
+
+[fn:2] (3-20) 2 Chr 34,8-28
+
+[fn:3] 3f: Es ist das Jahr 623/22 v. Chr. Ähnlich wurde unter
+Joasch Geld zur Instandsetzung des Tempels beschafft (vgl. 12,10-16).
+
+[fn:4] ausschütten: korr. nach V. 9; H: fertig machen.
+
+[fn:5] Die Reform Joschijas (Kap. 23) betrifft hauptsächlich
+den Kult, lässt aber den Schluss zu, dass es sich beim aufgefundenen
+Gesetzbuch um eine Sammlung von Gesetzen handelt, die im wesentlichen
+Dtn 12-29 entspricht. Sie konnte während der langen Regierung Manasses
+in Vergessenheit geraten sein.
+
+[fn:6] in ihm niedergeschrieben ist: Text korr. nach 2 Chr
+34,21; H: gegen uns niedergeschrieben ist.
+
+[fn:7] Der Aufschub der Strafe wird als Wohltat bezeichnet
+(vgl. 1 Kön 11,35; 21,29; 2 Kön 20,19).

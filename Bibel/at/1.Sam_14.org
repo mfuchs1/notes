@@ -1,0 +1,311 @@
+#+TITLE: 1 Sam 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 14:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 14.html
+
+
+* 1.Sam 14
+
+<<verses>>
+
+<<v1>>
+1 Eines Tages sagte Jonatan, der Sohn Sauls, zu seinem Waffenträger:
+Komm, wir wollen zu dem Posten der Philister hinübergehen, der da drüben
+steht. Seinem Vater sagte er aber nichts davon.
+
+<<v2>>
+2 Saul saß an der Flurgrenze von Gibea unter dem Granatapfelbaum, der
+bei Migron steht. Das Volk, das er bei sich hatte, zählte etwa
+sechshundert Mann.
+
+<<v3>>
+3 Damals trug Ahija, der Sohn Ahitubs, des Bruder Ikabods, des Sohnes
+des Pinhas, des Sohnes Elis, des Priesters des Herrn in Schilo, das
+Efod. Auch das Volk wusste nicht, dass Jonatan weggegangen war.
+
+<<v4>>
+4 An den Übergängen, wo Jonatan zu dem Posten der Philister
+hinüberzukommen versuchte, war hüben und drüben eine Felszacke; die eine
+nannte man Bozez, die andere Senne.
+
+<<v5>>
+5 Die eine Felszacke erhebt sich wie eine Säule auf der Nordseite,
+gegenüber von Michmas, die andere auf der Südseite, gegenüber von Geba.
+
+<<v6>>
+6 Jonatan sagte also zu seinem Waffenträger: Komm, wir wollen
+hinübergehen zu dem Posten dieser Unbeschnittenen. Vielleicht wird der
+Herr für uns handeln; für den Herrn ist es ja keine Schwierigkeit zu
+helfen, sei es durch viele oder durch wenige.
+
+<<v7>>
+7 Sein Waffenträger erwiderte ihm: Tu nur, was du im Sinn hast. Geh, ich
+bin mit dabei; ganz wie du willst.
+
+<<v8>>
+8 Jonatan sagte: Hör zu! Wir wollen zu den Männern hinübergehen und uns
+ihnen offen zeigen.
+
+<<v9>>
+9 Und wenn sie dann zu uns sagen: Bleibt stehen, bis wir zu euch
+kommen!, dann bleiben wir stehen, wo wir sind, und gehen nicht zu ihnen
+hinauf.
+
+<<v10>>
+10 Wenn sie aber sagen: Kommt zu uns herauf!, dann wollen wir zu ihnen
+hinaufsteigen; denn der Herr hat sie in unsere Hand gegeben. Das soll
+für uns das Zeichen sein.
+
+<<v11>>
+11 Die beiden zeigten sich also dem Posten der Philister. Die Philister
+sagten: Seht nur, die Hebräer sind aus ihren Löchern hervorgekommen, in
+denen sie sich versteckt hatten.
+
+<<v12>>
+12 Die Wachtposten riefen zu Jonatan und seinem Waffenträger hinüber und
+sagten: Kommt nur herauf zu uns, wir werden euch etwas erzählen. Da
+sagte Jonatan zu seinem Waffenträger: Geh hinter mir hinauf; denn der
+Herr hat sie in die Gewalt Israels gegeben.
+
+<<v13>>
+13 Jonatan kletterte auf Händen und Füßen hinauf und sein Waffenträger
+folgte ihm. Da ergriffen sie vor Jonatan die Flucht, aber sein
+Waffenträger, der hinter ihm war, tötete sie. [fn:1]
+
+<<v14>>
+14 Das war der erste Schlag, den Jonatan und sein Waffenträger führten.
+Sie erschlugen etwa zwanzig Mann, auf einer Fläche, die ungefähr einen
+halben Morgen groß war.
+
+<<v15>>
+15 Großer Schrecken entstand im Lager (der Philister) und auf dem Feld
+und im ganzen Volk; auch der Vorposten und die plündernden Abteilungen
+erschraken. Dazu bebte die Erde und es entstand ein Gottesschrecken. [fn:2]\\
+\\
+
+<<v16>>
+* Der Sieg über die Philister: 14,16-23
+
+16 Die Späher Sauls in Gibea-Benjamin sahen ein Getümmel, das wogte und
+hin und her lief.
+
+<<v17>>
+17 Da sagte Saul zu den Leuten, die bei ihm waren: Prüft einmal und seht
+nach, wer von unseren Leuten weggegangen ist. Sie sahen nach, und
+tatsächlich fehlten Jonatan und sein Waffenträger.
+
+<<v18>>
+18 Saul sagte zu Ahija: Bring die Lade Gottes her! Denn die Lade war an
+jenem Tag bei den Israeliten (im Lager). [fn:3]
+
+<<v19>>
+19 Während Saul mit dem Priester redete, wurde das Getümmel im Lager der
+Philister immer größer. Da sagte Saul zu dem Priester: Halt ein!
+
+<<v20>>
+20 Saul aber und alle Leute, die bei ihm waren, zogen gemeinsam in den
+Kampf. Da sahen sie, dass (im Lager der Philister) jeder sein Schwert
+gegen den anderen gerichtet hatte und dass ein ganz gewaltiges Getümmel
+entstanden war.
+
+<<v21>>
+21 Auch die Hebräer, die bis zu diesem Zeitpunkt aufseiten der Philister
+gestanden und mit ihnen in den Krieg gezogen waren, wandten sich nun
+(von ihnen) ab, um aufseiten Israels zu sein, das zu Saul und Jonatan
+hielt.
+
+<<v22>>
+22 Als die Israeliten, die sich im Gebirge Efraim versteckt hatten,
+hörten, dass die Philister auf der Flucht waren, setzten auch sie ihnen
+im Kampf nach
+
+<<v23>>
+23 und der Kampf dehnte sich bis Bet-Awen aus. So rettete der Herr an
+jenem Tag Israel.\\
+\\
+
+<<v24>>
+* Sauls Schwur: 14,24-46
+
+24 Die Israeliten aber waren an jenem Tag in Bedrängnis geraten. Darum
+stellte Saul das Volk unter einen Fluch und sagte: Verflucht sei jeder,
+der vor dem Abend etwas isst, bevor ich mich an meinen Feinden gerächt
+habe. Das Volk nahm also bis zum Abend keine Nahrung zu sich.
+
+<<v25>>
+25 Nun gab es in jener ganzen Gegend viele Bienennester, sodass Honig
+auf freiem Feld zu finden war. [fn:4]
+
+<<v26>>
+26 Als das Volk zu den Waben kam und sah, dass Honig aus ihnen
+herausfloss, streckte niemand seine Hand aus, um etwas davon zu nehmen.
+Denn das Volk fürchtete den Schwur (Sauls).
+
+<<v27>>
+27 Jonatan aber hatte nicht gehört, wie sein Vater das Volk beschwor. Er
+tauchte den Stock, den er in der Hand hielt, mit der Spitze in eine
+Honigwabe und führte den Honig mit der Hand zum Mund. Da leuchteten
+seine Augen wieder.
+
+<<v28>>
+28 Einer aus dem Volk aber sagte: Dein Vater hat das Volk mit einem Eid
+beschworen und gesagt: Verflucht sei jeder, der heute etwas isst. Das
+Volk war aber erschöpft.
+
+<<v29>>
+29 Jonatan erwiderte: Mein Vater stürzt das Land ins Unglück. Seht nur,
+meine Augen leuchten, weil ich ein bisschen von diesem Honig gegessen
+habe.
+
+<<v30>>
+30 Ja, hätte das Volk heute von der Beute, die es gemacht hat,
+ordentlich gegessen! Dann wäre die Niederlage der Philister noch größer
+geworden.
+
+<<v31>>
+31 Die Israeliten schlugen an diesem Tag die Philister (im ganzen
+Gebiet) zwischen Michmas und Ajalon, das Volk aber war sehr erschöpft.
+
+<<v32>>
+32 Deshalb stürzte sich das Volk auf die Beute, nahm Schafe, Rinder und
+Kälber, schlachtete sie, sodass das Blut einfach auf die Erde floss. Und
+das Volk aß (das Fleisch) samt dem Blut. [fn:5] [fn:6]
+
+<<v33>>
+33 Da meldete man Saul: Sieh nur, das Volk versündigt sich gegen den
+Herrn, es isst (das Fleisch) samt dem Blut. Er sagte: Ihr habt ein
+Unrecht begangen. Wälzt sofort einen großen Stein her!
+
+<<v34>>
+34 Und er befahl: Geht unter die Leute und sagt ihnen: Jeder soll sein
+Rind und sein Lamm zu mir bringen und es hier schlachten und essen.
+Versündigt euch nicht gegen den Herrn, indem ihr es samt dem Blut esst.
+Da brachten die Leute noch in der Nacht alles, was sie in der Hand
+hatten, herbei und schlachteten es dort. [fn:7]
+
+<<v35>>
+35 Und Saul erbaute dem Herrn einen Altar. Es war der erste Altar, den
+er dem Herrn erbaute.
+
+<<v36>>
+36 Saul sagte: Wir wollen in der Nacht hinter den Philistern herziehen
+und unter ihnen plündern, bis der Tag anbricht. Keinen von ihnen wollen
+wir übrig lassen. Die Leute antworteten: Tu nur, was du für richtig
+hältst. Der Priester aber sagte: Wir wollen (erst) hier vor Gott
+hintreten.
+
+<<v37>>
+37 Saul fragte also Gott: Soll ich hinter den Philistern herziehen?
+Wirst du sie in die Gewalt Israels geben? Gott aber gab an jenem Tag
+keine Antwort.
+
+<<v38>>
+38 Darauf sagte Saul: Alle Anführer des Volkes, kommt her und forscht
+nach, wodurch diese Sünde heute zustande gekommen ist.
+
+<<v39>>
+39 So wahr der Herr, der Retter Israels, lebt: Selbst wenn es sich um
+meinen Sohn Jonatan handeln würde - er muss sterben. Doch niemand aus
+dem Volk antwortete.
+
+<<v40>>
+40 Saul aber sagte zu allen Israeliten: Ihr sollt auf der einen Seite
+stehen, ich und mein Sohn Jonatan wollen auf der anderen Seite stehen.
+Das Volk antwortete Saul: Tu, was du für richtig hältst.
+
+<<v41>>
+41 Darauf sagte Saul zum Herrn: Gott Israels, gib uns volle Klarheit! Da
+fiel das Los auf Jonatan und Saul, das Volk aber ging frei aus.
+
+<<v42>>
+42 Saul sagte: Werft nun das Los zwischen mir und meinem Sohn Jonatan!
+Das Los fiel auf Jonatan.
+
+<<v43>>
+43 Da sagte Saul zu Jonatan: Sag mir, was hast du getan? Jonatan
+bekannte es ihm und sagte: Ich habe mit der Spitze des Stockes, den ich
+in der Hand hatte, ein wenig Honig genommen und davon versucht. Ich bin
+bereit zu sterben.
+
+<<v44>>
+44 Saul erwiderte: Gott möge mir dies und das antun - Jonatan, du musst
+sterben.
+
+<<v45>>
+45 Aber das Volk sagte zu Saul: Soll Jonatan sterben, der so viel für
+die Rettung Israels getan hat? Das darf nicht sein! So wahr der Herr
+lebt: Ihm soll kein Haar gekrümmt werden. Denn nur mit Gottes Hilfe hat
+er heute diese Tat vollbracht. So befreite das Volk Jonatan und er
+brauchte nicht zu sterben. [fn:8]
+
+<<v46>>
+46 Saul aber gab die Verfolgung der Philister auf und zog wieder hinauf
+und die Philister kehrten in ihre Städte zurück.\\
+\\
+
+<<v47>>
+* Die Kriege Sauls: 14,47-48
+
+47 Als Saul die Königswürde über Israel erlangt hatte, führte er ringsum
+mit all seinen Feinden Krieg: mit Moab und den Ammonitern, mit Edom und
+den Königen von Zoba und mit den Philistern. Wohin er sich auch wandte,
+war er siegreich. [fn:9]
+
+<<v48>>
+48 Er vollbrachte tapfere Taten, schlug Amalek und befreite Israel aus
+der Gewalt derer, die es ausraubten.\\
+\\
+
+<<v49>>
+* Sauls Familie: 14,49-52
+
+49 Die Söhne Sauls waren Jonatan, Jischwi und Malkischua. Die ältere
+seiner beiden Töchter hieß Merab, die jüngere Michal.
+
+<<v50>>
+50 Sauls Frau hieß Ahinoam; sie war eine Tochter des Ahimaaz. Sein
+Heerführer hieß Abner; er war ein Sohn Ners, des Onkels Sauls; [fn:10]
+
+<<v51>>
+51 Kisch, der Vater Sauls, und Ner, der Vater Abners, waren Söhne
+Abiëls.
+
+<<v52>>
+52 Der harte Krieg gegen die Philister hörte nicht auf, solange Saul
+lebte. Jeden starken und kriegstüchtigen Mann, den Saul sah, nahm er in
+seinen Dienst.\\
+\\
+
+* Footnotes
+
+[fn:1] Da ergriffen sie die Flucht: Text korr.; H: Da fielen sie um.
+
+[fn:2] [[file:1.Sam_7.org::v10][7,10]]
+
+[fn:3] 18f: Saul wollte vermutlich Gott befragen, was zu tun sei.
+
+[fn:4] Der erste Teil des Verses ist verderbt, die Übersetzung
+ein Versuch.
+
+[fn:5] [[file:Lev_3.org::v17][Lev 3,17]]
+
+[fn:6] So die vielfach angenommene Deutung von H. Andere
+Übersetzungsmöglichkeit: Und das Volk aß über dem Blut, d. h. auf der
+Stelle, auf die das Blut geflossen war; dadurch wurde sie heiliger
+Bereich.
+
+[fn:7] alles, was: Text korr. nach G. - Der große Stein (V. 32)
+dient als Altar; das Blut als Sitz des Lebens gehört Gott.
+
+[fn:8] [[file:1.Sam_11.org::v13][11,13]]
+
+[fn:9] war er siegreich: Text korr. nach G; H: frevelte er.
+
+[fn:10] [[file:2.Sam_2.org::v8][2 Sam 2,8]]

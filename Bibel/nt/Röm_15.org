@@ -1,0 +1,267 @@
+:PROPERTIES:
+:ID:       86fd520f-ca73-4d9c-b3ff-271d57eb15b2
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Römer* --
+[[file:Röm_1.html][1]] ... [[file:Röm_13.html][13]]
+[[file:Röm_14.html][14]] *15* [[file:Röm_16.html][16]]
+
+--------------
+
+* Röm 15
+  :PROPERTIES:
+  :CUSTOM_ID: röm-15
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Aufruf zur Einmütigkeit in der Gemeinde: 15,1-13
+     :PROPERTIES:
+     :CUSTOM_ID: aufruf-zur-einmütigkeit-in-der-gemeinde-151-13
+     :END:
+1 Wir müssen als die Starken die Schwäche derer tragen, die schwach
+sind, und dürfen nicht für uns selbst leben. ^{[[#fn1][1]]}
+
+<<v2>>
+2 Jeder von uns soll Rücksicht auf den Nächsten nehmen, um Gutes zu tun
+und (die Gemeinde) aufzubauen. ^{[[#fn2][2]]}
+
+<<v3>>
+3 Denn auch Christus hat nicht für sich selbst gelebt; in der Schrift
+heißt es vielmehr: /Die Schmähungen derer, die dich schmähen, haben mich
+getroffen./ ^{[[#fn3][3]]}
+
+<<v4>>
+4 Und alles, was einst geschrieben worden ist, ist zu unserer Belehrung
+geschrieben, damit wir durch Geduld und durch den Trost der Schrift
+Hoffnung haben. ^{[[#fn4][4]]}
+
+<<v5>>
+5 Der Gott der Geduld und des Trostes schenke euch die Einmütigkeit, die
+Christus Jesus entspricht, ^{[[#fn5][5]]}
+
+<<v6>>
+6 damit ihr Gott, den Vater unseres Herrn Jesus Christus, einträchtig
+und mit einem Munde preist.
+
+<<v7>>
+7 Darum nehmt einander an, wie auch Christus uns angenommen hat, zur
+Ehre Gottes. ^{[[#fn6][6]][[#fn7][7]]}
+
+<<v8>>
+8 Denn, das sage ich, Christus ist um der Wahrhaftigkeit Gottes willen
+Diener der Beschnittenen geworden, damit die Verheißungen an die Väter
+bestätigt werden. ^{[[#fn8][8]]}\\
+\\
+
+<<v9>>
+9 Die Heiden aber rühmen Gott um seines Erbarmens willen; es steht ja in
+der Schrift: /Darum will ich dich bekennen unter den Heiden/ /\\
+ /und deinem Namen lobsingen./ ^{[[#fn9][9]]}\\
+\\
+
+<<v10>>
+10 An anderer Stelle heißt es: /Ihr Heiden, freut euch mit seinem Volk!/
+^{[[#fn10][10]]}\\
+\\
+
+<<v11>>
+11 Und es heißt auch: /Lobt den Herrn, alle Heiden,/ /\\
+ /preisen sollen ihn alle Völker./ ^{[[#fn11][11]]}\\
+\\
+
+<<v12>>
+12 Und Jesaja sagt: /Kommen wird der Spross aus der Wurzel Isais;/ /\\
+ /er wird sich erheben,/ /\\
+ /um über die Heiden zu herrschen./ /\\
+ /Auf ihn werden die Heiden hoffen./ ^{[[#fn12][12]]}\\
+\\
+
+<<v13>>
+13 Der Gott der Hoffnung aber erfülle euch mit aller Freude und mit
+allem Frieden im Glauben, damit ihr reich werdet an Hoffnung in der
+Kraft des Heiligen Geistes. ^{[[#fn13][13]]}\\
+\\
+
+<<v14>>
+** Der Schluss des Briefes: 15,14 - 16,27
+   :PROPERTIES:
+   :CUSTOM_ID: der-schluss-des-briefes-1514---1627
+   :END:
+**** Die Reisepläne des Paulus: 15,14-29
+     :PROPERTIES:
+     :CUSTOM_ID: die-reisepläne-des-paulus-1514-29
+     :END:
+14 Meine Brüder, ich bin fest davon überzeugt, dass ihr viel Gutes tut,
+dass ihr reiche Erkenntnis besitzt und selbst imstande seid, einander
+zurechtzuweisen. ^{[[#fn14][14]][[#fn15][15]]}
+
+<<v15>>
+15 Um euch aber einiges in Erinnerung zu rufen, habe ich euch einen
+teilweise sehr deutlichen Brief geschrieben. Ich tat es kraft der Gnade,
+die mir von Gott gegeben ist, ^{[[#fn16][16]]}
+
+<<v16>>
+16 damit ich als Diener Christi Jesu für die Heiden wirke und das
+Evangelium Gottes wie ein Priester verwalte; denn die Heiden sollen eine
+Opfergabe werden, die Gott gefällt, geheiligt im Heiligen Geist.
+^{[[#fn17][17]]}
+
+<<v17>>
+17 In Christus Jesus kann ich mich also vor Gott rühmen.
+^{[[#fn18][18]]}
+
+<<v18>>
+18 Denn ich wage nur von dem zu reden, was Christus, um die Heiden zum
+Gehorsam zu führen, durch mich in Wort und Tat bewirkt hat,
+^{[[#fn19][19]]}
+
+<<v19>>
+19 in der Kraft von Zeichen und Wundern, in der Kraft des Geistes
+Gottes. So habe ich von Jerusalem aus in weitem Umkreis bis nach
+Illyrien überallhin das Evangelium Christi gebracht. ^{[[#fn20][20]]}
+
+<<v20>>
+20 Dabei habe ich darauf geachtet, das Evangelium nicht dort zu
+verkündigen, wo der Name Christi schon bekannt gemacht war, um nicht auf
+einem fremden Fundament zu bauen;\\
+\\
+
+<<v21>>
+21 denn es heißt in der Schrift: /Sehen werden die, denen nichts über
+ihn verkündet wurde,/ /\\
+ /und die werden verstehen, die nichts gehört haben./ ^{[[#fn21][21]]}\\
+\\
+
+<<v22>>
+22 Das ist es auch, was mich immer wieder gehindert hat, zu euch zu
+kommen. ^{[[#fn22][22]]}
+
+<<v23>>
+23 Jetzt aber habe ich in diesen Gegenden kein neues Arbeitsfeld mehr.
+Außerdem habe ich mich seit vielen Jahren danach gesehnt, zu euch zu
+kommen, ^{[[#fn23][23]]}
+
+<<v24>>
+24 wenn ich einmal nach Spanien reise; auf dem Weg dorthin hoffe ich
+euch zu sehen und dann von euch für die Weiterreise ausgerüstet zu
+werden, nachdem ich mich einige Zeit an euch erfreut habe.
+
+<<v25>>
+25 Doch jetzt gehe ich zuerst nach Jerusalem, um den Heiligen einen
+Dienst zu erweisen. ^{[[#fn24][24]][[#fn25][25]]}
+
+<<v26>>
+26 Denn Mazedonien und Achaia haben eine Sammlung beschlossen für die
+Armen unter den Heiligen in Jerusalem. ^{[[#fn26][26]]}
+
+<<v27>>
+27 Sie haben das beschlossen, weil sie ihre Schuldner sind. Denn wenn
+die Heiden an ihren geistlichen Gütern Anteil erhalten haben, so sind
+sie auch verpflichtet, ihnen mit irdischen Gütern zu dienen.
+^{[[#fn27][27]]}
+
+<<v28>>
+28 Wenn ich diese Aufgabe erfüllt und ihnen den Ertrag der Sammlung
+ordnungsgemäß übergeben habe, will ich euch besuchen und dann nach
+Spanien weiterreisen.
+
+<<v29>>
+29 Ich weiß aber, wenn ich zu euch komme, werde ich mit der Fülle des
+Segens Christi kommen. ^{[[#fn28][28]]}\\
+\\
+
+<<v30>>
+**** Aufforderung zur Fürbitte: 15,30-33
+     :PROPERTIES:
+     :CUSTOM_ID: aufforderung-zur-fürbitte-1530-33
+     :END:
+30 Ich bitte euch, meine Brüder, im Namen Jesu Christi, unseres Herrn,
+und bei der Liebe des Geistes: Steht mir bei, und betet für mich zu
+Gott, ^{[[#fn29][29]]}
+
+<<v31>>
+31 dass ich vor den Ungläubigen in Judäa gerettet werde, dass mein
+Dienst in Jerusalem von den Heiligen dankbar aufgenommen wird
+^{[[#fn30][30]]}
+
+<<v32>>
+32 und dass ich, wenn es Gottes Wille ist, voll Freude zu euch kommen
+kann, um mit euch eine Zeit der Ruhe zu verbringen. ^{[[#fn31][31]]}
+
+<<v33>>
+33 Der Gott des Friedens sei mit euch allen! Amen. ^{[[#fn32][32]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 14,1f
+
+^{[[#fnm2][2]]} ℘ 14,19
+
+^{[[#fnm3][3]]} ℘ Ps 69,10
+
+^{[[#fnm4][4]]} ℘ 1 Kor 10,11; 2 Tim 3,16
+
+^{[[#fnm5][5]]} ℘ 12,16; Phil 2,2; 4,2
+
+^{[[#fnm6][6]]} ℘ 14,1
+
+^{[[#fnm7][7]]} 7-13: Was für das Zusammenleben der Starken und der
+Schwachen in Rom gilt (vgl. 14,1 - 15,6), gilt ebenso für die
+Zusammengehörigkeit der Juden- und Heidenchristen in der einen Kirche.
+
+^{[[#fnm8][8]]} ℘ 11,29f; Mt 15,24
+
+^{[[#fnm9][9]]} ℘ Ps 18,50
+
+^{[[#fnm10][10]]} ℘ Dtn 32,43 G
+
+^{[[#fnm11][11]]} ℘ Ps 117,1
+
+^{[[#fnm12][12]]} ℘ Jes 11,1.10 G; Offb 5,5
+
+^{[[#fnm13][13]]} ℘ 5,1f
+
+^{[[#fnm14][14]]} ℘ Phil 1,9
+
+^{[[#fnm15][15]]} 14-16: Nochmaliger Hinweis auf die Absicht des Briefs.
+
+^{[[#fnm16][16]]} ℘ 1,5
+
+^{[[#fnm17][17]]} ℘ 11,13
+
+^{[[#fnm18][18]]} 17-24: Bei seinen Reiseplänen erwähnt Paulus Jerusalem
+und Illyrien (entspricht etwa dem heutigen Jugoslawien) als Grenzpunkte
+seines bisherigen Wirkens. Damit meint er, dass sich seine
+missionarische Tätigkeit bis in diese Bereiche hinein ausgewirkt hat,
+auch wenn er wahrscheinlich nicht selbst dort wirkte.
+
+^{[[#fnm19][19]]} ℘ 2 Kor 3,5
+
+^{[[#fnm20][20]]} ℘ 2 Kor 12,12
+
+^{[[#fnm21][21]]} ℘ Jes 52,15
+
+^{[[#fnm22][22]]} ℘ 1,13
+
+^{[[#fnm23][23]]} ℘ 1,10f
+
+^{[[#fnm24][24]]} ℘ Apg 19,21; 24,17
+
+^{[[#fnm25][25]]} 25-33: Zur Kollekte für Jerusalem vgl. 1 Kor 16,1-4; 2
+Kor 8 und 9; Gal 2,10.
+
+^{[[#fnm26][26]]} ℘ Apg 11,29; 1 Kor 16,1; 2 Kor 9,2.12
+
+^{[[#fnm27][27]]} ℘ 1 Kor 9,11
+
+^{[[#fnm28][28]]} ℘ 1,11
+
+^{[[#fnm29][29]]} ℘ 2 Kor 1,11; Phil 1,27; Eph 6,18f
+
+^{[[#fnm30][30]]} ℘ Apg 21,10f
+
+^{[[#fnm31][31]]} ℘ 1,10
+
+^{[[#fnm32][32]]} ℘ 16,20; 1 Thess 5,23; 2 Thess 3,16

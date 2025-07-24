@@ -1,0 +1,94 @@
+#+TITLE: 2 Sam 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-08 Mi 07:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 4.html
+
+<<verses>>
+
+<<v1>>
+* Ischbaals Tod: 4,1-12
+
+1 Als Ischbaal, der Sohn Sauls, hörte, dass Abner in Hebron ums Leben
+gekommen war, verlor er allen Mut und ganz Israel war bestürzt. [fn:1]
+
+<<v2>>
+2 Der Sohn Sauls hatte zwei Männer als Truppenführer; der eine hieß
+Baana, der andere Rechab; sie waren Söhne Rimmons aus Beerot,
+Benjaminiter; denn auch Beerot wird zu Benjamin gerechnet.
+
+<<v3>>
+3 Die Beerotiter sind nämlich einst nach Gittajim geflohen und leben
+dort bis zum heutigen Tag als Fremde.
+
+<<v4>>
+4 Jonatan, der Sohn Sauls, hatte einen Sohn, der an beiden Füßen gelähmt
+war. Er war fünf Jahre alt gewesen, als die Nachricht vom Tod Sauls und
+Jonatans aus Jesreel eintraf; seine Amme hatte ihn aufgehoben, um mit
+ihm zu fliehen, aber in der Eile der Flucht war er ihr vom Arm gefallen;
+seitdem war er gelähmt. Sein Name war Merib-Baal. [fn:2] [fn:3]
+
+<<v5>>
+5 Rechab und Baana, die Söhne Rimmons aus Beerot, machten sich auf den
+Weg und kamen um die heißeste Zeit des Tages zum Haus Ischbaals, der
+eben seine Mittagsruhe hielt. [fn:4]
+
+<<v6>>
+6 Die Türhüterin des Hauses war beim Weizenreinigen schläfrig geworden
+und eingeschlafen; [fn:5]
+
+<<v7>>
+7 so konnten Rechab und sein Bruder Baana unbemerkt in das Haus
+eindringen. Ischbaal lag in seinem Schlafzimmer auf dem Bett. Sie
+schlugen ihn tot, hieben ihm den Kopf ab und nahmen den Kopf mit. Sie
+gingen die ganze Nacht hindurch auf dem Weg durch die Araba,
+
+<<v8>>
+8 brachten den Kopf Ischbaals zu David nach Hebron und sagten zum König:
+Da ist der Kopf deines Feindes Ischbaal, des Sohnes Sauls, der dir nach
+dem Leben trachtete. Aber der Herr hat heute unserem Herrn, dem König,
+Rache an Saul und seinen Nachkommen verschafft.
+
+<<v9>>
+9 David erwiderte Rechab und seinem Bruder Baana, den Söhnen Rimmons aus
+Beerot: So wahr der Herr lebt, der mich aus aller Not befreit hat:
+
+<<v10>>
+10 Den, der mir die Nachricht gebracht hat: Saul ist tot!, und der
+gemeint hat, ein Freudenbote zu sein, den habe ich in Ziklag ergreifen
+und umbringen lassen; so gab ich ihm den verdienten Botenlohn. [fn:6]
+
+<<v11>>
+11 Und wenn nun ruchlose Männer einen rechtschaffenen Mann in seinem
+Haus auf seinem Bett erschlagen haben, sollte ich dann nicht sein Blut
+von euch zurückfordern und euch von der Erde austilgen?
+
+<<v12>>
+12 Und David gab seinen Leuten den Befehl, sie zu töten; sie taten es.
+Sie schlugen ihnen Hände und Füße ab und hängten die Leichen am Teich
+von Hebron auf. Den Kopf Ischbaals aber nahmen sie und begruben ihn im
+Grab Abners in Hebron.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:2.Sam_3.org::v27][3,27]]
+
+[fn:2] [[file:2.Sam_9.org::v3][9,3]]
+
+[fn:3] Merib-Baal: So lautet der Name richtig (vgl. [[file:1.Chr_8.org::v34][1 Chr 8,34]]; [[file:1.Chr_9.org::v40][9,40]]);
+er wurde ähnlich wie der Name Ischbaal (vgl. Anm. zu [[file:2.Sam_2.org::v8][2,8]]) in H
+verunstaltet zu Mefiboschet.
+
+[fn:4] [[file:2.Sam_2.org::v8][2,8]]
+
+[fn:5] Text korr. nach G; in H nimmt V. 6, teilweise mit
+anderem Inhalt, V. 7 vorweg.
+
+[fn:6] [[file:2.Sam_1.org::v15][1,15]]

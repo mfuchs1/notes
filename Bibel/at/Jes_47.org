@@ -1,0 +1,145 @@
+:PROPERTIES:
+:ID:       aff5baf8-7d04-41d0-8c8a-85ab64d1d237
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_45.html][45]] [[file:Jes_46.html][46]] *47*
+[[file:Jes_48.html][48]] [[file:Jes_49.html][49]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 47
+  :PROPERTIES:
+  :CUSTOM_ID: jes-47
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Der Sturz Babels: 47,1-15
+     :PROPERTIES:
+     :CUSTOM_ID: der-sturz-babels-471-15
+     :END:
+1 Steig herab, Tochter Babel, /\\
+ Jungfrau, setz dich in den Staub! Setz dich auf die Erde; /\\
+ es gibt keinen Thron mehr (für dich), Tochter Chaldäas. /\\
+ Jetzt nennt man dich nicht mehr die Feine, die Zarte. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Nimm die Mühle und mahle das Mehl! /\\
+ Weg mit dem Schleier! Heb deine Schleppe hoch, entblöße die Beine /\\
+ und wate durchs Wasser! ^{[[#fn2][2]]}\\
+\\
+
+<<v3>>
+3 Deine Scham wird entblößt, /\\
+ man sieht deine Schande. Unerbittlich nehme ich Rache, /\\
+\\
+
+<<v4>>
+4 spricht unser Erlöser; «Herr der Heere» heißt er /\\
+ und «Der Heilige Israels». ^{[[#fn3][3]]}\\
+\\
+
+<<v5>>
+5 Setz dich hin und verstumme! /\\
+ Geh hinaus ins Dunkel, Tochter Chaldäas! Denn nun nennt dich niemand
+mehr /\\
+ «Herrin der Reiche».\\
+\\
+
+<<v6>>
+6 Ich war zornig über mein Volk, /\\
+ ich entweihte mein Erbe /\\
+ und gab es in deine Gewalt. Doch du hast ihm kein Erbarmen geschenkt,
+/\\
+ du hast den Greisen ein zu schweres Joch auferlegt.\\
+\\
+
+<<v7>>
+7 Du dachtest: /\\
+ Ich bleibe für immer und ewig die Herrin. Du hast dir das alles nicht
+zu Herzen genommen, /\\
+ hast nie an das Ende gedacht.\\
+\\
+
+<<v8>>
+8 Nun aber höre, du üppiges Weib, /\\
+ die du in Sicherheit lebst /\\
+ und in deinem Herzen denkst: Ich und sonst niemand! /\\
+ Niemals sitze ich da als Witwe, /\\
+ Kinderlosigkeit kenne ich nicht. ^{[[#fn4][4]]}\\
+\\
+
+<<v9>>
+9 Doch beides wird dich ereilen, /\\
+ plötzlich, am gleichen Tag: Kinderlos wirst du und Witwe, /\\
+ in voller Schwere trifft dich das Unheil, trotz all deiner Zauberei /\\
+ und trotz der Macht deiner beschwörenden Formeln. ^{[[#fn5][5]]}\\
+\\
+
+<<v10>>
+10 Du hast dich auf deine bösen Taten verlassen /\\
+ und gedacht: Es sieht mich ja keiner. Deine Weisheit und dein Wissen
+verleiteten dich, in deinem Herzen zu denken: /\\
+ Ich und sonst niemand! ^{[[#fn6][6]]}\\
+\\
+
+<<v11>>
+11 Doch es wird ein Unheil über dich kommen, /\\
+ das du nicht wegzaubern kannst. Ein Verderben wird dich überfallen, /\\
+ das du nicht zu bannen vermagst. Und plötzlich wird dein Untergang
+kommen, /\\
+ an den du niemals gedacht hast.\\
+\\
+
+<<v12>>
+12 Dann stell dich hin /\\
+ mit deinen beschwörenden Formeln und mit deinen vielen Zaubersprüchen,
+/\\
+ mit denen du dich seit deiner Jugend abgemüht hast. Vielleicht kannst
+du dir helfen, /\\
+ vielleicht das Unglück verscheuchen. ^{[[#fn7][7]]}\\
+\\
+
+<<v13>>
+13 Du hast dir große Mühe gemacht /\\
+ mit deinen vielen Beratern; sollen sie doch auftreten und dich retten,
+/\\
+ sie, die den Himmel deuten und die Sterne betrachten, /\\
+ die dir an jedem Neumond verkünden, was kommt.\\
+\\
+
+<<v14>>
+14 Wie die Spreu werden sie sein, /\\
+ die das Feuer verbrennt. Sie können sich nicht retten /\\
+ vor der Gewalt der Flammen. Das wird keine Glut sein, an der man sich
+wärmt, /\\
+ kein Feuer, um das man herumsitzt.\\
+\\
+
+<<v15>>
+15 So geht es all deinen Zauberern, /\\
+ um die du dich seit deiner Jugend bemüht hast. Sie machen sich alle
+davon, /\\
+ keiner will dir mehr helfen.\\
+\\
+
+^{[[#fnm1][1]]} 1f: Aus der Königin wird beim Gericht Gottes eine
+Sklavin.
+
+^{[[#fnm2][2]]} ℘ Nah 3,5
+
+^{[[#fnm3][3]]} spricht: ergänzt mit G.
+
+^{[[#fnm4][4]]} ℘ Zef 2,15; Offb 18,7
+
+^{[[#fnm5][5]]} ℘ 47,12
+
+^{[[#fnm6][6]]} 10-13: In Babylonien standen Magie und Astrologie in
+hoher Blüte.
+
+^{[[#fnm7][7]]} ℘ 47,9; Dan 2,2

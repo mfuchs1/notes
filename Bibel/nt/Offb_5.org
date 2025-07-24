@@ -1,0 +1,131 @@
+:PROPERTIES:
+:ID:       b1045718-a234-40cc-8f0a-47aaa7854843
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Offenbarung des Johannes* --
+[[file:Offb_1.html][1]] ... [[file:Offb_3.html][3]]
+[[file:Offb_4.html][4]] *5* [[file:Offb_6.html][6]]
+[[file:Offb_7.html][7]] ... [[file:Offb_22.html][22]]
+
+--------------
+
+* Offb 5
+  :PROPERTIES:
+  :CUSTOM_ID: offb-5
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das versiegelte Buch und das Lamm: 5,1-14
+     :PROPERTIES:
+     :CUSTOM_ID: das-versiegelte-buch-und-das-lamm-51-14
+     :END:
+1 Und ich sah auf der rechten Hand dessen, /der auf dem Thron saß, eine
+Buchrolle; sie/ war /innen und außen beschrieben/ und mit sieben Siegeln
+/versiegelt./ ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Und ich sah: Ein gewaltiger Engel rief mit lauter Stimme: Wer ist
+würdig, die Buchrolle zu öffnen und ihre Siegel zu lösen?
+
+<<v3>>
+3 Aber niemand im Himmel, auf der Erde und unter der Erde konnte das
+Buch öffnen und es lesen.
+
+<<v4>>
+4 Da weinte ich sehr, weil niemand für würdig befunden wurde, das Buch
+zu öffnen und es zu lesen.
+
+<<v5>>
+5 Da sagte einer von den Ältesten zu mir: Weine nicht! Gesiegt hat /der
+Löwe/ aus dem Stamm /Juda, der Spross aus der Wurzel/ Davids; er kann
+das Buch und seine sieben Siegel öffnen. ^{[[#fn3][3]]}
+
+<<v6>>
+6 Und ich sah: Zwischen dem Thron und den vier Lebewesen und mitten
+unter den Ältesten stand /ein Lamm;/ es sah aus wie /geschlachtet/ und
+hatte sieben Hörner und /sieben Augen;/ die Augen sind die sieben
+Geister Gottes, die /über die ganze Erde/ ausgesandt sind.
+^{[[#fn4][4]]}
+
+<<v7>>
+7 Das Lamm trat heran und empfing das Buch aus der rechten Hand dessen,
+/der auf dem Thron saß./ ^{[[#fn5][5]]}
+
+<<v8>>
+8 Als es das Buch empfangen hatte, fielen die vier Lebewesen und die
+vierundzwanzig Ältesten vor dem Lamm nieder; alle trugen Harfen und
+goldene Schalen voll von /Räucherwerk;/ das sind /die Gebete/ der
+Heiligen. ^{[[#fn6][6]]}\\
+\\
+
+<<v9>>
+9 Und sie sangen ein /neues Lied:/ Würdig bist du, /\\
+ das Buch zu nehmen und seine Siegel zu öffnen; denn du wurdest
+geschlachtet /\\
+ und hast mit deinem Blut /\\
+ Menschen für Gott erworben /\\
+ aus allen Stämmen und Sprachen, /\\
+ aus allen Nationen und Völkern ^{[[#fn7][7]]}\\
+\\
+
+<<v10>>
+10 und du hast sie für unsern Gott /\\
+ zu Königen und /Priestern/ gemacht; /\\
+ und sie werden auf der Erde herrschen. ^{[[#fn8][8]]}\\
+\\
+
+<<v11>>
+11 Ich sah und ich hörte die Stimme von vielen Engeln rings um den Thron
+und um die Lebewesen und die Ältesten; die Zahl der Engel war
+/zehntausendmal zehntausend und tausendmal tausend./ ^{[[#fn9][9]]}\\
+\\
+
+<<v12>>
+12 Sie riefen mit lauter Stimme: Würdig ist /das Lamm, das geschlachtet
+wurde,/ /\\
+ Macht zu empfangen, Reichtum und Weisheit, /\\
+ Kraft und Ehre, Herrlichkeit und Lob. ^{[[#fn10][10]]}\\
+\\
+
+<<v13>>
+13 Und alle Geschöpfe im Himmel und auf der Erde, unter der Erde und auf
+dem Meer, alles, was in der Welt ist, hörte ich sprechen: Ihm, /der auf
+dem Thron sitzt,/ und dem Lamm /\\
+ gebühren Lob und Ehre und Herrlichkeit und Kraft in alle Ewigkeit.
+^{[[#fn11][11]]}
+
+<<v14>>
+14 Und die vier Lebewesen sprachen: Amen. Und die vierundzwanzig
+Ältesten fielen nieder und beteten an.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Jes 6,1; Ez 2,9f; Jes 29,11
+
+^{[[#fnm2][2]]} 1-11: In der Buchrolle (vgl. Ez 2,9f) sind die von Gott
+vorherbestimmten Ereignisse der Endzeit aufgezeichnet. Der auferstandene
+Christus wird die sieben Siegel des Buches lösen und dadurch das
+Geschehen der Endzeit in Gang setzen. Wie die Visionen von den sieben
+Siegeln (6,1 - 8,1) sind auch die Visionen von den sieben Posaunen
+(8,2 - 11,19) und die darauf folgenden Ereignisse (ab Kap. 12) als
+Inhalt der versiegelten Buchrolle gedacht.
+
+^{[[#fnm3][3]]} ℘ Gen 49,9; Jes 11,10
+
+^{[[#fnm4][4]]} ℘ Jes 53,7; Sach 4,10
+
+^{[[#fnm5][5]]} ℘ Jes 6,1
+
+^{[[#fnm6][6]]} ℘ Ps 141,2
+
+^{[[#fnm7][7]]} ℘ Ps 33,3
+
+^{[[#fnm8][8]]} ℘ 1,6; Ex 19,6; Jes 61,6
+
+^{[[#fnm9][9]]} ℘ Dan 7,10
+
+^{[[#fnm10][10]]} ℘ Jes 53,7
+
+^{[[#fnm11][11]]} ℘ Jes 6,1

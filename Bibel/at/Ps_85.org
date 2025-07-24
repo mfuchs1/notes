@@ -1,0 +1,117 @@
+#+TITLE: Ps 85 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-04 So 11:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 85.html
+
+* Ps 85
+
+<<verses>>
+
+<<v1>>
+* Bitte um das verheißene Heil
+
+1 [Für den Chormeister. Ein Psalm der Korachiter.]\\
+\\
+
+<<v2>>
+2 Einst hast du, Herr, dein Land begnadet /\\
+ und Jakobs Unglück gewendet, [fn:1]\\
+\\
+
+<<v3>>
+3 hast deinem Volk die Schuld vergeben, /\\
+ all seine Sünden zugedeckt, [Sela] [fn:2]\\
+\\
+
+<<v4>>
+4 hast zurückgezogen deinen ganzen Grimm /\\
+ und deinen glühenden Zorn gedämpft.\\
+\\
+
+<<v5>>
+5 Gott, unser Retter, richte uns wieder auf, /\\
+ lass von deinem Unmut gegen uns ab! [fn:3] [fn:4]\\
+\\
+
+<<v6>>
+6 Willst du uns ewig zürnen, /\\
+ soll dein Zorn dauern von Geschlecht zu Geschlecht? [fn:5]\\
+\\
+
+<<v7>>
+7 Willst du uns nicht wieder beleben, /\\
+ sodass dein Volk sich an dir freuen kann?\\
+\\
+
+<<v8>>
+8 Erweise uns, Herr, deine Huld /\\
+ und gewähre uns dein Heil!\\
+\\
+
+<<v9>>
+9 Ich will hören, was Gott redet: /\\
+ Frieden verkündet der Herr seinem Volk und seinen Frommen, /\\
+ den Menschen mit redlichem Herzen. [Sela] [fn:6] [fn:7]\\
+\\
+
+<<v10>>
+10 Sein Heil ist denen nahe, die ihn fürchten. /\\
+ Seine Herrlichkeit wohne in unserm Land.\\
+\\
+
+<<v11>>
+11 Es begegnen einander Huld und Treue; /\\
+ Gerechtigkeit und Friede küssen sich. [fn:8]\\
+\\
+
+<<v12>>
+12 Treue sprosst aus der Erde hervor; /\\
+ Gerechtigkeit blickt vom Himmel hernieder. [fn:9]\\
+\\
+
+<<v13>>
+13 Auch spendet der Herr dann Segen /\\
+ und unser Land gibt seinen Ertrag. [fn:10] [fn:11]\\
+\\
+
+<<v14>>
+14 Gerechtigkeit geht vor ihm her /\\
+ und Heil folgt der Spur seiner Schritte. [fn:12] [fn:13]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Jer_31.org::v23][Jer 31,23]]
+
+[fn:2] [[file:Ps_32.org::v1][32,1]]
+
+[fn:3] [[file:Ps_80.org::v4][80,4]]
+
+[fn:4] Wörtlich: zerbrich deinen Unmut gegen uns!
+
+[fn:5] [[file:Ps_77.org::v8][77,8]]; [[file:Ps_79.org::v5][79,5]]
+
+[fn:6] [[file:Jer_29.org::v11][Jer 29,11]]
+
+[fn:7] H fügt hinzu: und sie sollen nicht zur Torheit
+zurückkehren.
+
+[fn:8] [[file:Ps_61.org::v8][61,8]]; [[file:Ps_89.org::v15][89,15]]
+
+[fn:9] [[file:Jes_45.org::v8][Jes 45,8]]
+
+[fn:10] [[file:Ps_67.org::v7][67,7]]
+
+[fn:11] Segen, wörtlich: das Gute.
+
+[fn:12] [[file:Jes_58.org::v8][Jes 58,8]]
+
+[fn:13] Text korr.; H: er achtet auf den Weg seiner Schritte.

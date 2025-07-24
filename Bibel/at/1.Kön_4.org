@@ -1,0 +1,110 @@
+#+TITLE: 1 Kön 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-12 So 14:30]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 4.html
+
+<<verses>>
+
+<<v1>>
+* Die Verwaltung des Reiches: 4,1 - 5,8
+
+1 König Salomo war König von ganz Israel. [fn:1]
+
+<<v2>>
+2 Dies waren seine obersten Beamten: Asarja, der Enkel Zadoks, war
+Priester.
+
+<<v3>>
+3 Elihoref und Ahija, die Söhne Schischas, waren Staatsschreiber,
+Joschafat, der Sohn Ahiluds, war Sprecher des Königs.
+
+<<v4>>
+4 Benaja, der Sohn Jojadas, war Heerführer [Zadok und Abjatar waren
+Priester].
+
+<<v5>>
+5 Asarja, der Sohn Natans, war Vorgesetzter der Statthalter. Sabud, der
+Sohn Natans, war der Freund des Königs, [fn:2]
+
+<<v6>>
+6 Ahischar war Palastvorsteher und Adoniram, der Sohn Abdas, war
+Aufseher über die Fronarbeiten.
+
+<<v7>>
+7 Salomo hatte zwölf Statthalter für ganz Israel, die den König und sein
+Haus versorgten. Je einen Monat im Jahr hatte ihn jeder zu versorgen. [fn:3]
+
+<<v8>>
+8 Das sind ihre Namen: Der Sohn Hurs (war Statthalter) im Gebirge
+Efraim,
+
+<<v9>>
+9 der Sohn Dekers in Makaz, Schaalbim, Bet-Schemesch, Elon und
+Bet-Hanan,
+
+<<v10>>
+10 der Sohn Heseds in Arubbot. Ihm unterstanden Socho und das ganze
+Gebiet von Hefer.
+
+<<v11>>
+11 Dem Sohn Abinadabs unterstand der ganze Höhenrücken von Dor. Er hatte
+Tafat, eine Tochter Salomos, zur Frau.
+
+<<v12>>
+12 Baana, der Sohn Ahiluds, verwaltete Taanach, Megiddo und ganz
+Bet-Schean, das an der Seite von Zaretan unterhalb von Jesreel liegt,
+(das ist das ganze Gebiet) von Bet-Schean bis Abel-Mehola und bis über
+Jokneam hinaus.
+
+<<v13>>
+13 Der Sohn Gebers (war Statthalter) in Ramot-Gilead. Ihm unterstanden
+die Zeltdörfer Jaïrs, des Sohnes des Manasse, in Gilead und der Kreis
+Argob im Baschan, sechzig große Städte mit Mauern und bronzenen
+Torriegeln.
+
+<<v14>>
+14 Ahinadab, der Sohn Iddos, (war Statthalter) in Mahanajim,
+
+<<v15>>
+15 Ahimaaz in Naftali. Auch er hatte eine Tochter Salomos, nämlich
+Basemat, zur Frau.
+
+<<v16>>
+16 Baana, der Sohn Huschais, (war Statthalter) in Ascher und Bealot,
+
+<<v17>>
+17 Joschafat, der Sohn Paruachs, in Issachar,
+
+<<v18>>
+18 Schimi, der Sohn Elas, in Benjamin.
+
+<<v19>>
+19 Geber, der Sohn Uris, (verwaltete) in Gilead das Land Sihons, des
+Königs der Amoriter, und Ogs, des Königs des Baschan. Dazu kam ein Vogt
+im Land Juda.
+
+<<v20>>
+20 Das Volk von Juda und Israel war zahlreich wie der Sand am Meer. Es
+hatte zu essen und zu trinken und war glücklich.
+
+* Footnotes
+
+[fn:1] 1-6: Die Besetzung der Ämter entspricht der späteren
+Zeit Salomos. Der Priester Zadok ist bereits durch seinen Enkel (1 Chr
+5,34f) ersetzt. Die Schaffung der Ämter eines Palastvorstehers, eines
+Freundes des Königs und eines Vorgesetzten der Statthalter, die in den
+Listen Davids noch fehlen, zeigt den Fortschritt im Ausbau der
+Verwaltung.
+
+[fn:2] «Freund des Königs» ist hier Amtsbezeichnung. In H steht
+vor dem Titel «Freund» noch das Wort «Priester».
+
+[fn:3] 7-19: Die Gaueinteilung erfasste nur das Gebiet, aus dem
+später das Nordreich Israel entstand.

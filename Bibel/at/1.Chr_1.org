@@ -1,0 +1,290 @@
+
+#+TITLE: 1 Chr 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 21:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 1.html
+
+* Die Bücher der Chronik
+
+Die Chronik-Bücher tragen in der hebräischen Bibel die Überschrift
+»Ereignisse der Tage«. Der Name »Chronik« stammt vom Kirchenlehrer
+Hieronymus, der die Bücher als »Chronik der gesamten göttlichen
+Geschichte« bezeichnete. Sie behandeln die Geschichte von Adam bis zum
+Ende des Babylonischen Exils.\\
+\\
+Der erste Teil (Kap. 1 - 9) besteht überwiegend aus Namenslisten, die
+zumeist genealogisch geordnet sind, die Gliederung des Volkes in Stämme
+berücksichtigen, eingehender aber nur die königliche und die
+priesterlich-levitische Linie aufführen. Gelegentlich sind
+geschichtliche Notizen eingestreut. Erst in 1 Chr 10 beginnt die
+Darstellung der Geschichte Davids, die bis zum Ende des ersten Buches
+reicht. Es folgt die Geschichte Salomos (2 Chr 1 - 9) und die Geschichte
+Judas bis zum Untergang des Reichs (2 Chr 10 - 36). Die in 1 Chr 10
+beginnende Geschichte umfasst den gleichen Zeitraum, der auch in 2 Sam
+und in den Büchern der Könige behandelt wird; größere Abschnitte sind
+von dort wörtlich übernommen.\\
+\\
+Eine umfassende Darstellung der Ereignisse ist nicht angestrebt. Im
+Mittelpunkt des Interesses stehen das von Gott auserwählte Herrscherhaus
+David und das auf Gottes Weisung hin gestiftete Heiligtum in Jerusalem.
+Auf die Geschichte des Nordreichs, das sich von der Dynastie David
+losgelöst hatte, wird nur selten Bezug genommen und selbst in der
+Geschichte Davids bleibt unerwähnt, was nicht dem beabsichtigten Ziel
+dient, nämlich der Verherrlichung des davidischen Königtums und des
+Kultes in Jerusalem. Ausführlich werden die Leistungen der einzelnen
+Könige für den Bau und für die Erhaltung des Tempels und ihre Sorge für
+den Gottesdienst beschrieben. Der Bericht über den Bau des Tempels, der
+von David vorbereitet und von Salomo ausgeführt wurde, zeigt durch
+seinen größeren Umfang und seine Stellung in der Mitte des Werkes die
+Bedeutung des Heiligtums im Glauben Israels an.\\
+\\
+Der Verfasser ist unbekannt. Aus der Vorliebe, mit der er von den
+Tempelsängern berichtet, hat man geschlossen, dass er aus ihrem Kreis
+stammt. In 1 Chr 3,19-24 werden fünf Generationen nach Serubbabel, der
+seit 537 v. Chr. in Jerusalem tätig war, gezählt. Wenn der Verfasser
+damit die Vertreter der davidischen Linie bis zu seiner Zeit mitgeteilt
+hat, ergibt sich die Zeit um 400 v. Chr. als Abfassungszeit der Bücher.
+Doch ist eine spätere Abfassung nicht auszuschließen.\\
+\\
+Die Zuverlässigkeit des Chronisten wurde vielfach bestritten. Man warf
+ihm vor, dass er die geschichtlichen Vorgänge nach seinem rigorosen
+Vergeltungsglauben einseitig darstelle und Verhältnisse der späteren
+Zeit in frühere Jahre verlege. Diese Fragen bedürfen in jedem einzelnen
+Fall einer besonderen Prüfung. Größere Abschnitte der Chronik sind
+jedenfalls geschichtlich zuverlässigen Berichten der Königsbücher
+entnommen; an der Geschichtlichkeit zahlreicher Mitteilungen, die der
+Verfasser anderen Quellen entnimmt, zu zweifeln, besteht kein Grund. Man
+muss die Arbeitsweise des Verfassers berücksichtigen: Er war von der
+mosaischen Herkunft der gottesdienstlichen Vorschriften des Pentateuch
+und ihrer dauernden Geltung überzeugt und hielt es daher für angebracht,
+mit Urkunden und Ordnungen einer späteren Zeit Vorgänge und Verhältnisse
+früherer Zeiten zu beschreiben. Daher sind die Bücher der Chronik vor
+allem für das Verständnis der Zeit des Verfassers bedeutsam. Er selbst
+will in erster Linie der religiösen Belehrung seiner Zeitgenossen
+dienen.\\
+\\
+
+<<verses>>
+
+<<v1>>
+
+* Geschlechtsregister und Familienlisten: 1,1 - 9,44
+
+* Die Nachkommen Adams bis Abraham: 1,1-27
+
+Adam, Set, Enosch, [fn:1]
+
+<<v2>>
+2 Kenan, Mahalalel, Jered,
+
+<<v3>>
+3 Henoch, Metuschelach, Lamech,
+
+<<v4>>
+4 Noach, Sem, Ham und Jafet.
+
+<<v5>>
+5 Die Söhne Jafets waren: Gomer, Magog, Madai, Jawan, Tubal, Meschech
+und Tiras.
+
+<<v6>>
+6 Die Söhne Gomers waren: Aschkenas, Rifat und Togarma.
+
+<<v7>>
+7 Die Söhne Jawans waren: Elischa, Tarschisch, die Kittäer und die
+Rodaniter.
+
+<<v8>>
+8 Die Söhne Hams waren: Kusch, Ägypten, Put und Kanaan.
+
+<<v9>>
+9 Die Söhne des Kusch waren: Seba, Hawila, Sabta, Ragma und Sabtecha;
+und die Söhne Ragmas waren: Saba und Dedan.
+
+<<v10>>
+10 Kusch zeugte Nimrod. Dieser wurde der erste Held auf der Erde.
+
+<<v11>>
+11 Ägypten zeugte die Luditer, die Anamiter, die Lehabiter, die
+Naftuhiter,
+
+<<v12>>
+12 die Patrositer und die Kasluhiter, von denen die Philister abstammen,
+ferner die Kaftoriter.
+
+<<v13>>
+13 Kanaan zeugte Sidon, seinen Erstgeborenen, und Het,
+
+<<v14>>
+14 ferner die Jebusiter, die Amoriter, die Girgaschiter,
+
+<<v15>>
+15 die Hiwiter, die Arkiter, die Siniter,
+
+<<v16>>
+16 die Arwaditer, die Zemariter und die Hamatiter.
+
+<<v17>>
+17 Die Söhne Sems waren: Elam, Assur, Arpachschad, Lud, Aram, Uz, Hul,
+Geter und Meschech.
+
+<<v18>>
+18 Arpachschad zeugte Schelach, Schelach zeugte Eber.
+
+<<v19>>
+19 Eber wurden zwei Söhne geboren; der eine hieß Peleg (Teilung), denn
+zu seiner Zeit wurde das Land geteilt; sein Bruder hieß Joktan.
+
+<<v20>>
+20 Joktan zeugte Almodad, Schelef, Hazarmawet, Jerach,
+
+<<v21>>
+21 Hadoram, Usal, Dikla,
+
+<<v22>>
+22 Obal, Abimaël, Saba,
+
+<<v23>>
+23 Ofir, Hawila und Jobab. Das alles waren Söhne Joktans.
+
+<<v24>>
+24 Sem, Arpachschad, Schelach, [fn:2]
+
+<<v25>>
+25 Eber, Peleg, Regu,
+
+<<v26>>
+26 Serug, Nahor, Terach,
+
+<<v27>>
+27 Abram, das ist Abraham.\\
+\\
+
+<<v28>>
+* Die Nachkommen Abrahams: 1,28-42
+
+28 Die Söhne Abrahams waren Isaak und Ismael. [fn:3] [fn:4]
+
+<<v29>>
+29 Das ist die Geschlechterfolge nach ihnen: Der Erstgeborene Ismaels
+war Nebajot; dann kamen Kedar, Adbeel, Mibsam,
+
+<<v30>>
+30 Mischma, Duma, Massa, Hadad, Tema,
+
+<<v31>>
+31 Jetur, Nafisch und Kedma. Das waren die Söhne Ismaels.
+
+<<v32>>
+32 Die Söhne Keturas, der Nebenfrau Abrahams: Sie gebar Simran,
+Jokschan, Medan, Midian, Jischbak und Schuach. Die Söhne Jokschans waren
+Saba und Dedan.
+
+<<v33>>
+33 Die Söhne Midians waren: Efa, Efer, Henoch, Abida und Eldaa. Sie alle
+waren Söhne Keturas.
+
+<<v34>>
+34 Abraham zeugte Isaak. Die Söhne Isaaks waren Esau und Israel.
+
+<<v35>>
+35 Die Söhne Esaus waren: Elifas, Reguël, Jëusch, Jalam und Korach.
+
+<<v36>>
+36 Die Söhne des Elifas waren: Teman, Omar, Zefo, Gatam, Kenas, Timna
+und Amalek.
+
+<<v37>>
+37 Die Söhne Reguëls waren: Nahat, Serach, Schamma und Misa.
+
+<<v38>>
+38 Die Söhne Seïrs waren: Lotan, Schobal, Zibon, Ana, Dischon, Ezer und
+Dischan.
+
+<<v39>>
+39 Die Söhne Lotans waren Hori und Hemam. Die Schwester Lotans war
+Timna.
+
+<<v40>>
+40 Die Söhne Schobals waren: Alwan, Manahat, Ebal, Schefi und Onam. Die
+Söhne Zibons waren Aja und Ana.
+
+<<v41>>
+41 Der Sohn Anas war Dischon. Die Söhne Dischons waren: Hemdan, Eschban,
+Jitran und Keran.
+
+<<v42>>
+42 Die Söhne Ezers waren Bilhan, Saawan und Akan. Die Söhne Dischons
+waren Uz und Aran.\\
+\\
+
+<<v43>>
+* Die Herrscher in Edom: 1,43-54
+
+43 Die Könige, die in Edom regierten, bevor über die Israeliten ein
+König regierte, waren folgende: Bela, der Sohn Beors; seine Stadt hieß
+Dinhaba. [fn:5]
+
+<<v44>>
+44 Als Bela starb, wurde König an seiner Stelle Jobab, der Sohn Serachs,
+aus Bozra.
+
+<<v45>>
+45 Als Jobab starb, wurde König an seiner Stelle Huscham aus dem Land
+der Temaniter.
+
+<<v46>>
+46 Als Huscham starb, wurde König an seiner Stelle Hadad, der Sohn
+Bedads, der Midian im Grünland von Moab schlug; seine Stadt hieß Awit.
+
+<<v47>>
+47 Als Hadad starb, wurde König an seiner Stelle Samla aus Masreka.
+
+<<v48>>
+48 Als Samla starb, wurde König an seiner Stelle Schaul aus Rehobot am
+Strom (Eufrat).
+
+<<v49>>
+49 Als Schaul starb, wurde König an seiner Stelle Baal-Hanan, der Sohn
+Achbors.
+
+<<v50>>
+50 Als Baal-Hanan starb, wurde König an seiner Stelle Hadad; seine Stadt
+hieß Pagu. Seine Frau hieß Mehetabel; sie war die Tochter Matreds und
+die Enkelin Me-Sahabs.
+
+<<v51>>
+51 Als Hadad starb, regierten Häuptlinge in Edom: Häuptling Timna,
+Häuptling Alwa, Häuptling Jetet,
+
+<<v52>>
+52 Häuptling Oholibama, Häuptling Ela, Häuptling Pinon,
+
+<<v53>>
+53 Häuptling Kenas, Häuptling Teman, Häuptling Mibzar,
+
+<<v54>>
+54 Häuptling Magdiël, Häuptling Iram. Das waren die Häuptlinge Edoms.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-27) [[file:Gen_5.org::v1][Gen 5,1-32]]; [[file:Gen_10.org::v2][10,2-29]]; [[file:Gen_11.org::v10][11,10-27]]
+
+[fn:2] 24-27: Der jeweils folgende Name bezeichnet den Sohn des vorausgehenden.
+
+[fn:3] (28-42) [[file:Gen_25.org::v1][Gen 25,1]]-[[file:Gen_25.org::v4][4]].[[file:Gen_25.org::v12][12]]-[[file:Gen_25.org::v16][16]]; [[file:Gen_25.org::v4][36,4-28]]
+
+[fn:4] 28-42: Manche Namen dieser und der folgenden Listen sind
+durch Schreibfehler entstellt und in Gen sowie in G in anderer Form
+überliefert. In den folgenden Anmerkungen wird darauf nicht im Einzelnen
+eingegangen.
+
+[fn:5] (43-54) [[file:Gen_36.org::v31][Gen 36,31-43]]

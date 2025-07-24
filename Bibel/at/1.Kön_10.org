@@ -1,0 +1,191 @@
+#+TITLE: 1 Kön 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-14 Di 22:52]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 10.html
+
+<<verses>>
+
+<<v1>>
+* Die Königin von Saba: 10,1-13
+
+1 Die Königin von Saba hörte vom Ruf Salomos und kam, um ihn mit
+Rätselfragen auf die Probe zu stellen. [fn:1] [fn:2]
+
+<<v2>>
+2 Sie kam nach Jerusalem mit sehr großem Gefolge, mit Kamelen, die
+Balsam, eine gewaltige Menge Gold und Edelsteine trugen, trat bei Salomo
+ein und redete mit ihm über alles, was sie sich vorgenommen hatte.
+
+<<v3>>
+3 Salomo gab ihr Antwort auf alle Fragen. Es gab nichts, was dem König
+verborgen war und was er ihr nicht hätte sagen können.
+
+<<v4>>
+4 Als nun die Königin von Saba die ganze Weisheit Salomos erkannte, als
+sie den Palast sah, den er gebaut hatte,
+
+<<v5>>
+5 die Speisen auf seiner Tafel, die Sitzplätze seiner Beamten, das
+Aufwarten der Diener und ihre Gewänder, seine Getränke und sein Opfer,
+das er im Haus des Herrn darbrachte, da stockte ihr der Atem.
+
+<<v6>>
+6 Sie sagte zum König: Was ich in meinem Land über dich und deine
+Weisheit gehört habe, ist wirklich wahr.
+
+<<v7>>
+7 Ich wollte es nicht glauben, bis ich nun selbst gekommen bin und es
+mit eigenen Augen gesehen habe. Und wahrlich, nicht einmal die Hälfte
+hat man mir berichtet; deine Weisheit und deine Vorzüge übertreffen
+alles, was ich gehört habe.
+
+<<v8>>
+8 Glücklich sind deine Männer, glücklich diese deine Diener, die
+allezeit vor dir stehen und deine Weisheit hören.
+
+<<v9>>
+9 Gepriesen sei Jahwe, dein Gott, der an dir Gefallen fand und dich auf
+den Thron Israels setzte. Weil Jahwe Israel ewig liebt, hat er dich zum
+König bestellt, damit du Recht und Gerechtigkeit übst.
+
+<<v10>>
+10 Sie gab dem König hundertzwanzig Talente Gold, dazu eine sehr große
+Menge Balsam und Edelsteine. Niemals mehr kam so viel Balsam in das
+Land, wie die Königin von Saba dem König Salomo schenkte.
+
+<<v11>>
+11 Auch die Flotte Hirams, die Gold aus Ofir holte, brachte von dort
+große Mengen Almuggimholz und Edelsteine. [fn:3]
+
+<<v12>>
+12 Der König ließ aus dem Almuggimholz Schnitzarbeiten für das Haus des
+Herrn und den königlichen Palast sowie Zithern und Harfen für die Sänger
+anfertigen. Solches Almuggimholz ist nie wieder in das Land gekommen und
+bis zum heutigen Tag nicht mehr gesehen worden. [fn:4]
+
+<<v13>>
+13 König Salomo gewährte der Königin von Saba alles, was sie wünschte
+und begehrte. Dazu beschenkte er sie reichlich, wie es nur der König
+Salomo vermochte. Schließlich kehrte sie mit ihrem Gefolge in ihr Land
+zurück.\\
+\\
+
+<<v14>>
+* Salomos Reichtum: 10,14-29
+
+14 Das Gewicht des Goldes, das alljährlich bei Salomo einging, betrug
+sechshundertsechsundsechzig Goldtalente. [fn:5] [fn:6]
+
+<<v15>>
+15 Dabei sind nicht eingerechnet die Abgaben der Kaufleute und die
+Einnahmen, die von den Händlern, von allen Königen Arabiens und von den
+Statthaltern des Landes kamen. [fn:7]
+
+<<v16>>
+16 König Salomo ließ zweihundert Schilde aus gehämmertem Gold
+herstellen; sechshundert Goldschekel verwandte er für jeden Schild. [fn:8]
+
+<<v17>>
+17 Dazu machte er dreihundert kleinere Schilde aus gehämmertem Gold;
+drei Minen Gold verwandte er für jeden. Er brachte sie in das
+Libanonwaldhaus.
+
+<<v18>>
+18 Ferner ließ der König einen großen Thron aus Elfenbein anfertigen und
+mit bestem Gold überziehen.
+
+<<v19>>
+19 Sechs Stufen führten zum Thron hinauf. An seiner Rückseite war der
+Kopf eines Jungstiers und zu beiden Seiten des Sitzes befanden sich
+Armlehnen. Zwei Löwen standen neben den Lehnen [fn:9]
+
+<<v20>>
+20 und zwölf zu beiden Seiten der sechs Stufen. Dergleichen ist noch für
+kein Königreich geschaffen worden.
+
+<<v21>>
+21 Alle Trinkgefäße des Königs Salomo waren aus Gold; ebenso waren alle
+Geräte des Libanonwaldhauses aus bestem Gold. Silber galt in den Tagen
+Salomos als wertlos;
+
+<<v22>>
+22 denn der König hatte eine Tarschischflotte auf dem Meer, zusammen mit
+den Schiffen Hirams. Einmal in drei Jahren kam die Tarschischflotte und
+brachte Gold, Silber, Elfenbein, Affen und Perlhühner. [fn:10]
+
+<<v23>>
+23 So übertraf König Salomo alle Könige der Erde an Reichtum und
+Weisheit.
+
+<<v24>>
+24 Alle Welt begehrte ihn zu sehen und die Weisheit zu hören, die Gott
+in sein Herz gelegt hatte.
+
+<<v25>>
+25 Alle brachten ihm Jahr für Jahr ihre Gaben: silberne und goldene
+Gefäße, Gewänder, Waffen, Balsam, Pferde und Maultiere.
+
+<<v26>>
+26 Salomo beschaffte sich Wagen und Besatzung dazu. Er hatte
+vierzehnhundert Wagen und zwölftausend Mann als Besatzung und brachte
+sie in die Wagenstädte sowie in die Umgebung des Königs nach Jerusalem. [fn:11] [fn:12]
+
+<<v27>>
+27 Der König machte das Silber in Jerusalem so häufig wie die Steine und
+die Zedern so zahlreich wie die Maulbeerfeigenbäume in der Schefela.
+
+<<v28>>
+28 Man bezog die Pferde für Salomo aus Ägypten und Koë; die Händler des
+Königs kauften sie in Koë. [fn:13]
+
+<<v29>>
+29 Ein Wagen, der aus Ägypten kam, kostete sechshundert und ein Pferd
+hundertfünfzig Silberschekel. Ebenso trieb man Handel mit allen
+hetitischen und aramäischen Königen.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-13) [[file:2.Chr_9.org::v1][2 Chr 9,1-12]]
+
+[fn:2] Saba: wahrscheinlich eine Landschaft im nördlichen
+Arabien, die auch in assyrischen Texten genannt wird. Andere denken an
+das berühmte Handelsvolk der Sabäer in Südarabien. - H hat den Zusatz
+«im Namen des Herrn»; er ist wahrscheinlich durch Verschreibung aus dem
+Namen Salomo entstanden.
+
+[fn:3] Algummimholz oder Almuggimholz ist eine nicht näher
+bestimmbare wertvolle Holzart.
+
+[fn:4] Die genaue Bedeutung des mit «Schnitzarbeiten»
+übersetzten Wortes ist unbekannt.
+
+[fn:5] (14-28) [[file:2.Chr_9.org::v13][2 Chr 9,13-28]]
+
+[fn:6] Das Spiel mit der Zahl sechs lässt eine sinnbildliche
+Bedeutung vermuten (vgl. [[file:~/RoamNotes/notes/Bibel/nt/Offb_13.org::v18][Offb 13,18]]).
+
+[fn:7] Die Übersetzung setzt geringfügige Korrekturen voraus.
+
+[fn:8] Die Schilde dienten als Prunkstücke bei feierlichen
+Auftritten (vgl. [[file:1.Kön_14.org::v28][14,28]]).
+
+[fn:9] der Kopf eines Jungstiers: Text korr. nach G; H: ein
+runder Kopf.
+
+[fn:10] Tarschischflotte: Flotte von Schiffen, die den weiten
+Weg nach Tarschisch an der Küste Spaniens zurücklegen konnten.
+
+[fn:11] (26-29) [[file:2.Chr_1.org::v14][2 Chr 1,14-17]]
+
+[fn:12] vierzehnhundert: vgl. die Anmerkung zu 5,6.
+
+[fn:13] Statt Ägypten (hebräisch Mizrajim) ist vielleicht
+Muzri (Königreich an der zilizischen Küste, wie Koë) zu lesen.

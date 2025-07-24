@@ -1,0 +1,11 @@
+#+title:      Theologie
+#+date:       [2024-06-08 Sa 15:55]
+#+filetags:   :kt:
+#+identifier: 20240608T155547
+
+#+BEGIN: denote-links :regexp "--theologie" :sort-by-component nil :reverse-sort nil :id-only nil
+- [[denote:20240608T160149][Theologie: Christolgie]]
+- [[denote:20240608T160239][Theologie: Moraltheologie]]
+- [[denote:20240608T160314][Theologie: Fundamentaltheologie]]
+- [[denote:20240608T161430][Theologie: Soterologie]]
+#+END:

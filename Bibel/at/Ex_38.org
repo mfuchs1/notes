@@ -1,0 +1,161 @@
+#+TITLE: Ex 38 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 08:54]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 38.html
+
+
+* Ex 38
+<<verses>>
+
+<<v1>>
+1 Dann machte er den Brandopferaltar aus Akazienholz, fünf Ellen lang,
+fünf Ellen breit - also quadratisch - und drei Ellen hoch. [fn:1]
+
+<<v2>>
+2 Er machte ihm Hörner an seinen vier Ecken - seine Hörner bildeten mit
+ihm ein Ganzes - und überzog ihn mit Kupfer.
+
+<<v3>>
+3 Er stellte auch alle Altargeräte her: die Gefäße, die Schaufeln, die
+Schalen, die Gabeln und die Feuerpfannen. Alle seine Geräte stellte er
+aus Kupfer her.
+
+<<v4>>
+4 Er machte auch für den Altar ein Gitterwerk, ein Netzgitter aus
+Kupfer, unterhalb der Einfassung bis zu seiner halben Höhe.
+
+<<v5>>
+5 Dann goss er vier Ringe an die vier Enden des kupfernen Gitterwerkes
+zum Aufnehmen der Stangen.
+
+<<v6>>
+6 Er verfertigte die Stangen aus Akazienholz und überzog sie mit Kupfer.
+
+<<v7>>
+7 Er steckte die Stangen in die Ringe an den Seiten des Altars, sodass
+man ihn damit tragen konnte; er machte ihn hohl, aus Brettern.
+
+<<v8>>
+8 Er machte das Becken und sein Gestell aus Kupfer, und zwar aus den
+Spiegeln der Frauen, die am Eingang des Offenbarungszeltes Dienst taten.
+
+<<v9>>
+9 Dann machte er den Vorhof: für die südliche Längsseite Vorhofbehänge
+aus gezwirntem Byssus, hundert Ellen. [fn:2]
+
+<<v10>>
+10 Ihre zwanzig Säulen und deren zwanzig Sockel waren aus Kupfer, die
+Nägel der Säulen und ihre Querstangen waren aus Silber.
+
+<<v11>>
+11 Für die nördliche Längsseite hundert Ellen Behänge; ihre zwanzig
+Säulen und deren zwanzig Sockel waren aus Kupfer; die Nägel der Säulen
+und ihre Querstangen waren aus Silber.
+
+<<v12>>
+12 Für die Westseite fünfzig Ellen Behänge, ihre zehn Säulen und deren
+zehn Sockel; die Nägel der Säulen und ihre Querstangen waren aus Silber.
+
+<<v13>>
+13 Für die Vorderseite, gegen Osten hin, fünfzig Ellen Behänge,
+
+<<v14>>
+14 und zwar fünfzehn Ellen Behänge für die eine Seitenwand mit den drei
+Säulen und den drei Sockeln,
+
+<<v15>>
+15 ebenso für die andere Seitenwand. So waren beiderseits des
+Vorhoftores fünfzehn Ellen Behänge mit den drei Säulen und den drei
+Sockeln.
+
+<<v16>>
+16 Alle Behänge des Vorhofs ringsum bestanden aus gezwirntem Byssus.
+
+<<v17>>
+17 Die Sockel der Säulen waren aus Kupfer, die Nägel der Säulen und ihre
+Querstangen aus Silber, der Überzug ihrer Kapitelle aus Silber. Alle
+Säulen des Vorhofs hatten Querstangen aus Silber. [fn:3]
+
+<<v18>>
+18 Für das Tor des Vorhofs machte er einen Vorhang: Er war
+Buntwirkerarbeit aus violettem und rotem Purpur, Karmesin und gezwirntem
+Byssus, zwanzig Ellen breit und fünf Ellen hoch, entsprechend den
+übrigen Behängen des Vorhofs.
+
+<<v19>>
+19 Ihre vier Säulen und deren vier Sockel waren aus Kupfer, ihre Nägel
+aus Silber und auch der Überzug ihrer Kapitelle und ihre Querstangen aus
+Silber.
+
+<<v20>>
+20 Alle Zeltpflöcke für die Wohnstätte und den Vorhof ringsum waren aus
+Kupfer.
+
+<<v21>>
+21 Das ist die Veranlagung zugunsten der Wohnstätte, der Stätte der
+Bundesurkunde; diese Veranlagung hatte Mose den Leviten unter dem
+Priester Itamar, dem Sohn Aarons, übertragen. [fn:4]
+
+<<v22>>
+22 Bezalel, der Sohn Uris, des Sohnes Hurs, vom Stamm Juda, führte alles
+aus, was der Herr dem Mose befohlen hatte.
+
+<<v23>>
+23 Mit Oholiab, dem Sohn Ahisamachs, vom Stamm Dan, als Steinschneider,
+Kunstweber und Buntwirker des violetten und roten Purpurs, des Karmesins
+und des Byssus führte er alles aus.
+
+<<v24>>
+24 Das gesamte Gold, das man für alle Arbeiten zur Errichtung des
+Heiligtums verwendete - es war das Gold der Weihegaben -, wog 29 Talente
+und 730 Schekel, und zwar nach dem Schekelgewicht des Heiligtums.
+
+<<v25>>
+25 Das Silber betrug aufgrund der Veranlagung der Gemeinde 100 Talente
+und 1775 Schekel, und zwar nach dem Schekelgewicht des Heiligtums,
+
+<<v26>>
+26 einen Halbschekel für jede Person, also die Hälfte eines Schekels,
+und zwar nach dem Schekelgewicht des Heiligtums, für jeden von zwanzig
+Jahren und darüber, der zur Veranlagung vortreten musste, also für
+603550 Mann.
+
+<<v27>>
+27 Verwendet wurden 100 Talente Silber zum Guss der Sockel des
+Heiligtums und der Sockel der Behänge, 100 Talente für 100 Sockel, also
+ein Talent für einen Sockel.
+
+<<v28>>
+28 Aus 1775 Schekel machte er die Nägel für die Säulen, überzog die
+Kapitelle und verband sie miteinander.
+
+<<v29>>
+29 Das Kupfer der Weihegaben betrug 70 Talente und 2400 Schekel.
+
+<<v30>>
+30 Daraus machte er die Sockel für den Eingang des Offenbarungszeltes,
+den kupfernen Altar samt seinem kupfernen Gitterwerk und alle
+Altargeräte
+
+<<v31>>
+31 sowie die Sockel für den Vorhof ringsum, die Torsockel des Vorhofs,
+alle Zeltpflöcke der Wohnstätte und alle Zeltpflöcke des Vorhofs
+ringsum.
+
+
+* Footnotes
+
+[fn:1] (1-7) 27,1-8 [[file:Ex_27.org::v1][Ex 27,1-8]]
+
+[fn:2] (9-20) 27,9-19 [[file:Ex_27.org::v9][Ex 27,9-19]]
+
+[fn:3] Der letzte Satz des Verses ist in H unklar.
+
+[fn:4] (21-26) 30,11-16 [[file:Ex_30.org::v11][Ex 30,11-16]]

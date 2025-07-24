@@ -1,0 +1,133 @@
+:PROPERTIES:
+:ID:       fc0061bc-04a0-4ebc-89d0-423d906bb784
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_25.html][25]] [[file:Jes_26.html][26]] *27*
+[[file:Jes_28.html][28]] [[file:Jes_29.html][29]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 27
+  :PROPERTIES:
+  :CUSTOM_ID: jes-27
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 An jenem Tag bestraft der Herr mit seinem harten, großen, starken
+Schwert den Leviatan, die schnelle Schlange, den Leviatan, die gewundene
+Schlange. Den Drachen im Meer wird er töten. ^{[[#fn1][1]][[#fn2][2]]}\\
+\\
+
+<<v2>>
+**** Das Lied vom Weinberg Israel: 27,2-6
+     :PROPERTIES:
+     :CUSTOM_ID: das-lied-vom-weinberg-israel-272-6
+     :END:
+2 An jenem Tag gibt es einen prächtigen Weinberg. /\\
+ Besingt ihn in einem Lied! ^{[[#fn3][3]]}\\
+\\
+
+<<v3>>
+3 Ich, der Herr, bin sein Wächter, /\\
+ immer wieder bewässere ich ihn. Damit niemand ihm schadet, /\\
+ bewache ich ihn bei Tag und bei Nacht.\\
+\\
+
+<<v4>>
+4 Ich habe jetzt keinen Zorn mehr. /\\
+ Fände ich Dornen und Disteln darin, ich würde sie alle bekämpfen, /\\
+ ich würde sie alle zusammen verbrennen,\\
+\\
+
+<<v5>>
+5 es sei denn, man sucht bei mir Schutz /\\
+ und schließt mit mir Frieden, ja Frieden mit mir.\\
+\\
+
+<<v6>>
+6 In künftigen Tagen schlägt Jakob wieder Wurzel, /\\
+ Israel blüht und gedeiht /\\
+ und der Erdkreis füllt sich mit Früchten.\\
+\\
+
+<<v7>>
+**** Die Entsühnung Israels: 27,7-9
+     :PROPERTIES:
+     :CUSTOM_ID: die-entsühnung-israels-277-9
+     :END:
+7 Hat er sie geschlagen, /\\
+ wie er ihre Schläger schlug? Hat er sie umgebracht, /\\
+ wie er ihre Mörder umgebracht hat? ^{[[#fn4][4]]}\\
+\\
+
+<<v8>>
+8 Du hast sie aufgescheucht und verjagt /\\
+ und so gegen sie den Rechtsstreit geführt. Mit einem heftigen Sturm /\\
+ jagte er sie am Tag des Ostwinds davon.\\
+\\
+
+<<v9>>
+9 Darum sei dadurch Jakobs Schuld wieder gesühnt, /\\
+ darin bestehe die volle Befreiung von seiner Sünde, dass er alle
+Altarsteine vernichtet, wie man Kalksteine zerschlägt. /\\
+ Nie mehr soll man Kultpfähle und Rauchopferaltäre errichten.
+^{[[#fn5][5]]}\\
+\\
+
+<<v10>>
+**** Die Bestrafung des Gegners: 27,10-11
+     :PROPERTIES:
+     :CUSTOM_ID: die-bestrafung-des-gegners-2710-11
+     :END:
+10 Ja, die befestigte Stadt ist einsam geworden, /\\
+ ein entvölkerter Ort, verlassen wie die Steppe. Dort weiden die Rinder
+und legen sich nieder. /\\
+ Sie fressen die Zweige ab.\\
+\\
+
+<<v11>>
+11 Wenn dann die Äste verdorren, bricht man sie ab /\\
+ und die Frauen kommen und machen Feuer damit. Es ist ein Volk ohne
+Einsicht; /\\
+ deshalb hat sein Schöpfer kein Erbarmen mit ihm, /\\
+ er, der es geformt hat, ist ihm nicht gnädig.\\
+\\
+
+<<v12>>
+**** Die Sammlung der verstreuten Israeliten: 27,12-13
+     :PROPERTIES:
+     :CUSTOM_ID: die-sammlung-der-verstreuten-israeliten-2712-13
+     :END:
+12 An jenem Tag wird der Herr Ähren ausklopfen /\\
+ vom Eufrat bis zum Grenzbach Ägyptens; dann, ihr Söhne Israels, liest
+man euch auf, /\\
+ einen nach dem andern. ^{[[#fn6][6]]}\\
+\\
+
+<<v13>>
+13 An jenem Tag wird man das große Widderhorn blasen, /\\
+ dann kommen die Verirrten aus Assur nach Hause /\\
+ und die in Ägypten Verstreuten kehren zurück; sie fallen vor dem Herrn
+in Jerusalem nieder, /\\
+ auf dem heiligen Berg.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Ijob 26,13; Ps 74,14
+
+^{[[#fnm2][2]]} Leviatan, gewundene Schlange und Drache bezeichnen in
+mythischer Sprache das Meer; sie werden zum Bild für die gottfeindliche
+Macht.
+
+^{[[#fnm3][3]]} ℘ (2-6) 5,1-7
+
+^{[[#fnm4][4]]} ihre Mörder: Text korr. nach dem Qumran-Text.
+
+^{[[#fnm5][5]]} ℘ 17,8
+
+^{[[#fnm6][6]]} 12f: Der Text spricht von der Sammlung und Heimkehr der
+Juden aus der Diaspora.

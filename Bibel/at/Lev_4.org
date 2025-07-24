@@ -1,0 +1,203 @@
+#+TITLE: Lev 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 13:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 4.html
+
+
+<<verses>>
+
+<<v1>>
+* Das Sündopfer eines Priesters: 4,1-12
+
+1 Der Herr sprach zu Mose: [fn:1]
+
+<<v2>>
+2 Sag zu den Israeliten: Wenn einer ohne Vorsatz gegen eines der Gebote
+des Herrn sündigt und etwas Verbotenes tut,
+
+<<v3>>
+3 dann soll er, wenn es ein gesalbter Priester ist, der sündigt und
+dadurch Schuld auf das Volk lädt, dem Herrn für die von ihm begangene
+Sünde einen fehlerlosen Jungstier als Sündopfer darbringen.
+
+<<v4>>
+4 Er soll diesen Jungstier zum Eingang des Offenbarungszeltes vor den
+Herrn bringen, ihm die Hand auf den Kopf legen und ihn vor dem Herrn
+schlachten.
+
+<<v5>>
+5 Dann soll der gesalbte Priester etwas vom Blut dieses Stiers nehmen,
+es in das Offenbarungszelt bringen,
+
+<<v6>>
+6 seinen Finger in das Blut tauchen und es vor dem Herrn siebenmal gegen
+den Vorhang des Heiligtums spritzen.
+
+<<v7>>
+7 Darauf soll der Priester etwas vom Blut auf die Hörner des
+Rauchopferaltars tun, der vor dem Herrn im Offenbarungszelt steht, und
+dann soll er das ganze Blut des Stiers am Sockel des Brandopferaltars
+ausgießen, der sich am Eingang des Offenbarungszeltes befindet. [fn:2]
+
+<<v8>>
+8 Dann soll er das ganze Fett des Sündopferstieres abheben, und zwar das
+Fett, das die Eingeweide bedeckt, das gesamte Fett über den Eingeweiden,
+
+<<v9>>
+9 die beiden Nieren, das Fett über ihnen und das an den Lenden sowie die
+Fettmasse, die er von der Leber und den Nieren loslöst -
+
+<<v10>>
+10 genauso, wie es beim Stier des Heilsopfers geschieht -, und der
+Priester lasse diese Teile auf dem Brandopferaltar in Rauch aufgehen.
+
+<<v11>>
+11 Das Fell des Stiers aber, sein ganzes Fleisch mit dem Kopf, den
+Beinen, den Eingeweiden und dem Mageninhalt,
+
+<<v12>>
+12 also den ganzen Stier, soll er aus dem Lager hinaus an einen reinen
+Ort, nämlich den Abfallplatz der Fett-Asche, schaffen und ihn auf einem
+Holzfeuer verbrennen; auf dem Abfallplatz der Fett-Asche soll es
+verbrannt werden.\\
+\\
+
+<<v13>>
+* Das Sündopfer der Gemeinde: 4,13-21
+
+13 Wenn die ganze Gemeinde Israels ohne Vorsatz gesündigt und etwas vom
+Herrn Verbotenes getan hat, ohne es bemerkt zu haben, und dadurch
+schuldig wurde,
+
+<<v14>>
+14 dann soll die Gemeinde für die Verfehlung, sobald sie bekannt wird,
+einen Jungstier als Sündopfer darbringen und ihn vor das
+Offenbarungszelt bringen.
+
+<<v15>>
+15 Die Ältesten der Gemeinde sollen ihre Hände vor dem Herrn auf den
+Kopf des Stiers legen und man soll ihn vor dem Herrn schlachten.
+
+<<v16>>
+16 Dann soll der gesalbte Priester etwas vom Blut des Stiers in das
+Offenbarungszelt tragen,
+
+<<v17>>
+17 seinen Finger in das Blut tauchen und es siebenmal gegen den Vorhang
+vor dem Herrn spritzen.
+
+<<v18>>
+18 Darauf soll er ein wenig von dem Blut auf die Hörner des Altars tun,
+der vor dem Herrn im Offenbarungszelt steht, und dann soll er das ganze
+Blut am Sockel des Brandopferaltars ausgießen, der sich am Eingang des
+Offenbarungszeltes befindet.
+
+<<v19>>
+19 Dann soll er das ganze Fett des Tieres abheben und es auf dem Altar
+in Rauch aufgehen lassen.
+
+<<v20>>
+20 Er soll mit dem Stier tun, was auch mit dem Sündopferstier gemacht
+wird; so soll er es mit ihm machen. Dann soll er die Gemeinde entsühnen
+und es wird ihnen vergeben werden.
+
+<<v21>>
+21 Er soll den Stier aus dem Lager hinausbringen und ihn verbrennen, wie
+er den ersten Stier verbrannt hat. Das ist das Sündopfer für die
+Gemeinde.\\
+\\
+
+<<v22>>
+* Das Sündopfer eines Sippenhauptes: 4,22-26
+
+22 Angenommen, ein Sippenhaupt sündigt, tut ohne Vorsatz etwas, was der
+Herr, sein Gott, verboten hat, und wird dadurch schuldig
+
+<<v23>>
+23 oder man teilt ihm eine Verfehlung mit, die er begangen hat, so soll
+er als seine Opfergabe einen fehlerlosen Ziegenbock bringen.
+
+<<v24>>
+24 Er soll die Hand auf den Kopf des Bockes legen und ihn dort
+schlachten, wo man das Brandopfer vor dem Herrn schlachtet. Ein
+Sündopfer ist es.
+
+<<v25>>
+25 Der Priester soll mit seinem Finger etwas vom Blut des Sündopfers auf
+die Hörner des Brandopferaltars tun, dann das Blut am Sockel des
+Brandopferaltars ausgießen
+
+<<v26>>
+26 und das ganze Fett, wie das Fett des Heilsopfers, auf dem Altar in
+Rauch aufgehen lassen. So entsühnt der Priester den Betreffenden und
+löst ihn von seiner Sünde; dann wird ihm vergeben werden.\\
+\\
+
+<<v27>>
+* Das Sündopfer eines gewöhnlichen Israeliten: 4,27-35
+
+27 Wenn jemand aus dem Volk ohne Vorsatz sündigt und schuldig wird, weil
+er etwas vom Herrn Verbotenes getan hat,
+
+<<v28>>
+28 oder man teilt ihm eine Verfehlung mit, die er begangen hat, so
+bringe er als seine Opfergabe für seine Sünde, die er begangen hat, eine
+fehlerlose Ziege.
+
+<<v29>>
+29 Er soll die Hand auf den Kopf des Sündopfers legen und es dort
+schlachten, wo man das Brandopfer schlachtet.
+
+<<v30>>
+30 Der Priester soll mit seinem Finger etwas vom Blut auf die Hörner des
+Brandopferaltars tun und dann das ganze Blut am Sockel des Altars
+ausgießen.
+
+<<v31>>
+31 Er soll das ganze Fett ablösen, wie man das Fett eines Heilsopfers
+ablöst, und der Priester soll es auf dem Altar in Rauch aufgehen lassen
+als beruhigenden Duft für den Herrn und so diesen Mann entsühnen; dann
+wird ihm vergeben werden.
+
+<<v32>>
+32 Will er aber zum Sündopfer ein Schaf als Opfergabe bringen, soll er
+ein fehlerloses weibliches Tier bringen.
+
+<<v33>>
+33 Er soll die Hand auf den Kopf des Sündopfers legen und es dort
+schlachten, wo man das Brandopfer schlachtet.
+
+<<v34>>
+34 Der Priester soll mit seinem Finger etwas vom Blut dieses Opfers
+nehmen, auf die Hörner des Brandopferaltars tun und das ganze Blut am
+Sockel des Altars ausgießen.
+
+<<v35>>
+35 Das ganze Fett soll er ablösen, wie man das Fett des Schafes eines
+Heilsopfers ablöst. Der Priester soll die Fettteile mit dem Feueropfer
+des Herrn auf dem Altar in Rauch aufgehen lassen und ihn so entsühnen,
+um ihn von seiner Sünde zu lösen, die er begangen hat; dann wird ihm
+vergeben werden.\\
+\\
+
+
+
+* Footnotes
+
+[fn:1] 1-5,26: Der Unterschied zwischen Sündopfern und
+Schuldopfern ist nur schwer festzustellen. Bei beiden Opferarten geht es
+um Sühne für absichtliche und unabsichtliche Übertretungen von zumeist
+kultischen Vorschriften. Dabei spielt das Blut eine wichtige Rolle. Es
+wird an den Altar und andere Teile des Heiligtums gesprengt oder
+gestrichen. Zur Bedeutung des Blutes beim Opfer vgl. 17,11 [[file:Lev_17.org::v11][Lev 17,11]].
+
+[fn:2] Die Hörner des Altars sind hornförmige Aufbauten an den
+vier Ecken, die wahrscheinlich die Macht Gottes versinnbilden (vgl. die
+Anmerkung zu Ex 32,1-35 [[file:Ex_32.org::v1][Ex,1-35]]).

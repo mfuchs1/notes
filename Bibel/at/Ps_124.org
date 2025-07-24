@@ -1,0 +1,73 @@
+#+TITLE: Ps 124 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 13:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 124.html
+
+* Ps 124
+
+<<verses>>
+
+<<v1>>
+* Israels Dank für die Befreiung
+
+1 [Ein Wallfahrtslied Davids.] Hätte sich nicht der Herr für uns
+eingesetzt /\\
+ - so soll Israel sagen -,\\
+\\
+
+<<v2>>
+2 hätte sich nicht der Herr für uns eingesetzt, /\\
+ als sich gegen uns Menschen erhoben,\\
+\\
+
+<<v3>>
+3 dann hätten sie uns lebendig verschlungen, /\\
+ als gegen uns ihr Zorn entbrannt war. [fn:1]\\
+\\
+
+<<v4>>
+4 Dann hätten die Wasser uns weggespült, /\\
+ hätte sich über uns ein Wildbach ergossen. [fn:2]\\
+\\
+
+<<v5>>
+5 Dann hätten sich über uns die Wasser ergossen, /\\
+ die wilden und wogenden Wasser.\\
+\\
+
+<<v6>>
+6 Gelobt sei der Herr, /\\
+ der uns nicht ihren Zähnen als Beute überließ.\\
+\\
+
+<<v7>>
+7 Unsre Seele ist wie ein Vogel dem Netz des Jägers entkommen; /\\
+ das Netz ist zerrissen und wir sind frei. [fn:3]\\
+\\
+
+<<v8>>
+8 Unsre Hilfe steht im Namen des Herrn, /\\
+ der Himmel und Erde gemacht hat. [fn:4] [fn:5]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Spr_1.org::v12][Spr 1,12]]
+
+[fn:2] [[file:Ps_42.org::v8][42,8]]
+
+[fn:3] [[file:Spr_6.org::v5][Spr 6,5]]
+
+[fn:4] [[file:Ps_121.org::v2][121,2]]
+
+[fn:5] In vielen Gebeten der katholischen Liturgie ist die
+herkömmliche Übersetzung gebräuchlich: Unsere Hilfe ist im Namen des
+Herrn.

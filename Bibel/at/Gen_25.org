@@ -1,0 +1,181 @@
+#+TITLE: Gen 25 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:16]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 25.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Nachkommen Abrahams: 25,1-6
+
+1 Abraham nahm sich noch eine andere Frau, namens Ketura.
+
+<<v2>>
+2 Sie gebar ihm Simran, Jokschan, Medan, Midian, Jischbak und Schuach.
+
+<<v3>>
+3 Jokschan zeugte Scheba und Dedan. Die Söhne Dedans waren die
+Aschuriter, die Letuschiter und die Lëummiter.
+
+<<v4>>
+4 Die Söhne Midians waren Efa, Efer, Henoch, Abida und Eldaga. Sie alle
+waren Söhne Keturas.
+
+<<v5>>
+5 Abraham vermachte Isaak alles, was ihm gehörte.
+
+<<v6>>
+6 Den Söhnen der Nebenfrauen, die er hatte, gab Abraham Geschenke und
+schickte sie noch zu seinen Lebzeiten weg nach Osten, ins Morgenland,
+weit weg von seinem Sohn Isaak.\\
+\\
+
+<<v7>>
+* Abrahams Tod und Begräbnis: 25,7-11
+
+7 Das ist die Zahl der Lebensjahre Abrahams: Hundertfünfundsiebzig Jahre
+wurde er alt,
+
+<<v8>>
+8 dann verschied er. Er starb in hohem Alter, betagt und lebenssatt, und
+wurde mit seinen Vorfahren vereint.
+
+<<v9>>
+9 Seine Söhne Isaak und Ismael begruben ihn in der Höhle von Machpela
+bei Mamre, auf dem Grundstück des Hetiters Efron, des Sohnes Zohars,
+
+<<v10>>
+10 auf dem Grundstück, das Abraham von den Hetitern gekauft hatte. Dort
+sind Abraham und seine Frau Sara begraben. [fn:1]
+
+<<v11>>
+11 Nach dem Tod Abrahams segnete Gott seinen Sohn Isaak und Isaak ließ
+sich beim Brunnen Lahai-Roï nieder.\\
+\\
+
+<<v12>>
+* Der Stammbaum der Ismaeliter: 25,12-18
+
+12 Das ist die Geschlechterfolge nach Ismael, dem Sohn Abrahams. Ihn
+hatte die Ägypterin Hagar, die Magd Saras, Abraham geboren.
+
+<<v13>>
+13 Das sind die Söhne Ismaels nach ihren Namen und nach ihrer
+Geschlechterfolge: Der Erstgeborene Ismaels war Nebajot; dann kamen
+Kedar, Adbeel, Mibsam,
+
+<<v14>>
+14 Mischma, Duma, Massa,
+
+<<v15>>
+15 Hadad, Tema, Jetur, Nafisch und Kedma.
+
+<<v16>>
+16 Das waren die Söhne Ismaels und das waren die Namen, die sie in ihren
+Siedlungen und Zeltlagern trugen: zwölf Fürsten, je einer für einen
+Stamm.
+
+<<v17>>
+17 Und das ist die Zahl der Lebensjahre Ismaels: hundertsiebenunddreißig
+Jahre. Dann verschied er und wurde mit seinen Vorfahren vereint.
+
+<<v18>>
+18 Ihr Siedlungsgebiet reichte von Hawila bis Schur, das Ägypten
+gegenüber an der Straße nach Assur liegt. Über alle seine Brüder fiel er
+her.\\
+\\
+
+<<v19>>
+* Geburt Esaus und Jakobs: 25,19-26
+
+19 Und das ist die Geschlechterfolge nach Isaak, dem Sohn Abrahams:
+Abraham zeugte Isaak.
+
+<<v20>>
+20 Isaak war vierzig Jahre alt, als er Rebekka zur Frau nahm. Sie war
+die Tochter des Aramäers Betuël aus Paddan-Aram, eine Schwester des
+Aramäers Laban.
+
+<<v21>>
+21 Isaak betete zum Herrn für seine Frau, denn sie war kinderlos
+geblieben, und der Herr ließ sich von ihm erbitten. Als seine Frau
+Rebekka schwanger war,
+
+<<v22>>
+22 stießen die Söhne einander im Mutterleib. Da sagte sie: Wenn das so
+ist, was soll dann aus mir werden? Sie ging, um den Herrn zu befragen.\\
+\\
+
+<<v23>>
+23 Der Herr gab diese Antwort: Zwei Völker sind in deinem Leib, /\\
+ zwei Stämme trennen sich /\\
+ schon in deinem Schoß. /\\
+ Ein Stamm ist dem andern überlegen, /\\
+ der ältere muss dem jüngeren dienen.\\
+\\
+
+<<v24>>
+24 Als die Zeit ihrer Niederkunft gekommen war, zeigte es sich, dass sie
+Zwillinge in ihrem Leib trug.
+
+<<v25>>
+25 Der erste, der kam, war rötlich, über und über mit Haaren bedeckt wie
+mit einem Fell. Man nannte ihn Esau.
+
+<<v26>>
+26 Darauf kam sein Bruder; seine Hand hielt die Ferse Esaus fest. Man
+nannte ihn Jakob (Fersenhalter). Isaak war sechzig Jahre alt, als sie
+geboren wurden.\\
+\\
+
+<<v27>>
+* Verkauf des Erstgeburtsrechts an Jakob: 25,27-34
+
+27 Die Knaben wuchsen heran. Esau war ein Mann geworden, der sich auf
+die Jagd verstand, ein Mann des freien Feldes. Jakob dagegen war ein
+untadeliger Mann und blieb bei den Zelten.
+
+<<v28>>
+28 Isaak hatte Esau lieber, denn er aß gern Wildbret; Rebekka aber hatte
+Jakob lieber.
+
+<<v29>>
+29 Einst hatte Jakob ein Gericht zubereitet, als Esau erschöpft vom Feld
+kam.
+
+<<v30>>
+30 Da sagte Esau zu Jakob: Gib mir doch etwas zu essen von dem Roten,
+von dem Roten da, ich bin ganz erschöpft. Deshalb heißt er Edom (Roter).
+
+<<v31>>
+31 Jakob gab zur Antwort: Dann verkauf mir jetzt sofort dein
+Erstgeburtsrecht!
+
+<<v32>>
+32 Schau, ich sterbe vor Hunger, sagte Esau, was soll mir da das
+Erstgeburtsrecht?
+
+<<v33>>
+33 Jakob erwiderte: Schwör mir jetzt sofort! Da schwor er ihm und
+verkaufte sein Erstgeburtsrecht an Jakob. [fn:2]
+
+<<v34>>
+34 Darauf gab Jakob dem Esau Brot und Linsengemüse; er aß und trank,
+stand auf und ging seines Weges. Vom Erstgeburtsrecht aber hielt Esau
+nichts.\\
+\\
+
+
+* Footnotes
+
+[fn:1] 23,16-18 [[file:Gen_23.org::v16][Gen 23,16-18]]
+
+[fn:2] Hebr 12,16f [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Hebr_12.org::v16][Hebr 12,16f]]

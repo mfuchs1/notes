@@ -1,0 +1,11 @@
+#+title:      Sonntag 16 März 2025
+#+date:       [2025-03-16 So 08:49]
+#+filetags:   :journal:
+#+identifier: 20250316T084940
+
+* Ein neuer Eintrag
+Mit dem Text.
+
+[[denote:20250308T175911][Samstag 8 März 2025]]
+
+

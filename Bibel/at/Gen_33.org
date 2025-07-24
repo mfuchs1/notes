@@ -1,0 +1,104 @@
+#+TITLE: Gen 33 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 33.html
+
+
+
+<<verses>>
+
+<<v1>>
+* Jakobs Versöhnung mit Esau: 33,1-20
+
+1 Jakob blickte auf und sah: Esau kam und mit ihm vierhundert Mann. Da
+verteilte er die Kinder auf Lea und Rahel und auf die beiden Mägde.
+
+<<v2>>
+2 Die Mägde und deren Kinder stellte er vorn hin, dahinter Lea und ihre
+Kinder und zuletzt Rahel und Josef.
+
+<<v3>>
+3 Er trat vor und warf sich siebenmal zur Erde nieder, bis er vor seinem
+Bruder stand.
+
+<<v4>>
+4 Esau lief ihm entgegen, umarmte ihn und fiel ihm um den Hals; er
+küsste ihn und sie weinten.
+
+<<v5>>
+5 Dann blickte Esau auf und sah die Frauen mit den Kindern. Er fragte:
+Wer sind die dort bei dir? Die Kinder, erwiderte er, die Gott deinem
+Knecht aus Wohlwollen geschenkt hat.
+
+<<v6>>
+6 Die Mägde und ihre Kinder kamen näher und warfen sich nieder.
+
+<<v7>>
+7 Dann kamen auch Lea und ihre Kinder und warfen sich nieder und zuletzt
+kamen Josef und Rahel und warfen sich nieder.
+
+<<v8>>
+8 Da fragte Esau: Was willst du mit dem ganzen Auftrieb dort, auf den
+ich gestoßen bin? Jakob erwiderte: Ich wollte das Wohlwollen meines
+Herrn finden.
+
+<<v9>>
+9 Darauf sagte Esau: Ich habe selber genug, Bruder. Behalte, was dir
+gehört.
+
+<<v10>>
+10 Nicht doch, entgegnete Jakob, wenn ich dein Wohlwollen gefunden habe,
+dann nimm das Geschenk aus meiner Hand an! Denn dafür habe ich dein
+Angesicht gesehen, wie man das Angesicht Gottes sieht, und du bist mir
+wohlwollend begegnet.
+
+<<v11>>
+11 Nimm doch mein Begrüßungsgeschenk an, das man dir überbracht hat.
+Denn Gott hat mir Wohlwollen erwiesen und ich habe alles, was ich
+brauche. Er drängte ihn, bis er annahm.
+
+<<v12>>
+12 Darauf machte Esau den Vorschlag: Brechen wir auf und ziehen wir
+weiter. Ich will an deiner Seite ziehen.
+
+<<v13>>
+13 Jakob entgegnete ihm: Mein Herr weiß, dass die Kinder noch Schonung
+brauchen; auch habe ich für säugende Schafe und Rinder zu sorgen.
+Überanstrengt man sie nur einen einzigen Tag, so geht das ganze Vieh
+ein.
+
+<<v14>>
+14 Mein Herr ziehe doch seinem Knecht voraus. Ich aber will mich dem
+gemächlichen Gang der Viehherden vor mir und dem Schritt der Kinder
+anpassen, bis ich zu meinem Herrn nach Seïr komme.
+
+<<v15>>
+15 Darauf sagte Esau: Ich will dir einige von meinen Leuten zuweisen.
+Wozu?, erwiderte Jakob, ich finde ja das Wohlwollen meines Herrn.
+
+<<v16>>
+16 Esau kehrte an jenem Tag um und zog nach Seïr zurück.
+
+<<v17>>
+17 Jakob brach nach Sukkot auf. Er baute sich ein Haus und für sein Vieh
+errichtete er Hütten. Darum gab er dem Ort den Namen Sukkot (Hütten).
+
+<<v18>>
+18 Jakob gelangte, als er aus Paddan-Aram kam, wohlbehalten bis Sichem
+in Kanaan und schlug vor der Stadt sein Lager auf.
+
+<<v19>>
+19 Das Grundstück, auf dem er sein Zelt aufspannte, erwarb er von den
+Söhnen Hamors, des Vaters von Sichem, für hundert Kesita.
+
+<<v20>>
+20 Dort errichtete er einen Altar und nannte ihn: Gott, der Gott
+Israels.\\
+\\

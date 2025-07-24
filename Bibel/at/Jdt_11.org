@@ -1,0 +1,148 @@
+#+TITLE: Jdt 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:56]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 11.html
+
+<<verses>>
+
+<<v1>>
+* Das Gespräch des Holofernes mit Judit: 11,1-23
+
+1 Holofernes sagte zu ihr: Nur Mut, Frau, fürchte dich nicht! Ich habe
+noch keinem Menschen etwas zuleid getan, der sich für den Dienst
+Nebukadnezzars, des Königs der ganzen Erde, entschieden hat.
+
+<<v2>>
+2 Ich hätte auch jetzt gegen dein Volk, das im Bergland wohnt, nie
+meinen Speer erhoben, wenn es mir nicht seine Verachtung gezeigt hätte;
+das haben sie sich selbst zu verdanken.
+
+<<v3>>
+3 Sag mir jetzt, warum du von ihnen entflohen und zu uns übergelaufen
+bist. Es war deine Rettung, dass du hergekommen bist. Sei unbesorgt, du
+wirst heute Nacht und auch weiterhin am Leben bleiben.
+
+<<v4>>
+4 Niemand wird dir ein Leid antun. Im Gegenteil, man wird dich gut
+behandeln, wie es die Diener meines Herrn, des Königs Nebukadnezzar,
+gewohnt sind.
+
+<<v5>>
+5 Judit sagte zu ihm: Nimm die Worte deiner Sklavin gnädig auf und
+erlaube deiner Magd, vor dir zu reden. Ich erzähle meinem Herrn in
+dieser Nacht keine Lüge.
+
+<<v6>>
+6 Wenn du dem Rat deiner Magd folgst, dann wird Gott dein Unternehmen zu
+einem guten Ende führen, und mein Herr wird sein Ziel nicht verfehlen.
+
+<<v7>>
+7 Denn so wahr Nebukadnezzar lebt, der König der ganzen Erde, und so
+wahr die Macht dessen gilt, der dich aussandte, um alle Welt zur Ordnung
+zu rufen: Du machst ihm nicht nur die Menschen untertan; auch die wilden
+Tiere, das Vieh und die Vögel werden dank deiner Tatkraft unter der
+Herrschaft Nebukadnezzars und seines ganzen Hauses leben. [fn:1]
+
+<<v8>>
+8 Wir haben nämlich von deiner Weisheit und von den großartigen
+Fähigkeiten deines Geistes gehört; aller Welt ist bekannt, dass du
+allein im ganzen Reich tüchtig bist, erfolgreich durch dein Wissen und
+bewundernswert in der Kriegführung.
+
+<<v9>>
+9 Was die Rede betrifft, die Achior in deinem Kriegsrat gehalten hat, so
+sind uns seine Ausführungen zu Ohren gekommen; denn die Männer von
+Betulia haben ihn am Leben gelassen und er hat ihnen alles berichtet,
+was er bei dir gesprochen hat.
+
+<<v10>>
+10 Darum sage ich dir, mein Herr und Gebieter, verachte seine Rede
+nicht, sondern nimm sie dir zu Herzen! Sie entspricht nämlich der
+Wahrheit: Unser Volk kann tatsächlich nur dann bestraft werden und das
+Schwert hat nur dann Gewalt über sie, wenn sie sich gegen ihren Gott
+versündigt haben.
+
+<<v11>>
+11 Jetzt aber ist es so, dass mein Herr nicht unverrichteter Dinge
+wieder abziehen muss. Der Tod wird über sie kommen; denn eine Sünde hat
+von ihnen Besitz ergriffen und sie werden ihren Gott zum Zorn reizen,
+sobald sie das Unerlaubte wirklich tun.
+
+<<v12>>
+12 Als ihnen nämlich die Lebensmittel ausgingen und der Wasservorrat
+immer knapper wurde, beschlossen sie, sich über ihr Vieh herzumachen,
+und sie sind gewillt, all das zu verzehren, was Gott ihnen in seinem
+Gesetz als Nahrung verboten hat.
+
+<<v13>>
+13 Auch die Ersterträge des Getreides und den Zehnten von Wein und Öl,
+die sie als Weihegaben für die Dienst tuenden Priester unseres Gottes in
+Jerusalem aufbewahrt haben, beschlossen sie, restlos zu verzehren; dabei
+darf keiner aus dem Volk die Weihegaben auch nur mit den Händen
+anrühren. [fn:2]
+
+<<v14>>
+14 Sie haben Boten nach Jerusalem geschickt, weil die dortige
+Bevölkerung ebenso gehandelt hat; nun sollen die Boten ihnen den
+Schulderlass des Ältestenrates besorgen.
+
+<<v15>>
+15 Doch folgendes wird geschehen: Sobald ihnen der Schulderlass
+mitgeteilt ist und sie zur Tat schreiten, werden sie dir noch am
+gleichen Tag zu ihrem Verderben ausgeliefert.
+
+<<v16>>
+16 Daher bin ich, deine Sklavin, von ihnen weggelaufen, nachdem ich das
+alles durchschaut hatte. Ja, Gott hat mich gesandt, damit ich mit dir
+die Dinge vollbringe, über die alle Welt, wenn sie davon erfährt, in
+Staunen gerät.
+
+<<v17>>
+17 Deine Sklavin ist eine gottesfürchtige Frau und dient Tag und Nacht
+dem Gott des Himmels. Jetzt will ich bei dir bleiben, mein Herr; doch in
+der Nacht wird deine Sklavin in die Schlucht hinausgehen. Ich will zu
+Gott beten und er wird mir sagen, wann sie ihre Sünden begangen haben.
+
+<<v18>>
+18 Dann will ich kommen und es dir mitteilen. Du aber wirst mit deinen
+Truppen ausziehen und keiner von ihnen wird dir Widerstand leisten.
+
+<<v19>>
+19 Ich werde dich quer durch Judäa bis nach Jerusalem führen und dort
+mitten in der Stadt deinen Feldherrnstuhl aufrichten. Du wirst sie
+wegführen wie Schafe, die keinen Hirten haben, und kein Hund wird gegen
+dich bellen. Das wurde mir kraft meiner Sehergabe offenbart und ich bin
+hergesandt worden, um es dir kundzutun.
+
+<<v20>>
+20 Ihre Worte gefielen Holofernes und seinem ganzen Gefolge. Sie
+staunten über die Weisheit und sagten:
+
+<<v21>>
+21 Es gibt von einem Ende der Erde bis zum andern keine zweite Frau, die
+so bezaubernd aussieht und so verständig reden kann.
+
+<<v22>>
+22 Holofernes sagte zu ihr: Dein Gott hat wohl daran getan, dass er dich
+aus deinem Volk hersandte; so wird uns der Sieg zuteil, aber jene, die
+meinen Herrn verachtet haben, wird das Verderben treffen.
+
+<<v23>>
+23 Wahrhaftig, du bist wunderschön und verstehst ausgezeichnet zu reden.
+Wenn du tust, was du versprochen hast, dann soll dein Gott auch mein
+Gott sein; du sollst im Palast des Königs Nebukadnezzar wohnen und in
+aller Welt berühmt sein.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Jer_27.org::v6][Jer 27,6]]
+
+[fn:2] [[file:Dtn_14.org::v22][Dtn 14,22]]; [[file:Dtn_18.org::v4][18,4]]

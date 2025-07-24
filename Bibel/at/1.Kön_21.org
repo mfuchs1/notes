@@ -1,0 +1,172 @@
+#+TITLE: 1 Kön 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 16:34]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 21.html
+
+<<verses>>
+
+<<v1>>
+* Nabots Weinberg: 21,1-29
+
+1 Danach trug sich Folgendes zu. Nabot aus Jesreel hatte einen Weinberg
+in Jesreel neben dem Palast Ahabs, des Königs von Samarien. [fn:1]
+
+<<v2>>
+2 Ahab verhandelte mit Nabot und schlug ihm vor: Gib mir deinen
+Weinberg! Er soll mir als Gemüsegarten dienen; denn er liegt nahe bei
+meinem Haus. Ich will dir dafür einen besseren Weinberg geben. Wenn es
+dir aber lieber ist, bezahle ich dir den Kaufpreis in Geld.
+
+<<v3>>
+3 Doch Nabot erwiderte: Der Herr bewahre mich davor, dass ich dir das
+Erbe meiner Väter überlasse.
+
+<<v4>>
+4 Darauf kehrte Ahab in sein Haus zurück. Er war missmutig und
+verdrossen, weil Nabot aus Jesreel zu ihm gesagt hatte: Ich werde dir
+das Erbe meiner Väter nicht überlassen. Er legte sich auf sein Bett,
+wandte das Gesicht zur Wand und wollte nicht essen.
+
+<<v5>>
+5 Seine Frau Isebel kam zu ihm herein und fragte: Warum bist du
+missmutig und willst nicht essen?
+
+<<v6>>
+6 Er erzählte ihr: Ich habe mit Nabot aus Jesreel verhandelt und ihm
+gesagt: Verkauf mir deinen Weinberg für Geld, oder wenn es dir lieber
+ist, gebe ich dir einen anderen dafür. Doch er hat geantwortet: Ich
+werde dir meinen Weinberg nicht geben.
+
+<<v7>>
+7 Da sagte seine Frau Isebel zu ihm: Du bist doch jetzt König in Israel.
+Steh auf, iss und sei guter Dinge! Ich werde dir den Weinberg Nabots aus
+Jesreel verschaffen.
+
+<<v8>>
+8 Sie schrieb Briefe im Namen Ahabs, versah sie mit seinem Siegel und
+schickte sie an die Ältesten und Vornehmen, die mit Nabot zusammen in
+der Stadt wohnten.
+
+<<v9>>
+9 In den Briefen schrieb sie: Ruft ein Fasten aus und lasst Nabot oben
+vor allem Volk Platz nehmen! [fn:2]
+
+<<v10>>
+10 Setzt ihm aber zwei nichtswürdige Männer gegenüber! Sie sollen gegen
+ihn als Zeugen auftreten und sagen: Du hast Gott und den König
+gelästert. Führt ihn dann hinaus und steinigt ihn zu Tode! [fn:3] [fn:4]
+
+<<v11>>
+11 Die Männer der Stadt, die Ältesten und Vornehmen, die mit ihm
+zusammen in der Stadt wohnten, taten, was Isebel ihnen geboten hatte,
+was in den Briefen stand, die sie ihnen gesandt hatte.
+
+<<v12>>
+12 Sie riefen ein Fasten aus und ließen Nabot oben vor allem Volk Platz
+nehmen.
+
+<<v13>>
+13 Es kamen aber auch die beiden nichtswürdigen Männer und setzten sich
+ihm gegenüber. Sie standen vor dem Volk als Zeugen gegen Nabot auf und
+sagten: Nabot hat Gott und den König gelästert. Sogleich führte man ihn
+aus der Stadt hinaus und steinigte ihn zu Tode.
+
+<<v14>>
+14 Darauf ließen sie Isebel melden: Nabot wurde gesteinigt und ist tot.
+
+<<v15>>
+15 Sobald sie hörte, dass Nabot gesteinigt wurde und tot war, sagte sie
+zu Ahab: Auf, nimm den Weinberg Nabots aus Jesreel in Besitz, den er dir
+für Geld nicht verkaufen wollte; denn Nabot lebt nicht mehr; er ist tot.
+
+<<v16>>
+16 Als Ahab hörte, dass Nabot tot war, stand er auf und ging zum
+Weinberg Nabots aus Jesreel hinab, um von ihm Besitz zu ergreifen.
+
+<<v17>>
+17 Da erging das Wort des Herrn an Elija aus Tischbe:
+
+<<v18>>
+18 Mach dich auf und geh Ahab, dem König von Israel, entgegen, der in
+Samaria seinen Wohnsitz hat. Er ist zum Weinberg Nabots hinabgegangen,
+um von ihm Besitz zu ergreifen.
+
+<<v19>>
+19 Sag ihm: So spricht der Herr: Durch einen Mord bist du Erbe geworden?
+Weiter sag ihm: So spricht der Herr: An der Stelle, wo die Hunde das
+Blut Nabots geleckt haben, werden Hunde auch dein Blut lecken. [fn:5]
+
+<<v20>>
+20 Ahab sagte zu Elija: Hast du mich gefunden, mein Feind? Er erwiderte:
+Ich habe dich gefunden. Weil du dich hergabst, das zu tun, was dem Herrn
+missfällt,
+
+<<v21>>
+21 werde ich Unheil über dich bringen. Ich werde dein Geschlecht
+hinwegfegen und von Ahabs Geschlecht alles, was männlich ist, bis zum
+letzten Mann in Israel ausrotten. [fn:6]
+
+<<v22>>
+22 Weil du mich zum Zorn gereizt und Israel zur Sünde verführt hast,
+werde ich mit deinem Haus verfahren wie mit dem Haus Jerobeams, des
+Sohnes Nebats, und mit dem Haus Baschas, des Sohnes Ahijas.
+
+<<v23>>
+23 Und über Isebel verkündet der Herr: Die Hunde werden Isebel an der
+Mauer von Jesreel auffressen. [fn:7]
+
+<<v24>>
+24 Wer von der Familie Ahabs in der Stadt stirbt, den werden die Hunde
+fressen, und wer auf dem freien Feld stirbt, den werden die Vögel des
+Himmels fressen.
+
+<<v25>>
+25 Es gab in der Tat niemand, der sich wie Ahab hergab zu tun, was dem
+Herrn missfiel, da seine Frau Isebel ihn verführte.
+
+<<v26>>
+26 Sein Tun war überaus verwerflich; er lief den Götzen nach und folgte
+den Gebräuchen der Amoriter, die der Herr vor den Israeliten vertrieben
+hatte.
+
+<<v27>>
+27 Als Ahab diese Drohungen hörte, zerriss er seine Kleider, trug ein
+Bußgewand auf dem bloßen Leib, fastete, schlief im Bußgewand und ging
+bedrückt umher.
+
+<<v28>>
+28 Da erging das Wort des Herrn an Elija aus Tischbe:
+
+<<v29>>
+29 Hast du gesehen, wie Ahab sich vor mir gedemütigt hat? Weil er sich
+vor mir gedemütigt hat, will ich das Unglück nicht schon in seinen Tagen
+kommen lassen. Erst in den Tagen seines Sohnes werde ich das Unheil über
+sein Haus bringen.\\
+\\
+
+* Footnotes
+
+[fn:1] Jesreel war neben Samaria Residenzstadt.
+
+[fn:2] Ein allgemeines Fasten konnte bei Unglück und Trauer zur
+Unterstützung einer Bitte oder zur Aufdeckung einer Schuld angeordnet
+werden. Der Ehrenplatz, den man Nabot anbot, sollte seine Schuld um so
+verwerflicher erscheinen lassen.
+
+[fn:3] [[file:Lev_24.org::v16][Lev 24,16]]
+
+[fn:4] lästern: wörtlich: segnen. Nabot soll beschuldigt
+werden, Fluchworte über den König ausgesprochen zu haben (vgl. [[file:Ex_22.org::v27][Ex 22,27]]).
+
+[fn:5] Die Drohung ging am Sohn Ahabs in Erfüllung (vgl. [[file:2.Kön_9.org::v25][2 Kön 9,25f]]).
+
+[fn:6] [[file:1.Kön_14.org::v10][14,10]]; [[file:1.Kön_16.org::v4][16,4]]; [[file:2.Kön_9.org::v8][2 Kön 9,8]]
+
+[fn:7] [[file:2.Kön_9.org::v36][2 Kön 9,36]]

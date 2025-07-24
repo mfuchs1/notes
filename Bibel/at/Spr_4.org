@@ -1,0 +1,165 @@
+#+TITLE: Spr 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-21 Mi 21:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 4.html
+
+* Spr 4
+
+<<verses>>
+
+<<v1>>
+* Die Mahnung zur Weisheit: 4,1-27
+
+1 Ihr Söhne, hört auf die Mahnung des Vaters, /\\
+ merkt auf, damit ihr Einsicht lernt;\\
+\\
+
+<<v2>>
+2 denn gute Lehre gebe ich euch. /\\
+ Lasst nicht ab von meiner Weisung!\\
+\\
+
+<<v3>>
+3 Als ich noch ein Knabe war bei meinem Vater, /\\
+ das zarte und einzige Kind meiner Mutter,\\
+\\
+
+<<v4>>
+4 da lehrte er mich und sagte zu mir: /\\
+ Nimm dir meine Worte zu Herzen, /\\
+ folge meinen Geboten und du wirst leben. [fn:1]\\
+\\
+
+<<v5>>
+5 Erwirb dir Weisheit, erwirb dir Einsicht, /\\
+ vergiss sie nicht, weich nicht ab von meinen Worten! [fn:2]\\
+\\
+
+<<v6>>
+6 Lass nicht von ihr und sie wird dich behüten, /\\
+ liebe sie und sie wird dich beschützen.\\
+\\
+
+<<v7>>
+7 Anfang der Weisheit ist: Erwirb dir Weisheit, /\\
+ erwirb dir Einsicht mit deinem ganzen Vermögen!\\
+\\
+
+<<v8>>
+8 Halte sie hoch, dann wird sie dich erhöhen; /\\
+ sie bringt dich zu Ehren, wenn du sie umarmst.\\
+\\
+
+<<v9>>
+9 Sie setzt dir einen schönen Kranz auf das Haupt, /\\
+ eine prächtige Krone wird sie dir schenken.\\
+\\
+
+<<v10>>
+10 Höre, mein Sohn, und nimm meine Worte an, /\\
+ dann mehren sich die Jahre deines Lebens.\\
+\\
+
+<<v11>>
+11 Den Weg der Weisheit zeige ich dir, /\\
+ ich leite dich auf ebener Bahn.\\
+\\
+
+<<v12>>
+12 Wenn du gehst, ist dein Schritt nicht beengt, /\\
+ wenn du läufst, wirst du nicht straucheln.\\
+\\
+
+<<v13>>
+13 Halt fest an der Zucht und lass davon nicht ab, /\\
+ bewahre sie; denn sie ist dein Leben.\\
+\\
+
+<<v14>>
+14 Betritt nicht den Pfad der Frevler, /\\
+ beschreite nicht den Weg der Bösen!\\
+\\
+
+<<v15>>
+15 Meide ihn, geh nicht auf ihm, /\\
+ kehr dich von ihm ab und geh vorbei!\\
+\\
+
+<<v16>>
+16 Denn sie schlafen nicht, ehe sie Böses tun; /\\
+ der Schlaf flieht sie, bis sie Verbrechen begehen.\\
+\\
+
+<<v17>>
+17 Sie essen das Brot des Unrechts /\\
+ und trinken den Wein der Gewalttat.\\
+\\
+
+<<v18>>
+18 Doch der Pfad der Gerechten /\\
+ ist wie das Licht am Morgen; /\\
+ es wird immer heller bis zum vollen Tag.\\
+\\
+
+<<v19>>
+19 Der Weg der Frevler ist wie dunkle Nacht; /\\
+ sie merken nicht, worüber sie fallen.\\
+\\
+
+<<v20>>
+20 Mein Sohn, achte auf meine Worte, /\\
+ neige dein Ohr meiner Rede zu!\\
+\\
+
+<<v21>>
+21 Lass sie nicht aus den Augen, /\\
+ bewahre sie tief im Herzen!\\
+\\
+
+<<v22>>
+22 Denn Leben bringen sie dem, der sie findet, /\\
+ und Gesundheit seinem ganzen Leib.\\
+\\
+
+<<v23>>
+23 Mehr als alles hüte dein Herz; /\\
+ denn von ihm geht das Leben aus.\\
+\\
+
+<<v24>>
+24 Vermeide alle Falschheit des Mundes /\\
+ und Verkehrtheit der Lippen halt von dir fern!\\
+\\
+
+<<v25>>
+25 Deine Augen sollen geradeaus schauen /\\
+ und deine Blicke richte nach vorn!\\
+\\
+
+<<v26>>
+26 Ebne die Straße für deinen Fuß /\\
+ und alle deine Wege seien geordnet.\\
+\\
+
+<<v27>>
+27 Bieg nicht ab, weder rechts noch links, /\\
+ halt deinen Fuß vom Bösen zurück! [fn:3]\\
+\\
+
+* Footnotes
+
+[fn:1] 4-7: Text in H und G nicht einheitlich.
+
+[fn:2] [[file:Spr_23.org::v23][23,23]]
+
+[fn:3] G und Vg fügen zwei weitere Verse an: Denn die Wege zur
+Rechten kennt Gott, doch krumm sind die Wege zur Linken. Er aber wird
+deine Pfade eben machen und deine Bahnen in Frieden geleiten.

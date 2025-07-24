@@ -1,0 +1,392 @@
+#+TITLE: 1 Kön 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-12 So 20:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 8.html
+
+<<verses>>
+
+<<v1>>
+* Die Übertragung der Bundeslade: 8,1-13
+
+1 Damals versammelte Salomo die Ältesten Israels, alle Stammesführer und
+die Häupter der israelitischen Großfamilien bei sich in Jerusalem, um
+die Bundeslade des Herrn aus der Stadt Davids, das ist Zion,
+heraufzuholen. [fn:1]
+
+<<v2>>
+2 Am Fest im Monat Etanim, das ist der siebte Monat, kamen alle Männer
+Israels bei König Salomo zusammen. [fn:2]
+
+<<v3>>
+3 In Gegenwart aller Ältesten Israels nahmen die Priester die Lade
+
+<<v4>>
+4 und brachten sie zugleich mit dem Offenbarungszelt und den heiligen
+Geräten, die im Zelt waren, hinauf. Die Priester und die Leviten
+übernahmen den Trägerdienst. [fn:3]
+
+<<v5>>
+5 König Salomo aber und die ganze Gemeinde Israels, die bei ihm vor der
+Lade versammelt war, schlachteten Schafe und Rinder, die man wegen ihrer
+Menge nicht zählen und nicht berechnen konnte.
+
+<<v6>>
+6 Darauf stellten die Priester die Bundeslade des Herrn an ihren Platz,
+in die Gotteswohnung des Hauses, in das Allerheiligste, unter die Flügel
+der Kerubim.
+
+<<v7>>
+7 Denn die Kerubim breiteten ihre Flügel über den Ort, wo die Lade
+stand, und bedeckten sie und ihre Stangen von oben her.
+
+<<v8>>
+8 Die Stangen waren so lang, dass man ihre Spitzen im Heiligtum vor der
+Gotteswohnung sehen konnte; draußen aber waren sie nicht zu sehen. Sie
+blieben dort bis zum heutigen Tag.
+
+<<v9>>
+9 In der Lade befanden sich nur die zwei steinernen Tafeln, die Mose am
+Horeb hineingelegt hatte, die Tafeln des Bundes, den der Herr mit den
+Israeliten beim Auszug aus Ägypten geschlossen hatte.
+
+<<v10>>
+10 Als dann die Priester aus dem Heiligtum traten, erfüllte die Wolke
+das Haus des Herrn.
+
+<<v11>>
+11 Sie konnten wegen der Wolke ihren Dienst nicht verrichten; denn die
+Herrlichkeit des Herrn erfüllte das Haus des Herrn.\\
+\\
+
+<<v12>>
+12 Damals sagte Salomo: Der Herr hat die Sonne an den Himmel gesetzt;
+/\\
+ er selbst wollte im Dunkel wohnen. [fn:4]\\
+\\
+
+<<v13>>
+13 Ich habe ein fürstliches Haus für dich gebaut, /\\
+ eine Wohnstätte für ewige Zeiten.\\
+\\
+
+<<v14>>
+* Die Ansprache des Königs: 8,14-21
+
+14 Dann wandte sich der König um und segnete die ganze Versammlung
+Israels. Alle standen [fn:5]
+
+<<v15>>
+15 und er betete: Gepriesen sei der Herr, der Gott Israels. Seine Hand
+hat ausgeführt, was sein Mund meinem Vater David verheißen hat, als er
+sprach:
+
+<<v16>>
+16 Seit dem Tag, da ich mein Volk Israel aus Ägypten führte, habe ich
+aus keinem der Stämme Israels eine Stadt für den Bau eines Hauses
+erwählt, um meinen Namen dort wohnen zu lassen. David aber habe ich zum
+Herrscher über mein Volk Israel erwählt.
+
+<<v17>>
+17 Mein Vater David wollte dem Namen des Herrn, des Gottes Israels, ein
+Haus bauen. [fn:6]
+
+<<v18>>
+18 Doch der Herr sprach zu ihm: Wenn du dir vorgenommen hast, meinem
+Namen ein Haus zu bauen, hast du einen guten Entschluss gefasst.
+
+<<v19>>
+19 Doch sollst nicht du das Haus bauen; sondern erst dein leiblicher
+Sohn soll meinem Namen das Haus bauen.
+
+<<v20>>
+20 Der Herr hat jetzt sein Versprechen, das er gegeben hat, wahr
+gemacht: Ich bin an die Stelle meines Vaters David getreten und habe den
+Thron Israels bestiegen, wie es der Herr zugesagt hatte. Ich habe dem
+Namen des Herrn, des Gottes Israels, das Haus gebaut
+
+<<v21>>
+21 und darin einen Raum für die Lade geschaffen. Sie enthält die Tafeln
+des Bundes, den der Herr mit unseren Vätern geschlossen hat, als er sie
+aus Ägypten führte.\\
+\\
+
+<<v22>>
+* Das Weihegebet: 8,22-53
+
+22 Dann trat Salomo in Gegenwart der ganzen Versammlung Israels vor den
+Altar des Herrn, breitete seine Hände zum Himmel aus [fn:7]
+
+<<v23>>
+23 und betete: Herr, Gott Israels, im Himmel oben und auf der Erde unten
+gibt es keinen Gott, der so wie du Bund und Huld seinen Knechten
+bewahrt, die mit ungeteiltem Herzen vor ihm leben.
+
+<<v24>>
+24 Du hast das Versprechen gehalten, das du deinem Knecht, meinem Vater
+David, gegeben hast. Deine Hand hat heute erfüllt, was dein Mund
+versprochen hat.
+
+<<v25>>
+25 Und nun, Herr, Gott Israels, halte auch das andere Versprechen, das
+du deinem Knecht David, meinem Vater, gegeben hast, als du sagtest: Es
+soll dir nie an einem Nachkommen fehlen, der vor mir auf dem Thron
+Israels sitzt, wenn nur deine Söhne darauf achten, ihren Weg so vor mir
+zu gehen, wie du es getan hast.
+
+<<v26>>
+26 Gott Israels, möge sich jetzt dein Wort, das du deinem Knecht David,
+meinem Vater, gegeben hast, als wahr erweisen.
+
+<<v27>>
+27 Wohnt denn Gott wirklich auf der Erde? Siehe, selbst der Himmel und
+die Himmel der Himmel fassen dich nicht, wie viel weniger dieses Haus,
+das ich gebaut habe.
+
+<<v28>>
+28 Wende dich, Herr, mein Gott, dem Beten und Flehen deines Knechtes zu!
+Höre auf das Rufen und auf das Gebet, das dein Knecht heute vor dir
+verrichtet.
+
+<<v29>>
+29 Halte deine Augen offen über diesem Haus bei Nacht und bei Tag, über
+der Stätte, von der du gesagt hast, dass dein Name hier wohnen soll.
+Höre auf das Gebet, das dein Knecht an dieser Stätte verrichtet.
+
+<<v30>>
+30 Achte auf das Flehen deines Knechtes und deines Volkes Israel, wenn
+sie an dieser Stätte beten. Höre sie im Himmel, dem Ort, wo du wohnst.
+Höre sie und verzeih!
+
+<<v31>>
+31 Wenn sich jemand gegen seinen Nächsten verfehlt und dieser ihm einen
+Eid abverlangt, den er schwören muss, und er dann kommt und vor deinem
+Altar in diesem Haus schwört, [fn:8]
+
+<<v32>>
+32 so höre du es im Himmel und greif ein! Verschaff deinen Knechten
+Recht; verurteile den Schuldigen und lass sein Tun auf ihn selbst
+zurückfallen! Den Schuldlosen aber sprich frei und vergilt ihm, wie es
+seiner Gerechtigkeit entspricht.
+
+<<v33>>
+33 Wenn dein Volk Israel von einem Feind geschlagen wird, weil es gegen
+dich gesündigt hat, und dann wieder zu dir umkehrt, deinen Namen preist
+und in diesem Haus zu dir betet und fleht,
+
+<<v34>>
+34 so höre du es im Himmel! Vergib deinem Volk Israel seine Sünde; lass
+sie in das Land zurückkommen, das du ihren Vätern gegeben hast.
+
+<<v35>>
+35 Wenn der Himmel verschlossen ist und kein Regen fällt, weil sie gegen
+dich gesündigt haben, und wenn sie dann an diesem Ort beten, deinen
+Namen preisen und von ihrer Sünde lassen, weil du sie demütigst, [fn:9]
+
+<<v36>>
+36 so höre du sie im Himmel! Vergib deinen Knechten und deinem Volk
+Israel ihre Sünden; denn du führst sie den guten Weg, den sie gehen
+sollen. Spende Regen deinem Land, das du deinem Volk zum Erbbesitz
+gegeben hast.
+
+<<v37>>
+37 Wenn im Land Hungersnot herrscht, wenn Pest ausbricht, wenn
+Getreidebrand, Rost, Heuschrecken und Ungeziefer auftreten, wenn Feinde
+sie im eigenen Land bedrängen, wenn irgendeine Plage oder Krankheit sie
+trifft,
+
+<<v38>>
+38 (so höre du) jedes Gebet und Flehen eines jeden einzelnen und deines
+ganzen Volkes Israel; denn sie alle kennen die Not ihres Herzens und
+erheben ihre Hände zu diesem Haus.
+
+<<v39>>
+39 Höre sie dann im Himmel, dem Ort, wo du wohnst, und verzeih! Greif
+ein, und vergilt jedem, wie es sein Tun verdient. Du kennst ja ihre
+Herzen; denn du allein kennst die Herzen aller Menschen.
+
+<<v40>>
+40 So werden sie dich fürchten, solange sie in dem Land leben, das du
+unseren Vätern gegeben hast.
+
+<<v41>>
+41 Auch Fremde, die nicht zu deinem Volk Israel gehören, werden wegen
+deines Namens aus fernen Ländern kommen;
+
+<<v42>>
+42 denn sie werden von deinem großen Namen, deiner starken Hand und
+deinem hoch erhobenen Arm hören. Sie werden kommen und in diesem Haus
+beten.
+
+<<v43>>
+43 Höre sie dann im Himmel, dem Ort, wo du wohnst, und tu alles,
+weswegen der Fremde zu dir ruft. Dann werden alle Völker der Erde deinen
+Namen erkennen. Sie werden dich fürchten, wie dein Volk Israel dich
+fürchtet, und erfahren, dass dein Name ausgerufen ist über diesem Haus,
+das ich gebaut habe.
+
+<<v44>>
+44 Wenn dein Volk auf dem Weg, den du es führst, gegen seine Feinde in
+den Krieg zieht und wenn es dann zu dir betet, zur Stadt hingewendet,
+die du erwählt hast, und zu dem Haus hin, das ich deinem Namen gebaut
+habe,
+
+<<v45>>
+45 so höre du im Himmel sein Beten und Flehen und verschaff ihm Recht.
+
+<<v46>>
+46 Wenn sie gegen dich sündigen - es gibt ja niemand, der nicht
+sündigt - und du ihnen zürnst, sie ihren Bedrängern preisgibst und ihre
+Feinde sie gefangen fortführen in ein fernes oder nahes Land,
+
+<<v47>>
+47 so werden sie im Land ihrer Gefangenschaft in sich gehen. Sie werden
+im Land ihrer Gefangenschaft umkehren, zu dir flehen und rufen: Wir
+haben gesündigt, Unrecht getan und gefrevelt.
+
+<<v48>>
+48 Mit ganzem Herzen und ganzer Seele werden sie im Land ihrer Feinde,
+von denen sie als Gefangene weggeführt wurden, zu dir umkehren und zu
+dir beten, zum Land hingewendet, das du ihren Vätern gegeben hast, zur
+Stadt hin, die du erwählt hast, und zum Haus hin, das ich deinem Namen
+gebaut habe.
+
+<<v49>>
+49 Höre dann im Himmel, dem Ort, wo du wohnst, ihr Beten und Flehen!
+Verschaff ihnen Recht
+
+<<v50>>
+50 und verzeih deinem Volk, was es gegen dich gesündigt hat; verzeih ihm
+alle Frevel, die es gegen dich begangen hat. Lass sie bei ihren
+Unterdrückern Mitleid und Erbarmen finden!
+
+<<v51>>
+51 Sie sind ja dein Volk und dein Eigentum, das du aus dem Schmelzofen,
+aus Ägypten, herausgeführt hast.
+
+<<v52>>
+52 Halte deine Augen offen für das Flehen deines Knechtes und für das
+Flehen deines Volkes Israel! Erhöre sie, sooft sie zu dir rufen.
+
+<<v53>>
+53 Du hast dir Israel unter allen Völkern der Erde als Eigentum
+ausgewählt, wie du es durch deinen Knecht Mose verkündet hast, als du
+unsere Väter aus Ägypten geführt hast, Herr und Gott.\\
+\\
+
+<<v54>>
+* Salomos Segen: 8,54-61
+
+54 Als Salomo dieses flehentliche Gebet zum Herrn beendet hatte, erhob
+er sich auf dem Platz vor dem Altar des Herrn, wo er niedergekniet war
+und die Hände zum Himmel ausgebreitet hatte.
+
+<<v55>>
+55 Er trat vor die ganze Versammlung Israels, segnete sie und rief mit
+lauter Stimme:
+
+<<v56>>
+56 Gepriesen sei der Herr, der seinem Volk Israel Ruhe geschenkt hat,
+wie er es versprochen hat. Von all den herrlichen Verheißungen, die er
+durch seinen Knecht Mose verkündet hat, ist nicht eine hinfällig
+geworden.
+
+<<v57>>
+57 Der Herr, unser Gott, sei mit uns, wie er mit unseren Vätern war. Er
+verlasse uns nicht und verstoße uns nicht.
+
+<<v58>>
+58 Er lenke unsere Herzen zu sich hin, damit wir auf seinen Wegen gehen
+und die Gebote, Befehle und Anordnungen befolgen, die er unseren Vätern
+gegeben hat.
+
+<<v59>>
+59 Mögen diese Worte, die ich flehend vor dem Herrn, unserem Gott,
+gesprochen habe, ihm Tag und Nacht gegenwärtig bleiben. Möge er seinem
+Knecht und seinem Volk Israel Recht verschaffen, wie es jeder Tag
+verlangt,
+
+<<v60>>
+60 damit alle Völker der Erde erkennen, dass niemand Gott ist als der
+Herr allein.
+
+<<v61>>
+61 Euer Herz aber bleibe ungeteilt beim Herrn, unserem Gott, sodass ihr
+seinen Gesetzen folgt und auf seine Gebote achtet, wie es heute
+geschieht.\\
+\\
+
+<<v62>>
+* Der Abschluss der Feier: 8,62-66
+
+62 Dann brachten der König und mit ihm ganz Israel vor dem Herrn Opfer
+dar. [fn:10]
+
+<<v63>>
+63 Zweiundzwanzigtausend Rinder und hundertzwanzigtausend Schafe ließ
+Salomo als Heilsopfer für den Herrn schlachten. So vollzogen der König
+und alle Israeliten die Weihe des Hauses des Herrn. [fn:11]
+
+<<v64>>
+64 An jenem Tag weihte der König auch die Mitte des Hofes, der vor dem
+Haus des Herrn war, als er dort das Brandopfer, das Speiseopfer und die
+Fettstücke der Heilsopfer darbrachte. Der bronzene Altar, der vor dem
+(Tempel des) Herrn stand, war nämlich zu klein, um das Brandopfer, das
+Speiseopfer und die Fettstücke der Heilsopfer fassen zu können.
+
+<<v65>>
+65 Salomo feierte damals mit ganz Israel, das von Lebo-Hamat bis zum
+Grenzbach Ägyptens zu einer großen Versammlung vor dem Herrn, unserem
+Gott, erschienen war, das (Laubhütten-)Fest sieben Tage lang [und
+nochmals sieben Tage, zusammen vierzehn Tage]. [fn:12]
+
+<<v66>>
+66 Am achten Tag entließ er das Volk. Sie priesen den König und gingen
+zu ihren Zelten, frohen Mutes und voll Freude über all das Gute, das der
+Herr an seinem Knecht David und seinem Volk Israel getan hatte.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-13) [[file:2.Chr_5.org::v2][2 Chr 5,2-11]]; [[file:2.Chr_6.org::v1][6,1f]]
+
+[fn:2] Der Monat Etanim (Monat «der ständig fließenden Bäche»)
+entspricht ungefähr unserem September/Oktober. Das Fest ist das
+Laubhüttenfest.
+
+[fn:3] Durch die Unterbringung des Offenbarungszeltes von
+Gibeon im Tempel und seine Vereinigung mit der Bundeslade übernahm der
+Tempel die Aufgabe des Wanderheiligtums der Wüstenzeit.
+
+[fn:4] Der erste Satz ist nur in G überliefert.
+
+[fn:5] (14-21) [[file:2.Chr_6.org::v3][2 Chr 6,3-11]]
+
+[fn:6] (17-19) [[file:2.Sam_7.org::v1][2 Sam 7,1-13]]
+
+[fn:7] (22-52) [[file:2.Chr_6.org::v12][2 Chr 6,12-40]]
+
+[fn:8] 31-51: Der Hauptteil des Gebets fleht nicht um Hilfe in
+augenblicklicher Not, sondern zählt Fälle auf, die in Zukunft Anlass zu
+einem Gebet im Tempel geben können. Es lassen sich sieben Bitten
+feststellen. Die Siebenzahl als heilige Zahl mag beabsichtigt sein.
+
+[fn:9] sie demütigst: Text korr. nach G; H: sie erhörst.
+
+[fn:10] (62-66) [[file:2.Chr_7.org::v4][2 Chr 7,4-10]]
+
+[fn:11] Zum Heilsopfer vgl. die Anmerkung zu [[file:Lev_3.org::v1][Lev 3,1-17]]. - Den
+hohen Zahlen der Opfertiere mag eine uns unbekannte Symbolik zugrunde
+liegen.
+
+[fn:12] Späterer Zusatz, eingefügt in der Annahme, dass die
+Tempelweihe und das Laubhüttenfest nicht gleichzeitig, sondern
+nacheinander in je siebentägiger Feier begangen wurden. - Lebo-Hamat:
+Name einer Landschaft oder eines Ortes zwischen Libanon und Antilibanon
+oder weiter im Norden, am Orontes.

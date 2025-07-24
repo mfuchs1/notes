@@ -1,0 +1,112 @@
+#+TITLE: 1 Chr 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-20 Mo 23:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 18.html
+
+<<verses>>
+
+<<v1>>
+* Die Siege Davids: 18,1-13
+
+1 Hernach schlug David die Philister. Er unterwarf sie und nahm ihnen
+Gat und seine Tochterstädte weg. [fn:1]
+
+<<v2>>
+2 Auch die Moabiter schlug er; sie wurden David untertan und
+tributpflichtig.
+
+<<v3>>
+3 David schlug auch Hadad-Eser, den König von Zoba, das in Richtung
+Hamat liegt, als dieser ausgezogen war, um seine Macht am Eufrat zu
+festigen.
+
+<<v4>>
+4 David erbeutete von ihm tausend Wagen und nahm siebentausend
+Wagenkämpfer und zwanzigtausend Fußsoldaten gefangen; er ließ alle
+Wagenpferde lähmen und behielt nur hundert von ihnen für sich zurück. [fn:2]
+
+<<v5>>
+5 Als die Aramäer von Damaskus Hadad-Eser, dem König von Zoba, zu Hilfe
+kamen, erschlug David zweiundzwanzigtausend von ihnen
+
+<<v6>>
+6 und besetzte das Aramäerreich von Damaskus. So wurden die Aramäer
+David untertan und tributpflichtig. Der Herr half David bei allem, was
+er unternahm.
+
+<<v7>>
+7 David erbeutete die goldenen Schilde, die die Krieger Hadad-Esers
+trugen, und brachte sie nach Jerusalem.
+
+<<v8>>
+8 In Tibhat und Kun, den Städten Hadad-Esers, erbeutete David eine sehr
+große Menge Bronze, aus der Salomo später das «Eherne Meer», die Säulen
+und die bronzenen Geräte anfertigen ließ. [fn:3]
+
+<<v9>>
+9 Als Toï, der König von Hamat, hörte, dass David das ganze Heer
+Hadad-Esers, des Königs von Zoba, geschlagen hatte,
+
+<<v10>>
+10 schickte er seinen Sohn Hadoram mit Gefäßen aus Gold, Silber und
+Bronze zu König David. Er ließ ihm den Friedensgruß entbieten und ihn
+dazu beglückwünschen, dass er Hadad-Eser im Krieg geschlagen hatte. Toë
+lebte nämlich im Krieg mit Hadad-Eser.
+
+<<v11>>
+11 König David weihte auch diese Gefäße dem Herrn, zusammen mit dem
+Silber und Gold, das er von allen Völkern, von Edom und Moab, von den
+Ammonitern, Philistern und Amalekitern erbeutet hatte.
+
+<<v12>>
+12 Abischai, der Sohn der Zeruja, schlug von Edom im Salztal
+achtzehntausend Mann
+
+<<v13>>
+13 und David setzte in Edom Vögte ein. So wurde ganz Edom von David
+unterworfen. Der Herr half David bei allem, was er unternahm.\\
+\\
+
+<<v14>>
+* Die Beamten Davids: 18,14-17
+     :PROPERTIES:
+     :CUSTOM_ID: die-beamten-davids-1814-17
+     :END:
+14 David war König von ganz Israel und sorgte für Recht und
+Gerechtigkeit in seinem ganzen Volk. [fn:4]
+
+<<v15>>
+15 Joab, der Sohn der Zeruja, war Heerführer. Joschafat, der Sohn
+Ahiluds, war Sprecher des Königs.
+
+<<v16>>
+16 Zadok, der Sohn Ahitubs, und Abjatar, der Sohn Ahimelechs, waren
+Priester. Schawscha war Staatsschreiber. [fn:5]
+
+<<v17>>
+17 Benaja, der Sohn Jojadas, war Befehlshaber der Kereter und Peleter.
+Die Söhne Davids waren die Ersten an der Seite des Königs. [fn:6]\\
+\\
+
+* Footnotes
+
+[fn:1] (1-13) [[file:2.Sam_8.org::v1][2 Sam 8,1-14]]
+
+[fn:2] In [[file:2.Sam_8.org::v4][2 Sam 8,4]] ist nur von siebzehnhundert Wagenkämpfern die Rede.
+
+[fn:3] [[file:2.Chr_4.org][2 Chr 4]]
+
+[fn:4] (14-17) [[file:2.Sam_8.org::v15][2 Sam 8,15-18]]; [[file:2.Sam_20.org::v23][20,23-26]]
+
+[fn:5] Text korr. nach [[file:1.Sam_22.org::v20][1 Sam 22,20]]; [[file:1.Sam_23.org::v6][23,6]] und [[file:1.Sam_30.org::v7][30,7]].
+
+[fn:6] Nach [[file:2.Sam_8.org::v18][2 Sam 8,18]] waren die Söhne Davids Priester. Chr
+vermeidet diese Bezeichnung, da nach dem zu ihrer Zeit geltenden Gesetz
+nur Angehörige des Stamms Levi Priester sein konnten.

@@ -1,0 +1,98 @@
+#+TITLE: Ps 146 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-20 Di 23:28]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 146.html
+
+* Ps 146
+
+<<verses>>
+
+<<v1>>
+* Preislied auf Gott, den Herrn und Helfer Israels
+
+1 Halleluja! Lobe den Herrn, meine Seele! /\\
+\\
+
+<<v2>>
+2 Ich will den Herrn loben, solange ich lebe, /\\
+ meinem Gott singen und spielen, solange ich da bin. [fn:1]\\
+\\
+
+<<v3>>
+3 Verlasst euch nicht auf Fürsten, /\\
+ auf Menschen, bei denen es doch keine Hilfe gibt. [fn:2]\\
+\\
+
+<<v4>>
+4 Haucht der Mensch sein Leben aus /\\
+ und kehrt er zurück zur Erde, /\\
+ dann ist es aus mit all seinen Plänen. [fn:3] [fn:4]\\
+\\
+
+<<v5>>
+5 Wohl dem, dessen Halt der Gott Jakobs ist /\\
+ und der seine Hoffnung auf den Herrn, seinen Gott, setzt. [fn:5]\\
+\\
+
+<<v6>>
+6 Der Herr hat Himmel und Erde gemacht, /\\
+ das Meer und alle Geschöpfe; /\\
+ er hält ewig die Treue. [fn:6] [fn:7]\\
+\\
+
+<<v7>>
+7 Recht verschafft er den Unterdrückten, /\\
+ den Hungernden gibt er Brot; /\\
+ der Herr befreit die Gefangenen. [fn:8]\\
+\\
+
+<<v8>>
+8 Der Herr öffnet den Blinden die Augen, /\\
+ er richtet die Gebeugten auf. [fn:9]\\
+\\
+
+<<v9>>
+9 Der Herr beschützt die Fremden /\\
+ und verhilft den Waisen und Witwen zu ihrem Recht. Der Herr liebt die
+Gerechten, /\\
+ doch die Schritte der Frevler leitet er in die Irre. [fn:10] [fn:11]\\
+\\
+
+<<v10>>
+10 Der Herr ist König auf ewig, /\\
+ dein Gott, Zion, herrscht von Geschlecht zu Geschlecht. Halleluja! [fn:12]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_7.org::v18][7,18]]; [[file:Ps_104.org::v33][104,33]]
+
+[fn:2] [[file:Ps_118.org::v8][118,8f]]
+
+[fn:3] [[file:Ps_90.org::v3][90,3]]; [[file:Ps_103.org::v14][103,14]]; [[file:Ps_104.org::v29][104,29]]; [[file:Gen_3.org::v19][Gen 3,19]]; [[file:Ijob_10.org::v9][Ijob 10,9]]; [[file:Koh_12.org::v7][Koh 12,7]]
+
+[fn:4] Wörtlich: an jenem Tag ist es aus.
+
+[fn:5] [[file:Jer_17.org::v7][Jer 17,7]]
+
+[fn:6] [[file:~/RoamNotes/notes/Bibel/nt/Apg_4.org::v24][Apg 4,24]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_14.org::v15][14,15]]
+
+[fn:7] Wörtlich: das Meer und alles, was in ihnen ist.
+
+[fn:8] [[file:Ps_103.org::v6][103,6]]; [[file:Ps_68.org::v7][68,7]]; [[file:Jes_61.org::v1][Jes 61,1]]
+
+[fn:9] [[file:Ps_145.org::v14][145,14]]
+
+[fn:10] [[file:Ps_10.org::v18][10,18]]
+
+[fn:11] In H steht dieser Versteil am Ende von V. 8.
+
+[fn:12] [[file:Ps_24.org::v7][24,7-10]]

@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       c745b5ae-fbf7-4b9e-8408-f29601ad3d46
+:END:
+#+title: Aufzeichnungen
+#+category: Aufzeichnungen
+#+filetags: Project
+* Goals
+Als Lehrer bin ich verpflichtet, Aufzeichnungen über den Unterricht und die Leistungen der Schüler zu führen. Z.B. um meine Noten rechtfertigen zu können.
+
+TIPP von Bernhard: er zeichnet niemals jede Stunde auf, sondern verschafft sich einen Überblick pro Schüler. 
+
+Die Aufzeichnungen vermerke ich hier in Emacs, Noten trage ich in Sokrates ein. Für den Unterrichtsstoff, die gehaltenen Stunden bzw Abwesenheiten der Schüler steht teacher assistant (eine Art elektronisches Klassenbuch) zur Verfügung.
+
+Wie soll mein konkreter Arbeitsablauf aussehen?
+- Planung / Vorbereitung des Unterrichts (org-mode): 01_Golling.org, etc
+  
+- Während des Unterrichts:
+  - Notieren von Fragen der Schüler für spätere Stunden durch =org-capture=
+  - Kurze Notizen zur Mitarbeit einzelner Schüler durch =org-capture=
+    
+- Was wird benotet: Mitarbeit, Heftführung, ev LZK durch kleine Quiz, Kahoot, ... Jede Stunde ein Hefteintrag (Merksatz, Zeichnung, Arbeitsblatt, ...)
+  
+- Nach dem Unterricht: Aufzeichnugen zu den einzelnen Schülern - dies sobald es möglich ist - in einer Freistunde; Zuhause; ... 
+
+Benotung:
+ - Schularbeit 40%
+ - Mitarbeit 30% (Gradwanderung zw Stille und Stören)
+ - Hausübung 30% (Kann-Bestimmung; muss sauber und pico-bello sein)
+
+Die Jahresplanung muss in diesen Ferien ausgemistet werden - va in der vierten Klasse gibt es Themen, die entweder zu schwierig zum Unsetzen sind (Kunst), oder die Schüler gar nicht interessieren. Filme gehören auf jeden Fall stark reduziert, das war dieses Jahr zu viel.
+
+Die Vorbereitung für die ersten und zweiten Klassen wird nächstes Jahr leichter sein, da die Bücher wirkliche Arbeitsbücher sind (sie enthalten Übungsteile, etc). Die dritten und vierten Klassen benötigen eigenlich eine komlett neue Jahresplanung.
+
+Technisch: ist es möglich, die Deadlines automatisch zu setzen? Dh ich setze in der ersten Schulwoche eine Deadline, und alle folgenden Schulwoche erhalten automatisch eine Deadline?
+
+Verhaltensnoten:
+- Da war ich dieses Jahr zu lax und zu nett. Hier muss und darf ich viel strenger sein. Die Schüler selber fragen, wo sie sich sehen. Die meisten schätzen sich richtig ein.
+ 
+   
+* Tasks
+** TODO Jahresvorbereitung
+
+** TODO Aufzeihnungen eintragen
+
+** DONE Noten in Sokrates-Web eintragen
+CLOSED: [2022-09-17 Sa 20:05]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-09-17 Sa 20:05]
+:END:
+
+** TODO Unterrichtsstoff in teacher assistant eintragen
+
+* Dates
+
+

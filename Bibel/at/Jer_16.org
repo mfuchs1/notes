@@ -1,0 +1,157 @@
+:PROPERTIES:
+:ID:       f88e9702-0287-4d37-ad1a-fd3ea3f94018
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jeremia* -- [[file:Jer_1.html][1]] ...
+[[file:Jer_14.html][14]] [[file:Jer_15.html][15]] *16*
+[[file:Jer_17.html][17]] [[file:Jer_18.html][18]] ...
+[[file:Jer_52.html][52]]
+
+--------------
+
+* Jer 16
+  :PROPERTIES:
+  :CUSTOM_ID: jer-16
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Jeremias Einsamkeit - ein Zeichen für Israel: 16,1-9
+     :PROPERTIES:
+     :CUSTOM_ID: jeremias-einsamkeit---ein-zeichen-für-israel-161-9
+     :END:
+1 Das Wort des Herrn erging an mich:
+
+<<v2>>
+2 Du sollst dir keine Frau nehmen und weder Söhne noch Töchter haben an
+diesem Ort.
+
+<<v3>>
+3 Denn so spricht der Herr über die Söhne und Töchter, die an diesem Ort
+geboren werden, über ihre Mütter, die sie gebären, und über ihre Väter,
+die sie zeugen in diesem Land:
+
+<<v4>>
+4 Eines qualvollen Todes müssen sie sterben; man wird sie nicht beklagen
+und nicht begraben; sie werden zum Dünger auf dem Acker. Durch Schwert
+und Hunger kommen sie um; ihre Leichen werden zum Fraß für die Vögel des
+Himmels und die Tiere des Feldes. ^{[[#fn1][1]]}
+
+<<v5>>
+5 Ja, so hat der Herr gesprochen: Betritt kein Trauerhaus, geh nicht zur
+Totenklage und bezeig niemandem Beileid! Denn ich habe diesem Volk mein
+Heil entzogen - Spruch des Herrn -, die Güte und das Erbarmen.
+
+<<v6>>
+6 Groß und Klein muss sterben in diesem Land; man wird sie nicht
+begraben und nicht beklagen. Niemand ritzt sich ihretwegen wund oder
+schert sich kahl. ^{[[#fn2][2]][[#fn3][3]]}
+
+<<v7>>
+7 Keinem wird man das Trauerbrot brechen, um ihn wegen eines
+Verstorbenen zu trösten; man wird ihm nicht den Trostbecher reichen
+wegen seines Vaters oder seiner Mutter.
+
+<<v8>>
+8 Auch ein Haus, in dem ein Gastmahl stattfindet, sollst du nicht
+betreten, um mit den Leuten bei Speise und Trank zu sitzen.
+
+<<v9>>
+9 Denn so spricht der Herr der Heere, der Gott Israels: Seht, verstummen
+lasse ich an diesem Ort, vor euren Augen und in euren Tagen, Jubelruf
+und Freudenruf, den Ruf des Bräutigams und den Ruf der Braut.
+^{[[#fn4][4]]}\\
+\\
+
+<<v10>>
+**** Die Gründe für das Gericht: 16,10-18
+     :PROPERTIES:
+     :CUSTOM_ID: die-gründe-für-das-gericht-1610-18
+     :END:
+10 Wenn du nun diesem Volk das alles verkündest und man dich fragt:
+Warum droht der Herr uns all dieses schwere Unheil an? Worin besteht
+unsre Schuld und welche Sünde haben wir gegen den Herrn, unsern Gott,
+begangen?, ^{[[#fn5][5]]}
+
+<<v11>>
+11 so antworte ihnen: Eure Väter haben mich verlassen - Spruch des
+Herrn; sie liefen anderen Göttern nach, dienten ihnen und beteten sie
+an. Mich aber haben sie verlassen und meine Weisung nicht befolgt.
+
+<<v12>>
+12 Ihr selbst aber habt es noch schlimmer getrieben als eure Väter.
+Seht, jeder von euch folgt dem Trieb seines bösen Herzens, ohne auf mich
+zu hören.
+
+<<v13>>
+13 Darum schleudere ich euch aus diesem Land hinaus, in das Land, das
+euch und euren Vätern unbekannt war. Dort mögt ihr anderen Göttern
+dienen Tag und Nacht; ich aber werde euch keine Gnade mehr schenken.
+^{[[#fn6][6]]}
+
+<<v14>>
+14 [Darum seht, es werden Tage kommen - Spruch des Herrn -, da sagt man
+nicht mehr: So wahr der Herr lebt, der die Söhne Israels aus Ägypten
+heraufgeführt hat!, ^{[[#fn7][7]]}
+
+<<v15>>
+15 sondern: So wahr der Herr lebt, der die Söhne Israels aus dem
+Nordland und aus allen Ländern, in die er sie verstoßen hatte,
+heraufgeführt hat. Ich bringe sie zurück in ihr Heimatland, das ich
+ihren Vätern gegeben habe.]
+
+<<v16>>
+16 Seht, ich hole viele Fischer - Spruch des Herrn -, die sollen sie
+fangen; dann hole ich viele Jäger, die sollen sie erlegen auf jedem Berg
+und Hügel und in den Felsenklüften.
+
+<<v17>>
+17 Denn meine Augen sehen alle ihre Wege; sie können sich vor mir nicht
+verstecken und ihre Schuld ist vor meinen Augen nicht verborgen.
+
+<<v18>>
+18 So vergelte ich zunächst nach dem Maß ihrer Schuld und Sünde, weil
+sie mein Land durch das Aas ihrer Scheusale entweiht und mein Erbteil
+mit ihren abscheulichen Götzen angefüllt haben.\\
+\\
+
+<<v19>>
+**** Die Bekehrung der Völker: 16,19-21
+     :PROPERTIES:
+     :CUSTOM_ID: die-bekehrung-der-völker-1619-21
+     :END:
+19 Herr, meine Kraft und meine Burg, /\\
+ meine Zuflucht am Tag der Not! Zu dir kommen Völker von den Enden der
+Erde /\\
+ und sagen: Nur Trug besaßen unsre Väter, /\\
+ Wahngebilde, die nichts nützen.\\
+\\
+
+<<v20>>
+20 Kann ein Mensch sich Götter machen? /\\
+ Das sind doch keine Götter.\\
+\\
+
+<<v21>>
+21 Darum seht, ich bringe sie zur Erkenntnis; /\\
+ ja, diesmal bringe ich sie zur Erkenntnis meiner Macht und meiner
+Gewalt und sie werden erkennen: /\\
+ Mein Name ist Jahwe, der Herr.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 9,21; 25,33
+
+^{[[#fnm2][2]]} ℘ 47,5
+
+^{[[#fnm3][3]]} 6f: Sich wund ritzen, sich kahl scheren und Trauerbrot
+essen sind Trauerriten.
+
+^{[[#fnm4][4]]} ℘ 7,34
+
+^{[[#fnm5][5]]} ℘ 5,19
+
+^{[[#fnm6][6]]} ℘ Dtn 28,64
+
+^{[[#fnm7][7]]} 14f: Diese Verheißung ist aus 23,7f übernommen.

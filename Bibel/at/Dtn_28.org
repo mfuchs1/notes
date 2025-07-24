@@ -1,0 +1,422 @@
+#+TITLE: Dtn 28 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-30 Mo 16:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 28.html
+
+
+<<verses>>
+
+<<v1>>
+* Der Abschluss der Verkündigung des Gesetzes: 28,1-68
+
+* Der Segen für Gehorsam: 28,1-14
+
+1 Wenn du auf die Stimme des Herrn, deines Gottes, hörst, indem du auf
+alle seine Gebote, auf die ich dich heute verpflichte, achtest und sie
+hältst, wird dich der Herr, dein Gott, über alle Völker der Erde
+erheben. [fn:1]
+
+<<v2>>
+2 Alle diese Segnungen werden über dich kommen und dich erreichen, wenn
+du auf die Stimme des Herrn, deines Gottes, hörst:
+
+<<v3>>
+3 Gesegnet bist du in der Stadt, gesegnet bist du auf dem Land.
+
+<<v4>>
+4 Gesegnet ist die Frucht deines Leibes, die Frucht deines Ackers und
+die Frucht deines Viehs, die Kälber, Lämmer und Zicklein. [fn:2]
+
+<<v5>>
+5 Gesegnet ist dein Korb und dein Backtrog.
+
+<<v6>>
+6 Gesegnet bist du, wenn du heimkehrst, gesegnet bist du, wenn du
+ausziehst.
+
+<<v7>>
+7 Der Herr stößt die Feinde, die sich gegen dich erheben, nieder und
+liefert sie dir aus. Auf einer Straße ziehen sie gegen dich aus, auf
+sieben Straßen fliehen sie vor dir.
+
+<<v8>>
+8 Der Herr befiehlt dem Segen, an deiner Seite zu sein: in deinen
+Speichern und bei allem, was deine Hände schaffen. Der Herr segnet dich
+in dem Land, das er, dein Gott, dir gibt. [fn:3]
+
+<<v9>>
+9 Der Herr lässt dich erstehen als das Volk, das ihm heilig ist, wie er
+es dir unter der Bedingung geschworen hat, dass du auf die Gebote des
+Herrn, deines Gottes, achtest und auf seinen Wegen gehst. [fn:4]
+
+<<v10>>
+10 Dann sehen alle Völker der Erde, dass der Name des Herrn über dir
+ausgerufen ist, und fürchten sich vor dir. [fn:5]
+
+<<v11>>
+11 Der Herr schenkt dir Gutes im Überfluss bei der Frucht deines Leibes,
+bei der Frucht deines Viehs und bei der Frucht deines Ackers in dem
+Land, von dem du weißt: Der Herr hat deinen Vätern geschworen, es dir zu
+geben.
+
+<<v12>>
+12 Der Herr öffnet dir den Himmel, seine Schatzkammer voll köstlichen
+Wassers: Er gibt deinem Land zur rechten Zeit Regen und segnet jede
+Arbeit deiner Hände. An viele Völker kannst du ausleihen und du brauchst
+nichts zu entleihen. [fn:6] [fn:7]
+
+<<v13>>
+13 Der Herr macht dich zum Kopf und nicht zum Schwanz. Du kennst nur den
+Aufstieg, du kennst keinen Abstieg, wenn du auf die Gebote des Herrn,
+deines Gottes, auf die ich dich heute verpflichte, hörst, auf sie
+achtest und sie hältst.
+
+<<v14>>
+14 Von allen Worten, die ich euch heute vorschreibe, sollst du weder
+rechts noch links abweichen. Du sollst nicht anderen Göttern nachfolgen
+und ihnen dienen. [fn:8]\\
+\\
+
+<<v15>>
+* Der Fluch für Ungehorsam: 28,15-68
+
+15 Wenn du nicht auf die Stimme des Herrn, deines Gottes, hörst, indem
+du nicht auf alle seine Gebote und Gesetze, auf die ich dich heute
+verpflichte, achtest und sie nicht hältst, werden alle diese
+Verfluchungen über dich kommen und dich erreichen: [fn:9]
+
+<<v16>>
+16 Verflucht bist du in der Stadt, verflucht bist du auf dem Land.
+
+<<v17>>
+17 Verflucht ist dein Korb und dein Backtrog.
+
+<<v18>>
+18 Verflucht ist die Frucht deines Leibes und die Frucht deines Ackers,
+die Kälber, Lämmer und Zicklein.
+
+<<v19>>
+19 Verflucht bist du, wenn du heimkehrst, verflucht bist du, wenn du
+ausziehst.
+
+<<v20>>
+20 Verfluchtsein, Verwirrtsein, Verwünschtsein lässt der Herr auf dich
+los, auf alles, was deine Hände schaffen und was du tust, bis du bald
+vernichtet und bis du ausgetilgt bist wegen deines Tuns, durch das du
+mich böswillig verlassen hast. [fn:10]
+
+<<v21>>
+21 Der Herr heftet die Pest an dich, bis er dich ausgemerzt hat aus dem
+Land, in das du hineinziehst, um es in Besitz zu nehmen. [fn:11]
+
+<<v22>>
+22 Der Herr schlägt dich mit Schwindsucht, Fieber und Brand, mit Glut
+und Trockenheit, Versengung und Vergilbung. Sie verfolgen dich, bis du
+ausgetilgt bist. [fn:12]
+
+<<v23>>
+23 Der Himmel über deinem Kopf wird zu Erz, die Erde unter dir wird zu
+Eisen. [fn:13]
+
+<<v24>>
+24 Der Herr verwandelt den Regen, den dein Land erhält, in Staub. Asche
+fällt vom Himmel auf dich herab, bis du vernichtet bist. [fn:14]
+
+<<v25>>
+25 Der Herr stößt dich nieder und liefert dich deinen Feinden aus. Auf
+einer Straße ziehst du gegen sie aus, auf sieben Straßen fliehst du vor
+ihnen. Alle Könige der Erde erschauern vor dir. [fn:15]
+
+<<v26>>
+26 Deine Leichen liegen da, zum Fraß für alle Vögel des Himmels und für
+die Tiere der Erde und keiner verscheucht sie.
+
+<<v27>>
+27 Der Herr schlägt dich mit dem ägyptischen Geschwür, mit Beulen,
+Krätze und Grind und keiner kann dich heilen. [fn:16]
+
+<<v28>>
+28 Der Herr schlägt dich mit Wahnsinn, Blindheit und Irresein.
+
+<<v29>>
+29 Am hellen Mittag tappst du im Dunkel wie ein Blinder. Deine Wege
+führen nicht zum Erfolg. Dein Leben lang wirst du ausgebeutet und
+ausgeraubt und niemand hilft dir.
+
+<<v30>>
+30 Du verlobst dich mit einer Frau und ein anderer schläft mit ihr. Du
+baust ein Haus und wohnst nicht darin. Du legst einen Weinberg an und
+hältst nicht einmal die erste Lese. [fn:17]
+
+<<v31>>
+31 Dein Ochse wird vor deinen Augen geschlachtet und du bekommst nicht
+einmal davon zu essen. Dein Esel wird dir weggerissen und kehrt nicht
+zurück. Deine Schafe und Ziegen werden deinen Feinden ausgeliefert und
+niemand kommt dir zu Hilfe.
+
+<<v32>>
+32 Deine Söhne und Töchter werden einem anderen Volk ausgeliefert, du
+siehst dir den ganzen Tag nach ihnen die Augen aus und zwingst sie doch
+nicht herbei.
+
+<<v33>>
+33 Den Ertrag deines Ackers und all deinen Gewinn verzehrt ein Volk, das
+du früher nicht einmal gekannt hast, und du wirst dein Leben lang nur
+ausgebeutet und misshandelt.
+
+<<v34>>
+34 Wahnsinn befällt dich bei dem Anblick, der sich deinen Augen bietet.
+
+<<v35>>
+35 Der Herr schlägt dich mit bösen Geschwüren am Knie und am Schenkel,
+und keiner kann dich heilen. Von der Sohle bis zum Scheitel bist du
+krank. [fn:18]
+
+<<v36>>
+36 Der Herr bringt dich und den König, den du über dich eingesetzt hast,
+zu einem Volk, das du und deine Väter früher nicht einmal gekannt haben,
+und dort musst du anderen Göttern dienen, Göttern aus Holz und Stein. [fn:19]
+
+<<v37>>
+37 Alle Völker, zu denen der Herr dich führt, wenden sich entsetzt von
+dir ab, sagen Spottverse über dich auf und stimmen Hohngelächter an. [fn:20]
+
+<<v38>>
+38 Viel Saatgut trägst du aufs Feld, aber du erntest wenig. Das andere
+hat die Heuschrecke gefressen.
+
+<<v39>>
+39 Weinberge legst du an und pflegst sie, aber du trinkst keinen Wein
+und bringst keinen in den Keller. Der Wurm hat ihn weggefressen.
+
+<<v40>>
+40 Ölbäume wachsen überall in deinem Land, aber du hast kein Öl, um dich
+zu salben. Dein Ölbaum hat die Oliven abgeworfen.
+
+<<v41>>
+41 Söhne und Töchter hast du gezeugt, aber sie sind nicht bei dir. Sie
+sind als Gefangene weggezogen.
+
+<<v42>>
+42 Alle deine Bäume und Feldfrüchte nimmt das Ungeziefer in Besitz.
+
+<<v43>>
+43 Der Fremde, der in deiner Mitte wohnt, steigt immer höher nach oben,
+hoch über dich hinaus, und du steigst immer tiefer hinab.
+
+<<v44>>
+44 Er leiht dir aus und du kannst ihm nichts ausleihen. Er wird zum Kopf
+und du wirst zum Schwanz.
+
+<<v45>>
+45 Alle diese Verfluchungen werden über dich kommen, dich verfolgen und
+dich erreichen, bis du vernichtet bist, wenn du auf die Stimme des
+Herrn, deines Gottes, nicht hörst und nicht auf seine Gebote und
+Gesetze, auf die er dich verpflichtet hat, achtest.
+
+<<v46>>
+46 Für immer werden sie als Zeichen und Wunder an dir und an deinen
+Nachkommen haften.
+
+<<v47>>
+47 Weil du dem Herrn, deinem Gott, nicht gedient hast aus Freude und
+Dankbarkeit dafür, dass alles in Fülle da war,
+
+<<v48>>
+48 musst du deinen Feinden dienen, die der Herr gegen dich ausgesandt
+hat. Hunger und Durst wirst du leiden, nackt sein und nichts mehr haben.
+Er legt dir ein eisernes Joch auf den Nacken, bis er dich vernichtet
+hat. [fn:21]
+
+<<v49>>
+49 Der Herr trägt zum Kampf gegen dich ein Volk aus der Ferne herbei,
+von den Enden der Erde, das wie ein Adler herabstößt, ein Volk, dessen
+Sprache du noch nie gehört hast, [fn:22]
+
+<<v50>>
+50 ein Volk mit unbeweglichem Gesicht, das sich dem Greis nicht zuwendet
+und für das Kind kein Mitleid zeigt.
+
+<<v51>>
+51 Es verzehrt die Frucht deines Viehs und die Frucht deines Ackers, bis
+du vernichtet bist. Es lässt dir nichts übrig vom Korn, vom Wein und vom
+Öl, von den Kälbern, Lämmern und Zicklein, bis es dich ausgetilgt hat.
+
+<<v52>>
+52 Es belagert dich in allen deinen Städten, bis die Mauern fallen, die
+hohen, fest gefügten Mauern, auf die du dich in deinem ganzen Land
+verlässt. Es belagert dich in allen deinen Städten in dem ganzen Land,
+das der Herr, dein Gott, dir gegeben hat. [fn:23]
+
+<<v53>>
+53 In der Not der Belagerung, wenn dein Feind dich einschnürt, musst du
+die Frucht deines eigenen Leibes essen, das Fleisch deiner Söhne und
+Töchter, die dir der Herr, dein Gott, geschenkt hat. [fn:24]
+
+<<v54>>
+54 Der weichlichste und verwöhnteste Mann blickt dann bei dir
+missgünstig auf seinen Bruder, auf die Frau, mit der er schläft, und auf
+den Rest der Kinder, die er noch übrig gelassen hat,
+
+<<v55>>
+55 und möchte niemandem etwas abgeben von dem Fleisch seiner Kinder, das
+er isst, weil ihm keine Nahrung mehr übrig geblieben ist in der Not der
+Belagerung, wenn dein Feind dich in allen deinen Städten einschnürt.
+
+<<v56>>
+56 Die weichlichste und verwöhnteste Frau, die noch nie versucht hat,
+ihren Fuß auf die Erde zu setzen vor lauter Verwöhntheit und
+Verweichlichung, blickt missgünstig auf den Mann, mit dem sie schläft,
+auf ihren Sohn und ihre Tochter,
+
+<<v57>>
+57 auf die Nachgeburt, die zwischen ihren Beinen hervorkommt, und auf
+die Kinder, die sie noch gebären wird; denn sie will sie heimlich essen,
+weil sie nichts mehr hat in der Not der Belagerung, wenn dein Feind dich
+in allen deinen Städten einschnürt.
+
+<<v58>>
+58 Wenn du nicht auf alle Worte dieser Weisung, die in dieser Urkunde
+aufgezeichnet sind, achtest und sie hältst, aus Furcht vor diesem
+herrlichen und Furcht erregenden Namen, vor Jahwe, deinem Gott,
+
+<<v59>>
+59 wird der Herr die Schläge, die er dir und deinen Nachkommen versetzt,
+über alles Gewohnte hinaus steigern zu gewaltigen und hartnäckigen
+Schlägen, zu schlimmen und hartnäckigen Krankheiten. [fn:25]
+
+<<v60>>
+60 Er wird alle ägyptischen Seuchen, vor denen du Angst hast, wieder
+über dich bringen und sie werden an dir haften bleiben.
+
+<<v61>>
+61 Auch alle Krankheiten und Schläge, die nicht in der Urkunde dieser
+Weisung aufgezeichnet sind, wird der Herr über dich bringen, bis du
+vernichtet bist.
+
+<<v62>>
+62 Dann werden nur noch wenige Leute von euch übrig bleiben, statt dass
+ihr zahlreich seid wie die Sterne am Himmel; denn du hast nicht auf die
+Stimme des Herrn, deines Gottes, gehört. [fn:26]
+
+<<v63>>
+63 So wie der Herr seine Freude daran hatte, euch Gutes zu tun und euch
+zahlreich zu machen, so wird der Herr seine Freude daran haben, euch
+auszutilgen und euch zu vernichten. Ihr werdet aus dem Land, in das du
+nun hineinziehst, um es in Besitz zu nehmen, herausgerissen werden. [fn:27]
+
+<<v64>>
+64 Der Herr wird dich unter alle Völker verstreuen, vom einen Ende der
+Erde bis zum anderen Ende der Erde. Dort musst du anderen Göttern
+dienen, die du und deine Väter vorher nicht einmal gekannt haben,
+Göttern aus Holz und Stein. [fn:28]
+
+<<v65>>
+65 Unter diesen Nationen wirst du keine Ruhe finden. Es wird keine
+Stelle geben, wohin du deinen Fuß setzen kannst. Der Herr wird dir dort
+das Herz erzittern, die Augen verlöschen und den Atem stocken lassen.
+
+<<v66>>
+66 Du wirst in Lebensgefahr schweben, bei Nacht und bei Tag erschrecken
+und deines Lebens nicht mehr sicher sein.
+
+<<v67>>
+67 Am Morgen wirst du sagen: Wenn es doch schon Abend wäre!, und am
+Abend: Wenn es doch schon Morgen wäre! - um dem Schrecken zu entfliehen,
+der dein Herz befällt, und dem Anblick, der sich deinen Augen bietet.
+
+<<v68>>
+68 Der Herr wird dich auf Schiffen nach Ägypten zurückbringen, auf einem
+Weg, von dem ich dir gesagt hatte: Du sollst ihn niemals wieder sehen.
+Dort werdet ihr euch deinen Feinden als Sklaven und Sklavinnen zum
+Verkauf anbieten, aber niemand wird euch kaufen. [fn:29]\\
+\\
+
+<<v69>>
+* Die letzten Verfügungen des Mose: 28,69 - 32,52
+
+Das sind die Worte, mit denen der Bund geschlossen wurde, den Mose im
+Auftrag des Herrn in Moab mit den Israeliten schloss, zusätzlich zu dem
+Bund, den er mit ihnen am Horeb geschlossen hatte. [fn:30] [fn:31]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Dtn_26.org::v19][26,19]]; (1-14) [[file:Lev_26.org::v3][Lev 26,3-13]]; [[v15][Dtn 28,15-45]]; [[file:Dtn_7.org::v12][7,12-16]];
+[[file:Dtn_11.org::v13][11,13-15]]; [[file:Dtn_30.org::v16][30,16]]
+
+[fn:2] [[file:Dtn_7.org::v13][7,13]]; [[file:Dtn_30.org::v9][30,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v42][Lk 1,42]]
+
+[fn:3] [[file:Dtn_26.org::v15][26,15]]
+
+[fn:4] [[file:Dtn_7.org::v6][7,6]]; [[file:Dtn_26.org::v18][26,18f]]
+
+[fn:5] [[file:Dtn_2.org::v25][2,25]]; [[file:Dtn_11.org::v25][11,25]]; [[file:2.Sam_12.org::v28][2 Sam 12,28]]; [[file:1.Kön_8.org::v43][1 Kön 8,43]]; [[file:Jer_14.org::v9][Jer 14,9]]
+
+[fn:6] [[file:Dtn_2.org::v7][2,7]]; [[file:Dtn_14.org::v29][14,29]]; [[file:Dtn_16.org::v15][16,15]]; [[file:Dtn_24.org::v19][24,19]]; [[file:Dtn_30.org::v9][30,9]]; [[file:Dtn_15.org::v6][15,6]]
+
+[fn:7] Andere Übersetzungsmöglichkeit: Der Herr tut dir sein
+köstliches Schatzhaus auf, den Himmel.
+
+[fn:8] [[file:Dtn_7.org::v4][7,4]]; [[file:Dtn_13.org::v3][13,3]]
+
+[fn:9] (15-68) [[file:Lev_26.org::v14][Lev 26,14-38]]; [[file:Dtn_4.org::v25][Dtn 4,25-28]]; [[file:Dtn_8.org::v19][8,19f]]; [[file:Dtn_11.org::v16][11,16f]];
+[[file:Dtn_30.org::v17][30,17f]] (15-45) [[v1][28,1-14]]
+
+[fn:10] zum Ende des Verses vgl. die Anmerkung zu [[file:Dtn_11.org::v13][11,13-15]].
+
+[fn:11] [[file:1.Kön_8.org::v37][1 Kön 8,37]]
+
+[fn:12] mit Glut und Trockenheit, andere Lesart: mit Glut und
+Schwert. - Der Vers zählt wahrscheinlich nur menschliche Krankheiten
+auf.
+
+[fn:13] [[file:Dtn_11.org::v17][11,17]]; [[file:1.Kön_8.org::v35][1 Kön 8,35]]
+
+[fn:14] Andere Lesart: Der Herr verwandelt den Regen, den dein
+Land erhält, in Staub und Asche. Beide fallen vom Himmel auf dich herab,
+bis du vernichtet bist.
+
+[fn:15] [[file:1.Kön_8.org::v33][1 Kön 8,33]]
+
+[fn:16] [[file:Dtn_7.org::v15][7,15]]; [[v60][28,60]]; [[file:Ex_9.org::v9][Ex 9,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_16.org::v2][Offb 16,2]]
+
+[fn:17] [[file:Dtn_20.org::v5][20,5-7]]
+
+[fn:18] [[file:~/RoamNotes/notes/Bibel/nt/Offb_16.org::v2][Offb 16,2]]
+
+[fn:19] [[file:Dtn_4.org::v28][4,28]]; [[file:Dtn_17.org::v15][17,15]]; [[v64][28,64]]; [[file:2.Kön_17.org::v4][2 Kön 17,4-6]]; [[file:2.Kön_25.org::v7][25,7]].[[file:2.Kön_25.org::v11][11]]
+
+[fn:20] [[file:1.Kön_9.org::v7][1 Kön 9,7]]
+
+[fn:21] [[file:Jer_28.org::v13][Jer 28,13f]]
+
+[fn:22] [[file:Jer_5.org::v15][Jer 5,15]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_14.org::v21][1 Kor 14,21]]
+
+[fn:23] [[file:Jer_5.org::v17][Jer 5,17]]
+
+[fn:24] [[file:2.Kön_6.org::v28][2 Kön 6,28f]]; [[file:Jer_19.org::v9][Jer 19,9]]
+
+[fn:25] (59-60) [[v27][28,27]]
+
+[fn:26] [[file:Dtn_1.org::v10][1,10]]
+
+[fn:27] [[file:Dtn_30.org::v9][30,9]]
+
+[fn:28] [[v36][28,36]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_21.org::v24][Lk 21,24]]
+
+[fn:29] [[file:Dtn_17.org::v16][17,16]]; [[file:Gen_26.org::v2][Gen 26,2]]; [[file:Hos_8.org::v13][Hos 8,13]]; [[file:Hos_9.org::v3][9,3]]
+
+[fn:30] [[file:Dtn_5.org::v2][5,2]]
+
+[fn:31] Manche Bibelausgaben zählen diesen Vers schon als
+[[file:Dtn_29.org::v1][29,1]]; entsprechend ändert sich die Verszählung in [[file:Dtn_29.org::v1][Kap. 29]]. [[v69][V. 69]] ist
+jedoch Einführung zum Folgenden, nicht Abschluss des Vorangehenden, und
+steht parallel zu [[file:Dtn_1.org::v1][1,1]]; [[file:Dtn_4.org::v44][4,44]] und [[file:Dtn_33.org::v1][33,1]].

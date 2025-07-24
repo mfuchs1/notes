@@ -1,0 +1,194 @@
+#+TITLE: Gen 42 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 42.html
+
+
+<<verses>>
+
+<<v1>>
+* Die erste Reise der Brüder Josefs nach Ägypten: 42,1-38
+
+1 Als Jakob erfuhr, dass es in Ägypten Getreide zu kaufen gab, sagte er
+zu seinen Söhnen: Warum schaut ihr einander so an?
+
+<<v2>>
+2 Und er sagte: Ich habe gehört, dass es in Ägypten Getreide zu kaufen
+gibt. Zieht hin und kauft dort für uns Getreide, damit wir am Leben
+bleiben und nicht sterben müssen.
+
+<<v3>>
+3 Zehn Brüder Josefs zogen also hinunter, um in Ägypten Getreide zu
+kaufen.
+
+<<v4>>
+4 Benjamin, den Bruder Josefs, ließ Jakob nicht mit seinen Brüdern
+ziehen, denn er dachte, es könnte ihm ein Unglück zustoßen.
+
+<<v5>>
+5 Die Söhne Israels kamen also mitten unter anderen, die auch gekommen
+waren, um Getreide zu kaufen; denn Hungersnot herrschte in Kanaan.
+
+<<v6>>
+6 Josef verwaltete das Land. Er war es, der allen Leuten im Lande
+Getreide verkaufte. So kamen Josefs Brüder und warfen sich vor ihm mit
+dem Gesicht zur Erde nieder.
+
+<<v7>>
+7 Als Josef seine Brüder sah, erkannte er sie. Aber er gab sich ihnen
+nicht zu erkennen, sondern fuhr sie barsch an. Er fragte sie: Wo kommt
+ihr her? Aus Kanaan, um Brotgetreide zu kaufen, sagten sie.
+
+<<v8>>
+8 Josef hatte seine Brüder erkannt, sie aber hatten ihn nicht erkannt.
+
+<<v9>>
+9 Josef erinnerte sich an das, was er von ihnen geträumt hatte, und
+sagte: Spione seid ihr. Um nachzusehen, wo das Land eine schwache Stelle
+hat, seid ihr gekommen. [fn:1]
+
+<<v10>>
+10 Sie antworteten ihm: Nein, Herr. Um Brotgetreide zu kaufen, sind
+deine Knechte gekommen.
+
+<<v11>>
+11 Wir alle sind Söhne ein und desselben Vaters. Ehrliche Leute sind
+wir, deine Knechte sind keine Spione.
+
+<<v12>>
+12 Er aber entgegenete ihnen: Nichts da, ihr seid nur gekommen, um
+nachzusehen, wo das Land eine schwache Stelle hat.
+
+<<v13>>
+13 Da sagten sie: Wir, deine Knechte, waren zwölf Brüder, Söhne ein und
+desselben Mannes in Kanaan. Der Jüngste ist bei unserem Vater geblieben
+und einer ist nicht mehr.
+
+<<v14>>
+14 Josef aber sagte zu ihnen: Es bleibt dabei, wie ich euch gesagt habe:
+Spione seid ihr.
+
+<<v15>>
+15 So wird man euch auf die Probe stellen: Beim Leben des Pharao! Ihr
+sollt von hier nicht eher loskommen, bis auch euer jüngster Bruder da
+ist.
+
+<<v16>>
+16 Schickt einen von euch hin! Er soll euren Bruder holen; ihr anderen
+aber werdet in Haft genommen. So wird man euer Gerede überprüfen und
+feststellen können, ob ihr die Wahrheit gesagt habt oder nicht. Beim
+Leben des Pharao, ja, Spione seid ihr.
+
+<<v17>>
+17 Dann ließ er sie für drei Tage in Haft nehmen.
+
+<<v18>>
+18 Am dritten Tag sagte Josef zu ihnen: Tut Folgendes und ihr werdet am
+Leben bleiben, denn ich fürchte Gott:
+
+<<v19>>
+19 Wenn ihr ehrliche Leute seid, soll einer von euch Brüdern in dem
+Gefängnis zurückgehalten werden, in dem ihr in Haft gewesen seid. Ihr
+anderen aber geht und bringt das gekaufte Getreide heim, um den Hunger
+eurer Familien zu stillen.
+
+<<v20>>
+20 Euren jüngsten Bruder aber schafft mir herbei, damit sich eure Worte
+als wahr erweisen und ihr nicht sterben müsst. So machten sie es.
+
+<<v21>>
+21 Sie sagten zueinander: Ach ja, wir sind an unserem Bruder schuldig
+geworden. Wir haben zugesehen, wie er sich um sein Leben ängstigte. Als
+er uns um Erbarmen anflehte, haben wir nicht auf ihn gehört. Darum ist
+nun diese Bedrängnis über uns gekommen.
+
+<<v22>>
+22 Ruben entgegnete ihnen: Habe ich euch nicht gesagt: Versündigt euch
+nicht an dem Kind! Ihr aber habt nicht gehört. Nun wird für sein Blut
+von uns Rechenschaft gefordert.
+
+<<v23>>
+23 Sie aber ahnten nicht, dass Josef zuhörte, denn er bediente sich im
+Gespräch mit ihnen eines Dolmetschers.
+
+<<v24>>
+24 Er wandte sich von ihnen ab und weinte. Als er sich ihnen wieder
+zuwandte und abermals mit ihnen redete, ließ er aus ihrer Mitte Simeon
+festnehmen und vor ihren Augen fesseln.
+
+<<v25>>
+25 Josef befahl dann, ihre Behälter mit Getreide zu füllen, einem jeden
+von ihnen das Geld wieder in den Sack zurückzulegen und ihnen für die
+Reise Verpflegung mitzugeben. So geschah es.
+
+<<v26>>
+26 Sie luden das Getreide auf ihre Esel und zogen fort.
+
+<<v27>>
+27 Als einer seinen Sack öffnete, um in der Herberge seinen Esel zu
+füttern, sah er sein Geld. Es lag in seinem Getreidesack ganz oben.
+
+<<v28>>
+28 Er sagte zu seinen Brüdern: Man hat mir mein Geld zurückgegeben.
+Seht, hier ist es in meinem Getreidesack. Da verließ sie der Mut und sie
+sagten zitternd zueinander: Was hat uns Gott da angetan?
+
+<<v29>>
+29 Sie kamen zu ihrem Vater Jakob nach Kanaan und berichteten ihm alles,
+was ihnen zugestoßen war:
+
+<<v30>>
+30 Jener Mann, der Herr des Landes, hat uns barsch angefahren und uns
+für Leute gehalten, die das Land ausspionieren.
+
+<<v31>>
+31 Wir sagten ihm: Ehrliche Leute sind wir und keine Spione.
+
+<<v32>>
+32 Wir waren zwölf Brüder, Söhne ein und desselben Vaters. Einer ist
+nicht mehr und der Jüngste ist bei unserem Vater in Kanaan geblieben.
+
+<<v33>>
+33 Jener Mann aber, der Herr des Landes, sagte zu uns: Daran will ich
+erkennen, ob ihr ehrliche Leute seid: Lasst einen von euch Brüdern bei
+mir zurück, nehmt das Getreide, das den Hunger eurer Familien stillen
+soll, geht
+
+<<v34>>
+34 und schafft mir euren jüngsten Bruder herbei! So werde ich erfahren,
+dass ihr keine Spione, sondern ehrliche Leute seid. Ich gebe euch dann
+euren Bruder heraus und ihr dürft euch frei im Land bewegen.
+
+<<v35>>
+35 Während sie nun ihre Säcke leerten, stellten sie fest: Jeder hatte
+seinen Geldbeutel im Sack. Als sie und ihr Vater ihre Geldbeutel sahen,
+bekamen sie Angst.
+
+<<v36>>
+36 Ihr Vater Jakob sagte zu ihnen: Ihr bringt mich um meine Kinder.
+Josef ist nicht mehr, Simeon ist nicht mehr und Benjamin wollt ihr mir
+auch noch nehmen. Nichts bleibt mir erspart.
+
+<<v37>>
+37 Da sagte Ruben zu seinem Vater: Meine beiden Söhne magst du
+umbringen, wenn ich ihn dir nicht zurückbringe. Vertrau ihn meiner Hand
+an; ich bringe ihn dir wieder zurück.
+
+<<v38>>
+38 Nein, sagte er, mein Sohn wird nicht mit euch hinunterziehen. Denn
+sein Bruder ist schon tot, nur er allein ist noch da. Stößt ihm auf dem
+Weg, den ihr geht, ein Unglück zu, dann bringt ihr mein graues Haar vor
+Kummer in die Unterwelt.\\
+\\
+
+
+* Footnotes
+
+[fn:1] 37,5-11

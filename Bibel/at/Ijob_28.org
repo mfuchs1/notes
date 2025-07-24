@@ -1,0 +1,183 @@
+#+TITLE: Ijob 28 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 21:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 28.html
+
+<<verses>>
+
+<<v1>>
+* Das Lied über die Weisheit: 28,1-28
+
+* Die Erhabenheit der Weisheit: 28,1-19
+
+1 Wohl gibt es einen Fundort für das Silber, /\\
+ eine Stätte für das Gold, wo man es läutert. [fn:1]\\
+\\
+
+<<v2>>
+2 Eisen holt man aus der Erde, /\\
+ Gestein wird zu Kupfer geschmolzen.\\
+\\
+
+<<v3>>
+3 Es setzt der Mensch dem Finstern eine Grenze; /\\
+ er forscht hinein bis in das Letzte, ins düstere, dunkle Gestein.\\
+\\
+
+<<v4>>
+4 Stollen gräbt ein fremdes Volk; /\\
+ vergessen, ohne Halt für den Fuß, /\\
+ hängt es, schwebt es, den Menschen fern. [fn:2]\\
+\\
+
+<<v5>>
+5 Die Erde, daraus das Brotkorn kommt, /\\
+ wird in den Tiefen wie mit Feuer zerstört.\\
+\\
+
+<<v6>>
+6 Fundort des Saphirs ist ihr Gestein /\\
+ und Goldstaub findet sich darin.\\
+\\
+
+<<v7>>
+7 Kein Raubvogel kennt den Weg dahin; /\\
+ kein Falkenauge hat ihn erspäht.\\
+\\
+
+<<v8>>
+8 Das stolze Wild betritt ihn nicht, /\\
+ kein Löwe schreitet über ihn.\\
+\\
+
+<<v9>>
+9 An harte Kiesel legt er die Hand, /\\
+ von Grund auf wühlt er Berge um.\\
+\\
+
+<<v10>>
+10 In Felsen haut er Stollen ein /\\
+ und lauter Kostbarkeiten erblickt sein Auge.\\
+\\
+
+<<v11>>
+11 Sickerbäche dämmt er ein, /\\
+ Verborgenes bringt er ans Licht.\\
+\\
+
+<<v12>>
+12 Die Weisheit aber, wo ist sie zu finden /\\
+ und wo ist der Ort der Einsicht? [fn:3]\\
+\\
+
+<<v13>>
+13 Kein Mensch kennt die Schicht, in der sie liegt; /\\
+ sie findet sich nicht in der Lebenden Land. [fn:4]\\
+\\
+
+<<v14>>
+14 Die Urflut sagt: Bei mir ist sie nicht. /\\
+ Der Ozean sagt: Bei mir weilt sie nicht.\\
+\\
+
+<<v15>>
+15 Man kann nicht Feingold für sie geben, /\\
+ nicht Silber als Preis für sie wägen.\\
+\\
+
+<<v16>>
+16 Nicht wiegt sie Gold aus Ofir auf, /\\
+ kein kostbarer Karneol, kein Saphir.\\
+\\
+
+<<v17>>
+17 Gold und Glas stehen ihr nicht gleich, /\\
+ kein Tausch für sie ist Goldgerät, [fn:5]\\
+\\
+
+<<v18>>
+18 nicht zu reden von Korallen und Kristall; /\\
+ weit über Perlen geht der Weisheit Besitz.\\
+\\
+
+<<v19>>
+19 Der Topas von Kusch kommt ihr nicht gleich /\\
+ und reinstes Gold wiegt sie nicht auf.\\
+\\
+
+<<v20>>
+* Gottes Weg: 28,20-28
+
+20 Die Weisheit aber, wo kommt sie her /\\
+ und wo ist der Ort der Einsicht?\\
+\\
+
+<<v21>>
+21 Verhüllt ist sie vor aller Lebenden Auge, /\\
+ verborgen vor den Vögeln des Himmels.\\
+\\
+
+<<v22>>
+22 Abgrund und Tod sagen: /\\
+ Unser Ohr vernahm von ihr nur ein Raunen.\\
+\\
+
+<<v23>>
+23 Gott ist es, der den Weg zu ihr weiß, /\\
+ und nur er kennt ihren Ort. [fn:6]\\
+\\
+
+<<v24>>
+24 Denn er blickt bis hin zu den Enden der Erde; /\\
+ was unter dem All des Himmels ist, sieht er.\\
+\\
+
+<<v25>>
+25 Als er dem Wind sein Gewicht schuf /\\
+ und die Wasser nach Maß bestimmte, [fn:7]\\
+\\
+
+<<v26>>
+26 als er dem Regen das Gesetz schuf /\\
+ und einen Weg dem Donnergewölk, [fn:8]\\
+\\
+
+<<v27>>
+27 damals hat er sie gesehen und gezählt, /\\
+ sie festgestellt und erforscht. [fn:9]\\
+\\
+
+<<v28>>
+28 Doch zum Menschen sprach er: /\\
+ Seht, die Furcht vor dem Herrn, das ist Weisheit, /\\
+ das Meiden des Bösen ist Einsicht. [fn:10]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Weish_6.org::v22][Weish 6,22]]; [[file:Sir_24.org][Sir 24]]
+
+[fn:2] Sinn von H unklar.
+
+[fn:3] [[file:Sir_1.org::v6][Sir 1,6]]; [[file:Bar_3.org::v15][Bar 3,15]]
+
+[fn:4] [[file:Bar_3.org::v29][Bar 3,29]]-[[file:Bar_3.org::v31][31]]
+
+[fn:5] [[file:Weish_7.org::v9][Weish 7,9]]
+
+[fn:6] [[file:Spr_2.org::v6][Spr 2,6]]; [[file:Spr_8.org::v27][8,27]]-[[file:Spr_8.org::v30][30]]; [[file:Bar_3.org::v37][Bar 3,37]]
+
+[fn:7] (25-26) [[file:Ijob_36.org::v27][36,27]]-[[file:Ijob_36.org::v33][33]]; [[file:Weish_11.org::v20][Weish 11,20]]; [[file:Jes_40.org::v12][Jes 40,12]]-[[file:Jes_40.org::v14][14]]
+
+[fn:8] [[file:Ps_135.org::v7][Ps 135,7]]
+
+[fn:9] [[file:Sir_1.org::v8][Sir 1,8f]]
+
+[fn:10] [[file:Spr_1.org::v7][Spr 1,7]]; [[file:Spr_8.org::v13][8,13]]; [[file:Sir_1.org::v11][Sir 1,11]].[[file:Sir_1.org::v21][21]]

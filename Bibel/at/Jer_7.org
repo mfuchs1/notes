@@ -1,0 +1,240 @@
+:PROPERTIES:
+:ID:       3a5d3f72-b84a-4f4f-886e-b553e83bd4d1
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jeremia* -- [[file:Jer_1.html][1]] ...
+[[file:Jer_5.html][5]] [[file:Jer_6.html][6]] *7* [[file:Jer_8.html][8]]
+[[file:Jer_9.html][9]] ... [[file:Jer_52.html][52]]
+
+--------------
+
+* Jer 7
+  :PROPERTIES:
+  :CUSTOM_ID: jer-7
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Tempelrede: 7,1-15
+     :PROPERTIES:
+     :CUSTOM_ID: die-tempelrede-71-15
+     :END:
+1 Das Wort, das vom Herrn an Jeremia erging: ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Stell dich an das Tor des Hauses des Herrn! Dort ruf dieses Wort aus
+und sprich: Hört das Wort des Herrn, ganz Juda, alle, die ihr durch
+diese Tore kommt, um dem Herrn zu huldigen.
+
+<<v3>>
+3 So spricht der Herr der Heere, der Gott Israels: Bessert euer
+Verhalten und euer Tun, dann will ich bei euch wohnen hier an diesem
+Ort. ^{[[#fn3][3]]}
+
+<<v4>>
+4 Vertraut nicht auf die trügerischen Worte: Der Tempel des Herrn, der
+Tempel des Herrn, der Tempel des Herrn ist hier!
+
+<<v5>>
+5 Denn nur wenn ihr euer Verhalten und euer Tun von Grund auf bessert,
+wenn ihr gerecht entscheidet im Rechtsstreit,
+
+<<v6>>
+6 wenn ihr die Fremden, die Waisen und Witwen nicht unterdrückt,
+unschuldiges Blut an diesem Ort nicht vergießt und nicht anderen Göttern
+nachlauft zu eurem eigenen Schaden,
+
+<<v7>>
+7 dann will ich bei euch wohnen hier an diesem Ort, in dem Land, das ich
+euren Vätern gegeben habe für ewige Zeiten.
+
+<<v8>>
+8 Freilich, ihr vertraut auf die trügerischen Worte, die nichts nützen.
+
+<<v9>>
+9 Wie? Stehlen, morden, die Ehe brechen, falsch schwören, dem Baal
+opfern und anderen Göttern nachlaufen, die ihr nicht kennt,
+^{[[#fn4][4]]}
+
+<<v10>>
+10 und dabei kommt ihr und tretet vor mein Angesicht in diesem Haus,
+über dem mein Name ausgerufen ist, und sagt: Wir sind geborgen!, um dann
+weiter alle jene Gräuel zu treiben.
+
+<<v11>>
+11 Ist denn in euren Augen dieses Haus, über dem mein Name ausgerufen
+ist, eine Räuberhöhle geworden? Gut, dann betrachte auch ich es so
+Spruch des Herrn. ^{[[#fn5][5]]}
+
+<<v12>>
+12 Geht doch zu meiner Stätte in Schilo, wo ich früher meinen Namen
+wohnen ließ, und schaut, was ich ihr angetan habe wegen des Bösen, das
+mein Volk Israel verübt hat. ^{[[#fn6][6]][[#fn7][7]]}
+
+<<v13>>
+13 Nun denn, ihr habt genau das Gleiche getan - Spruch des Herrn. Als
+ich immer wieder zu euch redete, habt ihr nicht gehört; als ich euch
+rief, habt ihr nicht geantwortet.
+
+<<v14>>
+14 Deshalb werde ich mit dem Haus, über dem mein Name ausgerufen ist und
+auf das ihr euch verlasst, und mit der Stätte, die ich euch und euren
+Vätern gegeben habe, so verfahren, wie ich mit Schilo verfuhr.
+^{[[#fn8][8]]}
+
+<<v15>>
+15 Verstoßen werde ich euch von meinem Angesicht, wie ich alle eure
+Brüder, alle Nachkommen Efraims, verstoßen habe. ^{[[#fn9][9]]}\\
+\\
+
+<<v16>>
+**** Die Verwerfung der Abtrünnigen: 7,16-20
+     :PROPERTIES:
+     :CUSTOM_ID: die-verwerfung-der-abtrünnigen-716-20
+     :END:
+16 Du aber, bete nicht für dieses Volk! Fang nicht an, für sie zu flehen
+und zu bitten! Dränge mich nicht! Denn ich werde dich nicht erhören.
+^{[[#fn10][10]]}
+
+<<v17>>
+17 Siehst du nicht, was sie in den Städten Judas und auf den Straßen
+Jerusalems treiben?
+
+<<v18>>
+18 Die Kinder sammeln Holz, die Väter zünden das Feuer an, und die
+Frauen kneten den Teig, um Opferkuchen für die Himmelskönigin zu backen.
+Anderen Göttern spendet man Trankopfer, um mir wehzutun.
+^{[[#fn11][11]][[#fn12][12]]}
+
+<<v19>>
+19 Aber tun sie wirklich mir weh - Spruch des Herrn -, und nicht
+vielmehr sich selbst, zu ihrer eigenen Schande?
+
+<<v20>>
+20 Darum - so spricht Gott der Herr: Seht, mein Zorn und Grimm ergießt
+sich über diesen Ort, über Menschen und Vieh, über die Bäume des Feldes
+und die Früchte des Ackers; er brennt und wird nicht erlöschen.\\
+\\
+
+<<v21>>
+**** Gehorsam, nicht Opfer: 7,21-28
+     :PROPERTIES:
+     :CUSTOM_ID: gehorsam-nicht-opfer-721-28
+     :END:
+21 So spricht der Herr der Heere, der Gott Israels: Häuft nur Brandopfer
+auf Schlachtopfer und esst Opferfleisch!
+
+<<v22>>
+22 Denn ich habe euren Vätern, als ich sie aus Ägypten herausführte,
+nichts gesagt und nichts befohlen, was Brandopfer und Schlachtopfer
+betrifft. ^{[[#fn13][13]]}
+
+<<v23>>
+23 Vielmehr gab ich ihnen folgendes Gebot: Hört auf meine Stimme, dann
+will ich euer Gott sein und ihr sollt mein Volk sein. Geht in allem den
+Weg, den ich euch befehle, damit es euch gut geht. ^{[[#fn14][14]]}
+
+<<v24>>
+24 Sie aber hörten nicht und neigten mir ihr Ohr nicht zu, sondern
+folgten den Eingebungen und Trieben ihres bösen Herzens. Sie zeigten mir
+den Rücken und nicht das Gesicht.
+
+<<v25>>
+25 Von dem Tag an, als eure Väter aus Ägypten auszogen, bis auf den
+heutigen Tag sandte ich zu euch immer wieder alle meine Knechte, die
+Propheten. ^{[[#fn15][15]]}
+
+<<v26>>
+26 Aber man hörte nicht auf mich und neigte mir nicht das Ohr zu,
+vielmehr blieben sie hartnäckig und trieben es noch schlimmer als ihre
+Väter.
+
+<<v27>>
+27 Auch wenn du ihnen alle diese Worte sagst, werden sie nicht auf dich
+hören. Wenn du sie rufst, werden sie dir nicht antworten.
+
+<<v28>>
+28 Sag ihnen also: Dies ist das Volk, das nicht auf die Stimme des
+Herrn, seines Gottes, hörte und sich nicht erziehen ließ. Die Treue ist
+dahin, aus ihrem Mund verschwunden.\\
+\\
+
+<<v29>>
+**** Die Gräuel des Götzendienstes: 7,29 - 8,3
+     :PROPERTIES:
+     :CUSTOM_ID: die-gräuel-des-götzendienstes-729---83
+     :END:
+29 Schneide dein Haar ab und wirf es weg, stimm Klage an auf den Höhen!
+Denn der Herr hat das Geschlecht, dem er grollt, verworfen und
+verstoßen.
+
+<<v30>>
+30 Ja, die Söhne Judas taten, was mir missfällt - Spruch des Herrn. Sie
+haben in dem Haus, über dem mein Name ausgerufen ist, ihre Scheusale
+aufgestellt, um es zu entweihen. ^{[[#fn16][16]]}
+
+<<v31>>
+31 Auch haben sie die Kulthöhe des Tofet im Tal Ben-Hinnom gebaut, um
+ihre Söhne und Töchter im Feuer zu verbrennen, was ich nie befohlen habe
+und was mir niemals in den Sinn gekommen ist.
+^{[[#fn17][17]][[#fn18][18]]}
+
+<<v32>>
+32 Seht, darum kommen Tage - Spruch des Herrn -, da wird man nicht mehr
+vom Tofet reden oder vom Tal Ben-Hinnom, sondern vom Mordtal und im
+Tofet wird man Tote begraben, weil anderswo kein Platz mehr ist.
+
+<<v33>>
+33 Ja, die Leichen dieses Volkes werden den Vögeln des Himmels und den
+Tieren des Feldes zum Fraß dienen und niemand wird sie verscheuchen.
+
+<<v34>>
+34 Verstummen lasse ich in den Städten Judas und auf den Straßen
+Jerusalems Jubelruf und Freudenruf, den Ruf des Bräutigams und den Ruf
+der Braut; denn das Land wird zur Wüste werden. ^{[[#fn19][19]]}
+
+^{[[#fnm1][1]]} ℘ (1-15) 26,1-19
+
+^{[[#fnm2][2]]} 1-15: Welche Folgen die Tempelrede für Jeremia hatte,
+schildert 26,1-19.
+
+^{[[#fnm3][3]]} ℘ 26,13
+
+^{[[#fnm4][4]]} ℘ Hos 4,2
+
+^{[[#fnm5][5]]} ℘ Mt 21,13
+
+^{[[#fnm6][6]]} ℘ 26,6
+
+^{[[#fnm7][7]]} Das Heiligtum von Schilo wurde in der Richterzeit um
+1050 v. Chr. zerstört (vgl. 1 Sam 4); jetzt wird es dem Tempel ähnlich
+ergehen.
+
+^{[[#fnm8][8]]} ℘ 9,10
+
+^{[[#fnm9][9]]} ℘ 2 Kön 17,18.23
+
+^{[[#fnm10][10]]} ℘ 11,14
+
+^{[[#fnm11][11]]} ℘ 19,13; 44,17
+
+^{[[#fnm12][12]]} Himmelskönigin wird die Fruchtbarkeitsgöttin Astarte
+genannt.
+
+^{[[#fnm13][13]]} ℘ Am 5,25
+
+^{[[#fnm14][14]]} ℘ Lev 26,12
+
+^{[[#fnm15][15]]} ℘ 25,4; 44,4
+
+^{[[#fnm16][16]]} ℘ 32,34f
+
+^{[[#fnm17][17]]} ℘ 19,5-7
+
+^{[[#fnm18][18]]} Das Ben-Hinnom-Tal begrenzt Jerusalem im Südwesten.
+Das Tofet (Bedeutung unbekannt) ist eine heidnische Opferstätte für
+Kinderopfer an Moloch.
+
+^{[[#fnm19][19]]} ℘ 16,9; 25,10; 33,11; Bar 2,23

@@ -1,0 +1,169 @@
+:PROPERTIES:
+:ID:       c5c5cd56-b59d-4da9-8495-32df25d3e0ee
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Habakuk* -- [[file:Hab_1.html][1]]
+[[file:Hab_2.html][2]] *3*
+
+--------------
+
+* Hab 3
+  :PROPERTIES:
+  :CUSTOM_ID: hab-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Das Gebet des Habakuk: 3,1-19
+   :PROPERTIES:
+   :CUSTOM_ID: das-gebet-des-habakuk-31-19
+   :END:
+1 Gebet des Propheten Habakuk, nach der Melodie von Schigjonot.
+^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Herr, ich höre die Kunde, /\\
+ ich sehe, Herr, was du früher getan hast. Lass es in diesen Jahren
+wieder geschehen, /\\
+ offenbare es in diesen Jahren! /\\
+ Auch wenn du zürnst, denk an dein Erbarmen!\\
+\\
+
+<<v3>>
+3 Gott kommt von Teman her, /\\
+ der Heilige kommt vom Gebirge Paran. Seine Hoheit überstrahlt den
+Himmel, /\\
+ sein Ruhm erfüllt die Erde. [Sela] ^{[[#fn2][2]][[#fn3][3]]}\\
+\\
+
+<<v4>>
+4 Er leuchtet wie das Licht der Sonne, /\\
+ ein Kranz von Strahlen umgibt ihn, /\\
+ in ihnen verbirgt sich seine Macht.\\
+\\
+
+<<v5>>
+5 Die Seuche zieht vor ihm her, /\\
+ die Pest folgt seinen Schritten.\\
+\\
+
+<<v6>>
+6 Wenn er kommt, wird die Erde erschüttert, /\\
+ wenn er hinblickt, zittern die Völker. Da zerbersten die ewigen Berge,
+/\\
+ versinken die uralten Hügel. /\\
+ [Das sind von jeher seine Wege.]\\
+\\
+
+<<v7>>
+7 Die Zelte Kuschans sehe ich voll Unheil; /\\
+ auch in Midian zittern die Zelte. ^{[[#fn4][4]]}\\
+\\
+
+<<v8>>
+8 Herr, ist dein Zorn gegen die Flüsse entbrannt /\\
+ [gegen die Flüsse dein Zorn] und dein Groll gegen das Meer, /\\
+ dass du mit deinen Rossen heranstürmst /\\
+ und mit deinen siegreichen Wagen? ^{[[#fn5][5]]}\\
+\\
+
+<<v9>>
+9 Du hast den Bogen aus der Hülle genommen, /\\
+ du hast die Pfeile auf die Sehne gelegt. [Sela] Du spaltest die Erde
+/\\
+ und es brechen Ströme hervor; ^{[[#fn6][6]]}\\
+\\
+
+<<v10>>
+10 dich sehen die Berge und zittern, /\\
+ tosender Regen prasselt nieder; die Urflut brüllt auf /\\
+ und reckt ihre Hände empor. ^{[[#fn7][7]]}\\
+\\
+
+<<v11>>
+11 Sonne und Mond bleiben in ihrer Wohnung; /\\
+ sie vergehen im grellen Licht deiner Pfeile, /\\
+ im Glanz deiner blitzenden Lanze.\\
+\\
+
+<<v12>>
+12 Voll Zorn schreitest du über die Erde, /\\
+ in deinem Groll zerstampfst du die Völker.\\
+\\
+
+<<v13>>
+13 Du ziehst aus, um dein Volk zu retten, /\\
+ um deinem Gesalbten zu helfen. Vom Haus des Ruchlosen schlägst du das
+Dach weg /\\
+ und legst das Fundament frei /\\
+ bis hinab auf den Felsen. [Sela]\\
+\\
+
+<<v14>>
+14 Mit deinen Pfeilen durchbohrst du den Kopf seiner Krieger, /\\
+ die heranstürmen, um uns zu verjagen. Sie freuen sich schon voll
+Übermut, /\\
+ in ihrem Versteck den Armen zu fressen. ^{[[#fn8][8]][[#fn9][9]]}\\
+\\
+
+<<v15>>
+15 Du bahnst mit deinen Rossen den Weg durch das Meer, /\\
+ durch das gewaltig schäumende Wasser. ^{[[#fn10][10]]}\\
+\\
+
+<<v16>>
+16 Ich zitterte am ganzen Leib, als ich es hörte, /\\
+ ich vernahm den Lärm und ich schrie. Fäulnis befällt meine Glieder /\\
+ und es wanken meine Schritte. Doch in Ruhe erwarte ich den Tag der Not,
+/\\
+ der dem Volk bevorsteht, das über uns herfällt.\\
+\\
+
+<<v17>>
+17 Zwar blüht der Feigenbaum nicht, /\\
+ an den Reben ist nichts zu ernten, der Ölbaum bringt keinen Ertrag, /\\
+ die Kornfelder tragen keine Frucht; im Pferch sind keine Schafe, /\\
+ im Stall steht kein Rind mehr. ^{[[#fn11][11]]}\\
+\\
+
+<<v18>>
+18 Dennoch will ich jubeln über den Herrn /\\
+ und mich freuen über Gott, meinen Retter.\\
+\\
+
+<<v19>>
+19 Gott, der Herr, ist meine Kraft. /\\
+ Er macht meine Füße schnell wie die Füße der Hirsche /\\
+ und lässt mich schreiten auf den Höhen. (Dem Chormeister. Zum
+Saitenspiel.) ^{[[#fn12][12]]}\\
+\\
+
+^{[[#fnm1][1]]} Das letzte Wort ist nicht sicher zu deuten; vielleicht
+«Klagelieder».
+
+^{[[#fnm2][2]]} ℘ Ps 18,8-10
+
+^{[[#fnm3][3]]} Teman, im nördlichen Edom. Zu Paran vgl. Dtn 33,2. Gott
+wird als vom Sinai-Horeb über Edom kommend vorgestellt (vgl. Ri 5,4f).
+
+^{[[#fnm4][4]]} Kuschan ist eine uns unbekannte Volksgruppe, wie Midian
+in der Umgebung des Golfs von Akaba zu suchen.
+
+^{[[#fnm5][5]]} ℘ Ps 68,18; Jes 66,15
+
+^{[[#fnm6][6]]} 9ab: Sinn des Textes unklar.
+
+^{[[#fnm7][7]]} ℘ Ps 77,17f
+
+^{[[#fnm8][8]]} ℘ Ps 10,8-10
+
+^{[[#fnm9][9]]} 14c: Text unsicher.
+
+^{[[#fnm10][10]]} ℘ Jes 43,16
+
+^{[[#fnm11][11]]} ℘ Jer 5,17
+
+^{[[#fnm12][12]]} ℘ Ps 18,34; Jes 58,14

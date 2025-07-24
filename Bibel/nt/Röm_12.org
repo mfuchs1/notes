@@ -1,0 +1,169 @@
+:PROPERTIES:
+:ID:       c1f1caf7-775b-4a22-bfdf-70bfb815e6e2
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Römer* --
+[[file:Röm_1.html][1]] ... [[file:Röm_10.html][10]]
+[[file:Röm_11.html][11]] *12* [[file:Röm_13.html][13]]
+[[file:Röm_14.html][14]] ... [[file:Röm_16.html][16]]
+
+--------------
+
+* Röm 12
+  :PROPERTIES:
+  :CUSTOM_ID: röm-12
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Das Leben der Glaubenden: 12,1 - 15,13
+   :PROPERTIES:
+   :CUSTOM_ID: das-leben-der-glaubenden-121---1513
+   :END:
+**** Die Gemeinde und ihre Dienste: 12,1-8
+     :PROPERTIES:
+     :CUSTOM_ID: die-gemeinde-und-ihre-dienste-121-8
+     :END:
+1 Angesichts des Erbarmens Gottes ermahne ich euch, meine Brüder, euch
+selbst als lebendiges und heiliges Opfer darzubringen, das Gott gefällt;
+das ist für euch der wahre und angemessene Gottesdienst.
+^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Gleicht euch nicht dieser Welt an, sondern wandelt euch und erneuert
+euer Denken, damit ihr prüfen und erkennen könnt, was der Wille Gottes
+ist: was ihm gefällt, was gut und vollkommen ist. ^{[[#fn3][3]]}
+
+<<v3>>
+3 Aufgrund der Gnade, die mir gegeben ist, sage ich einem jeden von
+euch: Strebt nicht über das hinaus, was euch zukommt, sondern strebt
+danach, besonnen zu sein, jeder nach dem Maß des Glaubens, das Gott ihm
+zugeteilt hat. ^{[[#fn4][4]][[#fn5][5]]}
+
+<<v4>>
+4 Denn wie wir an dem einen Leib viele Glieder haben, aber nicht alle
+Glieder denselben Dienst leisten, ^{[[#fn6][6]]}
+
+<<v5>>
+5 so sind wir, die vielen, *ein* Leib in Christus, als einzelne aber
+sind wir Glieder, die zueinander gehören.
+
+<<v6>>
+6 Wir haben unterschiedliche Gaben, je nach der uns verliehenen Gnade.
+Hat einer die Gabe prophetischer Rede, dann rede er in Übereinstimmung
+mit dem Glauben; ^{[[#fn7][7]]}
+
+<<v7>>
+7 hat einer die Gabe des Dienens, dann diene er. Wer zum Lehren berufen
+ist, der lehre; ^{[[#fn8][8]]}
+
+<<v8>>
+8 wer zum Trösten und Ermahnen berufen ist, der tröste und ermahne. Wer
+gibt, gebe ohne Hintergedanken; wer Vorsteher ist, setze sich eifrig
+ein; wer Barmherzigkeit übt, der tue es freudig. ^{[[#fn9][9]]}\\
+\\
+
+<<v9>>
+**** Aufforderungen zu einem Leben aus dem Geist: 12,9-21
+     :PROPERTIES:
+     :CUSTOM_ID: aufforderungen-zu-einem-leben-aus-dem-geist-129-21
+     :END:
+9 Eure Liebe sei ohne Heuchelei. Verabscheut das Böse, haltet fest am
+Guten! ^{[[#fn10][10]]}
+
+<<v10>>
+10 Seid einander in brüderlicher Liebe zugetan, übertrefft euch in
+gegenseitiger Achtung! ^{[[#fn11][11]]}
+
+<<v11>>
+11 Lasst nicht nach in eurem Eifer, lasst euch vom Geist entflammen und
+dient dem Herrn!
+
+<<v12>>
+12 Seid fröhlich in der Hoffnung, geduldig in der Bedrängnis, beharrlich
+im Gebet! ^{[[#fn12][12]]}
+
+<<v13>>
+13 Helft den Heiligen, wenn sie in Not sind; gewährt jederzeit
+Gastfreundschaft! ^{[[#fn13][13]]}
+
+<<v14>>
+14 Segnet eure Verfolger; segnet sie, verflucht sie nicht!
+^{[[#fn14][14]]}
+
+<<v15>>
+15 Freut euch mit den Fröhlichen und weint mit den Weinenden!
+^{[[#fn15][15]]}
+
+<<v16>>
+16 Seid untereinander eines Sinnes; strebt nicht hoch hinaus, sondern
+bleibt demütig! /Haltet euch nicht selbst für weise!/ ^{[[#fn16][16]]}
+
+<<v17>>
+17 Vergeltet niemand Böses mit Bösem! /Seid allen Menschen gegenüber auf
+Gutes bedacht!/ ^{[[#fn17][17]]}
+
+<<v18>>
+18 Soweit es euch möglich ist, haltet mit allen Menschen Frieden!
+^{[[#fn18][18]]}
+
+<<v19>>
+19 Rächt euch nicht selber, liebe Brüder, sondern lasst Raum für den
+Zorn (Gottes); denn in der Schrift steht: /Mein ist die Rache, ich werde
+vergelten,/ spricht der Herr. ^{[[#fn19][19]]}
+
+<<v20>>
+20 Vielmehr: /Wenn dein Feind Hunger hat, gib ihm zu essen, wenn er
+Durst hat, gib ihm zu trinken; tust du das, dann sammelst du glühende
+Kohlen auf sein Haupt./ ^{[[#fn20][20]]}
+
+<<v21>>
+21 Lass dich nicht vom Bösen besiegen, sondern besiege das Böse durch
+das Gute!\\
+\\
+
+^{[[#fnm1][1]]} ℘ 6,13
+
+^{[[#fnm2][2]]} 1f: Mit Kap. 12 beginnt der dritte Teil des Briefs. Er
+handelt von der rechten Lebensführung der Glaubenden. - Der rechte
+Gottesdienst verwirklicht sich nicht allein in einer gottesdienstlichen
+Versammlung, sondern umfasst das ganze Leben.
+
+^{[[#fnm3][3]]} ℘ Eph 4,17.22f; 1 Thess 5,21
+
+^{[[#fnm4][4]]} ℘ 2 Kor 10,13
+
+^{[[#fnm5][5]]} 3-8: Zum Bild von der Kirche als Leib Christi vgl. 1 Kor
+12, 12-27.
+
+^{[[#fnm6][6]]} ℘ 1 Kor 12,12.27f; Eph 1,23
+
+^{[[#fnm7][7]]} ℘ (6-8) 1 Kor 12,4.8-11
+
+^{[[#fnm8][8]]} ℘ 1 Petr 4,10f
+
+^{[[#fnm9][9]]} ℘ 2 Kor 9,7
+
+^{[[#fnm10][10]]} ℘ 2 Kor 6,6
+
+^{[[#fnm11][11]]} ℘ Phil 2,3
+
+^{[[#fnm12][12]]} ℘ 5,2f; Kol 4,2
+
+^{[[#fnm13][13]]} ℘ 1 Petr 4,9; Hebr 13,2
+
+^{[[#fnm14][14]]} ℘ Lk 6,27f
+
+^{[[#fnm15][15]]} ℘ 1 Kor 12,26
+
+^{[[#fnm16][16]]} ℘ 15,5; Phil 2,2f; Spr 3,7
+
+^{[[#fnm17][17]]} ℘ 1 Thess 5,15; 1 Petr 3,9; Spr 3,4 G
+
+^{[[#fnm18][18]]} ℘ Hebr 12,14
+
+^{[[#fnm19][19]]} ℘ Dtn 32,35.41
+
+^{[[#fnm20][20]]} ℘ Spr 25,21f; Mt 5,44

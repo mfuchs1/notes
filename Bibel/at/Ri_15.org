@@ -1,0 +1,132 @@
+#+TITLE: Ri 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-05 So 13:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 15.html
+
+<<verses>>
+
+<<v1>>
+* Die Vernichtung der Ernte: 15,1-8
+
+1 Einige Zeit danach, zur Zeit der Weizenernte, besuchte Simson seine
+Frau. Er brachte ein Ziegenböckchen mit und sagte (zu ihrem Vater): Ich
+will zu meiner Frau in die Kammer. Aber ihr Vater ließ ihn nicht hinein,
+
+<<v2>>
+2 sondern sagte: Ich dachte, du magst sie sicher nicht mehr. Darum habe
+ich sie deinem Freund gegeben. Aber ist nicht ihre jüngere Schwester
+noch schöner als sie? Die kannst du an ihrer Stelle haben.
+
+<<v3>>
+3 Simson antwortete ihm: Diesmal bin ich frei von Schuld, wenn ich den
+Philistern etwas Böses antue.
+
+<<v4>>
+4 Simson ging weg und fing dreihundert Füchse. Dann nahm er Fackeln,
+band je zwei Füchse an den Schwänzen zusammen und befestigte eine Fackel
+in der Mitte zwischen zwei Schwänzen. [fn:1]
+
+<<v5>>
+5 Er zündete die Fackeln an und ließ die Füchse in die Getreidefelder
+der Philister laufen. So verbrannte er die Garben und das noch stehende
+Korn, ebenso die Weingärten und die Ölbäume.
+
+<<v6>>
+6 Als die Philister fragten: Wer hat das getan?, antwortete man: Simson,
+der Schwiegersohn des Timniters, weil dieser ihm seine Frau weggenommen
+und seinem Freund gegeben hat. Da zogen die Philister hinauf und
+verbrannten die Frau samt dem Haus ihres Vaters.
+
+<<v7>>
+7 Darauf sagte ihnen Simson: Wenn ihr es so macht, dann werde ich nicht
+mehr aufhören, bis ich an euch Rache genommen habe.
+
+<<v8>>
+8 Und er schlug ihnen mit gewaltigen Schlägen die Knochen entzwei. Dann
+ging er weg und hauste in der Felsenhöhle von Etam. [fn:2]\\
+\\
+
+<<v9>>
+* Simsons Sieg bei Lehi: 15,9-20
+
+9 Die Philister zogen nach Juda herauf, schlugen dort ihr Lager auf und
+besetzten die Gegend von Lehi.
+
+<<v10>>
+10 Die Männer von Juda fragten sie: Warum seid ihr gegen uns gezogen?
+Sie antworteten: Wir sind heraufgekommen, um Simson gefangen zu nehmen
+und es mit ihm so zu machen, wie er es mit uns gemacht hat.
+
+<<v11>>
+11 Da zogen dreitausend Männer aus Juda zur Felsenhöhle von Etam hinab
+und sagten zu Simson: Weißt du nicht, dass die Philister unsere Herren
+sind? Was hast du uns da angetan? Er antwortete ihnen: Wie sie es mit
+mir gemacht haben, so habe ich es mit ihnen gemacht.
+
+<<v12>>
+12 Sie erwiderten ihm: Wir sind herabgekommen, um dich zu fesseln und in
+die Gewalt der Philister zu geben. Simson sagte zu ihnen: Schwört mir,
+dass ihr selber nicht über mich herfallen werdet.
+
+<<v13>>
+13 Sie antworteten ihm: Nein, wir wollen dich nur fesseln und in ihre
+Gewalt geben, aber töten wollen wir dich nicht. Sie fesselten ihn also
+mit zwei neuen Stricken und führten ihn aus der Felsenhöhle weg.
+
+<<v14>>
+14 Als er nach Lehi hinaufkam und die Philister ihm mit Triumphgeschrei
+entgegenliefen, kam der Geist des Herrn über ihn. Die Stricke an seinen
+Armen wurden wie Fäden, die vom Feuer versengt werden, und die Fesseln
+fielen von seinen Händen. [fn:3]
+
+<<v15>>
+15 Er fand den noch blutigen Kinnbacken eines Esels, ergriff ihn mit der
+Hand und erschlug damit tausend Männer.
+
+<<v16>>
+16 Damals sagte Simson: Mit dem Kinnbacken eines Esels habe ich sie
+gründlich verprügelt; mit einem Eselskinnbacken habe ich tausend Männer
+erschlagen. [fn:4]
+
+<<v17>>
+17 Als er das gesagt hatte, warf er den Kinnbacken weg; daher nannte man
+den Ort Ramat Lehi (Kinnbackenhöhe).
+
+<<v18>>
+18 Weil er großen Durst hatte, rief er zum Herrn und sagte: Du hast
+deinem Knecht diesen großen Sieg verliehen; jetzt aber soll ich vor
+Durst sterben und den Unbeschnittenen in die Hände fallen.
+
+<<v19>>
+19 Da spaltete Gott die Höhle von Lehi und es kam Wasser daraus hervor,
+sodass Simson trinken konnte. Seine Lebensgeister kehrten zurück und er
+lebte wieder auf. Deshalb nennt man die Quelle bei Lehi bis zum heutigen
+Tag «Quelle des Rufers».
+
+<<v20>>
+20 Simson war zur Zeit der Philister zwanzig Jahre lang Richter in
+Israel. [fn:5]\\
+\\
+
+* Footnotes
+
+[fn:1] band . . . zusammen, wörtlich: wendete Schwanz gegen
+Schwanz.
+
+[fn:2] Die Knochen entzwei, wörtlich: Wade auf Schenkel; wohl
+eine sprichwörtliche Redensart.
+
+[fn:3] [[file:Ri_3.org::v10][3,10]]
+
+[fn:4] habe ich sie verprügelt: Text korr. mit G. Das
+hebräische Wort für Esel und das für gründlich verprügeln bilden ein
+Wortbild.
+
+[fn:5] [[file:Ri_16.org::v31][16,31]]

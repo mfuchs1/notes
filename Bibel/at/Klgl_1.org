@@ -1,0 +1,240 @@
+:PROPERTIES:
+:ID:       7f5ec0d9-0b1b-482e-8388-342128ea8a80
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Klagelieder* -- *1* [[file:Klgl_2.html][2]]
+[[file:Klgl_3.html][3]] ... [[file:Klgl_5.html][5]]
+
+--------------
+
+* Klgl 1
+  :PROPERTIES:
+  :CUSTOM_ID: klgl-1
+  :END:
+
+Die hebräische Bibel reiht dieses poetische Buch in den dritten Teil des
+Kanons, die »Schriften«, ein und zählt es zu den fünf »Festrollen« (vgl.
+die Einleitung zu Rut). Es wurde am 9. Ab (im Mai) während des
+Tempelfastens gelesen, zur Erinnerung an die Zerstörung des Tempels
+durch Titus im Jahr 70 n. Chr. Die griechische und die lateinische Bibel
+weisen den Klageliedern ihren Platz unmittelbar nach dem Buch Jeremia
+zu. Die Überschrift deutet auf Jeremia als Verfasser hin. Dabei stützt
+man sich auf 2 Chr 35,25, wonach das Buch tatsächlich in die Zeit des
+Propheten zu datieren ist. Doch ist aus inneren Gründen die
+Verfasserschaft Jeremias abzulehnen (vgl. 2,9; 4,17.20). Auch ist das
+streng gebundene Versmaß der alphabetischen Lieder, bei denen immer der
+folgende Vers oder die folgende Strophe mit dem nächsten Buchstaben des
+hebräischen Alphabets beginnt, dem Propheten fremd.\\
+\\
+Die Kapitel 1, 2 und 4 sind der literarischen Form nach Totenlieder;
+Kap. 3 ist ein individuelles Klagelied, Kap. 5, in der lateinischen
+Bibel mit der Überschrift »Gebet des Jeremia«, ein Volksklagelied. Die
+Klagelieder dürften in Juda bald nach dem Untergang des Südreichs und
+der Zerstörung des Tempels (586 v. Chr.) entstanden sein. Wahrscheinlich
+sind sie alle dem gleichen Verfasser zuzuschreiben, der vielleicht zu
+priesterlichen Kreisen gehörte. In packenden Bildern schildert er den
+übergroßen Schmerz Jerusalems und seiner Einwohner über die Katastrophe
+des Jahres 586 v. Chr. Dabei ist das Buch getragen von einem
+unbesiegbaren Vertrauen auf Gott. Es will Reue und Umkehr bei denen
+wecken, die den Untergang der Stadt und des Tempels erlebt haben. Da
+Bedeutung und Vorrechte des alttestamentlichen Tempels im Neuen
+Testament auf Christus übertragen werden (vgl. Joh 2, 19), wendet die
+Kirche in der Liturgie der Karwoche die Klagelieder auf das Leiden und
+Sterben Christi an.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Das erste Lied: 1,1-22
+   :PROPERTIES:
+   :CUSTOM_ID: das-erste-lied-11-22
+   :END:
+1 Weh, wie einsam sitzt da /\\
+ die einst so volkreiche Stadt. Einer Witwe wurde gleich /\\
+ die Große unter den Völkern. Die Fürstin über die Länder /\\
+ ist zur Fron erniedrigt.\\
+\\
+
+<<v2>>
+2 Sie weint und weint des Nachts, /\\
+ Tränen auf ihren Wangen. Keinen hat sie als Tröster /\\
+ von all ihren Geliebten. Untreu sind all ihre Freunde, /\\
+ sie sind ihr zu Feinden geworden. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Gefangen ist Juda im Elend, /\\
+ in harter Knechtschaft. Nun weilt sie unter den Völkern /\\
+ und findet nicht Ruhe. All ihre Verfolger holten sie ein /\\
+ mitten in der Bedrängnis. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Die Wege nach Zion trauern, /\\
+ niemand pilgert zum Fest, /\\
+ verödet sind all ihre Tore. Ihre Priester seufzen, /\\
+ ihre Jungfrauen sind voll Gram, /\\
+ sie selbst trägt Weh und Kummer. ^{[[#fn3][3]]}\\
+\\
+
+<<v5>>
+5 Ihre Bedränger sind an der Macht, /\\
+ ihre Feinde im Glück. Denn Trübsal hat der Herr ihr gesandt /\\
+ wegen ihrer vielen Sünden. Ihre Kinder zogen fort, /\\
+ gefangen, vor dem Bedränger.\\
+\\
+
+<<v6>>
+6 Gewichen ist von der Tochter Zion /\\
+ all ihre Pracht. Ihre Fürsten sind wie Hirsche geworden, /\\
+ die keine Weide finden. Kraftlos zogen sie dahin /\\
+ vor ihren Verfolgern.\\
+\\
+
+<<v7>>
+7 Jerusalem denkt an die Tage /\\
+ ihres Elends, ihrer Unrast, an all ihre Kostbarkeiten, /\\
+ die sie einst besessen, als ihr Volk in Feindeshand fiel /\\
+ und keiner ihr beistand. Die Feinde sahen sie an, /\\
+ lachten über ihre Vernichtung.\\
+\\
+
+<<v8>>
+8 Schwer gesündigt hatte Jerusalem, /\\
+ deshalb ist sie zum Abscheu geworden. All ihre Verehrer verachten sie,
+/\\
+ weil sie ihre Blöße gesehen. Sie selbst aber seufzt /\\
+ und wendet sich ab (von ihnen). ^{[[#fn4][4]]}\\
+\\
+
+<<v9>>
+9 Ihre Unreinheit klebt an ihrer Schleppe, /\\
+ ihr Ende bedachte sie nicht. Entsetzlich ist sie gesunken, /\\
+ keinen hat sie als Tröster. Sieh doch mein Elend, o Herr, /\\
+ denn die Feinde prahlen.\\
+\\
+
+<<v10>>
+10 Der Bedränger streckte die Hand aus /\\
+ nach all ihren Schätzen. Zusehen musste sie, /\\
+ wie Heiden in ihr Heiligtum drangen; ihnen hattest du doch verboten,
+/\\
+ sich dir zu nahen in der Gemeinde. ^{[[#fn5][5]]}\\
+\\
+
+<<v11>>
+11 All ihre Bewohner seufzen, /\\
+ verlangen nach Brot. Sie geben ihre Schätze für Nahrung, /\\
+ nur um am Leben zu bleiben. Herr, sieh doch und schau, /\\
+ wie sehr ich verachtet bin.\\
+\\
+
+<<v12>>
+12 Ihr alle, die ihr des Weges zieht, /\\
+ schaut doch und seht, ob ein Schmerz ist wie mein Schmerz, /\\
+ den man mir angetan, mit dem der Herr mich geschlagen hat /\\
+ am Tag seines glühenden Zornes. ^{[[#fn6][6]]}\\
+\\
+
+<<v13>>
+13 Aus der Höhe sandte er Feuer, /\\
+ in meine Glieder ließ er es fallen. Er spannte ein Netz meinen Füßen,
+/\\
+ rücklings riss er mich nieder. Er machte mich zunichte /\\
+ und siech für alle Zeit. ^{[[#fn7][7]][[#fn8][8]]}\\
+\\
+
+<<v14>>
+14 Schwer ist das Joch meiner Sünden, /\\
+ von seiner Hand aufgelegt. Sie stiegen mir über den Hals; /\\
+ da brach meine Kraft. Preisgegeben hat mich der Herr, /\\
+ ich kann mich nicht erheben.\\
+\\
+
+<<v15>>
+15 Verworfen hat all meine Helden /\\
+ der Herr in meiner Mitte. Ein Fest rief er aus gegen mich, /\\
+ meine Jungmannschaft zu zerschlagen. Die Kelter trat der Herr /\\
+ gegen die Jungfrau, Tochter Juda. ^{[[#fn9][9]]}\\
+\\
+
+<<v16>>
+16 Darüber muss ich weinen, /\\
+ von Tränen fließt mein Auge. Fern sind alle Tröster, /\\
+ mich zu erquicken. Verstört sind meine Kinder; /\\
+ denn der Feind ist stark.\\
+\\
+
+<<v17>>
+17 Zion ringt die Hände, /\\
+ sie hat keinen Tröster. Aufgeboten hat der Herr gegen Jakob /\\
+ seine Nachbarn, ihn zu bedrängen. Jerusalem ist unter ihnen /\\
+ zum Schandfleck geworden.\\
+\\
+
+<<v18>>
+18 Er, der Herr, ist im Recht. /\\
+ Ich habe seinem Wort getrotzt. Hört doch, alle ihr Völker /\\
+ und seht meinen Schmerz: Meine Mädchen, meine jungen Männer /\\
+ zogen in die Gefangenschaft. ^{[[#fn10][10]]}\\
+\\
+
+<<v19>>
+19 Ich rief nach meinen Geliebten; /\\
+ doch sie betrogen mich. Meine Priester, meine Ältesten /\\
+ sind in der Stadt verschmachtet, als sie Nahrung suchten, /\\
+ um am Leben zu bleiben.\\
+\\
+
+<<v20>>
+20 Herr, sieh an, wie mir angst ist. /\\
+ Es glüht mir in der Brust; mir dreht sich das Herz im Leibe, /\\
+ weil ich so trotzig war. Draußen raubte die Kinder das Schwert, /\\
+ drinnen raffte sie die Pest dahin. ^{[[#fn11][11]][[#fn12][12]]}\\
+\\
+
+<<v21>>
+21 Hör, wie ich stöhne; /\\
+ ich habe keinen Tröster. All meine Feinde hörten von meinem Unglück,
+/\\
+ freuten sich, dass du es bewirkt hast. Bring deinen angekündigten Tag,
+/\\
+ damit es ihnen ergeht wie mir; / ^{[[#fn13][13]]}\\
+\\
+
+<<v22>>
+22 all ihre Bosheit komme vor dich. Tu dann an ihnen, /\\
+ wie du an mir getan /\\
+ wegen all meiner Sünden. Denn ich stöhne ohne Ende /\\
+ und mein Herz ist krank.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Jer 4,30; 30,14
+
+^{[[#fnm2][2]]} ℘ Dtn 28,65
+
+^{[[#fnm3][3]]} ℘ Jes 3,26; Jer 14,2
+
+^{[[#fnm4][4]]} ℘ Jer 13,22
+
+^{[[#fnm5][5]]} ℘ Dtn 23,3-5
+
+^{[[#fnm6][6]]} 12a: Ihr alle: Text korr.; H: Nicht für euch alle.
+
+^{[[#fnm7][7]]} ℘ Ez 12,13
+
+^{[[#fnm8][8]]} 13b: Text korr. nach G.
+
+^{[[#fnm9][9]]} ℘ Jes 63,3
+
+^{[[#fnm10][10]]} ℘ Dtn 28,41
+
+^{[[#fnm11][11]]} ℘ Jer 4,19; Dtn 32,25
+
+^{[[#fnm12][12]]} drinnen raffte sie die Pest dahin, wörtlich: drinnen
+wie der Tod.
+
+^{[[#fnm13][13]]} 21a: Hör: Text korr. nach S; H: Sie hörten. 21e:
+Bring: Text korr. nach S; H: Du hast gebracht.

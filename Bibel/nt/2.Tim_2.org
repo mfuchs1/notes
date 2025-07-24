@@ -1,0 +1,181 @@
+:PROPERTIES:
+:ID:       6ca575c1-e920-464b-a811-7ec7d2d2cabe
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der zweite Brief an Timotheus* --
+[[file:2.Tim_1.html][1]] *2* [[file:2.Tim_3.html][3]]
+[[file:2.Tim_4.html][4]]
+
+--------------
+
+* 2.Tim 2
+  :PROPERTIES:
+  :CUSTOM_ID: tim-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+** Seelsorgliche Anweisungen für Timotheus: 2,1 - 4,8
+   :PROPERTIES:
+   :CUSTOM_ID: seelsorgliche-anweisungen-für-timotheus-21---48
+   :END:
+**** Selbstloser Dienst für Christus: 2,1-13
+     :PROPERTIES:
+     :CUSTOM_ID: selbstloser-dienst-für-christus-21-13
+     :END:
+1 Du, mein Sohn, sei stark in der Gnade, die dir in Christus Jesus
+geschenkt ist.
+
+<<v2>>
+2 Was du vor vielen Zeugen von mir gehört hast, das vertrau
+zuverlässigen Menschen an, die fähig sind, auch andere zu lehren.
+^{[[#fn1][1]]}
+
+<<v3>>
+3 Leide mit mir als guter Soldat Christi Jesu.
+
+<<v4>>
+4 Keiner, der in den Krieg zieht, lässt sich in Alltagsgeschäfte
+verwickeln, denn er will, dass sein Heerführer mit ihm zufrieden ist.
+
+<<v5>>
+5 Und wer an einem Wettkampf teilnimmt, erhält den Siegeskranz nur, wenn
+er nach den Regeln kämpft.
+
+<<v6>>
+6 Der Bauer, der die ganze Arbeit tut, soll als Erster seinen Teil von
+der Ernte erhalten. ^{[[#fn2][2]]}
+
+<<v7>>
+7 Überleg dir, was ich sage. Dann wird der Herr dir in allem das rechte
+Verständnis geben.
+
+<<v8>>
+8 Denk daran, dass Jesus Christus, der Nachkomme Davids, von den Toten
+auferstanden ist; so lautet mein Evangelium, ^{[[#fn3][3]]}
+
+<<v9>>
+9 für das ich zu leiden habe und sogar wie ein Verbrecher gefesselt bin;
+aber das Wort Gottes ist nicht gefesselt.
+
+<<v10>>
+10 Das alles erdulde ich um der Auserwählten willen, damit auch sie das
+Heil in Christus Jesus und die ewige Herrlichkeit erlangen.
+^{[[#fn4][4]]}\\
+\\
+
+<<v11>>
+11 Das Wort ist glaubwürdig: Wenn wir mit Christus gestorben sind, /\\
+ werden wir auch mit ihm leben; ^{[[#fn5][5]][[#fn6][6]]}\\
+\\
+
+<<v12>>
+12 wenn wir standhaft bleiben, /\\
+ werden wir auch mit ihm herrschen; wenn wir ihn verleugnen, /\\
+ wird auch er uns verleugnen. ^{[[#fn7][7]]}\\
+\\
+
+<<v13>>
+13 Wenn wir untreu sind, /\\
+ bleibt er doch treu, /\\
+ denn er kann sich selbst nicht verleugnen. ^{[[#fn8][8]]}\\
+\\
+
+<<v14>>
+**** Das rechte Verhalten gegenüber den Irrlehrern: 2,14-26
+     :PROPERTIES:
+     :CUSTOM_ID: das-rechte-verhalten-gegenüber-den-irrlehrern-214-26
+     :END:
+14 Ruf ihnen das ins Gedächtnis und beschwöre sie bei Gott, sich nicht
+um Worte zu streiten; das ist unnütz und führt die Zuhörer nur ins
+Verderben.
+
+<<v15>>
+15 Bemüh dich darum, dich vor Gott zu bewähren als ein Arbeiter, der
+sich nicht zu schämen braucht, als ein Mann, der offen und klar die
+wahre Lehre vertritt.
+
+<<v16>>
+16 Gottlosem Geschwätz geh aus dem Weg; solche Menschen geraten immer
+tiefer in die Gottlosigkeit ^{[[#fn9][9]]}
+
+<<v17>>
+17 und ihre Lehre wird um sich fressen wie ein Krebsgeschwür. Zu ihnen
+gehören Hymenäus und Philetus, ^{[[#fn10][10]]}
+
+<<v18>>
+18 die von der Wahrheit abgeirrt sind und behaupten, die Auferstehung
+sei schon geschehen. So zerstören sie bei manchen den Glauben.
+^{[[#fn11][11]][[#fn12][12]]}
+
+<<v19>>
+19 Aber das feste Fundament, das Gott gelegt hat, kann nicht erschüttert
+werden. Es trägt als Siegel die Inschrift: /Der Herr kennt die Seinen,/
+und: Wer den Namen des Herrn nennt, meide das Unrecht. ^{[[#fn13][13]]}
+
+<<v20>>
+20 In einem großen Haus gibt es nicht nur Gefäße aus Gold und Silber,
+sondern auch aus Holz und Ton - die einen für Reines, die anderen für
+Unreines.
+
+<<v21>>
+21 Wer sich nun von all dem rein hält, gleicht einem Gefäß für Reines;
+er ist geheiligt, für den Herrn brauchbar, zu jedem guten Werk tauglich.
+
+<<v22>>
+22 Flieh vor den Begierden der Jugend; strebe unermüdlich nach
+Gerechtigkeit, Glauben, Liebe und Frieden, zusammen mit all denen, die
+den Herrn aus reinem Herzen anrufen. ^{[[#fn14][14]]}
+
+<<v23>>
+23 Lass dich nicht auf törichte und unsinnige Auseinandersetzungen ein;
+du weißt, dass sie nur zu Streit führen.
+
+<<v24>>
+24 Ein Knecht des Herrn soll nicht streiten, sondern zu allen freundlich
+sein, ein geschickter und geduldiger Lehrer,
+
+<<v25>>
+25 der auch die mit Güte zurechtweist, die sich hartnäckig widersetzen.
+Vielleicht schenkt Gott ihnen dann die Umkehr, damit sie die Wahrheit
+erkennen,
+
+<<v26>>
+26 wieder zur Besinnung kommen und aus dem Netz des Teufels befreit
+werden, der sie eingefangen und sich gefügig gemacht hat.\\
+\\
+
+^{[[#fnm1][1]]} Vgl. die Anmerkung zu 1,12.
+
+^{[[#fnm2][2]]} ℘ 1 Kor 9,7.10
+
+^{[[#fnm3][3]]} ℘ Röm 1,3; 1 Kor 15,4
+
+^{[[#fnm4][4]]} ℘ Kol 1,24
+
+^{[[#fnm5][5]]} ℘ Röm 6,8
+
+^{[[#fnm6][6]]} 11-13: Zur Begründung seiner Aussagen in den VV. 9-10
+zitiert der Verfasser hier ein urchristliches Bekenntnislied; vgl. die
+Anmerkung zu 1 Tim 3,16.
+
+^{[[#fnm7][7]]} ℘ Mt 10,33
+
+^{[[#fnm8][8]]} ℘ Röm 3,3f
+
+^{[[#fnm9][9]]} ℘ 1 Tim 4,7; Tit 1,14
+
+^{[[#fnm10][10]]} ℘ 1 Tim 1,20
+
+^{[[#fnm11][11]]} ℘ 1 Kor 15,12
+
+^{[[#fnm12][12]]} Von ihrer materiefeindlichen Einstellung her haben die
+Gnostiker kein Interesse an einer leiblichen Auferstehung; sie verstehen
+die Auferstehung also geistig und behaupten, durch den Besitz der
+«Erkenntnis» seien sie bereits vom Tod auferstanden.
+
+^{[[#fnm13][13]]} ℘ Num 16,5 G; Jes 26,13
+
+^{[[#fnm14][14]]} ℘ 1 Tim 6,11

@@ -1,0 +1,192 @@
+#+TITLE: Dtn 23 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-30 Mo 09:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 23.html
+
+
+<<verses>>
+
+<<v1>>
+* Die Blutschande: 23,1
+
+1 Ein Mann darf eine Frau seines Vaters nicht heiraten; denn er darf das
+Bett seines Vaters nicht aufdecken. [fn:1] [fn:2]\\
+\\
+
+<<v2>>
+* Die Aufnahme in die Versammlung des Herrn: 23,2-9
+
+2 In die Versammlung des Herrn darf keiner aufgenommen werden, dessen
+Hoden zerquetscht sind oder dessen Glied verstümmelt ist.
+
+<<v3>>
+3 In die Versammlung des Herrn darf kein Bastard aufgenommen werden;
+auch in der zehnten Generation dürfen seine Nachkommen nicht in die
+Versammlung des Herrn aufgenommen werden. [fn:3] [fn:4]
+
+<<v4>>
+4 In die Versammlung des Herrn darf kein Ammoniter oder Moabiter
+aufgenommen werden, auch nicht in der zehnten Generation. Niemals dürfen
+ihre Nachkommen in die Versammlung des Herrn aufgenommen werden;
+
+<<v5>>
+5 denn sie sind euch nicht mit Brot und Wasser auf dem Weg
+entgegengegangen, als ihr aus Ägypten zogt, und Moab hat Bileam, den
+Sohn Beors, aus Petor in Mesopotamien gedungen und gegen dich
+ausgesandt, damit er dich verfluchte - [fn:5]
+
+<<v6>>
+6 doch der Herr, dein Gott, hat sich geweigert, Bileam zu erhören, und
+der Herr, dein Gott, hat für dich den Fluch in Segen verwandelt; denn
+der Herr, dein Gott, liebt dich.
+
+<<v7>>
+7 Du sollst dich nie und nimmer um einen Friedens- und
+Freundschaftsvertrag mit ihnen bemühen.
+
+<<v8>>
+8 Der Edomiter dagegen soll dir kein Gräuel sein; denn er ist dein
+Bruder. Der Ägypter soll dir kein Gräuel sein; denn du hast als Fremder
+in seinem Land gewohnt.
+
+<<v9>>
+9 In der dritten Generation dürfen ihre leiblichen Nachkommen in die
+Versammlung des Herrn aufgenommen werden.\\
+\\
+
+<<v10>>
+* Die Reinheit des Heerlagers: 23,10-15
+
+10 Wenn du ins Feld ziehst und gegenüber deinen Feinden das Lager
+aufschlägst, sollst du dich vor jeder Unsauberkeit hüten.
+
+<<v11>>
+11 Wenn jemand unter dir ist, der nicht mehr rein ist, weil nachts etwas
+geschah, soll er in das Vorgelände des Lagers gehen und das Lager nicht
+betreten.
+
+<<v12>>
+12 Wenn der Abend kommt, soll er sich mit Wasser waschen, und wenn die
+Sonne untergeht, darf er in das Lager zurückkehren.
+
+<<v13>>
+13 Du sollst im Vorgelände des Lagers eine Ecke haben, wo du austreten
+kannst.
+
+<<v14>>
+14 In deinem Gepäck sollst du eine Schaufel haben, und wenn du dich
+draußen hinhocken willst, dann grab damit ein Loch und nachher deck
+deine Notdurft wieder zu!
+
+<<v15>>
+15 Denn der Herr, dein Gott, hält sich in der Mitte deines Lagers auf,
+um dich der Gefahr zu entreißen und dir deine Feinde auszuliefern. Dein
+Lager soll heilig sein, damit er bei dir nichts Anstößiges sieht und
+sich nicht von dir abwendet.\\
+\\
+
+<<v16>>
+* Das Verbot der Auslieferung von Flüchtlingen: 23,16f
+
+16 Du sollst einen fremden Untertan, der vor seinem Herrn bei dir Schutz
+sucht, seinem Herrn nicht ausliefern. [fn:6]
+
+<<v17>>
+17 Bei dir soll er wohnen dürfen, in deiner Mitte, in einem Ort, den er
+sich in einem deiner Stadtbereiche auswählt, wo es ihm gefällt. Du
+sollst ihn nicht ausbeuten.\\
+\\
+
+<<v18>>
+* Das Verbot sakraler Prostitution: 23,18f
+
+18 Unter den Frauen Israels soll es keine sakrale Prostitution geben,
+und unter den Männern Israels soll es keine sakrale Prostitution geben. [fn:7]
+
+<<v19>>
+19 Du sollst weder Dirnenlohn noch Hundegeld in den Tempel des Herrn,
+deines Gottes, bringen. Kein Gelübde kann dazu verpflichten; denn auch
+diese beiden Dinge sind dem Herrn, deinem Gott, ein Gräuel. [fn:8]\\
+\\
+
+<<v20>>
+* Zinsen: 23,20f
+
+20 Du darfst von deinem Bruder keine Zinsen nehmen: weder Zinsen für
+Geld noch Zinsen für Getreide noch Zinsen für sonst etwas, wofür man
+Zinsen nimmt. [fn:9] [fn:10]
+
+<<v21>>
+21 Von einem Ausländer darfst du Zinsen nehmen, von deinem Bruder darfst
+du keine Zinsen nehmen, damit der Herr, dein Gott, dich segnet in allem,
+was deine Hände schaffen, in dem Land, in das du hineinziehst, um es in
+Besitz zu nehmen.\\
+\\
+
+<<v22>>
+* Gelübde: 23,22-24
+
+22 Wenn du vor dem Herrn, deinem Gott, ein Gelübde machst, sollst du
+nicht zögern, es zu erfüllen; sonst wird es der Herr, dein Gott, von dir
+einfordern und die Strafe für diese Sünde wird über dich kommen. [fn:11]
+
+<<v23>>
+23 Wenn du davon absiehst, Gelübde zu machen, wird auch die Strafe für
+diese Sünde nicht über dich kommen.
+
+<<v24>>
+24 Was deinem Mund entfahren ist, darauf sollst du auch achten und du
+sollst es halten, da du dem Herrn, deinem Gott, ja aus freien Stücken
+gelobt hast, was dein Mund genannt hat.\\
+\\
+
+<<v25>>
+* Früchte am Weg: 23,25f
+
+25 Wenn du in den Weinberg eines andern kommst, darfst du so viel
+Trauben essen, wie du magst, bis du satt bist, nur darfst du nichts in
+ein Gefäß tun.
+
+<<v26>>
+26 Wenn du durch das Kornfeld eines andern kommst, darfst du mit der
+Hand Ähren abreißen, aber die Sichel darfst du auf dem Kornfeld eines
+andern nicht schwingen. [fn:12]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Dtn_27.org::v20][27,20]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_5.org::v1][1 Kor 5,1]]
+
+[fn:2] Manche Bibelausgaben zählen diesen Vers als [[file:Dtn_22.org::v30][22,30]];
+entsprechend ändern sich die Verszahlen von [[v1][Kap. 23]].
+
+[fn:3] [[file:Sach_9.org::v6][Sach 9,6]]
+
+[fn:4] Bastard: in H ein Wort mit umstrittener Bedeutung.
+
+[fn:5] (5-6) [[file:Num_22.org::v1][Num 22]]-[[file:Num_24.org::v1][24]]
+
+[fn:6] einen fremden Untertan, andere Übersetzungsmöglichkeit:
+einen Sklaven (aus dem Ausland).
+
+[fn:7] (18-19) [[file:1.Kön_14.org::v24][1 Kön 14,24]]; [[file:1.Kön_15.org::v12][15,12]]; [[file:1.Kön_22.org::v47][22,47]]; [[file:2.Kön_23.org::v7][2 Kön 23,7]]
+
+[fn:8] Hundegeld: die Bezahlung bei männlicher Prostitution.
+
+[fn:9] (20-21) [[file:Dtn_15.org::v3][15,3]]; [[file:Ex_22.org::v24][Ex 22,24]]
+
+[fn:10] 20f: Zumindest innerhalb Israels spielten Darlehen
+keine Rolle, außer wenn eine Familie in Not geraten war. Das
+vorausgesetzt, ist ein Darlehen Pflicht der Nächstenliebe und Zins - der
+damals sehr hoch war - würde seine Natur verkehren.
+
+[fn:11] [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v33][Mt 5,33]]
+
+[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/Mt_12.org::v1][Mt 12,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_2.org::v23][Mk 2,23]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_6.org::v1][Lk 6,1]]

@@ -1,0 +1,343 @@
+:PROPERTIES:
+:ID:       c8d4813d-61a1-497a-a6a0-a410aea51e21
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Johannes* --
+[[file:Joh_1.html][1]] ... [[file:Joh_17.html][17]]
+[[file:Joh_18.html][18]] *19* [[file:Joh_20.html][20]]
+[[file:Joh_21.html][21]]
+
+--------------
+
+* Joh 19
+  :PROPERTIES:
+  :CUSTOM_ID: joh-19
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Darauf ließ Pilatus Jesus geißeln.
+^{[[#fn1][1]][[#fn2][2]][[#fn3][3]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 340\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Die Soldaten flochten einen Kranz aus Dornen; den setzten sie ihm auf
+und legten ihm einen purpurroten Mantel um. ^{[[#fn4][4]]}
+
+<<v3>>
+3 Sie stellten sich vor ihn hin und sagten: Heil dir, König der Juden!
+Und sie schlugen ihm ins Gesicht.
+
+<<v4>>
+4 Pilatus ging wieder hinaus und sagte zu ihnen: Seht, ich bringe ihn zu
+euch heraus; ihr sollt wissen, dass ich keinen Grund finde, ihn zu
+verurteilen.
+
+<<v5>>
+5 Jesus kam heraus; er trug die Dornenkrone und den purpurroten Mantel.
+Pilatus sagte zu ihnen: Seht, da ist der Mensch!
+
+<<v6>>
+6 Als die Hohenpriester und ihre Diener ihn sahen, schrien sie: Ans
+Kreuz mit ihm, ans Kreuz mit ihm! Pilatus sagte zu ihnen: Nehmt ihr ihn
+und kreuzigt ihn! Denn ich finde keinen Grund, ihn zu verurteilen.
+
+<<v7>>
+7 Die Juden entgegneten ihm: Wir haben ein Gesetz, und nach diesem
+Gesetz muss er sterben, weil er sich als Sohn Gottes ausgegeben hat.
+^{[[#fn5][5]]}
+
+<<v8>>
+8 Als Pilatus das hörte, wurde er noch ängstlicher.
+^{[[#fn6][6]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 336\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v9>>
+9 Er ging wieder in das Prätorium hinein und fragte Jesus: Woher stammst
+du? Jesus aber gab ihm keine Antwort. ^{[[#fn7][7]]}
+
+<<v10>>
+10 Da sagte Pilatus zu ihm: Du sprichst nicht mit mir? Weißt du nicht,
+dass ich Macht habe, dich freizulassen, und Macht, dich zu kreuzigen?
+
+<<v11>>
+11 Jesus antwortete: Du hättest keine Macht über mich, wenn es dir nicht
+von oben gegeben wäre; darum liegt größere Schuld bei dem, der mich dir
+ausgeliefert hat. ^{[[#fn8][8]]}
+
+<<v12>>
+12 Daraufhin wollte Pilatus ihn freilassen, aber die Juden schrien: Wenn
+du ihn freilässt, bist du kein Freund des Kaisers; jeder, der sich als
+König ausgibt, lehnt sich gegen den Kaiser auf.
+
+<<v13>>
+13 Auf diese Worte hin ließ Pilatus Jesus herausführen und er setzte
+sich auf den Richterstuhl an dem Platz, der Lithostrotos, auf Hebräisch
+Gabbata, heißt. ^{[[#fn9][9]]}
+
+<<v14>>
+14 Es war am Rüsttag des Paschafestes, ungefähr um die sechste Stunde.
+Pilatus sagte zu den Juden: Da ist euer König!
+^{[[#fn10][10]][[#fn11][11]]}
+
+<<v15>>
+15 Sie aber schrien: Weg mit ihm, kreuzige ihn! Pilatus aber sagte zu
+ihnen: Euren König soll ich kreuzigen? Die Hohenpriester antworteten:
+Wir haben keinen König außer dem Kaiser.
+
+<<v16a>>
+16a Da lieferte er ihnen Jesus aus, damit er gekreuzigt würde.
+
+<<v16b>>
+**** Die Hinrichtung Jesu: 19,16b-30
+     :PROPERTIES:
+     :CUSTOM_ID: die-hinrichtung-jesu-1916b-30
+     :END:
+16b Sie übernahmen Jesus. ^{[[#fn12][12]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 343\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v17>>
+17 Er trug sein Kreuz und ging hinaus zur sogenannten Schädelhöhe, die
+auf Hebräisch Golgota heißt. ^{[[#fn13][13]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 344\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v18>>
+18 Dort kreuzigten sie ihn und mit ihm zwei andere, auf jeder Seite
+einen, in der Mitte Jesus. ^{[[#fn14][14]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 345\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v19>>
+19 Pilatus ließ auch ein Schild anfertigen und oben am Kreuz befestigen;
+die Inschrift lautete: Jesus von Nazaret, der König der Juden.
+^{[[#fn15][15]]}
+
+<<v20>>
+20 Dieses Schild lasen viele Juden, weil der Platz, wo Jesus gekreuzigt
+wurde, nahe bei der Stadt lag. Die Inschrift war hebräisch, lateinisch
+und griechisch abgefasst. ^{[[#fn16][16]]}
+
+<<v21>>
+21 Die Hohenpriester der Juden sagten zu Pilatus: Schreib nicht: Der
+König der Juden, sondern dass er gesagt hat: Ich bin der König der
+Juden.
+
+<<v22>>
+22 Pilatus antwortete: Was ich geschrieben habe, habe ich geschrieben.
+
+<<v23>>
+23 Nachdem die Soldaten Jesus ans Kreuz geschlagen hatten, nahmen sie
+seine Kleider und machten vier Teile daraus, für jeden Soldaten einen.
+Sie nahmen auch sein Untergewand, das von oben her ganz durchgewebt und
+ohne Naht war. ^{[[#fn17][17]][[#fn18][18]]}
+
+<<v24>>
+24 Sie sagten zueinander: Wir wollen es nicht zerteilen, sondern darum
+losen, wem es gehören soll. So sollte sich das Schriftwort erfüllen:
+/Sie verteilten meine Kleider unter sich und warfen das Los um mein
+Gewand./ Dies führten die Soldaten aus. ^{[[#fn19][19]]}
+
+<<v25>>
+25 Bei dem Kreuz Jesu standen seine Mutter und die Schwester seiner
+Mutter, Maria, die Frau des Klopas, und Maria von Magdala.
+^{[[#fn20][20]]}
+
+<<v26>>
+26 Als Jesus seine Mutter sah und bei ihr den Jünger, den er liebte,
+sagte er zu seiner Mutter: Frau, siehe, dein Sohn!
+
+<<v27>>
+27 Dann sagte er zu dem Jünger: Siehe, deine Mutter! Und von jener
+Stunde an nahm sie der Jünger zu sich.
+
+<<v28>>
+28 Danach, als Jesus wusste, dass nun alles vollbracht war, sagte er,
+damit sich die Schrift erfüllte: Mich dürstet.
+^{[[#fn21][21]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 347\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v29>>
+29 Ein Gefäß mit Essig stand da. Sie steckten einen Schwamm mit Essig
+auf einen Ysopzweig und hielten ihn an seinen Mund. ^{[[#fn22][22]]}
+
+<<v30>>
+30 Als Jesus von dem Essig genommen hatte, sprach er: Es ist vollbracht!
+Und er neigte das Haupt und gab seinen Geist auf. ^{[[#fn23][23]]}\\
+\\
+
+<<v31>>
+**** Die Bestattung des Leichnams: 19,31-42
+     :PROPERTIES:
+     :CUSTOM_ID: die-bestattung-des-leichnams-1931-42
+     :END:
+31 Weil Rüsttag war und die Körper während des Sabbats nicht am Kreuz
+bleiben sollten, baten die Juden Pilatus, man möge den Gekreuzigten die
+Beine zerschlagen und ihre Leichen dann abnehmen; denn dieser Sabbat war
+ein großer Feiertag.
+^{[[#fn24][24]][[#fn25][25]][[#fn26][26]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 349\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v32>>
+32 Also kamen die Soldaten und zerschlugen dem ersten die Beine, dann
+dem andern, der mit ihm gekreuzigt worden war.
+
+<<v33>>
+33 Als sie aber zu Jesus kamen und sahen, dass er schon tot war,
+zerschlugen sie ihm die Beine nicht,
+
+<<v34>>
+34 sondern einer der Soldaten stieß mit der Lanze in seine Seite, und
+sogleich floss Blut und Wasser heraus.
+
+<<v35>>
+35 Und der, der es gesehen hat, hat es bezeugt, und sein Zeugnis ist
+wahr. Und er weiß, dass er Wahres berichtet, damit auch ihr glaubt.
+^{[[#fn27][27]][[#fn28][28]]}
+
+<<v36>>
+36 Denn das ist geschehen, damit sich das Schriftwort erfüllte: /Man
+soll an ihm kein Gebein zerbrechen./ ^{[[#fn29][29]]}
+
+<<v37>>
+37 Und ein anderes Schriftwort sagt: /Sie werden auf den blicken, den
+sie durchbohrt haben./ ^{[[#fn30][30]]}
+
+<<v38>>
+38 Josef aus Arimathäa war ein Jünger Jesu, aber aus Furcht vor den
+Juden nur heimlich. Er bat Pilatus, den Leichnam Jesu abnehmen zu
+dürfen, und Pilatus erlaubte es. Also kam er und nahm den Leichnam ab.
+^{[[#fn31][31]][[#fn32][32]][[#fn33][33]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 350\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v39>>
+39 Es kam auch Nikodemus, der früher einmal Jesus bei Nacht aufgesucht
+hatte. Er brachte eine Mischung aus Myrrhe und Aloe, etwa hundert Pfund.
+^{[[#fn34][34]][[#fn35][35]]}
+
+<<v40>>
+40 Sie nahmen den Leichnam Jesu und umwickelten ihn mit Leinenbinden,
+zusammen mit den wohlriechenden Salben, wie es beim jüdischen Begräbnis
+Sitte ist. ^{[[#fn36][36]]}
+
+<<v41>>
+41 An dem Ort, wo man ihn gekreuzigt hatte, war ein Garten, und in dem
+Garten war ein neues Grab, in dem noch niemand bestattet worden war.
+
+<<v42>>
+42 Wegen des Rüsttages der Juden und weil das Grab in der Nähe lag,
+setzten sie Jesus dort bei.\\
+\\
+
+^{[[#fnm1][1]]} ℘ (1-7) Mt 27,27-31; Mk 15,16-20
+
+^{[[#fnm2][2]]} Im Johannesevangelium wird die Geißelung nicht als Teil
+der Todesstrafe, sondern als selbständige Bestrafung von Pilatus
+verhängt. Danach sollte Jesus freigelassen werden. Vgl. die Anmerkung zu
+Mt 27,26.
+
+^{[[#fnm3][3]]} ℘ ⇨Esyn: Synopse Nr. 340
+
+^{[[#fnm4][4]]} 2f: Zur Verspottung Jesu vgl. die Anmerkung zu Mt
+27,27-31.
+
+^{[[#fnm5][5]]} ℘ 5,18; 10,33-36; Lev 24,16
+
+^{[[#fnm6][6]]} ℘ ⇨Esyn: Synopse Nr. 336
+
+^{[[#fnm7][7]]} ℘ 7,28; 8,42
+
+^{[[#fnm8][8]]} «der mich dir ausgeliefert hat» meint die jüdischen
+Führer, besonders Kajaphas (11,51f; 18,14), und Judas Iskariot (6,71;
+13,2.11.21; 18,2.5).
+
+^{[[#fnm9][9]]} Der Lithóstrotos («Steinpflaster») war ein mit
+Steinplatten und Mosaik ausgelegter Platz, wahrscheinlich innerhalb des
+Herodespalastes. Gabbata bedeutet «Anhöhe, Erhebung».
+
+^{[[#fnm10][10]]} ℘ 19,31.42; Mt 26,17; Mk 14,12; Lk 22,7
+
+^{[[#fnm11][11]]} Vgl. die Anmerkung zu Mk 14,1.
+
+^{[[#fnm12][12]]} ℘ (16b-22) Mt 27,31.33.37-38; Mk 15,20.22.25-27; Lk
+23,33.38 ⇨Esyn: Synopse Nr. 343
+
+^{[[#fnm13][13]]} ℘ ⇨Esyn: Synopse Nr. 344
+
+^{[[#fnm14][14]]} ℘ ⇨Esyn: Synopse Nr. 345
+
+^{[[#fnm15][15]]} Zum Schild und der Inschrift vgl. die Anmerkung zu Mt
+27,37.
+
+^{[[#fnm16][16]]} ℘ Hebr 13,12
+
+^{[[#fnm17][17]]} ℘ (23-24) Mt 27,35; Mk 15,24; Lk 23,34
+
+^{[[#fnm18][18]]} Zur Kreuzigung vgl. die Anmerkung zu Mt 27,26. - Das
+Untergewand war ein langes Gewand, das unmittelbar auf dem Körper
+getragen wurde. Zur Verteilung der Kleider vgl. die Anmerkung zu Mt
+27,35.
+
+^{[[#fnm19][19]]} ℘ Ps 22,19
+
+^{[[#fnm20][20]]} ℘ (25-27) Mt 27,55f; Mk 15,40f; Lk 23,49
+
+^{[[#fnm21][21]]} ℘ (28-30) Mt 27,48-50; Mk 15,36f; Lk 23,44-49; (28f)
+Ps 22,16; 69,22 ⇨Esyn: Synopse Nr. 347
+
+^{[[#fnm22][22]]} Essig: saurer Wein oder mit Wasser verdünnter Essig,
+ein beliebtes Erfrischungsgetränk (vgl. die Anmerkung zu Mt 27,34). -
+Der Ysop ist eine kleinbuschige Pflanze, deren Zweige man besonders zum
+Besprengen benutzte.
+
+^{[[#fnm23][23]]} gab seinen Geist auf, wörtlich: er übergab den Geist
+(das pneuma). Geist (pneuma) ist hier wie Joh 11,33; 13,21 als das
+Lebensprinzip, die Lebenskraft, die Seele Jesu zu verstehen. Das Verb
+«übergeben» zeigt an, dass das Sterben Jesu einen Akt der Hingabe Jesu
+an den Willen des Vaters darstellt. - Zur Todesstunde Jesu vgl. die
+Anmerkung zu Mt 27,45.
+
+^{[[#fnm24][24]]} ℘ Ex 12,16; Dtn 21,23
+
+^{[[#fnm25][25]]} Die Beine werden zerschlagen, um den Tod der
+Gekreuzigten sofort herbeizuführen.
+
+^{[[#fnm26][26]]} ℘ ⇨Esyn: Synopse Nr. 349
+
+^{[[#fnm27][27]]} ℘ 21,24
+
+^{[[#fnm28][28]]} «Der es gesehen hat» ist «der Jünger, den Jesus
+liebte» (vgl. V. 26).
+
+^{[[#fnm29][29]]} ℘ Ex 12,46; Ps 34,21
+
+^{[[#fnm30][30]]} ℘ Sach 12,10
+
+^{[[#fnm31][31]]} ℘ (38-42) Mt 27,57-60; Mk 15,42-46; Lk 23,50-54
+
+^{[[#fnm32][32]]} Zur Abnahme des Leichnams Jesu vgl. die Anmerkung zu
+Mk 15,43-45.
+
+^{[[#fnm33][33]]} ℘ ⇨Esyn: Synopse Nr. 350
+
+^{[[#fnm34][34]]} ℘ 3,1-12; 7,50f
+
+^{[[#fnm35][35]]} Hundert Pfund sind etwa 32 Kilogramm.
+
+^{[[#fnm36][36]]} ℘ 11,44

@@ -1,0 +1,91 @@
+#+TITLE: Ps 29 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-14 Do 14:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 29.html
+
+* Ps 29
+
+<<verses>>
+
+<<v1>>
+* Gottes Herrlichkeit im Gewitter
+
+1 [Ein Psalm Davids.] Bringt dar dem Herrn, ihr Himmlischen, /\\
+ bringt dar dem Herrn Lob und Ehre! [fn:1]\\
+\\
+
+<<v2>>
+2 Bringt dar dem Herrn die Ehre seines Namens, /\\
+ werft euch nieder vor dem Herrn in heiligem Schmuck! [fn:2]\\
+\\
+
+<<v3>>
+3 Die Stimme des Herrn erschallt über den Wassern. /\\
+ Der Gott der Herrlichkeit donnert, /\\
+ der Herr über gewaltigen Wassern. [fn:3]\\
+\\
+
+<<v4>>
+4 Die Stimme des Herrn ertönt mit Macht, /\\
+ die Stimme des Herrn voll Majestät.\\
+\\
+
+<<v5>>
+5 Die Stimme des Herrn zerbricht die Zedern, /\\
+ der Herr zerschmettert die Zedern des Libanon.\\
+\\
+
+<<v6>>
+6 Er lässt den Libanon hüpfen wie ein Kalb, /\\
+ wie einen Wildstier den Sirjon. [fn:4]\\
+\\
+
+<<v7>>
+7 Die Stimme des Herrn sprüht flammendes Feuer, /\\
+\\
+
+<<v8>>
+8 die Stimme des Herrn lässt die Wüste beben, /\\
+ beben lässt der Herr die Wüste von Kadesch.\\
+\\
+
+<<v9>>
+9 Die Stimme des Herrn wirbelt Eichen empor, /\\
+ sie reißt ganze Wälder kahl. /\\
+ In seinem Palast rufen alle: O herrlicher Gott! [fn:5]\\
+\\
+
+<<v10>>
+10 Der Herr thront über der Flut, /\\
+ der Herr thront als König in Ewigkeit. [fn:6]\\
+\\
+
+<<v11>>
+11 Der Herr gebe Kraft seinem Volk. /\\
+ Der Herr segne sein Volk mit Frieden. [fn:7]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_103.org::v20][103,20f]]
+
+[fn:2] [[file:Ps_96.org::v8][96,8f]]
+
+[fn:3] (3-4) [[file:Ijob_37.org::v4][Ijob 37,4]]
+
+[fn:4] [[file:Ps_114.org::v4][114,4]]; [[file:Dtn_3.org::v8][Dtn 3,8f]]
+
+[fn:5] Text korr. durch Vokaländerung; andere
+Übersetzungsmöglichkeit: Die Stimme des Herrn versetzt Hirschkühe in
+Wehen, bringt die Ziegen zur Frühgeburt.
+
+[fn:6] [[file:Ps_24.org::v7][24,7-10]]; [[file:Bar_3.org::v3][Bar 3,3]]
+
+[fn:7] [[file:Ps_28.org::v9][28,9]]

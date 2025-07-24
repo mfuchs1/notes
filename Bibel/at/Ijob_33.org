@@ -1,0 +1,218 @@
+#+TITLE: Ijob 33 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 22:28]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 33.html
+
+<<verses>>
+
+<<v1>>
+* Die Zusammenfassung der Argumente Ijobs: 33,1-13
+
+1 Du aber, Ijob, hör doch auf meine Rede, /\\
+ all meinen Worten leih dein Ohr!\\
+\\
+
+<<v2>>
+2 Siehe, ich habe meinen Mund geöffnet, /\\
+ schon spricht am Gaumen meine Zunge.\\
+\\
+
+<<v3>>
+3 Gerade sind die Worte meines Herzens, /\\
+ lautere Weisheit reden meine Lippen.\\
+\\
+
+<<v4>>
+4 Gottes Geist hat mich erschaffen, /\\
+ der Atem des Allmächtigen mir das Leben gegeben. [fn:1]\\
+\\
+
+<<v5>>
+5 Wenn du kannst, so gib mir Antwort! /\\
+ Leg es mir vor und stell dich!\\
+\\
+
+<<v6>>
+6 Schau, ich bin wie du vor Gott, /\\
+ auch ich bin nur aus Lehm geformt. [fn:2]\\
+\\
+
+<<v7>>
+7 Furcht vor mir braucht dich nicht zu erschrecken, /\\
+ Druck von mir nicht auf dir lasten.\\
+\\
+
+<<v8>>
+8 Jedoch, du sprachst vor meinen Ohren /\\
+ und ich vernahm der Worte Laut:\\
+\\
+
+<<v9>>
+9 Rein bin ich und ohne Sünde, /\\
+ makellos und ohne Schuld. [fn:3]\\
+\\
+
+<<v10>>
+10 Vorwürfe sucht Gott gegen mich zu finden, /\\
+ er sieht mich an als seinen Feind. [fn:4]\\
+\\
+
+<<v11>>
+11 Meine Füße legt er in den Block, /\\
+ er überwacht alle meine Pfade. [fn:5]\\
+\\
+
+<<v12>>
+12 Da bist du nicht im Recht, sage ich dir, /\\
+ denn Gott ist größer als der Mensch.\\
+\\
+
+<<v13>>
+13 Weshalb hast du mit ihm gehadert, /\\
+ weil er all deinen Worten nicht erwidert? [fn:6]\\
+\\
+
+<<v14>>
+* Gottes vielfältige Zeichen: 33,14-33
+
+14 Denn einmal redet Gott /\\
+ und zweimal, man achtet nicht darauf.\\
+\\
+
+<<v15>>
+15 Im Traum, im Nachtgesicht, /\\
+ wenn tiefer Schlaf auf die Menschen fällt, /\\
+ im Schlummer auf dem Lager, [fn:7]\\
+\\
+
+<<v16>>
+16 da öffnet er der Menschen Ohr /\\
+ und schreckt sie auf durch Warnung, [fn:8]\\
+\\
+
+<<v17>>
+17 um von seinem Tun den Menschen abzubringen, /\\
+ den Hochmut aus dem Manne auszutreiben, [fn:9]\\
+\\
+
+<<v18>>
+18 seine Seele vor dem Grab zu retten, /\\
+ sein Leben davor, in den Todesschacht hinabzusteigen.\\
+\\
+
+<<v19>>
+19 Er wird gemahnt durch Schmerz auf seinem Lager /\\
+ und ständig ist Kampf in seinen Gliedern. [fn:10]\\
+\\
+
+<<v20>>
+20 Am Brot verspürt sein Leben Ekel /\\
+ und seine Seele an der Lieblingsspeise. [fn:11]\\
+\\
+
+<<v21>>
+21 Es schwindet sein Fleisch, man sieht's nicht mehr. /\\
+ Abgemagert bis auf die Knochen, /\\
+ die man sonst nicht sieht. [fn:12]\\
+\\
+
+<<v22>>
+22 Dem Grabe nähert sich seine Seele, /\\
+ sein Leben den Todesboten.\\
+\\
+
+<<v23>>
+23 Wenn dann ein Engel ihm zur Seite steht, /\\
+ ein Mittler, einer von den Tausenden, /\\
+ dem Menschen zu verkünden, was recht ist,\\
+\\
+
+<<v24>>
+24 wenn dieser sich erbarmt und spricht: /\\
+ Erlös ihn, dass er nicht ins Grab absteige, /\\
+ Lösegeld hab ich für ihn gefunden!,\\
+\\
+
+<<v25>>
+25 dann blüht sein Fleisch in Jugendfrische, /\\
+ zu Jugendtagen kehrt er zurück. [fn:13]\\
+\\
+
+<<v26>>
+26 Betet er zu Gott, so ist er ihm gnädig, /\\
+ er darf sein Angesicht schauen in festlichem Jubel. /\\
+ Dem Menschen gibt er die Gerechtigkeit wieder.\\
+\\
+
+<<v27>>
+27 Er singt bei den Menschen und spricht: /\\
+ Gesündigt hatte ich und das Recht verkehrt; /\\
+ doch hat er mir nicht mit Gleichem vergolten,\\
+\\
+
+<<v28>>
+28 meine Seele erlöst vor dem Abstieg ins Grab, /\\
+ mein Leben darf schauen das Licht.\\
+\\
+
+<<v29>>
+29 Sieh, alles das pflegt Gott zu tun, /\\
+ zweimal, ja dreimal mit den Menschen,\\
+\\
+
+<<v30>>
+30 um fern zu halten seine Seele von dem Grab, /\\
+ um ihm zu leuchten mit dem Licht des Lebens. [fn:14]\\
+\\
+
+<<v31>>
+31 Merk auf, Ijob, hör mich an, /\\
+ schweig still, dass ich rede!\\
+\\
+
+<<v32>>
+32 Hast Worte du bereit, entgegne mir! /\\
+ Sprich nur; denn gern gebe ich dir Recht.\\
+\\
+
+<<v33>>
+33 Wenn aber nicht, hör du mich an! /\\
+ Schweig still, damit ich dich Weisheit lehre.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Gen_2.org::v7][Gen 2,7]]
+
+[fn:2] [[file:Ijob_10.org::v8][10,8]]
+
+[fn:3] [[file:Ijob_10.org::v7][10,7]]; [[file:Ijob_16.org::v17][16,17]]; [[file:Ijob_23.org::v10][23,10]]; [[file:Ijob_27.org::v5][27,5]]
+
+[fn:4] [[file:Ijob_13.org::v24][13,24]]; [[file:Ijob_19.org::v11][19,11]]
+
+[fn:5] [[file:Ijob_13.org::v27][13,27]]
+
+[fn:6] deinen: Text korr.; H: seinen.
+
+[fn:7] [[file:Ijob_4.org::v12][4,12]]-[[file:Ijob_4.org::v16][16]]
+
+[fn:8] schreckt sie auf durch Warnung: Text korr.
+
+[fn:9] von seinem Tun: Text korr. - auszutreiben: Text korr.
+
+[fn:10] [[file:Spr_3.org::v12][Spr 3,12]]
+
+[fn:11] [[file:Ps_107.org::v18][Ps 107,18]]
+
+[fn:12] [[file:Ijob_19.org::v20][19,20]]
+
+[fn:13] [[file:Ps_103.org::v5][Ps 103,5]]
+
+[fn:14] [[file:Ps_56.org::v14][Ps 56,14]]

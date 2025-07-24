@@ -1,0 +1,135 @@
+:PROPERTIES:
+:ID:       9309e6ba-4ab3-4d3c-9ec1-7c7c6468323d
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_48.html][48]] [[file:Jes_49.html][49]] *50*
+[[file:Jes_51.html][51]] [[file:Jes_52.html][52]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 50
+  :PROPERTIES:
+  :CUSTOM_ID: jes-50
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 So spricht der Herr: Wo ist denn die Scheidungsurkunde, /\\
+ mit der ich eure Mutter fortgeschickt habe? Wo ist mein Gläubiger, /\\
+ dem ich euch verkauft habe? Seht, wegen eurer bösen Taten wurdet ihr
+verkauft, /\\
+ wegen eurer Vergehen wurde eure Mutter fortgeschickt.
+^{[[#fn1][1]][[#fn2][2]]}\\
+\\
+
+<<v2>>
+2 Warum war niemand da, als ich kam, /\\
+ warum gab niemand Antwort, als ich rief? Ist meine Hand denn zu
+schwach, um zu befreien, /\\
+ fehlt mir die Kraft, um zu retten? Durch meine Drohung trockne ich das
+Meer aus. /\\
+ Ich mache Flüsse zur Wüste, sodass die Fische verfaulen aus Mangel an
+Wasser /\\
+ und sterben vor Durst. ^{[[#fn3][3]]}\\
+\\
+
+<<v3>>
+3 Ich kleide den Himmel in Schwarz /\\
+ und hülle ihn in ein Trauergewand. ^{[[#fn4][4]]}\\
+\\
+
+<<v4>>
+** Das dritte Lied vom Gottesknecht: 50,4-9
+   :PROPERTIES:
+   :CUSTOM_ID: das-dritte-lied-vom-gottesknecht-504-9
+   :END:
+4 Gott, der Herr, gab mir die Zunge eines Jüngers, /\\
+ damit ich verstehe, die Müden zu stärken durch ein aufmunterndes Wort.
+Jeden Morgen weckt er mein Ohr, /\\
+ damit ich auf ihn höre wie ein Jünger. ^{[[#fn5][5]]}\\
+\\
+
+<<v5>>
+5 Gott, der Herr, hat mir das Ohr geöffnet. /\\
+ Ich aber wehrte mich nicht /\\
+ und wich nicht zurück.\\
+\\
+
+<<v6>>
+6 Ich hielt meinen Rücken denen hin, /\\
+ die mich schlugen, und denen, die mir den Bart ausrissen, /\\
+ meine Wangen. Mein Gesicht verbarg ich nicht /\\
+ vor Schmähungen und Speichel. ^{[[#fn6][6]]}\\
+\\
+
+<<v7>>
+7 Doch Gott, der Herr, wird mir helfen; /\\
+ darum werde ich nicht in Schande enden. Deshalb mache ich mein Gesicht
+hart wie einen Kiesel; /\\
+ ich weiß, dass ich nicht in Schande gerate. ^{[[#fn7][7]]}\\
+\\
+
+<<v8>>
+8 Er, der mich freispricht, ist nahe. /\\
+ Wer wagt es, mit mir zu streiten? Lasst uns zusammen vortreten! /\\
+ Wer ist mein Gegner im Rechtsstreit? /\\
+ Er trete zu mir heran.\\
+\\
+
+<<v9>>
+9 Seht her, Gott, der Herr, wird mir helfen. /\\
+ Wer kann mich für schuldig erklären? Seht: Sie alle zerfallen /\\
+ wie ein Gewand, das die Motten zerfressen. ^{[[#fn8][8]]}\\
+\\
+
+<<v10>>
+** Mahnung zum Vertrauen: 50,10 - 52,12
+   :PROPERTIES:
+   :CUSTOM_ID: mahnung-zum-vertrauen-5010---5212
+   :END:
+**** Die mächtige Hilfe Gottes: 50,10 - 51,8
+     :PROPERTIES:
+     :CUSTOM_ID: die-mächtige-hilfe-gottes-5010---518
+     :END:
+10 Wer von euch den Herrn fürchtet, /\\
+ der höre auf die Stimme seines Knechtes. Wer im Dunkel lebt und wem
+kein Licht leuchtet, /\\
+ der vertraue auf den Namen des Herrn /\\
+ und verlasse sich auf seinen Gott. ^{[[#fn9][9]]}\\
+\\
+
+<<v11>>
+11 Ihr alle aber, die ihr Feuer legt /\\
+ und Brandpfeile entzündet, sollt in die Glut eures eigenen Feuers
+laufen /\\
+ und in die Brandpfeile geraten, die ihr entflammt habt. Durch meine
+Hand kommt das über euch; /\\
+ am Ort der Qualen werdet ihr liegen. ^{[[#fn10][10]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Dtn 24,1
+
+^{[[#fnm2][2]]} In bildhafter Aussage ist Israel die Gemahlin Jahwes,
+vgl. Hos 1 - 3. Der zweite Satz verwendet das Bild von der
+Schuldknechtschaft, in die ein Vater seine Kinder verkauft.
+
+^{[[#fnm3][3]]} ℘ 59,1
+
+^{[[#fnm4][4]]} ℘ Offb 6,12
+
+^{[[#fnm5][5]]} Hören und Verkünden sind Aufgabe des Gottesknechts, der
+als Prophet das Gotteswort empfängt und weitergibt.
+
+^{[[#fnm6][6]]} ℘ Mt 26,67f
+
+^{[[#fnm7][7]]} ℘ Ez 3,8f
+
+^{[[#fnm8][8]]} ℘ 51,8
+
+^{[[#fnm9][9]]} ℘ 9,1
+
+^{[[#fnm10][10]]} 11b: entzündet: Text korr.

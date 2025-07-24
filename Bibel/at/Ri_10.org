@@ -1,0 +1,112 @@
+#+TITLE: Ri 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-04 Sa 23:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 10.html
+
+
+<<verses>>
+
+<<v1>>
+* Tola und Jaïr: 10,1-5
+
+1 Nach Abimelech trat Tola auf, der Sohn Puwas, des Sohnes Dodos, um
+Israel zu retten, ein Mann aus Issachar. Er wohnte in Schamir auf dem
+Gebirge Efraim. [fn:1]
+
+<<v2>>
+2 Er war dreiundzwanzig Jahre lang Richter über Israel. Dann starb er
+und wurde in Schamir begraben.
+
+<<v3>>
+3 Nach ihm trat Jaïr aus Gilead auf; er war zweiundzwanzig Jahre lang
+Richter über Israel. [fn:2]
+
+<<v4>>
+4 Er hatte dreißig Söhne, die auf dreißig Eseln ritten und dreißig
+Städte besaßen. Man nennt sie bis auf den heutigen Tag «die Zeltdörfer
+Jaïrs»; sie liegen im Land Gilead. [fn:3]
+
+<<v5>>
+5 Als Jaïr starb, wurde er in Kamon begraben.\\
+\\
+
+<<v6>>
+* Erneute Unterdrückung der Israeliten: 10,6-16
+
+6 Die Israeliten taten wieder, was dem Herrn missfiel. Sie dienten den
+Baalen und Astarten, den Göttern Arams, den Göttern Sidons, den Göttern
+Moabs, den Göttern der Ammoniter und den Göttern der Philister. Sie
+verließen den Herrn und dienten ihm nicht mehr.
+
+<<v7>>
+7 Deshalb entbrannte der Zorn des Herrn über Israel und er lieferte sie
+der Gewalt der Philister und der Ammoniter aus.
+
+<<v8>>
+8 Sie quälten und unterdrückten die Israeliten in jener Zeit achtzehn
+Jahre lang, alle Israeliten jenseits des Jordan im Land der Amoriter,
+nämlich in Gilead.
+
+<<v9>>
+9 Dann kamen die Ammoniter über den Jordan, um auch gegen Juda, Benjamin
+und das Haus Efraim Krieg zu führen. Israel geriet in große Bedrängnis
+
+<<v10>>
+10 und die Israeliten schrien zum Herrn: Wir haben gegen dich gesündigt;
+denn wir haben unseren Gott verlassen und den Baalen gedient.
+
+<<v11>>
+11 Der Herr erwiderte den Israeliten: Nicht wahr, von Ägypten an [auch
+von den Amoritern, Ammonitern und Philistern her,
+
+<<v12>>
+12 ebenso die Sidonier, Amalek und Midian] haben sie euch unterdrückt.
+Als ihr aber zu mir geschrien habt, habe ich euch aus ihrer Gewalt
+befreit. [fn:4]
+
+<<v13>>
+13 Ihr aber habt mich verlassen und anderen Göttern gedient. Darum werde
+ich euch nicht mehr retten.
+
+<<v14>>
+14 Geht und schreit doch zu den Göttern, die ihr euch erwählt habt; sie
+sollen euch retten in der Zeit der Not.
+
+<<v15>>
+15 Die Israeliten aber sagten zum Herrn: Wir haben gesündigt. Mach mit
+uns, was dir gefällt, nur rette uns heute!
+
+<<v16>>
+16 Und sie entfernten die fremden Götter aus ihrer Mitte und dienten dem
+Herrn. Da konnte er das Elend Israels nicht länger ertragen.\\
+\\
+
+<<v17>>
+* Die Wahl Jiftachs zum Richter: 10,17 - 11,11
+
+17 Die Ammoniter wurden aufgeboten und schlugen ihr Lager in Gilead auf.
+Auch die Israeliten versammelten sich; sie bezogen ihr Lager in Mizpa.
+
+<<v18>>
+18 Da sagten die Leute [die führenden Männer Gileads] zueinander: Wer
+ist der Mann, der den Kampf gegen die Ammoniter aufnimmt? Er soll das
+Oberhaupt aller Bewohner Gileads werden. [fn:5]
+
+* Footnotes
+
+[fn:1] [[file:Gen_46.org::v13][Gen 46,13]]; [[file:Num_26.org::v23][Num 26,23]]
+
+[fn:2] [[file:Num_32.org::v41][Num 32,41]]; [[file:Dtn_3.org::v14][Dtn 3,14]]; [[file:Jos_13.org::v30][Jos 13,30]]
+
+[fn:3] Städte: Text korr. nach den alten Übersetzungen.
+
+[fn:4] Midian: Text korr. nach G.
+
+[fn:5] Der Zusatz ist eine Erläuterung im Sinn von 11,5.

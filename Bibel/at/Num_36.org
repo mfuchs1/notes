@@ -1,0 +1,86 @@
+#+TITLE: Num 36 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-26 Do 21:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 36.html
+
+<<verses>>
+
+<<v1>>
+* Weitere Erbrechtsbestimmungen: 36,1-13
+
+1 Die Familienoberhäupter der Nachkommen Gileads, des Sohnes Machirs,
+des Sohnes Manasses, aus den Sippen der Nachkommen Josefs, kamen zu Mose
+und den führenden Männern, den Familienhäuptern der Israeliten, um mit
+ihnen zu reden.
+
+<<v2>>
+2 Sie sagten: Der Herr hat meinem Herrn aufgetragen, das Land durch das
+Los als Erbbesitz an die Israeliten zu verteilen. Mein Herr erhielt aber
+vom Herrn auch den Auftrag, den Erbbesitz unseres Bruders Zelofhad
+seinen Töchtern zu geben. [fn:1] [fn:2]
+
+<<v3>>
+3 Wenn diese nun einen Mann aus einem anderen israelitischen Stamm
+heiraten, dann geht ihr Besitz dem Erbbesitz unserer Väter verloren und
+wird zum Erbbesitz des Stammes, in den sie einheiraten; er geht also
+unserem Erbanteil verloren.
+
+<<v4>>
+4 Sobald das Jubeljahr für die Israeliten kommt, wird ihr Erbbesitz zum
+Erbbesitz des Stammes, in den sie einheiraten, aber dem Erbbesitz
+unseres väterlichen Stammes geht ihr Erbbesitz verloren.
+
+<<v5>>
+5 Da befahl Mose den Israeliten auf Anweisung des Herrn: Die Männer vom
+Stamm der Söhne Josefs haben Recht.
+
+<<v6>>
+6 Das ist es, was der Herr den Töchtern Zelofhads befiehlt: Heiratet,
+wen ihr wollt, nur müsst ihr einen Mann aus einer Sippe eures
+väterlichen Stammes heiraten.
+
+<<v7>>
+7 Der Erbbesitz darf bei den Israeliten nicht von einem Stamm auf den
+andern übergehen; denn jeder Israelit soll fest mit dem Erbbesitz seines
+väterlichen Stammes verbunden bleiben.
+
+<<v8>>
+8 Jede Tochter, die Anspruch auf Erbbesitz in einem israelitischen Stamm
+hat, muss einen Mann aus einer Sippe ihres väterlichen Stammes heiraten,
+damit bei den Israeliten jeder im Erbbesitz seiner Väter bleibt.
+
+<<v9>>
+9 Der Erbbesitz darf nicht von einem Stamm auf einen andern übergehen.
+Denn jeder Israelit soll fest mit dem Erbbesitz seines Stammes verbunden
+bleiben.
+
+<<v10>>
+10 Die Töchter Zelofhads taten, was der Herr dem Mose befohlen hatte.
+
+<<v11>>
+11 Machla, Tirza, Hogla, Milka und Noa, die Töchter Zelofhads,
+heirateten Söhne ihrer Onkel;
+
+<<v12>>
+12 sie heirateten Männer aus den Sippen der Nachkommen Manasses, des
+Sohnes Josefs. So blieb ihr Erbbesitz dem Stamm ihrer väterlichen Sippe
+erhalten.
+
+<<v13>>
+13 Das sind die Gebote und Rechte, die der Herr den Israeliten in den
+Steppen von Moab, am Jordan bei Jericho, durch Mose gegeben hat.\\
+\\
+
+* Footnotes
+
+[fn:1] 27,1-11 [[file:Num_27.org::v1][Num 27,1-11]]
+
+[fn:2] Mose wird in ehrfurchtsvoller Anrede «Herr» genannt. Zum
+ersten «Herr» vgl. die Anmerkung zu [[file:Gen_4.org][Gen 4,26]].

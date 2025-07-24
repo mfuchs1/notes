@@ -1,0 +1,181 @@
+#+TITLE: Gen 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 09:57]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 4.html
+
+* Gen 4
+<<verses>>
+
+<<v1>>
+* Kain und Abel: 4,1-16
+
+1 Adam erkannte Eva, seine Frau; sie wurde schwanger und gebar Kain. Da
+sagte sie: Ich habe einen Mann vom Herrn erworben. [fn:1]
+
+<<v2>>
+2 Sie gebar ein zweites Mal, nämlich Abel, seinen Bruder. Abel wurde
+Schafhirt und Kain Ackerbauer. [fn:2]
+
+<<v3>>
+3 Nach einiger Zeit brachte Kain dem Herrn ein Opfer von den Früchten
+des Feldes dar;
+
+<<v4>>
+4 auch Abel brachte eines dar von den Erstlingen seiner Herde und von
+ihrem Fett. Der Herr schaute auf Abel und sein Opfer, [fn:3]
+
+<<v5>>
+5 aber auf Kain und sein Opfer schaute er nicht. Da überlief es Kain
+ganz heiß und sein Blick senkte sich.
+
+<<v6>>
+6 Der Herr sprach zu Kain: Warum überläuft es dich heiß und warum senkt
+sich dein Blick?\\
+\\
+
+<<v7>>
+7 Nicht wahr, wenn du recht tust, darfst du aufblicken; wenn du nicht
+recht tust, lauert an der Tür die Sünde als Dämon. Auf dich hat er es
+abgesehen, /\\
+ doch du werde Herr über ihn! [fn:4]\\
+\\
+
+<<v8>>
+8 Hierauf sagte Kain zu seinem Bruder Abel: Gehen wir aufs Feld! Als sie
+auf dem Feld waren, griff Kain seinen Bruder Abel an und erschlug ihn. [fn:5]
+
+<<v9>>
+9 Da sprach der Herr zu Kain: Wo ist dein Bruder Abel? Er entgegnete:
+Ich weiß es nicht. Bin ich der Hüter meines Bruders?
+
+<<v10>>
+10 Der Herr sprach: Was hast du getan? Das Blut deines Bruders schreit
+zu mir vom Ackerboden.
+
+<<v11>>
+11 So bist du verflucht, verbannt vom Ackerboden, der seinen Mund
+aufgesperrt hat, um aus deiner Hand das Blut deines Bruders aufzunehmen.
+
+<<v12>>
+12 Wenn du den Ackerboden bestellst, wird er dir keinen Ertrag mehr
+bringen. Rastlos und ruhelos wirst du auf der Erde sein.
+
+<<v13>>
+13 Kain antwortete dem Herrn: Zu groß ist meine Schuld, als dass ich sie
+tragen könnte.
+
+<<v14>>
+14 Du hast mich heute vom Ackerland verjagt und ich muss mich vor deinem
+Angesicht verbergen; rastlos und ruhelos werde ich auf der Erde sein und
+wer mich findet, wird mich erschlagen.
+
+<<v15>>
+15 Der Herr aber sprach zu ihm: Darum soll jeder, der Kain erschlägt,
+siebenfacher Rache verfallen. Darauf machte der Herr dem Kain ein
+Zeichen, damit ihn keiner erschlage, der ihn finde.
+
+<<v16>>
+16 Dann ging Kain vom Herrn weg und ließ sich im Land Nod nieder,
+östlich von Eden. [fn:6]\\
+\\
+
+<<v17>>
+* Die Nachkommen Kains: 4,17-24
+17 Kain erkannte seine Frau; sie wurde schwanger und gebar Henoch. Kain
+wurde Gründer einer Stadt und benannte sie nach seinem Sohn Henoch. [fn:7]
+
+<<v18>>
+18 Dem Henoch wurde Irad geboren; Irad zeugte Mehujaël, Mehujaël zeugte
+Metuschaël und Metuschaël zeugte Lamech.
+
+<<v19>>
+19 Lamech nahm sich zwei Frauen; die eine hieß Ada, die andere Zilla.
+
+<<v20>>
+20 Ada gebar Jabal; er wurde der Stammvater derer, die in Zelten und
+beim Vieh wohnen.
+
+<<v21>>
+21 Sein Bruder hieß Jubal; er wurde der Stammvater aller Zither- und
+Flötenspieler.
+
+<<v22>>
+22 Auch Zilla gebar, und zwar Tubal-Kajin, der die Geräte aller Erz- und
+Eisenhandwerker schmiedete. Die Schwester Tubal-Kajins war Naama.\\
+\\
+
+<<v23>>
+23 Lamech sagte zu seinen Frauen: Ada und Zilla, hört auf meine Stimme,
+/\\
+ ihr Frauen Lamechs, lauscht meiner Rede! /\\
+ Ja, einen Mann erschlage ich für eine Wunde /\\
+ und einen Knaben für eine Strieme.\\
+\\
+
+<<v24>>
+24 Wird Kain siebenfach gerächt, /\\
+ dann Lamech siebenundsiebzigfach.\\
+\\
+
+<<v25>>
+* Die Nachkommen Sets: 4,25 - 5,32
+25 Adam erkannte noch einmal seine Frau. Sie gebar einen Sohn und nannte
+ihn Set (Setzling); denn sie sagte: Gott setzte mir anderen Nachwuchs
+ein /\\
+ für Abel, weil ihn Kain erschlug. [fn:8]\\
+\\
+
+<<v26>>
+26 Auch dem Set wurde ein Sohn geboren und er nannte ihn Enosch. Damals
+begann man den Namen des Herrn anzurufen. [fn:9]
+
+
+* Footnotes
+
+[fn:1] Die Worte Evas sind ein Wortspiel mit dem Namen Kain,
+der im Hebräischen an das Zeitwort für «erwerben» (kanáh) anklingt.
+
+[fn:2] Abel bedeutet Windhauch, erinnert also an die Kürze und
+Hinfälligkeit des Lebens (vgl. Koh 1,2 [[file:Koh_1.org::v2][Koh 1,2]]).
+
+[fn:3] von ihrem Fett, andere Übersetzungsmöglichkeit: von
+ihren fettesten Tieren.
+
+[fn:4] als Dämon: sinngemäß ergänzt; in H steht trotz des
+weiblichen Wortes für Sünde eine männliche Zeitwortform, die an einen
+Unheilsdämon erinnert. Deswegen wird der ganze Satz mit männlichen
+Formen gebildet. Er will sagen: Nicht den Dämon des Mythus sollst du
+fürchten, sondern die Sünde, die der gefährlichste Dämon ist.
+
+[fn:5] Gehen wir aufs Feld!: nach den alten Übersetzungen
+ergänzt.
+
+[fn:6] Wortspiel mit Nod und dem Wort für «ruhelos» (nad).
+
+[fn:7] Zur Frau Kains und zur Stadtgründung, die viele andere
+Menschen voraussetzt, ist zu bedenken, dass die Erzählungen von Gen in
+vielen Namen handelnder Personen Typen für Menschengruppen (Völker,
+Berufsgruppen, Einwohner von Städten) sehen und dass «zeugen» und «Sohn»
+nicht immer die natürliche Abstammung, sondern auch die Verwandtschaft
+über mehrere Generationen hinweg zum Ausdruck bringt.
+
+[fn:8] Bis hierher war es im Einzelnen fraglich, ob man adam
+mit «Mensch» übersetzen oder es als Eigenname Adam wiedergeben soll.
+Erst von hier ab ist Adam sicher Eigenname. - Die Worte Evas erklären
+sich als Wortspiel mit dem Namen Set, der an das hebräische Zeitwort
+schat (einsetzen) erinnert.
+
+[fn:9] Auch der Name Enosch bedeutet «Mensch». - Hier und an
+den meisten Stellen, wo in dieser Übersetzung «der Herr» für Gott steht,
+gebraucht H den Eigennamen Jahwe. Die Übersetzer folgen der Tradition
+der Juden und Christen, den Eigennamen Jahwe, den die Juden wegen Ex
+20,7 [[file:Ex_20.org::v7][Ex 20,7]] = Dtn 5,11 nicht auszusprechen wagten, mit «der Herr» zu
+umschreiben. Nur wo es unumgänglich schien, wurde der Eigenname belassen
+(vgl. Ex 3,15 [[file:Ex_3.org::v15][Ex 3,15]]).

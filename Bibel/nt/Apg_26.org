@@ -1,0 +1,179 @@
+:PROPERTIES:
+:ID:       1bc9a95d-c5e1-4107-a6cd-cc0e35eec637
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Die Apostelgeschichte* --
+[[file:Apg_1.html][1]] ... [[file:Apg_24.html][24]]
+[[file:Apg_25.html][25]] *26* [[file:Apg_27.html][27]]
+[[file:Apg_28.html][28]]
+
+--------------
+
+* Apg 26
+  :PROPERTIES:
+  :CUSTOM_ID: apg-26
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Da sagte Agrippa zu Paulus: Du hast die Erlaubnis, in eigener Sache zu
+reden. Paulus erhob die Hand und sagte zu seiner Verteidigung:
+
+<<v2>>
+2 Ich schätze mich glücklich, König Agrippa, dass ich mich heute vor dir
+verteidigen darf wegen all der Dinge, die mir die Juden vorwerfen,
+
+<<v3>>
+3 besonders, da du ein Kenner aller jüdischen Satzungen und Streitfragen
+bist. Deshalb bitte ich, mich geduldig anzuhören.
+
+<<v4>>
+4 Das Leben, das ich seit meiner Jugend bei meinem Volk und in Jerusalem
+geführt habe, ist allen Juden von Anfang an bekannt. ^{[[#fn1][1]]}
+
+<<v5>>
+5 Ich bin ihnen von früher her bekannt, und wenn sie wollen, können sie
+bezeugen, dass ich nach der strengsten Richtung unserer Religion gelebt
+habe, nämlich als Pharisäer. ^{[[#fn2][2]]}
+
+<<v6>>
+6 Und jetzt stehe ich vor Gericht wegen der Hoffnung auf die Verheißung,
+die von Gott an unsere Väter ergangen ist. ^{[[#fn3][3]]}
+
+<<v7>>
+7 Unser Zwölfstämmevolk hofft, sie zu erlangen, und deshalb dient es
+Gott unablässig, bei Tag und Nacht. Dieser Hoffnung wegen, König, werde
+ich von den Juden angeklagt.
+
+<<v8>>
+8 Warum haltet ihr es für unglaubhaft, dass Gott Tote auferweckt?
+
+<<v9>>
+9 Ich selbst meinte, ich müsste den Namen Jesu, des Nazoräers, heftig
+bekämpfen. ^{[[#fn4][4]]}
+
+<<v10>>
+10 Das habe ich in Jerusalem auch getan: Ich ließ mir von den
+Hohenpriestern Vollmacht geben und sperrte viele der Heiligen ins
+Gefängnis; und wenn sie hingerichtet werden sollten, stimmte ich dafür.
+
+<<v11>>
+11 Und in allen Synagogen habe ich oft versucht, sie durch Strafen zur
+Lästerung zu zwingen; in maßloser Wut habe ich sie sogar bis in Städte
+außerhalb des Landes verfolgt.
+
+<<v12>>
+12 So zog ich auch mit der Vollmacht und Erlaubnis der Hohenpriester
+nach Damaskus.
+
+<<v13>>
+13 Da sah ich unterwegs, König, mitten am Tag ein Licht, das mich und
+meine Begleiter vom Himmel her umstrahlte, heller als die Sonne.
+
+<<v14>>
+14 Wir alle stürzten zu Boden, und ich hörte eine Stimme auf Hebräisch
+zu mir sagen: Saul, Saul, warum verfolgst du mich? Es wird dir schwer
+fallen, gegen den Stachel auszuschlagen.
+
+<<v15>>
+15 Ich antwortete: Wer bist du, Herr? Der Herr sagte: Ich bin Jesus, den
+du verfolgst.
+
+<<v16>>
+16 Steh auf, stell dich auf deine Füße! Denn ich bin dir erschienen, um
+dich zum Diener und Zeugen dessen zu erwählen, was du gesehen hast und
+was ich dir noch zeigen werde. ^{[[#fn5][5]]}
+
+<<v17>>
+17 Ich will dich vor dem Volk und den Heiden retten, zu denen ich dich
+sende,
+
+<<v18>>
+18 um ihnen die Augen zu öffnen. Denn sie sollen sich von der Finsternis
+zum Licht und von der Macht des Satans zu Gott bekehren und sollen durch
+den Glauben an mich die Vergebung der Sünden empfangen und mit den
+Geheiligten am Erbe teilhaben. ^{[[#fn6][6]]}
+
+<<v19>>
+19 Daher, König Agrippa, habe ich mich der himmlischen Erscheinung nicht
+widersetzt,
+
+<<v20>>
+20 sondern zuerst denen in Damaskus und in Jerusalem, dann im ganzen
+Land Judäa und bei den Heiden verkündet, sie sollten umkehren, sich Gott
+zuwenden und der Umkehr entsprechend handeln.
+
+<<v21>>
+21 Aus diesem Grund haben mich einige Juden im Tempel ergriffen und
+versucht, mich umzubringen. ^{[[#fn7][7]]}
+
+<<v22>>
+22 Doch ich habe Gottes Hilfe erfahren bis zum heutigen Tag; so stehe
+ich da als Zeuge für Groß und Klein und sage nichts anderes als das, was
+nach dem Wort der Propheten und des Mose geschehen soll:
+
+<<v23>>
+23 dass der Christus leiden müsse und dass er, als erster von den Toten
+auferstanden, dem Volk und den Heiden ein Licht verkünden werde.
+^{[[#fn8][8]]}
+
+<<v24>>
+24 Als er sich mit diesen Worten verteidigte, rief Festus laut: Du bist
+verrückt, Paulus! Das viele Studieren in den (heiligen) Schriften treibt
+dich zum Wahnsinn.
+
+<<v25>>
+25 Paulus erwiderte: Ich bin nicht verrückt, erlauchter Festus; was ich
+sage, ist wahr und vernünftig.
+
+<<v26>>
+26 Der König versteht sich auf diese Dinge; deshalb spreche ich auch
+freimütig zu ihm. Ich bin überzeugt, dass ihm nichts davon entgangen
+ist; das alles hat sich ja nicht in irgendeinem Winkel zugetragen.
+
+<<v27>>
+27 König Agrippa, glaubst du den Propheten? Ich weiß, du glaubst.
+
+<<v28>>
+28 Darauf sagte Agrippa zu Paulus: Fast überredest du mich dazu, mich
+als Christ auszugeben. ^{[[#fn9][9]]}
+
+<<v29>>
+29 Paulus antwortete: Ich wünschte mir von Gott, dass früher oder später
+nicht nur du, sondern alle, die mich heute hören, das werden, was ich
+bin, freilich ohne diese Fesseln.
+
+<<v30>>
+30 Da erhoben sich der König und der Statthalter, auch Berenike und
+alle, die bei ihnen saßen.
+
+<<v31>>
+31 Sie zogen sich zurück, besprachen sich miteinander und sagten: Dieser
+Mann tut nichts, worauf Tod oder Haft steht.
+
+<<v32>>
+32 Und Agrippa sagte zu Festus: Der Mann könnte freigelassen werden,
+wenn er nicht an den Kaiser appelliert hätte. ^{[[#fn10][10]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Gal 1,14; Phil 3,5f
+
+^{[[#fnm2][2]]} ℘ 23,6
+
+^{[[#fnm3][3]]} ℘ 28,20
+
+^{[[#fnm4][4]]} ℘ (9-20) 9,1-29; 22,3-21
+
+^{[[#fnm5][5]]} ℘ Ez 2,1.3; 2 Kor 12,1; Gal 1,15f
+
+^{[[#fnm6][6]]} ℘ Jes 35,5; 42,7.16; 61,1; Apg 20,32; Kol 1,13
+
+^{[[#fnm7][7]]} ℘ 21,30f
+
+^{[[#fnm8][8]]} ℘ Lk 24,26.44-47; 1 Kor 15,20; Kol 1,18
+
+^{[[#fnm9][9]]} ℘ 11,26; 1 Petr 4,16
+
+^{[[#fnm10][10]]} ℘ 25,11

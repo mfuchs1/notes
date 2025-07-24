@@ -1,0 +1,149 @@
+#+TITLE: 2 Makk 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 21:11]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Makk 13.html
+
+<<verses>>
+
+<<v1>>
+* Ein erfolgloser Angriff auf Jerusalem: 13,1-26
+
+1 Im Jahr 149 erfuhren die Leute des Judas, dass Antiochus Eupator mit
+einem großen Heer gegen Judäa marschierte. [fn:1]
+
+<<v2>>
+2 Er wurde begleitet von dem Reichsverweser Lysias, seinem Vormund.
+Jeder führte ein Heer von hundertzehntausend griechischen Fußsoldaten,
+fünftausenddreihundert Reitern, zweiundzwanzig Elefanten und dreihundert
+Sichelwagen.
+
+<<v3>>
+3 Ihnen schloss sich auch Menelaus an; er redete heuchlerisch auf den
+König ein, nicht um das Vaterland zu retten, sondern weil er glaubte, er
+habe Aussicht, wieder in sein Amt (als Hoherpriester) eingesetzt zu
+werden.
+
+<<v4>>
+4 Der höchste König über allen Königen aber ließ Antiochus zornig werden
+auf den Verruchten, und als Lysias andeutete, dieser sei an allem
+Unglück schuld, befahl er, ihn nach Beröa zu schaffen und dort
+umzubringen. So ist es Brauch in jener Gegend.
+
+<<v5>>
+5 Es gibt dort nämlich einen fünfzig Ellen hohen Turm, der mit glühender
+Asche gefüllt ist. In ihm ist eine drehbare Maschine angebracht, die
+sich nach allen Seiten schräg zur Asche neigt.
+
+<<v6>>
+6 Wer des Tempelraubes schuldig ist oder ein anderes schweres Verbrechen
+begangen hat, den stoßen dort alle in den Tod.
+
+<<v7>>
+7 Auf diese Weise fand der Gesetzesbrecher Menelaus den Tod. Nicht
+einmal Erde zum Begräbnis wurde ihm zuteil.
+
+<<v8>>
+8 Damit geschah ihm nur recht; denn er hatte viele Verbrechen gegen den
+Altar begangen, dessen Feuer und Asche heilig sind. Nun fand er in Asche
+den Tod.
+
+<<v9>>
+9 Der König aber hatte das Herz eines Barbaren; er begann, den Juden
+noch weit Schlimmeres in Aussicht zu stellen als das, was zur Zeit
+seines Vaters geschehen war.
+
+<<v10>>
+10 Judas hörte davon und ließ dem Volk bekannt geben, man solle Tag und
+Nacht zum Herrn beten. Wenn je zu einer Zeit, dann müsse er ihnen jetzt
+helfen. Man wolle ihnen das Gesetz, das Vaterland und den heiligen
+Tempel rauben.
+
+<<v11>>
+11 Gerade erst habe das Volk ein wenig aufatmen können; Gott möge doch
+nicht zulassen, dass sie den ruchlosen Heiden in die Hände fielen.
+
+<<v12>>
+12 Drei Tage lang lagen sie ohne Unterbrechung auf den Knien und flehten
+unter Tränen und Fasten gemeinsam den barmherzigen Herrn an. Judas
+sprach ihnen Mut zu; dann gab er ihnen den Befehl, sich bereitzuhalten.
+
+<<v13>>
+13 Auf einer geheimen Sitzung der Ältesten ließ er den Beschluss fassen,
+man solle, bevor der König in Judäa eindringen und die Stadt in seine
+Gewalt bringen könne, ausrücken und die Sache mit Gottes Hilfe
+entscheiden.
+
+<<v14>>
+14 Er stellte den Ausgang dem Schöpfer der Welt anheim und feuerte seine
+Männer an, bis zum Tod tapfer für Gesetze, Heiligtum, Stadt, Vaterland
+und Verfassung zu kämpfen. Dann schlug er bei Modeïn ein Lager auf.
+
+<<v15>>
+15 Er gab seinen Truppen als Losung die Worte: Gottes Sieg. Mit den
+besten seiner jungen Krieger, die er eigens ausgewählt hatte, überfiel
+er nachts das Zelt des Königs, erschlug etwa zweitausend Mann und
+erstach den Leitelefanten des Königs mitsamt seinem Treiber.
+
+<<v16>>
+16 Als sie schließlich das ganze Lager in Furcht und Verwirrung gebracht
+hatten, zogen sie sich siegreich wieder zurück.
+
+<<v17>>
+17 Bei Tagesanbruch war alles vorbei; der Herr hatte ihnen mit seiner
+schützenden Macht beigestanden.
+
+<<v18>>
+18 Nachdem der König diese Kostprobe jüdischer Tapferkeit erhalten
+hatte, versuchte er, das Land mit Hilfe von List zu besetzen.
+
+<<v19>>
+19 Er rückte gegen die starke jüdische Festung Bet-Zur vor, wurde aber
+zurückgeschlagen; dann stieß er wieder vor und wurde wieder geschlagen.
+
+<<v20>>
+20 Judas ließ die Besatzung mit allem versorgen, was sie brauchte.
+
+<<v21>>
+21 Ein jüdischer Soldat namens Rhodokus aber verriet den Feinden die
+militärischen Geheimnisse. Er wurde verhört, festgenommen und
+eingekerkert.
+
+<<v22>>
+22 Dann verhandelte der König zum zweiten Mal mit der Besatzung von
+Bet-Zur, schloss mit ihnen einen Vertrag und zog ab. Dabei stieß er auf
+das Heer des Judas und erlitt eine Schlappe.
+
+<<v23>>
+23 Da erfuhr er, dass Philippus in Antiochia abgefallen sei; er hatte
+ihn dort zurückgelassen, um die Regierungsgeschäfte zu führen. Der König
+war sehr niedergeschlagen. Er sprach freundlich mit den Juden, gab ihnen
+nach, sicherte ihnen eidlich die Erfüllung aller gerechten Ansprüche zu,
+versöhnte sich mit ihnen und brachte ein Opfer dar, ehrte den Tempel und
+bewies dem Ort sein Wohlwollen.
+
+<<v24>>
+24 Für den Makkabäer gab er einen Empfang. Als Befehlshaber über das
+ganze Gebiet Ptolemaïs bis zu den Gerrenern ließ er den Hegemonides
+zurück
+
+<<v25>>
+25 und begab sich dann nach Ptolemaïs. Die Einwohner dieser Stadt waren
+nämlich über die Verträge sehr verärgert; sie hatten sich heftig
+beschwert und wollten die Abmachungen rückgängig machen.
+
+<<v26>>
+26 Lysias trat auf die Rednerbühne, gab Rechenschaft, so gut er konnte,
+überredete, beschwichtigte, stimmte die Leute um und brach dann nach
+Antiochia auf. So verliefen der Anmarsch und der Abzug des Königs.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-26) [[file:1.Makk_6.org::v28][1 Makk 6,28]]-[[file:1.Makk_6.org::v63][63]]

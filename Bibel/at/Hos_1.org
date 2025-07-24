@@ -1,0 +1,157 @@
+:PROPERTIES:
+:ID:       3004cfbd-c93f-4fb4-a67e-d4e809b3ce0a
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Hosea* -- *1* [[file:Hos_2.html][2]]
+[[file:Hos_3.html][3]] ... [[file:Hos_14.html][14]]
+
+--------------
+
+* Hos 1
+  :PROPERTIES:
+  :CUSTOM_ID: hos-1
+  :END:
+
+B+1
+** Einführung in das Zwölfprophetenbuch
+   :PROPERTIES:
+   :CUSTOM_ID: einführung-in-das-zwölfprophetenbuch
+   :END:
+Bei der Sammlung und Sichtung der Prophetenschriften haben die jüdischen
+Autoritäten die kleineren Schriften auf eine einzige Buchrolle schreiben
+lassen und damit ein Prophetenbuch für die liturgische Vorlesung
+geschaffen, das dem Umfang nach etwa dem Buch eines der großen Propheten
+entspricht. Die Zahl Zwölf wird dabei kein Zufall sein. Jedenfalls sind
+unter den Texten auch solche, die nicht auf den jeweils genannten Autor
+zurückgehen (vgl. die Einleitung zu Sach). Gleichwohl haben auch diese
+»anonymen« Prophetentexte als Heilige Schrift zu gelten. Die Reihenfolge
+der einzelnen Bücher ist wohl hauptsächlich nach der in der Spätzeit
+herrschenden Auffassung über die geschichtliche Abfolge der »Zwölf«
+vorgenommen worden, ist aber in der griechischen Bibel eine etwas andere
+als im jüdischen Kanon. In Wirklichkeit trifft diese Datierungsfolge nur
+im Groben zu. Die Einzelschriften fügen sich in den Geschichtsbogen
+vom 8. bis zum 4. Jahrhundert v. Chr. ein. Darum sind ihre Themen
+außerordentlich vielfältig und nicht auf einen Nenner zu bringen. Die
+später üblich gewordene Benennung der Zwölf als »Kleine Propheten« darf
+nicht als Wertung aufgefasst werden; die Bezeichnung bezieht sich
+ausschließlich auf den Umfang der Bücher. Es finden sich unter ihnen
+bedeutende Gestalten (z. B. Hosea, Amos, Micha), deren Botschaft nicht
+weniger ins Gewicht fällt als die von Jesaja, Jeremia und Ezechiel.\\
+\\
+B+0Die vierzehn Kapitel des nach Hosea benannten Buches gliedern sich
+deutlich in zwei Abschnitte: Kap. 1 - 3 und Kap. 4 - 14. Der erste
+Abschnitt kreist um das Thema der Ehe des Propheten und damit der »Ehe«
+Gottes mit seinem Volk; der zweite Abschnitt reiht die übrigen
+Verkündigungseinheiten, meist in relativ großen Reden und mit reichem
+Themenwechsel, ohne größere Systematik aneinander. Die Hauptmasse des
+Textes geht auf Hosea selbst oder seinen unmittelbaren Jüngerkreis
+zurück. Es gibt allerdings einige spätere Ergänzungen (z.B. 5,5; 6,11;
+8,14; 12,1) aus dem Reich Juda. Ein weisheitlicher Zusatz ist in 14,10
+greifbar. Wahrscheinlich ist auch 2,1-3 ein im Geist Hoseas eingefügter
+Einschub.\\
+\\
+Aus der Überschrift (1,1) und dem Inhalt ergibt sich, dass Hosea als
+Angehöriger der Nordstämme, wahrscheinlich des Stammes Efraim, um 750 v.
+Chr. im Nordreich Israel seine Tätigkeit aufnahm und sie bis gegen Ende
+des Reichs (722 v. Chr.) weiterführte. Seine Epoche ist gekennzeichnet
+durch die politische und wirtschaftliche Blüte unter Jerobeam II. (etwa
+782-747 v. Chr.), mit der jedoch zugleich eine fortschreitende
+Kanaanisierung der gesellschaftlichen Verhältnisse (vgl. Amos), aber
+auch der Offenbarungsreligion einherging. Dazu kam in den letzten
+Jahrzehnten eine politische Unbeständigkeit (Hinwendung bald zu Ägypten,
+bald zu Assur; vier Königsmorde innerhalb von fünfzehn Jahren), die
+Hosea ebenfalls als Abfall von Jahwe brandmarkte.\\
+\\
+Hosea muss die Untreue gegenüber Jahwe nicht nur anklagen, sondern auch
+in einer symbolischen Handlung, nämlich in seiner Ehe, darstellen (vgl.
+Kap. 1 - 3) und zugleich mit Strafe bedrohen (vgl. die Namen der Kinder
+in Kap. 1). Doch wird diese Androhung durch die Verheißung der
+endzeitlichen »Gottesehe« zwischen Jahwe und Israel (2,18-25) überboten.
+Hosea hat damit eine theologische Botschaft ersten Ranges geschaffen,
+die bei Jeremia, Ezechiel und Deuterojesaja ihr Echo findet und tief ins
+Neue Testament hineinreicht (vgl. Mk 2,19f und die Paralleltexte; Joh
+3,29; Offb 19,7; 21,9). Auch die Vaterschaft Gottes wird von Hosea
+eindrucksvoll verkündet (Kap. 11). Die von ihm geforderte wahre
+Gottesverehrung (»Liebe will ich, nicht Schlachtopfer« 6,6) wird von
+Jesus zweimal bestätigt (Mt 9,13; 12,7). Hosea ist der erste Prophet,
+der die Zuwendung Gottes zum Menschen mit dem Wort »lieben« kennzeichnet
+(3,1; 11,1; 14,5), was im Neuen Testament besonders die johanneischen
+Schriften aufgreifen und ausgestalten.\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Überschrift: 1,1
+   :PROPERTIES:
+   :CUSTOM_ID: überschrift-11
+   :END:
+1 Das Wort des Herrn, das an Hosea, den Sohn Beeris, in der Zeit erging,
+als Usija, Jotam, Ahas und Hiskija Könige von Juda waren und als
+Jerobeam, der Sohn des Joasch, König von Israel war.\\
+\\
+
+<<v2>>
+** Die Ehe Hoseas: 1,2 - 3,5
+   :PROPERTIES:
+   :CUSTOM_ID: die-ehe-hoseas-12---35
+   :END:
+**** Die symbolische Botschaft Gottes: 1,2-9
+     :PROPERTIES:
+     :CUSTOM_ID: die-symbolische-botschaft-gottes-12-9
+     :END:
+2 So begann der Herr durch Hosea zu reden: Der Herr sagte zu Hosea: Geh,
+nimm dir eine Kultdirne zur Frau und (zeuge) Dirnenkinder! Denn das Land
+hat den Herrn verlassen und ist zur Dirne geworden.
+^{[[#fn1][1]][[#fn2][2]]}
+
+<<v3>>
+3 Da ging Hosea und nahm Gomer, die Tochter Diblajims, zur Frau; sie
+wurde schwanger und gebar ihm einen Sohn.
+
+<<v4>>
+4 Der Herr sagte zu Hosea: Gib ihm den Namen Jesreel! Denn es dauert
+nicht mehr lange, dann werde ich das Haus Jehu für die Blutschuld von
+Jesreel bestrafen und dem Königtum in Israel ein Ende machen.
+^{[[#fn3][3]]}
+
+<<v5>>
+5 An jenem Tag werde ich den Bogen Israels in der Ebene Jesreel
+zerbrechen.
+
+<<v6>>
+6 Als Gomer wieder schwanger wurde und eine Tochter gebar, sagte der
+Herr zu Hosea: Gib ihr den Namen Lo-Ruhama (Kein Erbarmen)! Denn von
+jetzt an habe ich kein Erbarmen mehr mit dem Haus Israel, nein, ich
+entziehe es ihnen. ^{[[#fn4][4]]}
+
+<<v7>>
+7 Mit dem Haus Juda jedoch will ich Erbarmen haben und ihnen Hilfe
+bringen; ich helfe ihnen als der Herr, ihr Gott, aber nicht mit Bogen,
+Schwert und Krieg, nicht mit Rossen und Reitern. ^{[[#fn5][5]]}
+
+<<v8>>
+8 Als Gomer Lo-Ruhama entwöhnt hatte, wurde sie wieder schwanger und
+gebar einen Sohn.
+
+<<v9>>
+9 Da sagte der Herr: Gib ihm den Namen Lo-Ammi (Nicht mein Volk)! Denn
+ihr seid nicht mein Volk und ich bin nicht der «Ich-bin-da» für euch.
+^{[[#fn6][6]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 4,12; 9,1
+
+^{[[#fnm2][2]]} Der von Hosea gewählte Ausdruck «Frau der Hurerei», der
+hier mit «Kultdirne» wiedergegeben ist, meint wohl (vgl. 4,12) ein
+Mädchen, das an den Sexualriten des Baalskultes teilgenommen hat. Die
+Verehrung Baals ist für Hosea Ehebruch gegenüber dem Bundesgott.
+
+^{[[#fnm3][3]]} ℘ 2 Kön 9,24-27; 10,11; 17,3-6.20-23; Am 7,9.11
+
+^{[[#fnm4][4]]} ℘ 2,1.3.6
+
+^{[[#fnm5][5]]} ℘ 2 Kön 19,34; Ps 20,8; Spr 21,31; Jes 30,16; Mi 5,9
+
+^{[[#fnm6][6]]} ℘ 2,25; Ex 3,14

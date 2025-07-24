@@ -1,0 +1,201 @@
+:PROPERTIES:
+:ID:       971284f2-34bb-427c-8c93-5770e7d86e19
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
+[[file:Sir_1.html][1]] ... [[file:Sir_34.html][34]]
+[[file:Sir_35.html][35]] *36* [[file:Sir_37.html][37]]
+[[file:Sir_38.html][38]] ... [[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 36
+  :PROPERTIES:
+  :CUSTOM_ID: sir-36
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Ein Gebet um Rettung: 36,1-22
+     :PROPERTIES:
+     :CUSTOM_ID: ein-gebet-um-rettung-361-22
+     :END:
+1 Rette uns, du Gott des Alls, / ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 und wirf deinen Schrecken auf alle Völker!\\
+\\
+
+<<v3>>
+3 Schwing deine Hand gegen das fremde Volk, /\\
+ damit es deine mächtigen Taten sieht. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Wie du dich an uns vor ihren Augen als heilig bezeugt hast, /\\
+ so verherrliche dich an ihnen vor unseren Augen, ^{[[#fn3][3]]}\\
+\\
+
+<<v5>>
+5 damit sie erkennen, wie wir es erkannten: /\\
+ Es gibt keinen Gott außer dir.\\
+\\
+
+<<v6>>
+6 Erneuere die Zeichen, wiederhole die Wunder, /\\
+\\
+
+<<v7>>
+7 zeige die Macht deiner Hand und die Kraft deines rechten Armes!\\
+\\
+
+<<v8>>
+8 Weck deinen Zorn, ergieß deinen Groll, /\\
+\\
+
+<<v9>>
+9 beuge den Gegner, wirf den Feind zu Boden!\\
+\\
+
+<<v10>>
+10 Beschleunige das Ende und schau auf die Zeit! /\\
+ Denn wer darf zu dir sagen: Was tust du?\\
+\\
+
+<<v11>>
+11 Wer entkommt, der werde von der Glut deines Zornes verzehrt, /\\
+ die Peiniger deines Volkes sollen zugrunde gehen.\\
+\\
+
+<<v12>>
+12 Bring das Haupt der Fürsten Moabs zum Schweigen, /\\
+ das sagt: Es gibt keinen außer mir. ^{[[#fn4][4]]}\\
+\\
+
+<<v13>>
+13 Sammle alle Stämme Jakobs, /\\
+\\
+
+<<v14>>
+14 []
+
+<<v15>>
+15 []
+
+<<v16>>
+16 verteil den Erbbesitz wie in den Tagen der Vorzeit! ^{[[#fn5][5]]}\\
+\\
+
+<<v17>>
+17 Hab Erbarmen mit dem Volk, das deinen Namen trägt, /\\
+ mit Israel, den du deinen Erstgeborenen nanntest. ^{[[#fn6][6]]}\\
+\\
+
+<<v18>>
+18 Hab Erbarmen mit deiner heiligen Stadt, /\\
+ mit Jerusalem, dem Ort, wo du wohnst.\\
+\\
+
+<<v19>>
+19 Erfülle Zion mit deinem Glanz /\\
+ und deinen Tempel mit deiner Herrlichkeit!\\
+\\
+
+<<v20>>
+20 Leg Zeugnis ab für das, was du ehedem verfügt hast; /\\
+ erfülle die Weissagung, /\\
+ die in deinem Namen ergangen ist.\\
+\\
+
+<<v21>>
+21 Gib allen ihren Lohn, die auf dich hoffen, /\\
+ und bestätige so deine Propheten!\\
+\\
+
+<<v22>>
+22 Erhöre das Gebet deiner Diener; /\\
+ du hast doch Gefallen an deinem Volk. Alle Enden der Erde sollen
+erkennen: /\\
+ Du bist der ewige Gott.\\
+\\
+
+<<v23>>
+**** Die kluge Wahl des Vertrauten: 36,23 - 37,26
+     :PROPERTIES:
+     :CUSTOM_ID: die-kluge-wahl-des-vertrauten-3623---3726
+     :END:
+23 Der Hals schluckt jede Speise, /\\
+ doch die eine Speise schmeckt besser als die andere.\\
+\\
+
+<<v24>>
+24 Der Gaumen prüft geschenkte Leckerbissen, /\\
+ das kluge Herz die Leckerbissen der Lüge.\\
+\\
+
+<<v25>>
+25 Ein tückischer Sinn verursacht Leid, /\\
+ doch ein kluger Mann gibt es ihm zurück.\\
+\\
+
+<<v26>>
+26 Eine Frau nimmt jeden beliebigen Mann, /\\
+ doch die eine Frau ist schöner als die andere.\\
+\\
+
+<<v27>>
+27 Eine schöne Frau macht das Gesicht strahlend, /\\
+ sie übertrifft alle Lust der Augen. ^{[[#fn7][7]]}\\
+\\
+
+<<v28>>
+28 Hat sie dazu noch eine friedfertige Sprache, /\\
+ so zählt ihr Gatte nicht zu den gewöhnlichen Menschen.\\
+\\
+
+<<v29>>
+29 Wer eine Frau gewinnt, macht den besten Gewinn: /\\
+ eine Hilfe, die ihm entspricht, eine stützende Säule. ^{[[#fn8][8]]}\\
+\\
+
+<<v30>>
+30 Fehlt die Mauer, so wird der Weinberg verwüstet, /\\
+ fehlt die Frau, ist einer rastlos und ruhelos. ^{[[#fn9][9]]}\\
+\\
+
+<<v31>>
+31 Wer traut einer Horde Soldaten, /\\
+ die dahinstürmt von Stadt zu Stadt? So steht es mit einem Mann, der
+kein Heim hat: /\\
+ Er geht zur Ruhe, wo es gerade Abend wird. ^{[[#fn10][10]]}\\
+\\
+
+^{[[#fnm1][1]]} Kap. 36 In G als Kap. 33 gezählt.
+
+^{[[#fnm2][2]]} 3a: Das fremde Volk (G: Die fremden Völker) sind die
+Griechen und ihre syrischen Verbündeten, die damals Judäa beherrschten.
+
+^{[[#fnm3][3]]} Sinn: Wie der heilige Gott sein Volk vor den Augen der
+Heiden bestraft hat, so möge er nun an diesen seine Allmacht zeigen.
+
+^{[[#fnm4][4]]} 12a: das Haupt: vermutlich im Sinn von Oberhaupt;
+gemeint ist der gottfeindliche König. Statt «Fürsten Moabs» liest G:
+Fürsten der Feinde; es liegt aber eine Anspielung an Num 24,17 vor, die
+wohl ursprünglich ist.
+
+^{[[#fnm5][5]]} In G steht 33,1-15 vor 36,16; darum müssen bei richtiger
+Einordnung die VV. 14 und 15 jetzt fehlen (vgl. die Anmerkung zu 31,1 -
+36,13).
+
+^{[[#fnm6][6]]} ℘ Jer 31,9; Weish 18,13
+
+^{[[#fnm7][7]]} ℘ 26,13-18
+
+^{[[#fnm8][8]]} ℘ Spr 18,22; Gen 2,18
+
+^{[[#fnm9][9]]} ℘ Jes 5,5; Gen 4,12
+
+^{[[#fnm10][10]]} ℘ 29,21-28

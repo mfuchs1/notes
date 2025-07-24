@@ -1,0 +1,123 @@
+#+TITLE: Ex 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 22:27]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 13.html
+
+* Ex 13
+
+<<verses>>
+
+<<v1>>
+1 Der Herr sprach zu Mose:
+
+<<v2>>
+2 Erkläre alle Erstgeburt als mir geheiligt! Alles, was bei den
+Israeliten den Mutterschoß durchbricht, bei Mensch und Vieh, gehört mir.
+
+<<v3>>
+3 Mose sagte zum Volk: Denkt an diesen Tag, an dem ihr aus Ägypten, dem
+Sklavenhaus, fortgezogen seid; denn mit starker Hand hat euch der Herr
+von dort herausgeführt. Nichts Gesäuertes soll man essen.
+
+<<v4>>
+4 Heute im Monat Abib seid ihr weggezogen.
+
+<<v5>>
+5 Wenn dich der Herr in das Land der Kanaaniter, Hetiter, Amoriter,
+Hiwiter und Jebusiter geführt hat - er hat deinen Vätern mit einem Eid
+zugesichert, dir das Land zu geben, wo Milch und Honig fließen -, begeh
+die Feier in diesem Monat!
+
+<<v6>>
+6 Sieben Tage sollst du ungesäuerte Brote essen, am siebten Tag ist ein
+Fest zur Ehre des Herrn.
+
+<<v7>>
+7 Ungesäuerte Brote soll man sieben Tage lang essen. Nichts Gesäuertes
+soll man bei dir sehen und kein Sauerteig soll in deinem ganzen Gebiet
+zu finden sein.
+
+<<v8>>
+8 An diesem Tag erzähl deinem Sohn: Das geschieht für das, was der Herr
+an mir getan hat, als ich aus Ägypten auszog.
+
+<<v9>>
+9 Es sei dir ein Zeichen an der Hand und ein Erinnerungsmal an der
+Stirn, damit das Gesetz des Herrn in deinem Mund sei. Denn mit starker
+Hand hat dich der Herr aus Ägypten herausgeführt.
+
+<<v10>>
+10 Halte dich an diese Regel, Jahr für Jahr, zur festgesetzten Zeit!
+
+<<v11>>
+11 Der Herr wird dich in das Land der Kanaaniter bringen und wird es dir
+geben, wie er dir und deinen Vätern mit einem Eid zugesichert hat.
+
+<<v12>>
+12 Dann musst du alles, was den Mutterschoß durchbricht, vor den Herrn
+bringen; alle männlichen Erstlinge, die dein Vieh wirft, gehören dem
+Herrn.
+
+<<v13>>
+13 Jeden Erstling vom Esel aber löse durch ein Schaf aus! Willst du ihn
+nicht auslösen, dann brich ihm das Genick! Jeden Erstgeborenen deiner
+Söhne musst du auslösen.
+
+<<v14>>
+14 Wenn dich morgen dein Sohn fragt: Was bedeutet das?, dann sag ihm:
+Mit starker Hand hat uns der Herr aus Ägypten, aus dem Sklavenhaus,
+herausgeführt.
+
+<<v15>>
+15 Als der Pharao hart blieb und uns nicht ziehen ließ, erschlug der
+Herr alle Erstgeborenen in Ägypten, bei Mensch und Vieh. Darum opfere
+ich dem Herrn alle männlichen Tiere, die den Mutterschoß durchbrechen;
+alle Erstgeborenen meiner Söhne aber löse ich aus.
+
+<<v16>>
+16 Das sei dir ein Zeichen an deiner Hand und ein Schmuck auf deiner
+Stirn; denn mit starker Hand hat uns der Herr aus Ägypten
+herausgeführt.\\
+\\
+
+<<v17>>
+* Die Rettung am Schilfmeer: 13,17 - 14,31
+
+17 Als der Pharao das Volk ziehen ließ, führte sie Gott nicht den Weg
+ins Philisterland, obwohl er der kürzere war. Denn Gott sagte: Die Leute
+könnten es sonst, wenn sie Krieg erleben, bereuen und nach Ägypten
+zurückkehren wollen.
+
+<<v18>>
+18 So ließ sie Gott einen Umweg machen, der durch die Wüste zum
+Schilfmeer führte. Geordnet zogen die Israeliten aus Ägypten hinauf.
+
+<<v19>>
+19 Mose nahm die Gebeine Josefs mit; denn dieser hatte die Söhne Israels
+beschworen: Wenn Gott sich euer annimmt, dann nehmt meine Gebeine von
+hier mit hinauf! [fn:1]
+
+<<v20>>
+20 Sie brachen von Sukkot auf und schlugen ihr Lager in Etam am Rand der
+Wüste auf.
+
+<<v21>>
+21 Der Herr zog vor ihnen her, bei Tag in einer Wolkensäule, um ihnen
+den Weg zu zeigen, bei Nacht in einer Feuersäule, um ihnen zu leuchten.
+So konnten sie Tag und Nacht unterwegs sein.
+
+<<v22>>
+22 Die Wolkensäule wich bei Tag nicht von der Spitze des Volkes und die
+Feuersäule nicht bei Nacht.
+
+
+* Footnotes
+
+[fn:1] Gen 50,25

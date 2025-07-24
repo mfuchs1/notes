@@ -1,0 +1,227 @@
+#+TITLE: Ex 29 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 23:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 29.html
+
+<<verses>>
+
+<<v1>>
+* Die Weihe der Priester: 29,1-37
+1 Das ist es, was du mit ihnen tun sollst, wenn du sie zum
+Priesterdienst für mich weihst: Nimm einen Jungstier und zwei fehlerlose
+Widder, [fn:1]
+
+<<v2>>
+2 ungesäuerte Brote, mit Öl vermengte ungesäuerte Kuchen und mit Öl
+bestrichene ungesäuerte Brotfladen; aus Feinmehl sollst du sie
+zubereiten.
+
+<<v3>>
+3 Leg sie in einen Korb und bring sie im Korb herbei, dazu den Jungstier
+und die beiden Widder!
+
+<<v4>>
+4 Lass Aaron und seine Söhne zum Eingang des Offenbarungszeltes treten,
+und wasche sie mit Wasser!
+
+<<v5>>
+5 Nimm die Gewänder und bekleide Aaron mit Leibrock, Efodmantel, Efod
+und Lostasche und bind ihm die Efodschärpe um!
+
+<<v6>>
+6 Setz ihm den Turban auf den Kopf und befestige das heilige Diadem am
+Turban!
+
+<<v7>>
+7 Nimm Salböl, gieß es auf sein Haupt und salb ihn!
+
+<<v8>>
+8 Lass seine Söhne herantreten und bekleide sie mit Leibröcken!
+
+<<v9>>
+9 Gürte Aaron und seine Söhne mit einem Gürtel und bind ihnen die
+Kopfbünde um! Das Priestertum gehört dann ihnen als dauerndes Anrecht.
+Setz also Aaron und seine Söhne ins Priesteramt ein!
+
+<<v10>>
+10 Lass den Jungstier vor das Offenbarungszelt bringen und Aaron und
+seine Söhne sollen ihre Hände auf den Kopf des Jungstiers legen.
+
+<<v11>>
+11 Dann schlachte den Jungstier vor dem Herrn am Eingang des
+Offenbarungszeltes!
+
+<<v12>>
+12 Nimm vom Blut des Jungstiers und gib etwas davon mit deinem Finger
+auf die Hörner des Altars! Das ganze übrige Blut aber gieß am Sockel des
+Altars aus!
+
+<<v13>>
+13 Nimm das ganze Fett, das die Eingeweide bedeckt, die Fettmasse über
+der Leber, die beiden Nieren und ihr Fett und lass es auf dem Altar in
+Rauch aufgehen!
+
+<<v14>>
+14 Das Fleisch des Jungstiers, sein Fell und seinen Mageninhalt verbrenn
+im Feuer außerhalb des Lagers, denn es ist ein Sündopfer.
+
+<<v15>>
+15 Dann hol den einen Widder und Aaron und seine Söhne sollen ihre Hände
+auf den Kopf des Widders legen.
+
+<<v16>>
+16 Schlachte den Widder, nimm sein Blut und gieß es ringsum an den
+Altar!
+
+<<v17>>
+17 Zerleg den Widder in seine Teile, wasche seine Eingeweide und seine
+Beine und leg sie auf seine übrigen Teile und auf seinen Kopf!
+
+<<v18>>
+18 Dann lass den ganzen Widder auf dem Altar in Rauch aufgehen! Ein
+Brandopfer ist es für den Herrn zum beruhigenden Duft, ein Feueropfer
+für den Herrn ist es.
+
+<<v19>>
+19 Dann hol den zweiten Widder und Aaron und seine Söhne sollen ihre
+Hände auf den Kopf des Widders legen.
+
+<<v20>>
+20 Schlachte den Widder, nimm von seinem Blut und streich es auf das
+rechte Ohrläppchen Aarons und seiner Söhne, auf den Daumen ihrer rechten
+Hand und auf die große Zehe ihres rechten Fußes! Das übrige Blut gieß
+ringsum an den Altar!
+
+<<v21>>
+21 Nimm vom Blut auf dem Altar und vom Salböl und bespreng damit Aaron
+und dessen Gewänder sowie seine Söhne und deren Gewänder! Er und seine
+Gewänder werden so geweiht sein und mit ihm auch seine Söhne und deren
+Gewänder.
+
+<<v22>>
+22 Dann nimm vom Widder das Fett, den Fettschwanz, das Fett, das die
+Eingeweide bedeckt, die Fettmasse über der Leber, die beiden Nieren und
+ihr Fett sowie die rechte Schenkelkeule; denn es ist der Widder der
+Priestereinsetzung.
+
+<<v23>>
+23 Nimm dazu ein rundes Brot, einen mit Öl zubereiteten Brotkuchen und
+einen Brotfladen aus dem Korb der ungesäuerten Brote, der sich vor dem
+Herrn befindet.
+
+<<v24>>
+24 Das alles leg Aaron und seinen Söhnen in die Hände und lass sie es
+vor dem Herrn hin- und herschwingen und so darbringen!
+
+<<v25>>
+25 Dann nimm die Stücke wieder aus ihren Händen und lass sie auf dem
+Altar mit dem Brandopfer in Rauch aufgehen, zum beruhigenden Duft vor
+dem Herrn; ein Feueropfer für den Herrn ist es.
+
+<<v26>>
+26 Dann nimm die Brust des Widders der Priestereinsetzung Aarons und
+schwing sie vor dem Herrn zur Darbringung hin und her! Die Brust gehört
+dir als Anteil.
+
+<<v27>>
+27 Erkläre die Brust des Darbringungsritus und die Keule des
+Erhebungsritus als heilig; denn sie wurden vom Widder des
+Einsetzungsopfers genommen, dem Widder Aarons und dem seiner Söhne.
+
+<<v28>>
+28 Sie gehören Aaron und seinen Söhnen als dauerndes Anrecht gegenüber
+den Israeliten, denn es ist ein Erhebungsopfer, und zwar ein
+Erhebungsopfer von den Israeliten, von ihren Heilsopfern, ihren
+Erhebungsopfern zur Ehre des Herrn.
+
+<<v29>>
+29 Die heiligen Gewänder Aarons gehören nach ihm seinen Söhnen, damit
+man sie darin salbt und ins Priesteramt einsetzt.
+
+<<v30>>
+30 Sieben Tage lang soll sie derjenige von seinen Söhnen tragen, der an
+seiner Stelle Priester wird und ins Offenbarungszelt eintritt, um im
+Heiligtum den Dienst zu verrichten.
+
+<<v31>>
+31 Nimm den Einsetzungswidder und koch sein Fleisch an heiliger Stätte!
+
+<<v32>>
+32 Aaron und seine Söhne sollen das Widderfleisch und das Brot aus dem
+Korb am Eingang des Offenbarungszeltes essen.
+
+<<v33>>
+33 Sie sollen das essen, womit sie bei ihrer Priestereinsetzung und
+Weihe entsühnt wurden; kein Laie darf davon essen, denn es ist heilig.
+
+<<v34>>
+34 Wenn vom Fleisch des Einsetzungsopfers und vom Brot etwas bis zum
+Morgen übrig bleibt, dann sollst du das Übriggebliebene im Feuer
+verbrennen; man darf es nicht essen, denn es ist heilig.
+
+<<v35>>
+35 Tu mit Aaron und seinen Söhnen genau so, wie ich es dir befohlen
+habe. Sieben Tage verwende für ihre Priestereinsetzung!
+
+<<v36>>
+36 Bereite täglich einen Sündopferstier für die Entsühnung zu und
+entsündige den Altar, indem du ihn entsühnst. Salb ihn, um ihn zu
+weihen.
+
+<<v37>>
+37 Sieben Tage sollst du den Altar entsühnen und so weihen. Der Altar
+ist dann hochheilig; jeder, der den Altar berührt, wird heilig.\\
+\\
+
+<<v38>>
+* Vorschriften für den Kult: 29,38 - 30,38
+38 Folgendes sollst du auf dem Altar darbringen: Tagtäglich und ständig
+zwei männliche einjährige Lämmer. [fn:2]
+
+<<v39>>
+39 Das eine Lamm sollst du am Morgen, das andere zur Zeit der
+Abenddämmerung darbringen,
+
+<<v40>>
+40 dazu ein Zehntel Feinmehl, das mit einem viertel Hin Öl aus
+gestoßenen Oliven vermengt ist, und als Trankopfer ein viertel Hin Wein
+für ein Lamm.
+
+<<v41>>
+41 Das zweite Lamm bring zur Zeit der Abenddämmerung dar, mit einer
+Opfergabe und einem Trankopfer wie am Morgen, zum beruhigenden Duft als
+Feueropfer für den Herrn.
+
+<<v42>>
+42 Es soll von Generation zu Generation ein immer währendes Brandopfer
+am Eingang des Offenbarungszeltes vor dem Herrn sein, wo ich mich euch
+offenbare, um mit dir dort zu reden.
+
+<<v43>>
+43 Ich werde mich dort den Israeliten offenbaren und mich in meiner
+Herrlichkeit als heilig erweisen.
+
+<<v44>>
+44 Ich werde das Offenbarungszelt, den Altar, Aaron und seine Söhne
+heiligen und für meinen Priesterdienst weihen.
+
+<<v45>>
+45 Ich werde mitten unter den Israeliten wohnen und ihnen Gott sein.
+
+<<v46>>
+46 Sie sollen erkennen, dass ich der Herr, ihr Gott bin, der sie aus
+Ägypten herausgeführt hat, um in ihrer Mitte zu wohnen, ich, der Herr,
+ihr Gott.
+
+
+* Footnotes
+[fn:1] (1-37) Lev 8,1-36 
+
+[fn:2] Num 28,1-10

@@ -1,0 +1,167 @@
+#+TITLE: Ps 50 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-12 Fr 21:30]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 50.html
+
+<<verses>>
+
+<<v1>>
+* Der rechte Gottesdienst
+
+1 [Ein Psalm Asafs.] Der Gott der Götter, der Herr, spricht, /\\
+ er ruft der Erde zu /\\
+ vom Aufgang der Sonne bis zum Untergang. [fn:1]\\
+\\
+
+<<v2>>
+2 Vom Zion her, der Krone der Schönheit, /\\
+ geht Gott strahlend auf. [fn:2]\\
+\\
+
+<<v3>>
+3 Unser Gott kommt und schweigt nicht; /\\
+ Feuer frisst vor ihm her; um ihn stürmt es gewaltig. [fn:3]\\
+\\
+
+<<v4>>
+4 Dem Himmel droben und der Erde ruft er zu, /\\
+ er werde sein Volk nun richten: [fn:4]\\
+\\
+
+<<v5>>
+5 «Versammelt mir all meine Frommen, /\\
+ die den Bund mit mir schlossen beim Opfer.» [fn:5]\\
+\\
+
+<<v6>>
+6 Die Himmel sollen seine Gerechtigkeit künden; /\\
+ Gott selbst wird Richter sein. [Sela] [fn:6]\\
+\\
+
+<<v7>>
+7 «Höre, mein Volk, ich rede. /\\
+ Israel, ich klage dich an, /\\
+ ich, der ich dein Gott bin. [fn:7]\\
+\\
+
+<<v8>>
+8 Nicht wegen deiner Opfer rüg ich dich, /\\
+ deine Brandopfer sind mir immer vor Augen.\\
+\\
+
+<<v9>>
+9 Doch nehme ich von dir Stiere nicht an /\\
+ noch Böcke aus deinen Hürden.\\
+\\
+
+<<v10>>
+10 Denn mir gehört alles Getier des Waldes, /\\
+ das Wild auf den Bergen zu Tausenden.\\
+\\
+
+<<v11>>
+11 Ich kenne alle Vögel des Himmels, /\\
+ was sich regt auf dem Feld, ist mein Eigen. [fn:8]\\
+\\
+
+<<v12>>
+12 Hätte ich Hunger, ich brauchte es dir nicht zu sagen, /\\
+ denn mein ist die Welt und was sie erfüllt. [fn:9]\\
+\\
+
+<<v13>>
+13 Soll ich denn das Fleisch von Stieren essen /\\
+ und das Blut von Böcken trinken?\\
+\\
+
+<<v14>>
+14 Bring Gott als Opfer dein Lob /\\
+ und erfülle dem Höchsten deine Gelübde! [fn:10]\\
+\\
+
+<<v15>>
+15 Rufe mich an am Tag der Not; /\\
+ dann rette ich dich und du wirst mich ehren.» [fn:11]\\
+\\
+
+<<v16>>
+16 Zum Frevler aber spricht Gott: /\\
+ «Was zählst du meine Gebote auf /\\
+ und nimmst meinen Bund in deinen Mund? [fn:12]\\
+\\
+
+<<v17>>
+17 Dabei ist Zucht dir verhasst, /\\
+ meine Worte wirfst du hinter dich.\\
+\\
+
+<<v18>>
+18 Siehst du einen Dieb, so läufst du mit, /\\
+ du machst dich mit Ehebrechern gemein.\\
+\\
+
+<<v19>>
+19 Dein Mund redet böse Worte /\\
+ und deine Zunge stiftet Betrug an.\\
+\\
+
+<<v20>>
+20 Von deinem Bruder redest du schändlich, /\\
+ auf den Sohn deiner Mutter häufst du Verleumdung. [fn:13]\\
+\\
+
+<<v21>>
+21 Das hast du getan und ich soll schweigen? /\\
+ Meinst du, ich bin wie du? /\\
+ Ich halte es dir vor Augen und rüge dich.\\
+\\
+
+<<v22>>
+22 Begreift es doch, ihr, die ihr Gott vergesst! /\\
+ Sonst zerreiße ich euch und niemand kann euch retten.\\
+\\
+
+<<v23>>
+23 Wer Opfer des Lobes bringt, ehrt mich; /\\
+ wer rechtschaffen lebt, dem zeig ich mein Heil.» [fn:14] [fn:15]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Dtn_10.org::v17][Dtn 10,17]]
+
+[fn:2] [[file:Ps_48.org::v3][48,3]]
+
+[fn:3] [[file:Ps_97.org::v3][97,3f]]; [[file:Jes_63.org::v19][Jes 63,19]]; [[file:Dan_7.org::v10][Dan 7,10]]
+
+[fn:4] [[file:Dtn_32.org::v1][Dtn 32,1]]; [[file:Jes_1.org::v2][Jes 1,2]]
+
+[fn:5] [[file:Ex_24.org::v4][Ex 24,4-11]]
+
+[fn:6] [[file:Ps_19.org::v2][19,2]]; [[file:Ps_97.org::v6][97,6]]
+
+[fn:7] [[file:Ex_20.org::v2][Ex 20,2]]; (7-15) [[file:Ps_40.org::v7][40,7]]
+
+[fn:8] Text korr. nach G; H: die Vögel der Berge.
+
+[fn:9] [[file:Ps_24.org::v1][24,1]]
+
+[fn:10] [[file:Ps_119.org::v108][119,108]]; [[file:Ps_66.org::v13][66,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_13.org::v15][Hebr 13,15]]
+
+[fn:11] [[file:Ps_91.org::v15][91,15]]
+
+[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/Röm_2.org::v17][Röm 2,17-24]]
+
+[fn:13] schändlich: Text korr.
+
+[fn:14] [[v14][50,14]]; [[file:Ps_91.org::v16][91,16]]
+
+[fn:15] Text korr.

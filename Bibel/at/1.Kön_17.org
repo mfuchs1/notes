@@ -1,0 +1,140 @@
+#+TITLE: 1 Kön 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-15 Mi 22:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 17.html
+
+<<verses>>
+
+<<v1>>
+* Elija am Bach Kerit: 17,1-7
+
+1 Der Prophet Elija aus Tischbe in Gilead sprach zu Ahab: So wahr der
+Herr, der Gott Israels, lebt, in dessen Dienst ich stehe: in diesen
+Jahren sollen weder Tau noch Regen fallen, es sei denn auf mein Wort
+hin. [fn:1]
+
+<<v2>>
+2 Danach erging das Wort des Herrn an Elija:
+
+<<v3>>
+3 Geh weg von hier, wende dich nach Osten und verbirg dich am Bach Kerit
+östlich des Jordan!
+
+<<v4>>
+4 Aus dem Bach sollst du trinken und den Raben habe ich befohlen, dass
+sie dich dort ernähren.
+
+<<v5>>
+5 Elija ging weg und tat, was der Herr befohlen hatte; er begab sich zum
+Bach Kerit östlich des Jordan und ließ sich dort nieder.
+
+<<v6>>
+6 Die Raben brachten ihm Brot und Fleisch am Morgen und ebenso Brot und
+Fleisch am Abend und er trank aus dem Bach.
+
+<<v7>>
+7 Nach einiger Zeit aber vertrocknete der Bach; denn es fiel kein Regen
+im Land.\\
+\\
+
+<<v8>>
+* Elija in Sarepta: 17,8-24
+
+8 Da erging das Wort des Herrn an Elija:
+
+<<v9>>
+9 Mach dich auf und geh nach Sarepta, das zu Sidon gehört, und bleib
+dort! Ich habe dort einer Witwe befohlen, dich zu versorgen.
+
+<<v10>>
+10 Er machte sich auf und ging nach Sarepta. Als er an das Stadttor kam,
+traf er dort eine Witwe, die Holz auflas. Er bat sie: Bring mir in einem
+Gefäß ein wenig Wasser zum Trinken!
+
+<<v11>>
+11 Als sie wegging, um es zu holen, rief er ihr nach: Bring mir auch
+einen Bissen Brot mit!
+
+<<v12>>
+12 Doch sie sagte: So wahr der Herr, dein Gott, lebt: Ich habe nichts
+mehr vorrätig als eine Hand voll Mehl im Topf und ein wenig Öl im Krug.
+Ich lese hier ein paar Stücke Holz auf und gehe dann heim, um für mich
+und meinen Sohn etwas zuzubereiten. Das wollen wir noch essen und dann
+sterben.
+
+<<v13>>
+13 Elija entgegnete ihr: Fürchte dich nicht! Geh heim und tu, was du
+gesagt hast. Nur mache zuerst für mich ein kleines Gebäck und bring es
+zu mir heraus! Danach kannst du für dich und deinen Sohn etwas
+zubereiten;
+
+<<v14>>
+14 denn so spricht der Herr, der Gott Israels: Der Mehltopf wird nicht
+leer werden und der Ölkrug nicht versiegen bis zu dem Tag, an dem der
+Herr wieder Regen auf den Erdboden sendet.
+
+<<v15>>
+15 Sie ging und tat, was Elija gesagt hatte. So hatte sie mit ihm und
+ihrem Sohn viele Tage zu essen. [fn:2]
+
+<<v16>>
+16 Der Mehltopf wurde nicht leer und der Ölkrug versiegte nicht, wie der
+Herr durch Elija versprochen hatte.
+
+<<v17>>
+17 Nach einiger Zeit erkrankte der Sohn der Witwe, der das Haus gehörte.
+Die Krankheit verschlimmerte sich so, dass zuletzt kein Atem mehr in ihm
+war.
+
+<<v18>>
+18 Da sagte sie zu Elija: Was habe ich mit dir zu schaffen, Mann Gottes?
+Du bist nur zu mir gekommen, um an meine Sünde zu erinnern und meinem
+Sohn den Tod zu bringen. [fn:3]
+
+<<v19>>
+19 Er antwortete ihr: Gib mir deinen Sohn! Und er nahm ihn von ihrem
+Schoß, trug ihn in das Obergemach hinauf, in dem er wohnte, und legte
+ihn auf sein Bett.
+
+<<v20>>
+20 Dann rief er zum Herrn und sagte: Herr, mein Gott, willst du denn
+auch über die Witwe, in deren Haus ich wohne, Unheil bringen und ihren
+Sohn sterben lassen?
+
+<<v21>>
+21 Hierauf streckte er sich dreimal über den Knaben hin, rief zum Herrn
+und flehte: Herr, mein Gott, lass doch das Leben in diesen Knaben
+zurückkehren! [fn:4]
+
+<<v22>>
+22 Der Herr erhörte das Gebet Elijas. Das Leben kehrte in den Knaben
+zurück und er lebte wieder auf.
+
+<<v23>>
+23 Elija nahm ihn, brachte ihn vom Obergemach in das Haus hinab und gab
+ihn seiner Mutter zurück mit den Worten: Sieh, dein Sohn lebt.
+
+<<v24>>
+24 Da sagte die Frau zu Elija: Jetzt weiß ich, dass du ein Mann Gottes
+bist und dass das Wort des Herrn wirklich in deinem Mund ist.\\
+\\
+
+* Footnotes
+
+[fn:1] der Prophet Elija aus Tischbe: Text korr. nach G.
+
+[fn:2] und ihrem Sohn: Text sinngemäß korr.; H: und ihrem Haus.
+
+[fn:3] Die Frau fürchtet, dass sie durch die Gegenwart Elijas
+in ihrem Haus das Augenmerk seines Gottes auf sich und ihre Sünden
+gelenkt hat und dass er sie nun durch den Tod ihres Sohnes bestraft.
+
+[fn:4] Das gleiche Verhalten wird von Elischa in [[file:2.Kön_4.org::v34][2 Kön 4,34]] und
+von Paulus in [[file:~/RoamNotes/notes/Bibel/nt/Apg_20.org::v10][Apg 20,10]] berichtet.

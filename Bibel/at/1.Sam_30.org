@@ -1,0 +1,178 @@
+#+TITLE: 1 Sam 30 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-07 Di 21:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 30.html
+
+
+<<verses>>
+
+<<v1>>
+* Davids Feldzug gegen die Amalekiter: 30,1-31
+
+1 Als David und seine Männer am dritten Tag nach Ziklag kamen, waren die
+Amalekiter in den Negeb und in Ziklag eingefallen und hatten Ziklag
+erobert und niedergebrannt. [fn:1]
+
+<<v2>>
+2 Die Frauen und was sonst in der Stadt war, Jung und Alt, hatten sie,
+ohne jemand zu töten, gefangen genommen und bei ihrem Abzug mit sich
+weggeführt.
+
+<<v3>>
+3 Als David mit seinen Männern zur Stadt kam, sah er, dass sie
+niedergebrannt und die Frauen, Söhne und Töchter gefangen genommen
+worden waren.
+
+<<v4>>
+4 Da brachen David und die Leute, die bei ihm waren, in lautes Weinen
+aus und sie weinten, bis sie keine Kraft mehr zum Weinen hatten.
+
+<<v5>>
+5 Auch die beiden Frauen Davids, die Jesreeliterin Ahinoam und Abigajil,
+die (frühere) Frau Nabals aus Karmel, waren gefangen genommen worden.
+
+<<v6>>
+6 David geriet in große Bedrängnis, denn das Volk drohte ihn zu
+steinigen; alle im Volk waren gegen ihn erbittert wegen (des Verlustes)
+ihrer Söhne und Töchter. Aber David fühlte, dass der Herr, sein Gott,
+ihm Kraft gab.
+
+<<v7>>
+7 Er sagte zu dem Priester Abjatar, dem Sohn Ahimelechs: Bring das Efod
+zu mir! Abjatar brachte das Efod zu David.
+
+<<v8>>
+8 Und David befragte den Herrn: Soll ich diese Räuberbande verfolgen?
+Werde ich sie einholen? Der Herr antwortete: Verfolg sie! Denn du wirst
+sie mit Sicherheit einholen und deine Leute befreien.
+
+<<v9>>
+9 David brach also mit den sechshundert Mann, die bei ihm waren, auf und
+sie kamen bis zum Bach Besor. Die Nachzügler machten dort Rast.
+
+<<v10>>
+10 David nahm mit vierhundert Mann die Verfolgung auf; die zweihundert
+Mann machten Rast, weil sie zu erschöpft waren, um den Bach Besor zu
+überschreiten.
+
+<<v11>>
+11 Man griff dort im Gelände einen Ägypter auf und brachte ihn zu David.
+Sie gaben ihm Brot zu essen und Wasser zu trinken,
+
+<<v12>>
+12 außerdem gepresste Feigen und zwei Rosinenkuchen. Als er gegessen
+hatte, kehrten seine Lebensgeister zurück; er hatte nämlich schon drei
+Tage und drei Nächte keinen Bissen Brot mehr gegessen und keinen Schluck
+Wasser getrunken.
+
+<<v13>>
+13 David fragte ihn: Zu wem gehörst du und woher bist du? Er sagte: Ich
+bin ein junger Ägypter, der Sklave eines Amalekiters. Mein Herr hat mich
+zurückgelassen, als ich heute vor drei Tagen krank wurde.
+
+<<v14>>
+14 Wir waren in das Südland der Kereter und in das Gebiet von Juda und
+in das Südland von Kaleb eingefallen und hatten Ziklag niedergebrannt.
+
+<<v15>>
+15 David sagte zu ihm: Kannst du mich zu dieser Räuberbande hinführen?
+Er antwortete: Schwöre mir bei Gott, dass du mich nicht tötest und mich
+nicht an meinen Herrn ausliefern wirst; dann will ich dich zu dieser
+Räuberbande hinführen.
+
+<<v16>>
+16 Als er David hinführte, sah man die Amalekiter über die ganze Gegend
+verstreut; sie aßen und tranken und feierten, weil sie im Land der
+Philister und im Land Juda so reiche Beute gemacht hatten.
+
+<<v17>>
+17 David fiel im Morgengrauen über sie her (und der Kampf dauerte) bis
+zum Abend des folgenden Tages; keiner von ihnen entkam, außer
+vierhundert jungen Männern, die sich auf ihre Kamele setzen und fliehen
+konnten.
+
+<<v18>>
+18 David entriss den Amalekitern alles wieder, was sie erbeutet hatten;
+auch seine beiden Frauen befreite er.
+
+<<v19>>
+19 Nichts fehlte, weder Jung noch Alt, weder Söhne noch Töchter, weder
+von der Beute noch sonst etwas, was die Amalekiter ihnen weggenommen
+hatten. Alles brachte David zurück.
+
+<<v20>>
+20 David nahm auch alle Schafe und Rinder mit. Man trieb sie vor David
+her und sagte: Das ist Davids Beute. [fn:2]
+
+<<v21>>
+21 David kam zu den zweihundert Mann zurück, die zu erschöpft gewesen
+waren, um ihm zu folgen, und die man am Bach Besor zurückgelassen hatte.
+Sie kamen David und seinen Leuten entgegen, und als David mit seinen
+Leuten herankam, entbot er ihnen den Friedensgruß.
+
+<<v22>>
+22 Doch einige boshafte und nichtsnutzige Männer, die mit David gezogen
+waren, sagten: Sie sind nicht mit uns gezogen; darum wollen wir ihnen
+auch nichts von der Beute geben, die wir zurückgeholt haben, ausgenommen
+ihre Frauen und ihre Kinder. Diese sollen sie mitnehmen und (nach Hause)
+gehen.
+
+<<v23>>
+23 David aber erwiderte: So dürft ihr es mit dem, was der Herr uns
+gegeben hat, nicht machen, meine Brüder. Er hat uns behütet und die
+Räuberbande, die uns überfallen hatte, in unsere Hand gegeben.
+
+<<v24>>
+24 Wer würde in dieser Sache auf euch hören? Nein, der Anteil dessen,
+der beim Tross geblieben ist, soll genau so groß sein wie der Anteil
+dessen, der in den Kampf gezogen ist. Man soll die Beute gleichmäßig
+verteilen. [fn:3]
+
+<<v25>>
+25 So geschah es an jenem Tag und auch weiterhin; denn David machte es
+zu Brauch und Recht in Israel und so ist es bis auf den heutigen Tag
+geblieben.
+
+<<v26>>
+26 Als David dann nach Ziklag heimgekehrt war, schickte er einen Teil
+von der Beute an die Ältesten von Juda, die ihm nahestanden, und ließ
+ihnen sagen: Hier ist ein Geschenk für euch aus der Beute von den
+Feinden des Herrn
+
+<<v27>>
+27 - an die Ältesten in Bet-El, in Ramat-Negeb, in Jattir,
+
+<<v28>>
+28 in Aroër, in Sifmot, in Eschtemoa,
+
+<<v29>>
+29 in Karmel, in den Städten der Jerachmeeliter, in den Städten der
+Keniter, [fn:4] [fn:5]
+
+<<v30>>
+30 in Horma, in Bor-Aschan, in Atach,
+
+<<v31>>
+31 und in Hebron, ferner an all die Orte, wo David auf seinen
+Streifzügen mit seinen Männern gewesen war.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_27.org::v6][27,6]]
+
+[fn:2] vor David her: Text korr., vgl. Vg.
+
+[fn:3] [[file:Num_31.org::v27][Num 31,27]]
+
+[fn:4] [[file:1.Sam_27.org::v10][27,10]]
+
+[fn:5] Karmel: Text korr. nach G. - Die in VV. 27-31 genannten
+Städte und Orte liegen wohl alle südlich von Hebron.

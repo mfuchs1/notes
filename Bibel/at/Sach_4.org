@@ -1,0 +1,91 @@
+:PROPERTIES:
+:ID:       0c7eb8bc-5932-45b8-a3a6-e4b37be3ee47
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Sacharja* -- [[file:Sach_1.html][1]]
+[[file:Sach_2.html][2]] [[file:Sach_3.html][3]] *4*
+[[file:Sach_5.html][5]] [[file:Sach_6.html][6]] ...
+[[file:Sach_14.html][14]]
+
+--------------
+
+* Sach 4
+  :PROPERTIES:
+  :CUSTOM_ID: sach-4
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die fünfte Vision: Der Hohepriester und der Davidsohn: 4,1-14
+     :PROPERTIES:
+     :CUSTOM_ID: die-fünfte-vision-der-hohepriester-und-der-davidsohn-41-14
+     :END:
+1 Danach kehrte der Engel, der mit mir redete, zurück, weckte mich, wie
+man jemand vom Schlaf aufweckt,
+
+<<v2>>
+2 und sagte zu mir: Was hast du gesehen? Ich antwortete: Ich hatte eine
+Vision: Da stand ein Leuchter, ganz aus Gold, darauf eine Schale und auf
+ihr sieben Lampen mit je sieben Schnäbeln für die Flammen auf den
+Lampen. ^{[[#fn1][1]]}
+
+<<v3>>
+3 Zwei Ölbäume standen daneben, der eine rechts, der andere links von
+der Schale.
+
+<<v4>>
+4 Und ich sprach weiter und fragte den Engel, der mit mir redete: Herr,
+was bedeuten diese Ölbäume?
+
+<<v5>>
+5 Der Engel, der mit mir redete, antwortete mir: Weißt du nicht, was sie
+bedeuten? Ich erwiderte: Nein, Herr.
+
+<<v6>>
+6 Da erwiderte er und sagte zu mir: So lautet das Wort des Herrn an
+Serubbabel: Nicht durch Macht, nicht durch Kraft, allein durch meinen
+Geist! - spricht der Herr der Heere.
+
+<<v7>>
+7 Wer bist du, großer Berg? Vor Serubbabel wirst du zur Ebene. Er holt
+den Schlussstein hervor und man ruft: Wie schön ist er, wie schön!
+
+<<v8>>
+8 Da erging das Wort des Herrn an mich:
+
+<<v9>>
+9 Serubbabels Hände haben den Grund zu diesem Haus gelegt und seine
+Hände werden es vollenden, damit man erkennt, dass mich der Herr der
+Heere zu euch gesandt hat.
+
+<<v10>>
+10 Denn wer gering dachte von der Zeit der kleinen Anfänge, wird sich
+freuen, wenn er den auserlesenen Stein in Serubbabels Hand sieht. Das
+sind die sieben Augen des Herrn, die über die ganze Erde schweifen.
+^{[[#fn2][2]]}
+
+<<v11>>
+11 Ich fragte ihn weiter: Was bedeuten die zwei Ölbäume auf der rechten
+und auf der linken Seite des Leuchters?
+
+<<v12>>
+12 Und weiter fragte ich ihn: Was bedeuten die zwei Büschel von
+Olivenzweigen bei den beiden goldenen Röhren, durch die das goldene Öl
+herabfließt?
+
+<<v13>>
+13 Er sagte zu mir: Weißt du nicht, was sie bedeuten? Ich erwiderte:
+Nein, Herr.
+
+<<v14>>
+14 Er sagte: Das sind die beiden Gesalbten, die vor dem Herrn der ganzen
+Erde stehen. ^{[[#fn3][3]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Ex 25,31-40
+
+^{[[#fnm2][2]]} ℘ 3,9; 2 Chr 16,9
+
+^{[[#fnm3][3]]} ℘ Offb 11,4

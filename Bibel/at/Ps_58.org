@@ -1,0 +1,103 @@
+#+TITLE: Ps 58 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-03-20 Mi 09:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 58.html
+
+* Ps 58
+
+<<verses>>
+
+<<v1>>
+* Gott, der gerechte Richter
+
+1 [Für den Chormeister. Nach der Weise «Zerstöre nicht!». Ein Lied
+Davids.]\\
+\\
+
+<<v2>>
+2 Sprecht ihr wirklich Recht, ihr Mächtigen? /\\
+ Richtet ihr die Menschen gerecht? [fn:1]\\
+\\
+
+<<v3>>
+3 Nein, ihr schaltet im Land nach Willkür, /\\
+ euer Herz ist voll Bosheit; /\\
+ eure Hände bahnen dem Unrecht den Weg. [fn:2]\\
+\\
+
+<<v4>>
+4 Vom Mutterschoß an sind die Frevler treulos, /\\
+ von Geburt an irren sie vom Weg ab und lügen.\\
+\\
+
+<<v5>>
+5 Ihr Gift ist wie das Gift der Schlange, /\\
+ wie das Gift der tauben Natter, die ihr Ohr verschließt, [fn:3]\\
+\\
+
+<<v6>>
+6 die nicht auf die Stimme des Beschwörers hört, /\\
+ der sich auf Zaubersprüche versteht.\\
+\\
+
+<<v7>>
+7 O Gott, zerbrich ihnen die Zähne im Mund! /\\
+ Zerschlage, Herr, das Gebiss der Löwen! [fn:4]\\
+\\
+
+<<v8>>
+8 Sie sollen vergehen wie verrinnendes Wasser, /\\
+ wie Gras, das verwelkt auf dem Weg, [fn:5] [fn:6]\\
+\\
+
+<<v9>>
+9 wie die Schnecke, die sich auflöst in Schleim; /\\
+ wie eine Fehlgeburt sollen sie die Sonne nicht schauen. [fn:7]\\
+\\
+
+<<v10>>
+10 Ehe eure Töpfe das Feuer des Dornstrauchs spüren, /\\
+ fege Gott die Feinde hinweg, ob frisch, ob verdorrt. [fn:8] [fn:9]\\
+\\
+
+<<v11>>
+11 Wenn er die Vergeltung sieht, freut sich der Gerechte; /\\
+ er badet seine Füße im Blut des Frevlers. [fn:10]\\
+\\
+
+<<v12>>
+12 Dann sagen die Menschen: «Der Gerechte erhält seinen Lohn; /\\
+ es gibt einen Gott, der auf Erden Gericht hält.» [fn:11]\\
+\\
+
+* Footnotes
+
+[fn:1] Sinn nicht ganz klar.
+
+[fn:2] [[file:Mi_2.org::v1][Mi 2,1]]
+
+[fn:3] [[file:Ps_140.org::v4][140,4]]; [[file:Dtn_32.org::v33][Dtn 32,33]]
+
+[fn:4] [[file:Ps_3.org::v8][3,8]]; [[file:Ps_17.org::v12][17,12]]
+
+[fn:5] [[file:Ijob_11.org::v16][Ijob 11,16]]; [[file:Weish_16.org::v29][Weish 16,29]]; [[file:Ps_90.org::v5][Ps 90,5f]]
+
+[fn:6] Text korr.
+
+[fn:7] [[file:Ijob_3.org::v16][Ijob 3,16]]
+
+[fn:8] [[file:Ijob_27.org::v21][Ijob 27,21]]; [[file:Nah_1.org::v10][Nah 1,10]]
+
+[fn:9] H ist unverständlich; «die Feinde» ist ergänzt.
+
+[fn:10] [[file:Ps_52.org::v8][52,8]]; [[file:Ps_68.org::v24][68,24]]
+
+[fn:11] [[file:Ijob_19.org::v29][Ijob 19,29]]; [[file:Mal_3.org::v18][Mal 3,18]]

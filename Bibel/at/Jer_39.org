@@ -1,0 +1,135 @@
+:PROPERTIES:
+:ID:       ee4a4832-75ae-45b2-8dcc-29ae278a9e3f
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jeremia* -- [[file:Jer_1.html][1]] ...
+[[file:Jer_37.html][37]] [[file:Jer_38.html][38]] *39*
+[[file:Jer_40.html][40]] [[file:Jer_41.html][41]] ...
+[[file:Jer_52.html][52]]
+
+--------------
+
+* Jer 39
+  :PROPERTIES:
+  :CUSTOM_ID: jer-39
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Der Fall Jerusalems: 39,1-10
+     :PROPERTIES:
+     :CUSTOM_ID: der-fall-jerusalems-391-10
+     :END:
+1 [Nach der Eroberung Jerusalems:] ^{[[#fn1][1]]}
+
+<<v2>>
+2 Im elften Jahr Zidkijas, am neunten Tag des vierten Monats, wurden
+Breschen in die Stadtmauer geschlagen.
+
+<<v3>>
+3 Da zogen alle Heerführer des Königs von Babel ein und ließen sich im
+Mitteltor nieder: [Nergal-Sarezer, der Fürst von Sin-Magir, und]
+Nebuschasban, der Oberkämmerer, Nergal-Sarezer, der Oberhofmeister, und
+alle übrigen Heerführer des Königs von Babel. ^{[[#fn2][2]]}
+
+<<v4>>
+4 Als Zidkija, der König von Juda, und alle Krieger dies sahen,
+ergriffen sie die Flucht und verließen bei Nacht die Stadt auf dem Weg
+zum königlichen Garten; sie gingen durch das Tor zwischen den beiden
+Mauern und schlugen die Richtung nach der Araba ein.
+
+<<v5>>
+5 Aber die chaldäischen Truppen setzten ihnen nach und holten Zidkija in
+den Niederungen von Jericho ein. Sie nahmen ihn gefangen, brachten ihn
+vor Nebukadnezzar, den König von Babel, nach Ribla in der Landschaft
+Hamat, und dieser sprach das Urteil über ihn.
+
+<<v6>>
+6 Der König von Babel ließ in Ribla die Söhne Zidkijas vor dessen Augen
+niedermachen; auch alle Vornehmen Judas ließ der König von Babel
+niedermachen.
+
+<<v7>>
+7 Zidkija ließ er blenden und in Fesseln legen, um ihn nach Babel zu
+bringen.
+
+<<v8>>
+8 Den königlichen Palast und die Häuser der Bürger steckten die Chaldäer
+in Brand und die Mauern Jerusalems rissen sie nieder.
+
+<<v9>>
+9 Den Rest der Bevölkerung, der noch in der Stadt geblieben war, sowie
+alle, die zum König von Babel übergelaufen waren, und den Rest der
+Handwerker verschleppte Nebusaradan, der Kommandant der Leibwache, nach
+Babel.
+
+<<v10>>
+10 Nur von den armen Leuten, die nichts hatten, ließ Nebusaradan, der
+Kommandant der Leibwache, einen Teil im Land Juda zurück und gab ihnen
+Weinberge und Äcker.\\
+\\
+
+<<v11>>
+**** Die Befreiung Jeremias: 39,11-14
+     :PROPERTIES:
+     :CUSTOM_ID: die-befreiung-jeremias-3911-14
+     :END:
+11 Nebukadnezzar, der König von Babel, hatte Nebusaradan, dem
+Kommandanten der Leibwache, über Jeremia folgende Anweisung gegeben:
+
+<<v12>>
+12 Lass ihn holen, kümmere dich um ihn und füg ihm kein Leid zu, sondern
+richte dich nach seinen Wünschen! ^{[[#fn3][3]]}
+
+<<v13>>
+13 Da schickten Nebusaradan, der Kommandant der Leibwache, Nebuschasban,
+der Oberkämmerer, und Nergal-Sarezer, der Oberhofmeister, sowie alle
+Obersten des Königs von Babel Leute zum Wachhof,
+
+<<v14>>
+14 ließen Jeremia von dort holen und übergaben ihn Gedalja, dem Sohn
+Ahikams, des Sohnes Schafans, damit er ihn nach Hause entlasse. So blieb
+er mitten unter dem Volk.\\
+\\
+
+<<v15>>
+**** Die Verheißung für den Kuschiter: 39,15-18
+     :PROPERTIES:
+     :CUSTOM_ID: die-verheißung-für-den-kuschiter-3915-18
+     :END:
+15 Als Jeremia noch im Wachhof gefangen saß, war an ihn das Wort des
+Herrn ergangen: ^{[[#fn4][4]]}
+
+<<v16>>
+16 Geh hin und sag zu dem Kuschiter Ebed-Melech: So spricht der Herr der
+Heere, der Gott Israels: Bald erfülle ich meine Worte, die ich über
+diese Stadt gesprochen habe - zu ihrem Unheil und nicht zu ihrem Heil;
+sie werden an jenem Tag vor deinen Augen eintreffen. ^{[[#fn5][5]]}
+
+<<v17>>
+17 Aber dich werde ich retten an jenem Tag - Spruch des Herrn - und du
+wirst den Leuten, vor denen du Angst hast, nicht in die Hände fallen.
+
+<<v18>>
+18 Ja, ich werde dich heil entrinnen lassen; du wirst nicht unter dem
+Schwert fallen, sondern dein Leben wie ein Beutestück gewinnen, weil du
+auf mich vertraut hast - Spruch des Herrn. ^{[[#fn6][6]]}\\
+\\
+
+^{[[#fnm1][1]]} 1-10: Zusammengesetzt aus Teilen von 52,4-16 und 2 Kön
+25,1-12. Im neunten Jahr Zidkijas, des Königs von Juda, im zehnten
+Monat, rückte Nebukadnezzar, der König von Babel, mit seiner ganzen
+Streitmacht vor Jerusalem und belagerte es.
+
+^{[[#fnm2][2]]} Aufzählung der Namen unsicher; vielleicht nach V. 13 zu
+korrigieren.
+
+^{[[#fnm3][3]]} ℘ 40,4
+
+^{[[#fnm4][4]]} ℘ 38,7.13
+
+^{[[#fnm5][5]]} ℘ 21,10; 44,11.27
+
+^{[[#fnm6][6]]} ℘ 21,9; 38,2; 45,5

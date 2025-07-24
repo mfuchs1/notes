@@ -1,0 +1,179 @@
+:PROPERTIES:
+:ID:       72e20a77-86ae-4ac6-90c5-edde090688f5
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch der Weisheit* --
+[[file:Weish_1.html][1]] [[file:Weish_2.html][2]] *3*
+[[file:Weish_4.html][4]] [[file:Weish_5.html][5]] ...
+[[file:Weish_19.html][19]]
+
+--------------
+
+* Weish 3
+  :PROPERTIES:
+  :CUSTOM_ID: weish-3
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Das jenseitige Los der Guten und der Bösen: 3,1-12
+     :PROPERTIES:
+     :CUSTOM_ID: das-jenseitige-los-der-guten-und-der-bösen-31-12
+     :END:
+1 Die Seelen der Gerechten sind in Gottes Hand /\\
+ und keine Qual kann sie berühren.\\
+\\
+
+<<v2>>
+2 In den Augen der Toren sind sie gestorben, /\\
+ ihr Heimgang gilt als Unglück, ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 ihr Scheiden von uns als Vernichtung; /\\
+ sie aber sind in Frieden. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 In den Augen der Menschen wurden sie gestraft; /\\
+ doch ihre Hoffnung ist voll Unsterblichkeit. ^{[[#fn3][3]]}\\
+\\
+
+<<v5>>
+5 Ein wenig nur werden sie gezüchtigt; /\\
+ doch sie empfangen große Wohltat. /\\
+ Denn Gott hat sie geprüft /\\
+ und fand sie seiner würdig.\\
+\\
+
+<<v6>>
+6 Wie Gold im Schmelzofen hat er sie erprobt /\\
+ und sie angenommen als ein vollgültiges Opfer.\\
+\\
+
+<<v7>>
+7 Beim Endgericht werden sie aufleuchten /\\
+ wie Funken, die durch ein Stoppelfeld sprühen.
+^{[[#fn4][4]][[#fn5][5]]}\\
+\\
+
+<<v8>>
+8 Sie werden Völker richten /\\
+ und über Nationen herrschen /\\
+ und der Herr wird ihr König sein in Ewigkeit. ^{[[#fn6][6]]}\\
+\\
+
+<<v9>>
+9 Alle, die auf ihn vertrauen, /\\
+ werden die Wahrheit erkennen /\\
+ und die Treuen werden bei ihm bleiben in Liebe. /\\
+ Denn Gnade und Erbarmen wird seinen Erwählten zuteil. ^{[[#fn7][7]]}\\
+\\
+
+<<v10>>
+10 Die Frevler aber werden für ihre Pläne bestraft, /\\
+ sie, die den Gerechten missachtet haben /\\
+ und vom Herrn abgefallen sind.\\
+\\
+
+<<v11>>
+11 Unglücklich sind alle, /\\
+ die Weisheit und Belehrung verachten; /\\
+ leer ist ihre Hoffnung, vergeblich sind ihre Mühen /\\
+ und wertlos ihre Taten. ^{[[#fn8][8]]}\\
+\\
+
+<<v12>>
+12 Ihre Frauen sind unverständig /\\
+ und ihre Kinder böse, /\\
+ fluchbeladen ist ihr Geschlecht. ^{[[#fn9][9]]}\\
+\\
+
+<<v13>>
+**** Kinderlose Gerechte und kinderreiche Frevler: 3,13 - 4,6
+     :PROPERTIES:
+     :CUSTOM_ID: kinderlose-gerechte-und-kinderreiche-frevler-313---46
+     :END:
+13 Selig ist die Kinderlose, die unschuldig blieb /\\
+ und kein Lager der Sünde kannte; /\\
+ sie wird gleich einer Mutter geehrt, /\\
+ wenn die Seelen ihren Lohn empfangen. ^{[[#fn10][10]]}\\
+\\
+
+<<v14>>
+14 Selig ist auch der Kinderlose, /\\
+ der sich nicht frevelhaft verging /\\
+ und gegen den Herrn nichts Böses plante; /\\
+ besondere Gnade wird seiner Treue zuteil /\\
+ und ein gar köstlicher Anteil am Tempel des Herrn.
+^{[[#fn11][11]][[#fn12][12]]}\\
+\\
+
+<<v15>>
+15 Denn ruhmreich ist der Lohn guter Mühe /\\
+ und unvergänglich die Wurzel der Klugheit.\\
+\\
+
+<<v16>>
+16 Doch die Kinder von Ehebrechern verkümmern /\\
+ und die Nachkommen einer sündigen Verbindung schwinden dahin.
+^{[[#fn13][13]]}\\
+\\
+
+<<v17>>
+17 Auch wenn sie lange leben, gelten sie nichts /\\
+ und ehrlos ist am Ende ihr Alter.\\
+\\
+
+<<v18>>
+18 Sterben sie früh, so haben sie keine Hoffnung /\\
+ und keinen Trost am Tag des Gerichts;\\
+\\
+
+<<v19>>
+19 denn schlimm ist das Ende eines schuldhaften Geschlechts.\\
+\\
+
+^{[[#fnm1][1]]} Der Verfasser vermeidet für die Gerechten die Ausdrücke
+«Tod» und «sterben» (vgl. V. 3a; 4,7.10f.16f); nur die Sünder lässt er
+vom Tod und Sterben der Gerechten sprechen (2,20). Der Tod, der durch
+den Neid des Teufels in die Welt gekommen ist, ist für den Verfasser
+zwar der leibliche Tod, aber nur insofern er zum ewigen Tod führt
+(4,19f; 17,20), also der Tod der Sünder (2,24).
+
+^{[[#fnm2][2]]} ℘ Jes 57,2
+
+^{[[#fnm3][3]]} Wie in 3,1.3b.5a.6b handelt es sich um das jenseitige
+Leben der Gerechten. Die Gerechten können auch noch nach dem Martyrium
+die Hoffnung auf die Unsterblichkeit haben, weil die Auferstehung des
+Leibes noch aussteht.
+
+^{[[#fnm4][4]]} ℘ Dan 12,3; Mt 13,43
+
+^{[[#fnm5][5]]} Beim Endgericht, wörtlich: In der Zeit ihrer
+Heimsuchung.
+
+^{[[#fnm6][6]]} ℘ 1 Kor 6,2
+
+^{[[#fnm7][7]]} ℘ 4,15
+
+^{[[#fnm8][8]]} ℘ Sir 34,1
+
+^{[[#fnm9][9]]} ℘ 12,11
+
+^{[[#fnm10][10]]} 13-4,6: Kinderlosigkeit gilt sonst im AT als Unglück
+und Schande (Gen 30,23; 1 Sam 1,6f.15f; vgl. Lk 1,25) oder gar als
+Strafe (Lev 20,20f); im Blick auf die ewige Vergeltung werden hier die
+Kinderlosen, die Gott treu dienen, der Mutter zahlreicher Kinder gleich
+geachtet. 13cd: Wörtlich: denn sie wird Frucht haben bei der Heimsuchung
+der Seelen.
+
+^{[[#fnm11][11]]} ℘ Jes 56,3
+
+^{[[#fnm12][12]]} 14a: der Kinderlose, wörtlich: der Eunuch. 14e: ein
+gar köstlicher, wörtlich: ein mehr beglückender (als wenn er Kinder
+hätte).
+
+^{[[#fnm13][13]]} ℘ (16-19) 4,3-6; Sir 41,5-7

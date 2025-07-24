@@ -1,0 +1,157 @@
+#+TITLE: 1 Sam 28 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-07 Di 21:19]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 28.html
+
+* 1.Sam 28
+
+<<verses>>
+
+<<v1>>
+1 In jenen Tagen sammelten die Philister ihre Truppen, um gegen Israel
+in den Kampf zu ziehen. Da sagte Achisch zu David: Du weißt sehr wohl,
+dass du samt deinen Männern mit mir ins Feldlager ziehen musst.
+
+<<v2>>
+2 David antwortete Achisch: Auf diese Weise wirst du selbst erfahren,
+was dein Knecht tun wird. Achisch sagte zu David: Gut, ich mache dich
+für diese ganze Zeit zu meinem Leibwächter.\\
+\\
+
+<<v3>>
+* Saul bei der Totenbeschwörerin von En-Dor: 28,3-25
+
+3 Samuel war gestorben und ganz Israel hatte die Totenklage für ihn
+gehalten und ihn in seiner Stadt Rama begraben. Saul aber hatte die
+Totenbeschwörer und die Wahrsager aus dem Land vertrieben. [fn:1]
+
+<<v4>>
+4 Als sich die Philister gesammelt hatten, rückten sie heran und
+schlugen bei Schunem ihr Lager auf. Saul versammelte ganz Israel und sie
+schlugen ihr Lager im (Bergland von) Gilboa auf. [fn:2]
+
+<<v5>>
+5 Als Saul das Lager der Philister sah, bekam er große Angst und sein
+Herz begann zu zittern.
+
+<<v6>>
+6 Da befragte Saul den Herrn, aber der Herr gab ihm keine Antwort, weder
+durch Träume, noch durch die Losorakel, noch durch die Propheten.
+
+<<v7>>
+7 Daher sagte Saul zu seinen Dienern: Sucht mir eine Frau, die Gewalt
+über einen Totengeist hat; ich will zu ihr gehen und sie befragen. Seine
+Diener antworteten ihm: In En-Dor gibt es eine Frau, die über einen
+Totengeist Gewalt hat.
+
+<<v8>>
+8 Da machte sich Saul unkenntlich, zog andere Kleider an und ging mit
+zwei Männern zu der Frau. Sie kamen in der Nacht bei der Frau an und er
+sagte zu ihr: Wahrsage mir durch den Totengeist! Lass für mich den
+heraufsteigen, den ich dir nenne. [fn:3]
+
+<<v9>>
+9 Die Frau antwortete ihm: Du weißt doch selbst, was Saul getan hat: Er
+hat die Totenbeschwörer und die Wahrsager im Land ausgerottet. Warum
+stellst du mir eine Falle, um mich zu töten?
+
+<<v10>>
+10 Saul aber schwor ihr beim Herrn und sagte: So wahr der Herr lebt: Es
+soll dich in dieser Sache keine Schuld treffen.
+
+<<v11>>
+11 Die Frau sagte: Wen soll ich für dich heraufsteigen lassen? Er
+antwortete: Lass Samuel für mich heraufsteigen!
+
+<<v12>>
+12 Als die Frau Samuel erblickte, schrie sie laut auf und sagte zu Saul:
+Warum hast du mich getäuscht? Du bist ja Saul!
+
+<<v13>>
+13 Der König sagte zu ihr: Hab keine Angst! Was siehst du denn? Die Frau
+antwortete Saul: Ich sehe einen Geist aus der Erde heraufsteigen.
+
+<<v14>>
+14 Er fragte sie: Wie sieht er aus? Sie antwortete: Ein alter Mann
+steigt herauf; er ist in einen Mantel gehüllt. Da erkannte Saul, dass es
+Samuel war. Er verneigte sich mit dem Gesicht zur Erde und warf sich zu
+Boden.
+
+<<v15>>
+15 Und Samuel sagte zu Saul: Warum hast du mich aufgestört und mich
+heraufsteigen lassen? Saul antwortete: Ich bin in großer Bedrängnis. Die
+Philister führen Krieg gegen mich und Gott ist von mir gewichen und hat
+mir keine Antwort mehr gegeben, weder durch die Propheten noch durch die
+Träume. Darum habe ich dich gerufen, damit du mir sagst, was ich tun
+soll.
+
+<<v16>>
+16 Samuel erwiderte: Warum fragst du mich? Der Herr ist doch von dir
+gewichen und ist dein Feind geworden.
+
+<<v17>>
+17 Er hat getan, was er durch mich angekündigt hatte: Der Herr hat dir
+das Königtum aus der Hand gerissen und hat es einem anderen, nämlich
+David, gegeben. [fn:4]
+
+<<v18>>
+18 Weil du nicht auf die Stimme des Herrn gehört und seinen glühenden
+Zorn an Amalek nicht vollstreckt hast, darum hat dir der Herr heute das
+getan. [fn:5]
+
+<<v19>>
+19 Der Herr wird auch Israel zusammen mit dir in die Gewalt der
+Philister geben und morgen wirst du samt deinen Söhnen bei mir sein;
+auch das Heerlager Israels wird der Herr in die Gewalt der Philister
+geben. [fn:6]
+
+<<v20>>
+20 Da fiel Saul der Länge nach jäh zu Boden; so sehr war er über die
+Worte Samuels erschrocken. Es war auch keine Kraft mehr in ihm, weil er
+den ganzen Tag und die ganze Nacht keinen Bissen gegessen hatte.
+
+<<v21>>
+21 Die Frau ging zu Saul hin und sah, dass er ganz verstört war; sie
+sagte zu ihm: Deine Magd hat auf deine Stimme gehört; ich habe mein
+Leben aufs Spiel gesetzt, als ich auf das hörte, was du zu mir gesagt
+hast.
+
+<<v22>>
+22 Jetzt aber höre auch du auf die Stimme deiner Magd! Ich will dir ein
+Stück Brot zum Essen geben. Dann wirst du wieder zu Kräften kommen und
+kannst deines Weges gehen.
+
+<<v23>>
+23 Er aber weigerte sich und sagte: Ich esse nichts. Doch seine Diener
+und die Frau drängten ihn, bis er auf ihre Stimme hörte. Er erhob sich
+vom Boden und setzte sich aufs Bett.
+
+<<v24>>
+24 Die Frau hatte ein Mastkalb im Haus. Sie schlachtete es in aller
+Eile, nahm Mehl, knetete Teig und backte ungesäuerte Brote.
+
+<<v25>>
+25 Das alles setzte sie Saul und seinen Knechten vor; sie aßen, standen
+auf und gingen noch in der gleichen Nacht zurück.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:1.Sam_25.org::v1][25,1]]
+
+[fn:2] Gilboa: ein Bergzug im Südosten der Jesreelebene.
+
+[fn:3] [[file:1.Chr_10.org::v13][1 Chr 10,13]]
+
+[fn:4] [[file:1.Sam_15.org::v28][15,28]]
+
+[fn:5] [[file:1.Sam_15.org::v18][15,18f]]; [[file:Ex_17.org::v14][Ex 17,14-16]]
+
+[fn:6] [[file:1.Sam_31.org::v6][31,6]]

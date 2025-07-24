@@ -1,0 +1,15 @@
+#+title:      Samstag 15 März 2025
+#+date:       [2025-03-15 Sa 16:45]
+#+filetags:   :journal:
+#+identifier: 20250315T164500
+
+* Neuer Eintrag
+:PROPERTIES:
+:CUSTOM_ID: h:d4330cbf-e8e3-4ba2-8d04-bcf885d2441c
+:END:
+Jaja, hier ein Text.
+
+* [2025-03-15 Sa 16:45] Und so weiter
+
+[[denote:20250315T164500::#h:d4330cbf-e8e3-4ba2-8d04-bcf885d2441c][Samstag 15 März 2025::Neuer Eintrag]]
+

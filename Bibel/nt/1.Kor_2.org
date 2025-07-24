@@ -1,0 +1,140 @@
+:PROPERTIES:
+:ID:       4297a909-379a-4b30-8c55-df2842c993ee
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der erste Brief an die Korinther* --
+[[file:1.Kor_1.html][1]] *2* [[file:1.Kor_3.html][3]]
+[[file:1.Kor_4.html][4]] ... [[file:1.Kor_16.html][16]]
+
+--------------
+
+* 1.Kor 2
+  :PROPERTIES:
+  :CUSTOM_ID: kor-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Paulus, Verkünder der Weisheit Gottes: 2,1 - 3,4
+     :PROPERTIES:
+     :CUSTOM_ID: paulus-verkünder-der-weisheit-gottes-21---34
+     :END:
+1 Als ich zu euch kam, Brüder, kam ich nicht, um glänzende Reden oder
+gelehrte Weisheit vorzutragen, sondern um euch das Zeugnis Gottes zu
+verkündigen. ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 Denn ich hatte mich entschlossen, bei euch nichts zu wissen außer
+Jesus Christus, und zwar als den Gekreuzigten. ^{[[#fn3][3]]}
+
+<<v3>>
+3 Zudem kam ich in Schwäche und in Furcht, zitternd und bebend zu euch.
+^{[[#fn4][4]]}
+
+<<v4>>
+4 Meine Botschaft und Verkündigung war nicht Überredung durch gewandte
+und kluge Worte, sondern war mit dem Erweis von Geist und Kraft
+verbunden, ^{[[#fn5][5]]}
+
+<<v5>>
+5 damit sich euer Glaube nicht auf Menschenweisheit stützte, sondern auf
+die Kraft Gottes. ^{[[#fn6][6]]}
+
+<<v6>>
+6 Und doch verkündigen wir Weisheit unter den Vollkommenen, aber nicht
+Weisheit dieser Welt oder der Machthaber dieser Welt, die einst
+entmachtet werden. ^{[[#fn7][7]]}
+
+<<v7>>
+7 Vielmehr verkündigen wir das Geheimnis der verborgenen Weisheit
+Gottes, die Gott vor allen Zeiten vorausbestimmt hat zu unserer
+Verherrlichung. ^{[[#fn8][8]]}
+
+<<v8>>
+8 Keiner der Machthaber dieser Welt hat sie erkannt; denn hätten sie die
+Weisheit Gottes erkannt, so hätten sie den Herrn der Herrlichkeit nicht
+gekreuzigt.
+
+<<v9>>
+9 Nein, wir verkündigen, wie es in der Schrift heißt, was /kein Auge
+gesehen und kein Ohr gehört hat,/ was keinem Menschen in den Sinn
+gekommen ist: das Große, das Gott denen bereitet hat, die ihn lieben.
+^{[[#fn9][9]][[#fn10][10]]}
+
+<<v10>>
+10 Denn uns hat es Gott enthüllt durch den Geist. Der Geist ergründet
+nämlich alles, auch die Tiefen Gottes. ^{[[#fn11][11]]}
+
+<<v11>>
+11 Wer von den Menschen kennt den Menschen, wenn nicht der Geist des
+Menschen, der in ihm ist? So erkennt auch keiner Gott - nur der Geist
+Gottes.
+
+<<v12>>
+12 Wir aber haben nicht den Geist der Welt empfangen, sondern den Geist,
+der aus Gott stammt, damit wir das erkennen, was uns von Gott geschenkt
+worden ist. ^{[[#fn12][12]]}
+
+<<v13>>
+13 Davon reden wir auch, nicht mit Worten, wie menschliche Weisheit sie
+lehrt, sondern wie der Geist sie lehrt, indem wir den Geisterfüllten das
+Wirken des Geistes deuten. ^{[[#fn13][13]]}
+
+<<v14>>
+14 Der irdisch gesinnte Mensch aber lässt sich nicht auf das ein, was
+vom Geist Gottes kommt. Torheit ist es für ihn, und er kann es nicht
+verstehen, weil es nur mit Hilfe des Geistes beurteilt werden kann.
+^{[[#fn14][14]][[#fn15][15]]}
+
+<<v15>>
+15 Der geisterfüllte Mensch urteilt über alles, ihn aber vermag niemand
+zu beurteilen. ^{[[#fn16][16]]}
+
+<<v16>>
+16 Denn /wer begreift den Geist des Herrn? Wer kann ihn belehren?/ Wir
+aber haben den Geist Christi. ^{[[#fn17][17]]}
+
+^{[[#fnm1][1]]} ℘ 1,17
+
+^{[[#fnm2][2]]} Anstelle von «Zeugnis Gottes» haben andere Textzeugen:
+Geheimnis Gottes. Gemeint ist das Evangelium vom gekreuzigten Christus.
+
+^{[[#fnm3][3]]} ℘ Gal 6,14
+
+^{[[#fnm4][4]]} ℘ Apg 18,9; 2 Kor 10,10
+
+^{[[#fnm5][5]]} ℘ 1 Thess 1,5
+
+^{[[#fnm6][6]]} ℘ 1,18.24
+
+^{[[#fnm7][7]]} Machthaber dieser Welt: menschliche Autoritäten und
+dämonische Mächte (vgl. 1 Kor 15,24f).
+
+^{[[#fnm8][8]]} ℘ Röm 16,25; Kol 1,26
+
+^{[[#fnm9][9]]} ℘ Jes 64,3; Jer 3,16; Sir 1,10
+
+^{[[#fnm10][10]]} Dieses «Schriftzitat» ist als Ganzes im Alten
+Testament nicht zu finden.
+
+^{[[#fnm11][11]]} ℘ Dan 2,22
+
+^{[[#fnm12][12]]} ℘ Röm 8,15
+
+^{[[#fnm13][13]]} Andere Übersetzungsmöglichkeiten: indem wir Wirkungen
+des Geistes mit geistgewirkten Worten wiedergeben; oder: indem wir
+Wirkungen des Geistes miteinander vergleichen.
+
+^{[[#fnm14][14]]} ℘ 1,23
+
+^{[[#fnm15][15]]} Der irdisch gesinnte Mensch, wörtlich: Der psychische
+Mensch. Dieser urteilt über Gott und sein Handeln mit einem nicht vom
+Geist Gottes erleuchteten Denken. Zum abwertenden Gebrauch von
+«psychisch» vgl. Jak 3,15; Jud 19; auch 1 Kor 15,44.46 («psychischer
+Leib», d. h. sterblicher Leib).
+
+^{[[#fnm16][16]]} Vgl. die Anmerkung zu 1 Kor 12,10.
+
+^{[[#fnm17][17]]} ℘ Jes 40,13 G; Röm 11,34; 8,9

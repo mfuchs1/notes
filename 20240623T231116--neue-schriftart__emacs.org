@@ -1,0 +1,5 @@
+#+title:      Neue Schriftart
+#+date:       [2024-06-23 So 23:11]
+#+filetags:   :emacs:
+#+identifier: 20240623T231116
+

@@ -1,0 +1,119 @@
+:PROPERTIES:
+:ID:       155aa2b8-ad78-455f-8aa7-7f4df92804d6
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_60.html][60]] [[file:Jes_61.html][61]] *62*
+[[file:Jes_63.html][63]] [[file:Jes_64.html][64]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 62
+  :PROPERTIES:
+  :CUSTOM_ID: jes-62
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die verherrlichte Stadt Gottes: 62,1-12
+     :PROPERTIES:
+     :CUSTOM_ID: die-verherrlichte-stadt-gottes-621-12
+     :END:
+1 Um Zions willen kann ich nicht schweigen, /\\
+ um Jerusalems willen nicht still sein, bis das Recht in ihm aufstrahlt
+wie ein helles Licht /\\
+ und sein Heil aufleuchtet wie eine brennende Fackel.\\
+\\
+
+<<v2>>
+2 Dann sehen die Völker deine Gerechtigkeit /\\
+ und alle Könige deine strahlende Pracht. Man ruft dich mit einem neuen
+Namen, /\\
+ den der Mund des Herrn für dich bestimmt. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Du wirst zu einer prächtigen Krone /\\
+ in der Hand des Herrn, zu einem königlichen Diadem /\\
+ in der Rechten deines Gottes.\\
+\\
+
+<<v4>>
+4 Nicht länger nennt man dich «Die Verlassene» /\\
+ und dein Land nicht mehr «Das Ödland», sondern man nennt dich «Meine
+Wonne» /\\
+ und dein Land «Die Vermählte». Denn der Herr hat an dir seine Freude
+/\\
+ und dein Land wird mit ihm vermählt. ^{[[#fn2][2]]}\\
+\\
+
+<<v5>>
+5 Wie der junge Mann sich mit der Jungfrau vermählt, /\\
+ so vermählt sich mit dir dein Erbauer. Wie der Bräutigam sich freut
+über die Braut, /\\
+ so freut sich dein Gott über dich. ^{[[#fn3][3]][[#fn4][4]]}\\
+\\
+
+<<v6>>
+6 Auf deine Mauern, Jerusalem, stellte ich Wächter. /\\
+ Weder bei Tag noch bei Nacht dürfen sie schweigen. Ihr, die ihr den
+Herrn (an Zion) erinnern sollt, /\\
+ gönnt euch keine Ruhe!\\
+\\
+
+<<v7>>
+7 Lasst auch ihm keine Ruhe, /\\
+ bis er Jerusalem wieder aufbaut, /\\
+ bis er es auf der ganzen Erde berühmt macht.\\
+\\
+
+<<v8>>
+8 Der Herr hat geschworen bei seiner rechten Hand /\\
+ und bei seinem starken Arm: Nie mehr gebe ich dein Korn /\\
+ deinen Feinden zu essen. Nie mehr trinken Fremde deinen Wein, /\\
+ für den du so hart gearbeitet hast. ^{[[#fn5][5]]}\\
+\\
+
+<<v9>>
+9 Nein, wer das Korn geerntet hat, soll es auch essen /\\
+ und den Herrn dafür preisen. Wer den Wein geerntet hat, soll ihn auch
+trinken /\\
+ in den Vorhöfen meines Heiligtums.\\
+\\
+
+<<v10>>
+10 Zieht durch die Tore ein und aus /\\
+ und bahnt dem Volk einen Weg! Baut, ja baut eine Straße /\\
+ und räumt die Steine beiseite! /\\
+ Stellt ein Zeichen auf für die Völker! ^{[[#fn6][6]]}\\
+\\
+
+<<v11>>
+11 Hört, was der Herr bis ans Ende der Erde bekannt macht: /\\
+ Sagt der Tochter Zion: Sieh her, jetzt kommt deine Rettung. /\\
+ Siehe, er bringt seinen Siegespreis mit: Alle, die er gewonnen hat, /\\
+ gehen vor ihm her. ^{[[#fn7][7]]}\\
+\\
+
+<<v12>>
+12 Dann nennt man sie «Das heilige Volk», /\\
+ «Die Erlösten des Herrn». Und dich nennt man /\\
+ «Die begehrte, die nicht mehr verlassene Stadt».\\
+\\
+
+^{[[#fnm1][1]]} ℘ Offb 2,17; 3,12
+
+^{[[#fnm2][2]]} ℘ 54,1; 60,15
+
+^{[[#fnm3][3]]} ℘ 65,19
+
+^{[[#fnm4][4]]} 5b: dein Erbauer: Text korr.; H: deine Söhne.
+
+^{[[#fnm5][5]]} ℘ (8-9) 65,21f
+
+^{[[#fnm6][6]]} ℘ 40,3; 57,14; 49,22
+
+^{[[#fnm7][7]]} ℘ Mt 21,5; Jes 40,10

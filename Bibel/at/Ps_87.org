@@ -1,0 +1,69 @@
+#+TITLE: Ps 87 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-04 So 11:28]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 87.html
+
+* Ps 87
+
+<<verses>>
+
+<<v1>>
+* Ein Loblied auf Zion, die Mutter aller Völker
+
+1 [Ein Psalm der Korachiter. Ein Lied.]\\
+\\
+
+<<v2>>
+2 Der Herr liebt (Zion), seine Gründung auf heiligen Bergen; /\\
+ mehr als all seine Stätten in Jakob liebt er die Tore Zions. [fn:1] [fn:2]\\
+\\
+
+<<v3>>
+3 Herrliches sagt man von dir, /\\
+ du Stadt unseres Gottes. [Sela]\\
+\\
+
+<<v4>>
+4 Leute aus Ägypten und Babel /\\
+ zähle ich zu denen, die mich kennen; auch von Leuten aus dem
+Philisterland, /\\
+ aus Tyrus und Kusch /\\
+ sagt man: Er ist dort geboren. [fn:3]\\
+\\
+
+<<v5>>
+5 Doch von Zion wird man sagen: /\\
+ Jeder ist dort geboren. /\\
+ Er, der Höchste, hat Zion gegründet.\\
+\\
+
+<<v6>>
+6 Der Herr schreibt, wenn er die Völker verzeichnet: /\\
+ Er ist dort geboren. [Sela] [fn:4]\\
+\\
+
+<<v7>>
+7 Und sie werden beim Reigentanz singen: /\\
+ All meine Quellen entspringen in dir. [fn:5]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_76.org::v3][76,3]]; [[file:Ps_78.org::v68][78,68]]
+
+[fn:2] Andere Übersetzungsmöglichkeit: mehr als alle anderen
+Orte in Jakob.
+
+[fn:3] (4-5) [[file:Jes_19.org::v24][Jes 19,24f]]
+
+[fn:4] [[file:Jes_4.org::v3][Jes 4,3]]
+
+[fn:5] [[file:Ps_149.org::v3][149,3]]; [[file:Jes_12.org::v3][Jes 12,3]]

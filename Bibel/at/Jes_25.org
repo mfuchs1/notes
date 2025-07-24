@@ -1,0 +1,124 @@
+:PROPERTIES:
+:ID:       c5bf83ee-a0d7-4b51-8e8f-6d443c97f244
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_23.html][23]] [[file:Jes_24.html][24]] *25*
+[[file:Jes_26.html][26]] [[file:Jes_27.html][27]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 25
+  :PROPERTIES:
+  :CUSTOM_ID: jes-25
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Der Dank für den Untergang der feindlichen Stadt: 25,1-5
+     :PROPERTIES:
+     :CUSTOM_ID: der-dank-für-den-untergang-der-feindlichen-stadt-251-5
+     :END:
+1 Herr, du bist mein Gott, /\\
+ ich will dich rühmen und deinen Namen preisen. Denn du hast wunderbare
+Pläne verwirklicht, /\\
+ von fern her zuverlässig und sicher.\\
+\\
+
+<<v2>>
+2 Du hast die Stadt zu einem Steinhaufen gemacht, /\\
+ die starke Burg zu einem Trümmerfeld, die Paläste der Fremden zu einem
+verwüsteten Ort, /\\
+ den man in Ewigkeit nicht mehr aufbaut. ^{[[#fn1][1]]}\\
+\\
+
+<<v3>>
+3 Darum ehren dich mächtige Völker; /\\
+ vor dir fürchten sich die Städte der gewalttätigen Nationen.\\
+\\
+
+<<v4>>
+4 Du bist die Zuflucht der Schwachen, /\\
+ die Zuflucht der Armen in ihrer Not; du bietest ihnen ein Obdach bei
+Regen und Sturm /\\
+ und Schatten bei glühender Hitze. Denn der Sturm der Gewaltigen ist wie
+ein Regenguss im Winter, /\\
+ wie die Hitze im trockenen Land. ^{[[#fn2][2]]}\\
+\\
+
+<<v5>>
+5 Du bringst den Lärm der Fremden zum Schweigen, /\\
+ wie ein Wolkenschatten die Hitze mildert, /\\
+ das Lied der Gewaltigen lässt du verstummen. ^{[[#fn3][3]]}\\
+\\
+
+<<v6>>
+**** Das Festmahl auf dem Berg Zion: 25,6-8
+     :PROPERTIES:
+     :CUSTOM_ID: das-festmahl-auf-dem-berg-zion-256-8
+     :END:
+6 Der Herr der Heere wird auf diesem Berg /\\
+ für alle Völker ein Festmahl geben mit den feinsten Speisen, /\\
+ ein Gelage mit erlesenen Weinen, mit den besten und feinsten Speisen,
+/\\
+ mit besten, erlesenen Weinen. ^{[[#fn4][4]]}\\
+\\
+
+<<v7>>
+7 Er zerreißt auf diesem Berg die Hülle, die alle Nationen verhüllt, /\\
+ und die Decke, die alle Völker bedeckt.\\
+\\
+
+<<v8>>
+8 Er beseitigt den Tod für immer. /\\
+ Gott, der Herr, wischt die Tränen ab von jedem Gesicht. Auf der ganzen
+Erde nimmt er von seinem Volk die Schande hinweg. /\\
+ Ja, der Herr hat gesprochen. ^{[[#fn5][5]]}\\
+\\
+
+<<v9>>
+**** Der Dank für die Vernichtung Moabs: 25,9-12
+     :PROPERTIES:
+     :CUSTOM_ID: der-dank-für-die-vernichtung-moabs-259-12
+     :END:
+9 An jenem Tag wird man sagen: /\\
+ Seht, das ist unser Gott, auf ihn haben wir unsere Hoffnung gesetzt,
+/\\
+ er wird uns retten. Das ist der Herr, auf ihn setzen wir unsere
+Hoffnung. /\\
+ Wir wollen jubeln und uns freuen über seine rettende Tat.\\
+\\
+
+<<v10>>
+10 Ja, die Hand des Herrn ruht auf diesem Berg. /\\
+ Moab aber wird an Ort und Stelle zerstampft, /\\
+ wie Stroh in der Jauche zerstampft wird.\\
+\\
+
+<<v11>>
+11 Wenn Moab darin auch mit den Händen rudert /\\
+ wie der Schwimmer beim Schwimmen, so drückt er den Stolzen doch nieder,
+/\\
+ auch wenn seine Hände sich wehren.\\
+\\
+
+<<v12>>
+12 Deine festen, schützenden Mauern werden niedergerissen; /\\
+ der Herr stürzt sie zu Boden; sie liegen im Staub.\\
+\\
+
+^{[[#fnm1][1]]} Die namentlich nicht genannte Stadt ist Symbol für die
+gottfeindliche Macht; welche Stadt gemeint ist, lässt sich nicht mit
+Sicherheit sagen.
+
+^{[[#fnm2][2]]} 4e: im Winter: Text korr.
+
+^{[[#fnm3][3]]} lässt du verstummen: Text korr. (2. statt 3. Person).
+
+^{[[#fnm4][4]]} 6f.10: Der «Berg» ist der Zion. Hülle und Decke sind
+Zeichen der Trauer.
+
+^{[[#fnm5][5]]} ℘ Hos 13,14; 1 Kor 15,26.54; Offb 7,17

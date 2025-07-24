@@ -1,0 +1,133 @@
+#+TITLE: 2 Chr 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 13.html
+
+<<verses>>
+
+<<v1>>
+* Abija: 13,1-23
+
+1 Im achtzehnten Jahr des Königs Jerobeam wurde Abija König von Juda. [fn:1]
+
+<<v2>>
+2 Er regierte drei Jahre in Jerusalem. Seine Mutter hieß Michaja und war
+eine Tochter Uriëls aus Gibea. Es war aber Krieg zwischen Abija und
+Jerobeam.
+
+<<v3>>
+3 Abija begann den Kampf mit einem Heer von vierhunderttausend
+auserlesenen Kriegern. Jerobeam stellte ihm achthunderttausend
+auserlesene, tapfere Krieger entgegen.
+
+<<v4>>
+4 Da stieg Abija auf die Höhe des Berges Zemarajim im Gebirge Efraim und
+rief: Hört mich an, Jerobeam und ganz Israel!
+
+<<v5>>
+5 Wisst ihr denn nicht, dass der Herr, der Gott Israels, David und
+seinen Söhnen das Königtum von Israel in einem Salzbund auf ewige Zeiten
+verliehen hat? [fn:2]
+
+<<v6>>
+6 Doch Jerobeam, der Sohn Nebats, der Knecht Salomos, des Sohnes Davids,
+erhob sich und empörte sich gegen seinen Herrn.
+
+<<v7>>
+7 Um ihn sammelten sich haltlose, nichtswürdige Leute, die Rehabeam, dem
+Sohn Salomos, überlegen waren. Rehabeam war eben noch jung und zaghaft
+und konnte gegen sie nicht aufkommen.
+
+<<v8>>
+8 Ihr glaubt nun, euch gegen das Königtum des Herrn, das in der Hand der
+Söhne Davids liegt, behaupten zu können, weil ihr ein großer Haufen seid
+und die goldenen Kälber bei euch habt, die Jerobeam zu euren Göttern
+gemacht hat.
+
+<<v9>>
+9 Habt ihr nicht die Priester des Herrn, die Nachkommen Aarons, und die
+Leviten verstoßen und euch Priester bestellt wie die Völker anderer
+Länder? Jeder, der mit einem jungen Stier und sieben Widdern zu euch
+kam, um sich in das Priesteramt einsetzen zu lassen, wurde Priester der
+Nichtgötter.
+
+<<v10>>
+10 Doch unser Gott ist der Herr. Wir haben ihn nicht verlassen. Die
+Nachkommen Aarons dienen ihm als Priester und die Leviten versehen ihren
+Dienst.
+
+<<v11>>
+11 Jeden Morgen und jeden Abend bringen sie dem Herrn Brandopfer und
+wohlriechendes Räucherwerk dar, schichten Brote auf den reinen Tisch und
+bedienen den goldenen Leuchter mit seinen Lampen, um sie jeden Abend
+anzuzünden; denn wir achten auf die Anordnung des Herrn, unseres Gottes.
+Doch ihr habt ihn verlassen.
+
+<<v12>>
+12 Seht: Gott ist mit uns, er steht an unserer Spitze. Bei uns sind auch
+seine Priester mit den Lärmtrompeten, um gegen euch Kriegslärm zu
+blasen. Israeliten, kämpft nicht gegen den Herrn, den Gott eurer Väter;
+denn ihr werdet keinen Erfolg haben.
+
+<<v13>>
+13 Doch Jerobeam ließ die Leute im Hinterhalt eine Umgehung ausführen,
+um den Judäern in den Rücken zu fallen. So stand seine Abteilung vor den
+Judäern, der Hinterhalt aber in ihrem Rücken.
+
+<<v14>>
+14 Als daher die Judäer sich umwandten, sahen sie, dass ihnen der
+Angriff von vorne und von hinten drohte. Sie schrien zum Herrn und die
+Priester bliesen die Trompeten.
+
+<<v15>>
+15 Dann erhoben die Judäer das Kriegsgeschrei, und während sie lärmten,
+schlug Gott den Jerobeam und ganz Israel durch Abija und Juda.
+
+<<v16>>
+16 Die Israeliten mussten vor den Judäern fliehen. Gott gab sie in ihre
+Gewalt
+
+<<v17>>
+17 und Abija und seine Leute versetzten ihnen harte Schläge, sodass
+fünfhunderttausend auserlesene Krieger von ihnen fielen.
+
+<<v18>>
+18 So wurden die Israeliten damals gedemütigt, die Judäer aber gewannen
+die Oberhand; denn sie stützten sich auf den Herrn, den Gott ihrer
+Väter.
+
+<<v19>>
+19 Abija verfolgte Jerobeam und nahm ihm folgende Städte weg: Bet-El mit
+seinen Tochterstädten, Jeschana mit seinen Tochterstädten und Efron mit
+seinen Tochterstädten.
+
+<<v20>>
+20 Jerobeam kam in den Tagen Abijas nicht wieder zu Macht. Schließlich
+schlug ihn der Herr und er starb.
+
+<<v21>>
+21 Abija aber wurde mächtig. Er nahm sich vierzehn Frauen und zeugte
+zweiundzwanzig Söhne und sechzehn Töchter.
+
+<<v22>>
+22 Die übrige Geschichte Abijas, sein Leben und seine Reden sind
+aufgezeichnet in den Erläuterungen des Propheten Iddo.
+
+<<v23>>
+23 Abija entschlief zu seinen Vätern; man begrub ihn in der Davidstadt.
+Sein Sohn Asa wurde König an seiner Stelle. In seinen Tagen hatte das
+Land zehn Jahre Ruhe.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-23) [[file:1.Kön_15.org::v1][1 Kön 15,1-8]]
+
+[fn:2] Zu «Salzbund» vgl. [[file:Num_18.org::v19][Num 18,19]].

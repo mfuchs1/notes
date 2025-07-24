@@ -1,0 +1,199 @@
+:PROPERTIES:
+:ID:       77086a59-ae1b-4bc6-b928-475002dfcd59
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Evangelium nach Lukas* --
+[[file:Lk_1.html][1]] ... [[file:Lk_13.html][13]]
+[[file:Lk_14.html][14]] *15* [[file:Lk_16.html][16]]
+[[file:Lk_17.html][17]] ... [[file:Lk_24.html][24]]
+
+--------------
+
+* Lk 15
+  :PROPERTIES:
+  :CUSTOM_ID: lk-15
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Gleichnisse vom verlorenen Schaf und von der verlorenen
+Drachme: 15,1-10
+     :PROPERTIES:
+     :CUSTOM_ID: die-gleichnisse-vom-verlorenen-schaf-und-von-der-verlorenen-drachme-151-10
+     :END:
+1 Alle Zöllner und Sünder kamen zu ihm, um ihn zu hören.
+^{[[#fn1][1]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 219\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v2>>
+2 Die Pharisäer und die Schriftgelehrten empörten sich darüber und
+sagten: Er gibt sich mit Sündern ab und isst sogar mit ihnen.
+
+<<v3>>
+3 Da erzählte er ihnen ein Gleichnis und sagte:
+^{[[#fn2][2]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 169\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v4>>
+4 Wenn einer von euch hundert Schafe hat und eins davon verliert, lässt
+er dann nicht die neunundneunzig in der Steppe zurück und geht dem
+verlorenen nach, bis er es findet? ^{[[#fn3][3]]}
+
+<<v5>>
+5 Und wenn er es gefunden hat, nimmt er es voll Freude auf die
+Schultern,
+
+<<v6>>
+6 und wenn er nach Hause kommt, ruft er seine Freunde und Nachbarn
+zusammen und sagt zu ihnen: Freut euch mit mir; ich habe mein Schaf
+wiedergefunden, das verloren war.
+
+<<v7>>
+7 Ich sage euch: Ebenso wird auch im Himmel mehr Freude herrschen über
+einen einzigen Sünder, der umkehrt, als über neunundneunzig Gerechte,
+die es nicht nötig haben umzukehren.
+
+<<v8>>
+8 Oder wenn eine Frau zehn Drachmen hat und eine davon verliert, zündet
+sie dann nicht eine Lampe an, fegt das ganze Haus und sucht unermüdlich,
+bis sie das Geldstück findet? ^{[[#fn4][4]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 220\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v9>>
+9 Und wenn sie es gefunden hat, ruft sie ihre Freundinnen und
+Nachbarinnen zusammen und sagt: Freut euch mit mir; ich habe die Drachme
+wiedergefunden, die ich verloren hatte.
+
+<<v10>>
+10 Ich sage euch: Ebenso herrscht auch bei den Engeln Gottes Freude über
+einen einzigen Sünder, der umkehrt.\\
+\\
+
+<<v11>>
+**** Das Gleichnis vom verlorenen Sohn: 15,11-32
+     :PROPERTIES:
+     :CUSTOM_ID: das-gleichnis-vom-verlorenen-sohn-1511-32
+     :END:
+11 Weiter sagte Jesus: Ein Mann hatte zwei Söhne.
+^{[[#fn5][5]]}]//ESyn0812/<t>\\
+$ŽT://ESyn0812/Nr. 221\\
+$ŽG://ESyn0812/\\
+\\
+
+<<v12>>
+12 Der jüngere von ihnen sagte zu seinem Vater: Vater, gib mir das
+Erbteil, das mir zusteht. Da teilte der Vater das Vermögen auf.
+^{[[#fn6][6]]}
+
+<<v13>>
+13 Nach wenigen Tagen packte der jüngere Sohn alles zusammen und zog in
+ein fernes Land. Dort führte er ein zügelloses Leben und verschleuderte
+sein Vermögen.
+
+<<v14>>
+14 Als er alles durchgebracht hatte, kam eine große Hungersnot über das
+Land und es ging ihm sehr schlecht.
+
+<<v15>>
+15 Da ging er zu einem Bürger des Landes und drängte sich ihm auf; der
+schickte ihn aufs Feld zum Schweinehüten.
+
+<<v16>>
+16 Er hätte gern seinen Hunger mit den Futterschoten gestillt, die die
+Schweine fraßen; aber niemand gab ihm davon.
+
+<<v17>>
+17 Da ging er in sich und sagte: Wie viele Tagelöhner meines Vaters
+haben mehr als genug zu essen und ich komme hier vor Hunger um.
+
+<<v18>>
+18 Ich will aufbrechen und zu meinem Vater gehen und zu ihm sagen:
+Vater, ich habe mich gegen den Himmel und gegen dich versündigt.
+
+<<v19>>
+19 Ich bin nicht mehr wert, dein Sohn zu sein; mach mich zu einem deiner
+Tagelöhner.
+
+<<v20>>
+20 Dann brach er auf und ging zu seinem Vater. Der Vater sah ihn schon
+von weitem kommen und er hatte Mitleid mit ihm. Er lief dem Sohn
+entgegen, fiel ihm um den Hals und küsste ihn.
+
+<<v21>>
+21 Da sagte der Sohn: Vater, ich habe mich gegen den Himmel und gegen
+dich versündigt; ich bin nicht mehr wert, dein Sohn zu sein.
+^{[[#fn7][7]]}
+
+<<v22>>
+22 Der Vater aber sagte zu seinen Knechten: Holt schnell das beste
+Gewand und zieht es ihm an, steckt ihm einen Ring an die Hand und zieht
+ihm Schuhe an.
+
+<<v23>>
+23 Bringt das Mastkalb her und schlachtet es; wir wollen essen und
+fröhlich sein.
+
+<<v24>>
+24 Denn mein Sohn war tot und lebt wieder; er war verloren und ist
+wiedergefunden worden. Und sie begannen, ein fröhliches Fest zu feiern.
+
+<<v25>>
+25 Sein älterer Sohn war unterdessen auf dem Feld. Als er heimging und
+in die Nähe des Hauses kam, hörte er Musik und Tanz.
+
+<<v26>>
+26 Da rief er einen der Knechte und fragte, was das bedeuten solle.
+
+<<v27>>
+27 Der Knecht antwortete: Dein Bruder ist gekommen und dein Vater hat
+das Mastkalb schlachten lassen, weil er ihn heil und gesund
+wiederbekommen hat.
+
+<<v28>>
+28 Da wurde er zornig und wollte nicht hineingehen. Sein Vater aber kam
+heraus und redete ihm gut zu.
+
+<<v29>>
+29 Doch er erwiderte dem Vater: So viele Jahre schon diene ich dir, und
+nie habe ich gegen deinen Willen gehandelt; mir aber hast du nie auch
+nur einen Ziegenbock geschenkt, damit ich mit meinen Freunden ein Fest
+feiern konnte.
+
+<<v30>>
+30 Kaum aber ist der hier gekommen, dein Sohn, der dein Vermögen mit
+Dirnen durchgebracht hat, da hast du für ihn das Mastkalb geschlachtet.
+
+<<v31>>
+31 Der Vater antwortete ihm: Mein Kind, du bist immer bei mir, und
+alles, was mein ist, ist auch dein.
+
+<<v32>>
+32 Aber jetzt müssen wir uns doch freuen und ein Fest feiern; denn dein
+Bruder war tot und lebt wieder; er war verloren und ist wiedergefunden
+worden.\\
+\\
+
+^{[[#fnm1][1]]} ℘ 5,29f; 7,34; 19,7; Mt 9,10f; Mk 2,15f ⇨Esyn: Synopse
+Nr. 219
+
+^{[[#fnm2][2]]} ℘ (3-7) Joh 10,11-15 ⇨Esyn: Synopse Nr. 169
+
+^{[[#fnm3][3]]} ℘ (4-7) Mt 18,12-14
+
+^{[[#fnm4][4]]} ℘ ⇨Esyn: Synopse Nr. 220
+
+^{[[#fnm5][5]]} ℘ Mt 21,28 ⇨Esyn: Synopse Nr. 221
+
+^{[[#fnm6][6]]} Das Erbteil schon zu Lebzeiten des Vaters zu fordern,
+war erlaubt, galt aber als unschicklich.
+
+^{[[#fnm7][7]]} Am Schluss des Verses fügen manche Textzeugen hinzu:
+Mach mich zu einem deiner Tagelöhner. Vgl. V. 19.

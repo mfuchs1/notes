@@ -1,0 +1,236 @@
+:PROPERTIES:
+:ID:       f928b7a6-712c-44af-ba24-450bc23abe58
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_49.html][49]] [[file:Jes_50.html][50]] *51*
+[[file:Jes_52.html][52]] [[file:Jes_53.html][53]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 51
+  :PROPERTIES:
+  :CUSTOM_ID: jes-51
+  :END:
+
+<<verses>>
+
+<<v1>>
+1 Hört auf mich, die ihr der Gerechtigkeit nachjagt /\\
+ und die ihr den Herrn sucht. Blickt auf den Felsen, aus dem ihr gehauen
+seid, /\\
+ auf den Schacht, aus dem ihr herausgebohrt wurdet. ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 Blickt auf Abraham, euren Vater, /\\
+ und auf Sara, die euch gebar. Er war allein, als ich ihn rief; /\\
+ doch ich habe ihn gesegnet /\\
+ und ihm viele Nachkommen geschenkt.\\
+\\
+
+<<v3>>
+3 Denn der Herr hat Erbarmen mit Zion, /\\
+ er hat Erbarmen mit all seinen Ruinen. Seine Wüste macht er wie Eden,
+/\\
+ seine Öde wie den Garten des Herrn. Freude und Fröhlichkeit findet man
+dort, /\\
+ Lobpreis und den Klang von Liedern.\\
+\\
+
+<<v4>>
+4 Horcht her, ihr Völker, /\\
+ hört auf mich, ihr Nationen! Denn von mir kommt die Weisung /\\
+ und mein Recht wird zum Licht der Völker. ^{[[#fn2][2]][[#fn3][3]]}\\
+\\
+
+<<v5>>
+5 Plötzlich ist meine Gerechtigkeit da /\\
+ und von mir kommt die Hilfe. Mein Arm verschafft den Völkern ihr Recht;
+/\\
+ auf mich hoffen die Inseln, /\\
+ sie warten auf meinen Arm. ^{[[#fn4][4]][[#fn5][5]]}\\
+\\
+
+<<v6>>
+6 Blickt auf zum Himmel, /\\
+ betrachtet die Erde hier unten! Der Himmel zerflattert wie Rauch, /\\
+ die Erde zerfällt wie ein Kleid; /\\
+ ihre Bewohner sterben wie die Fliegen. Doch meine hilfreiche Gnade
+bleibt für immer bestehen, /\\
+ meine Gerechtigkeit wird niemals erschüttert.\\
+\\
+
+<<v7>>
+7 Hört auf mich, die ihr das Recht kennt, /\\
+ du Volk, das mein Gesetz im Herzen trägt. Fürchtet euch nicht vor der
+Beschimpfung durch Menschen, /\\
+ erschreckt nicht vor ihrem Spott! ^{[[#fn6][6]]}\\
+\\
+
+<<v8>>
+8 Denn man frisst sie, wie die Motte das Kleid, /\\
+ man frisst sie, wie die Schabe die Wolle. Doch meine Gerechtigkeit
+bleibt für immer bestehen /\\
+ und von Generation zu Generation meine hilfreiche Gnade.
+^{[[#fn7][7]]}\\
+\\
+
+<<v9>>
+**** Der starke Arm Jahwes: 51,9-16
+     :PROPERTIES:
+     :CUSTOM_ID: der-starke-arm-jahwes-519-16
+     :END:
+9 Wach auf, wach auf, bekleide dich mit Macht, /\\
+ Arm des Herrn! Wach auf wie in den früheren Tagen, /\\
+ wie bei den Generationen der Vorzeit! Warst du es nicht, der die Rahab
+zerhieb /\\
+ und den Drachen durchbohrte? ^{[[#fn8][8]][[#fn9][9]]}\\
+\\
+
+<<v10>>
+10 Warst du es nicht, der das Meer austrocknen ließ, /\\
+ die Wasser der großen Flut, der die Tiefen des Meeres zum Weg gemacht
+hat, /\\
+ damit die Erlösten hindurchziehen konnten? ^{[[#fn10][10]]}\\
+\\
+
+<<v11>>
+11 Die vom Herrn Befreiten kehren zurück /\\
+ und kommen voll Jubel nach Zion. Ewige Freude ruht auf ihren Häuptern.
+/\\
+ Wonne und Freude stellen sich ein, /\\
+ Kummer und Seufzen entfliehen. ^{[[#fn11][11]]}\\
+\\
+
+<<v12>>
+12 Ich bin es, ja ich, der euch tröstet. /\\
+ Was hast du, dass du dich fürchtest vor sterblichen Menschen, /\\
+ vor Menschen, die dahinschwinden wie Gras?\\
+\\
+
+<<v13>>
+13 Warum vergisst du den Herrn, deinen Schöpfer, /\\
+ der den Himmel ausgespannt und die Fundamente der Erde gelegt hat?
+Warum zitterst du dauernd vor der Wut dessen, der dich bedrängt, /\\
+ der darauf ausgeht, dich zu vernichten? /\\
+ Wo ist denn die Wut dessen, der dich bedrängt?\\
+\\
+
+<<v14>>
+14 Bald wird der Gefesselte freigelassen; /\\
+ er wird nicht im Kerker sterben /\\
+ und es mangelt ihm nicht mehr an Brot.\\
+\\
+
+<<v15>>
+15 Ich bin doch der Herr, dein Gott, /\\
+ der das Meer aufwühlt, sodass die Wogen tosen. /\\
+ Herr der Heere ist sein Name. ^{[[#fn12][12]]}\\
+\\
+
+<<v16>>
+16 Ich habe dir meine Worte in den Mund gelegt, /\\
+ im Schatten meiner Hand habe ich dich verborgen, als ich den Himmel
+ausspannte und die Fundamente der Erde legte /\\
+ und zu Zion sagte: Du bist mein Volk. ^{[[#fn13][13]][[#fn14][14]]}\\
+\\
+
+<<v17>>
+**** Der Zornbecher Gottes: 51,17-23
+     :PROPERTIES:
+     :CUSTOM_ID: der-zornbecher-gottes-5117-23
+     :END:
+17 Raff dich auf, raff dich auf, /\\
+ steh auf, Jerusalem! Du hast aus dem Becher des Zorns getrunken, /\\
+ den der Herr in der Hand hielt. Du hast aus dem betäubenden Becher
+getrunken /\\
+ und ihn geleert. ^{[[#fn15][15]][[#fn16][16]]}\\
+\\
+
+<<v18>>
+18 Da war von all den Söhnen, die sie gebar, /\\
+ keiner, der sie geführt hat. Da war von all den Söhnen, die sie aufzog,
+/\\
+ keiner, der sie bei der Hand nahm.\\
+\\
+
+<<v19>>
+19 Beides hat dich getroffen /\\
+ - doch wer klagt schon um dich? -: Verheerung und Zerstörung, Hunger
+und Schwert. /\\
+ Doch wer tröstet dich schon? ^{[[#fn17][17]]}\\
+\\
+
+<<v20>>
+20 An allen Straßenecken lagen deine Söhne hilflos da, /\\
+ wie Wildschafe im Netz, überwältigt vom Zorn des Herrn, /\\
+ vom Schelten deines Gottes.\\
+\\
+
+<<v21>>
+21 Darum hör doch her, du Ärmste, /\\
+ die du betrunken bist, aber nicht vom Wein:\\
+\\
+
+<<v22>>
+22 So spricht der Herr, dein Gott und Gebieter, /\\
+ der für sein Volk kämpft: Schon nehme ich dir den betäubenden Becher
+aus der Hand, /\\
+ den Kelch meines Zorns; /\\
+ du sollst daraus nicht mehr trinken.\\
+\\
+
+<<v23>>
+23 Ich reiche ihn denen, die dich quälten, /\\
+ die zu dir sagten: Wirf dich zu Boden, /\\
+ wir schreiten über dich weg. So musstest du deinen Rücken zum Fußboden
+machen, /\\
+ zum Weg für die, die über dich schritten. ^{[[#fn18][18]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 51,7
+
+^{[[#fnm2][2]]} ℘ 2,3; 42,6; 49,6
+
+^{[[#fnm3][3]]} ihr Völker, ihr Nationen: Text korr. nach einigen
+H-Handschriften und S; H: mein Volk, meine Nation.
+
+^{[[#fnm4][4]]} ℘ 42,4
+
+^{[[#fnm5][5]]} 5a: plötzlich: ergänzt nach G.
+
+^{[[#fnm6][6]]} ℘ 51,1; Mt 5,11
+
+^{[[#fnm7][7]]} ℘ 50,9
+
+^{[[#fnm8][8]]} ℘ 52,1; Ijob 26,12f; Ps 89,11
+
+^{[[#fnm9][9]]} Rahab und Drache (H: Tannin) sind Urweltungeheuer (vgl.
+die Anmerkung zu 27,1). Der Schöpfergott Jahwe hat sie besiegt; mit
+diesem Sieg wird hier seine Rettungstat an Israel beim Auszug aus
+Ägypten verbunden.
+
+^{[[#fnm10][10]]} ℘ Ex 14,21f
+
+^{[[#fnm11][11]]} ℘ 35,10
+
+^{[[#fnm12][12]]} ℘ Jer 31,35
+
+^{[[#fnm13][13]]} ℘ 59,21; 49,2; Hos 2,25
+
+^{[[#fnm14][14]]} Text unklar. - als ich ausspannte: Text korr. nach V.
+13 und S.
+
+^{[[#fnm15][15]]} ℘ Jer 25,15-19; Ps 60,5; 75,9; Offb 16,19
+
+^{[[#fnm16][16]]} 17f: Der «Becher des Zorns» (vgl. VV. 21-23) ist Bild
+für das göttliche Strafgericht. - «sie» in V. 18 ist Jerusalem.
+
+^{[[#fnm17][17]]} tröstet: Text korr. nach dem Qumran-Text und den alten
+Übersetzungen (3. statt 1. Person).
+
+^{[[#fnm18][18]]} Die Sieger schritten über die Besiegten hinweg, die
+sich zu Boden werfen mussten.

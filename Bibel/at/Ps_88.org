@@ -1,0 +1,147 @@
+#+TITLE: Ps 88 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-04 So 11:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 88.html
+
+* Ps 88
+
+<<verses>>
+
+<<v1>>
+* Die Klage eines Kranken und Einsamen
+
+1 [Ein Lied. Ein Psalm der Korachiter. Für den Chormeister. Nach der
+Weise «Krankheit» zu singen. Ein Weisheitslied Hemans, des
+Esrachiters.]\\
+\\
+
+<<v2>>
+2 Herr, du Gott meines Heils, /\\
+ zu dir schreie ich am Tag und bei Nacht. [fn:1]\\
+\\
+
+<<v3>>
+3 Lass mein Gebet zu dir dringen, /\\
+ wende dein Ohr meinem Flehen zu! [fn:2]\\
+\\
+
+<<v4>>
+4 Denn meine Seele ist gesättigt mit Leid, /\\
+ mein Leben ist dem Totenreich nahe. [fn:3]\\
+\\
+
+<<v5>>
+5 Schon zähle ich zu denen, die hinabsinken ins Grab, /\\
+ bin wie ein Mann, dem alle Kraft genommen ist. [fn:4]\\
+\\
+
+<<v6>>
+6 Ich bin zu den Toten hinweggerafft /\\
+ wie Erschlagene, die im Grabe ruhen; an sie denkst du nicht mehr, /\\
+ denn sie sind deiner Hand entzogen. [fn:5]\\
+\\
+
+<<v7>>
+7 Du hast mich ins tiefste Grab gebracht, /\\
+ tief hinab in finstere Nacht.\\
+\\
+
+<<v8>>
+8 Schwer lastet dein Grimm auf mir, /\\
+ all deine Wogen stürzen über mir zusammen. [Sela] [fn:6] [fn:7]\\
+\\
+
+<<v9>>
+9 Die Freunde hast du mir entfremdet, /\\
+ mich ihrem Abscheu ausgesetzt; /\\
+ ich bin gefangen und kann nicht heraus. [fn:8]\\
+\\
+
+<<v10>>
+10 Mein Auge wird trübe vor Elend. /\\
+ Jeden Tag, Herr, ruf ich zu dir; /\\
+ ich strecke nach dir meine Hände aus.\\
+\\
+
+<<v11>>
+11 Wirst du an den Toten Wunder tun, /\\
+ werden Schatten aufstehn, um dich zu preisen? [Sela] [fn:9]\\
+\\
+
+<<v12>>
+12 Erzählt man im Grab von deiner Huld, /\\
+ von deiner Treue im Totenreich?\\
+\\
+
+<<v13>>
+13 Werden deine Wunder in der Finsternis bekannt, /\\
+ deine Gerechtigkeit im Land des Vergessens?\\
+\\
+
+<<v14>>
+14 Herr, darum schreie ich zu dir, /\\
+ früh am Morgen tritt mein Gebet vor dich hin. [fn:10]\\
+\\
+
+<<v15>>
+15 Warum, o Herr, verwirfst du mich, /\\
+ warum verbirgst du dein Gesicht vor mir? [fn:11]\\
+\\
+
+<<v16>>
+16 Gebeugt bin ich und todkrank von früher Jugend an, /\\
+ deine Schrecken lasten auf mir und ich bin zerquält. [fn:12]\\
+\\
+
+<<v17>>
+17 Über mich fuhr die Glut deines Zorns dahin, /\\
+ deine Schrecken vernichten mich.\\
+\\
+
+<<v18>>
+18 Sie umfluten mich allzeit wie Wasser /\\
+ und dringen auf mich ein von allen Seiten. [fn:13]\\
+\\
+
+<<v19>>
+19 Du hast mir die Freunde und Gefährten entfremdet; /\\
+ mein Vertrauter ist nur noch die Finsternis. [fn:14]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_77.org::v3][77,3]]
+
+[fn:2] [[file:Ps_17.org::v6][17,6]]; [[file:Ps_119.org::v170][119,170]]
+
+[fn:3] [[file:Ijob_17.org::v1][Ijob 17,1]]; [[file:Ijob_33.org::v22][33,22]]
+
+[fn:4] [[file:Ps_143.org::v7][143,7]]
+
+[fn:5] Text korr.
+
+[fn:6] [[file:Ps_42.org::v8][42,8]]
+
+[fn:7] Wörtlich: und alle deine Wogen beugst du hernieder.
+
+[fn:8] [[file:Ps_31.org::v12][31,12]]
+
+[fn:9] (11-13) [[file:Ps_6.org::v6][6,6]]
+
+[fn:10] [[file:Ps_5.org::v4][5,4]]
+
+[fn:11] [[file:Ijob_13.org::v24][Ijob 13,24]]
+
+[fn:12] [[file:Ijob_6.org::v4][Ijob 6,4]]; [[file:Ijob_20.org::v25][20,25]]
+
+[fn:13] [[file:Ps_42.org::v8][42,8]]
+
+[fn:14] [[file:Ps_31.org::v12][31,12]]; [[file:Ijob_17.org::v13][Ijob 17,13]]

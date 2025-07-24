@@ -1,0 +1,130 @@
+#+TITLE: Ps 45 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-03 Mi 22:42]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 45.html
+
+* Ps 45
+
+<<verses>>
+
+<<v1>>
+* Ein Lied zur Hochzeit des Königs
+
+1 [Für den Chormeister. Nach der Weise «Lilien». Ein Weisheitslied der
+Korachiter. Ein Liebeslied.]\\
+\\
+
+<<v2>>
+2 Mein Herz fließt über von froher Kunde, /\\
+ ich weihe mein Lied dem König. /\\
+ Meine Zunge gleicht dem Griffel des flinken Schreibers.\\
+\\
+
+<<v3>>
+3 Du bist der Schönste von allen Menschen, /\\
+ Anmut ist ausgegossen über deine Lippen; /\\
+ darum hat Gott dich für immer gesegnet.\\
+\\
+
+<<v4>>
+4 Gürte, du Held, dein Schwert um die Hüfte, /\\
+ kleide dich in Hoheit und Herrlichkeit!\\
+\\
+
+<<v5>>
+5 Zieh aus mit Glück, kämpfe für Wahrheit und Recht! /\\
+ Furcht gebietende Taten /\\
+ soll dein rechter Arm dich lehren. [fn:1]\\
+\\
+
+<<v6>>
+6 Deine Pfeile sind scharf, dir unterliegen die Völker, /\\
+ die Feinde des Königs verlieren den Mut.\\
+\\
+
+<<v7>>
+7 Dein Thron, du Göttlicher, steht für immer und ewig; /\\
+ das Zepter deiner Herrschaft ist ein gerechtes Zepter. [fn:2]\\
+\\
+
+<<v8>>
+8 Du liebst das Recht und hasst das Unrecht, /\\
+ darum hat Gott, dein Gott, dich gesalbt mit dem Öl der Freude /\\
+ wie keinen deiner Gefährten.\\
+\\
+
+<<v9>>
+9 Von Myrrhe, Aloe und Kassia duften all deine Gewänder, /\\
+ aus Elfenbeinhallen erfreut dich Saitenspiel.\\
+\\
+
+<<v10>>
+10 Königstöchter gehen dir entgegen, /\\
+ die Braut steht dir zur Rechten /\\
+ im Schmuck von Ofirgold. [fn:3]\\
+\\
+
+<<v11>>
+11 Höre, Tochter, sieh her und neige dein Ohr, /\\
+ vergiss dein Volk und dein Vaterhaus! [fn:4]\\
+\\
+
+<<v12>>
+12 Der König verlangt nach deiner Schönheit; /\\
+ er ist ja dein Herr, verneig dich vor ihm!\\
+\\
+
+<<v13>>
+13 Die Töchter von Tyrus kommen mit Gaben, /\\
+ deine Gunst begehren die Edlen des Volkes. [fn:5]\\
+\\
+
+<<v14>>
+14 Die Königstochter ist herrlich geschmückt, /\\
+ ihr Gewand ist durchwirkt mit Gold und Perlen.\\
+\\
+
+<<v15>>
+15 Man geleitet sie in bunt gestickten Kleidern zum König, /\\
+ Jungfrauen sind ihr Gefolge, /\\
+ ihre Freundinnen führt man zu dir. [fn:6]\\
+\\
+
+<<v16>>
+16 Man geleitet sie mit Freude und Jubel, /\\
+ sie ziehen ein in den Palast des Königs.\\
+\\
+
+<<v17>>
+17 An die Stelle deiner Väter treten einst deine Söhne; /\\
+ du bestellst sie zu Fürsten im ganzen Land. [fn:7]\\
+\\
+
+<<v18>>
+18 Ich will deinen Namen rühmen von Geschlecht zu Geschlecht; /\\
+ darum werden die Völker dich preisen immer und ewig.\\
+\\
+
+* Footnotes
+
+[fn:1] Text korr.; H: Kämpfe für die Sache der Wahrheit, der
+Armut und des Rechts!
+
+[fn:2] (7-8) [[file:~/RoamNotes/notes/Bibel/nt/Hebr_1.org::v8][Hebr 1,8f]]
+
+[fn:3] Text korr.; H: Königstöchter unter deinen Kostbarkeiten.
+
+[fn:4] [[file:Gen_12.org::v1][Gen 12,1]]
+
+[fn:5] Nach G.
+
+[fn:6] [[file:Ez_16.org::v10][Ez 16,10-13]]
+
+[fn:7] [[file:2.Chr_21.org::v3][2 Chr 21,3]]

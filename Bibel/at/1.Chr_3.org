@@ -1,0 +1,129 @@
+#+TITLE: 1 Chr 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 21:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 3.html
+
+<<verses>>
+
+<<v1>>
+* Die Nachkommen Davids: 3,1-24
+
+1 Das waren die Söhne Davids, die ihm in Hebron geboren wurden: Sein
+Erstgeborener war Amnon von Ahinoam aus Jesreel, der zweite Daniel von
+Abigajil aus Karmel, [fn:1]
+
+<<v2>>
+2 der dritte Abschalom, der Sohn der Maacha, der Tochter des Königs
+Talmai von Geschur, der vierte Adonija, der Sohn der Haggit,
+
+<<v3>>
+3 der fünfte Schefatja von Abital, der sechste Jitream von seiner Frau
+Egla.
+
+<<v4>>
+4 Sechs wurden ihm in Hebron geboren. Er regierte dort sieben Jahre und
+sechs Monate. Dreiunddreißig Jahre regierte er in Jerusalem.
+
+<<v5>>
+5 Und diese wurden ihm in Jerusalem geboren: Schima, Schobab, Natan,
+Salomo - diese vier waren Söhne der Batseba, der Tochter Ammiëls -, [fn:2]
+
+<<v6>>
+6 ferner Jibhar, Elischua, Elifelet,
+
+<<v7>>
+7 Nogah, Nefeg, Jafia,
+
+<<v8>>
+8 Elischama, Eljada und Elifelet, insgesamt neun.
+
+<<v9>>
+9 Das ist die Gesamtheit der Söhne Davids, ohne die Söhne der
+Nebenfrauen. Ihre Schwester war Tamar. [fn:3]
+
+<<v10>>
+10 Der Sohn Salomos war Rehabeam, dessen Sohn war Abija, dessen Sohn
+Asa, dessen Sohn Joschafat, [fn:4] [fn:5]
+
+<<v11>>
+11 dessen Sohn Joram, dessen Sohn Ahasja, dessen Sohn Joasch,
+
+<<v12>>
+12 dessen Sohn Amazja, dessen Sohn Asarja, dessen Sohn Jotam,
+
+<<v13>>
+13 dessen Sohn Ahas, dessen Sohn Hiskija, dessen Sohn Manasse,
+
+<<v14>>
+14 dessen Sohn Amon, dessen Sohn Joschija.
+
+<<v15>>
+15 Die Söhne Joschijas waren: der Erstgeborene Johanan, der zweite
+Jojakim, der dritte Zidkija, der vierte Schallum.
+
+<<v16>>
+16 Jojakims Söhne waren: Jojachin und Zidkija.
+
+<<v17>>
+17 Die Söhne Jojachins, des Gefangenen, waren: Schealtiël, [fn:6]
+
+<<v18>>
+18 Malkiram, Pedaja, Schenazzar, Jekamja, Hoschama und Nedabja.
+
+<<v19>>
+19 Die Söhne Pedajas waren Serubbabel und Schimi. Die Söhne Serubbabels
+waren Meschullam und Hananja. Ihre Schwester war Schelomit. [fn:7]
+
+<<v20>>
+20 Meschullams Söhne waren: Haschuba, Ohel, Berechja, Hasadja und
+Juschab-Hesed, insgesamt fünf.
+
+<<v21>>
+21 Die Söhne Hananjas waren: Pelatja, Jeschaja, Refaja, Arnan, Obadja
+und Schechanja. [fn:8]
+
+<<v22>>
+22 Die Söhne Schechanjas waren Schemaja, Hattusch, Jigal, Bariach,
+Nearja und Schafat, insgesamt sechs.
+
+<<v23>>
+23 Die Söhne Nearjas waren: Eljoënai, Hiskija und Asrikam, insgesamt
+drei.
+
+<<v24>>
+24 Die Söhne Eljoënais waren: Hodawja, Eljaschib, Pelaja, Akkub,
+Johanan, Delaja und Anani, insgesamt sieben.\\
+\\
+
+* Footnotes
+
+[fn:1] (1-4) [[file:2.Sam_3.org::v2][2 Sam 3,2-5]]
+
+[fn:2] (5-8) [[file:2.Sam_5.org::v14][2 Sam 5,14-16]]
+
+[fn:3] [[file:2.Sam_13.org::v1][2 Sam 13,1-22]]
+
+[fn:4] (10-19) [[file:~/RoamNotes/notes/Bibel/nt/Mt_1.org::v7][Mt 1,7-12]]
+
+[fn:5] 10-16: Die Liste nennt aus jeder Generation nur den
+Inhaber des Königtums. Die Namen sind auch im Stammbaum Jesu enthalten
+(vgl. [[file:~/RoamNotes/notes/Bibel/nt/Mt_1.org::v6][Mt 1,6-11]]).
+
+[fn:6] Jojachin wurde 597 v. Chr. als Gefangener nach Babel
+gebracht (vgl. [[file:2.Kön_24.org::v12][2 Kön 24,12]]).
+
+[fn:7] Serubbabel wird hier als Sohn Pedajas, des dritten
+Sohns, sonst aber ([[file:Esra_3.org::v2][Esra 3,2]]; [[file:Hag_1.org::v1][Hag 1,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_1.org::v12][Mt 1,12]]) als Sohn Schealtiëls, des
+Erstgeborenen Jojachins, bezeichnet.
+
+[fn:8] Nach dem korrigierten Text sind alle hier genannten
+Söhne Hananjas untereinander Brüder. Demnach sind fünf Generationen nach
+Serubbabel genannt; das ist ein wichtiger Hinweis auf die
+Entstehungszeit des Buchs, vgl. die Einleitung.

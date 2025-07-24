@@ -1,0 +1,122 @@
+#+TITLE: Ps 79 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-03 Sa 15:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 79.html
+
+* Ps 79
+
+<<verses>>
+
+<<v1>>
+* Die Klage über die Zerstörung Jerusalems
+
+1 [Ein Psalm Asafs.] Gott, die Heiden sind eingedrungen in dein Erbe,
+/\\
+ sie haben deinen heiligen Tempel entweiht /\\
+ und Jerusalem in Trümmer gelegt. [fn:1]\\
+\\
+
+<<v2>>
+2 Die Leichen deiner Knechte haben sie zum Fraß gegeben den Vögeln des
+Himmels, /\\
+ die Leiber deiner Frommen den Tieren des Feldes. [fn:2]\\
+\\
+
+<<v3>>
+3 Ihr Blut haben sie wie Wasser vergossen /\\
+ rings um Jerusalem, /\\
+ und keiner hat sie begraben. [fn:3]\\
+\\
+
+<<v4>>
+4 Zum Schimpf sind wir geworden /\\
+ in den Augen der Nachbarn, /\\
+ zu Spott und Hohn bei allen, die rings um uns wohnen. [fn:4]\\
+\\
+
+<<v5>>
+5 Wie lange noch, Herr? Willst du auf ewig zürnen? /\\
+ Wie lange noch wird dein Eifer lodern wie Feuer? [fn:5]\\
+\\
+
+<<v6>>
+6 Gieß deinen Zorn aus über die Heiden, /\\
+ die dich nicht kennen, /\\
+ über jedes Reich, das deinen Namen nicht anruft. [fn:6]\\
+\\
+
+<<v7>>
+7 Denn sie haben Jakob aufgezehrt /\\
+ und seine Felder verwüstet.\\
+\\
+
+<<v8>>
+8 Rechne uns die Schuld der Vorfahren nicht an! /\\
+ Mit deinem Erbarmen komm uns eilends entgegen! /\\
+ Denn wir sind sehr erniedrigt.\\
+\\
+
+<<v9>>
+9 Um der Ehre deines Namens willen /\\
+ hilf uns, du Gott unsres Heils! /\\
+ Um deines Namens willen reiß uns heraus und vergib uns die Sünden! [fn:7]\\
+\\
+
+<<v10>>
+10 Warum dürfen die Heiden sagen: /\\
+ «Wo ist nun ihr Gott?» Lass kund werden an den Heiden vor unsern Augen,
+/\\
+ wie du das vergossene Blut deiner Knechte vergiltst. [fn:8]\\
+\\
+
+<<v11>>
+11 Das Stöhnen der Gefangenen dringe zu dir. /\\
+ Befrei die Todgeweihten durch die Kraft deines Armes! [fn:9] [fn:10]\\
+\\
+
+<<v12>>
+12 Zahl unsern Nachbarn siebenfach heim /\\
+ die Schmach, die sie dir, Herr, angetan. [fn:11] [fn:12]\\
+\\
+
+<<v13>>
+13 Wir aber, dein Volk, die Schafe deiner Weide, /\\
+ wollen dir ewig danken, /\\
+ deinen Ruhm verkünden von Geschlecht zu Geschlecht. [fn:13]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:2.Kön_25.org::v8][2 Kön 25,8-10]]; [[file:Klgl_1.org::v10][Klgl 1,10]]
+
+[fn:2] [[file:Jer_7.org::v33][Jer 7,33]]; (2-3) [[file:1.Makk_7.org::v17][1 Makk 7,17]]
+
+[fn:3] [[file:Jer_14.org::v16][Jer 14,16]]
+
+[fn:4] [[file:Ps_31.org::v12][31,12]]; [[file:Zef_2.org::v8][Zef 2,8]]
+
+[fn:5] [[file:Ps_89.org::v47][89,47]]
+
+[fn:6] [[file:Sir_36.org::v1][Sir 36,1-6]]; [[file:Sir_14.org::v4][14,4]]; (6-7) [[file:Jer_10.org::v25][Jer 10,25]]
+
+[fn:7] [[file:Ez_20.org::v44][Ez 20,44]]; [[file:Ez_36.org::v22][36,22]]
+
+[fn:8] [[file:Ps_42.org::v11][42,11]]; [[file:Joel_4.org::v21][Joël 4,21]]
+
+[fn:9] [[file:Ps_102.org::v21][102,21]]
+
+[fn:10] Andere Übersetzungsmöglichkeit: Lass am Leben die Todgeweihten!
+
+[fn:11] [[file:Ps_137.org::v7][137,7-9]]
+
+[fn:12] Wörtlich: Zahl siebenfach in den Schoß unserer Nachbarn!
+
+[fn:13] [[file:Ps_95.org::v7][95,7]]

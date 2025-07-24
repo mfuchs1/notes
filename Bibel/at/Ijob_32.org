@@ -1,0 +1,147 @@
+#+TITLE: Ijob 32 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 22:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 32.html
+
+<<verses>>
+
+<<v1>>
+* Die Reden Elihus: 32,1 - 37,24
+
+* Die erste Rede Elihus: 32,1 - 33,33
+
+* Die Selbstvorstellung: 32,1-22
+
+1 Nun hörten jene drei Männer auf, Ijob zu entgegnen, weil er gerecht
+war in seinen Augen.
+
+<<v2>>
+2 Da entbrannte der Zorn Elihus, des Sohnes Barachels, des Busiters aus
+dem Geschlecht Ram. Gegen Ijob entbrannte sein Zorn, weil er sich vor
+Gott für gerecht hielt.
+
+<<v3>>
+3 Auch gegen seine drei Freunde entbrannte sein Zorn, weil sie keine
+Antwort mehr fanden, um Ijob schuldig zu sprechen.
+
+<<v4>>
+4 Elihu aber hatte Ijob gegenüber mit Worten gezögert, weil jene älter
+waren als er.
+
+<<v5>>
+5 Doch als Elihu sah, dass die drei Männer keine Antwort mehr wussten,
+entbrannte sein Zorn.\\
+\\
+
+<<v6>>
+6 Da ergriff Elihu, der Sohn Barachels, der Busiter, das Wort und
+sprach: Noch bin ich jung an Jahren, /\\
+ doch ihr seid hochbetagt; /\\
+ deshalb hielt ich mich zurück und scheute mich, /\\
+ euch mein Wissen zu beweisen. [fn:1]\\
+\\
+
+<<v7>>
+7 Ich dachte: Mag erst das Alter reden, /\\
+ der Jahre Fülle Weisheit künden. [fn:2]\\
+\\
+
+<<v8>>
+8 Jedoch, es ist der Geist im Menschen, /\\
+ des Allmächtigen Hauch, der ihn verständig macht. [fn:3]\\
+\\
+
+<<v9>>
+9 Die alt an Jahren sind, nicht immer sind sie weise /\\
+ noch Greise stets des Rechten kundig. [fn:4] [fn:5]\\
+\\
+
+<<v10>>
+10 Darum sage ich: Hört mich an! /\\
+ Beweisen will auch ich mein Wissen.\\
+\\
+
+<<v11>>
+11 Seht, gewartet habe ich auf eure Worte, /\\
+ gelauscht auf eure klugen Sprüche, /\\
+ bis ihr die rechten Worte fändet.\\
+\\
+
+<<v12>>
+12 Ich bin euch aufmerksam gefolgt, /\\
+ doch seht, keiner hat Ijob widerlegt, /\\
+ keiner von euch ihm zu entgegnen vermocht.\\
+\\
+
+<<v13>>
+13 Sagt nicht: Wir haben die Weisheit gefunden: /\\
+ Gott wird ihn verstoßen, nicht ein Mensch. [fn:6]\\
+\\
+
+<<v14>>
+14 Nicht gegen mich richten sich seine Reden, /\\
+ nicht mit euren Worten werd ich ihm entgegnen.\\
+\\
+
+<<v15>>
+15 Besiegt sind sie, geben keine Antwort mehr, /\\
+ die Worte sind ihnen ausgegangen.\\
+\\
+
+<<v16>>
+16 Soll ich nun warten, wenn sie nicht reden, /\\
+ wenn sie dastehen, nichts mehr zu sagen wissen?\\
+\\
+
+<<v17>>
+17 So will auch ich nun meinen Teil erwidern, /\\
+ beweisen will auch ich mein Wissen.\\
+\\
+
+<<v18>>
+18 Denn angefüllt bin ich mit Worten, /\\
+ mich drängt der Geist in meiner Brust.\\
+\\
+
+<<v19>>
+19 Mein Inneres ist wie Wein, der keine Luft hat, /\\
+ wie neue Schläuche muss es bersten. [fn:7]\\
+\\
+
+<<v20>>
+20 Reden will ich, dann wird mir leichter, /\\
+ ich öffne meine Lippen und entgegne.\\
+\\
+
+<<v21>>
+21 Ich ergreife für niemand Partei /\\
+ und sage keinem Schmeichelworte.\\
+\\
+
+<<v22>>
+22 Denn ich versteh mich nicht aufs Schmeicheln, /\\
+ sonst raffte mich mein Schöpfer bald hinweg.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_110.org::v100][Ps 119,100]]
+
+[fn:2] [[file:Ijob_15.org::v10][15,10]]; [[file:Sir_25.org::v4][Sir 25,4]]-[[file:Sir_25.org::v6][6]]
+
+[fn:3] [[file:Spr_2.org::v6][Spr 2,6]]
+
+[fn:4] [[file:Weish_4.org::v8][Weish 4,8]]
+
+[fn:5] Die alt an Jahren sind: Text korr.
+
+[fn:6] [[file:Ijob_11.org::v6][11,6]]
+
+[fn:7] [[file:Jer_20.org::v9][Jer 20,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_9.org::v17][Mt 9,17]]

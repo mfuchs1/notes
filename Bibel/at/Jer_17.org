@@ -1,0 +1,230 @@
+:PROPERTIES:
+:ID:       1a7bee7e-6c66-4061-950f-0936451e83ac
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jeremia* -- [[file:Jer_1.html][1]] ...
+[[file:Jer_15.html][15]] [[file:Jer_16.html][16]] *17*
+[[file:Jer_18.html][18]] [[file:Jer_19.html][19]] ...
+[[file:Jer_52.html][52]]
+
+--------------
+
+* Jer 17
+  :PROPERTIES:
+  :CUSTOM_ID: jer-17
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Judas Sünde und Strafe: 17,1-4
+     :PROPERTIES:
+     :CUSTOM_ID: judas-sünde-und-strafe-171-4
+     :END:
+1 Judas Sünde ist aufgeschrieben mit eisernem Griffel, /\\
+ mit diamantenem Stift eingegraben in die Tafel ihres Herzens /\\
+ und in die Hörner ihrer Altäre, ^{[[#fn1][1]]}\\
+\\
+
+<<v2>>
+2 damit auch ihre Söhne noch denken an ihre Altäre und Kultpfähle /\\
+ bei den üppigen Bäumen und auf den hohen Hügeln des Berglands.\\
+\\
+
+<<v3>>
+3 Dein Vermögen und alle deine Schätze /\\
+ gebe ich zur Plünderung preis als Lohn für all deine Sünden /\\
+ in deinem ganzen Gebiet. ^{[[#fn2][2]]}\\
+\\
+
+<<v4>>
+4 Du musst von deinem Erbteil lassen, /\\
+ das ich dir gegeben habe. Ich mache dich zum Sklaven deiner Feinde /\\
+ in einem Land, das du nicht kennst. Denn Feuer lodert auf in meinem
+Zorn, /\\
+ für immer ist es entbrannt. ^{[[#fn3][3]]}\\
+\\
+
+<<v5>>
+**** Fluch oder Segen: 17,5-8
+     :PROPERTIES:
+     :CUSTOM_ID: fluch-oder-segen-175-8
+     :END:
+5 [So spricht der Herr:] Verflucht der Mann, der auf Menschen vertraut,
+/\\
+ auf schwaches Fleisch sich stützt /\\
+ und dessen Herz sich abwendet vom Herrn. ^{[[#fn4][4]]}\\
+\\
+
+<<v6>>
+6 Er ist wie ein kahler Strauch in der Steppe, /\\
+ der nie einen Regen kommen sieht; er bleibt auf dürrem Wüstenboden, /\\
+ im salzigen Land, wo niemand wohnt.\\
+\\
+
+<<v7>>
+7 Gesegnet der Mann, der auf den Herrn sich verlässt /\\
+ und dessen Hoffnung der Herr ist.\\
+\\
+
+<<v8>>
+8 Er ist wie ein Baum, der am Wasser gepflanzt ist /\\
+ und am Bach seine Wurzeln ausstreckt: Er hat nichts zu fürchten, wenn
+Hitze kommt; /\\
+ seine Blätter bleiben grün; auch in einem trockenen Jahr ist er ohne
+Sorge, /\\
+ unablässig bringt er seine Früchte. ^{[[#fn5][5]]}\\
+\\
+
+<<v9>>
+**** Weisheitssprüche: 17,9-11
+     :PROPERTIES:
+     :CUSTOM_ID: weisheitssprüche-179-11
+     :END:
+9 Arglistig ohnegleichen ist das Herz und unverbesserlich. /\\
+ Wer kann es ergründen?\\
+\\
+
+<<v10>>
+10 Ich, der Herr, erforsche das Herz /\\
+ und prüfe die Nieren, um jedem zu vergelten, wie es sein Verhalten
+verdient, /\\
+ entsprechend der Frucht seiner Taten. ^{[[#fn6][6]]}\\
+\\
+
+<<v11>>
+11 Wie ein Rebhuhn, das ausbrütet, /\\
+ was es nicht gelegt hat, so ist ein Mensch, /\\
+ der Reichtum durch Unrecht erwirbt. In der Mitte seiner Tage muss er
+ihn verlassen /\\
+ und am Ende steht er als Narr da.\\
+\\
+
+<<v12>>
+**** Das Gebet des verfolgten Propheten: 17,12-18
+     :PROPERTIES:
+     :CUSTOM_ID: das-gebet-des-verfolgten-propheten-1712-18
+     :END:
+12 Ein Thron der Herrlichkeit, erhaben von Anbeginn, /\\
+ ist die Stätte unsres Heiligtums. ^{[[#fn7][7]]}\\
+\\
+
+<<v13>>
+13 Du Hoffnung Israels, Herr! /\\
+ Alle, die dich verlassen, werden zuschanden, die sich von dir abwenden,
+/\\
+ werden in den Staub geschrieben; denn sie haben den Herrn verlassen,
+/\\
+ den Quell lebendigen Wassers. ^{[[#fn8][8]][[#fn9][9]]}\\
+\\
+
+<<v14>>
+14 Heile mich, Herr, so bin ich heil, /\\
+ hilf mir, so ist mir geholfen; /\\
+ ja, mein Lobpreis bist du.\\
+\\
+
+<<v15>>
+15 Jene sagen zu mir: /\\
+ Wo bleibt denn das Wort des Herrn? /\\
+ Soll es doch eintreffen! ^{[[#fn10][10]]}\\
+\\
+
+<<v16>>
+16 Ich aber habe dich nie gedrängt wegen des Unheils /\\
+ und habe den Unglückstag nicht herbeigewünscht. Du weißt es selbst; /\\
+ was mir über die Lippen kam, /\\
+ liegt dir offen vor Augen.\\
+\\
+
+<<v17>>
+17 Werde nicht zum Schrecken für mich, /\\
+ du meine Zuflucht am Tag des Unheils!\\
+\\
+
+<<v18>>
+18 Meine Verfolger sollen zuschanden werden, /\\
+ nicht aber ich. Sie sollen erschrecken, /\\
+ nicht aber ich. Bring über sie den Tag des Unheils, /\\
+ zerbrich sie im verdienten Zusammenbruch!\\
+\\
+
+<<v19>>
+**** Die Sabbatheiligung: 17,19-27
+     :PROPERTIES:
+     :CUSTOM_ID: die-sabbatheiligung-1719-27
+     :END:
+19 So sprach der Herr zu mir: Geh und stell dich in das Tor der Söhne
+des Volkes, durch das die Könige von Juda aus- und einziehen, und in
+alle Tore Jerusalems.
+
+<<v20>>
+20 Sag zu ihnen: Hört das Wort des Herrn, ihr Könige von Juda, ganz Juda
+und alle Einwohner Jerusalems, die ihr durch diese Tore kommt.
+
+<<v21>>
+21 So spricht der Herr: Hütet euch um eures Lebens willen, am Tag des
+Sabbats eine Last zu tragen und durch die Tore Jerusalems
+hereinzubringen. ^{[[#fn11][11]]}
+
+<<v22>>
+22 Auch dürft ihr am Sabbat keine Last aus euren Häusern hinaustragen
+und keinerlei Arbeit verrichten. Vielmehr sollt ihr den Sabbat heiligen,
+wie ich es euren Vätern geboten habe. ^{[[#fn12][12]]}
+
+<<v23>>
+23 Doch sie haben nicht gehört und ihr Ohr mir nicht zugeneigt, sondern
+ihren Nacken versteift, ohne zu gehorchen und ohne Zucht anzunehmen.
+
+<<v24>>
+24 Ihr aber, wenn ihr bereitwillig auf mich hört - Spruch des Herrn und
+am Sabbat keine Last durch die Tore dieser Stadt bringt, sondern den
+Sabbat heiligt und an ihm keinerlei Arbeit verrichtet,
+
+<<v25>>
+25 dann werden durch die Tore dieser Stadt Könige einziehen, die auf dem
+Thron Davids sitzen; mit Wagen und Rossen werden sie fahren, sie und
+ihre Beamten, die Männer von Juda und die Einwohner Jerusalems, und
+diese Stadt wird für immer bewohnt sein. ^{[[#fn13][13]]}
+
+<<v26>>
+26 Dann kommen von den Städten Judas und aus der Umgebung Jerusalems,
+vom Land Benjamin, von der Schefela, vom Gebirge und vom Negeb her
+Wallfahrer, die Brandopfer, Schlachtopfer und Speiseopfer samt Weihrauch
+bringen; auch Dankopfer bringen sie dar im Haus des Herrn.
+
+<<v27>>
+27 Wenn ihr aber nicht auf mein Gebot hört, den Sabbat zu heiligen,
+keine Last zu tragen und am Sabbat durch die Tore Jerusalems zu bringen,
+dann lege ich Feuer an seine Tore, das Jerusalems Paläste verzehrt und
+nie mehr erlischt.\\
+\\
+
+^{[[#fnm1][1]]} Zu den Hörnern der Altäre vgl. die Anmerkung zu Lev 4,7.
+
+^{[[#fnm2][2]]} ℘ 15,13
+
+^{[[#fnm3][3]]} ℘ 15,14
+
+^{[[#fnm4][4]]} Die Einleitung fehlt in G; es folgt keine Gottesrede.
+
+^{[[#fnm5][5]]} ℘ Ps 1,3
+
+^{[[#fnm6][6]]} ℘ Ps 7,10; Röm 2,6
+
+^{[[#fnm7][7]]} ℘ 3,17
+
+^{[[#fnm8][8]]} ℘ Joh 8,6; Jer 2,13
+
+^{[[#fnm9][9]]} «In den Staub schreiben» ist Bild für die
+Vergänglichkeit; das in den Staub Geschriebene wird vom Wind sofort
+wieder zugeweht.
+
+^{[[#fnm10][10]]} ℘ Jes 5,19
+
+^{[[#fnm11][11]]} ℘ Neh 13,15-22
+
+^{[[#fnm12][12]]} ℘ Ex 20,8; Dtn 5,12
+
+^{[[#fnm13][13]]} ℘ 22,4

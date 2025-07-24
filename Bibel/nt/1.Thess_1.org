@@ -1,0 +1,137 @@
+:PROPERTIES:
+:ID:       40ad6d1a-9bf7-410c-ae78-f174e8047ebf
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der erste Brief an die Thessalonicher* -- *1*
+[[file:1.Thess_2.html][2]] [[file:1.Thess_3.html][3]] ...
+[[file:1.Thess_5.html][5]]
+
+--------------
+
+* 1.Thess 1
+  :PROPERTIES:
+  :CUSTOM_ID: thess-1
+  :END:
+
+Der erste Brief an die Gemeinde von Thessalonich ist der älteste der uns
+erhaltenen Paulusbriefe. Paulus hatte auf seiner zweiten Missionsreise
+zusammen mit Timotheus die Gemeinde von Thessalonich um das Jahr 50
+n.Chr gegründet, musste aber nach kurzem Wirken die Stadt verlassen
+(vgl. Apg 17,1-9). Von Athen aus schickte er Timotheus nach Thessalonich
+zurück, um sich über den Stand der jungen Gemeinde zu unterrichten. In
+Korinth (Apg 18,1-6) traf er mit Timotheus wieder zusammen und schrieb
+den uns vorliegenden Brief.\\
+\\
+Der 1. Thessalonicherbrief ist ein echt seelsorgliches Schreiben, das
+seine Existenz einer bestimmten Situation des Apostels und der Gemeinde
+verdankt. Der erste Teil (1,2 - 3,13) blickt voll Dank zurück auf die
+Gründung der Gemeinde und die inzwischen vergangene Zeit. Der zweite
+Teil (4,1 - 5,22) enthält apostolische Mahnungen und Belehrungen:
+Aufforderung zur Heiligung des Lebens (4,1-12), Auskunft über die
+Hoffnung der Christen (4,13-18), Mahnung zur Wachsamkeit angesichts der
+zeitlich nicht bestimmbaren Ankunft des Herrn (5,1-11), Anweisungen für
+das Gemeindeleben (5,12-22).\\
+\\
+Die Bedeutung des Briefs liegt in den Aussagen über die Missionspredigt
+vor Heiden (1,2-10), über das Wort Gottes (2,13), die Heiligung des
+Lebens (4,1-12) und die Erwartung der Wiederkunft Christi (4,13 -
+5,10).\\
+\\
+
+<<verses>>
+
+<<v1>>
+** Anschrift und Gruß: 1,1
+   :PROPERTIES:
+   :CUSTOM_ID: anschrift-und-gruß-11
+   :END:
+1 Paulus, Silvanus und Timotheus an die Gemeinde von Thessalonich, die
+in Gott, dem Vater, und in Jesus Christus, dem Herrn, ist: Gnade sei mit
+euch und Friede. ^{[[#fn1][1]][[#fn2][2]]}\\
+\\
+
+<<v2>>
+** Der Apostel und die Gemeinde: 1,2 - 3,13
+   :PROPERTIES:
+   :CUSTOM_ID: der-apostel-und-die-gemeinde-12---313
+   :END:
+**** Die Thessalonicher - ein Vorbild für die Heidenchristen: 1,2-10
+     :PROPERTIES:
+     :CUSTOM_ID: die-thessalonicher---ein-vorbild-für-die-heidenchristen-12-10
+     :END:
+2 Wir danken Gott für euch alle, sooft wir in unseren Gebeten an euch
+denken; ^{[[#fn3][3]]}
+
+<<v3>>
+3 unablässig erinnern wir uns vor Gott, unserem Vater, an das Werk eures
+Glaubens, an die Opferbereitschaft eurer Liebe und an die
+Standhaftigkeit eurer Hoffnung auf Jesus Christus, unseren Herrn.
+^{[[#fn4][4]]}
+
+<<v4>>
+4 Wir wissen, von Gott geliebte Brüder, dass ihr erwählt seid.
+^{[[#fn5][5]]}
+
+<<v5>>
+5 Denn wir haben euch das Evangelium nicht nur mit Worten verkündet,
+sondern auch mit Macht und mit dem Heiligen Geist und mit voller
+Gewissheit; ihr wisst selbst, wie wir bei euch aufgetreten sind, um euch
+zu gewinnen.
+
+<<v6>>
+6 Und ihr seid unserem Beispiel gefolgt und dem des Herrn; ihr habt das
+Wort trotz großer Bedrängnis mit der Freude aufgenommen, die der Heilige
+Geist gibt. ^{[[#fn6][6]]}
+
+<<v7>>
+7 So wurdet ihr ein Vorbild für alle Gläubigen in Mazedonien und in
+Achaia. ^{[[#fn7][7]]}
+
+<<v8>>
+8 Von euch aus ist das Wort des Herrn aber nicht nur nach Mazedonien und
+Achaia gedrungen, sondern überall ist euer Glaube an Gott bekannt
+geworden, sodass wir darüber nichts mehr zu sagen brauchen.
+
+<<v9>>
+9 Denn man erzählt sich überall, welche Aufnahme wir bei euch gefunden
+haben und wie ihr euch von den Götzen zu Gott bekehrt habt, um dem
+lebendigen und wahren Gott zu dienen ^{[[#fn8][8]]}
+
+<<v10>>
+10 und seinen Sohn vom Himmel her zu erwarten, Jesus, den er von den
+Toten auferweckt hat und der uns dem kommenden Gericht Gottes entreißt.
+^{[[#fn9][9]][[#fn10][10]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ 2 Thess 1,1
+
+^{[[#fnm2][2]]} Thessalonich (Thessaloniki) war in römischer Zeit
+Hauptstadt der Provinz Mazedonien. Wegen ihrer günstigen Lage an der Rom
+mit Byzanz verbindenden Fernstraße «Via Egnatia» war sie ein bedeutender
+Handelsplatz. - Silvanus (latinisierte Form des Namens Silas) stammte
+aus der Jerusalemer Urgemeinde. Er kam nach Antiochia, von wo Paulus ihn
+auf die zweite Missionsreise mitnahm (Apg 15,40). - Timotheus, Sohn
+eines heidnischen Vaters und einer judenchristlichen Mutter mit Namen
+Eunike, wohl schon auf der ersten Missionsreise von Paulus zum Glauben
+bekehrt, begleitete den Apostel von Lystra an auf seiner zweiten Reise
+(vgl. Apg 16,1-3; 2 Tim 1,5).
+
+^{[[#fnm3][3]]} ℘ 2 Thess 1,3
+
+^{[[#fnm4][4]]} Zur Dreiheit Glaube - Hoffnung - Liebe vgl. 5,8; 1 Kor
+13,13; Eph 1,16-18; Kol 1,4f; Hebr 10,22-24.
+
+^{[[#fnm5][5]]} ℘ 2 Thess 2,13
+
+^{[[#fnm6][6]]} Die Bedrängnis war durch die von Juden angezettelte
+Verfolgung verursacht (vgl. Apg 17,5-9).
+
+^{[[#fnm7][7]]} ℘ Phil 3,17
+
+^{[[#fnm8][8]]} ℘ Apg 14,15; Joh 17,3
+
+^{[[#fnm9][9]]} ℘ Apg 17,31; Tit 2,13
+
+^{[[#fnm10][10]]} dem kommenden Gericht Gottes, wörtlich: dem kommenden
+Zorn.

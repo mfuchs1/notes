@@ -1,0 +1,196 @@
+:PROPERTIES:
+:ID:       e1bce070-f4c9-465e-95b4-873531ad5f35
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Hebräer* --
+[[file:Hebr_1.html][1]] ... [[file:Hebr_5.html][5]]
+[[file:Hebr_6.html][6]] *7* [[file:Hebr_8.html][8]]
+[[file:Hebr_9.html][9]] ... [[file:Hebr_13.html][13]]
+
+--------------
+
+* Hebr 7
+  :PROPERTIES:
+  :CUSTOM_ID: hebr-7
+  :END:
+
+<<verses>>
+
+<<v1>>
+*** Christus und die Priester des Alten Bundes: 7,1 - 8,13
+    :PROPERTIES:
+    :CUSTOM_ID: christus-und-die-priester-des-alten-bundes-71---813
+    :END:
+**** Melchisedek und die Leviten: 7,1-10
+     :PROPERTIES:
+     :CUSTOM_ID: melchisedek-und-die-leviten-71-10
+     :END:
+1 Dieser /Melchisedek, König von Salem und Priester des höchsten
+Gottes;/ er, der /dem Abraham, als dieser nach dem Sieg über die Könige
+zurückkam, entgegenging/ und /ihn segnete/ ^{[[#fn1][1]][[#fn2][2]]}
+
+<<v2>>
+2 und welchem Abraham /den Zehnten von allem/ gab; er, dessen Name
+«König der Gerechtigkeit» bedeutet und der auch /König von Salem/ ist,
+das heißt «König des Friedens»;
+
+<<v3>>
+3 er, der ohne Vater, ohne Mutter und ohne Stammbaum ist, ohne Anfang
+seiner Tage und ohne Ende seines Lebens, ein Abbild des Sohnes Gottes:
+dieser Melchisedek bleibt /Priester für immer./ ^{[[#fn3][3]]}
+
+<<v4>>
+4 Seht doch, wie groß der ist, dem selbst Abraham, der Patriarch, /den
+Zehnten/ vom Besten der Beute /gab!/ ^{[[#fn4][4]]}
+
+<<v5>>
+5 Zwar haben auch die von den Söhnen Levis, die das Priesteramt
+übernehmen, den Auftrag, den gesetzmäßigen Zehnten vom Volk zu erheben,
+das heißt von ihren Brüdern, obwohl auch diese aus Abraham
+hervorgegangen sind; ^{[[#fn5][5]]}
+
+<<v6>>
+6 jener aber, der seinen Stammbaum nicht von ihnen herleitet, hat von
+Abraham /den Zehnten/ genommen und den Träger der Verheißungen
+/gesegnet./
+
+<<v7>>
+7 Zweifellos wird aber immer der Geringere von einem Höheren gesegnet.
+
+<<v8>>
+8 Und in dem einen Fall nehmen den Zehnten sterbliche Menschen, im
+andern aber einer, von dem bezeugt wird, dass er lebt.
+
+<<v9>>
+9 Und in Abraham hat sozusagen auch Levi, der den Zehnten nimmt, den
+Zehnten entrichtet;
+
+<<v10>>
+10 denn er war noch im Leib seines Stammvaters, als /Melchisedek ihm
+entgegenging./ ^{[[#fn6][6]]}\\
+\\
+
+<<v11>>
+**** Christus und die Leviten: 7,11-24
+     :PROPERTIES:
+     :CUSTOM_ID: christus-und-die-leviten-711-24
+     :END:
+11 Wäre nun die Vollendung durch das levitische Priestertum gekommen -
+das Volk hat ja darüber gesetzliche Bestimmungen erhalten -, warum
+musste dann noch ein anderer /Priester nach derOrdnung Melchisedeks/
+eingesetzt werden und warum wurde er nicht nach der Ordnung Aarons
+benannt? ^{[[#fn7][7]]}
+
+<<v12>>
+12 Denn sobald das Priestertum geändert wird, ändert sich notwendig auch
+das Gesetz.
+
+<<v13>>
+13 Der nämlich, von dem das gesagt wird, gehört einem anderen Stamm an,
+von dem keiner Zutritt zum Altar hat;
+
+<<v14>>
+14 es ist ja bekannt, dass unser Herr dem Stamm Juda entsprossen ist,
+und diesem hat Mose keine Priestersatzungen gegeben.
+
+<<v15>>
+15 Das ist noch viel offenkundiger, wenn nach dem Vorbild Melchisedeks
+ein anderer Priester eingesetzt wird,
+
+<<v16>>
+16 der nicht, wie das Gesetz es fordert, aufgrund leiblicher Abstammung
+Priester geworden ist, sondern durch die Kraft unzerstörbaren Lebens.\\
+\\
+
+<<v17>>
+17 Denn es wird bezeugt: /Du bist Priester auf ewig/ /\\
+ /nach der Ordnung Melchisedeks./ ^{[[#fn8][8]]}\\
+\\
+
+<<v18>>
+18 Das frühere Gebot wird nämlich aufgehoben, weil es schwach und
+nutzlos war -
+
+<<v19>>
+19 denn das Gesetz hat nicht zur Vollendung geführt -, und eine bessere
+Hoffnung wird eingeführt, durch die wir Gott nahe kommen.
+
+<<v20>>
+20 Das geschieht nicht ohne Eid; jene anderen sind ohne Eid Priester
+geworden,\\
+\\
+
+<<v21>>
+21 dieser aber durch einen Eid dessen, der zu ihm sprach: /Der Herr hat
+geschworen und nie wird es ihn reuen:/ /\\
+ /Du bist Priester auf ewig./ ^{[[#fn9][9]]}\\
+\\
+
+<<v22>>
+22 So ist Jesus auch zum Bürgen eines besseren Bundes geworden.
+
+<<v23>>
+23 Auch folgten dort viele Priester aufeinander, weil der Tod sie
+hinderte zu bleiben;
+
+<<v24>>
+24 er aber hat, weil er /auf ewig/ bleibt, ein unvergängliches
+Priestertum. ^{[[#fn10][10]]}\\
+\\
+
+<<v25>>
+**** Christus, der vollkommene Priester: 7,25-28
+     :PROPERTIES:
+     :CUSTOM_ID: christus-der-vollkommene-priester-725-28
+     :END:
+25 Darum kann er auch die, die durch ihn vor Gott hintreten, für immer
+retten; denn er lebt allezeit, um für sie einzutreten.
+
+<<v26>>
+26 Ein solcher Hoherpriester war für uns in der Tat notwendig: einer,
+der heilig ist, unschuldig, makellos, abgesondert von den Sündern und
+erhöht über die Himmel;
+
+<<v27>>
+27 einer, der es nicht Tag für Tag nötig hat, wie die Hohenpriester
+zuerst für die eigenen Sünden Opfer darzubringen und dann für die des
+Volkes; denn das hat er ein für allemal getan, als er sich selbst
+dargebracht hat. ^{[[#fn11][11]]}
+
+<<v28>>
+28 Das Gesetz nämlich macht Menschen zu Hohenpriestern, die der
+Schwachheit unterworfen sind; das Wort des Eides aber, der später als
+das Gesetz kam, setzt /den Sohn/ ein, der /auf ewig/ vollendet ist.
+^{[[#fn12][12]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Gen 14,17-20
+
+^{[[#fnm2][2]]} 1-28: Dem levitischen Priestertum wird das Priestertum
+des Melchisedek gegenübergestellt. Melchisedek ist aufgrund seines
+Namens, der Anerkennung durch Abraham, durch seine geheimnisvolle
+Herkunft und durch sein Opfer - Brot und Wein - Vorbild für Jesus
+Christus. Nach 7,16 lebt Melchisedek bei Gott. Zum Opfer des Melchisedek
+im Unterschied zum Opfer der levitischen Priesterordnung vgl. 7,11-24;
+9,7f; 10,1-9.
+
+^{[[#fnm3][3]]} ℘ Ps 110,4
+
+^{[[#fnm4][4]]} ℘ Gen 14,20
+
+^{[[#fnm5][5]]} ℘ Num 18,21
+
+^{[[#fnm6][6]]} ℘ Gen 14,17
+
+^{[[#fnm7][7]]} ℘ Ps 110,4
+
+^{[[#fnm8][8]]} ℘ Ps 110,4
+
+^{[[#fnm9][9]]} ℘ Ps 110,4
+
+^{[[#fnm10][10]]} ℘ Ps 110,4
+
+^{[[#fnm11][11]]} ℘ Lev 16,6.15
+
+^{[[#fnm12][12]]} ℘ Ps 2,7; 110,4

@@ -1,0 +1,207 @@
+:PROPERTIES:
+:ID:       c72431ea-8dbf-4222-8320-92a96a4e4eca
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Der Brief an die Römer* --
+[[file:Röm_1.html][1]] *2* [[file:Röm_3.html][3]] [[file:Röm_4.html][4]]
+... [[file:Röm_16.html][16]]
+
+--------------
+
+* Röm 2
+  :PROPERTIES:
+  :CUSTOM_ID: röm-2
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Der Mensch vor Gottes Gericht: 2,1-11
+     :PROPERTIES:
+     :CUSTOM_ID: der-mensch-vor-gottes-gericht-21-11
+     :END:
+1 Darum bist du unentschuldbar - wer du auch bist, Mensch -, wenn du
+richtest. Denn worin du den andern richtest, darin verurteilst du dich
+selber, da du, der Richtende, dasselbe tust. ^{[[#fn1][1]]}
+
+<<v2>>
+2 Wir wissen aber, dass Gottes Gericht über alle, die solche Dinge tun,
+der Wahrheit entspricht.
+
+<<v3>>
+3 Meinst du etwa, du könntest dem Gericht Gottes entrinnen, wenn du die
+richtest, die solche Dinge tun, und dasselbe tust wie sie?
+
+<<v4>>
+4 Verachtest du etwa den Reichtum seiner Güte, Geduld und Langmut? Weißt
+du nicht, dass Gottes Güte dich zur Umkehr treibt? ^{[[#fn2][2]]}
+
+<<v5>>
+5 Weil du aber starrsinnig bist und dein Herz nicht umkehrt, sammelst du
+Zorn gegen dich für den «Tag des Zornes», den Tag der Offenbarung von
+Gottes gerechtem Gericht. ^{[[#fn3][3]]}
+
+<<v6>>
+6 /Er wird jedem vergelten, wie es seine Taten verdienen:/
+^{[[#fn4][4]]}
+
+<<v7>>
+7 denen, die beharrlich Gutes tun und Herrlichkeit, Ehre und
+Unvergänglichkeit erstreben, gibt er ewiges Leben,
+
+<<v8>>
+8 denen aber, die selbstsüchtig nicht der Wahrheit, sondern der
+Ungerechtigkeit gehorchen, widerfährt Zorn und Grimm.
+
+<<v9>>
+9 Not und Bedrängnis wird jeden Menschen treffen, der das Böse tut,
+zuerst den Juden, aber ebenso den Griechen;
+
+<<v10>>
+10 Herrlichkeit, Ehre und Friede werden jedem zuteil, der das Gute tut,
+zuerst dem Juden, aber ebenso dem Griechen; ^{[[#fn5][5]]}
+
+<<v11>>
+11 denn Gott richtet ohne Ansehen der Person. ^{[[#fn6][6]]}\\
+\\
+
+<<v12>>
+**** Die Heiden und das Gesetz: 2,12-16
+     :PROPERTIES:
+     :CUSTOM_ID: die-heiden-und-das-gesetz-212-16
+     :END:
+12 Alle, die sündigten, ohne das Gesetz zu haben, werden auch ohne das
+Gesetz zugrunde gehen und alle, die unter dem Gesetz sündigten, werden
+durch das Gesetz gerichtet werden. ^{[[#fn7][7]][[#fn8][8]]}
+
+<<v13>>
+13 Nicht die sind vor Gott gerecht, die das Gesetz hören, sondern er
+wird die für gerecht erklären, die das Gesetz tun. ^{[[#fn9][9]]}
+
+<<v14>>
+14 Wenn Heiden, die das Gesetz nicht haben, von Natur aus das tun, was
+im Gesetz gefordert ist, so sind sie, die das Gesetz nicht haben, sich
+selbst Gesetz. ^{[[#fn10][10]]}
+
+<<v15>>
+15 Sie zeigen damit, dass ihnen die Forderung des Gesetzes ins Herz
+geschrieben ist; ihr Gewissen legt Zeugnis davon ab, ihre Gedanken
+klagen sich gegenseitig an und verteidigen sich -
+
+<<v16>>
+16 an jenem Tag, an dem Gott, wie ich es in meinem Evangelium
+verkündige, das, was im Menschen verborgen ist, durch Jesus Christus
+richten wird. ^{[[#fn11][11]]}\\
+\\
+
+<<v17>>
+**** Die Juden und das Gesetz: 2,17-29
+     :PROPERTIES:
+     :CUSTOM_ID: die-juden-und-das-gesetz-217-29
+     :END:
+17 Du nennst dich zwar Jude und verlässt dich auf das Gesetz, du rühmst
+dich deines Gottes, ^{[[#fn12][12]]}
+
+<<v18>>
+18 du kennst seinen Willen und du willst, aus dem Gesetz belehrt,
+beurteilen, worauf es ankommt;
+
+<<v19>>
+19 du traust dir zu, Führer zu sein für Blinde, Licht für die in der
+Finsternis, ^{[[#fn13][13]]}
+
+<<v20>>
+20 Erzieher der Unverständigen, Lehrer der Unmündigen, einer, für den im
+Gesetz Erkenntnis und Wahrheit feste Gestalt besitzen.
+
+<<v21>>
+21 Du belehrst andere Menschen, dich selbst aber belehrst du nicht. Du
+predigst: Du sollst nicht stehlen!, und stiehlst. ^{[[#fn14][14]]}
+
+<<v22>>
+22 Du sagst: Du sollst die Ehe nicht brechen!, und brichst die Ehe. Du
+verabscheust die Götzenbilder, begehst aber Tempelraub. ^{[[#fn15][15]]}
+
+<<v23>>
+23 Du rühmst dich des Gesetzes, entehrst aber Gott durch Übertreten des
+Gesetzes.
+
+<<v24>>
+24 Denn in der Schrift steht: /Euretwegen wird unter den Heiden der Name
+Gottes gelästert./ ^{[[#fn16][16]]}
+
+<<v25>>
+25 Die Beschneidung ist nützlich, wenn du das Gesetz befolgst;
+übertrittst du jedoch das Gesetz, so bist du trotz deiner Beschneidung
+zum Unbeschnittenen geworden. ^{[[#fn17][17]]}
+
+<<v26>>
+26 Wenn aber der Unbeschnittene die Forderungen des Gesetzes beachtet,
+wird dann nicht sein Unbeschnittensein als Beschneidung angerechnet
+werden? ^{[[#fn18][18]]}
+
+<<v27>>
+27 Der leiblich Unbeschnittene, der das Gesetz erfüllt, wird dich
+richten, weil du trotz Buchstabe und Beschneidung ein Übertreter des
+Gesetzes bist.
+
+<<v28>>
+28 Jude ist nicht, wer es nach außen hin ist, und Beschneidung ist
+nicht, was sichtbar am Fleisch geschieht, ^{[[#fn19][19]][[#fn20][20]]}
+
+<<v29>>
+29 sondern Jude ist, wer es im Verborgenen ist, und Beschneidung ist,
+was am Herzen durch den Geist, nicht durch den Buchstaben geschieht. Der
+Ruhm eines solchen Juden kommt nicht von Menschen, sondern von Gott.
+^{[[#fn21][21]]}\\
+\\
+
+^{[[#fnm1][1]]} ℘ Mt 7,2
+
+^{[[#fnm2][2]]} ℘ 2 Petr 3,9
+
+^{[[#fnm3][3]]} ℘ Offb 6,17
+
+^{[[#fnm4][4]]} ℘ Ps 62,13; Mt 16,27
+
+^{[[#fnm5][5]]} ℘ 1,16; 3,9
+
+^{[[#fnm6][6]]} ℘ Apg 10,34; 1 Petr 1,17
+
+^{[[#fnm7][7]]} ℘ 3,19
+
+^{[[#fnm8][8]]} 12-16: Allen Menschen, auch den Heiden, sagt ihr
+Gewissen, was Gottes Wille ist (vgl. 1,20; 2,9f). Bei «Gesetz» ist in
+erster Linie, aber nicht ausschließlich, an das alttestamentliche Gesetz
+gedacht, wie es in den Büchern Genesis bis Deuteronomium aufgezeichnet
+ist.
+
+^{[[#fnm9][9]]} ℘ Mt 7,21; Jak 1,22.25
+
+^{[[#fnm10][10]]} ℘ Apg 10,35
+
+^{[[#fnm11][11]]} ℘ 1 Kor 4,5; 2 Kor 5,10
+
+^{[[#fnm12][12]]} ℘ Phil 3,4-6; Jes 48,1f
+
+^{[[#fnm13][13]]} ℘ Mt 15,14; Lk 6,39
+
+^{[[#fnm14][14]]} ℘ Mt 23,3f
+
+^{[[#fnm15][15]]} Götterbilder und Kultstätten der Heiden galten den
+Juden nicht als heilig. Diese Auffassung führte, wie es scheint,
+gelegentlich zu Übergriffen («Tempelraub»; vgl. auch Apg 19,37).
+
+^{[[#fnm16][16]]} ℘ Jes 52,5 G; Ez 36,20
+
+^{[[#fnm17][17]]} ℘ 1 Kor 7,19; Gal 5,3
+
+^{[[#fnm18][18]]} ℘ Gal 5,6
+
+^{[[#fnm19][19]]} ℘ 9,6
+
+^{[[#fnm20][20]]} 28f: Zum Gegensatz von «Geist» und «Buchstaben» vgl.
+Röm 7,6; 2 Kor 3,6.
+
+^{[[#fnm21][21]]} ℘ Dtn 30,6; Phil 3,2f

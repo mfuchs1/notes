@@ -1,0 +1,272 @@
+#+TITLE: Koh 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-02-13 Do 13:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Koh 7.html
+
+* Koh 7
+
+<<verses>>
+
+<<v1>>
+* Zum Thema: Nachruhm: 7,1-4
+
+1 Besser ein guter Name als Parfüm - /\\
+ und der Tag eines Todes als der Tag einer Geburt; [fn:1] [fn:2]\\
+\\
+
+<<v2>>
+2 besser der Gang in ein Haus, wo man trauert, /\\
+ als der Gang in ein Haus, wo man trinkt. Weil dies das Ende jedes
+Menschen ist, /\\
+ macht, wer noch lebt, sich Gedanken. [fn:3]\\
+\\
+
+<<v3>>
+3 Besser sich ärgern als lachen; /\\
+ denn bei einem vergrämten Gesicht wird das Herz heiter. [fn:4]\\
+\\
+
+<<v4>>
+4 Das Herz der Gebildeten ist im Haus, wo man trauert, /\\
+ das Herz der Ungebildeten im Haus, wo man sich freut.\\
+\\
+
+<<v5>>
+* Zum Thema: Bildung: 7,5-7
+
+5 Besser die Mahnrede eines Gebildeten anhören, /\\
+ als dem Gesang der Ungebildeten lauschen; [fn:5]\\
+\\
+
+<<v6>>
+6 denn wie das Prasseln der Dornen unter dem Kessel, /\\
+ so ist das Lachen des Ungebildeten. - Aber auch das ist Windhauch,
+denn: [fn:6]\\
+\\
+
+<<v7>>
+7 Erpressung verblendet den Gebildeten /\\
+ und Bestechung verdirbt den Verstand. [fn:7]\\
+\\
+
+<<v8>>
+* Zum Thema: Zurückhaltung und Hängen am Hergebrachten: 7,8-10
+
+8 Besser der Ausgang einer Sache als ihr Anfang, /\\
+ besser der Vorsichtige als der Stürmische. [fn:8]\\
+\\
+
+<<v9>>
+9 Lass dich nicht aufregen, sodass du dich ärgerst, /\\
+ denn Ärger steckt in den Ungebildeten. - [fn:9]
+
+<<v10>>
+10 Doch frag nicht: Wie kommt es, dass die früheren Zeiten besser waren
+als unsere? Denn deine Frage zeugt nicht von Wissen.\\
+\\
+
+<<v11>>
+* Zum Thema: Wissen als Mittel zu langem Leben: 7,11-18
+
+11 Wissen ist so viel wert wie Erbbesitz, /\\
+ es ist sogar mehr wert für die, welche die Sonne sehen; [fn:10]\\
+\\
+
+<<v12>>
+12 denn wer sich im Schatten des Wissens birgt, der ist auch im Schatten
+des Geldes; /\\
+ aber das ist der Vorteil des Könnens: Das Wissen erhält seinen Besitzer
+am Leben. - [fn:11] [fn:12]
+
+<<v13>>
+13 Doch sieh ein, dass Gottes Tun noch hinzukommt. Denn: Wer kann gerade
+biegen, was er gekrümmt hat? [fn:13] [fn:14]
+
+<<v14>>
+14 Am Glückstag erfreue dich deines Glücks und am Unglückstag sieh ein:
+Auch diesen hat Gott geschaffen, genau wie jenen, sodass der Mensch von
+dem, was nach ihm kommt, gar nichts herausfinden kann. [fn:15]
+
+<<v15>>
+15 In meinen Tagen voll Windhauch habe ich beides beobachtet: Es kommt
+vor, dass ein gesetzestreuer Mensch trotz seiner Gesetzestreue elend
+endet, und es kommt vor, dass einer, der sich nicht um das Gesetz
+kümmert, trotz seines bösen Tuns ein langes Leben hat. [fn:16]
+
+<<v16>>
+16 Halte dich nicht zu streng an das Gesetz und sei nicht maßlos im
+Erwerb von Wissen! Warum solltest du dich selbst ruinieren? [fn:17]
+
+<<v17>>
+17 Entfern dich nicht zu weit vom Gesetz und verharre nicht im Unwissen:
+Warum solltest du vor der Zeit sterben? [fn:18]
+
+<<v18>>
+18 Es ist am besten, wenn du an dem einen fest hältst, aber auch das
+andere nicht loslässt. Wer Gott fürchtet, wird sich in jedem Fall
+richtig verhalten. [fn:19] [fn:20]\\
+\\
+
+<<v19>>
+* Zum Thema: Wissen als Schutz: 7,19-22
+
+19 Das Wissen ist für den Gebildeten ein stärkerer Schutz /\\
+ als zehn Machthaber zusammen, /\\
+ die in der Stadt geherrscht haben. - [fn:21] [fn:22]\\
+\\
+
+<<v20>>
+20 Doch gibt es auf der Erde keinen einzigen Menschen, der so
+gesetzestreu wäre, dass er stets richtig handelt, ohne je einen Fehler
+zu begehen. [fn:23]
+
+<<v21>>
+21 Hör auch nicht auf all die Worte, die man so sagt. Denn niemals wirst
+du einen Untergebenen über dich schimpfen hören,
+
+<<v22>>
+22 und doch bist du dir bewusst, dass auch du sehr oft über andere
+geschimpft hast.\\
+\\
+
+<<v23>>
+* Zum Thema: Überliefertes Wissen und Wissen aus Beobachtung: 7,23 - 8,1a
+
+23 Auf allen Wegen habe ich es mit dem Wissen versucht. Ich habe gesagt:
+Ich will lernen und dadurch gebildet werden. Aber das Wissen blieb für
+mich in der Ferne. [fn:24]\\
+\\
+
+<<v24>>
+24 Fern ist alles, was geschehen ist, /\\
+ und tief, tief versunken - /\\
+ wer könnte es wieder finden? [fn:25]\\
+\\
+
+<<v25>>
+25 So habe ich, genauer: mein Verstand, mich umgestellt. Ich wollte
+forschend und suchend erkennen, was dasjenige Wissen wirklich ist, das
+Einzelbeobachtungen zusammenrechnet. Ferner wollte ich erkennen, ob
+Gesetzesübertretung mit mangelnder Bildung und Unwissen mit Verblendung
+zusammenhängt. [fn:26]\\
+\\
+
+<<v26>>
+26 Immer wieder finde ich die Ansicht, stärker als der Tod sei die Frau.
+Denn: Sie ist ein Ring von Belagerungstürmen /\\
+ und ihr Herz ist ein Fangnetz, /\\
+ Fesseln sind ihre Arme. Wem Gott wohlwill, der kann sich vor ihr
+retten, /\\
+ wessen Leben verfehlt ist, wird von ihr eingefangen. [fn:27]\\
+\\
+
+<<v27>>
+27 Aber sieh dir an, was ich, Beobachtung um Beobachtung, herausgefunden
+habe, sagte Kohelet, bis ich schließlich das Rechenergebnis fand, [fn:28]\\
+\\
+
+<<v28>>
+28 oder vielmehr: wie ich immer wieder suchte und nichts fand: Von
+tausend Menschen habe ich nur einen wieder gefunden, /\\
+ aber der, den ich von ihnen allen wieder gefunden habe, war keine Frau. [fn:29]\\
+\\
+
+<<v29>>
+29 Sieh dir an, was ich als Einziges herausgefunden habe: Gott hat die
+Menschen rechtschaffen gemacht, /\\
+ aber sie haben sich in allen möglichen Berechnungen versucht. [fn:30]
+
+
+* Footnotes
+
+[fn:1] [[file:Spr_22.org::v1][Spr 22,1]]; [[file:Sir_4.org::v11][Sir 41,11-13]]
+
+[fn:2] In H ein Wortspiel zwischen «Name» (schem) und «Parfüm»
+(schemen tob). «Name» meint den guten Ruf, aber auch den Nachruhm über
+den Tod hinaus (vgl. Spr 10,7; Ijob 18,17). An diese Nuance des
+Sprichworts knüpft die eigene Überlegung Kohelets an. Ihr Anfang ist,
+wie immer im Folgenden, in der Übersetzung durch einen Gedankenstrich
+gekennzeichnet.
+
+[fn:3] [[file:Koh_11.org::v9][11,9]] - [[file:Koh_12.org::v7][12,7]]; [[file:Sir_7.org::v36][Sir 7,36]]
+
+[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_3.org::v10][1 Kor 3,10f]]
+
+[fn:5] [[file:Spr_13.org::v1][Spr 13,1]]; [[file:Spr_15.org::v32][15,32]]
+
+[fn:6] In H ein Wortspiel: Gesang (schir) - Dornen (sirim) -
+Kessel (sir) - Ungebildeter (kesil).
+
+[fn:7] [[file:Ex_23.org::v8][Ex 23,8]]; [[file:Dtn_16.org::v19][Dtn 16,19]]
+
+[fn:8] [[file:Spr_24.org::v20][Spr 24,20]]
+
+[fn:9] [[file:Spr_22.org::v24][Spr 22,24]]
+
+[fn:10] [[file:Spr_16.org::v16][Spr 16,16]]
+
+[fn:11] [[file:Spr_3.org::v1][Spr 3,1f]].[[file:Spr_3.org::v13][13-18]]
+
+[fn:12] Diese Bildungstheorie ist von der Überzeugung
+getragen, der Mensch könne mit seinem Wissen die Zukunft überschaubar
+und beherrschbar machen; dadurch ließe sich vorzeitiger Tod vermeiden.
+Wichtig ist dabei die Annahme eines Zusammenhangs zwischen menschlichem
+Verhalten und späterem Ergehen. Das stellt Kohelet im Folgenden immer
+wieder in Frage. Deshalb kommt er dann auch zu einer anderen Ethik.
+
+[fn:13] [[file:Koh_1.org::v15][1,15]]
+
+[fn:14] Beweisführung mit der Aussage von 1,15.
+
+[fn:15] [[file:Koh_3.org::v11][3,11]]; [[file:Ijob_2.org::v10][Ijob 2,10]]; [[file:Sir_11.org::v14][Sir 11,14]]
+
+[fn:16] [[file:Koh_8.org::v14][8,14]]; [[file:Koh_9.org::v1][9,1f]]; [[file:Ps_73.org::v12][Ps 73,12-14]]; [[file:Ijob_21.org::v7][Ijob 21,7]]
+
+[fn:17] [[file:Koh_2.org::v15][2,15]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_18.org::v9][Lk 18,9-14]]
+
+[fn:18] [[file:Koh_3.org::v2][3,2]]
+
+[fn:19] [[file:Spr_10.org::v27][Spr 10,27]]
+
+[fn:20] Andere Übersetzungsmöglichkeit: Wer Gott fürchtet,
+wird beiden Gefahren entgehen. - An dieser Stelle ist Gottesfurcht jenes
+Ethos, das sich aus der Einsicht von 7,13 ergibt: dass Gottes Handeln
+letztlich alle Ereignisse bestimmt und dass es sich nicht nach Regeln
+festlegen lässt (vgl. 3,14).
+
+[fn:21] [[file:Koh_9.org::v16][9,16]]; [[file:Spr_21.org::v22][Spr 21,22]]; [[file:Spr_24.org::v5][24,5]]
+
+[fn:22] 19-22: Der Behauptung der Tradition, das Wissen
+schütze vor Gefahren, begegnet Kohelet mit der These, es gebe überhaupt
+keinen Menschen, der es fertig bringt, fehlerfrei nach Wissen und
+Erziehung zu handeln.
+
+[fn:23] [[file:1.Kön_8.org::v46][1 Kön 8,46]]; [[file:Ps_14.org::v3][Ps 14,3]]; [[file:Ijob_15.org::v14][Ijob 15,14-16]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_1.org::v18][Röm 1,18]] - [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v20][3,20]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_5.org::v12][5,12]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Joh_1.org::v8][1 Joh 1,8]]
+
+[fn:24] 23-25: Diese den Abschnitt einleitenden Sätze dienen
+innerhalb von 6,11 - 9,6 auch als Rückblick und Vorblick.
+
+[fn:25] [[file:Koh_1.org::v11][1,11]]; [[file:Koh_3.org::v11][3,11]]
+
+[fn:26] [[file:Koh_1.org::v17][1,17]]
+
+[fn:27] [[file:Ri_16.org::v4][Ri 16,4-21]]; [[file:Spr_2.org::v16][Spr 2,16-19]]; [[file:Spr_5.org::v2][5,2-6]]; [[file:Koh_2.org::v26][Koh 2,26]]; [[file:Spr_22.org::v14][Spr 22,14]]
+
+[fn:28] [[file:Koh_1.org::v2][1,2]]; [[file:Koh_12.org::v8][12,8]]
+
+[fn:29] Widerspricht der in 7,26a zitierten Vorstellung.
+Kohelet nimmt diese Aussage ganz wörtlich und widerlegt sie durch die
+Erfahrung: Auch die Frauen sind sterblich.
+
+[fn:30] Schwer übersetzbarer Text, der auf einem Wortspiel
+beruht. Das hebräische Wort für «Berechnungen» (es bedeutet auch
+«Wurfmaschinen») verweist auf die Kriegstechnik. Kohelet spielt immer
+noch auf 7,25f an.

@@ -1,0 +1,12 @@
+
+#+title: Zweite Datei
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+STARTUP: showall
+#+DATE: [2024-01-25 Do 00:27]
+
+* Überschrift
+:PROPERTIES:
+:CAPTURED: [2024-01-25 Do 00:27]
+:END:
+

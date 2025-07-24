@@ -1,0 +1,157 @@
+#+TITLE: Gen 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 11.html
+
+
+<<verses>>
+
+<<v1>>
+* Der Turmbau zu Babel: 11,1-9
+
+1 Alle Menschen hatten die gleiche Sprache und gebrauchten die gleichen
+Worte. [fn:1]
+
+<<v2>>
+2 Als sie von Osten aufbrachen, fanden sie eine Ebene im Land Schinar
+und siedelten sich dort an.
+
+<<v3>>
+3 Sie sagten zueinander: Auf, formen wir Lehmziegel und brennen wir sie
+zu Backsteinen. So dienten ihnen gebrannte Ziegel als Steine und Erdpech
+als Mörtel.
+
+<<v4>>
+4 Dann sagten sie: Auf, bauen wir uns eine Stadt und einen Turm mit
+einer Spitze bis zum Himmel und machen wir uns damit einen Namen, dann
+werden wir uns nicht über die ganze Erde zerstreuen.
+
+<<v5>>
+5 Da stieg der Herr herab, um sich Stadt und Turm anzusehen, die die
+Menschenkinder bauten.
+
+<<v6>>
+6 Er sprach: Seht nur, /ein/ Volk sind sie und /eine/ Sprache haben sie
+alle. Und das ist erst der Anfang ihres Tuns. Jetzt wird ihnen nichts
+mehr unerreichbar sein, was sie sich auch vornehmen.
+
+<<v7>>
+7 Auf, steigen wir hinab und verwirren wir dort ihre Sprache, sodass
+keiner mehr die Sprache des anderen versteht.
+
+<<v8>>
+8 Der Herr zerstreute sie von dort aus über die ganze Erde und sie
+hörten auf, an der Stadt zu bauen.
+
+<<v9>>
+9 Darum nannte man die Stadt Babel (Wirrsal), denn dort hat der Herr die
+Sprache aller Welt verwirrt, und von dort aus hat er die Menschen über
+die ganze Erde zerstreut.\\
+\\
+
+<<v10>>
+* Die Erzväter: 11,10 - 36,43
+
+* Die Vorfahren Abrahams: 11,10-32
+
+10 Das ist die Geschlechterfolge nach Sem: Sem zeugte im Alter von
+hundert Jahren Arpachschad, zwei Jahre nach der Flut.
+
+<<v11>>
+11 Nach der Geburt Arpachschads lebte Sem noch fünfhundert Jahre und
+zeugte Söhne und Töchter.
+
+<<v12>>
+12 Arpachschad zeugte mit fünfunddreißig Jahren Schelach.
+
+<<v13>>
+13 Nach der Geburt Schelachs lebte Arpachschad noch vierhundertdrei
+Jahre und zeugte Söhne und Töchter.
+
+<<v14>>
+14 Schelach zeugte mit dreißig Jahren Eber.
+
+<<v15>>
+15 Nach der Geburt Ebers lebte Schelach noch vierhundertdrei Jahre und
+zeugte Söhne und Töchter.
+
+<<v16>>
+16 Eber war vierunddreißig Jahre alt, da zeugte er Peleg.
+
+<<v17>>
+17 Nach der Geburt Pelegs lebte Eber noch vierhundertdreißig Jahre und
+zeugte Söhne und Töchter.
+
+<<v18>>
+18 Peleg war dreißig Jahre alt, da zeugte er Regu.
+
+<<v19>>
+19 Nach der Geburt Regus lebte Peleg noch zweihundertneun Jahre und
+zeugte Söhne und Töchter.
+
+<<v20>>
+20 Regu war zweiunddreißig Jahre alt, da zeugte er Serug.
+
+<<v21>>
+21 Nach der Geburt Serugs lebte Regu noch zweihundertsieben Jahre und
+zeugte Söhne und Töchter.
+
+<<v22>>
+22 Serug war dreißig Jahre alt, da zeugte er Nahor.
+
+<<v23>>
+23 Nach der Geburt Nahors lebte Serug noch zweihundert Jahre und zeugte
+Söhne und Töchter.
+
+<<v24>>
+24 Nahor war neunundzwanzig Jahre alt, da zeugte er Terach.
+
+<<v25>>
+25 Nach der Geburt Terachs lebte Nahor noch hundertneunzehn Jahre und
+zeugte Söhne und Töchter.
+
+<<v26>>
+26 Terach war siebzig Jahre alt, da zeugte er Abram, Nahor und Haran.
+
+<<v27>>
+27 Das ist die Geschlechterfolge nach Terach: Terach zeugte Abram, Nahor
+und Haran; Haran zeugte Lot.
+
+<<v28>>
+28 Dann starb Haran, noch vor seinem Vater Terach, in seiner Heimat Ur
+in Chaldäa.
+
+<<v29>>
+29 Abram und Nahor nahmen sich Frauen; die Frau Abrams hieß Sarai und
+die Frau Nahors hieß Milka; sie war die Tochter Harans, des Vaters der
+Milka und der Jiska.
+
+<<v30>>
+30 Sarai war unfruchtbar, sie hatte keine Kinder.
+
+<<v31>>
+31 Terach nahm seinen Sohn Abram, seinen Enkel Lot, den Sohn Harans, und
+seine Schwiegertochter Sarai, die Frau seines Sohnes Abram, und sie
+wanderten miteinander aus Ur in Chaldäa aus, um in das Land Kanaan zu
+ziehen. Als sie aber nach Haran kamen, siedelten sie sich dort an.
+
+<<v32>>
+32 Die Lebenszeit Terachs betrug zweihundertfünf Jahre, dann starb
+Terach in Haran.\\
+\\
+
+
+* Footnotes
+
+[fn:1] 11,1-9: An der alten Tradition von Babel als dem
+Schauplatz der Sprachverwirrung zeigt der Erzähler, dass hohe
+Zivilisation ohne Bindung an Gott die Menschen nicht eint und innerlich
+einander näher bringt, sondern sie entzweit, sodass sie sich gegenseitig
+nicht mehr verstehen.

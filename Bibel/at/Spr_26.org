@@ -1,0 +1,179 @@
+#+TITLE: Spr 26 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-09-30 Mo 10:21]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 26.html
+
+* Spr 26
+
+<<verses>>
+
+<<v1>>
+1 Wie Schnee im Sommer und Regen zur Erntezeit, /\\
+ so unpassend ist Ehre für einen Toren.\\
+\\
+
+<<v2>>
+2 Wie der Spatz wegflattert und die Schwalbe davonfliegt, /\\
+ so ist ein unverdienter Fluch; er trifft nicht ein.\\
+\\
+
+<<v3>>
+3 Dem Pferd die Peitsche, dem Esel den Zaum, /\\
+ dem Rücken der Toren den Stock. [fn:1]\\
+\\
+
+<<v4>>
+4 Antworte dem Toren nicht, wie es seine Dummheit verdient, /\\
+ damit nicht auch du ihm gleich wirst. [fn:2]\\
+\\
+
+<<v5>>
+5 Antworte dem Toren, wie es seine Dummheit verdient, /\\
+ damit er sich nicht einbildet, ein Weiser zu sein.\\
+\\
+
+<<v6>>
+6 Die Füße haut sich ab, Schaden muss leiden, /\\
+ wer Botschaft sendet durch einen Toren.\\
+\\
+
+<<v7>>
+7 Schlaff wie die Schenkel des Lahmen /\\
+ ist ein Weisheitsspruch im Mund der Toren.\\
+\\
+
+<<v8>>
+8 Den Stein bindet in der Schleuder fest, /\\
+ wer einem Toren Ehre erweist.\\
+\\
+
+<<v9>>
+9 Ein Dornzweig geriet in die Hand eines Betrunkenen: /\\
+ ein Weisheitsspruch in den Mund der Toren.\\
+\\
+
+<<v10>>
+10 Ein Schütze, der alle verwundet - /\\
+ ein Tor und ein Betrunkener, wenn sie vorübergehen. [fn:3]\\
+\\
+
+<<v11>>
+11 Wie ein Hund, der zurückkehrt zu dem, was er erbrochen hat, /\\
+ so ist ein Tor, der seine Dummheit wiederholt. [fn:4]\\
+\\
+
+<<v12>>
+12 Siehst du jemand, der sich selbst für weise hält - /\\
+ mehr Hoffnung gibt es für den Toren als für ihn. [fn:5]\\
+\\
+
+<<v13>>
+13 Der Faule sagt: Ein Löwe ist auf dem Weg, /\\
+ ein Raubtier ist auf den Straßen. [fn:6]\\
+\\
+
+<<v14>>
+14 Die Tür dreht sich in ihrer Angel /\\
+ und der Faule in seinem Bett.\\
+\\
+
+<<v15>>
+15 Greift der Faule mit der Hand in die Schüssel, /\\
+ ist er zu träg, sie zum Mund zurückzubringen. [fn:7]\\
+\\
+
+<<v16>>
+16 Der Faule hält sich selbst für weiser /\\
+ als sieben, die klug antworten können.\\
+\\
+
+<<v17>>
+17 Einen vorbeilaufenden Hund packt bei den Ohren, /\\
+ wer sich in einen Streit mischt, der ihn nichts angeht.\\
+\\
+
+<<v18>>
+18 Wie ein Verrückter, der Brandpfeile schleudert, /\\
+ Pfeile und tödliche Waffen,\\
+\\
+
+<<v19>>
+19 so ist einer, der seinen Nächsten täuscht /\\
+ und dazu sagt: Ich mach doch nur Spaß.\\
+\\
+
+<<v20>>
+20 Ist kein Holz mehr da, erlischt das Feuer; /\\
+ wo kein Verleumder ist, legt sich der Streit. [fn:8]\\
+\\
+
+<<v21>>
+21 Wie Kohlen die Glut und Holz das Feuer, /\\
+ so schürt ein zänkischer Mensch den Streit.\\
+\\
+
+<<v22>>
+22 Die Worte des Verleumders sind wie Leckerbissen, /\\
+ sie gleiten hinab in die Kammern des Leibes. [fn:9]\\
+\\
+
+<<v23>>
+23 Silberglasur über Tongeschirr - /\\
+ glatte Lippen und ein böses Herz.\\
+\\
+
+<<v24>>
+24 Mit seinen Reden verstellt sich der Gehässige, /\\
+ doch in seinem Herzen ist er voll Tücke.\\
+\\
+
+<<v25>>
+25 Klingt seine Stimme auch freundlich, trau ihm nicht, /\\
+ denn sieben Gräuel sind in seinem Herzen.\\
+\\
+
+<<v26>>
+26 Hüllt sich sein Hass auch in Heuchelei, /\\
+ seine Schlechtigkeit wird bloßgestellt in der Volksversammlung.\\
+\\
+
+<<v27>>
+27 Wer eine Grube gräbt, fällt selbst hinein, /\\
+ wer einen Stein hochwälzt, auf den rollt er zurück. [fn:10]\\
+\\
+
+<<v28>>
+28 Eine verlogene Zunge führt zum Zusammenbruch, /\\
+ ein heuchlerischer Mund verursacht den Sturz.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Spr_10.org::v13][10,13]]
+
+[fn:2] [[file:Sir_22.org::v13][Sir 22,13]]
+
+[fn:3] H ist verderbt, will vielleicht sagen: Toren (und
+Betrunkene) sind unnütz, ja gefährlich.
+
+[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/2.Petr_2.org::v22][2 Petr 2,22]]
+
+[fn:5] [[file:Spr_29.org::v20][29,20]]
+
+[fn:6] [[file:Spr_22.org::v13][22,13]]
+
+[fn:7] [[file:Spr_19.org::v24][19,24]]
+
+[fn:8] [[file:Sir_28.org::v10][Sir 28,10-12]]
+
+[fn:9] [[file:Spr_18.org::v8][18,8]]
+
+[fn:10] [[file:Ps_7.org::v16][Ps 7,16]]; [[file:Sir_27.org::v25][Sir 27,25f]]

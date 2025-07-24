@@ -1,0 +1,148 @@
+#+TITLE: 2 Sam 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 21:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 16.html
+
+* 2.Sam 16
+
+<<verses>>
+
+<<v1>>
+1 Als David vom Gipfel des Berges aus ein Stück weiterzog, da kam ihm
+Ziba, der Diener Merib-Baals, mit einem Paar gesattelter Esel entgegen.
+Sie waren mit zweihundert Broten, hundert Traubenkuchen, hundert
+frischen Früchten und einem Schlauch Wein beladen.
+
+<<v2>>
+2 Der König fragte Ziba: Was hast du damit vor? Ziba antwortete: Die
+Esel sind für die königliche Familie als Reittiere bestimmt, das Brot
+und die Früchte zur Verpflegung deiner Diener, der Wein ist zum Trinken
+für die, die in der Steppe müde werden.
+
+<<v3>>
+3 Der König fragte: Wo ist der Sohn deines Herrn? Ziba antwortete dem
+König: Er ist in Jerusalem geblieben; denn er hat gesagt: Heute wird mir
+das Haus Israel das Königtum meines Vaters wiedergeben. [fn:1]
+
+<<v4>>
+4 Da sagte der König zu Ziba: Jetzt soll alles, was Merib-Baal gehört,
+dir gehören. Ziba antwortete: Ich habe mich (vor dir) niedergeworfen;
+möge ich Gnade finden vor deinen Augen, mein Herr und König.
+
+<<v5>>
+5 Als König David nach Bahurim kam, da kam plötzlich aus der Stadt ein
+Mann namens Schimi, ein Sohn Geras aus der Sippe des Hauses Saul. Er kam
+David mit Flüchen entgegen, [fn:2]
+
+<<v6>>
+6 und warf mit Steinen nach ihm und allen Dienern des Königs David,
+obwohl das ganze Volk und alle Krieger rechts und links um ihn standen.
+
+<<v7>>
+7 Schimi schrie und fluchte: Verschwinde, verschwinde, du Mörder, du
+Niederträchtiger!
+
+<<v8>>
+8 Der Herr hat all deine Blutschuld am Haus Sauls, an dessen Stelle du
+König geworden bist, auf dich zurückfallen lassen. Der Herr hat das
+Königtum in die Hand deines Sohnes Abschalom gegeben. Nun bist du ins
+Unglück geraten; denn du bist ein Mörder.
+
+<<v9>>
+9 Da sagte Abischai, der Sohn der Zeruja, zum König: Warum flucht dieser
+tote Hund meinem Herrn, dem König? Ich will hinübergehen und ihm den
+Kopf abschlagen.
+
+<<v10>>
+10 Doch der König antwortete: Was habe ich mit euch zu schaffen, ihr
+Söhne der Zeruja? Wenn er flucht und wenn der Herr ihm gesagt hat:
+Verfluch David!, wer darf dann fragen: Warum tust du das?
+
+<<v11>>
+11 Und weiter sagte David zu Abischai und all seinen Dienern: Seht, mein
+leiblicher Sohn trachtet mir nach dem Leben, wie viel mehr muss es dann
+dieser Benjaminiter tun. Lasst ihn fluchen! Sicherlich hat es ihm der
+Herr geboten.
+
+<<v12>>
+12 Vielleicht sieht der Herr mein Elend an und erweist mir Gutes für den
+Fluch, der mich heute trifft. [fn:3]
+
+<<v13>>
+13 David und seine Männer setzten ihren Weg fort; Schimi ging am
+Berghang neben ihnen her und fluchte ununterbrochen, warf mit Steinen
+nach ihm und bewarf ihn mit Erde.
+
+<<v14>>
+14 Erschöpft kam der König mit allen Leuten, die er bei sich hatte, an
+den Jordan; dort konnte er wieder Atem schöpfen. [fn:4]\\
+\\
+
+<<v15>>
+* Abschalom in Jerusalem: 16,15 - 17,23
+
+15 Abschalom war mit dem ganzen Heer der Israeliten nach Jerusalem
+gekommen; auch Ahitofel war bei ihm. [fn:5]
+
+<<v16>>
+16 Als der Arkiter Huschai, der Freund Davids, zu Abschalom kam, sagte
+er zu Abschalom: Es lebe der König, es lebe der König!
+
+<<v17>>
+17 Abschalom fragte Huschai: So sieht die Liebe zu deinem Freund aus?
+Warum bist du nicht mit deinem Freund gegangen?
+
+<<v18>>
+18 Huschai sagte zu Abschalom: Nein, ich gehöre vielmehr zu dem, den der
+Herr und dieses Volk und alle Israeliten erwählt haben; bei ihm will ich
+bleiben.
+
+<<v19>>
+19 Und außerdem: Wem diene ich denn? Doch nur seinem Sohn. Wie ich vor
+den Augen deines Vaters Dienst getan habe, so will ich auch dir zur
+Verfügung stehen.
+
+<<v20>>
+20 Abschalom sagte zu Ahitofel: Gebt einen Rat, was wir tun sollen.
+
+<<v21>>
+21 Ahitofel sagte zu Abschalom: Geh zu den Nebenfrauen deines Vaters,
+die er hiergelassen hat, um das Haus zu bewachen. So wird ganz Israel
+erfahren, dass du dich bei deinem Vater verhasst gemacht hast, und alle,
+die zu dir halten, werden ermutigt. [fn:6] [fn:7]
+
+<<v22>>
+22 Man errichtete für Abschalom ein Zelt auf dem Dach, und Abschalom
+ging vor den Augen ganz Israels zu den Nebenfrauen seines Vaters. [fn:8]
+
+<<v23>>
+23 Ein Rat, den Ahitofel gab, galt in jenen Tagen so viel, als hätte man
+ein Gotteswort erbeten. So viel galt jeder Rat Ahitofels, bei David wie
+bei Abschalom.
+
+* Footnotes
+
+[fn:1] (3-4) [[file:2.Sam_19.org::v25][19,25-31]]
+
+[fn:2] (5-12) [[file:2.Sam_19.org::v17][19,17-24]]; [[file:1.Kön_2.org::v8][1 Kön 2,8f]]
+
+[fn:3] mein Elend: Text korr. nach G.
+
+[fn:4] an den Jordan: Ortsangabe, die in H fehlt, ergänzt nach G und [[file:2.Sam_15.org::v28][15,28]].
+
+[fn:5] [[file:2.Sam_15.org::v37][15,37]]
+
+[fn:6] [[file:2.Sam_15.org::v16][15,16]]
+
+[fn:7] Der Rat des angesehenen Ahitofel will erreichen, dass
+der Bruch Abschaloms mit seinem Vater unheilbar wird und dass dadurch
+auch die Schwankenden auf die Seite Abschaloms gezogen werden.
+
+[fn:8] [[file:2.Sam_12.org::v11][12,11]]

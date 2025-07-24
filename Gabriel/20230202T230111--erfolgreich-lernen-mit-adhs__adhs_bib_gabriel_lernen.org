@@ -1,0 +1,7 @@
+#+title:      Erfolgreich lernen mit ADHS
+#+date:       [2023-02-02 Do 23:01]
+#+filetags:   :adhs:bib:gabriel:lernen:
+#+identifier: 20230202T230111
+#+reference:  Rietzler.2016
+
+Ein tolles Buch

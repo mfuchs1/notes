@@ -1,0 +1,232 @@
+#+TITLE: Spr 24 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-09-03 Di 23:01]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 24.html
+
+* Spr 24
+
+<<verses>>
+
+<<v1>>
+* Lebensregeln: 24,1-22
+
+1 Sei nicht neidisch auf böse Menschen, /\\
+ such keinen Umgang mit ihnen! [fn:1] [fn:2]\\
+\\
+
+<<v2>>
+2 Denn ihr Herz sinnt auf Gewalttat, /\\
+ Unheil reden ihre Lippen.\\
+\\
+
+<<v3>>
+3 Durch Weisheit wird ein Haus gebaut, /\\
+ durch Umsicht gewinnt es Bestand.\\
+\\
+
+<<v4>>
+4 Durch Klugheit werden die Kammern gefüllt /\\
+ mit allerlei wertvollen, köstlichen Gütern.\\
+\\
+
+<<v5>>
+5 Der Weise ist dem Starken überlegen, /\\
+ ein verständiger Mensch dem robusten. [fn:3]\\
+\\
+
+<<v6>>
+6 Denn durch Überlegung gewinnst du den Kampf, /\\
+ viele Ratgeber verhelfen zum Sieg. [fn:4]\\
+\\
+
+<<v7>>
+7 Zu hoch hängt dem Toren die Weisheit, /\\
+ am Tor tut er den Mund nicht auf. [fn:5]\\
+\\
+
+<<v8>>
+8 Wer stets darauf aus ist, Böses zu tun, /\\
+ den nennt man einen Ränkeschmied.\\
+\\
+
+<<v9>>
+9 Das Trachten des Toren ist Sünde, /\\
+ der Zuchtlose ist den Menschen ein Gräuel.\\
+\\
+
+<<v10>>
+10 Zeigst du dich lässig am Tag der Bedrängnis, /\\
+ so wird auch deine Kraft bedrängt. [fn:6]\\
+\\
+
+<<v11>>
+11 Befrei jene, die man zum Tod schleppt; /\\
+ die zur Hinrichtung wanken, rette sie doch!\\
+\\
+
+<<v12>>
+12 Wolltest du sagen: Gott weiß von uns nichts; - /\\
+ hat er, der die Herzen prüft, keine Kenntnis? /\\
+ Hat er, der über dich wacht, kein Wissen? Ja, er vergilt jedem
+Menschen, /\\
+ wie sein Tun es verdient.\\
+\\
+
+<<v13>>
+13 Iss Honig, mein Sohn, denn er ist gut, /\\
+ Wabenhonig ist süß für den Gaumen.\\
+\\
+
+<<v14>>
+14 Wisse: Genauso ist die Weisheit für dich. /\\
+ Findest du sie, dann gibt es eine Zukunft, /\\
+ deine Hoffnung wird nicht zerschlagen.\\
+\\
+
+<<v15>>
+15 Belaure nicht frevlerisch die Wohnung des Gerechten, /\\
+ zerstöre sein Ruhelager nicht!\\
+\\
+
+<<v16>>
+16 Denn siebenmal fällt der Gerechte und steht wieder auf, /\\
+ doch die Frevler stürzen ins Unglück. [fn:7]\\
+\\
+
+<<v17>>
+17 Freu dich nicht über den Sturz deines Feindes, /\\
+ dein Herz juble nicht, wenn er strauchelt,\\
+\\
+
+<<v18>>
+18 damit nicht der Herr es sieht und missbilligt /\\
+ und seinen Zorn von ihm abwendet.\\
+\\
+
+<<v19>>
+19 Erhitz dich nicht wegen der Übeltäter, /\\
+ ereifere dich nicht wegen der Frevler!\\
+\\
+
+<<v20>>
+20 Denn für den Bösen gibt es keine Zukunft, /\\
+ die Lampe der Frevler erlischt.\\
+\\
+
+<<v21>>
+21 Fürchte den Herrn, mein Sohn, und den König; /\\
+ mit diesen beiden überwirf dich nicht! [fn:8]\\
+\\
+
+<<v22>>
+22 Denn plötzlich geht von ihnen Verderben aus /\\
+ und unvermutet kommt Unheil von beiden.\\
+\\
+
+<<v23>>
+* Weisheitssprüche: 24,23-34
+
+23 Auch folgende Sprichwörter stammen von Weisen: /\\
+ Im Gericht auf die Person sehen ist nicht recht. [fn:9] [fn:10]\\
+\\
+
+<<v24>>
+24 Wer zum Schuldigen sagt: Unschuldig bist du!, /\\
+ den verfluchen die Menschen, /\\
+ verwünschen die Leute.\\
+\\
+
+<<v25>>
+25 Denen aber, die entscheiden, wie es recht ist, geht es gut; /\\
+ über sie kommt Segen und Glück.\\
+\\
+
+<<v26>>
+26 Einen Kuss auf die Lippen gibt, /\\
+ wer richtig antwortet.\\
+\\
+
+<<v27>>
+27 Nimm draußen deine Arbeit auf und bestell dein Feld, /\\
+ danach gründe deinen Hausstand!\\
+\\
+
+<<v28>>
+28 Tritt gegen deinen Nächsten nicht als falscher Zeuge auf, /\\
+ betrüge nicht mit deinen Worten! [fn:11]\\
+\\
+
+<<v29>>
+29 Sag nicht: Wie er mir getan hat, /\\
+ so will ich auch ihm tun, /\\
+ einem jedem will ich vergelten, /\\
+ wie es seine Taten verdienen. [fn:12]\\
+\\
+
+<<v30>>
+30 Am Acker eines Faulen ging ich vorüber, /\\
+ am Weinberg eines unverständigen Menschen:\\
+\\
+
+<<v31>>
+31 Sieh da, er war ganz überwuchert von Disteln, /\\
+ seine Fläche mit Unkraut bedeckt, /\\
+ seine Steinmauer eingerissen.\\
+\\
+
+<<v32>>
+32 Ich sah es und machte mir meine Gedanken, /\\
+ ich betrachtete es und zog die Lehre daraus:\\
+\\
+
+<<v33>>
+33 Noch ein wenig schlafen, noch ein wenig schlummern, /\\
+ noch ein wenig die Arme verschränken, um auszuruhen. [fn:13]\\
+\\
+
+<<v34>>
+34 Da kommt schon die Armut wie ein Strolch über dich, /\\
+ die Not wie ein zudringlicher Bettler.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_37.org::v1][Ps 37,1]]
+
+[fn:2] 1-22: Diese Lebensregeln bilden einen eigenen Abschnitt
+mit zweiundzwanzig Versen entsprechend der Anzahl der Buchstaben im
+hebräischen Alphabet.
+
+[fn:3] [[file:Spr_21.org::v22][21,22]]
+
+[fn:4] [[file:Spr_11.org::v14][11,14]]; [[file:Spr_20.org::v18][20,18]]
+
+[fn:5] 7b: Vgl. die Anmerkung zu [[file:Spr_22.org::v22][22,22b]].
+
+[fn:6] Text von H unklar; wahrscheinlich verderbt. Mit einem
+Wortspiel soll wohl gesagt werden: Wer anderen in der Bedrängnis nicht
+hilft (vgl. V. 11), bringt sich selbst in Bedrängnis.
+
+[fn:7] [[file:Ps_37.org::v24][Ps 37,24]]
+
+[fn:8] [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v17][1 Petr 2,17]]
+
+[fn:9] [[file:Spr_28.org::v21][28,21]]
+
+[fn:10] 23a: Überschrift eines weiteren Anhangs, der bis V. 34
+reicht (vgl. [[file:Spr_22.org::v17][22,17]]). Auch diesen Anhang schließt in VV. 30-34 ein
+Spottlied ab, hier auf den faulen Landwirt.
+
+[fn:11] [[file:Ex_20.org::v16][Ex 20,16]]; [[file:Dtn_5.org::v20][Dtn 5,20]]
+
+[fn:12] [[file:Spr_20.org::v22][20,22]]
+
+[fn:13] (33-34) [[file:Spr_6.org::v10][6,10f]]

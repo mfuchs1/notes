@@ -1,0 +1,314 @@
+:PROPERTIES:
+:ID:       5f6aaa93-5838-4323-81ec-222fbd4780b1
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* -- *1*
+[[file:Sir_2.html][2]] [[file:Sir_3.html][3]] ...
+[[file:Sir_51.html][51]]
+
+--------------
+
+* Sir 1
+  :PROPERTIES:
+  :CUSTOM_ID: sir-1
+  :END:
+
+Als Verfasser des Buches wird in 50,27 und 51,30 ein Weisheitslehrer
+namens »Jesus, Sohn Eleasars, des Sohnes Sirachs« genannt. Die
+hebräisch-jüdische Bezeichnung des Buches lautet kurz Ben Sira; die
+griechische Bibel nennt es Siracides, die lateinische Liber
+Ecclesiasticus. Nach dem Vorwort des griechischen Übersetzers, eines
+Enkels des Verfassers, kommen als Abfassungszeit die Jahre um 180 v.
+Chr. in Betracht; Abfassungsort ist Jerusalem (vgl. die Anmerkung zu
+50,27b).\\
+\\
+Inhaltlich handelt es sich um eine lockere Sammlung von Lebensund
+Verhaltensregeln, mit denen sich der Verfasser vor allem an die Jugend
+wendet, um sie für die Aufgaben und Schwierigkeiten des Lebens zu
+erziehen. Das Werk ist vom Buch der Sprichwörter abhängig, unterscheidet
+sich aber von diesem dadurch, dass es die weisheitlichen Themen mehr
+zusammenhängend und oft in Gegensatzpaaren behandelt: Weisheit und
+Torheit, Armut und Reichtum, Zucht und Zuchtlosigkeit, Gesundheit,
+Krankheit und Tod, Sklaven und Herren, Freunde und Frauen. Haupttugend
+ist immer die Gottesfurcht (Kap. 1). Etwa die Mitte und den Höhepunkt
+des ganzen Buches bildet der Weisheitshymnus in Kap. 24. Nach der
+frommen Naturbetrachtung von 42,15 - 43,33 folgt als letztes Thema das
+»Lob der Väter« (44,1 - 50,24), ein kurzer Überblick über die
+alttestamentliche Heilsgeschichte.\\
+\\
+Der Verfasser verbindet harmonisch die Treue zum althergebrachten
+Glauben mit der Offenheit für die Probleme seiner Zeit. Den Hellenismus,
+der auch in jüdischen Kreisen mehr und mehr Eingang findet, bekämpft er
+nicht, so weit er sich mit der jüdischen Religion vereinbaren lässt. Das
+mosaische Gesetz weitet sich bei ihm zur göttlichen Schöpfungsordnung,
+die für alle Zeiten Wert und Gültigkeit besitzt. So bietet das Buch
+Jesus Sirach über die Zeit des damaligen kulturellen Umbruchs hinaus
+humane und sittlich-religiöse Leitsätze für den Weg zu echter
+Weisheit.\\
+\\
+Als spätes Werk fand dieses Buch keine Aufnahme mehr in den jüdischen
+Kanon. Die Kirche übernahm es wie die anderen deuterokanonischen Bücher
+als Heilige Schrift. Im Neuen Testament, besonders im Jakobusbrief,
+sowie in den frühchristlichen Schriften stehen zahlreiche Anspielungen
+oder sogar Zitate aus dem Buch Jesus Sirach. Hieronymus behauptet, er
+habe den hebräischen Text noch gekannt. Später war das Buch jedoch nur
+noch in den alten Übersetzungen vorhanden. In diesen lassen sich viele
+erklärende und erweiternde Zusätze nachweisen. Im Jahr 1896 und in der
+folgenden Zeit wurden fünf hebräische Handschriftenfragmente aus dem 11.
+oder 12. Jh. n. Chr., die aus einem Abstellraum (»Genisa«) der Synagoge
+in Alt-Kairo stammen, entdeckt, sodass seither etwa zwei Drittel des
+hebräischen Textes bekannt sind. Aber auch diese hebräischen Fragmente
+enthalten einen Text, der Zusätze und Wiederholungen aufweist. Offenbar
+hat man schon im ersten vorchristlichen und bis ins zweite
+nachchristliche Jahrhundert den griechischen wie den hebräischen Text
+der zeitgenössischen Denk- und Sprechweise angepasst. Nahe an die Zeit
+des Verfassers reichen einige wertvolle, freilich nur kurze hebräische
+Fragmente heran, die neuestens in Qumran (6,20-31; 51,12-20) und in
+Masada (39,27 - 44,17 mit Lücken) ans Licht kamen.\\
+\\
+
+<<verses>>
+
+<<v1//5>>
+** Das Vorwort zur griechischen Übersetzung
+   :PROPERTIES:
+   :CUSTOM_ID: das-vorwort-zur-griechischen-übersetzung
+   :END:
+1//5 Vieles und Großes ist uns durch das Gesetz, die Propheten und die
+anderen Schriften, die ihnen folgen, geschenkt worden. Dafür ist Israel
+zu loben wegen seiner Bildung und Weisheit. Doch soll jeder, der sie zu
+lesen versteht, nicht nur sich selbst daran bilden, sondern die
+Gelehrten sollen auch imstande sein, andere durch Wort und Schrift zu
+fördern.
+
+<<v1//6>>
+1//6 So befasste sich mein Großvater Jesus sorgfältig mit dem Gesetz,
+mit den Propheten und mit den anderen von den Vätern überkommenen
+Schriften. Er verschaffte sich eine gründliche Kenntnis von ihnen und
+fühlte sich dann gedrängt, auch selbst etwas zu schreiben, um dadurch
+Bildung und Weisheit zu fördern. Wer es sich mit Liebe aneignet, wird es
+in einem gesetzestreuen Leben noch vermehren. Ihr seid nun aufgefordert,
+mit Wohlwollen und Aufmerksamkeit zu lesen. Doch mögt ihr Nachsicht
+üben, wenn wir vielleicht einige der schwer zu übersetzenden Ausdrücke
+unbefriedigend wiedergegeben haben. Es ist ja nicht gleich, ob man etwas
+in der hebräischen Grundsprache liest oder ob es in eine andere Sprache
+übertragen wird. Nicht nur dieses Buch, sondern auch das Gesetz, die
+Propheten und die übrigen Schriften weisen keinen geringen Unterschied
+auf, wenn man sie in der Grundsprache liest.
+
+<<v1//7>>
+1//7 Ich kam im achtunddreißigsten Jahr des Königs Euergetes nach
+Ägypten und hielt mich dort eine Zeit lang auf. Da ich dort eine ähnlich
+hohe Bildung vorfand, habe ich es für notwendig gehalten, auch selbst
+Fleiß und Mühe aufzuwenden, um dieses Buch zu übersetzen. Inzwischen
+habe ich mit rastlosem Eifer und mit Sachkenntnis das Werk
+abgeschlossen, um es für jene herauszugeben, die sich auch in der Fremde
+weiterbilden wollen und sich vorgenommen haben, nach dem Gesetz zu
+leben. ^{[[#fn1][1]]}\\
+\\
+
+<<v1>>
+** Erziehung zur Weisheit: 1,1 - 4,19
+   :PROPERTIES:
+   :CUSTOM_ID: erziehung-zur-weisheit-11---419
+   :END:
+**** Die Quelle der Weisheit: 1,1-10
+     :PROPERTIES:
+     :CUSTOM_ID: die-quelle-der-weisheit-11-10
+     :END:
+1 Alle Weisheit stammt vom Herrn /\\
+ und ewig ist sie bei ihm. ^{[[#fn2][2]]}\\
+\\
+
+<<v2>>
+2 Den Sand des Meeres, die Tropfen des Regens /\\
+ und die Tage der Vorzeit, wer hat sie gezählt?\\
+\\
+
+<<v3>>
+3 Die Höhe des Himmels, die Breite der Erde /\\
+ und die Tiefe des Meeres, wer hat sie gemessen?\\
+\\
+
+<<v4>>
+4 Früher als sie alle ist die Weisheit erschaffen, /\\
+ von Ewigkeit her die verständige Einsicht.\\
+\\
+
+<<v5>>
+5 []\\
+^{[[#fn3][3]]}\\
+ihre Wege sind die ewigen Gebote. 7 Die Kenntnis der Weisheit, wem wurde
+sie offenbart? Ihre mannigfachen Wege, wer hat sie erkannt?\\
+\\
+
+<<v6>>
+6 Die Wurzel der Weisheit - wem wurde sie enthüllt, /\\
+ ihre Pläne - wer hat sie durchschaut?\\
+\\
+
+<<v7>>
+7 []\\
+\\
+
+<<v8>>
+8 Nur einer ist weise, höchst Ehrfurcht gebietend: /\\
+ der auf seinem Thron sitzt, der Herr.\\
+\\
+
+<<v9>>
+9 Er hat sie geschaffen, geschaut und gezählt, /\\
+ sie ausgegossen über all seine Werke.\\
+\\
+
+<<v10>>
+10 Den Menschen ist sie unterschiedlich zugeteilt; /\\
+ er spendet sie denen, die ihn fürchten. ^{[[#fn4][4]]}\\
+\\
+
+<<v11>>
+**** Die Krone der Weisheit: 1,11-20
+     :PROPERTIES:
+     :CUSTOM_ID: die-krone-der-weisheit-111-20
+     :END:
+11 Die Gottesfurcht ist Ruhm und Ehre, /\\
+ Hoheit ist sie und eine prächtige Krone.\\
+\\
+
+<<v12>>
+12 Die Gottesfurcht macht das Herz froh, /\\
+ sie gibt Freude, Frohsinn und langes Leben. ^{[[#fn5][5]]}\\
+\\
+
+<<v13>>
+13 Dem Gottesfürchtigen geht es am Ende gut, /\\
+ am Tag seines Todes wird er gepriesen. ^{[[#fn6][6]]}\\
+\\
+
+<<v14>>
+14 Anfang der Weisheit ist die Gottesfurcht, /\\
+ den Glaubenden ist sie angeboren. ^{[[#fn7][7]]}\\
+\\
+
+<<v15>>
+15 Bei den Frommen hat sie einen dauernden Wohnsitz /\\
+ und bei ihren Nachkommen wird sie bleiben.\\
+\\
+
+<<v16>>
+16 Fülle der Weisheit ist die Gottesfurcht, /\\
+ sie labt die Menschen mit ihren Früchten.\\
+\\
+
+<<v17>>
+17 Ihr ganzes Haus füllt sie mit Schätzen an, /\\
+ die Speicher mit ihren Gütern. ^{[[#fn8][8]]}\\
+\\
+
+<<v18>>
+18 Krone der Weisheit ist die Gottesfurcht, /\\
+ sie lässt Heil und Gesundheit sprossen.\\
+\\
+
+<<v19>>
+19 Verständnis und weise Einsicht gießt sie aus, /\\
+ sie erhöht den Ruhm aller, die an ihr fest halten.
+^{[[#fn9][9]][[#fn10][10]]}\\
+\\
+
+<<v20>>
+20 Wurzel der Weisheit ist die Gottesfurcht, /\\
+ ihre Zweige sind langes Leben.\\
+\\
+
+<<v21>>
+**** Der Feind der Weisheit: 1,21-30
+     :PROPERTIES:
+     :CUSTOM_ID: der-feind-der-weisheit-121-30
+     :END:
+21 Die Gottesfurcht hält Sünden fern, /\\
+ wer in ihr verbleibt, vertreibt allen Zorn.\\
+\\
+
+<<v22>>
+22 Ungerechter Zorn kann nicht Recht behalten, /\\
+ wütender Zorn bringt zu Fall.\\
+\\
+
+<<v23>>
+23 Der Geduldige hält aus bis zur rechten Zeit, /\\
+ doch dann erfährt er Freude.\\
+\\
+
+<<v24>>
+24 Bis zur rechten Zeit hält er mit seinen Worten zurück, /\\
+ dann werden viele seine Klugheit preisen.\\
+\\
+
+<<v25>>
+25 In den Kammern der Weisheit liegen kluge Sinnsprüche, /\\
+ doch dem Sünder ist die Gottesfurcht ein Gräuel.\\
+\\
+
+<<v26>>
+26 Begehrst du Weisheit, so halte die Gebote /\\
+ und der Herr wird dir die Weisheit schenken.\\
+\\
+
+<<v27>>
+27 Denn die Gottesfurcht ist Weisheit und Bildung, /\\
+ an Treue und Demut hat Gott Gefallen. ^{[[#fn11][11]]}\\
+\\
+
+<<v28>>
+28 Sei nicht misstrauisch gegen die Gottesfurcht /\\
+ und nahe ihr nicht mit zwiespältigem Herzen!\\
+\\
+
+<<v29>>
+29 Sei kein Heuchler vor den Menschen /\\
+ und hab Acht auf deine Lippen!\\
+\\
+
+<<v30>>
+30 Überhebe dich nicht, damit du nicht fällst /\\
+ und Schande über dich bringst; sonst enthüllt der Herr, was du
+verbirgst, /\\
+ und bringt dich zu Fall inmitten der Gemeinde, weil du dich der
+Gottesfurcht genaht hast, /\\
+ obwohl dein Herz voll Trug war. ^{[[#fn12][12]][[#fn13][13]]}\\
+\\
+
+^{[[#fnm1][1]]} Vorwort: Für die Datierung ist die Angabe wichtig, dass
+der Enkel im 38. Jahr des Königs Euergetes (170-111 v. Chr.) nach
+Ägypten kam, also 132 v. Chr. Er wird um 152 v. Chr. geboren sein. Dann
+ist sein Vater vermutlich um 182 v. Chr. geboren. Der Verfasser schrieb
+wahrscheinlich in fortgeschrittenem Alter, wohl nicht vor 180 v. Chr.
+
+^{[[#fnm2][2]]} ℘ Spr 2,6; Weish 7,25
+
+^{[[#fnm3][3]]} 1,5.7: sind spätere Zusätze, sie lauten: 5 Die Quelle
+der Weisheit ist das Wort Gottes in der Höhe; /
+
+^{[[#fnm4][4]]} 10b: So mit einigen Textzeugen und nach dem
+Zusammenhang; die meisten G-Handschriften: die ihn lieben.
+
+^{[[#fnm5][5]]} ℘ Spr 4,10
+
+^{[[#fnm6][6]]} ℘ 11,28
+
+^{[[#fnm7][7]]} ℘ Spr 1,7; Ps 111,10
+
+^{[[#fnm8][8]]} ℘ Spr 8,18f
+
+^{[[#fnm9][9]]} ℘ Spr 4,8
+
+^{[[#fnm10][10]]} 19a: Oder mit S: Sie ist ein starker Stab und eine
+herrliche Stütze.
+
+^{[[#fnm11][11]]} ℘ Spr 15,33
+
+^{[[#fnm12][12]]} ℘ Spr 16,18
+
+^{[[#fnm13][13]]} So mit S. - Vg zählt in Kap. 1 40 Verse.

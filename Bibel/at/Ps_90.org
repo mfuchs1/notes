@@ -1,0 +1,137 @@
+#+TITLE: Ps 90 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-05 Mo 15:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 90.html
+
+* Ps 90
+
+<<verses>>
+
+<<v1>>
+* Das vierte Buch
+
+* Der ewige Gott - der vergängliche Mensch
+
+1 [Ein Gebet des Mose, des Mannes Gottes.] Herr, du warst unsere
+Zuflucht /\\
+ von Geschlecht zu Geschlecht.\\
+\\
+
+<<v2>>
+2 Ehe die Berge geboren wurden, /\\
+ die Erde entstand und das Weltall, /\\
+ bist du, o Gott, von Ewigkeit zu Ewigkeit.\\
+\\
+
+<<v3>>
+3 Du lässt die Menschen zurückkehren zum Staub /\\
+ und sprichst: «Kommt wieder, ihr Menschen!» [fn:1]\\
+\\
+
+<<v4>>
+4 Denn tausend Jahre sind für dich /\\
+ wie der Tag, der gestern vergangen ist, /\\
+ wie eine Wache in der Nacht. [fn:2]\\
+\\
+
+<<v5>>
+5 Von Jahr zu Jahr säst du die Menschen aus; /\\
+ sie gleichen dem sprossenden Gras. [fn:3] [fn:4]\\
+\\
+
+<<v6>>
+6 Am Morgen grünt es und blüht, /\\
+ am Abend wird es geschnitten und welkt.\\
+\\
+
+<<v7>>
+7 Denn wir vergehen durch deinen Zorn, /\\
+ werden vernichtet durch deinen Grimm. [fn:5]\\
+\\
+
+<<v8>>
+8 Du hast unsre Sünden vor dich hingestellt, /\\
+ unsere geheime Schuld in das Licht deines Angesichts. [fn:6]\\
+\\
+
+<<v9>>
+9 Denn all unsre Tage gehn hin unter deinem Zorn, /\\
+ wir beenden unsere Jahre wie einen Seufzer. [fn:7]\\
+\\
+
+<<v10>>
+10 Unser Leben währt siebzig Jahre, /\\
+ und wenn es hoch kommt, sind es achtzig. Das Beste daran ist nur Mühsal
+und Beschwer, /\\
+ rasch geht es vorbei, wir fliegen dahin. [fn:8]\\
+\\
+
+<<v11>>
+11 Wer kennt die Gewalt deines Zornes /\\
+ und fürchtet sich vor deinem Grimm? [fn:9]\\
+\\
+
+<<v12>>
+12 Unsre Tage zu zählen, lehre uns! /\\
+ Dann gewinnen wir ein weises Herz. [fn:10]\\
+\\
+
+<<v13>>
+13 Herr, wende dich uns doch endlich zu! /\\
+ Hab Mitleid mit deinen Knechten!\\
+\\
+
+<<v14>>
+14 Sättige uns am Morgen mit deiner Huld! /\\
+ Dann wollen wir jubeln und uns freuen all unsre Tage. [fn:11]\\
+\\
+
+<<v15>>
+15 Erfreue uns so viele Tage, wie du uns gebeugt hast, /\\
+ so viele Jahre, wie wir Unglück erlitten.\\
+\\
+
+<<v16>>
+16 Zeig deinen Knechten deine Taten /\\
+ und ihren Kindern deine erhabene Macht! [fn:12]\\
+\\
+
+<<v17>>
+17 Es komme über uns die Güte des Herrn, unsres Gottes. /\\
+ Lass das Werk unsrer Hände gedeihen, /\\
+ ja, lass gedeihen das Werk unsrer Hände!\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_146.org::v4][146,4]]
+
+[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/2.Petr_3.org::v8][2 Petr 3,8]]
+
+[fn:3] (5-6) [[file:Ps_37.org::v2][37,2]]; [[file:Ps_58.org::v8][58,8]]; [[file:Ps_102.org::v12][102,12]]; [[file:Ps_103.org::v15][103,15]]; [[file:Ijob_14.org::v2][Ijob 14,2]]; [[file:Jes_40.org::v6][Jes 40,6f]]
+
+[fn:4] Text korr.
+
+[fn:5] werden vernichtet, wörtlich: werden erschreckt.
+
+[fn:6] [[file:Ps_109.org::v15][109,15]]; [[file:Hos_7.org::v2][Hos 7,2]]
+
+[fn:7] (9-10) [[file:Ps_39.org::v6][39,6]]; [[file:Ps_89.org::v48][89,48]]; [[file:Ps_102.org::v12][102,12]]; [[file:Ps_109.org::v23][109,23]]; [[file:Ps_144.org::v4][144,4]]; [[file:Ijob_7.org::v6][Ijob 7,6]].[[file:Ijob_7.org::v16][16]]; [[file:Ijob_14.org::v1][14,1f]]; [[file:Koh_6.org::v12][Koh 6,12]]; [[file:Weish_2.org::v5][Weish 2,5]]
+
+[fn:8] [[file:Gen_6.org::v3][Gen 6,3]]; [[file:Sir_18.org::v9][Sir 18,9]]
+
+[fn:9] Text korr.; H: und wie die Furcht vor dir ist dein Grimm.
+
+[fn:10] [[file:Ps_39.org::v5][39,5f]]
+
+[fn:11] [[file:Ps_46.org::v6][46,6]]; [[file:Ps_143.org::v8][143,8]]; [[file:Klgl_3.org::v23][Klgl 3,23]]
+
+[fn:12] [[file:Jes_5.org::v12][Jes 5,12]]

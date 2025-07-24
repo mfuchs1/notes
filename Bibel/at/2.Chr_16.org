@@ -1,0 +1,98 @@
+#+TITLE: 2 Chr 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 16.html
+
+* 2.Chr 16
+
+<<verses>>
+
+<<v1>>
+1 Im sechsunddreißigsten Regierungsjahr Asas zog Bascha, der König von
+Israel, gegen Juda und baute Rama aus, um Asa, den König von Juda, daran
+zu hindern, in den Krieg zu ziehen. [fn:1]
+
+<<v2>>
+2 Da nahm Asa Silber und Gold aus den Schatzkammern des Tempels und des
+königlichen Palastes und sandte es an Ben-Hadad, den König von Aram, der
+in Damaskus seinen Sitz hatte. Dabei ließ er ihm sagen:
+
+<<v3>>
+3 Zwischen mir und dir, zwischen meinem Vater und deinem Vater soll ein
+Bündnis sein. Ich schicke dir Silber und Gold. Löse also dein Bündnis
+mit Bascha, dem König von Israel, damit er von mir abzieht.
+
+<<v4>>
+4 Ben-Hadad hörte auf König Asa. Er sandte seine Heerführer gegen die
+Städte Israels und diese verwüsteten Ijon, Dan und Abel-Majim sowie alle
+Vorratshäuser in den Städten Naftalis. [fn:2]
+
+<<v5>>
+5 Als Bascha das erfuhr, hörte er auf, Rama auszubauen, und stellte die
+Arbeit ein.
+
+<<v6>>
+6 König Asa aber holte ganz Juda herbei und ließ die Steine und Balken
+wegnehmen, mit denen Bascha Rama ausgebaut hatte. Mit ihnen baute er
+Geba und Mizpa aus.
+
+<<v7>>
+7 Damals kam der Seher Hanani zu Asa, dem König von Juda, und hielt ihm
+vor: Weil du dich auf den König von Aram gestützt hast und nicht auf den
+Herrn, deinen Gott, darum ist das Heer des Königs von Aram deiner Hand
+entkommen.
+
+<<v8>>
+8 Hatten nicht auch die Kuschiter und Libyer ein gewaltiges Heer mit
+sehr vielen Wagen und Wagenkämpfern? Weil du dich aber auf den Herrn
+stütztest, gab er es in deine Gewalt. [fn:3]
+
+<<v9>>
+9 Denn die Augen des Herrn schweifen über die ganze Erde, um denen ein
+starker Helfer zu sein, die mit ungeteiltem Herzen zu ihm halten. Hierin
+hast du töricht gehandelt, denn von nun an wirst du Krieg haben.
+
+<<v10>>
+10 Asa aber wurde zornig über den Seher. Er ließ ihn im Gefängnis in den
+Block legen, denn er war über ihn sehr aufgebracht. Auch einige aus dem
+Volk ließ Asa damals misshandeln.\\
+\\
+
+<<v11>>
+* Der Tod Asas: 16,11-14
+
+11 Die frühere und die spätere Geschichte Asas ist aufgezeichnet im Buch
+der Könige von Juda und Israel. [fn:4]
+
+<<v12>>
+12 Im neununddreißigsten Jahr seiner Regierung erkrankte Asa an den
+Füßen. Die Krankheit war sehr heftig. Aber auch in der Krankheit suchte
+er nicht den Herrn, sondern die Ärzte.
+
+<<v13>>
+13 Asa entschlief zu seinen Vätern; er starb im einundvierzigsten Jahr
+seiner Regierung.
+
+<<v14>>
+14 Man setzte ihn bei in seiner Grabstätte, die er sich in der
+Davidstadt angelegt hatte. Man legte ihn auf ein Lager, das mit Balsam
+und allerlei kunstvoll zubereiteten Salben ausgestattet war, und zündete
+zu seiner Ehre ein gewaltiges Feuer an.\\
+\\
+
+* Footnotes
+
+[fn:1] Vgl. die Anmerkung zu [[file:1.Kön_15.org::v17][1 Kön 15,17]].
+
+[fn:2] Abel-Majim heißt in [[file:1.Kön_15.org::v20][1 Kön 15,20]] Abel-Bet-Maacha.
+
+[fn:3] [[file:1.Kön_14.org::v7][14,7-14]]
+
+[fn:4] (11-14) [[file:1.Kön_15.org::v23][1 Kön 15,23f]]

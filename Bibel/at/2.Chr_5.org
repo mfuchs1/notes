@@ -1,0 +1,102 @@
+#+TITLE: 2 Chr 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-21 Di 22:52]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 5.html
+
+* 2.Chr 5
+
+<<verses>>
+
+<<v1>>
+1 So wurden alle Arbeiten, die Salomo für das Haus des Herrn ausführen
+ließ, vollendet. Dann brachte er die Weihegaben seines Vaters David
+hinein und legte das Silber, das Gold und alle Geräte in die
+Schatzkammern des Hauses Gottes.\\
+\\
+
+<<v2>>
+* Die Übertragung der Bundeslade: 5,2 - 6,2
+
+2 Damals versammelte Salomo die Ältesten Israels, alle Stammesführer und
+die Anführer der israelitischen Großfamilien in Jerusalem, um die
+Bundeslade des Herrn aus der Stadt Davids, das ist Zion, heraufzuholen. [fn:1]
+
+<<v3>>
+3 Am Fest, das ist im siebten Monat, kamen alle Männer Israels beim
+König zusammen. [fn:2]
+
+<<v4>>
+4 In Gegenwart aller Ältesten Israels nahmen die Leviten die Lade
+
+<<v5>>
+5 und brachten sie zugleich mit dem Offenbarungszelt und den heiligen
+Geräten, die im Zelt waren, hinauf. Die Priester und die Leviten
+übernahmen den Trägerdienst.
+
+<<v6>>
+6 König Salomo aber und die ganze Gemeinde Israels, die bei ihm vor der
+Lade versammelt war, schlachteten Schafe und Rinder, die man wegen ihrer
+Menge nicht zählen und nicht berechnen konnte.
+
+<<v7>>
+7 Darauf stellten die Priester die Bundeslade des Herrn an ihren Platz,
+in die Gotteswohnung des Hauses, in das Allerheiligste, unter die Flügel
+der Kerubim.
+
+<<v8>>
+8 Denn die Kerubim breiteten ihre Flügel über den Ort, wo die Lade
+stand, und bedeckten sie und ihre Stangen von oben her.
+
+<<v9>>
+9 Die Stangen waren so lang, dass man ihre Spitzen an der Lade vor der
+Gotteswohnung sehen konnte; draußen aber waren sie nicht zu sehen. Sie
+blieben dort bis zum heutigen Tag. [fn:3]
+
+<<v10>>
+10 In der Lade befanden sich nur die zwei Tafeln, die Mose am Horeb
+hineingelegt hatte, die Tafeln des Bundes, den der Herr mit den
+Israeliten beim Auszug aus Ägypten geschlossen hatte.
+
+<<v11>>
+11 Darauf traten die Priester aus dem Heiligtum. Alle, die gekommen
+waren, unabhängig davon, zu welcher Abteilung sie gehörten, hatten sich
+geheiligt. [fn:4]
+
+<<v12>>
+12 Die levitischen Sänger, Asaf, Heman, Jedutun, ihre Söhne und Brüder,
+standen alle, in Byssus gekleidet, mit Zimbeln, Harfen und Zithern an
+der Ostseite des Altars. Bei ihnen waren hundertzwanzig Priester, die
+auf Trompeten bliesen.
+
+<<v13>>
+13 Es kam wie aus einem Mund, wenn die Trompeter und Sänger gleichzeitig
+zum Lob und Preis des Herrn sich vernehmen ließen. Als sie mit ihren
+Trompeten, Zimbeln und Musikinstrumenten einsetzten und den Herrn
+priesen, «Denn er ist gütig, denn seine Huld währt ewig», erfüllte eine
+Wolke den Tempel, das Haus des Herrn. [fn:5]
+
+<<v14>>
+14 Die Priester konnten wegen der Wolke ihren Dienst nicht verrichten;
+denn die Herrlichkeit des Herrn erfüllte das Haus Gottes.
+
+* Footnotes
+
+[fn:1] (2-6,2) [[file:1.Kön_8.org::v1][1 Kön 8,1-13]]
+
+[fn:2] Das Fest ist das Laubhüttenfest.
+
+[fn:3] bis zum heutigen Tag: Der Chronist übernahm diese
+Bemerkung unverändert seiner Vorlage. Der Tempel war 586 v. Chr.
+zerstört worden. Zur Zeit des Chronisten war die Bundeslade nicht mehr
+vorhanden.
+
+[fn:4] 11-13: Fehlt in 1 Kön.
+
+[fn:5] [[file:Ps_106.org::v1][Ps 106,1]]; [[file:Ps_107.org::v1][107,1]]; [[file:Ps_118.org::v1][118,1]]; [[file:Ps_136.org][136]]

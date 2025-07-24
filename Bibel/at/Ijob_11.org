@@ -1,0 +1,143 @@
+#+TITLE: Ijob 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 21:56]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 11.html
+
+<<verses>>
+
+<<v1>>
+* Die erste Rede Zofars: 11,1-20
+
+* Die Größe Gottes: 11,1-12
+
+1 Da antwortete Zofar von Naama und sprach:\\
+\\
+
+<<v2>>
+2 Soll dieser Wortschwall ohne Antwort bleiben /\\
+ und soll der Maulheld Recht behalten?\\
+\\
+
+<<v3>>
+3 Dein Geschwätz lässt Männer schweigen, /\\
+ du darfst spotten, ohne dass einer dich beschämt.\\
+\\
+
+<<v4>>
+4 Du sagtest: Rein ist meine Lehre /\\
+ und lauter war ich stets in deinen Augen.\\
+\\
+
+<<v5>>
+5 O, dass Gott doch selber spräche, /\\
+ seine Lippen öffnete gegen dich.\\
+\\
+
+<<v6>>
+6 Er würde dich der Weisheit Tiefen lehren, /\\
+ dass sie wie Wunder sind für den klugen Verstand. /\\
+ Wisse, dass Gott dich zur Rechenschaft zieht in deiner Schuld. [fn:1] [fn:2]\\
+\\
+
+<<v7>>
+7 Die Tiefen Gottes willst du finden, /\\
+ bis zur Vollkommenheit des Allmächtigen vordringen? [fn:3]\\
+\\
+
+<<v8>>
+8 Höher als der Himmel ist sie, was machst du da? /\\
+ Tiefer als die Unterwelt, was kannst du wissen? [fn:4] [fn:5]\\
+\\
+
+<<v9>>
+9 Länger als die Erde ist ihr Maß, /\\
+ breiter ist sie als das Meer.\\
+\\
+
+<<v10>>
+10 Wenn er daherfährt und gefangen nimmt, /\\
+ wenn er zusammentreibt, wer hält ihn ab?\\
+\\
+
+<<v11>>
+11 Denn er kennt die falschen Leute, /\\
+ sieht das Unrecht und nimmt es wahr.\\
+\\
+
+<<v12>>
+12 Kommt denn ein Hohlkopf zur Besinnung, /\\
+ wird ein Wildesel als ein Mensch geboren? [fn:6]\\
+\\
+
+<<v13>>
+* Die Aufgabe des Menschen: 11,13-20
+
+13 Wenn du selbst dein Herz in Ordnung bringst /\\
+ und deine Hände zu ihm ausbreitest -\\
+\\
+
+<<v14>>
+14 wenn Unrecht klebt an deiner Hand, entfern es /\\
+ und lass nicht Schlechtigkeit in deinem Zelte wohnen! -, [fn:7]\\
+\\
+
+<<v15>>
+15 dann kannst du makellos deine Augen erheben, /\\
+ fest stehst du da und brauchst dich nicht zu fürchten.\\
+\\
+
+<<v16>>
+16 Dann wirst du auch das Ungemach vergessen, /\\
+ du denkst daran wie an Wasser, das verlief. [fn:8]\\
+\\
+
+<<v17>>
+17 Heller als der Mittag erhebt sich dann dein Leben, /\\
+ die Dunkelheit wird wie der Morgen sein. [fn:9]\\
+\\
+
+<<v18>>
+18 Du fühlst dich sicher, weil noch Hoffnung ist; /\\
+ geborgen bist du, du kannst in Ruhe schlafen. [fn:10]\\
+\\
+
+<<v19>>
+19 Du kannst dich lagern, ohne dass jemand dich schreckt, /\\
+ und viele mühen sich um deine Gunst.\\
+\\
+
+<<v20>>
+20 Doch der Frevler Augen verschmachten, /\\
+ jede Zuflucht schwindet ihnen; /\\
+ ihr Hoffen ist, das Leben auszuhauchen.\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ijob_32.org::v13][32,13]]; [[file:Sir_4.org::v18][Sir 4,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_11.org::v33][Röm 11,33]]
+
+[fn:2] Wunder: Text korr. - dass Gott dich zur Rechenschaft
+zieht: Text korr.; H: dass Gott deiner Schuld Vergessen schenkt.
+
+[fn:3] [[file:Ps_139.org::v17][Ps 139,17]]
+
+[fn:4] [[file:Ps_139.org::v8][Ps 139,8]]
+
+[fn:5] Höher als: Text korr.
+
+[fn:6] [[file:Ijob_39.org::v5][39,5]]-[[file:Ijob_39.org::v8][8]]
+
+[fn:7] in deinem Zelte: Text korr.; in H Mehrzahl.
+
+[fn:8] [[file:Ps_58.org::v8][Ps 58,8]]
+
+[fn:9] [[file:Ijob_17.org::v12][17,12]]
+
+[fn:10] geborgen bist du: Text korr.

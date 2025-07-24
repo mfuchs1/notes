@@ -1,0 +1,262 @@
+#+TITLE: Ijob 38 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 23:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 38.html
+
+<<verses>>
+
+<<v1>>
+* Die Antwort Gottes: 38,1 - 41,26
+
+* Die erste Rede Gottes
+
+* Fragen zum Geheimnis der Schöpfung: 38,1 - 40,2
+
+1 Da antwortete der Herr dem Ijob aus dem Wettersturm und sprach: [fn:1]\\
+\\
+
+<<v2>>
+2 Wer ist es, der den Ratschluss verdunkelt /\\
+ mit Gerede ohne Einsicht? [fn:2]\\
+\\
+
+<<v3>>
+3 Auf, gürte deine Lenden wie ein Mann: /\\
+ Ich will dich fragen, du belehre mich!\\
+\\
+
+<<v4>>
+4 Wo warst du, als ich die Erde gegründet? /\\
+ Sag es denn, wenn du Bescheid weißt. [fn:3]\\
+\\
+
+<<v5>>
+5 Wer setzte ihre Maße? Du weißt es ja. /\\
+ Wer hat die Messschnur über ihr gespannt? [fn:4]\\
+\\
+
+<<v6>>
+6 Wohin sind ihre Pfeiler eingesenkt? /\\
+ Oder wer hat ihren Eckstein gelegt, [fn:5]\\
+\\
+
+<<v7>>
+7 als alle Morgensterne jauchzten, /\\
+ als jubelten alle Gottessöhne? [fn:6]\\
+\\
+
+<<v8>>
+8 Wer verschloss das Meer mit Toren, /\\
+ als schäumend es dem Mutterschoß entquoll, [fn:7] [fn:8]\\
+\\
+
+<<v9>>
+9 als Wolken ich zum Kleid ihm machte, /\\
+ ihm zur Windel dunklen Dunst,\\
+\\
+
+<<v10>>
+10 als ich ihm ausbrach meine Grenze, /\\
+ ihm Tor und Riegel setzte\\
+\\
+
+<<v11>>
+11 und sprach: Bis hierher darfst du und nicht weiter, /\\
+ hier muss sich legen deiner Wogen Stolz? [fn:9]\\
+\\
+
+<<v12>>
+12 Hast du je in deinem Leben dem Morgen geboten, /\\
+ dem Frührot seinen Ort bestimmt,\\
+\\
+
+<<v13>>
+13 dass es der Erde Säume fasse /\\
+ und dass die Frevler von ihr abgeschüttelt werden?\\
+\\
+
+<<v14>>
+14 Sie wandelt sich wie Siegelton, /\\
+ (die Dinge) stehen da wie ein Gewand.\\
+\\
+
+<<v15>>
+15 Den Frevlern wird ihr Licht entzogen, /\\
+ zerschmettert der erhobene Arm.\\
+\\
+
+<<v16>>
+16 Bist du zu den Quellen des Meeres gekommen, /\\
+ hast du des Urgrunds Tiefe durchwandert?\\
+\\
+
+<<v17>>
+17 Haben dir sich die Tore des Todes geöffnet, /\\
+ hast du der Finsternis Tore geschaut?\\
+\\
+
+<<v18>>
+18 Hast du der Erde Breiten überblickt? /\\
+ Sag es, wenn du das alles weißt.\\
+\\
+
+<<v19>>
+19 Wo ist der Weg zur Wohnstatt des Lichts? /\\
+ Die Finsternis, wo hat sie ihren Ort,\\
+\\
+
+<<v20>>
+20 dass du sie einführst in ihren Bereich, /\\
+ die Pfade zu ihrem Haus sie führst? [fn:10]\\
+\\
+
+<<v21>>
+21 Du weißt es ja; du wurdest damals ja geboren /\\
+ und deiner Tage Zahl ist groß.\\
+\\
+
+<<v22>>
+22 Bist du zu den Kammern des Schnees gekommen, /\\
+ hast du die Kammern des Hagels gesehen, [fn:11]\\
+\\
+
+<<v23>>
+23 den ich für Zeiten der Drangsal aufgespart, /\\
+ für den Tag des Kampfes und der Schlacht? [fn:12]\\
+\\
+
+<<v24>>
+24 Wo ist der Weg dorthin, wo das Licht sich verteilt, /\\
+ der Ostwind sich über die Erde zerstreut?\\
+\\
+
+<<v25>>
+25 Wer grub der Regenflut eine Rinne, /\\
+ einen Weg für das Donnergewölk, [fn:13]\\
+\\
+
+<<v26>>
+26 um Regen zu senden auf unbewohntes Land, /\\
+ auf die Steppe, darin niemand wohnt,\\
+\\
+
+<<v27>>
+27 um zu sättigen die Wildnis und Öde /\\
+ und frisches Gras sprossen zu lassen?\\
+\\
+
+<<v28>>
+28 Hat der Regen einen Vater /\\
+ oder wer zeugte die Tropfen des Taus?\\
+\\
+
+<<v29>>
+29 Aus wessen Schoß ging das Eis hervor, /\\
+ des Himmels Reif, wer hat ihn geboren?\\
+\\
+
+<<v30>>
+30 Wie Stein erstarren die Wasser /\\
+ und wird fest die Fläche der Flut. [fn:14]\\
+\\
+
+<<v31>>
+31 Knüpfst du die Bande des Siebengestirns /\\
+ oder löst du des Orions Fesseln? [fn:15]\\
+\\
+
+<<v32>>
+32 Führst du heraus des Tierkreises Sterne zur richtigen Zeit, /\\
+ lenkst du die Löwin samt ihren Jungen?\\
+\\
+
+<<v33>>
+33 Kennst du die Gesetze des Himmels, /\\
+ legst du auf die Erde seine Urkunde nieder?\\
+\\
+
+<<v34>>
+34 Erhebst du zu den Wolken deine Stimme, /\\
+ dass dich die Woge des Wassers bedeckt?\\
+\\
+
+<<v35>>
+35 Entsendest du die Blitze, dass sie eilen /\\
+ und dir sagen: Wir sind da? [fn:16]\\
+\\
+
+<<v36>>
+36 Wer verlieh dem Ibis Weisheit /\\
+ oder wer gab Einsicht dem Hahn?\\
+\\
+
+<<v37>>
+37 Wer zählt in Weisheit die Wolken, /\\
+ und die Schläuche des Himmels, wer schüttet sie aus,\\
+\\
+
+<<v38>>
+38 wenn der Erdboden hart wird, als sei er gegossen, /\\
+ und Erdschollen zusammenkleben?\\
+\\
+
+<<v39>>
+39 Erjagst du Beute für die Löwin, /\\
+ stillst du den Hunger der jungen Löwen, [fn:17]\\
+\\
+
+<<v40>>
+40 wenn sie sich ducken in den Verstecken, /\\
+ im Dickicht auf der Lauer liegen?\\
+\\
+
+<<v41>>
+41 Wer bereitet dem Raben seine Nahrung, /\\
+ wenn seine Jungen schreien zu Gott und umherirren ohne Futter? [fn:18]\\
+\\
+
+* Footnotes
+
+[fn:1] 1-39,30: In diesen beiden Kapiteln ist die Nachwirkung
+der sog. weisheitlichen Listenwissenschaft des Alten Orient erkennbar.
+
+[fn:2] [[file:Ijob_42.org::v3][42,3]]; [[file:Jdt_8.org::v12][Jdt 8,12]]; [[file:Jes_40.org::v13][Jes 40,13]]
+
+[fn:3] [[file:Jes_40.org::v12][Jes 40,12]]
+
+[fn:4] [[file:Sach_1.org::v16][Sach 1,16]]
+
+[fn:5] [[file:Ps_118.org::v22][Ps 118,22]]
+
+[fn:6] [[file:Ps_19.org::v2][Ps 19,2]]; [[file:Ps_148.org::v2][148,2f]]; [[file:Bar_3.org::v34][Bar 3,34f]]
+
+[fn:7] [[file:2.Makk_9.org::v8][2 Makk 9,8]]; [[file:Ps_33.org::v7][Ps 33,7]]
+
+[fn:8] Wer: Text korr.
+
+[fn:9] [[file:Ps_65.org::v8][Ps 65,8]]; [[file:Ps_104.org::v6][104,6]]-[[file:Ps_104.org::v9][9]]; [[file:Spr_8.org::v29][Spr 8,29]]
+
+[fn:10] sie führst: Text korr.; H: begreifst.
+
+[fn:11] [[file:Ps_147.org::v17][Ps 147,17]]; [[file:Sir_43.org::v14][Sir 43,14f]]
+
+[fn:12] [[file:Ex_9.org::v18][Ex 9,18]]-[[file:Ex_9.org::v26][26]]
+
+[fn:13] [[file:Jes_30.org::v30][Jes 30,30]]
+
+[fn:14] erstarren, wörtlich: verbergen sich.
+
+[fn:15] [[file:Ijob_9.org::v9][9,9]]; [[file:Am_5.org::v8][Am 5,8]]
+
+[fn:16] [[file:Bar_3.org::v35][Bar 3,35]]
+
+[fn:17] [[file:Ps_104.org::v21][Ps 104,21f]]
+
+[fn:18] [[file:Ps_147.org::v9][Ps 147,9]]

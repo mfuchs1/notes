@@ -1,0 +1,140 @@
+#+TITLE: Ps 91 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-05 Mo 16:01]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 91.html
+
+* Ps 91
+
+<<verses>>
+
+<<v1>>
+* Unter dem Schutz des Höchsten
+
+1 Wer im Schutz des Höchsten wohnt /\\
+ und ruht im Schatten des Allmächtigen,\\
+\\
+
+<<v2>>
+2 der sagt zum Herrn: «Du bist für mich Zuflucht und Burg, /\\
+ mein Gott, dem ich vertraue.» [fn:1] [fn:2]\\
+\\
+
+<<v3>>
+3 Er rettet dich aus der Schlinge des Jägers /\\
+ und aus allem Verderben. [fn:3] [fn:4]\\
+\\
+
+<<v4>>
+4 Er beschirmt dich mit seinen Flügeln, /\\
+ unter seinen Schwingen findest du Zuflucht, /\\
+ Schild und Schutz ist dir seine Treue. [fn:5]\\
+\\
+
+<<v5>>
+5 Du brauchst dich vor dem Schrecken der Nacht nicht zu fürchten, /\\
+ noch vor dem Pfeil, der am Tag dahinfliegt, [fn:6]\\
+\\
+
+<<v6>>
+6 nicht vor der Pest, die im Finstern schleicht, /\\
+ vor der Seuche, die wütet am Mittag. [fn:7]\\
+\\
+
+<<v7>>
+7 Fallen auch tausend zu deiner Seite, /\\
+ dir zur Rechten zehnmal tausend, /\\
+ so wird es doch dich nicht treffen. [fn:8]\\
+\\
+
+<<v8>>
+8 Ja, du wirst es sehen mit eigenen Augen, /\\
+ wirst zuschauen, wie den Frevlern vergolten wird. [fn:9]\\
+\\
+
+<<v9>>
+9 Denn der Herr ist deine Zuflucht, /\\
+ du hast dir den Höchsten als Schutz erwählt. [fn:10]\\
+\\
+
+<<v10>>
+10 Dir begegnet kein Unheil, /\\
+ kein Unglück naht deinem Zelt. [fn:11]\\
+\\
+
+<<v11>>
+11 Denn er befiehlt seinen Engeln, /\\
+ dich zu behüten auf all deinen Wegen. [fn:12]\\
+\\
+
+<<v12>>
+12 Sie tragen dich auf ihren Händen, /\\
+ damit dein Fuß nicht an einen Stein stößt; [fn:13]\\
+\\
+
+<<v13>>
+13 du schreitest über Löwen und Nattern, /\\
+ trittst auf Löwen und Drachen. [fn:14]\\
+\\
+
+<<v14>>
+14 «Weil er an mir hängt, will ich ihn retten; /\\
+ ich will ihn schützen, denn er kennt meinen Namen. [fn:15]\\
+\\
+
+<<v15>>
+15 Wenn er mich anruft, dann will ich ihn erhören. /\\
+ Ich bin bei ihm in der Not, /\\
+ befreie ihn und bringe ihn zu Ehren. [fn:16]\\
+\\
+
+<<v16>>
+16 Ich sättige ihn mit langem Leben /\\
+ und lasse ihn schauen mein Heil.» [fn:17]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ps_18.org::v3][18,3]]
+
+[fn:2] Text korr. nach G.
+
+[fn:3] [[file:Ps_127.org::v7][124,7]]
+
+[fn:4] Andere Übersetzungsmöglichkeit: und aus der Pest des
+Verderbens; oder: und vor dem (Verderben bringenden) Wort (G). Die
+hebräischen Ausdrücke für Pest (deber) und Wort (dabar) können leicht
+verwechselt werden, zumal man keine Vokale schrieb.
+
+[fn:5] [[file:Ps_17.org::v7][17,7f]]
+
+[fn:6] [[file:Spr_3.org::v25][Spr 3,25]]
+
+[fn:7] [[file:Jer_15.org::v8][Jer 15,8]]
+
+[fn:8] [[file:Dtn_7.org::v15][Dtn 7,15]]
+
+[fn:9] [[file:Ps_54.org::v9][54,9]]; [[file:Ps_62.org::v13][62,13]]
+
+[fn:10] H: Denn du, Herr, bist meine Zuflucht.
+
+[fn:11] [[file:Ijob_5.org::v19][Ijob 5,19]].[[file:Ijob_5.org::v24][24]]
+
+[fn:12] [[file:Ps_34.org::v8][34,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_1.org::v14][Hebr 1,14]]; (11-12) [[file:~/RoamNotes/notes/Bibel/nt/Mt_4.org::v6][Mt 4,6]]
+
+[fn:13] [[file:Spr_3.org::v23][Spr 3,23]]
+
+[fn:14] [[file:~/RoamNotes/notes/Bibel/nt/Lk_10.org::v19][Lk 10,19]]
+
+[fn:15] [[file:Ps_9.org::v11][9,11]]; [[file:Ps_119.org::v132][119,132]]
+
+[fn:16] [[file:Ps_50.org::v15][50,15]]; [[file:Sach_13.org::v9][Sach 13,9]]
+
+[fn:17] [[file:Ps_50.org::v23][50,23]]

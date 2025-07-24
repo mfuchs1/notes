@@ -1,0 +1,152 @@
+:PROPERTIES:
+:ID:       c8df3f69-a7f1-4108-854a-0a95f21427a9
+:END:
+<<navbar>>
+[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
+[Quadro-Bibel 5.0]]] -- *Das Buch Jesaja* -- [[file:Jes_1.html][1]] ...
+[[file:Jes_9.html][9]] [[file:Jes_10.html][10]] *11*
+[[file:Jes_12.html][12]] [[file:Jes_13.html][13]] ...
+[[file:Jes_66.html][66]]
+
+--------------
+
+* Jes 11
+  :PROPERTIES:
+  :CUSTOM_ID: jes-11
+  :END:
+
+<<verses>>
+
+<<v1>>
+**** Die Ankündigung des messianischen Reiches: 11,1-16
+     :PROPERTIES:
+     :CUSTOM_ID: die-ankündigung-des-messianischen-reiches-111-16
+     :END:
+1 Doch aus dem Baumstumpf Isais wächst ein Reis hervor, /\\
+ ein junger Trieb aus seinen Wurzeln bringt Frucht.\\
+\\
+
+<<v2>>
+2 Der Geist des Herrn lässt sich nieder auf ihm: /\\
+ der Geist der Weisheit und der Einsicht, der Geist des Rates und der
+Stärke, /\\
+ der Geist der Erkenntnis und der Gottesfurcht.\\
+\\
+
+<<v3>>
+3 [Er erfüllt ihn mit dem Geist der Gottesfurcht.] /\\
+ Er richtet nicht nach dem Augenschein /\\
+ und nicht nur nach dem Hörensagen entscheidet er,\\
+\\
+
+<<v4>>
+4 sondern er richtet die Hilflosen gerecht /\\
+ und entscheidet für die Armen des Landes, wie es recht ist. Er schlägt
+den Gewalttätigen /\\
+ mit dem Stock seines Wortes und tötet den Schuldigen /\\
+ mit dem Hauch seines Mundes. ^{[[#fn1][1]][[#fn2][2]]}\\
+\\
+
+<<v5>>
+5 Gerechtigkeit ist der Gürtel um seine Hüften, /\\
+ Treue der Gürtel um seinen Leib.\\
+\\
+
+<<v6>>
+6 Dann wohnt der Wolf beim Lamm, /\\
+ der Panther liegt beim Böcklein. Kalb und Löwe weiden zusammen, /\\
+ ein kleiner Knabe kann sie hüten. ^{[[#fn3][3]]}\\
+\\
+
+<<v7>>
+7 Kuh und Bärin freunden sich an, /\\
+ ihre Jungen liegen beieinander. /\\
+ Der Löwe frisst Stroh wie das Rind. ^{[[#fn4][4]]}\\
+\\
+
+<<v8>>
+8 Der Säugling spielt vor dem Schlupfloch der Natter, /\\
+ das Kind streckt seine Hand in die Höhle der Schlange.\\
+\\
+
+<<v9>>
+9 Man tut nichts Böses mehr /\\
+ und begeht kein Verbrechen /\\
+ auf meinem ganzen heiligen Berg; denn das Land ist erfüllt von der
+Erkenntnis des Herrn, /\\
+ so wie das Meer mit Wasser gefüllt ist. ^{[[#fn5][5]]}\\
+\\
+
+<<v10>>
+10 An jenem Tag wird es der Spross aus der Wurzel Isais sein, /\\
+ der dasteht als Zeichen für die Nationen; die Völker suchen ihn auf;
+/\\
+ sein Wohnsitz ist prächtig. ^{[[#fn6][6]]}\\
+\\
+
+<<v11>>
+11 An jenem Tag wird der Herr seine Hand von neuem erheben, /\\
+ um den übrig gebliebenen Rest seines Volkes zurückzugewinnen, von Assur
+und Ägypten, von Patros und Kusch, /\\
+ von Elam, Schinar und Hamat /\\
+ und von den Inseln des Meeres. ^{[[#fn7][7]]}\\
+\\
+
+<<v12>>
+12 Er stellt für die Völker ein Zeichen auf, /\\
+ um die Versprengten Israels wieder zu sammeln, /\\
+ um die Zerstreuten Judas zusammenzuführen von den vier Enden der
+Erde.\\
+\\
+
+<<v13>>
+13 Dann hört der Neid Efraims auf, /\\
+ die Feinde Judas werden vernichtet. Efraim ist nicht mehr eifersüchtig
+auf Juda /\\
+ und Juda ist nicht mehr Efraims Feind. ^{[[#fn8][8]]}\\
+\\
+
+<<v14>>
+14 Sie stoßen nach Westen vor wie im Flug, /\\
+ den Philistern in die Flanke; /\\
+ vereint plündern sie die Völker des Ostens aus. Sie ergreifen Besitz
+von Edom und Moab, /\\
+ die Ammoniter müssen ihnen gehorchen.\\
+\\
+
+<<v15>>
+15 Der Herr trocknet die Bucht des ägyptischen Meeres aus; /\\
+ er schwingt in glühendem Zorn seine Faust gegen den Eufrat und
+zerschlägt ihn in sieben einzelne Bäche, /\\
+ sodass man in Sandalen hindurchgehen kann. ^{[[#fn9][9]]}\\
+\\
+
+<<v16>>
+16 So entsteht eine Straße für den Rest seines Volkes, /\\
+ der übrig gelassen wurde von Assur, eine Straße, wie es sie für Israel
+gab, /\\
+ als es aus Ägypten heraufzog.\\
+\\
+
+^{[[#fnm1][1]]} ℘ Ps 72,4; 2 Thess 2,8
+
+^{[[#fnm2][2]]} den Gewalttätigen: Text korr.
+
+^{[[#fnm3][3]]} ℘ (6-7) 65,25
+
+^{[[#fnm4][4]]} freunden sich an: Text korr.
+
+^{[[#fnm5][5]]} ℘ Hab 2,14
+
+^{[[#fnm6][6]]} ℘ Röm 15,12
+
+^{[[#fnm7][7]]} Patros ist Oberägypten, Kusch der heutige Sudan mit
+Teilen Äthiopiens; Elam liegt östlich von Babylon; Schinar ist das
+babylonische Tiefland; Hamat liegt am Orontes in Syrien.
+
+^{[[#fnm8][8]]} Die Rivalität zwischen dem Nordreich Israel (Efraim) und
+dem Südreich Juda, die häufig zu kriegerischen Verwicklungen führte,
+wird überwunden.
+
+^{[[#fnm9][9]]} trocknet . . . aus: Text korr. nach G; H: weihte. . .
+dem Untergang.

@@ -1,0 +1,81 @@
+#+TITLE: Ps 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-03 So 21:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 8.html
+
+* Ps 8
+
+<<verses>>
+
+<<v1>>
+* Die Herrlichkeit des Schöpfers - die Würde des Menschen
+
+1 [Für den Chormeister. Nach dem Kelterlied. Ein Psalm Davids.]\\
+\\
+
+<<v2>>
+2 Herr, unser Herrscher, /\\
+ wie gewaltig ist dein Name auf der ganzen Erde; /\\
+ über den Himmel breitest du deine Hoheit aus.\\
+\\
+
+<<v3>>
+3 Aus dem Mund der Kinder und Säuglinge schaffst du dir Lob, /\\
+ deinen Gegnern zum Trotz; /\\
+ deine Feinde und Widersacher müssen verstummen. [fn:1] [fn:2]\\
+\\
+
+<<v4>>
+4 Seh ich den Himmel, das Werk deiner Finger, /\\
+ Mond und Sterne, die du befestigt:\\
+\\
+
+<<v5>>
+5 Was ist der Mensch, dass du an ihn denkst, /\\
+ des Menschen Kind, dass du dich seiner annimmst? [fn:3]\\
+\\
+
+<<v6>>
+6 Du hast ihn nur wenig geringer gemacht als Gott, /\\
+ hast ihn mit Herrlichkeit und Ehre gekrönt. [fn:4]\\
+\\
+
+<<v7>>
+7 Du hast ihn als Herrscher eingesetzt über das Werk deiner Hände, /\\
+ hast ihm alles zu Füßen gelegt:\\
+\\
+
+<<v8>>
+8 All die Schafe, Ziegen und Rinder /\\
+ und auch die wilden Tiere,\\
+\\
+
+<<v9>>
+9 die Vögel des Himmels und die Fische im Meer, /\\
+ alles, was auf den Pfaden der Meere dahinzieht.\\
+\\
+
+<<v10>>
+10 Herr, unser Herrscher, /\\
+ wie gewaltig ist dein Name auf der ganzen Erde!\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/Mt_21.org::v16][Mt 21,16]]
+
+[fn:2] Lob: nach G; H: Bollwerk. - Andere
+Übersetzungsmöglichkeit: Besungen wird dein Glanz am Himmel von der
+Kinder und Säuglinge Mund. Du hast ein Bollwerk errichtet, deinen
+Feinden zum Trotz.
+
+[fn:3] [[file:Ps_144.org::v3][144,3]]; (5-7) [[file:Gen_1.org::v26][Gen 1,26-28]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_2.org::v6][Hebr 2,6-8]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_15.org::v27][1 Kor 15,27]]; [[file:~/RoamNotes/notes/Bibel/nt/Eph_1.org::v22][Eph 1,22]]
+
+[fn:4] G, S und Vg übersetzen: als die Engel.

@@ -1,0 +1,13 @@
+#+title:      Samstag 17 Dezember 2022
+#+date:       [2022-12-17 Sa 23:58]
+#+filetags:   :journal:
+#+identifier: 20221217T235809
+
+* Thoughts
+Ja, so kann es gehen.
+
+* Tasks
+
+** TODO eine erste Aufgabe
+und ihr Text.
+

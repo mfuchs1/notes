@@ -1,0 +1,41 @@
+#+title:      Org-Roam versus Denote
+#+date:       [2024-07-20 Sa 09:20]
+#+filetags:   :emacs:
+#+identifier: 20240720T092039
+
+Ich hab mir meine ältere ~Org-Roam~ Konfiguration angesehen. Da kam mir die Idee, ~Org-Roam~ wieder auszuprobieren. Allerdings: es geht nicht um das Mittel, sondern um das Ziel: Was will ich erreichen? Worum geht es mir? Und danach das passende Mittel bzw Werkzeug auszuwählen.
+
+* Was will ich?
+- Ich arbeite als Lehrer.
+- Dafür muss ich meinen Unterricht vorbereiten. Das bedeutet:
+  - Dateien pro Klasse
+  - Jahresplanung pro Schulstufe
+  - Dateien für den Inhalt einzelner oder mehrerer Stunden / zu Themen
+- Während des Unterrichts / oder nachher:
+  - Aufzeichnungen
+  - Reflexionen
+  - Notizen zu Schülern
+  - Benotung
+  - Gesprächsnotizen mit L, Dir, Eltern, Schülern, ...
+
+
+* Welches Mittel?
+Den Großteil der obigen Anforderungen lassen sich sowohl mit ~Org-Roam~ als auch mit ~Denote~ erledigen. Was ich immer noch nicht zu meiner größten Zufriedenheit gelöst habe:
+
+- Wie mache die Aufzeichnungen zu den (einzelnen) Schülern?
+- Eine Datei pro Schüler?
+- Eine Datei für die gesamte Klasse?
+
+Eine Datei pro Schüler wäre der Wahnsinn - immerhin unterrichte ich beinahe die gesamte Schule. Allerdings: speichere ich die Aufzeichnungen der Schüler in der einen Klassendatei, wird diese ziemlich groß über die vier Jahre (denn die Klassendatei ist so angelegt, dass ich sie einmal für vier Jahre anlege).
+
+Als Anregung: Ohne PC oder Laptop bzw. ohne Emacs: wie erledigen meine Kollegen diese Aufgabe? Sie haben ein Heft / einen Ordner pro Klasse / Fach. Darin eine große Tabelle: eine Spalte mit den Namen der Kinder, dann je eine Spalte pro Schulwoche. Darin werden SA, HÜ, Mitarbeit, etc eingetragen.
+
+Ein paar Kollegen verwenden Programme von Microsoft oder Apple:
+- ein Ordner / Verzeichnis pro Klasse oder Fach
+- etc.
+
+Die Idee "Eine Datei pro Schüler" lasse ich fallen. Also doch: eine Datei pro Klasse. Und jetzt bleibt nur noch: wie die Aufzeichnungen erledigen? Unter dem Namen des Schülers? Eine Tabelle?
+    
+** ~Org-Roam~
+
+** ~Denote~

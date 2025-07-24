@@ -1,0 +1,378 @@
+#+TITLE: 1 Makk 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-26 So 15:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 5.html
+
+<<verses>>
+
+<<v1>>
+* Die Feldzüge gegen die Idumäer und Ammoniter: 5,1-8
+
+1 Als aber die Völker ringsum hörten, dass die Juden den Altar neu
+errichtet und das Heiligtum wieder geweiht hatten, sodass alles war wie
+früher, gerieten sie in heftigen Zorn. [fn:1]
+
+<<v2>>
+2 Sie beschlossen, alle aus dem Stamm Jakobs, die bei ihnen wohnten,
+auszurotten, und begannen, im Volk Tod und Verderben zu verbreiten.
+
+<<v3>>
+3 Da griff Judas die Nachkommen Esaus an, die jenen Teil Idumäas
+bewohnten, der Akrabattene heißt; sie hatten nämlich die Grenze nach
+Israel abgeriegelt. Er brachte ihnen eine schwere Niederlage bei, ließ
+sie seine Macht fühlen und ihren Besitz plündern. [fn:2] [fn:3]
+
+<<v4>>
+4 Auch dachte er daran, welche Untaten die Beoniter begangen hatten; sie
+hatten nämlich den Juden an den Wegen aufgelauert und waren für das Volk
+wie ein Netz und eine Falle gewesen.
+
+<<v5>>
+5 Daher schloss er sie jetzt in ihre Fliehtürme ein und belagerte sie;
+er weihte sie dem Untergang und verbrannte die Türme mit allen, die
+darin waren. [fn:4]
+
+<<v6>>
+6 Dann zog er hinüber gegen die Ammoniter. Er traf auf eine starke
+Streitmacht mit vielen Kriegern; ihr Anführer war Timotheus. [fn:5] [fn:6]
+
+<<v7>>
+7 Judas verwickelte sie in zahlreiche Gefechte und sie wurden von ihm
+vernichtend geschlagen und besiegt.
+
+<<v8>>
+8 Er eroberte auch die Stadt Jaser und ihre Tochterstädte. Dann kehrte
+er nach Judäa zurück. [fn:7]\\
+\\
+
+<<v9>>
+* Die Vorbereitungen zur Rettung der Juden in Galiläa und in Gilead: 5,9-20
+
+9 Da rotteten sich die Völker des Landes Gilead gegen die Israeliten,
+die in ihrem Gebiet lebten, zusammen, um sie zu töten. Doch diese
+konnten sich in die Festung Datema flüchten.
+
+<<v10>>
+10 Sie schrieben an Judas und seine Brüder einen Brief mit folgendem
+Inhalt: Die Völker ringsum haben sich gegen uns zusammengerottet, um uns
+zu vernichten.
+
+<<v11>>
+11 Sie stehen bereit, um zu kommen und die Festung zu erobern, in die
+wir geflohen sind. Timotheus führt ihre Streitkräfte an.
+
+<<v12>>
+12 Darum komm her und rette uns aus ihrer Gewalt, denn viele von uns
+sind schon gefallen.
+
+<<v13>>
+13 Auch unsere Brüder, die unter den Leuten von Tubi lebten, hat man
+umgebracht, ihre Frauen gefangen genommen, ihre Kinder und ihren Besitz
+geraubt. Etwa tausend Männer sind dort umgekommen.
+
+<<v14>>
+14 Judas und seine Brüder hatten den Brief noch nicht zu Ende gelesen,
+da kamen andere Boten aus Galiläa in zerrissenen Kleidern und brachten
+ihnen die Nachricht:
+
+<<v15>>
+15 Die Einwohner von Ptolemaïs, Tyrus und Sidon und dem ganzen oberen
+Galiläa, soweit es Fremdstämmige bewohnen, haben sich zusammengetan, um
+uns auszurotten. [fn:8]
+
+<<v16>>
+16 Als Judas und das Volk das hörten, beriefen sie eine große
+Versammlung ein, um zu beraten, was sie für ihre bedrängten Brüder tun
+sollten, die von den Feinden angegriffen wurden.
+
+<<v17>>
+17 Judas sagte zu seinem Bruder Simeon: Such dir geeignete Männer aus,
+mach dich auf den Weg und befrei deine Brüder in Galiläa; ich und mein
+Bruder Jonatan wollen nach Gilead ziehen.
+
+<<v18>>
+18 Als Anführer des Volkes ließ er Josef, den Sohn Secharjas, und Asarja
+mit dem Rest des Heeres zur Bewachung Judäas zurück.
+
+<<v19>>
+19 Er gab ihnen den Befehl: Übernehmt die Führung dieser Leute, aber
+lasst euch in keinen Kampf mit fremden Völkern ein, bevor wir
+zurückgekehrt sind.
+
+<<v20>>
+20 Simeon erhielt dreitausend Mann zugeteilt, mit denen er nach Galiläa
+ziehen sollte, Judas dagegen achttausend Mann für Gilead.\\
+\\
+
+<<v21>>
+* Die Feldzüge nach Galiläa und Gilead: 5,21-54
+
+21 Simeon zog also nach Galiläa. Dort lieferte er den fremden Völkern
+zahlreiche Gefechte und sie wurden vor seinen Augen vernichtend
+geschlagen.
+
+<<v22>>
+22 Er verfolgte sie bis an die Tore von Ptolemaïs. Von den fremden
+Völkern fielen ungefähr dreitausend Mann und Simeon machte reiche Beute
+bei ihnen.
+
+<<v23>>
+23 Dann führte er die Juden aus Galiläa und Arbatta mit ihren Frauen und
+Kindern und ihrem ganzen Besitz unter großem Jubel nach Judäa zurück.
+
+<<v24>>
+24 Judas, der Makkabäer, und sein Bruder Jonatan hatten indessen den
+Jordan überschritten und waren drei Tagesmärsche durch die Steppe
+gezogen. [fn:9]
+
+<<v25>>
+25 Dort trafen sie auf die Nabatäer, die ihnen freundlich begegneten und
+ihnen alles erzählten, was ihren Brüdern in Gilead zugestoßen war. [fn:10]
+
+<<v26>>
+26 Viele von ihnen würden in Bosora, Bosor, Alema, Kaspin, Maked und
+Karnajim festgehalten, lauter großen, befestigten Städten.
+
+<<v27>>
+27 Auch in den übrigen Städten Gileads halte man sie fest und morgen
+wolle man sich anschicken, die Festungen zu belagern und zu erstürmen.
+Alle sollten an einem einzigen Tag umgebracht werden.
+
+<<v28>>
+28 Da kehrte Judas mit seinem Heer überraschend um. Er nahm den Weg
+durch die Steppe von Bosora, eroberte die Stadt, erschlug mit scharfem
+Schwert die gesamte männliche Bevölkerung, plünderte die Stadt völlig
+aus und brannte sie nieder.
+
+<<v29>>
+29 Noch in der gleichen Nacht brach er wieder auf und sie zogen bis vor
+die Festung Datema.
+
+<<v30>>
+30 Als sie gegen Morgen Ausschau hielten, da sahen sie ein unzählbar
+großes Heer; die Soldaten schleppten Sturmleitern und
+Belagerungsmaschinen heran, um die Festung zu erstürmen und gingen schon
+zum Angriff gegen die Juden über.
+
+<<v31>>
+31 Judas sah, dass der Kampf bereits begonnen hatte: Der Lärm aus der
+Stadt, Trompetengeschmetter und lautes Geschrei drangen bis zum Himmel.
+
+<<v32>>
+32 Da rief er den Männern in seinem Heer zu: Kämpft heute für unsere
+Brüder!
+
+<<v33>>
+33 Dann griff er die Feinde mit drei Abteilungen von hinten an; seine
+Leute bliesen die Trompeten und beteten laut. [fn:11]
+
+<<v34>>
+34 Sobald das Heer des Timotheus merkte, dass es der Makkabäer war,
+liefen sie vor ihm davon. Er brachte ihnen eine schwere Niederlage bei;
+etwa achttausend Mann von ihnen fielen an diesem Tag.
+
+<<v35>>
+35 Danach wandte sich Judas gegen Alema. Er griff die Stadt an und
+eroberte sie, erschlug die gesamte männliche Bevölkerung, ließ die Stadt
+plündern und brannte sie nieder.
+
+<<v36>>
+36 Von dort brach er auf und eroberte Kaspin, Maked, Bosor und die
+übrigen Städte Gileads.
+
+<<v37>>
+37 Nach diesen Ereignissen sammelte Timotheus ein neues Heer und schlug
+gegenüber von Rafon, jenseits der Schlucht, sein Lager auf.
+
+<<v38>>
+38 Judas schickte Späher aus, die das Lager erkunden sollten. Sie
+meldeten ihm: Alle Völker, die rings um uns wohnen, sind zu ihm
+gestoßen; es ist ein gewaltiges Heer.
+
+<<v39>>
+39 Auch arabische Hilfstruppen hat er angeworben. Sie haben auf der
+anderen Seite der Schlucht ihr Lager bezogen und stehen bereit, gegen
+dich zum Kampf auszurücken. Da zog Judas ihnen entgegen.
+
+<<v40>>
+40 Als er sich mit seinem Heer dem Bach, der durch die Schlucht führte,
+näherte, sagte Timotheus zu seinen Heerführern: Wenn er zuerst über den
+Bach zu uns herüberkommt, können wir ihm nicht standhalten; dann wird er
+uns sicherlich überwältigen. [fn:12]
+
+<<v41>>
+41 Wenn er aber Angst hat und sein Lager jenseits des Baches aufschlägt,
+dann gehen wir zu ihm hinüber und werden ihn überwältigen.
+
+<<v42>>
+42 Als Judas sich dem Gebirgsbach genähert hatte, ließ er
+Heeresschreiber in der Schlucht antreten und gab ihnen den Befehl:
+Niemand darf hier Halt machen, sondern alle sollen zum Kampf vorrücken.
+
+<<v43>>
+43 Er selbst ging als erster über den Bach, den Feinden entgegen, und
+alle seine Krieger folgten ihm. Und die fremden Völker wurden von ihm
+vernichtend geschlagen; sie warfen ihre Waffen weg und flüchteten sich
+in das Heiligtum von Karnajim.
+
+<<v44>>
+44 Aber die Juden eroberten die Stadt und verbrannten das Heiligtum mit
+allen, die darin waren. So wurde Karnajim gedemütigt und niemand konnte
+Judas mehr Widerstand leisten.
+
+<<v45>>
+45 Nun sammelte Judas alle Israeliten, die in Gilead lebten, jung und
+alt, mit ihren Frauen und Kindern und ihrem Besitz, eine gewaltige
+Menschenmenge, um mit ihnen nach Judäa zu ziehen. [fn:13]
+
+<<v46>>
+46 Sie kamen bis Efron. Diese große und stark befestigte Stadt lag auf
+ihrem Weg. Man konnte sie weder links noch rechts umgehen, sondern
+musste mitten durch sie hindurchziehen.
+
+<<v47>>
+47 Aber die Einwohner der Stadt schlossen vor ihnen die Tore und
+versperrten sie außerdem mit Steinen.
+
+<<v48>>
+48 Da schickte Judas Unterhändler zu ihnen mit dem friedlichen
+Vorschlag: Wir wollen durch euer Land ziehen, um in unser Land zu
+kommen. Keiner wird euch etwas Böses tun; wir wollen nur
+durchmarschieren. Aber die Einwohner wollten ihnen die Tore nicht
+öffnen. [fn:14]
+
+<<v49>>
+49 Nun ließ Judas im Heer den Befehl ausrufen, jeder solle dort Stellung
+beziehen, wo er gerade sei.
+
+<<v50>>
+50 Da stellten sich die Krieger auf und Judas ließ die Stadt den ganzen
+Tag und die ganze Nacht hindurch angreifen, bis sie fiel.
+
+<<v51>>
+51 Er erschlug ihre gesamte männliche Bevölkerung mit scharfem Schwert,
+zerstörte die Stadt völlig und ließ sie plündern. Dann marschierte er
+über die Leichen der Erschlagenen hinweg durch die Stadt. [fn:15]
+
+<<v52>>
+52 Sie überquerten den Jordan in der großen Ebene gegenüber von
+Bet-Schean.
+
+<<v53>>
+53 Judas sorgte dafür, dass die Nachzügler zusammenblieben, und auf dem
+ganzen Weg sprach er den Leuten Mut zu, bis sie Judäa erreichten.
+
+<<v54>>
+54 Dann zogen sie mit Jubel und Freude zum Berg Zion hinauf und brachten
+dort Brandopfer dar; denn keiner von ihnen war gefallen, alle waren
+wohlbehalten heimgekehrt. [fn:16]\\
+\\
+
+<<v55>>
+* Die wahren Führer Israels: 5,55-68
+
+55 Zu der Zeit, als Judas und Jonatan in Gilead waren und als sein
+Bruder Simeon in Galiläa vor Ptolemaïs lag,
+
+<<v56>>
+56 hörten die Heerführer Josef, der Sohn Secharjas, und Asarja von den
+kühnen Taten, die jene vollbracht hatten. [fn:17]
+
+<<v57>>
+57 Da sagten sie: Auch wir wollen uns einen Namen machen und einen
+Feldzug gegen die fremden Völker ringsum führen.
+
+<<v58>>
+58 Sie gaben also den Soldaten, die sie bei sich hatten, den Befehl,
+gegen Jamnia zu ziehen.
+
+<<v59>>
+59 Aber Gorgias und seine Männer rückten ihnen aus der Stadt zum Kampf
+entgegen.
+
+<<v60>>
+60 Josef und Asarja wurden geschlagen und bis an die Grenze von Judäa
+verfolgt. An jenem Tag fielen fast zweitausend aus dem Volk Israel.
+
+<<v61>>
+61 Das Volk hatte eine schwere Niederlage erlitten, weil sie nicht auf
+Judas und seine Brüder gehört hatten, sondern sich einbildeten, auch sie
+könnten große Taten vollbringen.
+
+<<v62>>
+62 Doch sie waren nicht aus dem Geschlecht derer, die mit der Rettung
+Israels beauftragt waren.
+
+<<v63>>
+63 Der große Judas und seine Brüder dagegen erwarben sich hohen Ruhm bei
+ganz Israel und bei allen Völkern, überall wo ihr Name bekannt wurde.
+
+<<v64>>
+64 Die Leute kamen herbei, um sie zu beglückwünschen.
+
+<<v65>>
+65 Judas und seine Brüder zogen auch zum Kampf gegen die Nachkommen
+Esaus im Süden. Er schlug Hebron und seine Tochterstädte, eroberte ihre
+Festungen und brannte ihre Türme ringsum nieder.
+
+<<v66>>
+66 Dann zog er gegen das Philisterland. Als das Heer dabei durch
+Marescha kam,
+
+<<v67>>
+67 fielen einige Priester im Kampf. Sie waren schlecht beraten gewesen,
+in den Krieg zu ziehen, um Heldentaten zu vollbringen.
+
+<<v68>>
+68 Dann machte Judas eine Ausweichbewegung und zog nach Aschdod im Land
+der Philister. Dort zerstörte er die Altäre der Philister, verbrannte
+ihre Götterbilder, plünderte die Städte und kehrte dann nach Judäa
+zurück. [fn:18]\\
+\\
+
+* Footnotes
+
+[fn:1] (1-2) [[file:1.Makk_12.org::v53][12,53]]
+
+[fn:2] (3-8) [[file:2.Makk_10.org::v15][2 Makk 10,15]]-[[file:2.Makk_10.org::v23][23]]
+
+[fn:3] Akrabattene: eine Gegend im Nordosten des Negeb.
+
+[fn:4] [[file:Jos_6.org::v17][Jos 6,17]]
+
+[fn:5] [[file:Dtn_2.org::v18][Dtn 2,18f]]
+
+[fn:6] Ammoniter: Volk im Gebiet um die heutige Stadt Amman.
+
+[fn:7] [[file:Num_21.org::v31][Num 21,31f]]
+
+[fn:8] Ptolemaïs ist der griechische Name für die Hafenstadt
+Akko (Ri 1,31).
+
+[fn:9] (24-54) [[file:2.Makk_12.org::v10][2 Makk 12,10]]-[[file:2.Makk_12.org::v31][31]]
+
+[fn:10] Die Nabatäer (Hauptstadt Petra) waren im Gebiet
+südlich des Toten Meeres zum Roten Meer hin ansässig.
+
+[fn:11] [[file:1.Sam_11.org::v11][1 Sam 11,11]]
+
+[fn:12] [[file:1.Sam_14.org::v9][1 Sam 14,9f]]
+
+[fn:13] [[file:Jer_31.org::v8][Jer 31,8]]
+
+[fn:14] [[file:Num_20.org::v14][Num 20,14]].[[file:Num_20.org::v17][17f]]
+
+[fn:15] [[file:Jos_6.org::v17][Jos 6,17]]
+
+[fn:16] [[file:Jer_31.org::v12][Jer 31,12]]
+
+[fn:17] [[v18][5,18f]]
+
+[fn:18] [[file:Dtn_7.org::v5][Dtn 7,5]]

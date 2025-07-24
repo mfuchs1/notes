@@ -1,0 +1,176 @@
+#+TITLE: Ijob 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 22:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 13.html
+
+<<verses>>
+
+<<v1>>
+* Das leere Gerede der Freunde: 13,1-12
+
+1 Seht, all das hat mein Auge gesehen, /\\
+ mein Ohr gehört und wohl gemerkt.\\
+\\
+
+<<v2>>
+2 Was ihr wisst, weiß ich auch; /\\
+ ich falle nicht ab im Vergleich mit euch. [fn:1]\\
+\\
+
+<<v3>>
+3 Doch ich will zum Allmächtigen reden, /\\
+ mit Gott zu rechten ist mein Wunsch.\\
+\\
+
+<<v4>>
+4 Ihr aber seid nur Lügentüncher, /\\
+ untaugliche Ärzte alle.\\
+\\
+
+<<v5>>
+5 Dass ihr endlich schweigen wolltet; /\\
+ das würde Weisheit für euch sein.\\
+\\
+
+<<v6>>
+6 Hört doch meinen Rechtsbeweis, /\\
+ merkt auf die Streitreden meiner Lippen!\\
+\\
+
+<<v7>>
+7 Wollt ihr für Gott Verkehrtes reden /\\
+ und seinetwegen Lügen sprechen?\\
+\\
+
+<<v8>>
+8 Wollt ihr für ihn Partei ergreifen, /\\
+ für Gott den Rechtsstreit führen?\\
+\\
+
+<<v9>>
+9 Ginge es gut, wenn er euch durchforschte, /\\
+ könnt ihr ihn täuschen, wie man Menschen täuscht?\\
+\\
+
+<<v10>>
+10 In harte Zucht wird er euch nehmen, /\\
+ wenn ihr heimlich Partei ergreift.\\
+\\
+
+<<v11>>
+11 Wird seine Hoheit euch nicht schrecken, /\\
+ nicht Schrecken vor ihm euch überfallen?\\
+\\
+
+<<v12>>
+12 Eure Merksätze sind Sprüche aus Staub, /\\
+ eure Schilde Schilde aus Lehm.\\
+\\
+
+<<v13>>
+* Die Verteidigung der eigenen Unschuld: 13,13-28
+
+13 Schweigt vor mir, damit ich reden kann. /\\
+ Dann komme auf mich, was mag.\\
+\\
+
+<<v14>>
+14 Meinen Leib nehme ich zwischen die Zähne, /\\
+ in meine Hand leg ich mein Leben. [fn:2]\\
+\\
+
+<<v15>>
+15 Er mag mich töten, ich harre auf ihn; /\\
+ doch meine Wege verteidige ich vor ihm.\\
+\\
+
+<<v16>>
+16 Schon das wird mir zum Heile dienen, /\\
+ kein Ruchloser kommt ja vor sein Angesicht.\\
+\\
+
+<<v17>>
+17 Hört nun genau auf meine Rede, /\\
+ was ich erkläre vor euren Ohren.\\
+\\
+
+<<v18>>
+18 Seht, ich bringe den Rechtsfall vor; /\\
+ ich weiß, ich bin im Recht.\\
+\\
+
+<<v19>>
+19 Wer ist es, der mit mir streitet? /\\
+ Gut, dann will ich schweigen und verscheiden.\\
+\\
+
+<<v20>>
+20 Zwei Dinge nur tu mir nicht an, /\\
+ dann verberge ich mich nicht vor dir:\\
+\\
+
+<<v21>>
+21 Zieh deine Hand von mir zurück; /\\
+ nicht soll die Angst vor dir mich schrecken.\\
+\\
+
+<<v22>>
+22 Dann rufe und ich will Rede stehen /\\
+ oder ich rede und du antworte mir!\\
+\\
+
+<<v23>>
+23 Wie viel habe ich an Sünden und Vergehen? /\\
+ Meine Schuld und mein Vergehen sag mir an!\\
+\\
+
+<<v24>>
+24 Warum verbirgst du dein Angesicht /\\
+ und siehst mich an als deinen Feind? [fn:3]\\
+\\
+
+<<v25>>
+25 Verwehtes Laub willst du noch scheuchen, /\\
+ dürre Spreu noch forttreiben? [fn:4]\
+\\
+
+<<v26>>
+26 Denn Bitterkeit verschreibst du mir, /\\
+ teilst mir die Sünden meiner Jugend zu. [fn:5]\\
+\\
+
+<<v27>>
+27 In den Block legst du meine Füße, /\\
+ du überwachst auch alle meine Pfade /\\
+ und zeichnest einen Strich um meiner Füße Sohlen. [fn:6]\\
+\\
+
+<<v28>>
+28 Er selbst zerfällt wie Verfaultes, /\\
+ dem Kleide gleich, das die Motte fraß. [fn:7] [fn:8]\\
+\\
+
+* Footnotes
+
+[fn:1] [[file:Ijob_12.org::v3][12,3]]
+
+[fn:2] Sinn: Ich riskiere mein Leben.
+
+[fn:3] [[file:Ps_44.org::v25][Ps 44,25]]; [[file:Ps_88.org::v15][88,15]]; [[file:Ijob_33.org::v10][Ijob 33,10]]
+
+[fn:4] [[file:Ps_89.org::v14][Ps 83,14]]
+
+[fn:5] [[file:Ps_25.org::v7][Ps 25,7]]
+
+[fn:6] [[file:Ijob_33.org::v11][33,11]]
+
+[fn:7] [[file:Ps_39.org::v12][Ps 39,12]]; [[file:Jes_50.org::v9][Jes 50,9]]; [[file:Jes_51.org::v8][51,8]]
+
+[fn:8] Der Vers leitet 14,1-6 ein.

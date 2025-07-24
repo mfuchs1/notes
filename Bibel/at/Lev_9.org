@@ -1,0 +1,137 @@
+#+TITLE: Lev 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 14:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 9.html
+
+<<verses>>
+
+<<v1>>
+* Das Weiheopfer des Hohenpriesters: 9,1-24
+
+1 Am achten Tag rief Mose Aaron, seine Söhne und die Ältesten Israels
+zusammen
+
+<<v2>>
+2 und sagte zu Aaron: Nimm ein Kalb, ein junges Rind, für ein Sündopfer
+und einen Widder für ein Brandopfer, fehlerlose Tiere, und bring sie her
+vor den Herrn!
+
+<<v3>>
+3 Dann sollst du zu den Israeliten sagen: Nehmt einen Ziegenbock für ein
+Sündopfer, ferner ein Kalb und ein Schaf, einjährige und fehlerlose
+Tiere, für ein Brandopfer,
+
+<<v4>>
+4 ein Rind und einen Widder für ein Heilsopfer, um sie vor dem Herrn zu
+schlachten, und ein Speiseopfer, das mit Öl vermengt ist. Denn heute
+wird euch der Herr erscheinen.
+
+<<v5>>
+5 Sie brachten, was Mose befohlen hatte, zum Offenbarungszelt und die
+ganze Gemeinde kam herbei und stellte sich vor dem Herrn auf.
+
+<<v6>>
+6 Mose sagte: Das ist es, was der Herr euch zu tun geboten hat, damit
+euch die Herrlichkeit des Herrn erscheint.
+
+<<v7>>
+7 Dann sagte Mose zu Aaron: Tritt zum Altar hin, bring dein Sünd- und
+dein Brandopfer dar und vollzieh so für dich und das Volk die Sühne!
+Dann bring das Opfer des Volkes dar und entsühne es, wie der Herr
+befohlen hat. [fn:1]
+
+<<v8>>
+8 Aaron trat an den Altar und schlachtete das Kalb für seine eigene
+Sünde. [fn:2]
+
+<<v9>>
+9 Dann brachten ihm die Söhne Aarons das Blut; er tauchte seinen Finger
+in das Blut, tat es auf die Hörner des Altars und goss das übrige Blut
+am Sockel des Altars aus.
+
+<<v10>>
+10 Das Fett des Sündopfers, die Nieren und die Fettmasse über der Leber
+des Sündopfers ließ er auf dem Altar in Rauch aufgehen, wie es der Herr
+dem Mose befohlen hatte.
+
+<<v11>>
+11 Das Fleisch und das Fell verbrannte er außerhalb des Lagers.
+
+<<v12>>
+12 Danach schlachtete er das Brandopfer; die Söhne Aarons reichten ihm
+das Blut und er sprengte es ringsum an den Altar.
+
+<<v13>>
+13 Sie reichten ihm die einzelnen Stücke und den Kopf des Brandopfers
+und er ließ sie auf dem Altar in Rauch aufgehen.
+
+<<v14>>
+14 Er wusch die Eingeweide und Beine und ließ auch sie mit dem
+Brandopfer auf dem Altar in Rauch aufgehen.
+
+<<v15>>
+15 Dann ließ er das Opfer des Volkes heranbringen. Er nahm den Bock für
+das Sündopfer des Volkes, schlachtete ihn und brachte ihn wie den ersten
+als Sündopfer dar.
+
+<<v16>>
+16 Darauf ließ er das Brandopfer bringen und verfuhr nach der
+Vorschrift. [fn:3]
+
+<<v17>>
+17 Er ließ das Speiseopfer bringen, nahm eine Hand voll davon und ließ
+es auf dem Altar in Rauch aufgehen, dazu noch das Morgenbrandopfer. [fn:4]
+
+<<v18>>
+18 Dann schlachtete er das Rind und den Widder als Heilsopfer für das
+Volk. Die Söhne Aarons reichten ihm das Blut und er sprengte es ringsum
+an den Altar. [fn:5]
+
+<<v19>>
+19 Die Fettstücke des Rinds und des Widders, und zwar den Fettschwanz,
+das Eingeweidenetz, die Nieren und die Fettmasse über der Leber,
+
+<<v20>>
+20 legte er auf die Bruststücke und ließ sie auf dem Altar in Rauch
+aufgehen.
+
+<<v21>>
+21 Die Bruststücke und die rechte Schenkelkeule schwang Aaron vor dem
+Herrn hin und her und brachte sie so dar, wie es Mose befohlen hatte.
+
+<<v22>>
+22 Dann erhob Aaron seine Hände über das Volk und segnete es. Nachdem er
+so das Sünd- und das Brandopfer sowie das Heilsopfer vollzogen hatte,
+stieg er herunter
+
+<<v23>>
+23 und Mose ging mit Aaron in das Offenbarungszelt. Dann kamen beide
+heraus und segneten das Volk. Da erschien die Herrlichkeit des Herrn dem
+ganzen Volk.
+
+<<v24>>
+24 Feuer ging vom Herrn aus und verzehrte das Brandopfer und die
+Fettstücke auf dem Altar. Als das ganze Volk das sah, stieß es
+Jubelschreie aus und alle fielen auf ihr Gesicht nieder.\\
+\\
+
+
+* Footnotes
+
+[fn:1] für dich und das Volk, vielleicht nach G zu korrigieren:
+für dich und dein Haus.
+
+[fn:2] 8,14-21 [[file:Lev_8.org::v14][Lev 8,14-21]]
+
+[fn:3] 1,10-13 [[file:Lev_1.org::v10][Lev 1,10-13]]
+
+[fn:4] 2,1-16 [[file:Lev_2.org::v1][Lev 2,1-16]]
+
+[fn:5] 3,1-17 [[file:Lev_3.org::v1][Lev 3,1-17]]
