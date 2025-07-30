@@ -1,0 +1,5 @@
+#+title:      Übungsteil
+#+date:       [2025-07-29 Di 14:41]
+#+filetags:   :03:fragen:
+#+identifier: 20250729T144130
+

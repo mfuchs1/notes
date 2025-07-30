@@ -30,16 +30,18 @@ Liturgische (Mit)Gestaltung:
 Zu Beginn des Schuljahres oder für eine vorösterliche Versöhnungsfeier könnte das Friedensgebet (S. 112–113) als Vorlage zu Hilfe genommen werden.
 
 ** Basisseiten und Empfehlungen
+
+*** Über das Leben nachdenken
 *** [[denote:20240909T215212][Vieles hat Leben in sich]]
 *** [[denote:20240909T215228][Das Wunder des Lebens]]
-*** Impuls: das Leben kleben
-*** Die Schönheit der Schöpfung
-*** Übergang: die Schöpfung in Gefahr
-*** Ein Papst schreibt an die Welt
-*** Die Erde ist unser Auftrag
-*** Die Schöpfung erhalten - aber wie?
-*** Handeln: Zukunftswerkstatt
-*** Übungsteil
+*** [[denote:20250729T143431][Impuls: das Leben kleben]]
+*** [[denote:20250729T143445][Die Schönheit der Schöpfung]]
+*** [[denote:20250729T143459][Übergang: die Schöpfung in Gefahr]]
+*** [[denote:20250729T143511][Ein Papst schreibt an die Welt]]
+*** [[denote:20250729T143527][Die Erde ist unser Auftrag]]
+*** [[denote:20250729T143547][Die Schöpfung erhalten - aber wie?]]
+*** [[denote:20250729T143600][Handeln: Zukunftswerkstatt]]
+*** [[denote:20250729T143613][Übungsteil]]
 
 * Sinn – dem Leben einen Grund geben (Kapitel 2)
 November bis Dezember
@@ -62,18 +64,20 @@ Kooperation mit Pfarre
 Wenn sich in der 7. Schulstufe die Mehrheit der Schüler*innen auf das Sakrament der Firmung vorbereitet, könnte das Thema zur Unterstützung der pfarrlichen Firmvorbereitung erarbeitet werden.
 
 ** Basisseiten und Empfehlungen
-*** Drei Arten des Glücks
-*** Impuls: Ein Großes Versprechen
-*** Genuss und Sucht
-*** Verzicht und Genügsamkeit
-*** Ein Leben für andere
-*** Übergang: Auf der Suche nach einem erfüllten Leben
-*** Auf der Suche nach dem Sinn
-*** Mythos und Logos
-*** Biblische Schöpfungserzählungen
-*** Sprache: Eine mythische Erzählung deuten
-*** Schöpfungsmythen anderer Religionen und Kulturen
-*** Übungsteil
+
+*** [[denote:20250729T143641][Was macht mich glücklich?]]
+*** [[denote:20250729T143654][Drei Arten des Glücks]]
+*** [[denote:20250729T143704][Impuls: Ein Großes Versprechen]]
+*** [[denote:20250729T143714][Genuss und Sucht]]
+*** [[denote:20250729T143726][Verzicht und Genügsamkeit]]
+*** [[denote:20250729T143741][Ein Leben für andere]]
+*** [[denote:20250729T143756][Übergang: Auf der Suche nach einem erfüllten Leben]]
+*** [[denote:20250729T143811][Auf der Suche nach dem Sinn]]
+*** [[denote:20250729T143825][Mythos und Logos]]
+*** [[denote:20250729T143840][Biblische Schöpfungserzählungen]]
+*** [[denote:20250729T144107][Sprache: Eine mythische Erzählung deuten]]
+*** [[denote:20250729T144119][Schöpfungsmythen anderer Religionen und Kulturen]]
+*** [[denote:20250729T144130][Übungsteil]]
 
 * Freiheit – auf Gottes Versprechen vertrauen (Kapitel 3)
 Jänner bis März
@@ -97,19 +101,21 @@ Kirchenjahr – Fastenzeit
 - Eine bleibende Erfahrung (Kap. 3.5, S. 60)
 
 ** Basisseiten und Empfehlungen
+
+*** [[denote:20250729T144626][Ich und meine Freiheit]]
 *** [[denote:20241115T082021][Grenzenlose Freiheit?]]
-*** Die Sehnsucht nach Freiheit
-*** Impuls: Befreiender Glaube
-*** Übergang: Israel - ein unterdrücktes Volk
-*** Exodus - das Wunder der Befreiung
-*** Eine bleibende Erfahrung
-*** Dekalog - die Freiheit sichern
-*** Die Goldene Regel
-*** Liebe deine Nächsten!
-*** Liebe deine Feinde!
-*** Das Reich Gottes
-*** Bibel: Gleichnisse vom Reich Gottes deuten
-*** Übungsteil
+*** [[denote:20250729T144912][Die Sehnsucht nach Freiheit]]
+*** [[denote:20250729T144923][Impuls: Befreiender Glaube]]
+*** [[denote:20250729T172631][Übergang: Israel - ein unterdrücktes Volk]]
+*** [[denote:20250729T172644][Exodus - das Wunder der Befreiung]]
+*** [[denote:20250729T172654][Eine bleibende Erfahrung]]
+*** [[denote:20250729T172704][Dekalog - die Freiheit sichern]]
+*** [[denote:20250729T172715][Die Goldene Regel]]
+*** [[denote:20250729T172732][Liebe deine Nächsten!]]
+*** [[denote:20250729T172746][Liebe deine Feinde!]]
+*** [[denote:20250729T172803][Das Reich Gottes]]
+*** [[denote:20250729T172817][Bibel: Gleichnisse vom Reich Gottes deuten]]
+*** [[denote:20250729T172827][Übungsteil]]
 
 * Tradition – verwurzelt sein (Kapitel 4)
 März bis April
@@ -136,19 +142,21 @@ Kirchenjahr - nach Ostern:
 - Die ersten Christinnen und Christen (Kap. 4.4, S. 83)
 
 ** Basisseiten und Empfehlungen
-*** Besondere Tage
-*** Impuls: Mein ganz besonderer Tag
-*** Der Sonntag
-*** Übergang: Zeugen der Vergangenheit
-*** Die ersten Christinnen und Christen
-*** Simon Petrus - Jude und Christ
-*** Paulus - seine Botschaft für alle
-*** Frauen im frühen Christentum
-*** Auf dem Weg zur Weltreligion
-*** Forschen: Schriftliche Quellen
-*** Die Kirche, das Volk Gottes
-*** Das Leben Gott schenken
-*** Übungsteil
+
+*** [[denote:20250729T172909][Müssen und wollen]]
+*** [[denote:20250729T172921][Besondere Tage]]
+*** [[denote:20250730T091318][Impuls: Mein ganz besonderer Tag]]
+*** [[denote:20250730T091328][Der Sonntag]]
+*** [[denote:20250730T091340][Übergang: Zeugen der Vergangenheit]]
+*** [[denote:20250730T091351][Die ersten Christinnen und Christen]]
+*** [[denote:20250730T091403][Simon Petrus - Jude und Christ]]
+*** [[denote:20250730T091418][Paulus - seine Botschaft für alle]]
+*** [[denote:20250730T091432][Frauen im frühen Christentum]]
+*** [[denote:20250730T091503][Auf dem Weg zur Weltreligion]]
+*** [[denote:20250730T091515][Forschen: Schriftliche Quellen]]
+*** [[denote:20250730T091605][Die Kirche, das Volk Gottes]]
+*** [[denote:20250730T091616][Das Leben Gott schenken]]
+*** [[denote:20250730T091625][Übungsteil]]
 
 * Medien – Chancen und Risiken verstehen (Kapitel 5)
 April bis Mai
@@ -165,13 +173,15 @@ Die Schülerinnen und Schüler können die Nutzung von Medien und deren Potentia
 ** Hinweis / Alternativen
 
 ** Basisseiten und Empfehlungen
-*** Mein digitaler Begleiter
-*** Impuls: Beten mit dem Handy
-*** Wem folge ich?
-*** Übergang: Alles für ein Like?
-*** Wem kann ich glauben?
-*** Medien: Fake News im Internet erkennen
-*** Übungsteil
+
+*** [[denote:20250730T091750][Welche Medien ich nutze]]
+*** [[denote:20250730T091804][Mein digitaler Begleiter]]
+*** [[denote:20250730T092004][Impuls: Beten mit dem Handy]]
+*** [[denote:20250730T092134][Wem folge ich?]]
+*** [[denote:20250730T092149][Übergang: Alles für ein Like?]]
+*** [[denote:20250730T092211][Wem kann ich glauben?]]
+*** [[denote:20250730T092232][Medien: Fake News im Internet erkennen]]
+*** [[denote:20250730T092245][Übungsteil]]
 
 * Islam – dem einen Gott verpflichtet (Kapitel 6)
 Mai bis Juni
@@ -193,16 +203,18 @@ Feste und Feiern im Islam über das Schuljahr hinweg ansprechen
 
 
 ** Basisseiten und Empfehlungen
-*** Glaube hat viele Gesichter
-*** Impuls: Beten für den Frieden
-*** Übergang: Muslime in Österreich
-*** Der Islam - ein Überblick
-*** Muhammad - Allahs Prophet
-*** Der Koran - das Wort Allahs
-*** Glaube und Leben
-*** Feste und Feiern
-*** Die Moschee
-*** Gegenstände und Symbole
-*** Ein gemeinsames Erbe
-*** Gemeinschaft: Interreligiöser Dialog
-*** Übungsteil
+
+*** [[denote:20250730T092405][Wie lebst du deinen Glauben?]]
+*** [[denote:20250730T092426][Glaube hat viele Gesichter]]
+*** [[denote:20250730T092445][Impuls: Salam! Beten für den Frieden]]
+*** [[denote:20250730T092507][Übergang: Muslime in Österreich]]
+*** [[denote:20250730T092519][Der Islam - ein Überblick]]
+*** [[denote:20250730T092532][Muhammad - Allahs Prophet]]
+*** [[denote:20250730T092549][Der Koran - das Wort Allahs]]
+*** [[denote:20250730T092603][Glaube und Leben]]
+*** [[denote:20250730T092614][Feste und Feiern]]
+*** [[denote:20250730T092624][Die Moschee]]
+*** [[denote:20250730T092637][Gegenstände und Symbole]]
+*** [[denote:20250730T092655][Ein gemeinsames Erbe]]
+*** [[denote:20250730T092709][Gemeinschaft: Interreligiöser Dialog]]
+*** [[denote:20250730T092721][Übungsteil]]

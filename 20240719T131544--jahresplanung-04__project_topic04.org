@@ -24,15 +24,17 @@ Wie nachhaltig ist unsere Schule?
 Wie gehen wir in unserer Schulgemeinschaft miteinander um. 
 
 ** Basisseiten und Empfehlungen
+
+*** [[denote:20250730T093410][Wovon hängen meine Entscheidungen ab?]]
 *** [[denote:20240909T205227][Was ist gut und richtig?]]
 *** [[denote:20240909T205419][Ein gutes Gewissen]]
 *** [[denote:20240909T205442][Dem Gewissen folgen]]
 *** [[denote:20240909T205456][Impuls: Ein Dilemma]]
-*** Übergang: Der Ruf nach Veränderung
-*** Prophetinnen und Propheten
-*** Eine bessere Welt
-*** Reflexion: Kann mich diese Gemeinschaft stärken?
-*** Übungsteil
+*** [[denote:20250730T093425][Übergang: Der Ruf nach Veränderung]]
+*** [[denote:20250730T093447][Prophetinnen und Propheten]]
+*** [[denote:20250730T101003][Eine bessere Welt]]
+*** [[denote:20250730T101023][Reflexion: Kann mich diese Gemeinschaft stärken?]]
+*** [[denote:20250730T101036][Übungsteil]]
 
 
 * Fragen | Sinn - Ziele im Leben finden (Kapitel 2)
@@ -57,17 +59,19 @@ Fächerübergreifendes Arbeiten
 Berufsorientierung – Berufsvorbereitung
 
 ** Basisseiten und Empfehlungen 
-*** Was möchtest du einmal machen?
-*** Vom Beruf zur Berufung
-*** Sehnsüchte und Sorgen
-*** Impuls: Ein Brief an mich selbst
-*** Übergang: Dystopien und Utopien
-*** Wie geht es mit unserer Welt weiter?
-*** Was kommt nach dem Tod?
-*** Unser Leben nach dem Tod?
-*** Jenseitsvorstellungen in den Religionen
-*** Reflexion: Können mich diese Fragen bewegen?
-*** Übungsteil
+
+*** [[denote:20250730T102311][Was soll aus mir einmal werden?]]
+*** [[denote:20250730T102329][Was möchtest du einmal machen?]]
+*** [[denote:20250730T102348][Vom Beruf zur Berufung]]
+*** [[denote:20250730T102356][Sehnsüchte und Sorgen]]
+*** [[denote:20250730T102407][Impuls: Ein Brief an mich selbst]]
+*** [[denote:20250730T102417][Übergang: Dystopien und Utopien]]
+*** [[denote:20250730T102433][Wie geht es mit unserer Welt weiter?]]
+*** [[denote:20250730T102456][Was kommt nach dem Tod?]]
+*** [[denote:20250730T102509][Unser Leben mit dem Tod]]
+*** [[denote:20250730T102521][Jenseitsvorstellungen in den Religionen]]
+*** [[denote:20250730T102533][Reflexion: Können mich diese Fragen bewegen?]]
+*** [[denote:20250730T102542][Übungsteil]]
 
 * Glaube | Auferstehung - den Tod überwinden (Kapitel 3)
 März bis April
@@ -95,17 +99,19 @@ Kirchenjahr – Fastenzeit - Ostern
 (Kap. 3.7, S. 60)
 
 ** Basisseiten und Empfehlungen
-*** Scheitern und Neubeginn
-*** Impuls: (Zu) hohe Erwartungen?
-*** Übergang: Jesus, der gescheiterte Messias?
-*** Jesus, gescheitert am Kreuz?
-*** Ankunft und Aufruhr
-*** Abschied und Einsamkeit
-*** Verleugnung und Tod
-*** Auferstehung und Befreiung
-*** Aufbruch und Neuanfang
-*** Reflexion: Kann mich dieser Glaube tragen?
-*** Übungsteil
+
+*** [[denote:20250730T102602][Scheitern (nicht) verboten]]
+*** [[denote:20250730T102611][Scheitern und Neubeginn]]
+*** [[denote:20250730T102623][Impuls: (Zu) hohe Erwartungen?]]
+*** [[denote:20250730T102635][Übergang: Jesus, der gescheiterte Messias?]]
+*** [[denote:20250730T102658][Jesus, gescheitert am Kreuz?]]
+*** [[denote:20250730T102710][Ankunft und Aufruhr]]
+*** [[denote:20250730T102723][Abschied und Einsamkeit]]
+*** [[denote:20250730T102735][Verleugnung und Tod]]
+*** [[denote:20250730T102745][Auferstehung und Befreiung]]
+*** [[denote:20250730T102755][Aufbruch und Neuanfang]]
+*** [[denote:20250730T102817][Reflexion: Kann mich dieser Glaube tragen?]]
+*** [[denote:20250730T102828][Übungsteil]]
 
 
 * Kirche | Firmung - ein Teil der Gemeinschaft werden (Kapitel 4)
@@ -127,15 +133,17 @@ Kooperation mit Pfarre
 Wenn sich in der 7. Schulstufe die Mehrheit der Schüler:innen auf das Sakrament der Firmung vorbereitet, könnte das Thema zur Unterstützung der pfarrlichen Firmvorbereitung erarbeitet werden.
 
 ** Basisseiten und Empfehlungen
-*** Was bringt uns die Kirche?
-*** Die Aufgaben der Kirche
-*** Gelebte Gemeinschaft
-*** Impuls: Empathie - Schlüssel für das Miteinander
-*** Übergang: Kirche - bist du dabei?
-*** Junge Menschen gestalten die Kirche
-*** Das Sakrament der Firmung
-*** Reflexion: Kann uns diese Kirche verbinden?
-*** Übungsteil
+
+*** [[denote:20250730T102847][Wie stehe ich zur Kirche?]]
+*** [[denote:20250730T102857][Was bringt uns die Kirche?]]
+*** [[denote:20250730T102910][Die Aufgaben der Kirche]]
+*** [[denote:20250730T102921][Gelebte Gemeinschaft]]
+*** [[denote:20250730T102932][Impuls: Empathie - Schlüssel für das Miteinander]]
+*** [[denote:20250730T102948][Übergang: Kirche - bist du dabei?]]
+*** [[denote:20250730T103001][Junge Menschen gestalten die Kirche]]
+*** [[denote:20250730T103012][Das Sakrament der Firmung]]
+*** [[denote:20250730T103026][Reflexion: Kann uns diese Kirche verbinden?]]
+*** [[denote:20250730T103036][Übungsteil]]
 
 * Welt | Kunst - das Leben ausdrücken (Kapitel 5)
 Mai bis Juni
@@ -159,16 +167,18 @@ Exkursion
 Welche Art religiöser Kunst findet sich in meinem Wohnort / in meiner Pfarre / in der Umgebung meiner Schule?
 
 ** Basisseiten und Empfehlungen
-*** Unsere Sinn-Zeichen
-*** Impuls: Ästhetische Mutmacher
-*** Tattoos - Der Körper als Sinn-Träger
-*** Mit Kunst auf Sinn-Suche
-*** Übergang: Vorstellungen vom Ende
-*** Bilder vom Ende
-*** Religiöse Kunst
-*** Religion prägt unsere Welt
-*** Reflexion: Wie prägt uns diese Welt?
-*** Übungsteil
+
+*** [[denote:20250730T103127][Wie soll ich das nur ausdrücken?]]
+*** [[denote:20250730T103141][Unsere Sinn-Zeichen]]
+*** [[denote:20250730T103155][Impuls: Ästhetische Mutmacher]]
+*** [[denote:20250730T103206][Tattoos - Der Körper als Sinn-Träger]]
+*** [[denote:20250730T103216][Mit Kunst auf Sinn-Suche]]
+*** [[denote:20250730T103226][Übergang: Vorstellungen vom Ende]]
+*** [[denote:20250730T103235][Bilder vom Ende]]
+*** [[denote:20250730T103244][Religiöse Kunst]]
+*** [[denote:20250730T103253][Religion prägt unsere Welt]]
+*** [[denote:20250730T103306][Reflexion: Wie prägt uns diese Welt?]]
+*** [[denote:20250730T103317][Übungsteil]]
 
 * Vielfalt | Asiatische Religionen - dem Kreislauf des Lebens folgen (Kapitel 6)
 Mai bis Juni /oder vorverlegen auf November bis Februar/ 
@@ -191,16 +201,18 @@ Interreligiöser Dialog
 Feste und Feiern in der religiösen Vielfalt über das Schuljahr hinweg ansprechen
 
 ** Basisseiten und Empfehlungen
-*** Religionen suchen nach Antworten
-*** Impuls: Religion - Freiheit oder Einschränkung?
-*** Übergang: Buddha im Baumarkt
-*** Hindu-Religionen und Buddhismus
-*** Die vielen Götter der Hindu-Religionen
-*** Samsara - das Leben als Kreislauf
-*** Glaubensleben in den Hindu-Religionen
-*** Siddharta Gautama - der erste Buddha
-*** Vier Wahrheiten, acht Wege
-*** Glaubensleben im Buddhismus
-*** Die religiöse Vielfalt Asiens
-*** Reflexion: Kann uns diese Vielfalt einen?
-*** Übungsteil
+
+*** [[denote:20250730T103337][Was es für das Leben braucht]]
+*** [[denote:20250730T103352][Religionen suchen nach Antworten]]
+*** [[denote:20250730T103408][Impuls: Religion - Freiheit oder Einschränkung?]]
+*** [[denote:20250730T103420][Übergang: Buddha im Baumarkt]]
+*** [[denote:20250730T103436][Hindu-Religionen und Buddhismus]]
+*** [[denote:20250730T103450][Die vielen Götter der Hindu-Religionen]]
+*** [[denote:20250730T103503][Samsara - das Leben als Kreislauf]]
+*** [[denote:20250730T103521][Glaubensleben in den Hindu-Religionen]]
+*** [[denote:20250730T103534][Siddharta Gautama - der erste Buddha]]
+*** [[denote:20250730T103550][Vier Wahrheiten, acht Wege]]
+*** [[denote:20250730T103602][Glaubensleben im Buddhismus]]
+*** [[denote:20250730T103616][Die religiöse Vielfalt Asiens]]
+*** [[denote:20250730T103633][Reflexion: Kann uns diese Vielfalt einen?]]
+*** [[denote:20250730T103646][Übungsteil]]

@@ -24,30 +24,34 @@ September - November
 - Geschlechterrollen
 
 ** Kompetenz laut Lehrplan
+
 Die Schüler können sich in ihrer Interaktion mit der Mitwelt differenziert wahrnehmen und zu einem wertschätzenden Kommunizieren beitragen.
 
 Die Schüler können vielfältige Formen von Liebe unterscheiden und sich mit der eigenen Geschlechtlichkeit auseinandersetzen.
 
 ** Hinweis / Alternativen
+
 Liturgische (Mit)Gestaltung Eröffnungsgottesdienst: Der Ablauf der Hl. Messe → Band 1: „Religion für mich“ (S. 125)
+
 
 ** Basisseiten und Empfehlungen
 
-*** Wie wir uns anderen mitteilen (S. 10)
+*** [[denote:20250729T124742][Wie wir uns anderen mitteilen]] (S. 10)
 *** [[denote:20240911T093726][Mit jedem redest du anders]] (S. 11)
 *** [[denote:20240911T093749][Mobbing: War doch nur Spaß?]] (S. 14 – 15)
 *** [[denote:20240911T093804][Impuls: Konflikte lösen]] (S. 16)
-*** Mensch, ärgere dich nicht? (S. 18)
-*** Liebe, eine Grundhaltung (S. 20 – 21)
-*** Freundschaft – Durch dick und dünn (S. 22)
-*** Verliebt und verzaubert (S. 24)
-*** Übungsteil
+*** [[denote:20250729T124801][Mensch, ärgere dich nicht?]] (S. 18)
+*** [[denote:20250729T124812][Liebe, eine Grundhaltung]] (S. 20 – 21)
+*** [[denote:20250729T124825][Freundschaft – Durch dick und dünn]] (S. 22)
+*** [[denote:20250729T124836][Verliebt und verzaubert]] (S. 24)
+*** [[denote:20250729T124846][Übungsteil]]
 
 
 * Vertrauen – an Herausforderungen wachsen (Kapitel 2)
 November - Dezember
 
 ** Themenfelder
+
 - Leid, Angst und Vertrauen
 - Klagepsalm
 - Schuld - Verzeihen
@@ -55,6 +59,7 @@ November - Dezember
 - Kinderrechte
 
 ** Kompetenz laut Lehrplan
+
 Die Schüler*innen können leidvolle Erfahrungen zum Ausdruck bringen und (christliche) Wege des Umgangs mit menschlicher Begrenztheit aufzeigen.
 Die Schüler*innen können (strukturelle) Schuld wahrnehmen, (eigenes) schuldhaftes Verhalten erkennen und sich mit Möglichkeiten der Vergebung auseinandersetzen.
 
@@ -62,18 +67,26 @@ Die Schüler*innen können (strukturelle) Schuld wahrnehmen, (eigenes) schuldhaf
 
 
 ** Basisseiten und Empfehlungen
-*** Was mich belastet (S. 34)
-*** Leid hat viele Gesichter (S. 35)
-*** Einen Klagepsalm beten (S. 38 – 39)
-*** Wie soll ich damit umgehen? (S. 36-37)
-*** Kannst du mir verzeihen? (S. 42)
-*** Ich verurteile dich nicht! (S. 43)
+
+*** [[denote:20250729T125604][Was mich belastet]] (S. 34)
+*** [[denote:20250729T125614][Leid hat viele Gesichter]] (S. 35)
+*** [[denote:20250729T125641][Wie soll ich damit umgehen?]] (S. 36-37)
+*** [[denote:20250729T125625][Einen Klagepsalm beten]] (S. 38 – 39)
+*** [[denote:20250729T130310][Warum habt ihr solche Angst?]] (S. 40)
+*** [[denote:20250729T130321][Vertrauen, die Stärke des Herzens]] (S. 41)
+*** [[denote:20250729T125652][Kannst du mir verzeihen?]] (S. 42)
+*** [[denote:20250729T125707][Ich verurteile dich nicht!]] (S. 43)
+*** [[denote:20250729T130332][Wir übernehmen Verantwortung!]] (S. 44)
+*** [[denote:20250729T130343][Handeln: Sehen - Urteilen - Handeln]] (S. 46)
+*** [[denote:20250729T130355][Kinder haben Rechte!]] (S. 48)
+*** [[denote:20250729T130405][Übungsteil: Und jetzt ich ...!]] (S. 50)
 
 
 * Altes Testament – von Gott erzählen (Kapitel 3)
 Jänner bis Februar
 
 ** Themenfelder
+
 - Von Gott sprechen
 - Bundestheologie anhand der Erzelternerzählung
 - Literarische Gattungen
@@ -90,15 +103,20 @@ Die Schüler*innen können Gottesvorstellungen aus Bibel und christlicher Tradit
 
 
 ** Basisseiten und Empfehlungen
+
 *** [[denote:20240708T224141][Gott – einfach unvorstellbar?]] (S. 54)
 *** [[denote:20240708T224215][Von Gott sprechen]] (S. 55)
 *** [[denote:20240708T224259][Impuls 1+1+1=1]] (S. 56-57)
+*** [[denote:20250729T131734][Gott zeigt sich den Menschen]]
+*** [[denote:20250729T131757][Der eine Gott]]
 *** [[denote:20240708T224342][Abraham und Sara – Gott ruft]] (S. 60)
 *** [[denote:20240708T224442][Isaak – Gott prüft]] (S. 62)
 *** [[denote:20240708T224514][Jakob – Gott streitet]] (S. 64 – 65)
 *** [[denote:20240708T224549][Geschichte & Geschichten]] (S. 66 – 67)
 *** [[denote:20240708T224633][Textgattungen unterscheiden]] (S. 68 – 69)
 *** [[denote:20240708T224718][Die Welt des Alten Testaments]] (S. 70 – 71)
+*** [[denote:20250729T131811][Und die Frauen?]]
+*** [[denote:20250729T131821][Übungsteil: und jetzt ich ...?]]
 
 
 
@@ -126,10 +144,16 @@ Die Schüler*innen können Symbole deuten und entwerfen und die Sakramente als Z
   Besinnungsfeier: Einen Klagepsalm beten (Kap. 2 – Impuls – S. 38–39)
 
 ** Basisseiten und Empfehlungen
-*** Wie wir sprechen (S. 78)
-*** Zeichen und Symbole (S. 80 - 81)
-*** Das sichtbare Symbol – Die spürbare Wirkung (S. 84 – 85)
-*** Was ist ein Sakrament? (S. 86 – 87)
+
+*** [[denote:20250729T132639][Wie wir sprechen]] (S. 78)
+*** [[denote:20250729T132649][Eine Sprache in Bildern]]
+*** [[denote:20250729T132659][Zeichen und Symbole]] (S. 80 - 81)
+*** [[denote:20250729T132708][Symbole sprechen lassen - Hand]]
+*** [[denote:20250729T132719][Das sichtbare Symbol]] 
+*** [[denote:20250729T132730][Die spürbare Wirkung]] (S. 84 – 85)
+*** [[denote:20250729T132742][Was ist ein Sakrament?]] (S. 86 – 87)
+*** [[denote:20250729T132751][Sakramente: Symbole und Zeichen erschließen]]
+*** [[denote:20250729T132802][Übungsteil: Und jetzt ich ...?]]
 
 
 * Religion – Gott in der Welt entdecken (Kapitel 5)
@@ -156,10 +180,17 @@ Marienmonat Mai:
 - Unter dem Schutz Marias (Impuls, S. 98–99)
 
 ** Basisseiten und Empfehlungen
-*** Religion, etwas sehr Persönliches? (S. 94)
-*** Religion prägt unsere Welt (S. 95)
-*** Die Kirche – das Haus Gottes? (S. 102 – 103)
-*** Der Innenraum einer Kirche (S. 106 – 107)
+*** [[denote:20250729T133449][Religion, etwas sehr Persönliches?]] (S. 94)
+*** [[denote:20250729T133501][Religion prägt unsere Welt]] (S. 95)
+*** [[denote:20250729T133511][Bräuche und Traditionen]] (S. 96)
+*** [[denote:20250729T133520][Maria, ein Phänomen]] (S. 97)
+*** [[denote:20250729T133529][Unter dem Schutz Marias]] (S. 98)
+*** [[denote:20250729T133538][Unterwegs zu Gott]] (S. 100)
+*** [[denote:20250729T133554][Die Kirche – das Haus Gottes?]] (S. 102 – 103)
+*** [[denote:20250729T133603][Baustile von Kirchen]] (S. 104)
+*** [[denote:20250729T133611][Der Innenraum einer Kirche]] (S. 106 – 107)
+*** [[denote:20250729T133619][Kirchenraum: Gottes Haus erkunden]] (S. 108)
+*** [[denote:20250729T133629][Übungsteil: Und jetzt ich ...?]] (S. 110)
 
 
 * Judentum – als Volk erwählt (Kapitel 6)
@@ -178,9 +209,16 @@ Liturgische (Mit)Gestaltung
 Schlussgottesdienst: Der Ablauf der Hl. Messe → Band 1: „Religion für mich“  (S. 125)
 
 ** Basisseiten und Empfehlungen
-*** Vergangenheit und Zukunft (S. 114)
-*** Woher ich komme (S. 115)
-*** Vorfahren im Glauben (S. 118)
-*** Das Judentum – ein Überblick (S. 119)
-*** Ein Volk – ein Gott (S. 120)
-*** Die Erwartung des Messias (S. 121)
+*** [[denote:20250729T133652][Vergangenheit und Zukunft]] (S. 114)
+*** [[denote:20250729T133732][Woher ich komme]] (S. 115)
+*** [[denote:20250729T133747][Mein Lebensbaum]] (S. 116)
+*** [[denote:20250729T133757][Vorfahren im Glauben]] (S. 118)
+*** [[denote:20250729T133807][Das Judentum – ein Überblick]] (S. 119)
+*** [[denote:20250729T133820][Ein Volk – ein Gott]] (S. 120)
+*** [[denote:20250729T133839][Die Erwartung des Messias]] (S. 121)
+*** [[denote:20250729T133858][Glaube und Leben]] (S. 122)
+*** [[denote:20250729T133945][Feste und Feiern ]] (S. 123)
+*** [[denote:20250729T133959][Die Synagoge]] (S. 124)
+*** [[denote:20250729T134011][Gegenstände und Symbole]] (S. 125)
+*** [[denote:20250729T134027][Forschen: ein Thema erforschen]] (S. 126)
+*** [[denote:20250729T134052][Übungsteil: Und jetzt ich ...?]] (S. 128)
