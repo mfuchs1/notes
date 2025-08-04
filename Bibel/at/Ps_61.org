@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-06-03 Mo 09:32]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 61.html
+#+export_file_name: ~/Documents/exports/Ps 61.html
 
 * Ps 61
 

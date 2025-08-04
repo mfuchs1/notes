@@ -2,7 +2,7 @@
 #+date:       [2023-02-02 Do 22:45]
 #+filetags:   :adhs:bib:lernen:
 #+identifier: 20230202T224553
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
 #+reference:  Rietzler.2016
 
 * Internetseiten zum Thema "Prüfungsangst"

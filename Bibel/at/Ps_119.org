@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-18 So 21:24]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 119.html
+#+export_file_name: ~/Documents/exports/Ps 119.html
 
 * Ps 119
 
@@ -921,7 +921,7 @@
 
 [fn:10] durch dein Wort: Text korr.; H: durch deine Wege.
 
-[fn:11] [[file:~/RoamNotes/notes/Bibel/nt/Mt_10.org::v18][Mt 10,18]]
+[fn:11] [[file:~/Documents/notes/Bibel/nt/Mt_10.org::v18][Mt 10,18]]
 
 [fn:12] von Herzen: ergänzt aus G.
 
@@ -967,7 +967,7 @@
 
 [fn:33] [[v29][119,29]].[[v128][128]]
 
-[fn:34] [[file:Spr_6.org::v23][Spr 6,23]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v12][Joh 8,12]]; [[file:~/RoamNotes/notes/Bibel/nt/2.Petr_1.org::v19][2 Petr 1,19]]
+[fn:34] [[file:Spr_6.org::v23][Spr 6,23]]; [[file:~/Documents/notes/Bibel/nt/Joh_8.org::v12][Joh 8,12]]; [[file:~/Documents/notes/Bibel/nt/2.Petr_1.org::v19][2 Petr 1,19]]
 
 [fn:35] Text korr., vgl. V. 25b
 
@@ -1009,7 +1009,7 @@
 
 [fn:54] [[file:Ps_139.org::v21][139,21]]
 
-[fn:55] [[file:~/RoamNotes/notes/Bibel/nt/Joh_17.org::v17][Joh 17,17]]
+[fn:55] [[file:~/Documents/notes/Bibel/nt/Joh_17.org::v17][Joh 17,17]]
 
 [fn:56] [[file:Gen_49.org::v18][Gen 49,18]]
 
@@ -1017,4 +1017,4 @@
 
 [fn:58] [[file:Ps_88.org::v3][88,3]]; [[file:Ps_79.org::v11][79,11]]
 
-[fn:59] [[file:Jes_53.org::v6][Jes 53,6]]; [[file:Jer_50.org::v6][Jer 50,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_15.org::v4][Lk 15,4-7]]
+[fn:59] [[file:Jes_53.org::v6][Jes 53,6]]; [[file:Jer_50.org::v6][Jer 50,6]]; [[file:~/Documents/notes/Bibel/nt/Lk_15.org::v4][Lk 15,4-7]]

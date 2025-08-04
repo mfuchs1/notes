@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-15 Fr 22:40]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 32.html
+#+export_file_name: ~/Documents/exports/Ps 32.html
 
 * Ps 32
 
@@ -78,7 +78,7 @@ bändigen, /\\
 * Footnotes
 
 [fn:1] [[file:Ps_65.org::v4][65,4]]; [[file:Ps_78.org::v38][78,38]]; [[file:Ps_83.org::v3][85,3]]; [[file:Ps_103.org::v3][103,3]]; [[file:Jes_1.org::v18][Jes 1,18]]; [[file:Jes_38.org::v17][38,17]]; [[file:Jer_31.org::v34][Jer 31,34]];
-[[file:~/RoamNotes/notes/Bibel/nt/1.Joh_1.org::v9][1 Joh 1,9]]; (1-2) [[file:~/RoamNotes/notes/Bibel/nt/Röm_4.org::v7][Röm 4,7f]]
+[[file:~/Documents/notes/Bibel/nt/1.Joh_1.org::v9][1 Joh 1,9]]; (1-2) [[file:~/Documents/notes/Bibel/nt/Röm_4.org::v7][Röm 4,7f]]
 
 [fn:2] [[file:Ps_38.org::v3][38,3]]; [[file:Ps_102.org::v5][102,5f]]
 

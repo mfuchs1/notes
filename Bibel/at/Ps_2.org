@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-03 So 13:42]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 2.html
+#+export_file_name: ~/Documents/exports/Ps 2.html
 
 * Ps 2
 
@@ -81,19 +81,19 @@ ist entbrannt. /\\
 
 * Footnotes
 
-[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/Offb_11.org::v18][Offb 11,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_4.org::v25][Apg 4,25f]]
+[fn:1] [[file:~/Documents/notes/Bibel/nt/Offb_11.org::v18][Offb 11,18]]; [[file:~/Documents/notes/Bibel/nt/Apg_4.org::v25][Apg 4,25f]]
 
-[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/Offb_19.org::v19][Offb 19,19]]
+[fn:2] [[file:~/Documents/notes/Bibel/nt/Offb_19.org::v19][Offb 19,19]]
 
 [fn:3] [[file:Ps_59.org::v9][59,9]]
 
-[fn:4] [[file:Ps_89.org::v27][89,27f]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v33][Apg 13,33]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_1.org::v5][Hebr 1,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_5.org::v5][5,5]]
+[fn:4] [[file:Ps_89.org::v27][89,27f]]; [[file:~/Documents/notes/Bibel/nt/Apg_13.org::v33][Apg 13,33]]; [[file:~/Documents/notes/Bibel/nt/Hebr_1.org::v5][Hebr 1,5]]; [[file:~/Documents/notes/Bibel/nt/Hebr_5.org::v5][5,5]]
 
-[fn:5] (8-9) [[file:Ps_72.org::v8][72,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_2.org::v26][Offb 2,26f]]
+[fn:5] (8-9) [[file:Ps_72.org::v8][72,8]]; [[file:~/Documents/notes/Bibel/nt/Offb_2.org::v26][Offb 2,26f]]
 
 [fn:6] dir: ergänzt nach G und S.
 
-[fn:7] [[file:Ps_110.org::v5][110,5f]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_12.org::v5][Offb 12,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_19.org::v15][19,15]]
+[fn:7] [[file:Ps_110.org::v5][110,5f]]; [[file:~/Documents/notes/Bibel/nt/Offb_12.org::v5][Offb 12,5]]; [[file:~/Documents/notes/Bibel/nt/Offb_19.org::v15][19,15]]
 
 [fn:8] Text korr.; H ist kaum verständlich: und jauchzt mit
 Beben, küsst den Sohn (in H zum Teil bereits V. 12).

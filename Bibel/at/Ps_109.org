@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-17 Sa 22:27]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 109.html
+#+export_file_name: ~/Documents/exports/Ps 109.html
 
 * Ps 109
 
@@ -193,7 +193,7 @@ durch einen Appell an Gottes Gerechtigkeit abgewehrt werden können.
 
 [fn:5] (4-5) [[file:Spr_17.org::v13][Spr 17,13]]; [[file:Ps_35.org::v12][Ps 35,12f]]
 
-[fn:6] [[file:~/RoamNotes/notes/Bibel/nt/Apg_1.org::v20][Apg 1,20]]
+[fn:6] [[file:~/Documents/notes/Bibel/nt/Apg_1.org::v20][Apg 1,20]]
 
 [fn:7] [[file:Ex_22.org::v23][Ex 22,23]]; [[file:Jer_18.org::v21][Jer 18,21]]
 
@@ -221,7 +221,7 @@ durch einen Appell an Gottes Gerechtigkeit abgewehrt werden können.
 
 [fn:19] [[file:Ps_64.org::v10][64,10]]
 
-[fn:20] [[file:Jes_65.org::v13][Jes 65,13f]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_6.org::v27][Lk 6,27f]]
+[fn:20] [[file:Jes_65.org::v13][Jes 65,13f]]; [[file:~/Documents/notes/Bibel/nt/Lk_6.org::v27][Lk 6,27f]]
 
 [fn:21] Text korr.; H: Sie treten auf, aber sie scheitern.
 

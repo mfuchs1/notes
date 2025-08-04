@@ -21,7 +21,7 @@ CLOSED: [2024-01-25 Do 09:31] DEADLINE: <2023-10-31 Di>
 - State "DONE"       from "TODO"       [2024-01-25 Do 09:31]
 :END:
 
-[[file:~/RoamNotes/notes/Bibel/at/Dtn_32.org][Dtn 32]]
+[[file:~/Documents/notes/Bibel/at/Dtn_32.org][Dtn 32]]
 
 * [[elisp:(org-project-capture-open-project "Gabriel")][Gabriel]] [0/2]
 :PROPERTIES:

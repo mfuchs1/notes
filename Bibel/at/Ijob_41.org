@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-03 So 00:15]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ijob 41.html
+#+export_file_name: ~/Documents/exports/Ijob 41.html
 
 * Ijob 41
 
@@ -155,6 +155,6 @@
 
 [fn:4] sein Rücken: Text korr.; H: sein Hochmut.
 
-[fn:5] [[file:~/RoamNotes/notes/Bibel/nt/Offb_9.org::v17][Offb 9,17]]
+[fn:5] [[file:~/Documents/notes/Bibel/nt/Offb_9.org::v17][Offb 9,17]]
 
 [fn:6] Sinn von H unklar.

@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-02 Sa 22:36]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ijob 34.html
+#+export_file_name: ~/Documents/exports/Ijob 34.html
 
 <<verses>>
 
@@ -228,13 +228,13 @@
 
 [fn:6] (14-15) [[file:Ps_104.org::v29][Ps 104,29f]]; [[file:Gen_2.org::v7][Gen 2,7]]; [[file:Koh_3.org::v20][Koh 3,20]]; [[file:Gen_3.org::v19][Gen 3,19]]
 
-[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v5][Röm 3,5]]
+[fn:7] [[file:~/Documents/notes/Bibel/nt/Röm_3.org::v5][Röm 3,5]]
 
 [fn:8] [[file:Jes_40.org::v23][Jes 40,23f]]
 
 [fn:9] [[file:Sir_35.org::v16][Sir 35,16]]
 
-[fn:10] [[file:Jer_32.org::v19][Jer 32,19]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_4.org::v13][Hebr 4,13]]
+[fn:10] [[file:Jer_32.org::v19][Jer 32,19]]; [[file:~/Documents/notes/Bibel/nt/Hebr_4.org::v13][Hebr 4,13]]
 
 [fn:11] [[file:Ps_139.org::v12][Ps 139,12]]
 

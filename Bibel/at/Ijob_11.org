@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-29 Mi 21:56]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ijob 11.html
+#+export_file_name: ~/Documents/exports/Ijob 11.html
 
 <<verses>>
 
@@ -121,7 +121,7 @@
 
 * Footnotes
 
-[fn:1] [[file:Ijob_32.org::v13][32,13]]; [[file:Sir_4.org::v18][Sir 4,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_11.org::v33][Röm 11,33]]
+[fn:1] [[file:Ijob_32.org::v13][32,13]]; [[file:Sir_4.org::v18][Sir 4,18]]; [[file:~/Documents/notes/Bibel/nt/Röm_11.org::v33][Röm 11,33]]
 
 [fn:2] Wunder: Text korr. - dass Gott dich zur Rechenschaft
 zieht: Text korr.; H: dass Gott deiner Schuld Vergessen schenkt.

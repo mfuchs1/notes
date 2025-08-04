@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-30 Mo 21:31]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 30.html
+#+export_file_name: ~/Documents/exports/Dtn 30.html
 
 <<verses>>
 
@@ -133,17 +133,17 @@ Vätern Abraham, Isaak und Jakob geschworen, es ihnen zu geben. [fn:16]\\
 
 [fn:3] [[file:Dtn_28.org::v64][28,64]]
 
-[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/Mt_24.org::v31][Mt 24,31]]
+[fn:4] [[file:~/Documents/notes/Bibel/nt/Mt_24.org::v31][Mt 24,31]]
 
-[fn:5] [[file:Dtn_10.org::v16][10,16]]; [[file:Dtn_11.org::v1][11,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_2.org::v29][Röm 2,29]]
+[fn:5] [[file:Dtn_10.org::v16][10,16]]; [[file:Dtn_11.org::v1][11,1]]; [[file:~/Documents/notes/Bibel/nt/Röm_2.org::v29][Röm 2,29]]
 
 [fn:6] [[file:Dtn_28.org::v4][28,4]].[[file:Dtn_28.org::v11][11f]].[[file:Dtn_28.org::v63][63]]
 
-[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/1.Joh_5.org::v3][1 Joh 5,3]]; (11-14) [[file:Jer_31.org::v31][Jer 31,31-34]]
+[fn:7] [[file:~/Documents/notes/Bibel/nt/1.Joh_5.org::v3][1 Joh 5,3]]; (11-14) [[file:Jer_31.org::v31][Jer 31,31-34]]
 
-[fn:8] (12-14) [[file:~/RoamNotes/notes/Bibel/nt/Röm_10.org::v6][Röm 10,6-10]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_3.org::v13][Joh 3,13]]
+[fn:8] (12-14) [[file:~/Documents/notes/Bibel/nt/Röm_10.org::v6][Röm 10,6-10]]; [[file:~/Documents/notes/Bibel/nt/Joh_3.org::v13][Joh 3,13]]
 
-[fn:9] [[file:Dtn_6.org::v6][6,6-9]]; [[file:Dtn_11.org::v18][11,18-20]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_2.org::v15][Röm 2,15]]
+[fn:9] [[file:Dtn_6.org::v6][6,6-9]]; [[file:Dtn_11.org::v18][11,18-20]]; [[file:~/Documents/notes/Bibel/nt/Röm_2.org::v15][Röm 2,15]]
 
 [fn:10] (15-20) [[file:Dtn_4.org::v1][4,1-4]]; [[file:Dtn_32.org::v47][32,47]]
 

@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-29 Mi 22:40]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ijob 17.html
+#+export_file_name: ~/Documents/exports/Ijob 17.html
 
 <<verses>>
 
@@ -110,7 +110,7 @@
 
 [fn:5] [[file:Jes_52.org::v15][Jes 52,15]]
 
-[fn:6] [[file:Ijob_11.org::v17][11,17]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v12][Joh 8,12]]
+[fn:6] [[file:Ijob_11.org::v17][11,17]]; [[file:~/Documents/notes/Bibel/nt/Joh_8.org::v12][Joh 8,12]]
 
 [fn:7] [[file:Ps_88.org::v19][Ps 88,19]]
 

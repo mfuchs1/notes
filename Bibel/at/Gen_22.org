@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-12 Do 10:13]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Gen 22.html
+#+export_file_name: ~/Documents/exports/Gen 22.html
 
 
 <<verses>>
@@ -128,4 +128,4 @@ Abrahams. Er hatte noch eine Nebenfrau namens Rëuma.
 besteht. In der Erzählung wird aber auch deutlich, dass Gott das
 Kinderopfer ablehnt, das bei den Kanaanitern bezeugt ist.
 
-[fn:2] 12,2f [[file:Gen_12.org::v2][Gen 12,2f]]; 18,18 [[file:Gen_18.org::v18][Gen 18,18]]; 26,4f [[file:Gen_26.org::v4][Gen 26,4f]]; 28,14 [[file:Gen_28.org::v14][Gen 28,14]]; Gal 3,16 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Gal_3.org::v16][Gal 3,16]]
+[fn:2] 12,2f [[file:Gen_12.org::v2][Gen 12,2f]]; 18,18 [[file:Gen_18.org::v18][Gen 18,18]]; 26,4f [[file:Gen_26.org::v4][Gen 26,4f]]; 28,14 [[file:Gen_28.org::v14][Gen 28,14]]; Gal 3,16 [[file:~/Documents/EUe-RoundtripHTML/nt/Gal_3.org::v16][Gal 3,16]]

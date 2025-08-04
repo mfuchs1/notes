@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-01-12 Fr 21:55]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 51.html
+#+export_file_name: ~/Documents/exports/Ps 51.html
 
 <<verses>>
 
@@ -126,13 +126,13 @@ verschmähen. [fn:12]\\
 
 [fn:1] [[file:2.Sam_12.org][2 Sam 12]]
 
-[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/Lk_18.org::v13][Lk 18,13]]
+[fn:2] [[file:~/Documents/notes/Bibel/nt/Lk_18.org::v13][Lk 18,13]]
 
 [fn:3] [[file:Jes_59.org::v12][Jes 59,12]]
 
-[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v4][Röm 3,4]]
+[fn:4] [[file:~/Documents/notes/Bibel/nt/Röm_3.org::v4][Röm 3,4]]
 
-[fn:5] [[file:Ijob_14.org::v4][Ijob 14,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_3.org::v6][Joh 3,6]]
+[fn:5] [[file:Ijob_14.org::v4][Ijob 14,4]]; [[file:~/Documents/notes/Bibel/nt/Joh_3.org::v6][Joh 3,6]]
 
 [fn:6] [[file:Num_19.org::v18][Num 19,18]]; [[file:Jes_1.org::v18][Jes 1,18]]
 
@@ -142,7 +142,7 @@ verschmähen. [fn:12]\\
 
 [fn:9] [[file:Ez_36.org::v26][Ez 36,26f]]
 
-[fn:10] (13-14) [[file:~/RoamNotes/notes/Bibel/nt/Röm_8.org::v9][Röm 8,9]].[[file:~/RoamNotes/notes/Bibel/nt/Röm_8.org::v14][14-16]]
+[fn:10] (13-14) [[file:~/Documents/notes/Bibel/nt/Röm_8.org::v9][Röm 8,9]].[[file:~/Documents/notes/Bibel/nt/Röm_8.org::v14][14-16]]
 
 [fn:11] [[file:Ps_40.org::v7][40,7]]
 

@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-15 Mi 22:22]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/1 Kön 17.html
+#+export_file_name: ~/Documents/exports/1 Kön 17.html
 
 <<verses>>
 
@@ -137,4 +137,4 @@ in ihrem Haus das Augenmerk seines Gottes auf sich und ihre Sünden
 gelenkt hat und dass er sie nun durch den Tod ihres Sohnes bestraft.
 
 [fn:4] Das gleiche Verhalten wird von Elischa in [[file:2.Kön_4.org::v34][2 Kön 4,34]] und
-von Paulus in [[file:~/RoamNotes/notes/Bibel/nt/Apg_20.org::v10][Apg 20,10]] berichtet.
+von Paulus in [[file:~/Documents/notes/Bibel/nt/Apg_20.org::v10][Apg 20,10]] berichtet.

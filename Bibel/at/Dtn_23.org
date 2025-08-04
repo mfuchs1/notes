@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-30 Mo 09:08]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 23.html
+#+export_file_name: ~/Documents/exports/Dtn 23.html
 
 
 <<verses>>
@@ -162,7 +162,7 @@ andern nicht schwingen. [fn:12]\\
 
 * Footnotes
 
-[fn:1] [[file:Dtn_27.org::v20][27,20]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_5.org::v1][1 Kor 5,1]]
+[fn:1] [[file:Dtn_27.org::v20][27,20]]; [[file:~/Documents/notes/Bibel/nt/1.Kor_5.org::v1][1 Kor 5,1]]
 
 [fn:2] Manche Bibelausgaben zählen diesen Vers als [[file:Dtn_22.org::v30][22,30]];
 entsprechend ändern sich die Verszahlen von [[v1][Kap. 23]].
@@ -187,6 +187,6 @@ keine Rolle, außer wenn eine Familie in Not geraten war. Das
 vorausgesetzt, ist ein Darlehen Pflicht der Nächstenliebe und Zins - der
 damals sehr hoch war - würde seine Natur verkehren.
 
-[fn:11] [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v33][Mt 5,33]]
+[fn:11] [[file:~/Documents/notes/Bibel/nt/Mt_5.org::v33][Mt 5,33]]
 
-[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/Mt_12.org::v1][Mt 12,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_2.org::v23][Mk 2,23]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_6.org::v1][Lk 6,1]]
+[fn:12] [[file:~/Documents/notes/Bibel/nt/Mt_12.org::v1][Mt 12,1]]; [[file:~/Documents/notes/Bibel/nt/Mk_2.org::v23][Mk 2,23]]; [[file:~/Documents/notes/Bibel/nt/Lk_6.org::v1][Lk 6,1]]

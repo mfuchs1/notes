@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-29 Mi 22:22]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ijob 15.html
+#+export_file_name: ~/Documents/exports/Ijob 15.html
 
 <<verses>>
 
@@ -200,7 +200,7 @@
 
 [fn:2] [[file:Jes_40.org::v13][Jes 40,13]]; [[file:Jer_23.org::v18][Jer 23,18]]
 
-[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/Röm_11.org::v34][Röm 11,34]]
+[fn:3] [[file:~/Documents/notes/Bibel/nt/Röm_11.org::v34][Röm 11,34]]
 
 [fn:4] [[file:Ijob_32.org::v7][32,7]]
 
@@ -225,4 +225,4 @@ was sie vor ihren Vätern nicht verhehlten.
 
 [fn:14] [[file:Ijob_20.org::v26][20,26]]
 
-[fn:15] [[file:Ps_7.org::v15][Ps 7,15]]; [[file:Jes_59.org::v4][Jes 59,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Gal_6.org::v8][Gal 6,8]]
+[fn:15] [[file:Ps_7.org::v15][Ps 7,15]]; [[file:Jes_59.org::v4][Jes 59,4]]; [[file:~/Documents/notes/Bibel/nt/Gal_6.org::v8][Gal 6,8]]

@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-29 So 20:14]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 17.html
+#+export_file_name: ~/Documents/exports/Dtn 17.html
 
 <<verses>>
 
@@ -142,9 +142,9 @@ lebt, er und seine Nachkommen. [fn:16]\\
 
 [fn:4] [[file:Dtn_19.org::v18][19,18]]
 
-[fn:5] [[file:Dtn_19.org::v15][19,15]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_18.org::v16][Mt 18,16]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v17][Joh 8,17]]; [[file:~/RoamNotes/notes/Bibel/nt/2 Kor 13::v1][2 Kor 13,1]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Tim_5.org::v19][1 Tim 5,19]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_10.org::v28][Hebr 10,28]]
+[fn:5] [[file:Dtn_19.org::v15][19,15]]; [[file:~/Documents/notes/Bibel/nt/Mt_18.org::v16][Mt 18,16]]; [[file:~/Documents/notes/Bibel/nt/Joh_8.org::v17][Joh 8,17]]; [[file:~/Documents/notes/Bibel/nt/2 Kor 13::v1][2 Kor 13,1]]; [[file:~/Documents/notes/Bibel/nt/1.Tim_5.org::v19][1 Tim 5,19]]; [[file:~/Documents/notes/Bibel/nt/Hebr_10.org::v28][Hebr 10,28]]
 
-[fn:6] [[file:Dtn_13.org::v10][13,10]]; [[file:Dtn_21.org::v21][21,21]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v7][Joh 8,7]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_5.org::v13][1 Kor 5,13]]
+[fn:6] [[file:Dtn_13.org::v10][13,10]]; [[file:Dtn_21.org::v21][21,21]]; [[file:~/Documents/notes/Bibel/nt/Joh_8.org::v7][Joh 8,7]]; [[file:~/Documents/notes/Bibel/nt/1.Kor_5.org::v13][1 Kor 5,13]]
 
 [fn:7] (8-13) [[file:Dtn_21.org::v5][21,5]]; [[file:Ex_18.org::v13][Ex 18,13-26]]; [[file:2.Chr_19.org::v8][2 Chr 19,8-11]]
 

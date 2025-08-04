@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-02 Sa 17:44]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ijob 24.html
+#+export_file_name: ~/Documents/exports/Ijob 24.html
 
 <<verses>>
 
@@ -161,11 +161,11 @@
 
 [fn:4] [[file:Dtn_24.org::v12][Dtn 24,12f]]
 
-[fn:5] [[file:~/RoamNotes/notes/Bibel/nt/Offb_6.org::v10][Offb 6,10f]]
+[fn:5] [[file:~/Documents/notes/Bibel/nt/Offb_6.org::v10][Offb 6,10f]]
 
 [fn:6] Sterbende: Text korr. nach S; H: Menschen.
 
-[fn:7] [[file:Ijob_38.org::v15][38,15]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_3.org::v20][Joh 3,20]]; [[file:~/RoamNotes/notes/Bibel/nt/Eph_5.org::v8][Eph 5,8]]-[[file:~/RoamNotes/notes/Bibel/nt/Eph_5.org::v14][14]]
+[fn:7] [[file:Ijob_38.org::v15][38,15]]; [[file:~/Documents/notes/Bibel/nt/Joh_3.org::v20][Joh 3,20]]; [[file:~/Documents/notes/Bibel/nt/Eph_5.org::v8][Eph 5,8]]-[[file:~/Documents/notes/Bibel/nt/Eph_5.org::v14][14]]
 
 [fn:8] [[file:Ps_10.org::v8][Ps 10,8f]]
 

@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-08 Do 21:56]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 103.html
+#+export_file_name: ~/Documents/exports/Ps 103.html
 
 * Ps 103
 
@@ -152,7 +152,7 @@ und Enkel; / [fn:15]\\
 
 [fn:10] so hoch: Text korr.; H: so stark.
 
-[fn:11] [[file:Ps_145.org::v9][145,9]]; [[file:Jdt_16.org::v15][Jdt 16,15]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_15.org::v11][Lk 15,11-24]]
+[fn:11] [[file:Ps_145.org::v9][145,9]]; [[file:Jdt_16.org::v15][Jdt 16,15]]; [[file:~/Documents/notes/Bibel/nt/Lk_15.org::v11][Lk 15,11-24]]
 
 [fn:12] [[file:Ps_146.org::v4][146,4]]
 
@@ -160,7 +160,7 @@ und Enkel; / [fn:15]\\
 
 [fn:14] [[file:Ijob_7.org::v10][Ijob 7,10]]
 
-[fn:15] [[file:Ex_20.org::v6][Ex 20,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v50][Lk 1,50]]
+[fn:15] [[file:Ex_20.org::v6][Ex 20,6]]; [[file:~/Documents/notes/Bibel/nt/Lk_1.org::v50][Lk 1,50]]
 
 [fn:16] [[file:Ps_25.org::v10][25,10]]
 

@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-06 Mo 13:13]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/1 Sam 12.html
+#+export_file_name: ~/Documents/exports/1 Sam 12.html
 
 
 * 1.Sam 12
@@ -155,7 +155,7 @@ in meiner Hand nichts gefunden habt.
 
 [fn:7] [[file:Ri_10.org::v10][Ri 10,10]]
 
-[fn:8] [[file:Ri_6.org::v14][Ri 6,14]]; [[file:Ri_11.org::v29][11,29]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v32][Hebr 11,32]]
+[fn:8] [[file:Ri_6.org::v14][Ri 6,14]]; [[file:Ri_11.org::v29][11,29]]; [[file:~/Documents/notes/Bibel/nt/Hebr_11.org::v32][Hebr 11,32]]
 
 [fn:9] Bedan: G und S lesen Barak.
 

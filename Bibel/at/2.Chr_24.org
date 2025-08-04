@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-22 Mi 22:57]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/2 Chr 24.html
+#+export_file_name: ~/Documents/exports/2 Chr 24.html
 
 <<verses>>
 
@@ -154,4 +154,4 @@ Sohn Amazja wurde König an seiner Stelle.\\
 
 [fn:3] [[file:2.Chr_15.org::v2][15,2]]
 
-[fn:4] Darauf bezieht sich das Wort Jesu in [[file:~/RoamNotes/notes/Bibel/nt/Mt_23.org::v35][Mt 23,35]].
+[fn:4] Darauf bezieht sich das Wort Jesu in [[file:~/Documents/notes/Bibel/nt/Mt_23.org::v35][Mt 23,35]].

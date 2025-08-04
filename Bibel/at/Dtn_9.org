@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-28 Sa 21:55]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 9.html
+#+export_file_name: ~/Documents/exports/Dtn 9.html
 
 
 <<verses>>
@@ -172,24 +172,24 @@ Kraft und hoch erhobenem Arm herausgeführt hast.
 
 [fn:2] [[file:Num_13.org::v32][Num 13,32f]]
 
-[fn:3] [[file:Dtn_6.org::v19][6,19]]; [[file:Dtn_31.org::v3][31,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_12.org::v29][Hebr 12,29]]
+[fn:3] [[file:Dtn_6.org::v19][6,19]]; [[file:Dtn_31.org::v3][31,3]]; [[file:~/Documents/notes/Bibel/nt/Hebr_12.org::v29][Hebr 12,29]]
 
-[fn:4] [[file:Dtn_6.org::v19][6,19]].[[file:Dtn_6.org::v25][25]]; [[file:Dtn_8.org::v17][8,17]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_10.org::v6][Röm 10,6]] (4-7) [[file:Dtn_8.org::v2][8,2-6]]; (4-6) [[file:~/RoamNotes/notes/Bibel/nt/Röm_10.org::v3][Röm 10,3]];
-[[file:~/RoamNotes/notes/Bibel/nt/Phil_3.org::v9][Phil 3,9]]
+[fn:4] [[file:Dtn_6.org::v19][6,19]].[[file:Dtn_6.org::v25][25]]; [[file:Dtn_8.org::v17][8,17]]; [[file:~/Documents/notes/Bibel/nt/Röm_10.org::v6][Röm 10,6]] (4-7) [[file:Dtn_8.org::v2][8,2-6]]; (4-6) [[file:~/Documents/notes/Bibel/nt/Röm_10.org::v3][Röm 10,3]];
+[[file:~/Documents/notes/Bibel/nt/Phil_3.org::v9][Phil 3,9]]
 
 [fn:5] [[file:Gen_15.org::v18][Gen 15,18]]
 
-[fn:6] [[v13][9,13]]; [[file:Ex_32.org::v9][Ex 32,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v51][Apg 7,51]]
+[fn:6] [[v13][9,13]]; [[file:Ex_32.org::v9][Ex 32,9]]; [[file:~/Documents/notes/Bibel/nt/Apg_7.org::v51][Apg 7,51]]
 
 [fn:7] [[file:Dtn_1.org::v26][1,26]].[[file:Dtn_1.org::v43][43]]; [[file:Num_20.org::v10][Num 20,10]].[[file:Num_20.org::v24][24]]; [[file:Ez_20.org::v8][Ez 20,8]].[[file:Ez_20.org::v13][13]].[[file:Ez_20.org::v21][21]]; [[file:Ps_78.org::v17][Ps 78,17]].[[file:Ps_78.org::v40][40]].[[file:Ps_78.org::v56][56]]
 
-[fn:8] [[file:Dtn_5.org::v22][5,22]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_4.org::v2][Mt 4,2]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_4.org::v2][Lk 4,2]]; (9-29) [[file:Ex_32.org::v1][Ex 32]]
+[fn:8] [[file:Dtn_5.org::v22][5,22]]; [[file:~/Documents/notes/Bibel/nt/Mt_4.org::v2][Mt 4,2]]; [[file:~/Documents/notes/Bibel/nt/Lk_4.org::v2][Lk 4,2]]; (9-29) [[file:Ex_32.org::v1][Ex 32]]
 
-[fn:9] [[file:Ex_31.org::v18][Ex 31,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v38][Apg 7,38]]; (10-11) [[file:~/RoamNotes/notes/Bibel/nt/2.Kor_3.org::v3][2 Kor 3,3]]
+[fn:9] [[file:Ex_31.org::v18][Ex 31,18]]; [[file:~/Documents/notes/Bibel/nt/Apg_7.org::v38][Apg 7,38]]; (10-11) [[file:~/Documents/notes/Bibel/nt/2.Kor_3.org::v3][2 Kor 3,3]]
 
 [fn:10] [[file:Ex_32.org::v10][Ex 32,10]]; [[file:num 14::v12][Num 14,12]]
 
-[fn:11] [[file:~/RoamNotes/notes/Bibel/nt/Hebr_12.org::v21][Hebr 12,21]]
+[fn:11] [[file:~/Documents/notes/Bibel/nt/Hebr_12.org::v21][Hebr 12,21]]
 
 [fn:12] [[file:Ex_17.org::v2][Ex 17,2-7]]; [[file:Num_11.org::v1][Num 11]]
 

@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-23 Fr 17:56]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Spr 14.html
+#+export_file_name: ~/Documents/exports/Spr 14.html
 
 * Spr 14
 
@@ -196,16 +196,16 @@
 
 [fn:2] Text unsicher; korr. nach G.
 
-[fn:3] [[file:Spr_16.org::v25][16,25]]; [[file:Sir_21.org::v10][Sir 21,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_7.org::v13][Mt 7,13]]
+[fn:3] [[file:Spr_16.org::v25][16,25]]; [[file:Sir_21.org::v10][Sir 21,10]]; [[file:~/Documents/notes/Bibel/nt/Mt_7.org::v13][Mt 7,13]]
 
 [fn:4] 17b: Nach S wäre die Antithese zu lesen: der Besonnene
 aber bleibt ruhig.
 
-[fn:5] [[file:~/RoamNotes/notes/Bibel/nt/Lk_16.org::v24][Lk 16,24-31]]
+[fn:5] [[file:~/Documents/notes/Bibel/nt/Lk_16.org::v24][Lk 16,24-31]]
 
 [fn:6] [[file:Spr_19.org::v4][19,4]]; [[file:Sir_13.org::v21][Sir 13,21-23]]
 
-[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v7][Mt 5,7]]
+[fn:7] [[file:~/Documents/notes/Bibel/nt/Mt_5.org::v7][Mt 5,7]]
 
 [fn:8] Text und Übersetzung unsicher.
 

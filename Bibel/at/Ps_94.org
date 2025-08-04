@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-05 Mo 22:35]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 94.html
+#+export_file_name: ~/Documents/exports/Ps 94.html
 
 * Ps 94
 
@@ -149,7 +149,7 @@
 
 [fn:7] [[file:Ps_33.org::v15][33,15]]; [[file:Ex_4.org::v11][Ex 4,11]]; [[file:Spr_20.org::v12][Spr 20,12]]
 
-[fn:8] [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_3.org::v20][1 Kor 3,20]]
+[fn:8] [[file:~/Documents/notes/Bibel/nt/1.Kor_3.org::v20][1 Kor 3,20]]
 
 [fn:9] [[file:Ps_119.org::v71][119,71]]; [[file:Ijob_5.org::v17][Ijob 5,17]]
 
@@ -159,7 +159,7 @@
 
 [fn:12] [[file:Ps_145.org::v14][145,14]]
 
-[fn:13] [[file:~/RoamNotes/notes/Bibel/nt/2.Kor_1.org::v4][2 Kor 1,4f]]
+[fn:13] [[file:~/Documents/notes/Bibel/nt/2.Kor_1.org::v4][2 Kor 1,4f]]
 
 [fn:14] der bestechliche Richter, wörtlich: ein Richterstuhl
 des Verderbens.

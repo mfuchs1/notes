@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-19 Mo 22:37]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 136.html
+#+export_file_name: ~/Documents/exports/Ps 136.html
 
 * Ps 136
 
@@ -175,8 +175,8 @@
 
 [fn:13] Wörtlich: als Erbe für Israel, seinen Knecht.
 
-[fn:14] [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v48][Lk 1,48]]
+[fn:14] [[file:~/Documents/notes/Bibel/nt/Lk_1.org::v48][Lk 1,48]]
 
-[fn:15] [[file:Ps_106.org::v43][106,43f]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v71][Lk 1,71]]
+[fn:15] [[file:Ps_106.org::v43][106,43f]]; [[file:~/Documents/notes/Bibel/nt/Lk_1.org::v71][Lk 1,71]]
 
 [fn:16] [[file:Ps_145.org::v15][145,15f]]

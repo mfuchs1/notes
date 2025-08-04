@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-02 Sa 22:11]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ijob 31.html
+#+export_file_name: ~/Documents/exports/Ijob 31.html
 
 <<verses>>
 
@@ -221,7 +221,7 @@
 
 * Footnotes
 
-[fn:1] [[file:Sir_9.org::v5][Sir 9,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v27][Mt 5,27]]-[[file:Sir_9.org::v29][29]]; (1-34) [[file:Ps_26.org][Ps 26]]
+[fn:1] [[file:Sir_9.org::v5][Sir 9,5]]; [[file:~/Documents/notes/Bibel/nt/Mt_5.org::v27][Mt 5,27]]-[[file:Sir_9.org::v29][29]]; (1-34) [[file:Ps_26.org][Ps 26]]
 
 [fn:2] [[file:Ps_132.org::v2][Ps 139,2]]
 
@@ -233,13 +233,13 @@
 
 [fn:6] [[file:Spr_17.org::v5][Spr 17,5]]
 
-[fn:7] [[file:Ijob_22.org::v9][22,9]]; [[file:Tob_4.org::v7][Tob 4,7]]-[[file:Tob_4.org::v11][11]]; [[file:Jes_58.org::v7][Jes 58,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_25.org::v35][Mt 25,35f]]
+[fn:7] [[file:Ijob_22.org::v9][22,9]]; [[file:Tob_4.org::v7][Tob 4,7]]-[[file:Tob_4.org::v11][11]]; [[file:Jes_58.org::v7][Jes 58,7]]; [[file:~/Documents/notes/Bibel/nt/Mt_25.org::v35][Mt 25,35f]]
 
 [fn:8] [[file:Ps_49.org::v7][Ps 49,7]]; [[file:Ps_52.org::v9][52,9]]; [[file:Spr_11.org::v28][Spr 11,28]]; [[file:Sir_31.org::v5][Sir 31,5]]-[[file:Sir_31.org::v10][10]]
 
 [fn:9] [[file:Dtn_4.org::v19][Dtn 4,19]]; [[file:Jer_8.org::v2][Jer 8,2]]; [[file:Ez_8.org::v16][Ez 8,16]]
 
-[fn:10] [[file:Spr_24.org::v17][Spr 24,17f]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v43][Mt 5,43]]-[[file:Spr_24.org::v48][48]]
+[fn:10] [[file:Spr_24.org::v17][Spr 24,17f]]; [[file:~/Documents/notes/Bibel/nt/Mt_5.org::v43][Mt 5,43]]-[[file:Spr_24.org::v48][48]]
 
 [fn:11] triumphierte: Text korr.
 

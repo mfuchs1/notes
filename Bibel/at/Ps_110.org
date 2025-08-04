@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-17 Sa 23:32]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 110.html
+#+export_file_name: ~/Documents/exports/Ps 110.html
 
 * Ps 110
 
@@ -57,13 +57,13 @@ vor dem Morgenstern, /\\
 
 * Footnotes
 
-[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/Mt_22.org::v44][Mt 22,44]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_2.org::v34][Apg 2,34f]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_1.org::v13][Hebr 1,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_8.org::v1][8,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_10.org::v12][10,12f]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_12.org::v2][12,2]]
+[fn:1] [[file:~/Documents/notes/Bibel/nt/Mt_22.org::v44][Mt 22,44]]; [[file:~/Documents/notes/Bibel/nt/Apg_2.org::v34][Apg 2,34f]]; [[file:~/Documents/notes/Bibel/nt/Hebr_1.org::v13][Hebr 1,13]]; [[file:~/Documents/notes/Bibel/nt/Hebr_8.org::v1][8,1]]; [[file:~/Documents/notes/Bibel/nt/Hebr_10.org::v12][10,12f]]; [[file:~/Documents/notes/Bibel/nt/Hebr_12.org::v2][12,2]]
 
 [fn:2] [[file:Ps_2.org::v7][2,7]]
 
 [fn:3] H ist schwer verständlich; die Übersetzung ist ein
 Versuch nach G.
 
-[fn:4] [[file:Gen_14.org::v18][Gen 14,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_5.org::v6][Hebr 5,6]]
+[fn:4] [[file:Gen_14.org::v18][Gen 14,18]]; [[file:~/Documents/notes/Bibel/nt/Hebr_5.org::v6][Hebr 5,6]]
 
 [fn:5] (5-6) [[file:Ps_2.org::v9][2,9]]

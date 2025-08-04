@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-12 Do 10:05]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Gen 14.html
+#+export_file_name: ~/Documents/exports/Gen 14.html
 
 
 <<verses>>
@@ -135,7 +135,7 @@ als ihren Anteil behalten.\\
 [fn:1] "Bruder" wird im Hebräischen auch für einen Verwandten
 (hier: den Neffen) gebraucht.
 
-[fn:2] Ps 110,4 [[file:Ps_110.org::v4][Ps 110,4]]; Hebr 5,6.10 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Hebr_5.org::v6][Hebr 5,6.10]]; 6,20 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Hebr_6.org::v20][Hebr 6,20]]; 7,1.10-17 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Hebr_7.org::v10][Hebr 7,1.10-17]]
+[fn:2] Ps 110,4 [[file:Ps_110.org::v4][Ps 110,4]]; Hebr 5,6.10 [[file:~/Documents/EUe-RoundtripHTML/nt/Hebr_5.org::v6][Hebr 5,6.10]]; 6,20 [[file:~/Documents/EUe-RoundtripHTML/nt/Hebr_6.org::v20][Hebr 6,20]]; 7,1.10-17 [[file:~/Documents/EUe-RoundtripHTML/nt/Hebr_7.org::v10][Hebr 7,1.10-17]]
 
 [fn:3] 18-20: In der Begegnung Abrahams mit Melchisedek zeigt
 sich, dass der «höchste Gott, der Schöpfer von Himmel und Erde», der in

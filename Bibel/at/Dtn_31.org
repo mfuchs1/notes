@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-30 Mo 21:46]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 31.html
+#+export_file_name: ~/Documents/exports/Dtn 31.html
 
 <<verses>>
 
@@ -196,12 +196,12 @@ Worte ganz Israel vorzutragen, sagte er zu ihnen.
 
 [fn:4] [[file:Dtn_7.org::v1][7,1-4]]; [[file:Dtn_20.org::v16][20,16-18]]
 
-[fn:5] (7-8) [[file:Dtn_1.org::v38][1,38]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_4.org::v8][Hebr 4,8]]
+[fn:5] (7-8) [[file:Dtn_1.org::v38][1,38]]; [[file:~/Documents/notes/Bibel/nt/Hebr_4.org::v8][Hebr 4,8]]
 
 [fn:6] Du sollst mit diesem Volk in das Land hineinziehen,
 andere Lesart: Du sollst dieses Volk in das Land führen.
 
-[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Hebr_13.org::v5][Hebr 13,5]]
+[fn:7] [[file:~/Documents/notes/Bibel/nt/Hebr_13.org::v5][Hebr 13,5]]
 
 [fn:8] [[file:Dtn_5.org::v23][5,23]]; [[file:Dtn_10.org::v8][10,8]]; [[file:Dtn_17.org::v18][17,18]]; [[v26][31,26]]
 
@@ -235,7 +235,7 @@ beachtet werden. Ähnliches gilt von der zweiten Überleitung in VV. 28f.
 
 [fn:20] (25-26) [[file:Dtn_17.org::v18][17,18]]; [[v9][31,9]]
 
-[fn:21] (26-27) [[file:~/RoamNotes/notes/Bibel/nt/Joh_5.org::v45][Joh 5,45]]; [[file:Dtn_32.org::v12][Dtn 31,12]]
+[fn:21] (26-27) [[file:~/Documents/notes/Bibel/nt/Joh_5.org::v45][Joh 5,45]]; [[file:Dtn_32.org::v12][Dtn 31,12]]
 
 [fn:22] [[file:Dtn_9.org::v6][9,6f]].[[file:Dtn_9.org::v24][24]]
 

@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-01-03 Mi 22:25]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 44.html
+#+export_file_name: ~/Documents/exports/Ps 44.html
 
 * Ps 44
 
@@ -181,7 +181,7 @@ dein Arm und dein leuchtendes Angesicht; /\\
 
 [fn:11] [[file:Ps_79.org::v4][79,4]]; [[file:Ps_80.org::v7][80,7]]
 
-[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/Röm_8.org::v36][Röm 8,36]]
+[fn:12] [[file:~/Documents/notes/Bibel/nt/Röm_8.org::v36][Röm 8,36]]
 
 [fn:13] [[file:Ps_74.org::v1][74,1]]; [[file:Ps_83.org::v2][83,2]]
 

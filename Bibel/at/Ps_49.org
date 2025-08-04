@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-01-04 Do 20:57]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 49.html
+#+export_file_name: ~/Documents/exports/Ps 49.html
 
 * Ps 49
 
@@ -133,7 +133,7 @@ Grab; /\\
 
 [fn:3] [[file:Ps_52.org::v9][52,9]]; [[file:Ijob_31.org::v24][Ijob 31,24f]]; [[file:Jer_9.org::v22][Jer 9,22]]
 
-[fn:4] (8-9) [[file:Spr_11.org::v4][Spr 11,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_16.org::v26][Mt 16,26]]
+[fn:4] (8-9) [[file:Spr_11.org::v4][Spr 11,4]]; [[file:~/Documents/notes/Bibel/nt/Mt_16.org::v26][Mt 16,26]]
 
 [fn:5] [[file:Koh_2.org::v16][Koh 2,16]]; [[v18][Ps 49,18]]
 
@@ -152,6 +152,6 @@ Grab; /\\
 
 [fn:12] (17-18) [[file:Sir_11.org::v18][Sir 11,18f]]
 
-[fn:13] [[v11][49,11]]; [[file:Ps_39.org::v7][39,7]]; [[file:Koh_2.org::v18][Koh 2,18]].[[file:Koh_2.org::v21][21f]]; [[file:Koh_5.org::v14][5,14]]; [[file:Koh_6.org::v2][6,2]]; [[file:Sir_11.org::v18][Sir 11,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_12.org::v20][Lk 12,20]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Tim_6.org::v7][1 Tim 6,7]]
+[fn:13] [[v11][49,11]]; [[file:Ps_39.org::v7][39,7]]; [[file:Koh_2.org::v18][Koh 2,18]].[[file:Koh_2.org::v21][21f]]; [[file:Koh_5.org::v14][5,14]]; [[file:Koh_6.org::v2][6,2]]; [[file:Sir_11.org::v18][Sir 11,18]]; [[file:~/Documents/notes/Bibel/nt/Lk_12.org::v20][Lk 12,20]]; [[file:~/Documents/notes/Bibel/nt/1.Tim_6.org::v7][1 Tim 6,7]]
 
 [fn:14] [[file:Ijob_10.org::v21][Ijob 10,21f]]

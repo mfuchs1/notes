@@ -9,9 +9,9 @@
 #+OPTIONS: broken-links:t H:6
 #+filetags: :hide:
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur authoryear-ibid
 #+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+TITLE: Gen_48
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com

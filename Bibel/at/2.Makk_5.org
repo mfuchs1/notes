@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-28 Di 17:14]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/2 Makk 5.html
+#+export_file_name: ~/Documents/exports/2 Makk 5.html
 
 <<verses>>
 
@@ -182,4 +182,4 @@ nur von Pflanzen, um nicht ebenfalls unrein zu werden. [fn:6]\\
 
 [fn:5] (24-26) [[file:1.Makk_1.org::v29][1 Makk 1,29f]]
 
-[fn:6] [[file:1.Makk_2.org::v28][1 Makk 2,28]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v38][Hebr 11,38]]
+[fn:6] [[file:1.Makk_2.org::v28][1 Makk 2,28]]; [[file:~/Documents/notes/Bibel/nt/Hebr_11.org::v38][Hebr 11,38]]

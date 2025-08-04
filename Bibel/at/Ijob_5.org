@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-28 Di 23:15]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ijob 5.html
+#+export_file_name: ~/Documents/exports/Ijob 5.html
 
 <<verses>>
 
@@ -169,7 +169,7 @@ die Anmerkung zu [[file:Ijob_1.org::v6][1,6]]).
 
 [fn:7] [[file:1.Sam_2.org::v7][1 Sam 2,7f]]
 
-[fn:8] [[file:~/RoamNotes/notes/Bibel/nt/Joh_12.org::v35][Joh 12,35]]
+[fn:8] [[file:~/Documents/notes/Bibel/nt/Joh_12.org::v35][Joh 12,35]]
 
 [fn:9] [[file:Ps_107.org::v42][Ps 107,42]]
 

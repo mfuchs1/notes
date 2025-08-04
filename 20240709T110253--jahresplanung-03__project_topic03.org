@@ -4,13 +4,13 @@
 #+identifier: 20240709T110253
 #+LANGUAGE: de
 #+CATEGORY: topic 03
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Jahresplanung 03.html
+#+export_file_name: ~/Documents/exports/Jahresplanung 03.html
 
 * Gemeinschaft | Schöpfung – das Geschenk Gottes bewahren (Kapitel 1)
 September bis Oktober

@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-29 So 22:00]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 21.html
+#+export_file_name: ~/Documents/exports/Dtn 21.html
 
 
 <<verses>>
@@ -151,7 +151,7 @@ befreite sich die Stadt von dieser Bedrohung.
 
 [fn:3] [[file:Dtn_10.org::v8][10,8]]; [[file:Dtn_17.org::v8][17,8-13]]; [[file:Dtn_19.org::v17][19,17]]
 
-[fn:4] (6-7) [[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v24][Mt 27,24]]
+[fn:4] (6-7) [[file:~/Documents/notes/Bibel/nt/Mt_27.org::v24][Mt 27,24]]
 
 [fn:5] (7-9) [[file:Dtn_19.org::v18][19,10]]
 
@@ -179,6 +179,6 @@ werden.
 
 [fn:13] [[file:Dtn_13.org::v6][13,6]].[[file:Dtn_13.org::v12][12]]; [[file:Dtn_17.org::v7][17,7]].[[file:Dtn_17.org::v12][12]]; [[file:Dtn_19.org::v13][19,13]].[[file:Dtn_19.org::v19][19]]; [[v9][21,9]]; [[file:Dtn_22.org::v21][22,21f]]; [[file:Dtn_24.org::v7][24,7]]; [[file:Ri_20.org::v13][Ri 20,13]]
 
-[fn:14] [[file:~/RoamNotes/notes/Bibel/nt/Apg_10.org::v39][Apg 10,39]]; (22-23) [[file:Jos_8.org::v29][Jos 8,29]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v57][Mt 27,57f]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_19.org::v31][Joh 19,31]]
+[fn:14] [[file:~/Documents/notes/Bibel/nt/Apg_10.org::v39][Apg 10,39]]; (22-23) [[file:Jos_8.org::v29][Jos 8,29]]; [[file:~/Documents/notes/Bibel/nt/Mt_27.org::v57][Mt 27,57f]]; [[file:~/Documents/notes/Bibel/nt/Joh_19.org::v31][Joh 19,31]]
 
-[fn:15] [[file:~/RoamNotes/notes/Bibel/nt/Gal_3.org::v13][Gal 3,13]]
+[fn:15] [[file:~/Documents/notes/Bibel/nt/Gal_3.org::v13][Gal 3,13]]

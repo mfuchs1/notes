@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-29 So 16:01]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 13.html
+#+export_file_name: ~/Documents/exports/Dtn 13.html
 
 <<verses>>
 
@@ -124,13 +124,13 @@ tust, was in den Augen des Herrn, deines Gottes, richtig ist.\\
 
 * Footnotes
 
-[fn:1] [[file:Dtn_4.org::v2][4,2]]; [[file:~/RoamNotes/notes/Bibel/nt/offb 22::v18][Offb 22,18f]]
+[fn:1] [[file:Dtn_4.org::v2][4,2]]; [[file:~/Documents/notes/Bibel/nt/offb 22::v18][Offb 22,18f]]
 
 [fn:2] Manche Bibelausgaben zählen diesen Vers als [[file:Dtn_12.org::v32][12,32]];
 entsprechend ändert sich die Verszählung in Kap. [[v1][13]].
 
-[fn:3] [[file:Jer_23.org::v25][Jer 23,25-32]]; (2-19) [[file:Jer_5.org::v6][5,6-9]]; [[file:Ex_22.org::v19][Ex 22,19]]; (2-4) [[file:~/RoamNotes/notes/Bibel/nt/Mt_24.org::24][Mt 24,24]];
-[[file:~/RoamNotes/notes/Bibel/nt/Mk_13.org::v22][Mk 13,22]]; [[file:~/RoamNotes/notes/Bibel/nt/2.Petr_2.org::v1][2 Petr 2,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_13.org::v14][Offb 13,14]]
+[fn:3] [[file:Jer_23.org::v25][Jer 23,25-32]]; (2-19) [[file:Jer_5.org::v6][5,6-9]]; [[file:Ex_22.org::v19][Ex 22,19]]; (2-4) [[file:~/Documents/notes/Bibel/nt/Mt_24.org::24][Mt 24,24]];
+[[file:~/Documents/notes/Bibel/nt/Mk_13.org::v22][Mk 13,22]]; [[file:~/Documents/notes/Bibel/nt/2.Petr_2.org::v1][2 Petr 2,1]]; [[file:~/Documents/notes/Bibel/nt/Offb_13.org::v14][Offb 13,14]]
 
 [fn:4] [[file:Dtn_7.org::v4][7,4]]; [[file:dtn 28::v14][28,14]]
 
@@ -138,7 +138,7 @@ entsprechend ändert sich die Verszählung in Kap. [[v1][13]].
 
 [fn:6] [[file:Dtn_10.org::v20][10,20]]; [[file:2.Kön_23.org::v3][2 Kön 23,3]]
 
-[fn:7] [[file:Dtn_21.org::v21][21,21]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_5.org::v13][1 Kor 5,13]]
+[fn:7] [[file:Dtn_21.org::v21][21,21]]; [[file:~/Documents/notes/Bibel/nt/1.Kor_5.org::v13][1 Kor 5,13]]
 
 [fn:8] «Du sollst das Böse aus deiner Mitte wegschaffen» und
 ähnliche Wendungen stehen am Schluss mehrerer Gesetze, die inhaltlich

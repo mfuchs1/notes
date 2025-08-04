@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-25 Sa 21:26]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Est 5.html
+#+export_file_name: ~/Documents/exports/Est 5.html
 
 <<verses>>
 
@@ -142,7 +142,7 @@ Haman sehr und er ließ den Galgen aufstellen. [fn:5]\\
 
 [fn:2] [[file:Est_4.org::v11][4,11]]
 
-[fn:3] [[v6][5,6]]; [[file:Est_7.org::v2][7,2]]; [[file:Est_9.org::v12][9,12]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_6.org::v23][Mk 6,23]]
+[fn:3] [[v6][5,6]]; [[file:Est_7.org::v2][7,2]]; [[file:Est_9.org::v12][9,12]]; [[file:~/Documents/notes/Bibel/nt/Mk_6.org::v23][Mk 6,23]]
 
 [fn:4] auch morgen: eingefügt mit G. - Die Frage des Königs
 beantworten, wörtlich: nach dem Wort des Königs handeln.

@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-20 Di 18:45]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 141.html
+#+export_file_name: ~/Documents/exports/Ps 141.html
 
 * Ps 141
 
@@ -75,7 +75,7 @@ Haupt nicht sträuben. /\\
 
 [fn:1] [[file:Ps_134.org::v2][134,2]]; [[file:Ex_30.org::v7][Ex 30,7f]]; [[file:Jdt_9.org::v1][Jdt 9,1]]; [[file:Num_28.org::v4][Num 28,4]]
 
-[fn:2] [[file:Ps_39.org::v2][39,2]]; [[file:~/RoamNotes/notes/Bibel/nt/Jak_3.org::v5][Jak 3,5f]]
+[fn:2] [[file:Ps_39.org::v2][39,2]]; [[file:~/Documents/notes/Bibel/nt/Jak_3.org::v5][Jak 3,5f]]
 
 [fn:3] [[file:Spr_9.org::v8][Spr 9,8]]; [[file:Spr_27.org::v5][27,5f]]
 

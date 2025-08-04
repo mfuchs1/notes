@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-02 Sa 23:18]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ijob 36.html
+#+export_file_name: ~/Documents/exports/Ijob 36.html
 
 <<verses>>
 
@@ -199,7 +199,7 @@
 
 [fn:5] [[file:Ps_95.org::v3][Ps 95,3]]; [[file:Dan_2.org::v47][Dan 2,47]]
 
-[fn:6] [[file:Jes_40.org::v13][Jes 40,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_11.org::v33][Röm 11,33f]]
+[fn:6] [[file:Jes_40.org::v13][Jes 40,13]]; [[file:~/Documents/notes/Bibel/nt/Röm_11.org::v33][Röm 11,33f]]
 
 [fn:7] [[file:Ps_145.org::v3][Ps 145,3]]
 

@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-05 Mo 16:01]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 91.html
+#+export_file_name: ~/Documents/exports/Ps 91.html
 
 * Ps 91
 
@@ -127,11 +127,11 @@ verwechselt werden, zumal man keine Vokale schrieb.
 
 [fn:11] [[file:Ijob_5.org::v19][Ijob 5,19]].[[file:Ijob_5.org::v24][24]]
 
-[fn:12] [[file:Ps_34.org::v8][34,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_1.org::v14][Hebr 1,14]]; (11-12) [[file:~/RoamNotes/notes/Bibel/nt/Mt_4.org::v6][Mt 4,6]]
+[fn:12] [[file:Ps_34.org::v8][34,8]]; [[file:~/Documents/notes/Bibel/nt/Hebr_1.org::v14][Hebr 1,14]]; (11-12) [[file:~/Documents/notes/Bibel/nt/Mt_4.org::v6][Mt 4,6]]
 
 [fn:13] [[file:Spr_3.org::v23][Spr 3,23]]
 
-[fn:14] [[file:~/RoamNotes/notes/Bibel/nt/Lk_10.org::v19][Lk 10,19]]
+[fn:14] [[file:~/Documents/notes/Bibel/nt/Lk_10.org::v19][Lk 10,19]]
 
 [fn:15] [[file:Ps_9.org::v11][9,11]]; [[file:Ps_119.org::v132][119,132]]
 

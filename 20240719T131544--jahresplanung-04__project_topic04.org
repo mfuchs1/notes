@@ -3,13 +3,13 @@
 #+filetags:   :Project:topic04:
 #+identifier: 20240719T131544
 #+CATEGORY: topic 04
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Jahresplanung 04.html
+#+export_file_name: ~/Documents/exports/Jahresplanung 04.html
 
 * Gemeinschaft | Gewissen - der inneren Stimme folgen (Kapitel 1)
 September bis Oktober

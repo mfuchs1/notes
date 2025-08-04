@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2025-07-02 Mi 11:53]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Weish 2.html
+#+export_file_name: ~/Documents/exports/Weish 2.html
 
 * Weish 2
 
@@ -172,7 +172,7 @@ Gottesknecht von Deuterojesaja (vgl. die Einleitung zu Jes) und Ps 22
 vor Augen. Das griechische Wort für Kind (pais) ist in G Übersetzung des
 hebräischen Wortes für Knecht (ebed).
 
-[fn:6] [[file:Ps_22.org::v9][Ps 22,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v42][Mt 27,42f]]
+[fn:6] [[file:Ps_22.org::v9][Ps 22,9]]; [[file:~/Documents/notes/Bibel/nt/Mt_27.org::v42][Mt 27,42f]]
 
 [fn:7] [[file:Weish_5.org::v4][5,4]]
 
@@ -180,4 +180,4 @@ hebräischen Wortes für Knecht (ebed).
 
 [fn:9] seines eigenen Wesens: nach anderen Textzeugen: seiner Ewigkeit.
 
-[fn:10] [[file:Gen_3.org::v1][Gen 3,1-5]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v44][Joh 8,44]]; [[file:Weish_1.org::v16][Weish 1,16]]
+[fn:10] [[file:Gen_3.org::v1][Gen 3,1-5]]; [[file:~/Documents/notes/Bibel/nt/Joh_8.org::v44][Joh 8,44]]; [[file:Weish_1.org::v16][Weish 1,16]]

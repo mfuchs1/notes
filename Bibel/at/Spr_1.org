@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-21 Mi 14:07]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Spr 1.html
+#+export_file_name: ~/Documents/exports/Spr 1.html
 
 * Spr 1
 
@@ -260,7 +260,7 @@ eingegangen (vgl. 16,18; 24,16; 25,21f; 26,27).\\
 
 [fn:3] [[file:Spr_6.org::v20][6,20]]; [[file:Spr_23.org::v22][23,22]]
 
-[fn:4] [[file:Jes_59.org::v7][Jes 59,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v15][Röm 3,15]]
+[fn:4] [[file:Jes_59.org::v7][Jes 59,7]]; [[file:~/Documents/notes/Bibel/nt/Röm_3.org::v15][Röm 3,15]]
 
 [fn:5] 17f: Sinn: Die Vögel meiden ein Netz, das sie sehen; die
 Verführer aber rennen in ihr eigenes Verderben.

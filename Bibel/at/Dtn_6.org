@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-28 Sa 17:13]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 6.html
+#+export_file_name: ~/Documents/exports/Dtn 6.html
 
 
 <<verses>>
@@ -137,7 +137,7 @@ die Motive von [[file:Dtn_5.org::v27][5,27-29]] noch einmal anklingen lassen.
 
 [fn:2] [[file:Ex_3.org::v8][Ex 3,8.17]]
 
-[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v30][Röm 3,30]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_8.org::v4][1 Kor 8,4]] (4-5) [[file:~/RoamNotes/notes/Bibel/nt/Mk_12.org::v29][Mk 12,29-33]];
+[fn:3] [[file:~/Documents/notes/Bibel/nt/Röm_3.org::v30][Röm 3,30]]; [[file:~/Documents/notes/Bibel/nt/1.Kor_8.org::v4][1 Kor 8,4]] (4-5) [[file:~/Documents/notes/Bibel/nt/Mk_12.org::v29][Mk 12,29-33]];
 
 [fn:4] Andere Übersetzungsmöglichkeit: Jahwe ist unser Gott,
 Jahwe allein. - Wie man auch übersetzt, der Vers bietet keine Lehre vom
@@ -147,7 +147,7 @@ alle Völker. Später wird der Vers als Bekenntnis zum Monotheismus
 verstanden. Die im Text gegebene Übersetzung zeigt, dass auf die Sprache
 der Liebeslyrik angespielt wird (vgl. [[file:Hld_6.org::v8][Hld 6,8f]]).
 
-[fn:5] [[file:Dtn_5.org::v10][5,10]]; [[file:Dtn_11.org::v1][11,1]]; [[file:2.Kön_23.org::v3][2 Kön 23,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_10.org::v27][Lk 10,27]]
+[fn:5] [[file:Dtn_5.org::v10][5,10]]; [[file:Dtn_11.org::v1][11,1]]; [[file:2.Kön_23.org::v3][2 Kön 23,3]]; [[file:~/Documents/notes/Bibel/nt/Lk_10.org::v27][Lk 10,27]]
 
 [fn:6] (6-9) [[file:Dtn_11.org::v18][11,18-20]]; [[file:Dtn_30.org::v11][30,11-14]]
 
@@ -158,20 +158,20 @@ Herz auch als Sitz des Gedächtnisses galt, ist hier gesagt, man solle
 [fn:8] Du sollst von ihnen reden, andere
 Übersetzungsmöglichkeit: Du sollst sie aufsagen.
 
-[fn:9] (8-9) [[file:~/RoamNotes/notes/Bibel/nt/Mt_23.org::v5][Mt 23,5]]; [[file:Ex_13.org::v9][Ex 13,9.16]]
+[fn:9] (8-9) [[file:~/Documents/notes/Bibel/nt/Mt_23.org::v5][Mt 23,5]]; [[file:Ex_13.org::v9][Ex 13,9.16]]
 
 [fn:10] (10-11) [[file:Jos_24.org::v13][Jos 24,13]]
 
 [fn:11] (12-15) [[file:Dtn_5.org::v6][5,6-9]]
 
-[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/Mt_4.org::v10][Mt 4,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_4.org::v8][Lk 4,8]]
+[fn:12] [[file:~/Documents/notes/Bibel/nt/Mt_4.org::v10][Mt 4,10]]; [[file:~/Documents/notes/Bibel/nt/Lk_4.org::v8][Lk 4,8]]
 
 [fn:13] «fürchten» meint die Gottesverehrung in all ihren
 Formen.
 
 [fn:14] [[file:2.Kön_23.org::v3][2 Kön 23,3]]
 
-[fn:15] [[file:Ex_17.org::v2][Ex 17,2-7]]; [[file:Num_20.org::v1][Num 20,1-13]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_4.org::v7][Mt 4,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_4.org::v12][Lk 4,12]]
+[fn:15] [[file:Ex_17.org::v2][Ex 17,2-7]]; [[file:Num_20.org::v1][Num 20,1-13]]; [[file:~/Documents/notes/Bibel/nt/Mt_4.org::v7][Mt 4,7]]; [[file:~/Documents/notes/Bibel/nt/Lk_4.org::v12][Lk 4,12]]
 
 [fn:16] [[file:Dtn_5.org::v10][5,10]]; [[file:2.Kön_23.org::v3][2 Kön 23,3]]
 

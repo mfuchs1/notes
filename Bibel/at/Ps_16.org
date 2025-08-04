@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-04 Mo 22:11]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 16.html
+#+export_file_name: ~/Documents/exports/Ps 16.html
 
 * Ps 16
 
@@ -84,8 +84,8 @@
 
 [fn:5] mein: ergänzt nach G und S.
 
-[fn:6] (8-11) [[file:~/RoamNotes/notes/Bibel/nt/Apg_2.org::v25][Apg 2,25-28]]
+[fn:6] (8-11) [[file:~/Documents/notes/Bibel/nt/Apg_2.org::v25][Apg 2,25-28]]
 
-[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Apg_2.org::v31][Apg 2,31]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v35][13,35]]
+[fn:7] [[file:~/Documents/notes/Bibel/nt/Apg_2.org::v31][Apg 2,31]]; [[file:~/Documents/notes/Bibel/nt/Apg_13.org::v35][13,35]]
 
 [fn:8] [[file:Ps_25.org::v4][25,4]]

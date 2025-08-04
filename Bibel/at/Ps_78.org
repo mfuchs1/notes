@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-02 Fr 18:15]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 78.html
+#+export_file_name: ~/Documents/exports/Ps 78.html
 
 <<verses>>
 
@@ -393,7 +393,7 @@ verschaffen /\\
 
 * Footnotes
 
-[fn:1] [[file:Ps_49.org::v5][49,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_13.org::v35][Mt 13,35]]
+[fn:1] [[file:Ps_49.org::v5][49,5]]; [[file:~/Documents/notes/Bibel/nt/Mt_13.org::v35][Mt 13,35]]
 
 [fn:2] [[file:Ps_44.org::v2][44,2]]; (3-6) [[file:Ps_22.org::v31][22,31f]]
 
@@ -417,7 +417,7 @@ verschaffen /\\
 
 [fn:12] [[file:Mal_3.org::v10][Mal 3,10]]
 
-[fn:13] [[file:Ex_16.org::v4][Ex 16,4]].[[file:Ex_16.org::v14][14f]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_6.org::v31][Joh 6,31]]
+[fn:13] [[file:Ex_16.org::v4][Ex 16,4]].[[file:Ex_16.org::v14][14f]]; [[file:~/Documents/notes/Bibel/nt/Joh_6.org::v31][Joh 6,31]]
 
 [fn:14] [[file:Ps_105.org::v40][105,40]]
 

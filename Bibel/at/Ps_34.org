@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-22 Fr 09:36]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 34.html
+#+export_file_name: ~/Documents/exports/Ps 34.html
 
 * Ps 34
 
@@ -143,15 +143,15 @@ ihn fortjagte und er ging.] [fn:1]\\
 
 [fn:5] [[file:Ps_35.org::v5][35,5f]]; [[file:Ps_91.org::v11][91,11]]; [[file:Gen_32.org::v2][Gen 32,2f]]; [[file:Ex_14.org::v19][Ex 14,19]]
 
-[fn:6] [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v3][1 Petr 2,3]]
+[fn:6] [[file:~/Documents/notes/Bibel/nt/1.Petr_2.org::v3][1 Petr 2,3]]
 
-[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v53][Lk 1,53]]
+[fn:7] [[file:~/Documents/notes/Bibel/nt/Lk_1.org::v53][Lk 1,53]]
 
 [fn:8] Reiche: Text korr. nach G und S; H: junge Löwen.
 
-[fn:9] (13-17) [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_3.org::v10][1 Petr 3,10-12]]
+[fn:9] (13-17) [[file:~/Documents/notes/Bibel/nt/1.Petr_3.org::v10][1 Petr 3,10-12]]
 
-[fn:10] [[file:Ps_37.org::v27][37,27]]; [[file:Spr_3.org::v7][Spr 3,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_12.org::v14][Hebr 12,14]]
+[fn:10] [[file:Ps_37.org::v27][37,27]]; [[file:Spr_3.org::v7][Spr 3,7]]; [[file:~/Documents/notes/Bibel/nt/Hebr_12.org::v14][Hebr 12,14]]
 
 [fn:11] [[file:Ps_33.org::v18][33,18]]
 
@@ -162,4 +162,4 @@ ihn fortjagte und er ging.] [fn:1]\\
 
 [fn:14] [[file:Ps_51.org::v19][51,19]]; [[file:Ps_145.org::v18][145,18]]
 
-[fn:15] [[file:~/RoamNotes/notes/Bibel/nt/2.Kor_1.org::v5][2 Kor 1,5]]
+[fn:15] [[file:~/Documents/notes/Bibel/nt/2.Kor_1.org::v5][2 Kor 1,5]]

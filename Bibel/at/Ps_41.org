@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-01-02 Di 22:36]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 41.html
+#+export_file_name: ~/Documents/exports/Ps 41.html
 
 * Ps 41
 
@@ -90,13 +90,13 @@
 
 * Footnotes
 
-[fn:1] [[file:Spr_14.org::v21][Spr 14,21]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v7][Mt 5,7]]
+[fn:1] [[file:Spr_14.org::v21][Spr 14,21]]; [[file:~/Documents/notes/Bibel/nt/Mt_5.org::v7][Mt 5,7]]
 
 [fn:2] [[file:Ps_6.org::v3][6,3]]
 
 [fn:3] [[file:Ps_22.org::v7][22,7f]]; [[file:Ps_44.org::v14][44,14f]]; [[file:Ps_71.org::v7][71,7]]; [[file:Ps_89.org::v51][89,51]]; [[file:Ps_102.org::v9][102,9]]; [[file:Ps_109.org::v25][109,25]]; [[file:Ps_123.org::v3][123,3f]]
 
-[fn:4] [[file:Ps_31.org::v12][31,12]]; [[file:Obd_1.org::v7][Obd 7]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_13.org::v18][Joh 13,18]]
+[fn:4] [[file:Ps_31.org::v12][31,12]]; [[file:Obd_1.org::v7][Obd 7]]; [[file:~/Documents/notes/Bibel/nt/Joh_13.org::v18][Joh 13,18]]
 
 [fn:5] Text korr.
 

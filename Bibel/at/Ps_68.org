@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-07-31 Mi 16:51]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Pc 68.html
+#+export_file_name: ~/Documents/exports/Pc 68.html
 
 * Ps 68
 
@@ -244,7 +244,7 @@ Rauch verweht wird, den du auseinander wehst.
 
 [fn:16] Text korr.; H: Der Herr ist unter ihnen, (der vom) Sinai (ist) im Heiligtum.
 
-[fn:17] [[file:Ps_47.org::v6][47,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Eph_4.org::v8][Eph 4,8-10]]
+[fn:17] [[file:Ps_47.org::v6][47,6]]; [[file:~/Documents/notes/Bibel/nt/Eph_4.org::v8][Eph 4,8-10]]
 
 [fn:18] [[file:Ps_145.org::v2][145,2]]; [[file:Jes_46.org::v3][Jes 46,3f]]; [[file:Ps_63.org::v9][63,9]]
 
@@ -273,7 +273,7 @@ H: damit du (Feinde) zerschmetterst, wobei dein Fuß im Blut (watet).
 
 [fn:30] Text korr.
 
-[fn:31] [[file:Ps_72.org::v10][72,10]]; [[file:Jes_18.org::v7][Jes 18,7]]; [[file:Jes_45.org::v14][45,14]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_8.org::v27][Apg 8,27]]
+[fn:31] [[file:Ps_72.org::v10][72,10]]; [[file:Jes_18.org::v7][Jes 18,7]]; [[file:Jes_45.org::v14][45,14]]; [[file:~/Documents/notes/Bibel/nt/Apg_8.org::v27][Apg 8,27]]
 
 [fn:32] [[file:Ps_7.org::v18][7,18]]
 

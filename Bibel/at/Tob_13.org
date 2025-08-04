@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-24 Fr 20:53]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Tob 13.html
+#+export_file_name: ~/Documents/exports/Tob 13.html
 
 <<verses>>
 
@@ -163,4 +163,4 @@
 
 [fn:5] [[file:Gen_12.org::v3][Gen 12,3]]
 
-[fn:6] [[file:Jes_54.org::v11][Jes 54,11f]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_21.org::v18][Offb 21,18]]-[[file:~/RoamNotes/notes/Bibel/nt/Offb_21.org::v21][21]]
+[fn:6] [[file:Jes_54.org::v11][Jes 54,11f]]; [[file:~/Documents/notes/Bibel/nt/Offb_21.org::v18][Offb 21,18]]-[[file:~/Documents/notes/Bibel/nt/Offb_21.org::v21][21]]

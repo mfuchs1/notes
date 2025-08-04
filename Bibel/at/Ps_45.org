@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-01-03 Mi 22:42]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 45.html
+#+export_file_name: ~/Documents/exports/Ps 45.html
 
 * Ps 45
 
@@ -117,7 +117,7 @@ Korachiter. Ein Liebeslied.]\\
 [fn:1] Text korr.; H: Kämpfe für die Sache der Wahrheit, der
 Armut und des Rechts!
 
-[fn:2] (7-8) [[file:~/RoamNotes/notes/Bibel/nt/Hebr_1.org::v8][Hebr 1,8f]]
+[fn:2] (7-8) [[file:~/Documents/notes/Bibel/nt/Hebr_1.org::v8][Hebr 1,8f]]
 
 [fn:3] Text korr.; H: Königstöchter unter deinen Kostbarkeiten.
 

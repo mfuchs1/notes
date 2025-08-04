@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-20 Di 23:15]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 145.html
+#+export_file_name: ~/Documents/exports/Ps 145.html
 
 * Ps 145
 
@@ -149,13 +149,13 @@ nach G, S und Vg.
 
 [fn:11] (15-16) [[file:Ps_104.org::v27][104,27f]]; [[file:Ps_136.org::v25][136,25]]
 
-[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/Mt_6.org::v25][Mt 6,25f]]
+[fn:12] [[file:~/Documents/notes/Bibel/nt/Mt_6.org::v25][Mt 6,25f]]
 
 [fn:13] [[file:Dtn_32.org::v4][Dtn 32,4]]
 
 [fn:14] [[file:Dtn_4.org::v7][Dtn 4,7]]; [[file:Jes_55.org::v6][Jes 55,6]]; [[file:Jes_58.org::v9][58,9]]; [[file:Jer_29.org::v13][Jer 29,13]]
 
-[fn:15] [[file:Ps_34.org::v18][34,18]]; [[file:Spr_10.org::v24][Spr 10,24]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_9.org::v31][Joh 9,31]]
+[fn:15] [[file:Ps_34.org::v18][34,18]]; [[file:Spr_10.org::v24][Spr 10,24]]; [[file:~/Documents/notes/Bibel/nt/Joh_9.org::v31][Joh 9,31]]
 
 [fn:16] [[file:Ri_5.org::v31][Ri 5,31]]
 

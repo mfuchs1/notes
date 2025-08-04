@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-30 Do 00:05]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ijob 21.html
+#+export_file_name: ~/Documents/exports/Ijob 21.html
 
 <<verses>>
 
@@ -227,4 +227,4 @@
 
 [fn:17] [[file:Koh_9.org::v2][Koh 9,2f]]
 
-[fn:18] [[file:~/RoamNotes/notes/Bibel/nt/Röm_2.org::v3][Röm 2,3]]-[[file:Koh_9.org::v6][6]]
+[fn:18] [[file:~/Documents/notes/Bibel/nt/Röm_2.org::v3][Röm 2,3]]-[[file:Koh_9.org::v6][6]]

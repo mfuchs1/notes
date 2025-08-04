@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-29 So 15:03]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 12.html
+#+export_file_name: ~/Documents/exports/Dtn 12.html
 
 
 <<verses>>
@@ -208,7 +208,7 @@ Feuer verbrannt, wenn sie ihren Göttern dienten. [fn:18]\\
 
 [fn:3] [[file:Dtn_7.org::v5][7,5]].[[file:Dtn_7.org::v25][25]]; [[file:Ex_23.org::v24][Ex 23,24]]; [[file:Ex_34.org::v13][34,13]]
 
-[fn:4] (4-28) [[file:Ex_20.org::v24][Ex 20,24]]; [[file:2.Kön_18.org::v22][2 Kön 18,22]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_4.org::v20][Joh 4,20]]
+[fn:4] (4-28) [[file:Ex_20.org::v24][Ex 20,24]]; [[file:2.Kön_18.org::v22][2 Kön 18,22]]; [[file:~/Documents/notes/Bibel/nt/Joh_4.org::v20][Joh 4,20]]
 
 [fn:5] [[v21][12,21]]; [[file:Dtn_14.org::v24][14,24]]; [[file:1.Kön_9.org::v3][1 Kön 9,3]]; [[file:1.Kön_11.org::v36][11,36]]; [[file:1.Kön_14.org::v21][14,21]]; [[file:2.Kön_21.org::v4][2 Kön 21,4]].[[file:2.Kön_21.org::v7][7]];
 [[file:1.Kön_6.org::v13][1 Kön 6,13]]; [[file:1.Kön_8.org::v12][8,12]]

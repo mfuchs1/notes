@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-02 Fr 16:58]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 75.html
+#+export_file_name: ~/Documents/exports/Ps 75.html
 
 * Ps 75
 
@@ -82,7 +82,7 @@ trinken, /\\
 
 [fn:3] [[file:Ps_94.org::v4][94,4]]
 
-[fn:4] [[file:Jer_3.org::v23][Jer 3,23]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_24.org::v23][Mt 24,23-28]]
+[fn:4] [[file:Jer_3.org::v23][Jer 3,23]]; [[file:~/Documents/notes/Bibel/nt/Mt_24.org::v23][Mt 24,23-28]]
 
 [fn:5] Text korr.
 

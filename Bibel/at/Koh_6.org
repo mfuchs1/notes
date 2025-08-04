@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2025-02-13 Do 12:54]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Koh 6.html
+#+export_file_name: ~/Documents/exports/Koh 6.html
 
 * Koh 6
 
@@ -93,7 +93,7 @@ ihm unter der Sonne geschehen wird? [fn:10]\\
 
 [fn:1] [[file:Koh_2.org::v17][2,17]]; [[file:Koh_8.org::v6][8,6]]; (1-9) [[file:Koh_2.org::v18][2,18-23]]
 
-[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/Lk_12.org::v20][Lk 12,20]]
+[fn:2] [[file:~/Documents/notes/Bibel/nt/Lk_12.org::v20][Lk 12,20]]
 
 [fn:3] [[file:Koh_4.org::v3][4,3]]; [[file:Ijob_3.org::v10][Ijob 3,10-16]]; [[file:Jer_20.org::v17][Jer 20,17]]
 

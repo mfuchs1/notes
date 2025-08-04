@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-24 Sa 00:09]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Spr 11.html
+#+export_file_name: ~/Documents/exports/Spr 11.html
 
 * Spr 11
 
@@ -200,4 +200,4 @@
 
 [fn:12] 30b: So nach G.
 
-[fn:13] [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_4.org::v18][1 Petr 4,18]]
+[fn:13] [[file:~/Documents/notes/Bibel/nt/1.Petr_4.org::v18][1 Petr 4,18]]

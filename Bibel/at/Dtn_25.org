@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-30 Mo 15:35]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 25.html
+#+export_file_name: ~/Documents/exports/Dtn 25.html
 
 <<verses>>
 
@@ -121,11 +121,11 @@ unter dem Himmel aus! Du sollst nicht vergessen. [fn:7]\\
 
 * Footnotes
 
-[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/2.Kor_11.org::v24][2 Kor 11,24]]
+[fn:1] [[file:~/Documents/notes/Bibel/nt/2.Kor_11.org::v24][2 Kor 11,24]]
 
-[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_9.org::v9][1 Kor 9,9]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Tim_5.org::v18][1 Tim 5,18]]
+[fn:2] [[file:~/Documents/notes/Bibel/nt/1.Kor_9.org::v9][1 Kor 9,9]]; [[file:~/Documents/notes/Bibel/nt/1.Tim_5.org::v18][1 Tim 5,18]]
 
-[fn:3] (5-10) [[file:Dtn_19.org::v12][19,12]]; (5-6) [[file:~/RoamNotes/notes/Bibel/nt/Mt_22.org::v24][Mt 22,24]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_12.org::v19][Mk 12,19]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_20.org::v28][Lk 20,28]]
+[fn:3] (5-10) [[file:Dtn_19.org::v12][19,12]]; (5-6) [[file:~/Documents/notes/Bibel/nt/Mt_22.org::v24][Mt 22,24]]; [[file:~/Documents/notes/Bibel/nt/Mk_12.org::v19][Mk 12,19]]; [[file:~/Documents/notes/Bibel/nt/Lk_20.org::v28][Lk 20,28]]
 
 [fn:4] 5-10: Die Schwagerehe war üblich, doch konnte man sie
 verweigern. Das hatte jedoch Rechtsfolgen, die in den Symbolhandlungen

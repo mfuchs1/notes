@@ -2,13 +2,13 @@
 #+date:       [2025-04-01 Di 08:58]
 #+filetags:   :schule:
 #+identifier: 20250401T085842
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Fürbitten.html
+#+export_file_name: ~/Documents/exports/Fürbitten.html
 
 * Grundlegende Überlegungen
 Fürbitten zum Thema "Mensch, wo bist du?", für den Gottesdienst kurz vor der Karwoche. Idee: der Mensch braucht keine Angst haben, sondern soll voller Hoffnung sein, Gott lässt ihn nicht allein, Gott sucht den Menschen, ... Die Karwoche und Ostern sollen in den Fürbitten vorkommen.

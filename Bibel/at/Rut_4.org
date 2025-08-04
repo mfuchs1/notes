@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-06 Mo 09:21]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Rut 4.html
+#+export_file_name: ~/Documents/exports/Rut 4.html
 
 
 <<verses>>
@@ -147,7 +147,7 @@ Acker auslösen.
 [fn:7] [[file:Gen_38.org::v29][Gen 38,29]]
 
 [fn:8] 18-22: Der Stammbaum Davids findet sich auch in [[file:1.Chr_2.org::v5][1 Chr 2,5-15]]
-und in [[file:~/RoamNotes/notes/Bibel/nt/Mt_1.org::v3][Mt 1,3-6]], wo Rut in V. 5 ausdrücklich als die Stammmutter
+und in [[file:~/Documents/notes/Bibel/nt/Mt_1.org::v3][Mt 1,3-6]], wo Rut in V. 5 ausdrücklich als die Stammmutter
 Davids genannt wird; in Mt 1 wird der Stammbaum dann bis auf Jesus
 weitergeführt. So gilt in der christlichen Tradition Rut als Ahnfrau
 Jesu.

@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-16 Do 22:33]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/1 Kön 19.html
+#+export_file_name: ~/Documents/exports/1 Kön 19.html
 
 <<verses>>
 
@@ -156,5 +156,5 @@ wohl ursprünglich an ihn gerichtet.
 Könige wird auch die Berufung Elischas als Salbung bezeichnet.
 
 [fn:9] Der Vorgang erinnert an die Berufung der Jünger Jesu
-(vgl. [[file:~/RoamNotes/notes/Bibel/nt/Mt_4.org::v19][Mt 4,19-22]]). Die volle Ausstattung Elischas zum Propheten erfolgte
+(vgl. [[file:~/Documents/notes/Bibel/nt/Mt_4.org::v19][Mt 4,19-22]]). Die volle Ausstattung Elischas zum Propheten erfolgte
 erst bei der Entrückung Elijas ([[file:2.Kön_2.org::v1][2 Kön 2]]).

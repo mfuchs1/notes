@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-01-12 Fr 21:30]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 50.html
+#+export_file_name: ~/Documents/exports/Ps 50.html
 
 <<verses>>
 
@@ -154,11 +154,11 @@
 
 [fn:9] [[file:Ps_24.org::v1][24,1]]
 
-[fn:10] [[file:Ps_119.org::v108][119,108]]; [[file:Ps_66.org::v13][66,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_13.org::v15][Hebr 13,15]]
+[fn:10] [[file:Ps_119.org::v108][119,108]]; [[file:Ps_66.org::v13][66,13]]; [[file:~/Documents/notes/Bibel/nt/Hebr_13.org::v15][Hebr 13,15]]
 
 [fn:11] [[file:Ps_91.org::v15][91,15]]
 
-[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/Röm_2.org::v17][Röm 2,17-24]]
+[fn:12] [[file:~/Documents/notes/Bibel/nt/Röm_2.org::v17][Röm 2,17-24]]
 
 [fn:13] schändlich: Text korr.
 

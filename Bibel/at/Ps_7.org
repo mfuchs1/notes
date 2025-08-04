@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-03 So 14:54]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 7.html
+#+export_file_name: ~/Documents/exports/Ps 7.html
 
 * Ps 7
 
@@ -128,7 +128,7 @@ Ehre in den Staub.
 
 [fn:8] [[file:Ps_18.org::v21][18,21-27]]
 
-[fn:9] [[file:Ps_26.org::v2][26,2]]; [[file:Jer_11.org::v20][Jer 11,20]]; [[file:Jer_17.org::v10][17,10]]; [[file:Jer_20.org::v12][20,12]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_2.org::v23][Offb 2,23]]
+[fn:9] [[file:Ps_26.org::v2][26,2]]; [[file:Jer_11.org::v20][Jer 11,20]]; [[file:Jer_17.org::v10][17,10]]; [[file:Jer_20.org::v12][20,12]]; [[file:~/Documents/notes/Bibel/nt/Offb_2.org::v23][Offb 2,23]]
 
 [fn:10] [[file:Ps_3.org::v4][3,4]]
 

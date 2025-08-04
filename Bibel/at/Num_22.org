@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-24 Di 17:05]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Num 22.html
+#+export_file_name: ~/Documents/exports/Num 22.html
 
 
 <<verses>>
@@ -206,7 +206,7 @@ Baalshöhen hinauf. Von dort konnte er bis zum Volk sehen. [fn:5]
 
 [fn:2] 24,9 [[file:Num_24.org::v9][Num 24,9]]; Gen 12,3 [[file:Gen_12.org::v3][Gen 12,3]]; 27,29 [[file:Gen_27.org::v29][Gen 27,29]]
 
-[fn:3] 23-35: Vgl. [[file:~/RoamNotes/notes/Bibel/nt/2.Petr_2.org::v16][2 Petr 2,16]]. Die Erzählung vom sprechenden
+[fn:3] 23-35: Vgl. [[file:~/Documents/notes/Bibel/nt/2.Petr_2.org::v16][2 Petr 2,16]]. Die Erzählung vom sprechenden
 Esel will zeigen, wie töricht die Wahrsagerei der Heiden ist: Selbst ein
 Esel ist klüger als ein Wahrsager, der meint, die Geheimnisse der
 Gottheit zu kennen.

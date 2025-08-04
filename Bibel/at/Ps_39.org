@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-01-02 Di 22:20]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 39.html
+#+export_file_name: ~/Documents/exports/Ps 39.html
 
 * Ps 39
 
@@ -99,13 +99,13 @@ Zaum an, /\\
 
 [fn:1] [[file:Ps_90.org::v12][90,12]]
 
-[fn:2] (6-7) [[file:Ps_90.org::v9][90,9f]]; [[file:Ps_109.org::v23][109,23]]; [[file:Ps_144.org::v4][144,4]]; [[file:Ijob_7.org::v6][Ijob 7,6f]]; [[file:Ijob_14.org::v2][14,2]]; [[file:~/RoamNotes/notes/Bibel/nt/Jak_4.org::v14][Jak 4,14]]
+[fn:2] (6-7) [[file:Ps_90.org::v9][90,9f]]; [[file:Ps_109.org::v23][109,23]]; [[file:Ps_144.org::v4][144,4]]; [[file:Ijob_7.org::v6][Ijob 7,6f]]; [[file:Ijob_14.org::v2][14,2]]; [[file:~/Documents/notes/Bibel/nt/Jak_4.org::v14][Jak 4,14]]
 
 [fn:3] [[file:Ps_49.org::v18][49,18]]
 
 [fn:4] [[file:Ijob_13.org::v28][Ijob 13,28]]
 
-[fn:5] [[file:Ps_119.org::v19][119,19]]; [[file:Lev_25.org::v23][Lev 25,23]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v13][Hebr 11,13]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v11][1 Petr 2,11]]
+[fn:5] [[file:Ps_119.org::v19][119,19]]; [[file:Lev_25.org::v23][Lev 25,23]]; [[file:~/Documents/notes/Bibel/nt/Hebr_11.org::v13][Hebr 11,13]]; [[file:~/Documents/notes/Bibel/nt/1.Petr_2.org::v11][1 Petr 2,11]]
 
 [fn:6] [[file:Ijob_7.org::v19][Ijob 7,19]]; [[file:Ijob_10.org::v21][10,21]]; [[file:Ijob_14.org::v6][14,6]]
 

@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-20 Di 23:28]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 146.html
+#+export_file_name: ~/Documents/exports/Ps 146.html
 
 * Ps 146
 
@@ -83,7 +83,7 @@ Gerechten, /\\
 
 [fn:5] [[file:Jer_17.org::v7][Jer 17,7]]
 
-[fn:6] [[file:~/RoamNotes/notes/Bibel/nt/Apg_4.org::v24][Apg 4,24]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_14.org::v15][14,15]]
+[fn:6] [[file:~/Documents/notes/Bibel/nt/Apg_4.org::v24][Apg 4,24]]; [[file:~/Documents/notes/Bibel/nt/Apg_14.org::v15][14,15]]
 
 [fn:7] Wörtlich: das Meer und alles, was in ihnen ist.
 

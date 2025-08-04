@@ -3,13 +3,13 @@
 #+filetags:   :schule:
 #+identifier: 20250512T085255
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Abschlussgottesdienst.html
+#+export_file_name: ~/Documents/exports/Abschlussgottesdienst.html
 
 * Termin
 <2025-07-03 Do 18:00>

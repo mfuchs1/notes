@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-29 So 13:41]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 10.html
+#+export_file_name: ~/Documents/exports/Dtn 10.html
 
 
 * Dtn 10
@@ -129,7 +129,7 @@ die Sterne am Himmel. [fn:19]
 
 [fn:1] [[file:Ex_34.org::v1][Ex 34,1]]
 
-[fn:2] (3-5) [[file:~/RoamNotes/notes/Bibel/nt/Hebr_9.org::v4][Hebr 9,4]]
+[fn:2] (3-5) [[file:~/Documents/notes/Bibel/nt/Hebr_9.org::v4][Hebr 9,4]]
 
 [fn:3] (6-7) [[file:Num_33.org::v31][Num 33,31-33]]; [[file:Num_20.org::v22][Num 20,22-29]]
 
@@ -154,10 +154,10 @@ allem, was auf ihr lebt.
 
 [fn:11] [[file:Dtn_7.org::v6][7,6-8]]
 
-[fn:12] [[file:Dtn_9.org::v6][9,6]].[[file:Dtn_9.org::v13][13]]; [[file:Jer_4.org::v4][Jer 4,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_2.org::v29][Röm 2,29]]
+[fn:12] [[file:Dtn_9.org::v6][9,6]].[[file:Dtn_9.org::v13][13]]; [[file:Jer_4.org::v4][Jer 4,4]]; [[file:~/Documents/notes/Bibel/nt/Röm_2.org::v29][Röm 2,29]]
 
-[fn:13] [[file:Dtn_19.org::v16][19,16]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_10.org::v34][Apg 10,34]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_2.org::v11][Röm 2,11]]; [[file:~/RoamNotes/notes/Bibel/nt/Gal_2.org::v6][Gal 2,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Eph_6.org::v9][Eph 6,9]];
-[[file:~/RoamNotes/notes/Bibel/nt/Kol_3.org::v25][Kol 3,25]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Tim_6.org::15][1 Tim 6,15]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_1.org::v17][1 Petr 1,17]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_17.org::v14][Offb 17,14]]
+[fn:13] [[file:Dtn_19.org::v16][19,16]]; [[file:~/Documents/notes/Bibel/nt/Apg_10.org::v34][Apg 10,34]]; [[file:~/Documents/notes/Bibel/nt/Röm_2.org::v11][Röm 2,11]]; [[file:~/Documents/notes/Bibel/nt/Gal_2.org::v6][Gal 2,6]]; [[file:~/Documents/notes/Bibel/nt/Eph_6.org::v9][Eph 6,9]];
+[[file:~/Documents/notes/Bibel/nt/Kol_3.org::v25][Kol 3,25]]; [[file:~/Documents/notes/Bibel/nt/1.Tim_6.org::15][1 Tim 6,15]]; [[file:~/Documents/notes/Bibel/nt/1.Petr_1.org::v17][1 Petr 1,17]]; [[file:~/Documents/notes/Bibel/nt/Offb_17.org::v14][Offb 17,14]]
 
 [fn:14] 17f: Hier werden die wichtigsten Elemente des
 altorientalischen Königsideals auf Gott übertragen. Andere
@@ -173,4 +173,4 @@ einem Oberherrn (vgl. 2 Sam 20,2).
 
 [fn:18] [[file:Dtn_29.org::v1][29,1]]
 
-[fn:19] [[file:Gen_46.org::v27][Gen 46,27]]; [[file:Ex_1.org::v5][Ex 1,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v14][Apg 7,14]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v12][Hebr 11,12]]
+[fn:19] [[file:Gen_46.org::v27][Gen 46,27]]; [[file:Ex_1.org::v5][Ex 1,5]]; [[file:~/Documents/notes/Bibel/nt/Apg_7.org::v14][Apg 7,14]]; [[file:~/Documents/notes/Bibel/nt/Hebr_11.org::v12][Hebr 11,12]]

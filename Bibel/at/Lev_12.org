@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-12 Do 14:49]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Lev 12.html
+#+export_file_name: ~/Documents/exports/Lev 12.html
 
 <<verses>>
 
@@ -60,4 +60,4 @@ gereinigt. [fn:3]\\
 
 [fn:2] Gen 17,12 [[file:Gen_17.org::v12][Gen 17,12]]
 
-[fn:3] Lk 2,24 [[file:~/RoamNotes/notes/Bibel/nt/Lk_2.org::v24][Lk 2,24]]
+[fn:3] Lk 2,24 [[file:~/Documents/notes/Bibel/nt/Lk_2.org::v24][Lk 2,24]]

@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-30 Mo 16:14]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 27.html
+#+export_file_name: ~/Documents/exports/Dtn 27.html
 
 <<verses>>
 
@@ -132,7 +132,7 @@ hält. Und das ganze Volk soll rufen: Amen. [fn:17]\\
 
 [fn:1] [[file:Dtn_5.org::v23][5,23]]; (1-13) [[file:Jos_8.org::v30][Jos 8,30-35]]
 
-[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/Joh_4.org::v20][Joh 4,20]]
+[fn:2] [[file:~/Documents/notes/Bibel/nt/Joh_4.org::v20][Joh 4,20]]
 
 [fn:3] Garizim, andere Lesart: Ebal; sie stammt aus
 antisamaritischer Tendenz, denn nach V. 13 ist der Ebal der Berg des
@@ -160,7 +160,7 @@ Ahndung überantwortet.
 
 [fn:12] [[file:Dtn_24.org::v17][24,17]]; [[file:Ex_22.org::v20][Ex 22,20-23]]; [[file:Ex_23.org::v9][23,9]]
 
-[fn:13] [[file:Dtn_23.org::v1][23,1]]; [[file:2.Sam_16.org::v22][2 Sam 16,22]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_5.org::v1][1 Kor 5,1]]
+[fn:13] [[file:Dtn_23.org::v1][23,1]]; [[file:2.Sam_16.org::v22][2 Sam 16,22]]; [[file:~/Documents/notes/Bibel/nt/1.Kor_5.org::v1][1 Kor 5,1]]
 
 [fn:14] [[file:Ex_22.org::v18][Ex 22,18]]
 
@@ -168,4 +168,4 @@ Ahndung überantwortet.
 
 [fn:16] [[file:Dtn_19.org::v10][19,10]]; [[file:Ex_23.org::v8][Ex 23,8]]
 
-[fn:17] [[file:~/RoamNotes/notes/Bibel/nt/2.Kor_3.org::v9][2 Kor 3,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Gal_3.org::v10][Gal 3,10]]
+[fn:17] [[file:~/Documents/notes/Bibel/nt/2.Kor_3.org::v9][2 Kor 3,9]]; [[file:~/Documents/notes/Bibel/nt/Gal_3.org::v10][Gal 3,10]]

@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-26 Do 21:51]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 1.html
+#+export_file_name: ~/Documents/exports/Dtn 1.html
 
 
 * Einleitung
@@ -346,19 +346,19 @@ im Deutschen so am besten wiedergeben kann.
 
 [fn:9] 9-18: Wahrscheinlich ein Zusatz.
 
-[fn:10] Hebr 11,12 [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v12][Hebr 11,12]]
+[fn:10] Hebr 11,12 [[file:~/Documents/notes/Bibel/nt/Hebr_11.org::v12][Hebr 11,12]]
 
 [fn:11] 1,15 [[file:Dtn_1.org::v15][Dtn 1,15]]; 5,23 [[file:Dtn_5.org::v23][Dtn 5,23]]; 29,9 [[file:Dtn_29.org::v9][Dtn 29,9]]; 33,5 [[file:Dtn_33.org::v5][Dtn 33,5]]
 
 [fn:12] 1,13 [[file:Dtn_1.org::v13][Dtn 1,13]]; 16,18 [[file:Dtn_16.org::v18][Dtn 16,18]]
 
-[fn:13] (16-17) 16,18-20 [[file:Dtn_16.org::v18][Dtn 16,18-20]]; 17,8-13 [[file:Dtn_17.org::v8][Dtn 17,8-13]]; 2 Chr 19,5-11 [[file:2.Chr_19.org::v5][2 Chr 19,5-11]]; Joh 7,51 [[file:~/RoamNotes/notes/Bibel/nt/Joh_7.org::v51][Joh 7,51]]
+[fn:13] (16-17) 16,18-20 [[file:Dtn_16.org::v18][Dtn 16,18-20]]; 17,8-13 [[file:Dtn_17.org::v8][Dtn 17,8-13]]; 2 Chr 19,5-11 [[file:2.Chr_19.org::v5][2 Chr 19,5-11]]; Joh 7,51 [[file:~/Documents/notes/Bibel/nt/Joh_7.org::v51][Joh 7,51]]
 
 [fn:14] Im Dtn werden alle Angehörigen des eigenen Volkes als
 «Brüder» betrachtet. «Fremder» meint hier und häufig in Dtn den
 Gastbürger mit eingeschränkten Rechten.
 
-[fn:15] Jak 2,9 [[file:~/RoamNotes/notes/Bibel/nt/Jak_2.org::v9][Jak 2,9]]
+[fn:15] Jak 2,9 [[file:~/Documents/notes/Bibel/nt/Jak_2.org::v9][Jak 2,9]]
 
 [fn:16] Andere Übersetzungsmöglichkeit: denn das Gericht kommt
 von Gott.
@@ -381,7 +381,7 @@ Urbevölkerung des Landes. Sie lebten im Gebiet von Hebron.
 
 [fn:23] (29-31) 20,2-4 [[file:Dtn_20.org::v2][Dtn 20,2-4]]
 
-[fn:24] 29,1 [[file:Dtn_29.org::v1][Dtn 29,1]]; Apg 13,18 [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v18][Apg 13,18]]
+[fn:24] 29,1 [[file:Dtn_29.org::v1][Dtn 29,1]]; Apg 13,18 [[file:~/Documents/notes/Bibel/nt/Apg_13.org::v18][Apg 13,18]]
 
 [fn:25] Ex 13,21f [[file:Ex_13.org::v21][Ex 13,21f]]
 

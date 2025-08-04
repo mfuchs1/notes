@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-05 Mo 23:42]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 96.html
+#+export_file_name: ~/Documents/exports/Ps 96.html
 
 * Ps 96
 
@@ -106,4 +106,4 @@ wankt. /\\
 
 [fn:9] [[file:Jes_55.org::v12][Jes 55,12]]
 
-[fn:10] [[file:Ps_98.org::v9][98,9]]; [[file:Ps_9.org::v9][9,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_17.org::v31][Apg 17,31]]
+[fn:10] [[file:Ps_98.org::v9][98,9]]; [[file:Ps_9.org::v9][9,9]]; [[file:~/Documents/notes/Bibel/nt/Apg_17.org::v31][Apg 17,31]]

@@ -17,7 +17,7 @@
 #+LaTeX_CLASS_OPTIONS: [bigger]
 #+latex_header: \mode<beamer>{\usetheme{Montpellier}}
 #+COLUMNS: %40ITEM %10BEAMER_env(Env) %9BEAMER_envargs(Env Args) %4BEAMER_col(Col) %10BEAMER_extra(Extra)
-#+export_file_name: ~/RoamNotes/exports/presentation.html
+#+export_file_name: ~/Documents/exports/presentation.html
 
 * Introduction
 ** A simple slide

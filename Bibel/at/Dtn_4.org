@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-27 Fr 18:29]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 4.html
+#+export_file_name: ~/Documents/exports/Dtn 4.html
 
 
 <<verses>>
@@ -271,7 +271,7 @@ der Araba unterhalb der Steilhänge des Pisga.\\
 
 [fn:1] (1-4) 30,15-20 [[file:Dtn_30.org::v15][Dtn 30,15-20]]
 
-[fn:2] 13,1 [[file:Dtn_13.org::v1][Dtn 13,1]]; Offb 22,18f [[file:~/RoamNotes/notes/Bibel/nt/Offb_22.org::v18][Offb 22,18f]]
+[fn:2] 13,1 [[file:Dtn_13.org::v1][Dtn 13,1]]; Offb 22,18f [[file:~/Documents/notes/Bibel/nt/Offb_22.org::v18][Offb 22,18f]]
 
 [fn:3] 29,1 [[file:Dtn_29.org::v1][Dtn 29,1]]; Num 25,1-9 [[file:Num_25.org::v1][Num 25,1-9]]
 
@@ -283,15 +283,15 @@ des verheißenen Landes nach dessen Einnahme.
 [fn:6] 6f: Hier ist besonders an die Zeit Salomos gedacht, wie
 sie in [[file:1.Kön_3.org::v1][1 Kön 3]] - [[file:1.Kön_11.org::v1][11]] geschildert wird.
 
-[fn:7] (7-8) Röm 3,2 [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v2][Röm 3,2]]
+[fn:7] (7-8) Röm 3,2 [[file:~/Documents/notes/Bibel/nt/Röm_3.org::v2][Röm 3,2]]
 
 [fn:8] (9-14) [[file:Dtn_5.org::v2][5,2-31]]; [[file:Ex_19.org::v1][Ex 19-20]]; [[file:Dtn_5.org::v24][Dtn 5,24]]; [[file:Dtn_29.org::v1][29,1]]; [[file:Dtn_31.org::v13][31,13]]; [[file:Dtn_32.org::v46][32,46]]
 
-[fn:9] (11-12) [[file:~/RoamNotes/notes/Bibel/nt/Hebr_12.org::v18][Hebr 12,18f]]
+[fn:9] (11-12) [[file:~/Documents/notes/Bibel/nt/Hebr_12.org::v18][Hebr 12,18f]]
 
-[fn:10] [[file:~/RoamNotes/notes/Bibel/nt/Joh_1.org::v18][Joh 1,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_5.org::v37][5,37]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_6.org::v46][6,46]]
+[fn:10] [[file:~/Documents/notes/Bibel/nt/Joh_1.org::v18][Joh 1,18]]; [[file:~/Documents/notes/Bibel/nt/Joh_5.org::v37][5,37]]; [[file:~/Documents/notes/Bibel/nt/Joh_6.org::v46][6,46]]
 
-[fn:11] (15-19) [[file:~/RoamNotes/notes/Bibel/nt/Röm_1.org::v23][Röm 1,23]]
+[fn:11] (15-19) [[file:~/Documents/notes/Bibel/nt/Röm_1.org::v23][Röm 1,23]]
 
 [fn:12] (16-19) [[file:Dtn_5.org::v8][5,8f]]
 
@@ -311,7 +311,7 @@ wird anderen Völkern zugestanden.
 
 [fn:18] [[file:Dtn_29.org::v24][29,24]]
 
-[fn:19] [[file:Dtn_5.org::v9][5,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_12.org::v29][Hebr 12,29]]
+[fn:19] [[file:Dtn_5.org::v9][5,9]]; [[file:~/Documents/notes/Bibel/nt/Hebr_12.org::v29][Hebr 12,29]]
 
 [fn:20] (25-28) [[file:Dtn_28.org::v15][28,15-68]]
 
@@ -327,7 +327,7 @@ wird anderen Völkern zugestanden.
 
 [fn:26] [[file:Dtn_34.org::v11][34,11f]]
 
-[fn:27] [[file:~/RoamNotes/notes/Bibel/nt/Mk_12.org::v32][Mk 12,32]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_8.org::v4][1 Kor 8,4]]
+[fn:27] [[file:~/Documents/notes/Bibel/nt/Mk_12.org::v32][Mk 12,32]]; [[file:~/Documents/notes/Bibel/nt/1.Kor_8.org::v4][1 Kor 8,4]]
 
 [fn:28] 35.39: Die Frage nach der Existenz fremder Götter
 stellt das Dtn noch nicht; Israel ist jedoch einzig auf seinen Gott
@@ -344,7 +344,7 @@ Isaak-Linie weiterführen.
 
 [fn:31] [[file:Dtn_18.org::v12][18,12]]
 
-[fn:32] [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_8.org::v4][1 Kor 8,4]]
+[fn:32] [[file:~/Documents/notes/Bibel/nt/1.Kor_8.org::v4][1 Kor 8,4]]
 
 [fn:33] (41-43) [[file:Dtn_19.org::v1][19,1-10]]; [[file:Num_35.org::v6][Num 35,6-15]]
 

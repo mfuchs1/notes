@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-06 Mo 14:32]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/1 Sam 13.html
+#+export_file_name: ~/Documents/exports/1 Sam 13.html
 
 <<verses>>
 
@@ -145,7 +145,7 @@ Zu Bet-Awen vgl. Jos 7,2 und Hos 4,15 und die dortigen Anmerkungen.
 
 [fn:7] [[file:1.Sam_10.org::v8][10,8]]
 
-[fn:8] [[file:1.Sam_16.org::v1][16,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v22][Apg 13,22]]
+[fn:8] [[file:1.Sam_16.org::v1][16,1]]; [[file:~/Documents/notes/Bibel/nt/Apg_13.org::v22][Apg 13,22]]
 
 [fn:9] Ofra: nordöstlich von Jerusalem.
 

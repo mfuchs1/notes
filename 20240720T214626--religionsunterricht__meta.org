@@ -1,0 +1,167 @@
+#+title:      Religionsunterricht
+#+date:       [2024-07-20 Sa 21:46]
+#+filetags:   :meta:
+#+identifier: 20240720T214626
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Religionsunterricht.html
+
+
+* Gedanken
+:PROPERTIES:
+:CUSTOM_ID: h:e2382463-c212-4639-b0b9-8c07ee79c6d8
+:END:
+
+[cite:@Berger2004]
+
+** 1b - Überraschung am Ende der Stunde
+:PROPERTIES:
+:CAPTURED: [2024-09-19 Do 09:55]
+:END:
+
+[[denote:20240908T214521][C Klasse 2024-28]]
+
+Oh, am Ende dieser Stunde in der 1b (<2024-09-19 Do 09:25>) hat mich eine Schülerin mit einem Geschenk überrascht. Das hat mich so sehr berührt: ein Boot, gefaltet aus Papier; ich (oder Jesus?) drinnen, mit einem großen Lächeln, gestreiften Regenfarben Pulli (in einer Hand ein Weinglas, in der anderen Hand ein Brot).
+
+** Gespräch mit Direktorin
+:PROPERTIES:
+:CAPTURED: [2024-09-28 Sa 17:50]
+:END:
+Das Gespräch mit Gabi (Direktorin von Abtenau) verlief ganz anders als ich es erwartete. Mir ging es nicht gerade super die letzten Tage. Gabi hat mir versichert, dass sie voll und ganz hinter mir steht. Sie hat so sehr dafür gekämpft, dass ich als RL komme.
+
+Es gab gleich zu Beginn des SJ Beschwerden von Seiten der Eltern. Die Jahre davor haben die KVs den RU übernommen, zwar mit missio canonica, aber eben keine speziell ausgebildeten RL. Wie Gabi habe auch ich bemerkt, dass die Kinder es nicht gewohnt sind, im RU zu beten. Und daher kamen auch die Beschwerden, da ich angeblich den Kindern meinen Glauben überstülpe.
+
+Naja, was habe ich in den ersten Wochen unterrichtet? Da war nicht viel spezifischer RU Stoff. Wahrscheinlich war es das Beten, Vater Unser geht gerade noch, aber ein Ave Maria geht gar nicht.
+
+Zum Gebet sollen die Kinder hingeführt werden. Hm - aber wie? Z.B. wäre es eine wunderschöne Idee, wenn jeder Schüler sich selbst einen RK basteln könnte. Die Art, wie der RK in Pöllau geknüpft wird, ist relativ leicht umsetzbar. Es braucht eben viele Holzperlen in zwei Größen, kleine Holzkreuze und einige Superkleber - oder Heißkleber. Die Kreuze waren extra von "hinten" angebohrt. 
+
+Gott, Jesus als Werkzeug dienen, Er soll wirken, ich soll Ihm nicht im Weg stehen. Oft, manchmal wirkt Er (auch) durch unscheinbare Mittel.
+
+Beten, viel beten.
+
+Natürlich wünschen sich viele Eltern und Lehrer einen Ethikunterricht.
+
+** Was soll ich nur tun?
+:PROPERTIES:
+:CAPTURED: [2024-10-04 Fr 11:53]
+:END:
+Meine Arbeit macht mir einfach gar keine Freude mehr (die Frage ist, ob mir jemals eine Arbeit Freude bereitet hat.) Scheinbar steht auf meiner Stirn: Das ist Herr Fuchs, den kann man ungestraft verarschen! Denn ich werde so respektlos in vielen Klassen behandelt.
+
+Viele Stunden werden durch die Schüler torpediert. Ich bereite Material im Internet vor und stelle es für die iPads zur Verfügung. Und komischer weise geht natürlich das Internet nicht. Für die HÜ funktionieren die iPads und das Internet wieder. Komisch!
+
+Mir reicht es schon.
+
+Ich werde dieses Schuljahr irgendwie noch überleben, denn für mehr reicht es nimmer. Und dann schmeiße ich alles hin. Mir reicht es wirklich! Von oben kommt null Hilfe, mir fällt nichts mehr ein. Was bringt Gebet, wenn Gott schwiegt??!!
+
+** Neue Themen
+:PROPERTIES:
+:CAPTURED: [2024-11-10 So 10:49]
+:END:
+Für nächste Woche suche ich noch nach Themen, leider fällt mir derzeit gar nichts ein.
+
+- Ersten Klassen :: Lernschiene; ... den "Sturm auf dem See" haben die ersten Klassen so gut wie fertig; jetzt kommt "Die Heiligen"
+
+
+- Zweite Klassen ::
+  - Lernschiene
+
+    
+- Dritte Klassen ::
+  - Weltreligionen
+  - Vielleicht hier weiter machen und gemeinsam den Islam und das Judentum erarbeiten
+  - Grenzenlose Freiheit / Dekalog / Bergpredigt
+
+
+- Vierten Klassen ::
+  - das Buch der Offenbarung genauer weiter lesen (hat nur nicht so gut funktioniert in der 4c?); kein wirkliches Interesse
+  - Heiliger Paulus, heiliger Petrus, die ersten Christen, Briefe des Apostel Paulus, seine Bekehrung, seine Missionsreisen
+
+** Wie gehe ich mit Störungen um
+:PROPERTIES:
+:CAPTURED: [2024-11-11 Mo 11:47]
+:END:
+Heute gehe ich mit den Störungen im Unterricht gelassener um; hoffentlich hält das an. Im Grunde darf ich diese Störungen nicht persönlich nehmen, ein bisschen Humor / Sarkasmus hilft. Und trotzdem klar sein; z.B. in der 2a / Lernschiene: alle bleiben in der Klasse. In der 4b ließ ich ein paar Schüler hinaus. Die nächste Stunde dürfen andere zur Lerninsel.
+
+** Wie plane ich meinen Unterricht?
+:PROPERTIES:
+:CAPTURED: [2024-11-15 Fr 08:28]
+:END:
+Mit dem aktuellen Setup bin ich einigermaßen zufrieden. Es ist noch nicht perfekt. Z.B. bin ich mir noch unklar, wie ich die konkrete Jahres- und Wochenplanung mache. In den Jahres davor hab ich eine fixe Jahresplanung erstellt, und in der =org-agenda= wurde das aktuelle Thema der einzelnen Schulstufen angezeigt.
+
+Im Moment ist es mir zu "unpräzise"; ... die obige Idee würde nur vier weitere Dateien der =org-agenda= hinzufügen.
+
+Ich muss es einfach einmal probieren und sehen, ob dies mir besser passt.
+
+** Heute ging es gut
+:PROPERTIES:
+:CAPTURED: [2024-11-18 Mo 10:05]
+:END:
+Wie der Titel es schon sagt: die ersten beiden Stunden (LS in der 1d und 1a) liefen super. Hoffentlich bleibt es so.
+
+Es kommt jetzt noch die LS in der 2a, 4b und 3a. Die 3a sollte die Arbeit über den Islam fertig stellen; in der 4b werden wir den Heiligen Paulus angehen.
+
+Paulus:
+- Bekehrung
+- Missionsreisen
+- Briefe
+- Bedeutung für die Kirche / Christentum
+- Martyrium in Rom
+
+Arbeitsblätter?
+[[file:~/NMS_Golling/raetsel_und_spiele_rund_um_paulus.pdf]]
+
+[[file:~/NMS_Golling/Bibel_NT/Paulus/]]
+
+** Gespräch mit Gabi
+:PROPERTIES:
+:CAPTURED: [2024-11-27 Mi 11:01]
+:END:
+Bumm! Das hat gesessen! Gabi ist sehr sehr enttäuscht von mir. Ich habe gedacht, ich käme den Schülern entgegen und lasse sie in meiner Stunde ein paar mal HÜ machen oder für einen Test lernen. Manchmal hab ich mit ihnen ein Spiel gespielt oder einen Film geschaut. Das wird nicht von mir erwartet; ich soll viel Stoff machen! Das erwartet Gabi von mir.
+
+Ich habe laut Gabi kein Auftreten als Lehrer, und daher ist es klar, dass Schüler null Respekt vor mir haben. Ich solle gefälligst in die Spur kommen! Laut meiner Selbstwahrnehmung fühle ich mich auch schon nicht mehr als Lehrer, vieles am Schulleben geht an mir vorbei, ...
+
+Es tut mir mir selbst gegenüber sehr leid; es tut mir leid, Gabi enttäuscht zu haben; meiner Familie gegenüber tut's mir leid. Wie so oft in meinem Leben, hab ich beruflich mal wieder versagt.
+
+Ich sehe auch jetzt nicht, dass ich in diesem Jahr und darüber hinaus aus diesem Loch herauskomme.
+
+Ich weiß nur absolut nicht, was ich stattdessen machen soll? Nachhilfelehrer sein? Oder ganz was anderes? Mit Schule will ich nun eigentlich gar nix mehr zu tun haben. Wäre fast bereit, z.B. in der Gastronomie zu arbeiten.
+
+Ich muss heute noch Marie-Luise kontaktieren. Es geht nimmer. Die viel zu wenige und geringe Vorbereitung macht sich nun dramatisch bemerkbar.
+
+** Gespräch mit Marie-Luise
+:PROPERTIES:
+:CAPTURED: [2024-11-28 Do 09:53]
+:END:
+Gestern habe ich am Nachmittag (Spaziergang im Wald) mit Marie-Luise telefoniert. Sie hat mir den Rücken gestärkt. das HÜ machen lassen war - wie auch immer es dazu gekommen ist - ein Fehler meinerseits; und falls es von den Schülern ausging: dann war es ein "Giftköder der Schüler". Einfach: nicht mehr machen.
+
+Das war ein komischer Zufall (oder ein Streich des Teufels), dass dieses Gespräch mit der Direktorin gestern zustande kam - und ich auf der Fahrt in die Schule Jesus gebeten habe, was er von mir denkt. So wie die Direktorin redet nicht Jesus. Marie-Luise: du kannst sicher sein, dass Jesus dich immer liebt!
+
+Charly und Marie-Luise sagten mir beide, dass die Schulleitung auf den Inhalt des RU keine Mitsprache hat. "Die Schüler beschäftigen." - das ist nicht der Inhalt und das Ziel des Unterrichts. Im RU will ich Erwecker des Glaubens sein, wie ein Johannes der Täufer. Ethik und RU stehen sich niemals im Widerspruch, denn in jedem RU geschieht auch Ethikunterricht.
+
+Marie-Luise wird am Montag (sechste Stunde, 3a) nach Abtenau kommen.
+
+Isabelle: Du bist ein toller Lehrer, Papa und Ehemann. Du kannst mit "stolzer Brust und mit einem Lächeln" nach Abtenau fahren.
+
+** Notengebung in =Org-mode=
+:PROPERTIES:
+:CAPTURED: [2025-02-17 Mo 10:14]
+:END:
+Mit meinen Aufzeichnungen bin ich noch nicht ganz zufrieden - es ist nicht wirklich praxisnahe. Ohne PC, Emacs, etc würde ich es so machen: ein Lehrerheft, in dem ich in einer großen Tabelle pro Schüler Mitarbeit, Lernjobs, etc eintrage. Am Ende des Semesters ergibt sich daraus die Note.
+
+In =Emacs= arbeite ich mit =org-mode= - es gibt =org-table=. Im Moment habe ich pro Schüler eine kleine Tabelle, in die Mitarbeit, etc eintrage. Dann gibt es pro Klasse eine Gesamttabelle - hier würde ich die Gesamtnote eintragen.
+
+- Frage :: Wie kann ich Daten aus einer Schülertabelle in die betreffende Zeile / Spalte der Gesamttabelle übertragen?
+
+** Gesprächsnotizen mit Gabriele
+:PROPERTIES:
+:CAPTURED: [2025-02-17 Mo 11:06]
+:END:
+Ich muss alle meine Notizen durchforsten und alle Memos der Gespräche mit Gabriele zusammenfassen. Vielleicht erstelle ich überhaupt eine eigene Datei für memos, mit einem ~org-capture-template~.
+
+* Tasks
+Hier steht sehr viel Text.

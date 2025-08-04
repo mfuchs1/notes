@@ -4,13 +4,13 @@
 #+identifier: 20240719T125948
 #+CATEGORY: topic 01
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Jahresplanung 01.html
+#+export_file_name: ~/Documents/exports/Jahresplanung 01.html
 
 * Gemeinschaft | Zusammenleben – ein gutes Miteinander erleben (Kapitel 1)
 September bis November
@@ -29,7 +29,9 @@ Die Schüler*innen können sich in ihrer gottgeschenkten Einzigartigkeit wahrneh
 
 ** Basisseiten und Empfehlungen
 *** [[denote:20240911T093358][Die Welt der Gefühle]]
+SCHEDULED: <2025-07-28 Mo>
 *** [[denote:20240911T093423][Was ich mir zutraue]]
+SCHEDULED: <2025-07-29 Di>
 *** [[denote:20240911T093444][Kann ich dir vertrauen?]]
 *** [[denote:20250729T121503][Impuls: Ich – und du?]]
 *** [[denote:20250729T121550][Ich bin einzigartig]]

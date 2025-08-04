@@ -9,9 +9,9 @@
 #+OPTIONS: broken-links:t H:6
 #+filetags:   :at:gen2:
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur authoryear-ibid
 #+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+title:      Gen 2
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
@@ -192,4 +192,4 @@ entstehen lassen.
 [fn:10] denn . . .: Die Ausdrücke für Mann (isch) und Frau
 (ischáh) sind im Hebräischen ähnlich.
 
-[fn:11] Mt 19,5 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Mt_19.org::v5][Mt 19,5]]; Mk 10,8 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Mk_10.org::v8][Mk 10,8]]; Eph 5,31 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Eph_5.org::v31][Eph 5,31]]; 1 Kor 6,16 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/1.Kor_6.org::v16][1. Kor 6,16]]
+[fn:11] Mt 19,5 [[file:~/Documents/EUe-RoundtripHTML/nt/Mt_19.org::v5][Mt 19,5]]; Mk 10,8 [[file:~/Documents/EUe-RoundtripHTML/nt/Mk_10.org::v8][Mk 10,8]]; Eph 5,31 [[file:~/Documents/EUe-RoundtripHTML/nt/Eph_5.org::v31][Eph 5,31]]; 1 Kor 6,16 [[file:~/Documents/EUe-RoundtripHTML/nt/1.Kor_6.org::v16][1. Kor 6,16]]

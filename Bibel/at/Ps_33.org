@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-17 So 15:48]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 33.html
+#+export_file_name: ~/Documents/exports/Ps 33.html
 
 * Ps 33
 
@@ -133,11 +133,11 @@
 
 [fn:2] [[file:Ps_92.org::v4][92,4]]
 
-[fn:3] [[file:Ps_40.org::v4][40,4]]; [[file:Ps_96.org::v1][96,1]]; [[file:Ps_98.org::v1][98,1]]; [[file:Ps_144.org::v9][144,9]]; [[file:Ps_149.org::v1][149,1]]; [[file:Jdt_16.org::v1][Jdt 16,1]].[[file:Jdt_16.org::v13][13]]; [[file:Jes_42.org::v10][Jes 42,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_5.org::v9][Offb 5,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_14.org::v3][14,3]]
+[fn:3] [[file:Ps_40.org::v4][40,4]]; [[file:Ps_96.org::v1][96,1]]; [[file:Ps_98.org::v1][98,1]]; [[file:Ps_144.org::v9][144,9]]; [[file:Ps_149.org::v1][149,1]]; [[file:Jdt_16.org::v1][Jdt 16,1]].[[file:Jdt_16.org::v13][13]]; [[file:Jes_42.org::v10][Jes 42,10]]; [[file:~/Documents/notes/Bibel/nt/Offb_5.org::v9][Offb 5,9]]; [[file:~/Documents/notes/Bibel/nt/Offb_14.org::v3][14,3]]
 
 [fn:4] [[file:Ps_119.org::v64][119,64]]
 
-[fn:5] [[file:Gen_1.org::v6][Gen 1,6-8]].[[file:Gen_1.org::v14][14-18]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_1.org::v3][Joh 1,3]]
+[fn:5] [[file:Gen_1.org::v6][Gen 1,6-8]].[[file:Gen_1.org::v14][14-18]]; [[file:~/Documents/notes/Bibel/nt/Joh_1.org::v3][Joh 1,3]]
 
 [fn:6] [[file:Ijob_38.org::v8][Ijob 38,8-11]]
 

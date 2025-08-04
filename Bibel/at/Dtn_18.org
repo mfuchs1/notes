@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-29 So 20:42]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 18.html
+#+export_file_name: ~/Documents/exports/Dtn 18.html
 
 
 <<verses>>
@@ -123,7 +123,7 @@ bringen lassen.\\
 
 * Footnotes
 
-[fn:1] (1-5) [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_9.org::v13][1 Kor 9,13]]; (1-2) [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_10.org::v8][10,8f]]; [[file:1.Sam_2.org::v28][1 Sam 2,28]]
+[fn:1] (1-5) [[file:~/Documents/notes/Bibel/nt/1.Kor_9.org::v13][1 Kor 9,13]]; (1-2) [[file:~/Documents/notes/Bibel/nt/1.Kor_10.org::v8][10,8f]]; [[file:1.Sam_2.org::v28][1 Sam 2,28]]
 
 [fn:2] [[file:Dtn_26.org::v1][26,1-11]]; [[file:Ex_23.org::v19][Ex 23,19]]
 
@@ -144,11 +144,11 @@ von Korn, Wein und Öl und das Beste aus der Schafschur geben.
 
 [fn:10] [[file:Dtn_4.org::v38][4,38]]; [[file:Dtn_7.org::v17][7,17]]; [[file:Dtn_9.org::v1][9,1-6]]; [[file:Dtn_11.org::v22][11,22-25]]
 
-[fn:11] [[file:2.Sam_22.org::v24][2 Sam 22,24]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v48][Mt 5,48]]
+[fn:11] [[file:2.Sam_22.org::v24][2 Sam 22,24]]; [[file:~/Documents/notes/Bibel/nt/Mt_5.org::v48][Mt 5,48]]
 
 [fn:12] [[v10][18,10]]
 
-[fn:13] (15-19) [[file:2.Kön_17.org::v13][2 Kön 17,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_17.org::v5][Mt 17,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_9.org::v7][Mk 9,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_9.org::v35][Lk 9,35]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_1.org::v21][Joh 1,21]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_6.org::v14][6,14]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_7.org::v40][7,40]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_3.org::v22][Apg 3,22f]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v37][7,37]]
+[fn:13] (15-19) [[file:2.Kön_17.org::v13][2 Kön 17,13]]; [[file:~/Documents/notes/Bibel/nt/Mt_17.org::v5][Mt 17,5]]; [[file:~/Documents/notes/Bibel/nt/Mk_9.org::v7][Mk 9,7]]; [[file:~/Documents/notes/Bibel/nt/Lk_9.org::v35][Lk 9,35]]; [[file:~/Documents/notes/Bibel/nt/Joh_1.org::v21][Joh 1,21]]; [[file:~/Documents/notes/Bibel/nt/Joh_6.org::v14][6,14]]; [[file:~/Documents/notes/Bibel/nt/Joh_7.org::v40][7,40]]; [[file:~/Documents/notes/Bibel/nt/Apg_3.org::v22][Apg 3,22f]]; [[file:~/Documents/notes/Bibel/nt/Apg_7.org::v37][7,37]]
 
 [fn:14] 15.18: Hier ist Israel zugesagt, dass es immer
 Propheten haben wird, die ihm den Willen Gottes mitteilen. Später wurde

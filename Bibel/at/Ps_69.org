@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-02 Fr 10:27]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 69.html
+#+export_file_name: ~/Documents/exports/Ps 69.html
 
 * Ps 69
 
@@ -220,13 +220,13 @@ Land besitzen, / [fn:26]\\
 
 [fn:3] [[file:Jes_38.org::v14][Jes 38,14]]
 
-[fn:4] [[file:Ps_35.org::v19][35,19]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_15.org::v25][Joh 15,25]]
+[fn:4] [[file:Ps_35.org::v19][35,19]]; [[file:~/Documents/notes/Bibel/nt/Joh_15.org::v25][Joh 15,25]]
 
 [fn:5] [[file:Ps_44.org::v23][44,23]]; [[file:Jer_15.org::v15][Jer 15,15]]
 
 [fn:6] [[file:Ps_31.org::v12][31,12]]
 
-[fn:7] [[file:Ps_119.org::v139][119,139]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_2.org::v17][Joh 2,17]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_15.org::v3][Röm 15,3]]
+[fn:7] [[file:Ps_119.org::v139][119,139]]; [[file:~/Documents/notes/Bibel/nt/Joh_2.org::v17][Joh 2,17]]; [[file:~/Documents/notes/Bibel/nt/Röm_15.org::v3][Röm 15,3]]
 
 [fn:8] Text korr.; H: Ich weinte beim Fasten meiner Seele.
 
@@ -246,20 +246,20 @@ Land besitzen, / [fn:26]\\
 
 [fn:16] [[file:Klgl_1.org::v2][Klgl 1,2]]
 
-[fn:17] [[file:Klgl_3.org::v15][Klgl 3,15]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v34][Mt 27,34]].[[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v48][48]]
+[fn:17] [[file:Klgl_3.org::v15][Klgl 3,15]]; [[file:~/Documents/notes/Bibel/nt/Mt_27.org::v34][Mt 27,34]].[[file:~/Documents/notes/Bibel/nt/Mt_27.org::v48][48]]
 
-[fn:18] (23-24) [[file:~/RoamNotes/notes/Bibel/nt/Röm_11.org::v9][Röm 11,9f]]
+[fn:18] (23-24) [[file:~/Documents/notes/Bibel/nt/Röm_11.org::v9][Röm 11,9f]]
 
 [fn:19] Nach der aramäischen Übersetzung.
 
-[fn:20] [[file:~/RoamNotes/notes/Bibel/nt/Apg_1.org::v20][Apg 1,20]]
+[fn:20] [[file:~/Documents/notes/Bibel/nt/Apg_1.org::v20][Apg 1,20]]
 
 [fn:21] [[file:Ps_71.org::v11][71,11]]; [[file:Ps_53.org::v4][Jes 53,4]]
 
 [fn:22] Text korr. nach G; H: und sie zählen den Schmerz.
 
 [fn:23] [[file:Ps_139.org::v16][139,16]]; [[file:Ex_32.org::v32][Ex 32,32]]; [[file:Jes_4.org::v3][Jes 4,3]]; [[file:Dan_7.org::v10][Dan 7,10]]; [[file:Dan_12.org::v1][12,1]]; [[file:Mal_2.org::v16][Mal 3,16]];
-[[file:~/RoamNotes/notes/Bibel/nt/Lk_10.org::v20][Lk 10,20]]; [[file:~/RoamNotes/notes/Bibel/nt/Phil_4.org::v3][Phil 4,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_3.org::v5][Offb 3,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_20.org::v12][20,12]]
+[[file:~/Documents/notes/Bibel/nt/Lk_10.org::v20][Lk 10,20]]; [[file:~/Documents/notes/Bibel/nt/Phil_4.org::v3][Phil 4,3]]; [[file:~/Documents/notes/Bibel/nt/Offb_3.org::v5][Offb 3,5]]; [[file:~/Documents/notes/Bibel/nt/Offb_20.org::v12][20,12]]
 
 [fn:24] [[file:Ps_40.org::v7][40,7]]
 

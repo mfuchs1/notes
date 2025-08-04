@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-01 Mi 09:57]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 33.html
+#+export_file_name: ~/Documents/exports/Dtn 33.html
 
 <<verses>>
 
@@ -216,7 +216,7 @@ erniedrigen /\\
 
 * Footnotes
 
-[fn:1] [[file:Ri_5.org::v4][Ri 5,4]]; [[file:Ps_68.org::v8][Ps 68,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_25.org::v31][Mt 25,31]]; [[file:~/RoamNotes/notes/Bibel/nt/Jud_1.org::v14][Jud 14]]
+[fn:1] [[file:Ri_5.org::v4][Ri 5,4]]; [[file:Ps_68.org::v8][Ps 68,8]]; [[file:~/Documents/notes/Bibel/nt/Mt_25.org::v31][Mt 25,31]]; [[file:~/Documents/notes/Bibel/nt/Jud_1.org::v14][Jud 14]]
 
 [fn:2] 2-29: Ein sehr alter, mehrfach neu gedeuteter und
 erweiterter Text. Er ist hier nach der ältesten in Handschriften
@@ -228,7 +228,7 @@ Wüstenwanderung Israels hinein. Die «Heiligen» sind die Engel. Der
 Ausdruck «Tausende von Heiligen» ist in H aber zugleich eine Anspielung
 auf eine weitere Örtlichkeit der Wüstenwanderung: Meribat Kadesch.
 
-[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/Apg_20.org::v32][Apg 20,32]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_26.org::v18][26,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Eph_1.org::v18][Eph 1,18]]
+[fn:3] [[file:~/Documents/notes/Bibel/nt/Apg_20.org::v32][Apg 20,32]]; [[file:~/Documents/notes/Bibel/nt/Apg_26.org::v18][26,18]]; [[file:~/Documents/notes/Bibel/nt/Eph_1.org::v18][Eph 1,18]]
 
 [fn:4] die Völker: hier die zwölf Stämme Israels. Ihre
 «Heiligen» sind entweder ihre Schutzengel oder die einzelnen Menschen
@@ -251,11 +251,11 @@ Reichsspaltung.
 [fn:11] Tummim und Urim sind Orakelinstrumente. Andere Lesart:
 Deine Tummim und Urim gebühren deinem treuen Gefolgsmann.
 
-[fn:12] [[file:Ex_32.org::v27][Ex 32,27-29]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_10.org::v37][Mt 10,37]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_14.org::v26][Lk 14,26]]
+[fn:12] [[file:Ex_32.org::v27][Ex 32,27-29]]; [[file:~/Documents/notes/Bibel/nt/Mt_10.org::v37][Mt 10,37]]; [[file:~/Documents/notes/Bibel/nt/Lk_14.org::v26][Lk 14,26]]
 
 [fn:13] Wörtlich: Sie legen Weihrauch in deine Nase.
 
-[fn:14] [[file:~/RoamNotes/notes/Bibel/nt/2.Thess_2.org::v13][2 Thess 2,13]]
+[fn:14] [[file:~/Documents/notes/Bibel/nt/2.Thess_2.org::v13][2 Thess 2,13]]
 
 [fn:15] Andere Lesart: In Sicherheit wohne der Liebling des
 Herrn an dessen Seite. Täglich wacht er über ihn und zwischen seinen

@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-30 Do 09:22]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ijob 22.html
+#+export_file_name: ~/Documents/exports/Ijob 22.html
 
 <<verses>>
 
@@ -172,11 +172,11 @@
 
 * Footnotes
 
-[fn:1] [[file:Ijob_35.org::v7][35,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_17.org::v7][Lk 17,7]]-[[file:~/RoamNotes/notes/Bibel/nt/Lk_17.org::v10][10]]
+[fn:1] [[file:Ijob_35.org::v7][35,7]]; [[file:~/Documents/notes/Bibel/nt/Lk_17.org::v7][Lk 17,7]]-[[file:~/Documents/notes/Bibel/nt/Lk_17.org::v10][10]]
 
 [fn:2] [[file:Ex_22.org::v25][Ex 22,25f]]; [[file:Dtn_24.org::v12][Dtn 24,12f]]
 
-[fn:3] [[file:Jes_58.org::v7][Jes 58,7]]; [[file:Ez_18.org::v7][Ez 18,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_25.org::v42][Mt 25,42]]
+[fn:3] [[file:Jes_58.org::v7][Jes 58,7]]; [[file:Ez_18.org::v7][Ez 18,7]]; [[file:~/Documents/notes/Bibel/nt/Mt_25.org::v42][Mt 25,42]]
 
 [fn:4] Andere Übersetzungsmöglichkeiten: der Erfolgreiche, der
 Mächtige.
@@ -203,4 +203,4 @@ Mächtige.
 
 [fn:15] [[file:Ijob_27.org::v10][27,10]]
 
-[fn:16] [[file:Ps_18.org::v28][Ps 18,28]]; [[file:Jes_2.org::v11][Jes 2,11]]-[[file:Jes_2.org::v17][17]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v52][Lk 1,52f]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_5.org::v5][1 Petr 5,5]]
+[fn:16] [[file:Ps_18.org::v28][Ps 18,28]]; [[file:Jes_2.org::v11][Jes 2,11]]-[[file:Jes_2.org::v17][17]]; [[file:~/Documents/notes/Bibel/nt/Lk_1.org::v52][Lk 1,52f]]; [[file:~/Documents/notes/Bibel/nt/1.Petr_5.org::v5][1 Petr 5,5]]

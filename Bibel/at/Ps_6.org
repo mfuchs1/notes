@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-03 So 14:48]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 6.html
+#+export_file_name: ~/Documents/exports/Ps 6.html
 
 * Ps 6
 
@@ -86,6 +86,6 @@ Davids.]\\
 
 [fn:6] Wörtlich: und es (das Auge) ist matt (alt) geworden.
 
-[fn:7] [[file:Ps_119.org::v115][119,115]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_7.org::v23][Mt 7,23]]
+[fn:7] [[file:Ps_119.org::v115][119,115]]; [[file:~/Documents/notes/Bibel/nt/Mt_7.org::v23][Mt 7,23]]
 
 [fn:8] [[file:Ps_35.org::v4][35,4]]; [[file:Ps_40.org::v15][40,15]]

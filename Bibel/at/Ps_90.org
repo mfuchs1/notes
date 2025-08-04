@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-05 Mo 15:07]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 90.html
+#+export_file_name: ~/Documents/exports/Ps 90.html
 
 * Ps 90
 
@@ -114,7 +114,7 @@ und Beschwer, /\\
 
 [fn:1] [[file:Ps_146.org::v4][146,4]]
 
-[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/2.Petr_3.org::v8][2 Petr 3,8]]
+[fn:2] [[file:~/Documents/notes/Bibel/nt/2.Petr_3.org::v8][2 Petr 3,8]]
 
 [fn:3] (5-6) [[file:Ps_37.org::v2][37,2]]; [[file:Ps_58.org::v8][58,8]]; [[file:Ps_102.org::v12][102,12]]; [[file:Ps_103.org::v15][103,15]]; [[file:Ijob_14.org::v2][Ijob 14,2]]; [[file:Jes_40.org::v6][Jes 40,6f]]
 

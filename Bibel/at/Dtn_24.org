@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-30 Mo 09:25]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 24.html
+#+export_file_name: ~/Documents/exports/Dtn 24.html
 
 <<verses>>
 
@@ -155,7 +155,7 @@ zur Pflicht, diese Bestimmung einzuhalten. [fn:15]\\
 
 * Footnotes
 
-[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v31][Mt 5,31]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_19.org::v7][19,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_10.org::v4][Mk 10,4]]
+[fn:1] [[file:~/Documents/notes/Bibel/nt/Mt_5.org::v31][Mt 5,31]]; [[file:~/Documents/notes/Bibel/nt/Mt_19.org::v7][19,7]]; [[file:~/Documents/notes/Bibel/nt/Mk_10.org::v4][Mk 10,4]]
 
 [fn:2] Anstößiges: Was genau gemeint ist, wird nicht deutlich.
 Vielleicht liegt gar keine Einschränkung des Falles auf einen ganz
@@ -164,7 +164,7 @@ selbstverständlich vorausgesetzt.
 
 [fn:3] [[file:Dtn_20.org::v7][20,7]]
 
-[fn:4] [[file:Dtn_19.org::v19][19,19]]; [[file:Dtn_21.org::v21][21,21]]; [[file:Ex_21.org::v16][Ex 21,16]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_5.org::v13][1 Kor 5,13]]
+[fn:4] [[file:Dtn_19.org::v19][19,19]]; [[file:Dtn_21.org::v21][21,21]]; [[file:Ex_21.org::v16][Ex 21,16]]; [[file:~/Documents/notes/Bibel/nt/1.Kor_5.org::v13][1 Kor 5,13]]
 
 [fn:5] Möglicherweise ist hier der ursprüngliche Sinn des
 siebten Gebots zu greifen. «Entführen» in diesem Gesetz und «stehlen» in
@@ -176,7 +176,7 @@ siebten Gebots zu greifen. «Entführen» in diesem Gesetz und «stehlen» in
 
 [fn:8] (12-13) [[file:Ex_22.org::v25][Ex 22,25f]]
 
-[fn:9] (14-15) [[file:~/RoamNotes/notes/Bibel/nt/Mt_20.org::v8][Mt 20,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_10.org::v19][Mk 10,19]]; [[file:~/RoamNotes/notes/Bibel/nt/Jak_5.org::v4][Jak 5,4]]; [[file:Mal_3.org::v5][Mal 3,5]]
+[fn:9] (14-15) [[file:~/Documents/notes/Bibel/nt/Mt_20.org::v8][Mt 20,8]]; [[file:~/Documents/notes/Bibel/nt/Mk_10.org::v19][Mk 10,19]]; [[file:~/Documents/notes/Bibel/nt/Jak_5.org::v4][Jak 5,4]]; [[file:Mal_3.org::v5][Mal 3,5]]
 
 [fn:10] Andere Lesart: Du sollst einen Not leidenden und armen
 Taglöhner unter deinen Brüdern oder unter den Fremden, die in deinem

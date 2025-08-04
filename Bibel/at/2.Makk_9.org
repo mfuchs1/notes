@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-28 Di 18:18]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/2 Makk 9.html
+#+export_file_name: ~/Documents/exports/2 Makk 9.html
 
 <<verses>>
 
@@ -173,11 +173,11 @@ Antiochus nicht traute.\\
 
 [fn:1] (1-29) [[file:1.Makk_6.org::v1][1 Makk 6,1]]-[[file:1.Makk_6.org::v16][16]]; [[file:2.Makk_1.org::v11][2 Makk 1,11]]-[[file:2.Makk_1.org::v17][17]]
 
-[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/Apg_12.org::v20][Apg 12,20]]-[[file:2.Makk_1.org::v23][23]]
+[fn:2] [[file:~/Documents/notes/Bibel/nt/Apg_12.org::v20][Apg 12,20]]-[[file:2.Makk_1.org::v23][23]]
 
 [fn:3] [[file:Ps_65.org::v7][Ps 65,7f]]; [[file:Jes_40.org::v12][Jes 40,12]]
 
-[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/Apg_12.org::v23][Apg 12,23]]; [[file:Sir_7.org::v17][Sir 7,17]]
+[fn:4] [[file:~/Documents/notes/Bibel/nt/Apg_12.org::v23][Apg 12,23]]; [[file:Sir_7.org::v17][Sir 7,17]]
 
 [fn:5] Aus den Augen, andere Lesart: Aus dem Leib.
 

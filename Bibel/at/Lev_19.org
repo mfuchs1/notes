@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-12 Do 20:39]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Lev 19.html
+#+export_file_name: ~/Documents/exports/Lev 19.html
 
 
 <<verses>>
@@ -233,7 +233,7 @@ und sie befolgen. Ich bin der Herr.\\
 [fn:5] Unter dem «Nächsten» verstand Israel vor allem den
 Volks- und Glaubensgenossen; doch sind nach V. 34 auch alle Fremden, die
 Gastrecht genießen, in das Gebot der Nächstenliebe mit eingeschlossen.
-Jesus hat es nach Mt 5,43 [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v43][Mt 5,43]] und Lk 10,27-37 [[file:~/RoamNotes/notes/Bibel/nt/Lk_10.org::v27][Lk 10,27-37]] auf alle Menschen ausgedehnt.
+Jesus hat es nach Mt 5,43 [[file:~/Documents/notes/Bibel/nt/Mt_5.org::v43][Mt 5,43]] und Lk 10,27-37 [[file:~/Documents/notes/Bibel/nt/Lk_10.org::v27][Lk 10,27-37]] auf alle Menschen ausgedehnt.
 
 [fn:6] Ex 21,7-9 [[file:Ex_21.org::v7][Ex 21,7-9]]
 

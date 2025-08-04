@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-21 Mi 14:14]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Spr 2.html
+#+export_file_name: ~/Documents/exports/Spr 2.html
 
 * Spr 2
 
@@ -136,4 +136,4 @@ ist auch Symbol für den Bund Gottes mit dem Volk (vgl. [[file:Hos_2.org][Hos 2]
 
 [fn:4] [[file:Spr_5.org::v5][5,5]]
 
-[fn:5] [[file:Ps_37.org::v11][Ps 37,11]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v5][Mt 5,5]]
+[fn:5] [[file:Ps_37.org::v11][Ps 37,11]]; [[file:~/Documents/notes/Bibel/nt/Mt_5.org::v5][Mt 5,5]]

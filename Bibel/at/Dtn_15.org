@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-29 So 19:44]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 15.html
+#+export_file_name: ~/Documents/exports/Dtn 15.html
 
 
 <<verses>>
@@ -153,13 +153,13 @@ Ausdrücken formuliert.
 
 [fn:5] [[file:Dtn_28.org::v12][28,12]]
 
-[fn:6] (7-8) [[file:~/RoamNotes/notes/Bibel/nt/1.Joh_3.org::v17][1 Joh 3,17]]
+[fn:6] (7-8) [[file:~/Documents/notes/Bibel/nt/1.Joh_3.org::v17][1 Joh 3,17]]
 
 [fn:7] [[v1][15,1]]
 
-[fn:8] [[file:~/RoamNotes/notes/Bibel/nt/Mt_26.org::v11][Mt 26,11]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_14.org::v7][Mk 14,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_12.org::v8][Joh 12,8]]
+[fn:8] [[file:~/Documents/notes/Bibel/nt/Mt_26.org::v11][Mt 26,11]]; [[file:~/Documents/notes/Bibel/nt/Mk_14.org::v7][Mk 14,7]]; [[file:~/Documents/notes/Bibel/nt/Joh_12.org::v8][Joh 12,8]]
 
-[fn:9] [[v1][15,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v35][Joh 8,35]]; (12-18) [[file:Ex_21.org::v2][Ex 21,2-11]]; [[file:Jer_24.org::v8][Jer 34,8-22]]
+[fn:9] [[v1][15,1]]; [[file:~/Documents/notes/Bibel/nt/Joh_8.org::v35][Joh 8,35]]; (12-18) [[file:Ex_21.org::v2][Ex 21,2-11]]; [[file:Jer_24.org::v8][Jer 34,8-22]]
 
 [fn:10] Andere Lesart: Womit der Herr, dein Gott, dich
 gesegnet hat, damit sollst du ihn bedenken.

@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-29 So 23:20]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 22.html
+#+export_file_name: ~/Documents/exports/Dtn 22.html
 
 <<verses>>
 
@@ -199,7 +199,7 @@ sich gefügig gemacht hat. Er darf sie niemals entlassen.\\
 
 [fn:5] [[file:Dtn_19.org::v10][19,10]]
 
-[fn:6] [[file:~/RoamNotes/notes/Bibel/nt/Mt_23.org::v5][Mt 23,5]]
+[fn:6] [[file:~/Documents/notes/Bibel/nt/Mt_23.org::v5][Mt 23,5]]
 
 [fn:7] (13-29) [[file:Dtn_5.org::v18][5,18]].[[file:Dtn_5.org::v21][21]]; (13-21) [[file:Dtn_19.org::v12][19,12]]
 
@@ -212,11 +212,11 @@ dafür dienen, dass die Frau unberührt in die Ehe gekommen war.
 
 [fn:9] [[file:Dtn_21.org::v21][21,21]]; [[file:Gen_34.org::v7][Gen 34,7]]; [[file:Jos_7.org::v15][Jos 7,15]]; [[file:Ri_20.org::v6][Ri 20,6]].[[file:Ri_20.org::v10][10]]; [[file:2.Sam_13.org::v12][2 Sam 13,12]]; [[file:1.Kön_5.org::v13][1 Kor 5,13]]
 
-[fn:10] [[file:Dtn_21.org::v21][21,21]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v5][Joh 8,5]]
+[fn:10] [[file:Dtn_21.org::v21][21,21]]; [[file:~/Documents/notes/Bibel/nt/Joh_8.org::v5][Joh 8,5]]
 
 [fn:11] Durch die «Verlobung» erwarb der Bräutigam das Anrecht
 auf die Frau.
 
-[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_5.org::v13][1 Kor 5,13]]
+[fn:12] [[file:~/Documents/notes/Bibel/nt/1.Kor_5.org::v13][1 Kor 5,13]]
 
 [fn:13] (28-29) [[file:Ex_22.org::v15][Ex 22,15f]]

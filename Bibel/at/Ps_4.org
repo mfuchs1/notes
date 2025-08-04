@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-03 So 14:35]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 4.html
+#+export_file_name: ~/Documents/exports/Ps 4.html
 
 * Ps 4
 
@@ -69,9 +69,9 @@
 [fn:2] wunderbar handelt der Herr . . .: Text korr. mich:
 ergänzt nach G.
 
-[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/Eph_4.org::v26][Eph 4,26]]
+[fn:3] [[file:~/Documents/notes/Bibel/nt/Eph_4.org::v26][Eph 4,26]]
 
-[fn:4] [[file:Ps_51.org::v19][51,19]].[[file:Ps_51.org::v21][21]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v5][1 Petr 2,5]]
+[fn:4] [[file:Ps_51.org::v19][51,19]].[[file:Ps_51.org::v21][21]]; [[file:~/Documents/notes/Bibel/nt/1.Petr_2.org::v5][1 Petr 2,5]]
 
 [fn:5] [[file:Ps_31.org::v17][31,17]]; [[file:Ps_44.org::v4][44,4]]; [[file:Ps_67.org::v2][67,2]]; [[file:Ps_80.org::v4][80,4]]; [[file:Num_6.org::v25][Num 6,25f]]
 

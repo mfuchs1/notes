@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-03 So 21:08]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 8.html
+#+export_file_name: ~/Documents/exports/Ps 8.html
 
 * Ps 8
 
@@ -69,13 +69,13 @@
 
 * Footnotes
 
-[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/Mt_21.org::v16][Mt 21,16]]
+[fn:1] [[file:~/Documents/notes/Bibel/nt/Mt_21.org::v16][Mt 21,16]]
 
 [fn:2] Lob: nach G; H: Bollwerk. - Andere
 Übersetzungsmöglichkeit: Besungen wird dein Glanz am Himmel von der
 Kinder und Säuglinge Mund. Du hast ein Bollwerk errichtet, deinen
 Feinden zum Trotz.
 
-[fn:3] [[file:Ps_144.org::v3][144,3]]; (5-7) [[file:Gen_1.org::v26][Gen 1,26-28]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_2.org::v6][Hebr 2,6-8]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_15.org::v27][1 Kor 15,27]]; [[file:~/RoamNotes/notes/Bibel/nt/Eph_1.org::v22][Eph 1,22]]
+[fn:3] [[file:Ps_144.org::v3][144,3]]; (5-7) [[file:Gen_1.org::v26][Gen 1,26-28]]; [[file:~/Documents/notes/Bibel/nt/Hebr_2.org::v6][Hebr 2,6-8]]; [[file:~/Documents/notes/Bibel/nt/1.Kor_15.org::v27][1 Kor 15,27]]; [[file:~/Documents/notes/Bibel/nt/Eph_1.org::v22][Eph 1,22]]
 
 [fn:4] G, S und Vg übersetzen: als die Engel.

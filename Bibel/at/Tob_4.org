@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-24 Fr 10:18]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Tob 4.html
+#+export_file_name: ~/Documents/exports/Tob 4.html
 
 <<verses>>
 
@@ -127,6 +127,6 @@ tust, was ihm gefällt.\\
 
 [fn:1] [[file:Ps_105.org::v15][Ps 105,15]]
 
-[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/Mt_7.org::v12][Mt 7,12]]
+[fn:2] [[file:~/Documents/notes/Bibel/nt/Mt_7.org::v12][Mt 7,12]]
 
 [fn:3] [[file:Jes_58.org::v7][Jes 58,7]]

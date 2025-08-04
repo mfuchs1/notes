@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2025-02-13 Do 14:03]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Koh 9.html
+#+export_file_name: ~/Documents/exports/Koh 9.html
 
 * Koh 9
 
@@ -157,7 +157,7 @@ Sentenzen und Ratschläge.
 
 [fn:10] [[file:Spr_5.org::v18][Spr 5,18f]]
 
-[fn:11] [[file:Spr_16.org::v9][Spr 16,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_9.org::v6][Röm 9,6]]; (11-12) [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v1][3,1]]
+[fn:11] [[file:Spr_16.org::v9][Spr 16,9]]; [[file:~/Documents/notes/Bibel/nt/Röm_9.org::v6][Röm 9,6]]; (11-12) [[file:~/Documents/notes/Bibel/nt/Röm_3.org::v1][3,1]]
 
 [fn:12] Andere Übersetzungsmöglichkeit: Der hätte die Stadt
 durch sein Wissen retten können. Aber kein Mensch dachte an diesen Mann.

@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-09-03 Di 23:01]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Spr 24.html
+#+export_file_name: ~/Documents/exports/Spr 24.html
 
 * Spr 24
 
@@ -217,7 +217,7 @@ hilft (vgl. V. 11), bringt sich selbst in Bedrängnis.
 
 [fn:7] [[file:Ps_37.org::v24][Ps 37,24]]
 
-[fn:8] [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v17][1 Petr 2,17]]
+[fn:8] [[file:~/Documents/notes/Bibel/nt/1.Petr_2.org::v17][1 Petr 2,17]]
 
 [fn:9] [[file:Spr_28.org::v21][28,21]]
 

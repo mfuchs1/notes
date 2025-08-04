@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-30 Mo 22:34]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 32.html
+#+export_file_name: ~/Documents/exports/Dtn 32.html
 
 * Dtn 32
 
@@ -349,13 +349,13 @@ neuer Name ausgerufen werden soll. Er beherrscht das ganze Lied und
 lautet: der Fels. Unter diesem Namen wurde Gott wohl in Jerusalem
 verehrt (vgl. [[file:Ps_62.org::v8][Ps 62,8]]; [[file:Ps_89.org::v27][89,27]]).
 
-[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/Röm_9.org::v14][Röm 9,14]]; [[file:~/RoamNotes/notes/Bibel/nt/2.Thess_3.org::v3][2 Thess 3,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_15.org::v3][Offb 15,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_16.org::v5][16,5]]
+[fn:3] [[file:~/Documents/notes/Bibel/nt/Röm_9.org::v14][Röm 9,14]]; [[file:~/Documents/notes/Bibel/nt/2.Thess_3.org::v3][2 Thess 3,3]]; [[file:~/Documents/notes/Bibel/nt/Offb_15.org::v3][Offb 15,3]]; [[file:~/Documents/notes/Bibel/nt/Offb_16.org::v5][16,5]]
 
-[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/Mt_17.org::v17][Mt 17,17]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_9.org::v41][Lk 9,41]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_2.org::v40][Apg 2,40]]; [[file:~/RoamNotes/notes/Bibel/nt/Phil_2.org::v15][Phil 2,15]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_6.org::v9][Mt 6,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_11.org::v2][Lk 11,2]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_8.org::v41][Joh 8,41]]
+[fn:4] [[file:~/Documents/notes/Bibel/nt/Mt_17.org::v17][Mt 17,17]]; [[file:~/Documents/notes/Bibel/nt/Lk_9.org::v41][Lk 9,41]]; [[file:~/Documents/notes/Bibel/nt/Apg_2.org::v40][Apg 2,40]]; [[file:~/Documents/notes/Bibel/nt/Phil_2.org::v15][Phil 2,15]]; [[file:~/Documents/notes/Bibel/nt/Mt_6.org::v9][Mt 6,9]]; [[file:~/Documents/notes/Bibel/nt/Lk_11.org::v2][Lk 11,2]]; [[file:~/Documents/notes/Bibel/nt/Lk_8.org::v41][Joh 8,41]]
 
 [fn:5] Schwieriger, wahrscheinlich verderbter Text.
 
-[fn:6] [[file:~/RoamNotes/notes/Bibel/nt/Apg_17.org::v27][Apg 17,27]]; [[file:Ps_82.org::v1][Ps 82]]
+[fn:6] [[file:~/Documents/notes/Bibel/nt/Apg_17.org::v27][Apg 17,27]]; [[file:Ps_82.org::v1][Ps 82]]
 
 [fn:7] nach der Zahl der Götter, andere Lesart: nach der Zahl
 der Söhne Israels. - Diese Lesart ist jünger. Sie wurde eingeführt, um
@@ -376,27 +376,27 @@ Andere Übersetzungsmöglichkeit: mit Honig aus dem Felsen.
 [fn:10] Die erste Zeile fehlt bei einem Teil der Textzeugen. -
 Jeschurun: kultischer Name für Israel.
 
-[fn:11] [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_10.org::v20][1 Kor 10,20]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_9.org::v20][Offb 9,20]]
+[fn:11] [[file:~/Documents/notes/Bibel/nt/1.Kor_10.org::v20][1 Kor 10,20]]; [[file:~/Documents/notes/Bibel/nt/Offb_9.org::v20][Offb 9,20]]
 
 [fn:12] Andere Lesart: Der Herr sah (es) und er verstieß im
 Zorn seine Söhne und Töchter.
 
-[fn:13] [[file:~/RoamNotes/notes/Bibel/nt/Mt_17.org::v17][Mt 17,17]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_9.org::v41][Lk 9,41]]
+[fn:13] [[file:~/Documents/notes/Bibel/nt/Mt_17.org::v17][Mt 17,17]]; [[file:~/Documents/notes/Bibel/nt/Lk_9.org::v41][Lk 9,41]]
 
-[fn:14] [[file:~/RoamNotes/notes/Bibel/nt/Röm_10.org::v19][Röm 10,19]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_11.org::v11][11,11]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_10.org::v22][1 Kor 10,22]]
+[fn:14] [[file:~/Documents/notes/Bibel/nt/Röm_10.org::v19][Röm 10,19]]; [[file:~/Documents/notes/Bibel/nt/Röm_11.org::v11][11,11]]; [[file:~/Documents/notes/Bibel/nt/1.Kor_10.org::v22][1 Kor 10,22]]
 
 [fn:15] im Staube Kriechende: Schlangen.
 
 [fn:16] diesem Volk: gemeint sind die Gegner Israels.
 
-[fn:17] [[file:~/RoamNotes/notes/Bibel/nt/Lk_19.org::v42][Lk 19,42]]
+[fn:17] [[file:~/Documents/notes/Bibel/nt/Lk_19.org::v42][Lk 19,42]]
 
 [fn:18] [[file:1.Sam_2.org::v2][1 Sam 2,2]]
 
 [fn:19] In der zweiten Vershälfte ist die Deutung von H
 unsicher.
 
-[fn:20] [[file:~/RoamNotes/notes/Bibel/nt/1.Thess_4.org::v6][1 Thess 4,6]]; (35-36) [[file:~/RoamNotes/notes/Bibel/nt/Lk_21.org::v22][Lk 21,22]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_12.org::v19][Röm 12,19]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_10.org::v30][Hebr 10,30]]
+[fn:20] [[file:~/Documents/notes/Bibel/nt/1.Thess_4.org::v6][1 Thess 4,6]]; (35-36) [[file:~/Documents/notes/Bibel/nt/Lk_21.org::v22][Lk 21,22]]; [[file:~/Documents/notes/Bibel/nt/Röm_12.org::v19][Röm 12,19]]; [[file:~/Documents/notes/Bibel/nt/Hebr_10.org::v30][Hebr 10,30]]
 
 [fn:21] Andere Lesart: Mein ist die Strafe und die Vergeltung
 zu der Zeit, da ihr Fuß wanken wird. - Röm 12,19 und Hebr 10,30 setzen
@@ -406,9 +406,9 @@ diese Lesart voraus.
 
 [fn:23] [[file:Jes_43.org::v10][Jes 43,10-13]]
 
-[fn:24] [[file:~/RoamNotes/notes/Bibel/nt/Offb_10.org::v5][Offb 10,5f]]
+[fn:24] [[file:~/Documents/notes/Bibel/nt/Offb_10.org::v5][Offb 10,5f]]
 
-[fn:25] [[file:~/RoamNotes/notes/Bibel/nt/Röm_15.org::v10][Röm 15,10 G]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_1.org::v6][Hebr 1,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_6.org::v10][Offb 6,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_18.org::v20][18,20]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_19.org::v2][19,2]]
+[fn:25] [[file:~/Documents/notes/Bibel/nt/Röm_15.org::v10][Röm 15,10 G]]; [[file:~/Documents/notes/Bibel/nt/Hebr_1.org::v6][Hebr 1,6]]; [[file:~/Documents/notes/Bibel/nt/Offb_6.org::v10][Offb 6,10]]; [[file:~/Documents/notes/Bibel/nt/Offb_18.org::v20][18,20]]; [[file:~/Documents/notes/Bibel/nt/Offb_19.org::v2][19,2]]
 
 [fn:26] Hier sind drei verschiedene Textfassungen überliefert.
 Die Übersetzung folgt der wahrscheinlichsten Rekonstruktion.
@@ -417,7 +417,7 @@ Die Übersetzung folgt der wahrscheinlichsten Rekonstruktion.
 
 [fn:28] [[file:Dtn_4.org::v1][4,1-4]]; [[file:Dtn_30.org::v15][30,15-20]]
 
-[fn:29] (48-52) [[file:Num_27.org::v12][Num 27,12-14]]; [[file:Num_33.org::v47][Num 33,47f]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v45][Apg 7,45]]
+[fn:29] (48-52) [[file:Num_27.org::v12][Num 27,12-14]]; [[file:Num_33.org::v47][Num 33,47f]]; [[file:~/Documents/notes/Bibel/nt/Apg_7.org::v45][Apg 7,45]]
 
 [fn:30] [[file:Num_20.org::v22][Num 20,22-29]]
 

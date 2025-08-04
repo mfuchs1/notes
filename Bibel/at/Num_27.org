@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-26 Do 21:03]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Num 27.html
+#+export_file_name: ~/Documents/exports/Num 27.html
 
 <<verses>>
 
@@ -127,4 +127,4 @@ der Herr durch Mose befohlen hatte.\\
 
 [fn:4] 16,22 [[file:Num_16.org::v22][Num 16,22]]
 
-[fn:5] Mt 9,36 [[file:~/RoamNotes/notes/Bibel/nt/Mt_9.org::v36][Mt 9,36]]; Mk 6,34 [[file:~/RoamNotes/notes/Bibel/nt/Mk_6.org::v34][Mk 6,34]]
+[fn:5] Mt 9,36 [[file:~/Documents/notes/Bibel/nt/Mt_9.org::v36][Mt 9,36]]; Mk 6,34 [[file:~/Documents/notes/Bibel/nt/Mk_6.org::v34][Mk 6,34]]

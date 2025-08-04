@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-19 Mo 14:32]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 127.html
+#+export_file_name: ~/Documents/exports/Ps 127.html
 
 * Ps 127
 
@@ -48,7 +48,7 @@ bewacht, /\\
 
 * Footnotes
 
-[fn:1] [[file:Ijob_12.org::v14][Ijob 12,14]]; (1f) [[file:~/RoamNotes/notes/Bibel/nt/Mt_6.org::v25][Mt 6,25-34]]
+[fn:1] [[file:Ijob_12.org::v14][Ijob 12,14]]; (1f) [[file:~/Documents/notes/Bibel/nt/Mt_6.org::v25][Mt 6,25-34]]
 
 [fn:2] [[file:Spr_3.org::v24][Spr 3,24-26]]; [[file:Spr_10.org::v22][10,22]]; [[file:Sir_11.org::v11][Sir 11,11]]
 

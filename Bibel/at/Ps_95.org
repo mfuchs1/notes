@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-05 Mo 23:02]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 95.html
+#+export_file_name: ~/Documents/exports/Ps 95.html
 
 * Ps 95
 
@@ -85,7 +85,7 @@ seine Stimme hören! / [fn:5]\\
 
 [fn:4] [[file:Ps_24.org::v1][24,1]]
 
-[fn:5] [[file:Ps_100.org::v3][100,3]]; (7-11) [[file:~/RoamNotes/notes/Bibel/nt/Hebr_3.org::v7][Hebr 3,7-11]].[[file:~/RoamNotes/notes/Bibel/nt/Hebr_3.org::v15][15]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_4.org::v1][4,1-10]]
+[fn:5] [[file:Ps_100.org::v3][100,3]]; (7-11) [[file:~/Documents/notes/Bibel/nt/Hebr_3.org::v7][Hebr 3,7-11]].[[file:~/Documents/notes/Bibel/nt/Hebr_3.org::v15][15]]; [[file:~/Documents/notes/Bibel/nt/Hebr_4.org::v1][4,1-10]]
 
 [fn:6] [[file:Ps_81.org::v8][81,8]]
 

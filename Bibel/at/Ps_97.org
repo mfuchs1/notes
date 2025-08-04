@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-05 Mo 23:51]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 97.html
+#+export_file_name: ~/Documents/exports/Ps 97.html
 
 * Ps 97
 
@@ -99,7 +99,7 @@
 
 [fn:9] [[file:Ps_121.org::v7][121,7f]]
 
-[fn:10] [[file:Ps_27.org::v1][27,1]]; [[file:Ps_43.org::v3][43,3]]; [[file:Ps_112.org::v4][112,4]]; [[file:Spr_13.org::v9][Spr 13,9]]; [[file:Jes_58.org::v10][Jes 58,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v12][Joh 8,12]]
+[fn:10] [[file:Ps_27.org::v1][27,1]]; [[file:Ps_43.org::v3][43,3]]; [[file:Ps_112.org::v4][112,4]]; [[file:Spr_13.org::v9][Spr 13,9]]; [[file:Jes_58.org::v10][Jes 58,10]]; [[file:~/Documents/notes/Bibel/nt/Joh_8.org::v12][Joh 8,12]]
 
 [fn:11] Text korr.; H: Licht ist gesät den Gerechten.
 

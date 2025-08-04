@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-18 Sa 17:17]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/2 Kön 4.html
+#+export_file_name: ~/Documents/exports/2 Kön 4.html
 
 <<verses>>
 
@@ -230,7 +230,7 @@ der Herr gesagt hatte.\\
 * Footnotes
 
 [fn:1] Zahlungsunfähige Schuldner konnten zu Sklaven gemacht
-werden (vgl. [[file:Am_2.org::v6][Am 2,6]]; [[file:Am_8.org::v6][8,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_18.org::v25][Mt 18,25]]).
+werden (vgl. [[file:Am_2.org::v6][Am 2,6]]; [[file:Am_8.org::v6][8,6]]; [[file:~/Documents/notes/Bibel/nt/Mt_18.org::v25][Mt 18,25]]).
 
 [fn:2] Schunem: nördlich von Jesreel.
 
@@ -243,4 +243,4 @@ israelitischen Staat.
 [fn:5] Aus der Frage geht hervor, dass man an Neumondtagen und
 Sabbaten Propheten aufsuchte.
 
-[fn:6] [[file:1.Kön_17.org::v21][1 Kön 17,21]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_20.org::v10][Apg 20,10]]
+[fn:6] [[file:1.Kön_17.org::v21][1 Kön 17,21]]; [[file:~/Documents/notes/Bibel/nt/Apg_20.org::v10][Apg 20,10]]

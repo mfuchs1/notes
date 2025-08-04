@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-19 Mo 22:54]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 137.html
+#+export_file_name: ~/Documents/exports/Ps 137.html
 
 * Ps 137
 
@@ -87,4 +87,4 @@ Hier geht es aber um übermächtige feindliche Völker.
 
 [fn:9] du Zerstörerin: H: du zu Verwüstende.
 
-[fn:10] [[file:Jes_13.org::v16][Jes 13,16]].[[file:Jes_13.org::v18][18]]; [[file:Hos_14.org::v1][Hos 14,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_12.org::v19][Röm 12,19]]
+[fn:10] [[file:Jes_13.org::v16][Jes 13,16]].[[file:Jes_13.org::v18][18]]; [[file:Hos_14.org::v1][Hos 14,1]]; [[file:~/Documents/notes/Bibel/nt/Röm_12.org::v19][Röm 12,19]]

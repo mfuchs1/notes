@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-04 Mo 22:15]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 17.html
+#+export_file_name: ~/Documents/exports/Ps 17.html
 
 * Ps 17
 
@@ -104,7 +104,7 @@ Gütern, /\\
 
 [fn:3] (4-5) [[file:Ijob_23.org::v11][Ijob 23,11f]]
 
-[fn:4] (7-8) [[file:Ps_36.org::v8][36,8]]; [[file:Ps_57.org::v2][57,2]]; [[file:Ps_61.org::v5][61,5]]; [[file:Ps_63.org::v8][63,8]]; [[file:Ps_91.org::v4][91,4]]; [[file:Ex_37.org::v9][Ex 37,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_23.org::v37][Mt 23,37]]
+[fn:4] (7-8) [[file:Ps_36.org::v8][36,8]]; [[file:Ps_57.org::v2][57,2]]; [[file:Ps_61.org::v5][61,5]]; [[file:Ps_63.org::v8][63,8]]; [[file:Ps_91.org::v4][91,4]]; [[file:Ex_37.org::v9][Ex 37,9]]; [[file:~/Documents/notes/Bibel/nt/Mt_23.org::v37][Mt 23,37]]
 
 [fn:5] [[file:Dtn_32.org::v10][Dtn 32,10]]; [[file:Sach_2.org::v12][Sach 2,12]]
 
@@ -118,4 +118,4 @@ Gütern, /\\
 
 [fn:10] ist verderbt.
 
-[fn:11] [[file:Num_12.org::v8][Num 12,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_22.org::v4][Offb 22,4]]
+[fn:11] [[file:Num_12.org::v8][Num 12,8]]; [[file:~/Documents/notes/Bibel/nt/Offb_22.org::v4][Offb 22,4]]

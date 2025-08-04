@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-28 Sa 18:08]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 7.html
+#+export_file_name: ~/Documents/exports/Dtn 7.html
 
 
 <<verses>>
@@ -152,7 +152,7 @@ denn er ist der Vernichtung geweiht.\\
 
 * Footnotes
 
-[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v19][Apg 13,19]] (1-26) [[file:Ex_23.org::v20][Ex 23,20-33]]; [[file:Ex_34.org::v11][34,11-16]]; [[file:Ri_2.org::v1][Ri 2,1-5]];
+[fn:1] [[file:~/Documents/notes/Bibel/nt/Apg_13.org::v19][Apg 13,19]] (1-26) [[file:Ex_23.org::v20][Ex 23,20-33]]; [[file:Ex_34.org::v11][34,11-16]]; [[file:Ri_2.org::v1][Ri 2,1-5]];
 (1-2) [[file:Ri_20.org::v17][20,17f]]; [[file:Jos_10.org::v40][Jos 10,40]]
 
 [fn:2] [[file:Dtn_13.org::v3][13,3]]; [[file:Dtn_28.org::v14][28,14]]
@@ -163,7 +163,7 @@ Augenblick in das Ich Gottes.
 [fn:4] [[file:Ex_23.org::v24][Ex 23,24]]; [[file:Ex_34.org::v13][34,13]]
 
 [fn:5] (6-8) [[file:Dtn_10.org::v15][10,15]]; [[file:Dtn_14.org::v2][14,2.21]]; [[file:Dtn_26.org::v18][26,18f]]; [[file:Dtn_28.org::v9][28,9]]; [[file:Ex_19.org::v3][Ex 19,3-6]]; [[file:Ex_22.org::v30][22,30]];
-[[file:~/RoamNotes/notes/Bibel/nt/Röm_9.org::v4][Röm 9,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Tit_2.org::v14][Tit 2,14]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v9][1 Petr 2,9]]
+[[file:~/Documents/notes/Bibel/nt/Röm_9.org::v4][Röm 9,4]]; [[file:~/Documents/notes/Bibel/nt/Tit_2.org::v14][Tit 2,14]]; [[file:~/Documents/notes/Bibel/nt/1.Petr_2.org::v9][1 Petr 2,9]]
 
 [fn:6] das ihm persönlich gehört: Hier wird in H ein Begriff
 für Eigentum gebraucht, der schwer zu übersetzen ist. Der Familienvater
@@ -174,7 +174,7 @@ werden. Das klingt hier an.
 
 [fn:7] (8-11) [[file:Dtn_8.org::v2][8,2-6]]; (8-10) [[file:Dtn_5.org::v6][5,6-10]]; [[file:Hos_11.org::v1][Hos 11,1]]; [[file:Gen_15.org::v18][Gen 15,18]]
 
-[fn:8] [[file:Dtn_11.org::v1][11,1]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_1.org::v9][1 Kor 1,9]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_10.org::v13][10,13]]
+[fn:8] [[file:Dtn_11.org::v1][11,1]]; [[file:~/Documents/notes/Bibel/nt/1.Kor_1.org::v9][1 Kor 1,9]]; [[file:~/Documents/notes/Bibel/nt/1.Kor_10.org::v13][10,13]]
 
 [fn:9] Andere Lesart: Deshalb sollst du auf das Gebot, die
 Gesetze und die Rechtsvorschriften achten, auf die ich dich heute
@@ -182,7 +182,7 @@ verpflichte.
 
 [fn:10] (12-16) [[file:Dtn_28.org::v1][28,1-14]]
 
-[fn:11] [[file:Dtn_28.org::v4][28,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v42][Lk 1,42]]
+[fn:11] [[file:Dtn_28.org::v4][28,4]]; [[file:~/Documents/notes/Bibel/nt/Lk_1.org::v42][Lk 1,42]]
 
 [fn:12] [[file:Dtn_28.org::v27][28,27]]; [[file:Ex_15.org::v26][Ex 15,26]]
 

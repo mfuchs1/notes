@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-19 So 21:28]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/1 Chr 2.html
+#+export_file_name: ~/Documents/exports/1 Chr 2.html
 
 <<verses>>
 
@@ -241,7 +241,7 @@ Bet-Rechab, stammten. [fn:13]\\
 [fn:2] (3-9) [[file:Gen_38.org::v3][Gen 38,3]]-[[file:Gen_38.org::v7][7]].[[file:Gen_38.org::v27][27]]-[[file:Gen_38.org::v30][30]]
 
 [fn:3] 3-14: Die von Juda zu David führende Linie begegnet auch
-im Stammbaum Jesu (vgl. [[file:~/RoamNotes/notes/Bibel/nt/Mt_1.org::v3][Mt 1,3-6]] und [[file:~/RoamNotes/notes/Bibel/nt/Lk_3.org::v32][Lk 3,32f]]).
+im Stammbaum Jesu (vgl. [[file:~/Documents/notes/Bibel/nt/Mt_1.org::v3][Mt 1,3-6]] und [[file:~/Documents/notes/Bibel/nt/Lk_3.org::v32][Lk 3,32f]]).
 
 [fn:4] [[file:Gen_46.org::v12][Gen 46,12]]
 

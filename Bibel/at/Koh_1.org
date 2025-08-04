@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-12-20 Fr 18:34]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Koh 1.html
+#+export_file_name: ~/Documents/exports/Koh 1.html
 
 * Koh 1
 Das Buch Kohelet wurde um die Mitte des 3. Jahrhunderts v. Chr.
@@ -185,7 +185,7 @@ dass auch dies ein Luftgespinst ist. [fn:19]\\
 
 [fn:1] [[v12][1,12]]; [[file:Spr_1.org::v1][Spr 1,1]]; [[file:1.Kön_8.org::v1][1 Kön 8,1]]
 
-[fn:2] [[file:Koh_12.org::v8][12,8]]; [[file:Ijob_7.org::v16][Ijob 7,16]]; [[file:Ps_39.org::v6][Ps 39,6]]; [[file:Ps_62.org::v10][62,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_8.org::v20][Röm 8,20]]
+[fn:2] [[file:Koh_12.org::v8][12,8]]; [[file:Ijob_7.org::v16][Ijob 7,16]]; [[file:Ps_39.org::v6][Ps 39,6]]; [[file:Ps_62.org::v10][62,10]]; [[file:~/Documents/notes/Bibel/nt/Röm_8.org::v20][Röm 8,20]]
 
 [fn:3] [[file:Koh_2.org::v11][2,11]].[[file:Koh_2.org::v18][18-22]]; [[file:Koh_3.org::v9][3,9]]; [[file:Koh_5.org::v15][5,15]].[[file:Koh_5.org::v17][17]]; [[file:Koh_9.org::v9][9,9]]
 

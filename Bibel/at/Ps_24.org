@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-11 Mo 10:04]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 24.html
+#+export_file_name: ~/Documents/exports/Ps 24.html
 
 * Ps 24
 
@@ -72,7 +72,7 @@
 
 * Footnotes
 
-[fn:1] [[file:Ps_50.org::v12][50,12]]; [[file:Ps_89.org::v12][89,12]]; [[file:Ps_95.org::v5][95,5]]; [[file:Ps_136.org::v6][136,6]]; [[file:Ex_9.org::v29][Ex 9,29]]; [[file:Dtn_10.org::v14][Dtn 10,14]]; [[file:Jes_42.org::v5][Jes 42,5]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_10.org::v26][1 Kor 10,26]]
+[fn:1] [[file:Ps_50.org::v12][50,12]]; [[file:Ps_89.org::v12][89,12]]; [[file:Ps_95.org::v5][95,5]]; [[file:Ps_136.org::v6][136,6]]; [[file:Ex_9.org::v29][Ex 9,29]]; [[file:Dtn_10.org::v14][Dtn 10,14]]; [[file:Jes_42.org::v5][Jes 42,5]]; [[file:~/Documents/notes/Bibel/nt/1.Kor_10.org::v26][1 Kor 10,26]]
 
 [fn:2] (3-6) [[file:Ps_118.org::v19][118,19f]]
 

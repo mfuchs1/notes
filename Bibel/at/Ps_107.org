@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-15 Do 17:37]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 107.html
+#+export_file_name: ~/Documents/exports/Ps 107.html
 
 * Ps 107
 
@@ -247,7 +247,7 @@
 
 [fn:5] [[file:Ps_50.org::v15][50,15]]
 
-[fn:6] [[file:Jes_55.org::v1][Jes 55,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v53][Lk 1,53]]
+[fn:6] [[file:Jes_55.org::v1][Jes 55,1]]; [[file:~/Documents/notes/Bibel/nt/Lk_1.org::v53][Lk 1,53]]
 
 [fn:7] [[file:Ijob_36.org::v8][Ijob 36,8f]]
 
@@ -261,7 +261,7 @@
 
 [fn:12] [[file:Ijob_6.org::v6][Ijob 6,6f]]; [[file:Ijob_33.org::v20][33,20]]
 
-[fn:13] [[file:Weish_16.org::v12][Weish 16,12]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_8.org::v8][Mt 8,8]]
+[fn:13] [[file:Weish_16.org::v12][Weish 16,12]]; [[file:~/Documents/notes/Bibel/nt/Mt_8.org::v8][Mt 8,8]]
 
 [fn:14] vom Verderben, wörtlich: aus ihren Gruben.
 
@@ -273,7 +273,7 @@
 
 [fn:18] [[file:Jona_1.org::v14][Jona 1,14f]]
 
-[fn:19] [[file:Ps_65.org::v8][65,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_8.org::v26][Mt 8,26]]
+[fn:19] [[file:Ps_65.org::v8][65,8]]; [[file:~/Documents/notes/Bibel/nt/Mt_8.org::v26][Mt 8,26]]
 
 [fn:20] [[file:Ps_22.org::v23][22,23]]
 

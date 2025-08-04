@@ -1,0 +1,5 @@
+#+title:      Neue Notiz
+#+date:       [2025-08-01 Fr 17:15]
+#+filetags:   :emacs:
+#+identifier: 20250801T171515
+

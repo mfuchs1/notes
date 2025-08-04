@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-18 So 00:20]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 118.html
+#+export_file_name: ~/Documents/exports/Ps 118.html
 
 * Ps 118
 
@@ -171,7 +171,7 @@
 
 [fn:2] (2-4) [[file:Ps_115.org::v9][115,9-13]]; [[file:Ps_135.org::v19][135,19f]]
 
-[fn:3] [[file:Ps_56.org::v5][56,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_13.org::v6][Hebr 13,6]]
+[fn:3] [[file:Ps_56.org::v5][56,5]]; [[file:~/Documents/notes/Bibel/nt/Hebr_13.org::v6][Hebr 13,6]]
 
 [fn:4] [[file:Ps_54.org::v6][54,6]].[[file:Ps_54.org::v9][9]]
 
@@ -187,13 +187,13 @@
 
 [fn:10] [[file:Ps_6.org::v6][6,6]]
 
-[fn:11] [[file:~/RoamNotes/notes/Bibel/nt/2.Kor_6.org::v9][2 Kor 6,9]]
+[fn:11] [[file:~/Documents/notes/Bibel/nt/2.Kor_6.org::v9][2 Kor 6,9]]
 
 [fn:12] (19-20) [[file:Jes_26.org::v2][Jes 26,2]]
 
-[fn:13] [[file:Jes_28.org::v16][Jes 28,16]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_4.org::v11][Apg 4,11]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v7][1 Petr 2,7]]; (22-23) [[file:Neh_6.org::v16][Neh 6,16]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_21.org::v42][Mt 21,42]]
+[fn:13] [[file:Jes_28.org::v16][Jes 28,16]]; [[file:~/Documents/notes/Bibel/nt/Apg_4.org::v11][Apg 4,11]]; [[file:~/Documents/notes/Bibel/nt/1.Petr_2.org::v7][1 Petr 2,7]]; (22-23) [[file:Neh_6.org::v16][Neh 6,16]]; [[file:~/Documents/notes/Bibel/nt/Mt_21.org::v42][Mt 21,42]]
 
-[fn:14] [[file:~/RoamNotes/notes/Bibel/nt/Mt_21.org::v9][Mt 21,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_23.org::v39][23,39]]
+[fn:14] [[file:~/Documents/notes/Bibel/nt/Mt_21.org::v9][Mt 21,9]]; [[file:~/Documents/notes/Bibel/nt/Mt_23.org::v39][23,39]]
 
 [fn:15] Nach G.
 

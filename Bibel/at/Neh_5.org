@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-23 Do 23:33]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Neh 5.html
+#+export_file_name: ~/Documents/exports/Neh 5.html
 
 <<verses>>
 
@@ -121,7 +121,7 @@ für dieses Volk getan habe. [fn:8]\\
 
 [fn:1] [[file:Jer_34.org::v8][Jer 34,8]]-[[file:Jer_34.org::v16][16]]
 
-[fn:2] [[file:2.Kön_4.org::v1][2 Kön 4,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_18.org::v25][Mt 18,25]]
+[fn:2] [[file:2.Kön_4.org::v1][2 Kön 4,1]]; [[file:~/Documents/notes/Bibel/nt/Mt_18.org::v25][Mt 18,25]]
 
 [fn:3] [[file:Lev_25.org::v39][Lev 25,39]].[[file:Lev_25.org::v43][43]]
 
@@ -131,6 +131,6 @@ für dieses Volk getan habe. [fn:8]\\
 
 [fn:6] [[file:Dtn_15.org::v1][Dtn 15,1f]]
 
-[fn:7] Im Gewandbausch trug man Feldfrüchte (vgl. [[file:Ps_129.org::v7][Ps 129,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_6.org::v38][Lk 6,38)]].
+[fn:7] Im Gewandbausch trug man Feldfrüchte (vgl. [[file:Ps_129.org::v7][Ps 129,7]]; [[file:~/Documents/notes/Bibel/nt/Lk_6.org::v38][Lk 6,38)]].
 
 [fn:8] [[file:Neh_6.org::v14][6,14]]; [[file:Neh_13.org::v14][13,14]].[[file:Neh_13.org::v31][31]]; [[file:Ps_132.org::v1][Ps 132,1]]

@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-29 So 14:39]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 11.html
+#+export_file_name: ~/Documents/exports/Dtn 11.html
 
 
 * Dtn 11
@@ -208,7 +208,7 @@ Sprache erfordert es, V. 7 zu V. 2 vorzuziehen.
 [fn:11] 13-15: Mose gebraucht teilweise das Ich der
 Gottesrede. Vielleicht spielt er auf einen bekannten Text an.
 
-[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/Jak_5.org::v7][Jak 5,7]]
+[fn:12] [[file:~/Documents/notes/Bibel/nt/Jak_5.org::v7][Jak 5,7]]
 
 [fn:13] [[file:Dtn_28.org::v23][28,23]]
 

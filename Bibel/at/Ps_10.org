@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-03 So 22:10]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 10.html
+#+export_file_name: ~/Documents/exports/Ps 10.html
 
 * Ps 10
 
@@ -118,7 +118,7 @@ an; /\\
 
 [fn:2] Nach G; H ist unklar.
 
-[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v14][Röm 3,14]]
+[fn:3] [[file:~/Documents/notes/Bibel/nt/Röm_3.org::v14][Röm 3,14]]
 
 [fn:4] [[file:Ps_11.org::v2][11,2]]
 

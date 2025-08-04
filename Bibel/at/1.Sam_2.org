@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-06 Mo 09:43]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/1 Sam 2.html
+#+export_file_name: ~/Documents/exports/1 Sam 2.html
 
 
 <<verses>>
@@ -233,7 +233,7 @@ zustehenden Opferanteilen (vgl. [[file:Lev_7.org::v33][Lev 7,33f]]; [[file:Dtn_1
 
 [fn:6] [[file:Lev_7.org::v11][Lev 7,11]]-[[file:Lev_7.org::v17][17]].[[file:Lev_7.org::v28][28]]-[[file:Lev_7.org::v34][34]]
 
-[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Lk_2.org::v52][Lk 2,52]]
+[fn:7] [[file:~/Documents/notes/Bibel/nt/Lk_2.org::v52][Lk 2,52]]
 
 [fn:8] deine Vorfahren, wörtlich: sie.
 

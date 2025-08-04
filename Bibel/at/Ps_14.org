@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-04 Mo 22:04]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 14.html
+#+export_file_name: ~/Documents/exports/Ps 14.html
 
 * Ps 14
 
@@ -56,7 +56,7 @@
 
 * Footnotes
 
-[fn:1] [[file:Ps_10.org::v4][10,4]]; [[file:Jes_32.org::v6][Jes 32,6]]; [[file:Mi_7.org::v2][Mi 7,2]]; (1-3) [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v10][Röm 3,10-12]]; (1-7) [[file:Ps_53.org::v1][Ps 53,1-7]]
+[fn:1] [[file:Ps_10.org::v4][10,4]]; [[file:Jes_32.org::v6][Jes 32,6]]; [[file:Mi_7.org::v2][Mi 7,2]]; (1-3) [[file:~/Documents/notes/Bibel/nt/Röm_3.org::v10][Röm 3,10-12]]; (1-7) [[file:Ps_53.org::v1][Ps 53,1-7]]
 
 [fn:2] [[file:Ps_33.org::v13][33,13-15]]
 

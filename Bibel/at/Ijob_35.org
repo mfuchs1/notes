@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-02 Sa 23:15]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ijob 35.html
+#+export_file_name: ~/Documents/exports/Ijob 35.html
 
 <<verses>>
 
@@ -103,6 +103,6 @@
 
 [fn:2] mir: Text korr.; H: dir.
 
-[fn:3] [[file:Ijob_22.org::v3][22,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_17.org::v10][Lk 17,10]]
+[fn:3] [[file:Ijob_22.org::v3][22,3]]; [[file:~/Documents/notes/Bibel/nt/Lk_17.org::v10][Lk 17,10]]
 
 [fn:4] [[file:Ijob_22.org::v13][22,13]]

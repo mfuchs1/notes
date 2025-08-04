@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-29 So 16:31]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 14.html
+#+export_file_name: ~/Documents/exports/Dtn 14.html
 
 
 <<verses>>
@@ -156,9 +156,9 @@ dich stets segnet bei der Arbeit, die deine Hände tun. [fn:14]\\
 
 * Footnotes
 
-[fn:1] (1-2) [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v45][Mt 5,45]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_6.org::v9][6,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_6.org::v35][Lk 6,35]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_11.org::v2][11,2]]
+[fn:1] (1-2) [[file:~/Documents/notes/Bibel/nt/Mt_5.org::v45][Mt 5,45]]; [[file:~/Documents/notes/Bibel/nt/Mt_6.org::v9][6,9]]; [[file:~/Documents/notes/Bibel/nt/Lk_6.org::v35][Lk 6,35]]; [[file:~/Documents/notes/Bibel/nt/Lk_11.org::v2][11,2]]
 
-[fn:2] [[file:Dtn_7.org::v6][7,6]]; [[file:Dtn_26.org::v18][26,18f]]; [[file:~/RoamNotes/notes/Bibel/nt/Tit_2.org::v14][Tit 2,14]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v9][1 Petr 2,9]]
+[fn:2] [[file:Dtn_7.org::v6][7,6]]; [[file:Dtn_26.org::v18][26,18f]]; [[file:~/Documents/notes/Bibel/nt/Tit_2.org::v14][Tit 2,14]]; [[file:~/Documents/notes/Bibel/nt/1.Petr_2.org::v9][1 Petr 2,9]]
 
 [fn:3] (3-21a) [[file:Lev_11.org::v1][Lev 11]]
 

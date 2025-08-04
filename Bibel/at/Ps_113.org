@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-17 Sa 23:48]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 113.html
+#+export_file_name: ~/Documents/exports/Ps 113.html
 
 * Ps 113
 
@@ -80,4 +80,4 @@ folgendermaßen umgestellt: 5a/6b und 5b/6a.
 
 [fn:7] ihm: Text korr. nach G, S, Vg; H: mir.
 
-[fn:8] [[file:1.Sam_2.org::v5][1 Sam 2,5]]; [[file:Jes_54.org::v1][Jes 54,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v57][Lk 1,57f]]
+[fn:8] [[file:1.Sam_2.org::v5][1 Sam 2,5]]; [[file:Jes_54.org::v1][Jes 54,1]]; [[file:~/Documents/notes/Bibel/nt/Lk_1.org::v57][Lk 1,57f]]

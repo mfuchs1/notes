@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-19 Mo 14:37]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 128.html
+#+export_file_name: ~/Documents/exports/Ps 128.html
 
 * Ps 128
 
@@ -59,6 +59,6 @@
 
 [fn:4] [[file:Ps_127.org::v3][127,3]]; [[file:Ijob_29.org::v5][Ijob 29,5]]; [[file:Ps_144.org::v12][Ps 144,12]]
 
-[fn:5] [[file:Ps_134.org::v3][134,3]]; (5-6) [[file:~/RoamNotes/notes/Bibel/nt/Gal_6.org::v16][Gal 6,16]]
+[fn:5] [[file:Ps_134.org::v3][134,3]]; (5-6) [[file:~/Documents/notes/Bibel/nt/Gal_6.org::v16][Gal 6,16]]
 
 [fn:6] [[file:Ijob_42.org::v16][Ijob 42,16]]

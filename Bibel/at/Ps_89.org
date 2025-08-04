@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-04 So 23:38]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 89.html
+#+export_file_name: ~/Documents/exports/Ps 89.html
 
 * Ps 89
 
@@ -292,13 +292,13 @@ deine Treue.
 
 [fn:3] [[file:Ps_132.org::v11][132,11]]; [[file:2.Sam_7.org::v8][2 Sam 7,8-16]]
 
-[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/Apg_2.org::v30][Apg 2,30]]
+[fn:4] [[file:~/Documents/notes/Bibel/nt/Apg_2.org::v30][Apg 2,30]]
 
 [fn:5] [[file:Ps_29.org::v1][29,1]]; (7-9) [[file:Ps_35.org::v10][35,10]]; [[file:Ps_136.org::v2][136,2f]]
 
 [fn:6] [[file:Ijob_1.org::v6][Ijob 1,6]]
 
-[fn:7] [[file:Ps_65.org::v8][65,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_8.org::v26][Mt 8,26]]
+[fn:7] [[file:Ps_65.org::v8][65,8]]; [[file:~/Documents/notes/Bibel/nt/Mt_8.org::v26][Mt 8,26]]
 
 [fn:8] [[file:Ps_74.org::v13][74,13f]]; [[file:Ijob_26.org::v12][Ijob 26,12]]
 
@@ -318,7 +318,7 @@ deine Treue.
 
 [fn:16] gekrönt: Text korr.
 
-[fn:17] [[file:Ps_78.org::v70][78,70]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v22][Apg 13,22]]
+[fn:17] [[file:Ps_78.org::v70][78,70]]; [[file:~/Documents/notes/Bibel/nt/Apg_13.org::v22][Apg 13,22]]
 
 [fn:18] [[file:Jes_42.org::v1][Jes 42,1]]
 
@@ -328,7 +328,7 @@ deine Treue.
 
 [fn:21] (27-28) [[file:Ps_2.org::v7][2,7]]; [[file:2.Sam_7.org::v14][2 Sam 7,14]]
 
-[fn:22] [[file:~/RoamNotes/notes/Bibel/nt/Kol_1.org::v15][Kol 1,15]].[[file:~/RoamNotes/notes/Bibel/nt/Kol_1.org::v18][18]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_1.org::v5][Offb 1,5]]
+[fn:22] [[file:~/Documents/notes/Bibel/nt/Kol_1.org::v15][Kol 1,15]].[[file:~/Documents/notes/Bibel/nt/Kol_1.org::v18][18]]; [[file:~/Documents/notes/Bibel/nt/Offb_1.org::v5][Offb 1,5]]
 
 [fn:23] [[file:Ps_18.org::v51][18,51]]; [[file:Jes_55.org::v3][Jes 55,3]]
 
@@ -357,4 +357,4 @@ deine Treue.
 [fn:35] deines Knechtes: Text korr.; H: deiner Knechte. Text
 korr.; H: Im Herzen trage ich alle die vielen Völker.
 
-[fn:36] [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v26][Hebr 11,26]]
+[fn:36] [[file:~/Documents/notes/Bibel/nt/Hebr_11.org::v26][Hebr 11,26]]

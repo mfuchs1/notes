@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-20 Di 18:35]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 140.html
+#+export_file_name: ~/Documents/exports/Ps 140.html
 
 * Ps 140
 
@@ -93,7 +93,7 @@
 
 [fn:1] [[file:Ps_71.org::v4][71,4]]
 
-[fn:2] [[file:Ps_55.org::v22][55,22]]; [[file:Ps_58.org::v5][58,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v13][Röm 3,13]]
+[fn:2] [[file:Ps_55.org::v22][55,22]]; [[file:Ps_58.org::v5][58,5]]; [[file:~/Documents/notes/Bibel/nt/Röm_3.org::v13][Röm 3,13]]
 
 [fn:3] Wörtlich: darauf sinnen, meine Schritte zu Fall zu
 bringen.

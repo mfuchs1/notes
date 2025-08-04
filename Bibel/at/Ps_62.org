@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-06-03 Mo 10:05]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 62.html
+#+export_file_name: ~/Documents/exports/Ps 62.html
 
 * Ps 62
 
@@ -104,9 +104,9 @@
 
 [fn:8] [[file:Ps_39.org::v6][39,6f]]; [[file:Jes_40.org::v15][Jes 40,15]]
 
-[fn:9] [[file:~/RoamNotes/notes/Bibel/nt/Mt_19.org::v22][Mt 19,22]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_12.org::v15][Lk 12,15-21]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Tim_6.org::v17][1 Tim 6,17]]
+[fn:9] [[file:~/Documents/notes/Bibel/nt/Mt_19.org::v22][Mt 19,22]]; [[file:~/Documents/notes/Bibel/nt/Lk_12.org::v15][Lk 12,15-21]]; [[file:~/Documents/notes/Bibel/nt/1.Tim_6.org::v17][1 Tim 6,17]]
 
 [fn:10] [[file:Ijob_40.org::v5][Ijob 40,5]]
 
 [fn:11] [[file:Ps_28.org::v4][28,4]]; [[file:Ps_31.org::v24][31,24]]; [[file:Ps_91.org::v8][91,8]]; [[file:Ps_94.org::v2][94,2]].[[file:Ps_94.org::v23][23]]; [[file:2.Sam_3.org::v39][2 Sam 3,39]]; [[file:Ijob_34.org::v11][Ijob 34,11]];
-[[file:Klgl_3.org::v64][Klgl 3,64]]; [[file:Jer_50.org::v29][Jer 50,29]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_2.org::v6][Röm 2,6]]; [[file:~/RoamNotes/notes/Bibel/nt/2.Tim_4.org::v14][2 Tim 4,14]]
+[[file:Klgl_3.org::v64][Klgl 3,64]]; [[file:Jer_50.org::v29][Jer 50,29]]; [[file:~/Documents/notes/Bibel/nt/Röm_2.org::v6][Röm 2,6]]; [[file:~/Documents/notes/Bibel/nt/2.Tim_4.org::v14][2 Tim 4,14]]

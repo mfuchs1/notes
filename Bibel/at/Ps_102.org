@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-08 Do 21:32]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 102.html
+#+export_file_name: ~/Documents/exports/Ps 102.html
 
 * Ps 102
 
@@ -198,14 +198,14 @@ dehnender Schatten (d. h.: es geht dem Ende entgegen)
 
 [fn:15] [[file:Ps_79.org::v11][79,11]]
 
-[fn:16] [[file:Jes_60.org::v3][Jes 60,3-10]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_13.org::v29][Lk 13,29f]]
+[fn:16] [[file:Jes_60.org::v3][Jes 60,3-10]]; [[file:~/Documents/notes/Bibel/nt/Lk_13.org::v29][Lk 13,29f]]
 
 [fn:17] [[file:Ps_89.org::v46][89,46]]
 
 [fn:18] [[file:Ps_55.org::v24][55,24]]
 
-[fn:19] (26-28) [[file:Jes_51.org::v6][Jes 51,6-8]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_1.org::v10][Hebr 1,10-12]]
+[fn:19] (26-28) [[file:Jes_51.org::v6][Jes 51,6-8]]; [[file:~/Documents/notes/Bibel/nt/Hebr_1.org::v10][Hebr 1,10-12]]
 
-[fn:20] [[file:~/RoamNotes/notes/Bibel/nt/Hebr_13.org::v8][Hebr 13,8]]
+[fn:20] [[file:~/Documents/notes/Bibel/nt/Hebr_13.org::v8][Hebr 13,8]]
 
 [fn:21] [[file:Ps_69.org::v36][69,36f]]

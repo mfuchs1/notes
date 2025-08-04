@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-01-02 Di 21:59]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 38.html
+#+export_file_name: ~/Documents/exports/Ps 38.html
 
 * Ps 38
 
@@ -148,7 +148,7 @@ unübersetzt.
 
 [fn:8] [[file:Ps_13.org::v5][13,5]]; [[file:Ps_35.org::v19][35,19]]
 
-[fn:9] [[file:Ps_32.org::v5][32,5]]; [[file:Ps_51.org::v5][51,5]]; [[file:2.Sam_12.org::v13][2 Sam 12,13]]; [[file:Ijob_31.org::v33][Ijob 31,33]]; [[file:Spr_28.org::v13][Spr 28,13]]; [[file:Hos_14.org::v3][Hos 14,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Jak_5.org::v16][Jak 5,16]]
+[fn:9] [[file:Ps_32.org::v5][32,5]]; [[file:Ps_51.org::v5][51,5]]; [[file:2.Sam_12.org::v13][2 Sam 12,13]]; [[file:Ijob_31.org::v33][Ijob 31,33]]; [[file:Spr_28.org::v13][Spr 28,13]]; [[file:Hos_14.org::v3][Hos 14,3]]; [[file:~/Documents/notes/Bibel/nt/Jak_5.org::v16][Jak 5,16]]
 
 [fn:10] Text korr.
 

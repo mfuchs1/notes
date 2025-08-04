@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-18 Sa 17:04]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/2 Kön 1.html
+#+export_file_name: ~/Documents/exports/2 Kön 1.html
 
 <<verses>>
 
@@ -114,7 +114,7 @@ Mt 10,25 hat die ursprüngliche Namensform Beelzebul. Baalzebub in H ist
 eine Entstellung des Namens (= Herr der Fliegen).
 
 [fn:2] Der Mantel war das besondere Kleidungsstück der
-Propheten ([[file:1.Sam_28.org::v14][1 Sam 28,14]]; [[file:1.Kön_19.org::v13][1 Kön 19,13]].[[file:1.Kön_19.org::v19][19]]; [[file:2.Kön_2.org::v8][2 Kön 2,8]].[[file:2.Kön_2.org::v14][14]]; [[file:Sach_13.org::v4][Sach 13,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_3.org::v4][Mt 3,4]]).
+Propheten ([[file:1.Sam_28.org::v14][1 Sam 28,14]]; [[file:1.Kön_19.org::v13][1 Kön 19,13]].[[file:1.Kön_19.org::v19][19]]; [[file:2.Kön_2.org::v8][2 Kön 2,8]].[[file:2.Kön_2.org::v14][14]]; [[file:Sach_13.org::v4][Sach 13,4]]; [[file:~/Documents/notes/Bibel/nt/Mt_3.org::v4][Mt 3,4]]).
 
 [fn:3] Sein Bruder: eingefügt wegen des Zusammenhangs, vgl.
 [[file:2.Kön_3.org::v1][3,1]]. Der Regierungswechsel wird hier in das zweite Jahr Jorams, des

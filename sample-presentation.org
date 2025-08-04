@@ -15,7 +15,7 @@
 #+startup: beamer
 #+LaTeX_CLASS: beamer
 #+LaTeX_CLASS_OPTIONS: [bigger]
-#+export_file_name: ~/RoamNotes/exports/sample-presentation.html
+#+export_file_name: ~/Documents/exports/sample-presentation.html
 
 * Introduction
 ** A simple slide

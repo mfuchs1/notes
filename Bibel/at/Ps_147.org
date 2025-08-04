@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-20 Di 23:40]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 147.html
+#+export_file_name: ~/Documents/exports/Ps 147.html
 
 * Ps 147
 
@@ -132,13 +132,13 @@
 
 [fn:5] [[file:Ps_145.org::v3][145,3]]; [[file:Jes_40.org::v28][Jes 40,28]]
 
-[fn:6] [[file:Ps_145.org::v14][145,14]]; [[file:Ps_75.org::v8][75,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v52][Lk 1,52]]
+[fn:6] [[file:Ps_145.org::v14][145,14]]; [[file:Ps_75.org::v8][75,8]]; [[file:~/Documents/notes/Bibel/nt/Lk_1.org::v52][Lk 1,52]]
 
 [fn:7] erniedrigt die Frevler: H fügt hinzu: bis zum Boden.
 
 [fn:8] [[file:Ps_104.org::v11][104,11-14]]; [[file:Ijob_5.org::v10][Ijob 5,10]]; [[file:Jer_14.org::v22][Jer 14,22]]; [[file:Joel_2.org::v23][Joël 2,23]]
 
-[fn:9] [[file:Ijob_38.org::v41][Ijob 38,41]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_12.org::v24][Lk 12,24]]
+[fn:9] [[file:Ijob_38.org::v41][Ijob 38,41]]; [[file:~/Documents/notes/Bibel/nt/Lk_12.org::v24][Lk 12,24]]
 
 [fn:10] (10-11) [[file:Ps_20.org::v8][20,8]]; [[file:1.Sam_16.org::v7][1 Sam 16,7]]
 

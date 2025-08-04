@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-14 Di 22:52]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/1 Kön 10.html
+#+export_file_name: ~/Documents/exports/1 Kön 10.html
 
 <<verses>>
 
@@ -170,7 +170,7 @@ bestimmbare wertvolle Holzart.
 [fn:5] (14-28) [[file:2.Chr_9.org::v13][2 Chr 9,13-28]]
 
 [fn:6] Das Spiel mit der Zahl sechs lässt eine sinnbildliche
-Bedeutung vermuten (vgl. [[file:~/RoamNotes/notes/Bibel/nt/Offb_13.org::v18][Offb 13,18]]).
+Bedeutung vermuten (vgl. [[file:~/Documents/notes/Bibel/nt/Offb_13.org::v18][Offb 13,18]]).
 
 [fn:7] Die Übersetzung setzt geringfügige Korrekturen voraus.
 

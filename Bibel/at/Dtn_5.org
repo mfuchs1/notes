@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-28 Sa 15:15]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 5.html
+#+export_file_name: ~/Documents/exports/Dtn 5.html
 
 
 <<verses>>
@@ -174,7 +174,7 @@ lange lebt in dem Land, das ihr in Besitz nehmt.\\
 
 [fn:1] [[file:Dtn_11.org::v32][11,32]]; [[file:Dtn_12.org::v1][12,1]]; [[file:Dtn_26.org::v16][26,16]]
 
-[fn:2] (2-31) [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v38][Apg 7,38]]
+[fn:2] (2-31) [[file:~/Documents/notes/Bibel/nt/Apg_7.org::v38][Apg 7,38]]
 
 [fn:3] [[file:Dtn_28.org::v69][28,69]]; [[file:Dtn_29.org::v13][29,13f]]
 
@@ -205,29 +205,29 @@ spricht den nicht frei, der bei seinem Namen einen Meineid schwört. -
 Die oben gegebene weitere Übersetzung erlaubt es, auch anderen
 Missbrauch des Jahwenamens, etwa durch Magie, einzuschließen.
 
-[fn:13] [[file:Ex_23.org::v12][Ex 23,12]]; [[file:Ex_34.org::v21][34,21]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_13.org::v14][Lk 13,14]]
+[fn:13] [[file:Ex_23.org::v12][Ex 23,12]]; [[file:Ex_34.org::v21][34,21]]; [[file:~/Documents/notes/Bibel/nt/Lk_13.org::v14][Lk 13,14]]
 
-[fn:14] [[file:~/RoamNotes/notes/Bibel/nt/Mk_2.org::v27][Mk 2,27]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_23.org::v56][Lk 23,56]]
+[fn:14] [[file:~/Documents/notes/Bibel/nt/Mk_2.org::v27][Mk 2,27]]; [[file:~/Documents/notes/Bibel/nt/Lk_23.org::v56][Lk 23,56]]
 
 [fn:15] der in deinen Stadtbereichen Wohnrecht hat, wörtlich:
 der in deinen Stadttoren ist. - So immer, wenn diese Wendung
 wiederkehrt.
 
-[fn:16] [[file:Dtn_15.org::v15][15,15]]; [[file:Dtn_16.org::v12][16,12]]; [[file:Dtn_24.org::v18][24,18.22]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v17][Apg 13,17]]
+[fn:16] [[file:Dtn_15.org::v15][15,15]]; [[file:Dtn_16.org::v12][16,12]]; [[file:Dtn_24.org::v18][24,18.22]]; [[file:~/Documents/notes/Bibel/nt/Apg_13.org::v17][Apg 13,17]]
 
-[fn:17] [[file:~/RoamNotes/notes/Bibel/nt/Mk_15.org::v4][Mt 15,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_7.org::v10][Mk 7,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Eph_6.org::v2][Eph 6,2f]] (16-21) [[file:~/RoamNotes/notes/Bibel/nt/Mt_19.org::v18][Mt 19,18f]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_10.org::v19][Mk 10,19]];
-[[file:~/RoamNotes/notes/Bibel/nt/Lk_18.org::v20][Lk 18,20]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_13.org::v9][Röm 13,9]]
+[fn:17] [[file:~/Documents/notes/Bibel/nt/Mk_15.org::v4][Mt 15,4]]; [[file:~/Documents/notes/Bibel/nt/Mk_7.org::v10][Mk 7,10]]; [[file:~/Documents/notes/Bibel/nt/Eph_6.org::v2][Eph 6,2f]] (16-21) [[file:~/Documents/notes/Bibel/nt/Mt_19.org::v18][Mt 19,18f]]; [[file:~/Documents/notes/Bibel/nt/Mk_10.org::v19][Mk 10,19]];
+[[file:~/Documents/notes/Bibel/nt/Lk_18.org::v20][Lk 18,20]]; [[file:~/Documents/notes/Bibel/nt/Röm_13.org::v9][Röm 13,9]]
 
-[fn:18] (17f) [[file:~/RoamNotes/notes/Bibel/nt/Jak_2.org::v11][Jak 2,11]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v21][Mt 5,21]]
+[fn:18] (17f) [[file:~/Documents/notes/Bibel/nt/Jak_2.org::v11][Jak 2,11]]; [[file:~/Documents/notes/Bibel/nt/Mt_5.org::v21][Mt 5,21]]
 
 [fn:19] Manche Bibelausgaben zählen die VV. 17-20 nur als V. 17;
 entsprechend ändert sich die Zählung der folgenden Verse.
 
-[fn:20] [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v27][Mt 5,27]]
+[fn:20] [[file:~/Documents/notes/Bibel/nt/Mt_5.org::v27][Mt 5,27]]
 
-[fn:21] [[file:~/RoamNotes/notes/Bibel/nt/Röm_7.org::v7][Röm 7,7]]
+[fn:21] [[file:~/Documents/notes/Bibel/nt/Röm_7.org::v7][Röm 7,7]]
 
-[fn:22] (22-27) [[file:~/RoamNotes/notes/Bibel/nt/Hebr_12.org::v18][Hebr 12,18f]]
+[fn:22] (22-27) [[file:~/Documents/notes/Bibel/nt/Hebr_12.org::v18][Hebr 12,18f]]
 
 [fn:23] [[file:Dtn_1.org::v13][1,13]]; [[file:Dtn_19.org::v12][19,12]]; [[file:Dtn_27.org::v1][27,1]]; [[file:Dtn_29.org::v9][29,9]]; [[file:Dtn_31.org::v9][31,9.28]] (23-31) [[file:Dtn_18.org::v16][18,16-19]];
 [[file:Ex_20.org::v18][Ex 20,18-21]]

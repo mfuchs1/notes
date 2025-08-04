@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-26 Do 22:58]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 2.html
+#+export_file_name: ~/Documents/exports/Dtn 2.html
 
 <<verses>>
 
@@ -200,7 +200,7 @@ der Herr, unser Gott, uns verwehrt hatte.
 
 [fn:2] (2-8) Num 20,14-21 [[file:Num_20.org::v14][Num 20,14-21]]
 
-[fn:3] Apg 7,5 [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v5][Apg 7,5]]
+[fn:3] Apg 7,5 [[file:~/Documents/notes/Bibel/nt/Apg_7.org::v5][Apg 7,5]]
 
 [fn:4] 8,4 [[file:Dtn_8.org::v4][Dtn 8,4]]; 28,12 [[file:Dtn_28.org::v12][Dtn 28,12]]; 29,4 [[file:Dtn_29.org::v4][Dtn 29,4]]
 

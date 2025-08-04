@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-07 Do 17:27]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 23.html
+#+export_file_name: ~/Documents/exports/Ps 23.html
 
 * Ps 23
 
@@ -50,9 +50,9 @@
 
 * Footnotes
 
-[fn:1] [[file:Ps_80.org::v2][80,2]]; [[file:Ps_95.org::v7][95,7]]; [[file:Gen_48.org::v15][Gen 48,15]]; [[file:Jes_40.org::v11][Jes 40,11]]; [[file:Ez_34.org::v2][Ez 34,2]]; [[file:Mi_7.org::v14][Mi 7,14]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_10.org::v11][Joh 10,11]]
+[fn:1] [[file:Ps_80.org::v2][80,2]]; [[file:Ps_95.org::v7][95,7]]; [[file:Gen_48.org::v15][Gen 48,15]]; [[file:Jes_40.org::v11][Jes 40,11]]; [[file:Ez_34.org::v2][Ez 34,2]]; [[file:Mi_7.org::v14][Mi 7,14]]; [[file:~/Documents/notes/Bibel/nt/Joh_10.org::v11][Joh 10,11]]
 
-[fn:2] [[file:Ez_34.org::v13][Ez 34,13-15]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_7.org::v17][Offb 7,17]]
+[fn:2] [[file:Ez_34.org::v13][Ez 34,13-15]]; [[file:~/Documents/notes/Bibel/nt/Offb_7.org::v17][Offb 7,17]]
 
 [fn:3] [[file:Ps_25.org::v4][25,4]]; [[file:Spr_4.org::v11][Spr 4,11]]
 

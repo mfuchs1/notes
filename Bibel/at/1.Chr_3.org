@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-11-19 So 21:40]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/1 Chr 3.html
+#+export_file_name: ~/Documents/exports/1 Chr 3.html
 
 <<verses>>
 
@@ -110,17 +110,17 @@ Johanan, Delaja und Anani, insgesamt sieben.\\
 
 [fn:3] [[file:2.Sam_13.org::v1][2 Sam 13,1-22]]
 
-[fn:4] (10-19) [[file:~/RoamNotes/notes/Bibel/nt/Mt_1.org::v7][Mt 1,7-12]]
+[fn:4] (10-19) [[file:~/Documents/notes/Bibel/nt/Mt_1.org::v7][Mt 1,7-12]]
 
 [fn:5] 10-16: Die Liste nennt aus jeder Generation nur den
 Inhaber des Königtums. Die Namen sind auch im Stammbaum Jesu enthalten
-(vgl. [[file:~/RoamNotes/notes/Bibel/nt/Mt_1.org::v6][Mt 1,6-11]]).
+(vgl. [[file:~/Documents/notes/Bibel/nt/Mt_1.org::v6][Mt 1,6-11]]).
 
 [fn:6] Jojachin wurde 597 v. Chr. als Gefangener nach Babel
 gebracht (vgl. [[file:2.Kön_24.org::v12][2 Kön 24,12]]).
 
 [fn:7] Serubbabel wird hier als Sohn Pedajas, des dritten
-Sohns, sonst aber ([[file:Esra_3.org::v2][Esra 3,2]]; [[file:Hag_1.org::v1][Hag 1,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_1.org::v12][Mt 1,12]]) als Sohn Schealtiëls, des
+Sohns, sonst aber ([[file:Esra_3.org::v2][Esra 3,2]]; [[file:Hag_1.org::v1][Hag 1,1]]; [[file:~/Documents/notes/Bibel/nt/Mt_1.org::v12][Mt 1,12]]) als Sohn Schealtiëls, des
 Erstgeborenen Jojachins, bezeichnet.
 
 [fn:8] Nach dem korrigierten Text sind alle hier genannten

@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-12-04 Mo 22:25]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 18.html
+#+export_file_name: ~/Documents/exports/Ps 18.html
 
 * Ps 18
 
@@ -354,6 +354,6 @@ voraus: Die Söhne der Fremde verschmachten und kommen.
 
 [fn:34] [[file:Ps_144.org::v2][144,2]]
 
-[fn:35] [[file:Ps_108.org::v4][108,4]]; [[file:Ps_7.org::v18][7,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_15.org::V9][Röm 15,9]]
+[fn:35] [[file:Ps_108.org::v4][108,4]]; [[file:Ps_7.org::v18][7,18]]; [[file:~/Documents/notes/Bibel/nt/Röm_15.org::V9][Röm 15,9]]
 
 [fn:36] [[file:Ps_20.org::v7][20,7]]; [[file:Ps_89.org::v29][89,29f]]; [[file:Ps_144.org::v10][144,10]]

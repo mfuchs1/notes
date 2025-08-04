@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-29 So 21:19]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Dtn 19.html
+#+export_file_name: ~/Documents/exports/Dtn 19.html
 
 
 <<verses>>
@@ -149,7 +149,7 @@ Auge für Auge, Zahn für Zahn, Hand für Hand, Fuß für Fuß. [fn:17]\\
 
 [fn:8] [[file:Dtn_27.org::v17][27,17]]
 
-[fn:9] [[file:Dtn_17.org::v6][17,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_18.org::v16][Mt 18,16]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v17][Joh 8,17]]; [[file:2.Kön_13.org::v1][2 Kor 13,1]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Tim_5.org::v19][1 Tim 5,19]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_10.org::v28][Hebr 10,28]]
+[fn:9] [[file:Dtn_17.org::v6][17,6]]; [[file:~/Documents/notes/Bibel/nt/Mt_18.org::v16][Mt 18,16]]; [[file:~/Documents/notes/Bibel/nt/Joh_8.org::v17][Joh 8,17]]; [[file:2.Kön_13.org::v1][2 Kor 13,1]]; [[file:~/Documents/notes/Bibel/nt/1.Tim_5.org::v19][1 Tim 5,19]]; [[file:~/Documents/notes/Bibel/nt/Hebr_10.org::v28][Hebr 10,28]]
 
 [fn:10] 15f: Die Funktion des Zeugen und die des Anklägers
 waren nicht klar geschieden.
@@ -169,4 +169,4 @@ Angeklagten.
 
 [fn:16] [[file:1.Kön_5.org::v13][1 Kor 5,13]]; (19-20) [[file:1.Kön_21.org::v21][21,21]]
 
-[fn:17] [[v13][19,13]]; [[file:Ex_21.org::v23][Ex 21,23-25]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v38][Mt 5,38]]
+[fn:17] [[v13][19,13]]; [[file:Ex_21.org::v23][Ex 21,23-25]]; [[file:~/Documents/notes/Bibel/nt/Mt_5.org::v38][Mt 5,38]]

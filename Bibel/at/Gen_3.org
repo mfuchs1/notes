@@ -3,12 +3,12 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2023-10-12 Do 09:56]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Gen 3.html
+#+export_file_name: ~/Documents/exports/Gen 3.html
 
 * Gen 3
 <<verses>>
@@ -141,7 +141,7 @@ des Lebens bewachten. [fn:7]\\
 
 * Footnotes
 
-[fn:1] Joh 8,44 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Joh_8.org::v44][Joh 8,44]]
+[fn:1] Joh 8,44 [[file:~/Documents/EUe-RoundtripHTML/nt/Joh_8.org::v44][Joh 8,44]]
 
 [fn:2] 1-24: In einfacher und bildhafter Sprache und an Hand
 eines typischen Beispiels aus dem Alltag stellt der Erzähler die erste
@@ -152,7 +152,7 @@ für die nur Gott zukommenden Eigenschaften der Unsterblichkeit und des
 umfassenden Wissens, über die der Mensch nicht von sich aus verfügen
 kann, die Gott ihm aber unter Umständen aus Gnade schenkt.
 
-[fn:3] Offb 12,9 [[file:~/RoamNotes/EUe-RoundtripHTML/nt/Offb_12.org::v9][Offb 12,9]]
+[fn:3] Offb 12,9 [[file:~/Documents/EUe-RoundtripHTML/nt/Offb_12.org::v9][Offb 12,9]]
 
 [fn:4] 2,17 [[file:Gen_2.org::v17][Gen 2,17]]
 

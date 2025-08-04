@@ -3,13 +3,13 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-08-15 Do 16:20]
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Ps 106.html
+#+export_file_name: ~/Documents/exports/Ps 106.html
 
 * Ps 106
 
@@ -271,7 +271,7 @@ preisen, /\\
 
 [fn:1] [[file:Ps_107.org::v1][107,1]]
 
-[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/Joh_21.org::v25][Joh 21,25]]
+[fn:2] [[file:~/Documents/notes/Bibel/nt/Joh_21.org::v25][Joh 21,25]]
 
 [fn:3] [[file:Jes_56.org::v1][Jes 56,1f]]
 
@@ -295,7 +295,7 @@ preisen, /\\
 
 [fn:13] (19-20) [[file:Ex_32.org::v1][Ex 32,1-6]]
 
-[fn:14] [[file:Jer_2.org::v11][Jer 2,11]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_1.org::v23][Röm 1,23]]
+[fn:14] [[file:Jer_2.org::v11][Jer 2,11]]; [[file:~/Documents/notes/Bibel/nt/Röm_1.org::v23][Röm 1,23]]
 
 [fn:15] [[file:Ps_78.org::v42][78,42]]
 
