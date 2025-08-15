@@ -1,0 +1,17 @@
+#+title:      Kommentar NT
+#+date:       [2025-08-06 Mi 19:25]
+#+filetags:   :biblio:berger2011:
+#+identifier: 20250806T192547
+
+#+begin_src bibtex
+@book{Berger2011,
+        abstract = "",
+        author = "\textsc{Berger}, Klaus",
+        isbn = "3579081292",
+        location = "Gütersloh",
+        pagetotal = "",
+        publisher = "{Gütersloher Verlagshaus}",
+        title = "{Kommentar zum Neuen Testament}",
+        year = "2011"
+}
+#+end_src

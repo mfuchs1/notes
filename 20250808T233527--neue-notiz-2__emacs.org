@@ -1,0 +1,8 @@
+#+title:      Neue Notiz 2
+#+date:       [2025-08-08 Fr 23:35]
+#+filetags:   :emacs:
+#+identifier: 20250808T233527
+
+
+
+Mit seinem Text.

@@ -1,0 +1,22 @@
+#+title:      Das Vater Unser
+#+date:       [2025-08-06 Mi 22:27]
+#+filetags:   :biblio:berger2014:
+#+identifier: 20250806T222700
+
+#+begin_src bibtex
+@book{Berger2014,
+        abstract = "",
+        author = "\textsc{Berger}, Klaus",
+        edition = "",
+        isbn = "3451334585",
+        location = "Freiburg im Breisgau",
+        pagetotal = "",
+        publisher = "{Herder Verlag GmbH}",
+        subtitle = "{Mit Herz und Verstand beten}",
+        title = "{Das Vaterunser}",
+        year = "2014"
+}
+#+end_src
+
+Ein wunderschöner Kommentar zum Vaterunser von Klaus Berger.
+
