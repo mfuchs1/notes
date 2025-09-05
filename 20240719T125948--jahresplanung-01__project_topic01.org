@@ -12,7 +12,7 @@
 #+STARTUP: showall
 #+export_file_name: ~/Documents/exports/Jahresplanung 01.html
 
-* Kap. 1 | Über das Leben nachdenken
+* Kap. 1 | Über das *Leben* nachdenken
 September / Oktober
 
 ** Kompetenzbereich
@@ -30,14 +30,14 @@ Die Schüler:innen können sich in ihrer gottgeschenkten Einzigartigkeit wahrneh
 
 ** Inhalte / Buch
 
-- "Zeit für Religion"
-- "Spaziergang durch das Buch"
-- (Das bin ich - das bist du)
-- Über Leben nachdenken
-- Einfach besonders - ich bin ich
-- Auf dem Weg zum Ich
-- Füreinander und Miteinander
-- Große und kleine Fragen
+- "[[denote:20250905T235717][Zeit für Religion]]"
+- "[[denote:20250905T235735][Spaziergang durch das Buch]]"
+- ([[denote:20250905T235754][Das bin ich - das bist du]])
+- [[denote:20250905T235812][Über Leben nachdenken]]
+- [[denote:20250905T235824][Einfach besonders - ich bin ich]]
+- [[denote:20250905T235835][Auf dem Weg zum Ich]]
+- [[denote:20250905T235847][Füreinander und Miteinander]]
+- [[denote:20250905T235858][Große und kleine Fragen]]
 
 ** Kompetenzniveau, KN-SPF, Übergreifende Themen
 
@@ -50,7 +50,7 @@ Bildungs-, Berufs- und Lebensorientierung (1)
 Sexualpädagogik (9)
 
 
-* Kap. 2 | Himmel und Erde berühren sich 
+* Kap. 2 | *Himmel* und Erde berühren sich 
 Oktober / November
 
 ** Kompetenzbereich
@@ -67,12 +67,12 @@ Die Schüler:innen kennen Reichtum und Vielfalt spiritueller und liturgischer Au
 
 ** Inhalte / Buch
 
-- Himmel und Erde berühren sich
-- Das Unsichtbare entdecken
-- Staunen und Achtsam werden
-- Gefühle vor Gott bringen
-- Mit Gott reden
-- Das Vaterunser verstehen.
+- [[denote:20250905T235929][Himmel und Erde berühren sich]]
+- [[denote:20250905T235940][Das Unsichtbare entdecken]]
+- [[denote:20250905T235950][Staunen und Achtsam werden]]
+- [[denote:20250906T000002][Gefühle vor Gott bringen]]
+- [[denote:20250906T000012][Mit Gott reden]]
+- [[denote:20250906T000022][Das Vaterunser verstehen]].
 
 ** Kompetenzniveau, KN-SPF, Übergreifende Themen
 
@@ -82,7 +82,7 @@ Die Schüler:innen kennen Reichtum und Vielfalt spiritueller und liturgischer Au
 Sprachliche Bildung und Lesen (10) 
 
 
-* Kap. 3 | Feste feiern
+* Kap. 3 | *Feste* feiern
 November / Dezember
 
 ** Kompetenzbereich
@@ -110,7 +110,7 @@ Die Schüler:innen können das Kirchenjahr mit seinen Festen als Rhythmus des Le
 KN 1 + KN-SPF: Die Schüler:innen können Feste des Kirchenjahrs benennen und dem Kalenderjahr zuordnen.
 
 
-* Kap. 4 | Jesus: Gott geht mit
+* Kap. 4 | *Jesus*: Gott geht mit
 Jänner / Februar / März
 
 ** Kompetenzbereich
@@ -144,7 +144,7 @@ KN-SPF: Die Schüler können die Bedeutung der Bibel als Heilige Schrift und die
 Sprachliche Bildung und Lesen (10)
 
 
-* Kap. 5 | Das Buch der Bücher
+* Kap. 5 | Das Buch der Bücher (*Bibel*)
 März / April
 
 ** Kompetenzbereich
@@ -178,7 +178,7 @@ KN-SPF: Die Schüler können die Bedeutung der Bibel als Heilige Schrift und die
 Sprachliche Bildung und Lesen (10)
 
 
-* Kap. 6 | Versammelt in meinem Namen
+* Kap. 6 | Versammelt in meinem Namen (*Kirche*)
 Mai / Juni
 
 ** Kompetenzbereich
@@ -213,7 +213,7 @@ KN-SPF: Die Schüler können Zeichen von Taufe und Eucharistie benennen.
 Sprachliche Bildung und Lesen (10)
 
 
-* Kap. 7 | Aufeinander zugehen
+* Kap. 7 | Aufeinander zugehen (*Religionen*)
 Juni / Juli
 
 ** Kompetenzbereich
