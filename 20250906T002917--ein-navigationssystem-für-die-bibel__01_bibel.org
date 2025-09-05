@@ -1,0 +1,5 @@
+#+title:      Ein Navigationssystem für die Bibel
+#+date:       [2025-09-06 Sa 00:29]
+#+filetags:   :01:bibel:
+#+identifier: 20250906T002917
+
