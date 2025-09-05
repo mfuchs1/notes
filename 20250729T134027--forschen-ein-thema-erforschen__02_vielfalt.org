@@ -1,5 +1,0 @@
-#+title:      Forschen: ein Thema erforschen
-#+date:       [2025-07-29 Di 13:40]
-#+filetags:   :02:vielfalt:
-#+identifier: 20250729T134027
-

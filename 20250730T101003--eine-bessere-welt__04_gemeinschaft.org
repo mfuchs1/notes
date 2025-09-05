@@ -1,5 +1,0 @@
-#+title:      Eine bessere Welt
-#+date:       [2025-07-30 Mi 10:10]
-#+filetags:   :04:gemeinschaft:
-#+identifier: 20250730T101003
-

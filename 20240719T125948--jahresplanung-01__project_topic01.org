@@ -12,191 +12,237 @@
 #+STARTUP: showall
 #+export_file_name: ~/Documents/exports/Jahresplanung 01.html
 
-* Gemeinschaft | Zusammenleben – ein gutes Miteinander erleben (Kapitel 1)
-September bis November
+* Kap. 1 | Über das Leben nachdenken
+September / Oktober
 
-** Thema/Inhalt
-- Gefühle zu Schulbeginn
-- Was mich ausmacht
-- Selbstvertrauen und Vertrauen in andere
-- Eine gute Gemeinschaft bilden
-- Gemeinsam Entscheidungen treffen
-    
-** Kompetenz laut Lehrplan
-Die Schüler*innen können sich in ihrer gottgeschenkten Einzigartigkeit wahrnehmen und wissen um die Bedeutung von (Selbst-) Vertrauen für ein gelingendes (Zusammen-) Leben.
+** Kompetenzbereich
 
-** Hinweis/Alternativen
+A1+2: Menschen und ihre Lebensorientierungen
 
-** Basisseiten und Empfehlungen
-*** [[denote:20240911T093358][Die Welt der Gefühle]]
-SCHEDULED: <2025-07-28 Mo>
-*** [[denote:20240911T093423][Was ich mir zutraue]]
-SCHEDULED: <2025-07-29 Di>
-*** [[denote:20240911T093444][Kann ich dir vertrauen?]]
-*** [[denote:20250729T121503][Impuls: Ich – und du?]]
-*** [[denote:20250729T121550][Ich bin einzigartig]]
-*** [[denote:20250729T121610][Wir sind eine Gemeinschaft]]
-*** [[denote:20250729T121626][Das große Durcheinander]]
-*** [[denote:20250729T121643][Eine gute Gemeinschaft]]
-*** [[denote:20250729T121657][Handeln: Gemeinsam entscheiden]]
-*** [[denote:20250729T121736][Übungsteil: Und jetzt ich!]]
+** Leitkompetenz
 
+Al Beziehung verantwortungsvoll gestalten können - zu sich selbst, zu anderen, zur Schöpfung
+A2 Sich mit den großen Fragen der Menschen auseinandersetzen können
 
+** Kompetenzbeschreibung
 
-* Fragen | Philosophieren – die großen Fragen des Lebens stellen (Kapitel 2)
-November bis Dezember
+Die Schüler:innen können sich in ihrer gottgeschenkten Einzigartigkeit wahrnehmen und wissen um die Bedeutung von (Selbst-) Vertrauen für ein gelingendes (Zusammen-) Leben.
 
-** Thema/Inhalt
-- Große Fragen – und große Antworten?
-- „Objektiv“ und „subjektiv“: harte Fakten und gute Gedanken
-- Philosophieren und Theologisieren anhand von Fragen der Schüler*innen
+** Inhalte / Buch
 
-** Kompetenz laut Lehrplan
-Die Schüler*innen können für sie bedeutsame Fragen diskutieren und über existentielle Lebensfragen philosophieren und theologisieren.
+- "Zeit für Religion"
+- "Spaziergang durch das Buch"
+- (Das bin ich - das bist du)
+- Über Leben nachdenken
+- Einfach besonders - ich bin ich
+- Auf dem Weg zum Ich
+- Füreinander und Miteinander
+- Große und kleine Fragen
 
-** Hinweis/Alternativen
-- Der Lauf des Jahres (Kap. 5.4, S. 90)
-- Das Kirchenjahr (Kap. 5.5, S. 91)
-- Feste im Jahreskreis (Kap. 5.8, S. 98)
-- Der Weihnachtsfestkreis (5.6, S. 92)
-- Ein Weihnachtsbild erschließen (Methode „Bilder erschließen“, S. 94)
+** Kompetenzniveau, KN-SPF, Übergreifende Themen
 
-** Basisseiten und Empfehlungen
-*** [[denote:20250729T122026][Die großen Fragen unseres Lebens]]
-*** [[denote:20250729T122040][Impuls: Unterwegs im Land der Fragen]]
-*** [[denote:20250729T122050][Große Fragen]]
-*** [[denote:20250729T122108][Große Antworten?]]
-*** [[denote:20250729T122126][Harte Fakten]]
-*** [[denote:20250729T122139][Gute Gedanken]]
-*** [[denote:20250729T122150][Philosophieren: Fragen stellen]]
-*** [[denote:20250729T122200][Eine gute Frage]]
-*** [[denote:20250729T122219][Ist da jemand?]]
-*** [[denote:20250729T122237][Übungsteil: Und jetzt ich!]]
+- KN 1 + KN-SPF: Die Schüler:innen können ausdrücken, was sie einmalig macht und was ihr (Selbst-)Vertrauen stärkt.
+- KN 1:  Die Schüler:innen können religiöse Antworten auf ihre existenziellen Fragen erforschen.
+- KN-SPF: Die Schüler können anhand von Geschichten existentielle Fragen stellen und Antworten suchen.
 
-* Glaube | Heilige Schrift – die Welt der Bibel entdecken (Kapitel 3)
-Jänner bis Februar
-
-** Thema/Inhalt
-- Geschichten im eigenen Leben
-- Wovon die Bibel erzählt
-- Welt und Umwelt der Bibel
-- Mit der Bibel arbeiten
-- Historischer Jesus – Christus des Glaubens
-
-** Kompetenz laut Lehrplan
-Die Schüler*innen verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten
-
-** Hinweis/Alternativen
-
-** Basisseiten und Empfehlungen
-*** [[denote:20250729T122343][Geschichten des Lebens]]
-*** [[denote:20250729T122356][Impuls: Der Turmbau zu Babel]]
-*** [[denote:20250729T122414][Kannst du dich noch erinnern?]]
-*** [[denote:20250729T122429][Die Bibel erzählt]]
-*** [[denote:20250729T122441][Die Entstehung der Bibel]]
-*** [[denote:20250729T122454][Die Welt der Bibel]]
-*** [[denote:20250729T122505][Palästina, das Land der Bibel]]
-*** [[denote:20250729T122518][Das Leben zur Zeit Jesu]]
-*** [[denote:20250729T122528][Jesus ein Phänomen]]
-*** [[denote:20250729T122540][Jesus, der Mensch]]
-*** [[denote:20250729T122553][Jesus, der Christus]]
-*** [[denote:20250729T122603][Evangelium, die frohe Botschaft]]
-*** [[denote:20250729T122614][Bibel: Mit der Bibel arbeiten]]
-*** [[denote:20250729T122632][Übungsteil: Und jetzt ich!]]
+Übergreifende Themen: 
+Bildungs-, Berufs- und Lebensorientierung (1)
+Sexualpädagogik (9)
 
 
-* Kirche | Kirche – die Gemeinschaft der Glaubenden erfahren (Kapitel 4)
-März bis April
+* Kap. 2 | Himmel und Erde berühren sich 
+Oktober / November
 
-** Thema/Inhalt
-- Arten und Weisen des Betens
-- Gebete entwickeln und formulieren
-- Die Gemeinschaft der Glaubenden
-- Taufe und Eucharistie
-- Das Glaubensbekenntnis verstehen lernen
-  
-** Kompetenz laut Lehrplan
-Die Schüler*innen kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten.
+** Kompetenzbereich
 
-** Hinweis/Alternativen
-- Kirchenjahr ::
-  - Fastenzeit – die Durststrecken des Lebens (Kap. 5.2, S. 88)
-  - Der Osterfestkreis (Kap. 5.7, S. 96)
-  
-- Liturgische (Mit)Gestaltung ::
-  - Ostergottesdienst: Der Ablauf der Hl. Messe (Kap. 4.14, S. 80) und „Religion für mich“ (S. 125)
-     
-** Basisseiten und Empfehlungen
-*** [[denote:20250729T122755][Menschen beten]]
-*** [[denote:20250729T122811][Über mein Leben nachdenken]]
-*** [[denote:20250729T122820][Impuls: Dankbar sein]]
-*** [[denote:20250729T122830][Arten von Gebeten]]
-*** [[denote:20250729T122846][Mit dem Körper beten]]
-*** [[denote:20250729T122857][Die Vielfalt des Betens]]
-*** [[denote:20250729T122906][Wie wir beten können]]
-*** [[denote:20250729T122917][Die Bitten unseres Lebens]]
-*** [[denote:20250729T122931][Das Vaterunser]]
-*** [[denote:20250729T122947][Die Gemeinschaft der Glaubenden]]
-*** [[denote:20250729T122957][Gemeinsam Kirche sein]]
-*** [[denote:20250729T123012][Ich gehöre dazu!]]
-*** [[denote:20250729T123021][Ein gemeinsamer Glaube]]
-*** [[denote:20250729T123035][Verstehen: Glaubensaussagen deuten]]
-*** [[denote:20250729T123049][Gottes Gegenwart feiern]]
-*** [[denote:20250729T123102][Übungsteil: Und jetzt ich...!]]
+B4 Gelehrte und gelebte Bezugsreligion
 
-* Welt | Feste – das Leben feiern (Kapitel 5)
-April bis Mai
+** Leitkompetenz
 
-** Thema/Inhalt
-- Ostergottesdienst: Der Ablauf der Hl. Messe (Kap. 4.14, S. 80) und „Religion für mich“ (S. 125)
-- „Alles hat seine Zeit“ – Fastenzeiten und Feste
-- Der Lauf des Jahres und das Kirchenjahr
-- Festkreise im Kirchenjahr
-- Feste im Kirchenjahr
+B4 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
 
-** Kompetenz laut Lehrplan
-Die Schüler*innen können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
+** Kompetenzbeschreibung
 
-** Hinweis/Alternativen
+Die Schüler:innen kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten.
 
-** Basisseiten und Empfehlungen
-*** [[denote:20250729T123200][Die Feste unserer Welt]]
-*** [[denote:20250729T123307][Impuls: Alles hat seine Zeit]]
-*** [[denote:20250729T123317][Die Durststrecken des Lebens]]
-*** [[denote:20250729T123328][Wir haben Grund zu feiern]]
-*** [[denote:20250729T123337][Der Lauf des Jahres]]
-*** [[denote:20250729T123348][Das Kirchenjahr]]
-*** [[denote:20250729T123401][Der Weihnachtsfestkreis]]
-*** [[denote:20250729T123413][Kunst: Bilder erschließen]]
-*** [[denote:20250506T213451][Der Osterfestkreis]]
-*** [[denote:20250729T123609][Feste im Kirchenjahr]]
-*** [[denote:20250729T123621][Übungsteil: Und jetzt ich...!]]
+** Inhalte / Buch
 
-* Vielfalt | Religionen – die Vielfalt leben (Kapitel 6)
-Mai bis Juni
+- Himmel und Erde berühren sich
+- Das Unsichtbare entdecken
+- Staunen und Achtsam werden
+- Gefühle vor Gott bringen
+- Mit Gott reden
+- Das Vaterunser verstehen.
 
-** Thema/Inhalt
-- Ich und die anderen – Toleranz und Wertschätzung
-- Vielfalt des Christentums und der Religionen
-- Religionen im Überblick
-- Konfessionen im Überblick
-  
-** Kompetenz laut Lehrplan
-Die Schüler*innen können Gemeinsames und Unterscheidendes, Verbindendes und Trennendes von Konfessionen und Religionen benennen und sich damit respektvoll auseinandersetzen.
+** Kompetenzniveau, KN-SPF, Übergreifende Themen
 
-** Hinweis/Alternativen
-- Liturgische (Mit)Gestaltung ::
-  - Schlussgottesdienst: Der Ablauf der Hl. Messe (Kap. 4.14, S. 80) und „Religion für mich“ (S. 125)
-  
-** Basisseiten und Empfehlungen
-*** [[denote:20250729T123655][Wo ich zuhause bin]]
-*** [[denote:20250729T123714][Impuls: Ich und die anderen]]
-*** [[denote:20250729T123736][Unsere Vielfalt macht uns aus]]
-*** [[denote:20250729T123746][Vielfalt des Christentums]]
-*** [[denote:20250729T123811][Vielfalt der Religionen]]
-*** [[denote:20250729T123827][Eine Religion, was ist das?]]
-*** [[denote:20250729T123837][Vier Religionen stellen sich vor]]
-*** [[denote:20250729T123856][Drei Konfessionen stellen sich vor]]
-*** [[denote:20250729T123910][Arbeitstechniken: Verschaffe dir einen Überblick!]]
-*** [[denote:20250729T123924][Einheit in Vielfalt]]
-*** [[denote:20250729T123940][Übungsteil: Und jetzt ich...!]]
+- KN 1 + KN-SPF:  Die Schüler:innen können die Bedeutung spiritueller und liturgischer Ausdrucksformen nachvollziehen.
+
+Übergreifende Themen:
+Sprachliche Bildung und Lesen (10) 
+
+
+* Kap. 3 | Feste feiern
+November / Dezember
+
+** Kompetenzbereich
+
+C5 Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur
+
+** Leitkompetenz
+
+C5  Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+
+** Kompetenzbeschreibung
+Die Schüler:innen können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
+
+** Inhalte / Buch
+
+- Feste feiern
+- Hurra, wir feiern ein Fest!
+- Im Rhythmus der Zeit
+- Die Festkreise
+- Maria, eine mutige Frau
+- Weihnachtsspecial "Fürchtet euch nicht!"
+
+** Kompetenzniveau, KN-SPF, Übergreifende Themen
+
+KN 1 + KN-SPF: Die Schüler:innen können Feste des Kirchenjahrs benennen und dem Kalenderjahr zuordnen.
+
+
+* Kap. 4 | Jesus: Gott geht mit
+Jänner / Februar / März
+
+** Kompetenzbereich
+
+B3 Gelehrte und gelebte Bezugsreligion
+
+** Leitkompetenz
+
+B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können.
+
+** Kompetenzbeschreibung
+
+Die Schüler:innen können Leben und Handeln Jesu in Grundlinien beschreiben und als Basis christlichen Glaubens kommunizieren.
+
+** Inhalte / Buch
+
+- Jesus: Gott geht mit
+- Jesus begleitet mich
+- Ein einzigartiges Leben
+- Die Emmaus-Geschichte
+- Wenn Gott Mensch wird
+- Israel - das Land, in dem Jesus lebte
+
+** Kompetenzniveau, KN-SPF, Übergreifende Themen
+
+KN 1: Die Schüler:innen können anhand einer Jesuserzählung charakterisieren, wie in der Bibel historische Fakten und Glaubenszeugnis verbunden sind.
+
+KN-SPF: Die Schüler können die Bedeutung der Bibel als Heilige Schrift und die Welt der Bibel entdecken.
+
+Übergreifende Themen:
+Sprachliche Bildung und Lesen (10)
+
+
+* Kap. 5 | Das Buch der Bücher
+März / April
+
+** Kompetenzbereich
+
+B3 Gelehrte und gelebte Bezugsreligion
+
+** Leitkompetenz
+
+Die Schüler:innen können Leben und Handeln Jesu in Grundlinien beschreiben und als Basis christlichen Glaubens kommunizieren.
+
+** Kompetenzbeschreibung
+
+Die Schüler:innen verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten.
+
+** Inhalte / Buch
+
+- Osterspecial "Fürchtet euch nicht!"
+- Das Buch der Bücher
+- Ein Navigationssystem für die Bibel
+- Das Neue Testament entsteht
+- Vier Bücher, ein Held - die Evangelien
+- Die Bibel - 2000 Jahre Kultur prägend
+
+** Kompetenzniveau, KN-SPF, Übergreifende Themen
+
+KN 1: Die Schüler:innen können anhand einer Jesuserzählung charakterisieren, wie in der Bibel historische Fakten und Glaubenszeugnis verbunden sind.
+
+KN-SPF: Die Schüler können die Bedeutung der Bibel als Heilige Schrift und die Welt der Bibel entdecken.
+
+Übergreifende Themen:
+Sprachliche Bildung und Lesen (10)
+
+
+* Kap. 6 | Versammelt in meinem Namen
+Mai / Juni
+
+** Kompetenzbereich
+
+B4 Gelehrte und gelebte Bezugsreligion
+
+** Leitkompetenz
+
+B4 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+
+** Kompetenzbeschreibung
+
+Die Schüler:innen können Taufe und Eucharistie als Ausdruck der Zugehörigkeit zur kirchlichen Gemeinschaft verstehen.
+
+** Inhalte / Buch
+
+- Versammelt in meinem Namen
+- Leben in der Gemeinschaft
+- Du bist mein geliebtes Kind
+- Gemeinsam Essen - Gemeinsam Feiern
+- Danken gehört zum Leben
+- Den Glauben gemeinsam bekennen
+
+** Kompetenzniveau, KN-SPF, Übergreifende Themen
+
+KN 1: Die Schüler:innen können die Bedeutung spiritueller und liturgischer Ausdrucksformen nachvollziehen.
+Die Schüler können das Glaubensbekenntnis als eine Ausdrucksform der Zugehörigkeit zur Kirche erläutern.
+
+KN-SPF: Die Schüler können Zeichen von Taufe und Eucharistie benennen.
+
+Übergreifende Themen:
+Sprachliche Bildung und Lesen (10)
+
+
+* Kap. 7 | Aufeinander zugehen
+Juni / Juli
+
+** Kompetenzbereich
+
+C6 Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur
+
+** Leitkompetenz
+
+C6 Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+
+** Kompetenzbeschreibung
+
+Die Schüler:innen können Gemeinsames und Unterscheidendes, Verbindendes und Trennendes von Konfessionen und Religionen benennen und sich damit respektvoll auseinandersetzen. 
+
+** Inhalte / Buch
+
+- Aufeinander zugehen
+- So feiern wir
+- Und was feierst du? Feste in den Religionen
+- Gemeinsam vor Gott
+- #Religion - Religion vernetzt
+- Aneinander wachsen
+- Unter einem gemeinsamen Dach
+
+** Kompetenzniveau, KN-SPF, Übergreifende Themen
+
+KN 1: Die Schüler:innen können Verbindendes und Unterscheidendes der Konfessionen und Religionen reflektieren.
+
+KN-SPF: Die Schüler:innen können Verbindendes und Unterscheidendes der Religionen benennen.
+
+Übergreifendes Thema:
+Interkulturelle Bildung (5)

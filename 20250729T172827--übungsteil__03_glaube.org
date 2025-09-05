@@ -1,5 +1,0 @@
-#+title:      Übungsteil
-#+date:       [2025-07-29 Di 17:28]
-#+filetags:   :03:glaube:
-#+identifier: 20250729T172827
-

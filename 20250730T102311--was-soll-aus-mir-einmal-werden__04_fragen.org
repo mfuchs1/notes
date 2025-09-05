@@ -1,5 +1,0 @@
-#+title:      Was soll aus mir einmal werden?
-#+date:       [2025-07-30 Mi 10:23]
-#+filetags:   :04:fragen:
-#+identifier: 20250730T102311
-
