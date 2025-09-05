@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       9ae8337a-8485-4da2-a8a0-0a0d0479c6cd
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Weisheit* --
-[[file:Weish_1.html][1]] [[file:Weish_2.html][2]]
-[[file:Weish_3.html][3]] *4* [[file:Weish_5.html][5]]
-[[file:Weish_6.html][6]] ... [[file:Weish_19.html][19]]
-
---------------
+#+TITLE: Weish 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-08-21 Do 15:27]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Weish 4.html
 
 * Weish 4
-  :PROPERTIES:
-  :CUSTOM_ID: weish-4
-  :END:
 
 <<verses>>
 
@@ -56,11 +54,8 @@
 \\
 
 <<v7>>
-**** Der frühe Heimgang des Gerechten und das lange Leben der Frevler:
-4,7-19
-     :PROPERTIES:
-     :CUSTOM_ID: der-frühe-heimgang-des-gerechten-und-das-lange-leben-der-frevler-47-19
-     :END:
+* Der frühe Heimgang des Gerechten und das lange Leben der Frevler: 4,7-19
+
 7 Der Gerechte aber, kommt auch sein Ende früh, /\\
  geht in Gottes Ruhe ein. ^{[[#fn3][3]]}\\
 \\
@@ -136,10 +131,8 @@
 \\
 
 <<v20>>
-**** Die Bösen und die Guten im Endgericht: 4,20 - 5,23
-     :PROPERTIES:
-     :CUSTOM_ID: die-bösen-und-die-guten-im-endgericht-420---523
-     :END:
+* Die Bösen und die Guten im Endgericht: 4,20 - 5,23
+
 20 Zitternd kommen sie zum Gericht über ihre Sünden; /\\
  ihre Vergehen treten ihnen entgegen und überführen sie.
 ^{[[#fn9][9]]}\\

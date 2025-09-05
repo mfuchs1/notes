@@ -140,35 +140,35 @@ zwar der leibliche Tod, aber nur insofern er zum ewigen Tod führt
 
 [fn:2] [[file:Jes_57.org::v2][Jes 57,2]]
 
-[fn:3] Wie in 3,1.3b.5a.6b handelt es sich um das jenseitige
+[fn:3] Wie in [[v1][3,1]].[[v3][3b]].[[v5][5a]].[[v6][6b]] handelt es sich um das jenseitige
 Leben der Gerechten. Die Gerechten können auch noch nach dem Martyrium
 die Hoffnung auf die Unsterblichkeit haben, weil die Auferstehung des
 Leibes noch aussteht.
 
-[fn:4] Dan 12,3; Mt 13,43
+[fn:4] [[file:Dan_12.org::v3][Dan 12,3]]; [[file:~/Documents/notes/Bibel/nt/Mt_13.org::v43][Mt 13,43]]
 
 [fn:5] Beim Endgericht, wörtlich: In der Zeit ihrer
 Heimsuchung.
 
-[fn:6] 1 Kor 6,2
+[fn:6] [[file:~/Documents/notes/Bibel/nt/1.Kor_6.org::v2][1 Kor 6,2]]
 
-[fn:7] 4,15
+[fn:7] [[file:Weish_4.org::v15][4,15]]
 
-[fn:8] Sir 34,1
+[fn:8] [[file:Sir_34.org::v1][Sir 34,1]]
 
-[fn:9] 12,11
+[fn:9] [[file:Weish_12.org::v11][12,11]]
 
-[fn:10] 13-4,6: Kinderlosigkeit gilt sonst im AT als Unglück
-und Schande (Gen 30,23; 1 Sam 1,6f.15f; vgl. Lk 1,25) oder gar als
-Strafe (Lev 20,20f); im Blick auf die ewige Vergeltung werden hier die
+[fn:10] [[v13][13]]-[[file:Weish_4.org::v6][4,6]]: Kinderlosigkeit gilt sonst im AT als Unglück
+und Schande ([[file:Gen_30.org::v23][Gen 30,23]]; [[file:1.Sam_1.org::v6][1 Sam 1,6f]].[[file:1.Sam_1.org::v15][15f]]; vgl. [[file:~/Documents/notes/Bibel/nt/Lk_1.org::v25][Lk 1,25]]) oder gar als
+Strafe ([[file:Lev_20.org::v20][Lev 20,20f]]); im Blick auf die ewige Vergeltung werden hier die
 Kinderlosen, die Gott treu dienen, der Mutter zahlreicher Kinder gleich
 geachtet. 13cd: Wörtlich: denn sie wird Frucht haben bei der Heimsuchung
 der Seelen.
 
-[fn:11] Jes 56,3
+[fn:11] [[file:Jes_56.org::v3][Jes 56,3]]
 
 [fn:12] 14a: der Kinderlose, wörtlich: der Eunuch. 14e: ein
 gar köstlicher, wörtlich: ein mehr beglückender (als wenn er Kinder
 hätte).
 
-[fn:13] (16-19) 4,3-6; Sir 41,5-7
+[fn:13] (16-19) [[file:Weish_4.org::v3][4,3]]-[[file:Weish_4.org::v6][6]]; [[file:Sir_41.org::v5][Sir 41,5-7]]
