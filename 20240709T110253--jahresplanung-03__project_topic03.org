@@ -12,3 +12,99 @@
 #+STARTUP: showall
 #+export_file_name: ~/Documents/exports/Jahresplanung 03.html
 
+* Kap. 1 | Der Anfang von allem                                :gemeinschaft:
+
+** Kompetenzbereich
+
+** Leitkompetenz
+
+** Kompetenzbeschreibung
+
+** Inhalte / Buch
+
+** Kompetenzniveau 1 / Übergreifende Themen
+
+
+* Kap. 2 | Zusammenleben, aber wie ...?                              :fragen:
+
+** Kompetenzbereich
+
+** Leitkompetenz
+
+** Kompetenzbeschreibung
+
+** Inhalte / Buch
+
+** Kompetenzniveau 1 / Übergreifende Themen
+
+* Kap. 3 | Rhythmus des Lebens                                       :kirche:
+
+** Kompetenzbereich
+
+** Leitkompetenz
+
+** Kompetenzbeschreibung
+
+** Inhalte / Buch
+
+** Kompetenzniveau 1 / Übergreifende Themen
+
+* Kap. 4 | Niemand glaubt allein                                     :kirche:
+
+** Kompetenzbereich
+
+** Leitkompetenz
+
+** Kompetenzbeschreibung
+
+** Inhalte / Buch
+
+** Kompetenzniveau 1 / Übergreifende Themen
+
+* Kap. 5 | Immer und überall online                                    :welt:
+
+** Kompetenzbereich
+
+** Leitkompetenz
+
+** Kompetenzbeschreibung
+
+** Inhalte / Buch
+
+** Kompetenzniveau 1 / Übergreifende Themen
+
+* Kap. 6 | Geschenkte Freiheit                                 :glaube:bibel:
+
+** Kompetenzbereich
+
+** Leitkompetenz
+
+** Kompetenzbeschreibung
+
+** Inhalte / Buch
+
+** Kompetenzniveau 1 / Übergreifende Themen
+
+* Kap. 7 | Dem Islam begegnen                                    :religionen:
+
+** Kompetenzbereich
+
+** Leitkompetenz
+
+** Kompetenzbeschreibung
+
+** Inhalte / Buch
+
+** Kompetenzniveau 1 / Übergreifende Themen
+
+* Kap. 8 | Sich selbst entfalten                                     :fragen:
+
+** Kompetenzbereich
+
+** Leitkompetenz
+
+** Kompetenzbeschreibung
+
+** Inhalte / Buch
+
+** Kompetenzniveau 1 / Übergreifende Themen
