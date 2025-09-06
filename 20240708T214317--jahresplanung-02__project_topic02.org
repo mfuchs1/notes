@@ -10,3 +10,230 @@
 #+STARTUP: fnadjust
 #+STARTUP: showall
 #+export_file_name: ~/Documents/exports/Jahresplanung 02.html
+
+* Kap. 1 | *Kommunikation* - sich mitteilen
+September
+Erntedank
+
+** Kompetenzbereich
+
+A1 Menschen und und ihre Lebensorientierung
+
+** Leitkompetenz
+
+A1 Beziehung verantwortungsvoll gestalten können: zu sich selbst, zu anderen, zur Schöpfung
+
+** Kompetenzbeschreibung
+
+Die Schüler:innen können sich in ihrer lnteraktion mit der Mitwelt differenziert wahrnehmen und zu einem wertschätzenden Kommunizieren beitragen.
+
+** Inhalte / Buch
+
+- "Zeit für Religion 2" - ein Spaziergang durch das Buch
+- Mit einem Bingo in das neue Schuljahr
+- Kommunikation - sich mitteilen / Miteinander kommunizieren
+- Ich bin viele ...
+- Neue Sichtweisen erkennen
+- Konflikte lösen - Dankbarkeit zeigen
+
+
+* Kap. 2 | An das Leben glauben (*Leiden*)
+Oktober
+Allerheiligen
+
+** Kompetenzbereich
+
+A2 Menschen und und ihre Lebensorientierung
+
+** Leitkompetenz
+
+A2 Sich mit den großen Fragen der Menschen auseinandersetzen können
+
+** Kompetenzbeschreibung
+
+Die Schüler:innen können leidvolle Erfahrungen zum Ausdruck bringen und (christliche)Wege des Umgangs mit menschlicher Begrenztheit aufzeigen.
+
+** Inhalte / Buch
+
+- An das Leben glauben / Angenommen und begleitet sein
+- Leid hat viele Gesichter
+- Kraft und Trost spenden
+- Verbunden bleiben
+
+
+* Kap. 3 | Eine Bibliothek in einem Buch (*Bibel*)
+November
+
+** Kompetenzbereich
+
+B3 Gelehrte und gelebte Bezugsreligion
+
+** Leitkompetenz
+
+B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können.
+
+** Kompetenzbeschreibung
+
+Die Schüler:innen verfügen über vertiefte Grundkenntnisse zum Alten Testament und zur Vielfalt der biblischen Sprachwelt.
+
+** Inhalte / Buch
+
+- Eine Bibliothek in einem Buch / Texte aus fast 1000 Jahren
+- Abraham, Sarah und ihre Familien
+- Eine kurze Geschichte Israels
+- Die Bibel - ein Buch in tausend Sprachen
+
+
+* Kap. 4 | Sprache des Glaubens
+Dezember
+Advent
+Weihnachten
+Jänner
+
+** Kompetenzbereich
+
+B4 Gelehrte und gelebte Bezugsreligion
+
+** Leitkompetenz
+
+B4 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+
+** Kompetenzbeschreibung
+
+Die Schüler:innen können Symbole deuten und entwerfen und die Sakramente als Zeichen für die Nähe Gottes beschreiben.
+
+** Inhalte / Buch
+
+- Sprache des Glaubens / Verborgenes verstehen
+- Besondere Zeiten - besondere Zeichen
+- Bildsprache und Sprachbilder
+- Aus Liebe geschenkt (Weihnachtsspecial)
+- Wegbegleiter für dein Leben
+
+
+* Kap. 5 | Das Judentum entdecken
+Jänner
+Februar
+
+** Kompetenzbereich
+
+C6 Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur
+
+** Leitkompetenz
+
+C6 Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+
+** Kompetenzbeschreibung
+
+Die Schüler:innen können Grundzüge des Judentums beschreiben und die Nähe des Christentums zum Judentum darlegen.
+
+** Inhalte / Buch
+
+- Das Judentum entdecken / Das Leben feiern
+- Im Glauben an den einen Gott
+- Höre Israel!
+- Ein Teil von uns
+
+
+* Kap. 6 | Schuld und Versöhnung erleben
+Februar
+März
+Fastenzeit
+
+** Kompetenzbereich
+
+A2 Menschen und und ihre Lebensorientierung
+
+** Leitkompetenz
+
+B4 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+
+** Kompetenzbeschreibung
+
+Die Schüler:innen können leidvolle Erfahrungen zum Ausdruck bringen und (christliche)Wege des Umgangs mit menschlicher Begrenztheit aufzeigen.
+
+** Inhalte / Buch
+
+- Schuld und Versöhnung erleben / Gesalbt und berührt werden
+- Verantwortung übernehmen
+- Vergeben und Versöhnen
+- Bewusst leben - aber wie?
+- Aus Liebe geschenkt (Osterspecial)
+
+
+* Kap. 7 | Mit offenen Augen unterwegs
+März
+April
+Fastenzeit
+Ostern
+
+** Kompetenzbereich
+
+C5 Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur
+
+** Leitkompetenz
+
+C5 Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können. 
+
+** Kompetenzbeschreibung
+
+Die Schüler:innen können christliche Motive in ihrer Lebenswelt wahrnehmen und sakrale Räume in ihrer Bedeutung für Menschen erschließen. 
+
+** Inhalte / Buch
+
+- Mit offenen Augen unterwegs / Religiösen Motiven auf der Spur
+- Sakrale Bauten
+- Sakrale Orte
+- Das ist mir heilig
+- Wallfahrt - Beten mit den Füßen
+
+
+* Kap. 8 | Ich bin für dich da
+Mai
+Christi Himmelfahrt
+Pfingsten
+
+** Kompetenzbereich
+
+B3 Gelehrte und gelebte Bezugsreligion
+
+** Leitkompetenz
+
+B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können.
+
+** Kompetenzbeschreibung
+
+Die Schüler:innen können Gottesvorstellungen aus Bibel und christlicher Tradition beschreiben und sie mit der eigenen Gottesvorstellung in Verbindung bringen.
+
+** Inhalte / Buch
+
+- Ich bin für dich da / Nach Gott fragen
+- Nach Gott suchen
+- Gott begegnen
+- Der dreieine Gott: 1 +1 + 1 = 1
+
+
+* Kap. 9 | Liebe ist ...?
+Juni
+Juli
+Fronleichnam
+Schulschluss
+
+** Kompetenzbereich
+
+A1 Menschen und und ihre Lebensorientierung
+
+** Leitkompetenz
+
+A1 Beziehung verantwortungsvoll gestalten können: zu sich selbst, zu anderen, zur Schöpfung
+
+** Kompetenzbeschreibung
+
+Die Schüler:innen können vielfältige Formen von Liebe unterscheiden und sich mit der eigenen Geschlechtlichkeit auseinandersetzen.
+
+** Inhalte / Buch
+
+- Liebe ist ...? / Ich_Du_Gott_Liebe
+- Liebe kennt keine Grenzen
+- Es ist Liebe ...
+- Es ist, was es ist
