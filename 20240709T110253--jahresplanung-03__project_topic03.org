@@ -16,95 +16,250 @@
 
 ** Kompetenzbereich
 
+A1 + A2: Menschen und ihre Lebensorientierungen
+
 ** Leitkompetenz
+
+Al Beziehung verantwortungsvoll gestalten können - zu sich selbst, zu anderen, zur Schöpfung
+A2 Sich mit den großen Fragen der Menschen auseinandersetzen können
 
 ** Kompetenzbeschreibung
 
+Die Schüler:innen können sich als Teil der Schöpfung wahrnehmen und wissen zu ihrem Erhalt beizutragen.
+
+Die Schüler:innen können die Frage nach dem Woher anhand biblischer Schöpfungsvorstellungen und naturwissenschaftlicher Konzepte bearbeiten und deren Vereinbarkeit argumentativ darlegen.
+
 ** Inhalte / Buch
 
+- "Zeit für Religion 3" - ein Spaziergang durch das Buch
+- "Spiel ohne Regeln"
+- Der Anfang von Allem
+- Die Schöpfung - ein wertvolles Geschenk
+- Das Leben - Gabe und Aufgabe
+- Und Gott sah, dass es ...
+- Die Weltreligionen - Ursprungsgeschichten
+- Die Welt - verstehen und beschreiben
+- Das Gespräch - Schöpfung - Evolution
+
 ** Kompetenzniveau 1 / Übergreifende Themen
+
+KN 1: Die Schüler:innen können Beispiele gelebter Schöpfungsverantwortung nennen und umsetzen. Die Schüler:innen können Schöpfungsvorstellungen und naturwissenschaftliche Zugänge zur Entstehung der Welt erläutern.
+
+Übergreifende Themen:
+Sprachliche Bildung und Lesen (10)
+Umweltbildung für nachhaltige Entwicklung (11)
+Wirtschafts-, Finanz- und Verbraucherbildung (13)
 
 
 * Kap. 2 | Zusammenleben, aber wie ...?                              :fragen:
 
 ** Kompetenzbereich
 
+B3 Gelehrte und gelebte Bezugsreligion
+
 ** Leitkompetenz
+
+B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
 
 ** Kompetenzbeschreibung
 
+Die Schüler:innen kennen christliche Grundlagen des Zusammenlebens und können Ideen für ein gelingendes demokratisches Miteinander entwickeln.
+
 ** Inhalte / Buch
 
+- Zusammenleben, aber wie ...?
+- Wie kann Zusammenleben gelingen?
+- Gottes_Nächsten_Selbst_Liebe
+- Frieden spielen?!
+
 ** Kompetenzniveau 1 / Übergreifende Themen
+
+KN 1: Die Schüler:innen können christlich fundierte Regeln für ein gelingendes Zusammenleben erforschen.
+
+Übergreifendes Thema:
+Politische Bildung (7)
+
 
 * Kap. 3 | Rhythmus des Lebens                                       :kirche:
 
 ** Kompetenzbereich
 
+B4 Gelehrte und gelebte Bezugsreligion
+
 ** Leitkompetenz
+
+B4 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
 
 ** Kompetenzbeschreibung
 
+Die Schüler:innen können die Bedeutung des Sonntags für das Leben des Einzelnen und der Gesellschaft wahrnehmen und reflektieren.
+
 ** Inhalte / Buch
 
+- Rhythmus des Lebens
+- Balance zwischen Arbeit und Freizeit
+- Ich nehme mir Zeit
+- Den Sonntag abschaffen
+- Ein heiliger Tag
+- Weihnachtsspecial - Der Freude begegnen
+
 ** Kompetenzniveau 1 / Übergreifende Themen
+
+KN 1: Die Schüler:innen können die Bedeutung des Sonntags für das Zusammenleben erläutern.
+
+Übergreifende Themen:
+Bildungs-, Berufs- und Lebensorientierung (1)
+Wirtschafts-, Finanz- und Verbraucherbildung (13)
+
 
 * Kap. 4 | Niemand glaubt allein                                     :kirche:
 
 ** Kompetenzbereich
 
+B4 Gelehrte und gelebte Bezugsreligion
+
 ** Leitkompetenz
+
+B4 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
 
 ** Kompetenzbeschreibung
 
+Die Schüler:innen können die Anfänge der Kirche und ihre Strukturen beschreiben und Einblick in das Leben der Orts- und Weltkirche geben.
+
 ** Inhalte / Buch
 
+- Niemand glaubt allein
+- Das Feuer weitertragen
+- Gegen alle Widerstände
+- Volk Gottes unterwegs
+- Kirche in Österreich
+- Katholisch: Weltweit vernetzt (Anhang / Special)
+
 ** Kompetenzniveau 1 / Übergreifende Themen
+
+KN 1: Die Schüler:innen können das Wirken von Christen in Orts- und Weltkirche  beschreiben.
+
 
 * Kap. 5 | Immer und überall online                                    :welt:
 
 ** Kompetenzbereich
 
+C5: Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur
+
 ** Leitkompetenz
+
+C5: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
 
 ** Kompetenzbeschreibung
 
+Die Schüler:innen können die Nutzung von Medien und deren Potential reflektieren.
+
 ** Inhalte / Buch
 
+- Immer und überall online
+- Mein Smartphone und ich
+- Generation Smartphone
+- Zehn Gebote der digitalen Welt
+- Religion real # virtuell
+
 ** Kompetenzniveau 1 / Übergreifende Themen
+
+KN 1: Die Schüler:innen können anhand eines Beispiels Nutzen und Schaden von Medien analysieren und diskutieren.
+
+Übergreifende Themen:
+Gesundheitsförderung (3)
+Medienbildung (6)
+
 
 * Kap. 6 | Geschenkte Freiheit                                 :glaube:bibel:
 
 ** Kompetenzbereich
 
+B3 Gelehrte und gelebte Bezugsreligion
+
 ** Leitkompetenz
+
+B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
 
 ** Kompetenzbeschreibung
 
+Die Schüler:innen können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
+
 ** Inhalte / Buch
 
+- Geschenkte Freiheit
+- Meine Sehnsucht nach ...
+- Jesus erzählt vom Reich Gottes
+- An Gottes Befreiung glauben
+- Der Ruf nach Freiheit
+- Freiheit nur mit Verantwortung
+- Freiheit von ...
+- Dem Leid begegnen (Osterspecial)
+
 ** Kompetenzniveau 1 / Übergreifende Themen
+
+KN 1: Die Schüler:innen können Exoduserfahrungen zum Ausdruck bringen.
+
+Übergreifendes Thema:
+Politische Bildung (7)
+
 
 * Kap. 7 | Dem Islam begegnen                                    :religionen:
 
 ** Kompetenzbereich
 
+C6 Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur
+
 ** Leitkompetenz
+
+C6 Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
 
 ** Kompetenzbeschreibung
 
+Die Schüler:innen können Grundzüge des lslam beschreiben und ausgehend von ihrem Wissen und ihren Erfahrungen Beiträge zu einem respektvollen Miteinander gestalten.
+
 ** Inhalte / Buch
 
+- Dem Islam begegnen
+- Zu Gast in einer Moschee
+- Es gibt keinen Gott außer Gott
+- Die fünf Säulen des Islam
+- Eine gemeinsame Geschichte
+- Genauer hinschauen und zuhören
+
 ** Kompetenzniveau 1 / Übergreifende Themen
+
+KN 1: Die Schüler können wesentliche Elemente muslimischer Glaubenspraxis erläutern und mit christlicher Glaubenspraxis in Beziehung setzen.
+
+Übergreifendes Thema:
+Interkulturelle Bildung (5)
+
 
 * Kap. 8 | Sich selbst entfalten                                     :fragen:
 
 ** Kompetenzbereich
 
+A2 Menschen und ihre Lebensorientierungen
+
 ** Leitkompetenz
+
+A2 Sich mit den großen Fragen der Menschen auseinandersetzen können
 
 ** Kompetenzbeschreibung
 
+Die Schüler:innen können die Sehnsucht nach einem "Leben in Fülle" zur Sprache bringen und vielfältige Sinnangebote bewerten.
+
 ** Inhalte / Buch
 
+- Sich selbst entfalten
+- Sich selbst entfalten - ein Leben in Fülle
+- " ... und lebten glücklich und zufrieden ..."
+- Wenn aus Sehnsucht Sucht wird 
+
 ** Kompetenzniveau 1 / Übergreifende Themen
+
+KN 1: Die Schüler:innen können sich über Sinnsuche und Sinnangebote austauschen.
+
+Übergreifende Themen:
+Gesundheitsförderung (3)
+Wirtschafts-, Finanz- und Verbraucherbildung (13)
