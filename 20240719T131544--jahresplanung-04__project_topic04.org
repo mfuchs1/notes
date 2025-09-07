@@ -11,12 +11,11 @@
 #+STARTUP: showall
 #+export_file_name: ~/Documents/exports/Jahresplanung 04.html
 
-* Kap. 1 | Lebensperspektiven und Zukunftspläne
+* Kap. 1 | Lebensperspektiven und Zukunftspläne                      :fragen:
 
 ** Kompetenzbereich / Leitkompetenz
 
 A Menschen und ihre Lebensorientierungen
-
 A2 Sich mit den großen Fragen der Menschen auseinandersetzen können
 
 ** Kompetenzbeschreibung
@@ -29,14 +28,14 @@ Sehnsüchte und Lebensträume, persönliche und berufliche Ziele, Utopien und Dy
 
 ** Inhalte / Buch
 
-- Eröffnung
-- "Spiel des Lebens"
-- Lebensperspektiven und Lebensträume
-- Das Leben - eine einzigartige Geschichte
-- Die Zukunft - meine Lebensziele
-- Die Utopie - ein Zukunftsmodell
-- Das Vertrauen - eine Entscheidungshilfe
-- Kompetenzcheck
+- [[denote:20250907T162059][Eröffnung]]
+- [[denote:20250907T162108]["Spiel des Lebens"]]
+- [[denote:20250907T162116][Lebensperspektiven und Lebensträume]]
+- [[denote:20250907T162137][Das Leben - eine einzigartige Geschichte]]
+- [[denote:20250907T162154][Die Zukunft - meine Lebensziele]]
+- [[denote:20250907T162210][Die Utopie - ein Zukunftsmodell]]
+- [[denote:20250907T162219][Das Vertrauen - eine Entscheidungshilfe]]
+- [[denote:20250907T162229][Kompetenzcheck]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -47,13 +46,12 @@ Bildungs-, Berufs- und Lebensorientierung (1)
 Entrepreneurship Education (2)
 
 
-* Kap. 2 | In einer Gemeinschaft verbunden
+* Kap. 2 | In einer Gemeinschaft verbunden                           :kirche:
 
 ** Kompetenzbereich / Leitkompetenz
 
 B Gelehrte und gelebte Bezugsreligion
-
-84 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+B4 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
 
 ** Kompetenzbeschreibung
 
@@ -69,19 +67,19 @@ Sakrament: Firmung - Entscheidung zur (Nicht-)Teilhabe; Möglichkeiten des Mitwi
 
 ** Inhalte / Buch
 
-- In einer Gemeinschaft verbunden
-- Erwachsen werden
-- Ich bin bereit
-- Ohne uns geht gar nichts
-- In der Gemeinschaft mitwirken
-- Kompetenzcheck
+- [[denote:20250907T162246][In einer Gemeinschaft verbunden]]
+- [[denote:20250907T162255][Erwachsen werden]]
+- [[denote:20250907T162304][Ich bin bereit]]
+- [[denote:20250907T162313][Ohne uns geht gar nichts]]
+- [[denote:20250907T162322][In der Gemeinschaft mitwirken]]
+- [[denote:20250907T162331][Kompetenzcheck]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
 Die Schüler:innen können anhand von Beispielen aufzeigen, wie gefirmte Christen am kirchlichen Leben mitwirken.
 
 
-* Kap. 3 | Entschieden Freiheit leben
+* Kap. 3 | Entschieden Freiheit leben                          :gemeinschaft:
 
 ** Kompetenzbereich / Leitkompetenz
 
@@ -112,13 +110,13 @@ Lebensgestaltung in Freiheit, Befähigung zur oder Verlust der Eigenverantwortun
 
 ** Inhalte / Buch
 
-- Entschieden in Freiheit leben
-- Entscheidungen treffen
-- Was ist das Gewissen?
-- Auf das Wohl des Menschen ausgerichtet
-- Religion: befreiend oder unterdrückend?
-- Die dunkle Seite des Glaubens
-- Kompetenzcheck
+- [[denote:20250907T162412][Entschieden in Freiheit leben]]
+- [[denote:20250907T162421][Entscheidungen treffen]]
+- [[denote:20250907T162433][Was ist das Gewissen?]]
+- [[denote:20250907T162444][Auf das Wohl des Menschen ausgerichtet]]
+- [[denote:20250907T162456][Religion: befreiend oder unterdrückend?]]
+- [[denote:20250907T162506][Die dunkle Seite des Glaubens]]
+- [[denote:20250907T162516][Kompetenzcheck]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -135,66 +133,206 @@ Die Schüler:innen können anhand von Kriterien Lebensförderliches und Lebensfe
 Gesundheitsförderung (3)
 Poltische Bildung (7)
 
-* Kap. 4 | In der Kinst Gott und der Welt begegnen
+* Kap. 4 | In der Kunst Gott und der Welt begegnen                     :welt:
 
 ** Kompetenzbereich / Leitkompetenz
 
+C Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur
+C5 Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können.
+
 ** Kompetenzbeschreibung
+
+Die Schüler:innen können Kunst als Möglichkeit religiöser Weltdeutung verstehen und ihr eigenes kreatives Potential entfalten.
 
 ** Anwendungsbereich / Unterrichtshinweise
 
+AB:
+
+UH:
+Begegnung mit Kunst im religiösen Kontext, verschiedene Formen und Funktionen von Kunst, Religion in der Populärkultur.
+
 ** Inhalte / Buch
+
+- [[denote:20250907T162531][In der Kunst Gott und der Welt begegnen]]
+- [[denote:20250907T162540][Kunst und ihre Funktionen]]
+- [[denote:20250907T162547][Bildsprache der Kunst]]
+- [[denote:20250907T162558][Kunst und Religion]]
+- [[denote:20250907T162608][Religiöse Elemente in der Popkultur]]
+- [[denote:20250907T162616][Kompetenzcheck]]
+- [[denote:20250907T162623][Weihnachtsspecial: Josef]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
+KN 1: 
+Die Schüler:innen können sich kreativ mit einem Kunstwerk und seiner möglichen religiösen Deutung auseinandersetzen.
 
-* Kap. 5 | Schau hin
+Übergreifende Themen:
+Medienbildung (6)
+
+
+* Kap. 5 | Schau hin                                     :gemeinschaft:bibel:
 
 ** Kompetenzbereich / Leitkompetenz
 
+A Menschen und ihre Lebensorientierungen
+A1 Beziehung verantwortungsvoll gestalten können - zu sich selbst, zu anderen, zur Schöpfung
+
 ** Kompetenzbeschreibung
+
+Die Schüler:innen können die Bedeutung eines Einsatzes für ein gerechtes Zusammenleben erkennen und konkrete Handlungsoptionen entwickeln.
 
 ** Anwendungsbereich / Unterrichtshinweise
 
+AB:
+(Biblische) Propheten und Prophetinnen, Chancen- und Verteilungsgerechtigkeit.
+
+UH:
+Zivilcourage, Friede, Gewaltfreiheit, Menschenrechte, nachhaltige Entwicklungsziele der UNO - (un-)gerechte Wirtschaftsmodelle
+
 ** Inhalte / Buch
+
+- [[denote:20250907T162649][Schau hin]]
+- [[denote:20250907T162704][Halt, schau, handle]]
+- [[denote:20250907T162730][Verteiligungsgerechtigkeit]]
+- [[denote:20250907T162745][Biblische Propheten]]
+- [[denote:20250907T162804][Und wie leben wir heute?]]
+- [[denote:20250907T162817][Kompetenzcheck]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
+KN 1:
 
-* Kap. 6 | Mehr als alles
+Übergreifende Themen:
+Politische Bildung (7)
+Reflexive Geschlechterpädagogik und Gleichstellung (8)
+Umweltbildung für nachhaltige Entwicklung (11)
+Wirtschafts-, Finanz- und Verbraucherbildung (13)
+
+
+* Kap. 6 | Mehr als alles                                      :bibel:glaube:
 
 ** Kompetenzbereich / Leitkompetenz
 
+A Menschen und ihre Lebensorientierungen
+A2 Sich mit den großen Fragen der Menschen auseinandersetzen können
+
+B Gelehrte und gelebte Bezugsreligion
+B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+
 ** Kompetenzbeschreibung
+
+Die Schüler:innen können die über den Tod hinausgehende christliche Hoffnung beschreiben.
+
+Die Schüler:innen können Leiden, Sterben und Auferstehung Jesu Christi als Hoffnungsbild für Menschen reflektieren.
 
 ** Anwendungsbereich / Unterrichtshinweise
 
+AB:
+Biblisch-hermeneutische Kompetenz: eschatologische Bilder, Erlösungsglaube
+
+UH:
+
+AB:
+UH:
+Erfahrungen von Scheitern und Neubeginn, Passionsgeschichte und Osterevangelium, Bedeutung des Kreuzes, österlicher Glaube als christliche Lebenshaltung
+
 ** Inhalte / Buch
+
+- [[denote:20250907T162835][Mehr als alles]]
+- [[denote:20250907T162849][Zeichen des Leidens und der Hoffnung]]
+- [[denote:20250907T162859][Auferstehen und aufstehen]]
+- [[denote:20250907T162909][Stärker als der Tod]]
+- [[denote:20250907T162919][Botschaften für das Leben]]
+- [[denote:20250907T162927][Kompetenzcheck]]
+
+Osterspecial: Thomas
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
+KN 1:
+Die Schüler können ein eschatologisches Bild unter dem Aspekt christlicher Hoffnung beschreiben.
 
-* Kap. 7 | Heiliger Geist, komme herab
+Übergreifende Themen:
+Sprachliche Bildung und Lesen (10)
+
+KN 1:
+Die Schüler:innen können sich mit Tod und Auferstehung Jesu als zentralem christlichen Glaubensgeheimnis auseinandersetzen
+
+Übergreifende Themen:
+
+
+* Kap. 7 | Heiliger Geist, komme herab                  :glaube:bibel:kirche:
 
 ** Kompetenzbereich / Leitkompetenz
 
+B Gelehrte und gelebte Bezugsreligion
+B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+
 ** Kompetenzbeschreibung
+
+Die Schüler:innen können das vielfältige Wirken des Heiligen Geistes entdecken und charakterisieren.
 
 ** Anwendungsbereich / Unterrichtshinweise
 
+AB:
+Biblische Symbolik für den Geist Gottes, Vielfalt der Charismen
+
+UH:
+Pfingstereignis (Apg 2), Ängste überwinden und Begabungen leben
+
 ** Inhalte / Buch
+
+- [[denote:20250907T162949][Heiliger Geist, komme herab]]
+- [[denote:20250907T163001][Meine Charismen]]
+- [[denote:20250907T163017][Aufbruch in ein neues Leben]]
+- [[denote:20250907T163028][Heiliger Geist]]
+- [[denote:20250907T163042][Was sind Geistgaben?]]
+- [[denote:20250907T163058][Kompetenzcheck]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
+KN 1:
+Die Schüler biblische Bilder für den Heiligen Geist benennen und erschließen.
 
-* Kap. 8 | Hinduismus und Buddhismus
+Übergreifende Themen:
+Bildungs-, Berufs- und Lebensorientierung (1)
+
+
+* Kap. 8 | Hinduismus und Buddhismus                             :religionen:
 
 ** Kompetenzbereich / Leitkompetenz
 
+C Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur
+
+C6 Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+
 ** Kompetenzbeschreibung
+
+Die Schüler:innen kennen Charakteristika asiatischer Glaubenstraditionen und können diese mit dem christlichen Glaubensverständnis vergleichen.
 
 ** Anwendungsbereich / Unterrichtshinweise
 
+AB:
+
+UH:
+Elementare Inhalte und religiöse Praxis in Hinduismus, Buddhismus und chinesischen Religionen: Anfänge, prägende Persönlichkeiten, Meditation, Erlösungswege
+
 ** Inhalte / Buch
 
+- [[denote:20250907T163201][Hinduismus und Buddhismus]]
+- [[denote:20250907T163219][Die Religionen Ost- und Südostasiens]]
+- [[denote:20250907T163229][In allem wohnt Gott]]
+- [[denote:20250907T163239][Die Wahrheit tun]]
+- [[denote:20250907T163248][Auf den Spuren des Erwachten]]
+- [[denote:20250907T163258][Auf dem achtfachen Pfad]]
+- [[denote:20250907T163307][Kompetenzcheck]]
+
+Anhang: Fünf Religionen auf einen Blick
+
 ** Kompetenzniveau 1 / Übergreifende Themen
+
+KN 1: Die Schüler:innen können elementare Inhalte der asiatischen Glaubenstraditionen benennen.
+
+Übergreifendes Themen:
+Interkulturelle Bildung
+

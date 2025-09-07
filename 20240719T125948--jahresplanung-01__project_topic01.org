@@ -12,7 +12,7 @@
 #+STARTUP: showall
 #+export_file_name: ~/Documents/exports/Jahresplanung 01.html
 
-* Kap. 1 | Über das Leben nachdenken
+* Kap. 1 | Über das Leben nachdenken                           :gemeinschaft:
 September / Oktober
 
 ** Kompetenzbereich
@@ -50,7 +50,7 @@ Bildungs-, Berufs- und Lebensorientierung (1)
 Sexualpädagogik (9)
 
 
-* Kap. 2 | Himmel und Erde berühren sich 
+* Kap. 2 | Himmel und Erde berühren sich                      :fragen:kirche:
 Oktober / November
 
 ** Kompetenzbereich
@@ -82,7 +82,7 @@ Die Schüler:innen kennen Reichtum und Vielfalt spiritueller und liturgischer Au
 Sprachliche Bildung und Lesen (10) 
 
 
-* Kap. 3 | Feste feiern
+* Kap. 3 | Feste feiern                                                :welt:
 November / Dezember
 
 ** Kompetenzbereich
@@ -110,7 +110,7 @@ Die Schüler:innen können das Kirchenjahr mit seinen Festen als Rhythmus des Le
 KN 1 + KN-SPF: Die Schüler:innen können Feste des Kirchenjahrs benennen und dem Kalenderjahr zuordnen.
 
 
-* Kap. 4 | Jesus: Gott geht mit
+* Kap. 4 | Jesus: Gott geht mit                                :glaube:bibel:
 Jänner / Februar / März
 
 ** Kompetenzbereich
@@ -144,7 +144,7 @@ KN-SPF: Die Schüler können die Bedeutung der Bibel als Heilige Schrift und die
 Sprachliche Bildung und Lesen (10)
 
 
-* Kap. 5 | Das Buch der Bücher
+* Kap. 5 | Das Buch der Bücher                                        :bibel:
 März / April
 
 ** Kompetenzbereich
@@ -178,7 +178,7 @@ KN-SPF: Die Schüler können die Bedeutung der Bibel als Heilige Schrift und die
 Sprachliche Bildung und Lesen (10)
 
 
-* Kap. 6 | Versammelt in meinem Namen
+* Kap. 6 | Versammelt in meinem Namen                   :kirche:gemeinschaft:
 Mai / Juni
 
 ** Kompetenzbereich
@@ -213,7 +213,7 @@ KN-SPF: Die Schüler können Zeichen von Taufe und Eucharistie benennen.
 Sprachliche Bildung und Lesen (10)
 
 
-* Kap. 7 | Aufeinander zugehen
+* Kap. 7 | Aufeinander zugehen                                   :religionen:
 Juni / Juli
 
 ** Kompetenzbereich

@@ -31,15 +31,15 @@ Die Schüler:innen können die Frage nach dem Woher anhand biblischer Schöpfung
 
 ** Inhalte / Buch
 
-- "Zeit für Religion 3" - ein Spaziergang durch das Buch
-- "Spiel ohne Regeln"
-- Der Anfang von Allem
-- Die Schöpfung - ein wertvolles Geschenk
-- Das Leben - Gabe und Aufgabe
-- Und Gott sah, dass es ...
-- Die Weltreligionen - Ursprungsgeschichten
-- Die Welt - verstehen und beschreiben
-- Das Gespräch - Schöpfung - Evolution
+- [[denote:20250907T160434]["Zeit für Religion 3" - ein Spaziergang durch das Buch]]
+- [[denote:20250907T160451]["Spiel ohne Regeln"]]
+- [[denote:20250907T160503][Der Anfang von Allem]]
+- [[denote:20250907T160514][Die Schöpfung - ein wertvolles Geschenk]]
+- [[denote:20250907T160528][Das Leben - Gabe und Aufgabe]]
+- [[denote:20250907T160548][Und Gott sah, dass es ...]]
+- [[denote:20250907T160559][Die Weltreligionen - Ursprungsgeschichten]]
+- [[denote:20250907T160612][Die Welt - verstehen und beschreiben]]
+- [[denote:20250907T160627][Das Gespräch - Schöpfung - Evolution]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -67,10 +67,10 @@ Die Schüler:innen kennen christliche Grundlagen des Zusammenlebens und können 
 
 ** Inhalte / Buch
 
-- Zusammenleben, aber wie ...?
-- Wie kann Zusammenleben gelingen?
-- Gottes_Nächsten_Selbst_Liebe
-- Frieden spielen?!
+- [[denote:20250907T160650][Zusammenleben, aber wie ...?]]
+- [[denote:20250907T160729][Wie kann Zusammenleben gelingen?]]
+- [[denote:20250907T160742][Gottes_Nächsten_Selbst_Liebe]]
+- [[denote:20250907T160752][Frieden spielen?!]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -96,12 +96,12 @@ Die Schüler:innen können die Bedeutung des Sonntags für das Leben des Einzeln
 
 ** Inhalte / Buch
 
-- Rhythmus des Lebens
-- Balance zwischen Arbeit und Freizeit
-- Ich nehme mir Zeit
-- Den Sonntag abschaffen
-- Ein heiliger Tag
-- Weihnachtsspecial - Der Freude begegnen
+- [[denote:20250907T160910][Rhythmus des Lebens]]
+- [[denote:20250907T160919][Balance zwischen Arbeit und Freizeit]]
+- [[denote:20250907T160928][Ich nehme mir Zeit]]
+- [[denote:20250907T160937][Den Sonntag abschaffen]]
+- [[denote:20250907T160946][Ein heiliger Tag]]
+- [[denote:20250907T160958][Weihnachtsspecial - Der Freude begegnen]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -128,12 +128,12 @@ Die Schüler:innen können die Anfänge der Kirche und ihre Strukturen beschreib
 
 ** Inhalte / Buch
 
-- Niemand glaubt allein
-- Das Feuer weitertragen
-- Gegen alle Widerstände
-- Volk Gottes unterwegs
-- Kirche in Österreich
-- Katholisch: Weltweit vernetzt (Anhang / Special)
+- [[denote:20250907T161025][Niemand glaubt allein]]
+- [[denote:20250907T161034][Das Feuer weitertragen]]
+- [[denote:20250907T161043][Gegen alle Widerstände]]
+- [[denote:20250907T161051][Volk Gottes unterwegs]]
+- [[denote:20250907T161059][Kirche in Österreich]]
+- [[denote:20250907T161109][Katholisch: Weltweit vernetzt (Anhang / Special)]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -156,11 +156,11 @@ Die Schüler:innen können die Nutzung von Medien und deren Potential reflektier
 
 ** Inhalte / Buch
 
-- Immer und überall online
-- Mein Smartphone und ich
-- Generation Smartphone
-- Zehn Gebote der digitalen Welt
-- Religion real # virtuell
+- [[denote:20250907T161126][Immer und überall online]]
+- [[denote:20250907T161140][Mein Smartphone und ich]]
+- [[denote:20250907T161152][Generation Smartphone]]
+- [[denote:20250907T161200][Zehn Gebote der digitalen Welt]]
+- [[denote:20250907T161209][Religion real # virtuell]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -187,14 +187,14 @@ Die Schüler:innen können die Reich-Gottes-Botschaft erläutern und vom befreie
 
 ** Inhalte / Buch
 
-- Geschenkte Freiheit
-- Meine Sehnsucht nach ...
-- Jesus erzählt vom Reich Gottes
-- An Gottes Befreiung glauben
-- Der Ruf nach Freiheit
-- Freiheit nur mit Verantwortung
-- Freiheit von ...
-- Dem Leid begegnen (Osterspecial)
+- [[denote:20250907T161234][Geschenkte Freiheit]]
+- [[denote:20250907T161250][Meine Sehnsucht nach ...]]
+- [[denote:20250907T161300][Jesus erzählt vom Reich Gottes]]
+- [[denote:20250907T161317][An Gottes Befreiung glauben]]
+- [[denote:20250907T161400][Der Ruf nach Freiheit]]
+- [[denote:20250907T161413][Freiheit nur mit Verantwortung]]
+- [[denote:20250907T161428][Freiheit von ...]]
+- [[denote:20250907T161439][Dem Leid begegnen (Osterspecial)]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -220,12 +220,12 @@ Die Schüler:innen können Grundzüge des lslam beschreiben und ausgehend von ih
 
 ** Inhalte / Buch
 
-- Dem Islam begegnen
-- Zu Gast in einer Moschee
-- Es gibt keinen Gott außer Gott
-- Die fünf Säulen des Islam
-- Eine gemeinsame Geschichte
-- Genauer hinschauen und zuhören
+- [[denote:20250907T161849][Dem Islam begegnen]]
+- [[denote:20250907T161858][Zu Gast in einer Moschee]]
+- [[denote:20250907T161909][Es gibt keinen Gott außer Gott]]
+- [[denote:20250907T161920][Die fünf Säulen des Islam]]
+- [[denote:20250907T161929][Eine gemeinsame Geschichte]]
+- [[denote:20250907T161940][Genauer hinschauen und zuhören]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -251,10 +251,10 @@ Die Schüler:innen können die Sehnsucht nach einem "Leben in Fülle" zur Sprach
 
 ** Inhalte / Buch
 
-- Sich selbst entfalten
-- Sich selbst entfalten - ein Leben in Fülle
-- " ... und lebten glücklich und zufrieden ..."
-- Wenn aus Sehnsucht Sucht wird 
+- [[denote:20250907T162000][Sich selbst entfalten]]
+- [[denote:20250907T162012][Sich selbst entfalten - ein Leben in Fülle]]
+- [[denote:20250907T162020][" ... und lebten glücklich und zufrieden ..."]]
+- [[denote:20250907T162030][Wenn aus Sehnsucht Sucht wird]] 
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 

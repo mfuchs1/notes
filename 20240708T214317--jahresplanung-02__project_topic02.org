@@ -11,7 +11,7 @@
 #+STARTUP: showall
 #+export_file_name: ~/Documents/exports/Jahresplanung 02.html
 
-* Kap. 1 | Kommunikation - sich mitteilen
+* Kap. 1 | Kommunikation - sich mitteilen                      :gemeinschaft:
 September
 Erntedank
 
@@ -37,7 +37,7 @@ Die Schüler:innen können sich in ihrer lnteraktion mit der Mitwelt differenzie
 - [[denote:20250906T125123][Konflikte lösen - Dankbarkeit zeigen]]
 
 
-* Kap. 2 | An das Leben glauben
+* Kap. 2 | An das Leben glauben                                      :fragen:
 Oktober
 Allerheiligen
 
@@ -61,7 +61,7 @@ Die Schüler:innen können leidvolle Erfahrungen zum Ausdruck bringen und (chris
 - [[denote:20250906T125313][Verbunden bleiben]]
 
 
-* Kap. 3 | Eine Bibliothek in einem Buch
+* Kap. 3 | Eine Bibliothek in einem Buch                       :bibel:glaube:
 November
 
 ** Kompetenzbereich
@@ -84,7 +84,7 @@ Die Schüler:innen verfügen über vertiefte Grundkenntnisse zum Alten Testament
 - [[denote:20250906T125408][Die Bibel - ein Buch in tausend Sprachen]]
 
 
-* Kap. 4 | Sprache des Glaubens
+* Kap. 4 | Sprache des Glaubens                                      :kirche:
 Dezember
 Advent
 Weihnachten
@@ -111,7 +111,7 @@ Die Schüler:innen können Symbole deuten und entwerfen und die Sakramente als Z
 - [[denote:20250906T125630][Wegbegleiter für dein Leben]]
 
 
-* Kap. 5 | Das Judentum entdecken
+* Kap. 5 | Das Judentum entdecken                                :religionen:
 Jänner
 Februar
 
@@ -135,7 +135,7 @@ Die Schüler:innen können Grundzüge des Judentums beschreiben und die Nähe de
 - [[denote:20250906T125724][Ein Teil von uns]]
 
 
-* Kap. 6 | Schuld und Versöhnung erleben
+* Kap. 6 | Schuld und Versöhnung erleben         :fragen:gemeinschaft:kirche:
 Februar
 März
 Fastenzeit
@@ -154,14 +154,14 @@ Die Schüler:innen können leidvolle Erfahrungen zum Ausdruck bringen und (chris
 
 ** Inhalte / Buch
 
-- Schuld und Versöhnung erleben / Gesalbt und berührt werden
-- Verantwortung übernehmen
-- Vergeben und Versöhnen
-- Bewusst leben - aber wie?
-- Aus Liebe geschenkt (Osterspecial)
+- [[denote:20250907T164929][Schuld und Versöhnung erleben / Gesalbt und berührt werden]]
+- [[denote:20250907T164954][Verantwortung übernehmen]]
+- [[denote:20250907T165020][Vergeben und Versöhnen]]
+- [[denote:20250907T165038][Bewusst leben - aber wie?]]
+- [[denote:20250907T165058][Aus Liebe geschenkt (Osterspecial)]]
 
 
-* Kap. 7 | Mit offenen Augen unterwegs
+* Kap. 7 | Mit offenen Augen unterwegs                          :welt:kirche:
 März
 April
 Fastenzeit
@@ -181,14 +181,14 @@ Die Schüler:innen können christliche Motive in ihrer Lebenswelt wahrnehmen und
 
 ** Inhalte / Buch
 
-- Mit offenen Augen unterwegs / Religiösen Motiven auf der Spur
-- Sakrale Bauten
-- Sakrale Orte
-- Das ist mir heilig
-- Wallfahrt - Beten mit den Füßen
+- [[denote:20250907T165127][Mit offenen Augen unterwegs / Religiösen Motiven auf der Spur]]
+- [[denote:20250907T165139][Sakrale Bauten]]
+- [[denote:20250907T165149][Sakrale Orte]]
+- [[denote:20250907T165208][Das ist mir heilig]]
+- [[denote:20250907T165226][Wallfahrt - Beten mit den Füßen]]
 
 
-* Kap. 8 | Ich bin für dich da
+* Kap. 8 | Ich bin für dich da                                       :glaube:
 Mai
 Christi Himmelfahrt
 Pfingsten
@@ -213,7 +213,7 @@ Die Schüler:innen können Gottesvorstellungen aus Bibel und christlicher Tradit
 - [[denote:20250906T130023][Der dreieine Gott: 1 +1 + 1 = 1]]
 
 
-* Kap. 9 | Liebe ist ...?
+* Kap. 9 | Liebe ist ...?                                      :gemeinschaft:
 Juni
 Juli
 Fronleichnam
@@ -233,7 +233,7 @@ Die Schüler:innen können vielfältige Formen von Liebe unterscheiden und sich 
 
 ** Inhalte / Buch
 
-- Liebe ist ...? / Ich_Du_Gott_Liebe
-- Liebe kennt keine Grenzen
-- Es ist Liebe ...
-- Es ist, was es ist
+- [[denote:20250907T165403][Liebe ist ...? / Ich_Du_Gott_Liebe]]
+- [[denote:20250907T165414][Liebe kennt keine Grenzen]]
+- [[denote:20250907T165428][Es ist Liebe ...]]
+- [[denote:20250907T165440][Es ist, was es ist]]
