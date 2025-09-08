@@ -30,14 +30,16 @@ Die Schüler:innen können sich in ihrer gottgeschenkten Einzigartigkeit wahrneh
 
 ** Inhalte / Buch
 
-- "[[denote:20250905T235717][Zeit für Religion]]"
-- "[[denote:20250905T235735][Spaziergang durch das Buch]]"
-- ([[denote:20250905T235754][Das bin ich - das bist du]])
-- [[denote:20250905T235812][Über Leben nachdenken]]
-- [[denote:20250905T235824][Einfach besonders - ich bin ich]]
-- [[denote:20250905T235835][Auf dem Weg zum Ich]]
-- [[denote:20250905T235847][Füreinander und Miteinander]]
-- [[denote:20250905T235858][Große und kleine Fragen]]
+*** "[[denote:20250905T235717][Zeit für Religion]]"
+SCHEDULED: <2025-09-08 Mo>
+
+*** "[[denote:20250905T235735][Spaziergang durch das Buch]]"
+*** ([[denote:20250905T235754][Das bin ich - das bist du]])
+*** [[denote:20250905T235812][Über Leben nachdenken]]
+*** [[denote:20250905T235824][Einfach besonders - ich bin ich]]
+*** [[denote:20250905T235835][Auf dem Weg zum Ich]]
+*** [[denote:20250905T235847][Füreinander und Miteinander]]
+*** [[denote:20250905T235858][Große und kleine Fragen]]
 
 ** Kompetenzniveau, KN-SPF, Übergreifende Themen
 
@@ -67,12 +69,12 @@ Die Schüler:innen kennen Reichtum und Vielfalt spiritueller und liturgischer Au
 
 ** Inhalte / Buch
 
-- [[denote:20250905T235929][Himmel und Erde berühren sich]]
-- [[denote:20250905T235940][Das Unsichtbare entdecken]]
-- [[denote:20250905T235950][Staunen und Achtsam werden]]
-- [[denote:20250906T000002][Gefühle vor Gott bringen]]
-- [[denote:20250906T000012][Mit Gott reden]]
-- [[denote:20250906T000022][Das Vaterunser verstehen]].
+*** [[denote:20250905T235929][Himmel und Erde berühren sich]]
+*** [[denote:20250905T235940][Das Unsichtbare entdecken]]
+*** [[denote:20250905T235950][Staunen und Achtsam werden]]
+*** [[denote:20250906T000002][Gefühle vor Gott bringen]]
+*** [[denote:20250906T000012][Mit Gott reden]]
+*** [[denote:20250906T000022][Das Vaterunser verstehen]].
 
 ** Kompetenzniveau, KN-SPF, Übergreifende Themen
 
@@ -98,12 +100,12 @@ Die Schüler:innen können das Kirchenjahr mit seinen Festen als Rhythmus des Le
 
 ** Inhalte / Buch
 
-- [[denote:20250906T002625][Feste feiern]]
-- [[denote:20250906T002644][Hurra, wir feiern ein Fest]]!
-- [[denote:20250906T002654][Im Rhythmus der Zeit]]
-- [[denote:20250906T002704][Die Festkreise]]
-- [[denote:20250906T002714][Maria, eine mutige Frau]]
-- [[denote:20250906T002725][Weihnachtsspecial "Fürchtet euch nicht!"]]
+*** [[denote:20250906T002625][Feste feiern]]
+*** [[denote:20250906T002644][Hurra, wir feiern ein Fest]]!
+*** [[denote:20250906T002654][Im Rhythmus der Zeit]]
+*** [[denote:20250906T002704][Die Festkreise]]
+*** [[denote:20250906T002714][Maria, eine mutige Frau]]
+*** [[denote:20250906T002725][Weihnachtsspecial "Fürchtet euch nicht!"]]
 
 ** Kompetenzniveau, KN-SPF, Übergreifende Themen
 
@@ -127,12 +129,12 @@ Die Schüler:innen können Leben und Handeln Jesu in Grundlinien beschreiben und
 
 ** Inhalte / Buch
 
-- [[denote:20250906T002745][Jesus: Gott geht mit]]
-- [[denote:20250906T002754][Jesus begleitet mich]]
-- [[denote:20250906T002802][Ein einzigartiges Leben]]
-- [[denote:20250906T002815][Die Emmaus-Geschichte]]
-- [[denote:20250906T002826][Wenn Gott Mensch wird]]
-- [[denote:20250906T002838][Israel - das Land, in dem Jesus lebte]]
+*** [[denote:20250906T002745][Jesus: Gott geht mit]]
+*** [[denote:20250906T002754][Jesus begleitet mich]]
+*** [[denote:20250906T002802][Ein einzigartiges Leben]]
+*** [[denote:20250906T002815][Die Emmaus-Geschichte]]
+*** [[denote:20250906T002826][Wenn Gott Mensch wird]]
+*** [[denote:20250906T002838][Israel - das Land, in dem Jesus lebte]]
 
 ** Kompetenzniveau, KN-SPF, Übergreifende Themen
 
@@ -161,12 +163,12 @@ Die Schüler:innen verfügen über erweiterte Grundkenntnisse zur Bibel und kön
 
 ** Inhalte / Buch
 
-- [[denote:20250906T002858][Osterspecial "Fürchtet euch nicht!"]]
-- [[denote:20250906T002908][Das Buch der Bücher]]
-- [[denote:20250906T002917][Ein Navigationssystem für die Bibel]]
-- [[denote:20250906T002925][Das Neue Testament entsteht]]
-- [[denote:20250906T002937][Vier Bücher, ein Held - die Evangelien]]
-- [[denote:20250906T002949][Die Bibel - 2000 Jahre Kultur prägend]]
+*** [[denote:20250906T002858][Osterspecial "Fürchtet euch nicht!"]]
+*** [[denote:20250906T002908][Das Buch der Bücher]]
+*** [[denote:20250906T002917][Ein Navigationssystem für die Bibel]]
+*** [[denote:20250906T002925][Das Neue Testament entsteht]]
+*** [[denote:20250906T002937][Vier Bücher, ein Held - die Evangelien]]
+*** [[denote:20250906T002949][Die Bibel - 2000 Jahre Kultur prägend]]
 
 ** Kompetenzniveau, KN-SPF, Übergreifende Themen
 
@@ -195,12 +197,12 @@ Die Schüler:innen können Taufe und Eucharistie als Ausdruck der Zugehörigkeit
 
 ** Inhalte / Buch
 
-- [[denote:20250906T003041][Versammelt in meinem Namen]]
-- [[denote:20250906T003051][Leben in der Gemeinschaft]]
-- [[denote:20250906T003101][Du bist mein geliebtes Kind]]
-- [[denote:20250906T003111][Gemeinsam Essen - Gemeinsam Feiern]]
-- [[denote:20250906T003120][Danken gehört zum Leben]]
-- [[denote:20250906T003129][Den Glauben gemeinsam bekennen]]
+*** [[denote:20250906T003041][Versammelt in meinem Namen]]
+*** [[denote:20250906T003051][Leben in der Gemeinschaft]]
+*** [[denote:20250906T003101][Du bist mein geliebtes Kind]]
+*** [[denote:20250906T003111][Gemeinsam Essen - Gemeinsam Feiern]]
+*** [[denote:20250906T003120][Danken gehört zum Leben]]
+*** [[denote:20250906T003129][Den Glauben gemeinsam bekennen]]
 
 ** Kompetenzniveau, KN-SPF, Übergreifende Themen
 
@@ -230,13 +232,13 @@ Die Schüler:innen können Gemeinsames und Unterscheidendes, Verbindendes und Tr
 
 ** Inhalte / Buch
 
-- [[denote:20250906T003148][Aufeinander zugehen]]
-- [[denote:20250906T003157][So feiern wir]]
-- [[denote:20250906T003208][Und was feierst du? Feste in den Religionen]]
-- [[denote:20250906T003224][Gemeinsam vor Gott]]
-- [[denote:20250906T003236][#Religion - Religion vernetzt]]
-- [[denote:20250906T003245][Aneinander wachsen]]
-- [[denote:20250906T003256][Unter einem gemeinsamen Dach]]
+*** [[denote:20250906T003148][Aufeinander zugehen]]
+*** [[denote:20250906T003157][So feiern wir]]
+*** [[denote:20250906T003208][Und was feierst du? Feste in den Religionen]]
+*** [[denote:20250906T003224][Gemeinsam vor Gott]]
+*** [[denote:20250906T003236][#Religion - Religion vernetzt]]
+*** [[denote:20250906T003245][Aneinander wachsen]]
+*** [[denote:20250906T003256][Unter einem gemeinsamen Dach]]
 
 ** Kompetenzniveau, KN-SPF, Übergreifende Themen
 

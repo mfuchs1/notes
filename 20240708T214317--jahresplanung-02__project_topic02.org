@@ -2,6 +2,7 @@
 #+date:       [2024-07-08 Mo 21:43]
 #+filetags:   :Project:topic02:
 #+identifier: 20240708T214317
+#+CATEGORY: topic 02
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
 #+SETUPFILE: ~/Documents/config/latex_setup.org
@@ -29,12 +30,14 @@ Die Schüler:innen können sich in ihrer lnteraktion mit der Mitwelt differenzie
 
 ** Inhalte / Buch
 
-- [[denote:20250906T124748]["Zeit für Religion 2" - ein Spaziergang durch das Buch]]
-- [[denote:20250906T125032][Mit einem Bingo in das neue Schuljahr]]
-- [[denote:20250906T125043][Kommunikation - sich mitteilen / Miteinander kommunizieren]]
-- [[denote:20250906T125102][Ich bin viele ...]]
-- [[denote:20250906T125113][Neue Sichtweisen erkennen]]
-- [[denote:20250906T125123][Konflikte lösen - Dankbarkeit zeigen]]
+*** [[denote:20250906T124748]["Zeit für Religion 2" - ein Spaziergang durch das Buch]]
+SCHEDULED: <2025-09-08 Mo>
+
+*** [[denote:20250906T125032][Mit einem Bingo in das neue Schuljahr]]
+*** [[denote:20250906T125043][Kommunikation - sich mitteilen / Miteinander kommunizieren]]
+*** [[denote:20250906T125102][Ich bin viele ...]]
+*** [[denote:20250906T125113][Neue Sichtweisen erkennen]]
+*** [[denote:20250906T125123][Konflikte lösen - Dankbarkeit zeigen]]
 
 
 * Kap. 2 | An das Leben glauben                                      :fragen:
@@ -55,10 +58,10 @@ Die Schüler:innen können leidvolle Erfahrungen zum Ausdruck bringen und (chris
 
 ** Inhalte / Buch
 
-- [[denote:20250906T125243][An das Leben glauben / Angenommen und begleitet sein]]
-- [[denote:20250906T125254][Leid hat viele Gesichter]]
-- [[denote:20250906T125303][Kraft und Trost spenden]]
-- [[denote:20250906T125313][Verbunden bleiben]]
+*** [[denote:20250906T125243][An das Leben glauben / Angenommen und begleitet sein]]
+*** [[denote:20250906T125254][Leid hat viele Gesichter]]
+*** [[denote:20250906T125303][Kraft und Trost spenden]]
+*** [[denote:20250906T125313][Verbunden bleiben]]
 
 
 * Kap. 3 | Eine Bibliothek in einem Buch                       :bibel:glaube:
@@ -78,10 +81,10 @@ Die Schüler:innen verfügen über vertiefte Grundkenntnisse zum Alten Testament
 
 ** Inhalte / Buch
 
-- [[denote:20250906T125335][Eine Bibliothek in einem Buch / Texte aus fast 1000 Jahren]]
-- [[denote:20250906T125345][Abraham, Sarah und ihre Familien]]
-- [[denote:20250906T125354][Eine kurze Geschichte Israels]]
-- [[denote:20250906T125408][Die Bibel - ein Buch in tausend Sprachen]]
+*** [[denote:20250906T125335][Eine Bibliothek in einem Buch / Texte aus fast 1000 Jahren]]
+*** [[denote:20250906T125345][Abraham, Sarah und ihre Familien]]
+*** [[denote:20250906T125354][Eine kurze Geschichte Israels]]
+*** [[denote:20250906T125408][Die Bibel - ein Buch in tausend Sprachen]]
 
 
 * Kap. 4 | Sprache des Glaubens                                      :kirche:
@@ -104,11 +107,11 @@ Die Schüler:innen können Symbole deuten und entwerfen und die Sakramente als Z
 
 ** Inhalte / Buch
 
-- [[denote:20250906T125551][Sprache des Glaubens / Verborgenes verstehen]]
-- [[denote:20250906T125602][Besondere Zeiten - besondere Zeichen]]
-- [[denote:20250906T125612][Bildsprache und Sprachbilder]]
-- [[denote:20250906T125621][Aus Liebe geschenkt (Weihnachtsspecial)]]
-- [[denote:20250906T125630][Wegbegleiter für dein Leben]]
+*** [[denote:20250906T125551][Sprache des Glaubens / Verborgenes verstehen]]
+*** [[denote:20250906T125602][Besondere Zeiten - besondere Zeichen]]
+*** [[denote:20250906T125612][Bildsprache und Sprachbilder]]
+*** [[denote:20250906T125621][Aus Liebe geschenkt (Weihnachtsspecial)]]
+*** [[denote:20250906T125630][Wegbegleiter für dein Leben]]
 
 
 * Kap. 5 | Das Judentum entdecken                                :religionen:
@@ -129,10 +132,10 @@ Die Schüler:innen können Grundzüge des Judentums beschreiben und die Nähe de
 
 ** Inhalte / Buch
 
-- [[denote:20250906T125646][Das Judentum entdecken / Das Leben feiern]]
-- [[denote:20250906T125657][Im Glauben an den einen Gott]]
-- [[denote:20250906T125715][Höre Israel!]]
-- [[denote:20250906T125724][Ein Teil von uns]]
+*** [[denote:20250906T125646][Das Judentum entdecken / Das Leben feiern]]
+*** [[denote:20250906T125657][Im Glauben an den einen Gott]]
+*** [[denote:20250906T125715][Höre Israel!]]
+*** [[denote:20250906T125724][Ein Teil von uns]]
 
 
 * Kap. 6 | Schuld und Versöhnung erleben         :fragen:gemeinschaft:kirche:
@@ -154,11 +157,11 @@ Die Schüler:innen können leidvolle Erfahrungen zum Ausdruck bringen und (chris
 
 ** Inhalte / Buch
 
-- [[denote:20250907T164929][Schuld und Versöhnung erleben / Gesalbt und berührt werden]]
-- [[denote:20250907T164954][Verantwortung übernehmen]]
-- [[denote:20250907T165020][Vergeben und Versöhnen]]
-- [[denote:20250907T165038][Bewusst leben - aber wie?]]
-- [[denote:20250907T165058][Aus Liebe geschenkt (Osterspecial)]]
+*** [[denote:20250907T164929][Schuld und Versöhnung erleben / Gesalbt und berührt werden]]
+*** [[denote:20250907T164954][Verantwortung übernehmen]]
+*** [[denote:20250907T165020][Vergeben und Versöhnen]]
+*** [[denote:20250907T165038][Bewusst leben - aber wie?]]
+*** [[denote:20250907T165058][Aus Liebe geschenkt (Osterspecial)]]
 
 
 * Kap. 7 | Mit offenen Augen unterwegs                          :welt:kirche:
@@ -181,11 +184,11 @@ Die Schüler:innen können christliche Motive in ihrer Lebenswelt wahrnehmen und
 
 ** Inhalte / Buch
 
-- [[denote:20250907T165127][Mit offenen Augen unterwegs / Religiösen Motiven auf der Spur]]
-- [[denote:20250907T165139][Sakrale Bauten]]
-- [[denote:20250907T165149][Sakrale Orte]]
-- [[denote:20250907T165208][Das ist mir heilig]]
-- [[denote:20250907T165226][Wallfahrt - Beten mit den Füßen]]
+*** [[denote:20250907T165127][Mit offenen Augen unterwegs / Religiösen Motiven auf der Spur]]
+*** [[denote:20250907T165139][Sakrale Bauten]]
+*** [[denote:20250907T165149][Sakrale Orte]]
+*** [[denote:20250907T165208][Das ist mir heilig]]
+*** [[denote:20250907T165226][Wallfahrt - Beten mit den Füßen]]
 
 
 * Kap. 8 | Ich bin für dich da                                       :glaube:
@@ -207,10 +210,10 @@ Die Schüler:innen können Gottesvorstellungen aus Bibel und christlicher Tradit
 
 ** Inhalte / Buch
 
-- [[denote:20250906T125956][Ich bin für dich da / Nach Gott fragen]]
-- [[denote:20250906T130004][Nach Gott suchen]]
-- [[denote:20250906T130012][Gott begegnen]]
-- [[denote:20250906T130023][Der dreieine Gott: 1 +1 + 1 = 1]]
+*** [[denote:20250906T125956][Ich bin für dich da / Nach Gott fragen]]
+*** [[denote:20250906T130004][Nach Gott suchen]]
+*** [[denote:20250906T130012][Gott begegnen]]
+*** [[denote:20250906T130023][Der dreieine Gott: 1 +1 + 1 = 1]]
 
 
 * Kap. 9 | Liebe ist ...?                                      :gemeinschaft:
@@ -233,7 +236,7 @@ Die Schüler:innen können vielfältige Formen von Liebe unterscheiden und sich 
 
 ** Inhalte / Buch
 
-- [[denote:20250907T165403][Liebe ist ...? / Ich_Du_Gott_Liebe]]
-- [[denote:20250907T165414][Liebe kennt keine Grenzen]]
-- [[denote:20250907T165428][Es ist Liebe ...]]
-- [[denote:20250907T165440][Es ist, was es ist]]
+*** [[denote:20250907T165403][Liebe ist ...? / Ich_Du_Gott_Liebe]]
+*** [[denote:20250907T165414][Liebe kennt keine Grenzen]]
+*** [[denote:20250907T165428][Es ist Liebe ...]]
+*** [[denote:20250907T165440][Es ist, was es ist]]

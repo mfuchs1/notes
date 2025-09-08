@@ -12,6 +12,7 @@
 #+export_file_name: ~/Documents/exports/Jahresplanung 04.html
 
 * Kap. 1 | Lebensperspektiven und Zukunftspläne                      :fragen:
+September
 
 ** Kompetenzbereich / Leitkompetenz
 
@@ -28,14 +29,16 @@ Sehnsüchte und Lebensträume, persönliche und berufliche Ziele, Utopien und Dy
 
 ** Inhalte / Buch
 
-- [[denote:20250907T162059][Eröffnung]]
-- [[denote:20250907T162108]["Spiel des Lebens"]]
-- [[denote:20250907T162116][Lebensperspektiven und Lebensträume]]
-- [[denote:20250907T162137][Das Leben - eine einzigartige Geschichte]]
-- [[denote:20250907T162154][Die Zukunft - meine Lebensziele]]
-- [[denote:20250907T162210][Die Utopie - ein Zukunftsmodell]]
-- [[denote:20250907T162219][Das Vertrauen - eine Entscheidungshilfe]]
-- [[denote:20250907T162229][Kompetenzcheck]]
+*** [[denote:20250907T162059][Eröffnung]]
+SCHEDULED: <2025-09-08 Mo>
+
+*** [[denote:20250907T162108]["Spiel des Lebens"]]
+*** [[denote:20250907T162116][Lebensperspektiven und Lebensträume]]
+*** [[denote:20250907T162137][Das Leben - eine einzigartige Geschichte]]
+*** [[denote:20250907T162154][Die Zukunft - meine Lebensziele]]
+*** [[denote:20250907T162210][Die Utopie - ein Zukunftsmodell]]
+*** [[denote:20250907T162219][Das Vertrauen - eine Entscheidungshilfe]]
+*** [[denote:20250907T162229][Kompetenzcheck]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -67,12 +70,13 @@ Sakrament: Firmung - Entscheidung zur (Nicht-)Teilhabe; Möglichkeiten des Mitwi
 
 ** Inhalte / Buch
 
-- [[denote:20250907T162246][In einer Gemeinschaft verbunden]]
-- [[denote:20250907T162255][Erwachsen werden]]
-- [[denote:20250907T162304][Ich bin bereit]]
-- [[denote:20250907T162313][Ohne uns geht gar nichts]]
-- [[denote:20250907T162322][In der Gemeinschaft mitwirken]]
-- [[denote:20250907T162331][Kompetenzcheck]]
+ 
+*** [[denote:20250907T162246][In einer Gemeinschaft verbunden]]
+*** [[denote:20250907T162255][Erwachsen werden]]
+*** [[denote:20250907T162304][Ich bin bereit]]
+*** [[denote:20250907T162313][Ohne uns geht gar nichts]]
+*** [[denote:20250907T162322][In der Gemeinschaft mitwirken]]
+*** [[denote:20250907T162331][Kompetenzcheck]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -110,13 +114,13 @@ Lebensgestaltung in Freiheit, Befähigung zur oder Verlust der Eigenverantwortun
 
 ** Inhalte / Buch
 
-- [[denote:20250907T162412][Entschieden in Freiheit leben]]
-- [[denote:20250907T162421][Entscheidungen treffen]]
-- [[denote:20250907T162433][Was ist das Gewissen?]]
-- [[denote:20250907T162444][Auf das Wohl des Menschen ausgerichtet]]
-- [[denote:20250907T162456][Religion: befreiend oder unterdrückend?]]
-- [[denote:20250907T162506][Die dunkle Seite des Glaubens]]
-- [[denote:20250907T162516][Kompetenzcheck]]
+*** [[denote:20250907T162412][Entschieden in Freiheit leben]]
+*** [[denote:20250907T162421][Entscheidungen treffen]]
+*** [[denote:20250907T162433][Was ist das Gewissen?]]
+*** [[denote:20250907T162444][Auf das Wohl des Menschen ausgerichtet]]
+*** [[denote:20250907T162456][Religion: befreiend oder unterdrückend?]]
+*** [[denote:20250907T162506][Die dunkle Seite des Glaubens]]
+*** [[denote:20250907T162516][Kompetenzcheck]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -153,13 +157,13 @@ Begegnung mit Kunst im religiösen Kontext, verschiedene Formen und Funktionen v
 
 ** Inhalte / Buch
 
-- [[denote:20250907T162531][In der Kunst Gott und der Welt begegnen]]
-- [[denote:20250907T162540][Kunst und ihre Funktionen]]
-- [[denote:20250907T162547][Bildsprache der Kunst]]
-- [[denote:20250907T162558][Kunst und Religion]]
-- [[denote:20250907T162608][Religiöse Elemente in der Popkultur]]
-- [[denote:20250907T162616][Kompetenzcheck]]
-- [[denote:20250907T162623][Weihnachtsspecial: Josef]]
+*** [[denote:20250907T162531][In der Kunst Gott und der Welt begegnen]]
+*** [[denote:20250907T162540][Kunst und ihre Funktionen]]
+*** [[denote:20250907T162547][Bildsprache der Kunst]]
+*** [[denote:20250907T162558][Kunst und Religion]]
+*** [[denote:20250907T162608][Religiöse Elemente in der Popkultur]]
+*** [[denote:20250907T162616][Kompetenzcheck]]
+*** [[denote:20250907T162623][Weihnachtsspecial: Josef]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -191,12 +195,12 @@ Zivilcourage, Friede, Gewaltfreiheit, Menschenrechte, nachhaltige Entwicklungszi
 
 ** Inhalte / Buch
 
-- [[denote:20250907T162649][Schau hin]]
-- [[denote:20250907T162704][Halt, schau, handle]]
-- [[denote:20250907T162730][Verteiligungsgerechtigkeit]]
-- [[denote:20250907T162745][Biblische Propheten]]
-- [[denote:20250907T162804][Und wie leben wir heute?]]
-- [[denote:20250907T162817][Kompetenzcheck]]
+*** [[denote:20250907T162649][Schau hin]]
+*** [[denote:20250907T162704][Halt, schau, handle]]
+*** [[denote:20250907T162730][Verteiligungsgerechtigkeit]]
+*** [[denote:20250907T162745][Biblische Propheten]]
+*** [[denote:20250907T162804][Und wie leben wir heute?]]
+*** [[denote:20250907T162817][Kompetenzcheck]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -238,12 +242,12 @@ Erfahrungen von Scheitern und Neubeginn, Passionsgeschichte und Osterevangelium,
 
 ** Inhalte / Buch
 
-- [[denote:20250907T162835][Mehr als alles]]
-- [[denote:20250907T162849][Zeichen des Leidens und der Hoffnung]]
-- [[denote:20250907T162859][Auferstehen und aufstehen]]
-- [[denote:20250907T162909][Stärker als der Tod]]
-- [[denote:20250907T162919][Botschaften für das Leben]]
-- [[denote:20250907T162927][Kompetenzcheck]]
+*** [[denote:20250907T162835][Mehr als alles]]
+*** [[denote:20250907T162849][Zeichen des Leidens und der Hoffnung]]
+*** [[denote:20250907T162859][Auferstehen und aufstehen]]
+*** [[denote:20250907T162909][Stärker als der Tod]]
+*** [[denote:20250907T162919][Botschaften für das Leben]]
+*** [[denote:20250907T162927][Kompetenzcheck]]
 
 Osterspecial: Thomas
 
@@ -282,12 +286,12 @@ Pfingstereignis (Apg 2), Ängste überwinden und Begabungen leben
 
 ** Inhalte / Buch
 
-- [[denote:20250907T162949][Heiliger Geist, komme herab]]
-- [[denote:20250907T163001][Meine Charismen]]
-- [[denote:20250907T163017][Aufbruch in ein neues Leben]]
-- [[denote:20250907T163028][Heiliger Geist]]
-- [[denote:20250907T163042][Was sind Geistgaben?]]
-- [[denote:20250907T163058][Kompetenzcheck]]
+*** [[denote:20250907T162949][Heiliger Geist, komme herab]]
+*** [[denote:20250907T163001][Meine Charismen]]
+*** [[denote:20250907T163017][Aufbruch in ein neues Leben]]
+*** [[denote:20250907T163028][Heiliger Geist]]
+*** [[denote:20250907T163042][Was sind Geistgaben?]]
+*** [[denote:20250907T163058][Kompetenzcheck]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -319,13 +323,13 @@ Elementare Inhalte und religiöse Praxis in Hinduismus, Buddhismus und chinesisc
 
 ** Inhalte / Buch
 
-- [[denote:20250907T163201][Hinduismus und Buddhismus]]
-- [[denote:20250907T163219][Die Religionen Ost- und Südostasiens]]
-- [[denote:20250907T163229][In allem wohnt Gott]]
-- [[denote:20250907T163239][Die Wahrheit tun]]
-- [[denote:20250907T163248][Auf den Spuren des Erwachten]]
-- [[denote:20250907T163258][Auf dem achtfachen Pfad]]
-- [[denote:20250907T163307][Kompetenzcheck]]
+*** [[denote:20250907T163201][Hinduismus und Buddhismus]]
+*** [[denote:20250907T163219][Die Religionen Ost- und Südostasiens]]
+*** [[denote:20250907T163229][In allem wohnt Gott]]
+*** [[denote:20250907T163239][Die Wahrheit tun]]
+*** [[denote:20250907T163248][Auf den Spuren des Erwachten]]
+*** [[denote:20250907T163258][Auf dem achtfachen Pfad]]
+*** [[denote:20250907T163307][Kompetenzcheck]]
 
 Anhang: Fünf Religionen auf einen Blick
 

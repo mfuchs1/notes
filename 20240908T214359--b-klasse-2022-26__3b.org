@@ -1,0 +1,90 @@
+#+title:      B Klasse 2023-27
+#+date:       [2024-09-08 So 21:43]
+#+filetags:   :3b:
+#+identifier: 20240908T214359
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/3b.html
+
+* Jahresplanung
+
+[[denote:20240709T110253][Jahresplanung 03]]
+
+* Notizen, Tasks, Termine
+
+
+* Stundenplanung
+
+** Einführung / Ziele
+
+
+** Wiederholung
+
+
+** Themen
+
+
+** Hefteintrag
+
+* Reflexionen
+
+
+* Schülerliste
+#+Name: 2021-students
+|-----------+--------------+-----------------------+------+-----------+------+-----|
+| First     | Last         | Name                  | Note | Mitarbeit | Heft | LZK |
+|-----------+--------------+-----------------------+------+-----------+------+-----|
+| Sebastian | Eder         | [[Sebastian Eder][Sebastian Eder]]        |      |           |      |     |
+| Lara      | Gsenger      | [[Lara Gsenger][Lara Gsenger]]          |      |           |      |     |
+| Emil      | Hodo         | [[Emil Hodo][Emil Hodo]]             |      |           |      |     |
+| Matthias  | Hornegger    | [[Matthias Hornegger][Matthias Hornegger]]    |      |           |      |     |
+| Alexander | Kainhofer    | [[Alexander Kainhofer][Alexander Kainhofer]]   |      |           |      |     |
+| Anna      | Quehenberger | [[Anna Quehenberger][Anna Quehenberger]]     |      |           |      |     |
+| Sebastian | Reschreiter  | [[Sebastian Reschreiter][Sebastian Reschreiter]] |      |           |      |     |
+| Jonas     | Rettenbacher | [[Jonas Rettenbacher][Jonas Rettenbacher]]    |      |           |      |     |
+| Sofia     | Schwaighofer | [[Sofia Schwaighofer][Sofia Schwaighofer]]    |      |           |      |     |
+| Michael   | Seethaler    | [[Michael Seethaler][Michael Seethaler]]     |      |           |      |     |
+| Carina    | Windhofer    | [[Carina Windhofer][Carina Windhofer]]      |      |           |      |     |
+|-----------+--------------+-----------------------+------+-----------+------+-----|
+#+TBLFM: $4=vmean($5..$7);%.0f
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
+
+#+BIND: org-export-filter-timestamp-functions (tmp-f-timestamp)
+#+BIND: org-export-filter-strike-through-functions (tmp-f-strike-through)
+#+BEGIN_SRC emacs-lisp :exports results :results none
+  (defun tmp-f-timestamp (s backend info)
+    (replace-regexp-in-string "&[lg]t;\\|[][]" "" s))
+  (defun tmp-f-strike-through (s backend info) "")
+#+END_SRC
+
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = last + '.' + first + '@abtenau.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
+      print(':EXPORT_FILE_NAME: ' '~/Documents/exports/'  + first +  '_'  + last +  '.html')
+      print(':ID: ' + first + '' + last + '')
+      print(':END: ')
+      print('#+Name: Note_' + first + '' + last + '')
+      print('|-----------------------+-------+-------------+-----+-----------+------------|')
+      print('| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |')
+      print('|-----------------------+-------+-------------+-----+-----------+------------|')
+      print('|                       |       |             |     |           |            |')
+      print('#+TBLFM: $6=vmean($3..$5);%.0f')
+      print('\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+
