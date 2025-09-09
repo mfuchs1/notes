@@ -1,0 +1,24 @@
+#+title:      IT Geräte
+#+date:       [2025-09-09 Di 10:32]
+#+filetags:   :linux:
+#+identifier: 20250909T103259
+
+* Ideen für einen neuen Desktop PC
+
+Einige Punkte sind mir wichtig:
+
+- sehr große Festplatte (1 TB mindestens, Möglichkeit zusätzliche Festplatte einbauen zu können)
+- ausreichend RAM (mindestens 16, besser 32 GB)
+- eine ordentliche Grafikkarte (für Spiele)
+- ohne Betriebssystem
+- der Rechner soll sich öffnen lassen, um eventuell RAM, etc zu ergänzen, um ihn zu säubern, etc.
+- (Monitor 4k, 27 Zoll)
+
+Ich sollte einmal auf netbooksbilliger.de nachschauen. 
+
+* Netzwerkfestplatte
+
+Die mobilen USB-Festplatten werden unzuverlässig. Daher wollte ich an eine zusätzliche Netzwerkfestplatte denken.
+
+Bei Mediamarkt kostet eine 6 TB Platte 150 Euro, eine 10 TB Platte 219 Euro (diese könnte die alte 2 TB Platte ersetzen). Auf die 6 TB Platte kann ich alle USB Platten kopieren (3 - 4 funktionieren).
+

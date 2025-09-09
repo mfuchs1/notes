@@ -1,0 +1,38 @@
+#+title:      Manjaro Xfce Wayland
+#+date:       [2025-09-09 Di 09:56]
+#+filetags:   :manjaro:xfce:
+#+identifier: 20250909T095620
+
+* Probleme
+Im Moment startet wayland unter xfce4 nicht.
+
+* Lösung 1
+
+Siehe: [[https://www.reddit.com/r/xfce/comments/1hk7jsb/xfce_420_with_wayland/]]
+
+Vielleicht klappt es so:
+
+Zusätzlich noch folgende Pakete installieren:
+
+- wayfire (nicht unbedingt notwenidig) and labwc
+- sddm fürs Login
+
+* Weitere Lösungen?
+I opened a thread here: https://www.reddit.com/r/xfce/comments/1hib2in/lightdm_sends_me_back_to_login_if_i_try_to_log_in/ and I had the same issueas u/xINFLAMES325x , I have solved btw
+
+As suggested here https://wiki.xfce.org/releng/wayland_roadmap#testing being me an Nvidia user I had to remove the proprietary driver. Then I added the ~/.config/wayfire.ini file and installed wayfire. Logged out and the logged in using the wayfire session from LightDM. Very beautiful at first appearence, it reminds me earlier times with Compiz, ovet ten years ago... but surprise stops here, since I was unable to mount external drives, shortcuts from keybord were not working and the whole desktop was unstable.
+
+NOTE that the Wayland support is still experimental. Also in the release notes, there are a lot of things that are not working.
+
+I lasted 2 minutes, then I logged out, entered the X11 session and reinstalled the Nvidia drivers.
+
+First experience with Wayland in XFCE was disastrous. Honestly, I love and will continue to love XFCE, even if I had to continue using X11. There are several programs that I use that only work with X11, whether they are part of XFCE or not... and they are part of my daily workflow. The partial functioning of xfce4-screenshooter and the total lack of support for other programs are the very first thing I tested. But the impossibility of being able to mount disks with Thunar was the last straw.
+
+I just can't understand all this euphoria of wanting to switch to Wayland right now. I would prefer to use it when it is stable and when it allows you to run other programs too. It should be the window manager that supports the programs, not the other way around. 
+
+* Fazit
+
+Nach den obigen Ansätzen ist Wayland unter Xfce zu instabil, v.a. mit einer Nvidia Grafikkarte. Was ich machen könnte: eine neue Grafikkarte kaufen? Nein, auf keinen Fall, erstens kosten gute Karte richtig viel Geld; andererseits muss die Karte auch zur CPU passen. Da wird es wohl besser sein, den Desktop PC solange verwenden, solange es eben geht. Und dann einen komplett neuen Rechner kaufen (der muss ja ins Budget passen).
+
+
+
