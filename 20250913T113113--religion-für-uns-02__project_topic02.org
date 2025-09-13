@@ -1,0 +1,17 @@
+#+title:      Religion für uns 02
+#+date:       [2025-09-13 Sa 11:31]
+#+filetags:   :project:topic02:
+#+identifier: 20250913T113113
+#+CATEGORY: topic 01
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Religion für uns 01.html
+
+* Bibel
+SCHEDULED: <2025-09-16 Di>
+

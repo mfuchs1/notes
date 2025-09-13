@@ -1,6 +1,6 @@
 #+title:      B Klasse 2023-27
 #+date:       [2024-09-08 So 21:43]
-#+filetags:   :3b:
+#+filetags:   :3b:sk:
 #+identifier: 20240908T214359
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
@@ -13,7 +13,7 @@
 
 * Jahresplanung
 
-[[denote:20240709T110253][Jahresplanung 03]]
+[[denote:20240709T110253][Zeit für Religion 03]]
 
 * Notizen, Tasks, Termine
 

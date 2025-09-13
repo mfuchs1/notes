@@ -1,0 +1,113 @@
+#+title:      B Klasse 2025-29
+#+date:       [2025-09-13 Sa 11:06]
+#+filetags:   :1b:ms:
+#+identifier: 20250913T110647
+
+* Jahresplanung
+
+[[denote:20250913T113018][Religion für uns 01]]
+
+* Notizen, Tasks, Termine
+
+
+* Stundenplanung
+
+** Einführung / Ziele
+
+
+** Wiederholung
+
+
+** Themen
+
+
+** Hefteintrag
+Arbeitsweg
+
+
+
+* Schülerliste
+#+Name: 2021-students
+|----------+--------------+---------------------+------+-----------+------+-----|
+| First    | Last         | Name                | Note | Mitarbeit | Heft | LZK |
+|----------+--------------+---------------------+------+-----------+------+-----|
+| Sophie   | Auer         | [[Sophie Auer][Sophie Auer]]         |    0 |           |      |     |
+| Matthias | Buchegger    | [[Matthias Buchegger][Matthias Buchegger]]  |    0 |           |      |     |
+| Felix    | Eder         | [[Felix Eder][Felix Eder]]          |    0 |           |      |     |
+| Samuel   | Hirscher     | [[Samuel Hirscher][Samuel Hirscher]]     |    0 |           |      |     |
+| Anna     | Kainhofer    | [[Anna Kainhofer][Anna Kainhofer]]      |    0 |           |      |     |
+| Ilvy     | Ramsauer     | [[Ilvy Ramsauer][Ilvy Ramsauer]]       |    0 |           |      |     |
+| Nadine   | Ramsauer     | [[Nadine Ramsauer][Nadine Ramsauer]]     |    0 |           |      |     |
+| Leonie   | Reschreiter  | [[Leonie Reschreiter][Leonie Reschreiter]]  |    0 |           |      |     |
+| Tobias   | Rettenbacher | [[Tobias Rettenbacher][Tobias Rettenbacher]] |    0 |           |      |     |
+| Jakob    | Rettenegger  | [[Jakob Rettenegger][Jakob Rettenegger]]   |    0 |           |      |     |
+| Eva      | Schlager     | [[Eva Schlager][Eva Schlager]]        |    0 |           |      |     |
+| Tim      | Schledt      | [[Tim Schledt][Tim Schledt]]         |    0 |           |      |     |
+| Ella     | Sunkler      | [[Ella Sunkler][Ella Sunkler]]        |    0 |           |      |     |
+| Finja    | Thomüller    | [[Finja Thomüller][Finja Thomüller]]     |    0 |           |      |     |
+| Julia    | Windhofer    | [[Julia Windhofer][Julia Windhofer]]     |    0 |           |      |     |
+|----------+--------------+---------------------+------+-----------+------+-----|
+#+TBLFM: $4=vmean($5..$7);%.0f
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
+
+#+BIND: org-export-filter-timestamp-functions (tmp-f-timestamp)
+#+BIND: org-export-filter-strike-through-functions (tmp-f-strike-through)
+#+BEGIN_SRC emacs-lisp :exports results :results none
+  (defun tmp-f-timestamp (s backend info)
+    (replace-regexp-in-string "&[lg]t;\\|[][]" "" s))
+  (defun tmp-f-strike-through (s backend info) "")
+#+END_SRC
+
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = last + '.' + first + '@abtenau.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
+      print(':EXPORT_FILE_NAME: ' '~/Documents/exports/'  + first +  '_'  + last +  '.html')
+      print(':ID: ' + first + '' + last + '')
+      print(':END: ')
+      print('#+Name: Note_' + first + '' + last + '')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('|       |             |       |         |           |            |')
+      print('#+tblfm: $2=@#-1')
+      print('#+TBLFM: $6=vmean($4..$5);%.0f')
+      print('\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+
+
+* Mitarbeittabelle
+# In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
+#+Name: Mitarbeit
+| Name                | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Sophie Auer][Sophie Auer]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Matthias Buchegger][Matthias Buchegger]]  |      |   |   |   |   |   |   |   |   |   |    |
+| [[Felix Eder][Felix Eder]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Samuel Hirscher][Samuel Hirscher]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Anna Kainhofer][Anna Kainhofer]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Ilvy Ramsauer][Ilvy Ramsauer]]       |      |   |   |   |   |   |   |   |   |   |    |
+| [[Nadine Ramsauer][Nadine Ramsauer]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Leonie Reschreiter][Leonie Reschreiter]]  |      |   |   |   |   |   |   |   |   |   |    |
+| [[Tobias Rettenbacher][Tobias Rettenbacher]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Jakob Rettenegger][Jakob Rettenegger]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Eva Schlager][Eva Schlager]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Tim Schledt][Tim Schledt]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Ella Sunkler][Ella Sunkler]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Finja Thomüller][Finja Thomüller]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Julia Windhofer][Julia Windhofer]]     |      |   |   |   |   |   |   |   |   |   |    |
+#+TBLFM: $2=vmean($3..$12)
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
+
+* Reflexionen

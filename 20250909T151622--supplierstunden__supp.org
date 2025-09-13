@@ -1,0 +1,112 @@
+:PROPERTIES:
+:CUSTOM_ID: h:61a4df50-d936-4db6-b6ec-328965b35761
+:END:
+#+title:      Supplierstunden
+#+date:       [2025-09-09 Di 15:16]
+#+filetags:   :supp:
+#+identifier: 20250909T151622
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Supplierstunden.html
+
+* Mittwoch SW01
+:PROPERTIES:
+:CATEGORY: Supp
+:END:
+
+** 1b BE 08:40-09:30                                                 :1b:sk:
+<2025-09-10 Mi>
+[[denote:20240908T214427][B Klasse 2025-29]]
+
+Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+** 2b GW 09:45-10:35                                                 :2b:sk:
+<2025-09-10 Mi>
+Wer bin ich?Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+** 3c D 10:40-11:30                                                 :3c:sk:
+<2025-09-10 Mi>
+
+
+** 1d BE 12:30-13:20                                                 :1d:sk:
+<2025-09-10 Mi>
+frei zeichnen / Ferien
+Ethik
+Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+* Freitag SW01
+:PROPERTIES:
+:CATEGORY: Supp
+:END:
+
+** 4a BE 07:45-08:35                                                 :4a:sk:
+<2025-09-12 Fr>
+Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+** 4a BU 08:40-09:30                                                 :4a:sk:
+<2025-09-12 Fr>
+Welche Ziele habe ich?
+Wie würde ich mein Lebensmotto beschreiben?
+Welche Zukunftmodelle gibt es?
+Wie stelle ich mir die Zukunft unserer Erde vor?
+
+
+** 1a BE 09:45-10:35                                                 :1a:sk:
+<2025-09-12 Fr>
+Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+** 2b GW 10:40-11:30                                                 :2b:sk:
+<2025-09-12 Fr>
+Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+** 4b BE 11:40-12:30                                                 :4b:sk:
+<2025-09-12 Fr>
+Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+Welche Ziele habe ich?
+Wie würde ich mein Lebensmotto beschreiben?
+Welche Zukunftmodelle gibt es?
+Wie stelle ich mir die Zukunft unserer Erde vor?
+
+** 1b BE                                                             :1b:sk:
+<2025-09-12 Fr 12:30-13:20>
+Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+

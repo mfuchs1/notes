@@ -1,6 +1,6 @@
-#+title:      Jahresplanung 02
+#+title:      Zeit für Religion 02
 #+date:       [2024-07-08 Mo 21:43]
-#+filetags:   :Project:topic02:
+#+filetags:   :project:topic02:
 #+identifier: 20240708T214317
 #+CATEGORY: topic 02
 #+LANGUAGE: de

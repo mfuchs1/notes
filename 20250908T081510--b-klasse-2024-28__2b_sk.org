@@ -1,7 +1,7 @@
-#+title:      D Klasse 2023-27
-#+date:       [2025-09-08 Mo 08:12]
-#+filetags:   :3d:
-#+identifier: 20250908T081215
+#+title:      B Klasse 2024-28
+#+date:       [2025-09-08 Mo 08:15]
+#+filetags:   :2b:sk:
+#+identifier: 20250908T081510
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
 #+SETUPFILE: ~/Documents/config/latex_setup.org
@@ -9,11 +9,11 @@
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/3d.html
+#+export_file_name: ~/Documents/exports/2b.html
 
 * Jahresplanung
 
-[[denote:20240709T110253][Jahresplanung 03]]
+[[denote:20240708T214317][Zeit für Religion 02]]
 
 * Notizen, Tasks, Termine
 

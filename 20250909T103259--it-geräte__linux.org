@@ -18,7 +18,7 @@ Ich sollte einmal auf netbooksbilliger.de nachschauen.
 
 * Netzwerkfestplatte
 
-Die mobilen USB-Festplatten werden unzuverlässig. Daher wollte ich an eine zusätzliche Netzwerkfestplatte denken.
+Die mobilen USB-Festplatten werden unzuverlässig. Daher wollte ich an eine zusätzliche Netzwerkfestplatte denken. Ein LAN-Anschluss beim Router ist noch frei - der DVD-Player benötigt eigentlich keinen.
 
 Bei Mediamarkt kostet eine 6 TB Platte 150 Euro, eine 10 TB Platte 219 Euro (diese könnte die alte 2 TB Platte ersetzen). Auf die 6 TB Platte kann ich alle USB Platten kopieren (3 - 4 funktionieren).
 

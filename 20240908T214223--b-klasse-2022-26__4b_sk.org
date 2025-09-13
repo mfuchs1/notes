@@ -1,6 +1,6 @@
 #+title:      B Klasse 2022-26
 #+date:       [2024-09-08 So 21:42]
-#+filetags:   :4b:
+#+filetags:   :4b:sk:
 #+identifier: 20240908T214223
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
@@ -13,7 +13,7 @@
 
 * Jahresplanung
 
-[[denote:20240719T131544][Jahresplanung 04]]
+[[denote:20240719T131544][Zeit für Religion 04]]
 
 * Notizen, Tasks, Termine
 

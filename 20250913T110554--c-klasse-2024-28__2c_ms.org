@@ -1,19 +1,11 @@
-#+title:      A Klasse 2025-29
-#+date:       [2024-09-08 So 21:40]
-#+filetags:   :1a:
-#+identifier: 20240908T214000
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
-#+SETUPFILE: ~/Documents/config/latex_setup.org
-#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
-#+OPTIONS: num:nil toc:nil
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+export_file_name: ~/Documents/exports/1a.html
+#+title:      C Klasse 2024-28
+#+date:       [2025-09-13 Sa 11:05]
+#+filetags:   :2c:ms:
+#+identifier: 20250913T110554
 
 * Jahresplanung
 
-[[denote:20240719T125948][Jahresplanung 01]]
+[[denote:20250913T113113][Religion für uns 02]]
 
 * Notizen, Tasks, Termine
 
@@ -119,4 +111,3 @@ Arbeitsweg
 
 
 * Reflexionen
-
