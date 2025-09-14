@@ -32,10 +32,9 @@ Die Schüler:innen können die Frage nach dem Woher anhand biblischer Schöpfung
 ** Inhalte / Buch
 
 ***  [[denote:20250907T160434]["Zeit für Religion 3" - ein Spaziergang durch das Buch]]
-SCHEDULED: <2025-09-08 Mo>
-
 *** [[denote:20250907T160451]["Spiel ohne Regeln"]]
 *** [[denote:20250907T160503][Der Anfang von Allem]]
+SCHEDULED: <2025-09-15 Mo>
 *** [[denote:20250907T160514][Die Schöpfung - ein wertvolles Geschenk]]
 *** [[denote:20250907T160528][Das Leben - Gabe und Aufgabe]]
 *** [[denote:20250907T160548][Und Gott sah, dass es ...]]

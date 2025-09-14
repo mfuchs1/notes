@@ -31,10 +31,9 @@ Die Schüler:innen können sich in ihrer lnteraktion mit der Mitwelt differenzie
 ** Inhalte / Buch
 
 *** [[denote:20250906T124748]["Zeit für Religion 2" - ein Spaziergang durch das Buch]]
-SCHEDULED: <2025-09-08 Mo>
-
 *** [[denote:20250906T125032][Mit einem Bingo in das neue Schuljahr]]
 *** [[denote:20250906T125043][Kommunikation - sich mitteilen / Miteinander kommunizieren]]
+SCHEDULED: <2025-09-15 Mo>
 *** [[denote:20250906T125102][Ich bin viele ...]]
 *** [[denote:20250906T125113][Neue Sichtweisen erkennen]]
 *** [[denote:20250906T125123][Konflikte lösen - Dankbarkeit zeigen]]

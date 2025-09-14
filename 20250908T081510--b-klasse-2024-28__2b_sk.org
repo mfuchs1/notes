@@ -18,25 +18,9 @@
 * Notizen, Tasks, Termine
 
 
-* Lernschiene
-
-
 * Stundenplanung
 
-** Einführung / Ziele
-
-
-** Wiederholung
-
-
-** Lernschiene
-
-
-** Themen
-
-
-** Hefteintrag
-
+[[denote:20250906T125043][Kommunikation - sich mitteilen / Miteinander kommunizieren]]
 
 * Reflexionen
 

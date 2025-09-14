@@ -30,8 +30,6 @@ Sehnsüchte und Lebensträume, persönliche und berufliche Ziele, Utopien und Dy
 ** Inhalte / Buch
 
 *** [[denote:20250907T162059][Eröffnung]]
-SCHEDULED: <2025-09-08 Mo>
-
 *** [[denote:20250907T162108]["Spiel des Lebens"]]
 *** [[denote:20250907T162116][Lebensperspektiven und Lebensträume]]
 *** [[denote:20250907T162137][Das Leben - eine einzigartige Geschichte]]
