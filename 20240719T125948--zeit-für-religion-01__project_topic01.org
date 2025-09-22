@@ -1,8 +1,8 @@
 #+title:      Zeit für Religion 01
 #+date:       [2024-07-19 Fr 12:59]
-#+filetags:   :project:topic01:
+#+filetags:   :Project:topic01:
 #+identifier: 20240719T125948
-#+CATEGORY: topic 01
+#+CATEGORY: ZfR #01
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
 #+SETUPFILE: ~/Documents/config/latex_setup.org
@@ -33,9 +33,9 @@ Die Schüler:innen können sich in ihrer gottgeschenkten Einzigartigkeit wahrneh
 *** "[[denote:20250905T235717][Zeit für Religion]]"
 *** "[[denote:20250905T235735][Spaziergang durch das Buch]]"
 *** ([[denote:20250905T235754][Das bin ich - das bist du]])
-*** [[denote:20250905T235812][Über Leben nachdenken]]
-SCHEDULED: <2025-09-15 Mo>
+*** [[denote:20250905T235812][Über das Leben nachdenken]]
 *** [[denote:20250905T235824][Einfach besonders - ich bin ich]]
+SCHEDULED: <2025-09-22 Mo>
 *** [[denote:20250905T235835][Auf dem Weg zum Ich]]
 *** [[denote:20250905T235847][Füreinander und Miteinander]]
 *** [[denote:20250905T235858][Große und kleine Fragen]]

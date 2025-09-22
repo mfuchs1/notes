@@ -1,0 +1,11 @@
+#+title:      Montag 15 September 2025
+#+date:       [2025-09-15 Mo 10:20]
+#+filetags:   :journal:
+#+identifier: 20250915T102046
+
+* [2025-09-15 Mo 10:20] Ein neuer Eintrag
+
+Aha.
+
+[[file:~/.emacs.d/emacs-config.org::*=org-capture= configuration][=org-capture= configuration]]
+

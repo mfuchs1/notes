@@ -1,6 +1,6 @@
 #+title:      Religion für uns 02
 #+date:       [2025-09-13 Sa 11:31]
-#+filetags:   :project:topic02:
+#+filetags:   :Project:topic02:
 #+identifier: 20250913T113113
 #+CATEGORY: topic 01
 #+LANGUAGE: de
@@ -10,8 +10,203 @@
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/Religion für uns 01.html
+#+export_file_name: ~/Documents/exports/Religion für uns 02.html
 
-* Bibel
-SCHEDULED: <2025-09-16 Di>
+* 01 Gemeinschaft | Beziehungen – miteinander umgehen lernen
+September bis November
 
+** Thema / Inhalt
+    • Kommunikation
+    • Mobbing 
+    • Konflikte lösen
+    • Formen der Liebe (Agape, Philia, Eros)
+    • Konstruktiv diskutieren 
+    • Geschlechterrolle – typisch Mann, typisch Frau
+
+** Kompetenz laut Stundenplan
+Die Schüler*innen können sich in ihrer Interaktion mit der Mitwelt differenziert wahrnehmen und zu einem wertschätzenden Kommunizieren beitragen.
+Die Schüler*innen können vielfältige Formen von Liebe unterscheiden und sich mit der eigenen Geschlechtlichkeit auseinandersetzen.
+
+** Hinweis / Alternativen
+Liturgische (Mit)Gestaltung Eröffnungsgottesdienst: Der Ablauf der Hl. Messe → Band 1: „Religion für mich“ (S. 125)
+
+** Inhalt des Buchs
+
+*** Mit jedem redest du anders
+*** Das war ein Missverständnis!
+*** Autorität und Verantwortung
+*** Mobbing: War doch nur Spaß?
+*** Impuls: Konflikte lösen
+*** Übergang: Mensch, ärgere dich nicht?
+*** Wofür Jesus streitet
+*** Liebe, eine Grundhaltung
+*** Freundschaft: Durch dick und dünn
+*** Verliebt und verzaubert
+*** Handeln: Konstruktiv diskutieren
+*** Typisch Mann, typisch Frau?
+*** Übungsteil
+
+* 02 Fragen | Vertrauen – an Herausforderungen wachsen
+November und Dezember
+
+** Thema / Inhalt
+    • Leid, Angst und Vertrauen
+    • Klagepsalm
+    • Verurteilen – verzeihen 
+    • Theologischer Dreischritt: Sehen – Urteilen – Handeln
+    • Kinderrechte
+
+** Kompetenz laut Stundenplan
+Die Schüler*innen können leidvolle Erfahrungen zum Ausdruck bringen und (christliche) Wege des Umgangs mit menschlicher Begrenztheit aufzeigen.
+Die Schüler*innen können (strukturelle) Schuld wahrnehmen, (eigenes) schuldhaftes Verhalten erkennen und sich mit Möglichkeiten der Vergebung auseinandersetzen.
+
+** Hinweis / Alternativen
+
+** Inhalt des Buchs
+
+*** Leid hat viele Gesichter
+*** Wie soll ich damit umgehen?
+*** Impuls: einen Klagepsalm beten
+*** Warum habt ihr solche Angst?
+*** Vertrauen, die Stärke des Herzens
+*** Übergang: Kannst du mir verzeihen?
+*** Ich verurteile dich nicht!
+*** Wir übernehmen Verantwortung!
+*** Handeln: Sehen - Urteilen - Handeln
+*** Kinder haben Rechte
+*** Übungsteil
+
+* 03 Glaube | Altes Testament – von Gott erzählen
+Jänner bis Februar
+
+** Thema / Inhalt
+    • Gott und Gottesvorstellungen
+    • Bundestheologie anhand der Erzelternerzählung (Abraham, Isaak und Jakob)
+    • Geschichte und Geschichten
+    • Welt und Umwelt der Bibel
+    • Welt des Alten Testaments
+    • Rolle der Frau im Alten Testament
+
+** Kompetenz laut Stundenplan
+Die Schüler*innen verfügen über vertiefte Grundkenntnisse zum Alten Testament und zur Vielfalt der biblischen Sprachwelt.
+Die Schüler*innen können Gottesvorstellungen aus Bibel und christlicher Tradition beschreiben und sie mit der eigenen Gottesvorstellung in Verbindung bringen.
+
+** Hinweis / Alternativen
+
+** Inhalt des Buchs
+
+*** Von Gott sprechen
+*** Impuls: 1 + 1 + 1 = 1
+*** Übergang: Gott zeigt sich den Menschen
+*** Der eine Gott
+*** Abraham und Sara - Gott ruft
+*** Isaak - Gott prüft
+*** Jakob - Gott streitet
+*** Geschichte und Geschichten
+*** Bibel: Textgattungen unterscheiden
+*** Die Welt des Alten Testaments
+*** Und die Frauen?
+*** Übungsteil
+
+* 04 Kirche | Sakramente – Gottes Nähe erfahren
+März bis April
+
+** Thema / Inhalt
+    • Sprache und Sprachbilder
+    • Zeichen und Symbole
+    • Sakramente
+Anhang: Religion für mich! Die sieben Sakramente
+
+** Kompetenz laut Stundenplan
+Die Schüler*innen können Symbole deuten und entwerfen und die Sakramente als Zeichen für die Nähe Gottes beschreiben.
+
+** Hinweis / Alternativen
+Kirchenjahr
+Fastenzeit:
+    • Kannst du mir verzeihen?  
+(Kap. 2.5, S. 42)
+    • Ich verurteile dich nicht! 
+(Kap. 2.6, S. 43)
+    • Sakrament der Versöhnung (Buße) 
+(S. 134)
+
+Liturgische (Mit)Gestaltung Besinnungsfeier: Einen Klagepsalm beten (Kap. 2 – Impuls – S. 38–39)
+
+** Inhalt des Buchs
+
+*** Eine Sprache in Bildern
+*** Zeichen und Symbole
+*** Impuls: Symbole sprechen lassen - Hand
+*** Übergang: Das sichtbare Symbol
+*** Die spürbare Wirkung
+*** Was ist ein Sakrament?
+*** Sakramente: Symbole und Zeichen erschließen
+*** Übungsteil
+
+
+* 05 Welt | Religion – Gott in der Welt entdecken
+April bis Mai
+
+** Thema / Inhalt
+    • Religiöse Bräuche und Traditionen
+    • Maria
+    • Pilgern
+    • Kirche – das Haus Gottes
+    • Baustile: Romanik, Gotik, Barock, Moderne
+    • Kirchenraumpädagogik
+
+** Kompetenz laut Stundenplan
+Die Schüler*innen können christliche Motive in ihrer Lebenswelt wahrnehmen und sakrale Räume in ihrer Bedeutung für Menschen erschließen.
+
+** Hinweis / Alternativen
+Kirchenjahr
+Marienmonat Mai: 
+    • Bräuche und Traditionen 
+(Kap. 5.2, S. 96)
+    • Maria ein Phänomen (Kap. 5.3, S. 97)
+    • Unter dem Schutz Marias 
+(Impuls, S. 98–99)
+
+** Inhalt des Buchs
+
+*** Religion prägt unsere Welt
+*** Bräuche und Traditionen
+*** Maria, ein Phänomen
+*** Impuls: Unter dem Schutz Marias
+*** Unterwegs zu Gott
+*** Übergang: Kirche - das Haus Gottes?
+*** Baustile der Kirchen
+*** Der Innenraum einer Kirche
+*** Kirchenraum: Gottes Haus erkunden
+*** Übungsteil
+
+
+* 06 Vielfalt | Judentum – als Volk erwählt
+Mai bis Juni
+
+** Thema / Inhalt
+    • Woher komme ich: meine Wurzeln, meine Vorfahren
+    • Judentum
+    • Ein Thema erforschen
+
+** Kompetenz laut Stundenplan
+Die Schüler*innen können Grundzüge des Judentums beschreiben und die Nähe des Christentums zum Judentum darlegen.
+
+** Hinweis / Alternativen
+Liturgische (Mit)Gestaltung Schlussgottesdienst: Der Ablauf der Hl. Messe → Band 1: „Religion für mich“ 
+(S. 125)
+
+** Inhalt des Buchs
+
+*** Woher ich komme
+*** Impuls: Mein Lebensbaum
+*** Übergang: Vorfahren im Glauben
+*** Das Judentum: Ein Überblick
+*** Ein Volk, ein Gott
+*** Die Erwartung des Messias
+*** Glaube und Leben
+*** Feste und Feiern
+*** Die Synagoge
+*** Gegenstände und Symbole
+*** Forschen: Ein Thema erforschen
+*** Übungsteil

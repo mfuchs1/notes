@@ -9,7 +9,7 @@
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/1b.html
+#+export_file_name: ~/Documents/exports/1b Seekirchen.html
 
 * Jahresplanung
 
@@ -19,7 +19,7 @@
 
 * Stundenplanung
 
-[[denote:20250905T235812][Über Leben nachdenken]]
+[[denote:20250905T235835][Auf dem Weg zum Ich]]
 
 ** Einleitung
 

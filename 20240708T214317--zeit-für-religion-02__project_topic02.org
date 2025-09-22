@@ -1,8 +1,8 @@
 #+title:      Zeit für Religion 02
 #+date:       [2024-07-08 Mo 21:43]
-#+filetags:   :project:topic02:
+#+filetags:   :Project:topic02:
 #+identifier: 20240708T214317
-#+CATEGORY: topic 02
+#+CATEGORY: topic02
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
 #+SETUPFILE: ~/Documents/config/latex_setup.org
@@ -33,8 +33,9 @@ Die Schüler:innen können sich in ihrer lnteraktion mit der Mitwelt differenzie
 *** [[denote:20250906T124748]["Zeit für Religion 2" - ein Spaziergang durch das Buch]]
 *** [[denote:20250906T125032][Mit einem Bingo in das neue Schuljahr]]
 *** [[denote:20250906T125043][Kommunikation - sich mitteilen / Miteinander kommunizieren]]
-SCHEDULED: <2025-09-15 Mo>
 *** [[denote:20250906T125102][Ich bin viele ...]]
+SCHEDULED: <2025-09-26 Fr>
+
 *** [[denote:20250906T125113][Neue Sichtweisen erkennen]]
 *** [[denote:20250906T125123][Konflikte lösen - Dankbarkeit zeigen]]
 

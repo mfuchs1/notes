@@ -2,6 +2,14 @@
 #+date:       [2025-09-13 Sa 11:06]
 #+filetags:   :1b:ms:
 #+identifier: 20250913T110647
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/1b Mattsee.html
 
 * Jahresplanung
 
@@ -11,6 +19,8 @@
 
 
 * Stundenplanung
+
+[[denote:20240911T093358][Die Welt der Gefühle]]
 
 ** Einführung / Ziele
 

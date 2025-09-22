@@ -9,7 +9,7 @@
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/2b.html
+#+export_file_name: ~/Documents/exports/2b Seekirchen.html
 
 * Jahresplanung
 

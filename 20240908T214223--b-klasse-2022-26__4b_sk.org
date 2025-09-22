@@ -9,7 +9,7 @@
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/4b.html
+#+export_file_name: ~/Documents/exports/4b Seekirchen.html
 
 * Jahresplanung
 
@@ -19,6 +19,10 @@
 
 
 * Stundenplanung
+
+[[denote:20250907T162116][Lebensperspektiven und Lebensträume]]
+
+[[denote:20250907T162137][Das Leben - eine einzigartige Geschichte]]
 
 ** Einführung / Ziele
 

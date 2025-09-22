@@ -9,7 +9,7 @@
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/3b.html
+#+export_file_name: ~/Documents/exports/3b Seekirchen.html
 
 * Jahresplanung
 
@@ -20,7 +20,7 @@
 
 * Stundenplanung
 
-[[denote:20250907T160503][Der Anfang von Allem]]
+[[denote:20250907T160528][Das Leben - Gabe und Aufgabe]]
 
 ** Einleitung
 
