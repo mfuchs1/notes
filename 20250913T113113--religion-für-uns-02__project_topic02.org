@@ -2,7 +2,7 @@
 #+date:       [2025-09-13 Sa 11:31]
 #+filetags:   :Project:topic02:
 #+identifier: 20250913T113113
-#+CATEGORY: topic 01
+#+CATEGORY: Rfu #02
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
 #+SETUPFILE: ~/Documents/config/latex_setup.org
@@ -32,12 +32,13 @@ Liturgische (Mit)Gestaltung Eröffnungsgottesdienst: Der Ablauf der Hl. Messe �
 
 ** Inhalt des Buchs
 
-*** Mit jedem redest du anders
-*** Das war ein Missverständnis!
-*** Autorität und Verantwortung
-*** Mobbing: War doch nur Spaß?
-*** Impuls: Konflikte lösen
-*** Übergang: Mensch, ärgere dich nicht?
+*** [[denote:20250922T210357][Mit jedem redest du anders]]
+*** [[denote:20250922T210411][Das war ein Missverständnis!]]
+*** [[denote:20250922T210427][Autorität und Verantwortung]]
+*** [[denote:20250922T210442][Mobbing: War doch nur Spaß?]]
+*** [[denote:20250922T210457][Impuls: Konflikte lösen]]
+SCHEDULED: <2025-09-23 Di>
+*** [[denote:20250922T210509][Übergang: Mensch, ärgere dich nicht?]]
 *** Wofür Jesus streitet
 *** Liebe, eine Grundhaltung
 *** Freundschaft: Durch dick und dünn

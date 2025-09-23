@@ -25,14 +25,14 @@
  ist sie entschwunden, sehnt man sie herbei. /\\
  In der Ewigkeit triumphiert sie, /\\
  geschmückt mit dem Kranz, /\\
- Siegerin im Wettstreit um einen edlen Preis. ^{[[#fn1][1]]}\\
+ Siegerin im Wettstreit um einen edlen Preis. [fn:1]\\
 \\
 
 <<v3>>
 3 Doch die große Kinderschar der Frevler bringt keinen Nutzen; /\\
  sie ist ein unechtes Gewächs, /\\
  treibt keine Wurzeln in die Tiefe /\\
- und fasst keinen sicheren Grund. ^{[[#fn2][2]]}\\
+ und fasst keinen sicheren Grund. [fn:2]\\
 \\
 
 <<v4>>
@@ -57,7 +57,7 @@
 * Der frühe Heimgang des Gerechten und das lange Leben der Frevler: 4,7-19
 
 7 Der Gerechte aber, kommt auch sein Ende früh, /\\
- geht in Gottes Ruhe ein. ^{[[#fn3][3]]}\\
+ geht in Gottes Ruhe ein. [fn:3]\\
 \\
 
 <<v8>>
@@ -72,7 +72,7 @@
 
 <<v10>>
 10 Er gefiel Gott und wurde von ihm geliebt; /\\
- da er mitten unter Sündern lebte, wurde er entrückt. ^{[[#fn4][4]]}\\
+ da er mitten unter Sündern lebte, wurde er entrückt. [fn:4]\\
 \\
 
 <<v11>>
@@ -94,12 +94,12 @@
 14 da seine Seele dem Herrn gefiel, /\\
  enteilte sie aus der Mitte des Bösen. /\\
  Die Leute sahen es, ohne es zu verstehen; /\\
- sie nahmen es sich nicht zu Herzen, ^{[[#fn5][5]]}\\
+ sie nahmen es sich nicht zu Herzen, [fn:5]\\
 \\
 
 <<v15>>
 15 dass Gnade und Erbarmen seinen Auserwählten zuteil wird, /\\
- Belohnung seinen Heiligen. ^{[[#fn6][6]]}\\
+ Belohnung seinen Heiligen. [fn:6]\\
 \\
 
 <<v16>>
@@ -117,7 +117,7 @@
 
 <<v18>>
 18 Sie sehen es und gehen darüber hinweg; /\\
- doch der Herr lacht über sie. ^{[[#fn7][7]]}\\
+ doch der Herr lacht über sie. [fn:7]\\
 \\
 
 <<v19>>
@@ -127,33 +127,35 @@
  wenn er sie kopfüber hinabstürzt /\\
  und aus ihren Grundfesten reißt. /\\
  Sie werden völlig vernichtet und erleiden Qualen; /\\
- die Erinnerung an sie verschwindet. ^{[[#fn8][8]]}\\
+ die Erinnerung an sie verschwindet. [fn:8]\\
 \\
 
 <<v20>>
 * Die Bösen und die Guten im Endgericht: 4,20 - 5,23
 
 20 Zitternd kommen sie zum Gericht über ihre Sünden; /\\
- ihre Vergehen treten ihnen entgegen und überführen sie.
-^{[[#fn9][9]]}\\
+ ihre Vergehen treten ihnen entgegen und überführen sie. [fn:9]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 5,16
 
-^{[[#fnm2][2]]} ℘ Sir 23,25
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ Jes 57,2
+[fn:1] [[file:Weish_5.org::v16][5,16]]
 
-^{[[#fnm4][4]]} ℘ Gen 5,24; Sir 44,16; Hebr 11,5
+[fn:2] [[file:Sir_23.org::v25][Sir 23,25]]
 
-^{[[#fnm5][5]]} ℘ Jes 57,1
+[fn:3] [[file:Jes_57.org::v2][Jes 57,2]]
 
-^{[[#fnm6][6]]} ℘ 3,9
+[fn:4] [[file:Gen_5.org::v24][Gen 5,24]]; [[file:Sir_44.org::v16][Sir 44,16]]; [[file:~/Documents/notes/Bibel/nt/Hebr_11.org::v5][Hebr 11,5]]
 
-^{[[#fnm7][7]]} ℘ Ps 2,4
+[fn:5] [[file:Jes_57.org::v1][Jes 57,1]]
 
-^{[[#fnm8][8]]} ℘ Jes 14,16-19; Ijob 18,17
+[fn:6] [[file:Weish_3.org::v9][3,9]]
 
-^{[[#fnm9][9]]} 20-5,23: Gegenstück zu 1,16 - 2,24: Im Endgericht müssen
+[fn:7] [[file:Ps_2.org::v4][Ps 2,4]]
+
+[fn:8] [[file:Jes_14.org::v16][Jes 14,16-19]]; [[file:Ijob_18.org::v17][Ijob 18,17]]
+
+[fn:9] [[v20][20]]-[[file:Weish_5.org::v23][5,23]]: Gegenstück zu [[file:Weish_1.org::v16][1,16]] - [[file:Weish_2.org::v24][2,24]]: Im Endgericht müssen
 die Sünder in Gegenwart des von ihnen verachteten und verfolgten
 Gerechten ihren Irrtum und ihr verfehltes Leben beklagen.

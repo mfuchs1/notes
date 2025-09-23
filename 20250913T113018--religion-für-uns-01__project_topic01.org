@@ -24,9 +24,10 @@ Die Schüler*innen können sich in ihrer gottgeschenkten Einzigartigkeit wahrneh
 ** Inhalte des Buchs
 
 *** [[denote:20250918T090124][Die Welt der Gefühle]]
-SCHEDULED: <2025-09-18 Do>
 *** [[denote:20250918T090138][Was ich mir zutraue]]
 *** [[denote:20250918T090153][Kann ich dir vertrauen?]]
+SCHEDULED: <2025-09-23 Di>
+
 *** [[denote:20250918T090215][Impuls: ich und du?]]
 *** [[denote:20250918T090228][Ich bin einzigartig]]
 *** [[denote:20250918T090238][Wir sind eine Gemeinschaft]]
