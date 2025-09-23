@@ -154,11 +154,11 @@ Verheerung über die ganze Erde /\\
 
 * Footnotes
 
-[fn:1] 3,2f
+[fn:1] [[file:Weish_3.org::v2][3,2f]]
 
-[fn:2] 2,18; Kol 1,12
+[fn:2] [[file:Weish_2.org::v18][2,18]]; [[file:~/Documents/notes/Bibel/nt/Kol_1.org::v12][Kol 1,12]]
 
-[fn:3] Ps 119,30.151
+[fn:3] [[file:Ps_119.org::v30][Ps 119,30]].[[file:Ps_119.org::v151][151]]
 
 [fn:4] Ps 95,10
 
