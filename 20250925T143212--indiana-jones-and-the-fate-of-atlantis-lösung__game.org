@@ -1,0 +1,237 @@
+#+title:      Indiana Jones and the Fate of Atlantis Lösung
+#+date:       [2025-09-25 Do 14:32]
+#+filetags:   :game:
+#+identifier: 20250925T143212
+
+1) Kampftips
+Wie beim letzten Kreuzzug kommt es auch in diesem Spiel zu Kämpfen gegen Nazis und andere Gegner, obwohl es vermutlich auch möglich ist, das Abenteuer kampflos durchzustehen. Trotzdem, hier ein paar Tipps für die Prügeleien:
+
+    Anders als im Vorgänger steuerst Du die Kämpfe hier standardmäßig mit der Maus. Mit dem Ziffernblock sollte es aber trotzdem einfacher gehen, drücke [F], um auf Tastatursteuerung umzuschalten (dabei muß eine Meldung erscheinen). Wenn ich mich nicht irre, funktionieren die Tastaturkämpfe jedoch nur, wenn Num Lock ausgeschaltet ist (abspeichern und ausprobieren).
+    Schlage nicht einfach drauflos, sondern versuche, die gegnerischen Angriffe zu blocken. Attackiere nur hin und wieder (achte auf die Kraftanzeige) und schlage jeweils auf eine ungeschützte Stelle. Wenn Deine Angriffe abgewehrt werden, verlierst Du selbst Energie!
+    Weichst Du ein paar Schritte zurück, wird Indy fliehen.
+    Immerhin wurde noch ein kleiner Cheat eingebaut: Drücke die [0] oder [Einfg] und Indy wird den Gegner mit einem einzigen Schlag umhauen. Allerdings funktioniert das nur, wenn sich der Kampf nicht über ein Rätsel umgehen läßt, und IQ-Punkte bekommst Du natürlich auch nicht.
+
+2) Walkthrough
+Zuvor sei gesagt, daß es mehrere Wege durch das Spiel gibt. Nach den Vorbereitungen (Platos Dialog) hast Du die Wahl zwischen dem Team-Pfad, dem Denk-Pfad und dem Fäuste-Pfad. Je nachdem, welchen Pfad Du wählst, wirst Du die verschiedenen Orte in teilweise unterschiedlicher Reihenfolge oder überhaupt nicht besuchen und Rätsel auf verschiedene Arten lösen müssen.
+
+2.1.1) Intro
+Nach der Kopierschutzabfrage und der coolen Titelmusik landet Indy auf dem Dachboden des Barnett College, auf der Suche nach irgendeiner Statue. In diesem kurzen Einführungsabschnitt kannst Du nur den umstehenden Krempel benutzen und noch keine speziellen Befehle ausführen. Du kannst diesen Abschnitt mit der Escape-Taste auch komplett überspringen, aber warum auf den Spaß verzichten?
+
+    Untersuche die seltsame Statue hinter der Falltür und es geht abwärts.
+    In der nächsten Etage kann es nicht schaden, die Regale zu betrachten und sich die Namen der Sammlungen für später zu notieren. Nimm das Seil, damit es weitergeht.
+    Wir landen in der Bibliothek. Hier wendet sich Indy natürlich den Büchern über Statuen zu, allerdings mit unterwartetem Ergebnis.
+    Im nächsten Raum sind zunächst nur die (vermeintlichen) Katzenstatuen interessant.
+    Schließlich im Kohlenkeller angekommen müssen wir nur noch die drei Schränke durchsuchen, um endlich die gehörnte Statue zu finden (ist immer im letzten).
+
+Indy kehrt nun ins Büro zurück, wo bereits Marcus und ein gewisser Mr. Smith warten. Der hat einen Schlüssel für die Statue, und eine kleine Perle kommt zum Vorschein. Smith zückt eine Waffe und flieht mit den Artefakten, doch Indy kann ihm seinem Mantel und seine Papiere abringen. Klaus Kerner ist offenbar ein Agent aus Deutschland und hat es offenbar auch auf Indys ehemalige Assistentin Sophia Hapgood abgesehen. Also ab nach NYC - Sophia ist inzwischen ein Medium geworden...
+
+2.1.2) New York City
+Leider ist die Show ausverkauft, also müssen wir uns einen anderen Weg zu Sophia suchen.
+
+    Nimm die Zeitung von heute mit.
+    Du kannst den Hintereingang benutzen, aber dann mußt Du am Rausschmeißer Biff vorbei. Wenn Du richtig über Sophia schwärmst, und wie sie komplizierte Dinge so leicht verständlich macht, läßt er Dich rein. Du kannst auch über die Feuerleiter ins Haus gelangen, dazu mußt Du lediglich ein paar Kisten verschieben. Dritte Möglichkeit: Du beleidigst Biff und verprügelst ihn. Etwas Übung kann ja nicht schaden.
+    Hinter der Bühne angekommen, kannst Du erstmal eine Weile die Vorstellung genießen. Sophia erzählt gerade von Atlantis und dem Geist Nur-Ab-Sal. Danach wirst Du den Beleuchter mit der Zeitung los. Drücke die beiden äußeren Hebel und dann den Knopf, um den Geist auszufahren und die Vorstellung zu beenden.
+
+Leider war Kerner schneller und hat Sophias Zimmer schon durchwühlt. Die ist aber bereits im Bilde und glaubt, daß die Nazis nach der Macht von Atlantis suchen, und führt ihr Amulett und die mysteriöse Metallegierung Orichalcum vor. Nur-Ab-Sal verrät Sophia angeblich, der Verlorene Dialog von Plato könne bei der Suche helfen.
+
+2.1.3) Island
+
+    In der alten Ausgrabungsstätte ist Dr. Björn Heimdall gerade damit beschäftigt, etwas aus dem Eis zu hauen. Er hat einige gewagte Theorien über Atlantis auf Lager, auch wenn er offenbar selbst nicht weiß, was die Aalfigur zu bedeuten hat. Immerhin bekommst Du von ihm zwei weitere Adressen.
+
+2.1.4) Tikal
+
+    Benutze die Peitsche, um das Dschungeltier durch den dritten Pfad von rechts zu scheuchen und die Anakonda loszuwerden. Anschließend kannst Du über den Baum auf die andere Seite des Abgrundes gelangen. Inzwischen hat Sophia eine Abkürzung gefunden... (warum muß ich jetzt nur an einen sonderbaren Einsiedler denken?)
+    Dr. Sternhart war ein wirklich guter Tip, immerhin ist er derjenige, der Platos Dialog übersetzt hat. Leider hat Mr. Smith seine letzte Kopie gestohlen. Außerdem zeigt er den Tempel nur anerkannten Wissenschaftlern und verlangt, daß Indy ihm den Titel des Dialogs nennt. Wenn Du zugibst, ihn nicht zu wissen, kannst Du anschließend den Papagei danach fragen.
+    Im Tempel bittest Du Sophia, noch einmal mit Sternhart zu reden. In der Zwischenzeit kannst Du draußen die Petroleumlampe einstecken. Öffne und benutze sie, um das anders aussehende Spiralmuster zu lösen, und stecke dieses in den Tierkopf, um einen Elefanten zu erhalten. Jetzt mußt Du nur noch an der Nase ziehen, um an die Kristallscherbe^W^W^Wein altes Grab zu öffnen. Sternhart findet einen sogenannten Weltstein und verschwindet damit durch eine Geheimtür, für Dich ist aber noch eine Orichalcumperle übriggeblieben.
+
+2.1.5) Island - Teil 2
+
+    Stecke das Orichalcum in den Kopf, um an die Aalfigur zu gelangen.
+
+2.1.6) Die Azoren
+
+    Costa zeigt sich nicht gerade kooperativ. Er glaubt, die Azoren seien Atlantis. Lasse Sophia mit ihm reden, dann ist er etwas gesprächsbereiter. Er weiß sogar, wo man den Dialog finden könnte, will jedoch Sophias Halsband, das sie natürlich nicht hergibt. Indy kann ihm jedoch die Aalfigur geben und erfährt, daß sich der Dialog in irgendeiner Sammlung befindet, die das Barnett College besitzt.
+
+2.1.7) Barnett College
+Nun gibt es drei Möglichkeiten, wo der Dialog versteckt sein könnte. Du weißt zwar, wie die Sammlung heißt, allerdings werden die Namen zufällig vergeben.
+
+    Große Kiste auf dem Dachboden: Verschiebe die Kiste, um eine Truhe zu finden, die zur gesuchten Sammlung gehören könnte. Dann benötigst Du allerdings noch einen Schlüssel. Im Eisschrank in Indys Büro findest Du ein Glas Mayonnaise. Benutze es, um den Totempfahl unter das Loch ziehen und nach oben klettern zu können. Durchsuche die Urne für den Schlüssel, öffne mit diesem die Truhe und Du hast den Verlorenen Dialog von Plato.
+    Katzenfigur: Untersuche den Stuhl in der Bibliothek, um ein Kaugummi zu finden. Gehe in den Keller und benutze das Kaugummi, um die Kohlenrutsche hochklettern zu können. Eine der Katzenfiguren ist aus Wachs und kann eingesteckt werden. Klettere wieder nach unten, öffne den Ofen und halte die Wachskatze hinein. Nun solltest Du den Dialog finden.
+    Umgestürztes Bücherregal: Hier gibt es wiederum zwei Möglichkeiten, an das Buch zu kommen. Benutze den dreckigen Lappen aus dem Keller mit der Pfeilspitze (Regal auf dem Dachboden). Nun hast Du ein Werkzeug, mit dem Du die fünf Schrauben entfernen kannst. Öffne das Regal und wir haben den Dialog. Alternativ dazu kannst Du mit dem oben erwähnten Kaugummi die Kohlenrutsche hochklettern. Stecke vorher einen Brocken Kohle ein. Der Dialog ist das Buch am Rand des Lochs in der Decke. Wirf die Kohle dagegen, damit es herunterfällt.
+    Du kannst die wichtigen Stellen im Dialog über die Büroklammern nachschlagen. Hermokrates und Sokrates meinen, daß Kritias sich bei seiner Übersetzung um den Faktor 10 geirrt habe, und vermuten Atlantis im Mittelmeer. Ferner wird von zwei Kolonien berichtet, und von drei verschiedenen Steinscheiben, die nötig sind, um Zutritt zu erhalten. Sophia hatte eine dieser Scheiben, doch sie wurde von den Nazis gestohlen. Sie ist sich jedoch sicher, daß sie die Scheibe von einem von zwei Händlern gekauft hatte.
+
+Doch nun mußt Du Dich für einen der drei Pfade entscheiden. Je nachdem, wie Du an Biff vorbeigekommen bist, schlägt Sophia Dir einen anderen Weg vor, Du kannst jedoch wählen, was Du willst.
+
+2.2) Team-Pfad
+
+2.2.1) Algiers
+
+    Sprich mit dem Messerwerfer und Du erfährst, daß er eine Assistentin sucht. Sophia weigert sich, doch wenn Du sie dazu bringst, ihn sich genauer anzusehen, kannst Du sie nach vorne schubsen. Der Werfer ist eine Flasche und trifft kein einziges Mal, doch immerhin springt ein Messer für Dich dabei raus.
+    Al-Jabbar triffst Du in einem Hinterhof. Leider will auch er einen Beweis sehen, und ausgerechnet eine der Steinscheiben. Immerhin überläßt er Dir die Maske, kostenlos.
+
+2.2.2) Monte Carlo
+Sophia ist sich sicher, daß Trottier eine Steinscheibe besitzt und plant, sie ihm in einer Seance abzuluchsen. Leider hat sie mit ihm nur per Post kommuniziert und weiß nicht, wie er aussieht.
+
+    Trottier ist der Typ im braunen Anzug. Leider ist er nicht leicht zu bequatschen, also wirst Du ihn wohl mehrmals ansprechen müssen. Er will ebenfalls einen Beweis und stellt Dir eine Frage, deren Antwort Du aber dank dem Dialog schon kennst. Kannst Du ihn trotzdem nicht überzeugen, mitzukommen, dann frage Sophia, die vorschlägt, Nur-Ab-Sal zu erwähnen.
+    Die Seance kannst Du wahlweise auf Indys oder auf Sophias Art bewältigen. Für einen möglichst hohen Gesamt-IQ mußt Du folglich neu laden und beide Methoden ausprobieren.
+    Sophia: Achte genau auf Deine Wortwahl. Du mußt Dich an das erinnern, was Trottier Indy erzählt hat, und eine Zufallszahl erraten. Wenn Du eine Frage falsch beantwortest, wird er das leider erst am Ende sagen. Machst Du es richtig, überläßt er Dir jedoch seinen Sonnenstein.
+    Indy: Nimm das Laken und die Taschenlampe aus dem Schrank. Öffne den Sicherungskasten und schalte den Strom ab. Benutze Laken, Maske und Taschenlampe, um Trottier zu verjagen und der Sonnenstein gehört Dir.
+
+2.2.3) Algiers - Teil 2
+
+    Dank des Sonnensteins erfährst Du nun von Al-Jabbar, daß sich eine deutsche Ausgrabung in der Wüste befindet und es sich dabei eine atlantische Kolonie handeln könnte. Du bekommst eine Karte und kannst die Maske gegen einen anderen Gegenstand eintauschen.
+    Gehe auf den Markt und frage den Lebensmittelhändler, ob er den Gegenstand von Al-Jabbar in Zahlung nehmen würde. Wenn er ablehnt, mußt Du zurück und den Gegenstand erneut umtauschen. Was der Händler haben will, ist Zufall, aber er sollte zwischendurch andeuten, was er gebrauchen könnte. Wenn Du eine Taube hast, dann gib sie dem Bettler, um eine Ballonfahrkarte zu erhalten. Steige auf das Dach, zeige die Karte vor und steige in den Ballon ein. Benutze das Messer und Du bist frei.
+    Mit dem Ballon kannst Du nur auf und absteigen, aber mit der Höhe ändert sich auch die Windrichtung. Lande bei den Nomaden und frage nach dem Weg.
+
+2.2.4) Ausgrabung
+
+    Die Ausgrabungsstätte sieht ziemlich verlassen aus. Sophia fällt prompt in ein Loch. Indy benutzt besser die Leiter.
+    Unten ist es sehr dunkel, und Du kannst nur ganz allmählich etwas erkennen. Suche nach Gegenständen und nimm den Schlauch und den Lehmbecher mit. Benutze den Schlauch, um am Truck Benzin in den Becher zu füllen. Suche am Generator in der Grube nach dem Benzineinfüllstutzen, kippe das Zeug rein und drücke den Schalter, um für Licht zu sorgen.
+    Stecke noch den Holzstift und die Schiffsrippe ein. Benutze die Schiffsrippe, um hinter der brüchigen Wand ein Gemälde von Kreta freizulegen. Stecke den Holzstift in die Mitte und den Sonnenstein darauf. Jetzt mußt Du noch den Stein gemäß den Informationen im Dialog an den Hörnern ausrichten und dann auf den Stift drücken. Wenn Du es richtig gemacht hast, öffnet sich eine Geheimtür. Von Sophia bekommst Du eine Verteilerkappe und einen Bernsteinfisch. Die Steinscheibe nehmen wir natürlich wieder mit.
+    Schalte den Generator wieder aus und nimm die Zündkerze aus seinem Inneren. Mit Verteilerkappe und Zündkerze kannst Du den Truck in Gang setzen und die Stätte verlassen.
+
+2.2.5) Kreta
+
+    Folge zunächst dem Weg zu den Ruinen von Knossos und gehe über die Brücke, um das Vermessungsgerät zu finden. Irgendwo in den Ruinen befindet sich ein Wandgemälde, das auf eine versteckte Steinscheibe hindeutet. Suche nach lockeren Steinen und drücke sie zur Seite, um eine Ochsenkopfstatue und eine Ochsenschwanzstatue zu finden. Stelle das Vermessungsgerät auf den Kopf und richte es auf das linke Horn. Wenn Du den Vermessungsbildschirm verläßt, sollte eine Linie erscheinen, sonst mußt Du noch etwas herumprobieren. Wiederhole das Ganze mit dem Schwanz und dem rechten Horn (die Reihenfolge ist natürlich egal). Da, wo sich die Linien treffen, kannst Du mit der Schiffsrippe einen Mondstein ausgraben.
+    Gehe zurück zum Steinpodest und lege den Sonnenstein und dann den Mondstein darauf. Richte den Sonnenstein genauso aus wie in der Ausgrabung. Den Mondstein mußt Du dann am Sonnenstein ausrichten, wie es im Dialog steht. Drücke dann auf die Achse, um eine Geheimtür zu öffnen.
+    Im ersten Raum mußt Du alle drei Statuenköpfe vom Regal nehmen; leider schließt sich dann die Tür. Nimm daher zunächst nur zwei Statuen, gehe dann durch die Tür und hole den letzten Kopf mit der Peitsche.
+    Gehe durch den mittleren Durchgang, dann zweimal nach links und Du solltest eine Minotaurenstatue und eine Art Aufzug im Boden erreichen. Schlage den Kopf mit der Peitsche ab und stelle Dich zu ihm auf den Aufzug, damit dieser nach unten fährt. Verläßt Du ihn, fährt er allerdings ohne Dich wieder nach oben. Sternhart hat offenbar keinen Ausweg gefunden und ist hier verhungert. Nimm seinen Stab und den Weltsein mit. Der folgende Weg ist eine Sackgasse, also suche hinter dem Wasserfall nach einer Kette, die Indy hochklettern kann.
+    Gehe vom Minotaurus aus nach links (nicht auf den Aufzug treten), lege die Statuenköpfe auf das Regal und gehe durch die Tür. Folge dem oberen Durchgang und beseitige den Keil mit dem Stab. Gehe nach unten und schiebe den Stab in den Statuenmund, um nach oben zur Goldkiste zu kommen. Unter dieser liegen zwei Orichalcumperlen, die wir ebenfalls mitnehmen.
+    Gehe wieder nach unten zu Sophia. Im nächsten Raum mußt Du sie überreden, durch das Loch zu kriechen und das Tor zu öffnen.
+    Du gelangst nun in einen Rundgang. Um hier einen Ausweg zu finden, mußt Du den Bernsteinfisch als Orichalcum-Detektor benutzen. Das geht allerdings nur, wenn Du die Perlen vorher in der Goldkiste wegschließt und Sophia überredest, ihr Halsband hinzuzufügen. Zwei Räume weiter sollte der Fisch auf die Wand zeigen. Benutze nun die Schiffsrippe, um eine Tür und dahinter eine weitere Perle zu finden.
+    Am Modell von Atlantis steckst Du Sonnen-, Mond- und Weltstein auf die Achse und richtest sie aus, wie im Buch beschrieben. Drücke die Achse und eine der drei Türen geht auf.
+    Gehe durch die Tür und Du wirst von Kerner überrascht. Leider hast Du keine andere Wahl, als ihm die Steinscheiben zu geben (oder erschossen zu werden). Nachdem Kerner und Sophia verschwunden sind, brichst Du abermals mit der Schiffsrippe durch die Wand und folgst ihm auf das U-Boot.
+    Öffnest Du die Luke, kommt der Kapitän heraus. Wählst Du die erste Gesprächsoption, wird Indy ihn automatisch vermöbeln. Bei der zweiten mußt Du selber kämpfen (geht aber ganz einfach). Um alle IQ-Punkte zu bekommen, mußt Du wieder beides ausprobieren.
+
+2.2.6) U-Boot
+
+    Jetzt gilt es, die Kontrolle über das U-Boot zu übernehmen. Leider bricht der erste Hebel gleich ab, also werden wir einen Ersatz suchen müssen.
+    Benutze die Gegensprechanlage, um die Besatzung in den Bug zu schicken. Gehe in den hinteren Teil des U-Bootes und nimm die Porzellantasse sowie Brot und Wurstscheiben und mach daraus ein Sandwich. Ziehe an den beiden Hebeln, damit Du sie später zur Steuerung verwenden kannst. Fülle die Batteriesäure in die Porzellantasse. Gehe nach vorne und ätze den Safe auf, um die Steinscheiben sowie einen kleinen Schlüssel zu finden.
+    Rede von hinten mit Sophia und bitte sie, die Wache abzulenken. Danach überraschst Du den Wächter von hinten und wählst eine der ersten drei Textoptionen, damit Sophia ihn mit dem Eimer ausschaltet. Mit dem Schlüssel gelangst Du an das Steuerrad. Mit dem Pömpel kannst Du den abgebrochenen Hebel ersetzen.
+    Jetzt mußt Du nur noch das U-Boot in die Luftschleuse steuern. Das ist allerdings etwas verzwickt. Drehe das Steuerrad abwechselnd nach links und nach rechts, bis Du auf einer Höhe mit dem Eingang bist. Möglicherweise mußt Du dann den Rückwärtsgang einlegen, um hineinzukommen, dazu mußt Du das U-Boot vorher anhalten.
+
+2.3) Denk-Pfad
+
+2.3.1) Monte Carlo
+
+    Hier mußt Du einen gewissen Alain Trottier finden, der ständig spazierengeht. Er ist der Typ im braunen Anzug. Leider ist er nicht leicht zu bequatschen, unter Umständen wirst Du ihn mehrmals ansprechen müssen. Schließlich stellt er Dir eine zufällige Frage über Atlantis, deren Antwort Du aber dank dem Dialog schon kennst. Beantwortest Du sie richtig, gibt er Dir seine Visitenkarte und verschwindet.
+
+2.3.2) Algiers
+
+    Gehe auf den Hinterhof. Dort triffst Du auf Paul Abdul, einen Angestellten von Omar Al-Jabbar. Damit Du seinen Meister treffen kannst, mußt Du ihm die Visitenkarte geben. Dann wird der Diener den Hof verlassen und sich auf den Weg zu Al-Jabbar machen. Wenn er wieder zurückkehrt, wird er sagen, daß sein Meister Dich nicht sehen will, also mußt Du ihm einfach hinterhermarschieren. In den Straßen der Großstadt ist Paul ein größerer Punkt als der Rest der Menge, also kannst Du ihm zu Omar folgen. Bleibe immer in seiner Nähe, damit Du siehst, in welchem Haus er verschwindet.
+    Falls Du Probleme hast, den Diener in der Menge zu sehen, kannst Du Dir zunächst den Mann mit dem auffälligen roten Fez vornehmen. Fange ihn auf dem Markt ab, um ihm den Fez abzuschwatzen (sage, er sieht festlich aus). Wenn Paul zurückkehrt, gibst Du ihm den Fez, mußt ihm aber auch sagen, was er damit soll. Die richtige Antwort ist Zufall, wenn Du mit Paul über das Geschäft redest, kannst Du aber einen Hinweis bekommen. Schicke Paul erneut los, mit dem Fez ist er besser zu erkennen. Um alle IQ-Punkte zu bekommen, mußt Du ihm vermutlich sowohl mit als auch ohne Fez in Omars Haus folgen.
+    Omar ist nicht sehr erfreut über den ungebetenen Besuch und schickt Paul, um die Polizei zu holen. Überhaupt ist er natürlich nicht sehr gesprächig, erst nachdem Du ihn in den Wandschrank gelockt und dort eingesperrt hast, deutet er eine Ausgrabung in der Wüste an (und kann Dich nicht mehr daran hindern, das Haus zu durchsuchen).
+    Das hängende Tuch entpuppt sich bei genauerer Betrachtung als Karte. Benutze den Bambusstab, um sie zu erreichen. Außerdem kannst Du noch zwei Statuen mitgehen lassen. Mit dem Kamel geht es dann in die Wüste.
+    Nun gilt es, die Ausgrabung zu finden. Besuche dazu die Nomadencamps und frage nach dem Weg. Allerdings mußt Du dabei der Fremdenlegion aus dem Weg gehen, die Dich sonst in die Stadt zurückschicken werden. Immerhin kannst Du die Offiziere zweimal mit den Statuen bestechen.
+
+2.3.3) Ausgrabung
+
+    Die Ausgrabungsstätte ist zum Glück bereits verlassen. Im Loch ist es sehr dunkel, und Du kannst nur ganz allmählich etwas erkennen. Suche nach Gegenständen und nimm den Schlauch und den Lehmbecher mit. Dabei findest Du auch eine Orichalcumperle. Benutze den Schlauch, um am Truck Benzin in den Becher zu füllen. Suche am Generator in der Grube nach dem Benzineinfüllstutzen, kippe das Zeug rein und drücke den Schalter, um für Licht zu sorgen.
+    Gehe nach links zum Gemälde und drücke auf das runde Objekt, um eine Statue zu finden.
+    Schalte den Generator wieder aus und nimm die Zündkerze aus seinem Inneren. Diese kannst Du oben in den Truck einsetzen. Stecke das Orichalcum in die Statue und halte diese an die Zündkerzen, dann sollte der Wagen wieder funktionieren. Auf dem Sitz finden wir noch einen Brief und erfahren, daß die Nazis hinter Trottier her sind und Sophia als Köder benutzen wollen.
+
+2.3.4) Monte Carlo - Teil 2
+
+    Versuche, Trottier vor den Nazis zu warnen. Rede immer weiter auf ihn ein, bis er tatsächlich entführt wird.
+    In der folgenden Sequenz mußt Du nur versuchen, den Wagen der Nazis zu rammen. Irgendwann kommt es zu einem Crash, und die Bösewichter fliehen.
+    Sprich nun erneut mit Trottier. Er glaubt, daß sich auf der Insel Thera eine Kolonie und auch der Eingang von Atlantis befindet. Seinen Sonnenstein hat er an einer Straßenecke aus dem Fenster geworfen. Lasse Dir die Straßennamen aufschreiben und gehe die Kreuzung suchen. Den Sonnenstein findest Du dann in einem Abfluß.
+
+2.3.5) Thera
+
+    Suche in den Bergen nach einer Höhle. Drinnen befindet sich eine Tür. Schließe sie und ein Stift erscheint, auf den Du den Sonnenstein steckst. Richte ihn gemäß den Informationen im Dialog an den Hörnern aus und drücke dann auf die Achse. Wenn Du es richtig gemacht hast, erscheint hinter der Tür eine Inschrift in einer unbekannten Sprache. Stecke das Schild und den Sonnenstein ein.
+    Inzwischen ist die Höhle eingestürzt. Mit dem Klappspaten kannst Du Dich jedoch wieder freischaufeln. Dabei findest Du eine Notiz von Sophia, die von Kerner und Übermann entführt worden ist.
+    Vor dem Eingang steht eine Kiste, wenn Du diese schließt, findest Du eine Rechnung. Gib sie dem Hafenarbeiter, dann kannst Du den Ballon aus der Kiste nehmen. Tausche außerdem das Schild gegen den Korb. Wir erfahren, daß sich in Kreta ein Weg nach Atlantis befindet. Stecke noch das Fischnetz ein und benutze die drei Gegenstände, um einen ordentlichen Heißluftballon zu basteln.
+    Gehe zurück zur Höhle und pumpe den Ballon am Luftschacht auf. Benutze dazu den Schlauch.
+    Mit dem Ballon kannst Du nur auf und absteigen, aber mit der Höhe ändert sich auch die Windrichtung. Suche nach dem U-Boot und versuche, darauf zu landen.
+
+2.3.6) U-Boot
+Indy verprügelt automatisch einen Matrosen und zieht sich seine Uniform an.
+
+    Sprichst Du mit der ersten Wache, erfährst Du, daß sie schon seit Stunden irgendeinen Stein bewachen soll und Hunger hat. Gehe nach hinten, nimm Brot und Wurstscheiben und mache daraus ein Sandwich. Biete es dem Soldaten an und er wird ablehnen und sich stattdessen sein eigenes machen. Nun kannst Du den Mondstein sowie die Torpedoanleitung aus den Schränken nehmen. Du benötigst auch den öligen Lappen und die Wäscheleine aus dem vorderen Teil des Bootes.
+
+Kurz darauf erreicht das U-Boot Knossos. Übermann, Kerner und Sophia gehen von Deck. Indy muß sich einen anderen Weg suchen.
+
+    Vom Seemann im hinteren Teil erfährst Du, daß das Torpedorohr einen Kurzschluß hat. Lege den öligen Lappen auf die Drähte und benutze die Torpedoanleitung, um die Kontrolleinheit in Gang zu setzen. Jetzt brauchst Du nur noch den Starthebel drücken, um die Mannschaft mit einem Feuerchen abzulenken.
+    Gehe nach vorne, aktiviere die Steuereinheit mit Hilfe der Anleitung und befestige die Wäscheleine am Starthebel. Jetzt kannst Du in das Torpedorohr klettern und an der Leine ziehen, um in die Freiheit zu gelangen.
+
+2.3.7) Kreta
+
+    Gehe gleich zum Steinpodest und lege den Sonnenstein und dann den Mondstein darauf. Richte den Sonnenstein genauso aus wie in Thera. Den Mondstein mußt Du dann am Sonnenstein ausrichten, wie es im Dialog steht. Drücke dann auf die Achse, um eine Geheimtür zu öffnen.
+    Im ersten Raum mußt Du alle drei Statuenköpfe vom Regal nehmen; leider schließt sich dann die Tür. Nimm daher zunächst nur zwei Statuen, gehe dann durch die Tür und hole den letzten Kopf mit der Peitsche.
+    Gehe durch den mittleren Durchgang, dann zweimal nach links und Du solltest eine Minotaurenstatue und eine Art Aufzug im Boden erreichen. Schlage den Kopf mit der Peitsche ab und stelle Dich zu ihm auf den Aufzug, damit dieser nach unten fährt. Verläßt Du ihn, fährt er allerdings ohne Dich wieder nach oben. Sternhart hat offenbar keinen Ausweg gefunden und ist hier verhungert. Nimm seinen Stab und den Weltstein mit, sowie den Wollschal, wobei Du noch einen Gummikamm findest. Beim Lesen der Notiz verfängt sich Indy bei mir in einer Endlosschleife, die Escape-Taste hilft aber. Der folgende Weg ist eine Sackgasse, also suche hinter dem Wasserfall nach einer Kette, die Indy hochklettern kann.
+    Gehe vom Minotaurus aus nach links (nicht auf den Aufzug treten), lege die Statuenköpfe auf das Regal und gehe durch die Tür. Folge dem oberen Durchgang und beseitige den Keil mit dem Stab. Gehe nach unten und schiebe den Stab in den Statuenmund, um nach oben zur Goldkiste zu kommen. Unter dieser liegen zwei Orichalcumperlen, die wir ebenfalls mitnehmen.
+    Im folgenden Raum steht ein sogenannter Mikrotaurus. Stecke die Statue in dessen Klappe und Orichalcum in die Statue, damit die Maschine ein Loch in die Wand bricht, durch das Du kriechen kannst.
+    Am Modell von Atlantis steckst Du Sonnen-, Mond- und Weltstein auf die Achse und richtest sie aus, wie im Buch beschrieben. Drücke die Achse und eine der drei Türen geht auf.
+    Nun benötigst Du einen Orichalcum-Detektor. Binde dazu den Gummikamm an die Wäscheleine und lade ihn mit dem Wollschal auf. Schließe die Perlen, die Du schon hast, in der Goldkiste weg, und benutze den Kamm. Er sollte auf die Knochen im Hinterraum zeigen, in denen zwei weitere Perlen liegen. Stecke sie ein, gehe zurück, lade den Kamm wieder auf und benutze ihn erneut. Nun sollte er auf ein Stück Wand zeigen. Benutze den Klappspaten, um die Tür freizulegen, und gehe hindurch. Nimm die Orichalcumperle und stecke sie in den Mund, damit Dich die U-Bahn nach Atlantis befördert.
+
+2.4) Fäuste-Pfad
+
+2.4.1) Monte Carlo
+
+    Hier mußt Du einen gewissen Alain Trottier finden, der ständig spazierengeht. Er ist der Typ im braunen Anzug. Leider ist er nicht leicht zu bequatschen, unter Umständen wirst Du ihn mehrmals ansprechen müssen. Schließlich stellt er Dir eine zufällige Frage über Atlantis, deren Antwort Du aber dank dem Dialog schon kennst. Trottier fürchtet, Dir nicht groß helfen zu können, gibt Dir jedoch seine Visitenkarte.
+
+2.4.2) Algiers
+
+    Gehe auf den Hinterhof. Dort triffst Du auf Paul Abdul, einen Angestellten von Omar Al-Jabbar. Damit Du seinen Meister treffen kannst, mußt Du ihm die Visitenkarte geben. Dann wird der Diener den Hof verlassen und sich auf den Weg zu Al-Jabbar machen. Wenn er wieder zurückkehrt, wird er sagen, daß sein Meister Dich nicht sehen will, also mußt Du ihm einfach hinterhermarschieren. Paul trägt einen auffälligen roten Fez, also kannst Du ihm zu Omar folgen. Bleibe immer in seiner Nähe, damit Du siehst, in welchem Haus er verschwindet.
+    Gehst Du in das Haus, werden Omar und Paul gerade von einem Nazi bedroht, der nun Indy angreift (hat er keine Waffe?). Hast Du ihn besiegt, erzählt Al-Jabbar von einer deutschen Ausgrabung in der Wüste. Er überläßt Dir eine Karte und ein Kamel und geht anschließend die Polizei holen.
+    Das hängende Tuch entpuppt sich bei genauerer Betrachtung als die erwähnte Karte. Benutze den Bambusstab, um sie zu erreichen. Mit dem Kamel geht es dann in die Wüste.
+    Nun gilt es, die Ausgrabung zu finden. Besuche dazu die Nomadencamps und frage nach dem Weg. Allerdings mußt Du den Nazipatrouillen aus dem Weg gehen. Wirst Du erwischt, mußt Du entweder in die Stadt zurück, oder den Soldaten im Kampf besiegen. IQ-Punkte bekommst Du dafür nur einmal.
+
+2.4.3) Ausgrabung
+
+    Die Ausgrabungsstätte scheint verlassen, doch das täuscht, denn irgendwer schießt auf Indy. Im Loch ist es sehr dunkel, und Du kannst nur ganz allmählich etwas erkennen. Suche nach dem Generator und drücke auf den Knopf, um für Licht zu sorgen.
+    Gehe nach links zum Gemälde und drücke auf das runde Objekt, um einen Sonnenstein zu finden.
+    Nimm die Schiffsrippe und benutze sie, um hinter der brüchigen Wand ein Gemälde von Kreta freizulegen. Stecke den Holzstift in die Mitte und den Sonnenstein darauf. Jetzt mußt Du noch den Stein gemäß den Informationen im Dialog an den Hörnern ausrichten und dann auf den Stift drücken. Wenn Du es richtig gemacht hast, öffnet sich eine Geheimtür, die nach draußen führt. Dort begegnest Du dem Soldaten, welcher zur Abwechslung mal ein Gewehr trägt. Entwaffne ihn mit der Peitsche, dann kannst Du ihn verprügeln.
+    Steige in den Ballon, um hier wegzukommen. Du kannst nur auf und absteigen, aber mit der Höhe ändert sich auch die Windrichtung. Fliege einfach nach Norden zum Meer, die restliche Strecke nach Kreta übernimmt der Computer.
+
+2.4.4) Kreta
+
+    Folge zunächst dem Weg zu den Ruinen von Knossos und gehe über die Brücke, um das Vermessungsgerät zu finden. Irgendwo in den Ruinen befindet sich ein Wandgemälde, das auf eine versteckte Steinscheibe hindeutet. Suche nach lockeren Steinen und drücke sie zur Seite, um eine Ochsenkopfstatue und eine Ochsenschwanzstatue zu finden. Stelle das Vermessungsgerät auf den Kopf und richte es auf das linke Horn. Wenn Du den Vermessungsbildschirm verläßt, sollte eine Linie erscheinen, sonst mußt Du noch etwas herumprobieren. Wiederhole das Ganze mit dem Schwanz und dem rechten Horn (die Reihenfolge ist natürlich egal). Da, wo sich die Linien treffen, kannst Du mit der Schiffsrippe einen Mondstein ausgraben.
+    Gehe zurück zum Steinpodest und lege den Sonnenstein und dann den Mondstein darauf. Richte den Sonnenstein genauso aus wie in der Ausgrabung. Den Mondstein mußt Du dann am Sonnenstein ausrichten, wie es im Dialog steht. Drücke dann auf die Achse, um eine Geheimtür zu öffnen. Dahinter lauert ein Soldat, den Du wie immer im Kampf besiegen mußt.
+    Im ersten Raum mußt Du alle drei Statuenköpfe vom Regal nehmen; leider schließt sich dann die Tür. Nimm daher zunächst nur zwei Statuen, gehe dann durch die Tür und hole den letzten Kopf mit der Peitsche.
+    Gehe durch den mittleren Durchgang, dann zweimal nach links und Du solltest eine Minotaurenstatue und eine Art Aufzug im Boden erreichen. Schlage den Kopf mit der Peitsche ab und stelle Dich zu ihm auf den Aufzug, damit dieser nach unten fährt. Verläßt Du ihn, fährt er allerdings ohne Dich wieder nach oben. Sternhart hat offenbar keinen Ausweg gefunden und ist hier verhungert. Nimm seinen Stab mit. Der folgende Weg ist eine Sackgasse, also suche hinter dem Wasserfall nach einer Kette, die Indy hochklettern kann.
+    Gehe vom Minotaurus aus nach links (nicht auf den Aufzug treten), lege die Statuenköpfe auf das Regal und gehe durch die Tür. Folge dem oberen Durchgang und beseitige den Keil mit dem Stab. Gehe nach unten und schiebe den Stab in den Statuenmund, um nach oben zur Goldkiste zu kommen. Unter dieser liegt eine Orichalcumperle, die wir ebenfalls mitnehmen.
+    Gehe zurück zur Statue und von dort aus nach rechts. Drücke immer wieder gegen die Steinplatte, so daß diese schließlich nachgibt, und überquere den Abgrund mit der Peitsche.
+    Kurz darauf triffst Du auf den Nazi Hans, der im Kampf nur schwierig zu besiegen ist. Besser, Du stellst Dich hinter den rechten Block und wirfst diesen im richtigen Moment um. Sein Kollege Franz muß mit den Fäusten überwältigt werden, vorher deutet er aber noch an, daß Kerner sich Sophia geschnappt hat.
+    Du hast nun die Wahl zwischen vier weiteren Durchgängen. Die ersten beiden führen in ein und denselben Raum mit einem einfach zu besiegenden Soldaten. Folge der dritten Passage und verprügle auch diese Gegner. Am Ende läßt Du einen Stalaktiten auf den vierten, deutlich stärkeren Gegner fallen. Gehe wieder zurück und durch den rechten Durchgang und stecke den Stalaktiten ein.
+    Der nächste Gegner ist der singende Muskelprotz Arnold. Wenn Du ihm über den Weg läufst, kannst Du Dich eventuell mit dem richtigen Spruch retten, sollte er Dich angreifen, rennst Du besser davon - der Typ ist praktisch unbesiegbar. Suche lieber nach dem Felsen und benutze die Schiffsrippe oder den Stalaktiten, um ihn zu lösen, woraufhin er nun erst einmal die Tür blockiert. Nun hast Du keine andere Wahl, als Dich noch einmal an Arnold vorbeizumogeln und den Felsen von der anderen Seite mit dem jeweils anderen Gegenstand ins Rollen zu bringen. Durchsuchst Du Arnold anschließend, findest Du einen Bernsteinfisch und zwei weitere Orichalcumperlen.
+    Der Orichalcum-Detektor funktioniert nur, wenn Du die Perlen, die Du schon hast, in der Goldkiste wegschließt. Gehe nun zurück und benutze den Bernsteinfisch in verschiedenen Räumen, bis er nach unten auf eine Grube zeigt. Schreie hinein, um Sophia aufzuwecken, und hole sie mit der Peitsche dort heraus. Rein zufällig hat sie Sternharts Weltstein dabei.
+    Am Modell von Atlantis steckst Du Sonnen-, Mond- und Weltstein auf die Achse und richtest sie aus, wie im Buch beschrieben. Drücke die Achse und eine der drei Türen geht auf. Dahinter findest Du endlich einen Ausgang aus dem Labyrinth und eine Inschrift samt Pfeil, welche auf die kleinere Kolonie von Atlantis hindeutet - die Vulkaninsel Thera.
+
+2.4.5) Thera
+
+    Suche in den Bergen nach einer Höhle. Diese ist jedoch bereits eingestürzt. Nimm daher nur das Reifenflickzeug, das vor dem Wagen liegt, und gehe wieder zurück zum Hafen.
+    Schlage im Dialog nach, wie weit Atlantis von der Kolonie entfernt ist, und lasse Dich vom Kapitän an die entsprechende Stelle fahren.
+    Öffne den Lagerschrank und flicke den Taucheranzug. Stecke den Schlauch an den Anzug und schlüpfe hinein. Sophia befestigt Indy nun an der Winde und befördert ihn in die Tiefe. Anschließend erscheint Kerner und schneidet den Schlauch durch.
+    Laufe nun schnell in eine der Höhlen und suche nach Atlantis.
+
+2.5) Atlantis
+An dieser Stelle vereinigen sich die drei Pfade wieder. Ist Sophia bei Dir, wird sie nun wieder entführt.
+
+    Am Eingang ist es dunkel. Nimm die Leiter und stelle sie auf die brüchige Treppe. Oben findest Du eine Steintruhe mit einem Metallstab, den Du ebenfalls mitnimmst. Stecke eine der Orichalcumperlen hinein, um Licht zu bekommen. Anschließend steckst Du die drei Steinscheiben auf die Achse. Diesmal mußt Du die Scheiben jedoch nicht wie gewohnt einstellen, sondern umgekehrt, d.h. wenn sich sonst die Nacht an den Hörnern befinden mußte, ist es nun die Mittagssonne usw. Hast Du es richtig gemacht, kannst Du anschließend eine weitere Perle in den Mund der Statue stecken, um die Tür zu öffnen. Vergiß nicht, die Steinscheiben sowie die Leiter wieder mitzunehmen.
+
+Du gelangst nun in den äußeren Kreis von Atlantis und kannst Dich auf einer Übersichtskarte von Raum zu Raum bewegen. Allerdings sind die Räume teilweise zufällig verteilt und viele von ihnen leer. Erforsche einfach alles. An einigen Stellen wirst Du auch durch Gitter kriechen müssen. Begegnest Du einem der Nazis, kannst Du entweder wegrennen oder Dich mit ihm prügeln. Für jeden Soldaten, den Du besiegst, bekommst Du einmalig IQ-Punkte, vom ersten außerdem eine Bratwurst. Allerdings kehren die Nazis immer wieder zurück. Deine Lebensenergie regeneriert sich von selbst, Du solltest nur nicht mehrmals direkt hintereinander kämpfen.
+
+    Nimm das Bronzerad mit Speichen, das Bronzezahnrad, den Kopf einer Statue und die Aalfigur mit.
+    Im Statuenraum benötigst Du die Leiter, um über das Loch zu kommen. Den Steinbecher stellst Du dann im Lavaraum auf das Podest. Stecke den Kopf in die Vertiefung, um den Becher mit Lava zu füllen. Gehe nun in den Maschinenraum und stecke das Rad mit Speichen auf die Achse. Gieße die Lava in den Trichter und Du erhältst drei Orichalcumperlen. Du kannst diesen Vorgang beliebig wiederholen, allerdings nur eine begrenzte Anzahl Perlen tragen. Vergiß nicht, das Rad am Ende wieder mitzunehmen.
+    Suche außen im U-Bahn-Tunnel nach einem Skelett. Hole Dir den Brustkorb und stecke die Bratwurst hinein. Im Krabbenraum legst Du diese Falle dann in den Teich und wartest ab, bis Du eine Krabbe gefangen hast. Falls Du Kaugummi und U-Boot-Sandwich dabeihast, kannst Du sie hinzufügen, damit es schneller geht.
+    Um den Wachraum durchqueren zu können, mußt Du eine Orichalcumperle in die Aalfigur stecken. Indy wirft das heiße Teil dann ins Wasser, welches verdampft. Eine Perle in der Fischstatue öffnet dann die Tür.
+    Das Gefängnis solltest Du zuerst durch den Lüftungsschacht betreten, so daß Du an die Statue kommst. Stecke Orichalcum in die Wächterstatue, um den Soldaten auszuschalten. Du kannst ihn theoretisch auch im Kampf besiegen, um zusätzliche Punkte zu erhalten, allerdings wird das extrem schwierig. Aktivieren mußt Du die Statue sowieso, damit Du hinterher ein kleines Teil aus ihren Überresten mitnehmen kannst. Sophia kannst Du leider noch nicht befreien.
+    Hast Du bis hierhin alles erledigt, dann gehe zum Kanal und speise den Oktopus mit der Krabbe ab. Aktiviere das Floß mit Orichalcum und öffne die Tore, indem Du die jeweils passende Steinscheibe auf die Achse steckst.
+    Fährst Du linksherum, kommst Du an einem Durchgang vorbei, hinter dem Du ein halbmondförmiges Zahnrad findest. Schließe anschließend den Schrank und schaue ihn Dir genauer an für eine Art Anleitung für den Roboter, der vor dem nächsten Tor steht. Stelle Deine Leiter vor die Wächterstatue, öffne ihre Brustplatte und schaue hinein. Stecke das Rad mit Speichen und das Statuenteil auf die mittlere Achse. Setze das halbmondförmige Rad auf die rechten Achsen, denn Du willst den (von Dir aus gesehen) rechten Arm bewegen. Stecke jetzt noch das Zahnrad auf die linke obere Achse und eine Orichalcumperle in den Mund, dann bewegt sich der Arm nach vorne. Befestige ein Ende der Kette am Arm und das andere am Bronzering am Tor. Nun setze das Zahnrad auf die untere Achse und wirf erneut eine Perle ein, um den Arm zurückzuziehen und das Tor zu zerstören. Nimm die Leiter wieder mit, sowie die Gelenkstange, die auf den Boden gefallen ist.
+    Nun kannst Du Sophia befreien; dies ist jedoch optional. Gib Sophia die Gelenkstange, bevor Du den Käfig öffnest. Sophia kann nun die Stange unter das Gitter klemmen und die Zelle sicher verlassen. Hebe anschließend noch einmal das Gitter an, um die Stange zurückzubekommen.
+    Im nächsten Rundgang führt eine der inneren Türen zu einer Lavagrube. Steige hier die Treppe auf der anderen Seite des Raumes hoch und nimm das Zepter. Sophia wird inzwischen von Nur-Ab-Sal kontrolliert. Willst Du sie retten, dann schaue sie an und stecke eine Perle in das Halsband, welches daraufhin heiß wird. Sophia legt das Halsband kurz ab und Du kannst es in die Goldkiste stecken und in die Lavagrube werfen.
+    Hinter einer der äußeren Türen steht eine große Maschine; auf beiden Seiten der Tür findest Du seltsame Zeichen, die Du Dir einprägen solltest. Stecke eine Orichalcumperle in den Mund und stecke die Gelenkstange und das Zepter als Hebel in die Schlitze und bringe sie in die Position, die außen an der Wand zu sehen war, um die Maschine zu starten. Stoppe die Maschine dann wieder mit der Kombination auf dem Boden (wenn Du sie Dir nicht gemerkt hast, mußt Du halt rumprobieren). Da es drei Schlitze gibt, wirst Du die Hebel wahrscheinlich umstecken müssen. Die Maschine bricht nun einen Weg in das Innere von Atlantis.
+    Laufe einfach weiter und Du gelangst zu einem Labyrinth aus lauter Türen. Der richtige Weg ist zum Glück immer gleich: Gehe zuerst zweimal durch die rechte Tür, zweimal durch die linke Tür, dann durch die rechte Tür, durch die linke Tür, die Treppe hoch und wieder durch die linke Tür. Achte dabei auf die Kombination, die im Hintergrund zu sehen ist. Schließlich mußt Du noch einen Weg über die Lava finden, probiere einfach rum und Du gelangst schließlich zum Kolossus.
+    Stecke ein letztes Mal die drei Steinscheiben auf die Achse und stelle die Kombination ein, die Du an der Wand gesehen hast. Sobald Du den Kolossus eingeschaltet hast, tauchen Kerner und Übermann auf und wollen sich mit der Maschine in Götter verwandeln. Wenn sich Kerner auf die Plattform stellst, erwähnst Du den Übersetzungsfehler, so daß der Doc nicht zehn, sondern nur eine Perle einwirft. Der Test schlägt fehl, und nun will er mit Indy weiterexperimentieren. Nun darfst Du ihm auf keinen Fall sagen, wieviel Orichalcum er nehmen soll, sondern faselst nur rum und drohst ihm schließlich mit Deinem Gotteszorn. Dann sollte Übermann sich selbst in die Maschine stellen, und das war's. Der Abspann verändert sich etwas, abhängig davon, ob Du Sophia gerettet hast oder nicht.
+
+3) IQ-Punkte
+Gelöste Rätsel werden vom Spiel mit Punkten belohnt. Alle Punkte addiert ergeben nicht etwa die Indy-Summe, sondern den Indy-Quotient. Dabei wird unterschieden zwischen dem aktuellen IQ (für den laufenden Spielstand) und der Serienpunktzahl (alle Punkte, die Du irgendwann schon mal bekommen hast). Löst Du sämtliche Rätsel auf alle möglichen Arten (und nicht nur auf die, die die meisten Punkte bringt!), ist eine Gesamtpunktzahl von 1000 möglich. Einige Stellen, die Du auf mehrere Arten bewältigen kannst bzw. mußt:
+
+    Beschwatze Biff, verprügle ihn oder benutze die Feuerleiter.
+    Der Hermokrates wird zufällig an drei verschiedenen Orten versteckt und kann auf vier Arten gefunden werden.
+    Im Team-Pfad gibt es zwei Möglichkeiten, Trottier den Sonnenstein abzuluchsen.
+    Ebenfalls auf dem Team-Pfad kannst Du Dich wahlweise mit dem U-Boot-Kapitän prügeln oder das den Computer erledigen lassen. Für alle Punkte mußt Du beide Optionen ausprobieren.
+    Auf dem Denk-Pfad mußt Du dem Diener zweimal in Omars Haus folgen, einmal mit Fez und einmal ohne.
+    Auf dem Fäuste-Pfad sowie in Atlantis im Gefängnis gibt es einige sehr starke Soldaten, die Du auf eine andere Art überwältigen mußt. Schaffst Du es trotzdem, sie bewußtlos zu prügeln, gibt es vermutlich Extrapunkte (habe ich jedoch selbst nicht ausprobiert).
+
