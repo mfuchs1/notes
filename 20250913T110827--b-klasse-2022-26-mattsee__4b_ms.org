@@ -1,7 +1,7 @@
-#+title:      C Klasse 2025-29
-#+date:       [2025-09-13 Sa 11:07]
-#+filetags:   :1c:ms:
-#+identifier: 20250913T110721
+#+title:      B Klasse 2022-26 Mattsee
+#+date:       [2025-09-13 Sa 11:08]
+#+filetags:   :4b:ms:
+#+identifier: 20250913T110827
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
 #+SETUPFILE: ~/Documents/config/latex_setup.org
@@ -9,18 +9,23 @@
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/1c Mattsee.html
+#+export_file_name: ~/Documents/exports/4b Mattsee.html
 
 * Jahresplanung
 
-[[denote:20250913T113018][Religion für uns 01]]
+[[denote:20250913T113501][Religion für uns 04]]
 
 * Notizen, Tasks, Termine
 
 
 * Stundenplanung
 
-[[denote:20240911T093444][Kann ich dir vertrauen?]]
+[[denote:20240909T205419][Ein gutes Gewissen]]
+
+[[denote:20250925T081014][Dem Gewissen folgen]]
+
+Video über Franz Jägerstätter
+
 
 ** Einführung / Ziele
 

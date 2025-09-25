@@ -1,7 +1,8 @@
 #+title:      Religion für uns 04
 #+date:       [2025-09-13 Sa 11:35]
-#+filetags:   :project:topic04:
+#+filetags:   :Project:topic04:
 #+identifier: 20250913T113501
+#+CATEGORY: Rfu #04
 
 * 01 Gemeinschaft | Gewissen - der inneren Stimme folgen
 September bis Oktober
@@ -23,15 +24,17 @@ Wie gehen wir in unserer Schulgemeinschaft miteinander um.
 
 ** Inhalt des Buchs
 
-*** Was ist gut und richtig?
-*** Ein gutes Gewissen
-*** Dem Gewissen folgen
-*** Impuls: Ein Dilemma
-*** Übergang: Der Ruf nach Veränderung
-*** Prophetinnen und Propheten
-*** Eine bessere Welt
-*** Reflexion: Kann mich diese Gemeinschaft stärken?
-*** Übungsteil
+*** [[denote:20250925T080951][Was ist gut und richtig?]]
+*** [[denote:20250925T081003][Ein gutes Gewissen]]
+SCHEDULED: <2025-09-25 Do>
+
+*** [[denote:20250925T081014][Dem Gewissen folgen]]
+*** [[denote:20250925T081026][Impuls: Ein Dilemma]]
+*** [[denote:20250925T081037][Übergang: Der Ruf nach Veränderung]]
+*** [[denote:20250925T081052][Prophetinnen und Propheten]]
+*** [[denote:20250925T081102][Eine bessere Welt]]
+*** [[denote:20250925T081114][Reflexion: Kann mich diese Gemeinschaft stärken?]]
+*** [[denote:20250925T081125][Übungsteil]]
 
 
 * 02 Fragen | Sinn - Ziele im Leben finden

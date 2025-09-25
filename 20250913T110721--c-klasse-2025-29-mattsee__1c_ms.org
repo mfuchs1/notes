@@ -1,7 +1,7 @@
-#+title:      B Klasse 2022-26
-#+date:       [2025-09-13 Sa 11:08]
-#+filetags:   :4b:ms:
-#+identifier: 20250913T110827
+#+title:      C Klasse 2025-29 Mattsee
+#+date:       [2025-09-13 Sa 11:07]
+#+filetags:   :1c:ms:
+#+identifier: 20250913T110721
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
 #+SETUPFILE: ~/Documents/config/latex_setup.org
@@ -9,16 +9,20 @@
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/4b Mattsee.html
+#+export_file_name: ~/Documents/exports/1c Mattsee.html
 
 * Jahresplanung
 
-[[denote:20250913T113501][Religion für uns 04]]
+[[denote:20250913T113018][Religion für uns 01]]
 
 * Notizen, Tasks, Termine
 
 
 * Stundenplanung
+
+[[denote:20250918T090300][Eine gute Gemeinschaft]]
+
+[[denote:20250918T090313][Handeln: Gemeinsam entscheiden]]
 
 ** Einführung / Ziele
 

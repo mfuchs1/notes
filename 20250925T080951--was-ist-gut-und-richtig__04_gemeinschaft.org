@@ -1,5 +1,5 @@
 #+title:      Was ist gut und richtig?
-#+date:       [2024-09-09 Mo 20:52]
+#+date:       [2025-09-25 Do 08:09]
 #+filetags:   :04:gemeinschaft:
-#+identifier: 20240909T205227
+#+identifier: 20250925T080951
 

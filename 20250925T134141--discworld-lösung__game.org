@@ -1,0 +1,439 @@
+#+title:      Discworld Lösung
+#+date:       [2025-09-25 Do 13:41]
+#+filetags:   :game:
+#+identifier: 20250925T134141
+
+* Weitere Lösung
+
+[[https://www.icksmehl.de/spiele/discworld/komplettloesung/akt-1/]]
+
+* Einleitung
+Diese Komplettlösung ist als Kurzanleitung zum Lösen des Computerspiels Discworld 1 zu verstehen.
+
+Um alle Witze des Spiels mitzubekommen empfehle ich mit jeder Person mehrfach über alles zu reden und sämtliche Gegenstände zu verwenden.
+
+Mehrere Rätsel sind in einer bestimmten Reihenfolge zu lösen. Wenn ihr also nur mal so in die Lösung schaut kann es passieren, dass ihr bestimmte Dinge erst noch erledigen müsst. Lest in dem Fall einfach etwas weiter vorne los. Die Gebäude in denen man sich befindet sind unterstrichen, die Gegenstände, die man verwendet fettgedruckt. Alle Ereignisse in der Vergangenheit sind kursiv.
+
+* Steuerung
+How to Use Commands in the 1995 Discworld Game 
+    
+** Movement: 
+Click on a place or a tag to make the character walk to that location.
+    
+** Interaction: 
+Double-click on a tag to interact with it. The action will depend on what the tag is and what you have in your character's hands.
+    
+** Observation: 
+Right-click on a tag to have your character look at it, providing a description of what they see.
+
+* Akt 1
+
+** Rincewinds Zimmer: Kleiderschrank öffnen und den Geldbeutel mitnehmen.
+
+Zimmer verlassen, die Treppe runtergehen und den Schrank betreten.
+
+** Schrank: 
+Besen mitnehmen.
+
+** Rincewinds Zimmer: 
+Truhe mit Besen aufwecken.
+
+** Zimmer des Erzkanzlers: 
+Mit Erzkanzler reden und Auftrag ein goldenes Buch aus der Bibliothek zu holen bekommen.
+
+** Bibliothek: 
+Banane aus der Truhe an den Bibliothekar geben und so das goldene Buch erhalten.
+
+** Zimmer des Erzkanzlers: 
+Buch dem Kanzler zeigen. Man erhält nun den Auftrag 5 Gegenstände zur Herstellung eines Drachendetektors zu besorgen. Die Gegenstände sind: Drachenodem, ein Stab, eine magische Spule, ein Kobold und ein Metallbehälter.
+
+** Speiseraum: 
+Besen mit dem Stab von Windel Poons austauschen.
+
+Universität durch die Haupttür verlassen.
+
+** Universitätsgelände: 
+Mit dem Zauberlehrling sprechen (Frage). man erhält nun eine Erklärung, wie man das Tor öffnet. Außerdem muß man einen Frosch einsammeln, den Rincewind nun ausspuckt. Nun das Tor öffnen und so zur Übersichtskarte von Ankh-Morpork gelangen.
+
+** Vorm Palast: 
+Den dicken Wächter ansprechen (Frage). Dieser schlägt daraufhin den großen Wächter zusammen und macht so den Weg in den Palast frei.
+
+** Im Palast: 
+Durch die Tür mit dem Stern gehen.
+
+** Badezimmer: 
+Spiegel mitnehmen.
+
+Palast verlassen und auf den Platz gehen. Hier weiter durch die Tür zum Psychiater.
+
+** Psychiater: 
+Mit dem Troll reden, das Gebäude verlassen und sofort wieder betreten. Der mittlere Sitzplatz ist nun frei, so daß man sich setzen und das Schmetterlingsnetz nehmen kann.
+
+Wieder raus auf den Platz gehen.
+
+** Platz: 
+Tomate vom Stand nehmen und damit auf den Steuereintreiber werfen.
+
+Neue Tomate vom Stand nehmen. Sie fällt herunter und trifft eine Maus, woraufhin ein Wurm aus der Tomate herauskriecht. Den Wurm mitnehmen.
+
+Nun den Gassenjungen ansprechen. Rincewind erlernt bei ihm die Taschendiebfähigkeit mit der er den Zwergen eine Pumphose entwenden kann.
+
+Wieder zur Übersichtskarte und von da aus weiter zum Stall.
+
+** Stall: 
+Maiskörner aus dem Sack nehmen (2x anklicken).
+
+Zurück zur Übersichtskarte und dann zur Straße.
+
+** Spielzeugladen: 
+Spielzeugesel und Bindfaden mitnehmen. Den Bindfaden mit dem Wurm verwenden.
+
+** Fischhändler: 
+Bild einer Krake mitnehmen.
+
+** Friseur: 
+Lockenwickler ansehen und die Frau darauf ansprechen. Sie entscheidet sich nun glatte Haare tragen zu wollen. Der Friseur steckt den Lockenwickler in die Tasche. Friseur ansprechen. Während der Friseur vom Milchmädchen träumt den Lockenwickler mit Hilfe der Taschendiebfähigkeit aus der Tasche klauen.
+
+Friseur und Straße verlassen und weiter zur Gasse.
+
+** Gasse: 
+Spiegel in Rincewinds Inventar legen. Die Platte betreten.
+
+** Dächer der Stadt: 
+Zum Turm gehen.
+
+** Turm: 
+Zur Spitze der Fahnenstange klettern und den Spiegel daran befestigen. Spiegel verwenden, um damit den Drachen zu blenden. Man erhält so den Drachenodem.
+
+** Dächer der Stadt: 
+Leiter auf der rechten Seite runterwerfen. Durch das Fenster zurück auf die Gasse klettern.
+
+** Gasse: 
+Durch die Tür zum Alchimisten gehen.
+
+** Alchimist: 
+Maiskörner in den Glaskolben werfen. Kasten untersuchen. In der Großaufnahme den Kabelauslöser betätigen, um die Kamera zu öffnen. Großaufnahme verlassen und versuchen den Kobold zu nehmen. Der Kobold verschwindet nun aus dem Raum.
+
+** Gasse: 
+Auf der rechten Seite den Wurm am Faden mit dem Loch verwenden. Rincewind fängt auf diese Weise den Kobold ein.
+
+Gasse verlassen und wieder zur Übersichtskarte.
+
+** Kaputte Trommel: 
+Mit Wirt reden. Krug und Streichhölzer nehmen.
+
+** Universitätsgelände: 
+Pfad folgen und hinter der Universität den Beutel mit Dünger nehmen. Das Schmetterlingsnetz in Rincewinds Inventar aufnehmen und die Leiter mit dem Fenster verwenden.
+
+Pfannkuchen mit Hilfe des Schmetterlingsnetzes fangen.
+
+Der Koch verläßt nun die Küche.
+
+** Küche in der Universität: 
+Bratpfanne und Banane nehmen.
+
+** Büro des Erzkanzlers: 
+Bratpfanne, Drachenodem, Kobold, Lockenwickler und Stab an den Erzkanzler geben. Dieser baut nun daraus einen Drachendetektor, den sich Rincewind schnappt.
+
+Im linken unteren Teil von Ankh-Morpork findet man nun die Scheune des Drachen, wo sich Rincewind den Schatz des Drachen einsteckt.
+
+* Akt 2
+
+** Scheune: 
+Schraubenzieher von der Wand mitnehmen.
+
+** Wirtschaft: 
+Durch die Tür ins Schlafzimmer gehen. Laken vom Bett nehmen und die Tür schließen. Bild eines Safes ansehen. Ins Badezimmer gehen und dort das Schaumbad mitnehmen.
+
+** Kaputte Trommel: 
+Mit dem ängstlichen Burschen über Geister reden.
+
+** Stadttor: 
+Kiste zwei mal anklicken. Auf diese Weise gelangt man an Feuerwerkskörper und ein kleines Faß mit Sprengpulver. Die Feuerwerkskörper anklicken und so einen Knallkörper erhalten, den man mit den Streichhölzern anzünden kann.
+
+** Schrank in der Unsichtbaren Universität: 
+Objekt mit Streichhölzern anzünden. Paket mit Stärke vom Regal nehmen.
+
+** Küche: 
+Stärkemehl mitnehmen.
+
+** Bibliothek: 
+Weitere Banane an den Bibliothekar geben. Man erfährt nun, daß ein Buch über Drachenbeschwörungen gestohlen wurde. Goldene Banane am Ohr des schäbigen Burschens ansehen und ihn darauf ansprechen. Das komplette Gold aus dem Drachenhort an den schäbigen Burschen geben. Dem Bibliothekar die goldene Banane reichen. Der Bibliothekar öffnet nun das Tor zum L-Raum, durch den Rincewind in die vergangene Nacht gelangt.
+
+** Bibliothek: 
+Nach links gehen und abwarten. Nach kurzer Zeit erscheint ein Dieb, steckt ein Buch ein und verschwindet durch einen Geheimgang. Das Bücherregal untersuchen und am Buch ziehen. Durch den Geheimgang geht es weiter nach Ankh-Morpork.
+
+** Park: 
+Den Frosch mit dem Betrunkenen verwenden. Danach den Schmetterling mit dem Schmetterlingsnetz einfangen.
+
+** Straße: 
+An der Ecke hat nun die Töpferei geöffnet. Tontopf mitnehmen und den Schmetterling mit der Laterne verwenden.
+
+** Trommel: 
+In der Trommel das Bild hinter dem kleinen Jungen ansehen. Während dieser das Bild betrachtet schnell sein Glas umdrehen. Die beiden Schläger am Nachbartisch kümmern sich nun um den Jungen. Während der Schlägerei gelangt man vor das Gebäude, wo man nun die Leiter mit dem Schild verwendet. Auf diese Weise gelangt man an einen Trommelstock.
+
+** Wirtschaft: 
+Durch die Tür ins Schlafzimmer gehen. Das Laken mit Rincewind verwenden und in Richtung des Jungen gehen, bis sich dieser unter der Decke versteckt. Nun den Schraubenzieher mit dem Schmuckkästchen verwenden. Man findet noch nichts.
+
+Wieder alles verlassen und zurück durch das Loch und den L-Raum in die Gegenwart.
+
+** Speisesaal der Universität: 
+Trommelstock mit dem Gong verwenden.
+
+** Hinter der Universität: 
+Mülltonne mitnehmen.
+
+** Universitätsgelände: 
+Beutel mit Pflaumen einstecken.
+
+** Kaputte Trommel: 
+Erneut mit dem ängstlichen Burschen reden. Man erfährt nun von einem Passierschein, der sich im Schmuckkästchen befand, das man mit dem Hammer aufschlagen kann. Die grüne Flasche mit reannuellen Wein hinter dem Wirt ansehen und diesen darauf ansprechen. Das Getränk austrinken und das Glas einstecken.
+
+** Straße: 
+Puppe aus dem Spielzeuggeschäft mitnehmen. In der Gasse neben dem Fischhändler befindet sich nun eine Kutte, die man ebenfalls einsteckt.
+
+Durch den L-Raum geht es erneut in die Vergangenheit.
+
+** Wirtschaft: 
+Erneut durch die Tür ins Schlafzimmer, mit dem Laken verkleiden, und mit dem Schraubenzieher das Schmuckkästchen öffnen. Diesmal weiß Rincewind, wozu der Hammer gut ist und gelangt so an einen Passierschein, mit dem er zurück durch den L-Raum in die Gegenwart geht.
+
+** Stadttor: 
+Passierschein an eine Wache zeigen. Durch das Stadttor geht's dann auf die Scheibenwelt.
+
+** Berg: 
+Nachdem das Huhn da war, Feder und Ei mitnehmen.
+
+** Dunkler Wald: 
+In die Hütte am rechten Rand gehen. Mit dem Tontopf etwas Pudding aus dem Kessel kratzen.
+
+Zurück durch den L-Raum in die Vergangenheit.
+
+** Bibliothek: 
+Warten bis der Dieb kommt und das Buch klaut. Den Dieb verfolgen, bis man zu seinem Versteck kommt.
+
+Dann durch den L-Raum in die Gegenwart und direkt wieder zurück in die Vergangenheit.
+
+Wieder auf den Dieb warten. Jetzt aber schnell vor ihm zum Versteck laufen und das linke Abflußrohr drehen. Nun hinter den Zaun gehen und das Glas aus der Truhe nehmen. Sobald der Dieb da ist, das Glas mit dem rechten Abflußrohr verwenden. Rincewind kennt nun die Parole.
+
+Sobald der Dieb im Haus verschwunden ist Kutte anziehen und an die Tür klopfen. Dank der Parole gelangt Rincewind ins Haus und nimmt an der Beschwörung des Drachen teil. Danach geht's zurück in die Gegenwart.
+
+** Fischhändler an der Straße: 
+Krake mit dem Bindfaden einfangen.
+
+** Gasse hinterm Fischhändler: 
+Toilette öffnen. Zuerst den Pudding ins Klo, dann die Krake.
+
+** Fischhändler: 
+Pflaumen auf den Kaviar legen. Der Fischhändler rennt jetzt auf die Toilette und wird von der liebestollen Krake traktiert. Fischhändler folgen und den Gürtel mit goldener Schnalle mitnehmen.
+
+** Platz: 
+Mit Schnapper reden und so einen Krapfen erhalten.
+
+** Gasse beim Platz: 
+Warten, bis der Abflußreiniger kommt und ihm dann den Krapfen geben.
+
+** Friseur: 
+Mit Friseur reden. er erzählt, daß er sich unbedingt mit dem Milchmädchen treffen möchte.
+
+** Psychiater: 
+Mit dem Troll über alles sprechen. Schließlich wird man aufgerufen und landet beim Psychiater, der Rincewind zwei Blätter mit Tintenklecksen gibt. Danach die Praxis verlassen und sofort wieder betreten. Mit dem Milchmädchen reden und so einen Zettel erhalten.
+
+** Friseur: 
+Zettel des Milchmädchens an den Friseur geben. Er verläßt daraufhin den Laden. Den Apparat vorne rechts verwenden und so in den Besitz eines Goldzahnes gelangen.
+
+** Wald außerhalb der Stadt: 
+Kurbel am Brunnen betätigen. Topf mit dem Eimer verwenden und so einen Topf mit Wasser erhalten. Mit dem Schraubenzieher die Kurbel losmachen.
+
+** Badezimmer in der Wirtschaft: 
+Topf mit Wasser mit dem Seifenspender benutzen. Man erhält schäumendes Wasser.
+
+** Platz: 
+Mit dem Gassenjungen sprechen. Er verspricht Rincewind ihm eine geheime Handbewegung beizubringen, wenn er beweist, ein echter Mann zu sein. Dann die Stadt verlassen und zum Rand der Welt.
+
+** Rand der Welt: 
+An der Kokospalme schütteln. Die runtergefallene Kokosnuß mit Hilfe des Schmetterlingsnetzes aus dem Wasser fischen und sie dann mit dem Schraubenzieher aufstechen. Lampe mitnehmen.
+
+** Palast: 
+Den Wachen einen Tintenklecks zeigen. Sie geben daraufhin den Weg frei. Im Palast mit dem Bauern reden und so erfahren, daß der Dieb in die Schatten gegangen ist. Weiter geht's durch den L-Raum in die Vergangenheit.
+
+** Gasse hinterm Fischhändler: 
+Toilettentür öffnen und das Graffiti durchlesen.
+
+** Schatten: 
+Zum Bordell gehen und mit der rechten Dame käuflicher Zuneigung sprechen und ihr dann das Ei, die Kokosmilch und das Stärkemehl geben. Man erhält eine Pumphose.
+
+Zurück in die Gegenwart.
+
+** Platz: 
+Pumphose dem Gassenjungen zeigen. Man erlernt nun die geheime Handbewegung und bekommt einen Büstenhalter, den man gleich mit der Leiter verwendet und so eine umwickelte Leiter erhält.
+
+** Schatten: 
+Die Handbewegung mit dem Maurer verwenden. Man erhält eine goldene Kelle.
+
+** Schuppen in den Schatten: 
+Umwickelte Leiter mit dem Eingang benutzen. Schuppen betreten und zweimal die Feder auf den schlafenden Dieb anwenden. Nun kann man den goldenen Dietrich vom Gürtel des Diebes nehmen.
+
+** Palast: 
+Durch Vorzeigen des zweiten Tintenklecks an den Wächtern vorbeikommen und die Mülltonne auf den Narren anwenden. Jetzt ins Badezimmer und das Schaumbad in die Badewanne schütten. Nun kann man unbemerkt die Narrenkappe mit goldenen Glöckchen vom Hutständer nehmen.
+
+** Gasse beim Alchimisten: 
+Schneevaterpuppe ins Inventar von Rincewind nehmen und über die Platte auf die Dächer katapultieren lassen.
+
+** Dächer der Stadt: 
+Puppe in den rechten Schornstein stecken. Dächer über das Fenster verlassen.
+
+** Alchimist: 
+Pulverfaß in den Kamin stellen und den Bindfaden damit verwenden. Den Laden verlassen und die Zündschnur mit den Streichhölzern anzünden. Man erhält so eine goldene Bürste.
+
+** Scheune: 
+Gürtel, Kelle, Zahn, Bürste, Mütze und Dietrich an den Drachen geben.
+
+** Platz: 
+Mit der Hexe Nanny Ogg sprechen (Frage) um den Teppich zu erhalten. Sie dann erneut ansprechen (Ironie). Während sie einen Kuss von Rincewind möchte schnell das Puddingbuch an sich nehmen.
+
+Mit dem Buch geht's weiter in die Vergangenheit.
+
+** Bibliothek: 
+Rechts neben dem L-Raum Durchgang das Drachenbuch nehmen und es im Inventar mit dem Puddingbuch verwenden. Jetzt das Puddingbuch mit dem Drachenbuchumschlag an die leere Stelle stellen.
+
+Abwarten, bis der Dieb kommt. Es folgt eine Zwischensequenz.
+
+* Akt 3
+
+Von den Wächtern erfährt man, daß man verschiedene Gegenstände benötigt, um den Kampf mit dem Drachen aufnehmen zu können. Wenn man mit fast allen Leuten, denen man begegnet über Helden spricht, kann man von den Wächtern erfahren, daß die Wahrscheinlichkeit einen Drachen zu besiegen, wenn man ein Muttermal, einen Zauber, ein Schwert das Ping macht, einen Schnurrbart, eine Tarnung und einen heiligen Gegenstand hat genau 1: 1000000 beträgt. Aber es könnte funktionieren...
+
+** Friseur: 
+Terminkalender und Schere mitnehmen.
+
+** Bibliothek: 
+Das Bücherregal, wo im 2. Akt der schäbige Kerl stand durchsuchen und das magische Buch an sich nehmen.
+
+** Küche: 
+Spachtel mitnehmen.
+
+** Zimmer des Erzkanzlers: 
+Hut nehmen.
+
+** Schatten: 
+Wo vorhin der Maurer stand ist nun ein Wandgemälde, das man mit dem Spachtel abkratzen kann. Man erhält Ruß, den man im Inventar noch einmal benutzen muß. Nun wieder mit Hilfe der Leiter in den Schuppen gehen. Dort den Beutel untersuchen und anschließend das Messer daraus nehmen.
+
+** Gasse beim Alchimisten: 
+Messer in das Inventar von Rincewind nehmen und auf die Dächer der Stadt. Hier die Leiter auf der linken Seite mit dem Messer losschneiden.
+
+** Alchimist: 
+Alchimisten ansprechen und über alles reden. Er verläßt nach dem Gespräch das Haus. Kamera mitnehmen.
+
+** Filmstudio auf dem Platz (früher Psychiater): 
+Hinsetzen, mit dem Troll sprechen und das Studio verlassen und wieder betreten. Mit dem Milchmädchen sprechen und ihr den Terminkalender reichen. Sie schreibt ihr Ottogramm hinein. Nach dem Gespräch mit dem Regisseur wieder raus auf den Platz gehen und mit Schnapper reden. Man erhält eine Tüte mit Blutegeln. Tüte im Inventar öffnen um einen Blutegel zu erhalten.
+
+** Gasse hinterm Platz: 
+Messer mit dem Gummiriemen verwenden.
+
+** Platz: 
+Ei vom Stand nehmen. Eine Schlange schlüpft aus dem Ei. Schlange mitnehmen. Stärke und Dünger mit der Schlange verwenden. man erhält einen Schlangenstab.
+
+** Kaputte Trommel: 
+Flasche mit Kaktussaft ansehen und Wirt darauf ansprechen. Glas aufnehmen. In dem Glas befindet sich ein Wurm, an den man wieder den Bindfaden binden muß.
+
+** Palast: 
+Die Tüte an den dicken oder den Blutegel an den dünnen Wächter geben, um in den Palast zu gelangen.
+
+** Badezimmer: 
+Bürste nehmen und mit dem schäumenden Wasser aus dem Topf verwenden.
+
+** Kerker des Palastes: 
+Bei der rechten Zelle befindet sich ein Loch, mit dem man den angebundenen Wurm verwendet. Man fängt eine Ratte, die man im Inventar betrachten muß. Sie entpuppt sich als verkleideter Kobold, den man in die Kamera setzt. Weiter auf der rechten Seite befindet sich Lachi auf einer Streckbank. Kurbel mit der Streckbank verwenden. Man erhält nun ein Schwert. Knochen vom Skelett in der rechten unteren Ecke nehmen.
+
+** Stall: 
+Bürste mit Stoßstange des Eselkarren benutzen und danach die Stoßstange ansehen. Beide Nummernschilder ansehen.
+
+** Drachenheim: 
+Tor öffnen und zum Haus gehen. Türklopfer betätigen und warten bis Lady Käsedick erscheint und sie ansprechen. Nun kann man einem Pfad hinters Haus folgen und kommt zu einem Drachenkäfig. Leine und Nagel mitnehmen. Wieder zur Haustür und den Klopfer erneut betätigen. Wenn die Lady erscheint schnell hinters Haus laufen und die blaue Rosette, die am Käfig hängt holen.
+
+** Versteck der Drachenbeschwörer: 
+Klopfer betätigen und ein Sahnetörtchen bekommen.
+
+** Stadttor: 
+Karotte, den großen Wächter, auf das Schwert ansprechen. Er erzählt nun den Aufenthaltsort der Zwergenmine. Stadt verlassen und weiter in den dunklen Wald.
+
+** Dunkler Wald: 
+Hütte betreten. Zaubertränke auf dem Tischchen ansehen. Nanny Ogg auf den Lügenentferner ansprechen. Sobald sie einen Kuß von Rincewind haben möchte das Sahnetörtchen essen. Wahrheitselixier nehmen. Wolle anklicken und so hinter die Hütte gelangen. Schlegel mitnehmen. Erst die Rosette und dann die Kamera mit dem Schaf verwenden. Man erhält das Bild eines prämierten Schafes, das man im Inventar mit dem Krakenbild verwenden muß.
+
+** Kaputte Trommel: 
+Nagel mit dem Balken auf der rechten Seite benutzen. Bild des Schafes an den Nagel hängen. Zum Angeber setzen und sich unterhalten. Die beiden Bierkrüge vom Wirt mit dem Wahrheitselixier verwenden und sie dem Angeber geben. Er erzählt nun von einer Schlucht außerhalb der Stadt.
+
+** Schlucht: 
+Teppich mit der Brücke verwenden. Höhle betreten. Tuch vom Hutständer nehmen. Leine mit der Truhe und danach die Augenbinde mit Rincewind verwenden. Im Altarraum Geldbeutel mit Sand füllen und mit dem Offlerauge austauschen.
+
+** Zwergenmine: 
+Mit dem Zwergenschmied sprechen und das Schwert an den linken Zwerg zeigen. Für etwas Wein ist er bereit es zu stimmen.
+
+** Kaputte Trommel: 
+Wirt auf Wein ansprechen.
+
+** Wirtschaft: 
+Ins Schlafzimmer gehen und die Tür ansehen. Mit dem Schwarzen Mann sprechen. Schraubenzieher mit Tür verwenden und den Schwarzen Mann erneut ansprechen bis er zur Kaputten Trommel geht.
+
+** Kaputte Trommel: 
+Durch die Falltür in den Weinkeller gehen. Fässer ansehen und einen Krug mit Holunderbeerwein füllen. Diesen Krug ins Inventar von Rincewind legen, da die Truhe ihn sonst austrinkt.
+
+** Zwergenmine: 
+Wein und Schwert an den Zwerg geben. Rincewind erhält so ein gestimmtes Schwert.
+
+** Gasse beim Alchimisten: 
+Gestürzten Assassinen ansprechen.
+
+** Spielzeugladen an der Straße: 
+Knochen mit dem Leimtopf verwenden.
+
+** Speisesaal der Universität: 
+Schlangenstab und Stab von Windel Poons austauschen. Den Besenstiel im Inventar mit dem Schmetterlingsnetz verbinden.
+
+** Wirtschaft: 
+Leimknochen an den Hund geben und den Seemann ansprechen. Glas Milch für den Seemann beim Wirt bestellen. Tätowierung ansehen und ihn erneut ansprechen. Er erzählt von seinem Papagei und übergibt Rincewind eine Pfeife.
+
+** Rand der Welt: 
+Pfeife mit Rincewind verwenden und dem Papagei einen brennenden Knallkörper zuwerfen. Papagei mit dem verlängerten Schmetterlingsnetz aus dem Wasser fischen. Hut im Inventar betrachten und mit der Gabel im Wasser verwenden. Am Seil hinunterklettern und den glitzernden Gegenstand, die Pfeife, auf dem Panzer mitnehmen. Am Seil nach oben klettern.
+
+** Wirtschaft: 
+Papagei und Pfeife an den Seemann geben. Er erzählt nun, daß der Friseur Tätowierungen macht.
+
+** Wald: 
+Terminkalender mit Ottogramm an den Friseur geben.
+
+** Friseurgeschäft: 
+Mit dem Friseur reden.
+
+** Platz: 
+Schwanz des Esels im Pranger mit der Schere abschneiden. Mit Gassenjungen reden. Da er das Abziehtatoo nicht hergeben will geht's weiter zur Alchimistengasse.
+
+** Gasse beim Alchimisten: 
+Gummiband in Rincewinds Inventar legen und auf die Dächer der Stadt katapultieren lassen. Zum Turm gehen und das Gummiband mit der Spitze des Fahnenmastes verwenden. Rincewind erhält so das Muttermal. Wenn man nun den Turm verlässt geht es automatisch weiter im 4. Akt.
+
+* Akt 4
+
+** Platz: 
+Schlüssel von Lady Käsedick nehmen.
+
+** Drachenheim: 
+Käfig mit dem Schlüssel aufschließen und die Tür öffnen. Durch den Käfig gehen und den Sumpfdrachen Mambo (M16) nehmen. Der Sumpfdrache muss nun geladen werden. Dafür sind 3 der folgenden 4 Tätigkeiten notwendig:
+
+Im Inventar einen neuen Knallkörper nehmen, anzünden und mit M16 verwenden.
+
+** Kerker im Palast: 
+Auf der rechten Seite befinden sich brennende Kohlen, die man auch mit M16 verwendet.
+
+** Zwergenmine: 
+M16 mit den brennenden Kohlen auf der linken Seite verwenden.
+
+** Hütte im düsteren Wald: 
+M16 mit Kessel benutzen.
+
+Sobald der Sumpfdrache geladen ist und man den Raum verlässt geht es automatisch auf dem Platz weiter.
+
+** Platz: 
+Sahnetörtchen aus dem Inventar nehmen und auf den Drachen werfen, sobald dieser im Bild ist.
+
+Es folgt der Abspann...
+
+* ENDE

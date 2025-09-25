@@ -1,4 +1,4 @@
-#+title:      B Klasse 2022-26
+#+title:      B Klasse 2022-26 Seekirchen
 #+date:       [2024-09-08 So 21:42]
 #+filetags:   :4b:sk:
 #+identifier: 20240908T214223

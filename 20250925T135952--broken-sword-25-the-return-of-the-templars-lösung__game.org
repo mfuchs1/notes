@@ -1,0 +1,595 @@
+#+title:      Broken Sword 2.5 The Return of the Templars Lösung
+#+date:       [2025-09-25 Do 13:59]
+#+filetags:   :game:
+#+identifier: 20250925T135952
+
+* Walkthrough
+
+[[https://gamefaqs.gamespot.com/pc/284793-broken-sword-25-the-return-of-the-templars/faqs/80504/walkthrough]]
+
+* STEUERUNG
+
+** Using the Inventory 
+
+*** Examine Items: 
+Right-click on an item in your inventory to look at it more closely.
+
+*** Use/Combine Items:  
+To use an item on something in the environment, right-click on the item in your inventory and then right-click on the object you want to use it on.
+
+** Interacting with the Environment
+
+*** Movement:
+Left-click on the edge of the screen or on an exit to move to a different location. 
+
+*** Examine Objects:
+Right-click on objects in the environment to get more information about them. 
+
+*** Talk to Characters:
+Left-click on a character to start a conversation. You can then interact further by left-clicking on conversation topics or using items on them. 
+
+
+* INTRO
+
+Watch the intro, as you return to Paris.  You’re terribly worried, after receiving a telegram stating that Nico is dead!  You’ve been away from Paris for several months, taking care of a sick relative.  But this news about Nico forces you to fly back to Paris. 
+
+
+* PARIS – RUE JARRY (GEORGE)
+
+
+** NICO’S APARTMENT
+
+What the… Nico is here!  SHE’S ALIVE!  You’re so glad to see her!  But she’s acting so cold towards you, and she doesn’t seem to care how worried you’ve been.  What is going on?  She tells you to leave her apartment. 
+
+** HALLWAY
+
+Start to climb down the stairs.  As you do so, you hear Nico talking on the phone inside her apartment.  Again, climb down the stairs, and leave the building. 
+
+** STREET
+
+Talk to the Flower Vendor and work through all the conversation topics.  She gives you a NEWSPAPER.  Look at the NEWSPAPER in your Inventory, to read that the Café De La Chandelle Verte is reopening, after it was bombed a few years ago.  Look at the NEWSPAPER in your Inventory again, and you find an ENVELOPE.  Open the ENVELOPE to find THREE EUROS.  Walk left, to the Map. 
+
+** PARIS MAP
+
+Go to Park Rouge. 
+
+
+* PARIS – PARK ROUGE (GEORGE)
+
+** PARK
+
+Explore the park.  Knock on the window of the ice cream van.  Talk to Ice Cream Man and ask for an ICE CREAM.  He charges you three euros – just the amount of money you happen to have!  But when you taste the ICE CREAM, it tastes disgusting!  When you’re ready, leave the park. 
+
+** PARIS MAP
+
+Go to Café De La Chandelle Verte. 
+
+
+* PARIS – CAFÉ DE LA CHANDELLE VERTE (GEORGE)
+
+** STREET
+
+Look at the Advertising Column on the red pillar, to see the advert about the retired gendarme.  Enter the café. 
+
+** INSIDE THE CAFE
+
+Talk to the Waitress and work through all the conversation topics.  She remembers you from when the café was bombed several years ago.  Look at the bar, and try to use the bar.  Look at the chair at the back wall, and sit down in the chair.  To your frustration, Andre enters, and sits down at your table.  Choose how to respond to him.  Now work through all the conversation topics with him.  Apparently, he suspects Nico of being involved with the Neo-Templars.  But that can’t be true!  You and Nico ended the Templar movement years ago… didn’t you?  You HAVE to find out what’s going on.  After Andre leaves, leave the café. 
+
+** STREET
+
+Walk up to the Map. 
+
+** PARIS MAP
+
+Go to France Nationale Newspaper Office. 
+
+
+* PARIS – FRANCE NATIONALE NEWSPAPER OFFICE (GEORGE)
+
+** STREET
+
+Look at the building.  Look at the door on the left of the building.  Look at the entrance.  The building is closed.  Damn!  However, you learn that they have a temporary office in Rue Marie-Curie.  Walk right to the Map. 
+
+** PARIS MAP
+
+Go back to Rue Jarry. 
+
+
+* PARIS – RUE JARRY (GEORGE)
+
+** STREET
+
+Enter Nico’s apartment building. 
+
+** HALLWAY
+
+Enter Nico’s apartment. 
+
+** NICO’S APARTMENT
+
+Hmm, Nico isn’t here.  Explore the apartment.  Look carefully at the shelves next to the door, and take the blue SCREWDRIVER from the shelves.  Look at the bed, and try to use the bed.  Look at the JUMPER on the bed, and take the JUMPER.  Look at the statue by the window, and try to use the statue. 
+
+Look at Nico’s handbag on the table, search the handbag, and take SCISSORS from the handbag.  Search the handbag again, and take HAIR GRIP from the handbag.  In your Inventory, look at the HAIR GRIP, and fiddle with it to turn it into a LOCKPICK.  Search the handbag yet again, and take the PURPLE SLIP from the handbag. 
+
+Look at the answering machine on the table, and use it, to listen to the message.  It’s from an unknown man, saying he’ll meet Nico at their meeting place by the fountain.  What fountain?  Look at the NOTE under the table, and pick up the NOTE.  Look at the NOTE in your Inventory.  Look at the NOTE on the Notice Board above the table, and take the NOTE.  In your Inventory, combine both parts of the NOTE, to get the clue ‘Baphomet’.  But what does that mean?  Look at the camera next to the window, and try to use the camera.  Look at the poster on the wall – nice touch!  Look at the computer, and try to use the computer.  It’s secured with a password.  Use the BAPHOMET NOTE with the computer to access it.  You see a list of names & addresses, but you can’t make heads or tails of it.  When you’re ready, leave the apartment. 
+
+** HALLWAY
+
+Climb down the stairs, and leave the building. 
+
+** STREET
+
+Walk left to the Map. 
+
+** PARIS MAP
+
+Go to Montfaucon. 
+
+
+* PARIS – MONTFAUCON (GEORGE)
+
+** MONTFAUCON CAFÉ
+
+This place holds lots of memories for you.  Look at the café.  Look at the manhole cover.  Look at the fuse box on the stone pillar, and try to open the fuse box.  You don’t have any reason to open the fuse box, so you decide to leave it alone.  Look at the gallows to the left of the fuse box.  Look at the fountain on the right.  Climb up the stairs next to the fountain. 
+
+** CATHEDRAL
+
+Walk right a few steps, and look at the window pane.  There’s nothing you can do here at the moment, so just leave the cathedral. 
+
+** MONTFAUCON CAFÉ
+
+Climb up the stairs to the left of the gallows. 
+
+** COURTYARD
+
+Look at the tramp, talk to the tramp, and ask him about his TORCH.  Give him the PURPLE SLIP, and he gives you his TORCH in return.  But the batteries have suddenly died, so you need to find new ones.  Climb down the stairs again. 
+
+** MONTFAUCON CAFÉ
+
+SAVE YOUR GAME HERE.  Look at the fuse box on the stone pillar again.  Use SCREWDRIVER to open the fuse box, then look at the BATTERIES inside.  Don’t try to take them with your bare hands.  Use JUMPER with the BATTERIES to pick them up without getting electrocuted.  Now in your Inventory, insert the BATTERIES into the TORCH.  Walk left to the Map. 
+
+** PARIS MAP
+
+Go to France Nationale Newspaper Office. 
+
+
+* PARIS – FRANCE NATIONALE NEWSPAPER OFFICE (GEORGE)
+
+** STREET
+
+Use your LOCK PICK on the door on the left of the building to pick the lock, then enter the building. 
+
+** NEWSPAPER OFFICE
+
+It’s dark in here.  Lucky you had a TORCH with you.  SAVE YOUR GAME HERE.  Look at the shelves against the wall, and look for the single ‘shelf’ under the 2003 section.  Search the single ‘shelf’ to find a NEWSPAPER.  You automatically read the NEWSPAPER to learn that Nico was accused of assassinating the Mayor.  You don’t believe she’s guilty, but to prove her innocence, you’ll have to find the journalist that wrote the article – someone called Ferdinand Irvine.  Suddenly, a fire bomb is thrown in, and the fire quickly spreads.  Try to take the FIRE EXTINGUISHER from the wall next to the exit, but it’s screwed in place.  Use SCREWDRIVER with the FIRE EXTINGUISHER, then use FIRE EXTINGUISHER with the fire.  You automatically extinguish the fire, and leave the office.  That was close! 
+
+** STREET
+
+Hmm, Andre is the only person that knew you were here.  Could he be responsible for throwing the fire bomb?  Walk right to the Map. 
+
+** PARIS MAP
+
+Go to Rue Jarry. 
+
+* PARIS – RUE JARRY (GEORGE)
+
+** STREET
+
+Enter Nico’s apartment building. 
+
+** HALLWAY
+
+Enter Nico’s apartment. 
+
+** NICO’S APARTMENT
+
+Use the computer again, and Ferdinand Irvine’s name jumps out at you.  He’s the journalist who wrote the article about Nico being an assassin.  Something is very suspicious about this whole situation.  Apparently, Ferdinand Irvine is staying at the Hotel Ubu.  Leave the apartment. 
+
+** HALLWAY
+
+Climb down the stairs, and leave the apartment building. 
+
+** STREET
+
+Walk left to the Map. 
+
+** PARIS MAP
+
+Go to Hotel Ubu. 
+
+
+* PARIS – HOTEL UBU (GEORGE)
+
+** STREET
+
+SAVE YOUR GAME HERE.  Look at the chalkboard on the wall.  Try to enter the hotel, but 2 thugs stop you.  You’ve been in this situation before, George Stobbart!  Work through the conversation topics with them.  When the hotel guests appear, quickly enter the hotel. 
+
+** LOBBY
+
+Phew!  That was close!  Look at the piano.  Look at the boy, Arthur.  Talk to Arthur, and work through the conversation topics.  You learn that this boy is Ferdinand Irvine’s son.  Walk left a few steps, to the reception desk.  Look at the Receptionist, talk to him, and work through the conversation topics.  Climb up the stairs to the 1st Floor Hallway. 
+
+** 1ST FLOOR HALLWAY
+
+Look at the 3 doors on the right.  Take the HOTEL RESERVATION SLIP from the floor, in front of the middle door.  Look at the HOTEL RESERVATION SLIP in your Inventory, to learn that it’s for Ferdinand Irvine.  Go back down the stairs, to the Lobby. 
+
+** LOBBY
+
+Show HOTEL RESERVATION SLIP to the boy.  Watch the cut scene as you gain the HOTEL ROOM KEY for Room 122.  Climb up the stairs to the 1st Floor Hallway. 
+
+** 1ST FLOOR HALLWAY
+
+Use HOTEL ROOM KEY on the door for Room 122 – the middle door on the right.  You automatically enter the room. 
+
+** ROOM 122
+
+Investigate the room.  Look at the mirror.  Look at the mini bar.  Look at the briefcase on the bed, to see some pictures that prove that Nico is indeed involved with the Templars.  You’re worried that she’s in over her head, here.  It’s time to get some answers.  Leave the hotel room. 
+
+** 1ST FLOOR HALLWAY
+
+Climb down the stairs to the Lobby. 
+
+** LOBBY
+
+Leave the hotel. 
+
+** STREET
+
+The thugs have gone, thankfully!  Walk left or right to the Map. 
+
+** PARIS MAP
+
+Go to Rue Jarry
+
+
+* PARIS – RUE JARRY (GEORGE)
+
+** PARADE
+
+There’s some kind of parade going on, and spectators are blocking your way.  Look at the clown, and try to talk to the clown, but he ignores you.  You hate clowns!  Look at the spectator on the left, talk to him, and ask what the parade is for.  He tells you that it’s to celebrate the market opening tomorrow.  Unfortunately for you, the parade will last for 2 hours.  How are you gonna get into Nico’s apartment?  Look at the little boy’s balloon, and use your SCISSORS to burst the balloon.  Poor little boy.  His mum speaks to the clown, to try and get another balloon.  While she is busy, enter through the archway, into the passage. 
+
+** PASSAGE
+
+Look at the dog blocking the gate.  That gate leads through to Nico‘s apartment, but the dog won’t let you past.  Give ICE CREAM to the dog (how has it not melted by now?) to make friends with him.  Now walk left through the gate. 
+
+** NICO’S APARTMENT
+
+Watch the cut scene with Nico.  She tells you that she was only involved with the Templars, because she wanted to help her uncle, who has fallen under their influence.  She thinks that her contact – Jimmy McLaugh – might have revealed that she’s investigating the Templars.  You decide to track down Jimmy McLaugh, to try and reason with him.  Nico tells you that he owns a mansion in York, so that‘s where you‘re heading next.  When you’re ready, leave the apartment. 
+
+** HALLWAY
+
+Climb down the stairs to leave the building. 
+
+** STREET
+
+Walk left to the Map. 
+
+** MAP
+
+Click on the red arrow at the top right, to go to the Airport. 
+
+** AIRPLANE
+
+You fly to York. 
+
+
+* YORK – LIBRARY (GEORGE)
+
+** YORK MAP
+
+Head to the library. 
+
+** LIBRARY
+
+Explore the library.  Look at the Librarian.  Talk to her, and work through the conversation topics.  When prompted, tell the truth, and say that you are not Michael Burns.  Look at the calendar on the wall next to the Librarian.  Look carefully at the floor next to the first bookshelf sticking out, and take RED RUBBER BALL from the floor.  Look at the bookshelf.  Look at the student, David.  Talk to David and work through all the conversation topics.  Now walk left a few steps, and go down the stairs next to the Librarian, so you are in the basement. 
+
+** LIBRARY BASEMENT
+
+Look at the fuse box on the wall next to the door, and try to open it.  It’s stuck.  Use your SCREWDRIVER with the fuse box to force it open.  Now use the fuse box to get  a close-up.  Read the Safety Note in the fuse box.  You need to press 3 buttons in the correct order, but you don’t know what that order is.  Exit the close-up.  Take the red FOOTBALL SHIRT from the shelf at the back wall, near the fuse box.  Pick up the NOTEPAD that was underneath the FOOTBALL SHIRT.  It gives you clues for the fuse box.  Use the fuse box again to get a close-up.  From the row of 5 buttons along the top, press Button #1, Button #2, and Button #5.  The electrical power is shut off, and you automatically return upstairs. 
+
+** LIBRARY
+
+Since the Librarian’s computer is no longer working because you turned the power off, she leaves her desk.  Search the Card Index Box on the desk to get Jimmy McLaugh’s address.  Now leave the library. 
+
+** YORK MAP
+
+Go to Rangersfield Hall. 
+
+
+* YORK – RANGERSFIELD HALL (GEORGE)
+
+
+** GARDEN
+
+Look at the house.  Use the doorbell.  The Housekeeper invites you inside. 
+
+** HALL
+
+Use the door on the right, to eavesdrop on the conversation.  They seem to be talking about you, George.  However, you’re surprised when it’s Andre that comes out of the room.  Leave the house. 
+
+** GARDEN
+
+The thugs catch up to you, and you’re locked in the basement. 
+
+** BASEMENT
+
+Talk to the prisoner on the left.  NO!  It can’t be!  It’s… it’s… KHAN!!! But didn’t he die in a train, in the 1st game? 
+
+
+* YORK – AIRPORT (NICO)
+
+** AIRPORT LOUNGE
+
+While George is locked in the basement, you get to play as Nico now. 
+
+Use the phone on the wall to call Jimmy McLaugh.  He agrees to meet with you at his house, in 20 minutes.  Unfortunately, a baggage search has been declared at the airport, and no-one except staff will be allowed to leave for 40 minutes.  Damn! 
+
+Try to enter the ‘Staff Only’ room on the left, but the Watchman stops you.  Tell him you left your ID Card in the ‘Staff Only’ room.  When he goes to retrieve it for you, try to enter the ‘Staff Only’ room, but the Watchman returns, and still won‘t let you in. 
+
+Walk right a few steps, and talk to Pearl & Duane Henderson.  Work through all the conversation topics with them.  They agree to distract the Watchman for you, so that you can sneak into the Staff Room, since that‘s the only way you can get out of here in time to meet with Jimmy.  So when they ask the Watchman for a photo… sneak into the ‘Staff Only’ room. 
+
+** STAFF ROOM
+
+Take the TOWEL from the bench.  Pick up KEY that was under the TOWEL on the bench.  Pick up EMPLOYEES ID from the table at the back wall.  Look at the staff uniform in the locker, and try to use it.  It’s too small for you.  Try to leave the Staff Room, only to discover that the Watchman has locked the door.  Use the KEY in the door to unlock it, then leave the Staff Rom. 
+
+** AIRPORT LOUNGE
+
+Walk over to the Watchman guarding the Exit door, and show him the EMPLOYEES ID you found.  He thinks you must be staff, so he allows you to leave the airport. 
+
+** YORK MAP
+
+Go to the History Museum. 
+
+
+* YORK – HISTORY MUSEUM (NICO)
+
+** STREET
+
+SAVE YOUR GAME HERE.  Talk to the pedestrian in the green t-shirt, and work through the conversation topics.  You’re not able to enter the museum through the front door, so head up alley to the left of the museum. 
+
+** ALLEY
+
+Look at the mud puddle in front of the window.  Place the TOWEL over the mud puddle, then climb through the window, into the museum. 
+
+** DISPLAY ROOM
+
+Look at the woman in the blue jacket, and talk to her.  She takes you to Jimmy McLaugh’s house. 
+
+
+* YORK – RANGERSFIELD HALL (NICO)
+
+** GARDEN
+
+Take the HOSEPIPE from the grass on the left.  Take the SCREWDRIVER from the bench on the left side of the house.  Look at the truck.  Look at the basement window, and use it to find George (and Khan).  He asks you to help him escape.  Use HOSEPIPE with the truck, then use SCREWDRIVER with the truck.  Now use the truck to pull the bars from the basement window. 
+
+* YORK – TRAIN (GEORGE)
+
+** TRAIN CARRIAGE
+
+Watch the cut scene with Khan, as the train you‘re travelling on, is derailed. 
+
+You’re playing as George again.  Nico and Khan are nowhere in sight. 
+
+SAVE YOUR GAME HERE.  Look at the DOG TAG on the floor, and pick up the DOG TAG.  Look at the girl, Miranda.  Talk to her, to learn that she’s blind, and that her guide dog is missing.  Look at the injured passengers on the left.  Talk to the young man, and work through all the conversation topics.  Look at the unconscious man in the seat.  Look at the dog – this must be Miranda’s guide dog.  Search the dog 2 times, to find the DOG WHISTLE.  Use the DOG WHISTLE on the dog a few times to lure him back to Miranda.  She’s very glad to have her guide dog back. 
+
+Walk left a few steps, back to where you found the dog.  Look at the Suspicious Object under the bench – it looks like a bomb!  Use the Suspicious Object to get a close-up.  Use the DOG TAG on the bomb to cut it free from it’s hiding place.  You take the TIME BOMB.  Look at the old man lying on the floor.  Talk to the old man and work through the conversation topics.  Unfortunately, his injuries were more severe that you realised, and he dies as he’s talking to you.  Search his body to find a strange letter.  Search him again to find some DUCT TAPE.  In your Inventory, attach the DUCT TAPE to the TIME BOMB. 
+
+Walk to the middle of the train carriage.  Look carefully at the door, and try to open the door, to notice the small rift in the middle of the door.  Use the TIME BOMB with the rift in the door, to attach it to the door.  You don’t have much time left, before the bomb explodes.  Talk to Miranda, and ask to borrow her DOG WHISTLE.  Use the DOG WHISTLE with the dog to make him bark.  This get’s everyone’s attention, and you tell them to go to the other end of the carriage. 
+
+* YORK – VILLAGE (GEORGE)
+
+** STREET
+
+Enter the pharmacy, at the back. 
+
+** PHARMACY
+
+Look at the Pharmacist, talk to him, and try to chat.  But he’s not interested in talking to you, unless absolutely necessary.  Look at the phials on the counter to find out that their laxatives.  Look at the magazine rack.  Talk to the Pharmacist again, and ask him about the phials.  He refuses to give you a phial.  In your Inventory, read the NEWSPAPER.  That’s helpful!  Now use your NEWSPAPER with the Pharmacist, to convince him of your symptoms.  He gives you a phial of LAXATIVES.  Leave the pharmacy. 
+
+** STREET
+
+Enter the pub on the right. 
+
+** PUB – BAR AREA
+
+Look at the Bartender, talk to him, and work through all the conversation topics.  He gives you a ROOM KEY.  Explore the pub.  Look at the glass on the bar counter, and take NEEDLE from the glass.  Look at the SOAP on the bar counter.  You don’t have a reason to take it at the moment.  Look at the Pinboard on the wall next to the door.  Look at Mike and Steven.  Try and talk to them if you like, but they don’t have anything to say.  Look at the poster on the wall.  Look at the bottle on the lower right table.  Climb up the stairs, to the 1st Floor. 
+
+** PUB – 1ST FLOOR LANDING
+
+Look at the sign on the wall.  Look at the bucket, and try to take it, but it’s out of reach.  Try to use the ROOM KEY in the 1st door, but it won’t open.  Did the Bartender give you the wrong key?  Head back down the stairs, and return to the bar area. 
+
+** PUB – BAR AREA
+
+The Bartender has left.  Damn!  Talk to Mike and Steven, and work through the conversation topics.  They won’t tell you how to get into your room, unless you can beat Mike at arm wrestling.  Unfortunately, you’re no match for Mike.  You’ll have to find another way to beat him.  Use the LAXATIVE on Mike and Steven.  After they leave, pick up GLASS from the table.  Pour the water from the glass, onto the table, so that the table is wet.  Take SOAP from the bar counter.  In your Inventory, use DOG TAG with the SOAP, to create SOAP CUBES.  Now use SOAP CUBES with the wet table, so it becomes slippery.  Look at the wet table, then leave the pub. 
+
+** STREET
+
+Immediately enter the pub again. 
+
+** PUB – BAR AREA
+
+Mike and Steven have returned.  Talk to them and challenge Mike to another round of arm wrestling.  This time, because the table is slippy, you win.  Mike tells you how to open your room door.  Climb the stairs, up to the 1st Floor. 
+
+** PUB – 1ST FLOOR LANDING
+
+Use the ROOM KEY in the 1st door, to enter the room. 
+
+
+* PARIS – RUE JARRY (GEORGE)
+
+** NICO’S APARTMENT
+
+After spending the night at the pub, you return to Nico’s apartment, in Paris, the next day.  There’s nothing you can do here, so just leave the apartment. 
+
+** HALLWAY
+
+Climb down the stairs and leave the building. 
+
+** STREET
+
+Walk left, to the Map. 
+
+** PARIS MAP
+
+Go to Musee Crune. 
+
+
+* PARIS – MUSEE CRUNE (GEORGE)
+
+** SHADED AREA
+
+It’s been a few years since you were last at the museum, so you get lost.  Look at the man on the bench.  Talk to him to learn that his name is Dr Blackter.  Work through all the conversation topics with him.  When prompted, tell the truth about Nico’s name.  What a strange man!  Now that he’s given you directions, exit the path, and return to the Map. 
+
+** PARIS MAP
+
+Again, click on Musee Crune.  Damn!  It’s closed for refurbishment.  Go to Café De La Chandelle Verte. 
+
+* PARIS – CAFÉ DE LA CHANDELLE VERTE (GEORGE)
+
+** STREET
+
+Listen to the 2 passersby.  They can’t remember the word for the Baphomet idol.  Talk to them if you like, but they completely ignore you.  Look at the poster on the lamp post.  Walk up to the Map. 
+
+** PARIS MAP
+
+Go to Montfaucon. 
+
+
+* PARIS – MONTFAUCON (GEORGE)
+
+** MONTFAUCON CAFE
+
+Walk right a few steps, and climb the stairs on the right, up to the cathedral. 
+
+** CATHEDRAL
+
+Walk right a few steps.  Talk to the Priest and work through all the conversation topics.  Choose how you want to respond to him.  Now look at the window pane on the right.  You see an illustration of Baphomet, with something written underneath.  But the writing is too small for you to make out.  Leave the cathedral. 
+
+** MONTFAUCON CAFE
+
+Some tourists have appeared.  Look at the magnifying glass on the ground, near the tourists.  It probably belongs to one of the tourists.  Walk left a few steps, and sit down at the café.  When the Waiter arrives, work through the conversation topics with him.  You order a coffee.  Remember to pay for it!  When you’ve finished your coffee, stand up again, and walk right a few steps.  The tourists have gone.  Pick up the MAGNIFYING GLASS from the ground.  Now climb the stairs on the right, up to the cathedral. 
+
+** CATHEDRAL
+
+Walk right to the window pane.  Use MAGNIFYING GLASS with the window pane, so you can read the small writing.  It says ‘Soue’.  That’s the word for the Baphomet idol.  Walk left, and leave the cathedral. 
+
+** MONTFAUCON CAFE
+
+Walk left to the Map. 
+
+** PARIS MAP
+
+Go to Café De La Chandelle Verte. 
+
+* PARIS – CAFÉ DE LA CHANDELLE VERTE (GEORGE)
+
+** STREET
+
+Talk to the passersby 3 times, to tell them the word ’Soue’.  Work through the conversation topics with them.  They tell you the location of another museum.  When you’re ready, walk up to the Map. 
+
+** PARIS MAP
+
+Go to the Musee Natres. 
+
+* PARIS – MUSEE NATRES (GEORGE)
+
+** LOBBY
+
+Look at the cashiers in the Ticket Booth.  Try to talk to them, but they’re busy watching football.  Wait until they are both look at the TV screen, then walk right into the empty Display Hall. 
+
+** EMPTY DISPLAY HALL
+
+Talk to the Watchman and work through all the conversation topics.  You find out that he’s sad about having to miss the football match.  You use that to your advantage.  Talk to him again, and trick him into thinking a penalty is about to be taken.  He can’t contain his excitement, and rushes off to watch the football match, leaving you to guard his post.  Walk left, into the Exhibition Room.
+
+** EXHIBITION ROOM
+
+Explore the room.  Look at the SCIENCE MAGAZINE on the stand, and take the SCIENCE MAGAZINE.  Look at the Info Plate that was underneath the SCIENCE MAGAZINE.  Look at the vitrine next to the workman.  Leave the Exhibition Room. 
+
+** EMPTY DISPLAY HALL
+
+Leave the empty Display Hall. 
+
+** LOBBY
+
+The Watchman you saw earlier is now enjoying the football game.  Walk left, and leave the museum. 
+
+** PARIS MAP
+
+Click on the red arrow at the top right, to go to the airport, and fly to Portugal. 
+
+* TOMAR, PORTUGAL – EXCAVATION SITE (GEORGE)
+
+** EXCAVATION SITE
+
+Explore the area.  Look at the Souvenir Shop on the right, and take the BROOMSTICK that’s propped up in front of the shop.  Look at the Souvenir Seller on the right, talk to him, and work through the conversation topics.  Look at Gamin, the boy who’s dressed in green. 
+
+Look at the archaeologist, Professor Arruda, who is kneeling over the well.  Talk to him, and work through the conversation topics.  Look at the bag lying on the ground next to him, and take THREAD from the bag.  Look at the well cistern, look carefully at the rim of the well cistern, and take the WRISTWATCH. 
+
+Talk to Gamin again, and work through the conversation topics.  He agrees to help you, if you get him some chocolate.  Look carefully at the Souvenir Shop at the lower right, and look at the chocolate on the stall.  Maybe Gamin would like this. 
+
+Give WRISTWATCH to the Souvenir Seller.  He gives you a KEYRING as a reward.  Now talk to the Souvenir Seller, and ask about the NEWSPAPER.  Give him the SCIENCE MAGAZINE to distract him.  However, he will still see your shadow if you try to take the chocolate.  You have to somehow get the chocolate from a distance.  In your Inventory, tie THREAD to the BROOMSTICK, then  attach the KEYRING.  You created a MAKESHIFT FISHING POLE.  Use MAKESHIFT FISHING POLE with the CHOCOLATE on the lower right Souvenir Shop.  You successfully manage to steal the CHOCOLATE. 
+
+In your Inventory, look at your MAKESHIFT FISHING POLE to dismantle it.  Now give the CHOCOLATE to Gamin.  As agreed, Gamin distracts the Architect, leaving the well unguarded.  Climb down, into the well. 
+
+** DOWN THE WELL
+
+SAVE YOUR GAME HERE.  Look at the Baphomet idol on the left, and look carefully at the wall to the right of the idol, to see a slot.  Look at the slot in the wall, to realise that it‘s a keyhole.  Look at the brick, about halfway up the well.  It’s not very obvious, but it’s there.  Use your SCREWDRIVER with the brick to discover a hiding place for a KEY PART.  Take the KEY PART from the wall. 
+
+Look at the heap of debris on the right, and search the debris to find another KEY PART,  Look at the deepening in the wall on the right.  In your Inventory, Use the THREAD with the KEY PARTS to tie them together, and make a complete KEY.  Insert KEY into the keyhole in the wall, next to the Baphomet idol.   The idol slides down, revealing the SEAL.  Take the SEAL from it‘s hiding place.  Watch the cut scene as the thugs arrive, and you hear them threaten Professor Arruda.  Then they turn their attention to you.  Quickly insert the SEAL into the deepening, in the wall on the right.  It reveals a secret entrance.  Head into the secret entrance, to make your escape.  Watch the cut scene as you fly back to Paris. 
+
+* PARIS – RUE JARRY (GEORGE)
+
+** NICO’S APARTMENT
+
+Look at the letter on the table.  It’s from Nico – she left it here for you.  Well, it looks like your going to Beijing.  Leave the apartment. 
+
+** HALLWAY
+
+Climb down the stairs and leave the building. 
+
+** STREET
+
+Walk left to the Map. 
+
+** PARIS MAP
+
+Click on the red arrow at the top right, to go to the airport. 
+
+* PARIS – PLANE (GEORGE)
+
+** PLANE
+
+SAVE YOUR GAME HERE.  You need to get rid of the Steward, so you can explore the plane.  Chat with the muscular man on the left, and the passenger in green on the right, and work through the conversation topics.  Take the COKE CAN from the Beverages Trolley.  In your Inventory, try to open the COKE CAN.  However, the can refuses to open, and you end up with COKE CAN and RING PULL. 
+
+Look at the Beverages Trolley and try to open the lower compartment, but there is no more coke cans.  Talk to the passenger on the right again, and choose the ’Steward’ conversation topic (the icon showing you wearing a blue suit and tie).  You tell him you are a Steward, so he asks you to get him some fruit juice. 
+
+Use your RING PULL with the Beverages Trolley – it’s too thick to be of any use.  Give RING PULL to Armando on the left.  He’ll help you if you get him something to drink.  So you need to find drinks for both passengers.  Give your COKE CAN to Armando.  He’s strong, and opening the can is no problem for him.  When he finishes his drink, he gives you the BENT RING PULL. 
+
+Use BENT RING PULL on the Beverages Trolley, and you finally manage to open the trolley.  Use the trolley 4 times, and each time, pick up one of the drinks..  So you will end up with what looks like BOTTLE OF BEER, BOTTLE OF SPIRITS, BOTTLE OF WINE, and BOTTLE OF FRUIT JUICE.  Give the BOTTLE OF FRUIT JUICE to the passenger on the right – he gives you back the EMPTY FRUIT JUICE BOTTLE. 
+
+Again, talk to the passenger on the right, and choose the ’Steward’ conversation topic (the icon showing you wearing a blue suit and tie).  He asks you for another fruit juice.  In your Inventory, pour any of the BOTTLES OF DRINKS you have left, into the EMPTY FRUIT JUICE BOTTLE, then give the DOCTORED FRUIT JUICE BOTTLE to the passenger on the right.  The passenger tells you that it tastes different from his last BOTTLE OF FRUIT JUICE, and he asks you for another bottle of this flavour. 
+
+Use the same trick – in your Inventory, pour any of the BOTTLES OF DRINKS you have left, into the EMPTY FRUIT JUICE BOTTLE, then give the DOCTORED FRUIT JUICE BOTTLE to the passenger on the right.  Since he’s unknowingly had 2 bottles of alcohol, he is now quite drunk, and passes out.  The Steward finally reaches him, allowing you access to the back of the aisle. 
+
+Walk up to the passenger far back, on the right, and ask about the plane.  He tells you all about the conspiracy known as ‘Contract 20’.  There’s nothing else you can do here, so sit back down in your seat at the front left of the plane.  The man in the next seat buys a drink for you.  Notice the colour of the drink, and remember what the passenger told you about ‘Contract 20’.  Don‘t accept the drink. 
+
+An hour later, the passenger next to you falls asleep, and drops his wallet.  SAVE YOUR GAME HERE.  Pick up the WALLET, and pick up the COINS from the floor.  In your Inventory, open the WALLET to find a PHOTO.  You discover that the passenger next to you is called Christophe Brai.  Isn’t he the man Nico wanted you to meet, in the letter she left for you in her apartment?  Open the WALLET again.  Christophe wakes up, and forces you, at gun-point, into the bathroom. 
+
+In the privacy of the bathroom, he urges you to destroy the SEAL, and confesses that he’s not really a Templar.  Work through the conversation topics with him.  You finally learn the truth about why you received the telegram stating that Nico was dead, as well as Nico’s apparent coldness towards you.  You agree to work together, to defeat the Templars.  Watch the cut scene, as you arrive in Wuhan, China. 
+
+* WUHAN, CHINA – PLANE (GEORGE)
+
+** MEETING PLACE
+
+Watch the cut scene with Nico, Khan, and Christophe Brai. 
+
+** BASEMENT
+
+Watch the cut scene.  Look at the characters on the wall next to the door, and try to use the characters.  Look at the torch on the wall.  Climb down the stairs, and head through the door on the right. 
+
+** RITUAL ROOM
+
+The Templars are gathered here.  Professor Arruda, the archaeologist you met earlier, seems to be the leader.  Pick up ROCK from the ground.  Talk to Arruda to distract him, while Christophe Brai plants the bomb.  In your Inventory, use the ROCK to sharpen the SEAL, like a stake.  Throw the SHARPENED SEAL at Arruda. 
+
+Sit back, and watch the final cut scenes. 
+
+THE END! 

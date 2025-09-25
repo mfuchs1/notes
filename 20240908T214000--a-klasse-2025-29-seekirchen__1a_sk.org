@@ -1,7 +1,7 @@
-#+title:      C Klasse 2024-28
-#+date:       [2025-09-13 Sa 11:05]
-#+filetags:   :2c:ms:
-#+identifier: 20250913T110554
+#+title:      A Klasse 2025-29 Seekirchen
+#+date:       [2024-09-08 So 21:40]
+#+filetags:   :1a:sk:
+#+identifier: 20240908T214000
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
 #+SETUPFILE: ~/Documents/config/latex_setup.org
@@ -9,20 +9,25 @@
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/2c Mattsee.html
+#+export_file_name: ~/Documents/exports/1a Seekirchen.html
 
 * Jahresplanung
 
-[[denote:20250913T113113][Religion für uns 02]]
+[[denote:20240719T125948][Zeit für Religion 01]]
 
 * Notizen, Tasks, Termine
 
 
 * Stundenplanung
 
-[[denote:20240911T093804][Impuls: Konflikte lösen]]
+[[denote:20250905T235835][Auf dem Weg zum Ich]]
 
-[[denote:20250922T210509][Übergang: Mensch, ärgere dich nicht?]]
+** Einleitung
+
+** Erarbeitung
+
+** Vertiefung / Abschluss
+
 
 * Schülerliste
 #+Name: 2021-students
@@ -109,3 +114,4 @@
 
 
 * Reflexionen
+

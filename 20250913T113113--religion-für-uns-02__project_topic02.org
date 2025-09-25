@@ -37,9 +37,9 @@ Liturgische (Mit)Gestaltung Eröffnungsgottesdienst: Der Ablauf der Hl. Messe �
 *** [[denote:20250922T210427][Autorität und Verantwortung]]
 *** [[denote:20250922T210442][Mobbing: War doch nur Spaß?]]
 *** [[denote:20250922T210457][Impuls: Konflikte lösen]]
-SCHEDULED: <2025-09-23 Di>
+SCHEDULED: <2025-09-25 Do>
 *** [[denote:20250922T210509][Übergang: Mensch, ärgere dich nicht?]]
-*** Wofür Jesus streitet
+*** [[denote:20250925T080841][Wofür Jesus streitet]]
 *** Liebe, eine Grundhaltung
 *** Freundschaft: Durch dick und dünn
 *** Verliebt und verzaubert

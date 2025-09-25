@@ -1,7 +1,7 @@
-#+title:      D Klasse 2025-29
-#+date:       [2025-09-08 Mo 08:05]
-#+filetags:   :1d:sk:
-#+identifier: 20250908T080546
+#+title:      B Klasse 2023-27 Seekirchen
+#+date:       [2024-09-08 So 21:43]
+#+filetags:   :3b:sk:
+#+identifier: 20240908T214359
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
 #+SETUPFILE: ~/Documents/config/latex_setup.org
@@ -9,18 +9,18 @@
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/1d Seekirchen.html
+#+export_file_name: ~/Documents/exports/3b Seekirchen.html
 
 * Jahresplanung
 
-[[denote:20240719T125948][Zeit für Religion 01]]
+[[denote:20240709T110253][Zeit für Religion 03]]
 
 * Notizen, Tasks, Termine
 
 
 * Stundenplanung
 
-[[denote:20250905T235835][Auf dem Weg zum Ich]]
+[[denote:20250907T160528][Das Leben - Gabe und Aufgabe]]
 
 ** Einleitung
 
@@ -84,3 +84,4 @@
 
 #+RESULTS:
 * Mitarbeit
+

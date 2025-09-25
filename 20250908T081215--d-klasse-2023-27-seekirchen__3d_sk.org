@@ -1,4 +1,4 @@
-#+title:      D Klasse 2023-27
+#+title:      D Klasse 2023-27 Seekirchen
 #+date:       [2025-09-08 Mo 08:12]
 #+filetags:   :3d:sk:
 #+identifier: 20250908T081215
