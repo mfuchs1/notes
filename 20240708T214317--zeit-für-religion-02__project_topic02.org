@@ -2,7 +2,7 @@
 #+date:       [2024-07-08 Mo 21:43]
 #+filetags:   :Project:topic02:
 #+identifier: 20240708T214317
-#+CATEGORY: topic02
+#+CATEGORY: ZfR #02
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
 #+SETUPFILE: ~/Documents/config/latex_setup.org

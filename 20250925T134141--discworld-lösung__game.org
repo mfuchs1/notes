@@ -26,52 +26,111 @@ Double-click on a tag to interact with it. The action will depend on what the ta
 ** Observation: 
 Right-click on a tag to have your character look at it, providing a description of what they see.
 
+** Speichern
+F5
+
+** Menü
+Ctrl + F5
+
 * Akt 1
 
-** Rincewinds Zimmer: Kleiderschrank öffnen und den Geldbeutel mitnehmen.
+** DONE Rincewinds Zimmer: 
+CLOSED: [2025-09-27 Sa 11:45]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 11:45]
+:END:
+Kleiderschrank öffnen und den Geldbeutel mitnehmen.
 
 Zimmer verlassen, die Treppe runtergehen und den Schrank betreten.
 
-** Schrank: 
+** DONE Schrank: 
+CLOSED: [2025-09-27 Sa 11:45]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 11:45]
+:END:
 Besen mitnehmen.
 
-** Rincewinds Zimmer: 
+** DONE Rincewinds Zimmer: 
+CLOSED: [2025-09-27 Sa 11:45]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 11:45]
+:END:
 Truhe mit Besen aufwecken.
 
-** Zimmer des Erzkanzlers: 
+** DONE Zimmer des Erzkanzlers: 
+CLOSED: [2025-09-27 Sa 11:45]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 11:45]
+:END:
 Mit Erzkanzler reden und Auftrag ein goldenes Buch aus der Bibliothek zu holen bekommen.
 
-** Bibliothek: 
+** DONE Bibliothek: 
+CLOSED: [2025-09-27 Sa 11:46]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 11:46]
+:END:
 Banane aus der Truhe an den Bibliothekar geben und so das goldene Buch erhalten.
 
-** Zimmer des Erzkanzlers: 
+** DONE Zimmer des Erzkanzlers: 
+CLOSED: [2025-09-27 Sa 11:46]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 11:46]
+:END:
 Buch dem Kanzler zeigen. Man erhält nun den Auftrag 5 Gegenstände zur Herstellung eines Drachendetektors zu besorgen. Die Gegenstände sind: Drachenodem, ein Stab, eine magische Spule, ein Kobold und ein Metallbehälter.
 
-** Speiseraum: 
+** DONE Speiseraum: 
+CLOSED: [2025-09-27 Sa 11:46]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 11:46]
+:END:
 Besen mit dem Stab von Windel Poons austauschen.
 
 Universität durch die Haupttür verlassen.
 
-** Universitätsgelände: 
-Mit dem Zauberlehrling sprechen (Frage). man erhält nun eine Erklärung, wie man das Tor öffnet. Außerdem muß man einen Frosch einsammeln, den Rincewind nun ausspuckt. Nun das Tor öffnen und so zur Übersichtskarte von Ankh-Morpork gelangen.
+** DONE Universitätsgelände: 
+CLOSED: [2025-09-27 Sa 12:19]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 12:19]
+:END:
+Mit dem Zauberlehrling sprechen (Frage). Man erhält nun eine Erklärung, wie man das Tor öffnet. Außerdem muß man einen Frosch einsammeln, den Rincewind nun ausspuckt. Nun das Tor öffnen und so zur Übersichtskarte von Ankh-Morpork gelangen.
 
-** Vorm Palast: 
+** DONE Vorm Palast: 
+CLOSED: [2025-09-27 Sa 12:59]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 12:59]
+:END:
 Den dicken Wächter ansprechen (Frage). Dieser schlägt daraufhin den großen Wächter zusammen und macht so den Weg in den Palast frei.
 
-** Im Palast: 
+** DONE Im Palast: 
+CLOSED: [2025-09-27 Sa 12:59]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 12:59]
+:END:
 Durch die Tür mit dem Stern gehen.
 
-** Badezimmer: 
+** DONE Badezimmer: 
+CLOSED: [2025-09-27 Sa 12:59]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 12:59]
+:END:
 Spiegel mitnehmen.
 
 Palast verlassen und auf den Platz gehen. Hier weiter durch die Tür zum Psychiater.
 
-** Psychiater: 
+** DONE Psychiater: 
+CLOSED: [2025-09-27 Sa 13:20]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 13:20]
+:END:
 Mit dem Troll reden, das Gebäude verlassen und sofort wieder betreten. Der mittlere Sitzplatz ist nun frei, so daß man sich setzen und das Schmetterlingsnetz nehmen kann.
 
 Wieder raus auf den Platz gehen.
 
-** Platz: 
+** DONE Platz: 
+CLOSED: [2025-09-27 Sa 13:20]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 13:20]
+:END:
 Tomate vom Stand nehmen und damit auf den Steuereintreiber werfen.
 
 Neue Tomate vom Stand nehmen. Sie fällt herunter und trifft eine Maus, woraufhin ein Wurm aus der Tomate herauskriecht. Den Wurm mitnehmen.
@@ -80,135 +139,283 @@ Nun den Gassenjungen ansprechen. Rincewind erlernt bei ihm die Taschendiebfähig
 
 Wieder zur Übersichtskarte und von da aus weiter zum Stall.
 
-** Stall: 
+** DONE Stall: 
+CLOSED: [2025-09-27 Sa 13:23]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 13:23]
+:END:
 Maiskörner aus dem Sack nehmen (2x anklicken).
 
 Zurück zur Übersichtskarte und dann zur Straße.
 
-** Spielzeugladen: 
+** DONE Spielzeugladen: 
+CLOSED: [2025-09-27 Sa 20:15]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 20:15]
+:END:
 Spielzeugesel und Bindfaden mitnehmen. Den Bindfaden mit dem Wurm verwenden.
 
-** Fischhändler: 
+** DONE Fischhändler: 
+CLOSED: [2025-09-27 Sa 20:26]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 20:26]
+:END:
 Bild einer Krake mitnehmen.
 
-** Friseur: 
+** DONE Friseur: 
+CLOSED: [2025-09-27 Sa 20:26]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 20:26]
+:END:
 Lockenwickler ansehen und die Frau darauf ansprechen. Sie entscheidet sich nun glatte Haare tragen zu wollen. Der Friseur steckt den Lockenwickler in die Tasche. Friseur ansprechen. Während der Friseur vom Milchmädchen träumt den Lockenwickler mit Hilfe der Taschendiebfähigkeit aus der Tasche klauen.
 
 Friseur und Straße verlassen und weiter zur Gasse.
 
-** Gasse: 
+** DONE Gasse: 
+CLOSED: [2025-09-27 Sa 20:33]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 20:33]
+:END:
 Spiegel in Rincewinds Inventar legen. Die Platte betreten.
 
-** Dächer der Stadt: 
+** DONE Dächer der Stadt: 
+CLOSED: [2025-09-27 Sa 20:33]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 20:33]
+:END:
 Zum Turm gehen.
 
-** Turm: 
+** DONE Turm: 
+CLOSED: [2025-09-27 Sa 20:33]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 20:33]
+:END:
 Zur Spitze der Fahnenstange klettern und den Spiegel daran befestigen. Spiegel verwenden, um damit den Drachen zu blenden. Man erhält so den Drachenodem.
 
-** Dächer der Stadt: 
+** DONE Dächer der Stadt: 
+CLOSED: [2025-09-27 Sa 20:35]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 20:35]
+:END:
 Leiter auf der rechten Seite runterwerfen. Durch das Fenster zurück auf die Gasse klettern.
 
-** Gasse: 
+** DONE Gasse: 
+CLOSED: [2025-09-27 Sa 20:35]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 20:35]
+:END:
 Durch die Tür zum Alchimisten gehen.
 
-** Alchimist: 
+** DONE Alchimist: 
+CLOSED: [2025-09-27 Sa 20:42]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 20:42]
+:END:
 Maiskörner in den Glaskolben werfen. Kasten untersuchen. In der Großaufnahme den Kabelauslöser betätigen, um die Kamera zu öffnen. Großaufnahme verlassen und versuchen den Kobold zu nehmen. Der Kobold verschwindet nun aus dem Raum.
 
-** Gasse: 
+** DONE Gasse: 
+CLOSED: [2025-09-27 Sa 20:42]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 20:42]
+:END:
 Auf der rechten Seite den Wurm am Faden mit dem Loch verwenden. Rincewind fängt auf diese Weise den Kobold ein.
 
 Gasse verlassen und wieder zur Übersichtskarte.
 
-** Kaputte Trommel: 
+** DONE Kaputte Trommel: 
+CLOSED: [2025-09-27 Sa 20:55]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 20:55]
+:END:
 Mit Wirt reden. Krug und Streichhölzer nehmen.
 
-** Universitätsgelände: 
+** DONE Universitätsgelände: 
+CLOSED: [2025-09-27 Sa 21:04]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 21:04]
+:END:
 Pfad folgen und hinter der Universität den Beutel mit Dünger nehmen. Das Schmetterlingsnetz in Rincewinds Inventar aufnehmen und die Leiter mit dem Fenster verwenden.
 
 Pfannkuchen mit Hilfe des Schmetterlingsnetzes fangen.
 
 Der Koch verläßt nun die Küche.
 
-** Küche in der Universität: 
+** DONE Küche in der Universität: 
+CLOSED: [2025-09-27 Sa 21:05]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 21:05]
+:END:
 Bratpfanne und Banane nehmen.
 
-** Büro des Erzkanzlers: 
+** DONE Büro des Erzkanzlers: 
+CLOSED: [2025-09-27 Sa 21:13]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 21:13]
+:END:
 Bratpfanne, Drachenodem, Kobold, Lockenwickler und Stab an den Erzkanzler geben. Dieser baut nun daraus einen Drachendetektor, den sich Rincewind schnappt.
 
 Im linken unteren Teil von Ankh-Morpork findet man nun die Scheune des Drachen, wo sich Rincewind den Schatz des Drachen einsteckt.
 
 * Akt 2
 
-** Scheune: 
+** DONE Scheune: 
+CLOSED: [2025-09-27 Sa 21:15]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 21:15]
+:END:
 Schraubenzieher von der Wand mitnehmen.
 
-** Wirtschaft: 
+** DONE Wirtschaft: 
+CLOSED: [2025-09-27 Sa 22:42]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 22:42]
+:END:
 Durch die Tür ins Schlafzimmer gehen. Laken vom Bett nehmen und die Tür schließen. Bild eines Safes ansehen. Ins Badezimmer gehen und dort das Schaumbad mitnehmen.
 
-** Kaputte Trommel: 
+** DONE Kaputte Trommel: 
+CLOSED: [2025-09-27 Sa 22:46]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 22:46]
+:END:
 Mit dem ängstlichen Burschen über Geister reden.
 
-** Stadttor: 
+** DONE Stadttor: 
+CLOSED: [2025-09-27 Sa 22:52]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 22:52]
+:END:
 Kiste zwei mal anklicken. Auf diese Weise gelangt man an Feuerwerkskörper und ein kleines Faß mit Sprengpulver. Die Feuerwerkskörper anklicken und so einen Knallkörper erhalten, den man mit den Streichhölzern anzünden kann.
 
-** Schrank in der Unsichtbaren Universität: 
+** DONE Schrank in der Unsichtbaren Universität: 
+CLOSED: [2025-09-27 Sa 22:54]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 22:54]
+:END:
 Objekt mit Streichhölzern anzünden. Paket mit Stärke vom Regal nehmen.
 
-** Küche: 
+** DONE Küche: 
+CLOSED: [2025-09-27 Sa 22:54]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 22:54]
+:END:
 Stärkemehl mitnehmen.
 
-** Bibliothek: 
+** DONE Bibliothek: 
+CLOSED: [2025-09-27 Sa 23:05]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:05]
+:END:
 Weitere Banane an den Bibliothekar geben. Man erfährt nun, daß ein Buch über Drachenbeschwörungen gestohlen wurde. Goldene Banane am Ohr des schäbigen Burschens ansehen und ihn darauf ansprechen. Das komplette Gold aus dem Drachenhort an den schäbigen Burschen geben. Dem Bibliothekar die goldene Banane reichen. Der Bibliothekar öffnet nun das Tor zum L-Raum, durch den Rincewind in die vergangene Nacht gelangt.
 
-** Bibliothek: 
+** DONE Bibliothek: 
+CLOSED: [2025-09-27 Sa 23:05]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:05]
+:END:
 Nach links gehen und abwarten. Nach kurzer Zeit erscheint ein Dieb, steckt ein Buch ein und verschwindet durch einen Geheimgang. Das Bücherregal untersuchen und am Buch ziehen. Durch den Geheimgang geht es weiter nach Ankh-Morpork.
 
-** Park: 
+** DONE Park: 
+CLOSED: [2025-09-27 Sa 23:07]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:07]
+:END:
 Den Frosch mit dem Betrunkenen verwenden. Danach den Schmetterling mit dem Schmetterlingsnetz einfangen.
 
-** Straße: 
+** DONE Straße: 
+CLOSED: [2025-09-27 Sa 23:09]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:09]
+:END:
 An der Ecke hat nun die Töpferei geöffnet. Tontopf mitnehmen und den Schmetterling mit der Laterne verwenden.
 
-** Trommel: 
+** DONE Trommel: 
+CLOSED: [2025-09-27 Sa 23:12]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:12]
+:END:
 In der Trommel das Bild hinter dem kleinen Jungen ansehen. Während dieser das Bild betrachtet schnell sein Glas umdrehen. Die beiden Schläger am Nachbartisch kümmern sich nun um den Jungen. Während der Schlägerei gelangt man vor das Gebäude, wo man nun die Leiter mit dem Schild verwendet. Auf diese Weise gelangt man an einen Trommelstock.
 
-** Wirtschaft: 
+** DONE Wirtschaft: 
+CLOSED: [2025-09-27 Sa 23:20]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:20]
+:END:
 Durch die Tür ins Schlafzimmer gehen. Das Laken mit Rincewind verwenden und in Richtung des Jungen gehen, bis sich dieser unter der Decke versteckt. Nun den Schraubenzieher mit dem Schmuckkästchen verwenden. Man findet noch nichts.
 
-Wieder alles verlassen und zurück durch das Loch und den L-Raum in die Gegenwart.
+Wieder alles verlassen und zurück durch das Loch (in der Nähe der Uni) und den L-Raum in die Gegenwart.
 
-** Speisesaal der Universität: 
+** DONE Speisesaal der Universität: 
+CLOSED: [2025-09-27 Sa 23:23]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:23]
+:END:
 Trommelstock mit dem Gong verwenden.
 
-** Hinter der Universität: 
+** DONE Hinter der Universität: 
+CLOSED: [2025-09-27 Sa 23:24]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:24]
+:END:
 Mülltonne mitnehmen.
 
-** Universitätsgelände: 
+** DONE Universitätsgelände: 
+CLOSED: [2025-09-27 Sa 23:24]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:24]
+:END:
 Beutel mit Pflaumen einstecken.
 
-** Kaputte Trommel: 
+** DONE Kaputte Trommel: 
+CLOSED: [2025-09-27 Sa 23:29]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:29]
+:END:
 Erneut mit dem ängstlichen Burschen reden. Man erfährt nun von einem Passierschein, der sich im Schmuckkästchen befand, das man mit dem Hammer aufschlagen kann. Die grüne Flasche mit reannuellen Wein hinter dem Wirt ansehen und diesen darauf ansprechen. Das Getränk austrinken und das Glas einstecken.
 
-** Straße: 
+** DONE Straße: 
+CLOSED: [2025-09-27 Sa 23:32]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:32]
+:END:
 Puppe aus dem Spielzeuggeschäft mitnehmen. In der Gasse neben dem Fischhändler befindet sich nun eine Kutte, die man ebenfalls einsteckt.
 
 Durch den L-Raum geht es erneut in die Vergangenheit.
 
-** Wirtschaft: 
+** DONE Wirtschaft: 
+CLOSED: [2025-09-27 Sa 23:39]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:39]
+:END:
 Erneut durch die Tür ins Schlafzimmer, mit dem Laken verkleiden, und mit dem Schraubenzieher das Schmuckkästchen öffnen. Diesmal weiß Rincewind, wozu der Hammer gut ist und gelangt so an einen Passierschein, mit dem er zurück durch den L-Raum in die Gegenwart geht.
 
-** Stadttor: 
+** DONE Stadttor: 
+CLOSED: [2025-09-27 Sa 23:41]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:41]
+:END:
 Passierschein an eine Wache zeigen. Durch das Stadttor geht's dann auf die Scheibenwelt.
 
-** Berg: 
+** DONE Berg: 
+CLOSED: [2025-09-27 Sa 23:41]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:41]
+:END:
 Nachdem das Huhn da war, Feder und Ei mitnehmen.
 
-** Dunkler Wald: 
+** DONE Dunkler Wald: 
+CLOSED: [2025-09-27 Sa 23:45]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:45]
+:END:
 In die Hütte am rechten Rand gehen. Mit dem Tontopf etwas Pudding aus dem Kessel kratzen.
 
 Zurück durch den L-Raum in die Vergangenheit.
 
-** Bibliothek: 
+** DONE Bibliothek: 
+CLOSED: [2025-09-27 Sa 23:57]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-27 Sa 23:57]
+:END:
 Warten bis der Dieb kommt und das Buch klaut. Den Dieb verfolgen, bis man zu seinem Versteck kommt.
 
 Dann durch den L-Raum in die Gegenwart und direkt wieder zurück in die Vergangenheit.
@@ -217,28 +424,60 @@ Wieder auf den Dieb warten. Jetzt aber schnell vor ihm zum Versteck laufen und d
 
 Sobald der Dieb im Haus verschwunden ist Kutte anziehen und an die Tür klopfen. Dank der Parole gelangt Rincewind ins Haus und nimmt an der Beschwörung des Drachen teil. Danach geht's zurück in die Gegenwart.
 
-** Fischhändler an der Straße: 
+** DONE Fischhändler an der Straße: 
+CLOSED: [2025-09-28 So 00:01]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-28 So 00:01]
+:END:
 Krake mit dem Bindfaden einfangen.
 
-** Gasse hinterm Fischhändler: 
+** DONE Gasse hinterm Fischhändler: 
+CLOSED: [2025-09-28 So 00:02]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-28 So 00:02]
+:END:
 Toilette öffnen. Zuerst den Pudding ins Klo, dann die Krake.
 
-** Fischhändler: 
+** DONE Fischhändler: 
+CLOSED: [2025-09-28 So 00:04]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-28 So 00:04]
+:END:
 Pflaumen auf den Kaviar legen. Der Fischhändler rennt jetzt auf die Toilette und wird von der liebestollen Krake traktiert. Fischhändler folgen und den Gürtel mit goldener Schnalle mitnehmen.
 
-** Platz: 
+** DONE Platz: 
+CLOSED: [2025-09-28 So 00:06]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-28 So 00:06]
+:END:
 Mit Schnapper reden und so einen Krapfen erhalten.
 
-** Gasse beim Platz: 
+** DONE Gasse beim Platz: 
+CLOSED: [2025-09-28 So 00:08]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-28 So 00:08]
+:END:
 Warten, bis der Abflußreiniger kommt und ihm dann den Krapfen geben.
 
-** Friseur: 
+** DONE Friseur: 
+CLOSED: [2025-09-28 So 00:10]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-28 So 00:10]
+:END:
 Mit Friseur reden. er erzählt, daß er sich unbedingt mit dem Milchmädchen treffen möchte.
 
-** Psychiater: 
+** DONE Psychiater: 
+CLOSED: [2025-09-28 So 00:16]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-28 So 00:16]
+:END:
 Mit dem Troll über alles sprechen. Schließlich wird man aufgerufen und landet beim Psychiater, der Rincewind zwei Blätter mit Tintenklecksen gibt. Danach die Praxis verlassen und sofort wieder betreten. Mit dem Milchmädchen reden und so einen Zettel erhalten.
 
-** Friseur: 
+** DONE Friseur: 
+CLOSED: [2025-09-28 So 00:18]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-28 So 00:18]
+:END:
 Zettel des Milchmädchens an den Friseur geben. Er verläßt daraufhin den Laden. Den Apparat vorne rechts verwenden und so in den Besitz eines Goldzahnes gelangen.
 
 ** Wald außerhalb der Stadt: 

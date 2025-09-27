@@ -35,9 +35,10 @@ Die Schüler:innen können sich in ihrer gottgeschenkten Einzigartigkeit wahrneh
 *** ([[denote:20250905T235754][Das bin ich - das bist du]])
 *** [[denote:20250905T235812][Über das Leben nachdenken]]
 *** [[denote:20250905T235824][Einfach besonders - ich bin ich]]
-SCHEDULED: <2025-09-22 Mo>
 *** [[denote:20250905T235835][Auf dem Weg zum Ich]]
 *** [[denote:20250905T235847][Füreinander und Miteinander]]
+SCHEDULED: <2025-09-26 Fr>
+
 *** [[denote:20250905T235858][Große und kleine Fragen]]
 
 ** Kompetenzniveau, KN-SPF, Übergreifende Themen
