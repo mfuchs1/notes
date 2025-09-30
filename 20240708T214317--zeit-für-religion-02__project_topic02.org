@@ -34,8 +34,6 @@ Die Schüler:innen können sich in ihrer lnteraktion mit der Mitwelt differenzie
 *** [[denote:20250906T125032][Mit einem Bingo in das neue Schuljahr]]
 *** [[denote:20250906T125043][Kommunikation - sich mitteilen / Miteinander kommunizieren]]
 *** [[denote:20250906T125102][Ich bin viele ...]]
-SCHEDULED: <2025-09-26 Fr>
-
 *** [[denote:20250906T125113][Neue Sichtweisen erkennen]]
 *** [[denote:20250906T125123][Konflikte lösen - Dankbarkeit zeigen]]
 
@@ -59,6 +57,8 @@ Die Schüler:innen können leidvolle Erfahrungen zum Ausdruck bringen und (chris
 ** Inhalte / Buch
 
 *** [[denote:20250906T125243][An das Leben glauben / Angenommen und begleitet sein]]
+SCHEDULED: <2025-10-01 Mi>
+
 *** [[denote:20250906T125254][Leid hat viele Gesichter]]
 *** [[denote:20250906T125303][Kraft und Trost spenden]]
 *** [[denote:20250906T125313][Verbunden bleiben]]

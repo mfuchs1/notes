@@ -37,15 +37,15 @@ Liturgische (Mit)Gestaltung Eröffnungsgottesdienst: Der Ablauf der Hl. Messe �
 *** [[denote:20250922T210427][Autorität und Verantwortung]]
 *** [[denote:20250922T210442][Mobbing: War doch nur Spaß?]]
 *** [[denote:20250922T210457][Impuls: Konflikte lösen]]
-SCHEDULED: <2025-09-25 Do>
 *** [[denote:20250922T210509][Übergang: Mensch, ärgere dich nicht?]]
 *** [[denote:20250925T080841][Wofür Jesus streitet]]
-*** Liebe, eine Grundhaltung
-*** Freundschaft: Durch dick und dünn
-*** Verliebt und verzaubert
-*** Handeln: Konstruktiv diskutieren
-*** Typisch Mann, typisch Frau?
-*** Übungsteil
+*** [[denote:20250929T163057][Liebe, eine Grundhaltung]]
+SCHEDULED: <2025-09-30 Di>
+*** [[denote:20250929T163110][Freundschaft: Durch dick und dünn]]
+*** [[denote:20250929T163123][Verliebt und verzaubert]]
+*** [[denote:20250929T163137][Handeln: Konstruktiv diskutieren]]
+*** [[denote:20250929T163155][Typisch Mann, typisch Frau?]]
+*** [[denote:20250929T163206][Übungsteil]]
 
 * 02 Fragen | Vertrauen – an Herausforderungen wachsen
 November und Dezember

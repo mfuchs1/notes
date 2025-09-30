@@ -26,8 +26,6 @@ Die Schüler*innen können sich in ihrer gottgeschenkten Einzigartigkeit wahrneh
 *** [[denote:20250918T090124][Die Welt der Gefühle]]
 *** [[denote:20250918T090138][Was ich mir zutraue]]
 *** [[denote:20250918T090153][Kann ich dir vertrauen?]]
-SCHEDULED: <2025-09-25 Do>
-
 *** [[denote:20250918T090215][Impuls: ich und du?]]
 *** [[denote:20250918T090228][Ich bin einzigartig]]
 *** [[denote:20250918T090238][Wir sind eine Gemeinschaft]]
@@ -58,6 +56,8 @@ Kirchenjahr
 ** Inhalte des Buchs
 
 *** [[denote:20250918T090434][Die großen Fragen unseres Lebens]]
+SCHEDULED: <2025-09-30 Di>
+
 *** [[denote:20250918T090444][Impuls: unterwegs im Land der Fragen]]
 *** [[denote:20250918T090453][Übergang: Große Fragen]]
 *** [[denote:20250918T090501][Große Antworten]]

@@ -32,8 +32,6 @@ Sehnsüchte und Lebensträume, persönliche und berufliche Ziele, Utopien und Dy
 *** [[denote:20250907T162059][Eröffnung]]
 *** [[denote:20250907T162108]["Spiel des Lebens"]]
 *** [[denote:20250907T162116][Lebensperspektiven und Lebensträume]]
-SCHEDULED: <2025-09-22 Mo>
-
 *** [[denote:20250907T162137][Das Leben - eine einzigartige Geschichte]]
 *** [[denote:20250907T162154][Die Zukunft - meine Lebensziele]]
 *** [[denote:20250907T162210][Die Utopie - ein Zukunftsmodell]]
