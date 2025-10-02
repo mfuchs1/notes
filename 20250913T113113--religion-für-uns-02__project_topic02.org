@@ -40,8 +40,9 @@ Liturgische (Mit)Gestaltung Eröffnungsgottesdienst: Der Ablauf der Hl. Messe �
 *** [[denote:20250922T210509][Übergang: Mensch, ärgere dich nicht?]]
 *** [[denote:20250925T080841][Wofür Jesus streitet]]
 *** [[denote:20250929T163057][Liebe, eine Grundhaltung]]
-SCHEDULED: <2025-09-30 Di>
 *** [[denote:20250929T163110][Freundschaft: Durch dick und dünn]]
+SCHEDULED: <2025-10-02 Do>
+
 *** [[denote:20250929T163123][Verliebt und verzaubert]]
 *** [[denote:20250929T163137][Handeln: Konstruktiv diskutieren]]
 *** [[denote:20250929T163155][Typisch Mann, typisch Frau?]]
