@@ -56,8 +56,6 @@ Kirchenjahr
 ** Inhalte des Buchs
 
 *** [[denote:20250918T090434][Die großen Fragen unseres Lebens]]
-SCHEDULED: <2025-10-02 Do>
-
 *** [[denote:20250918T090444][Impuls: unterwegs im Land der Fragen]]
 *** [[denote:20250918T090453][Übergang: Große Fragen]]
 *** [[denote:20250918T090501][Große Antworten]]

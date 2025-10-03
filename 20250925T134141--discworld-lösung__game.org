@@ -488,59 +488,129 @@ CLOSED: [2025-09-28 So 00:18]
 :END:
 Zettel des Milchmädchens an den Friseur geben. Er verläßt daraufhin den Laden. Den Apparat vorne rechts verwenden und so in den Besitz eines Goldzahnes gelangen.
 
-** Wald außerhalb der Stadt: 
+** DONE Wald außerhalb der Stadt: 
+CLOSED: [2025-10-03 Fr 22:07]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:07]
+:END:
 Kurbel am Brunnen betätigen. Topf mit dem Eimer verwenden und so einen Topf mit Wasser erhalten. Mit dem Schraubenzieher die Kurbel losmachen.
 
-** Badezimmer in der Wirtschaft: 
+** DONE Badezimmer in der Wirtschaft: 
+CLOSED: [2025-10-03 Fr 22:07]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:07]
+:END:
 Topf mit Wasser mit dem Seifenspender benutzen. Man erhält schäumendes Wasser.
 
-** Platz: 
+** DONE Platz: 
+CLOSED: [2025-10-03 Fr 22:11]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:11]
+:END:
 Mit dem Gassenjungen sprechen. Er verspricht Rincewind ihm eine geheime Handbewegung beizubringen, wenn er beweist, ein echter Mann zu sein. Dann die Stadt verlassen und zum Rand der Welt.
 
-** Rand der Welt: 
+** DONE Rand der Welt: 
+CLOSED: [2025-10-03 Fr 22:13]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:13]
+:END:
 An der Kokospalme schütteln. Die runtergefallene Kokosnuß mit Hilfe des Schmetterlingsnetzes aus dem Wasser fischen und sie dann mit dem Schraubenzieher aufstechen. Lampe mitnehmen.
 
-** Palast: 
+** DONE Palast: 
+CLOSED: [2025-10-03 Fr 22:16]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:16]
+:END:
 Den Wachen einen Tintenklecks zeigen. Sie geben daraufhin den Weg frei. Im Palast mit dem Bauern reden und so erfahren, daß der Dieb in die Schatten gegangen ist. Weiter geht's durch den L-Raum in die Vergangenheit.
 
-** Gasse hinterm Fischhändler: 
+** DONE Gasse hinterm Fischhändler: 
+CLOSED: [2025-10-03 Fr 22:19]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:19]
+:END:
 Toilettentür öffnen und das Graffiti durchlesen.
 
-** Schatten: 
+** DONE Schatten: 
+CLOSED: [2025-10-03 Fr 22:27]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:27]
+:END:
 Zum Bordell gehen und mit der rechten Dame käuflicher Zuneigung sprechen und ihr dann das Ei, die Kokosmilch und das Stärkemehl geben. Man erhält eine Pumphose.
 
 Zurück in die Gegenwart.
 
-** Platz: 
+** DONE Platz: 
+CLOSED: [2025-10-03 Fr 22:30]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:30]
+:END:
 Pumphose dem Gassenjungen zeigen. Man erlernt nun die geheime Handbewegung und bekommt einen Büstenhalter, den man gleich mit der Leiter verwendet und so eine umwickelte Leiter erhält.
 
-** Schatten: 
+** DONE Schatten: 
+CLOSED: [2025-10-03 Fr 22:35]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:35]
+:END:
 Die Handbewegung mit dem Maurer verwenden. Man erhält eine goldene Kelle.
 
-** Schuppen in den Schatten: 
+** DONE Schuppen in den Schatten: 
+CLOSED: [2025-10-03 Fr 22:38]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:38]
+:END:
 Umwickelte Leiter mit dem Eingang benutzen. Schuppen betreten und zweimal die Feder auf den schlafenden Dieb anwenden. Nun kann man den goldenen Dietrich vom Gürtel des Diebes nehmen.
 
-** Palast: 
+** DONE Palast: 
+CLOSED: [2025-10-03 Fr 22:43]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:43]
+:END:
 Durch Vorzeigen des zweiten Tintenklecks an den Wächtern vorbeikommen und die Mülltonne auf den Narren anwenden. Jetzt ins Badezimmer und das Schaumbad in die Badewanne schütten. Nun kann man unbemerkt die Narrenkappe mit goldenen Glöckchen vom Hutständer nehmen.
 
-** Gasse beim Alchimisten: 
+Komischerweise hat das auch ohne Schaumbad geklappt.
+
+** DONE Gasse beim Alchimisten: 
+CLOSED: [2025-10-03 Fr 22:49]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:49]
+:END:
 Schneevaterpuppe ins Inventar von Rincewind nehmen und über die Platte auf die Dächer katapultieren lassen.
 
-** Dächer der Stadt: 
+** DONE Dächer der Stadt: 
+CLOSED: [2025-10-03 Fr 22:49]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:49]
+:END:
 Puppe in den rechten Schornstein stecken. Dächer über das Fenster verlassen.
 
-** Alchimist: 
+** DONE Alchimist: 
+CLOSED: [2025-10-03 Fr 22:52]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:52]
+:END:
 Pulverfaß in den Kamin stellen und den Bindfaden damit verwenden. Den Laden verlassen und die Zündschnur mit den Streichhölzern anzünden. Man erhält so eine goldene Bürste.
 
-** Scheune: 
+** DONE Scheune: 
+CLOSED: [2025-10-03 Fr 22:55]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:55]
+:END:
 Gürtel, Kelle, Zahn, Bürste, Mütze und Dietrich an den Drachen geben.
 
-** Platz: 
+** DONE Platz: 
+CLOSED: [2025-10-03 Fr 22:58]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 22:58]
+:END:
 Mit der Hexe Nanny Ogg sprechen (Frage) um den Teppich zu erhalten. Sie dann erneut ansprechen (Ironie). Während sie einen Kuss von Rincewind möchte schnell das Puddingbuch an sich nehmen.
 
 Mit dem Buch geht's weiter in die Vergangenheit.
 
-** Bibliothek: 
+** DONE Bibliothek: 
+CLOSED: [2025-10-03 Fr 23:14]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 23:14]
+:END:
 Rechts neben dem L-Raum Durchgang das Drachenbuch nehmen und es im Inventar mit dem Puddingbuch verwenden. Jetzt das Puddingbuch mit dem Drachenbuchumschlag an die leere Stelle stellen.
 
 Abwarten, bis der Dieb kommt. Es folgt eine Zwischensequenz.
@@ -549,16 +619,32 @@ Abwarten, bis der Dieb kommt. Es folgt eine Zwischensequenz.
 
 Von den Wächtern erfährt man, daß man verschiedene Gegenstände benötigt, um den Kampf mit dem Drachen aufnehmen zu können. Wenn man mit fast allen Leuten, denen man begegnet über Helden spricht, kann man von den Wächtern erfahren, daß die Wahrscheinlichkeit einen Drachen zu besiegen, wenn man ein Muttermal, einen Zauber, ein Schwert das Ping macht, einen Schnurrbart, eine Tarnung und einen heiligen Gegenstand hat genau 1: 1000000 beträgt. Aber es könnte funktionieren...
 
-** Friseur: 
+** DONE Friseur: 
+CLOSED: [2025-10-03 Fr 23:32]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 23:32]
+:END:
 Terminkalender und Schere mitnehmen.
 
-** Bibliothek: 
+** DONE Bibliothek: 
+CLOSED: [2025-10-03 Fr 23:38]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 23:38]
+:END:
 Das Bücherregal, wo im 2. Akt der schäbige Kerl stand durchsuchen und das magische Buch an sich nehmen.
 
-** Küche: 
+** DONE Küche: 
+CLOSED: [2025-10-03 Fr 23:39]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 23:39]
+:END:
 Spachtel mitnehmen.
 
-** Zimmer des Erzkanzlers: 
+** DONE Zimmer des Erzkanzlers: 
+CLOSED: [2025-10-03 Fr 23:39]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-03 Fr 23:39]
+:END:
 Hut nehmen.
 
 ** Schatten: 
