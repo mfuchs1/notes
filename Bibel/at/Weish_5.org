@@ -166,18 +166,18 @@ Verheerung über die ganze Erde /\\
 die, die gesündigt haben. - Entsprechend verschiebt sich in Vg die
 Verszählung.
 
-[fn:6] Ps 1,4; Jes 29,5; Ps 68,3
+[fn:6] [[file:Ps_1.org::v4][Ps 1,4]]; [[file:Jes_29.org::v5][Jes 29,5]]; [[file:Ps_68.org::v3][Ps 68,3]]
 
 [fn:7] Gischt: so nach S und der altlateinischen Übersetzung; G: Reif.
 
-[fn:8] Jes 62,3; 41,10
+[fn:8] [[file:Jes_62.org::v3][Jes 62,3]]; [[file:Jes_41.org::v10][41,10]]
 
-[fn:9] (17-19) Eph 6,13-17
+[fn:9] (17-19) [[file:~/Documents/notes/Bibel/nt/Eph_6.org::v13][Eph 6,13-17]]
 
-[fn:10] Jes 59,17
+[fn:10] [[file:Jes_59.org::v17][Jes 59,17]]
 
-[fn:11] Hab 3,11
+[fn:11] [[file:Hab_3.org::v11][Hab 3,11]]
 
-[fn:12] Jos 10,11; Ex 14,27f; 15,10
+[fn:12] [[file:Jos_10.org::v11][Jos 10,11]]; [[file:Ex_14.org::v27][Ex 14,27f]]; [[file:Ex_15.org::v10][15,10]]
 
-[fn:13] 5,14; Jes 24,3; Sir 10,14; Lk 1,52
+[fn:13] [[v14][5,14]]; [[file:Jes_24.org::v3][Jes 24,3]]; [[file:Sir_10.org::v14][Sir 10,14]]; [[file:~/Documents/notes/Bibel/nt/Lk_1.org::v52][Lk 1,52]]
