@@ -647,124 +647,276 @@ CLOSED: [2025-10-03 Fr 23:39]
 :END:
 Hut nehmen.
 
-** Schatten: 
+** DONE Schatten: 
+CLOSED: [2025-10-04 Sa 13:56]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 13:56]
+:END:
 Wo vorhin der Maurer stand ist nun ein Wandgemälde, das man mit dem Spachtel abkratzen kann. Man erhält Ruß, den man im Inventar noch einmal benutzen muß. Nun wieder mit Hilfe der Leiter in den Schuppen gehen. Dort den Beutel untersuchen und anschließend das Messer daraus nehmen.
 
-** Gasse beim Alchimisten: 
+** DONE Gasse beim Alchimisten: 
+CLOSED: [2025-10-04 Sa 14:01]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 14:01]
+:END:
 Messer in das Inventar von Rincewind nehmen und auf die Dächer der Stadt. Hier die Leiter auf der linken Seite mit dem Messer losschneiden.
 
-** Alchimist: 
+** DONE Alchimist: 
+CLOSED: [2025-10-04 Sa 14:01]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 14:01]
+:END:
 Alchimisten ansprechen und über alles reden. Er verläßt nach dem Gespräch das Haus. Kamera mitnehmen.
 
-** Filmstudio auf dem Platz (früher Psychiater): 
+** DONE Filmstudio auf dem Platz (früher Psychiater): 
+CLOSED: [2025-10-04 Sa 14:06]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 14:06]
+:END:
 Hinsetzen, mit dem Troll sprechen und das Studio verlassen und wieder betreten. Mit dem Milchmädchen sprechen und ihr den Terminkalender reichen. Sie schreibt ihr Ottogramm hinein. Nach dem Gespräch mit dem Regisseur wieder raus auf den Platz gehen und mit Schnapper reden. Man erhält eine Tüte mit Blutegeln. Tüte im Inventar öffnen um einen Blutegel zu erhalten.
 
-** Gasse hinterm Platz: 
+** DONE Gasse hinterm Platz: 
+CLOSED: [2025-10-04 Sa 14:07]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 14:07]
+:END:
 Messer mit dem Gummiriemen verwenden.
 
-** Platz: 
-Ei vom Stand nehmen. Eine Schlange schlüpft aus dem Ei. Schlange mitnehmen. Stärke und Dünger mit der Schlange verwenden. man erhält einen Schlangenstab.
+** DONE Platz: 
+CLOSED: [2025-10-04 Sa 14:10]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 14:10]
+:END:
+Ei vom Stand nehmen. Eine Schlange schlüpft aus dem Ei. Schlange mitnehmen. Stärke und Dünger mit der Schlange verwenden. Man erhält einen Schlangenstab.
 
-** Kaputte Trommel: 
+** DONE Kaputte Trommel: 
+CLOSED: [2025-10-04 Sa 17:41]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 17:41]
+:END:
 Flasche mit Kaktussaft ansehen und Wirt darauf ansprechen. Glas aufnehmen. In dem Glas befindet sich ein Wurm, an den man wieder den Bindfaden binden muß.
 
-** Palast: 
+** DONE Palast: 
+CLOSED: [2025-10-04 Sa 17:44]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 17:44]
+:END:
 Die Tüte an den dicken oder den Blutegel an den dünnen Wächter geben, um in den Palast zu gelangen.
 
-** Badezimmer: 
+** DONE Badezimmer: 
+CLOSED: [2025-10-04 Sa 17:44]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 17:44]
+:END:
 Bürste nehmen und mit dem schäumenden Wasser aus dem Topf verwenden.
 
-** Kerker des Palastes: 
+** DONE Kerker des Palastes: 
+CLOSED: [2025-10-04 Sa 17:52]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 17:52]
+:END:
 Bei der rechten Zelle befindet sich ein Loch, mit dem man den angebundenen Wurm verwendet. Man fängt eine Ratte, die man im Inventar betrachten muß. Sie entpuppt sich als verkleideter Kobold, den man in die Kamera setzt. Weiter auf der rechten Seite befindet sich Lachi auf einer Streckbank. Kurbel mit der Streckbank verwenden. Man erhält nun ein Schwert. Knochen vom Skelett in der rechten unteren Ecke nehmen.
 
-** Stall: 
+** DONE Stall: 
+CLOSED: [2025-10-04 Sa 17:55]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 17:55]
+:END:
 Bürste mit Stoßstange des Eselkarren benutzen und danach die Stoßstange ansehen. Beide Nummernschilder ansehen.
 
-** Drachenheim: 
+** DONE Drachenheim: 
+CLOSED: [2025-10-04 Sa 18:01]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 18:01]
+:END:
 Tor öffnen und zum Haus gehen. Türklopfer betätigen und warten bis Lady Käsedick erscheint und sie ansprechen. Nun kann man einem Pfad hinters Haus folgen und kommt zu einem Drachenkäfig. Leine und Nagel mitnehmen. Wieder zur Haustür und den Klopfer erneut betätigen. Wenn die Lady erscheint schnell hinters Haus laufen und die blaue Rosette, die am Käfig hängt holen.
 
-** Versteck der Drachenbeschwörer: 
+** DONE Versteck der Drachenbeschwörer: 
+CLOSED: [2025-10-04 Sa 18:02]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 18:02]
+:END:
 Klopfer betätigen und ein Sahnetörtchen bekommen.
 
-** Stadttor: 
+** DONE Stadttor: 
+CLOSED: [2025-10-04 Sa 18:05]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 18:05]
+:END:
 Karotte, den großen Wächter, auf das Schwert ansprechen. Er erzählt nun den Aufenthaltsort der Zwergenmine. Stadt verlassen und weiter in den dunklen Wald.
 
-** Dunkler Wald: 
+** DONE Dunkler Wald: 
+CLOSED: [2025-10-04 Sa 18:15]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 18:15]
+:END:
 Hütte betreten. Zaubertränke auf dem Tischchen ansehen. Nanny Ogg auf den Lügenentferner ansprechen. Sobald sie einen Kuß von Rincewind haben möchte das Sahnetörtchen essen. Wahrheitselixier nehmen. Wolle anklicken und so hinter die Hütte gelangen. Schlegel mitnehmen. Erst die Rosette und dann die Kamera mit dem Schaf verwenden. Man erhält das Bild eines prämierten Schafes, das man im Inventar mit dem Krakenbild verwenden muß.
 
-** Kaputte Trommel: 
+** DONE Kaputte Trommel: 
+CLOSED: [2025-10-04 Sa 18:22]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 18:22]
+:END:
 Nagel mit dem Balken auf der rechten Seite benutzen. Bild des Schafes an den Nagel hängen. Zum Angeber setzen und sich unterhalten. Die beiden Bierkrüge vom Wirt mit dem Wahrheitselixier verwenden und sie dem Angeber geben. Er erzählt nun von einer Schlucht außerhalb der Stadt.
 
-** Schlucht: 
+** DONE Schlucht: 
+CLOSED: [2025-10-04 Sa 18:30]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 18:30]
+:END:
 Teppich mit der Brücke verwenden. Höhle betreten. Tuch vom Hutständer nehmen. Leine mit der Truhe und danach die Augenbinde mit Rincewind verwenden. Im Altarraum Geldbeutel mit Sand füllen und mit dem Offlerauge austauschen.
 
-** Zwergenmine: 
+** DONE Zwergenmine: 
+CLOSED: [2025-10-04 Sa 18:33]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 18:33]
+:END:
 Mit dem Zwergenschmied sprechen und das Schwert an den linken Zwerg zeigen. Für etwas Wein ist er bereit es zu stimmen.
 
-** Kaputte Trommel: 
+** DONE Kaputte Trommel: 
+CLOSED: [2025-10-04 Sa 18:36]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 18:36]
+:END:
 Wirt auf Wein ansprechen.
 
-** Wirtschaft: 
+** DONE Wirtschaft: 
+CLOSED: [2025-10-04 Sa 18:47]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 18:47]
+:END:
 Ins Schlafzimmer gehen und die Tür ansehen. Mit dem Schwarzen Mann sprechen. Schraubenzieher mit Tür verwenden und den Schwarzen Mann erneut ansprechen bis er zur Kaputten Trommel geht.
 
-** Kaputte Trommel: 
+** DONE Kaputte Trommel: 
+CLOSED: [2025-10-04 Sa 18:51]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 18:51]
+:END:
 Durch die Falltür in den Weinkeller gehen. Fässer ansehen und einen Krug mit Holunderbeerwein füllen. Diesen Krug ins Inventar von Rincewind legen, da die Truhe ihn sonst austrinkt.
 
-** Zwergenmine: 
+** DONE Zwergenmine: 
+CLOSED: [2025-10-04 Sa 18:52]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 18:52]
+:END:
 Wein und Schwert an den Zwerg geben. Rincewind erhält so ein gestimmtes Schwert.
 
-** Gasse beim Alchimisten: 
+** DONE Gasse beim Alchimisten: 
+CLOSED: [2025-10-04 Sa 18:54]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 18:54]
+:END:
 Gestürzten Assassinen ansprechen.
 
-** Spielzeugladen an der Straße: 
+** DONE Spielzeugladen an der Straße: 
+CLOSED: [2025-10-04 Sa 18:55]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 18:55]
+:END:
 Knochen mit dem Leimtopf verwenden.
 
-** Speisesaal der Universität: 
+** DONE Speisesaal der Universität: 
+CLOSED: [2025-10-04 Sa 18:57]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 18:57]
+:END:
 Schlangenstab und Stab von Windel Poons austauschen. Den Besenstiel im Inventar mit dem Schmetterlingsnetz verbinden.
 
-** Wirtschaft: 
+** DONE Wirtschaft: 
+CLOSED: [2025-10-04 Sa 19:37]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 19:37]
+:END:
 Leimknochen an den Hund geben und den Seemann ansprechen. Glas Milch für den Seemann beim Wirt bestellen. Tätowierung ansehen und ihn erneut ansprechen. Er erzählt von seinem Papagei und übergibt Rincewind eine Pfeife.
 
-** Rand der Welt: 
+** DONE Rand der Welt: 
+CLOSED: [2025-10-04 Sa 19:46]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 19:46]
+:END:
 Pfeife mit Rincewind verwenden und dem Papagei einen brennenden Knallkörper zuwerfen. Papagei mit dem verlängerten Schmetterlingsnetz aus dem Wasser fischen. Hut im Inventar betrachten und mit der Gabel im Wasser verwenden. Am Seil hinunterklettern und den glitzernden Gegenstand, die Pfeife, auf dem Panzer mitnehmen. Am Seil nach oben klettern.
 
-** Wirtschaft: 
+** DONE Wirtschaft: 
+CLOSED: [2025-10-04 Sa 19:48]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 19:48]
+:END:
 Papagei und Pfeife an den Seemann geben. Er erzählt nun, daß der Friseur Tätowierungen macht.
 
-** Wald: 
+** DONE Wald: 
+CLOSED: [2025-10-04 Sa 19:50]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 19:50]
+:END:
 Terminkalender mit Ottogramm an den Friseur geben.
 
-** Friseurgeschäft: 
+** DONE Friseurgeschäft: 
+CLOSED: [2025-10-04 Sa 19:52]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 19:52]
+:END:
 Mit dem Friseur reden.
 
-** Platz: 
+** DONE Platz: 
+CLOSED: [2025-10-04 Sa 19:54]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 19:54]
+:END:
 Schwanz des Esels im Pranger mit der Schere abschneiden. Mit Gassenjungen reden. Da er das Abziehtatoo nicht hergeben will geht's weiter zur Alchimistengasse.
 
-** Gasse beim Alchimisten: 
+** DONE Gasse beim Alchimisten: 
+CLOSED: [2025-10-04 Sa 20:03]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 20:03]
+:END:
 Gummiband in Rincewinds Inventar legen und auf die Dächer der Stadt katapultieren lassen. Zum Turm gehen und das Gummiband mit der Spitze des Fahnenmastes verwenden. Rincewind erhält so das Muttermal. Wenn man nun den Turm verlässt geht es automatisch weiter im 4. Akt.
 
 * Akt 4
 
-** Platz: 
+** DONE Platz: 
+CLOSED: [2025-10-04 Sa 20:06]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 20:06]
+:END:
 Schlüssel von Lady Käsedick nehmen.
 
-** Drachenheim: 
+** DONE Drachenheim: 
+CLOSED: [2025-10-04 Sa 20:09]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 20:09]
+:END:
 Käfig mit dem Schlüssel aufschließen und die Tür öffnen. Durch den Käfig gehen und den Sumpfdrachen Mambo (M16) nehmen. Der Sumpfdrache muss nun geladen werden. Dafür sind 3 der folgenden 4 Tätigkeiten notwendig:
 
 Im Inventar einen neuen Knallkörper nehmen, anzünden und mit M16 verwenden.
 
-** Kerker im Palast: 
+** DONE Kerker im Palast: 
+CLOSED: [2025-10-04 Sa 20:17]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 20:17]
+:END:
 Auf der rechten Seite befinden sich brennende Kohlen, die man auch mit M16 verwendet.
 
-** Zwergenmine: 
+** DONE Zwergenmine: 
+CLOSED: [2025-10-04 Sa 20:11]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 20:11]
+:END:
 M16 mit den brennenden Kohlen auf der linken Seite verwenden.
 
-** Hütte im düsteren Wald: 
+** DONE Hütte im düsteren Wald: 
+CLOSED: [2025-10-04 Sa 20:17]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 20:17]
+:END:
 M16 mit Kessel benutzen.
 
 Sobald der Sumpfdrache geladen ist und man den Raum verlässt geht es automatisch auf dem Platz weiter.
 
-** Platz: 
+** DONE Platz: 
+CLOSED: [2025-10-04 Sa 20:17]
+:LOGBOOK:
+- State "DONE"       from              [2025-10-04 Sa 20:17]
+:END:
 Sahnetörtchen aus dem Inventar nehmen und auf den Drachen werfen, sobald dieser im Bild ist.
 
 Es folgt der Abspann...
