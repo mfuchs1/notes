@@ -1,0 +1,16 @@
+#+title:      NetHack
+#+date:       [2025-10-14 Di 12:26]
+#+filetags:   :game:
+#+identifier: 20251014T122652
+
+* Versions
+
+** Console
+
+** Tiled Version
+
+* Commands
+
+* Wiki
+
+* Tutorial
