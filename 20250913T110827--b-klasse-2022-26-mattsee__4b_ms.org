@@ -17,6 +17,11 @@
 
 * Notizen, Tasks, Termine
 
+[[notmuch-search:tag:inbox][Notmuch search: tag:inbox]]
+
+[[notmuch:id:AM6PR02MB47566E8C84BAF23FF738D114C7E3A@AM6PR02MB4756.eurprd02.prod.outlook.com][Email from Direktion NMS Seekirchen: WG: Welttag der Lehrerin / Welttag des Lehrers – DANKE!]]
+
+[[mu4e:msgid:20251006-07472555-158c@bl10-b02][BrickLink Order #29527730 Has Been Shipped]]
 
 * Stundenplanung
 

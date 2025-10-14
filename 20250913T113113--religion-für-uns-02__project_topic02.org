@@ -41,6 +41,8 @@ Liturgische (Mit)Gestaltung Eröffnungsgottesdienst: Der Ablauf der Hl. Messe �
 *** [[denote:20250925T080841][Wofür Jesus streitet]]
 *** [[denote:20250929T163057][Liebe, eine Grundhaltung]]
 *** [[denote:20250929T163110][Freundschaft: Durch dick und dünn]]
+SCHEDULED: <2025-10-07 Di>
+
 *** [[denote:20250929T163123][Verliebt und verzaubert]]
 *** [[denote:20250929T163137][Handeln: Konstruktiv diskutieren]]
 *** [[denote:20250929T163155][Typisch Mann, typisch Frau?]]
@@ -64,10 +66,10 @@ Die Schüler*innen können (strukturelle) Schuld wahrnehmen, (eigenes) schuldhaf
 
 ** Inhalt des Buchs
 
-*** Leid hat viele Gesichter
-*** Wie soll ich damit umgehen?
-*** Impuls: einen Klagepsalm beten
-*** Warum habt ihr solche Angst?
+*** [[denote:20251014T103916][Leid hat viele Gesichter]]
+*** [[denote:20251014T103928][Wie soll ich damit umgehen?]]
+*** [[denote:20251014T103940][Impuls: einen Klagepsalm beten]]
+*** [[denote:20251014T103949][Warum habt ihr solche Angst?]]
 *** Vertrauen, die Stärke des Herzens
 *** Übergang: Kannst du mir verzeihen?
 *** Ich verurteile dich nicht!

@@ -60,6 +60,7 @@ Kirchenjahr
 *** [[denote:20250918T090453][Übergang: Große Fragen]]
 *** [[denote:20250918T090501][Große Antworten]]
 *** [[denote:20250918T090509][Harte Fakten]]
+SCHEDULED: <2025-10-07 Di>
 *** [[denote:20250918T090517][Gute Gedanken]]
 *** [[denote:20250918T090524][Philosophieren: Fragen stellen]]
 *** [[denote:20250918T090531][Eine gute Fragen]]
@@ -83,20 +84,20 @@ Die Schüler*innen verfügen über erweiterte Grundkenntnisse zur Bibel und kön
 
 ** Inhalte des Buchs
 
-*** Geschichten des Lebens
-*** Impuls: Der Turmbau zu Babel
-*** Übergang: Kannst du dich noch erinnern?
-*** Die Bibel erzählt
-*** Die Entstehung der Bibel
-*** Die Welt der Bibel
-*** Palästina, das Land der Bibel
-*** Das Leben zu Zeit Jesu
-*** Jesus, ein Phänomen
-*** Jesus, der Mensch
-*** Jesus, der Christus
-*** Evangelium, die frohe Botschaft
-*** Bibel: mit der Bibel arbeiten
-*** Übungsteil 
+*** [[denote:20251009T145427][Geschichten des Lebens]]
+*** [[denote:20251009T145447][Impuls: Der Turmbau zu Babel]]
+*** [[denote:20251009T145500][Übergang: Kannst du dich noch erinnern?]]
+*** [[denote:20251009T145513][Die Bibel erzählt]]
+*** [[denote:20251009T145522][Die Entstehung der Bibel]]
+*** [[denote:20251009T145530][Die Welt der Bibel]]
+*** [[denote:20251009T145540][Palästina, das Land der Bibel]]
+*** [[denote:20251009T145550][Das Leben zu Zeit Jesu]]
+*** [[denote:20251009T145600][Jesus, ein Phänomen]]
+*** [[denote:20251009T145608][Jesus, der Mensch]]
+*** [[denote:20251009T145616][Jesus, der Christus]]
+*** [[denote:20251009T145625][Evangelium, die frohe Botschaft]]
+*** [[denote:20251009T145635][Bibel: mit der Bibel arbeiten]]
+*** [[denote:20251009T145643][Übungsteil]] 
 
 * 04 Kirche | Kirche - die Gemeinschaft der Glaubenden erfahren
 März bis April
