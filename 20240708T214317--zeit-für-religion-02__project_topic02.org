@@ -80,6 +80,7 @@ Die Schüler:innen verfügen über vertiefte Grundkenntnisse zum Alten Testament
 ** Inhalte / Buch
 
 *** [[denote:20250906T125335][Eine Bibliothek in einem Buch / Texte aus fast 1000 Jahren]]
+SCHEDULED: <2025-10-15 Mi>
 *** [[denote:20250906T125345][Abraham, Sarah und ihre Familien]]
 *** [[denote:20250906T125354][Eine kurze Geschichte Israels]]
 *** [[denote:20250906T125408][Die Bibel - ein Buch in tausend Sprachen]]

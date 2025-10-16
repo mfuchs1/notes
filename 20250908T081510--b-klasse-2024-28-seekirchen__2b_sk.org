@@ -15,6 +15,9 @@
 
 [[denote:20240708T214317][Zeit für Religion 02]]
 
+* Webuntis
+[[https://hypate.webuntis.com/WebUntis/#/basic/login]]
+
 * Notizen, Tasks, Termine
 
 

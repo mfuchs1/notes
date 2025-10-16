@@ -15,6 +15,10 @@
 
 [[denote:20240719T125948][Zeit für Religion 01]]
 
+
+* Webuntis
+[[https://hypate.webuntis.com/WebUntis/#/basic/login]]
+
 * Notizen, Tasks, Termine
 
 

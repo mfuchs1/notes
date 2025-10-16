@@ -60,7 +60,6 @@ Kirchenjahr
 *** [[denote:20250918T090453][Übergang: Große Fragen]]
 *** [[denote:20250918T090501][Große Antworten]]
 *** [[denote:20250918T090509][Harte Fakten]]
-SCHEDULED: <2025-10-07 Di>
 *** [[denote:20250918T090517][Gute Gedanken]]
 *** [[denote:20250918T090524][Philosophieren: Fragen stellen]]
 *** [[denote:20250918T090531][Eine gute Fragen]]
