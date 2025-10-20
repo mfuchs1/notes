@@ -3,13 +3,20 @@
 #+filetags:   :03:fragen:
 #+identifier: 20250907T160742
 
-Bischof Oscar Romero
-Martin Luther King
-Pater Johannes Bosco
-Pater Maximilian Maria Kolbe
-Schwester Restituta Kafka
+[[https://www.heiligenlexikon.de/BiographienO/Oscar_Romero.html][Oscar Romero]]
+
+[[https://www.heiligenlexikon.de/BiographienM/Martin_Luther_King.htm][Martin Luther King]]
+
+[[https://www.heiligenlexikon.de/BiographienJ/Johannes_Don_Bosco.htm][Pater Johannes Bosco]]
+
+[[https://www.heiligenlexikon.de/BiographienM/Maximilian_Kolbe.htm][Pater Maximilian Maria Kolbe]]
+
+[[https://www.heiligenlexikon.de/BiographienR/Restituta_Kafka.html][Schwester Restituta Kafka]]
+
+[[https://www.heiligenlexikon.de/BiographienC/Carlo_Acutis.html][Carlo Acutis]]
 
 Quellen:
+- Heiligenlexikon
 - Wikipedia
 - Fotos
 - Videos?

@@ -1,0 +1,23 @@
+#+title:      Einführung in das Christentum
+#+date:       [2025-10-17 Fr 17:15]
+#+filetags:   :biblio:ratzinger1968:
+#+identifier: 20251017T171509
+
+here is DENOTE
+here is the CODE I GAVE YOU
+here is the BIBLIOGRAPHY
+
+#+begin_src bibtex
+@book{Ratzinger1968,
+        abstract = "",
+        author = "\textsc{Ratzinger}, Joseph",
+        edition = "",
+        file = "http://gso.gbv.de/DB=2.1/PPNSET?PPN=195449878",
+        language = "",
+        location = "München",
+        pagetotal = "",
+        publisher = "Kösel",
+        title = "{Einführung in das Christentum. Vorlesungen über das Apostolische Glaubensbekenntnis}",
+        year = "1968"
+}
+#+end_src

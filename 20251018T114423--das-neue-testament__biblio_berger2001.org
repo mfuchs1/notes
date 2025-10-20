@@ -1,0 +1,17 @@
+#+title:      Das Neue Testament
+#+date:       [2025-10-18 Sa 11:44]
+#+filetags:   :biblio:berger2001:
+#+identifier: 20251018T114423
+
+#+begin_src bibtex
+@book{Berger2001,
+        abstract = "",
+        author = "\textsc{Berger}, Klaus and \textsc{Nord}, Christiane",
+        isbn = "3458169709",
+        keywords = "Apokryphen; Deutsch; Frühchristentum; Literatur; Neues Testament; Quelle; Übersetzung",
+        location = "Frankfurt am Main",
+        publisher = "Insel-Verlag",
+        title = "{Das Neue Testament und frühchristliche Schriften}",
+        year = "2001"
+}
+#+end_src

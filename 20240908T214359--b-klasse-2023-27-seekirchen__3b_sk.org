@@ -22,11 +22,23 @@
 
 [[denote:20250907T160742][Gottes_Nächsten_Selbst_Liebe]]
 
-Bischof Oscar Romero
-Martin Luther King
-Pater Johannes Bosco
-Pater Maximilian Maria Kolbe
-Schwester Restituta Kafka
+[[https://www.heiligenlexikon.de/BiographienO/Oscar_Romero.html][Oscar Romero]]
+- Nico und Samuel
+- Eva und Antonia
+
+[[https://www.heiligenlexikon.de/BiographienM/Martin_Luther_King.htm][Martin Luther King]]
+- Hanna und Pia
+- Sophia und Luisa
+
+[[https://www.heiligenlexikon.de/BiographienJ/Johannes_Don_Bosco.htm][Pater Johannes Bosco]]
+- Rafael, Noah
+
+[[https://www.heiligenlexikon.de/BiographienM/Maximilian_Kolbe.htm][Pater Maximilian Maria Kolbe]]
+- Maximilian, Fabio
+
+[[https://www.heiligenlexikon.de/BiographienR/Restituta_Kafka.html][Schwester Restituta Kafka]]
+
+[[https://www.heiligenlexikon.de/BiographienC/Carlo_Acutis.html][Carlo Acutis]]
 
 ** Einleitung
 
