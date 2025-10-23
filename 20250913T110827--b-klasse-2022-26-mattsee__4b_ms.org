@@ -17,18 +17,15 @@
 
 * Notizen, Tasks, Termine
 
-[[notmuch-search:tag:inbox][Notmuch search: tag:inbox]]
-
-[[notmuch:id:AM6PR02MB47566E8C84BAF23FF738D114C7E3A@AM6PR02MB4756.eurprd02.prod.outlook.com][Email from Direktion NMS Seekirchen: WG: Welttag der Lehrerin / Welttag des Lehrers – DANKE!]]
-
-[[mu4e:msgid:20251006-07472555-158c@bl10-b02][BrickLink Order #29527730 Has Been Shipped]]
 
 * Stundenplanung
 
-[[denote:20250925T081026][Impuls: Ein Dilemma]]
+Diese Woche habe ich all jene Schüler, die nicht nach London mitfahren. Benötige ein Thema, das alle interessieren könnte. Ein Ethik Thema, also. 
 
-Video über Franz Jägerstätter
-
+- Überlebensrucksack (sieben Dinge, Gefühle, Technik)
+- 10 Wörter meines Lebens
+- Was braucht der Mensch, um glücklich zu sein?
+- Das Motto meines Lebens
 
 ** Einführung / Ziele
 
