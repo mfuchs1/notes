@@ -1,0 +1,37 @@
+#+title:      Endlich angekommen
+#+date:       [2025-10-24 Fr 08:53]
+#+filetags:   :schule:
+#+identifier: 20251024T085316
+#+DESCRIPTION: This text was generated using the After Dark post archetype.
+#+HUGO_CATEGORIES: 
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_BASE_DIR: /home/matthias/flying-toasters/
+#+AUTHOR: Matthias Fuchs
+
+* Ein neuer Anfang ...
+
+... ist schwer - sagt man. Und dies hat sich wieder einmal bestätigt. Durch die mehr als leidvollen Erfahrungen im letzten Schuljahr fiel mir der Wechsel an zwei neue Schulen überraschend - nicht einfach. Wahrscheinlich steckten mir die negativen Erlebnisse doch noch zu sehr in den Gliedern. 
+
+Doch alle - Direktorinnen, Kollegen und die Schüler - an beiden Schullen, haben mir sehr geholfen; und helfen mir weiterhin. Nach einer Woche fühlte ich mich bereits viel wohler. Natürlich gibt es an beiden Schulen tolle und weniger gelungene Stunden, nette und ein wenig anstrengende Schüler; diese wird es immer und überall geben. Aber andere Dinge sind noch nicht vorgekommen - und hoffentlich werden sie das auch nicht:
+
+An den beiden vorhergehenden Schulen zeigten die Schüler so gut wie keinen Respekt mir gegenüber; während der Pausenaufsicht haben an beiden Schulen die Kinder mir meinen Namen voller Verachtung hinterher gerufen: "Herr Fuuuuuuchs!" 
+
+Auch in die schwierigen Klassen gehe ich mit einem guten Gefühl hinein; bin viel gelassener. Vor allem, weil es beiden Schulen Direktorinnen gibt, die ... wie soll ich sagen? Ganz "normal" sind, entspannt, mich unterstützen, ... Ich werde von ihnen nicht schikaniert, gemobbt, ...
+
+Ich fahre wieder gerne in die Schule. Auch der Umstand, dass ich an *zwei* Schulen unterrichte, macht die Situation leichter. Der tägliche Wechsel nimmt der Arbeit viel von ihrem Stress. Ich sehe jeden Tag andere Kollegen, andere Schüler.
+
+** Seekirchen
+
+Die SMS Seekirchen ist eine sehr gute Sport Mittelschule, die Schüler erzielen auf diesem Gebiet erstaunliche Leistungen. Vor Kurzem durfte ich beim Schullauf Zeuge davon sein. Die beiden schnellsten der Schule kommen aus einer dritten Klasse  und erreichten dabei eine Zeit von 5:19 Minuten (Strecke 1600m).
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Seekirchen am Wallersee
+[[/images/seekirchen.jpg]]
+
+Im kommenden Frühjahr werden wir mit Freude in den Neubau übersiedeln dürfen. 
+
+** Mattsee
+
+Diese Schule gefällt mir immer besser. Vor allem die Schüler sind sehr nett - vor allem jene, die ich unterrichten darf. 
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Mattsee
+[[/images/Mattsee.jpg]]
