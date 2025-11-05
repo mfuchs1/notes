@@ -41,6 +41,9 @@ Das ist mein aktuelles Thema; leider werde ich manchmal von dunklen Gedanken üb
 Was kann ich tun? Wahrscheinlich selbst nicht viel, nur Jesus kann diesen Dämon besiegen. Doch kann ich meinen Teil dazu beitragen, meinen Glauben zu stärken - Bibel lesen, gute Literatur, Gebet, Sakramente, Gespräche mit Priestern, ...
 
 * Gedicht von Hermann Hesse
+:PROPERTIES:
+:ID:       603866a4-1e0d-4dc3-bbc9-5edc45216f00
+:END:
 
 #+begin_src text
 Stufen

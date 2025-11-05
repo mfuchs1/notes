@@ -1,35 +1,29 @@
-:PROPERTIES:
-:ID:       3390e4e6-955e-49ae-bbae-a26567bebe5c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Weisheit* --
-[[file:Weish_1.html][1]] ... [[file:Weish_6.html][6]]
-[[file:Weish_7.html][7]] *8* [[file:Weish_9.html][9]]
-[[file:Weish_10.html][10]] ... [[file:Weish_19.html][19]]
-
---------------
+#+TITLE: Weish 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-11-04 Di 12:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Weish 8.html
 
 * Weish 8
-  :PROPERTIES:
-  :CUSTOM_ID: weish-8
-  :END:
-
-<<verses>>
 
 <<v1>>
 1 Machtvoll entfaltet sie ihre Kraft von einem Ende zum andern /\\
- und durchwaltet voll Güte das All. ^{[[#fn1][1]]}\\
+ und durchwaltet voll Güte das All. [fn:1]\\
 \\
 
 <<v2>>
-**** Die Weisheit als Lehrerin der Tugend: 8,2-8
-     :PROPERTIES:
-     :CUSTOM_ID: die-weisheit-als-lehrerin-der-tugend-82-8
-     :END:
+* Die Weisheit als Lehrerin der Tugend: 8,2-8
+
 2 Sie habe ich geliebt und gesucht von Jugend auf, /\\
  ich suchte sie als Braut heimzuführen /\\
- und fand Gefallen an ihrer Schönheit. ^{[[#fn2][2]][[#fn3][3]]}\\
+ und fand Gefallen an ihrer Schönheit. [fn:2] [fn:3]\\
 \\
 
 <<v3>>
@@ -39,13 +33,12 @@
 
 <<v4>>
 4 Eingeweiht in das Wissen Gottes, /\\
- bestimmte sie seine Werke. ^{[[#fn4][4]]}\\
+ bestimmte sie seine Werke. [fn:4]\\
 \\
 
 <<v5>>
 5 Ist Reichtum begehrenswerter Besitz im Leben, /\\
- was ist dann reicher als die Weisheit, die in allem wirkt?
-^{[[#fn5][5]]}\\
+ was ist dann reicher als die Weisheit, die in allem wirkt? [fn:5]\\
 \\
 
 <<v6>>
@@ -71,10 +64,8 @@ Worte schön zu formen und Rätselhaftes zu deuten; /\\
 \\
 
 <<v9>>
-**** Die Weisheit als Lebensgefährtin: 8,9-18
-     :PROPERTIES:
-     :CUSTOM_ID: die-weisheit-als-lebensgefährtin-89-18
-     :END:
+* Die Weisheit als Lebensgefährtin: 8,9-18
+
 9 So beschloss ich, sie als Lebensgefährtin heimzuführen; /\\
  denn ich wusste, dass sie mir guten Rat gibt /\\
  und Trost in Sorge und Leid. ^{[[#fn7][7]]}\\
@@ -136,19 +127,12 @@ Gemeinschaft mit ihr Klugheit bringt /\\
 \\
 
 <<v19>>
-** Salomos großes Gebet: Das Walten der Weisheit in der Geschichte:
-8,19 - 19,22
-   :PROPERTIES:
-   :CUSTOM_ID: salomos-großes-gebet-das-walten-der-weisheit-in-der-geschichte-819---1922
-   :END:
-*** Das Gebet um Weisheit: 8,19 - 9,19
-    :PROPERTIES:
-    :CUSTOM_ID: das-gebet-um-weisheit-819---919
-    :END:
-**** Einleitung: 8,19-21
-     :PROPERTIES:
-     :CUSTOM_ID: einleitung-819-21
-     :END:
+* Salomos großes Gebet: Das Walten der Weisheit in der Geschichte: 8,19 - 19,22
+
+* Das Gebet um Weisheit: 8,19 - 9,19
+
+* Einleitung: 8,19-21
+
 19 Ich war ein begabtes Kind und hatte eine gute Seele erhalten,
 
 <<v20>>
@@ -161,18 +145,15 @@ ließ, wessen Gnadengeschenk sie ist. Daher wandte ich mich an den Herrn
 und sprach zu ihm aus ganzem Herzen: ^{[[#fn12][12]]}\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1,7; 12,18; 15,1
+^{[[#fnm1][1]]} ℘ 
 
-^{[[#fnm2][2]]} ℘ Sir 15,2
+^{[[#fnm2][2]]} ℘ 
 
-^{[[#fnm3][3]]} 2-8: Salomo hat die Weisheit von Jugend auf geliebt,
-weil sie mit Gott in innigster Verbindung steht, alle Güter gewährt, die
-vier Kardinaltugenden lehrt, die alle anderen in sich enthalten, und so
-zu einem rechtschaffenen Leben anleitet.
+^{[[#fnm3][3]]} .
 
-^{[[#fnm4][4]]} ℘ 9,4
+^{[[#fnm4][4]]} ℘ 
 
-^{[[#fnm5][5]]} ℘ 7,22; (5-7) 7,11-14
+^{[[#fnm5][5]]} ℘ 
 
 ^{[[#fnm6][6]]} ℘ Sir 42,19; Spr 1,6
 
@@ -187,3 +168,18 @@ zu einem rechtschaffenen Leben anleitet.
 ^{[[#fnm11][11]]} ℘ Spr 8,18
 
 ^{[[#fnm12][12]]} ℘ Spr 2,6; Weish 7,7
+
+* Footnotes
+
+[fn:1] 1,7; 12,18; 15,1
+
+[fn:2] Sir 15,2
+
+[fn:3] 2-8: Salomo hat die Weisheit von Jugend auf geliebt,
+weil sie mit Gott in innigster Verbindung steht, alle Güter gewährt, die
+vier Kardinaltugenden lehrt, die alle anderen in sich enthalten, und so
+zu einem rechtschaffenen Leben anleitet.
+
+[fn:4] 9,4
+
+[fn:5] 7,22; (5-7) 7,11-14

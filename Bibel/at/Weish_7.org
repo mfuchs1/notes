@@ -1,30 +1,26 @@
-:PROPERTIES:
-:ID:       fa95c3ee-5e59-4347-a81d-52da465cf0b9
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Weisheit* --
-[[file:Weish_1.html][1]] ... [[file:Weish_5.html][5]]
-[[file:Weish_6.html][6]] *7* [[file:Weish_8.html][8]]
-[[file:Weish_9.html][9]] ... [[file:Weish_19.html][19]]
-
---------------
+#+TITLE: Weish 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-11-04 Di 11:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Weish 7.html
 
 * Weish 7
-  :PROPERTIES:
-  :CUSTOM_ID: weish-7
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der sterbliche Mensch als Empfänger der Weisheit: 7,1-6
-     :PROPERTIES:
-     :CUSTOM_ID: der-sterbliche-mensch-als-empfänger-der-weisheit-71-6
-     :END:
+* Der sterbliche Mensch als Empfänger der Weisheit: 7,1-6
+
 1 Auch ich bin ein sterblicher Mensch wie alle anderen, /\\
  Nachkomme des ersten, aus Erde gebildeten Menschen. Im Schoß der Mutter
-wurde ich zu Fleisch geformt, / ^{[[#fn1][1]]}\\
+wurde ich zu Fleisch geformt, / [fn:1]\\
 \\
 
 <<v2>>
@@ -52,36 +48,33 @@ wurde ich zu Fleisch geformt, / ^{[[#fn1][1]]}\\
 \\
 
 <<v7>>
-**** Die Gottesgabe der Weisheit: 7,7-14
-     :PROPERTIES:
-     :CUSTOM_ID: die-gottesgabe-der-weisheit-77-14
-     :END:
+* Die Gottesgabe der Weisheit: 7,7-14
+
 7 Daher betete ich und es wurde mir Klugheit gegeben; /\\
- ich flehte und der Geist der Weisheit kam zu mir.
-^{[[#fn2][2]][[#fn3][3]]}\\
+ ich flehte und der Geist der Weisheit kam zu mir. [fn:2] [fn:3]\\
 \\
 
 <<v8>>
 8 Ich zog sie Zeptern und Thronen vor, /\\
- Reichtum achtete ich für nichts im Vergleich mit ihr. ^{[[#fn4][4]]}\\
+ Reichtum achtete ich für nichts im Vergleich mit ihr. [fn:4]\\
 \\
 
 <<v9>>
 9 Keinen Edelstein stellte ich ihr gleich; /\\
  denn alles Gold erscheint neben ihr wie ein wenig Sand /\\
- und Silber gilt ihr gegenüber so viel wie Lehm. ^{[[#fn5][5]]}\\
+ und Silber gilt ihr gegenüber so viel wie Lehm. [fn:5]\\
 \\
 
 <<v10>>
 10 Ich liebte sie mehr als Gesundheit und Schönheit /\\
  und zog ihren Besitz dem Lichte vor; /\\
  denn niemals erlischt der Glanz, /\\
- der von ihr ausstrahlt. ^{[[#fn6][6]]}\\
+ der von ihr ausstrahlt. [fn:6]\\
 \\
 
 <<v11>>
 11 Zugleich mit ihr kam alles Gute zu mir, /\\
- unzählbare Reichtümer waren in ihren Händen. ^{[[#fn7][7]]}\\
+ unzählbare Reichtümer waren in ihren Händen. [fn:7]\\
 \\
 
 <<v12>>
@@ -92,20 +85,18 @@ wurde ich zu Fleisch geformt, / ^{[[#fn1][1]]}\\
 
 <<v13>>
 13 Uneigennützig lernte ich und neidlos gebe ich weiter; /\\
- ihren Reichtum behalte ich nicht für mich. ^{[[#fn8][8]]}\\
+ ihren Reichtum behalte ich nicht für mich. [fn:8]\\
 \\
 
 <<v14>>
 14 Ein unerschöpflicher Schatz ist sie für die Menschen; /\\
  alle, die ihn erwerben, erlangen die Freundschaft Gottes. /\\
- Sie sind empfohlen durch die Gaben der Unterweisung. ^{[[#fn9][9]]}\\
+ Sie sind empfohlen durch die Gaben der Unterweisung. [fn:9]\\
 \\
 
 <<v15>>
-**** Bitte um die Gabe der Lehre: 7,15-21
-     :PROPERTIES:
-     :CUSTOM_ID: bitte-um-die-gabe-der-lehre-715-21
-     :END:
+* Bitte um die Gabe der Lehre: 7,15-21
+
 15 Mir aber gewähre Gott, nach meiner Einsicht zu sprechen /\\
  und zu denken, wie die empfangenen Gaben es wert sind; denn er ist der
 Führer der Weisheit /\\
@@ -119,8 +110,7 @@ Führer der Weisheit /\\
 
 <<v17>>
 17 Er verlieh mir untrügliche Kenntnis der Dinge, /\\
- sodass ich den Aufbau der Welt und das Wirken der Elemente verstehe,
-^{[[#fn10][10]]}\\
+ sodass ich den Aufbau der Welt und das Wirken der Elemente verstehe, [fn:10]\\
 \\
 
 <<v18>>
@@ -134,25 +124,21 @@ Führer der Weisheit /\\
 <<v20>>
 20 die Natur der Tiere und die Wildheit der Raubtiere, /\\
  die Gewalt der Geister und die Gedanken der Menschen, /\\
- die Verschiedenheit der Pflanzen und die Kräfte der Wurzeln.
-^{[[#fn11][11]]}\\
+ die Verschiedenheit der Pflanzen und die Kräfte der Wurzeln. [fn:11]\\
 \\
 
 <<v21>>
 21 Alles Verborgene und alles Offenbare habe ich erkannt; /\\
- denn es lehrte mich die Weisheit, die Meisterin aller Dinge.
-^{[[#fn12][12]]}\\
+ denn es lehrte mich die Weisheit, die Meisterin aller Dinge. [fn:12]\\
 \\
 
 <<v22>>
-**** Das Wesen der Weisheit: 7,22 - 8,1
-     :PROPERTIES:
-     :CUSTOM_ID: das-wesen-der-weisheit-722---81
-     :END:
+* Das Wesen der Weisheit: 7,22 - 8,1
+
 22 In ihr ist ein Geist, /\\
  gedankenvoll, heilig, einzigartig, mannigfaltig, zart, beweglich, /\\
  durchdringend, unbefleckt, klar, /\\
- unverletzlich, das Gute liebend, scharf, ^{[[#fn13][13]]}\\
+ unverletzlich, das Gute liebend, scharf, [fn:13]\\
 \\
 
 <<v23>>
@@ -176,19 +162,19 @@ Führer der Weisheit /\\
 <<v26>>
 26 Sie ist der Widerschein des ewigen Lichts, /\\
  der ungetrübte Spiegel von Gottes Kraft, /\\
- das Bild seiner Vollkommenheit. ^{[[#fn14][14]]}\\
+ das Bild seiner Vollkommenheit. [fn:14]\\
 \\
 
 <<v27>>
 27 Sie ist nur eine und vermag doch alles; /\\
  ohne sich zu ändern, erneuert sie alles. Von Geschlecht zu Geschlecht
 tritt sie in heilige Seelen ein /\\
- und schafft Freunde Gottes und Propheten; ^{[[#fn15][15]]}\\
+ und schafft Freunde Gottes und Propheten; [fn:15]\\
 \\
 
 <<v28>>
 28 denn Gott liebt nur den, /\\
- der mit der Weisheit zusammenwohnt. ^{[[#fn16][16]]}\\
+ der mit der Weisheit zusammenwohnt. [fn:16]\\
 \\
 
 <<v29>>
@@ -202,37 +188,39 @@ tritt sie in heilige Seelen ein /\\
  doch über die Weisheit siegt keine Schlechtigkeit.\\
 \\
 
-^{[[#fnm1][1]]} 1-6: Auch der weise König Salomo ist nur ein armseliger
+
+* Footnotes
+
+[fn:1] 1-6: Auch der weise König Salomo ist nur ein armseliger
 Mensch, dem die Weisheit nicht angeboren ist.
 
-^{[[#fnm2][2]]} ℘ 8,21
+[fn:2] [[file:Weish_8.org::v21][8,21]]
 
-^{[[#fnm3][3]]} 7-14: Nur durch das Gebet (vgl. 8,21 - 9,19 und 1 Kön
-3,6-9) kann Salomo die Weisheit als Geschenk von Gott erhalten.
+[fn:3] 7-14: Nur durch das Gebet (vgl. 8,21 - 9,19 und [[file:1.Kön_3.org::v6][1 Kön 3,6-9]]) kann Salomo die Weisheit als Geschenk von Gott erhalten.
 
-^{[[#fnm4][4]]} ℘ Spr 8,11
+[fn:4] [[file:Spr_8.org::v11][Spr 8,11]]
 
-^{[[#fnm5][5]]} ℘ Spr 3,14
+[fn:5] [[file:Spr_3.org::v14][Spr 3,14]]
 
-^{[[#fnm6][6]]} ℘ 7,29f
+[fn:6] [[v29][7,29f]]
 
-^{[[#fnm7][7]]} ℘ 1 Kön 3,13; Spr 3,16; 8,18
+[fn:7] [[file:1.Kön_3.org::v13][1 Kön 3,13]]; [[file:Spr_3.org::v16][Spr 3,16]]; [[file:Spr_8.org::v18][8,18]]
 
-^{[[#fnm8][8]]} ℘ 6,22
+[fn:8] [[file:Weish_6.org::v22][6,22]]
 
-^{[[#fnm9][9]]} ℘ 7,28
+[fn:9] [[v28][7,28]]
 
-^{[[#fnm10][10]]} ℘ 1 Kön 5,9f
+[fn:10] [[file:1.Kön_5.org::v9][1 Kön 5,9f]]
 
-^{[[#fnm11][11]]} ℘ 1 Kön 5,13
+[fn:11] [[file:1.Kön_5.org::v13][1 Kön 5,13]]
 
-^{[[#fnm12][12]]} ℘ 8,5f; 9,9
+[fn:12] [[file:Weish_8.org::v5][8,5f]]; [[file:Weish_9.org::v9][9,9]]
 
-^{[[#fnm13][13]]} 22f: Es werden einundzwanzig (7 mal 3) Eigenschaften
+[fn:13] 22f: Es werden einundzwanzig (7 mal 3) Eigenschaften
 der Weisheit aufgezählt.
 
-^{[[#fnm14][14]]} ℘ Hebr 1,3; Kol 1,15
+[fn:14] [[file:~/Documents/notes/Bibel/nt/Hebr_1.org::v3][Hebr 1,3]]; [[file:~/Documents/notes/Bibel/nt/Kol_1.org::v15][Kol 1,15]]
 
-^{[[#fnm15][15]]} ℘ Ps 104,30
+[fn:15] [[file:Ps_104.org::v30][Ps 104,30]]
 
-^{[[#fnm16][16]]} ℘ Sir 4,14
+[fn:16] [[file:Sir_4.org::v14][Sir 4,14]]
