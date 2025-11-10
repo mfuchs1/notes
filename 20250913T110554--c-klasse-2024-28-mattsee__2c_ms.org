@@ -30,6 +30,8 @@ Heilige / Verstorbene
 
 Brauchtum (Grabschmuck, ...)
 
+[[denote:20251105T085727][Allerheiligen Allerseelen]]
+
 * Schülerliste
 #+Name: 2021-students
 |----------+--------------+---------------------+------+-----------+------+-----|
