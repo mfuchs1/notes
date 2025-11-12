@@ -1,0 +1,31 @@
+#+title:      Mittwoch 12 November 2025
+#+date:       [2025-11-12 Mi 08:56]
+#+filetags:   :journal:
+#+identifier: 20251112T085651
+
+* [2025-11-12 Mi 08:56] Gabriel Instagram
+
+Gabriel hat leider ohne meine Erlaubnis auf seinem Handy Instagram installiert. Er hatte sicher keine böse Absicht, er will wahrscheinlich zu seinen Freunden und Kollegen in der Klasse dazugehören.
+
+Instagram birgt leider auch Risiken und Gefahren - mit Gabriel darüber reden (ihm zuhören!):
+
+** Negativer Einfluss auf mentale Gesundheit
+Es werden Hochglanzfotos hochgeladen, mit Schönheitsfiltern, etc. Das beeiflusst negativ das Selbstwertgefühl der Jugendlichen, die sich selbst als unzulänglich wahrnehmen.
+
+** Cybermobbing
+Kein Kommentar ...
+
+** Datenschutz
+Der Umgang mit privaten Daten ist auf jeder Social Media Plattform ein Problem.
+
+** Konsum ungeeigneter Inhalte
+Beispiele dafür sind Beiträge mit Gewalt, extremen Diäten oder riskanten Challenges.
+
+
+* [2025-11-12 Mi 09:04] Mount NAS Drive
+
+[[https://forum.manjaro.org/t/mount-nas-synology-in-thunar/181425/20]]
+
+Dem NAS Drive eine *fixe* bzw *statische* IP-Adresse vergeben. Nach dem obigen Link in der =fstab= Datei auf die Berechtigungen, Privilegien, etc achten.
+
+
