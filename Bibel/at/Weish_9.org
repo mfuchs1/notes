@@ -1,50 +1,48 @@
-:PROPERTIES:
-:ID:       032db966-489f-4af7-8bdf-60bf90cb9222
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Weisheit* --
-[[file:Weish_1.html][1]] ... [[file:Weish_7.html][7]]
-[[file:Weish_8.html][8]] *9* [[file:Weish_10.html][10]]
-[[file:Weish_11.html][11]] ... [[file:Weish_19.html][19]]
+#+TITLE: Weish 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-11-13 Do 14:41]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Weish 9.html
 
---------------
 
 * Weish 9
-  :PROPERTIES:
-  :CUSTOM_ID: weish-9
-  :END:
+
 
 <<verses>>
 
 <<v1>>
-**** Die Bitte um Weisheit: 9,1-19
-     :PROPERTIES:
-     :CUSTOM_ID: die-bitte-um-weisheit-91-19
-     :END:
+* Die Bitte um Weisheit: 9,1-19
+
 1 Gott der Väter und Herr des Erbarmens, /\\
  du hast das All durch dein Wort gemacht.\\
 \\
 
 <<v2>>
 2 Den Menschen hast du durch deine Weisheit erschaffen, /\\
- damit er über deine Geschöpfe herrscht. ^{[[#fn1][1]]}\\
+ damit er über deine Geschöpfe herrscht. [fn:1]\\
 \\
 
 <<v3>>
 3 Er soll die Welt in Heiligkeit und Gerechtigkeit leiten /\\
- und Gericht halten in rechter Gesinnung. ^{[[#fn2][2]]}\\
+ und Gericht halten in rechter Gesinnung. [fn:2]\\
 \\
 
 <<v4>>
 4 Gib mir die Weisheit, die an deiner Seite thront, /\\
- und verstoß mich nicht aus der Schar deiner Kinder! ^{[[#fn3][3]]}\\
+ und verstoß mich nicht aus der Schar deiner Kinder! [fn:3]\\
 \\
 
 <<v5>>
 5 Ich bin ja dein Knecht, der Sohn deiner Magd, /\\
  ein schwacher Mensch, dessen Leben nur kurz ist, /\\
- und gering ist meine Einsicht in Recht und Gesetz. ^{[[#fn4][4]]}\\
+ und gering ist meine Einsicht in Recht und Gesetz. [fn:4]\\
 \\
 
 <<v6>>
@@ -60,28 +58,27 @@
 <<v8>>
 8 Du hast befohlen, einen Tempel auf deinem heiligen Berg zu bauen /\\
  und einen Altar in der Stadt deiner Wohnung, /\\
- ein Abbild des heiligen Zeltes, das du von Anfang an entworfen hast.
-^{[[#fn5][5]][[#fn6][6]]}\\
+ ein Abbild des heiligen Zeltes, das du von Anfang an entworfen hast. [fn:5] [fn:6]\\
 \\
 
 <<v9>>
 9 Mit dir ist die Weisheit, die deine Werke kennt /\\
  und die zugegen war, als du die Welt erschufst. Sie weiß, was dir
 gefällt /\\
- und was recht ist nach deinen Geboten. ^{[[#fn7][7]]}\\
+ und was recht ist nach deinen Geboten. [fn:7]\\
 \\
 
 <<v10>>
 10 Sende sie vom heiligen Himmel /\\
  und schick sie vom Thron deiner Herrlichkeit, damit sie bei mir sei und
 alle Mühe mit mir teile /\\
- und damit ich erkenne, was dir gefällt. ^{[[#fn8][8]]}\\
+ und damit ich erkenne, was dir gefällt. [fn:8]\\
 \\
 
 <<v11>>
 11 Denn sie weiß und versteht alles; /\\
  sie wird mich in meinem Tun besonnen leiten /\\
- und mich in ihrem Lichtglanz schützen. ^{[[#fn9][9]]}\\
+ und mich in ihrem Lichtglanz schützen. [fn:9]\\
 \\
 
 <<v12>>
@@ -127,24 +124,21 @@ alle Mühe mit mir teile /\\
 19 durch die Weisheit wurden sie gerettet. ^{[[#fn15][15]]}\\
 \\
 
-^{[[#fnm1][1]]} ℘ Gen 1,26-28
+^{[[#fnm1][1]]} ℘ 
 
-^{[[#fnm2][2]]} ℘ Lk 1,75
+^{[[#fnm2][2]]} ℘ 
 
-^{[[#fnm3][3]]} ℘ 2 Chr 1,10
+^{[[#fnm3][3]]} ℘ 
 
-^{[[#fnm4][4]]} ℘ Ps 116,16; Ijob 14,1
+^{[[#fnm4][4]]} ℘ 
 
-^{[[#fnm5][5]]} ℘ 1 Kön 5,19; Ps 132,13f; Ex 29,9.40; Hebr 8,2
+^{[[#fnm5][5]]} ℘ 
 
-^{[[#fnm6][6]]} Nach Ex 25,9.40 sollte Mose das heilige Zelt nach dem
-Muster bauen, das Gott ihm gezeigt hatte. Da der Tempel nach dem Vorbild
-des heiligen Zeltes gebaut war, ist er ebenfalls nach jenem Muster
-gebaut. Nach anderer Auffassung ist mit dem «Zelt» der Himmel gemeint.
+^{[[#fnm6][6]]} .
 
-^{[[#fnm7][7]]} ℘ 8,4; Spr 8,27-30
+^{[[#fnm7][7]]} ℘ 
 
-^{[[#fnm8][8]]} ℘ 9,4
+^{[[#fnm8][8]]} ℘ 
 
 ^{[[#fnm9][9]]} ℘ 10,11-14; 11,1
 
@@ -160,3 +154,26 @@ gebaut. Nach anderer Auffassung ist mit dem «Zelt» der Himmel gemeint.
 
 ^{[[#fnm15][15]]} Einige Vg-Handschriften fügen hinzu: alle, die dir
 gefallen haben, Herr, von Anfang an.
+
+* Footnotes
+
+[fn:1] Gen 1,26-28
+
+[fn:2] Lk 1,75
+
+[fn:3] 2 Chr 1,10
+
+[fn:4] Ps 116,16; Ijob 14,1
+
+[fn:5] 1 Kön 5,19; Ps 132,13f; Ex 29,9.40; Hebr 8,2
+
+[fn:6] Nach Ex 25,9.40 sollte Mose das heilige Zelt nach dem
+Muster bauen, das Gott ihm gezeigt hatte. Da der Tempel nach dem Vorbild
+des heiligen Zeltes gebaut war, ist er ebenfalls nach jenem Muster
+gebaut. Nach anderer Auffassung ist mit dem «Zelt» der Himmel gemeint.
+
+[fn:7] 8,4; Spr 8,27-30
+
+[fn:8] 9,4
+
+[fn:9] 

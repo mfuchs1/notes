@@ -1,0 +1,15 @@
+#+title:      Donnerstag 13 November 2025
+#+date:       [2025-11-13 Do 14:21]
+#+filetags:   :journal:
+#+identifier: 20251113T142105
+
+* [2025-11-13 Do 14:21] New =ef-themes= config
+
+Die neue Version der =ef-themes= hängt von den =modus-themes= ab und sie übernehmen deren Variablen und Befehle. Das macht es in Zukunft wesentlich einfacher, eigene Themen zu entwerfen.
+
+[[file:~/.emacs.d/emacs-config.org::*=ef-themes= 2.0.0][=ef-themes= 2.0.0]]
+
+* [2025-11-13 Do 14:23] Sehr müde ...
+
+Ich bin heute extrem müde. Eine Kollegin war sehr nett und hat mir einen Kaffee gebracht. Bei der Heimfahrt muss ich besonders aufpassen und heute Abend viel früher schlafen gehen.
+
