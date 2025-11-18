@@ -1,0 +1,20 @@
+#+title:      Kommentar zum Neuen Testament
+#+date:       [2025-11-18 Di 10:14]
+#+filetags:   :theology:bibel:biblio:berger2011:
+#+identifier: 20251118T101450
+
+#+begin_src bibtex
+@book{Berger2011,
+        abstract = "",
+        author = "\textsc{Berger}, Klaus",
+        isbn = "3579081292",
+        location = "Gütersloh",
+        pagetotal = "",
+        publisher = "{Gütersloher Verlagshaus}",
+        title = "{Kommentar zum Neuen Testament}",
+        year = "2011"
+}
+#+end_src
+
+Ja, das klappt noch immer. Sehr gut.
+

@@ -1,33 +1,27 @@
-:PROPERTIES:
-:ID:       588fd602-d499-4dbb-b322-a0d301d29ce6
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Weisheit* --
-[[file:Weish_1.html][1]] ... [[file:Weish_8.html][8]]
-[[file:Weish_9.html][9]] *10* [[file:Weish_11.html][11]]
-[[file:Weish_12.html][12]] ... [[file:Weish_19.html][19]]
-
---------------
+#+TITLE: Weish 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-11-18 Di 11:54]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Weish 10.html
 
 * Weish 10
-  :PROPERTIES:
-  :CUSTOM_ID: weish-10
-  :END:
 
 <<verses>>
 
 <<v1>>
-*** Die rettende Macht der Weisheit - sieben Beispiele: 10,1 - 11,4
-    :PROPERTIES:
-    :CUSTOM_ID: die-rettende-macht-der-weisheit---sieben-beispiele-101---114
-    :END:
-**** Adam: 10,1-3
-     :PROPERTIES:
-     :CUSTOM_ID: adam-101-3
-     :END:
+* Die rettende Macht der Weisheit - sieben Beispiele: 10,1 - 11,4
+
+* Adam: 10,1-3
+
 1 Sie hat den Urvater der Welt nach seiner Erschaffung behütet, als er
-noch allein war; sie hat ihn aus seiner Sünde befreit ^{[[#fn1][1]]}
+noch allein war; sie hat ihn aus seiner Sünde befreit [fn:1]
 
 <<v2>>
 2 und ihm die Kraft gegeben, über alles zu herrschen. ^{[[#fn2][2]]}
@@ -39,20 +33,16 @@ seine Leidenschaft zugrunde, die ihn zum Brudermord trieb.
 \\
 
 <<v4>>
-**** Noach: 10,4
-     :PROPERTIES:
-     :CUSTOM_ID: noach-104
-     :END:
+* Noach: 10,4
+
 4 Die Weisheit hat die Erde, die seinetwegen überflutet wurde, wieder
 gerettet und den Gerechten auf wertlosem Holz durch die Wasser
 gesteuert. ^{[[#fn4][4]]}\\
 \\
 
 <<v5>>
-**** Abraham: 10,5
-     :PROPERTIES:
-     :CUSTOM_ID: abraham-105
-     :END:
+* Abraham: 10,5
+
 5 Als die Völker, einmütig nur in ihrer Schlechtigkeit, durch die
 Verwirrung ihrer Sprache getrennt wurden, erwählte sie den Gerechten und
 behütete ihn, sodass er vor Gott ohne Tadel war und trotz der Liebe zu
@@ -60,10 +50,8 @@ seinem Kind stark blieb. ^{[[#fn5][5]]}\\
 \\
 
 <<v6>>
-**** Lot: 10,6-9
-     :PROPERTIES:
-     :CUSTOM_ID: lot-106-9
-     :END:
+* Lot: 10,6-9
+
 6 Als die Frevler zugrunde gingen, rettete sie einen Gerechten, sodass
 er vor dem Feuer fliehen konnte, das auf die fünf Städte fiel;
 ^{[[#fn6][6]]}
@@ -84,10 +72,8 @@ bleibe, worin sie sich verfehlt hatten.
 \\
 
 <<v10>>
-**** Jakob: 10,10-12
-     :PROPERTIES:
-     :CUSTOM_ID: jakob-1010-12
-     :END:
+* Jakob: 10,10-12
+
 10 Einen Gerechten, der vor dem Zorn des Bruders floh, geleitete sie auf
 geraden Wegen, zeigte ihm das Reich Gottes und enthüllte ihm heilige
 Geheimnisse. Sie machte ihn reich bei seiner harten Arbeit und vermehrte
@@ -105,10 +91,8 @@ andere ist. ^{[[#fn9][9]]}\\
 \\
 
 <<v13>>
-**** Josef: 10,13-14
-     :PROPERTIES:
-     :CUSTOM_ID: josef-1013-14
-     :END:
+* Josef: 10,13-14
+
 13 Einen Gerechten, der verkauft worden war, ließ sie nicht im Stich,
 sondern bewahrte ihn vor der Sünde. ^{[[#fn10][10]]}
 
@@ -120,10 +104,8 @@ hatten, als Lügner und verlieh ihm ewigen Ruhm. ^{[[#fn11][11]]}\\
 \\
 
 <<v15>>
-**** Das Volk Israel: 10,15 - 11,4
-     :PROPERTIES:
-     :CUSTOM_ID: das-volk-israel-1015---114
-     :END:
+* Das Volk Israel: 10,15 - 11,4
+
 15 Sie hat ein heiliges Volk, ein untadeliges Geschlecht, aus der Gewalt
 einer Nation gerettet, die es unterdrückte. ^{[[#fn12][12]]}
 
@@ -154,7 +136,7 @@ deinen heiligen Namen und lobten einmütig deine schützende Hand.
 21 Denn die Weisheit hat den Mund der Stummen geöffnet und die Zungen
 der Unmündigen hat sie beredt gemacht.
 
-^{[[#fnm1][1]]} ℘ Sir 49,16; Gen 5,1
+^{[[#fnm1][1]]} ℘ 
 
 ^{[[#fnm2][2]]} ℘ 9,2; Gen 1,28
 
@@ -189,3 +171,7 @@ der Unmündigen hat sie beredt gemacht.
 ^{[[#fnm17][17]]} ℘ 18,5; Ps 106,11
 
 ^{[[#fnm18][18]]} ℘ Ex 15,1-21
+
+* Footnotes
+
+[fn:1] Sir 49,16; Gen 5,1

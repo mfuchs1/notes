@@ -89,7 +89,7 @@ alle Mühe mit mir teile /\\
 
 <<v13>>
 13 Denn welcher Mensch kann Gottes Plan erkennen, /\\
- oder wer begreift, was der Herr will? ^{[[#fn10][10]]}\\
+ oder wer begreift, was der Herr will? [fn:10]\\
 \\
 
 <<v14>>
@@ -99,81 +99,63 @@ alle Mühe mit mir teile /\\
 
 <<v15>>
 15 denn der vergängliche Leib beschwert die Seele /\\
- und das irdische Zelt belastet den um vieles besorgten Geist.
-^{[[#fn11][11]]}\\
+ und das irdische Zelt belastet den um vieles besorgten Geist. [fn:11]\\
 \\
 
 <<v16>>
 16 Wir erraten kaum, was auf der Erde vorgeht, /\\
  und finden nur mit Mühe, was doch auf der Hand liegt; /\\
- wer kann dann ergründen, was im Himmel ist? ^{[[#fn12][12]]}\\
+ wer kann dann ergründen, was im Himmel ist? [fn:12]\\
 \\
 
 <<v17>>
 17 Wer hat je deinen Plan erkannt, wenn du ihm nicht Weisheit gegeben
 /\\
- und deinen heiligen Geist aus der Höhe gesandt hast? ^{[[#fn13][13]]}\\
+ und deinen heiligen Geist aus der Höhe gesandt hast? [fn:13]\\
 \\
 
 <<v18>>
 18 So wurden die Pfade der Erdenbewohner gerade gemacht /\\
- und die Menschen lernten, was dir gefällt; ^{[[#fn14][14]]}\\
+ und die Menschen lernten, was dir gefällt; [fn:14]\\
 \\
 
 <<v19>>
-19 durch die Weisheit wurden sie gerettet. ^{[[#fn15][15]]}\\
+19 durch die Weisheit wurden sie gerettet. [fn:15]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 
-
-^{[[#fnm2][2]]} ℘ 
-
-^{[[#fnm3][3]]} ℘ 
-
-^{[[#fnm4][4]]} ℘ 
-
-^{[[#fnm5][5]]} ℘ 
-
-^{[[#fnm6][6]]} .
-
-^{[[#fnm7][7]]} ℘ 
-
-^{[[#fnm8][8]]} ℘ 
-
-^{[[#fnm9][9]]} ℘ 10,11-14; 11,1
-
-^{[[#fnm10][10]]} ℘ Jes 40,13 G; Röm 11,34
-
-^{[[#fnm11][11]]} ℘ 2 Kor 5,1
-
-^{[[#fnm12][12]]} ℘ Joh 3,12
-
-^{[[#fnm13][13]]} ℘ Joh 3,13; 1 Kor 2,16; Jes 32,15
-
-^{[[#fnm14][14]]} ℘ Bar 4,4
-
-^{[[#fnm15][15]]} Einige Vg-Handschriften fügen hinzu: alle, die dir
-gefallen haben, Herr, von Anfang an.
 
 * Footnotes
 
-[fn:1] Gen 1,26-28
+[fn:1] [[file:Gen_1.org::v26][Gen 1,26-28]]
 
-[fn:2] Lk 1,75
+[fn:2] [[file:~/Documents/notes/Bibel/nt/Lk_1.org::v75][Lk 1,75]]
 
-[fn:3] 2 Chr 1,10
+[fn:3] [[file:2.Chr_1.org::v10][2 Chr 1,10]]
 
-[fn:4] Ps 116,16; Ijob 14,1
+[fn:4] [[file:Ps_116.org::v16][Ps 116,16]]; [[file:Ijob_14.org::v1][Ijob 14,1]]
 
-[fn:5] 1 Kön 5,19; Ps 132,13f; Ex 29,9.40; Hebr 8,2
+[fn:5] [[file:1.Kön_5.org::v19][1 Kön 5,19]]; [[file:Ps_132.org::v13][Ps 132,13f]]; [[file:Ex_29.org::v9][Ex 29,9]].[[file:Ex_29.org::v40][40]]; [[file:~/Documents/notes/Bibel/nt/Hebr_8.org::v2][Hebr 8,2]]
 
 [fn:6] Nach Ex 25,9.40 sollte Mose das heilige Zelt nach dem
 Muster bauen, das Gott ihm gezeigt hatte. Da der Tempel nach dem Vorbild
 des heiligen Zeltes gebaut war, ist er ebenfalls nach jenem Muster
 gebaut. Nach anderer Auffassung ist mit dem «Zelt» der Himmel gemeint.
 
-[fn:7] 8,4; Spr 8,27-30
+[fn:7] [[file:Weish_8.org::v4][8,4]]; [[file:Spr_8.org::v27][Spr 8,27-30]]
 
-[fn:8] 9,4
+[fn:8] [[v4][9,4]]
 
-[fn:9] 
+[fn:9] [[file:Weish_10.org::v11][10,11-14]]; [[file:Weish_11.org::v1][11,1]]
+
+[fn:10] [[file:Jes_40.org::v13][Jes 40,13 G]]; [[file:~/Documents/notes/Bibel/nt/Röm_11.org::v34][Röm 11,34]]
+
+[fn:11] [[file:~/Documents/notes/Bibel/nt/2.Kor_5.org::v1][2 Kor 5,1]]
+
+[fn:12] [[file:~/Documents/notes/Bibel/nt/Joh_3.org::v12][Joh 3,12]]
+
+[fn:13] [[file:~/Documents/notes/Bibel/nt/Joh_3.org::v13][Joh 3,13]]; [[file:~/Documents/notes/Bibel/nt/1.Kor_2.org::v16][1 Kor 2,16]]; [[file:Jes_32.org::v15][Jes 32,15]]
+
+[fn:14] [[file:Bar_4.org::v4][Bar 4,4]]
+
+[fn:15] Einige Vg-Handschriften fügen hinzu: alle, die dir
+gefallen haben, Herr, von Anfang an.
