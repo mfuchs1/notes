@@ -23,6 +23,8 @@
 
 * Stundenplanung
 
+Bibelquiz - Schüler sollen Bibelstellen suchen und Fragen beantworten.
+
 [[denote:20250906T125335][Eine Bibliothek in einem Buch / Texte aus fast 1000 Jahren]]
 
 [[denote:20251105T085727][Allerheiligen Allerseelen]]
