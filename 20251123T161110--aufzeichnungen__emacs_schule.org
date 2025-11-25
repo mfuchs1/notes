@@ -1,0 +1,14 @@
+#+title:      Aufzeichnungen
+#+date:       [2025-11-23 So 16:11]
+#+filetags:   :emacs:schule:
+#+identifier: 20251123T161110
+
+* Worum geht es?
+Es geht mal wieder um die alte Frage: wie zeichne ich die Mitarbeit, Verhalten, Noten, ... der einzelnen Schüler auf?
+
+Ich kann mich erinnern, dass ich in Golling einen Kollegen gefragt habe (Bernhard), Klassenvorstand und Hauptfächerlehrer. Selbst er macht nicht zu jedem Schüler detaillierte Aufzeichnungen in jeder Stunde. Da er oft genug in der Klasse ist, kann er sich ein gutes, allgemeines Bild zu jedem Schüler machen.
+
+* Ideen
+So ähnlich mache ich es. Dadurch scheidet für mich eine Tabelle aus.
+
+Ich kann in jeder Klassendatei eine Headline pro Schüler anlegen und dann dort meine Aufzeichnungen anlegen. 

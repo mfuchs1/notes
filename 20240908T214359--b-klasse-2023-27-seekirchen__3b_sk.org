@@ -20,7 +20,7 @@
 
 * Stundenplanung
 
-Jesus Christus ist König
+[[denote:20251123T175238][Jesus Christus ist König]]
 
 Advent
 
@@ -35,58 +35,97 @@ Wer übernimmt die Fürbitten?
 
 * Reflexionen
 
+** Bauböck Jonas
 
-* Schülerliste
-#+Name: 2021-students
-|-----------+--------------+-----------------------+------+-----------+------+-----|
-| First     | Last         | Name                  | Note | Mitarbeit | Heft | LZK |
-|-----------+--------------+-----------------------+------+-----------+------+-----|
-| Sebastian | Eder         | [[Sebastian Eder][Sebastian Eder]]        |      |           |      |     |
-| Lara      | Gsenger      | [[Lara Gsenger][Lara Gsenger]]          |      |           |      |     |
-| Emil      | Hodo         | [[Emil Hodo][Emil Hodo]]             |      |           |      |     |
-| Matthias  | Hornegger    | [[Matthias Hornegger][Matthias Hornegger]]    |      |           |      |     |
-| Alexander | Kainhofer    | [[Alexander Kainhofer][Alexander Kainhofer]]   |      |           |      |     |
-| Anna      | Quehenberger | [[Anna Quehenberger][Anna Quehenberger]]     |      |           |      |     |
-| Sebastian | Reschreiter  | [[Sebastian Reschreiter][Sebastian Reschreiter]] |      |           |      |     |
-| Jonas     | Rettenbacher | [[Jonas Rettenbacher][Jonas Rettenbacher]]    |      |           |      |     |
-| Sofia     | Schwaighofer | [[Sofia Schwaighofer][Sofia Schwaighofer]]    |      |           |      |     |
-| Michael   | Seethaler    | [[Michael Seethaler][Michael Seethaler]]     |      |           |      |     |
-| Carina    | Windhofer    | [[Carina Windhofer][Carina Windhofer]]      |      |           |      |     |
-|-----------+--------------+-----------------------+------+-----------+------+-----|
-#+TBLFM: $4=vmean($5..$7);%.0f
-#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
-#+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
+*** test
+:PROPERTIES:
+:CAPTURED: [2025-11-23 So 18:07]
+:DESCRIPTION: [[file:~/Documents/notes/20240908T214359--b-klasse-2023-27-seekirchen__3b_sk.org::*Stundenplanung][Stundenplanung]]
+:LESSON: [2025-11-24 Mo] 3. Stunde
+:END:
 
-#+BIND: org-export-filter-timestamp-functions (tmp-f-timestamp)
-#+BIND: org-export-filter-strike-through-functions (tmp-f-strike-through)
-#+BEGIN_SRC emacs-lisp :exports results :results none
-  (defun tmp-f-timestamp (s backend info)
-    (replace-regexp-in-string "&[lg]t;\\|[][]" "" s))
-  (defun tmp-f-strike-through (s backend info) "")
-#+END_SRC
+*** Testeintrag
+:PROPERTIES:
+:CAPTURED: [2025-11-23 So 18:12]
+:CUSTOM_ID: h:20251123T181246
+:END:
+[[file:~/Documents/notes/20240908T214359--b-klasse-2023-27-seekirchen__3b_sk.org::*Bauböck Jonas][Bauböck Jonas]]
 
 
-#+BEGIN_SRC python :var table=2021-students :results output raw
-  print('* Mitarbeit')
-  for student in table:
-      first = student[0]
-      last = student[1]
-      email = last + '.' + first + '@abtenau.schule'
-      print('** ' + first + ' ' + last + '')
-      print(':PROPERTIES:')
-      print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
-      print(':EXPORT_FILE_NAME: ' '~/Documents/exports/'  + first +  '_'  + last +  '.html')
-      print(':ID: ' + first + '' + last + '')
-      print(':END: ')
-      print('#+Name: Note_' + first + '' + last + '')
-      print('|-----------------------+-------+-------------+-----+-----------+------------|')
-      print('| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |')
-      print('|-----------------------+-------+-------------+-----+-----------+------------|')
-      print('|                       |       |             |     |           |            |')
-      print('#+TBLFM: $6=vmean($3..$5);%.0f')
-      print('\n')
-#+END_SRC
 
-#+RESULTS:
-* Mitarbeit
+** Bosin Valentin
+
+** Breckner Mona
+
+*** Testeintrag 2
+:PROPERTIES:
+:CAPTURED: [2025-11-23 So 18:16]
+:DESCRIPTION: [[file:~/Documents/notes/20240908T214359--b-klasse-2023-27-seekirchen__3b_sk.org::*Stundenplanung][Stundenplanung]]
+:LESSON: [2025-11-24 Mo] 4. Stunde
+:END:
+
+*** Hallo
+:PROPERTIES:
+:CAPTURED: [2025-11-23 So 18:22]
+:CUSTOM_ID: h:20251123T182256
+:DESCRIPTION: [[file:~/Documents/org/20240717T163657--agenda__project.org::#h:79e7082f-c4b2-47d0-9506-6bde40e15f69][3b (1. OG) 07:45-08:35]]
+:LESSON: [2025-11-24 Mo] 1. Stunde
+:END:
+[[file:~/Documents/org/20240717T163657--agenda__project.org::#h:79e7082f-c4b2-47d0-9506-6bde40e15f69][3b (1. OG) 07:45-08:35]]
+
+
+
+*** Blablabla
+:PROPERTIES:
+:CAPTURED: [2025-11-23 So 18:24]
+:CUSTOM_ID: h:20251123T182443
+:DESCRIPTION: [[file:~/Documents/org/20240717T163657--agenda__project.org::#h:79e7082f-c4b2-47d0-9506-6bde40e15f69][3b (1. OG) 07:45-08:35]]
+:LESSON: [2025-11-24 Mo] 1. Stunde
+:END:
+
+
+
+** Clausen Jonas
+
+** Enzinger Sophia
+
+** Gappmaier Pia
+
+** Gerngross Eva
+
+** Gollackner Hanna
+
+** Gschwandtner Johannes
+
+** Hofer Nico
+
+** Idris Dalia
+
+** Kessler Fabio
+
+** Költringer Amelie
+
+** Krempler Dominik
+
+** Laimer Raphael
+
+** Reichl Verena
+
+** Roth Enna
+
+** Schober Luisa
+
+** Strohbichler Noah
+
+** Thurner Maximilian
+
+** Wagner Jasmin
+
+** Wassermann Sophia
+
+** Wieder Leonhard
+
+** Wimmer Antonia
+
+** Wirthenstätter Samuel
 

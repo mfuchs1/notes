@@ -1,0 +1,18 @@
+#+title:      The Bible in a Year
+#+date:       [2025-11-24 Mo 23:06]
+#+filetags:   :bibel:theology:
+#+identifier: 20251124T230657
+
+* Einleitung
+Hier ist der Raum für alle Notizen bzgl. "The Bible in a Year"-Reading Plan. Dazu nutze ich die großartige "The Great Adventure Bible" und den Podcast von P. Michael Schmitz (Hallow / etc).
+
+Als ersten Schritt sollte ich bestimmte Geschichtsbücher lesen, dank derer ich mir den großen Überblick über die Heilsgeschichte verschaffen kann. Folgende Bücher sollte ich zuerst lesen:
+
+Genesis, Exodus, Numeri, Josua, Richter, 1 Samuel, 2 Samuel, 1 Könige, 2 Könige, Esra, Nehemia, 1 Makkabäer, Lukas, Apostelgeschichte. 
+
+Mit diesen Bücher sollte ich innerhalb von 90 Tagen fertig sein; danach würde der "The Bible in a Year" Leseplan beginnen - wenn ich das alles richtig verstanden habe. Stimmt nicht ganz - die zentralen Bücher (siehe oben) sind im großen Leseplan integriert und dort *fett* gedruckt.
+
+Mir kommt da eine bessere Idee - alle Notizen in einer Datei wäre eine Möglichkeit. Die andere: ein Tagebuch  - und dazu jeden Tag einen eigenen Eintrag mit =denote-journal= via ~org-capture-templates~. Das lässt die Möglichkeit von Vernetzungen unter den einzelnen Dateien.
+
+Ich kann ja beides zu Beginn parallel führen und dann schauen, womit ich besser zurecht komme - oder was der Sache am besten dient.
+
