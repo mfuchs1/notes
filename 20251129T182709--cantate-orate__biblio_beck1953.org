@@ -1,0 +1,18 @@
+#+title:      Cantate Orate
+#+date:       [2025-11-29 Sa 18:27]
+#+filetags:   :biblio:beck1953:
+#+identifier: 20251129T182709
+
+#+begin_src bibtex
+@book{Beck1953,
+        abstract = "",
+        author = "\textsc{Beck}, Alois",
+        file = "http://www.worldcat.org/oclc/69145520",
+        location = "Linz",
+        pagetotal = "",
+        publisher = "Veritas",
+        subtitle = "{Lieder- und Gebetbuch für katholische Mittelschüler}",
+        title = "{Cantate Orate}",
+        year = "1953"
+}
+#+end_src
