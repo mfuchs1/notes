@@ -64,34 +64,6 @@ Die Heiligen des Advents als Lichtbringer:
 
 ** Breckner Mona
 
-*** Testeintrag 2
-:PROPERTIES:
-:CAPTURED: [2025-11-23 So 18:16]
-:DESCRIPTION: [[file:~/Documents/notes/20240908T214359--b-klasse-2023-27-seekirchen__3b_sk.org::*Stundenplanung][Stundenplanung]]
-:LESSON: [2025-11-24 Mo] 4. Stunde
-:END:
-
-*** Hallo
-:PROPERTIES:
-:CAPTURED: [2025-11-23 So 18:22]
-:CUSTOM_ID: h:20251123T182256
-:DESCRIPTION: [[file:~/Documents/org/20240717T163657--agenda__project.org::#h:79e7082f-c4b2-47d0-9506-6bde40e15f69][3b (1. OG) 07:45-08:35]]
-:LESSON: [2025-11-24 Mo] 1. Stunde
-:END:
-[[file:~/Documents/org/20240717T163657--agenda__project.org::#h:79e7082f-c4b2-47d0-9506-6bde40e15f69][3b (1. OG) 07:45-08:35]]
-
-
-
-*** Blablabla
-:PROPERTIES:
-:CAPTURED: [2025-11-23 So 18:24]
-:CUSTOM_ID: h:20251123T182443
-:DESCRIPTION: [[file:~/Documents/org/20240717T163657--agenda__project.org::#h:79e7082f-c4b2-47d0-9506-6bde40e15f69][3b (1. OG) 07:45-08:35]]
-:LESSON: [2025-11-24 Mo] 1. Stunde
-:END:
-
-
-
 ** Clausen Jonas
 
 ** Enzinger Sophia
