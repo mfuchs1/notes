@@ -3,6 +3,14 @@
 #+filetags:   :Project:topic01:
 #+identifier: 20250913T113018
 #+CATEGORY: Rfu #01
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Religion für uns 01.html
 
 * 01 Gemeinschaft | Zusammenleben - ein gutes Miteinander erleben
 September bis November

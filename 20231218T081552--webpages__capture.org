@@ -1,0 +1,210 @@
+#+title:      Webpages
+#+date:       [2023-12-18 Mo 08:15]
+#+filetags:   :capture:
+#+identifier: 20231218T081552
+#+STARTUP: showall
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Webpages.html
+
+* Wenn das Volk gefährlich wird -
+:PROPERTIES:
+:CREATED: [2025-02-15 Sa 20:52]
+:SOURCE: https://multipolar-magazin.de/artikel/wenn-das-volk-gefaehrlich-wird
+:END:
+
+When quoting a passage from another document, it is customary to format this as a paragraph that is indented on both the left and the right margin. You can include quotations in Org mode documents like this:
+
+#+BEGIN_QUOTE
+/Ein Journalist warnt in einem neuen Buch davor, „falsch“ zu wählen. Mark Schieritz, Vize-Ressortchef für Politik bei der Hamburger ZEIT, fragt ganz offen, ob viele Bürger nicht vielleicht „zu dumm für die Demokratie“ seien. Die „liberale Ordnung“ solle deshalb vor solch irregeleitetem Volkswillen „geschützt“ werden. Walter van Rossum hat das Buch für Multipolar gelesen./
+#+END_QUOTE
+
+* Aporetic fonts version 1.1.0 | Protesilaos Stavrou
+:PROPERTIES:
+:CREATED: [2025-02-15 Sa 22:02]
+:SOURCE: https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/
+:END:
+
+Diese Schriftart ist so ziemlich die schönste, die es für Emacs gibt. Entworfen von Protesilaos Stavrou, dem besten und eifrigsten Emacs Entwickler, den es gibt. Er ist nicht nur ein großartiger Lehrer für Emacs, sondern auch ein tiefsinniger Philosoph - in der Tradition seiner griechischen Vorfahren - er auf Zypern (im griechischen Teil) lebt.
+
+Aus urheberrechtlichen Gründen musste er seine Schriftart umbenennen. Es gab auch kleine Änderungen: t, m, und 0.
+
+#+BEGIN_QUOTE
+/Customised build of the Iosevka typeface, with a consistent rounded style and overrides for almost all individual glyphs in both upright (roman) and slanted (italic) variants. This is the successor to my now-discontinued “Iosevka Comfy” fonts./
+#+END_QUOTE
+
+* Aporetic fonts version 1.1.0 | Protesilaos Stavrou
+:PROPERTIES:
+:CREATED: [2025-02-15 Sa 22:17]
+:SOURCE: https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/
+:END:
+
+This release includes two stylistic corrections that pertain to Aporetic Serif and Aporetic Serif Mono. Customised build of the Iosevka typeface, with a consistent rounded style and overrides for almost all individual glyphs in both upright (roman) and slanted (italic) variants. This is the successor to my now-discontinued “Iosevka Comfy” fonts.
+
+#+BEGIN_QUOTE
+/The second change is to the letter m in both upright and slanted forms. Before, the m would have a top left serif, as intended, but not a bottom right tail. The tail is a feature of other glyphs that need to have such a style, like a, h, n, u: it imposes a proper rhythm together with the rest of the serif details. Now the m has its missing bottom right tail, making everything consistent./
+
+(Zitat von [[https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/][Aporetic fonts version 1.1.0 | Protesilaos Stavrou]], [2025-02-15 Sa 22:17])
+#+END_QUOTE
+
+* Aporetic fonts version 1.1.0 | Protesilaos Stavrou
+:PROPERTIES:
+:CREATED: [2025-02-15 Sa 22:25]
+:SOURCE: https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/
+:END:
+- SOURCE: https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/
+- CREATED: [2025-02-15 Sa 22:25]
+
+The first change is to the slanted (italic) form of the letter t. Before, it was mistakenly set to have a curved, upward-facing bottom stroke, which would clash with the flat bottom of i and l. Now the slanted t has a flat bottom as intended. The upright (roman) variants are always flat in this regard.
+
+#+BEGIN_QUOTE
+/Customised build of the Iosevka typeface, with a consistent rounded style and overrides for almost all individual glyphs in both upright (roman) and slanted (italic) variants. This is the successor to my now-discontinued “Iosevka Comfy” fonts./
+
+(Zitat von [[https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/][Aporetic fonts version 1.1.0 | Protesilaos Stavrou]], [2025-02-15 Sa 22:25])
+#+END_QUOTE
+
+* Aporetic fonts version 1.1.0 | Protesilaos Stavrou
+:PROPERTIES:
+:CREATED: [2025-02-15 Sa 22:38]
+:SOURCE: https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/
+:END:
+- SOURCE: https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/
+- CREATED: [2025-02-15 Sa 22:38]
+
+This release includes two stylistic corrections that pertain to Aporetic Serif and Aporetic Serif Mono.
+
+#+BEGIN_QUOTE
+/Customised build of the Iosevka typeface, with a consistent rounded style and overrides for almost all individual glyphs in both upright (roman) and slanted (italic) variants. This is the successor to my now-discontinued “Iosevka Comfy” fonts./
+
+(Zitat von [[https://protesilaos.com/codelog/2025-02-12-aporetic-fonts-version-1-1-0/][Aporetic fonts version 1.1.0 | Protesilaos Stavrou]], [2025-02-15 Sa 22:38])
+#+END_QUOTE
+
+* Wenn das Volk gefährlich wird -
+:PROPERTIES:
+:CREATED: [2025-02-15 Sa 23:00]
+:SOURCE: https://multipolar-magazin.de/artikel/wenn-das-volk-gefaehrlich-wird
+:END:
+- SOURCE: https://multipolar-magazin.de/artikel/wenn-das-volk-gefaehrlich-wird
+- CREATED: [2025-02-15 Sa 23:00]
+
+Im US-Präsidentschaftswahlkampf 2016 hielt Hillary Clinton eine Rede vor Verfechtern von Homosexuellenrechten. Dabei nannte sie „die Hälfte der Anhänger von Trump (…) rassistisch, schwulenfeindlich, fremdenfeindlich, islamfeindlich“. Mark Schieritz zufolge hätten diese Worte für große Turbulenzen in der Öffentlichkeit gesorgt und „die Dynamik des Wahlkampfs verändert“. Die Rede sei in die Geschichte eingegangen. Ihretwegen habe Clinton die Wahlen verloren. Tatsächlich ist von dieser Rede kaum mehr eine Spur zu finden, mit Sicherheit spielte sie beim Ausgang der Wahlen so gut wie keine Rolle. Allein Donald Trump hoffte, dass diese Beleidigungen Hillary Stimmen kosten könnten. 
+
+#+BEGIN_QUOTE
+/Ein Journalist warnt in einem neuen Buch davor, „falsch“ zu wählen. Mark Schieritz, Vize-Ressortchef für Politik bei der Hamburger ZEIT, fragt ganz offen, ob viele Bürger nicht vielleicht „zu dumm für die Demokratie“ seien. Die „liberale Ordnung“ solle deshalb vor solch irregeleitetem Volkswillen „geschützt“ werden. Walter van Rossum hat das Buch für Multipolar gelesen./
+
+(Zitat von [[https://multipolar-magazin.de/artikel/wenn-das-volk-gefaehrlich-wird][Wenn das Volk gefährlich wird -]], [2025-02-15 Sa 23:00])
+#+END_QUOTE
+
+* Kanada-Wahl: Trudeau-Nachfolger Carney siegt - news.ORF.at
+:PROPERTIES:
+:CREATED: [2025-04-29 Di 10:47]
+:SOURCE: https://orf.at/stories/3391965/
+:END:
+
+* Nach juristischer Schlappe: Prinz Harry will Versöhnung mit Familie - news.ORF.at
+:PROPERTIES:
+:CREATED: [2025-05-03 Sa 09:40]
+:SOURCE: https://orf.at/stories/3392332/
+:END:
+
+* Nach juristischer Schlappe: Prinz Harry will Versöhnung mit Familie - news.ORF.at
+:PROPERTIES:
+:CREATED: [2025-05-03 Sa 10:18]
+:SOURCE: https://orf.at/stories/3392332/
+:END:
+
+* Nach juristischer Schlappe: Prinz Harry will Versöhnung mit Familie - news.ORF.at
+:PROPERTIES:
+:CREATED: [2025-05-03 Sa 11:09]
+:SOURCE: https://orf.at/stories/3392332/
+:END:
+
+* Fußball: Last-Minute-Tor crasht Bayerns Meisterfeier - sport.ORF.at
+:PROPERTIES:
+:CREATED: [2025-05-03 Sa 20:01]
+:SOURCE: https://sport.orf.at/stories/3140905/
+:END:
+- SOURCE: https://sport.orf.at/stories/3140905/
+- CREATED: [2025-05-03 Sa 20:01]
+
+Juhuu, das klappt: ich habe diese Notiz vom =nyxt= browser, bookmarklets-mode ... gemacht. Das =org-capture-template= werde ich noch anpassen (z.B. habe ich "created" und "source" Angaben zweimal. Ist wohl übertrieben.)
+
+#+BEGIN_QUOTE
+/Bayern München hat seinen 34. Meistertitel praktisch sicher, muss die Feier nach einem Last-Minute-Schock aber noch etwas verschieben. Die Münchner drehten das Spiel bei RB Leipzig nach einem 0:2-Rückstand bis kurz vor Schluss in ein 3:2, ehe Yussuf Poulsen (94.) mit seinem Ausgleichstreffer in der Nachspielzeit zum großen Partycrasher avancierte. Für den ganz sicheren Titel hätte Bayern das Spiel gewinnen müssen./
+
+(Zitat von [[https://sport.orf.at/stories/3140905/][Fußball: Last-Minute-Tor crasht Bayerns Meisterfeier - sport.ORF.at]], [2025-05-03 Sa 20:01])
+#+END_QUOTE
+
+* Medienkritik: Mehr als „trotziger Idealismus“ -
+:PROPERTIES:
+:CREATED: [2025-05-06 Di 12:06]
+:SOURCE: https://multipolar-magazin.de/artikel/medienkritik-idealismus
+:END:
+
+* Medienkritik: Mehr als „trotziger Idealismus“ -
+:PROPERTIES:
+:CREATED: [2025-05-06 Di 12:06]
+:SOURCE: https://multipolar-magazin.de/artikel/medienkritik-idealismus
+:END:
+- SOURCE: https://multipolar-magazin.de/artikel/medienkritik-idealismus
+- CREATED: [2025-05-06 Di 12:06]
+
+
+
+#+BEGIN_QUOTE
+/Kritik an den etablierten Medien ist im Jahr 2025 fast schon Mainstream und längst in den Bestsellerlisten angekommen. Doch von welchem Standpunkt aus wird kritisiert? Eine Betrachtung anhand dreier aktueller Bücher./
+
+(Zitat von [[https://multipolar-magazin.de/artikel/medienkritik-idealismus][Medienkritik: Mehr als „trotziger Idealismus“ -]], [2025-05-06 Di 12:06])
+#+END_QUOTE
+
+* Was sind die 7 Gaben des Heiligen Geistes? - YOUCAT
+:PROPERTIES:
+:CREATED: [2025-05-27 Di 08:12]
+:SOURCE: https://youcat.org/de/credopedia/gaben-des-heiligen-geistes/
+:CUSTOM_ID: h:c473c627-98a1-4444-9b2e-9c7db2805898
+:END:
+
+
+#+BEGIN_QUOTE
+/Die Sieben Gaben des Heiligen Geistes
+
+Der Heilige Geist, der den Jüngern von Jesus versprochen wurde, ist im Neuen Testament mit drei Wort präsent: dynamis (= Allmacht Gottes), energeia (= wirksame Kraft), pneuma (= lebendiger Atem). Im Heiligen Geist ist uns die Fülle der Gnade geschenkt. Die biblische Rede von den „Sieben Gaben des Heiligen Geistes“ präzisiert das, was durch das Geschenk des Heiligen Geistes im einzelnen Gläubigen an Begabungen sichtbar werden kann und möglich wird. Man spricht von Charisma oder Charismen (altgriech. = aus Güte geschenkte Gabe)./
+
+(Zitat von [[https://youcat.org/de/credopedia/gaben-des-heiligen-geistes/][Was sind die 7 Gaben des Heiligen Geistes? - YOUCAT]], [2025-05-27 Di 08:12])
+#+END_QUOTE
+
+* Club-WM: Salzburg punktet auch gegen al-Hilal - sport.ORF.at
+:PROPERTIES:
+:CREATED: [2025-06-23 Mo 10:27]
+:SOURCE: https://sport.orf.at/stories/3142689/
+:END:
+- SOURCE: https://sport.orf.at/stories/3142689/
+- CREATED: [2025-06-23 Mo 10:27]
+
+
+
+#+BEGIN_QUOTE
+//
+
+(Zitat von [[https://sport.orf.at/stories/3142689/][Club-WM: Salzburg punktet auch gegen al-Hilal - sport.ORF.at]], [2025-06-23 Mo 10:27])
+#+END_QUOTE
+
+* Club-WM: Salzburg punktet auch gegen al-Hilal - sport.ORF.at
+:PROPERTIES:
+:CREATED: [2025-06-23 Mo 10:27]
+:SOURCE: https://sport.orf.at/stories/3142689/
+:END:
+
+* „Crystal-Meth-Pfarrer“: Drei Schuldsprüche - noe.ORF.at
+:PROPERTIES:
+:CREATED: [2025-10-23 Do 14:45]
+:SOURCE: https://noe.orf.at/stories/3327034/
+:END:
+
+
+
+
