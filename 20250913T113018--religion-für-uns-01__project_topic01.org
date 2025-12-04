@@ -128,22 +128,22 @@ Liturgische (Mit)Gestaltung Ostergottesdienst: Der Ablauf der Hl. Messe (Kap. 4.
 
 ** Inhalte des Buchs
 
-*** Menschen beten
-*** Über mein Leben nachdenken
-*** Impuls: Dankbar sein
-*** Arten von Gebeten
-*** Mit dem Körper beten
-*** Die Vielfalt des Betens
-*** Wie wir beten können
-*** Übergang: Die Bitten unseres Lebens
-*** Das Vaterunser
-*** Die Gemeinschaft der Glaubenden
-*** Gemeinsam Kirche sein
-*** Ich gehöre dazu!
-*** Ein gemeinsamer Glaube
-*** Verstehen: Glaubensaussagen deuten
-*** Gottes Gegenwart feiern
-*** Übungsteil
+*** [[denote:20251204T140653][Menschen beten]]
+*** [[denote:20251204T141031][Über mein Leben nachdenken]]
+*** [[denote:20251204T141055][Impuls: Dankbar sein]]
+*** [[denote:20251204T141120][Arten von Gebeten]]
+*** [[denote:20251204T141136][Mit dem Körper beten]]
+*** [[denote:20251204T141153][Die Vielfalt des Betens]]
+*** [[denote:20251204T141211][Wie wir beten können]]
+*** [[denote:20251204T141228][Übergang: Die Bitten unseres Lebens]]
+*** [[denote:20251204T141243][Das Vaterunser]]
+*** [[denote:20251204T141300][Die Gemeinschaft der Glaubenden]]
+*** [[denote:20251204T141316][Gemeinsam Kirche sein]]
+*** [[denote:20251204T141339][Ich gehöre dazu!]]
+*** [[denote:20251204T141353][Ein gemeinsamer Glaube]]
+*** [[denote:20251204T141409][Verstehen: Glaubensaussagen deuten]]
+*** [[denote:20251204T141425][Gottes Gegenwart feiern]]
+*** [[denote:20251204T141437][Übungsteil]]
 
 
 * 05 Welt | Feste - das Leben feiern
@@ -163,17 +163,17 @@ Die Schüler*innen können das Kirchenjahr mit seinen Festen als Rhythmus des Le
 
 ** Inhalte des Buchs
 
-*** Die Feste unserer Welt
-*** Impuls: Alles hat seine Zeit
-*** Die Durststrecken des Lebens
-*** Wir haben Grund zu feiern
-*** Übergang: Der Lauf des Jahres
-*** Das Kirchenjahr
-*** Der Weihnachtsfestkreis
-*** Kunst: Bilder erschließen
-*** Der Osterfestkreis
-*** Feste im Kirchenjahr
-*** Übungsteil
+*** [[denote:20251204T141518][Die Feste unserer Welt]]
+*** [[denote:20251204T141534][Impuls: Alles hat seine Zeit]]
+*** [[denote:20251204T141550][Die Durststrecken des Lebens]]
+*** [[denote:20251204T141606][Wir haben Grund zu feiern]]
+*** [[denote:20251204T141622][Übergang: Der Lauf des Jahres]]
+*** [[denote:20251204T141636][Das Kirchenjahr]]
+*** [[denote:20251204T141654][Der Weihnachtsfestkreis]]
+*** [[denote:20251204T141707][Kunst: Bilder erschließen]]
+*** [[denote:20251204T141725][Der Osterfestkreis]]
+*** [[denote:20251204T141738][Feste im Kirchenjahr]]
+*** [[denote:20251204T141754][Übungsteil]]
 
 * 06 Vielfalt | Religionen - die Vielfalt leben
 Mai bis Juni
@@ -192,14 +192,14 @@ Liturgische (Mit)Gestaltung Schlussgottesdienst: Der Ablauf der Hl. Messe (Kap. 
 
 ** Inhalte des Buchs
 
-*** Wo ich Zuhause bin
-*** Impuls: Ich und die anderen
-*** Unsere Vielfalt macht uns aus
-*** Übergang: Vielfalt des Christentums
-*** Vielfalt der Religionen
-*** Eine Religion, was ist das?
-*** Vier Religionen stellen sich vor
-*** Drei Konfessionen stellen sich vor
-*** Arbeitstechnik: Verschaffe dir einen Überblick!
-*** Einheit in der Vielfalt
-*** Übungsteil
+*** [[denote:20251204T144700][Wo ich Zuhause bin]]
+*** [[denote:20251204T144718][Impuls: Ich und die anderen]]
+*** [[denote:20251204T144741][Unsere Vielfalt macht uns aus]]
+*** [[denote:20251204T144758][Übergang: Vielfalt des Christentums]]
+*** [[denote:20251204T144816][Vielfalt der Religionen]]
+*** [[denote:20251204T144843][Eine Religion, was ist das?]]
+*** [[denote:20251204T144858][Vier Religionen stellen sich vor]]
+*** [[denote:20251204T144913][Drei Konfessionen stellen sich vor]]
+*** [[denote:20251204T144933][Arbeitstechnik: Verschaffe dir einen Überblick!]]
+*** [[denote:20251204T144948][Einheit in der Vielfalt]]
+*** [[denote:20251204T145003][Übungsteil]]

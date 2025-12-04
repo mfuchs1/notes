@@ -1,5 +1,0 @@
-#+title:      Eine Sprache in Bildern
-#+date:       [2025-12-02 Di 10:41]
-#+filetags:   :02:kirche:
-#+identifier: 20251202T104126
-

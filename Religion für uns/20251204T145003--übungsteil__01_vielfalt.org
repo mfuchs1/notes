@@ -1,0 +1,5 @@
+#+title:      Übungsteil
+#+date:       [2025-12-04 Do 14:50]
+#+filetags:   :01:vielfalt:
+#+identifier: 20251204T145003
+

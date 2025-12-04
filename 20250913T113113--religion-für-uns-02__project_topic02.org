@@ -68,13 +68,13 @@ Die Schüler*innen können (strukturelle) Schuld wahrnehmen, (eigenes) schuldhaf
 *** [[denote:20251014T103928][Wie soll ich damit umgehen?]]
 *** [[denote:20251014T103940][Impuls: einen Klagepsalm beten]]
 *** [[denote:20251014T103949][Warum habt ihr solche Angst?]]
-*** Vertrauen, die Stärke des Herzens
-*** Übergang: Kannst du mir verzeihen?
-*** Ich verurteile dich nicht!
-*** Wir übernehmen Verantwortung!
-*** Handeln: Sehen - Urteilen - Handeln
-*** Kinder haben Rechte
-*** Übungsteil
+*** [[denote:20251204T145517][Vertrauen, die Stärke des Herzens]]
+*** [[denote:20251204T145534][Übergang: Kannst du mir verzeihen?]]
+*** [[denote:20251204T145557][Ich verurteile dich nicht!]]
+*** [[denote:20251204T145612][Wir übernehmen Verantwortung!]]
+*** [[denote:20251204T145632][Handeln: Sehen - Urteilen - Handeln]]
+*** [[denote:20251204T145646][Kinder haben Rechte]]
+*** [[denote:20251204T145659][Übungsteil]]
 
 * 03 Glaube | Altes Testament – von Gott erzählen
 Jänner bis Februar
@@ -95,18 +95,18 @@ Die Schüler*innen können Gottesvorstellungen aus Bibel und christlicher Tradit
 
 ** Inhalt des Buchs
 
-*** Von Gott sprechen
-*** Impuls: 1 + 1 + 1 = 1
-*** Übergang: Gott zeigt sich den Menschen
-*** Der eine Gott
-*** Abraham und Sara - Gott ruft
-*** Isaak - Gott prüft
-*** Jakob - Gott streitet
-*** Geschichte und Geschichten
-*** Bibel: Textgattungen unterscheiden
-*** Die Welt des Alten Testaments
-*** Und die Frauen?
-*** Übungsteil
+*** [[denote:20251204T145952][Von Gott sprechen]]
+*** [[denote:20251204T150013][Impuls: 1 + 1 + 1 = 1]]
+*** [[denote:20251204T150026][Übergang: Gott zeigt sich den Menschen]]
+*** [[denote:20251204T150042][Der eine Gott]]
+*** [[denote:20251204T150058][Abraham und Sara - Gott ruft]]
+*** [[denote:20251204T150212][Isaak - Gott prüft]]
+*** [[denote:20251204T150316][Jakob - Gott streitet]]
+*** [[denote:20251204T150331][Geschichte und Geschichten]]
+*** [[denote:20251204T150347][Bibel: Textgattungen unterscheiden]]
+*** [[denote:20251204T150401][Die Welt des Alten Testaments]]
+*** [[denote:20251204T150416][Und die Frauen?]]
+*** [[denote:20251204T150433][Übungsteil]]
 
 * 04 Kirche | Sakramente – Gottes Nähe erfahren
 März bis April
@@ -134,14 +134,14 @@ Liturgische (Mit)Gestaltung Besinnungsfeier: Einen Klagepsalm beten (Kap. 2 – 
 
 ** Inhalt des Buchs
 
-*** [[denote:20251202T104126][Eine Sprache in Bildern]]
-*** Zeichen und Symbole
-*** Impuls: Symbole sprechen lassen - Hand
-*** Übergang: Das sichtbare Symbol
-*** Die spürbare Wirkung
-*** Was ist ein Sakrament?
-*** Sakramente: Symbole und Zeichen erschließen
-*** Übungsteil
+*** [[denote:20251204T150559][Eine Sprache in Bildern]]
+*** [[denote:20251204T150614][Zeichen und Symbole]]
+*** [[denote:20251204T150631][Impuls: Symbole sprechen lassen - Hand]]
+*** [[denote:20251204T150649][Übergang: Das sichtbare Symbol]]
+*** [[denote:20251204T150703][Die spürbare Wirkung]]
+*** [[denote:20251204T150718][Was ist ein Sakrament?]]
+*** [[denote:20251204T150732][Sakramente: Symbole und Zeichen erschließen]]
+*** [[denote:20251204T150745][Übungsteil]]
 
 
 * 05 Welt | Religion – Gott in der Welt entdecken
@@ -169,16 +169,16 @@ Marienmonat Mai:
 
 ** Inhalt des Buchs
 
-*** Religion prägt unsere Welt
-*** Bräuche und Traditionen
-*** Maria, ein Phänomen
-*** Impuls: Unter dem Schutz Marias
-*** Unterwegs zu Gott
-*** Übergang: Kirche - das Haus Gottes?
-*** Baustile der Kirchen
-*** Der Innenraum einer Kirche
-*** Kirchenraum: Gottes Haus erkunden
-*** Übungsteil
+*** [[denote:20251204T150822][Religion prägt unsere Welt]]
+*** [[denote:20251204T150835][Bräuche und Traditionen]]
+*** [[denote:20251204T150846][Maria, ein Phänomen]]
+*** [[denote:20251204T150900][Impuls: Unter dem Schutz Marias]]
+*** [[denote:20251204T150919][Unterwegs zu Gott]]
+*** [[denote:20251204T150934][Übergang: Kirche - das Haus Gottes?]]
+*** [[denote:20251204T150948][Baustile der Kirchen]]
+*** [[denote:20251204T151014][Der Innenraum einer Kirche]]
+*** [[denote:20251204T151028][Kirchenraum: Gottes Haus erkunden]]
+*** [[denote:20251204T151042][Übungsteil]]
 
 
 * 06 Vielfalt | Judentum – als Volk erwählt
@@ -198,15 +198,15 @@ Liturgische (Mit)Gestaltung Schlussgottesdienst: Der Ablauf der Hl. Messe → Ba
 
 ** Inhalt des Buchs
 
-*** Woher ich komme
-*** Impuls: Mein Lebensbaum
-*** Übergang: Vorfahren im Glauben
-*** Das Judentum: Ein Überblick
-*** Ein Volk, ein Gott
-*** Die Erwartung des Messias
-*** Glaube und Leben
-*** Feste und Feiern
-*** Die Synagoge
-*** Gegenstände und Symbole
-*** Forschen: Ein Thema erforschen
-*** Übungsteil
+*** [[denote:20251204T151105][Woher ich komme]]
+*** [[denote:20251204T151119][Impuls: Mein Lebensbaum]]
+*** [[denote:20251204T151134][Übergang: Vorfahren im Glauben]]
+*** [[denote:20251204T151149][Das Judentum: Ein Überblick]]
+*** [[denote:20251204T151204][Ein Volk, ein Gott]]
+*** [[denote:20251204T151217][Die Erwartung des Messias]]
+*** [[denote:20251204T151232][Glaube und Leben]]
+*** [[denote:20251204T151246][Feste und Feiern]]
+*** [[denote:20251204T151259][Die Synagoge]]
+*** [[denote:20251204T151312][Gegenstände und Symbole]]
+*** [[denote:20251204T151326][Forschen: Ein Thema erforschen]]
+*** [[denote:20251204T151341][Übungsteil]]

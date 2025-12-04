@@ -55,17 +55,17 @@ Berufsorientierung – Berufsvorbereitung
 
 ** Inhalt des Buchs
 
-*** Was möchtest du einmal machen?
-*** Vom Beruf zur Berufung
-*** Sehnsüchte und Sorgen
-*** Impuls: Ein Brief an mich selbst
-*** Übergang: Dystopien und Utopien
-*** Wie geht es mit unserer Welt weiter?
-*** Was kommt nach dem Tod?
-*** Unser Leben mit dem Tod
-*** Jenseitsvorstellungen in den Religionen
-*** Reflexion: Können mich diese Fragen bewegen?
-*** Übungsteil
+*** [[denote:20251204T151635][Was möchtest du einmal machen?]]
+*** [[denote:20251204T151650][Vom Beruf zur Berufung]]
+*** [[denote:20251204T151703][Sehnsüchte und Sorgen]]
+*** [[denote:20251204T151717][Impuls: Ein Brief an mich selbst]]
+*** [[denote:20251204T151731][Übergang: Dystopien und Utopien]]
+*** [[denote:20251204T151752][Wie geht es mit unserer Welt weiter?]]
+*** [[denote:20251204T151809][Was kommt nach dem Tod?]]
+*** [[denote:20251204T151822][Unser Leben mit dem Tod]]
+*** [[denote:20251204T151835][Jenseitsvorstellungen in den Religionen]]
+*** [[denote:20251204T151850][Reflexion: Können mich diese Fragen bewegen?]]
+*** [[denote:20251204T151907][Übungsteil]]
 
 * 03 Glaube | Auferstehung - den Tod überwinden
 März bis April
@@ -91,17 +91,17 @@ Kirchenjahr – Fastenzeit - Ostern
 
 ** Inhalt des Buchs
 
-*** Scheitern und Neubeginn
-*** Impuls: (Zu) hohe Erwartungen?
-*** Übergang: Jesus, der gescheiterte Messias?
-*** Jesus, gescheitert am Kreuz?
-*** Ankunft und Aufruhr
-*** Abschied und Einsamkeit
-*** Verleugnung und Tod
-*** Auferstehung und Befreiung
-*** Aufbruch und Neuanfang
-*** Reflexion: Kann mich dieser Glaube tragen?
-*** Übungsteil
+*** [[denote:20251204T151934][Scheitern und Neubeginn]]
+*** [[denote:20251204T151953][Impuls: (Zu) hohe Erwartungen?]]
+*** [[denote:20251204T152013][Übergang: Jesus, der gescheiterte Messias?]]
+*** [[denote:20251204T152032][Jesus, gescheitert am Kreuz?]]
+*** [[denote:20251204T152045][Ankunft und Aufruhr]]
+*** [[denote:20251204T152100][Abschied und Einsamkeit]]
+*** [[denote:20251204T152112][Verleugnung und Tod]]
+*** [[denote:20251204T152126][Auferstehung und Befreiung]]
+*** [[denote:20251204T152138][Aufbruch und Neuanfang]]
+*** [[denote:20251204T152159][Reflexion: Kann mich dieser Glaube tragen?]]
+*** [[denote:20251204T152211][Übungsteil]]
 
 
 * 04 Kirche | Firmung - ein Teil der Gemeinschaft werden
@@ -121,15 +121,15 @@ Wenn sich in der 7. Schulstufe die Mehrheit der Schüler:innen auf das Sakrament
 
 ** Inhalt des Buchs
 
-*** Was bringt uns die Kirche?
-*** Die Aufgaben der Kirche
-*** Gelebte Gemeinschaft
-*** Impuls: Empathie - Schlüssel für das Miteinander
-*** Übergang: Kirche - bist du dabei?
-*** Junge Menschen gestalten die Kirche
-*** das Sakrament der Firmung
-*** Reflexion: Kann uns die Kirche verbinden?
-*** Übungsteil
+*** [[denote:20251204T152317][Was bringt uns die Kirche?]]
+*** [[denote:20251204T152334][Die Aufgaben der Kirche]]
+*** [[denote:20251204T152347][Gelebte Gemeinschaft]]
+*** [[denote:20251204T152400][Impuls: Empathie - Schlüssel für das Miteinander]]
+*** [[denote:20251204T152427][Übergang: Kirche - bist du dabei?]]
+*** [[denote:20251204T152442][Junge Menschen gestalten die Kirche]]
+*** [[denote:20251204T152505][Das Sakrament der Firmung]]
+*** [[denote:20251204T152523][Reflexion: Kann uns die Kirche verbinden?]]
+*** [[denote:20251204T152534][Übungsteil]]
 
 
 * 05 Welt | Kunst - das Leben ausdrücken
@@ -152,16 +152,16 @@ Welche Art religiöser Kunst findet sich in meinem Wohnort / in meiner Pfarre / 
 
 ** Inhalt des Buchs
 
-*** Unsere Sinn-Zeichen
-*** Impuls: Ästhetische Mutmacher
-*** Tattoos - der Körper als Sinn-Träger
-*** Mit Kunst auf Sinn-Suche
-*** Übergang: Vorstellungen vom Ende
-*** Bilder vom Ende
-*** Religiöse Kunst
-*** Religion prägt unsere Welt
-*** Reflexion: Wie prägt uns diese Welt?
-*** Übungsteil?
+*** [[denote:20251204T152555][Unsere Sinn-Zeichen]]
+*** [[denote:20251204T152610][Impuls: Ästhetische Mutmacher]]
+*** [[denote:20251204T152622][Tattoos - der Körper als Sinn-Träger]]
+*** [[denote:20251204T152639][Mit Kunst auf Sinn-Suche]]
+*** [[denote:20251204T152651][Übergang: Vorstellungen vom Ende]]
+*** [[denote:20251204T152703][Bilder vom Ende]]
+*** [[denote:20251204T152717][Religiöse Kunst]]
+*** [[denote:20251204T152728][Religion prägt unsere Welt]]
+*** [[denote:20251204T152757][Reflexion: Wie prägt uns diese Welt?]]
+*** [[denote:20251204T152813][Übungsteil]]
 
 * 06 Vielfalt | Asiatische Religionen - dem Kreislauf des Lebens folgen
 Mai bis Juni  - oder vorgezogen: November bis Februar
@@ -183,15 +183,15 @@ Feste und Feiern in der religiösen Vielfalt über das Schuljahr hinweg ansprech
 
 ** Inhalt des Buchs
 
-*** Religionen suchen nach Antowrten
-*** Impuls: Religion - Freiheit oder Einschränkung?
-*** Übergang: Buddha im Baumarkt
-*** Hindu-Religionen und Buddhismus
-*** Samsara - das Leben als Kreislauf
-*** Glaubensleben in den Hindu-Religionen
-*** Siddharta Gautama - der erste Buddha
-*** Vier Wahrheiten, acht Wege
-*** Glaubensleben im Buddhismus
-*** Die religiöse Vielfalt Asiens
-*** Reflexion: Kann uns diese Vielfalt einen?
-*** Übungsteil
+*** [[denote:20251204T152847][Religionen suchen nach Antworten]]
+*** [[denote:20251204T152906][Impuls: Religion - Freiheit oder Einschränkung?]]
+*** [[denote:20251204T152921][Übergang: Buddha im Baumarkt]]
+*** [[denote:20251204T152935][Hindu-Religionen und Buddhismus]]
+*** [[denote:20251204T152957][Samsara - das Leben als Kreislauf]]
+*** [[denote:20251204T153010][Glaubensleben in den Hindu-Religionen]]
+*** [[denote:20251204T153026][Siddharta Gautama - der erste Buddha]]
+*** [[denote:20251204T153040][Vier Wahrheiten, acht Wege]]
+*** [[denote:20251204T153054][Glaubensleben im Buddhismus]]
+*** [[denote:20251204T153107][Die religiöse Vielfalt Asiens]]
+*** [[denote:20251204T153128][Reflexion: Kann uns diese Vielfalt einen?]]
+*** [[denote:20251204T153140][Übungsteil]]

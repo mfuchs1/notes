@@ -1,0 +1,5 @@
+#+title:      Übungsteil
+#+date:       [2025-12-04 Do 14:17]
+#+filetags:   :01:welt:
+#+identifier: 20251204T141754
+
