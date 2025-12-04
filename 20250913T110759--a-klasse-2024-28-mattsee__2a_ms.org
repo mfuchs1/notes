@@ -15,6 +15,17 @@
 
 [[denote:20250913T113113][Religion für uns 02]]
 
+#+BEGIN: denote-links :regexp "_02_kirche" :not-regexp nil :excluded-dirs-regexp "zeit für religion" :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20251204T150559][Eine Sprache in Bildern]]
+- [[denote:20251204T150614][Zeichen und Symbole]]
+- [[denote:20251204T150631][Impuls: Symbole sprechen lassen - Hand]]
+- [[denote:20251204T150649][Übergang: Das sichtbare Symbol]]
+- [[denote:20251204T150703][Die spürbare Wirkung]]
+- [[denote:20251204T150718][Was ist ein Sakrament?]]
+- [[denote:20251204T150732][Sakramente: Symbole und Zeichen erschließen]]
+- [[denote:20251204T150745][Übungsteil]]
+#+END:
+
 
 * Notizen, Tasks, Termine
 

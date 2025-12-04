@@ -15,6 +15,14 @@
 
 [[denote:20240708T214317][Zeit für Religion 02]]
 
+#+BEGIN: denote-links :regexp "_02_religionen" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20250906T125646][Das Judentum entdecken / Das Leben feiern]]
+- [[denote:20250906T125657][Im Glauben an den einen Gott]]
+- [[denote:20250906T125715][Höre Israel!]]
+- [[denote:20250906T125724][Ein Teil von uns]]
+#+END:
+
+
 
 * Webuntis
 [[https://hypate.webuntis.com/WebUntis/#/basic/login]]
