@@ -15,6 +15,16 @@
 
 [[denote:20240719T125948][Zeit für Religion 01]]
 
+#+BEGIN: denote-links :regexp "_01_welt" :not-regexp nil :excluded-dirs-regexp "Mattsee" :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20250906T002625][Feste feiern]]
+- [[denote:20250906T002644][Hurra, wir feiern ein Fest!]]
+- [[denote:20250906T002654][Im Rhythmus der Zeit]]
+- [[denote:20250906T002704][Die Festkreise]]
+- [[denote:20250906T002714][Maria, eine mutige Frau]]
+- [[denote:20250906T002725][Weihnachtsspecial "Fürchtet euch nicht!"]]
+#+END:
+
+
 * Notizen, Tasks, Termine
 
 

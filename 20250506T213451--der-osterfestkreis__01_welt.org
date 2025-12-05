@@ -1,7 +1,0 @@
-#+title:      Der Osterfestkreis
-#+date:       [2025-05-06 Di 21:34]
-#+filetags:   :01:welt:
-#+identifier: 20250506T213451
-
-[[denote:20240908T214521][C Klasse 2024-28]]
-
