@@ -135,50 +135,50 @@ Lebens. [fn:21]
 
 * Footnotes
 
-[fn:1] Hos 12,14
+[fn:1] [[file:Hos_12.org::v14][Hos 12,14]]
 
-[fn:2] Ex 17,8-16
+[fn:2] [[file:Ex_17.org::v8][Ex 17,8-16]]
 
-[fn:3] Ex 17,1-7; Ps 78,15f; 105,41
+[fn:3] [[file:Ex_17.org::v1][Ex 17,1-7]]; [[file:Ps_78.org::v15][Ps 78,15f]]; [[file:Ps_105.org::v41][105,41]]
 
 [fn:4] Vg formuliert 5b etwas anders und fügt als V. 6 hinzu:
 indem es ihnen an Getränk mangelte und die Israeliten freuten sich, als
 sie Überfluss hatten. Die VV. 6-26 zählt dann Vg als VV. 7-27
 
-[fn:5] Ps 78,44; 105,29
+[fn:5] [[file:Ps_78.org::v44][Ps 78,44]]; [[file:Ps_105.org::v29][105,29]]
 
-[fn:6] Ex 1,15-22
+[fn:6] [[file:Ex_1.org::v15][Ex 1,15-22]]
 
-[fn:7] 11,4; 16,4
+[fn:7] [[v4][11,4]]; [[file:Weish_16.org::v4][16,4]]
 
-[fn:8] 12,21f
+[fn:8] [[file:Weish_12.org::v2][12,21f]]
 
-[fn:9] Dtn 8,5; Spr 3,11f
+[fn:9] [[file:Dtn_8.org::v5][Dtn 8,5]]; [[file:Spr_3.org::v11][Spr 3,11f]]
 
-[fn:10] Ex 2,3.15; 5,23; 10,28
+[fn:10] [[file:Ex_2.org::v3][Ex 2,3]].[[file:Ex_2.org::v15][15]]; [[file:Ex_5.org::v23][5,23]]; [[file:Ex_20.org::v28][10,28]]
 
-[fn:11] 12,23-27; 15,18 - 16,1
+[fn:11] [[file:Weish_12.org::v23][12,23-27]]; [[file:Weish_15.org::v18][15,18]] - [[file:Weish_16.org::v1][16,1]]
 
 [fn:12] Die Ägypter verehrten Krokodile, Schlangen, Eidechsen,
 Frösche, Käfer, Fliegen, überhaupt den größten Teil der in Ägypten
 heimischen Tierwelt.
 
-[fn:13] Ri 1,7
+[fn:13] [[file:Ri_1.org::v7][Ri 1,7]]
 
-[fn:14] Gen 1,2; 12,9
+[fn:14] [[file:Gen_1.org::v2][Gen 1,2]]; [[file:Gen_12.org::v9][12,9]]
 
 [fn:15] Den Ausdruck «ungeformter Stoff» übernimmt der
 Verfasser aus der griechischen Philosophie, aber nicht im Sinn einer
-ungeschaffenen Materie, er bezieht sich vielmehr auf Gen 1,2.
+ungeschaffenen Materie, er bezieht sich vielmehr auf [[file:Gen_1.org::v2][Gen 1,2]].
 
-[fn:16] Ijob 41,10-14
+[fn:16] [[file:Ijob_41.org::v10][Ijob 41,10-14]]
 
-[fn:17] Ijob 4,9; Sir 1,9
+[fn:17] [[file:Ijob_4.org::v9][Ijob 4,9]]; [[file:Sir_1.org::v9][Sir 1,9]]
 
-[fn:18] 2 Chr 20,6
+[fn:18] [[file:2.Chr_20.org::v6][2 Chr 20,6]]
 
-[fn:19] Jes 40,15
+[fn:19] [[file:Jes_40.org::v15][Jes 40,15]]
 
-[fn:20] 12,18; Ps 145,9
+[fn:20] [[file:Weish_12.org::v18][12,18]]; [[file:Ps_145.org::v9][Ps 145,9]]
 
-[fn:21] Jona 4,11
+[fn:21] [[file:Jona_4.org::v11][Jona 4,11]]
