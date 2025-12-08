@@ -1,25 +1,24 @@
-:PROPERTIES:
-:ID:       79b22e5a-6a1c-476b-a250-93fa05875093
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Weisheit* --
-[[file:Weish_1.html][1]] ... [[file:Weish_13.html][13]]
-[[file:Weish_14.html][14]] *15* [[file:Weish_16.html][16]]
-[[file:Weish_17.html][17]] ... [[file:Weish_19.html][19]]
+#+TITLE: Weish 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-12-08 Mo 18:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Weish 15.html
 
---------------
 
 * Weish 15
-  :PROPERTIES:
-  :CUSTOM_ID: weish-15
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Du aber, unser Gott, bist gütig, wahrhaftig und langmütig; voll
-Erbarmen durchwaltest du das All. ^{[[#fn1][1]]}
+Erbarmen durchwaltest du das All. [fn:1]
 
 <<v2>>
 2 Auch wenn wir sündigen, gehören wir dir, da wir deine Stärke kennen;
@@ -109,7 +108,7 @@ finden könnte, soweit das beim Anblick von Tieren möglich ist, die zudem
 Gottes Lob und seinen Segen verloren haben. ^{[[#fn15][15]]}\\
 \\
 
-^{[[#fnm1][1]]} ℘ 8,1; Ex 34,6; Ps 86,5.15
+^{[[#fnm1][1]]} ℘ 
 
 ^{[[#fnm2][2]]} ℘ 12,16-18
 
@@ -140,3 +139,7 @@ zu führen.
 ^{[[#fnm14][14]]} ℘ (18-19) 11,15; 12,24
 
 ^{[[#fnm15][15]]} ℘ Gen 1,21f.25; 3,14
+
+* Footnotes
+
+[fn:1] 8,1; Ex 34,6; Ps 86,5.15
