@@ -1,24 +1,22 @@
-:PROPERTIES:
-:ID:       de6f830e-812c-46c6-8b29-ac737ce7ca37
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Weisheit* --
-[[file:Weish_1.html][1]] ... [[file:Weish_10.html][10]]
-[[file:Weish_11.html][11]] *12* [[file:Weish_13.html][13]]
-[[file:Weish_14.html][14]] ... [[file:Weish_19.html][19]]
-
---------------
+#+TITLE: Weish 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-12-08 Mo 13:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Weish 12.html
 
 * Weish 12
-  :PROPERTIES:
-  :CUSTOM_ID: weish-12
-  :END:
 
 <<verses>>
 
 <<v1>>
-1 Denn in allem ist dein unvergänglicher Geist. ^{[[#fn1][1]]}
+1 Denn in allem ist dein unvergänglicher Geist. [fn:1]
 
 <<v2>>
 2 Darum bestrafst du die Sünder nur nach und nach; du mahnst sie und
@@ -30,7 +28,7 @@ abwenden und an dich glauben, Herr.
 
 <<v4>>
 4 weil sie abscheuliche Verbrechen verübten, Zauberkünste und unheilige
-Festbräuche; ^{[[#fn2][2]][[#fn3][3]]}
+Festbräuche; [fn:2] [fn:3]
 
 <<v5>>
 5 sie waren erbarmungslose Kindermörder und verzehrten beim Opfermahl
@@ -43,23 +41,23 @@ die Hände unserer Väter zu vernichten;
 
 <<v7>>
 7 denn das Land, das dir vor allen anderen teuer ist, sollte eine seiner
-würdige Bevölkerung von Gotteskindern erhalten. ^{[[#fn4][4]]}
+würdige Bevölkerung von Gotteskindern erhalten. [fn:4]
 
 <<v8>>
 8 Doch selbst mit jenen gingst du schonend um, weil sie Menschen waren;
 du sandtest deinem Heer Hornissen voraus, um sie nach und nach zu
-vernichten. ^{[[#fn5][5]][[#fn6][6]]}
+vernichten. [fn:5] [fn:6]
 
 <<v9>>
 9 Obgleich du die Macht hattest, in einer Schlacht die Frevler den
 Gerechten in die Hand zu geben oder sie durch wilde Tiere oder ein
-unerbittliches Wort mit einem Schlag auszurotten, ^{[[#fn7][7]]}
+unerbittliches Wort mit einem Schlag auszurotten, [fn:7]
 
 <<v10>>
 10 vollzogst du doch erst nach und nach die Strafe und ließest so Zeit
 für die Umkehr. Dabei wusstest du genau, dass ihr Ursprung böse und ihre
 Schlechtigkeit angeboren war und dass sich ihr Denken in Ewigkeit nicht
-ändern werde; ^{[[#fn8][8]]}
+ändern werde; [fn:8]
 
 <<v11>>
 11 sie waren schon von Anfang an ein verfluchter Stamm. Keine Furcht vor
@@ -70,12 +68,11 @@ lassen.
 12 Denn wer darf sagen: Was hast du getan? Wer vermag sich deinem
 Urteilsspruch zu widersetzen? Wer könnte dich anklagen wegen des
 Untergangs von Völkern, die du selbst geschaffen hast? Wer wollte gegen
-dich auftreten als Anwalt schuldiger Menschen? ^{[[#fn9][9]]}
+dich auftreten als Anwalt schuldiger Menschen? [fn:9]
 
 <<v13>>
 13 Denn es gibt keinen Gott außer dir, der für alles Sorge trägt; daher
-brauchst du nicht zu beweisen, dass du gerecht geurteilt hast.
-^{[[#fn10][10]]}
+brauchst du nicht zu beweisen, dass du gerecht geurteilt hast. [fn:10]
 
 <<v14>>
 14 Kein König und kein Herrscher kann dich zur Rede stellen wegen der
@@ -84,12 +81,11 @@ Menschen, die du gestraft hast.
 <<v15>>
 15 Gerecht, wie du bist, verwaltest du das All gerecht und hältst es für
 unvereinbar mit deiner Macht, den zu verurteilen, der keine Strafe
-verdient. ^{[[#fn11][11]]}
+verdient. [fn:11]
 
 <<v16>>
 16 Deine Stärke ist die Grundlage deiner Gerechtigkeit und deine
-Herrschaft über alles lässt dich gegen alles Nachsicht üben.
-^{[[#fn12][12]]}
+Herrschaft über alles lässt dich gegen alles Nachsicht üben. [fn:12]
 
 <<v17>>
 17 Stärke beweist du, wenn man an deine unbeschränkte Macht nicht
@@ -99,23 +95,22 @@ Auflehnung.
 <<v18>>
 18 Weil du über Stärke verfügst, richtest du in Milde und behandelst uns
 mit großer Nachsicht; denn die Macht steht dir zur Verfügung, wann immer
-du willst. ^{[[#fn13][13]]}
+du willst. [fn:13]
 
 <<v19>>
 19 Durch solches Handeln hast du dein Volk gelehrt, dass der Gerechte
 menschenfreundlich sein muss, und hast deinen Söhnen die Hoffnung
-geschenkt, dass du den Sündern die Umkehr gewährst. ^{[[#fn14][14]]}
+geschenkt, dass du den Sündern die Umkehr gewährst. [fn:14]
 
 <<v20>>
 20 Du hast die Feinde deiner Kinder, auch wenn sie den Tod verdienten,
 sehr nachsichtig und nur nach und nach gestraft und ihnen Zeit und
-Möglichkeit gegeben, sich von ihrer Schlechtigkeit abzuwenden.
-^{[[#fn15][15]]}
+Möglichkeit gegeben, sich von ihrer Schlechtigkeit abzuwenden. [fn:15]
 
 <<v21>>
 21 Aber wie viel umsichtiger noch hast du deine Söhne bestraft, deren
 Vätern du Gutes verheißen hast, als du mit ihnen unter Eid den Bund
-schlossest. ^{[[#fn16][16]]}
+schlossest. [fn:16]
 
 <<v22>>
 22 Während du uns erziehst, geißelst du unsere Feinde zehntausendfach,
@@ -124,7 +119,7 @@ hoffen, wenn wir selber vor dem Gericht stehen.
 
 <<v23>>
 23 Du hast jene, die in Torheit und Unrecht dahinlebten, mit ihren
-eigenen Gräueln gepeinigt. ^{[[#fn17][17]]}
+eigenen Gräueln gepeinigt. [fn:17]
 
 <<v24>>
 24 Allzu weit waren sie in die Irre gegangen, als sie die
@@ -133,7 +128,7 @@ unverständige Kinder sich täuschen ließen.
 
 <<v25>>
 25 Darum hast du ihnen wie unvernünftigen Kindern eine Strafe gesandt,
-die sie zum Gespött machte. ^{[[#fn18][18]]}
+die sie zum Gespött machte. [fn:18]
 
 <<v26>>
 26 Wer sich aber durch eine Strafe, die ihn zum Gespött macht, nicht
@@ -144,50 +139,48 @@ entspricht.
 27 In ihren Leiden wurden sie zornig über die Tiere, die sie für Götter
 hielten und mit denen sie jetzt gestraft wurden. So erfuhren sie jenen,
 von dem sie vorher nichts wissen wollten, und erkannten ihn als den
-wahren Gott; deshalb war ja auch die äußerste Strafe über sie gekommen.
-^{[[#fn19][19]]}\\
+wahren Gott; deshalb war ja auch die äußerste Strafe über sie gekommen. [fn:19] \\
 \\
+ 
 
-^{[[#fnm1][1]]} ℘ 1,7; Ps 104,30
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (4-5) 14,23-29
+[fn:1] [[file:Weish_1.org::v7][1,7]]; [[file:Ps_104.org::v30][Ps 104,30]]
 
-^{[[#fnm3][3]]} 4f: Dtn 18,9f.12 warnt vor Kinderopfern, die bei den
-Kanaanitern bezeugt sind (vgl. die Anmerkungen zu Gen 22,1-19 und zu Lev
-18,21).
+[fn:2] (4-5) [[file:Weish_14.org::v23][14,23-29]]
 
-^{[[#fnm4][4]]} ℘ Jos 11,14.20; Dtn 11,12; Ps 47,5; Dtn 14,1
+[fn:3] 4f: [[file:Dtn_18.org::v9][Dtn 18,9f]].[[file:Dtn_18.org::v12][12]] warnt vor Kinderopfern, die bei den
+Kanaanitern bezeugt sind (vgl. die Anmerkungen zu [[file:Gen_22.org::v1][Gen 22,1-19]] und zu [[file:Lev_18.org::v21][Lev 18,21]]).
 
-^{[[#fnm5][5]]} ℘ 11,26
+[fn:4] [[file:Jos_11.org::v14][Jos 11,14]].[[file:Jos_11.org::v20][20]]; [[file:Dtn_11.org::v12][Dtn 11,12]]; [[file:Ps_47.org::v5][Ps 47,5]]; [[file:Dtn_14.org::v1][Dtn 14,1]]
 
-^{[[#fnm6][6]]} Von Hornissen sprechen G und Vg in Ex 23,28; Dtn 7,20;
-Jos 24,12. Heute wird das entsprechende hebräische Wort gewöhnlich mit
-«Entmutigung», «Furcht» oder «Panik» wiedergegeben. In Ex 23,29f und Dtn
-7,22 wird die allmähliche Ausrottung der Kanaaniter als Rücksichtnahme
-Gottes auf Israel gedeutet; anders Ri 2,3.20-23; 3,1-4.
+[fn:5] [[file:Weish_11.org::v26][11,26]]
 
-^{[[#fnm7][7]]} ℘ 11,17f
+[fn:6] Von Hornissen sprechen G und Vg in [[file:Ex_23.org::v28][Ex 23,28]]; [[file:Dtn_7.org::v20][Dtn 7,20]]; [[file:Jos_24.org::v12][Jos 24,12]]. Heute wird das entsprechende hebräische Wort gewöhnlich mit «Entmutigung», «Furcht» oder «Panik» wiedergegeben. In [[file:Ex_23.org::v29][Ex 23,29f]] und [[file:Dtn_7.org::v22][Dtn 7,22]] wird die allmähliche Ausrottung der Kanaaniter als Rücksichtnahme Gottes auf Israel gedeutet; anders 
+[[file:Ri_2.org::v3][Ri 2,3]].[[file:Ri_2.org::v20][20-23]]; [[file:Ri_3.org::v1][3,1-4]].
 
-^{[[#fnm8][8]]} ℘ 12,2; 11,23
+[fn:7] [[file:Weish_11.org::v17][11,17f]]
 
-^{[[#fnm9][9]]} ℘ Ijob 9,12; Jes 45,9; Ijob 9,19
+[fn:8] [[v2][12,2]]; [[file:Weish_11.org::v23][11,23]]
 
-^{[[#fnm10][10]]} ℘ 6,7; 15,1
+[fn:9] [[file:Ijob_9.org::v12][Ijob 9,12]]; [[file:Jes_45.org::v9][Jes 45,9]]; [[file:Ijob_9.org::v19][Ijob 9,19]]
 
-^{[[#fnm11][11]]} ℘ Ps 9,9; 11,7
+[fn:10] [[file:Weish_6.org::v7][6,7]]; [[file:Weish_15.org::v1][15,1]]
 
-^{[[#fnm12][12]]} ℘ 11,24; 15,1
+[fn:11] [[file:Ps_9.org::v9][Ps 9,9]]; [[file:Ps_11.org::v7][11,7]]
 
-^{[[#fnm13][13]]} ℘ 11,23
+[fn:12] [[file:Weish_11.org::v24][11,24]]; [[file:Weish_15.org::v1][15,1]]
 
-^{[[#fnm14][14]]} ℘ 1,6; 12,2
+[fn:13] [[file:Weish_11.org::v23][11,23]]
 
-^{[[#fnm15][15]]} ℘ 12,10
+[fn:14] [[file:Weish_1.org::v6][1,6]]; [[v2][12,2]]
 
-^{[[#fnm16][16]]} ℘ 12,18; 11,9f; Gen 15,18; Dtn 7,8
+[fn:15] [[v10][12,10]]
 
-^{[[#fnm17][17]]} ℘ 11,15
+[fn:16] [[v18][12,18]]; [[file:Weish_11.org::v9][11,9f]]; [[file:Gen_15.org::v18][Gen 15,18]]; [[file:Dtn_7.org::v8][Dtn 7,8]]
 
-^{[[#fnm18][18]]} ℘ 15,14
+[fn:17] [[file:Weish_11.org::v15][11,15]]
 
-^{[[#fnm19][19]]} ℘ 16,16; 18,13; Ex 5,2; 14,25
+[fn:18] [[file:Weish_15.org::v14][15,14]]
+
+[fn:19] [[file:Weish_16.org::v16][16,16]]; [[file:Weish_18.org::v13][18,13]]; [[file:Ex_5.org::v2][Ex 5,2]]; [[file:Ex_14.org::v25][14,25]]

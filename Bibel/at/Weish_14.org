@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       ded7b11b-cbb2-435b-a7b1-3142046285cc
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Weisheit* --
-[[file:Weish_1.html][1]] ... [[file:Weish_12.html][12]]
-[[file:Weish_13.html][13]] *14* [[file:Weish_15.html][15]]
-[[file:Weish_16.html][16]] ... [[file:Weish_19.html][19]]
-
---------------
+#+TITLE: Weish 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-12-08 Mo 14:53]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Weish 14.html
 
 * Weish 14
-  :PROPERTIES:
-  :CUSTOM_ID: weish-14
-  :END:
 
 <<verses>>
 
@@ -28,17 +26,16 @@ Künstlers hergestellt.
 
 <<v3>>
 3 Deine Vorsehung, Vater, steuert es; denn du hast auch im Meer einen
-Weg gebahnt und in den Wogen einen sicheren Pfad. ^{[[#fn1][1]]}
+Weg gebahnt und in den Wogen einen sicheren Pfad. [fn:1]
 
 <<v4>>
 4 Damit zeigst du, dass du imstande bist, aus jeder Lage zu retten, so
-dass auch jemand, der keine Erfahrung hat, ein Schiff besteigen kann.
-^{[[#fn2][2]]}
+dass auch jemand, der keine Erfahrung hat, ein Schiff besteigen kann. [fn:2]
 
 <<v5>>
 5 Du willst, dass die Werke deiner Weisheit nicht ungenutzt bleiben.
 Darum vertrauen Menschen ihr Leben sogar einem winzigen Holz an und
-fahren wohlbehalten auf einem Floss durch die Brandung. ^{[[#fn3][3]]}
+fahren wohlbehalten auf einem Floss durch die Brandung. [fn:3]
 
 <<v6>>
 6 So hat auch in der Urzeit beim Untergang der übermütigen Riesen die
@@ -157,11 +154,11 @@ hinterlistig und ungerecht schworen.
 31 Es ist nie die Macht derer, bei denen sie schworen, sondern immer die
 den Sündern gebührende Strafe, die die Vergehen der Frevler verfolgt.
 
-^{[[#fnm1][1]]} ℘ Jes 43,16
+^{[[#fnm1][1]]} ℘ 
 
-^{[[#fnm2][2]]} ℘ Ps 107,28-30
+^{[[#fnm2][2]]} ℘ 
 
-^{[[#fnm3][3]]} ℘ Gen 1,28
+^{[[#fnm3][3]]} ℘ 
 
 ^{[[#fnm4][4]]} ℘ Gen 6 - 8; Bar 3,26-28; Weish 10,4f; Sir 44,17f
 
@@ -190,3 +187,11 @@ gab es auch in Ägypten Beispiele.
 ^{[[#fnm15][15]]} ℘ Lev 18,24
 
 ^{[[#fnm16][16]]} ℘ 14,12
+
+* Footnotes
+
+[fn:1] [[file:Jes_43.org::v16][Jes 43,16]]
+
+[fn:2] [[file:Ps_107.org::v28][Ps 107,28-30]]
+
+[fn:3] [[file:Gen_1.org::v28][Gen 1,28]]
