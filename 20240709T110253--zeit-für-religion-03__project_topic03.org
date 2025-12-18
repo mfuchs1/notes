@@ -8,9 +8,10 @@
 #+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
+#+OPTIONS: tags:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/Teit für Religion 03.html
+#+export_file_name: ~/Documents/exports/Zeit für Religion 03.html
 
 * Kap. 1 | Der Anfang von allem                                :gemeinschaft:
 
@@ -31,8 +32,8 @@ Die Schüler:innen können die Frage nach dem Woher anhand biblischer Schöpfung
 
 ** Inhalte / Buch
 
-***  [[denote:20250907T160434]["Zeit für Religion 3" - ein Spaziergang durch das Buch]]
-*** [[denote:20250907T160451]["Spiel ohne Regeln"]]
+*** [[denote:20251218T131224][Zeit für Religion 3 - ein Spaziergang durch das Buch]]
+*** [[denote:20251218T131328][Spiel ohne Regeln]]
 *** [[denote:20250907T160503][Der Anfang von Allem]]
 *** [[denote:20250907T160514][Die Schöpfung - ein wertvolles Geschenk]]
 *** [[denote:20250907T160528][Das Leben - Gabe und Aufgabe]]
@@ -53,7 +54,7 @@ Umweltbildung für nachhaltige Entwicklung (11)
 Wirtschafts-, Finanz- und Verbraucherbildung (13)
 
 
-* Kap. 2 | Zusammenleben, aber wie ...?                              :fragen:
+* Kap. 2 | Zusammenleben, aber wie?                                  :fragen:
 
 ** Kompetenzbereich
 
@@ -69,10 +70,10 @@ Die Schüler:innen kennen christliche Grundlagen des Zusammenlebens und können 
 
 ** Inhalte / Buch
 
-*** [[denote:20250907T160650][Zusammenleben, aber wie ...?]]
+*** [[denote:20251218T142455][Zusammenleben, aber wie?]]
 *** [[denote:20250907T160729][Wie kann Zusammenleben gelingen?]]
-*** [[denote:20250907T160742][Gottes_Nächsten_Selbst_Liebe]]
-*** [[denote:20250907T160752][Frieden spielen?!]]
+*** [[denote:20250907T160742][Gottes Nächsten Selbst Liebe]]
+*** [[denote:20250907T160752][Frieden spielen]]
 
 ** Kompetenzniveau 1 / Übergreifende Themen
 
@@ -257,7 +258,7 @@ Die Schüler:innen können die Sehnsucht nach einem "Leben in Fülle" zur Sprach
 
 *** [[denote:20250907T162000][Sich selbst entfalten]]
 *** [[denote:20250907T162012][Sich selbst entfalten - ein Leben in Fülle]]
-*** [[denote:20250907T162020][" ... und lebten glücklich und zufrieden ..."]]
+*** [[denote:20251218T131825][und lebten glücklich und zufrieden]]
 *** [[denote:20250907T162030][Wenn aus Sehnsucht Sucht wird]] 
 
 ** Kompetenzniveau 1 / Übergreifende Themen

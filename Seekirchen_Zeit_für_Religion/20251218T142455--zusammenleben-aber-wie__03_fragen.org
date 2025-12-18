@@ -1,5 +1,5 @@
 #+title:      Zusammenleben, aber wie?
-#+date:       [2025-09-07 So 16:06]
+#+date:       [2025-12-18 Do 14:24]
 #+filetags:   :03:fragen:
-#+identifier: 20250907T160650
+#+identifier: 20251218T142455
 

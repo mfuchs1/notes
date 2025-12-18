@@ -8,6 +8,7 @@
 #+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
+#+OPTIONS: tags:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
 #+export_file_name: ~/Documents/exports/Zeit für Religion 01.html
@@ -30,9 +31,9 @@ Die Schüler:innen können sich in ihrer gottgeschenkten Einzigartigkeit wahrneh
 
 ** Inhalte / Buch
 
-*** "[[denote:20250905T235717][Zeit für Religion]]"
-*** "[[denote:20250905T235735][Spaziergang durch das Buch]]"
-*** ([[denote:20250905T235754][Das bin ich - das bist du]])
+*** [[denote:20250905T235717][Zeit für Religion]]
+*** [[denote:20250905T235735][Spaziergang durch das Buch]]
+*** [[denote:20250905T235754][Das bin ich - das bist du]]
 *** [[denote:20250905T235812][Über das Leben nachdenken]]
 *** [[denote:20250905T235824][Einfach besonders - ich bin ich]]
 *** [[denote:20250905T235835][Auf dem Weg zum Ich]]
@@ -105,7 +106,7 @@ Die Schüler:innen können das Kirchenjahr mit seinen Festen als Rhythmus des Le
 *** [[denote:20250906T002654][Im Rhythmus der Zeit]]
 *** [[denote:20250906T002704][Die Festkreise]]
 *** [[denote:20250906T002714][Maria, eine mutige Frau]]
-*** [[denote:20250906T002725][Weihnachtsspecial "Fürchtet euch nicht!"]]
+*** [[denote:20251218T131545][Weihnachtsspecial Fürchtet euch nicht]]
 
 ** Kompetenzniveau, KN-SPF, Übergreifende Themen
 
@@ -163,7 +164,7 @@ Die Schüler:innen verfügen über erweiterte Grundkenntnisse zur Bibel und kön
 
 ** Inhalte / Buch
 
-*** [[denote:20250906T002858][Osterspecial "Fürchtet euch nicht!"]]
+*** [[denote:20251218T131503][Osterspecial Fürchtet euch nicht!]]
 *** [[denote:20250906T002908][Das Buch der Bücher]]
 *** [[denote:20250906T002917][Ein Navigationssystem für die Bibel]]
 *** [[denote:20250906T002925][Das Neue Testament entsteht]]

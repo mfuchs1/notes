@@ -7,6 +7,7 @@
 #+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
+#+OPTIONS: tags:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
 #+export_file_name: ~/Documents/exports/Zeit für Religion 04.html

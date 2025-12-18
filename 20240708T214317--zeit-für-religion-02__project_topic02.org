@@ -8,9 +8,10 @@
 #+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
+#+OPTIONS: tags:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/Jahresplanung 02.html
+#+export_file_name: ~/Documents/exports/Zeit für Religion 02.html
 
 * Kap. 1 | Kommunikation - sich mitteilen                      :gemeinschaft:
 September
@@ -238,7 +239,7 @@ Die Schüler:innen können vielfältige Formen von Liebe unterscheiden und sich 
 
 ** Inhalte / Buch
 
-*** [[denote:20250907T165403][Liebe ist ...? / Ich_Du_Gott_Liebe]]
+*** [[denote:20250907T165403][Liebe ist ...? / Ich Du Gott Liebe]]
 *** [[denote:20250907T165414][Liebe kennt keine Grenzen]]
 *** [[denote:20250907T165428][Es ist Liebe ...]]
 *** [[denote:20250907T165440][Es ist, was es ist]]
