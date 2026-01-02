@@ -205,6 +205,27 @@ Der Heilige Geist, der den Jüngern von Jesus versprochen wurde, ist im Neuen Te
 :SOURCE: https://noe.orf.at/stories/3327034/
 :END:
 
+* [Stable Update] 2025-12-15 - Kernels, NVIDIA, Plasma, Cosmic, Firefox - Announcements / Stable Updates - Manjaro Linux Forum
+:PROPERTIES:
+:CREATED: [2025-12-19 Fr 08:50]
+:SOURCE: https://forum.manjaro.org/t/stable-update-2025-12-15-kernels-nvidia-plasma-cosmic-firefox/183888/109
+:END:
 
+Am Desktop PC (Xfce, Nvidia) flackert die Taskbar, =conky=, manche Fenster. Auch andere User begegnen ähnlichen Problemen. Hier zwei Vroschläge:
 
+#+BEGIN_QUOTE
+/Had problems like others with 580 nvidia drivers (flickering).
 
+However going back to 570xx with mhwd resulted in problems and after reboot I was only able to use command line with ctrl+alt+f6.
+
+In the end was able to solve the problem and everything works with: “sudo pacman -S linux66-nvidia-570xx”/
+
+(Zitat von [[https://forum.manjaro.org/t/stable-update-2025-12-15-kernels-nvidia-plasma-cosmic-firefox/183888/109][[Stable Update] 2025-12-15 - Kernels, NVIDIA, Plasma, Cosmic, Firefox - Announcements / Stable Updates - Manjaro Linux Forum]], [2025-12-19 Fr 08:50])
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+After the this stable update, opening or closing windows causes the window and panel to flicker or disappear. I’m using a GeForce RTX 3060 laptop GPU on Manjaro Xfce 4 / X11. Temporary work‑arounds which works for me:
+
+    Downgrade the driver with mhwd to the 575xx version.
+    Or go to Window Manager Tweaks > Compositor and disable Enable display compositing.
+#+END_QUOTE
