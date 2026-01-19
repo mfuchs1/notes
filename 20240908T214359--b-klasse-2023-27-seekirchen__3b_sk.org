@@ -20,33 +20,7 @@
 
 * Stundenplanung
 
-** Sternsinger
-
-https://www.religionen-entdecken.de/lexikon/h/heilige-drei-koenige
-
-Köln - Grab der Hl. Drei Könige
-[[https://www.erzbistum-koeln.de/presse_und_medien/magazin/Heilige-Drei-Koenige-Herkunft-und-Bedeutung-des-Feiertags/]]
-
-FAQ:
-[[https://eds.at/weihnachten/faq-fragen-und-antworten-rund-um-die-heiligen-drei-koenige]]
-
-[[https://www.domquartier.at/wp-content/uploads/2019/12/Drei-K%C3%B6nige.pdf]]
-
-Willi wills wissen - 2026
-[[https://www.sternsinger.de/bildungsmaterial/fuer-schulen/unterrichtsmaterial/kinderarbeit/]]
-
-Kinderarbeit in Bangladesch
-
-Film
-[[https://www.youtube.com/watch?v=_VT7pHQMJug]]
-
-Material:
-[[https://www.sternsinger.de/fileadmin/bildung/Dokumente/schule/2025/Unterrichtsbausteine_Kinderarbeit/Kinderarbeit_Bangladesch_Unterrichtsmaterial.pdf]]
-
-
-
 ** Das Leben Jesu
-
 "Siehe, ich mache alles neu!" (Offb)
 
 - Taufe Jesu
@@ -54,27 +28,15 @@ Material:
 - Bergpredigt
 - Wunder, ...
 
+** Urchristentum (Kap 4)
+Apostel Paulus - Ausbreitung des christlichen Glaubens
+Verfolgung der Christen damals bis heute
+(Kirche in Not Grafik)
 
 
 * Reflexionen
 
 ** Bauböck Jonas
-
-*** test
-:PROPERTIES:
-:CAPTURED: [2025-11-23 So 18:07]
-:DESCRIPTION: [[file:~/Documents/notes/20240908T214359--b-klasse-2023-27-seekirchen__3b_sk.org::*Stundenplanung][Stundenplanung]]
-:LESSON: [2025-11-24 Mo] 3. Stunde
-:END:
-
-*** Testeintrag
-:PROPERTIES:
-:CAPTURED: [2025-11-23 So 18:12]
-:CUSTOM_ID: h:20251123T181246
-:END:
-[[file:~/Documents/notes/20240908T214359--b-klasse-2023-27-seekirchen__3b_sk.org::*Bauböck Jonas][Bauböck Jonas]]
-
-
 
 ** Bosin Valentin
 
