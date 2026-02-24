@@ -1,38 +1,9 @@
-#+title:      B Klasse 2024-28 Seekirchen
-#+date:       [2025-09-08 Mo 08:15]
-#+filetags:   :2b:sk:
-#+identifier: 20250908T081510
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
-#+SETUPFILE: ~/Documents/config/latex_setup.org
-#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
-#+OPTIONS: num:nil toc:nil
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+export_file_name: ~/Documents/exports/2b Seekirchen.html
+#+title:      Aschermittwoch Fastenzeit
+#+date:       [2026-02-23 Mo 09:43]
+#+filetags:   :schule:
+#+identifier: 20260223T094328
 
-* Jahresplanung
-
-[[denote:20240708T214317][Zeit für Religion 02]]
-
-#+BEGIN: denote-links :regexp "_02_religionen" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
-- [[denote:20250906T125646][Das Judentum entdecken / Das Leben feiern]]
-- [[denote:20250906T125657][Im Glauben an den einen Gott]]
-- [[denote:20250906T125715][Höre Israel!]]
-- [[denote:20250906T125724][Ein Teil von uns]]
-#+END:
-
-
-
-* Webuntis
-[[https://hypate.webuntis.com/WebUntis/#/basic/login]]
-
-* Notizen, Tasks, Termine
-
-
-* Stundenplanung
-
-** Aschermittwoch
+* Aschermittwoch
 Videos: kathmedia deutsch / Katholisch für Anfänger
 
 40 Tage Fastenzeit - Vorbereitung auf Ostern
@@ -76,59 +47,3 @@ Warum hat Jesus gefastet? Er ging in die Wüste (Ort der Begegnung mit Gott), wi
 Glaube und Werke:
 - nur der Glaube rettet uns; wir können uns den Himmel durch Werke nicht verdienen
 - der Glaube muss in Werken der Liebe  sichtbar sein.
-
-
-** Warum stellen wir Fragen
-
-[[denote:20260123T091818][Warum stellen wir Fragen]]
-
-* Reflexionen
-
-** Caillet Sophia
-
-** Fischwenger Nico
-
-** (Grünwald Raphael)
-
-** Günther Anna
-
-** Hartmann Viktorija
-
-** Hoheneder-Ergün Moritz
-
-** Holzer Leon
-
-** Hörl Susanne
-
-** Hutter Sarah
-
-** Jaiteh Lamin
-
-** Lottermoser Oliver
-
-** Lugstein Julia
-
-** Pötzelsberger Daniel
-
-** Reitsamer Noah
-
-** Scheipl Sebastian
-
-** Schindler Gabriel
-
-** Schneider David
-
-** Stein Nora
-
-** Steinberger Anna
-
-** Struber Ennio
-
-** Vielhaber Marlene
-
-** Walkner Maximilian
-
-** Wallner Emily
-
-** Weiß Jakob
-
