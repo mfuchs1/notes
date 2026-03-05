@@ -1,34 +1,31 @@
-:PROPERTIES:
-:ID:       1349ca41-c551-42dc-82d9-a21234746995
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Weisheit* --
-[[file:Weish_1.html][1]] ... [[file:Weish_14.html][14]]
-[[file:Weish_15.html][15]] *16* [[file:Weish_17.html][17]]
-[[file:Weish_18.html][18]] [[file:Weish_19.html][19]]
-
---------------
+#+TITLE: Weish 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-03-05 Do 14:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Weish 16.html
 
 * Weish 16
-  :PROPERTIES:
-  :CUSTOM_ID: weish-16
-  :END:
+
 
 <<verses>>
 
 <<v1>>
-**** Frösche - Wachteln: 16,1-4
-     :PROPERTIES:
-     :CUSTOM_ID: frösche---wachteln-161-4
-     :END:
+* Frösche - Wachteln: 16,1-4
+
 1 Darum wurden sie mit Recht durch ähnliche Tiere gezüchtigt und durch
-eine Menge von Ungeziefer gequält. ^{[[#fn1][1]]}
+eine Menge von Ungeziefer gequält. [fn:1]
 
 <<v2>>
 2 Während sie auf solche Weise gezüchtigt wurden, hast du deinem Volk
 eine Wohltat erwiesen und mit den Wachteln seinem heftigen Verlangen
-eine fremdartige Nahrung gegeben. ^{[[#fn2][2]]}
+eine fremdartige Nahrung gegeben. [fn:2]
 
 <<v3>>
 3 Während jenen in ihrem Hunger die Esslust verging wegen der
@@ -37,15 +34,12 @@ kurzer Entbehrung sogar eine fremdartige Speise.
 
 <<v4>>
 4 Über jene Unterdrücker sollte unabwendbarer Hunger kommen; diese aber
-sollten nur kurz spüren, wie ihre Feinde gequält wurden.
-^{[[#fn3][3]]}\\
+sollten nur kurz spüren, wie ihre Feinde gequält wurden. [fn:3]\\
 \\
 
 <<v5>>
-**** Heuschrecken und Stechfliegen - giftige Schlangen: 16,5 - 14
-     :PROPERTIES:
-     :CUSTOM_ID: heuschrecken-und-stechfliegen---giftige-schlangen-165---14
-     :END:
+* Heuschrecken und Stechfliegen - giftige Schlangen: 16,5 - 14
+
 5 Auch damals, als die schreckliche Wut wilder Tiere über sie
 hereinbrach und sie durch die Bisse tückischer Schlangen umkamen,
 dauerte dein Zorn nicht bis ans Ende. ^{[[#fn4][4]]}
@@ -93,10 +87,8 @@ kann er nicht befreien. ^{[[#fn11][11]]}\\
 \\
 
 <<v15>>
-**** Hagel - Manna: 16,15-29
-     :PROPERTIES:
-     :CUSTOM_ID: hagel---manna-1615-29
-     :END:
+* Hagel - Manna: 16,15-29
+
 15 Unmöglich ist es, deiner Hand zu entfliehen. ^{[[#fn12][12]]}
 
 <<v16>>
@@ -169,11 +161,11 @@ muss. ^{[[#fn25][25]]}
 verrinnt wie unnützes Wasser. ^{[[#fn26][26]]}\\
 \\
 
-^{[[#fnm1][1]]} ℘ 11,15; 12,23-27; Ex 7,26 - 8,11; Ps 78,45; 105,30
+^{[[#fnm1][1]]} ℘ 
 
-^{[[#fnm2][2]]} ℘ Ex 16,13; Ps 78,26f; 105,40
+^{[[#fnm2][2]]} ℘ 
 
-^{[[#fnm3][3]]} ℘ 11,8f
+^{[[#fnm3][3]]} ℘ 
 
 ^{[[#fnm4][4]]} ℘ Num 21,5-9; Weish 18,20
 
@@ -227,3 +219,11 @@ Bdelliumharz, in Ex 16,14 mit Reif).
 ^{[[#fnm25][25]]} ℘ Ps 57,9; 92,3
 
 ^{[[#fnm26][26]]} ℘ 15,10
+
+* Footnotes
+
+[fn:1] 11,15; 12,23-27; Ex 7,26 - 8,11; Ps 78,45; 105,30
+
+[fn:2] Ex 16,13; Ps 78,26f; 105,40
+
+[fn:3] 11,8f
