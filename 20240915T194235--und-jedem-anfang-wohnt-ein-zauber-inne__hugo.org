@@ -43,6 +43,7 @@ Was kann ich tun? Wahrscheinlich selbst nicht viel, nur Jesus kann diesen Dämon
 * Gedicht von Hermann Hesse
 :PROPERTIES:
 :ID:       603866a4-1e0d-4dc3-bbc9-5edc45216f00
+:CUSTOM_ID: h:38306569-591b-46cd-bdf6-7453f7cca472
 :END:
 
 #+begin_src text
