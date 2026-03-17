@@ -1,0 +1,75 @@
+#+title:      Schulbücher Religion SJ. 2026-27
+#+date:       [2026-03-16 Mo 09:52]
+#+filetags:   :schule:
+#+identifier: 20260316T095256
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Schulbücher Religion.html
+
+* 1a
+
+Zeit für Religion 1 - SBNr.: 200.058
+
+Bibel: SBNr.: 4124 (in Klassenstärke)
+
+* 1b
+
+Zeit für Religion 1 
+SBNr.: 200.058
+
+Bibel: SBNr.: 4124 (in Klassenstärke)
+
+* 1c
+
+Zeit für Religion 1 
+SBNr.: 200.058
+
+Bibel: SBNr.: 4124 (in Klassenstärke)
+
+* 2a
+
+Zeit für Religion 2 - 14 Stk - SBNr.: 205.247
+
+* 2b
+
+Zeit für Religion 2 - 17 Stk - SBNr.: 205.247
+
+* 2c
+
+Zeit für Religion 2 - 14 Stk - SBNr.: 205.247
+
+* 2d
+
+Zeit für Religion 2 - 12 Stk - SBNr.: 205.247
+
+* 3a
+
+Zeit für Religion 3 - 14 Stk - SBNr.: 210.243
+
+* 3b
+
+Zeit für Religion 3 - 20 Stk - SBNr.: 210.243
+
+* 3c
+
+Zeit für Religion 3 - 20 Stk - SBNr.: 210.243
+ 
+* 4a
+
+Zeit für Religion 4 - 13 Stk - SBNr.: 215.037
+
+* 4b
+
+Zeit für Religion 4 - 21 Stk - SBNr.: 215.037
+
+* 4c
+
+Zeit für Religion 4 - 12 Stk - SBNr.: 215.037
+
+* 4d
+
+Zeit für Religion 4 - 15 Stk - SBNr.: 215.037
