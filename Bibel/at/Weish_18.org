@@ -1,25 +1,24 @@
-:PROPERTIES:
-:ID:       5a5aec43-382c-47ed-9b33-2ac82c9752be
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Weisheit* --
-[[file:Weish_1.html][1]] ... [[file:Weish_16.html][16]]
-[[file:Weish_17.html][17]] *18* [[file:Weish_19.html][19]]
-
---------------
+#+TITLE: Weish 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-04-06 Mo 18:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Weish 18.html
 
 * Weish 18
-  :PROPERTIES:
-  :CUSTOM_ID: weish-18
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Deinen Heiligen dagegen strahlte hellstes Licht. Die anderen hörten
 ihre Stimme, ohne sie selbst zu sehen, und priesen sie glücklich,
-mochten diese vorher noch so viel erduldet haben. ^{[[#fn1][1]]}
+mochten diese vorher noch so viel erduldet haben. [fn:1]
 
 <<v2>>
 2 Sie dankten ihnen, dass sie für das früher erlittene Unrecht keine
@@ -28,24 +27,22 @@ Rache nahmen, und baten um Verzeihung für ihr feindliches Verhalten.
 <<v3>>
 3 Statt jener Finsternis gabst du den Deinen eine flammende Feuersäule
 als Führerin auf unbekanntem Weg, als freundliche Sonne auf ihrer
-ruhmvollen Wanderung. ^{[[#fn2][2]]}
+ruhmvollen Wanderung. [fn:2]
 
 <<v4>>
 4 Jene hingegen hatten es verdient, des Lichtes beraubt und in
 Finsternis gefangen zu sein, weil sie einst deine Söhne eingeschlossen
 und gefangen hielten, durch die das unvergängliche Licht des Gesetzes
-der Welt gegeben werden sollte. ^{[[#fn3][3]]}\\
+der Welt gegeben werden sollte. [fn:3]\\
 \\
 
 <<v5>>
-**** Tod der Erstgeborenen - Tod in der Wüste: 18,5-25
-     :PROPERTIES:
-     :CUSTOM_ID: tod-der-erstgeborenen---tod-in-der-wüste-185-25
-     :END:
+* Tod der Erstgeborenen - Tod in der Wüste: 18,5-25
+
 5 Sie hatten beschlossen, die Kinder der Heiligen zu töten, und nur ein
 einziges Kind wurde ausgesetzt und gerettet. Zur Strafe hast du ihnen
 viele ihrer eigenen Kinder weggenommen und sie alle auf einmal in
-gewaltiger Wasserflut vernichtet. ^{[[#fn4][4]][[#fn5][5]]}
+gewaltiger Wasserflut vernichtet. [fn:4]
 
 <<v6>>
 6 Jene Nacht wurde unseren Vätern vorher angekündigt; denn sie sollten
@@ -143,14 +140,13 @@ eingeschnitten und auf seinem Stirnband dein hoheitsvoller Name.
 diese Probe des Zornes. ^{[[#fn22][22]]}\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ex 10,23
+^{[[#fnm1][1]]} ℘ 
 
-^{[[#fnm2][2]]} ℘ 10,17; Ex 13,21f; 40,36-38; Ps 78,14; 105,39
+^{[[#fnm2][2]]} ℘ 
 
-^{[[#fnm3][3]]} ℘ 17,2; Ps 119,105; Spr 6,23
+^{[[#fnm3][3]]} ℘ 
 
-^{[[#fnm4][4]]} ℘ 11,7; Ex 1,15-17; 12,29f; Ps 78,51; 105,36; Weish
-10,19; Ex 14,27f
+^{[[#fnm4][4]]} ℘ 
 
 ^{[[#fnm5][5]]} Das «Kind» ist Mose (vgl. 11,14; Ex 2,1-10).
 
@@ -192,3 +188,13 @@ Gewand vgl. Ex 28,5.
 ^{[[#fnm21][21]]} ℘ Ex 28,17-21; Sir 45,11; Ex 28,36-38; Sir 45,12
 
 ^{[[#fnm22][22]]} ℘ Ex 12,23
+
+* Footnotes
+
+[fn:1] [[file:Ex_10.org::v23][Ex 10,23]]
+
+[fn:2] [[file:Weish_10.org::v17][10,17]]; [[file:Ex_13.org::v21][Ex 13,21f]]; [[file:Ex_40.org::v36][40,36-38]]; [[file:Ps_78.org::v14][Ps 78,14]]; [[file:Ps_105.org::v39][105,39]]
+
+[fn:3] [[file:Weish_17.org::v2][17,2]]; [[file:Ps_119.org::v105][Ps 119,105]]; [[file:Spr_6.org::v23][Spr 6,23]]
+
+[fn:4] [[file:Weish_11.org::v7][11,7]]; [[file:Ex_1.org::v15][Ex 1,15-17]]; [[file:Ex_12.org::v29][12,29f]]; [[file:Ps_78.org::v51][Ps 78,51]]; [[file:Ps_105.org::v36][105,36]]; [[file:Weish_10.org::v19][Weish 10,19]]; [[file:Ex_14.org::v27][Ex 14,27f]]
