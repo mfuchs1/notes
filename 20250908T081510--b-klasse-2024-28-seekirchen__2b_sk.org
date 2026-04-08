@@ -22,7 +22,7 @@
 - [[denote:20250906T125724][Ein Teil von uns]]
 #+END:
 
-
+Hier ein Test.
 
 * Webuntis
 [[https://hypate.webuntis.com/WebUntis/#/basic/login]]
@@ -32,30 +32,59 @@
 
 * Stundenplanung
 
-** Jesus und die Samariterin am Jakobsbrunnen
+** Ostern / Auferstehung
+YouTube Video von Johannes Hartl: [[https://www.youtube.com/watch?v=EEtOLeIrshI]] & 
+[[https://www.youtube.com/watch?v=qVyiSLjKj80]] 
+[[https://www.youtube.com/watch?v=QHEKYZYoCbY]]
+[[https://www.youtube.com/watch?v=r7YJOBtnK5w]]
 
-(Episode aus The Chosen - hoffentlich klappt das Internet in der Klasse!)
+Jesus - mehr als ein Prophet? [[https://www.youtube.com/watch?v=2UGhH4EmBOY]]
 
-Joh 4 lesen.  + The Chosen Staffel 1 Episode 8
+Faktencheck zur Auferstehung
+- Jesus hat nicht gelebt
+- Jesus starb nicht am Kreuz
+- Erscheinungen erfunden
+- Berichte unglaubwürdig
 
-(Staffel 5 online verfügbar!)
+Lesen: Joh 20
 
-Lebendiges Wasser - Gottes Liebe, Gottes Geist; Anbetung in Geist und Wahrheit.
+Außerbiblische Quellen:
 
-Die große Frage - was erwartest du dir von Gott?
-"Was willst du, dass ich dir tue?" - Frage von Jesus an Bartimäus.
+*** Flavius Josephus
 
-Schüler sollen sich mit dieser Frage auseinandersetzen, sie an sich heran lassen. Und ihre Erwartungen formulieren. Aufschreiben. Die "Gefahr" ist, dass die Kinder sagen "nix!" - und meinen, damit den Auftrag erfüllt zu haben; "Können wir jetzt Kahoot spielen?" - So leicht lasse ich die Kinder nicht aus ihrer "Pflicht". Wer nichts von Gott erwartet, wird auch nichts von Gott erhalten. So wie der ältere Sohn im Gleichnis vom verlorenen Sohn. Er bleibt in seiner Welt der Gerechtigkeit; fragt nach nichts. Und ist dabei genauso unglücklich wie sein jüngerer Bruder als der die Schweine hütete.
+Als Testimonium Flavianum bezeichnet man den 93 n. Chr. verfassten Abschnitt im Buch 18, Verse 63–64 aus den Antiquitates Judaicae des Flavius Josephus:
 
-Wie viel schöner ist doch das Leben - wenn du dich von Gottes Liebe berühren lässt?
+#+begin_quote
+"Um diese Zeit lebte Jesus, ein weiser Mann, wenn man ihn überhaupt einen Menschen nennen darf. Er vollbrachte nämlich ganz unglaubliche Taten und war der Lehrer aller Menschen, die mit Lust die Wahrheit aufnahmen. So zog er viele Juden und auch viele Heiden an sich. Dieser war der Christus. Und obgleich ihn Pilatus auf Betreiben der Vornehmsten unseres Volkes zum Kreuzestod verurteilte, wurden doch seine früheren Anhänger ihm nicht untreu. Denn er erschien ihnen am dritten Tage wieder lebend, wie gottgesandte Propheten dies und tausend andere wunderbare Dinge von ihm vorhergesagt hatten. Und bis auf den heutigen Tag besteht das Volk der Christen, die sich nach ihm nennen, fort.[7]"
+#+end_quote
 
-** The Chosen 
+*** Tacitus
 
-Staffel 5; Episode 1 (Einzug in Jerusalem); Episode 2 (Pascha; Tempelreinigung)
+Tacitus war schon zu Lebzeiten nicht nur als erfolgreicher Politiker, sondern auch als römischer Historiker bekannt. Er schrieb 116–117 seine teilweise recht kaiserkritischen Annalen, deren Bücher 13–16 die Regentschaft Neros beschreiben: Auf die ruhigen Anfangsjahre (A. 13) sei mit dem Brand Roms 64 eine Tyrannei gefolgt (A. 14–16). Nero habe vergeblich versucht, den Verdacht, er selbst habe die Brandlegung befohlen, durch alle möglichen Anstrengungen zu beschwichtigen. In diesem Zusammenhang erwähnte Tacitus die Christen:
+
+#+begin_quote
+„Um das Gerücht aus der Welt zu schaffen, schob er die Schuld auf andere und verhängte die ausgesuchtesten Strafen über die wegen ihrer Verbrechen Verhassten, die das Volk ‚Chrestianer‘ nannte. Der Urheber dieses Namens ist Christus, der unter der Regierung des Tiberius vom Prokurator Pontius Pilatus hingerichtet worden war. Für den Augenblick war [so] der verderbliche Aberglaube unterdrückt worden, trat aber später wieder hervor und verbreitete sich nicht nur in Judäa, wo das Übel aufgekommen war, sondern auch in Rom, wo alle Greuel und Abscheulichkeiten der ganzen Welt zusammenströmen und gefeiert werden.“[30]
+#+end_quote
+
+*** Plinius der Jüngere
+
+Plinius war seit etwa 111 als Statthalter in Bithynien (heute İzmit, Türkei) für Anzeigen aus der Bevölkerung gegen dort lebende Christen zuständig. In einem Briefwechsel mit Kaiser Trajan, den er später in seine zehnbändige Briefsammlung aufnahm (Plinius-Briefe), holte er sich rechtliche Bestätigung für sein Verfahren mit ihnen. In epistula X/96 beschrieb er seine Verhörmethoden, die ihm bekannt gewordenen christlichen Bräuche und seinen Eindruck von ihrem Glauben:[32]
+
+#+begin_quote
+„Denen, die bestritten, Christen zu sein oder gewesen zu sein, sprach ich die Formel vor und ließ sie die Götter anrufen und zu Deinem Standbild […] mit Weihrauch- und Weinspenden beten und außerdem Christus lästern. Daraufhin konnten sie meines Erachtens freigelassen werden. Denn zu all dem sollen sich wahre Christen nicht zwingen lassen. […]
+
+Sie versicherten, ihre ganze Schuld oder ihr Irrtum habe darin bestanden, dass sie sich regelmäßig an einem bestimmten Tag vor Dämmerung versammelten, um Christus als Gott ein Lied darzubringen und sich durch Eid zu verpflichten – nicht etwa zu einem Verbrechen, sondern zur Unterlassung von Diebstahl, Raub, Ehebruch, Treulosigkeit, Unterschlagung von anvertrautem Gut.
+
+Umso mehr hielt ich es für notwendig, von zwei sogenannten ‚Dienerinnen‘ die Wahrheit auch noch durch Folter zu erforschen. Ich fand nichts als absurden, maßlosen Aberglauben. […] Denn nicht nur über die Städte, auch über die Dörfer hat sich die Seuche dieses Aberglaubens verbreitet. Doch es scheint möglich, sie einzudämmen und auszutilgen.“
+#+begin_quote
+
+
+** Emmausjünger
+
+Lk 24 lesen und Bildergeschichte zeichnen - Bezug zu Eucharistie herstellen
+
 
 * Reflexionen
-
-
 
 ** Caillet Sophia
 
