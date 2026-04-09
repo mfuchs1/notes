@@ -1,27 +1,26 @@
-:PROPERTIES:
-:ID:       5f6aaa93-5838-4323-81ec-222fbd4780b1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* -- *1*
-[[file:Sir_2.html][2]] [[file:Sir_3.html][3]] ...
-[[file:Sir_51.html][51]]
-
---------------
+#+TITLE: Sir 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-04-09 Do 14:16]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Sir 1.html
 
 * Sir 1
-  :PROPERTIES:
-  :CUSTOM_ID: sir-1
-  :END:
 
-Als Verfasser des Buches wird in 50,27 und 51,30 ein Weisheitslehrer
+Als Verfasser des Buches wird in [[file:Sir_50.org::v27][50,27]] und [[file:Sir_51.org::v30][51,30]] ein Weisheitslehrer
 namens »Jesus, Sohn Eleasars, des Sohnes Sirachs« genannt. Die
 hebräisch-jüdische Bezeichnung des Buches lautet kurz Ben Sira; die
 griechische Bibel nennt es Siracides, die lateinische Liber
 Ecclesiasticus. Nach dem Vorwort des griechischen Übersetzers, eines
 Enkels des Verfassers, kommen als Abfassungszeit die Jahre um 180 v.
 Chr. in Betracht; Abfassungsort ist Jerusalem (vgl. die Anmerkung zu
-50,27b).\\
+[[file:Sir_50.org::v27][50,27b]]).\\
 \\
 Inhaltlich handelt es sich um eine lockere Sammlung von Lebensund
 Verhaltensregeln, mit denen sich der Verfasser vor allem an die Jugend
@@ -33,8 +32,8 @@ Torheit, Armut und Reichtum, Zucht und Zuchtlosigkeit, Gesundheit,
 Krankheit und Tod, Sklaven und Herren, Freunde und Frauen. Haupttugend
 ist immer die Gottesfurcht (Kap. 1). Etwa die Mitte und den Höhepunkt
 des ganzen Buches bildet der Weisheitshymnus in Kap. 24. Nach der
-frommen Naturbetrachtung von 42,15 - 43,33 folgt als letztes Thema das
-»Lob der Väter« (44,1 - 50,24), ein kurzer Überblick über die
+frommen Naturbetrachtung von [[file:Sir_42.org::v15][42,15]] - [[file:Sir_43.org::v33][43,33]] folgt als letztes Thema das
+»Lob der Väter« ([[file:Sir_44.org::v1][44,1]] - [[file:Sir_50.org::v24][50,24]]), ein kurzer Überblick über die
 alttestamentliche Heilsgeschichte.\\
 \\
 Der Verfasser verbindet harmonisch die Treue zum althergebrachten
@@ -64,17 +63,15 @@ hat man schon im ersten vorchristlichen und bis ins zweite
 nachchristliche Jahrhundert den griechischen wie den hebräischen Text
 der zeitgenössischen Denk- und Sprechweise angepasst. Nahe an die Zeit
 des Verfassers reichen einige wertvolle, freilich nur kurze hebräische
-Fragmente heran, die neuestens in Qumran (6,20-31; 51,12-20) und in
-Masada (39,27 - 44,17 mit Lücken) ans Licht kamen.\\
+Fragmente heran, die neuestens in Qumran ([[file:Sir_6.org::v20][6,20-31]]; [[file:Sir_51.org::v12][51,12-20]]) und in
+Masada ([[file:Sir_39.org::v27][39,27]] - [[file:Sir_44.org::v17][44,17]] mit Lücken) ans Licht kamen.\\
 \\
 
 <<verses>>
 
 <<v1//5>>
-** Das Vorwort zur griechischen Übersetzung
-   :PROPERTIES:
-   :CUSTOM_ID: das-vorwort-zur-griechischen-übersetzung
-   :END:
+* Das Vorwort zur griechischen Übersetzung
+
 1//5 Vieles und Großes ist uns durch das Gesetz, die Propheten und die
 anderen Schriften, die ihnen folgen, geschenkt worden. Dafür ist Israel
 zu loben wegen seiner Bildung und Weisheit. Doch soll jeder, der sie zu
@@ -105,20 +102,16 @@ Fleiß und Mühe aufzuwenden, um dieses Buch zu übersetzen. Inzwischen
 habe ich mit rastlosem Eifer und mit Sachkenntnis das Werk
 abgeschlossen, um es für jene herauszugeben, die sich auch in der Fremde
 weiterbilden wollen und sich vorgenommen haben, nach dem Gesetz zu
-leben. ^{[[#fn1][1]]}\\
+leben. [fn:1]\\
 \\
 
 <<v1>>
-** Erziehung zur Weisheit: 1,1 - 4,19
-   :PROPERTIES:
-   :CUSTOM_ID: erziehung-zur-weisheit-11---419
-   :END:
-**** Die Quelle der Weisheit: 1,1-10
-     :PROPERTIES:
-     :CUSTOM_ID: die-quelle-der-weisheit-11-10
-     :END:
+* Erziehung zur Weisheit: 1,1 - 4,19
+ 
+* Die Quelle der Weisheit: 1,1-10
+
 1 Alle Weisheit stammt vom Herrn /\\
- und ewig ist sie bei ihm. ^{[[#fn2][2]]}\\
+ und ewig ist sie bei ihm. [fn:2]\\
 \\
 
 <<v2>>
@@ -137,8 +130,7 @@ leben. ^{[[#fn1][1]]}\\
 \\
 
 <<v5>>
-5 []\\
-^{[[#fn3][3]]}\\
+5 []\\[fn:3]
 ihre Wege sind die ewigen Gebote. 7 Die Kenntnis der Weisheit, wem wurde
 sie offenbart? Ihre mannigfachen Wege, wer hat sie erkannt?\\
 \\
@@ -164,31 +156,29 @@ sie offenbart? Ihre mannigfachen Wege, wer hat sie erkannt?\\
 
 <<v10>>
 10 Den Menschen ist sie unterschiedlich zugeteilt; /\\
- er spendet sie denen, die ihn fürchten. ^{[[#fn4][4]]}\\
+ er spendet sie denen, die ihn fürchten. [fn:4]\\
 \\
 
 <<v11>>
-**** Die Krone der Weisheit: 1,11-20
-     :PROPERTIES:
-     :CUSTOM_ID: die-krone-der-weisheit-111-20
-     :END:
+* Die Krone der Weisheit: 1,11-20
+
 11 Die Gottesfurcht ist Ruhm und Ehre, /\\
  Hoheit ist sie und eine prächtige Krone.\\
 \\
 
 <<v12>>
 12 Die Gottesfurcht macht das Herz froh, /\\
- sie gibt Freude, Frohsinn und langes Leben. ^{[[#fn5][5]]}\\
+ sie gibt Freude, Frohsinn und langes Leben. [fn:5]\\
 \\
 
 <<v13>>
 13 Dem Gottesfürchtigen geht es am Ende gut, /\\
- am Tag seines Todes wird er gepriesen. ^{[[#fn6][6]]}\\
+ am Tag seines Todes wird er gepriesen. [fn:6]\\
 \\
 
 <<v14>>
 14 Anfang der Weisheit ist die Gottesfurcht, /\\
- den Glaubenden ist sie angeboren. ^{[[#fn7][7]]}\\
+ den Glaubenden ist sie angeboren. [fn:7]\\
 \\
 
 <<v15>>
@@ -203,7 +193,7 @@ sie offenbart? Ihre mannigfachen Wege, wer hat sie erkannt?\\
 
 <<v17>>
 17 Ihr ganzes Haus füllt sie mit Schätzen an, /\\
- die Speicher mit ihren Gütern. ^{[[#fn8][8]]}\\
+ die Speicher mit ihren Gütern. [fn:8]\\
 \\
 
 <<v18>>
@@ -213,8 +203,7 @@ sie offenbart? Ihre mannigfachen Wege, wer hat sie erkannt?\\
 
 <<v19>>
 19 Verständnis und weise Einsicht gießt sie aus, /\\
- sie erhöht den Ruhm aller, die an ihr fest halten.
-^{[[#fn9][9]][[#fn10][10]]}\\
+ sie erhöht den Ruhm aller, die an ihr fest halten. [fn:9] [fn:10]\\
 \\
 
 <<v20>>
@@ -223,10 +212,8 @@ sie offenbart? Ihre mannigfachen Wege, wer hat sie erkannt?\\
 \\
 
 <<v21>>
-**** Der Feind der Weisheit: 1,21-30
-     :PROPERTIES:
-     :CUSTOM_ID: der-feind-der-weisheit-121-30
-     :END:
+* Der Feind der Weisheit: 1,21-30
+
 21 Die Gottesfurcht hält Sünden fern, /\\
  wer in ihr verbleibt, vertreibt allen Zorn.\\
 \\
@@ -258,7 +245,7 @@ sie offenbart? Ihre mannigfachen Wege, wer hat sie erkannt?\\
 
 <<v27>>
 27 Denn die Gottesfurcht ist Weisheit und Bildung, /\\
- an Treue und Demut hat Gott Gefallen. ^{[[#fn11][11]]}\\
+ an Treue und Demut hat Gott Gefallen. [fn:11]\\
 \\
 
 <<v28>>
@@ -277,38 +264,40 @@ sie offenbart? Ihre mannigfachen Wege, wer hat sie erkannt?\\
 verbirgst, /\\
  und bringt dich zu Fall inmitten der Gemeinde, weil du dich der
 Gottesfurcht genaht hast, /\\
- obwohl dein Herz voll Trug war. ^{[[#fn12][12]][[#fn13][13]]}\\
+ obwohl dein Herz voll Trug war. [fn:12] [fn:13]\\
 \\
 
-^{[[#fnm1][1]]} Vorwort: Für die Datierung ist die Angabe wichtig, dass
+* Footnotes
+
+[fn:1] Vorwort: Für die Datierung ist die Angabe wichtig, dass
 der Enkel im 38. Jahr des Königs Euergetes (170-111 v. Chr.) nach
 Ägypten kam, also 132 v. Chr. Er wird um 152 v. Chr. geboren sein. Dann
 ist sein Vater vermutlich um 182 v. Chr. geboren. Der Verfasser schrieb
 wahrscheinlich in fortgeschrittenem Alter, wohl nicht vor 180 v. Chr.
 
-^{[[#fnm2][2]]} ℘ Spr 2,6; Weish 7,25
+[fn:2] [[file:Spr_2.org::v6][Spr 2,6]]; [[file:Weish_7.org::v25][Weish 7,25]]
 
-^{[[#fnm3][3]]} 1,5.7: sind spätere Zusätze, sie lauten: 5 Die Quelle
+[fn:3] 1,5.7: sind spätere Zusätze, sie lauten: 5 Die Quelle
 der Weisheit ist das Wort Gottes in der Höhe; /
 
-^{[[#fnm4][4]]} 10b: So mit einigen Textzeugen und nach dem
+[fn:4] 10b: So mit einigen Textzeugen und nach dem
 Zusammenhang; die meisten G-Handschriften: die ihn lieben.
 
-^{[[#fnm5][5]]} ℘ Spr 4,10
+[fn:5] [[file:Spr_4.org::v10][Spr 4,10]]
 
-^{[[#fnm6][6]]} ℘ 11,28
+[fn:6] [[file:Sir_11.org::v28][11,28]]
 
-^{[[#fnm7][7]]} ℘ Spr 1,7; Ps 111,10
+[fn:7] [[file:Spr_1.org::v7][Spr 1,7]]; [[file:Ps_111.org::v10][Ps 111,10]]
 
-^{[[#fnm8][8]]} ℘ Spr 8,18f
+[fn:8] [[file:Spr_8.org::v18][Spr 8,18f]]
 
-^{[[#fnm9][9]]} ℘ Spr 4,8
+[fn:9] [[file:Spr_4.org::v8][Spr 4,8]]
 
-^{[[#fnm10][10]]} 19a: Oder mit S: Sie ist ein starker Stab und eine
+[fn:10] 19a: Oder mit S: Sie ist ein starker Stab und eine
 herrliche Stütze.
 
-^{[[#fnm11][11]]} ℘ Spr 15,33
+[fn:11] [[file:Spr_15.org::v33][Spr 15,33]]
 
-^{[[#fnm12][12]]} ℘ Spr 16,18
+[fn:12] [[file:Spr_16.org::v18][Spr 16,18]]
 
-^{[[#fnm13][13]]} So mit S. - Vg zählt in Kap. 1 40 Verse.
+[fn:13] So mit S. - Vg zählt in Kap. 1 40 Verse.
