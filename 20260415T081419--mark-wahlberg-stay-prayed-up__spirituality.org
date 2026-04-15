@@ -1,0 +1,38 @@
+#+title:      Mark Wahlberg Stay Prayed Up
+#+date:       [2026-04-15 Mi 08:14]
+#+filetags:   :spirituality:
+#+identifier: 20260415T081419
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Mark Wahlberg Stay Prayed Up.html
+
+* Day 01 - 2 Tim 4,7
+
+#+begin_quote
+I have fought the good fight, \\
+I have finished the race, \\
+I have kept the faith.
+#+end_quote
+
+* Day 02 - Ps 27,1
+
+#+begin_quote
+The LORD is my light and my salvation;\\
+Whom shall I fear?\\
+The LORD is the stronghold of my life;\\
+of whom shall I be afraid?
+#+end_quote
+
+* Day 03 - Jer 29,11
+
+#+begin_quote
+For I know the plans I have for you,\\
+says the LORD, \\
+plans for welfare and not for evil,\\
+to give you a hope and a future.
+#+end_quote
