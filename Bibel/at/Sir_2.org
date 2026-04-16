@@ -1,26 +1,23 @@
-:PROPERTIES:
-:ID:       ce171a95-e29d-4fcb-9abb-3ed8f7450d69
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
-[[file:Sir_1.html][1]] *2* [[file:Sir_3.html][3]] [[file:Sir_4.html][4]]
-... [[file:Sir_51.html][51]]
-
---------------
+#+TITLE: Sir 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-04-16 Do 13:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Sir 2.html
 
 * Sir 2
-  :PROPERTIES:
-  :CUSTOM_ID: sir-2
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Vertrauen und Treue gegen Gott: 2,1-18
-     :PROPERTIES:
-     :CUSTOM_ID: vertrauen-und-treue-gegen-gott-21-18
-     :END:
+* Vertrauen und Treue gegen Gott: 2,1-18
+
 1 Mein Sohn, wenn du dem Herrn dienen willst, /\\
  dann mach dich auf Prüfung gefasst!\\
 \\
@@ -47,7 +44,7 @@
 
 <<v6>>
 6 Vertrau auf Gott, er wird dir helfen, /\\
- hoffe auf ihn, er wird deine Wege ebnen. ^{[[#fn1][1]][[#fn2][2]]}\\
+ hoffe auf ihn, er wird deine Wege ebnen. [fn:1] [fn:2] \\
 \\
 
 <<v7>>
@@ -58,13 +55,12 @@
 
 <<v8>>
 8 Ihr, die ihr den Herrn fürchtet, vertraut auf ihn /\\
- und er wird euch den Lohn nicht vorenthalten.
-^{[[#fn3][3]][[#fn4][4]]}\\
+ und er wird euch den Lohn nicht vorenthalten. [fn:3] [fn:4]\\
 \\
 
 <<v9>>
 9 Ihr, die ihr den Herrn fürchtet, hofft auf Heil, /\\
- auf immer währende Freude und auf Erbarmen! ^{[[#fn5][5]]}\\
+ auf immer währende Freude und auf Erbarmen! [fn:5]\\
 \\
 
 <<v10>>
@@ -72,7 +68,7 @@
  Wer hat auf den Herrn vertraut /\\
  und ist dabei zuschanden geworden? Wer hoffte auf ihn und wurde
 verlassen? /\\
- Wer rief ihn an und er erhörte ihn nicht? ^{[[#fn6][6]]}\\
+ Wer rief ihn an und er erhörte ihn nicht? [fn:6]\\
 \\
 
 <<v11>>
@@ -82,7 +78,7 @@ verlassen? /\\
 
 <<v12>>
 12 Weh den mutlosen Herzen und den schlaffen Händen, /\\
- dem Menschen, der auf zweierlei Wegen geht. ^{[[#fn7][7]]}\\
+ dem Menschen, der auf zweierlei Wegen geht. [fn:7]\\
 \\
 
 <<v13>>
@@ -92,8 +88,7 @@ verlassen? /\\
 
 <<v14>>
 14 Weh euch, die ihr die Hoffnung verloren habt. /\\
- Was werdet ihr tun, wenn euch der Herr zur Rechenschaft zieht?
-^{[[#fn8][8]]}\\
+ Was werdet ihr tun, wenn euch der Herr zur Rechenschaft zieht? [fn:8]\\
 \\
 
 <<v15>>
@@ -115,28 +110,26 @@ verlassen? /\\
 18 Besser ist es, in die Hände des Herrn zu fallen /\\
  als in die Hände der Menschen. Denn wie seine Größe, so ist sein
 Erbarmen, /\\
- und wie sein Name, so sind auch seine Werke.
-^{[[#fn9][9]][[#fn10][10]]}\\
+ und wie sein Name, so sind auch seine Werke. [fn:9]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Spr 3,6
 
-^{[[#fnm2][2]]} 6b: Übersetzung nach S und Origenes; weniger gut G: Ebne
-deine Wege und hoffe auf ihn!
+*  Footnotes
 
-^{[[#fnm3][3]]} ℘ 16,14; 51,30
+[fn:1] [[file:Spr_3.org::v6][Spr 3,6]]
 
-^{[[#fnm4][4]]} 8b: G hat leicht geändert: und euer Lohn wird nicht
-ausbleiben.
+[fn:2] 6b: Übersetzung nach S und Origenes; weniger gut G: Ebne deine Wege und hoffe auf ihn!
 
-^{[[#fnm5][5]]} 9b: Erbarmen: nach G, wie in V. 7a; S: Rettung.
+[fn:3] [[file:Sir_16.org::v14][16,14]]; [[file:Sir_51.org::v30][51,30]]
 
-^{[[#fnm6][6]]} ℘ Ps 37,25
+[fn:4] 8b: G hat leicht geändert: und euer Lohn wird nicht ausbleiben.
 
-^{[[#fnm7][7]]} 12b: dem Menschen: nach S; G verschärft: dem Sünder.
+[fn:5] 9b: Erbarmen: nach G, wie in V. 7a; S: Rettung.
 
-^{[[#fnm8][8]]} ℘ 17,24; 41,2
+[fn:6] [[file:Ps_37.org::v25][Ps 37,25]]
 
-^{[[#fnm9][9]]} ℘ 2 Sam 24,14
+[fn:7] 12b: dem Menschen: nach S; G verschärft: dem Sünder.
 
-^{[[#fnm10][10]]} 18d: Fehlt in G zu Unrecht.
+[fn:8] [[file:Sir_17.org::v24][17,24]]; [[file:Sir_41.org::v2][41,2]]
+
+[fn:9] [[file:2.Sam_24.org::v14][2 Sam 24,14]]
