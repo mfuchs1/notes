@@ -229,3 +229,39 @@ After the this stable update, opening or closing windows causes the window and p
     Downgrade the driver with mhwd to the 575xx version.
     Or go to Window Manager Tweaks > Compositor and disable Enable display compositing.
 #+END_QUOTE
+
+* Fallacy of Exact Words – Questions and Answers
+:PROPERTIES:
+:CREATED: [2026-04-29 Mi 08:26]
+:SOURCE: https://www.faithbrowser.com/fallacy-of-exact-words/
+:CUSTOM_ID: h:8f53699a-90a1-4f0b-a38b-71aadd5725bc
+:END:
+
+
+
+#+BEGIN_QUOTE
+/Abdullah: Hey buddy, are you married?
+
+Joe: Yeah, that’s my wife over there, with my kids.
+
+Abdullah: Are you married?
+
+Joe: Errr…I just told you.
+
+Abdullah: No. You didn’t say, “I AM MARRIED” in those exact unequivocal unambiguous words.
+
+Mr. Abdullah typifies the majority of Muslims today who are taught to demand exact words, especially in the context of the divinity of Jesus.
+
+Here is the challenge that all Muslim apologists are trained to recite: “Show me a single unequivocal, unambiguous statement in the complete Bible where Jesus himself said, ‘I am God’ or ‘Worship Me.'”
+
+I call it The Fallacy of Exact Words.
+
+There is nowhere in the Bible where Jesus said unequivocally and unambiguously, “Hi. My name is Jesus.” Can we conclude that this means his name is not Jesus?
+
+He also never said, “I am the Messiah.” Again, does this mean he is not the Messiah since he did not say it in those exact words?
+
+This is how weak and shallow this faulty challenge is. /
+
+(Zitat von [[https://www.faithbrowser.com/fallacy-of-exact-words/][Fallacy of Exact Words – Questions and Answers]], [2026-04-29 Mi 08:26])
+#+END_QUOTE
+

@@ -1,0 +1,58 @@
+#+title:      Exact Word Fallacy
+#+date:       [2026-04-29 Mi 08:11]
+#+filetags:   :philosophy:
+#+identifier: 20260429T081151
+
+* Source
+
+[[denote:20231218T081552::#h:8f53699a-90a1-4f0b-a38b-71aadd5725bc][Webpages::Fallacy of Exact Words – Questions and Answers]]
+
+
+* Introduction
+The exact word fallacy is a flawed argument tactic where someone ignores the context, meaning, or intent of a statement, demanding instead that specific, exact words be used. It is a form of distraction often used to deflect from the main argument by focusing on precise wording rather than substance, frequently seen in debates or when scrutinizing past statements. 
+
+* Key Features and Examples:
+
+** Context Ignoring: 
+It overlooks the overall point to focus on a lack of a specific word. For instance, arguing "You didn't say 'single', you said 'I'm not married,' so you didn't prove you were single".
+
+** Debate Tactic: 
+Used in debates to show the other side cannot give an "exact" definition, often appearing in religious or political discussions at places like Speaker's Corner.
+
+** "Exact Definition Fallacy": 
+Sometimes, the speaker demands a definition of a word that is impossible to give, or they refuse to accept any definition that does not match their own preconceived, strict definition.
+
+** Deflection:  
+If someone claims a person is "guilty" based on evidence, the defender might say, "When did they say the exact word 'guilty'?".
+
+* Why it's a Fallacy:
+It is considered a fallacy because it assumes that only the exact words chosen matter, rather than the intended meaning communicated. It focuses on the linguistic "label" rather than the substance of the argument, aiming to discredit the speaker rather than address the topic. 
+
+* Was ist eine gute Frage
+
+Eine gute Frage ist offen, klar formuliert und regt zum Nachdenken an, anstatt nur mit „Ja“ oder „Nein“ beantwortbar zu sein. Sie setzt Energie frei, fördert Kreativität, ist oft schwer zu beantworten und zielt auf tieferes Verständnis ab, anstatt trivial oder googelbar zu sein. Gute Fragen provozieren Staunen, Zögern oder Neugierde. 
+
+** Hier sind die wichtigsten Aspekte einer guten Frage:
+
+- Offenheit: Sie beginnen oft mit „Wie“, „Warum“ oder „Was wäre, wenn“.
+- Klare Formulierung: Einfach und verständlich, ohne unnötige Komplexität.
+- Fokus: Sie zielen auf den Kern eines Problems ab und bringen neue Erkenntnisse.
+- Neutralität: Gute Fragen vermeiden wertende Begriffe.
+- Kindliche Neugier: Sie zeugen von echtem Interesse und fehlender Zensur. 
+
+** Synonyme/Umschreibungen für eine „gute Frage“:
+
+- Tiefsinnige Frage
+- Relevante Frage
+- Offene Frage
+- Produktive Frage
+- Kernfrage
+
+** Anwendungsbeispiele (Kontextabhängig):
+
+- Im Gespräch/Coaching: „Welche Möglichkeiten hättest du, wenn Geld keine Rolle spielen würde?“
+- In der Schule/Uni: „Wie lässt sich dieses theoretische Modell auf die Praxis von heute übertragen?“
+- In Beziehungen: „Welches Erlebnis hat dich am meisten geprägt?“ 
+
+Der Satz „Das ist eine gute Frage“ wird oft genutzt, um Zeit zu gewinnen, anzuerkennen, dass ein Punkt wichtig ist, oder wenn eine Frage oft gestellt wird. 
+

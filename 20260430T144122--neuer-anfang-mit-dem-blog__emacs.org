@@ -1,0 +1,20 @@
+#+title:      Neuer Anfang mit dem Blog
+#+date:       [2026-04-30 Do 14:41]
+#+filetags:   :emacs:
+#+identifier: 20260430T144122
+#+DESCRIPTION: This text was generated using the After Dark post archetype.
+#+HUGO_CATEGORIES: emacs
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_BASE_DIR: /home/matthias/flying-toasters/
+#+AUTHOR: Matthias Fuchs
+
+* Problem mit Email Adresse
+
+Die ursprüngliche Emailadresse für den Blog (nmsgolling.at) hat nicht funktioniert. Ich hatte keinen Zugang mehr. 
+
+Also musste ich einen neuen Account mit einer anderen Adresse anlegen und die beiden Repos auf Github anlegen. Nach mehreren Versuchen hat es jetzt geklappt. Hoffentlich.
+
+* Zweitens
+
+Mal schauen, was hier heraus kommt.
+

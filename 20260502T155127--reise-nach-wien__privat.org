@@ -1,0 +1,43 @@
+#+title:      Reise nach Wien
+#+date:       [2026-05-02 Sa 15:51]
+#+filetags:   :privat:
+#+identifier: 20260502T155127
+#+DESCRIPTION: Mit Gabriel in Wien, Besuch bei Meli und Otto.
+#+HUGO_CATEGORIES: privat
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_BASE_DIR: /home/matthias/flying-toasters/
+#+AUTHOR: Matthias Fuchs
+
+* Hinreise
+
+Am Donnerstag Abend ging es um 18h52 mit der Westbahn nach Wien. Ankunft um 21h22 am Westbahnhof. Traumhaftes Wetter während des gesamten Aufenthaltes.
+
+* Hotel
+
+Hilton Waterfront am Handelskai, direkt am Ufer der Donau. Wunderschönes Hotel, fairer Preis. Super großes Zimmer, dieses Mal leider mit Blick auf Straße. Heute morgen Frühstück auf der Terrasse, am Ufer der Donau.
+
+* Wallfahrt zu sieben Kirchen
+
+Am Freitag: um 10h00 bei Meli, Kaffee dann Wallfahrt zu sieben Kirchen - Gebet um die sieben Gaben des Hl. Geistes.
+
+- St. Rochus (extra: eucharistische Anbetung rund um die Uhr).
+- Dominikaner
+- Jesuiten
+- Franziskaner
+- Kapuziner
+- Schotten
+- Maria am Gestade
+- Petruskirche
+
+Mittagessen mit Meli und Eisessen
+
+* Zeit mit Meli und Otto
+
+Abendessen und Kino am Freitag
+
+Mittagessen am Samstag
+
+* Rückreise
+
+Abfahrt 15h38 von Wien Westbahnhof, Ankunft um 18h08 in Salzburg.
+
