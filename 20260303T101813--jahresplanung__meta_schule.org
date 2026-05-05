@@ -1,7 +1,15 @@
 #+title:      Jahresplanung
 #+date:       [2026-03-03 Di 10:18]
-#+filetags:   :schule:
+#+filetags:   :meta:schule:
 #+identifier: 20260303T101813
+#+CATEGORY: RU org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Unterricht organsieren.html
 
 * Einleitung
 
@@ -15,7 +23,7 @@ Kunst, Kunstwerke, Baustile der Kirchen, ... werden ihren Platz haben. Pop-Musik
 
 Umgang mit Konflikten - Ungerechtigkeiten - ...
 
-Immer wieder: Glaube - Hoffnung - Liebe (Tugenden); Tugenden; Gaben des Hl. Geistes; Früchte des Hl. Geistes. 
+Immer wieder: Glaube - Hoffnung - Liebe (Tugenden); Tugenden; Gaben des Hl. Geistes; Früchte des Hl. Geistes; Kirchenjahr; Basics aus der Bibel (wie viele Apostel und ihre Namen? Sakramente? Gebote? ...)
 
 Gemeinsames Gebet, Lobpreis, ... Stille.
 (Dazu sollte ich mir ein aktuelles, gutes Liederbuch besorgen.)
@@ -31,18 +39,26 @@ Themen: Schöpfung, Noach; Psalmen; Jesus;
 
 Beginn: Gott liebt mich - Berufung zur Heiligkeit
 Taufe
-Credo; Gebet
+Credo; Gebet; Sexualität (?)
+
+** Jahresplanung
+
+[[denote:20250913T113018][Religion für uns 01]]
 
 * Zweite Klasse
 
 ** Schwerpunkt Bibel
 
 Gesamtüberblick über Heilsgeschichte
-Themen: Abraham; Moses; Saul / David / Salomo; Jesus - Gleichnisse Reich Gottes; Erste Christen
+Themen: Abraham; Moses; Saul / David / Salomo; Jesus - Gleichnisse Reich Gottes; Erste Christen (Apg)
 
 ** YouCat
 
 Sakramente; va. Eucharistie
+
+** Jahresplanung
+
+[[denote:20250913T113113][Religion für uns 02]]
 
 * Dritte Klasse
 
@@ -56,12 +72,17 @@ Themen: Whg Moses (10 Gebote); Ruth, Esther, Judith; Hiob; Exil; Paulus;
 Krankensalbung, Beichte
 10 Gebote
 
+** Jahresplanung
+
+[[denote:20251204T181336][Religion für uns 03]]
+
 * Vierten Klasse
 
 ** Schwerpunkt Bibel
 
 Gesamtüberblick über Heilsgeschichte
 Themen: Exil; Propheten; Briefe des Paulus; Apokalypse
+Jesus - Messias / Kreuz und Auferstehung / 
 
 ** YouCat
 
@@ -72,3 +93,7 @@ Firmung, Ehe, Weihe
 ** Philosophie
 
 Ethik, Moral, Gott und die Welt, Vielfalt des Lebens (unbelebt, Pflanze, Tier, Mensch), Wer ist der Mensch?, Arbeit - Ethik - Politik, Metaphysik - Was ist das Sein?
+
+** Jahresplanung
+
+[[denote:20250913T113501][Religion für uns 04]]
