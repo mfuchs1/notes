@@ -10,7 +10,7 @@
 
 * Hinreise
 
-Am Donnerstag Abend ging es um 18h52 mit der Westbahn nach Wien. Ankunft um 21h22 am Westbahnhof. Traumhaftes Wetter während des gesamten Aufenthaltes. Hier schreibe ich weiter und werde alle =Hugo= Befehle hier in Emacs eingeben.
+Am Donnerstag Abend ging es um 18h52 mit der Westbahn nach Wien. Ankunft um 21h22 am Westbahnhof. Traumhaftes Wetter während des gesamten Aufenthaltes. Hier schreibe ich weiter und werde alle =Hugo= Befehle hier in Emacs eingeben. Und hier steht ein weiterer Text.
 
 * Hotel
 
