@@ -1,0 +1,32 @@
+#+title:      Stundenplan Mattsee
+#+date:       [2026-05-13 Mi 08:49]
+#+filetags:   :schule:
+#+identifier: 20260513T084925
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Stundenplan Mattsee.html
+
+#+attr_latex: :align |c|c|c|c|c|c|
+|-------------+----+-------+----+----+----|
+|      Stunde | Mo | Di    | Mi | Do | Fr |
+|-------------+----+-------+----+----+----|
+|           / | <  | <     | <  | <  | <  |
+|    Aufsicht |    | 1. OG |    |    |    |
+|-------------+----+-------+----+----+----|
+| 07:45-08:35 |    | 2c    |    |    |    |
+| 08:40-09:30 |    | 1c    |    | 1b |    |
+| 09:35-10:25 |    |       |    | 2a |    |
+|-------------+----+-------+----+----+----|
+|    Aufsicht |    |       |    |    |    |
+|-------------+----+-------+----+----+----|
+| 10:45-11:35 |    | 2a    |    | 1c |    |
+| 11:40-12:30 |    |       |    | 4b |    |
+| 12:35-13:25 |    | 1b    |    |    |    |
+|-------------+----+-------+----+----+----|
+| 15:00-15:50 |    |       |    | 2c |    |
+|-------------+----+-------+----+----+----|

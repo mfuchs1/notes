@@ -1,0 +1,67 @@
+#+title:      Suche nach Wahrheit
+#+date:       [2026-05-05 Di 18:12]
+#+filetags:   :privat:
+#+identifier: 20260505T181237
+#+DESCRIPTION: Über das Gute, Wahre und Schöne.
+#+HUGO_CATEGORIES: philosophy 
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_BASE_DIR: /home/matthias/flying-toasters/
+#+AUTHOR: Matthias Fuchs
+
+* Die Kunst der Erziehung
+
+Wie erzieht man seine Kinder? Es soll ja auch Menschen geben, die meinen, Kinder müsse man gar nicht erziehen. Die Frage bleibt wohl, was man unter Erziehung versteht. Geht es z.B. um Gehorsam, oder sollen Kinder Disziplin lernen, um dann selbständig werden zu können? Im ersten Fall führt die Erziehung durch Gehorsam oft zu Frustration, Eltern werden bei Ungehorsam lauter. Das Kind lernt dadurch: ich warte, bis die Eltern schreien und tu erst dann, was man von ihm will. Lernt das Kind Disziplin, handelt es von innen heraus.
+
+** Wie reagieren bei ...
+
+Hilft schimpfen? Wohl kaum, oder? Und trotzdem sollen Grenzen gesetzt werden. Oder sind wir dann wieder beim Gehorsam? Aber Grenzen geben doch Sicherheit, zeigen dass nicht alles erlaubt ist; wie soll das Kind Respekt lernen? Wenn ich selbst respektvoll mit Kindern umgehe. Andererseits darf ich Kinder nicht wie kleine Erwachsene behandeln, sie aufs Podest heben, ... 
+
+* Das Gute, Wahre und Schöne
+
+** Wie bete ich?
+
+Ich muss mein Gebetsleben besser organisieren. Vor Kurzem habe ich gesehen, dass es v.a. um Treue und Regelmäßigkeit geht. Dies bedeutet, dass ich z.B. jeden Tag um genau 6h00 Uhr bete. *Was* ich bete, ist zweitrangig - Vaterunser, Ave Maria, die Bibel lesen, den Rosenkranz beten, um den Hl. Geist bitten, den Barmherzigkeitsrosenkranz beten, Benedictus, Magnifikat, Psalmen, ... es gibt so vieles. 
+
+Für das Gebet in der Früh fällt mir ein (ev. eine kleine Änderung: sofort nach dem Aufstehen):
+- Gebet um den Hl. Geist, 
+- Bibel, 
+- Vaterunser, 
+- Ave Maria.
+
+Am Nachmittag:
+- BIble in a year Podcast
+
+Am Abend:
+- Barmherzigkeitsrosenkranz
+
+Es gibt natürlich auch das Stundengebet der Kirche.
+
+
+* Aktuelles
+
+** Hantavirus
+
+Scheinbar wird hier langsam wieder eine Panik geschürt. Seit Corona kennen wir aber das Muster. Ich habe mir gerade ein Video von Prof. Dr. Martin Haditsch angeschaut. Die Übertragungsrate, etc sind bei diesem Virus so gering, dass es keinen Grund zur Panik gibt.
+
+Hier ein Link zum Video von Prof. Dr. Martin Haditsch: [[https://www.youtube.com/watch?v=T4TR8VybO38]]
+
+Des Weiteren habe ich zwei Links gefunden - nach dem ersten Artikel wusste man schon 2021, dass die nächste Pandemie mit dem Hantavirus kommen wird. Link: [[https://www.gavi.org/vaccineswork/next-pandemic/hantavirus]]
+
+Durch den zweiten Artikel wissen wir nun, dass Moderna mit einer koreanischen Universität einen mRNA Impfstoff gegen den Hantavirus entwickelt hat. Link: [[https://outbreaknewstoday.substack.com/p/korea-university-and-moderna-collaborate]]
+
+Qui bono - wem nützt eine Pandemie? Wie passend, wenn eine Firma wie Moderna schon den Impfstoff parat hat. 
+
+Ab heute ist der Hantavirus ganz oben in den Headlines beim ORF - und wird dort lange bleiben. Langsam aber sicher wird ein Bedrohungsszenario aufgebaut, mit Halbwahrheiten, Faktenchecks, ... also dem ganzen Programm wie während der sogenannten Corona-Pandemie. Es wird genauso wie damals ablaufen - ganz bestimmt kommen wieder Lockdowns, "Pandemie der Ungeimpften", Zwangsimpfung, Schulschließnugen, etc. Die Wunden aus der Coronazeit sind noch gar nicht verheilt, der Gedanke daran könnte Angst und Panik auslösen.  Was durchaus erwünscht ist. In Panik hört der Mensch zu denken auf, lässt sich leichter lenken und manipulieren.
+
+Meine Entscheidung - die Nachrichten darüber einfach so wenig wie möglich lesen. Kritische Medien konsumieren. Sachliche Informationen wie jene von Prof. Haditsch dienen sehr der Beruhigung. Danke, dass es solche Experten wie Herrn Haditsch gibt.
+
+
+* Emacs, Hugo, Linux, ...
+
+** Wie verändere ich die Schriftart in Hugo?
+
+Danach habe ich schon öfters gesucht, jedoch ... Allein schon hier in Emacs kommt mir diese Schriftgröße (13) zu klein vor. Mit Schriftgröße 16 wird es viel besser. 
+
+** Letztes Update auf Plasma 6.6
+
+Wow - KDE Plasma ist durch das letzte Update so schön. Das Wallpaper ist cool. 
