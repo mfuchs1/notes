@@ -1,0 +1,42 @@
+#+title:      Exodus 10 Plagen Gericht über Götter
+#+date:       [2026-05-27 Mi 08:53]
+#+filetags:   :theology:
+#+identifier: 20260527T085324
+#+REVEAL_ROOT: /home/matthias/reveal.js
+
+* Wasser wird zu Blut: 
+Der Gott Hapi (Nilgott) und Chnum (Wächter des Nils) galten als Lebensspender. Die Verwandlung in Blut zeigte, dass Jahwe über das Leben herrscht.
+
+* Froschplage: 
+Die Göttin Heqet (Fruchtbarkeitsgöttin mit Froschkopf) wurde durch die unzähligen Frösche selbst zur Plage und entweiht.
+
+* Stechmücken aus der Erde: 
+Der Gott Geb (Erdgott) und die Wüste wurden machtlos gegen die Heerscharen von Ungeziefer.
+
+* Die Fliegenplage: 
+Der Sonnengott Re (oder Chepre) verlor seine Macht, da Gott Dunkelheit und Ungeziefer schickte.
+
+#+ATTR_REVEAL: :frag (grow shrink zoom-in fade-out none) 
+   * I will grow.
+   * I will shrink.
+   * I zoomed in.
+   * I will fade out.
+   * I don't fragment.
+
+* Viehpest: 
+Die heiligen Tiere wie der Apis-Stier, Hathor (Kuhgöttin) und Apis starben dahin.
+
+* Geschwüre bei Mensch und Tier: 
+Die Heilgötter Thot, Isis und Ptah konnten die Menschen nicht vor den schmerzhaften Beulen schützen.
+
+* Schwerer Hagel: 
+Die Himmelsgöttin Nut und der Wettergott Seth konnten den verheerenden Sturm nicht aufhalten.
+
+* Heuschrecken: 
+Erneut wurden die Erntegötter wie Seth und Min (Gott der Ernte) bloßgestellt, da die Insekten alles vernichteten, was der Hagel übrig gelassen hatte.
+
+* Finsternis (Exodus 10): 
+Der oberste Sonnengott Re (Amun-Re) wurde für drei Tage komplett ausgeschaltet.
+
+* Tod der Erstgeborenen: 
+Der Pharao selbst wurde als Gott verehrt. Der Tod seines Sohnes bewies die absolute Oberhoheit Jahwes über Leben, Tod und den ägyptischen Staat.
