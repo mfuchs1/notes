@@ -2,19 +2,27 @@
 #+date:       [2026-05-05 Di 18:12]
 #+filetags:   :privat:
 #+identifier: 20260505T181237
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
 #+DESCRIPTION: Über das Gute, Wahre und Schöne.
 #+HUGO_CATEGORIES: philosophy 
 #+HUGO_AUTO_SET_LASTMOD: t
 #+HUGO_BASE_DIR: /home/matthias/flying-toasters/
 #+AUTHOR: Matthias Fuchs
+#+cite_export: csl /home/matthias/Downloads/apa.csl
+
 
 * Die Kunst der Erziehung
 
-Wie erzieht man seine Kinder? Es soll ja auch Menschen geben, die meinen, Kinder müsse man gar nicht erziehen. Die Frage bleibt wohl, was man unter Erziehung versteht. Geht es z.B. um Gehorsam, oder sollen Kinder Disziplin lernen, um dann selbständig werden zu können? Im ersten Fall führt die Erziehung durch Gehorsam oft zu Frustration, Eltern werden bei Ungehorsam lauter. Das Kind lernt dadurch: ich warte, bis die Eltern schreien und tu erst dann, was man von ihm will. Lernt das Kind Disziplin, handelt es von innen heraus.
+Wie erzieht man seine Kinder? Es soll ja auch Menschen geben, die meinen, Kinder müsse man gar nicht erziehen. Die Frage bleibt wohl, was man unter Erziehung versteht. Geht es z.B. um Gehorsam, oder sollen Kinder Disziplin lernen, um dann selbständig werden zu können? Im ersten Fall führt die Erziehung durch Gehorsam oft zu Frustration, Eltern werden bei Ungehorsam lauter. Das Kind lernt dadurch: ich warte, bis die Eltern schreien und tu erst dann, was man von ihm will. Lernt das Kind Disziplin, handelt es von innen heraus. [cite:@Bamm1968]
 
 ** Wie reagieren bei ...
 
-Hilft schimpfen? Wohl kaum, oder? Und trotzdem sollen Grenzen gesetzt werden. Oder sind wir dann wieder beim Gehorsam? Aber Grenzen geben doch Sicherheit, zeigen dass nicht alles erlaubt ist; wie soll das Kind Respekt lernen? Wenn ich selbst respektvoll mit Kindern umgehe. Andererseits darf ich Kinder nicht wie kleine Erwachsene behandeln, sie aufs Podest heben, ... 
+Hilft schimpfen? Wohl kaum, oder? Und trotzdem sollen Grenzen gesetzt werden. Oder sind wir dann wieder beim Gehorsam? Aber Grenzen geben doch Sicherheit, zeigen dass nicht alles erlaubt ist; wie soll das Kind Respekt lernen? Wenn ich selbst respektvoll mit Kindern umgehe. Andererseits darf ich Kinder nicht wie kleine Erwachsene behandeln, sie aufs Podest heben, ... [fn:1]
 
 * Das Gute, Wahre und Schöne
 
@@ -65,3 +73,11 @@ Danach habe ich schon öfters gesucht, jedoch ... Allein schon hier in Emacs kom
 ** Letztes Update auf Plasma 6.6
 
 Wow - KDE Plasma ist durch das letzte Update so schön. Das Wallpaper ist cool. 
+
+
+
+#+print_bibliography:
+
+* Footnotes
+
+[fn:1] Test Fußnote
