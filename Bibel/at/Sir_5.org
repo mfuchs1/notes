@@ -1,25 +1,24 @@
-:PROPERTIES:
-:ID:       4e4b569e-7e25-4030-8e57-7f18c4b2d0fc
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
-[[file:Sir_1.html][1]] ... [[file:Sir_3.html][3]] [[file:Sir_4.html][4]]
-*5* [[file:Sir_6.html][6]] [[file:Sir_7.html][7]] ...
-[[file:Sir_51.html][51]]
+#+TITLE: Sir 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-07-01 Mi 13:52]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Sir 5.html
 
---------------
 
 * Sir 5
-  :PROPERTIES:
-  :CUSTOM_ID: sir-5
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Verlass dich nicht auf deinen Reichtum /\\
- und sag nicht: Ich kann es mir leisten. ^{[[#fn1][1]]}\\
+ und sag nicht: Ich kann es mir leisten. [fn:1]\\
 \\
 
 <<v2>>
@@ -29,7 +28,7 @@
 
 <<v3>>
 3 Sag nicht: Wer vermag etwas gegen meine Macht? /\\
- Denn der Herr rächt die Verfolgten. ^{[[#fn2][2]]}\\
+ Denn der Herr rächt die Verfolgten. [fn:2]\\
 \\
 
 <<v4>>
@@ -40,7 +39,7 @@
 
 <<v5>>
 5 Verlass dich nicht auf die Vergebung, /\\
- füge nicht Sünde an Sünde, ^{[[#fn3][3]]}\\
+ füge nicht Sünde an Sünde, [fn:3]\\
 \\
 
 <<v6>>
@@ -58,16 +57,14 @@ auch Zorn, /\\
 
 <<v8>>
 8 Vertrau nicht auf trügerische Schätze; /\\
- sie nützen nichts am Tag des Zorns. ^{[[#fn4][4]]}\\
+ sie nützen nichts am Tag des Zorns. [fn:4]\\
 \\
 
 <<v9>>
-**** Die Verantwortung beim Reden: 5,9 - 6,4
-     :PROPERTIES:
-     :CUSTOM_ID: die-verantwortung-beim-reden-59---64
-     :END:
+* Die Verantwortung beim Reden: 5,9 - 6,4
+
 9 Worfle nicht bei jedem Wind /\\
- und geh nicht auf jedem Pfad! ^{[[#fn5][5]]}\\
+ und geh nicht auf jedem Pfad! [fn:5]\\
 \\
 
 <<v10>>
@@ -77,17 +74,17 @@ auch Zorn, /\\
 
 <<v11>>
 11 Sei schnell bereit zum Hören, /\\
- aber bedächtig bei der Antwort! ^{[[#fn6][6]]}\\
+ aber bedächtig bei der Antwort! [fn:6]\\
 \\
 
 <<v12>>
 12 Nur wenn du imstande bist, antworte deinem Mitmenschen, /\\
- wenn nicht, leg die Hand auf den Mund! ^{[[#fn7][7]]}\\
+ wenn nicht, leg die Hand auf den Mund! [fn:7]\\
 \\
 
 <<v13>>
 13 Ehre und Schmach liegen in der Hand des Schwätzers, /\\
- des Menschen Zunge ist sein Untergang. ^{[[#fn8][8]]}\\
+ des Menschen Zunge ist sein Untergang. [fn:8]\\
 \\
 
 <<v14>>
@@ -102,19 +99,20 @@ bestimmt, /\\
  sei nicht statt eines Freundes ein Feind!\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ps 62,11
+* Footnotes
 
-^{[[#fnm2][2]]} 3b: Andere Übersetzungsmöglichkeit nach G: Denn der Herr
-ist ein strenger Richter.
+[fn:1] [[file:Ps_62.org::v11][Ps 62,11]]
 
-^{[[#fnm3][3]]} ℘ 7,8
+[fn:2] 3b: Andere Übersetzungsmöglichkeit nach G: Denn der Herr ist ein strenger Richter.
 
-^{[[#fnm4][4]]} ℘ Spr 11,4
+[fn:3] [[file:Sir_7.org::v8][7,8]]
 
-^{[[#fnm5][5]]} 9a: Zu «worfeln» vgl. die Anmerkung zu Rut 3,2-4.
+[fn:4] [[file:Spr_11.org::v4][Spr 11,4]]
 
-^{[[#fnm6][6]]} ℘ Jak 1,19
+[fn:5] 9a: Zu «worfeln» vgl. die Anmerkung zu [[file:Rut_3.org::v2][Rut 3,2-4]].
 
-^{[[#fnm7][7]]} ℘ Spr 30,32
+[fn:6] [[file:~/Documents/notes/Bibel/nt/Jak_1.org::v19][Jak 1,19]]
 
-^{[[#fnm8][8]]} ℘ 23,8; Spr 10,14
+[fn:7] [[file:Spr_30.org::v32][Spr 30,32]]
+
+[fn:8] [[file:Sir_23.org::v8][23,8]]; [[file:Spr_10.org::v14][Spr 10,14]]
