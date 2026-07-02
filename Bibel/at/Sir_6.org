@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       813f7cc1-8b5d-4e62-b005-29138d234fdf
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
-[[file:Sir_1.html][1]] ... [[file:Sir_4.html][4]] [[file:Sir_5.html][5]]
-*6* [[file:Sir_7.html][7]] [[file:Sir_8.html][8]] ...
-[[file:Sir_51.html][51]]
-
---------------
+#+TITLE: Sir 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-07-02 Do 07:52]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Sir 6.html
 
 * Sir 6
-  :PROPERTIES:
-  :CUSTOM_ID: sir-6
-  :END:
 
 <<verses>>
 
@@ -38,12 +36,10 @@
 \\
 
 <<v5>>
-**** Die Freundschaft: 6,5-17
-     :PROPERTIES:
-     :CUSTOM_ID: die-freundschaft-65-17
-     :END:
+* Die Freundschaft: 6,5-17
+
 5 Sanfte Rede erwirbt viele Freunde, /\\
- freundliche Lippen sind willkommen. ^{[[#fn1][1]]}\\
+ freundliche Lippen sind willkommen. [fn:1]\\
 \\
 
 <<v6>>
@@ -54,7 +50,7 @@
 <<v7>>
 7 Willst du einen Freund gewinnen, /\\
  gewinne ihn durch Erprobung, /\\
- schenk ihm nicht zu schnell dein Vertrauen! ^{[[#fn2][2]]}\\
+ schenk ihm nicht zu schnell dein Vertrauen! [fn:2]\\
 \\
 
 <<v8>>
@@ -69,12 +65,12 @@
 
 <<v10>>
 10 Mancher ist Freund als Gast am Tisch, /\\
- am Tag des Unheils ist er nicht zu finden. ^{[[#fn3][3]]}\\
+ am Tag des Unheils ist er nicht zu finden. [fn:3]\\
 \\
 
 <<v11>>
 11 In deinem Glück ist er eins mit dir, /\\
- in deinem Unglück trennt er sich von dir. ^{[[#fn4][4]]}\\
+ in deinem Unglück trennt er sich von dir. [fn:4]\\
 \\
 
 <<v12>>
@@ -99,7 +95,7 @@
 
 <<v16>>
 16 Das Leben ist geborgen bei einem treuen Freund, /\\
- ihn findet, wer Gott fürchtet. ^{[[#fn5][5]]}\\
+ ihn findet, wer Gott fürchtet. [fn:5]\\
 \\
 
 <<v17>>
@@ -108,10 +104,8 @@
 \\
 
 <<v18>>
-**** Der Weg zur Weisheit: 6,18-37
-     :PROPERTIES:
-     :CUSTOM_ID: der-weg-zur-weisheit-618-37
-     :END:
+* Der Weg zur Weisheit: 6,18-37
+
 18 Mein Sohn, lerne Zucht von Jugend an /\\
  und du wirst Weisheit gewinnen, bis du ergraut bist.\\
 \\
@@ -150,7 +144,7 @@ Mühe haben /\\
 
 <<v25>>
 25 Beuge deinen Nacken und trage sie, /\\
- werde ihrer Stricke nicht überdrüssig! ^{[[#fn6][6]]}\\
+ werde ihrer Stricke nicht überdrüssig! [fn:6]\\
 \\
 
 <<v26>>
@@ -180,7 +174,7 @@ Mühe haben /\\
 
 <<v31>>
 31 Als Prachtgewand kannst du sie anlegen, /\\
- sie aufsetzen als herrliche Krone. ^{[[#fn7][7]]}\\
+ sie aufsetzen als herrliche Krone. [fn:7]\\
 \\
 
 <<v32>>
@@ -212,24 +206,24 @@ Mühe haben /\\
 37 Achte auf die Furcht vor dem Herrn, /\\
  sinn allezeit über seine Gebote nach! Dann gibt er deinem Herzen
 Einsicht, /\\
- er macht dich weise, wie du es begehrst. ^{[[#fn8][8]]}\\
+ er macht dich weise, wie du es begehrst. [fn:8]\\
 \\
+ 
 
-^{[[#fnm1][1]]} ℘ Spr 15,4
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 19,4
+[fn:1] [[file:Spr_15.org::v4][Spr 15,4]]
 
-^{[[#fnm3][3]]} ℘ 37,4; Spr 19,4
+[fn:2] [[file:Sir_19.org::v4][19,4]]
 
-^{[[#fnm4][4]]} 11b: G: und gegen deine Sklaven tritt er freimütig auf.
+[fn:3] [[file:Sir_37.org::v4][37,4]]; [[file:Spr_19.org::v4][Spr 19,4]]
 
-^{[[#fnm5][5]]} 16a: Wörtlich: Ein treuer Freund ist ein Beutel des
-Lebens. Zu diesem Bild vgl. die Anmerkung zu 1 Sam 25,29. Wie eine
-Kostbarkeit in einem Beutel verborgen wird, so ist das Leben bei Gott
-und bei einem Freund gut aufgehoben.
+[fn:4] 11b: G: und gegen deine Sklaven tritt er freimütig auf.
 
-^{[[#fnm6][6]]} ℘ 51,26
+[fn:5] 16a: Wörtlich: Ein treuer Freund ist ein Beutel des Lebens. Zu diesem Bild vgl. die Anmerkung zu [[file:1.Sam_25.org::v29][1 Sam 25,29]]. Wie eine Kostbarkeit in einem Beutel verborgen wird, so ist das Leben bei Gott und bei einem Freund gut aufgehoben.
 
-^{[[#fnm7][7]]} ℘ Spr 4,9
+[fn:6] [[file:Sir_51.org::v26][51,26]]
 
-^{[[#fnm8][8]]} ℘ Ps 1,2
+[fn:7] [[file:Spr_4.org::v9][Spr 4,9]]
+
+[fn:8] [[file:Ps_1.org::v2][Ps 1,2]]

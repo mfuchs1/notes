@@ -1,29 +1,25 @@
-:PROPERTIES:
-:ID:       eafca497-2370-4198-9c14-9a0991dceaad
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
-[[file:Sir_1.html][1]] ... [[file:Sir_6.html][6]] [[file:Sir_7.html][7]]
-*8* [[file:Sir_9.html][9]] [[file:Sir_10.html][10]] ...
-[[file:Sir_51.html][51]]
-
---------------
+#+TITLE: Sir 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-07-02 Do 08:16]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Sir 8.html
 
 * Sir 8
-  :PROPERTIES:
-  :CUSTOM_ID: sir-8
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Takt und Klugheit: 8,1-19
-     :PROPERTIES:
-     :CUSTOM_ID: takt-und-klugheit-81-19
-     :END:
+* Takt und Klugheit: 8,1-19
+
 1 Streite nicht mit einem Mächtigen, /\\
- damit du ihm nicht in die Hände fällst. ^{[[#fn1][1]]}\\
+ damit du ihm nicht in die Hände fällst. [fn:1]\\
 \\
 
 <<v2>>
@@ -35,12 +31,12 @@ hat das Geld übermütig gemacht, /\\
 
 <<v3>>
 3 Zank nicht mit einem Schwätzer /\\
- und leg nicht noch Holz auf das Feuer! ^{[[#fn2][2]]}\\
+ und leg nicht noch Holz auf das Feuer! [fn:2]\\
 \\
 
 <<v4>>
 4 Pflege keinen Umgang mit einem Toren; /\\
- er wird die Weisen doch nur verachten. ^{[[#fn3][3]]}\\
+ er wird die Weisen doch nur verachten. [fn:3]\\
 \\
 
 <<v5>>
@@ -62,7 +58,7 @@ hat das Geld übermütig gemacht, /\\
 8 Verwirf die Rede der Weisen nicht, /\\
  wirf dich vielmehr auf ihre Sinnsprüche! Denn dadurch wirst du Bildung
 lernen, /\\
- um vor Fürsten stehen zu können. ^{[[#fn4][4]]}\\
+ um vor Fürsten stehen zu können. [fn:4]\\
 \\
 
 <<v9>>
@@ -84,12 +80,12 @@ lernen, /\\
 
 <<v12>>
 12 Borge keinem, der mächtiger ist als du. /\\
- Hast du geborgt, so hast du verloren. ^{[[#fn5][5]]}\\
+ Hast du geborgt, so hast du verloren. [fn:5]\\
 \\
 
 <<v13>>
 13 Bürge für keinen, der höher steht als du. /\\
- Hast du gebürgt, so musst du zahlen. ^{[[#fn6][6]]}\\
+ Hast du gebürgt, so musst du zahlen. [fn:6]\\
 \\
 
 <<v14>>
@@ -108,7 +104,7 @@ rücksichtslos weiter /\\
 16 Einem Jähzornigen biete nicht die Stirn /\\
  und reite mit ihm nicht durch die Wüste! Leicht wiegt in seinen Augen
 die Blutschuld; /\\
- wenn kein Helfer da ist, bringt er dich um. ^{[[#fn7][7]]}\\
+ wenn kein Helfer da ist, bringt er dich um. [fn:7]\\
 \\
 
 <<v17>>
@@ -126,16 +122,19 @@ die Blutschuld; /\\
  und wirf das Glück nicht von dir!\\
 \\
 
-^{[[#fnm1][1]]} ℘ Koh 10,20
 
-^{[[#fnm2][2]]} ℘ 28,10
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ 9,15f; Spr 23,9
+[fn:1] [[file:Koh_10.org::v20][Koh 10,20]]
 
-^{[[#fnm4][4]]} 8ab: Auch in H liegt ein Wortspiel vor.
+[fn:2] [[file:Sir_28.org::v10][28,10]]
 
-^{[[#fnm5][5]]} ℘ 29,1-20
+[fn:3] [[file:Sir_9.org::v15][9,15f]]; [[file:Spr_23.org::v9][Spr 23,9]]
 
-^{[[#fnm6][6]]} ℘ Spr 6,1-5
+[fn:4] 8ab: Auch in H liegt ein Wortspiel vor.
 
-^{[[#fnm7][7]]} ℘ 28,8; Spr 22,24
+[fn:5] [[file:Sir_29.org::v1][29,1-20]]
+
+[fn:6] [[file:Spr_6.org::v1][Spr 6,1-5]]
+
+[fn:7] [[file:Sir_28.org::v8][28,8]]; [[file:Spr_22.org::v24][Spr 22,24]]

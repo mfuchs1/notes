@@ -1,27 +1,24 @@
-:PROPERTIES:
-:ID:       ea82f91a-9fd2-4bd3-8035-232add3929f4
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
-[[file:Sir_1.html][1]] ... [[file:Sir_5.html][5]] [[file:Sir_6.html][6]]
-*7* [[file:Sir_8.html][8]] [[file:Sir_9.html][9]] ...
-[[file:Sir_51.html][51]]
+#+TITLE: Sir 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-07-02 Do 08:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Sir 7.html
 
---------------
 
 * Sir 7
-  :PROPERTIES:
-  :CUSTOM_ID: sir-7
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Gefahren für den Weisen: 7,1-17
-     :PROPERTIES:
-     :CUSTOM_ID: gefahren-für-den-weisen-71-17
-     :END:
+* Gefahren für den Weisen: 7,1-17
+
 1 Tu nichts Böses, so trifft dich nichts Böses. /\\
 \\
 
@@ -31,7 +28,7 @@
 
 <<v3>>
 3 Säe nicht in Furchen des Unrechts, /\\
- damit du es nicht siebenfach erntest. ^{[[#fn1][1]]}\\
+ damit du es nicht siebenfach erntest. [fn:1]\\
 \\
 
 <<v4>>
@@ -53,12 +50,12 @@ Vornehmen fürchten /\\
 
 <<v7>>
 7 Setz dich nicht ins Unrecht bei der Versammlung am Tor, /\\
- bring dich nicht selbst zu Fall vor der Gemeinde! ^{[[#fn2][2]]}\\
+ bring dich nicht selbst zu Fall vor der Gemeinde! [fn:2]\\
 \\
 
 <<v8>>
 8 Sinne nicht darauf, die Sünde zu wiederholen; /\\
- schon bei einer bleibst du nicht straflos. ^{[[#fn3][3]]}\\
+ schon bei einer bleibst du nicht straflos. [fn:3]\\
 \\
 
 <<v9>>
@@ -88,32 +85,29 @@ Vornehmen fürchten /\\
 
 <<v14>>
 14 Rede nicht heimlich in der Versammlung der Fürsten /\\
- und wiederhol nicht die Worte beim Gebet! ^{[[#fn4][4]]}\\
+ und wiederhol nicht die Worte beim Gebet! [fn:4]\\
 \\
 
 <<v15>>
 15 Sei nicht leichtfertig bei der schweren Arbeit auf dem Acker, /\\
- denn von Gott ist sie zugewiesen. ^{[[#fn5][5]]}\\
+ denn von Gott ist sie zugewiesen. [fn:5]\\
 \\
 
 <<v16>>
 16 Überschätz dich nicht vor dem Volk; /\\
- bedenk, dass der Zorn nicht ausbleibt. ^{[[#fn6][6]]}\\
+ bedenk, dass der Zorn nicht ausbleibt. [fn:6]\\
 \\
 
 <<v17>>
 17 Demütige deinen Stolz ganz tief, /\\
  denn was den Menschen erwartet, ist die Verwesung. [Sag nicht
 vorschnell: Welch ein Widersinn! /\\
- Überlass es Gott und willige ein in seinen Weg!]
-^{[[#fn7][7]][[#fn8][8]]}\\
+ Überlass es Gott und willige ein in seinen Weg!] [fn:7] [fn:8]\\
 \\
 
 <<v18>>
-**** Das rechte Verhalten im häuslichen Kreis: 7,18-28
-     :PROPERTIES:
-     :CUSTOM_ID: das-rechte-verhalten-im-häuslichen-kreis-718-28
-     :END:
+* Das rechte Verhalten im häuslichen Kreis: 7,18-28
+
 18 Wechsle keinen Freund für Geld, /\\
  einen treuen Bruder nicht für Gold aus Ofir!\\
 \\
@@ -140,7 +134,7 @@ vorschnell: Welch ein Widersinn! /\\
 
 <<v23>>
 23 Hast du Söhne, nimm sie in Zucht /\\
- und gib ihnen Frauen in jungen Jahren! ^{[[#fn9][9]]}\\
+ und gib ihnen Frauen in jungen Jahren! [fn:9]\\
 \\
 
 <<v24>>
@@ -155,12 +149,12 @@ vorschnell: Welch ein Widersinn! /\\
 
 <<v26>>
 26 Hast du eine Frau, so verstoße sie nicht /\\
- und schenk dein Vertrauen keiner Geschiedenen! ^{[[#fn10][10]]}\\
+ und schenk dein Vertrauen keiner Geschiedenen! [fn:10]\\
 \\
 
 <<v27>>
 27 Ehre deinen Vater von ganzem Herzen, /\\
- vergiss niemals die Schmerzen deiner Mutter! ^{[[#fn11][11]]}\\
+ vergiss niemals die Schmerzen deiner Mutter! [fn:11]\\
 \\
 
 <<v28>>
@@ -169,10 +163,8 @@ vorschnell: Welch ein Widersinn! /\\
 \\
 
 <<v29>>
-**** Die Erfüllung heiliger Pflichten: 7,29-36
-     :PROPERTIES:
-     :CUSTOM_ID: die-erfüllung-heiliger-pflichten-729-36
-     :END:
+* Die Erfüllung heiliger Pflichten: 7,29-36
+
 29 Fürchte Gott von ganzem Herzen, /\\
  seine Priester halt in Ehren!\\
 \\
@@ -214,29 +206,27 @@ Schuldopfer und die freiwillige Abgabe, /\\
  so wirst du niemals sündigen.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Spr 22,8; Ijob 4,8
 
-^{[[#fnm2][2]]} Vor Parteilichkeit, besonders bei den Gerichtssitzungen
-am Tor der Stadt, wird im AT oft gewarnt (vgl. Lev 19,15; Spr 17,15;
-24,23f; Jes 1,17.23).
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ 5,5f
+[fn:1] [[file:Spr_22.org::v8][Spr 22,8]]; [[file:Ijob_4.org::v8][Ijob 4,8]]
 
-^{[[#fnm4][4]]} ℘ 11,8
+[fn:2] Vor Parteilichkeit, besonders bei den Gerichtssitzungen am Tor der Stadt, wird im AT oft gewarnt (vgl. [[file:Lev_19.org::v15][Lev 19,15]]; [[file:Spr_17.org::v15][Spr 17,15]]; [[file:Spr_24.org::v23][24,23f]]; [[file:Jes_1.org::v17][Jes 1,17]].[[file:Jes_1.org::v23][23]]).
 
-^{[[#fnm5][5]]} Die Landwirtschaft ist dem Menschen von Gott aufgetragen
-(vgl. Gen 2,15; 3,23; Jes 28,24-26).
+[fn:3] [[file:Sir_5.org::v5][5,5f]]
 
-^{[[#fnm6][6]]} ℘ Spr 16,18
+[fn:4] [[file:Sir_11.org::v8][11,8]]
 
-^{[[#fnm7][7]]} ℘ Weish 15,10
+[fn:5] Die Landwirtschaft ist dem Menschen von Gott aufgetragen (vgl. [[file:Gen_2.org::v15][Gen 2,15]]; [[file:Gen_3.org::v23][3,23]]; [[file:Jes_28.org::v24][Jes 28,24-26]]).
 
-^{[[#fnm8][8]]} 17cd: Fehlt in G und S.
+[fn:6] [[file:Spr_16.org::v18][Spr 16,18]]
 
-^{[[#fnm9][9]]} 23b: Im Orient verheiratet der Vater seine Söhne und
-Töchter.
+[fn:7] [[file:Weish_15.org::v10][Weish 15,10]]
 
-^{[[#fnm10][10]]} Im AT waren Polygamie und Ehescheidung möglich (vgl.
-25,14; Dtn 24,1; Spr 30,23; Mt 19,7f; Mk 10,4f).
+[fn:8] 17cd: Fehlt in G und S.
 
-^{[[#fnm11][11]]} ℘ 3,1-16; (27-28) Tob 4,3f
+[fn:9] 23b: Im Orient verheiratet der Vater seine Söhne und Töchter.
+
+[fn:10] Im AT waren Polygamie und Ehescheidung möglich (vgl. [[file:Sir_25.org::v14][25,14]]; [[file:Dtn_24.org::v1][Dtn 24,1]]; [[file:Spr_30.org::v23][Spr 30,23]]; [[file:~/Documents/notes/Bibel/nt/Mt_19.org::v7][Mt 19,7f]]; [[file:~/Documents/notes/Bibel/nt/Mk_10.org::v4][Mk 10,4f]]).
+
+[fn:11] [[file:Sir_3.org::v1][3,1-16]]; (27-28) [[file:Tob_4.org::v3][Tob 4,3f]]
