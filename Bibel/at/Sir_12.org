@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       a2555136-1308-4bb2-8c7d-371f46bb8876
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
-[[file:Sir_1.html][1]] ... [[file:Sir_10.html][10]]
-[[file:Sir_11.html][11]] *12* [[file:Sir_13.html][13]]
-[[file:Sir_14.html][14]] ... [[file:Sir_51.html][51]]
-
---------------
+#+TITLE: Sir 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-07-04 Sa 18:47]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Sir 12.html
 
 * Sir 12
-  :PROPERTIES:
-  :CUSTOM_ID: sir-12
-  :END:
 
 <<verses>>
 
@@ -41,7 +39,7 @@
 5 Rüste ihn nicht mit Kampfwaffen aus, /\\
  sonst greift er dich selbst mit ihnen an. Doppeltes Übel trifft dich
 [in der Zeit der Not] /\\
- für all das Gute, das du ihm getan hast. ^{[[#fn1][1]]}\\
+ für all das Gute, das du ihm getan hast. [fn:1]\\
 \\
 
 <<v6>>
@@ -49,12 +47,12 @@
  den Frevlern vergilt er mit Strafe.
 
 <<v7>>
-7 ^{[[#fn2][2]]}\\
+7 [fn:2]\\
 \\
 
 <<v8>>
 8 Im Glück erkennt man den Freund nicht, /\\
- aber im Unglück bleibt der Feind nicht verborgen. ^{[[#fn3][3]]}\\
+ aber im Unglück bleibt der Feind nicht verborgen. [fn:3]\\
 \\
 
 <<v9>>
@@ -64,7 +62,7 @@
 
 <<v10>>
 10 Trau niemals einem Feind; /\\
- denn seine Bosheit gleicht dem rostenden Eisen. ^{[[#fn4][4]]}\\
+ denn seine Bosheit gleicht dem rostenden Eisen. [fn:4]\\
 \\
 
 <<v11>>
@@ -115,16 +113,12 @@ seinen Augen weinen, /\\
  doch unter viel dunklem Gerede ändert er das Gesicht.\\
 \\
 
-^{[[#fnm1][1]]} H wörtlich: Die Waffen des Brotes gib ihm nicht. - Nach
-G wäre V. 5ab zu übersetzen: Halte das Brot zurück und gib es ihm nicht;
-sonst bekommt er dich dadurch in seine Gewalt. Der Zusatz in 5c fehlt zu
-Recht in G.
+* Footnotes
 
-^{[[#fnm2][2]]} In G Wiederholung von V. 4a.
+[fn:1] H wörtlich: Die Waffen des Brotes gib ihm nicht. - Nach G wäre V. 5ab zu übersetzen: Halte das Brot zurück und gib es ihm nicht; sonst bekommt er dich dadurch in seine Gewalt. Der Zusatz in 5c fehlt zu Recht in G.
 
-^{[[#fnm3][3]]} ℘ 6,8-13; 37,1-6; Spr 19,4
+[fn:2] In G Wiederholung von V. 4a.
 
-^{[[#fnm4][4]]} 10f: Der Vergleich meint die immer wieder auftretenden
-Gefahren von seiten des Feindes. Dieser Vergleich wird in V. 11
-beibehalten: Wie ein Spiegelputzer auf jeden Rostfleck achten muss, so
-soll man seinen Gegner nicht aus den Augen verlieren.
+[fn:3] [[file:Sir_6.org::v8][6,8-13]]; [[file:Sir_37.org::v1][37,1-6]]; [[file:Spr_19.org::v4][Spr 19,4]]
+
+[fn:4] 10f: Der Vergleich meint die immer wieder auftretenden Gefahren von seiten des Feindes. Dieser Vergleich wird in V. 11 beibehalten: Wie ein Spiegelputzer auf jeden Rostfleck achten muss, so soll man seinen Gegner nicht aus den Augen verlieren.

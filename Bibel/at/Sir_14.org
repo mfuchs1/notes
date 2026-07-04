@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       ef6468b3-d8e3-490a-8b77-32c1bfbed99d
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
-[[file:Sir_1.html][1]] ... [[file:Sir_12.html][12]]
-[[file:Sir_13.html][13]] *14* [[file:Sir_15.html][15]]
-[[file:Sir_16.html][16]] ... [[file:Sir_51.html][51]]
-
---------------
+#+TITLE: Sir 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-07-04 Sa 18:53]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Sir 14.html
 
 * Sir 14
-  :PROPERTIES:
-  :CUSTOM_ID: sir-14
-  :END:
 
 <<verses>>
 
@@ -39,13 +37,13 @@
 
 <<v5>>
 5 Wer sich selbst nichts gönnt, wem kann der Gutes tun? /\\
- Er wird seinem eigenen Glück nicht begegnen. ^{[[#fn1][1]]}\\
+ Er wird seinem eigenen Glück nicht begegnen. [fn:1]\\
 \\
 
 <<v6>>
 6 Keiner ist schlimmer daran als einer, der sich selbst nichts gönnt,
 /\\
- ihn selbst trifft die Strafe für seine Missgunst. ^{[[#fn2][2]]}\\
+ ihn selbst trifft die Strafe für seine Missgunst. [fn:2]\\
 \\
 
 <<v7>>
@@ -55,20 +53,18 @@
 
 <<v8>>
 8 Schlimm ist ein Geizhals, /\\
- der sein Gesicht abwendet und die Hungernden verachtet.
-^{[[#fn3][3]]}\\
+ der sein Gesicht abwendet und die Hungernden verachtet. [fn:3]\\
 \\
 
 <<v9>>
 9 Dem Auge des Toren ist sein Besitz zu klein, /\\
- ein geiziges Auge trocknet die Seele aus. ^{[[#fn4][4]]}\\
+ ein geiziges Auge trocknet die Seele aus. [fn:4]\\
 \\
 
 <<v10>>
 10 Das Auge des Geizigen hastet nach Speise, /\\
  Unruhe herrscht an seinem Tisch. [Ein gütiges Auge mehrt das Brot, /\\
- selbst eine schwache Quelle spendet Wasser auf den Tisch.]
-^{[[#fn5][5]]}\\
+ selbst eine schwache Quelle spendet Wasser auf den Tisch.] [fn:5]\\
 \\
 
 <<v11>>
@@ -88,7 +84,7 @@
 
 <<v14>>
 14 Versag dir nicht das Glück des heutigen Tages; /\\
- an der Lust, die dir zusteht, geh nicht vorbei! ^{[[#fn6][6]]}\\
+ an der Lust, die dir zusteht, geh nicht vorbei! [fn:6]\\
 \\
 
 <<v15>>
@@ -98,7 +94,7 @@
 
 <<v16>>
 16 Beschenk den Bruder und gönn auch dir etwas; /\\
- denn in der Unterwelt ist kein Genuss mehr zu finden. ^{[[#fn7][7]]}\\
+ denn in der Unterwelt ist kein Genuss mehr zu finden. [fn:7]\\
 \\
 
 <<v17>>
@@ -119,12 +115,10 @@ von Fleisch und Blut: /\\
 \\
 
 <<v20>>
-**** Das rechte Suchen nach Weisheit: 14,20 - 15,10
-     :PROPERTIES:
-     :CUSTOM_ID: das-rechte-suchen-nach-weisheit-1420---1510
-     :END:
+* Das rechte Suchen nach Weisheit: 14,20 - 15,10
+
 20 Wohl dem Menschen, der nachsinnt über die Weisheit, /\\
- der sich bemüht um Einsicht, ^{[[#fn8][8]]}\\
+ der sich bemüht um Einsicht, [fn:8]\\
 \\
 
 <<v21>>
@@ -162,24 +156,20 @@ von Fleisch und Blut: /\\
  und im Schutz ihres Hauses wohnt.\\
 \\
 
-^{[[#fnm1][1]]} 5b: Andere Übersetzungsmöglichkeit nach G: Er kann sich
-seiner Güter nicht freuen.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Spr 11,17
+[fn:1] 5b: Andere Übersetzungsmöglichkeit nach G: Er kann sich seiner Güter nicht freuen.
 
-^{[[#fnm3][3]]} 8b: Andere Übersetzungsmöglichkeit nach Vg: Wer sein
-Gesicht abwendet, verachtet sich selbst.
+[fn:2] [[file:Spr_11.org::v17][Spr 11,17]]
 
-^{[[#fnm4][4]]} 9b: Andere Übersetzungsmöglichkeit nach H: Wer seinem
-Nächsten den Besitz wegnimmt, richtet seinen eigenen Besitz zugrunde.
+[fn:3] 8b: Andere Übersetzungsmöglichkeit nach Vg: Wer sein Gesicht abwendet, verachtet sich selbst.
 
-^{[[#fnm5][5]]} Der Zusatz fehlt in G und Vg. - H wörtlich: eine
-trockene Quelle.
+[fn:4] 9b: Andere Übersetzungsmöglichkeit nach H: Wer seinem Nächsten den Besitz wegnimmt, richtet seinen eigenen Besitz zugrunde.
 
-^{[[#fnm6][6]]} ℘ Koh 7,14
+[fn:5] Der Zusatz fehlt in G und Vg. - H wörtlich: eine trockene Quelle.
 
-^{[[#fnm7][7]]} 16b: Nach der Vorstellung der Alten gibt es in der
-Unterwelt nur ein Schattendasein.
+[fn:6] [[file:Koh_7.org::v14][Koh 7,14]]
 
-^{[[#fnm8][8]]} Neue Abschnitte beginnen oft mit einer Empfehlung der
-Weisheit, die dichterisch personifiziert wird (vgl. 51,13-21; Spr 8,34).
+[fn:7] 16b: Nach der Vorstellung der Alten gibt es in der Unterwelt nur ein Schattendasein.
+
+[fn:8] Neue Abschnitte beginnen oft mit einer Empfehlung der Weisheit, die dichterisch personifiziert wird (vgl. [[file:Sir_51.org::v13][51,13-21]]; [[file:Spr_8.org::v34][Spr 8,34]])

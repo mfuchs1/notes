@@ -1,30 +1,28 @@
-:PROPERTIES:
-:ID:       33debe05-ee6c-4453-b418-8040fc972ad0
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
-[[file:Sir_1.html][1]] ... [[file:Sir_13.html][13]]
-[[file:Sir_14.html][14]] *15* [[file:Sir_16.html][16]]
-[[file:Sir_17.html][17]] ... [[file:Sir_51.html][51]]
-
---------------
+#+TITLE: Sir 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-07-04 Sa 18:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Sir 15.html
 
 * Sir 15
-  :PROPERTIES:
-  :CUSTOM_ID: sir-15
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Wer den Herrn fürchtet, handelt so, /\\
- und wer am Gesetz fest hält, erlangt die Weisheit. ^{[[#fn1][1]]}\\
+ und wer am Gesetz fest hält, erlangt die Weisheit. [fn:1]\\
 \\
 
 <<v2>>
 2 Sie geht ihm entgegen wie eine Mutter, /\\
- wie eine junge Gattin nimmt sie ihn auf. ^{[[#fn2][2]]}\\
+ wie eine junge Gattin nimmt sie ihn auf. [fn:2]\\
 \\
 
 <<v3>>
@@ -68,10 +66,8 @@
 \\
 
 <<v11>>
-**** Die Verantwortung des Menschen: 15,11-20
-     :PROPERTIES:
-     :CUSTOM_ID: die-verantwortung-des-menschen-1511-20
-     :END:
+* Die Verantwortung des Menschen: 15,11-20
+
 11 Sag nicht: Meine Sünde kommt von Gott. /\\
  Denn was er hasst, das tut er nicht.\\
 \\
@@ -94,7 +90,7 @@
 <<v15>>
 15 [Er gab ihm seine Gebote und Vorschriften.] /\\
  Wenn du willst, kannst du das Gebot halten; /\\
- Gottes Willen zu tun ist Treue. ^{[[#fn3][3]]}\\
+ Gottes Willen zu tun ist Treue. [fn:3]\\
 \\
 
 <<v16>>
@@ -104,7 +100,7 @@
 
 <<v17>>
 17 Der Mensch hat Leben und Tod vor sich; /\\
- was er begehrt, wird ihm zuteil. ^{[[#fn4][4]]}\\
+ was er begehrt, wird ihm zuteil. [fn:4]\\
 \\
 
 <<v18>>
@@ -114,26 +110,24 @@
 
 <<v19>>
 19 Die Augen Gottes schauen auf das Tun des Menschen, /\\
- er kennt alle seine Taten. ^{[[#fn5][5]]}\\
+ er kennt alle seine Taten. [fn:5]\\
 \\
 
 <<v20>>
 20 Keinem gebietet er zu sündigen /\\
- und die Betrüger unterstützt er nicht. ^{[[#fn6][6]]}\\
+ und die Betrüger unterstützt er nicht. [fn:6]\\
 \\
 
-^{[[#fnm1][1]]} 1-16,7: Dieser Text ist seit 1958 auch aus einem zweiten
-hebräischen Fragment bekannt, das sich enger an den ursprünglichen
-G-Text anschließt, während die bisher bekannte Handschrift eine spätere
-Bearbeitung erfuhr. Gottesfurcht, Weisheit und Gesetzestreue sind für
-den Weisen identisch (vgl. 1,16; 19,20).
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 51,13-21; Spr 7,4
+[fn:1] 1-16,7: Dieser Text ist seit 1958 auch aus einem zweiten hebräischen Fragment bekannt, das sich enger an den ursprünglichen G-Text anschließt, während die bisher bekannte Handschrift eine spätere Bearbeitung erfuhr. Gottesfurcht, Weisheit und Gesetzestreue sind für den Weisen identisch (vgl. [[file:Sir_1.org::v16][1,16]]; [[file:Sir_19.org::v20][19,20]]).
 
-^{[[#fnm3][3]]} 15a: Nur in Vg.
+[fn:2] [[file:Sir_51.org::v13][51,13-21]]; [[file:Spr_7.org::v4][Spr 7,4]]
 
-^{[[#fnm4][4]]} ℘ Dtn 30,15.19; Jer 21,8
+[fn:3] 15a: Nur in Vg.
 
-^{[[#fnm5][5]]} ℘ 17,15
+[fn:4] [[file:Dtn_30.org::v15][Dtn 30,15]].[[file:Dtn_30.org::v19][19]]; [[file:Jer_21.org::v8][Jer 21,8]]
 
-^{[[#fnm6][6]]} ℘ Ps 5,5-7
+[fn:5] [[file:Sir_17.org::v15][17,15]]
+
+[fn:6] [[file:Ps_5.org::v5][Ps 5,5-7]]

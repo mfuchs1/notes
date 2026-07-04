@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       fe88a16e-c643-48d2-9e9a-b664133bb3b6
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
-[[file:Sir_1.html][1]] ... [[file:Sir_9.html][9]]
-[[file:Sir_10.html][10]] *11* [[file:Sir_12.html][12]]
-[[file:Sir_13.html][13]] ... [[file:Sir_51.html][51]]
-
---------------
+#+TITLE: Sir 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-07-04 Sa 18:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Sir 11.html
 
 * Sir 11
-  :PROPERTIES:
-  :CUSTOM_ID: sir-11
-  :END:
 
 <<verses>>
 
@@ -56,7 +54,7 @@ Fügungen des Herrn, /\\
 
 <<v8>>
 8 Gib keine Antwort, bevor du gehört hast, /\\
- sprich nicht mitten in einer Rede! ^{[[#fn1][1]]}\\
+ sprich nicht mitten in einer Rede! [fn:1]\\
 \\
 
 <<v9>>
@@ -65,14 +63,12 @@ Fügungen des Herrn, /\\
 \\
 
 <<v10>>
-**** Die rechte Einstellung zum Erwerb: 11,10-28
-     :PROPERTIES:
-     :CUSTOM_ID: die-rechte-einstellung-zum-erwerb-1110-28
-     :END:
+* Die rechte Einstellung zum Erwerb: 11,10-28
+
 10 Mein Sohn, warum willst du dir so viel Mühe bereiten? /\\
  Es bleibt doch keiner ungestraft, der zu hastig vorandrängt. Läufst du
 zu rasch, erreichst du das Ziel nicht; /\\
- fliehst du zu schnell, entkommst du nicht. ^{[[#fn2][2]]}\\
+ fliehst du zu schnell, entkommst du nicht. [fn:2]\\
 \\
 
 <<v11>>
@@ -84,7 +80,7 @@ zu rasch, erreichst du das Ziel nicht; /\\
 12 Da ermattet einer und bricht unterwegs zusammen, /\\
  ist arm an Kraft und reich an Schwäche, doch das Auge des Herrn schaut
 ihn gütig an, /\\
- er schüttelt den schmutzigen Staub von ihm ab. ^{[[#fn3][3]]}\\
+ er schüttelt den schmutzigen Staub von ihm ab. [fn:3]\\
 \\
 
 <<v13>>
@@ -114,14 +110,14 @@ ihn gütig an, /\\
 
 <<v18>>
 18 Mancher wird reich, weil er sich plagt, /\\
- doch verwirkt er seinen Erwerb. ^{[[#fn4][4]]}\\
+ doch verwirkt er seinen Erwerb. [fn:4]\\
 \\
 
 <<v19>>
 19 Er sagt zwar zu gegebener Zeit: Ich habe Ruhe gefunden, /\\
  nun will ich meine Güter genießen. Aber er weiß nicht, wie lange es
 dauert; /\\
- er hinterlässt sie andern und stirbt. ^{[[#fn5][5]]}\\
+ er hinterlässt sie andern und stirbt. [fn:5]\\
 \\
 
 <<v20>>
@@ -138,7 +134,7 @@ leicht ist es in den Augen des Herrn, /\\
 
 <<v22>>
 22 Gottes Segen ist der Lohn des Gerechten, /\\
- zur bestimmten Zeit blüht seine Hoffnung auf. ^{[[#fn6][6]]}\\
+ zur bestimmten Zeit blüht seine Hoffnung auf. [fn:6]\\
 \\
 
 <<v23>>
@@ -172,10 +168,8 @@ leicht ist es in den Augen des Herrn, /\\
 \\
 
 <<v29>>
-**** Die rechte Vorsicht: 11,29 - 13,23
-     :PROPERTIES:
-     :CUSTOM_ID: die-rechte-vorsicht-1129---1323
-     :END:
+* Die rechte Vorsicht: 11,29 - 13,23
+
 29 Bring nicht jeden Menschen ins Haus; /\\
  denn viele Wunden schlägt der Verleumder.\\
 \\
@@ -202,26 +196,21 @@ leicht ist es in den Augen des Herrn, /\\
 
 <<v34>>
 34 Nimmst du den Fremden auf, entfremdet er dich deiner Lebensart; /\\
- er entzweit dich mit deiner Familie. ^{[[#fn7][7]]}\\
+ er entzweit dich mit deiner Familie. [fn:7]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Spr 18,13
+* Footnotes
 
-^{[[#fnm2][2]]} 10-28: Religiöse Einstellung hält sich an das
-Sprichwort: An Gottes Segen ist alles gelegen. Damit werden menschliche
-Anstrengungen nicht überflüssig; aber die Weisheitslehrer des AT wenden
-sich gegen maßlose Besitzgier und gegen den Wahn, dass Reichtum
-dauerndes Glück garantiert.
+[fn:1] [[file:Spr_18.org::v13][Spr 18,13]]
 
-^{[[#fnm3][3]]} ℘ Jes 52,14f
+[fn:2] 10-28: Religiöse Einstellung hält sich an das Sprichwort: An Gottes Segen ist alles gelegen. Damit werden menschliche Anstrengungen nicht überflüssig; aber die Weisheitslehrer des AT wenden sich gegen maßlose Besitzgier und gegen den Wahn, dass Reichtum dauerndes Glück garantiert.
 
-^{[[#fnm4][4]]} Übersetzung unsicher.
+[fn:3] [[file:Jes_52.org::v14][Jes 52,14f]]
 
-^{[[#fnm5][5]]} ℘ Lk 12,19f; Sir 14,15
+[fn:4] Übersetzung unsicher.
 
-^{[[#fnm6][6]]} ℘ Spr 10,22
+[fn:5] [[file:~/Documents/notes/Bibel/nt/Lk_12.org::v19][Lk 12,19f]]; [[file:Sir_14.org::v15][Sir 14,15]]
 
-^{[[#fnm7][7]]} Fremde beherbergen ist an sich ein Werk der
-Barmherzigkeit. Aber hier ist der Fremde so viel wie der Verleumder und
-abtrünnige Verführer. Auch beim Almosengeben ist Vorsicht am Platz (vgl.
-12,1-6).
+[fn:6] [[file:Spr_10.org::v22][Spr 10,22]]
+
+[fn:7] Fremde beherbergen ist an sich ein Werk der Barmherzigkeit. Aber hier ist der Fremde so viel wie der Verleumder und abtrünnige Verführer. Auch beim Almosengeben ist Vorsicht am Platz (vgl. [[file:Sir_12.org::v1][12,1-6]]).
