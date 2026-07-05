@@ -1,33 +1,29 @@
-:PROPERTIES:
-:ID:       c709206f-e719-49fb-8cc6-fe4714fc7c36
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
-[[file:Sir_1.html][1]] ... [[file:Sir_16.html][16]]
-[[file:Sir_17.html][17]] *18* [[file:Sir_19.html][19]]
-[[file:Sir_20.html][20]] ... [[file:Sir_51.html][51]]
-
---------------
+#+TITLE: Sir 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-07-05 So 17:50]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Sir 18.html
 
 * Sir 18
-  :PROPERTIES:
-  :CUSTOM_ID: sir-18
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Größe Gottes: 18,1-14
-     :PROPERTIES:
-     :CUSTOM_ID: die-größe-gottes-181-14
-     :END:
+* Die Größe Gottes: 18,1-14
+
 1 Der Herr, der in Ewigkeit lebt, hat alles insgesamt erschaffen, /\\
  der Herr allein erweist sich als gerecht.\\
 \\
 
 <<v2>>
-2 [] ^{[[#fn1][1]]}
+2 [] [fn:1]
 
 <<v3>>
 3 []\\
@@ -45,13 +41,13 @@
 
 <<v6>>
 6 Man kann nichts wegnehmen und nichts hinzutun, /\\
- unmöglich ist es, die Wunder des Herrn zu ergründen. ^{[[#fn2][2]]}\\
+ unmöglich ist es, die Wunder des Herrn zu ergründen. [fn:2]\\
 \\
 
 <<v7>>
 7 Ist der Mensch am Ende angelangt, /\\
  steht er noch am Anfang, /\\
- wenn er es aufgibt, ist er ratlos. ^{[[#fn3][3]]}\\
+ wenn er es aufgibt, ist er ratlos. [fn:3]\\
 \\
 
 <<v8>>
@@ -61,7 +57,7 @@
 
 <<v9>>
 9 Das Leben eines Menschen dauert /\\
- höchstens hundert Jahre. ^{[[#fn4][4]]}\\
+ höchstens hundert Jahre. [fn:4]\\
 \\
 
 <<v10>>
@@ -88,20 +84,16 @@ belehrt /\\
 
 <<v14>>
 14 Glücklich alle, die auf sein Erbarmen hoffen /\\
- und seine Gebote annehmen. ^{[[#fn5][5]]}\\
+ und seine Gebote annehmen. [fn:5]\\
 \\
 
 <<v15>>
-** Verschiedene Mahnungen und Warnungen: 18,15 - 24,34
-   :PROPERTIES:
-   :CUSTOM_ID: verschiedene-mahnungen-und-warnungen-1815---2434
-   :END:
-**** Das Verhalten des Weisen: 18,15-29
-     :PROPERTIES:
-     :CUSTOM_ID: das-verhalten-des-weisen-1815-29
-     :END:
+* Verschiedene Mahnungen und Warnungen: 18,15 - 24,34
+
+* Das Verhalten des Weisen: 18,15-29
+
 15 Mein Sohn, bring keinen Makel auf deine Wohltaten /\\
- und füg zu keiner Gabe kränkende Worte! ^{[[#fn6][6]]}\\
+ und füg zu keiner Gabe kränkende Worte! [fn:6]\\
 \\
 
 <<v16>>
@@ -141,18 +133,17 @@ belehrt /\\
 
 <<v23>>
 23 Ehe du gelobst, überdenk dein Gelübde, /\\
- sei nicht wie einer, der den Herrn versucht. ^{[[#fn7][7]]}\\
+ sei nicht wie einer, der den Herrn versucht. [fn:7]\\
 \\
 
 <<v24>>
 24 Denk an den Zorn am Ende der Tage, /\\
- an die Zeit der Vergeltung, wenn er sein Gesicht abwendet.
-^{[[#fn8][8]]}\\
+ an die Zeit der Vergeltung, wenn er sein Gesicht abwendet. [fn:8]\\
 \\
 
 <<v25>>
 25 Denk zur Zeit des Überflusses an die Zeit des Hungers, /\\
- in den Tagen des Reichtums an Armut und Not! ^{[[#fn9][9]]}\\
+ in den Tagen des Reichtums an Armut und Not! [fn:9]\\
 \\
 
 <<v26>>
@@ -167,19 +158,17 @@ belehrt /\\
 
 <<v28>>
 28 Jeder Verständige soll Weisheit lehren; /\\
- wer sie gefunden hat, soll ihr Lob verkünden. ^{[[#fn10][10]]}\\
+ wer sie gefunden hat, soll ihr Lob verkünden. [fn:10]\\
 \\
 
 <<v29>>
 29 Wer klug zu reden vermag, ist selbst ein Weisheitslehrer /\\
- und trägt in Bescheidenheit seine Sinnsprüche vor. ^{[[#fn11][11]]}\\
+ und trägt in Bescheidenheit seine Sinnsprüche vor. [fn:11]\\
 \\
 
 <<v30>>
-**** Die Beherrschung der Begierden: 18,30 - 19,17
-     :PROPERTIES:
-     :CUSTOM_ID: die-beherrschung-der-begierden-1830---1917
-     :END:
+* Die Beherrschung der Begierden: 18,30 - 19,17
+
 30 Folg nicht deinen Begierden, /\\
  von deinen Gelüsten halte dich fern!\\
 \\
@@ -196,34 +185,31 @@ belehrt /\\
 
 <<v33>>
 33 Sei kein Fresser und Säufer; /\\
- denn sonst bleibt nichts im Beutel. ^{[[#fn12][12]]}\\
+ denn sonst bleibt nichts im Beutel. [fn:12]\\
 \\
 
-^{[[#fnm1][1]]} 2f: Die beiden Verse sind späte Zusätze.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 42,21
+[fn:1] 2f: Die beiden Verse sind späte Zusätze.
 
-^{[[#fnm3][3]]} ℘ Ps 139,18
+[fn:2] [[file:Sir_42.org::v21][42,21]]
 
-^{[[#fnm4][4]]} Hier die runde Zahl hundert; Ps 90,10: siebzig,
-höchstens achtzig Jahre.
+[fn:3] [[file:Ps_139.org::v18][Ps 139,18]]
 
-^{[[#fnm5][5]]} So mit S; G: Er erbarmt sich derer, die Zucht annehmen
-und eifrig nach seinen Geboten suchen.
+[fn:4] Hier die runde Zahl hundert; [[file:Ps_90.org::v10][Ps 90,10]]: siebzig, höchstens achtzig Jahre.
 
-^{[[#fnm6][6]]} ℘ 41,22
+[fn:5] So mit S; G: Er erbarmt sich derer, die Zucht annehmen und eifrig nach seinen Geboten suchen.
 
-^{[[#fnm7][7]]} ℘ Spr 20,25; Koh 5,3f
+[fn:6] [[file:Sir_41.org::v22][41,22]]
 
-^{[[#fnm8][8]]} Jenseitige Strafe kennt Sirach noch nicht. Er denkt an
-den zuletzt doch eintreffenden Zorn Gottes.
+[fn:7] [[file:Spr_20.org::v25][Spr 20,25]]; [[file:Koh_5.org::v3][Koh 5,3f]]
 
-^{[[#fnm9][9]]} Das Stichwort «Denk an» leitet zur Mahnung über, im
-Glück an das drohende Unglück zu denken, da die Zeiten wechseln.
+[fn:8] Jenseitige Strafe kennt Sirach noch nicht. Er denkt an den zuletzt doch eintreffenden Zorn Gottes.
 
-^{[[#fnm10][10]]} Übersetzung nach S.
+[fn:9] Das Stichwort «Denk an» leitet zur Mahnung über, im Glück an das drohende Unglück zu denken, da die Zeiten wechseln.
 
-^{[[#fnm11][11]]} ℘ 16,25; 24,32f
+[fn:10] Übersetzung nach S.
 
-^{[[#fnm12][12]]} 33b: Andere Übersetzungsmöglichkeit: während du nichts
-im Beutel hast.
+[fn:11] [[file:Sir_16.org::v25][16,25]]; [[file:Sir_24.org::v32][24,32f]].
+
+[fn:12] 33b: Andere Übersetzungsmöglichkeit: während du nichts im Beutel hast.

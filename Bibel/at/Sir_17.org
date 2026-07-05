@@ -1,25 +1,23 @@
-:PROPERTIES:
-:ID:       436173e6-6afb-4e1d-86b0-4b93fe605773
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
-[[file:Sir_1.html][1]] ... [[file:Sir_15.html][15]]
-[[file:Sir_16.html][16]] *17* [[file:Sir_18.html][18]]
-[[file:Sir_19.html][19]] ... [[file:Sir_51.html][51]]
-
---------------
+#+TITLE: Sir 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-07-05 So 17:37]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Sir 17.html
 
 * Sir 17
-  :PROPERTIES:
-  :CUSTOM_ID: sir-17
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Der Herr hat die Menschen aus Erde erschaffen /\\
- und lässt sie wieder zu ihr zurückkehren. ^{[[#fn1][1]]}\\
+ und lässt sie wieder zu ihr zurückkehren. [fn:1]\\
 \\
 
 <<v2>>
@@ -29,7 +27,7 @@
 
 <<v3>>
 3 Ihm selbst ähnlich hat er sie mit Kraft bekleidet /\\
- und sie nach seinem Abbild erschaffen. ^{[[#fn2][2]]}\\
+ und sie nach seinem Abbild erschaffen. [fn:2]\\
 \\
 
 <<v4>>
@@ -37,12 +35,12 @@
  über Tiere und Vögel sollten sie herrschen.
 
 <<v5>>
-5 ^{[[#fn3][3]]}\\
+5 [fn:3]\\
 \\
 
 <<v6>>
 6 Er bildete ihnen Mund und Zunge, Auge und Ohr /\\
- und ein Herz zum Denken gab er ihnen. ^{[[#fn4][4]]}\\
+ und ein Herz zum Denken gab er ihnen. [fn:4]\\
 \\
 
 <<v7>>
@@ -64,17 +62,15 @@
 \\
 
 <<v11>>
-**** Die Erwählung Israels: 17,11-23
-     :PROPERTIES:
-     :CUSTOM_ID: die-erwählung-israels-1711-23
-     :END:
+* Die Erwählung Israels: 17,11-23
+
 11 Er hat ihnen Weisheit geschenkt /\\
- und ihnen das Leben spendende Gesetz gegeben. ^{[[#fn5][5]]}\\
+ und ihnen das Leben spendende Gesetz gegeben. [fn:5]\\
 \\
 
 <<v12>>
 12 Einen ewigen Bund hat er mit ihnen geschlossen /\\
- und ihnen seine Gebote mitgeteilt. ^{[[#fn6][6]]}\\
+ und ihnen seine Gebote mitgeteilt. [fn:6]\\
 \\
 
 <<v13>>
@@ -93,7 +89,7 @@
 \\
 
 <<v16>>
-16 [] ^{[[#fn7][7]]}\\
+16 [] [fn:7]\\
 \\
 
 <<v17>>
@@ -126,17 +122,15 @@
 
 <<v23>>
 23 Schließlich erhebt er sich und vergilt ihnen, /\\
- er lässt die Vergeltung über ihr Haupt kommen. ^{[[#fn8][8]]}\\
+ er lässt die Vergeltung über ihr Haupt kommen. [fn:8]\\
 \\
 
 <<v24>>
-**** Reue und Umkehr: 17,24-32
-     :PROPERTIES:
-     :CUSTOM_ID: reue-und-umkehr-1724-32
-     :END:
+* Reue und Umkehr: 17,24-32
+
 24 Den Reumütigen aber gewährt er Umkehr /\\
  und tröstet die Hoffnungslosen /\\
- [und bestimmte sie für ein Leben in der Wahrheit]. ^{[[#fn9][9]]}\\
+ [und bestimmte sie für ein Leben in der Wahrheit]. [fn:9]\\
 \\
 
 <<v25>>
@@ -151,13 +145,12 @@
 
 <<v27>>
 27 Wer wird in der Unterwelt den Höchsten loben /\\
- anstelle derer, die leben und ihn preisen?
-^{[[#fn10][10]][[#fn11][11]]}\\
+ anstelle derer, die leben und ihn preisen? [fn:10] [fn:11]\\
 \\
 
 <<v28>>
 28 Beim Toten, der nicht mehr ist, verstummt der Lobgesang; /\\
- nur der Lebende und Gesunde preist den Herrn. ^{[[#fn12][12]]}\\
+ nur der Lebende und Gesunde preist den Herrn. [fn:12]\\
 \\
 
 <<v29>>
@@ -167,8 +160,7 @@
 
 <<v30>>
 30 Denn nicht wie Gott ist der Mensch, /\\
- Gottes Gedanken sind nicht wie die Gedanken der Menschen.
-^{[[#fn13][13]][[#fn14][14]]}\\
+ Gottes Gedanken sind nicht wie die Gedanken der Menschen. [fn:13] [fn:14]\\
 \\
 
 <<v31>>
@@ -179,47 +171,39 @@
 
 <<v32>>
 32 Das Heer in der Höhe zieht er zur Rechenschaft, /\\
- erst recht die Menschen, die nur Staub und Asche sind.
-^{[[#fn15][15]][[#fn16][16]]}\\
+ erst recht die Menschen, die nur Staub und Asche sind. [fn:15] [fn:16]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 40,11; Gen 3,19
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (3-4) Gen 1,26; 9,2; Weish 9,2f
+[fn:1] [[file:Sir_40.org::v11][40,11]]; [[file:Gen_3.org::v19][Gen 3,19]]
 
-^{[[#fnm3][3]]} Entfällt (später Zusatz).
+[fn:2] (3-4) [[file:Gen_1.org::v26][Gen 1,26]]; [[file:Gen_9.org::v2][9,2]]; [[file:Weish_9.org::v2][Weish 9,2f]]
 
-^{[[#fnm4][4]]} 6-10: Text verderbt; aus den alten Übersetzungen
-erschlossen.
+[fn:3] Entfällt (später Zusatz).
 
-^{[[#fnm5][5]]} ℘ 45,5
+[fn:4] 6-10: Text verderbt; aus den alten Übersetzungen erschlossen.
 
-^{[[#fnm6][6]]} ℘ Ex 24,8
+[fn:5] [[file:Sir_45.org::v5][45,5]]
 
-^{[[#fnm7][7]]} 16.18.21: Zusätze aus verschiedenen G-Handschriften.
+[fn:6] [[file:Ex_24.org::v8][Ex 24,8]]
 
-^{[[#fnm8][8]]} Die Vergeltung im Gericht bezieht sich natürlich auf die
-Sünder von V. 20.
+[fn:7] 16.18.21: Zusätze aus verschiedenen G-Handschriften.
 
-^{[[#fnm9][9]]} Die schroffe Unterscheidung zwischen Guten und Bösen
-wird abgeschwächt durch eine weitere Gruppe von Menschen: die
-Reumütigen. 24c: Nur in Vg überliefert.
+[fn:8] Die Vergeltung im Gericht bezieht sich natürlich auf die Sünder von V. 20.
 
-^{[[#fnm10][10]]} ℘ Jes 38,18f
+[fn:9] Die schroffe Unterscheidung zwischen Guten und Bösen wird abgeschwächt durch eine weitere Gruppe von Menschen: die Reumütigen. 24c: Nur in Vg überliefert.
 
-^{[[#fnm11][11]]} 27f: Vgl. die Anmerkung zu 14,16b. In Verbindung mit
-V. 26 wird gesagt, dass nur im irdischen Leben Umkehr und
-Gottesverehrung möglich sind.
+[fn:10] [[file:Jes_38.org::v18][Jes 38,18f]]
 
-^{[[#fnm12][12]]} ℘ Ps 115,17f; Bar 2,17f
+[fn:11] 27f: Vgl. die Anmerkung zu 14,16b. In Verbindung mit V. 26 wird gesagt, dass nur im irdischen Leben Umkehr und Gottesverehrung möglich sind.
 
-^{[[#fnm13][13]]} ℘ Jes 55,8
+[fn:12] [[file:Ps_115.org::v17][Ps 115,17f]]; [[file:Bar_2.org::v17][Bar 2,17f]]
 
-^{[[#fnm14][14]]} Übersetzung vorwiegend nach S.
+[fn:13] [[file:Jes_55.org::v8][Jes 55,8]]
 
-^{[[#fnm15][15]]} ℘ Ijob 4,18; 25,5f
+[fn:14] Übersetzung vorwiegend nach S.
 
-^{[[#fnm16][16]]} Das «Heer in der Höhe» sind, im Anschluss an die Sonne
-in V. 31, die Sterne, die man als eine Heerschar personifizierte und in
-die Nähe der Engel rückte (vgl. Ri 5,20; Ijob 38,7; Jes 24,21; Bar
-3,34f).
+[fn:15] [[file:Ijob_4.org::v18][Ijob 4,18]]; [[file:Ijob_25.org::v5][25,5f]]
+
+[fn:16] Das «Heer in der Höhe» sind, im Anschluss an die Sonne in V. 31, die Sterne, die man als eine Heerschar personifizierte und in die Nähe der Engel rückte (vgl. [[file:Ri_5.org::v20][Ri 5,20]]; [[file:Ijob_38.org::v7][Ijob 38,7]]; [[file:Jes_24.org::v21][Jes 24,21]]; [[file:Bar_3.org::v34][Bar 3,34f]]).

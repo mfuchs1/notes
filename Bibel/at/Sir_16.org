@@ -1,14 +1,15 @@
-:PROPERTIES:
-:ID:       e5d6b3a8-3776-4e52-9a3c-80cd172d55ae
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
-[[file:Sir_1.html][1]] ... [[file:Sir_14.html][14]]
-[[file:Sir_15.html][15]] *16* [[file:Sir_17.html][17]]
-[[file:Sir_18.html][18]] ... [[file:Sir_51.html][51]]
-
---------------
+#+TITLE: Sir 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-07-05 So 16:55]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Sir 16.html
 
 * Sir 16
   :PROPERTIES:
@@ -18,12 +19,10 @@
 <<verses>>
 
 <<v1>>
-**** Die Sünde und ihre Folgen: 16,1-23
-     :PROPERTIES:
-     :CUSTOM_ID: die-sünde-und-ihre-folgen-161-23
-     :END:
+* Die Sünde und ihre Folgen: 16,1-23
+
 1 Wünsch dir nicht schöne Kinder, wenn sie nichts taugen, /\\
- und freu dich nicht über missratene Söhne! ^{[[#fn1][1]]}\\
+ und freu dich nicht über missratene Söhne! [fn:1]\\
 \\
 
 <<v2>>
@@ -50,28 +49,27 @@ Gottes Willen tut], /\\
 
 <<v6>>
 6 Im Kreis der Frevler flammt Feuer auf; /\\
- gegen ein sündiges Volk entbrennt der Zorn. ^{[[#fn2][2]]}\\
+ gegen ein sündiges Volk entbrennt der Zorn. [fn:2]\\
 \\
 
 <<v7>>
 7 Er hat den Fürsten der Vorzeit nicht verziehen, /\\
- als sie sich in ihrer Stärke empörten. ^{[[#fn3][3]]}\\
+ als sie sich in ihrer Stärke empörten. [fn:3]\\
 \\
 
 <<v8>>
 8 Er hat die Mitbürger Lots nicht geschont, /\\
- als sie zügellos waren in ihrem Übermut. ^{[[#fn4][4]]}\\
+ als sie zügellos waren in ihrem Übermut. [fn:4]\\
 \\
 
 <<v9>>
 9 Er hat das todgeweihte Volk nicht geschont, /\\
- das wegen seiner Sünden das Land verlor, ^{[[#fn5][5]]}\\
+ das wegen seiner Sünden das Land verlor, [fn:5]\\
 \\
 
 <<v10>>
 10 auch nicht die sechshunderttausend Mann Fußvolk; /\\
- sie wurden dahingerafft wegen ihres verbrecherischen Herzens.
-^{[[#fn6][6]]}\\
+ sie wurden dahingerafft wegen ihres verbrecherischen Herzens. [fn:6]\\
 \\
 
 <<v11>>
@@ -84,7 +82,7 @@ Erbarmen und Zorn, /\\
 
 <<v12>>
 12 Sein Erbarmen ist so groß wie sein Strafen, /\\
- jeden richtet er nach seinen Taten. ^{[[#fn7][7]]}\\
+ jeden richtet er nach seinen Taten. [fn:7]\\
 \\
 
 <<v13>>
@@ -100,7 +98,7 @@ Erbarmen und Zorn, /\\
 <<v15>>
 15 [Der Herr verhärtete das Herz des Pharao, /\\
  der ihn nicht erkannte, /\\
- obwohl seine Werke unter dem Himmel offenbar waren. ^{[[#fn8][8]]}\\
+ obwohl seine Werke unter dem Himmel offenbar waren. [fn:8]\\
 \\
 
 <<v16>>
@@ -132,7 +130,7 @@ unbemerkt, /\\
 
 <<v21>>
 21 Sündige ich, sieht mich kein Auge, /\\
- betrüge ich ganz heimlich, wer weiß es? - ^{[[#fn9][9]]}\\
+ betrüge ich ganz heimlich, wer weiß es? - [fn:9]\\
 \\
 
 <<v22>>
@@ -142,16 +140,14 @@ unbemerkt, /\\
 
 <<v23>>
 23 Nur ein Unvernünftiger behauptet solches, /\\
- nur ein törichter Mensch denkt so. ^{[[#fn10][10]]}\\
+ nur ein törichter Mensch denkt so. [fn:10]\\
 \\
 
 <<v24>>
-**** Gottes Wege mit den Menschen: 16,24 - 17,10
-     :PROPERTIES:
-     :CUSTOM_ID: gottes-wege-mit-den-menschen-1624---1710
-     :END:
+* Gottes Wege mit den Menschen: 16,24 - 17,10
+
 24 Hört auf mich und lernt von meiner Erfahrung, /\\
- richtet euren Sinn auf meine Worte! ^{[[#fn11][11]]}\\
+ richtet euren Sinn auf meine Worte! [fn:11]\\
 \\
 
 <<v25>>
@@ -168,7 +164,7 @@ unbemerkt, /\\
 27 hat er ihre Aufgabe für immer festgelegt /\\
  und ihren Machtbereich für alle Zeiten. Sie ermatten nicht und werden
 nicht müde, /\\
- sie lassen nicht nach in ihrer Kraft. ^{[[#fn12][12]]}\\
+ sie lassen nicht nach in ihrer Kraft. [fn:12]\\
 \\
 
 <<v28>>
@@ -178,7 +174,7 @@ nicht müde, /\\
 
 <<v29>>
 29 Dann hat der Herr auf die Erde geblickt /\\
- und sie mit seinen Gütern erfüllt. ^{[[#fn13][13]]}\\
+ und sie mit seinen Gütern erfüllt. [fn:13]\\
 \\
 
 <<v30>>
@@ -186,34 +182,32 @@ nicht müde, /\\
  und sie kehren wieder zu ihr zurück.\\
 \\
 
-^{[[#fnm1][1]]} 1-3: Missratene Söhne sind ein Unglück, weil sie der
-Strafe Gottes verfallen. Dafür folgen nun Beispiele aus der Geschichte.
 
-^{[[#fnm2][2]]} ℘ Num 16,35
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ Gen 6,4
+[fn:1] 1-3: Missratene Söhne sind ein Unglück, weil sie der Strafe Gottes verfallen. Dafür folgen nun Beispiele aus der Geschichte.
 
-^{[[#fnm4][4]]} ℘ Gen 19,24
+[fn:2] [[file:Num_16.org::v35][Num 16,35]]
 
-^{[[#fnm5][5]]} ℘ Ex 23,33; 33,3
+[fn:3] [[file:Gen_6.org::v4][Gen 6,4]]
 
-^{[[#fnm6][6]]} ℘ 46,8; Ex 12,37; Num 14,22f.29f
+[fn:4] [[file:Gen_19.org::v24][Gen 19,24]]
 
-^{[[#fnm7][7]]} ℘ Ijob 34,11
+[fn:5] [[file:Ex_23.org::v33][Ex 23,33]]; [[file:Ex_33.org::v3][33,3]]
 
-^{[[#fnm8][8]]} 15f: Die beiden Verse fehlen in fast allen
-G-Handschriften; sie passen auch inhaltlich nicht in den Zusammenhang.
+[fn:6] [[file:Sir_46.org::v8][46,8]]; [[file:Ex_12.org::v37][Ex 12,37]]; [[file:Num_14.org::v22][Num 14,22f]].[[file:Num_14.org::v29][29f]]
 
-^{[[#fnm9][9]]} ℘ 23,18
+[fn:7] [[file:Ijob_34.org::v11][Ijob 34,11]]
 
-^{[[#fnm10][10]]} ℘ Ps 14,1
+[fn:8] 15f: Die beiden Verse fehlen in fast allen G-Handschriften; sie passen auch inhaltlich nicht in den Zusammenhang
 
-^{[[#fnm11][11]]} G hat Einzahl und beginnt mit der Anrede «Mein Sohn».
+[fn:9] [[file:Sir_23.org::v18][23,18]]
 
-^{[[#fnm12][12]]} Von hier ab ist bis Kap. 31 fast nichts vom
-hebräischen Text erhalten.
+[fn:10] [[file:Ps_14.org::v1][Ps 14,1]]
 
-^{[[#fnm13][13]]} 29f: In einem kurzen Rückblick auf den
-Schöpfungsbericht wird die Mannigfaltigkeit und Hinfälligkeit aller
-Lebewesen herausgestellt. In Kap. 17 wird die Betrachtung auf den
-Menschen und auf das Volk Israel konzentriert.
+[fn:11] G hat Einzahl und beginnt mit der Anrede "mein Sohn".
+
+[fn:12] Von hier ab ist bis Kap. 31 fast nichts vom hebräischen Text erhalten.
+
+[fn:13] 29f: In einem kurzen Rückblick auf den Schöpfungsbericht wird die Mannigfaltigkeit und Hinfälligkeit aller
+Lebewesen herausgestellt. In Kap. 17 wird die Betrachtung auf den Menschen und auf das Volk Israel konzentriert.
