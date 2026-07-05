@@ -1,25 +1,23 @@
-:PROPERTIES:
-:ID:       53eb8afa-ea3c-40a9-9ca1-09680b753481
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Jesus Sirach* --
-[[file:Sir_1.html][1]] ... [[file:Sir_17.html][17]]
-[[file:Sir_18.html][18]] *19* [[file:Sir_20.html][20]]
-[[file:Sir_21.html][21]] ... [[file:Sir_51.html][51]]
-
---------------
+#+TITLE: Sir 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2026-07-05 So 22:50]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Sir 19.html
 
 * Sir 19
-  :PROPERTIES:
-  :CUSTOM_ID: sir-19
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Wer das tut, wird niemals reich, /\\
- wer das wenige gering schätzt, richtet sich zugrunde. ^{[[#fn1][1]]}\\
+ wer das wenige gering schätzt, richtet sich zugrunde. [fn:1]\\
 \\
 
 <<v2>>
@@ -29,8 +27,7 @@
 
 <<v3>>
 3 [Moder und Würmer nehmen ihn in Besitz, /\\
- freche Gier richtet den zugrunde, über den sie herrscht.]
-^{[[#fn2][2]][[#fn3][3]]}\\
+ freche Gier richtet den zugrunde, über den sie herrscht.] [fn:2] [fn:3]\\
 \\
 
 <<v4>>
@@ -40,7 +37,7 @@
 
 <<v5>>
 5 Wer sich über eine Schlechtigkeit freut, wird selbst verachtet, /\\
- [wer den Lüsten widerstrebt, krönt sein Leben. ^{[[#fn4][4]]}\\
+ [wer den Lüsten widerstrebt, krönt sein Leben. [fn:4]\\
 \\
 
 <<v6>>
@@ -55,12 +52,12 @@
 
 <<v8>>
 8 Rede weder über Freund noch Feind; /\\
- wenn du einen Freund hast, enthülle nichts über ihn! ^{[[#fn5][5]]}\\
+ wenn du einen Freund hast, enthülle nichts über ihn! [fn:5]\\
 \\
 
 <<v9>>
 9 Denn wer dich hört, wird sich vor dir hüten /\\
- und dir zur gegebenen Zeit seinen Groll zeigen. ^{[[#fn6][6]]}\\
+ und dir zur gegebenen Zeit seinen Groll zeigen. [fn:6]\\
 \\
 
 <<v10>>
@@ -70,7 +67,7 @@
 
 <<v11>>
 11 Um eines Wortes willen kommt der Tor in Wehen /\\
- wie eine Gebärende durch ihre Leibesfrucht. ^{[[#fn7][7]]}\\
+ wie eine Gebärende durch ihre Leibesfrucht. [fn:7]\\
 \\
 
 <<v12>>
@@ -100,21 +97,19 @@
 
 <<v17>>
 17 Stell deinen Nächsten zur Rede, ehe du ihm Vorwürfe machst. /\\
- Gib dem Gesetz des Höchsten Raum! ^{[[#fn8][8]]}\\
+ Gib dem Gesetz des Höchsten Raum! [fn:8]\\
 \\
 
 <<v18>>
-18 [] ^{[[#fn9][9]]}
+18 [] [fn:9]
 
 <<v19>>
 19 []\\
 \\
 
 <<v20>>
-**** Rechte und falsche Klugheit: 19,20-30
-     :PROPERTIES:
-     :CUSTOM_ID: rechte-und-falsche-klugheit-1920-30
-     :END:
+* Rechte und falsche Klugheit: 19,20-30
+
 20 Alle Weisheit ist Furcht vor dem Herrn; /\\
  in jeder Weisheit liegt Erfüllung des Gesetzes.\\
 \\
@@ -165,30 +160,28 @@
 
 <<v30>>
 30 Die Kleidung des Menschen offenbart sein Verhalten, /\\
- die Schritte des Menschen zeigen, was an ihm ist. ^{[[#fn10][10]]}\\
+ die Schritte des Menschen zeigen, was an ihm ist. [fn:10]\\
 \\
 
-^{[[#fnm1][1]]} Wer das tut: nach H. - «das wenige» in b meint die im
-Einzelfall nicht besonders hohen Ausgaben des Schlemmers; erst die
-maßlose Gewohnheit ist gefährlich.
 
-^{[[#fnm2][2]]} ℘ 10,11; 6,4
+* Footnotes
 
-^{[[#fnm3][3]]} Wohl nicht ursprünglich, sondern aus 10,11 und 6,4
-zusammengestellt. Der erste Halbvers fehlt in H und S.
+[fn:1] Wer das tut: nach H. - «das wenige» in b meint die im Einzelfall nicht besonders hohen Ausgaben des Schlemmers; erst die maßlose Gewohnheit ist gefährlich.
 
-^{[[#fnm4][4]]} 5b.6a: Nur in einigen G-Handschriften.
+[fn:2] [[file:Sir_10.org::v11][10,11]]; [[file:Sir_6.org::v4][6,4]]
 
-^{[[#fnm5][5]]} 8b: G kaum richtig: Wenn es für dich keine Sünde ist,
-enthülle nichts! (Vgl. 27,16-21).
+[fn:3] Wohl nicht ursprünglich, sondern aus [[file:Sir_10.org::v11][10,11]] und [[file:Sir_6.org::v4][6,4]] zusammengestellt. Der erste Halbvers fehlt in H und S.
 
-^{[[#fnm6][6]]} ℘ (8-9) 22,26
+[fn:4] 5b.6a: Nur in einigen G-Handschriften.
 
-^{[[#fnm7][7]]} 11f: Sinn der Vergleiche: Der Tor kann nichts für sich
-behalten.
+[fn:5] 8b: G kaum richtig: Wenn es für dich keine Sünde ist, enthülle nichts! (Vgl. [[file:Sir_27.org::v16][27,16-21]]).
 
-^{[[#fnm8][8]]} ℘ Lev 19,17
+[fn:6] (8-9) [[file:Sir_22.org::v26][22,26]]
 
-^{[[#fnm9][9]]} 18.19.21: Späte Zusätze.
+[fn:7] 11f: Sinn der Vergleiche: Der Tor kann nichts für sich behalten.
 
-^{[[#fnm10][10]]} So nach S.
+[fn:8] [[file:Lev_19.org::v17][Lev 19,17]]
+
+[fn:9] 18.19.21: Späte Zusätze
+
+[fn:10] So nach S.
