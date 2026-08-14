@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       bb37b797-a26c-414c-aeb9-e91d9f4f832b
+:ROAM_REFS: cite:Guardini.2007
+:END:
+#+title: Der Herr
+- tags ::
+- keywords :: Theologie
+
+* Der Herr
+:PROPERTIES:
+:Custom_ID: Guardini.2007
+:URL:
+:AUTHOR: Romano Guardini
+:NOTER_DOCUMENT:  
+:NOTER_PAGE:               
+:END:
+
+Aha, so klappt das also.

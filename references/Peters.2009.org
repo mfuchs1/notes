@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       de55594b-df79-444e-9e5d-0bac16ada683
+:ROAM_REFS: cite:Peters.2009
+:END:
+#+title: Kant&Co
+- tags ::
+- keywords :: Philosophie
+
+* Kant & Co im Interview
+:PROPERTIES:
+:Custom_ID: Peters.2009
+:URL:
+:AUTHOR: Peters, Jörg
+:NOTER_DOCUMENT:  
+:NOTER_PAGE:               
+:END:

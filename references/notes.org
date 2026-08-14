@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       d0c3c5bb-51b1-4ed2-9d62-f5cab040989a
+:END:
+ 
+
+* W. Beinert, B. Stubenrauch, C. Böttigheimer, & E. Dirscherl (2012): Neues lexikon der katholischen dogmatik
+  :PROPERTIES:
+  :Custom_ID: Beinert2012
+  :END:
+
+** Ewiges Leben
+Israel hofft auf das Leben vor dem Tod.
+
+* Knop, J. (2017): Philosophie für kinder
+  :PROPERTIES:
+  :Custom_ID: Knop2017
+  :END:
+
+  Es gibt keine dummen Fragen, aber es gibt Fragen, die dich nicht weiterbringen.
+
+* \textscRatzinger, Joseph (2011): Jesus von nazareth: band ii: vom einzug in jerusalem bis zur auferstehung
+  :PROPERTIES:
+  :Custom_ID: Ratzinger.2011
+  :END:
+
+Notiz ...
+
+* \textscRietzler, Stefanie, & \textscGrolimund, Fabian (2016): Erfolgreich lernen mit adhs
+  :PROPERTIES:
+  :Custom_ID: Rietzler.2016
+  :END:
+

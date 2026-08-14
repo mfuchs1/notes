@@ -1,0 +1,7 @@
+#+title:      Citar Denote
+#+date:       [2026-07-26 So 17:52]
+#+filetags:   :bib:emacs:
+#+identifier: 20260726T175240
+#+reference:  Bauer1962
+
+[cite:@Ceram1955]

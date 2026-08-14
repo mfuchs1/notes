@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       67718a29-ce2b-4cea-a47a-504aa301907a
+:END:
+#+title: Dogmatik
+- tags ::
+- keywords :: Dogmatik
+
+* Katholische Dogmatik
+:PROPERTIES:
+:Custom_ID: Mueller.2012
+:URL:
+:AUTHOR: Gerhard Mueller
+:NOTER_DOCUMENT:  
+:NOTER_PAGE:               
+:END:
+
+Ein Standardwerk.

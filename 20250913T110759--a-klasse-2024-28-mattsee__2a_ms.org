@@ -26,9 +26,10 @@
 - [[denote:20251204T150745][Übungsteil]]
 #+END:
 
+[[file:~/Documents/org/20240717T163657--agenda__project.org::*2b (2. OG AB) 07:45-08:35][2b (2. OG AB) 07:45-08:35]]
 
 * Notizen, Tasks, Termine
-
+Und der Text.
 
 * Stundenplanung
 

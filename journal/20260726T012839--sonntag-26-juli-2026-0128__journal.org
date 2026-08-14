@@ -1,0 +1,17 @@
+#+title:      Sonntag 26 Juli 2026 01:28
+#+date:       [2026-07-26 So 01:28]
+#+filetags:   :journal:
+#+identifier: 20260726T012839
+
+* [2026-07-26 So 01:28] Organisation für nächstes Schuljahr
+
+Da ich kaum schlafen kann, habe ich mir überlegt, wie ich meinen Unterricht für das nächste Schuljahr organisiere. Von der Klassendatei aus habe ich einen Link zur Jahresplanung, und von dort zu jedem einzelnen Kapitel des Schulbuchs. Dorthin kommen die konkreten Ideen und Umsetzungen des Stoffes.
+
+Mittels =org-capture= erfasse ich Notizen und Aufzeichnungen zur Stunde und den Schülern. Eine Tabelle für Notengebung ist in Religion etwas schwierig, weil ich kaum wie in Mathematik / Deutsch / etc. Tests, HÜ, etc habe, die ich benoten kann. Daher bleibt mir nix anderes übrig, als schriftliche Notizen zur Mitarbeit der Schüler zu machen.
+
+Und kleine LZKs sind ja nicht verboten ...
+
+* [2026-07-26 So 01:35] Aha, so funktioniert das.
+
+[[denote:20260726T012839][Sonntag 26 Juli 2026 01:28]]
+

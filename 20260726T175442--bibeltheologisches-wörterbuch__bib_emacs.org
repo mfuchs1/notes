@@ -1,0 +1,6 @@
+#+title:      Bibeltheologisches Wörterbuch
+#+date:       [2026-07-26 So 17:54]
+#+filetags:   :bib:emacs:
+#+identifier: 20260726T175442
+#+reference:  Bauer1962
+

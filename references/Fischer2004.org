@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       aab40f48-7ad1-4e70-895a-fa7a6f0f4cfe
+:ROAM_REFS: cite:Fischer2004
+:END:
+#+TITLE: Fischer2004: Prophetie und visionen
+
+- tags :: [[file:Schule_Themen/prophetie.org][Prophetie]]
+- keywords :: Bibel AT NT Prophetie Apokalypse
+
+* Prophetie und visionen
+:PROPERTIES:
+:Custom_ID: Fischer2004
+:URL: 
+:AUTHOR: I. Fischer
+:NOTER_DOCUMENT: 
+:NOTER_PAGE:
+:END:

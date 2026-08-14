@@ -1,0 +1,10 @@
+#+title:      Link Agenda
+#+date:       [2026-08-07 Fr 10:49]
+#+filetags:   :emacs:
+#+identifier: 20260807T104904
+
+[[file:~/Documents/org/20240717T163657--agenda__project.org::*1a (1. OG NB) 09:45-10:35]]
+
+<2026-08-07 Fr 10:49>
+[[file:~/Documents/org/20240717T163657--agenda__project.org::*1a (1. OG NB) 09:45-10:35][1a (1. OG NB) 09:45-10:35]]
+

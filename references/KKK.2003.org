@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       ffdb41c5-d9a6-48a8-a160-a5a41405187d
+:ROAM_REFS: cite:KKK.2003
+:END:
+#+TITLE: KKK.2003: Katechismus der katholischen kirche
+
+- tags :: [[file:Schule_Themen/das_gewissen.org][Das Gewissen]]
+- keywords :: Credo
+
+* Katechismus der katholischen kirche
+:PROPERTIES:
+:Custom_ID: KKK.2003
+:URL: 
+:AUTHOR: 
+:NOTER_DOCUMENT: 
+:NOTER_PAGE:
+:END:

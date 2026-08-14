@@ -1,0 +1,13 @@
+#+title:      Krieg
+#+date:       [2026-08-11 Di 13:59]
+#+filetags:   :news:
+#+identifier: 20260811T135925
+
+#+begin_quote
+Bei einer russischen Angriffswelle auf ukrainische Großstädte in der Nacht auf Dienstag sind ukrainischen Angaben
+zufolge mehrere Menschen getötet worden. Präsident Wolodymyr Selenskyj sprach von einem „brutalen Angriff, der
+darauf abzielte, maximalen Schaden anzurichten“. Es seien auch nordkoreanische ballistische Raketen eingesetzt
+worden. Der Ukraine fehlt es unterdessen weiterhin an modernen Flugabwehrsystemen. 
+#+end_quote
+
+https://orf.at/stories/3438838/

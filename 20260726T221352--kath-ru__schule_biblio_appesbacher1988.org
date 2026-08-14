@@ -1,0 +1,16 @@
+#+title:      Kath. RU
+#+date:       [2026-07-26 So 22:13]
+#+filetags:   :schule:biblio:appesbacher1988:
+#+identifier: 20260726T221352
+
+#+begin_src bibtex
+@book{Appesbacher1988,
+        abstract = "",
+        author = "\textsc{Appesbacher}, Matth{\"a}us",
+        keywords = "Katholischer Religionsunterricht",
+        location = "Salzburg",
+        publisher = "{Otto M{\"u}ller Verlag}",
+        title = "{Die Entwicklung des Religionsunterrichtes in der Erzdi{\"o}zese Salzburg 1968-1985}",
+        year = "1988"
+}
+#+end_src

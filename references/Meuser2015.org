@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b7f84ba3-e0ad-4ea3-a780-cef5335cf7af
+:ROAM_REFS: cite:Meuser2015
+:END:
+#+TITLE: Meuser2015: YOUCAT
+
+- tags :: [[file:Schule_Themen/das_gewissen.org][Das Gewissen]]
+- keywords :: 
+
+* YOUCAT
+:PROPERTIES:
+:Custom_ID: Meuser2015
+:URL: 
+:AUTHOR: B. Meuser, & n. null
+:NOTER_DOCUMENT: 
+:NOTER_PAGE:
+:END:
+Nr. 291-295
+
+Einige Nummern davor: gute Handlungen? Verantwortung? Absicht / Tat; ...

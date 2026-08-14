@@ -1,0 +1,6 @@
+#+title:      Enge Schlucht und schwarzer Berg
+#+date:       [2026-07-26 So 18:16]
+#+filetags:   :bib:emacs:
+#+identifier: 20260726T181620
+#+reference:  Ceram1955
+

@@ -1,0 +1,6 @@
+#+title:      Emacs
+#+date:       [2026-07-28 Di 14:12]
+#+filetags:   :emacs:
+#+identifier: 20260728T141248
+
+https://mbork.pl/2026-07-27_Outlining_in_programs

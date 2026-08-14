@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       3f7be097-5a8e-499a-aa11-5b5d0ba25741
+:ROAM_REFS: cite:atlas-philo
+:END:
+#+title: Atlas_Philosophie
+- tags ::
+- keywords :: Philosophie
+
+* dtv-Atlas Philosophie
+:PROPERTIES:
+:Custom_ID: atlas-philo
+:URL:
+:AUTHOR: Peter Kunzmann
+:NOTER_DOCUMENT:  
+:NOTER_PAGE:               
+:END:

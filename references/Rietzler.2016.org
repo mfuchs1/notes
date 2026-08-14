@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       2b25440b-be69-408a-ac22-3d1f6b8eb8c0
+:ROAM_REFS: cite:Rietzler.2016
+:END:
+#+title: Erfolgreich lernen mit adhs
+- tags :: ADHS
+- keywords :: ADHS
+
+* Erfolgreich lernen mit ADHS
+:PROPERTIES:
+:Custom_ID: Rietzler.2016
+:URL:
+:AUTHOR: Rietzler, Stefanie and Grolimund, Fabian
+:NOTER_DOCUMENT:  
+:NOTER_PAGE:               
+:END:
+
+Ein ausgezeichnetes Buch; Angelika Lichtenegger hat es mit empfohlen. Auf der Homepage der Autoren werde ich noch mehr Informationen und Hilfe finden.
+
+[[https://www.mit-kindern-lernen.ch/]]
+
+[[id:f38ce401-7826-44f0-bf27-1c5a6eafc3e5][Mit Kindern lernen - die bunte Welt des Lernens]]
+
+Meine Notizen zu dem Buch kommen hierher.
+

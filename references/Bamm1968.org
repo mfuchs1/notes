@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       bd59b176-5a06-400d-9618-8faa12badcff
+:ROAM_REFS: cite:Bamm1968
+:END:
+#+title: Werke
+- tags ::
+- keywords :: Theologie
+
+* Titel
+:PROPERTIES:
+:Custom_ID: Bamm1968
+:URL:
+:AUTHOR: Autor
+:NOTER_DOCUMENT:  
+:NOTER_PAGE:               
+:END:
