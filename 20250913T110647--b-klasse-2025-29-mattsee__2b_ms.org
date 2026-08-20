@@ -1,7 +1,7 @@
-#+title:      C Klasse 2025-29 Mattsee
-#+date:       [2025-09-13 Sa 11:07]
-#+filetags:   :1c:ms:
-#+identifier: 20250913T110721
+#+title:      B Klasse 2025-29 Mattsee
+#+date:       [2025-09-13 Sa 11:06]
+#+filetags:   :2b:ms:
+#+identifier: 20250913T110647
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
 #+SETUPFILE: ~/Documents/config/latex_setup.org
@@ -9,30 +9,31 @@
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/1c Mattsee.html
+#+export_file_name: ~/Documents/exports/1b Mattsee.html
 
 * Jahresplanung
 
 [[denote:20250913T113018][Religion für uns 01]]
 
 * Notizen, Tasks, Termine
-
+ 
 
 * Stundenplanung
 
 ** Arbeiten mit der Bibel
 
 Ein Evangelium von A bis Z
-Lukas Evangelium
+Lukas 1 + 2
 
-** Zusammenfassung Sakramente / Religionen
+** Sakrament der Weihe
 
-
-
+YouCat / Videos.
+Berufung / Beruf 
+Ordensleben
 
 * Reflexionen
 
-** Barnay Luis 
+** Achleitner Tobias 
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -40,7 +41,7 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Borisova Doroteya
+** Altendorfer Elena 
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -48,7 +49,7 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Burggraf Maximilian
+** Altendorfer Fabian
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -56,7 +57,7 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Grögler Luisa
+** Angermayr Nico
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -64,7 +65,7 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Huber Johanna 
+** Baumann Natalie 
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -72,7 +73,7 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Janiba Theresa 
+** Dirnberger Johannes 
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -80,7 +81,7 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Kreiseder Danie
+** Dürager Nina
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -88,7 +89,7 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Maislinger Daniel 
+** Fischer Charlotte
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -96,7 +97,7 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Quehenberger Paul
+** Hinterberger Maximilian 
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -104,7 +105,7 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Stemeseder Isabella 
+** Keidel Amelie 
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -112,7 +113,7 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Strasser Johannes
+** Kobliha Benedikt
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -120,7 +121,46 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Stumvoll Sophia 
+** Lindner Ella 
+| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
+|------------+-----+----------+------+------------+-----------------+------|
+|------------+-----+----------+------+------------+-----------------+------|
+| *Endnote:* |     |          |      |            |                 |      |
+#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
+** Oberholzer Nicole | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
+|------------+-----+----------+------+------------+-----------------+------|
+|------------+-----+----------+------+------------+-----------------+------|
+| *Endnote:* |     |          |      |            |                 |      |
+#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
+** Reinfeld Eliah 
+| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
+|------------+-----+----------+------+------------+-----------------+------|
+|------------+-----+----------+------+------------+-----------------+------|
+| *Endnote:* |     |          |      |            |                 |      |
+#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
+** Resch Tobias
+| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
+|------------+-----+----------+------+------------+-----------------+------|
+|------------+-----+----------+------+------------+-----------------+------|
+| *Endnote:* |     |          |      |            |                 |      |
+#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
+** Ritsch Matthias
+| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
+|------------+-----+----------+------+------------+-----------------+------|
+|------------+-----+----------+------+------------+-----------------+------|
+| *Endnote:* |     |          |      |            |                 |      |
+#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
+** Schwaiger David 
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|

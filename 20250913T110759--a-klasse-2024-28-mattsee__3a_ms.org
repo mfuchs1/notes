@@ -1,6 +1,6 @@
 #+title:      A Klasse 2024-28 Mattsee
 #+date:       [2025-09-13 Sa 11:07]
-#+filetags:   :2a:ms:
+#+filetags:   :3a:ms:
 #+identifier: 20250913T110759
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
