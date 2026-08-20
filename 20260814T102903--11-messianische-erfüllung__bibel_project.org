@@ -23,3 +23,60 @@ JESUS CHRISTUS
 Eine, Heilige, Katholische, Apostolische Kirche (Jesus, Lk 22)
 
 * Themen für RU
+
+** 1. Klassen
+
+[[denote:20250913T113018][Religion für uns 01]]
+
+#+BEGIN: denote-links :regexp "_01_glaube" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20251009T145427][Geschichten des Lebens]]
+- [[denote:20251009T145447][Impuls: Der Turmbau zu Babel]]
+- [[denote:20251009T145500][Übergang: Kannst du dich noch erinnern?]]
+- [[denote:20251009T145513][Die Bibel erzählt]]
+- [[denote:20251009T145522][Die Entstehung der Bibel]]
+- [[denote:20251009T145530][Die Welt der Bibel]]
+- [[denote:20251009T145540][Palästina, das Land der Bibel]]
+- [[denote:20251009T145550][Das Leben zu Zeit Jesu]]
+- [[denote:20251009T145600][Jesus, ein Phänomen]]
+- [[denote:20251009T145608][Jesus, der Mensch]]
+- [[denote:20251009T145616][Jesus, der Christus]]
+- [[denote:20251009T145625][Evangelium, die frohe Botschaft]]
+- [[denote:20251009T145635][Bibel: mit der Bibel arbeiten]]
+- [[denote:20251009T145643][Übungsteil]]
+#+END:
+
+#+BEGIN: denote-links :regexp "_01_kirche" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20251204T140653][Menschen beten]]
+- [[denote:20251204T141031][Über mein Leben nachdenken]]
+- [[denote:20251204T141055][Impuls: Dankbar sein]]
+- [[denote:20251204T141120][Arten von Gebeten]]
+- [[denote:20251204T141136][Mit dem Körper beten]]
+- [[denote:20251204T141153][Die Vielfalt des Betens]]
+- [[denote:20251204T141211][Wie wir beten können]]
+- [[denote:20251204T141228][Übergang: Die Bitten unseres Lebens]]
+- [[denote:20251204T141243][Das Vaterunser]]
+- [[denote:20251204T141300][Die Gemeinschaft der Glaubenden]]
+- [[denote:20251204T141316][Gemeinsam Kirche sein]]
+- [[denote:20251204T141339][Ich gehöre dazu!]]
+- [[denote:20251204T141353][Ein gemeinsamer Glaube]]
+- [[denote:20251204T141409][Verstehen: Glaubensaussagen deuten]]
+- [[denote:20251204T141425][Gottes Gegenwart feiern]]
+- [[denote:20251204T141437][Übungsteil]]
+#+END:
+
+
+
+** 2. Klassen
+
+[[denote:20250913T113113][Religion für uns 02]]
+
+
+
+** 3. Klassen
+
+[[denote:20251204T181336][Religion für uns 03]]
+
+** 4. Klassen
+
+[[denote:20250913T113501][Religion für uns 04]]
+

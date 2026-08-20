@@ -17,3 +17,53 @@ Deuteronomium (nach der Wüstenwanderung)
 ** Gottes Plan
 
 * Themen für RU
+
+** 1. Klassen
+
+[[denote:20250913T113018][Religion für uns 01]]
+
+** 2. Klassen
+
+[[denote:20250913T113113][Religion für uns 02]]
+
+#+BEGIN: denote-links :regexp "_02_glaube" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20251204T145952][Von Gott sprechen]]
+- [[denote:20251204T150013][Impuls: 1 + 1 + 1 = 1]]
+- [[denote:20251204T150026][Übergang: Gott zeigt sich den Menschen]]
+- [[denote:20251204T150042][Der eine Gott]]
+- [[denote:20251204T150058][Abraham und Sara - Gott ruft]]
+- [[denote:20251204T150212][Isaak - Gott prüft]]
+- [[denote:20251204T150316][Jakob - Gott streitet]]
+- [[denote:20251204T150331][Geschichte und Geschichten]]
+- [[denote:20251204T150347][Bibel: Textgattungen unterscheiden]]
+- [[denote:20251204T150401][Die Welt des Alten Testaments]]
+- [[denote:20251204T150416][Und die Frauen?]]
+- [[denote:20251204T150433][Übungsteil]]
+#+END:
+
+
+** 3. Klassen
+
+[[denote:20251204T181336][Religion für uns 03]]
+
+#+BEGIN: denote-links :regexp "_03_glaube" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20251204T225539][Ich und meine Freiheit]]
+- [[denote:20251204T225556][Grenzenlose Freiheit?]]
+- [[denote:20251204T225632][Die Sehnsucht nach Freiheit]]
+- [[denote:20251204T225656][Impuls: Befreiender Glaube]]
+- [[denote:20251204T225712][Übergang: Israel - ein unterdrücktes Volk]]
+- [[denote:20251204T225728][Exodus - das Wunder der Befreiung]]
+- [[denote:20251204T225745][Eine bleibende Erfahrung]]
+- [[denote:20251204T225801][Dekalog - die Freiheit sichern]]
+- [[denote:20251204T225815][Die Goldene Regel]]
+- [[denote:20251204T225838][Liebe Deinen Nächsten!]]
+- [[denote:20251204T225857][Liebe Deine Feinde!]]
+- [[denote:20251204T225910][Das Reich Gottes]]
+- [[denote:20251204T225925][Bibel: Gleichnisse vom Reich Gottes deuten]]
+- [[denote:20251204T225937][Übungsteil]]
+#+END:
+
+
+** 4. Klassen
+
+[[denote:20250913T113501][Religion für uns 04]]

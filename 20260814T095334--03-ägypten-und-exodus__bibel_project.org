@@ -20,3 +20,52 @@ Eine heilige Nation (Moses, Ex 24)
 
 * Themen für RU
 
+** 1. Klassen
+
+[[denote:20250913T113018][Religion für uns 01]]
+
+** 2. Klassen
+
+[[denote:20250913T113113][Religion für uns 02]]
+
+#+BEGIN: denote-links :regexp "_02_vielfalt" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20251204T151105][Woher ich komme]]
+- [[denote:20251204T151119][Impuls: Mein Lebensbaum]]
+- [[denote:20251204T151134][Übergang: Vorfahren im Glauben]]
+- [[denote:20251204T151149][Das Judentum: Ein Überblick]]
+- [[denote:20251204T151204][Ein Volk, ein Gott]]
+- [[denote:20251204T151217][Die Erwartung des Messias]]
+- [[denote:20251204T151232][Glaube und Leben]]
+- [[denote:20251204T151246][Feste und Feiern]]
+- [[denote:20251204T151259][Die Synagoge]]
+- [[denote:20251204T151312][Gegenstände und Symbole]]
+- [[denote:20251204T151326][Forschen: Ein Thema erforschen]]
+- [[denote:20251204T151341][Übungsteil]]
+#+END:
+
+
+** 3. Klassen
+
+[[denote:20251204T181336][Religion für uns 03]]
+
+#+BEGIN: denote-links :regexp "_03_glaube" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20251204T225539][Ich und meine Freiheit]]
+- [[denote:20251204T225556][Grenzenlose Freiheit?]]
+- [[denote:20251204T225632][Die Sehnsucht nach Freiheit]]
+- [[denote:20251204T225656][Impuls: Befreiender Glaube]]
+- [[denote:20251204T225712][Übergang: Israel - ein unterdrücktes Volk]]
+- [[denote:20251204T225728][Exodus - das Wunder der Befreiung]]
+- [[denote:20251204T225745][Eine bleibende Erfahrung]]
+- [[denote:20251204T225801][Dekalog - die Freiheit sichern]]
+- [[denote:20251204T225815][Die Goldene Regel]]
+- [[denote:20251204T225838][Liebe Deinen Nächsten!]]
+- [[denote:20251204T225857][Liebe Deine Feinde!]]
+- [[denote:20251204T225910][Das Reich Gottes]]
+- [[denote:20251204T225925][Bibel: Gleichnisse vom Reich Gottes deuten]]
+- [[denote:20251204T225937][Übungsteil]]
+#+END:
+
+
+** 4. Klassen
+
+[[denote:20250913T113501][Religion für uns 04]]

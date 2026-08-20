@@ -1,6 +1,6 @@
 #+title:      #06 Königreich
 #+date:       [2026-08-14 Fr 10:06]
-#+filetags:   :bibel:project:
+#+filetags:   :bibel:Project:
 #+identifier: 20260814T100638
 
 * Bibel
@@ -26,3 +26,22 @@
 Ein heiliges Königreich (David, 2 Sam 7)
 
 * Themen für RU
+
+** 1. Klassen
+
+[[denote:20250913T113018][Religion für uns 01]]
+
+** 2. Klassen
+
+[[denote:20250913T113113][Religion für uns 02]]
+
+** 3. Klassen
+
+[[denote:20251204T181336][Religion für uns 03]]
+
+[[denote:20251204T150401][Die Welt des Alten Testaments]]
+König Saul, David, Salomo, ...
+
+** 4. Klassen
+
+[[denote:20250913T113501][Religion für uns 04]]

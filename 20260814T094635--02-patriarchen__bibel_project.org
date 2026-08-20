@@ -33,3 +33,53 @@ Ein heiliger Stamm (Abraham, Gen 15,17,22)
 - Benjamin
 
 * Themen für RU
+
+** 1. Klassen
+
+[[denote:20250913T113018][Religion für uns 01]]
+
+#+BEGIN: denote-links :regexp "_01_glaube" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20251009T145427][Geschichten des Lebens]]
+- [[denote:20251009T145447][Impuls: Der Turmbau zu Babel]]
+- [[denote:20251009T145500][Übergang: Kannst du dich noch erinnern?]]
+- [[denote:20251009T145513][Die Bibel erzählt]]
+- [[denote:20251009T145522][Die Entstehung der Bibel]]
+- [[denote:20251009T145530][Die Welt der Bibel]]
+- [[denote:20251009T145540][Palästina, das Land der Bibel]]
+- [[denote:20251009T145550][Das Leben zu Zeit Jesu]]
+- [[denote:20251009T145600][Jesus, ein Phänomen]]
+- [[denote:20251009T145608][Jesus, der Mensch]]
+- [[denote:20251009T145616][Jesus, der Christus]]
+- [[denote:20251009T145625][Evangelium, die frohe Botschaft]]
+- [[denote:20251009T145635][Bibel: mit der Bibel arbeiten]]
+- [[denote:20251009T145643][Übungsteil]]
+#+END:
+
+
+** 2. Klassen
+
+[[denote:20250913T113113][Religion für uns 02]]
+
+#+BEGIN: denote-links :regexp "_02_glaube" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20251204T145952][Von Gott sprechen]]
+- [[denote:20251204T150013][Impuls: 1 + 1 + 1 = 1]]
+- [[denote:20251204T150026][Übergang: Gott zeigt sich den Menschen]]
+- [[denote:20251204T150042][Der eine Gott]]
+- [[denote:20251204T150058][Abraham und Sara - Gott ruft]]
+- [[denote:20251204T150212][Isaak - Gott prüft]]
+- [[denote:20251204T150316][Jakob - Gott streitet]]
+- [[denote:20251204T150331][Geschichte und Geschichten]]
+- [[denote:20251204T150347][Bibel: Textgattungen unterscheiden]]
+- [[denote:20251204T150401][Die Welt des Alten Testaments]]
+- [[denote:20251204T150416][Und die Frauen?]]
+- [[denote:20251204T150433][Übungsteil]]
+#+END:
+
+
+** 3. Klassen
+
+[[denote:20251204T181336][Religion für uns 03]]
+
+** 4. Klassen
+
+[[denote:20250913T113501][Religion für uns 04]]
