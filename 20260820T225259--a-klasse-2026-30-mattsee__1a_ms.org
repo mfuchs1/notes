@@ -1,7 +1,7 @@
-#+title:      C Klasse 2024-28 Mattsee
-#+date:       [2025-09-13 Sa 11:05]
-#+filetags:   :2c:ms:
-#+identifier: 20250913T110554
+#+title:      A Klasse 2026-30 Mattsee
+#+date:       [2026-08-20 Do 22:52]
+#+filetags:   :1a:ms:
+#+identifier: 20260820T225259
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
 #+SETUPFILE: ~/Documents/config/latex_setup.org
@@ -9,11 +9,11 @@
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/2c Mattsee.html
+#+export_file_name: ~/Documents/exports/1c Mattsee.html
 
 * Jahresplanung
 
-[[denote:20250913T113113][Religion für uns 02]]
+[[denote:20250913T113018][Religion für uns 01]]
 
 * Notizen, Tasks, Termine
 
@@ -23,18 +23,16 @@
 ** Arbeiten mit der Bibel
 
 Ein Evangelium von A bis Z
-Lukas Evangelium; Geburt Jesu; Johannes der Täufer.
-Apokalypse - Kapitel 4+5
+Lukas Evangelium
 
-** Sakrament der Weihe / der Ehe
+** Zusammenfassung Sakramente / Religionen
 
-YouCat / Videos.
-Berufung / Beruf 
-Ordensleben
+
+
 
 * Reflexionen
 
-** Dürager Magdalena
+** Banse Elijah
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -42,7 +40,7 @@ Ordensleben
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Fuchs Samuel
+** Bräutigam Helena
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -50,7 +48,7 @@ Ordensleben
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Furthner Anna-Lena
+** Cîrmaci Tudor-Ioan
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -58,7 +56,7 @@ Ordensleben
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Grögler Lukas 
+** Duraku Alea
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -66,7 +64,7 @@ Ordensleben
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Handlechner Susan
+** Geci Hazir
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -74,7 +72,7 @@ Ordensleben
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Leiner Sarah
+** Grabner Kira
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -82,7 +80,7 @@ Ordensleben
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Riefl Bianca 
+** Hallmann Frida
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -90,7 +88,7 @@ Ordensleben
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Stiegler Josefina 
+** Handlechner Sebastian
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -98,7 +96,7 @@ Ordensleben
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Stiegler Maximilian 
+** Iglhauser-Rust Magdalena
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -106,7 +104,7 @@ Ordensleben
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Strasser Alina 
+** Költringer Max
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
@@ -114,10 +112,67 @@ Ordensleben
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Thurner Sophia 
+** Laczko Laura
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
+** Mbimbu Joshua
+| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
+|------------+-----+----------+------+------------+-----------------+------|
+|------------+-----+----------+------+------------+-----------------+------|
+| *Endnote:* |     |          |      |            |                 |      |
+#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
+** Mösenbichler Luisa
+| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
+|------------+-----+----------+------+------------+-----------------+------|
+|------------+-----+----------+------+------------+-----------------+------|
+| *Endnote:* |     |          |      |            |                 |      |
+#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
+** Schaumburger Alexander
+| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
+|------------+-----+----------+------+------------+-----------------+------|
+|------------+-----+----------+------+------------+-----------------+------|
+| *Endnote:* |     |          |      |            |                 |      |
+#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
+** Schober Sarah
+| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
+|------------+-----+----------+------+------------+-----------------+------|
+|------------+-----+----------+------+------------+-----------------+------|
+| *Endnote:* |     |          |      |            |                 |      |
+#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
+** van Griensven Janna
+| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
+|------------+-----+----------+------+------------+-----------------+------|
+|------------+-----+----------+------+------------+-----------------+------|
+| *Endnote:* |     |          |      |            |                 |      |
+#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
+** Wimmer Jakob
+| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
+|------------+-----+----------+------+------------+-----------------+------|
+|------------+-----+----------+------+------------+-----------------+------|
+| *Endnote:* |     |          |      |            |                 |      |
+#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
+** Zangl Konstantin
+| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
+|------------+-----+----------+------+------------+-----------------+------|
+|------------+-----+----------+------+------------+-----------------+------|
+| *Endnote:* |     |          |      |            |                 |      |
+#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
