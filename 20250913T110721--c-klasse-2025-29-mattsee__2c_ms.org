@@ -5,11 +5,11 @@
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
 #+SETUPFILE: ~/Documents/config/latex_setup.org
-#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \textwidth
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/1c Mattsee.html
+#+export_file_name: ~/Documents/exports/2c-Mattsee.html
 
 * Jahresplanung
 
@@ -28,9 +28,7 @@ Lukas Evangelium
 ** Zusammenfassung Sakramente / Religionen
 
 
-
-
-* Reflexionen
+* Noten eintragen
 
 ** Barnay Luis 
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -38,7 +36,9 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
+
 
 ** Borisova Doroteya
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -46,7 +46,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Burggraf Maximilian
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -54,15 +54,15 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Grögler Luisa
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Huber Johanna 
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -70,7 +70,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Janiba Theresa 
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -78,7 +78,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Kreiseder Danie
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -86,7 +86,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Maislinger Daniel 
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -94,7 +94,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Quehenberger Paul
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -102,7 +102,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Stemeseder Isabella 
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -110,20 +110,74 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Strasser Johannes
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
+| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note           |
+|------------+-----+----------+------+------------+-----------------+----------------|
+|------------+-----+----------+------+------------+-----------------+----------------|
+| *Endnote:* |     |          |      |            |             0.0 | Nicht Genügend |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Stumvoll Sophia 
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+** Stumvoll Sophia
+| Datum                 | Typ       | Leistung | Note | Gewichtung | Gewichtete Note | Note |
+|-----------------------+-----------+----------+------+------------+-----------------+------|
+| [2026-08-21 Fr 11:26] | Test      | Test 1   |   90 |       0.90 |            81.0 |      |
+| [2026-08-21 Fr 11:38] | Hausübung | HÜ 2     |   80 |       0.70 |            56.0 |      |
+| [2026-08-21 Fr 12:03] | Test      | Test 2   |   87 |       0.90 |            78.3 |      |
+|-----------------------+-----------+----------+------+------------+-----------------+------|
+| *Endnote:*            |           |          |      |            |            86.1 | Gut  |
+#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@2$6..@3$6);%.1f
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6) / vsum(@2$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+
+
+#+NAME: filter_student
+#+BEGIN_SRC python :var table=behavior_table student="Stumvoll Sophia" :exports results
+return [row for row in table if row and row[1] == student]
+#+END_SRC
+
+*** Student Report: Stumvoll Sophia
+
+#+CALL: filter_student(student="Stumvoll Sophia") :colnames '("Date" "Student Name" "Behavior" "Action Taken" "Notes")
+
+#+RESULTS:
+| Date                  | Student Name    | Behavior | Action Taken | Notes |
+|-----------------------+-----------------+----------+--------------+-------|
+| [2026-08-21 Fr 01:06] | Stumvoll Sophia | Positive | Lob          | Super |
+
+
+Diese Tabelle kann ich bei jedem Schüler einbauen; oder hier lassen? Ich sollte einen Bericht pro Schüler ausdrucken können.
+
+
+* Benehmen eintragen
+
+#+NAME: behavior_table
+#+ATTR_LATEX: :width \textwidth :options {!}{\textwidth} :center nil :float nil
+| Date                  | Student Name      | Behavior | Action Taken | Notes      |
+|-----------------------+-------------------+----------+--------------+------------|
+| [2026-08-21 Fr 01:06] | Stumvoll Sophia   | Positive | Lob          | Super      |
+| [2026-08-21 Fr 01:07] | Strasser Johannes | Neutral  | Ermutigung   | Wird schon |
+| [2026-08-21 Fr 11:19] | Max Mustermann    | Positive | Lob          | Super      |
+| [2026-08-21 Fr 11:58] | Hansi Hinterseer  | Neutral  | bla          | bla        |
+|-----------------------+-------------------+----------+--------------+------------|
+
+
+#+NAME: filter_student
+#+BEGIN_SRC python :var table=behavior_table student="Stumvoll Sophia" :exports results
+return [row for row in table if row and row[1] == student]
+#+END_SRC
+
+
+* Student Report: Stumvoll Sophia
+
+#+CALL: filter_student(student="Stumvoll Sophia") :colnames '("Date" "Student Name" "Behavior" "Action Taken" "Notes")
+
+#+RESULTS:
+| Date                  | Student Name    | Behavior | Action Taken | Notes |
+|-----------------------+-----------------+----------+--------------+-------|
+| [2026-08-21 Fr 01:06] | Stumvoll Sophia | Positive | Lob          | Super |
+
+
+Diese Tabelle kann ich bei jedem Schüler einbauen; oder hier lassen? Ich sollte einen Bericht pro Schüler ausdrucken können.
+

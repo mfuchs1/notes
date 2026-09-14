@@ -38,7 +38,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Bräutigam Helena
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -46,7 +46,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Cîrmaci Tudor-Ioan
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -54,7 +54,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Duraku Alea
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -62,7 +62,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Geci Hazir
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -70,7 +70,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Grabner Kira
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -78,7 +78,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Hallmann Frida
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -86,7 +86,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Handlechner Sebastian
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -94,7 +94,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Iglhauser-Rust Magdalena
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -102,7 +102,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Költringer Max
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -110,7 +110,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Laczko Laura
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -118,7 +118,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Mbimbu Joshua
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -126,7 +126,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Mösenbichler Luisa
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -134,7 +134,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Schaumburger Alexander
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -142,7 +142,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Schober Sarah
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -150,7 +150,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** van Griensven Janna
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -158,7 +158,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Wimmer Jakob
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -166,7 +166,7 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Zangl Konstantin
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -174,5 +174,5 @@ Lukas Evangelium
 |------------+-----+----------+------+------------+-----------------+------|
 | *Endnote:* |     |          |      |            |                 |      |
 #+TBLFM: $6=$4*$5;%.1f::@4$6=vsum(@2$6..@3$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
+#+TBLFM: $6=$4*$5;%.1f::@>$6=vmean(@2$6..@-1$6);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 

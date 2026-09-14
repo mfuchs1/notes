@@ -15,4 +15,3 @@ Mit diesen Bücher sollte ich innerhalb von 90 Tagen fertig sein; danach würde 
 Mir kommt da eine bessere Idee - alle Notizen in einer Datei wäre eine Möglichkeit. Die andere: ein Tagebuch  - und dazu jeden Tag einen eigenen Eintrag mit =denote-journal= via ~org-capture-templates~. Das lässt die Möglichkeit von Vernetzungen unter den einzelnen Dateien.
 
 Ich kann ja beides zu Beginn parallel führen und dann schauen, womit ich besser zurecht komme - oder was der Sache am besten dient.
-
