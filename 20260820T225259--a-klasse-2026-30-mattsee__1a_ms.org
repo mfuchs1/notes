@@ -28,51 +28,9 @@ Lukas Evangelium
 ** Zusammenfassung Sakramente / Religionen
 
 
-
-
 * Reflexionen
 
-** Banse Elijah
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
 ** Bräutigam Helena
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
-** Cîrmaci Tudor-Ioan
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
-** Duraku Alea
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
-** Geci Hazir
 #+ATTR_LATEX: :align l l X c l l l
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
@@ -132,26 +90,6 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Laczko Laura
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
-** Mbimbu Joshua
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
 ** Mösenbichler Luisa
 #+ATTR_LATEX: :align l l X c l l l
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -173,16 +111,6 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Schober Sarah
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
-** van Griensven Janna
 #+ATTR_LATEX: :align l l X c l l l
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|

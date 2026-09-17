@@ -91,7 +91,7 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Kreiseder Danie
+** Kreiseder Daniel
 #+ATTR_LATEX: :align l l X c l l l
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|

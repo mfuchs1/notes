@@ -20,27 +20,18 @@
 
 * Stundenplanung
 
-** Arbeiten mit der Bibel
+Symbole verwenden (Bibel, Kerze, ...). Ankommen, Begrüßen, ... dafür Zeit nehmen. Namensschilder!
 
-Ein Evangelium von A bis Z
-Lukas Evangelium
+Was ist dir heilig?
+Stell dir vor, es brennt, du kannst nur einen Gegenstand mitnehmen (keine Person, kein Tier)? Was ist das? Warum genau das?
 
-** Zusammenfassung Sakramente / Religionen
+In Religion sprechen wir genau darüber: über "Dinge", die uns heilig, ganz wertvoll sind, so wichtig, dass man sie nicht mit Geld kaufen kann. Und darüber, was Menschen seit Jahrtausenden Halt gibt."
 
+Haben die Kinder ein Heft? Ihre Hand nachzeichnen, um die Finger herum schreiben, was sie besonders gut können (drei Dinge). 
 
-
+Jesaja 49,16: "Seht her, ich habe dich eingezeichnet in meine Hände." 
 
 * Reflexionen
-
-** Abdulameer Dhurgham
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Altendorfer Emma
 #+ATTR_LATEX: :align l l X c l l l
@@ -132,16 +123,6 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Mantler Louisa
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
 ** Moštak Gabrijel
 #+ATTR_LATEX: :align l l X c l l l
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -163,16 +144,6 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Prager Felix
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
-** Quehenberger Leon
 #+ATTR_LATEX: :align l l X c l l l
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|

@@ -142,16 +142,6 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Krenn Paulina
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
 ** Lackner Liam
 #+ATTR_LATEX: :align l l X c l l l
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
@@ -172,27 +162,7 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Moradaoglu Miraç
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
 ** Murhammer Luisa
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
-** Putz Matthias
 #+ATTR_LATEX: :align l l X c l l l
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
@@ -213,16 +183,6 @@ Lukas Evangelium
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
 ** Wallner Gabriel
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
-** Wessely Louis
 #+ATTR_LATEX: :align l l X c l l l
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|

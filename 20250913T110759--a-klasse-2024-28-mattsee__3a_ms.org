@@ -13,42 +13,47 @@
 
 * Jahresplanung
 
-[[denote:20250913T113113][Religion für uns 02]]
-
-#+BEGIN: denote-links :regexp "_02_kirche" :not-regexp nil :excluded-dirs-regexp "zeit für religion" :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
-- [[denote:20251204T150559][Eine Sprache in Bildern]]
-- [[denote:20251204T150614][Zeichen und Symbole]]
-- [[denote:20251204T150631][Impuls: Symbole sprechen lassen - Hand]]
-- [[denote:20251204T150649][Übergang: Das sichtbare Symbol]]
-- [[denote:20251204T150703][Die spürbare Wirkung]]
-- [[denote:20251204T150718][Was ist ein Sakrament?]]
-- [[denote:20251204T150732][Sakramente: Symbole und Zeichen erschließen]]
-- [[denote:20251204T150745][Übungsteil]]
-#+END:
-
-[[file:~/Documents/org/20240717T163657--agenda__project.org::*2b (2. OG AB) 07:45-08:35][2b (2. OG AB) 07:45-08:35]]
 
 * Notizen, Tasks, Termine
 Und der Text.
 
 * Stundenplanung
 
-** Arbeiten mit der Bibel
+Genesis 1 / 2: Schöpfung
+Mensch soll Erde "unterwerfen"?
+Der Herrscher ist für das Leben der Untertanen verantwortlich. Der Mensch ist als Gottes Bild der "Statthalter" Gottes auf der Erde. Er soll darüber wachen, dass jedes Lebewesen seinen Lebensraum hat. Und diesen, wenn nötig, gegen innere und äußere Feinde verteidigen.
 
-Lukas Evangelium: 3-5 (Maria?; Johannes der Täufer, Berufung der Apostel)
-Apokalypse - Kapitel 4+5 (Vision des Himmels; die vier Tiere / Pferde / ...)
+Es geht nicht nur um Umweltschutz alleine. Wir sind Teil der Schöpfung, wodurch wir Verantwortung für Umwelt, für uns selbst und unsere Mitmenschen haben. 
 
+Sechs Grundhaltungen: Dazu konkrete Beispiele sammeln?
 
-** Fronleichnam / Eucharistie
+- Ehrfurcht / Schöpfung Gottes bestaunen: 
+  Gottes Schönheit im kleinsten Geschöpf erkennen, staunen: nichts ist gleichgültig, alles hat seinen Platz. Folge: (Achtsamkeit)
+  (Worüber kannst du staunen?)
 
-Evangelium - Berufung von Matthäus; Jesus ruft Sünder, nicht die Gerechten (Lesung Hosea).
-Fronleichnam - Eucharistie
+- Dankbarkeit / Leben als Geschenk sehen:
+  Dankbar für das viele Gute, das wir erhalten haben. Es geht uns gut - vielleoicht auf einige Wünsche verzichten?
+  (Wofür bist du im Leben dankbar?)
 
-** Sakrament der Weihe
+- Empathie / sich in andere hineinfühlen: 
+  Wer braucht Schutz und Hilfe? Barmherzigkeit, die uns Jesus vorlebt - auf Schwache und Bedürftige schauen.
+  (In das Leid welcher Lebewesen kannst du dich einfühlen?)
 
-YouCat / Videos.
-Berufung / Beruf 
-Ordensleben
+- Maßhalten / Zurückhaltung üben:
+  Kauf und Herstellung neuer Produkte kann andere Lebewesen und Umwelt schaden. Durch Zurückhaltung ermögliche ich anderen ein gutes und erfülltes Leben.
+  (Wann schadet unser Lebensstil anderen Menschen oder der Umwelt?)
+
+- Demut / jeden Moment als kostbar erachten:
+  Unser Leben ist begrenzt: Es geht nicht um maximalen Lustgewinn, sondern auch im Kleinen die Kostbarkeit des Lebens zu entdecken.
+  (Welche kleinen Momente im Leben sind besonders kostbar?)
+
+- Opferbereitschaft / Verzicht lernen:
+  Opfer - Verzicht aus gutem Grund: es geht um den Erhalt der Schöpfung. Kleiner Verzicht - langfristig große Wirkung.
+  (Worauf kannst du verzichten, um die Schöpfung zu erhalten?)
+
+Konkretes Beispiel
+Bojan Slat - The Ocean Cleanup!
+
 
 * Reflexionen
 
@@ -132,37 +137,7 @@ Ordensleben
 #+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
 #+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
 
-** Reichartzeder Nils
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
-** Reichl Lilly
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
 ** Sackermann Julien 
-#+ATTR_LATEX: :align l l X c l l l
-| Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
-|------------+-----+----------+------+------------+-----------------+------|
-|            |     |          |      |            |                 |      |
-|------------+-----+----------+------+------------+-----------------+------|
-| *Endnote:* |     |          |      |            |                 |      |
-#+TBLFM: $6=$4*$5;%.1f::@5$6=vsum(@3$6..@4$6);%.1f
-#+TBLFM: $6=$4*$5;%.1f::@>$6=vsum(@3$6..@-1$6) / vsum(@3$5..@-1$5);%.1f::@>$7='(my/berechne-notenstufe @>$6)
-
-** Schwarz Lukas
 #+ATTR_LATEX: :align l l X c l l l
 | Datum      | Typ | Leistung | Note | Gewichtung | Gewichtete Note | Note |
 |------------+-----+----------+------+------------+-----------------+------|
