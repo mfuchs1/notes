@@ -1,0 +1,10 @@
+#+title:      Nächstenliebe
+#+date:       [2026-09-24 Do 11:22]
+#+filetags:   :bibel:
+#+identifier: 20260924T112208
+
+#+begin_quote
+Wir leben in Zeiten rasender technischer Entwicklungen. Papst Leo XIV. fragt: „Welchen Wert hat das menschliche Handeln in der Welt und damit der technische, gesellschaftliche und wissenschaftliche Fortschritt?" Eine Frage, die die katholische Kirche schon beim Zweiten Vatikanischen Konzil (1962–1965) gestellt hat. Das katholische Kirchenoberhaupt griff sie diesen Mittwoch bei seiner Generalaudienz auf und betonte, Nächstenliebe und Allgemeinwohl dürften nie vergessen werden.
+#+end_quote
+
+https://www.vaticannews.va/de/papst/news/2026-09/papst-leo-xiv-generalaudienz-gaudium-et-spes-mensch-fortschritt.html

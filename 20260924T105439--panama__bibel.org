@@ -1,0 +1,12 @@
+#+title:      Panama
+#+date:       [2026-09-24 Do 10:54]
+#+filetags:   :bibel:
+#+identifier: 20260924T105439
+
+#+begin_quote
+Die Transparenzkommission hat an der Universität Santa María La Antigua eine unabhängige Untersuchung zum Umgang der
+Erzdiözese Panama mit sexuellem Missbrauch an Minderjährigen und schutzbedürftigen Personen vorgelegt. Der Zeitraum
+betrifft die Jahre 2001 bis 2025.
+#+end_quote
+
+https://www.vaticannews.va/de/welt/news/2026-09/panama-unabhaengig-bericht-mangel-aufarbeitung-missbrauch-kirche.html

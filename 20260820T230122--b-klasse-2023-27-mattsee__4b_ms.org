@@ -20,12 +20,16 @@
 
 * Stundenplanung
 
-** Arbeiten mit der Bibel
+<2026-09-22 Di>
+Heute erste Stunde.
 
-Ein Evangelium von A bis Z
-Lukas Evangelium
+[[denote:20260915T085237][Das Gewissen]]
 
-** Zusammenfassung Sakramente / Religionen
+Julian - das Gewissen (14 Minuten)
+[[https://www.youtube.com/watch?v=Pk5MHGjLP8U]]
+
+Material:
+[[file:~/MS_Seekirchen_Mattsee/MS_Mattsee/Das_Gewissen.pdf]]
 
 
 * Reflexionen

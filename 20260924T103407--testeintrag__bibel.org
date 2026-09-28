@@ -1,0 +1,12 @@
+#+title:      Testeintrag
+#+date:       [2026-09-24 Do 10:34]
+#+filetags:   :bibel:
+#+identifier: 20260924T103407
+
+#+begin_quote
+Ein Netzwerk von rund 100 Priestern aus acht Ländern hat in Rom eine Kundgebung für Verhandlungen und ein Ende der
+Waffengewalt im Nahen Osten durchgeführt. Die Initiative „Preti contro il Genocidio“ forderte einen verstärkten Einsatz von
+Diplomatie und rief zu Konsequenzen gegenüber Unternehmen auf, die am Krieg verdienen.
+#+end_quote
+
+https://www.vaticannews.va/de/welt/news/2026-09/rom-priester-demonstrieren-frieden-nahen-osten.html

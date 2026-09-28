@@ -1,0 +1,10 @@
+#+title:      Filmtipp
+#+date:       [2026-09-24 Do 11:26]
+#+filetags:   :bibel:
+#+identifier: 20260924T112624
+
+#+begin_quote
+Eine bulgarische Archäologin ist für Ausgrabungen in ihre Heimatstadt in der bulgarisch-türkisch-griechischen Grenzregion zurückgekehrt. Dort begegnet sie unverhofft einem alten Freund wieder, der halbseidene Geschäfte in der Gegend durchzieht.
+#+end_quote
+ 
+https://www.vaticannews.va/de/kirche/news/2026-09/unser-filmtipp-das-getraumte-abenteuer.html

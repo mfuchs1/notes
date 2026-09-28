@@ -1,0 +1,10 @@
+#+title:      Bahrain
+#+date:       [2026-09-24 Do 10:45]
+#+filetags:   :bibel:
+#+identifier: 20260924T104558
+
+#+begin_quote
+Musik, Begegnung und ein Appell für den Frieden: In der Kathedrale Unserer Lieben Frau von Arabien in Bahrain ist an den 800. Todestag des heiligen Franz von Assisi erinnert worden. Im Mittelpunkt stand dabei auch die Begegnung des Heiligen mit dem Sultan al-Malik al-Kamil als Beispiel für einen Dialog über religiöse Grenzen hinweg.
+#+end_quote
+ 
+https://www.vaticannews.va/de/welt/news/2026-09/bahrain-franziskus-feier-zeichnen-fuer-dialog-und-frieden.html

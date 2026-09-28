@@ -1,0 +1,13 @@
+#+title:      Papst
+#+date:       [2026-09-24 Do 11:19]
+#+filetags:   :bibel:
+#+identifier: 20260924T111929
+
+#+begin_quote
+Sachsens Ministerpräsident Michael Kretschmer ist heute im Vatikan von Papst Leo in Privataudienz empfangen worden. Anlass war
+das 30-jährige Bestehen des Staatskirchenvertrags zwischen dem Freistaat Sachsen und dem Heiligen Stuhl. Bei dem 20minütigen
+Gespräch mit dem Papst ging es auch um die politische Lage in Deutschland vor dem Hintergrund der jüngsten AfD-Wahlerfolge, wie
+Kretschmer im Anschluss vor den Medien bestätigte.
+#+end_quote
+ 
+https://www.vaticannews.va/de/papst/news/2026-09/sachsens-ministerprasident-beimpapst-ki-deutschland.html
