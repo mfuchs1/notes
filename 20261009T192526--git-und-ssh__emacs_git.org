@@ -3,6 +3,7 @@
 #+filetags:   :emacs:git:
 #+identifier: 20261009T192526
 #+DESCRIPTION: Der goldene Standard
+#+OPTIONS: num:nil toc:nil id:t
 #+HUGO_CATEGORIES: 
 #+HUGO_AUTO_SET_LASTMOD: t
 #+HUGO_BASE_DIR: /home/matthias/flying-toasters/
@@ -158,6 +159,9 @@ Ich authentifiziere mich nicht mehr über HTTPS mit einem Passfahrtschein (Token
 Mein Skript steuert die beiden Repositories nun nacheinander als zwei völlig getrennte Welten an. Es lädt erst die Webseite auf die Bühne (Live-Repo) und sichert danach das Skript und die Texte im Safe (Backup-Repo). Es kann sich technisch nichts mehr blockieren.
 
 * Brille gebrochen
+:PROPERTIES:
+:CUSTOM_ID: Brille
+:END:
 
 Vor ein paar Tagen brach mir die Fassung meiner Brille. Ich hab sie mit Superkleber repariert. Dabei wurde das Glas zerkratzt. Und heute ist sie mir ein zweites Mal gebrochen. Mit Leopold sind wir beide in die Stadt gefahren. Leider bin ich zuerst zur Stadtbibliothek gefahren, um Bücher zurück zu bringen und neue auszuborgen. Warum leider? Ich dachte - den Optiker mache ich am Rückweg. Denn ich hatte ein Geschäft in Nonntal während der Hinfahrt entdeckt. Der Optiker in Nonntal schließt um 12h30. Es war knapp, aber wir haben es doch geschafft und nun habe ich wieder eine ordentliche Brille. 
 
@@ -167,4 +171,4 @@ Vor ein paar Tagen brach mir die Fassung meiner Brille. Ich hab sie mit Superkle
 #+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Neue Brille
 [[/images/Neue_Brille.jpg]]
 
-In weiterer Folge werde ich - wenn es die Finanzen wieder zulassen - neue Gläser für die neue Fassung besorgen. Der Optiker in Nonntal hat mir sehr gut gefallen. Die Mitarbeiter sind sehr freundlich und kompetent. 
+In weiterer Folge werde ich - wenn es die Finanzen wieder zulassen - neue Gläser für die neue Fassung besorgen. Der Optiker in Nonntal hat mir sehr gut gefallen. Die Mitarbeiter sind sehr freundlich und kompetent. Nur ein Test Text für den ssh key.
