@@ -3,6 +3,7 @@
 #+filetags:   :privat:
 #+identifier: 20260502T155127
 #+DESCRIPTION: Mit Gabriel in Wien, Besuch bei Meli und Otto.
+#+HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "images/Stadtpark.jpg") (alt . "Beschreibung des Bildes"))
 #+HUGO_CATEGORIES: privat
 #+HUGO_AUTO_SET_LASTMOD: t
 #+HUGO_BASE_DIR: /home/matthias/flying-toasters/
@@ -16,20 +17,116 @@ Am Donnerstag Abend ging es um 18h52 mit der Westbahn nach Wien. Ankunft um 21h2
 
 Hilton Waterfront am Handelskai, direkt am Ufer der Donau. Wunderschönes Hotel, fairer Preis. Super großes Zimmer, dieses Mal leider mit Blick auf Straße. Heute morgen Frühstück auf der Terrasse, am Ufer der Donau.
 
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Blick auf Donau - Donaucity
+[[/images/Donau1.jpg]]
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Donau - Richtung Südosten
+[[/images/Donau2.jpg]]
+
 * Wallfahrt zu sieben Kirchen
 
 Am Freitag: um 10h00 bei Meli, Kaffee dann Wallfahrt zu sieben Kirchen - Gebet um die sieben Gaben des Hl. Geistes.
 
-- St. Rochus (extra: eucharistische Anbetung rund um die Uhr).
-- Dominikaner
-- Jesuiten
-- Franziskaner
-- Kapuziner
-- Schotten
-- Maria am Gestade
-- Petruskirche
+** Rochuskirche
+
+Hier haben wir eine Zeit der eucharistischen Anebtung verbacht.
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Rochuskirche
+[[/images/Rochuskirche.jpg]]
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Rochuskirche Innenansicht
+[[/images/Rochuskirche_Innenraum.jpg]]
+
+** Weisheit (Sapientia)
+
+Das rechte Urteil über das Leben aus Gottes Sicht.
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Dominikanerkirche Wien
+[[/images/Dominikaner2.jpg]]
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Dominikanerkirche Hauptaltar
+[[/images/Dominikaner3.jpg]]
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Dominikanerkirche Seitenaltar
+[[/images/Dominikaner4.jpg]]
+
+** Einsicht / Verstand (Intellectus) 
+
+Das tiefere Begreifen der Glaubensgeheimnisse.
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Jesuitenkirche Wien
+[[/images/Jesuiten.jpg]]
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Jesuitenkirche Innenansicht
+[[/images/Jesuitenkirche_Innenansicht.jpg]]
+
+** Rat (Consilium)
+
+Die Orientierung in schweren Entscheidungen und Nöten.
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Franziskanerkirche
+[[/images/Franziskanerkirche.jpg]]
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Franziskanerkirche Innenansicht
+[[/images/Franziskanerkirche_Innenansicht.jpg]]
+
+** Übergang - Passage
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Passage Wien
+[[/images/Passage1.jpg]]
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Passage Wien
+[[/images/Passage2.jpg]]
+
+** Stärke (Fortitudo)
+
+Der Mut und die Standhaftigkeit im Glauben.
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Kapuzinerkirche
+[[/images/Kapuzinerkirche.jpg]]
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Kapuzinerkirche Innenansicht
+[[/images/Kapuzinerkirche_Innenansicht.jpg]]
+
+** Übergang - Palais Ferstl
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Palais Ferstl Wien
+[[/images/Palais_Ferstl.jpg]]
+
+** Erkenntnis / Wissenschaft (Scientia)
+
+Das Erkennen von Gottes Handschrift in der Welt und Schöpfung.
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Freyung, Schottensift
+[[/images/Schottenkirche.jpg]]
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Schottenkirche Innenansicht
+[[/images/Schottenkirche_Innenansicht.jpg]]
+
+** Frömmigkeit (Pietas)
+
+Die innige, liebevolle Beziehung zu Gott.
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Maria am Gestaade
+[[/images/Maria_Gestaade1.jpg]]
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Maria am Gestaade
+[[/images/Maria_Gestaade2.jpg]]
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Maria am Gestaade
+[[/images/Maria_Gestaade3.jpg]]
+
+** Gottesfurcht (Timor Domini)
+
+Das Staunen und die Ehrfurcht vor der Größe Gottes.
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Peterskirche
+[[/images/Peterskirche.jpg]]
+
+#+ATTR_HTML: :width 100% :height 100% :class border-2 :alt wunderschön :title Peterskirche Innenansicht
+[[/images/Peterskirche_Innenansicht.jpg]]
 
 Mittagessen mit Meli und Eisessen
+
 
 * Zeit mit Meli und Otto
 

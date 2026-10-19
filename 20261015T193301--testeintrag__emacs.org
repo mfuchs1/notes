@@ -1,0 +1,15 @@
+#+title:      Testeintrag
+#+date:       [2026-10-15 Do 19:33]
+#+filetags:   :emacs:
+#+identifier: 20261015T193301
+#+DESCRIPTION: This text was generated using the After Dark post archetype.
+#+HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "images/dein-vorschaubild.jpg") (alt . "Beschreibung des Bildes") (hidden . t))
+#+HUGO_CATEGORIES: 
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_BASE_DIR: /home/matthias/flying-toasters/
+#+AUTHOR: Matthias Fuchs
+
+* Erstens
+
+* Zweitens
+

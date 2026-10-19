@@ -4,6 +4,7 @@
 #+identifier: 20261013T083223
 #+DESCRIPTION: Gottes Wort
 #+OPTIONS: num:nil toc:nil id:t
+#+HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "images/gold-fern-like-tree.jpg") (alt . "Beschreibung des Bildes"))
 #+HUGO_CATEGORIES: bible
 #+HUGO_AUTO_SET_LASTMOD: t
 #+HUGO_BASE_DIR: /home/matthias/flying-toasters/

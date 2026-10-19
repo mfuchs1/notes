@@ -9,6 +9,7 @@
 #+STARTUP: fnadjust
 #+STARTUP: showall
 #+DESCRIPTION: Über das Gute, Wahre und Schöne.
+#+HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "images/angel.jpg") (alt . "Beschreibung des Bildes"))
 #+HUGO_CATEGORIES: philosophy 
 #+HUGO_AUTO_SET_LASTMOD: t
 #+HUGO_BASE_DIR: /home/matthias/flying-toasters/

@@ -3,6 +3,7 @@
 #+filetags:   :emacs:
 #+identifier: 20261003T153525
 #+DESCRIPTION: Neue Sprachen und eine neue Schule
+#+HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "images/Vezelay_Nef_Chapiteau_230608_08.jpg") (alt . "Beschreibung des Bildes"))
 #+HUGO_CATEGORIES: emacs
 #+HUGO_AUTO_SET_LASTMOD: t
 #+HUGO_BASE_DIR: /home/matthias/flying-toasters/

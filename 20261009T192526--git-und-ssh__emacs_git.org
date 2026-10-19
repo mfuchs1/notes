@@ -4,7 +4,8 @@
 #+identifier: 20261009T192526
 #+DESCRIPTION: Der goldene Standard
 #+OPTIONS: num:nil toc:nil id:t
-#+HUGO_CATEGORIES: 
+#+HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "images/poplar-trees.jpg") (alt . "Beschreibung des Bildes"))
+#+HUGO_CATEGORIES: Emacs
 #+HUGO_AUTO_SET_LASTMOD: t
 #+HUGO_BASE_DIR: /home/matthias/flying-toasters/
 #+AUTHOR: Matthias Fuchs
