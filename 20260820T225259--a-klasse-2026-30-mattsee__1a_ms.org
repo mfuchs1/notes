@@ -17,12 +17,59 @@
 
 * Notizen, Tasks, Termine
 
+Hier kommt ein Text her.
 
 * Stundenplanung
 
-Übungsteil Kapitel 3 weiter und fertig.
+Der Urknall – Das sagen Physik und Religion | Quarks
+https://www.youtube.com/watch?v=57hwIsGHovU
 
-Gemeinsam eine Bibelstelle lesen - aus dem NT / einem Evangelium. Bsp.: Zachäus (Lk 19,1-10), Bartimäus (Mk 10,46-52), Berufung der Jünger (Joh 1; Lk 5,1-11; ...), Hochzeit in Kana (Joh 2), Heilung eines Gelähmten (Mk 2,1-12), Sturm auf dem See (Mk 4,35-41) - Wie fühlt es sich für einen der Jünger an? Was ist dein Anker, wenn Sturm ist? 
+Videos von Johannes Hartl:
+Gibt es Gott?
+[[https://www.youtube.com/watch?v=rcptBoLdbSw]]
+
+Glaube vs Wissenschaft:
+[[https://www.youtube.com/watch?v=C7kDp-nMkM0]]
+
+
+
+Kapitel 2 - große Fragen, große Antworten / harte Fakten, gute Gedanken
+
+S. 33 / Fragen der Kinder:
+** Warum gibt es die Welt, die Lebewesen und vor allem uns Menschen? 
+Die meisten Religionen sehen die Welt und den Menschen nicht als Zufallsprodukt, sondern als Teil eines bewussten Plans:
+
+- Schöpfung :: In den monotheistischen Religionen (Christentum, Judentum, Islam) wurden die Welt und der Mensch von Gott erschaffen. Der Mensch gilt oft als „Ebenbild“ Gottes und hat die Aufgabe, die Schöpfung zu bewahren.
+
+- Kosmische Ordnung :: In östlichen Philosophien und Religionen wie dem Buddhismus oder Hinduismus wird das Leben als Teil eines ewigen Kreislaufs (Samsara) oder eines großen, kosmischen Ganzen gesehen, in dem alles miteinander verbunden ist.
+
+** Gibt es so was wie Schicksal oder ist alles nur Zufall?
+Wissenschaftlich und philosophisch lässt sich sagen: Echten Zufall gibt es, während das Schicksal vor allem ein menschliches Deutungsmuster ist.
+
+- Was die Wissenschaft sagt ::
+
+  - Die Physik und der Zufall :: Die moderne Quantenphysik (wie der radioaktive Zerfall von Atomen) zeigt, dass es auf kleinster Ebene echte, unvorhersehbare Zufälle gibt. Ereignisse passieren dort ohne eine vorherige, festgeschriebene Ursache
+
+  - Kausalität vs. Chaos :: Im Alltag wirken Naturgesetze (wie die Schwerkraft) sehr verlässlich. Doch kleine, unkontrollierbare Faktoren führen dazu, dass viele Abläufe für uns zufällig wirken.
+
+  - Das Gehirn als Sinnsuche :: Unser Gehirn liebt es, Muster zu erkennen. Wenn zwei voneinander unabhängige Ereignisse zusammenkommen (z. B. man denkt an jemanden und genau diese Person ruft an), empfinden wir das schnell als „Schicksal“. Psychologisch geben wir dem Chaos damit eine ordnende Bedeutung.
+
+
+- Zufall :: Ein Ereignis ohne erkennbaren Plan oder Grund. In der Quantenphysik und Wahrscheinlichkeitsrechnung nachweisbar.
+
+- Schicksal :: Eine höhere, vorherbestimmte Ordnung oder Bestimmung. Gilt als psychologisches Bedürfnis nach Sinn, nicht als naturwissenschaftliches Gesetz.
+
+** Warum müssen wir alle einmal sterben und können nicht ewig leben? 
+Wir müssen sterben, weil unser Körper aus Zellen besteht, die sich abnutzen und deren Reparaturmechanismen mit der Zeit nachlassen. Die maximale biologische Lebensspanne des Menschen liegt aktuellen Berechnungen zufolge bei etwa 120 Jahren.
+
+** Gibt es Gott? Und wenn ja: warum können wir ihn nicht sehen?
+- Freier Wille und Glaube :: Wäre Gott für alle Menschen direkt sichtbar wie ein Gegenstand im Zimmer, gäbe es keinen Raum mehr für einen freien, echten Glauben oder Zweifel. Der Glaube setzt oft voraus, dass der Mensch sich frei für oder gegen eine Beziehung zu Gott entscheidet.
+
+- Selbstoffenbarung :: Nach religiöser Auffassung kann der Mensch Gott nicht aus eigener Kraft "sehen" oder ergründen, sondern nur dann, wenn Gott sich selbst zu erkennen gibt (Offenbarung). Im Christentum wird beispielsweise vermittelt, dass Gott sich im unsichtbaren Wesen oder durch Jesus Christus gezeigt hat.
+
+- Die Grenzen des Verstandes :: Der Philosoph Immanuel Kant argumentierte, dass der menschliche Verstand nur die Welt der Erfahrung (Natur) erkennen kann. Da Gott nicht Teil dieser erfassbaren Welt ist, liegt er jenseits unserer Erkenntnisfähigkeit 
+
+[[denote:20250918T090517][Gute Gedanken]]
 
 * Reflexionen
 
