@@ -17,7 +17,7 @@
 
 * Notizen, Tasks, Termine
 
-Hier kommt ein Text her.
+Hier kommt ein Text her. Jetzt schreibe ich weiter.
 
 * Stundenplanung
 
