@@ -1,0 +1,14 @@
+#+bibliography: /home/matthias/Documents/notes/references/Literatur.bib
+#+title:      Ignatius Catholic Study Bible
+#+date:       [2026-10-31 Sa 18:42]
+#+filetags:   :bib:chapter:hahn2024:
+#+identifier: 20261031T184209
+
+
+Ref: [cite:@hahn.2024]
+
+* Kernaussagen
+
+
+* Wichtige Zitate
+

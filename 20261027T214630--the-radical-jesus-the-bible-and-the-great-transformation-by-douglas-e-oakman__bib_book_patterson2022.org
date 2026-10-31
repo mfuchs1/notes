@@ -1,0 +1,17 @@
+#+bibliography: /home/matthias/Documents/notes/references/Literatur.bib
+#+title:      The Radical Jesus, the Bible, and the Great Transformation by Douglas E. Oakman
+#+date:       [2026-10-27 Di 21:46]
+#+filetags:   :bib:book:patterson2022:
+#+identifier: 20261027T214630
+
+
+Ref: [cite:@patterson2022]
+
+* Kernaussagen
+
+
+* Wichtige Zitate
+
+
+* Eigene Gedanken & Rezension
+

@@ -1,0 +1,143 @@
+#+title:      Workflow für Literatur
+#+date:       [2026-10-28 Mi 14:49]
+#+filetags:   :emacs:
+#+identifier: 20261028T144917
+
+Für Romane, Klassiker und literarische Werke sind externe Werkzeuge wie KBibTeX oder Zotero die perfekte Ergänzung.
+
+Dein Tastenkürzel =C-c l= hingegen ist dein spezialisiertes digitales Skalpell, das für einen ganz bestimmten Zweck geschmiedet wurde.
+
+Hier ist die glasklare Aufteilung, welches Werkzeug ab jetzt wofür in deinem Forschungs-Workflow gedacht ist:
+
+* Wofür ist dein =C-c l= in Emacs gedacht?
+
+=C-c l= (~my-citar-add-and-note~) ist dein Express-Werkzeug für moderne wissenschaftliche Fachliteratur, Sachbücher und Monographien.
+
+- Das Einsatzgebiet :: Bücher von Historikern, Geopolitikern, Ökonomen oder Sozialwissenschaftlern (z. B. die Werke von Daniele Ganser, aktuelle politische Analysen oder Fachbücher zu Emacs und Philosophie).
+- Der Clou :: Da diese modernen Werke alle eine eindeutige ID (einen DOI) besitzen, kann Emacs sie mit einem einzigen Klick fehlerfrei aus der wissenschaftlichen Crossref-Datenbank ziehen, den BibTeX-Key in deine Literatur.bib schreiben und sofort deine fertige denote-Org-Notiz mit dem passenden Zitations-Link (``) öffnen. Es ist ein reiner Autobahn-Workflow für deine aktuelle Forschung.
+
+* Warum solltest du für Romane & Klassiker zu KBibTeX oder Zotero greifen?
+
+Klassische Romane (wie Jules Verne), historische Quellentexte (wie Konfuzius oder Platon) oder Belletristik haben in der wissenschaftlichen Crossref-Datenbank meist keine eigenen Einträge, sondern tauchen dort nur als Aufsätze über das Buch auf.
+
+Hier schlägt die Stunde von KBibTeX (das nativ perfekt zu deiner KDE-Umgebung auf Manjaro passt) oder Zotero:
+- Einfacher Import :: Du kannst dort über spezialisierte Suchen (z. B. über die ISBN-Nummer, den Verbundkatalog von Bibliotheken oder per Browser-Add-on) die exakte Ausgabe des Romans heraussuchen, die du physisch im Regal stehen hast.
+- Saubere Daten :: Diese Programme generieren dir einen fehlerfreien @book-Eintrag für deine Literatur.bib, bei dem auch das Feld author sauber mit "Verne, Jules" oder "Konfuzius" belegt ist.
+
+* Der perfekte, kombinierte Workflow für dich:
+
+1. Bei Fachliteratur & Sachbüchern: Drücke direkt in Emacs =C-c l= – das erledigt alles in 3 Sekunden.
+2. Bei Romanen & Klassikern:
+	• Hole dir den Eintrag über KBibTeX oder Zotero und speichere ihn in deiner zentralen Literatur.bib ab.
+	• Drücke danach in Emacs einfach =C-c w b c= (citar-create-note). Emacs sieht den neuen Eintrag sofort in deiner .bib-Datei und öffnet dir augenblicklich deine strukturierte Denote-Notiz mitsamt dem korrekten Zitations-Link.
+
+Damit ist dein Zettelkasten absolut sauber organisiert und du hast für jede Buch-Kategorie das mathematisch beste Werkzeug zur Hand!
+
+* Code angepasst
+
+Ich habe lange gebastelt, kopiert, ... es hat nicht geklappt. Gegen Ende waren wir so knapp dran: nach der Eingabe von Autor und Titel hätten ca. 20 Vorschläge kommen sollen. Es kamen immer die gleichen 20 Titel - ein Zeichen, dass die Eingabe gar nicht funtkioniert hatte. Also kamen wir zum Schluss, es ganz ohne INternet zu schaffen.
+
+Der Code arbeitet ganz ohne Internet - da gab es unlösbare Probleme - sondern nur mehr lokal. Wenn ich den Code anpassen will, dann:
+1. Eine neue Zeile mit (read-string ...) im let*-Block oben einfügen.
+2. Das Feld unten im format-String der jeweiligen Kategorie (@book oder @incollection) ergänzen.
+3. Bei Bedarf das neue Kürzel an die denote-Schlagwörter-Liste anhängen.
+
+#+begin_src emacs-lisp
+;;; ========================================
+;;; CHRONOLOGISCHER WORKFLOW-BEFEHL (C-c l) 
+;;; ========================================
+(defun my-citar-add-and-note ()
+  "Erstellt sofort und ohne Internet-Abhängigkeit einen sauberen BibTeX-Eintrag und eine Denote-Notiz.
+Unterstützt Monographien (@book) sowie Sammelwerke und herausgegebene Werke."
+  (interactive)
+  (require 'citar) (require 'citar-denote) (require 'denote)
+  
+  (unless (and (boundp 'citar-bibliography) citar-bibliography (car citar-bibliography))
+    (error "Konfigurationsfehler: 'citar-bibliography' ist leer oder nicht definiert!"))
+  
+  (let* ((bib-file (expand-file-name (car citar-bibliography)))
+         ;; 1. WEICHE: Fragt ab, ob es sich um ein Sammelwerk / herausgegebenes Werk handelt
+         (is-sammelwerk (y-or-n-p "Handelt es sich um ein Sammelwerk / Werk mit Herausgeber? "))
+         
+         ;; Eingaben abfragen
+         (input-author (substring-no-properties (read-string (if is-sammelwerk "Autor des Kapitels/Textes (optional): " "Autor (z.B. Mausfeld): "))))
+         (b-title (substring-no-properties (read-string (if is-sammelwerk "Titel des Kapitels/Gesprächs (z.B. Gespräche): " "Buchtitel: "))))
+         
+         ;; Herausgeber-Abfrage falls y-or-n-p mit JA beantwortet wurde
+         (input-editor (if is-sammelwerk (substring-no-properties (read-string "Herausgeber des Buchs (z.B. Konfuzius): ")) ""))
+         (booktitle (if is-sammelwerk (substring-no-properties (read-string "Gesamttitel des Sammelwerks (optional, Enter für Buchtitel): ")) ""))
+         
+         (publisher (substring-no-properties (read-string "Verlag (optional): ")))
+         (location (substring-no-properties (read-string "Ort (optional): ")))
+         (bib-year (substring-no-properties (read-string "Jahr (z.B. 2024): ")))
+         (pages (if is-sammelwerk (substring-no-properties (read-string "Seiten von-bis (optional, z.B. 20-45): ")) ""))
+         
+         ;; Fallbacks & Bereinigungen
+         (publisher (if (string-empty-p publisher) "Unknown Publisher" publisher))
+         (bib-year (if (string-empty-p bib-year) "2026" bib-year))
+         (booktitle (if (and is-sammelwerk (string-empty-p booktitle)) b-title booktitle))
+         
+         ;; Wer bestimmt den Citekey? (Herausgeber falls kein Autor eingetragen wurde)
+         (key-base (if (string-empty-p input-author) 
+                       (if (string-empty-p input-editor) "anonymous" input-editor) 
+                     input-author))
+         
+         ;; Generierung des Zitier-Schlüssels (Nachname.Jahr)
+         (raw-citekey (downcase (replace-regexp-in-string "[^A-Za-z0-9]" "" 
+                                                          (if (string-match-p "," key-base)
+                                                              (car (split-string key-base ","))
+                                                            (car (last (split-string key-base " ")))))))
+         (citekey (format "%s.%s" raw-citekey bib-year))
+         
+         ;; 2. WEICHE: Dynamischer Zusammenbau des BibTeX-Eintrags
+         (bibtex-string 
+          (if (not is-sammelwerk)
+              ;; Normales Buch (@book)
+              (format "\n@book{%s,\n  author = {%s},\n  title = {%s},\n  publisher = {%s},\n  address = {%s},\n  year = {%s}\n}\n" 
+                      citekey input-author b-title publisher location bib-year)
+            ;; Sammelwerk / Herausgegebenes Werk (@incollection)
+            (concat (format "\n@incollection{%s,\n" citekey)
+                    (unless (string-empty-p input-author) (format "  author = {%s},\n" input-author))
+                    (format "  title = {%s},\n" b-title)
+                    (format "  editor = {%s},\n" input-editor)
+                    (format "  booktitle = {%s},\n" booktitle)
+                    (format "  publisher = {%s},\n" publisher)
+                    (unless (string-empty-p location) (format "  address = {%s},\n" location))
+                    (format "  year = {%s},\n" bib-year)
+                    (unless (string-empty-p pages) (format "  pages = {%s},\n" pages))
+                    "}\n"))))
+    
+    (unless (file-exists-p bib-file)
+      (error "Datei-Fehler: Die Bib-Datei '%s' existiert nicht!" bib-file))
+    
+    (message "Generiere lokalen Literatureintrag...")
+    
+    ;; Eintrag in die Datei schreiben
+    (with-temp-buffer 
+      (insert bibtex-string) 
+      (append-to-file (point-min) (point-max) bib-file))
+    
+    (setq citar-cache--bibliography nil)
+    
+    ;; Denote-Notiz anlegen
+    (let* ((note-path (denote b-title (list "bib" (if is-sammelwerk "chapter" "book") citekey) 'org))
+           (note-buffer (find-file-noselect note-path)))
+      (with-current-buffer note-buffer
+        (goto-char (point-min)) 
+        (insert (format "#+bibliography: %s\n" bib-file))
+        (goto-char (point-max)) 
+        (insert (concat "\nRef: [cite:@" citekey "]\n\n* Kernaussagen\n\n\n* Wichtige Zitate\n\n"))
+        (save-buffer))
+      (switch-to-buffer note-buffer))
+    
+    (message "Erfolgreich: Lokales Werk '%s' wurde mit Key [%s] angelegt!" b-title citekey)))
+
+;; Bindung im Org-Mode
+(global-set-key (kbd "C-c B") #'my-citar-add-and-note)
+(with-eval-after-load 'org
+  (define-key org-mode-map (kbd "C-c B") #'my-citar-add-and-note))
+#+end_src
+
+Ich habe den Code bereits getestet - er tut, was er soll. Über eine längere Zeit ǵab es noch ein viel schlimmeres Problem - durch einen unabsichtlichen Tastendruck hab ich ein unsichtbares Zeichen in meine =init.el= eingefügt. Und ab einem bestimmten Punkt in dieser Datei wurde der Code einfach abgeschnitten - zwar richtig geladen, aber Emacs war es unmöglich, die gesamte Datei anzuzeigen. 
+
+Nach langem Suchen und Kopieren, etc. haben wir das Kompilieren beim Schließen von Emacs abgedreht, die =init.el= wieder hergestellt, etc - und den obigen Code - ohne Internet - eingefügt. Jetzt klappt alles wieder, aber ich speichere nun eine Sicherung an einem anderen Ort von der =init.el=.

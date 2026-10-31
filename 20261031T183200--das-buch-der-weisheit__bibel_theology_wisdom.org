@@ -1,0 +1,36 @@
+#+title:      Das Buch der Weisheit
+#+date:       [2026-10-31 Sa 18:32]
+#+filetags:   :bibel:theology:wisdom:
+#+identifier: 20261031T183200
+#+bibliography: /home/matthias/Documents/notes/references/Literatur.bib
+
+* Einleitung
+
+* Platz in der Bibel
+
+* Struktur des Buches
+
+* Themen
+
+* Autor, Entstehungszeit
+
+* Christliche Bedeutung
+
+* Persönliche Gedanken
+
+* Literatur
+
+** Die Bibel
+
+[cite:@Deissler.1985]
+
+[[file:Bibel/at/Weish_1.org][Weish 1]]
+
+[[denote:20261031T184723][The Holy Bible]]
+
+[[denote:20261031T184209][Ignatius Catholic Study Bible]]
+
+[[denote:20261031T183930][La Bible d'Osty]] 
+
+
+** Fachliteratur

@@ -1,0 +1,14 @@
+#+bibliography: /home/matthias/Documents/notes/references/Literatur.bib
+#+title:      Complete Dental Cleaning
+#+date:       [2026-10-28 Mi 16:46]
+#+filetags:   :bib:book:ganser2021:
+#+identifier: 20261028T164608
+
+
+Ref: [cite:@ganser2021]
+
+* Kernaussagen
+
+
+* Wichtige Zitate
+

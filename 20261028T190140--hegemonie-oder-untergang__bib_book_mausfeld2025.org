@@ -1,0 +1,14 @@
+#+bibliography: /home/matthias/Documents/notes/references/Literatur.bib
+#+title:      Hegemonie oder Untergang
+#+date:       [2026-10-28 Mi 19:01]
+#+filetags:   :bib:book:mausfeld2025:
+#+identifier: 20261028T190140
+
+
+Ref: [cite:@mausfeld.2025]
+
+* Kernaussagen
+
+
+* Wichtige Zitate
+

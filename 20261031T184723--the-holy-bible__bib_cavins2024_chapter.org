@@ -1,0 +1,14 @@
+#+bibliography: /home/matthias/Documents/notes/references/Literatur.bib
+#+title:      The Holy Bible
+#+date:       [2026-10-31 Sa 18:47]
+#+filetags:   :bib:cavins2024:chapter:
+#+identifier: 20261031T184723
+
+
+Ref: [cite:@cavins.2024]
+
+* Kernaussagen
+
+
+* Wichtige Zitate
+

@@ -1,0 +1,14 @@
+#+bibliography: /home/matthias/Documents/notes/references/Literatur.bib
+#+title:      Hybris und Nemesis
+#+date:       [2026-10-28 Mi 18:42]
+#+filetags:   :bib:book:mausfeld2023:
+#+identifier: 20261028T184206
+
+
+Ref: [cite:@mausfeld2023]
+
+* Kernaussagen
+
+
+* Wichtige Zitate
+

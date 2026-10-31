@@ -1,0 +1,17 @@
+#+bibliography: /home/matthias/Documents/notes/references/Literatur.bib
+#+title:      IV. Konfuzius im 20. Jahrhundert
+#+date:       [2026-10-27 Di 21:27]
+#+filetags:   :bib:book:ess2003:
+#+identifier: 20261027T212724
+
+
+Ref: [cite:@ess2003]
+
+* Kernaussagen
+
+
+* Wichtige Zitate
+
+
+* Eigene Gedanken & Rezension
+

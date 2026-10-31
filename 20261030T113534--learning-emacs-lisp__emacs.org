@@ -1,0 +1,65 @@
+#+title:      Learning Emacs Lisp
+#+date:       [2026-10-30 Fr 11:35]
+#+filetags:   :emacs:
+#+identifier: 20261030T113534
+
+1. Die integrierte Emacs-Einführung (Bereits auf deinem Computer!)
+
+Du musst gar kein neues Buch kaufen, denn Emacs bringt eine hervorragende, interaktive Einführung direkt mit:An Introduction to Programming in Emacs Lisp (von Robert J. Chassell)Wo zu finden? Öffne Emacs und drücke C-h i (Info-System), wähle dort den Eintrag Emacs Lisp Intro. Alternativ kannst du direkt M-x info-emacs-lisp-intro eingeben.Warum perfekt? Es ist speziell für Einsteiger geschrieben, setzt keine Programmiererfahrung voraus und erklärt Schritt für Schritt, wie man Puffer, Zeiger (Points) und Emacs-Anpassungen steuert.
+
+2. Das offizielle Handbuch (Nachschlagewerk)The Emacs Lisp Reference Manual
+
+Wo zu finden? Ebenfalls direkt in Emacs über C-h i $\rightarrow$ Elisp (oder online auf gnu.org).Warum nützlich? Wenn du wissen willst, wie eine spezifische Funktion oder ein Konzept (wie advice-add, let* oder hooks) im Detail funktioniert, ist das die primäre Anlaufstelle.
+
+
+3. Empfehlenswerte Bücher
+
+Falls du lieber ein gedrucktes Buch liest oder ein strukturierteres Lehrbuch suchst:
+
+    Mastering Emacs von Mickey Petersen (Das moderne Standardwerk)
+
+        Sehr praxisnah. Es erklärt nicht nur Elisp, sondern auch, wie man Emacs effektiv denkt, konfiguriert und erweitert.
+
+    Writing GNU Emacs Extensions von Bob Glickstein (O'Reilly)
+
+        Etwas älter, aber didaktisch fantastisch aufgebaut: Es zeigt anhand konkreter Praxisbeispiele, wie man kleine Erweiterungen für den Emacs-Alltag schreibt.
+
+
+4. Der beste Lern-Workflow in Emacs selbst
+
+Das Geheimnis beim Elisp-Lernen ist, Emacs als interaktive Umgebung (REPL) zu nutzen:
+
+    Der *scratch*-Puffer: Tippe dort Elisp-Code ein und drücke am Ende einer Klammer C-x C-e (eval-last-sexp), um den Code sofort auszuführen.
+
+    Tastenkombinationen für die Hilfe:
+
+        C-h f (describe-function): Erklärt jede eingebaute Funktion.
+
+        C-h v (describe-variable): Erklärt Variablen und deren Werte.
+
+        C-h o (describe-symbol): Zeigt Informationen zu jedem Symbol an.
+
+    Quelltext per Klick: Bei C-h f kannst du direkt auf den Link zum C- oder Elisp-Quelltext klicken, um zu sehen, wie bestehende Pakete gebaut sind.
+
+Fazit zum SICP-Buch:
+Lies SICP, wenn du tief in Informatik-Konzepte und funktionale Programmierung eintauchen willst. Wenn dein Ziel aber ist, Emacs-Konfigurationen und -Workflows zu verstehen und zu schreiben, starte direkt mit dem interaktiven Emacs Lisp Intro (M-x info-emacs-lisp-intro) in deinem Emacs!
+
+Wenn Prot (Protesilaos Stavrou) das empfiehlt, bist du in bester Gesellschaft – seine Videos und Pakete (wie denote, das du in deinen Skripten nutzt) sind ein Paradebeispiel für sauberes, idiomatisches Elisp.
+
+Der größte Vorteil der eingebauten Hilfe ist, dass du Emacs nie verlassen musst, um zu verstehen, was in deiner Konfiguration passiert.
+
+Hier sind drei kleine Handgriffe, mit denen du den Einstieg heute ohne Hürden schaffst:
+
+    Starte das Tutorial direkt:
+    Drücke M-x info-emacs-lisp-intro (oder C-h i und wähle den Punkt aus). Lies einfach die ersten paar Seiten – es liest sich überraschend flüssig.
+
+    Nutze den *scratch*-Puffer als Spielwiese:
+    Öffne den Puffer mit C-x b *scratch*. Tippe einen einfachen Befehl ein, z. B.:
+    Code-Snippet
+
+    (+ 5 10)
+
+    Setze den Cursor ganz ans Ende nach die schließende Klammer ) und drücke C-x C-e. Das Ergebnis (15) erscheint unten in der Minibuffer-Zeile. So kannst du jeden kleinen Schnipsel sofort live testen.
+
+    Erforsche deine eigenen Funktionen:
+    Bewege den Cursor in deinem eigenen Code auf eine Funktion wie replace-regexp-in-string oder let* und drücke C-h f bzw. C-h v. Emacs schlägt dir automatisch das Wort unter dem Cursor vor – einmal Enter drücken, und du hast die Dokumentation vor dir.

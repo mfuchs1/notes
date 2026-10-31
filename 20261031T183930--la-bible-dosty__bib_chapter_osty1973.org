@@ -1,0 +1,14 @@
+#+bibliography: /home/matthias/Documents/notes/references/Literatur.bib
+#+title:      La Bible d'Osty
+#+date:       [2026-10-31 Sa 18:39]
+#+filetags:   :bib:chapter:osty1973:
+#+identifier: 20261031T183930
+
+
+Ref: [cite:@osty.1973]
+
+* Kernaussagen
+
+
+* Wichtige Zitate
+
