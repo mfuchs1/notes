@@ -1,0 +1,18 @@
+#+title:      Einheitsübersetzung der Heiligen Schrift
+#+date:       [2026-11-03 Di 15:51]
+#+filetags:   :bibel:biblio:bischofskonferenz2026:
+#+identifier: 20261103T155108
+
+#+begin_src bibtex
+@incollection{bischofskonferenz2026,
+  title = {Einheitsübersetzung der Heiligen Schrift - Gesamtausgabe},
+  editor = {Österreichische Bischofskonferenz},
+  booktitle = {Die Bibel},
+  publisher = {Katholische Bibelanstalt GmbH},
+  address = {Stuttgart},
+  year = {2026}
+}
+#+end_src
+
+* Notes
+

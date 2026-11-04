@@ -147,6 +147,10 @@
     "2023"
     "osty.1973"
     "hahn.2024"
-    "cavins.2024"))
+    "cavins.2024"
+    "Mazzinghi_2018"
+    "Mazzinghi_2019"
+    "bischofskonferenz.2026"
+    "Ganser_2005"))
  '(or :bibtex :latex))
 

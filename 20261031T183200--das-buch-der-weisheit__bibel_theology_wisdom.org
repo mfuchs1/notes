@@ -24,7 +24,9 @@
 
 [cite:@Deissler.1985]
 
-[[file:Bibel/at/Weish_1.org][Weish 1]]
+[[denote:20261031T210652][Einheitsübersetzung der Heiligen Schrift - Gesamtausgabe]]
+
+[[file:Bibel/at/Weish_1.org][Weish 1]] (lokal gespeichert - die gesamte Bibel als org-Dateien)
 
 [[denote:20261031T184723][The Holy Bible]]
 
@@ -34,3 +36,27 @@
 
 
 ** Fachliteratur
+
+[[https://www.bibelwerk.de/fileadmin/verein/Dokumente/Was_wir_bieten/Materialpool/Themen_Personen/BiKi_PDF_Vergriffene_Hefte_vor_2000/1997_4_Das_Buch_der_Weisheit.pdf][Bibelwerk - Das Buch der Weisheit]]
+
+*** Der aktuelle wissenschaftliche Standardkommentar
+
+[cite:@Mazzinghi_2018]
+
+[cite:@Mazzinghi_2019]
+
+Luca Mazzinghi: Weisheit (Reihe: Internationaler Exegetischer Kommentar zum Alten Testament / IEKAT, Kohlhammer Verlag).
+
+Das Werk habe ich nur auf [[https://www.zvab.com/Weisheit-Luca-Mazzinghi-Kohlhammer-Jul-2018/31801323214/bd][ZVAB]] gefunden - als gedrucktes Buch (Preis 99 Euro); auf Amazon und thalia.at finde ich nur das e-Book. 
+
+- Hintergrund :: Dies ist das derzeit umfassendste deutschsprachige Standardwerk. Es führt Textkritik, literarische Analyse sowie den doppelten historischen Kontext (die Verbindung zur hellenistischen Umwelt in Alexandria und zur biblischen Tradition) meisterhaft zusammen.
+
+
+*** Der bewährte Klassiker für die theologische Praxis
+
+Armin Schmitt: Weisheit (Reihe: Die Neue Echter Bibel / NEB, Echter Verlag).
+
+Das Werk gibt's nur antiquarisch, z.B. auf [[https://www.zvab.com/Neue-Echter-Bibel-Kommentar-Alten-Testament-Einheits%C3%BCbersetzung/32110280089/bd][ZVAB]].
+
+- Hintergrund :: Hervorragend geeignet für die theologische und pastorale Praxis. Der Kommentar bietet eine verständliche Vers-für-Vers-Auslegung auf Basis der Einheitsübersetzung und ist ein bewährter Begleiter im fortgeschrittenen Studium.
+

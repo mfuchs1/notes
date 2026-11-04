@@ -1,0 +1,14 @@
+#+bibliography: /home/matthias/Documents/notes/references/Literatur.bib
+#+title:      Einheitsübersetzung der Heiligen Schrift - Gesamtausgabe
+#+date:       [2026-10-31 Sa 21:06]
+#+filetags:   :bib:bischofskonferenz2026:chapter:
+#+identifier: 20261031T210652
+
+
+Ref: [cite:@bischofskonferenz.2026]
+
+* Kernaussagen
+
+
+* Wichtige Zitate
+

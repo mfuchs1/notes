@@ -1,0 +1,544 @@
+#+title:      Einige Funktionen meiner Emacs Konfiguration
+#+date:       [2026-11-03 Di 20:50]
+#+filetags:   :emacs:
+#+identifier: 20261103T205028
+#+OPTIONS: num:nil toc:nil id:t
+#+language: de
+#+options: smart-quotes:t
+#+DESCRIPTION: Emacs rocks
+#+HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "images/technicolor-tree.jpg") (alt . "Beschreibung des Bildes"))
+#+HUGO_CATEGORIES: Emacs
+#+HUGO_LOCALE: de
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_BASE_DIR: /home/matthias/flying-toasters/
+#+AUTHOR: Matthias Fuchs
+
+* =elfeed.el= play podcast audio via =mpv.el=
+
+Ich höre sehr gerne den Podcast "Bible in a Year" mit Fr. Mike Schmitz; mit dieser Funktion kann ich diesen Podcast von Emacs aus anhören.
+
+#+begin_src emacs-lisp
+;;; Play Podcasts with mpv (keybinding 'P' inside elfeed).
+(use-package mpv
+  :after elfeed)
+
+(defun my/elfeed-play-podcast-with-mpv ()
+  "Spielt das Audio (Enclosure) des aktuellen Elfeed-Eintrags mit mpv ab."
+  (interactive)
+  (let* ((entry (if (eq major-mode 'elfeed-show-mode)
+                    elfeed-show-entry
+                  (elfeed-search-selected :single)))
+         (enclosures (elfeed-entry-enclosures entry))
+         (url (caar enclosures)))
+    (if url
+        (progn
+          (message "Starte Podcast-Streaming mit mpv...")
+          ;; --no-video sorgt dafür, dass kein leeres Videofenster aufpoppt.
+	  ;; Statt --no-video hab ich eine Option für ein kleineres Fenster eingefügt:
+	  ;; --window-scale=0.3
+          (start-process "mpv-podcast" nil "mpv" "--window-scale=0.3" url))
+      (user-error "Kein Audio-Anhang (Enclosure) für diesen Eintrag gefunden!"))))
+
+;;; Tastenkürzel für Elfeed definieren (z. B. "P" zum Abspielen)
+(with-eval-after-load 'elfeed
+  (define-key elfeed-search-mode-map (kbd "P") #'my/elfeed-play-podcast-with-mpv)
+  (define-key elfeed-show-mode-map (kbd "P") #'my/elfeed-play-podcast-with-mpv))
+#+end_src
+
+* =elfeed.eö= play YouTube video via =mpv.el=
+
+Ist wohl selbsterklärend, oder?
+
+#+begin_src emacs-lisp
+;;; Play Youtube Video inside Emacs / elfeed (keybinding 'V' inside elfeed).
+(defun elfeed-play-with-mpv ()
+  "Play entry link with mpv."
+  (interactive)
+  (let ((entry (if (eq major-mode 'elfeed-show-mode) elfeed-show-entry (elfeed-search-selected :single)))
+        (quality-arg "")
+        (quality-val (completing-read "Max height resolution (0 for unlimited): " '("0" "480" "720") nil nil)))
+    (setq quality-val (string-to-number quality-val))
+    (message "Opening %s with height≤%s with mpv..." (elfeed-entry-link entry) quality-val)
+    (when (< 0 quality-val)
+      (setq quality-arg (format "--ytdl-format=[height<=?%s]" quality-val)))
+    (start-process "elfeed-mpv" nil "mpv" quality-arg (elfeed-entry-link entry))))
+
+(defvar elfeed-mpv-patterns
+  '("youtu\\.?be")
+  "List of regexp to match against elfeed entry link to know
+whether to use mpv to visit the link.")
+
+(defun elfeed-visit-or-play-with-mpv ()
+  "Play in mpv if entry link matches `elfeed-mpv-patterns', visit otherwise.
+See `elfeed-play-with-mpv'."
+  (interactive)
+  (let ((entry (if (eq major-mode 'elfeed-show-mode) elfeed-show-entry (elfeed-search-selected :single)))
+        (patterns elfeed-mpv-patterns))
+    (while (and patterns (not (string-match (car elfeed-mpv-patterns) (elfeed-entry-link entry))))
+      (setq patterns (cdr patterns)))
+    (if patterns
+        (elfeed-play-with-mpv)
+      (if (eq major-mode 'elfeed-search-mode)
+          (elfeed-search-browse-url)
+        (elfeed-show-visit)))))
+
+(with-eval-after-load 'elfeed
+  (define-key elfeed-search-mode-map (kbd "V") #'elfeed-play-with-mpv)
+  (define-key elfeed-show-mode-map (kbd "V") #'elfeed-play-with-mpv))
+#+end_src
+
+* =elfeed.el= display comments / post from reddit
+
+Ich habe die rss-feeds von ein paar subreddits abonniert und kann dann mit der Tastenkombination 'c' die Kommentare zu einem reddit-Post anzeigen lassen und mit 'q' wieder schließen.
+
+#+begin_src emacs-lisp
+;;; To route only Reddit traffic through your SOCKS5 proxy while fetching all other feeds directly, you can use Emacs's advice-add system. This allows you to dynamically turn on the proxy whenever Elfeed requests a URL containing "reddit.com".
+(require 'socks)
+
+(defun my-elfeed-conditional-reddit-proxy (orig-fun url &rest args)
+  "Route traffic through SOCKS5 proxy ONLY if the URL belongs to Reddit."
+  (if (string-match-p "reddit\\.com" url)
+      ;; Inside this block, the proxy settings apply
+      (let ((url-gateway-method 'socks)
+            (socks-server '("Reddit SOCKS5 Proxy" "127.0.0.1" 1080 5))
+            ;; Optional: Uncomment if your SOCKS5 proxy requires credentials
+            ;; (socks-username "your_username")
+            ;; (socks-password "your_password")
+            )
+        (apply orig-fun url args))
+    ;; Outside the block, use standard direct connection
+    (apply orig-fun url args)))
+
+;; Attach the proxy switch specifically to Elfeed's retrieval function
+(advice-add 'elfeed-curl-retrieve :around #'my-elfeed-conditional-reddit-proxy)
+(advice-add 'url-retrieve :around #'my-elfeed-conditional-reddit-proxy)
+
+;;; function to display comments of a reddit post in elfeed (bind to 'c')
+(require 'xml)
+
+(defun my-elfeed-view-reddit-comments ()
+  "Fetch and display Reddit comments.
+Using an unblocked public RSS schema in a right sidebar."
+  (interactive)
+  (let* ((entry (or elfeed-show-entry (elfeed-search-selected :single)))
+         (link (and entry (elfeed-entry-link entry))))
+    (if (not link)
+        (error "Could not find a link for the current entry!")
+      (if (not (string-match-p "reddit\\.com" link))
+          (error "Aborting: This link does not look like a reddit.com URL."))
+      
+      (let* ((clean-url (replace-regexp-in-string "\\?.*$" "" link))
+             (rss-url (concat (if (string-match-p "/$" clean-url)
+                                  (substring clean-url 0 -1)
+                                clean-url) ".rss")))
+        (message "Fetching comment RSS tree...")
+        
+        (let* ((curl-cmd (format "curl -sL -A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) ElfeedFeedReader/1.0' '%s'" rss-url))
+               (xml-str (shell-command-to-string curl-cmd)))
+          (setq xml-str (string-trim xml-str))
+          
+          (cond
+           ((string= xml-str "")
+            (error "Error: Reddit returned an empty RSS feed string."))
+           ((not (string-prefix-p "<" xml-str))
+            (error "Error: Server response is not valid XML markup."))
+           (t
+            (condition-case err
+                (with-temp-buffer
+                  (insert xml-str)
+                  (goto-char (point-min))
+                  (let* ((xml-tree (xml-parse-region (point-min) (point-max)))
+                         (feed-node (car xml-tree))
+                         (entries (xml-get-children feed-node 'entry))
+                         (result-buf (get-buffer-create "*Reddit Comments*")))
+                    
+                    (with-current-buffer result-buf
+                      (erase-buffer)
+                      (insert "REDDIT COMMENTS\n")
+                      (insert "=============== \n\n")
+                      
+                      (if (not entries)
+                          (insert "No comments found on this post yet.\n")
+                        (dolist (item entries)
+                          (let* ((author-node (car (xml-get-children item 'author)))
+                                 (name-node (car (xml-get-children author-node 'name)))
+                                 (author (and name-node (car (xml-node-children name-node))))
+                                 (content-node (car (xml-get-children item 'content)))
+                                 (body (and content-node (car (xml-node-children content-node)))))
+                            
+                            (when (and body (not (string-match-p "submitted by" body)))
+                              (setq body (replace-regexp-in-string "<[^>]*>" "" body))
+                              (setq body (replace-regexp-in-string "&lt;" "<" body))
+                              (setq body (replace-regexp-in-string "&gt;" ">" body))
+			      (setq body (replace-regexp-in-string "&#39;" "'" body))
+                              (setq body (replace-regexp-in-string "&quot;" "\"" body))
+                              (setq body (replace-regexp-in-string "&amp;" "&" body))
+                              
+                              (insert (format "%s\n%s\n\n%s\n\n"
+                                              (propertize (or author "u/unknown") 'face 'bold)
+                                              (string-trim body)
+                                              (propertize "────────────────────────────────────────" 'face 'shadow)))))))
+                      (goto-char (point-min))
+                      
+                      ;; Layout & UX Polish:
+                      (visual-line-mode 1)      ; Soft wrap lines beautifully
+                      (read-only-mode 1)        ; Prevent accidental editing
+                      ;; Bind 'q' to kill the window and buffer seamlessly
+                      (local-set-key (kbd "q") (lambda () (interactive) 
+                                                 (let ((win (get-buffer-window)))
+                                                   (kill-buffer)
+                                                   (when win (delete-window win))))))
+                    
+                    ;; Split layout: create a 100-character wide window on the right
+                    (let ((sidebar-win (split-window-right -100))) ;50
+                      (set-window-buffer sidebar-win result-buf)
+                      (select-window sidebar-win))
+                    
+                    (message "Success! Comments displayed in sidebar.")))
+              (error (error "XML structural parsing failed: %s" (error-message-string err)))))))))))
+
+;; Bind it in elfeed-show-mode and elfeed-search-mode
+(with-eval-after-load 'elfeed
+  (define-key elfeed-show-mode-map (kbd "c") #'my-elfeed-view-reddit-comments)
+  (define-key elfeed-search-mode-map (kbd "c") #'my-elfeed-view-reddit-comments))
+#+end_src
+
+* =my-denote-region= capture region from =elfeed= entry
+
+Diese Funktion (ursprünlgich von der homepage von Prot: [[https://protesilaos.com/emacs/denote#h:eb72086e-05be-4ae3-af51-7616999fc7c9][6.5.1. A custom denote-region that references the source]]) habe ich um =elfeed= erweitert.
+
+#+begin_src emacs-lisp
+;; Variant of `my-denote-region' to reference the source
+
+(declare-function elfeed-entry-link "elfeed" (entry))
+
+(defun my-denote-region-get-source-reference ()
+  "Get a reference to the source for use with `my-denote-region'.
+The reference is a URL or an Org-formatted link to a file."
+  ;; We use a `cond' here because we can extend it to cover more
+  ;; cases.
+  (cond
+   ((derived-mode-p 'eww-mode)
+    (plist-get eww-data :url))
+   ((derived-mode-p 'elfeed-show-mode)
+    (elfeed-entry-link elfeed-show-entry))
+   ;; Here we are just assuming an Org format.  We can make this more
+   ;; involved, if needed.
+   (buffer-file-name
+    (format "[[file:%s][%s]]" buffer-file-name (buffer-name)))))
+
+(defun my-denote-region ()
+  "Like `denote-region', but add the context afterwards.
+For how the context is retrieved, see `my-denote-region-get-source-reference'."
+  (interactive)
+  (let ((context (my-denote-region-get-source-reference)))
+    (call-interactively 'denote-region)
+    (when context
+      (goto-char (point-max))
+      (insert "\n")
+      (insert context))))
+#+end_src
+
+* =my-modeline= (link)
+
+In meinem Post [[file:20261024T161930--meine-neue-modeline__emacs.org][über meine neue Modeline]] zeige auf, was sich geändert hat.
+
+* =denote-biblio.el=
+
+Nicht meine Funktion - ein ~org-capture-template~: ich gebe den kompletten bibkey ein und dieses Paket erstellt eine =denote=-Datei, mit dem bibkey als Inhalt; Möglichkeit, Notizen anzulegen. Ausgehend von diesen Dateien kann ich dann eine =bib=-Datei erstellen. Autor ist Mohamed Suliman; leider finde ich den ursprünglichen Artikel nicht mehr.
+
+#+begin_src emacs-lisp
+;;; denote-biblio.el --- BibTex entries with denote  -*- lexical-binding: t; -*-
+
+;; Copyright (C) 2025  Matthias Fuchs
+
+;; Author: Matthias Fuchs <matthiasfuchs01@gmail.com>
+;; Keywords: lisp,
+;; Ich hab am ? einen kleinen Email Austausch mit dem Entwickler dieses Codes.
+;; Dieser Code beruht auf `denote.el', doch dieses Programm hat sich weiterentwickelt.
+;; Daher kam es zu Fehlermeldungen. Diese habe ich weitergeleitet, mit der Vermutung,
+;; wo der Fehler liegen könnte. Und keine Stunde später hatte ich den korrigierten Code.
+
+(defun namilus-denote-bibtex-prompt (&optional default-bibtex)
+  "Ask the user for a bibtex entry. Returns the sanitised
+version. See `namilus-denote-sanitise-bibtex' for details."
+  (let* ((def default-bibtex)
+         (format (if (and def (not (string-empty-p def)))
+                     (format "Bibtex [%s]: " def)
+                   "Bibtex: "))
+         (sanitised-bibtex (namilus-denote-sanitise-bibtex (read-string format nil nil def))))
+    (if sanitised-bibtex
+        sanitised-bibtex
+      (error "Invalid BiBTeX"))))
+
+
+(defun namilus-denote-sanitise-bibtex (bibtex)
+  "Returns a santised version of BIBTEX. Sanitisation entails remove
+all non alpha-numeric characters from the bibtex key, and
+ returning this updated bibtex entry. If BIBTEX is not a valid
+ bibtex entry, returns nil."
+  (when (string-match "@.*{\\(.*\\)," bibtex)
+    (let* ((key (match-string-no-properties 1 bibtex))
+           (sanitised-key (replace-regexp-in-string "[^A-Za-z0-9]" "" key)))
+      (replace-regexp-in-string key sanitised-key bibtex))))
+
+
+
+(defun namilus-denote-bibtex-key (bibtex)
+  "Returns the bibtex key from BIBTEX."
+  (when (string-match "@.*{\\(.*\\)," bibtex)
+    (match-string-no-properties 1 bibtex)))
+     
+(defun namilus-denote-bibtex-title (bibtex)
+  "Returns the bibtex title from BIBTEX."
+  (when (string-match "\\s *title\\s *=\\s *{\\(.*\\)}," bibtex)
+    (match-string-no-properties 1 bibtex)))
+
+
+(defun namilus-denote-biblio-keywords (bibtex)
+  "Returns a list of strings \"biblio\" and the key from the BIBTEX
+entry, otherwise, just returns a list consisting of the string
+ \"biblio\"."
+  (let ((bibtex-key (namilus-denote-bibtex-key bibtex)))
+    (if bibtex-key
+        `("biblio" ,bibtex-key)
+      '("biblio"))))
+
+(defun namilus-denote-bibtex-org-block (bibtex)
+  "Returns a string representing an org `bibtex' source block
+encompassing BIBTEX, a string of a bibtex entry."
+  (concat "#+begin_src bibtex\n" bibtex "\n#+end_src"))
+
+
+(defun namilus-denote-org-capture-biblio ()
+  "Ask the user for a bibtex entry, title, and keywords, and creates a denote note template with:
+
+1. The bibtex included inside an org bibtex source block.
+
+2. The keyword \"biblio\" and the bibtex entry's sanitised key as
+part of the denote file's tags. If the bibtex entry entered by
+the user is empty or doesn't match the regexp, only the
+\"biblio\" keyword is added, along with whatever other keywords
+entered by the user."
+  (let* ((bibtex (namilus-denote-bibtex-prompt))
+         (title (denote-title-prompt (namilus-denote-bibtex-title bibtex)))
+         (keywords (append (denote-keywords-prompt) (namilus-denote-biblio-keywords bibtex)))
+         (date (current-time))
+         (front-matter (denote--format-front-matter title date keywords (format-time-string denote-date-identifier-format date) "" 'org)))
+    (setq denote-last-path
+          (denote-format-file-name (file-name-as-directory (denote-directory))
+                                   (format-time-string denote-date-identifier-format)
+                                   keywords title ".org" nil))
+
+    (denote--keywords-add-to-history keywords)
+    (concat front-matter (namilus-denote-bibtex-org-block bibtex))))
+
+(add-to-list 'org-capture-templates
+             '("B" "Bibliography (with Denote) BibTeX" plain
+               (file denote-last-path)
+                      #'namilus-denote-org-capture-biblio
+                      :no-save t
+                      :immediate-finish nil
+                      :kill-buffer t
+                      :jump-to-captured nil))
+
+(defun namilus-denote-biblio-read-bibtex (file)
+  "Reads the bibtex entry from a given Denote FILE. Does so by
+searching for a org bibtex source block and returns the contents
+therein."
+  (with-temp-buffer
+    (insert-file-contents file)
+    (let ((contents (buffer-string)))
+      (when (string-match "#\\+begin_src.*bibtex\\(\\(.*\n\\)*\\)#\\+end_src" contents)
+        (match-string-no-properties 1 contents)))))
+
+
+(defun namilus-denote-generate-bibliography (denote-biblio-files bibliography-file)
+  "Writes the org bibtex source blocks located in each of
+DENOTE-BIBLIO-FILES to BIBLIOGRAPHY-FILE."
+  (with-temp-file bibliography-file
+    (dolist (file denote-biblio-files)
+      (let ((bibtex (namilus-denote-biblio-read-bibtex file)))
+        (if bibtex
+            (insert bibtex))))))
+
+(defun namilus-denote-bibliography-file-prompt (&optional default-bibliography-file)
+  "Ask the user for a bibliography file."
+  (let* ((def default-bibliography-file)
+         (format (if (and def (not (string-empty-p def)))
+                     (format "Bibliography file [%s]: " def)
+                   "Bibliography file: ")))
+    (expand-file-name (read-file-name format nil def))))
+
+
+(defun namilus-denote-dired-generate-bibliography-from-marked ()
+  (interactive)
+  (namilus-denote-generate-bibliography (dired-get-marked-files)
+                                        (namilus-denote-bibliography-file-prompt)))
+
+(setq org-cite-global-bibliography `(,(expand-file-name "/home/matthias/Documents/notes/references/Literatur.bib")))
+
+(defun namilus-refresh-bibliography ()
+  "Refreshes `org-cite-global-bibliography' with all the _biblio
+  tagged files in my zettelkasten"
+  (interactive)
+  (let ((biblio-files (denote-directory-files-matching-regexp "_biblio")))
+    (namilus-denote-generate-bibliography biblio-files (car org-cite-global-bibliography))))
+
+(provide 'denote-biblio)
+;;; denote-biblio.el ends here
+#+end_src
+
+Ich habe dieses Paket immer wieder gegen eine neue Version von =denote.el= getestet und dem Autor Rückmeldung erstattet. Er hat prompt reagiert und das Paket angepasst.
+
+* =biblio.el= custom filter-mode
+
+"Bücher" (und Monographien) sind voreingestellt. Nach der Suche drücke ich "P" und alle Buchkapitel sind weg - Staubsauger!
+
+#+begin_src emacs-lisp
+(defun my/biblio-manual-buffer-purge ()
+  "Löscht manuell und sofort alle Kapitel-Blöcke aus dem aktuellen Suchpuffer."
+  (interactive)
+  (when (derived-mode-p 'biblio-selection-mode)
+    (let ((inhibit-read-only t)
+          (hat-geloescht nil))
+      (save-excursion
+        (goto-char (point-min))
+        ;; Sucht nach der Zeile aus deinem Screenshot
+        (while (re-search-forward "^[ \t]*Type: \\(book-chapter\\|book-section\\)" nil t)
+          (setq hat-geloescht t)
+          (save-excursion
+            ;; Springe zum Anfang des Eintrags (das "> ")
+            (if (re-search-backward "^> " nil t)
+                (let ((beg (point)))
+                  (forward-line 1)
+                  ;; Finde das nächste "> " oder das Buffer-Ende
+                  (if (re-search-forward "^> " nil t)
+                      (delete-region beg (match-beginning 0))
+                    (delete-region beg (point-max))))))))
+      (if hat-geloescht
+          (message "Suchpuffer erfolgreich von Kapiteln bereinigt!")
+        (message "Keine Kapitel zum Putzen gefunden.")))))
+
+(defun my/biblio-setup-keys-and-cleaner ()
+  "Aktiviert die Tasten A, C-c C-a und P (für den Staubsauger) im Suchpuffer."
+  (local-set-key (kbd "A") #'my/biblio-append-to-global-file)
+  (local-set-key (kbd "C-c C-a") #'my/biblio-append-to-global-file)
+  ;; 'P' drückt den Staubsauger manuell
+  (local-set-key (kbd "P") #'my/biblio-manual-buffer-purge))
+
+;; Klinkt die Tastensteuerung in das Core-Framework ein
+(with-eval-after-load 'biblio-core
+  (add-hook 'biblio-selection-mode-hook #'my/biblio-setup-keys-and-cleaner))
+#+end_src
+
+* =biblio.el= add bibkey to =Literatur.bib=-file
+
+Im Suchbuffer von =biblio.el= kann ich durch eine Tastenkombination den Bibkey eines Suchergebnisses auslesen und in die =Literatur.el= schreiben.
+
+#+begin_src emacs-lisp
+(defun my/biblio-append-to-global-file ()
+  "Kopiert den Eintrag, hängt ihn an die .bib-Datei an und putzt danach alle Kapitel weg."
+  (interactive)
+  ;; 1. Eintrag kopieren (dein funktionierender Weg via Taste 'c')
+  (let ((current-prefix-arg nil))
+    (call-interactively (key-binding "c")))
+  
+  ;; 2. In Datei schreiben und direkt danach den Suchbuffer putzen
+  (run-with-timer 0.1 nil
+                  (lambda (ziel-datei)
+                    ;; Wir holen den Text explizit aus dem Kill-Ring und nennen die Variable eindeutig
+                    (let ((bibtex-text (car kill-ring)))
+                      (if (and bibtex-text (stringp bibtex-text) (string-match-p "@" bibtex-text))
+                          (progn
+                            (with-current-buffer (find-file-noselect ziel-datei)
+                              (goto-char (point-max))
+                              (unless (bobp) (insert "\n"))
+                              (insert bibtex-text "\n")
+                              (save-buffer))
+                            (message "Erfolgreich gespeichert! Putze Suchpuffer...")
+                            (my/biblio-manual-buffer-purge))
+                        (message "Warte auf BibTeX-Daten..."))))
+                  mein-bib-file-pfad))
+#+end_src
+
+* =my-citar-add-and-note.el= 
+
+Bibkey data händisch eingeben (Autor, Titel, ...) - bibkey wird in =Literatur.bib=-Datei eingetragen und gleichzeitig eine =citar-denote=-datei erstellt.
+
+#+begin_src emacs-lisp
+(defun my-citar-add-and-note ()
+  "Erstellt sofort und ohne Internet-Abhängigkeit einen sauberen BibTeX-Eintrag und eine Denote-Notiz.
+Unterstützt Monographien (@book) sowie Sammelwerke und herausgegebene Werke."
+  (interactive)
+  (require 'citar) (require 'citar-denote) (require 'denote)
+
+  (unless (and (boundp 'citar-bibliography) citar-bibliography (car citar-bibliography))
+    (error "Konfigurationsfehler: 'citar-bibliography' ist leer oder nicht definiert!"))
+
+  (let* ((bib-file (expand-file-name (car citar-bibliography)))
+         (is-sammelwerk (y-or-n-p "Handelt es sich um ein Sammelwerk / Werk mit Herausgeber? "))
+         (input-author (substring-no-properties (read-string (if is-sammelwerk "Autor des Kapitels/Textes (optional): " "Autor (z.B. Mausfeld): "))))
+         (b-title (substring-no-properties (read-string (if is-sammelwerk "Titel des Kapitels/Gesprächs (z.B. Gespräche): " "Buchtitel: "))))
+         (input-editor (if is-sammelwerk (substring-no-properties (read-string "Herausgeber des Buchs (z.B. Konfuzius): ")) ""))
+         (booktitle (if is-sammelwerk (substring-no-properties (read-string "Gesamttitel des Sammelwerks (optional, Enter für Buchtitel): ")) ""))
+         (publisher (substring-no-properties (read-string "Verlag (optional): ")))
+         (location (substring-no-properties (read-string "Ort (optional): ")))
+         (bib-year (substring-no-properties (read-string "Jahr (z.B. 2024): ")))
+         (pages (if is-sammelwerk (substring-no-properties (read-string "Seiten von-bis (optional, z.B. 20-45): ")) ""))
+         (publisher (if (string-empty-p publisher) "Unknown Publisher" publisher))
+         (bib-year (if (string-empty-p bib-year) "2026" bib-year))
+         (booktitle (if (and is-sammelwerk (string-empty-p booktitle)) b-title booktitle))
+         (key-base (if (string-empty-p input-author)
+                       (if (string-empty-p input-editor) "anonymous" input-editor)
+                     input-author))
+         (raw-citekey (downcase (replace-regexp-in-string "[^A-Za-z0-9]" ""
+                                                          (if (string-match-p "," key-base)
+                                                              (car (split-string key-base ","))
+                                                            (car (last (split-string key-base " ")))))))
+         (citekey (format "%s.%s" raw-citekey bib-year))
+         (bibtex-string
+          (if (not is-sammelwerk)
+              (format "\n@book{%s,\n  author = {%s},\n  title = {%s},\n  publisher = {%s},\n  address = {%s},\n  year = {%s}\n}\n"
+                      citekey input-author b-title publisher location bib-year)
+            (concat (format "\n@incollection{%s,\n" citekey)
+                    (unless (string-empty-p input-author) (format "  author = {%s},\n" input-author))
+                    (format "  title = {%s},\n" b-title)
+                    (format "  editor = {%s},\n" input-editor)
+                    (format "  booktitle = {%s},\n" booktitle)
+                    (format "  publisher = {%s},\n" publisher)
+                    (unless (string-empty-p location) (format "  address = {%s},\n" location))
+                    (format "  year = {%s},\n" bib-year)
+                    (unless (string-empty-p pages) (format "  pages = {%s},\n" pages))
+                    "}\n"))))
+
+    (unless (file-exists-p bib-file)
+      (error "Datei-Fehler: Die Bib-Datei '%s' existiert nicht!" bib-file))
+
+    (message "Generiere lokalen Literatureintrag...")
+    (with-temp-buffer
+      (insert bibtex-string)
+      (append-to-file (point-min) (point-max) bib-file))
+
+    (setq citar-cache--bibliography nil)
+
+    (let* ((note-path (denote b-title (list "bib" (if is-sammelwerk "chapter" "book") citekey) 'org))
+           (note-buffer (find-file-noselect note-path)))
+      (with-current-buffer note-buffer
+        (goto-char (point-min))
+        (insert (format "#+bibliography: %s\n" bib-file))
+        (goto-char (point-max))
+        (insert (concat "\nRef: [cite:@" citekey "]\n\n* Kernaussagen\n\n\n* Wichtige Zitate\n\n"))
+        (save-buffer))
+      (switch-to-buffer note-buffer))
+    (message "Erfolgreich: Lokales Werk '%s' wurde mit Key [%s] angelegt!" b-title citekey)))
+
+(define-key global-map (kbd "C-c B") #'my-citar-add-and-note)
+#+end_src
+
+* Fazit
+
+Ich muss zugeben, dass ich (noch) zu wenig von Emacs Lisp verstehe; daher sind einige der Codeblocks mit Hilfe von AI entstanden. So ziemlich alle haben nicht auf Anhieb funktioniert; einmal ist mir fast die gesamte =init.el= kaputt gegangen und ich konnte mit Müh und Not im letzten Augenblick retten. 
+
+Ich habe aber trotz der Hilfe durch AI einiges von Emacs Lisp gelernt und verstanden; zumindest reifte in mir der feste Entschluss, Emacs und sein eingebautes Tutorial zu konsultieren und durchzuarbeiten. Es ist noch immer die beste Art, Emacs Lisp zu lernen. Ich habe gehört, man profitiert und lernt von Emacs Lisp mehr als von jeder anderen Computersprache.
+
