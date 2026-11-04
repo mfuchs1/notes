@@ -1,0 +1,77 @@
+#+title:      Zusammenfassung schreiben
+#+date:       [2026-11-04 Mi 21:52]
+#+filetags:   :schule:
+#+identifier: 20261104T215252
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/Zusammenfassung.html
+
+In der 5. Klasse Gymnasium (9. Schulstufe) steigst du gerade erst in die Oberstufe ein. Die Textsorte Zusammenfassung wird hier neu gelernt und ist noch deutlich kürzer (meistens ca. 150 bis 200 Wörter). Es geht jetzt vor allem darum, den Text logisch zu gliedern und die eigene Meinung komplett wegzulassen.
+
+Hier sind drei Übungen, die genau auf das Niveau der 5. Klasse abgestimmt sind.
+
+* Übung 1: Den perfekten Einleitungssatz bauen
+
+In der 5. Klasse lernst du den „Basissatz“. Er nennt die wichtigsten Fakten des Textes am Anfang.
+Deine Aufgabe:
+Bringe diese ungeordneten Bausteine in einen einzigen, gut lesbaren Satz:
+- Autor: Julian Becker
+- Titel: „Warum wir wieder mehr Briefe schreiben sollten“
+- Wo erschienen: In der Jugendzeitschrift Spick
+- Wann erschienen: März 2026
+- Hauptthema: Die Vorteile von handschriftlichen Briefen im Vergleich zu schnellen WhatsApp-Nachrichten.
+
+* Übung 2: Die „Wichtig-oder-Unwichtig-Maschine“
+
+In der Unterstufe durfte man oft noch Beispiele mitschreiben. In der 5. Klasse fliegen Beispiele, Gefühle und direkte Reden komplett raus.
+
+Deine Aufgabe:
+Lies den folgenden Abschnitt. Welche eine Kernaussage ist für die Zusammenfassung wichtig? Streiche gedanklich die Beispiele weg.
+
+„Viele Haustiere tun der Psyche von Jugendlichen gut. Wenn man nach einem anstrengenden Schultag nach Hause kommt, ignoriert zu werden droht oder eine schlechte Note in Mathe kassiert hat, ist der Hund trotzdem da und freut sich. Das Streicheln eines Haustieres senkt nachweislich den Stresspegel und hilft dabei, Einsamkeit zu bewältigen.“
+
+* Übung 3: Eigenen Wortworte statt „Abschreiben“
+
+Ein häufiger Fehler in der 5. Klasse ist es, Sätze einfach aus dem Text zu kopieren. Du musst den Inhalt in eigenen Worten ausdrücken.
+
+Deine Aufgabe:
+Formuliere diesen Satz so um, dass die Bedeutung gleich bleibt, du aber andere Wörter benutzt:
+„Da immer mehr Jugendliche ihr Taschengeld für teure Markenkleidung ausgeben, bleibt kaum noch Geld für Kinobesuche oder andere Freizeitaktivitäten übrig.“
+
+* Die 3 goldenen Regeln für die 5. Klasse:
+
+1. Kein „Ich“: Schreibe niemals „Ich finde“ oder „Der Text gefällt mir“.
+2. Gegenwart (Präsens): Schreibe den gesamten Text in der Mitvergangenheit aufgeschriebene Dinge in die Gegenwart um (z.B. „Der Autor erklärt...“ statt „Der Autor erklärte...“).
+3. Verbindungswörter nutzen: Verwende Wörter wie Außerdem, Des Weiteren, Dadurch, Auf der einen Seite... statt immer nur „Und dann“.
+
+
+* Grundregeln der Zusammenfassung
+
+- Zeitform: Präsens (Gegenwart).
+- Perspektive & Stil: Sachlich, neutral, objektiv; keine eigene Wertung oder Interpretation im Hauptteil.
+- Sprache: Eigene Worte verwenden (keine direkten Textzitate oder Satzkopien), indirekte Rede nutzen, wenn Meinungen oder Aussagen von Personen wiedergegeben werden.
+- Aufbau:
+  - Einleitung: Basisinformationen nennen (Textsorte, Titel, Autor/Autorin, Erscheinungsort/Datum bzw. Quelle und das zentrale Thema).
+  - Hauptteil: Die wesentlichen Kernaussagen des Textes in sinnvoller (meist chronologischer oder temabezogener) Reihenfolge wiedergeben.
+  - Schluss: Je nach Aufgabenstellung entfällt er oder fasst den Schlusspunkt bzw. die Intention des Autors knapp zusammen.
+
+
+* Schritt-für-Schritt-Vorgehensweise (Vorbereitung)
+
+1. Erstes Lesen: Verschaffe dir einen Gesamtüberblick über das Thema.
+2. Zweites Lesen: Markiere die wichtigsten Kernaussagen und Schlüsselbegriffe.
+3. Sinnabschnitte bilden: Unterteile den Text in Abschnitte und formuliere für jeden Abschnitt eine kurze Überschrift oder Randnotiz.
+4. Ausformulieren: Schreibe die Zusammenfassung mithilfe deiner Stichpunkte flüssig in eigenen Worten.
+5. Korrektur: Prüfe auf Präsens, Vollständigkeit der Kernaussagen, neutrale Wortwahl und die Einhaltung der Längenvorgaben.
+
+* Übungen
+[[https://www.deutsche-grammatik.net/textsorten-srdp/zusammenfassung/zusammenfassung-%C3%BCbungen/]]
+
+[[https://www.iqs.gv.at/downloads/archiv-des-bifie/unterstuetzende-materialien-zu-bildungsstandards/aufgabenbeispiele-deutsch]]
+
+[[https://www.sofatutor.at/deutsch/klasse-5-oberstufe]]
