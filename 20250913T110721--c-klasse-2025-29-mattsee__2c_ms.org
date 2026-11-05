@@ -8,7 +8,7 @@
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/Documents/exports/2c-Mattsee.html
+#+export_file_name: ~/Documents/exports/2c Mattsee.html
 
 * Jahresplanung
 

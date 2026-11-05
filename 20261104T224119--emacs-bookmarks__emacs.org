@@ -1,0 +1,97 @@
+#+title:      Emacs bookmarks
+#+date:       [2026-11-04 Mi 22:41]
+#+filetags:   :emacs:
+#+identifier: 20261104T224119
+
+
+* Die 3 wichtigsten Befehle
+
+Du musst dir für den Anfang nur drei Tastenkombinationen merken:
+1. ~C-x r m~ (Bookmark setzen): Erstellt ein Lesezeichen an der aktuellen Cursorposition. Emacs fragt dich im Minibuffer nach einem Namen (Vorschlag ist meist der Dateiname, du kannst ihn aber frei wählen, z. B. projekt-x-notizen).
+2. ~C-x r b~ (Bookmark anspringen): Öffnet die verknüpfte Datei und springt exakt zu der Zeile/Spalte, an der du das Lesezeichen gesetzt hast. Hier greift auch deine consult-Konfiguration: Wenn du consult nutzt, wird diese Liste wunderschön live durchsuchbar!
+3. ~C-x r l~ (Bookmark-Liste öffnen): Zeigt eine Übersicht aller deiner Lesezeichen in einem eigenen Puffer, wo du sie verwalten, umbenennen oder löschen kannst.
+
+* Warum nutzen Profis das statt consult-line?
+
+- Projekt-Einstiegspunkte: Wenn du morgens Emacs startest, tippst du einfach ~C-x r b~ projekt-start und bist sofort in der richtigen Datei an der richtigen Zeile. Du musst die Datei nicht erst suchen und öffnen.
+- Dateiübergreifendes Gedächtnis: Du kannst Lesezeichen in 20 verschiedenen Dateien haben. Mit ~C-x r b~ tippst du einfach blind den Namen des Lesezeichens und Emacs wechselt die Datei für dich.
+- Nicht nur für Text: Bookmarks in Emacs können sich auch Dired-Verzeichnisse (Ordner), Info-Seiten oder sogar spezifische Zustände von org-agenda merken.
+
+* Profi-Tipp für deine Konfiguration
+
+Standardmäßig speichert Emacs Lesezeichen erst, wenn du es beendest. Stürzt Emacs ab, sind sie weg. Um sie sofort automatisch zu speichern, füge dies zu deiner init.el hinzu:
+
+#+begin_src emacs-lisp
+(setq bookmark-save-flag 1)
+#+end_src
+
+Wenn du ohnehin das consult-Paket nutzt, stelle sicher, dass du das Lesezeichen-Springen mal ausprobierst – die Kombination aus Emacs-Bookmarks und der interaktiven Consult-Vorschau ist extrem flüssig.
+
+Das ist eine sehr gute Entscheidung. Wenn save-place-mode dich damals genervt hat (was völlig verständlich ist, da er unvorhersehbar sein kann), sind Bookmarks in Kombination mit consult-bookmark die perfekte, kontrollierte Alternative. Du bestimmst, wo die Ankerpunkte liegen, und consult liefert dir die geniale Live-Vorschau dazu.
+
+* 3 kurze Praxistipps
+
+Hier sind 3 kurze Praxistipps, um den Start mit consult-bookmark so flüssig wie möglich zu machen:
+
+1. Befehl direkt an einen Shortcut binden
+
+Statt des Standardbefehls ~C-x r b~ solltest du direkt =consult-bookmark= auf einen schnellen Shortcut legen. In deiner Konfiguration (z. B. mit use-package) sieht das meist so aus:
+
+#+begin_src emacs-lisp
+(keymap-global-set "C-x r b" #'consult-bookmark) 
+;; Oder auf einen noch schnelleren Keybind wie M-g b oder M-o b
+#+end_src
+
+2. Nutze die integrierte Vorschau (Preview)
+
+Das Geniale an consult-bookmark ist, dass du beim Durchsuchen deiner Lesezeichen-Liste im Minibuffer nicht einmal Enter drücken musst, um zu sehen, was dort steht. Wenn du dich mit den Pfeiltasten oder ~C-n~ / ~C-p~ durch die Liste bewegst, springt Emacs im Hintergrund bereits visuell an die Stelle im Code/Text. Drückst du ~C-g~ (Abbrechen), bist du sofort wieder da, wo du angefangen hast.
+
+3. Bookmarks als "Sprungbrett" für consult-line nutzen
+
+Die beiden Methoden schließen sich nicht aus, sie ergänzen sich perfekt:
+- Du nutzt ein Bookmark, um überhaupt erst in die richtige (evtl. riesige) Datei und die grobe Region zu springen.
+- Dort angekommen, feilst du dich mit consult-line sekundenschnell an die exakte Zeile heran.
+
+Probier es einfach mal mit 2–3 deiner meistgenutzten Dateien oder Notizblöcke aus. Du wirst schnell merken, wie viel "Suche" dir das im Alltag abnimmt.
+
+* Bookmarks und =org-agenda=
+
+Das Schöne an Emacs ist, dass ein „Lesezeichen“ nicht nur eine Zeile in einer Textdatei sein muss. Emacs-Bookmarks sind intelligent: Sie erkennen, in welchem Modus du dich befindest, und speichern den gesamten Zustand dieses Puffers.
+Wenn du in der Org-Agenda bist und dort ein Bookmark setzt, speichert Emacs nicht einfach nur die Datei agenda.org, sondern deine exakt konfigurierte Agenda-Ansicht samt Suchfiltern.
+Das Zusammenspiel funktioniert auf zwei geniale Arten:
+
+1. Speichern einer spezifischen Agenda-Ansicht (Standard-Weg)
+
+Angenommen, du hast eine komplexe Agenda-Ansicht geöffnet, zum Beispiel:
+- Deine Wochenübersicht (C-a a)
+- Gefiltert nach einer bestimmten Kategorie oder einem Tag (/ TAB computer)
+- Mit einer bestimmten logischen Ansicht (z. B. nur TODOs eingeblendet)
+
+Wenn du jetzt C-x r m drückst und dieses Lesezeichen agenda-computer nennst, passiert beim nächsten Aufruf über consult-bookmark Magie:
+- Emacs öffnet nicht einfach eine Textdatei.
+- Es generiert im Hintergrund die Org-Agenda neu, wendet deine Filter an und zeigt dir exakt diese Ansicht.
+
+2. Schnellsprung zu bestimmten Überschriften (Org-Refile-Ersatz)
+
+Wenn du ein Bookmark direkt auf eine Überschrift innerhalb einer deiner Org-Dateien setzt (z. B. auf das Projekt [#A] Masterarbeit oder deine Inbox), kannst du dieses Bookmark auch nutzen, um Einträge aus der Agenda heraus blitzschnell dorthin zu verschieben („Refile“).
+Da du consult-bookmark nutzt, tippst du einfach C-c C-w (für Refile) in der Agenda und wählst dein Bookmark aus der Liste.
+
+* Der „One-Key“-Profi-Tipp: Favoriten auf eine Taste legen
+
+Weil du vorhin meintest, das wäre für später interessant: Wenn du jetzt deine wichtigste Agenda-Ansicht (oder deine todo.org) als Bookmark gespeichert hast, willst du dafür oft nicht einmal mehr consult-bookmark bemühen.
+
+Du kannst ein Bookmark direkt auf eine Funktion oder Taste legen. Schreib das in deine init.el:
+
+#+begin_src emacs-lisp
+;; Direktes Anspringen eines Bookmarks per Kurzbefehl
+(defun my-jump-to-main-agenda ()
+  "Springt sofort zum Bookmark 'Haupt-Agenda'."
+  (interactive)
+  (bookmark-jump "Haupt-Agenda")) ; Ersetze 'Haupt-Agenda' mit deinem echten Bookmark-Namen
+
+;; Auf eine freie F-Taste oder eine Tastenkombination legen
+(keymap-global-set "<f5>" #'my-jump-to-main-agenda)
+#+end_src
+
+Wenn du jetzt morgens Emacs startest, drückst du einfach F5 und zack – deine perfekt gefilterte Org-Agenda steht vor dir.
+Probier mal aus, ein Bookmark in einer geöffneten Agenda zu setzen. 
