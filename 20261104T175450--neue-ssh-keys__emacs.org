@@ -15,7 +15,30 @@
 
 * Auf einmal Panik
 
-Nachdem ich es geschafft habe, dass =hugo= die Anführungszeichen korrekt darstellt, gab es Probleme mit den =ssh-keys=. 
+Nachdem ich es geschafft habe, dass =hugo= die Anführungszeichen korrekt darstellt, gab es Probleme mit den =ssh-keys=.
+
+Die relevanten Einstellungen in der =hugo.toml=
+#+begin_src toml
+locale = 'de'
+defaultContentLanguage = 'de'
+
+[markup]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.typographer]
+        disable = false
+        leftDoubleQuote = "„"
+        rightDoubleQuote = "“"
+        leftSingleQuote = "‚"
+        rightSingleQuote = "‘"
+#+end_src
+
+In den =org=-Dateien habe ich folgende Optionen ergänzt:
+
+#+begin_src org-mode
+#+language: de
+#+options: smart-quotes:t
+#+HUGO_LOCALE: de  
+#+end_src
 
 * Dann Ruhe
 
@@ -23,7 +46,7 @@ Nach einigen erfolglosen Versuchen habe ich neue =ssh-keys= erstellt und das dep
 
 ~magit~ kann dann ungestört auf diese =config=-Datei zugreifen und den dort konfigurierten =ssh-key= für das =org=-Repo.
 
-* Das Skript
+* Das Blog Skript
 
 #+begin_src bash
 #!/bin/bash
