@@ -1,0 +1,20 @@
+#+title:      Das Gute und das Böse
+#+date:       [2026-11-08 So 20:22]
+#+filetags:   :ethik:philosophy:
+#+identifier: 20261108T202202
+
+Roger Köppel: "Das überschießende Gute ist das Böse."
+
+Der bekannte Ausspruch lautet eigentlich: 
+
+#+begin_quote
+ „Das Bessere ist der Feind des Guten.“ 
+#+end_quote
+
+– eine Weisheit, die vor allem durch Voltaire populär gemacht wurde.
+
+Ihre Variationen berühren einen tiefen philosophischen und psychologischen Kern:
+
+- Das Bessere ist der Feind des Guten :: Wenn man krampfhaft nach Perfektion strebt, zerstört man oft das, was bereits gut und funktionstüchtig ist (z. B. durch ständige Optimierung, Überplanung oder Zögern). Man fängt gar nicht erst an oder lähmt bestehende Abläufe, weil es ja noch "besser" sein könnte.
+
+- Das überschießende Gute ist böse :: Dies beschreibt den Gedanken der Ethik (etwa bei Aristoteles mit der Goldenen Mitte oder in der Dialektik), dass jede Tugend ins Extrem getrieben ins Gegenteil umschlägt. Zu viel Fürsorge wird zu Bevormundung, zu viel Ehrlichkeit zu Verletzung, absoluter Perfektionismus zu Handlungsunfähigkeit oder Unmenschlichkeit.

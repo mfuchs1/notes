@@ -1,0 +1,42 @@
+#+title:      Lego Galaxy Commander MOC
+#+date:       [2026-11-08 So 23:04]
+#+filetags:   :lego:
+#+identifier: 20261108T230459
+
+[[https://rebrickable.com/mocs/MOC-25886/apenello/galaxy-commander-comes-home]]
+
+[[file:~/Downloads/MOC-25886_apenello_Galaxy_Commander_6980_Comes_Home_FINAL.pdf]]
+
+Anleitung lokal: [[file:~/Downloads/MOC-25886_apenello_Galaxy_Commander_6980_Comes_Home_FINAL.pdf]]
+
+Das MOC-25886 Galaxy Commander Comes Home auf Rebrickable ist für dein Vorhaben ideal, da du keines deiner gebauten 10497-Modelle zerlegen musst. Mit 1.004 modernen Standardteilen ist es deutlich größer und detailreicher als das 1983er-Original.
+
+* So setzt du das Projekt am günstigsten um
+
+- Kostenlose Anleitung & Teileliste: Auf der Rebrickable-Projektseite von apenello kannst du die komplette PDF-Bauanleitung (Galaxy_Commander_6980_Comes_Home_FINAL.pdf) gratis herunterladen und die Teileliste direkt per Klick an eine BrickLink-Wanted-List übergeben.
+
+- Großer Kostenvorteil gegenüber dem 1983er-Set: Während beim alten Original (Set 6980) seltene Vintage-Teile aus den 1980ern den Einzelteilpreis in die Höhe treiben, wurde MOC-25886 gezielt mit heutigen Elementen entworfen. (Hinweis: Da die direkte Teileliste der Seite technisch nicht ausgelesen werden konnte, prüfe beim Export kurz die transparent-grünen Cockpit- und Dachscheiben – diese machen meist den größten Anteil der Bestellkosten aus.)
+
+- Eigener Steinefundus: Falls du auf Rebrickable bereits deinen freien Teilebestand eingetragen hast, rechnet dir die Plattform automatisch aus, welche der 1.004 Steine du schon zu Hause hast und was du wirklich nachbestellen musst.
+
+* Die 5 klassischen Farben und ihre Aufgaben
+
+- Rot (ab 1978) – Piloten: Sie steuern die großen Raumschiffe und Gleiter.
+- Weiß (ab 1978) – Erkunder: Sie sind für Außeneinsätze auf fremden Planeten und Bodenfahrzeuge zuständig.
+- Gelb (ab 1982) – Wissenschaftler: Sie arbeiten in Forschungsstationen, Laboren und an Analysegeräten.
+- Blau (ab 1984) – Sicherheit: Sie übernehmen Schutz- und Überwachungsaufgaben auf Basen und Außenposten.
+- Schwarz (ab 1984) – Spione & Spezialkräfte: Sie sind für verdeckte Aufklärung und Spezialmissionen gedacht.
+
+1. Teilenummern für moderne Classic-Space-Astronauten
+
+Bei den Neuauflagen (ab 2019, z. B. aus 70841 oder 10497) hat LEGO den klassischen Helm durch die stabilere Version mit breiterem Kinnriemen ersetzt und das Classic-Space-Logo minimal höher auf den Torso gedruckt (erkennbar am Zusatz new2 auf BrickLink):
+
+- Weiß (2× empfohlen): Figur sp006new2 (bestehend aus Torso 973p90new2c01, Sauerstoffflaschen 3838, Helm 50665 / 193a2 und klassischem Kopf 3626cp01).
+- Rot (1× empfohlen): Figur sp005new2 (mit Torso 973p90new2c03).
+- Gelb (2× empfohlen): Figur sp007new2 (mit Torso 973p90new2c04).
+- Blau (1× optional als Commander): Figur sp004new2 (mit Torso 973p90new2c02 – bekannt als Benny ohne beschädigten Druck aus Set 70841).
+
+2. Fehlende Bauplatten für deine Beta 1 Command Base (Set 6970)
+
+- 32×32 Krater-Bauplatte: Teilenummer 3947a in Light Gray (Baseplate, Raised 32 x 32 Crater Plate without Crater Studs). Die Variante 3947a ohne Noppen im großen Krater ist die historisch korrekte Platte für die Space-Sets von 1979 bis 1988.
+- 32×32 Landeplatte (falls du eine zweite brauchst): Teilenummer 3947 bzw. die bedruckte Straßen-/Landeplatte 6099p02 (oder schlicht eine glatte graue 32×32 Grundplatte 3811 in Light Gray als preiswerte Alternative).

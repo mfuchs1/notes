@@ -1,0 +1,28 @@
+#+title:      Neuer Laptop
+#+date:       [2026-11-08 So 14:57]
+#+filetags:   :emacs:
+#+identifier: 20261108T145739
+
+[[https://www.tuxedocomputers.com/de/TUXEDO-InfinityBook-Pro-15-Gen10-AMD.tuxedo]]
+
+* Empfohlene AMD-Konfiguration (ca. 1.380–1.430 €)
+
+Im Konfigurator des TUXEDO InfinityBook Pro 15 Gen 10 AMD erreichst du mit dieser Zusammenstellung das beste Preis-Leistungs-Verhältnis für Emacs, Programmieren und KDE:
+
+- Prozessor (CPU): AMD Ryzen AI 7 350 (8 Kerne / 16 Threads, integrierte Radeon 860M) – reicht für Kompilieren, KDE Plasma, Browsen und kleine Spiele locker aus und spart gegenüber dem Ryzen AI 9 Aufpreis. (Tipp: Falls der noch günstigere Ryzen 7 H 255 im Konfigurator wählbar ist, sparst du noch einmal ca. 50–80 € bei nahezu gleicher Alltagsleistung.) - Mal schauen, was die beiden stärkeren CPUs kosten?
+
+- Arbeitsspeicher (RAM): 32 GB DDR5-5600 (2× 16 GB im Dual-Channel) – wichtig für die volle Grafikleistung und flüssiges Multitasking.
+
+- SSD: 1 TB NVMe PCIe 4.0 (z. B. Samsung oder Crucial) – ein zweiter M.2-Steckplatz bleibt für später frei.
+
+- Display: 15,3" WQXGA (2560 × 1600), 500 Nits, 100 % sRGB, matt (ist immer ohne Aufpreis verbaut).
+
+- Betriebssystem: TUXEDO OS (kostenlos vorinstalliert – basiert auf Ubuntu LTS mit aktuellem Kernel und frischem KDE Plasma).
+
+* Weitere Vorteile
+
+- Linux: Unterbau ist Tuxedo OS (Ubuntu LTS); 
+- KDE Plasma: neueste Version
+- Perfektes Zusammenspiel zwischen Hard- und Software
+- Das Gerät ist erweiterbar - Akku, RAM, SSD, ... sind nicht verlötet. Auch leichter Zugang zum Reinigen der Lüfter.
+
