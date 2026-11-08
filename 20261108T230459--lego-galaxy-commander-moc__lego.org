@@ -3,6 +3,8 @@
 #+filetags:   :lego:
 #+identifier: 20261108T230459
 
+* MOC-25886 - Galaxy Commander Comes Home
+
 [[https://rebrickable.com/mocs/MOC-25886/apenello/galaxy-commander-comes-home]]
 
 [[file:~/Downloads/MOC-25886_apenello_Galaxy_Commander_6980_Comes_Home_FINAL.pdf]]
@@ -27,7 +29,7 @@ Das MOC-25886 Galaxy Commander Comes Home auf Rebrickable ist für dein Vorhaben
 - Blau (ab 1984) – Sicherheit: Sie übernehmen Schutz- und Überwachungsaufgaben auf Basen und Außenposten.
 - Schwarz (ab 1984) – Spione & Spezialkräfte: Sie sind für verdeckte Aufklärung und Spezialmissionen gedacht.
 
-1. Teilenummern für moderne Classic-Space-Astronauten
+* Teilenummern für moderne Classic-Space-Astronauten
 
 Bei den Neuauflagen (ab 2019, z. B. aus 70841 oder 10497) hat LEGO den klassischen Helm durch die stabilere Version mit breiterem Kinnriemen ersetzt und das Classic-Space-Logo minimal höher auf den Torso gedruckt (erkennbar am Zusatz new2 auf BrickLink):
 
@@ -36,7 +38,24 @@ Bei den Neuauflagen (ab 2019, z. B. aus 70841 oder 10497) hat LEGO den klassisch
 - Gelb (2× empfohlen): Figur sp007new2 (mit Torso 973p90new2c04).
 - Blau (1× optional als Commander): Figur sp004new2 (mit Torso 973p90new2c02 – bekannt als Benny ohne beschädigten Druck aus Set 70841).
 
-2. Fehlende Bauplatten für deine Beta 1 Command Base (Set 6970)
+* Fehlende Bauplatten für deine Beta 1 Command Base (Set 6970)
 
-- 32×32 Krater-Bauplatte: Teilenummer 3947a in Light Gray (Baseplate, Raised 32 x 32 Crater Plate without Crater Studs). Die Variante 3947a ohne Noppen im großen Krater ist die historisch korrekte Platte für die Space-Sets von 1979 bis 1988.
+- 32×32 Krater-Bauplatte (x2): Teilenummer 3947a in Light Gray (Baseplate, Raised 32 x 32 Crater Plate without Crater Studs). Die Variante 3947a ohne Noppen im großen Krater ist die historisch korrekte Platte für die Space-Sets von 1979 bis 1988.
 - 32×32 Landeplatte (falls du eine zweite brauchst): Teilenummer 3947 bzw. die bedruckte Straßen-/Landeplatte 6099p02 (oder schlicht eine glatte graue 32×32 Grundplatte 3811 in Light Gray als preiswerte Alternative).
+
+
+* Große Trans-Dark Blue-Scheiben des Galaxy Commander
+
+Laut der BrickLink-Teileliste zu Set 6980 sorgen diese vier großen Elemente für den typischen Look von Cockpit und Forschungslabor:
+- 4474 (2×): Windscreen 6 x 4 x 2 Canopy – die beiden großen gewölbten Cockpitscheiben für den Doppel-Bug.
+- 4228 (2×): Slope, Inverted 33° 5 x 6 x 2 – die großen umgekehrten Bug- bzw. Bodenschrägen unter den Cockpits.
+- 3035 (1×): Plate 4 x 8 in Trans-Dark Blue – das transparente Panoramadach des abkoppelbaren Labors.
+- 3066 (8×): Brick 1 x 4 without Bottom Tubes – die glatten, durchsichtigen Fenstersteine an den Seiten des Labors.
+
+* Kompakter Classic-Space-Droid (Brick-Built Astrobot)
+
+Während sp061 und sp062 neuere Minifiguren-Astrobots aus dem Jahr 2002 sind, bestand der klassische gebaute Roboter der 1980er-Sets (wie bei 6807 oder 6809) aus einfachen Standardteilen:
+- Kopf / Monitor: 1× 3040p33 (Slope 45° 2 x 1 with Computer Screen Pattern) in Light Gray (alternativ modern in Light Bluish Gray oder mit gelbem Auge wie beim offiziellen sp155 Classic Space Droid).
+- Körper & Hals: 1× 3004 (Brick 1 x 2) und 1× 4070 (Brick, Modified 1 x 1 with Headlight) in Light Gray oder White.
+- Arme & Greifer: 2× 4085 (Plate, Modified 1 x 1 with Vertical Clip) als Schultern sowie 2× 3957 (Antenna 1 x 4) oder 4274 (Technic Pin 1/2) als bewegliche Roboterarme.
+- Fahrwerk / Basis: 1× 3023 (Plate 1 x 2) kombiniert mit 2× 3062b (Brick, Round 1 x 1 Open Stud) als Standfüße oder 2× 122c01 (Plate, Modified 2 x 2 with Red Wheels) als rollendes Kettenfahrwerk.
