@@ -2,6 +2,14 @@
 #+date:       [2026-11-08 So 13:47]
 #+filetags:   :schule:
 #+identifier: 20261108T134758
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/Documents/exports/1c Mattsee.html
 
 * Der "Inspektions-sichere" Standard-Ablauf (5 Minuten Vorbereitung)
 :PROPERTIES:
