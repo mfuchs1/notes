@@ -54,37 +54,39 @@ Ist wohl selbsterklärend, oder?
 (defun elfeed-play-with-mpv ()
   "Play entry link with mpv."
   (interactive)
-  (let ((entry (if (eq major-mode 'elfeed-show-mode) elfeed-show-entry (elfeed-search-selected :single)))
-        (quality-arg "")
-        (quality-val (completing-read "Max height resolution (0 for unlimited): " '("0" "480" "720") nil nil)))
-    (setq quality-val (string-to-number quality-val))
-    (message "Opening %s with height≤%s with mpv..." (elfeed-entry-link entry) quality-val)
-    (when (< 0 quality-val)
-      (setq quality-arg (format "--ytdl-format=[height<=?%s]" quality-val)))
-    (start-process "elfeed-mpv" nil "mpv" quality-arg (elfeed-entry-link entry))))
+  (let* ((entry (if (eq major-mode 'elfeed-show-mode)
+                    elfeed-show-entry
+                  (elfeed-search-selected :single)))
+         (url (elfeed-entry-link entry))
+         (quality-val (string-to-number
+                       (completing-read "Max height resolution (0 for unlimited): "
+                                        '("0" "480" "720" "1080") nil nil)))
+         (args (list url)))
+    (when (> quality-val 0)
+      (push (format "--ytdl-format=bestvideo[height<=?%s]+bestaudio/best" quality-val) args))
+    (message "Opening %s (height<=%s) with mpv..." url quality-val)
+    (apply #'start-process "elfeed-mpv" nil "mpv" args)))
 
 (defvar elfeed-mpv-patterns
   '("youtu\\.?be")
-  "List of regexp to match against elfeed entry link to know
-whether to use mpv to visit the link.")
+  "List of regexp to match against elfeed entry link.")
 
 (defun elfeed-visit-or-play-with-mpv ()
-  "Play in mpv if entry link matches `elfeed-mpv-patterns', visit otherwise.
-See `elfeed-play-with-mpv'."
+  "Play in mpv if entry link matches `elfeed-mpv-patterns', visit otherwise."
   (interactive)
-  (let ((entry (if (eq major-mode 'elfeed-show-mode) elfeed-show-entry (elfeed-search-selected :single)))
-        (patterns elfeed-mpv-patterns))
-    (while (and patterns (not (string-match (car elfeed-mpv-patterns) (elfeed-entry-link entry))))
-      (setq patterns (cdr patterns)))
-    (if patterns
+  (let* ((entry (if (eq major-mode 'elfeed-show-mode)
+                    elfeed-show-entry
+                  (elfeed-search-selected :single)))
+         (url (elfeed-entry-link entry)))
+    (if (seq-some (lambda (pattern) (string-match-p pattern url)) elfeed-mpv-patterns)
         (elfeed-play-with-mpv)
       (if (eq major-mode 'elfeed-search-mode)
           (elfeed-search-browse-url)
         (elfeed-show-visit)))))
 
 (with-eval-after-load 'elfeed
-  (define-key elfeed-search-mode-map (kbd "V") #'elfeed-play-with-mpv)
-  (define-key elfeed-show-mode-map (kbd "V") #'elfeed-play-with-mpv))
+  (define-key elfeed-search-mode-map (kbd "V") #'elfeed-visit-or-play-with-mpv)
+  (define-key elfeed-show-mode-map (kbd "V") #'elfeed-visit-or-play-with-mpv))
 #+end_src
 
 * =elfeed.el= display comments / post from reddit

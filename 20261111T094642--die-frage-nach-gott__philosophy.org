@@ -43,14 +43,16 @@ Die philosophische Auseinandersetzung mit diesen Eigenschaften ist keine reine G
 - Relativierung weltlicher Macht :: Wenn nur das Absolute vollkommen ist, verlieren irdische Autoritäten, Besitz oder Ideologien ihren Anspruch auf absolute Gültigkeit. Kein Mensch und kein System kann sich selbst zum Gott erheben.
 
 
-* Die direkte Verbindung: Thomas von Aquins Aristoteles-Kommentar
+* Literatur
+
+** Die direkte Verbindung: Thomas von Aquins Aristoteles-Kommentar
 
 Marie-Dominique Philippe hat seine Schüler immer wieder direkt zu den Kommentaren des Thomas von Aquin zu Aristoteles geführt, weil Thomas den „Philosophen“ (wie er Aristoteles nannte) nicht verbiegt, sondern aus sich selbst heraus erklärt.
 
-- Thomas von Aquin: Kommentar zur Metaphysik des Aristoteles (Übersetzt und kommentiert, z. B. in Auszügen im Meiner Verlag oder der Thomas-Ausgabe). Besonders die Auslegung zum 12. Buch (Lambda) zeigt genau jene philosophische Gotteslehre, die auch P. Philippe vertrat: Gott als die erste Ursache, die alles durch Anziehung (Finalursache) bewegt.
+- [[https://www.herder.de/theologie-pastoral/shop/p2/61944-kommentar-zur-metaphysik-des-aristoteles-gebundene-ausgabe/][Thomas von Aquin: Kommentar zur Metaphysik des Aristoteles]] (Übersetzt und kommentiert, z. B. in Auszügen im Meiner Verlag oder der Thomas-Ausgabe). Besonders die Auslegung zum 12. Buch (Lambda) zeigt genau jene philosophische Gotteslehre, die auch P. Philippe vertrat: Gott als die erste Ursache, die alles durch Anziehung (Finalursache) bewegt.
 
 
-** Warum diese Ausgabe ideal für dein Vorhaben ist
+*** Warum diese Ausgabe ideal für dein Vorhaben ist
 
 - Hochkarätige Übersetzung (Ruedi Imbach): Ruedi Imbach lehrte lange in Fribourg und an der Sorbonne in Paris. Er kennt die frankophone und die deutschsprachige Aristoteles-Tradition bestens und übersetzt die Begriffe (Form, Ziel, Substanz, Akt) sehr präzise.
 
@@ -60,7 +62,7 @@ Marie-Dominique Philippe hat seine Schüler immer wieder direkt zu den Kommentar
 
 - Reine Philosophie: Wie schon im Klappentext vermerkt, zeigt dieser Kommentar, wie ernst Thomas von Aquin die reine Philosophie unabhängig von der Offenbarungstheologie nimmt – genau jener Punkt, der auch im Zentrum von P. Marie-Dominique Philippes Denken stand.
 
-** Zwei praktische Hinweise zum ZVAB-Angebot
+*** Zwei praktische Hinweise zum ZVAB-Angebot
 
 - Versandort & Preis: Das konkret verlinkte Exemplar von Chiron Media wird aus dem Vereinigten Königreich (UK) verschickt und ist mit ca. 64 € plus Versand fast zum Neupreis (65 € regulär im Verlag Herder) gelistet. Da das Buch im regulären deutschsprachigen Buchhandel noch lieferbar ist, kannst du es oft versandkostenfrei und ohne eventuelle Zollverzögerungen direkt über jede Buchhandlung in Österreich oder Deutschland bestellen.
 
@@ -70,7 +72,7 @@ Marie-Dominique Philippe hat seine Schüler immer wieder direkt zu den Kommentar
 
 [[https://www.editiones-scholasticae.de/artikel/kommentar-zu-aristoteles-metaphysik-bd-i/]]
 
-* Deutsche Denker in exakt dieser realistischen Tradition
+** Deutsche Denker in exakt dieser realistischen Tradition
 
 Im deutschen Sprachraum gibt es Philosophen, die – genau wie P. Philippe – gegen den modernen Idealismus (Kant, Hegel) an einem philosophischen Realismus festhalten, der bei der sinnlichen Erfahrung beginnt und über Form und Ziel zu Gott aufsteigt:
 
@@ -80,7 +82,8 @@ Im deutschen Sprachraum gibt es Philosophen, die – genau wie P. Philippe – g
 
 - [[https://www.zvab.com/Homo-Abyssus-Wagnis-Seinsfrage-Ferdinand-Ulrich/15664897525/bd][Ferdinand Ulrich: Homo Abyssus. Das Wagnis der Seinsfrage (Johannes Verlag Einsiedeln)]]. Ein anspruchsvolles, aber faszinierendes Werk über das Sein, die Liebe und den Ursprung der Dinge in Gott – Themen, die auch im Zentrum von Philippes Philosophie de l'amour (Philosophie der Liebe) stehen.
 
-* Deutsche Übersetzungen von P. Marie-Dominique Philippe selbst
+** Deutsche Übersetzungen von P. Marie-Dominique Philippe selbst
+(habe die französischen Werke Zuhause, kein Bedarf)
 
 Falls du seine Gedanken direkt auf Deutsch nachlesen möchtest (einige seiner wichtigsten Werke wurden ins Deutsche übertragen, meist im Christiana-Verlag oder im Johannes Verlag):
 
