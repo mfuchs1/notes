@@ -1,0 +1,44 @@
+#+title:      test
+#+date:       [2026-11-18 Mi 00:23]
+#+filetags:   :schule:
+#+identifier: 20261118T002308
+#+COLUMNS: %22ITEM(Schüler/in) %7SEMESTER_1(1. Sem.) %7SEMESTER_2(2. Sem.) %28NOTIZ(Gesamteindruck)
+
+* Klassenübersicht (Export)
+#+BEGIN: columnview :hlines 1 :id global :maxlevel 2 :skip-empty-rows t
+| <22>            |     <7> |     <7> | <28>                                    |
+| Schüler/in      | 1. Sem. | 2. Sem. | Gesamteindruck                          |
+|-----------------+---------+---------+-----------------------------------------|
+| Mustermann Max  |       1 |     1-2 | Sehr reflektierte Beiträge, verlässlich |
+| Musterfrau Anna |       2 |         | Ordentliches Heft, eher ruhig im Plenum |
+| Markus Müller   |       2 |       1 | schönes Heft                            |
+#+END:
+
+* Schülerliste
+** Mustermann Max
+:PROPERTIES:
+:SEMESTER_1: 1
+:SEMESTER_2: 1-2
+:NOTIZ: Sehr reflektierte Beiträge, verlässlich
+:END:
+
+*** [2026-11-18 Mi] Diskussion: Bergpredigt :mitarbeit:plusplus:
+Hat eigene Gedanken sehr reflektiert eingebracht.
+
+** Musterfrau Anna
+:PROPERTIES:
+:SEMESTER_1: 2
+:SEMESTER_2: 
+:NOTIZ: Ordentliches Heft, eher ruhig im Plenum
+:END:
+
+** Markus Müller
+:PROPERTIES:
+:SEMESTER_1: 2
+:SEMESTER_2: 1
+:NOTIZ:    schönes Heft
+:END:
+
+*** [2026-11-18 Mi] Bergpredigt                          :verhalten:plusplus:
+sehr freundlich
+

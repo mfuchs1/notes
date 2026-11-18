@@ -1,0 +1,75 @@
+#+title:      Columnview und org-column
+#+date:       [2026-11-18 Mi 00:39]
+#+filetags:   :emacs:
+#+identifier: 20261118T003944
+
+Mit org-columns und columnview trennst du das schnelle Ausfüllen deiner Schülerdaten von der fertigen Export-Tabelle. Beides greift direkt auf die versteckten :PROPERTIES: unter deinen Schülern zu, ohne dass du sie jemals von Hand eintippen musst.
+
+* =org-columns= Die interaktive Bearbeitungs-Ansicht
+
+Stell dir =org-columns= wie eine temporäre Tabellen-Maske vor, die sich direkt über deine Schülernamen legt.
+
+- Aktivieren :: Setze deinen Cursor auf =* Schülerliste= und drücke ~C-c C-x C-c~ (~org-columns~).
+
+- Navigieren und Ausfüllen :: Deine Schüler erscheinen nun als Zeilen mit den Spalten Schüler/in, 1. Sem., 2. Sem. und Gesamteindruck darüber. Bewege den Cursor auf einen Schüler unter 1. Sem. und drücke ~e~ (für edit).
+
+- Automatischer Hintergrund-Speicher :: Tippe z. B. 1 ein und drücke ~Enter~. Org-Mode legt den kompletten :PROPERTIES:-Block unter diesem Schüler im Hintergrund ganz von selbst an und speichert den Wert.
+
+- Ansicht schließen :: Mit ~q~ blendest du die Spalten-Maske wieder aus und siehst deine gewohnte Org-Struktur.
+
+* =columnview= Die fertige Tabelle für Druck und Export
+
+Während =org-columns= nur eine vorübergehende Ansicht zum schnellen Tippen ist, schreibt =columnview= eine echte Org-Tabelle in dein Dokument, die beim Exportieren (z. B. als PDF oder HTML) mitgedruckt wird.
+
+- Aktualisieren :: Immer wenn du über =org-columns= Noten ergänzt oder geändert hast, gehst du oben auf die Zeile #+BEGIN: columnview ... und drückst ~C-c C-c~.
+
+- Sofortiger Abgleich :: Org-Mode liest alle Werte neu ein und baut die Tabelle darunter automatisch aktuell auf.
+
+- Gezielter Export :: Setze den Cursor auf =* Klassenübersicht= (Export) und drücke ~C-c C-e C-s~ (Subtree-Export), um nur diese saubere Übersichtstabelle ohne deine privaten Unterrichtsnotizen zu exportieren.
+
+* =columnview= für einzelnen Schüler und sonstige Filter
+
+Ja, du kannst jederzeit eine =columnview=-Tabelle für einen einzelnen Schüler erstellen, indem du diesem Schüler eine eindeutige :ID: vergibst und sie im columnview-Block angibst. Dadurch werden ausschließlich die Beobachtungen und Properties genau dieses einen Schülers gesammelt und exportierbar gemacht.
+
+** Einzel-Tabelle für genau einen Schüler (:id)
+
+Wenn du z. B. für ein Elterngespräch oder eine Konferenz eine Übersicht aller Einträge von Markus Müller brauchst, gehst du so vor:
+1. ID für den Schüler erzeugen: Setze den Cursor auf die Überschrift * Markus Müller und drücke ~M-x org-id-get-create~. Org-Mode fügt automatisch eine Zeile wie :ID: 8f3a1b2c-... in seinen :PROPERTIES:-Drawer ein (du kannst stattdessen auch von Hand ein kurzes Wort wie :ID: mueller-markus hineinschreiben).
+2. columnview-Block mit dieser ID anlegen: Füge an beliebiger Stelle in der Datei (z. B. ganz oben oder direkt unter dem Schüler) diesen Block ein und drücke ~C-c C-c~:
+
+#+begin_src org
+ #+BEGIN: columnview :hlines 1 :id "mueller-markus" :maxlevel 2
+ #+END:
+#+end_src
+
+** Filtern nach Tags oder Properties (:match)
+
+Du kannst in jedem columnview-Block (egal ob für die ganze Klasse oder für einen einzelnen Schüler) zusätzlich den Parameter :match nutzen, um gezielt nach Tags oder Noten zu filtern:
+
+- Nur negative oder auffällige Einträge zeigen:
+
+#+begin_src org
+ #+BEGIN: columnview :hlines 1 :id global :match "minus"
+ #+END:
+#+end_src
+
+
+- Nur bestimmte Bereiche (z. B. Heftführung oder Mitarbeit) filtern:
+
+#+begin_src org
+ #+BEGIN: columnview :hlines 1 :id "mueller-markus" :match "heft|mitarbeit"
+ #+END:
+#+end_src
+
+- Nach Noten-Properties filtern (z. B. alle Schüler mit Note 4 oder 5 im 1. Semester):
+
+#+begin_src org
+ #+BEGIN: columnview :hlines 1 :id global :match "SEMESTER_1>=\"4\""
+ #+END:
+#+end_src
+
+- Schnelles Live-Filtern ohne Tabelle (C-c /): Wenn du während des Unterrichts oder eines Gesprächs gar keine dauerhafte Tabelle brauchst, sondern in Sekunden in der Datei filtern willst, nutzt du den eingebauten Sparse Tree von Org-Mode:
+
+- ~C-c / m~ (org-match-sparse-tree): Klappt die gesamte Klassendatei zusammen und zeigt dir nur noch die Überschriften und Einträge, die auf deine Eingabe passen (z. B. plusplus, minus oder heft).
+
+- ~C-c C-c~: Hebt die Filterung danach sofort wieder auf und zeigt wieder die normale Ansicht.
