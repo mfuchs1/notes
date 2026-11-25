@@ -4,26 +4,58 @@
 #+identifier: 20250913T110554
 #+SETUPFILE: ~/Documents/config/latex_setup.org
 #+export_file_name: ~/Documents/exports/2c Mattsee.html
-#+COLUMNS: %ITEM(Schüler/in) %SEMESTER_1(1. Sem.) %SEMESTER_2(2. Sem.) %NOTIZ(Gesamteindruck)
-
-* Klassenübersicht (Export)
-#+BEGIN: columnview :hlines 1 :id global :maxlevel 2 :skip-empty-rows t
-| Schüler/in         | 1. Sem. | 2. Sem. | Gesamteindruck |
-|--------------------+---------+---------+----------------|
-| Dürager Magdalena  |       1 |       2 | schönes Heft   |
-| Fuchs Samuel       |       1 |       2 | super          |
-| Furthner Anna-Lena |       1 |       2 | Super          |
-#+END:
 
 
 * Jahresplanung
 
 [[denote:20251204T181336][Religion für uns 03]]
 
+[[denote:20261108T134758::#h:dd19b2d4-e58e-4dbd-a5f0-670f4cf8087b][Vorbereitung Unterricht::Der "Fokus-Gegenstand" (Visuelle Konzentration)]]
+
+[[denote:20261108T134758::#h:f140a24b-5230-483d-b694-075e66238070][Vorbereitung Unterricht::Der "Inspektions-sichere" Standard-Ablauf (5 Minuten Vorbereitung)]]
+
+[[denote:20261108T134758::#h:62bab2cd-3109-4353-851e-3fcf2b1e9db1][Vorbereitung Unterricht::Szenario B "Fact-Check im Religionsbuch"]]
+
+* Klassenübersicht (Export)
+#+BEGIN: columnview :hlines 1 :id schuelerliste :maxlevel 2 :skip-empty-rows t :match "LEVEL>1"
+| Schüler/in         | Mitarbeit | 1. Sem. | 2. Sem. | Gesamteindruck |
+|--------------------+-----------+---------+---------+----------------|
+| Dürager Magdalena  |         3 |       1 |       2 | schönes Heft   |
+| Fuchs Samuel       |           |       1 |       2 | super          |
+| Furthner Anna-Lena |           |       1 |       2 | Super          |
+#+END:
+
+
+
+* Unterrichtsprotokoll (Klassenbuch)
+:PROPERTIES:
+:COLUMNS: %DATUM(Datum) %STUNDE(Std) %ITEM(Thema) %TAGS(Typ) %HAUSAUFGABE(Hausaufgabe) %FEHLEND(Fehlend)
+:END:
+
+#+BEGIN: columnview :hlines 1 :id local :match "LEVEL>1"
+| Datum           | Std    | Thema       | Typ    | Hausaufgabe | Fehlend |
+|-----------------+--------+-------------+--------+-------------+---------|
+| [2026-11-25 Mi] | 2. Std | Bergpredigt | :orga: | -           |       1 |
+#+END:
+
+** Bergpredigt                                                        :orga:
+:PROPERTIES:
+:DATUM: [2026-11-25 Mi]
+:STUNDE: 2. Std
+:HAUSAUFGABE: -
+:FEHLEND: 1
+:END:
+Text
+
+
 * Notizen, Tasks, Termine
 
 
 * Stundenplanung
+
+[[denote:20261120T150952][Große Fragen]]
+
+[[denote:20261122T160721][Die Theodizee-Frage]]
 
 Thema Bibel / Neues Testament
 - Goldene Regel
@@ -36,6 +68,11 @@ Vorbereitung / Firmung:
 [[denote:20261106T090422][Themen Firmung]]
 
 * Schülerliste
+:PROPERTIES:
+:ID: schuelerliste
+:COLUMNS: %ITEM(Schüler/in) %PUNKTE(Mitarbeit){+} %SEMESTER_1(1. Sem.) %SEMESTER_2(2. Sem.) %NOTIZ(Gesamteindruck)
+:END:
+
 
 ** Dürager Magdalena
 :PROPERTIES:
@@ -44,7 +81,16 @@ Vorbereitung / Firmung:
 :NOTIZ:    schönes Heft
 :END:
 
+*** [2026-11-25 Mi] Bergpredigt                                   :mitarbeit:
+:PROPERTIES:
+:PUNKTE: 1
+:END:
+
+
 *** [2026-11-18 Mi] Zehn Gebote                          :mitarbeit:plusplus:
+:PROPERTIES:
+:PUNKTE: 2
+:END:
 Tolle Gedanken klar formuliert
 
 ** Fuchs Samuel

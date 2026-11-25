@@ -1,0 +1,43 @@
+#+title:      Wahrheit und Lüge
+#+date:       [2026-11-22 So 16:10]
+#+filetags:   :03:04:philosophy:
+#+identifier: 20261122T161020
+
+* Stunde 4: Wahrheit und Lüge (Kants Dilemma) – Darf man manchmal lügen?
+
+Lernziel: Die Schüler:innen erkennen Konflikte zwischen verschiedenen moralischen Werten (Ehrlichkeit vs. Schutz von Menschenleben) und lernen zwei ethische Entscheidungsmodelle kennen.
+
+Phase & Zeit	Inhalt & Ablauf	Sozialform / Material
+** Einstieg (10 Min.)	
+
+Der Fall an der Haustür: Die Lehrkraft liest das Szenario vor: Ein Freund versteckt sich bei dir vor einem gewalttätigen Angreifer. Es klingelt. Der Angreifer fragt: „Ist dein Freund hier?“ Spontane Abstimmung per Handzeichen: Wer sagt die Wahrheit? Wer lügt? Wer hat eine dritte Idee?	
+
+Plenum
+
+** Erarbeitung I (15 Min.)	
+
+Zwei Philosophen streiten: Vorstellung von zwei extremen Positionen in Gruppenarbeit:
+
+   - Position A (Immanuel Kant – Pflichtethik): Lügen ist IMMER falsch. Wenn jeder lügt, sobald es praktisch ist, funktioniert unsere Gesellschaft nicht mehr.
+
+   - Position B (Folgenethik / Gewissen): Wichtiger als eine starre Regel ist das Ergebnis: Ein Menschenleben zu retten wiegt schwerer als die Pflicht zur Wahrheit.	Gruppenarbeit, Rollenkarten (Kant vs. Folgenethiker)
+
+** Erarbeitung II (15 Min.)	
+
+Gerichtsverhandlung / Pro-Contra-Debatte: Zwei Gruppen vertreten jeweils eine Position vor der Klasse. Danach kommt die biblische Perspektive dazu: Die Geschichte der Hebammen in Ägypten (Exodus 1,15–21), die den Pharao anlügen, um neugeborene Kinder zu retten – und dafür von Gott gesegnet werden!	
+
+Plenum, Bibelstelle
+
+** Sicherung (10 Min.)	
+
+Mein ethischer Kompass: Die Schüler:innen formulieren ihre eigene Regel für Wertekonflikte im Heft („Wenn zwei gute Regeln zusammenstoßen, entscheide ich mich für…“).	
+
+Einzelarbeit, Heft
+
+* Arbeitsblätter und Handreichung
+
+[[file:~/MS_Seekirchen_Mattsee/Philosophie/Arbeitsblaetter_Philosophie_Religion_3_4_MS.pdf]]
+
+[[file:~/MS_Seekirchen_Mattsee/Philosophie/Lehrkraft_Handreichung_Philosophie_Religion_MS.pdf]]
+
+[[file:~/MS_Seekirchen_Mattsee/Philosophie/Lernzielkontrolle_Quiz_Philosophie_MS.pdf]]

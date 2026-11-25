@@ -1,0 +1,124 @@
+#+title:      Neue Schriftart
+#+date:       [2026-11-23 Mo 11:24]
+#+filetags:   :emacs:
+#+identifier: 20261123T112453
+#+OPTIONS: num:nil toc:nil id:t
+#+DESCRIPTION: This text was generated using the After Dark post archetype.
+#+HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "images/street.jpg") (alt . "Beschreibung des Bildes"))
+#+language: de
+#+options: smart-quotes:t
+#+HUGO_CATEGORIES: 
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_LOCALE: de
+#+HUGO_BASE_DIR: /home/matthias/flying-toasters/
+#+AUTHOR: Matthias Fuchs
+
+* Ausgangspunkt: Jetbrains Mono
+
+Jetbrains Mono verwende ich seit Jahren, vor allem weiterhin im Terminal und in vielen Texteditoren wie Kate oder Kile. Für das Schreiben von Code ist sie wirklich ideal und genial: sie wird sehr scharf gerendert, die Höhe der kleinen Buchstaben ist etwas höher in Relation zu den Großbuchstaben. Stehen Buchstaben untereinander, ergibt sich ein ruhiger und für die Augen müheloser Lesefluss (siehe Website der Schriftart).
+
+Aber in Emacs wurde ich dieser Schriftart überdrüssig - ich habe sie überall verwendet: für Code und Prosa. Für optimale Ladezeit gab es eine einzige Schriftgröße, keine proportionale Schriftart. Also war Zeit für Neues.
+
+* Erster Versuch: IBM Plex
+
+IBM Plex habe ich in der Mono und Sans Variante ausprobiert, aber irgend etwas fühlte sich nicht passend an. Ich musste einiges herumtricksen, um zu einem klaren und schönen Erscheinungsbild zu kommen.
+
+* Zweiter Versuch: Iosevka
+
+Das war schon besser, aber es war mir zu eng, zu klein.
+
+Daher erinnerte ich mich an Aporetic, einer Variante von Iosevka, bereitgestellt durch Prot.
+
+* Ziel: Aporetic
+
+Zusammen mit den =modus=-Themes ergibt sich das erwünschte Ergebnis. Ich habe den Zeilenabstand leicht erhöht und die Schrftgröße auf 14 gesetzt. Dadurch werden Texte luftiger und lassen sich auch auf längere Zeit gut lesen, ohne die Augen zu ermüden.
+
+* =early-init.el= und =init.el= 
+
+In der =early-init.el= definiere ich:
+
+#+begin_src emacs-lisp
+(add-to-list 'default-frame-alist '(font . "Aporetic Sans Mono-14:weight=medium:hintstyle=hintfull"))
+#+end_src
+
+Da die =Aporetic=-Font weniger scharf ist als z.B. =Jetbrains-Mono=, setze ich =hinting= hier auf "full".
+
+Die proportionale (und fixe Breite) Schriftart wird in der =init.el= gesetzt. Sie haben eine relative Größe zur =default= Schriftart in der =early-init.el=. Wenn ich die Schriftgröße ändern möchte, brauche ich nur die =early-init.el= anpassen.
+
+#+begin_src emacs-lisp
+(set-face-attribute 'bold nil :weight 'extrabold)
+
+;; Basisgröße in 5er-Schritten anpassen: 130 = 13pt, 135 = 13.5pt, 140 = 14pt
+;; In der `early-init.el': Schriftgröße 14 / 140. *1.05 = 147.
+;; Die `variable-pitch' ist leicht größer, da sie sonst im Verhältnis
+;; zur `fixed-pitch' kleiner wirken würde.
+;; Auskommentiert, da diese Werte bereits in der `early-init.el' gesetzt werden.
+;; (set-face-attribute 'default nil
+;;                     :family "Aporetic Sans Mono"
+;;                     :height 135
+;;                     :weight 'medium)
+
+(let* ((base-height (face-attribute 'default :height))
+       (prose-height (round (* base-height 1.05))))
+  (set-face-attribute 'fixed-pitch nil
+                      :family "Aporetic Sans Mono"
+                      :height base-height
+                      :weight 'medium)
+  (set-face-attribute 'variable-pitch nil
+                      :family "Aporetic Serif"
+                      :height prose-height
+                      :weight 'medium))
+
+;; 2. Proportionalschrift automatisch im Org-Mode einschalten
+(add-hook 'org-mode-hook #'variable-pitch-mode)
+#+end_src
+
+Aufgrund mancher Settings zur optimierten Ladezeit (?) von =org-mode= muss ich folgende Einstellungen vornehmen:
+
+#+begin_src emacs-lisp
+;; Sichere Zuweisung: greift nur, wenn org bereits geladen ist, und beim Öffnen von org-mode
+(defun my/org-mono-header-faces ()
+  ;; Titeltext: Nur Schriftfamilie setzen, damit die Größe aus modus-themes-headings erhalten bleibt!
+  (when (facep 'org-document-title)
+    (set-face-attribute 'org-document-title nil :family "Aporetic Sans Mono"))
+
+  ;; Alle übrigen Header-Zeilen, Properties & Tabellen: Exakt 13pt (1.0) in Aporetic Sans Mono
+  (dolist (face '(org-document-info
+                  org-document-info-keyword
+                  org-meta-line
+		    org-block
+                  org-block-begin-line
+                  org-block-end-line
+		    org-code              ; <-- Optional: für ~inline-code~
+                  org-verbatim
+                  org-drawer
+                  org-special-keyword
+                  org-date
+                  org-time-grid
+                  org-agenda-current-time
+                  org-scheduled
+                  org-scheduled-today
+                  org-scheduled-previously
+                  org-upcoming-deadline
+                  org-agenda-done
+                  org-property-value
+                  org-table
+                  org-formula))
+    (when (facep face)
+      (set-face-attribute face nil :family "Aporetic Sans Mono" :height 1.0 :inherit 'fixed-pitch))))
+
+(with-eval-after-load 'org
+  (my/org-mono-header-faces))
+
+(add-hook 'modus-themes-post-load-hook #'my/org-mono-header-faces)
+
+;; Hält die führenden Sterne (*, **, ***) exakt so breit wie die org-indent Einrückung
+(with-eval-after-load 'org
+  ;; Stellt sicher, dass führende Sterne bei **, *** wieder versteckt werden
+  (setq org-hide-leading-stars t)
+
+  ;; Sorgt dafür, dass versteckte Sterne und org-indent exakt Monospace-Breite haben
+  (set-face-attribute 'org-hide nil :inherit 'fixed-pitch))
+#+end_src
+
+Die letzten Zeilen garantieren (fast) perfektes =org-indent=, also dass der Text immer unter der Headline steht. 

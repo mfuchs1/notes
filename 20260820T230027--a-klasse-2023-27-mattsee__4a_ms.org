@@ -3,18 +3,27 @@
 #+filetags:   :4a:ms:
 #+identifier: 20260820T230027
 #+SETUPFILE: ~/Documents/config/latex_setup.org
-#+export_file_name: ~/Documents/exports/1c Mattsee.html
-#+COLUMNS: %ITEM(Schüler/in) %SEMESTER_1(1. Sem.) %SEMESTER_2(2. Sem.) %NOTIZ(Gesamteindruck)
+#+export_file_name: ~/Documents/exports/4a Mattsee.html
 
-* Klassenübersicht (Export)
-#+BEGIN: columnview :hlines 1 :id global :maxlevel 2 :skip-empty-rows t
-| Schüler/in | 1. Sem. | 2. Sem. | Gesamteindruck |
-|------------+---------+---------+----------------|
-#+END:
 
 * Jahresplanung
 
 [[denote:20250913T113501][Religion für uns 04]]
+
+* Klassenübersicht (Export)
+#+BEGIN: columnview :hlines 1 :id schuelerliste :maxlevel 2 :skip-empty-rows t :match "LEVEL>1"
+#+END:
+
+
+
+* Unterrichtsprotokoll (Klassenbuch)
+:PROPERTIES:
+:COLUMNS: %DATUM(Datum) %STUNDE(Std) %ITEM(Thema) %TAGS(Typ) %HAUSAUFGABE(Hausaufgabe) %FEHLEND(Fehlend)
+:END:
+
+#+BEGIN: columnview :hlines 1 :id local :match "LEVEL>1"
+#+END:
+
 
 * Notizen, Tasks, Termine
 Mit einem Text.
@@ -32,6 +41,10 @@ Thema Bibel / Neues Testament:
 - Briefe des Apostel Paulus
 
 * Schülerliste
+:PROPERTIES:
+:ID: schuelerliste
+:COLUMNS: %ITEM(Schüler/in) %PUNKTE(Mitarbeit){+} %SEMESTER_1(1. Sem.) %SEMESTER_2(2. Sem.) %NOTIZ(Gesamteindruck)
+:END:
 
 ** Altendorfer Hannes
 

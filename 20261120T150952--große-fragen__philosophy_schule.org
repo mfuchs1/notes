@@ -1,0 +1,114 @@
+#+title:      Große Fragen
+#+date:       [2026-11-20 Fr 15:09]
+#+filetags:   :philosophy:schule:
+#+identifier: 20261120T150952
+
+Hier ist eine Sammlung von philosophisch-theologischen "Knacknuss-Fragen" und Gedankenexperimenten, die ganz ohne Schulbuch-Floskeln auskommen und besonders bei 10- bis 14-Jährigen an einer Mittelschule erfahrungsgemäß sofort den Denk-Motor anwerfen:
+
+* Für die 1. & 2. Klasse MS (10–12 Jahre): Staunen, Grenzen & Gerechtigkeit
+
+In diesem Alter lieben Kinder gedankliche Paradoxa und Fragen nach Fairness und dem Ursprung der Dinge.
+
+** Das Allmachts-Paradoxon
+
+"Wenn Gott allmächtig ist – kann er dann einen Stein erschaffen, der so schwer ist, dass er ihn selbst nicht hochheben kann?"
+
+- Warum das zündet :: Kinder merken sofort die logische Falle. Egal ob man mit "Ja" oder "Nein" antwortet, scheint die Allmacht begrenzt. Daraus entsteht ein großartiges Gespräch darüber, was "Allmacht" eigentlich bedeutet (und dass Gottes Macht im Christentum oft ganz anders gedacht wird, nämlich als Liebe statt als Muskelkraft).
+
+- Stundenentwurf :: [[denote:20261122T155835][Das Allmachts-Paradoxon]]
+
+** Der „Schleier des Nichtwissens“ (Gedankenexperiment zur Gerechtigkeit)
+
+"Stellt euch vor, ihr seid noch nicht geboren und könnt die Regeln für die Welt festlegen – aber ihr wisst nicht, ob ihr als reiches Kind in Österreich, als armes Kind in einem Kriegsgebiet, mit einer Behinderung oder hochbegabt auf die Welt kommt. Welche drei Regeln würdet ihr festlegen?"
+
+- Warum das zündet :: Es nimmt das abstrakte Thema "Gerechtigkeit / Nächstenliebe" weg vom moralischen Zeigefinger und macht es zu einem spannenden Strategie-Spiel, bei dem plötzlich jeder für die Schwächsten mitdenkt.
+
+- Stundenentwurf :: [[denote:20261122T160016][Der Schleier des Nichtwissens]]
+
+** Zeit und Ewigkeit
+
+"Was hat Gott eigentlich gemacht, bevor er die Welt erschaffen hat – und wo hört das Weltall auf?"
+
+- Warum das zündet :: Kinder spüren hier die Grenzen unseres menschlichen Gehirns und kommen oft selbst auf den Gedanken, dass Gott vielleicht "außerhalb" von Zeit und Raum steht.
+
+- Stundenentwurd :: [[denote:20261122T160127][Zeit und Ewigkeit]] 
+
+* Für die 3. & 4. Klasse MS (12–14 Jahre): Freiheit, Schuld, Tod & Wahrheit
+
+In der Pubertät wird das Denken kritischer, radikaler und existenzieller. Hier dürfen die Fragen ruhig richtig wehtun.
+
+** Die Theodizee-Frage (Das Leid in der Welt): 
+
+"Wenn Gott gut und allmächtig ist – warum lässt er dann zu, dass unschuldige Kinder schwer krank werden oder Kriege passieren? Ist er entweder nicht gut oder nicht allmächtig?"
+
+- Warum das zündet :: Das ist die ehrlichste Frage überhaupt, die viele Jugendliche heimlich vom Glauben abhält. Wenn sie merken, dass sie diese Anklage im Religionsunterricht laut aussprechen dürfen (genau wie Hiob oder Jesus am Kreuz), entsteht echter Respekt vor dem Fach.
+
+- Stundenentwurf :: [[denote:20261122T160721][Die Theodizee-Frage]] 
+
+** Freier Wille vs. Vorherwissen
+
+"Wenn Gott schon vorher weiß, wie ich mich morgen entscheide – habe ich dann überhaupt einen freien Willen, oder bin ich nur eine Figur in einem fertigen Film?"
+
+- Warum das zündet :: Gerade Jugendliche, die sich gegen Regeln und Fremdbestimmung wehren, brennen für die Frage nach echter Freiheit und Verantwortung.
+
+- Stundenentwurf :: [[denote:20261122T160825][Freier Wille vs Vorherwissen]] 
+
+** Das Schiff des Theseus (Wer bin ich wirklich?) 
+
+"Wenn an einem alten Holzschiff nach und nach jede einzelne Planke ausgetauscht wird, bis kein altes Stück mehr übrig ist – ist es dann noch dasselbe Schiff? Und was ist mit dir: Deine Zellen erneuern sich, deine Gedanken ändern sich – was bleibt von dir, wenn du stirbst?"
+
+- Warum das zündet :: Ein brillanter Einstieg in die Themen Seele, Identität und Auferstehung, ohne dass sofort religiöse Standardfloskeln abgespult werden.
+
+- Stundenentwurf :: [[denote:20261122T160925][Das Schiff des Theseus]] 
+
+** Wahrheit und Lüge (Kants Dilemma)
+
+"Ein Freund versteckt sich bei dir zu Hause vor jemandem, der ihm Gewalt antun will. Der Angreifer klingelt an deiner Tür und fragt: ‚Ist dein Freund hier?‘ Darfst du lügen – oder ist Lügen immer falsch?"
+
+- Warum das zündet :: Ideal für Ethik- und Gewissensfragen. Jugendliche erleben hier hautnah, dass Werte manchmal miteinander kollidieren und man abwägen muss.
+
+- Stundenentwurf :: [[denote:20261122T161020][Wahrheit und Lüge]] 
+
+* Kleiner Praxis-Tipp für den Einstieg
+
+Schreib eine dieser Fragen einfach kommentarlos groß an die Tafel, bevor die Stunde beginnt, und sag nur: "Ich habe darauf selbst keine fertige Antwort – was denkt ihr?" Oft reicht das schon, um die gewohnte "Ich-sag-nichts"-Haltung im Klassenzimmer komplett aufzubrechen.
+
+
+* Themenbereich: Fragen (Sinn, Leid, Tod, Zukunft)
+
+- Die Knacknuss :: "Wenn ein Mensch stirbt, wird sein Körper wieder zu Erde. Wo ist dann das 'Ich', das gelacht, geliebt und gedacht hat? Kann etwas aus dem Nichts kommen oder ins Nichts verschwinden?"
+
+- Warum das im Unterricht funktioniert :: Statt abstrakter Texte über "Hoffnung" diskutieren 12- bis 14-Jährige hier hochkonzentriert über Seele, Gehirn, Auferstehung und Materialismus.
+
+* Themenbereich: Glaube (Gott, Jesus, Bibel, Gebet)
+
+- Die Knacknuss: "Warum versteckt sich Gott? Wenn er sich einfach einmal für alle sichtbar am Himmel zeigen würde, müsste niemand mehr zweifeln – warum tut er das nicht?"
+
+- Warum das im Unterricht funktioniert :: Das trifft den Kern von Glaube vs. Wissen und Freiheit. Die Jugendlichen entdecken oft selbst: Wenn Gott beweisbar wäre wie eine Mathe-Formel, hätten wir keine Freiheit mehr, uns für oder gegen ihn zu entscheiden.
+
+* Themenbereich: Gemeinschaft (Freundschaft, Konflikte, Schuld, Vergebung)
+
+- Die Knacknuss :: "Muss man alles verzeihen können – auch wenn jemand überhaupt nicht bereut, was er getan hat? Oder macht Verzeihen ohne Reue den Täter nur noch stärker?"
+
+- Warum das im Unterricht funktioniert :: Gerade für Kinder aus schwierigen Verhältnissen oder mit Mobbing-Erfahrung ist das enorm relevant. Es holt das christliche Thema Vergebung weg vom billigen "Habt euch alle lieb" hin zu einer echten, harten Lebensfrage.
+
+* Themenbereich: Welt (Schöpfung, Verantwortung, Gerechtigkeit)
+
+- Die Knacknuss :: "Hat ein Baum, ein Tier oder ein Fluss ein eigenes Recht auf Leben – oder ist die Welt nur dazu da, dass wir Menschen sie benutzen?"
+
+- Warum das im Unterricht funktioniert :: Ein perfekter Einstieg in den biblischen Schöpfungsauftrag ("Bebauen und Bewahren" vs. "Macht euch die Erde untertan"), ohne sofort in die übliche, für Jugendliche oft schon abgenutzte Klima-Moral zu verfallen.
+
+* Themenbereich: Kirche (Tradition, Gemeinschaft der Glaubenden, Kritik)
+
+ -Die Knacknuss :: "Braucht man zum Glauben überhaupt eine Kirche – oder kann man nicht genauso gut allein im Wald beten?"
+
+- Warum das im Unterricht funktioniert :: Diese Frage denken sich 90 % der Mittelschüler ohnehin. Wenn du sie selbst an die Tafel schreibst, nimmst du ihnen den Wind aus den Segeln und kannst ehrlich über Gemeinschaft, Sakramente, aber auch über Fehler und Skandale sprechen.
+
+* Themenbereich: Vielfalt (Weltreligionen, Toleranz, Wahrheit)
+
+- Die Knacknuss :: "Alle Religionen sagen, dass sie die Wahrheit kennen – aber sie widersprechen sich (z. B. ob Jesus Gottes Sohn ist oder nicht). Können alle gleichzeitig recht haben, oder irren sich alle bis auf eine?"
+
+- Warum das im Unterricht funktioniert :: Damit brichst du das oberflächliche "Ist eh alles dasselbe" auf und bringst echte Achtung vor den Unterschieden zwischen Judentum, Christentum und Islam ins Klassenzimmer.
+
+
+

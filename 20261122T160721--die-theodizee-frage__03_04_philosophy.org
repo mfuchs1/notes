@@ -1,0 +1,46 @@
+#+title:      Die Theodizee-Frage
+#+date:       [2026-11-22 So 16:07]
+#+filetags:   :03:04:philosophy:
+#+identifier: 20261122T160721
+
+* Stunde 1: Die Theodizee-Frage – Wenn Gott gut ist, warum gibt es Leid?
+
+Lernziel: Die Schüler:innen formulieren ihre eigenen Zweifel am Leid in der Welt offen, erkennen das biblische Recht zur Klage (Hiob, Jesus) und setzen sich mit verschiedenen Antwortversuchen auseinander.
+
+Phase & Zeit	Inhalt & Ablauf	Sozialform / Material
+** Einstieg (10 Min.)	
+
+Das Epikur-Trilemma: An der Tafel stehen drei Sätze: 1. Gott ist allmächtig. 2. Gott ist allgütig. 3. Es gibt schlimmes Leid in der Welt. Impulsfrage: „Warum passen diese drei Sätze nicht zusammen?“ Die Jugendlichen sammeln spontan ihre Wut- und Zweifelsfragen (z. B. Kriege, Krankheiten).	
+
+Plenum, Tafel / Beamer
+
+** Erarbeitung I (15 Min.)	
+
+Klage-Mauer im Klassenzimmer: Jede:r schreibt auf einen Zettel eine Sache, die in der Welt zutiefst ungerecht ist, und klebt sie an die Tafel. Danach teilt die Lehrkraft zwei kurze Texte aus: Hiob 3 (Hiobs wütende Anklage gegen Gott) und Markus 15,34 („Mein Gott, warum hast du mich verlassen?“). Erkenntnis: Zweifel und Wut sind im Glauben erlaubt!	
+
+Einzelarbeit, Haftnotizen, Bibeltexte
+
+** Erarbeitung II (15 Min.)	
+
+4-Ecken-Diskussion (Antwortversuche): In den vier Raumecken hängen typische Antworten auf die Leid-Frage: 
+
+   1. Freier Wille (Menschen machen Leid selbst) 
+   2. Begrenzte Sicht (Wir sehen nicht das Ganze) 
+   3. Mitleidender Gott (Gott weint mit uns am Kreuz) 
+   4. Keine Antwort (Es bleibt ein offenes Rätsel) 
+
+Die Schüler:innen gehen zu der Ecke, die sie am ehesten überzeugt (oder am meisten nervt), und diskutieren.	Bewegung im Raum, 4 Plakate
+
+** Sicherung (10 Min.)	
+
+Persönliches Statement: Im Heft notieren die Schüler:innen das Trilemma und schreiben 3–4 Sätze darüber, welche Antwort für sie persönlich am ehesten Sinn ergibt oder welche Frage für sie offen bleibt.	
+
+Einzelarbeit, Heft
+
+* Arbeitsblätter und Handreichung
+
+[[file:~/MS_Seekirchen_Mattsee/Philosophie/Arbeitsblaetter_Philosophie_Religion_3_4_MS.pdf]]
+
+[[file:~/MS_Seekirchen_Mattsee/Philosophie/Lehrkraft_Handreichung_Philosophie_Religion_MS.pdf]]
+
+[[file:~/MS_Seekirchen_Mattsee/Philosophie/Lernzielkontrolle_Quiz_Philosophie_MS.pdf]]

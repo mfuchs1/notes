@@ -1,0 +1,59 @@
+#+title:      Mathematik Schularbeit
+#+date:       [2026-11-25 Mi 09:40]
+#+filetags:   :schule:
+#+identifier: 20261125T094044
+#+AUTHOR: @@latex:Name: \rule{5cm}{0.4pt} \hfill Klasse: \rule{1.5cm}{0.4pt} \hfill Datum: \rule{2.5cm}{0.4pt}@@
+#+OPTIONS: toc:nil num:nil tags:nil ^:nil date:nil
+
+#+LATEX_CLASS: exam
+# #+LATEX_CLASS_OPTIONS: [a4paper,11pt,addpoints]
+#+LATEX_CLASS_OPTIONS: [a4paper,11pt,addpoints,answers]
+
+#+LATEX_HEADER: \usepackage[ngerman]{babel}
+#+LATEX_HEADER: \pagestyle{headandfoot}
+#+LATEX_HEADER: \firstpageheader{}{}{}
+#+LATEX_HEADER: \runningheader{1. Schularbeit}{}{Seite \thepage\ von \numpages}
+#+LATEX_HEADER: \runningfooter{}{\iflastpage{Ende der Arbeit}{Bitte wenden!}}{}
+
+#+LATEX_HEADER: \chqword{Aufgabe}
+#+LATEX_HEADER: \chpword{Punkte}
+#+LATEX_HEADER: \chsword{Erreicht}
+#+LATEX_HEADER: \chtword{Gesamt}
+
+#+BEGIN_EXPORT latex
+\begin{center}
+  \gradetable[h][questions]
+\end{center}
+\vspace{0.5cm}
+
+\begin{questions}
+
+\question[4] \textbf{Grundrechenarten:} Berechne das Ergebnis von $12 \cdot (4 + 3) - 18$.
+\begin{solutionorgrid}[3cm]
+$12 \cdot 7 - 18 = 84 - 18 = \mathbf{66}$
+\end{solutionorgrid}
+
+\question \textbf{Textaufgabe: Klassenfahrt} \\
+Für eine Klassenfahrt fallen Gesamtkosten von 480 € an.
+\begin{parts}
+  \part[2] Berechne die Kosten pro Person, wenn 24 Schülerinnen und Schüler teilnehmen.
+  \begin{solutionorlines}[2cm]
+  $480\,\text{€} : 24 = \mathbf{20\,\text{€}}$ pro Person.
+  \end{solutionorlines}
+
+  \part[3] Wie viel müsste jede Person zahlen, wenn 4 Kinder krankheitsbedingt ausfallen?
+  \begin{solutionorlines}[2.5cm]
+  Bei $24 - 4 = 20$ Teilnehmenden: $480\,\text{€} : 20 = \mathbf{24\,\text{€}}$ pro Person.
+  \end{solutionorlines}
+\end{parts}
+
+\question[3] \textbf{Kurzfragen:} Welche der folgenden Städte liegt in Österreich?
+\begin{checkboxes}
+  \choice München
+  \CorrectChoice Salzburg
+  \choice Zürich
+  \choice Bozen
+\end{checkboxes}
+
+\end{questions}
+#+END_EXPORT
